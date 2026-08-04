@@ -1,3 +1,25 @@
+---
+clavier: true
+obfuscate: true
+contenuDynamique: true
+variablesDynamiques: true
+---
+
+# Test du module Bilan — Coach Civique NovaFrate
+
+👋 **Bienvenue dans le module de bilan.**
+
+Ce fichier autonome permet de tester le **premier bilan pédagogique** avant son intégration dans le chatbot complet.
+
+Le bilan adapte les 25 questions selon :
+
+- l'examen préparé ;
+- la durée de révision ;
+- la date prévue de l'examen ;
+- le scénario pédagogique obtenu.
+
+1. [🧭 Ouvrir le module Bilan](SCR_BIL_MENU)
+
 <!-- MODULE BILAN V2 — À insérer à la place de l'ancien module Bilan -->
 <!-- Généré depuis les trois banques officielles fournies par l'utilisateur -->
 
@@ -9189,3 +9211,12 @@ Le parcours complet du bilan de progression sera finalisé après validation du 
 
 1. [Faire un premier bilan](SCR_BIL_INIT_001)
 2. [Retour au bilan](SCR_BIL_MENU)
+
+## MENU_PRINCIPAL
+
+### 🏠 Menu du fichier de test
+
+Vous êtes revenu à l'accueil du module Bilan.
+
+1. [🧭 Recommencer le bilan](SCR_BIL_MENU)
+
