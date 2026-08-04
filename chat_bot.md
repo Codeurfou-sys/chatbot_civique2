@@ -7,34 +7,32 @@ variablesDynamiques: true
 
 # Coach Civique NovaFrate
 
-# 🇫🇷 Bienvenue dans le Coach Civique NovaFrate
-
-👋 Bonjour et bienvenue !
+👋 **Bonjour et bienvenue dans le Coach Civique NovaFrate !**
 
 Je suis votre **Coach Civique**, votre compagnon pédagogique pour préparer sereinement l’examen civique.
 
-Ici, vous pouvez :
+Ensemble, nous allons avancer étape par étape pour :
 
-- faire le point sur vos connaissances ;
-- réviser les notions essentielles ;
-- vous entraîner à votre rythme ;
-- préparer un examen blanc ;
-- trouver une session d’examen ;
-- obtenir des conseils adaptés à vos besoins.
+- 🧭 faire le point sur vos connaissances ;
+- 📚 réviser les notions essentielles ;
+- 📝 vous entraîner à votre rythme ;
+- 🎯 préparer un examen blanc ;
+- 🏛️ trouver une session d’examen ;
+- 🌟 découvrir des conseils pour réussir.
 
-Chaque étape vous rapproche de votre objectif. Commencez par la rubrique qui vous semble la plus utile aujourd’hui.
+Chaque activité vous rapproche de votre objectif. Choisissez simplement la rubrique qui vous semble la plus utile aujourd’hui.
 
 ### 🚀 Que souhaitez-vous faire ?
 
 1. [🧭 Faire mon bilan](SCR_BIL_MENU)
-2. [🌟 Découvrir les conseils pour réussir](SCR_CONS_MENU)
-3. [❓ Consulter la FAQ](SCR_FAQ_MENU)
-4. [📝 M’entraîner](SCR_ENT_MENU)
-5. [🏛️ Passer mon examen](SCR_PASS_MENU)
-6. [💬 Poser une question](SCR_QL_MENU)
-7. [🎯 Préparer mon examen](SCR_PREP_MENU)
-8. [📚 Commencer mes révisions](SCR_REV_MENU)
-9. [📖 Consulter le glossaire](SCR_GLO_MENU)
+2. [📚 Commencer mes révisions](SCR_REV_MENU)
+3. [📖 Consulter le glossaire](SCR_GLO_MENU)
+4. [🎯 Préparer mon examen](SCR_PREP_MENU)
+5. [📝 M’entraîner](SCR_ENT_MENU)
+6. [🏛️ Passer mon examen](SCR_PASS_MENU)
+7. [🌟 Découvrir les conseils pour réussir](SCR_CONS_MENU)
+8. [❓ Consulter la FAQ](SCR_FAQ_MENU)
+9. [💬 Poser une question](SCR_QL_MENU)
 10. [ℹ️ Obtenir de l’aide](SCR_ACC_AIDE)
 
 
@@ -47,25 +45,28 @@ Chaque étape vous rapproche de votre objectif. Commencez par la rubrique qui vo
 ### Que souhaitez-vous faire ?
 
 1. [🧭 Faire mon bilan](SCR_BIL_MENU)
-2. [🌟 Découvrir les conseils pour réussir](SCR_CONS_MENU)
-3. [❓ Consulter la FAQ](SCR_FAQ_MENU)
-4. [📝 M’entraîner](SCR_ENT_MENU)
-5. [🏛️ Passer mon examen](SCR_PASS_MENU)
-6. [💬 Poser une question](SCR_QL_MENU)
-7. [🎯 Préparer mon examen](SCR_PREP_MENU)
-8. [📚 Commencer mes révisions](SCR_REV_MENU)
-9. [📖 Consulter le glossaire](SCR_GLO_MENU)
+2. [📚 Commencer mes révisions](SCR_REV_MENU)
+3. [📖 Consulter le glossaire](SCR_GLO_MENU)
+4. [🎯 Préparer mon examen](SCR_PREP_MENU)
+5. [📝 M’entraîner](SCR_ENT_MENU)
+6. [🏛️ Passer mon examen](SCR_PASS_MENU)
+7. [🌟 Découvrir les conseils pour réussir](SCR_CONS_MENU)
+8. [❓ Consulter la FAQ](SCR_FAQ_MENU)
+9. [💬 Poser une question](SCR_QL_MENU)
 10. [ℹ️ Obtenir de l’aide](SCR_ACC_AIDE)
+
 
 ## SCR_ACC_AIDE
 
-### Comment utiliser le Coach ?
+### ℹ️ Comment utiliser le Coach ?
 
-Choisissez une rubrique selon votre besoin. Utilisez les boutons de retour pour changer d’activité. Pour une demande précise, écrivez votre question dans « Pose-moi une question ».
+Choisissez une rubrique selon votre besoin.
 
-1. [À propos du Coach](SCR_ACC_APROPOS)
-2. [Poser une question](SCR_QL_INPUT)
-3. [Retour au menu principal](MENU_PRINCIPAL)
+Utilisez les boutons de retour pour changer d’activité. Pour une demande précise, utilisez la rubrique « Poser une question ».
+
+1. [💬 Poser une question](SCR_QL_INPUT)
+2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
 
 ## SCR_ACC_RESTART
 
