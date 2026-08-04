@@ -408,7 +408,7 @@ Par ses représentants et par la voie du référendum.
 
 Complète la phrase :
 
-"La France est une République __________, __________, __________ et __________."
+"La France est une République __________, __________, __________, et __________."
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
@@ -421,7 +421,7 @@ Complète la phrase :
 
 > `@rep_t1_ch1_q3`
 
-`if @rep_t1_ch1_q3.toLowerCase().includes("indivisible") || @rep_t1_ch1_q3.toLowerCase().includes("laïque")`
+`if @rep_t1_ch1_q3.toLowerCase().includes("indivisible") || @rep_t1_ch1_q3.toLowerCase().includes("laïque") || @rep_t1_ch1_q3.toLowerCase().includes("démocratique") || @rep_t1_ch1_q3.toLowerCase().includes("sociale")`
 
 :::success ✅ Réponse validée
 Indivisible, laïque, démocratique et sociale.
@@ -458,6 +458,13 @@ Bravo ! Vous avez terminé le chapitre 1 et vérifiez vos connaissances.
 ## SCR_REV_T1_CH02_ACC
 
 ### 📘 Chapitre 2 — LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE
+
+La devise de la république permet de comprendre :
+
+- comment les valeurs fondamentales de la France ;
+- de connaître son histoire ;
+- d'en apprendre davantage sur le patrimoine français. 
+
 
 Dans ce chapitre, vous découvrirez :
 
@@ -515,7 +522,7 @@ Ils rappellent que tous les citoyens sont égaux devant la loi et qu'ils doivent
 
 La devise apparaît pendant la Révolution française.
 
-Elle devient officiellement la devise de la France sous la Deuxième République.
+Elle devient officiellement la devise de la France sous la Deuxième République en 1848.
 
 Aujourd'hui, elle est inscrite dans la Constitution française.
 
@@ -575,9 +582,9 @@ Par exemple :
 
 ##### 💡 Exemple concret
 
-Tu peux exprimer ton opinion politique.
+Vous pouvez exprimer votre opinion politique.
 
-En revanche, tu ne peux pas insulter ou menacer une autre personne au nom de la liberté d'expression.
+En revanche, vous ne pouvez pas insulter ou menacer une autre personne au nom de la liberté d'expression.
 
 
 #### 3. L'égalité
@@ -719,19 +726,19 @@ Elles garantissent :
 
 #### Erreur fréquente n°1
 
-❌ **À ne pas retenir :** Liberté = faire tout ce que l'on veut.
+❌ **Point de vigilance :** Liberté = faire tout ce que l'on veut.
 
 ✅ **Correction :** la liberté est encadrée par la loi.
 
 #### Erreur fréquente n°2
 
-❌ **À ne pas retenir :** Égalité = tout le monde reçoit exactement la même chose.
+❌ **Point de vigilance :** Égalité = tout le monde reçoit exactement la même chose.
 
 ✅ **Correction :** chacun possède les mêmes droits, mais certaines adaptations peuvent être prévues selon les situations.
 
 #### Erreur fréquente n°3
 
-❌ **À ne pas retenir :** Fraternité = seulement aider les autres.
+❌ **Point de vigilance :** Fraternité = seulement aider les autres.
 
 ✅ **Correction :** la fraternité comprend également le respect, la solidarité et l'engagement citoyen.
 
@@ -763,9 +770,7 @@ Elles garantissent :
 
 ## SCR_REV_T1_CH02_VERIF
 
-### 🧠 Vérification des connaissances
-
-Vous allez répondre à **1 question(s)**, l’une après l’autre.
+Vous allez répondre à **2 questions**, l’une après l’autre.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -777,23 +782,9 @@ Une réponse peut être validée ou signalée comme incomplète. Dans les deux c
 ## SCR_REV_T1_CH02_VERIF_Q01
 
 !Keyboard: true
-### 🧠 Question 1/1
-
-**Question 1**
+### 🧠 Question 1/2
 
 Quelle est la devise officielle de la République française ?
-
-**Question 2**
-
-Pourquoi dit-on que la liberté n'est pas absolue ?
-
-**Question 3**
-
-Que signifie l'égalité devant la loi ?
-
-**Question 4**
-
-Donne un exemple concret de fraternité dans la vie quotidienne.
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
@@ -801,28 +792,74 @@ Donne un exemple concret de fraternité dans la vie quotidienne.
 
 ## SCR_REV_T1_CH02_VERIF_Q01_RESULT
 
-!Keyboard: false
-### Votre réponse — Question 1/1
+Keyboard: false
+### Votre réponse — Question 1/2
 
 > `@rep_t1_ch2_q1`
 
-`if @rep_t1_ch2_q1.toLowerCase().includes("république")`
+`if @rep_t1_ch2_q1.toLowerCase().includes("Liberté") || @rep_t1_ch2_q1.toLowerCase().includes("égalité)|| @rep_t1_ch2_q1.toLowerCase().includes("fraternité)`
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+Liberté, égalité, fraternité
+:::
+
+1. [➡️ Question suivante](SCR_REV_T1_CH02_VERIF_Q02)
+`endif`
+
+`if !(@rep_t1_ch1_q1.toLowerCase().includes("peuple"))`
+
+:::warning 🔎 Réponse à compléter
+Votre réponse ne contient pas encore les mots-clés essentiels.
+
+**Éléments de réponse :**
+
+Liberté, égalité, fraternité.
+:::
+
+1. [➡️ Question suivante](SCR_REV_T1_CH02_VERIF_Q02)
+2. [🔁 Répondre à nouveau](SCR_REV_T1_CH02_VERIF_Q01)
+3. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
+`endif`
+
+## SCR_REV_T1_CH02_VERIF_Q02
+
+!Keyboard: true
+### 🧠 Question 1/2
+
+Que signifie l'égalité devant la loi ?
+
+Écrivez votre réponse puis cliquez sur **Envoyer**.
+
+`@rep_t1_ch2_q2 = @INPUT : SCR_REV_T1_CH02_VERIF_Q02_RESULT`
+
+## SCR_REV_T1_CH02_VERIF_Q02_RESULT
+
+!Keyboard: false
+### Votre réponse — Question 1/2
+
+> `@rep_t1_ch2_q2`
+
+`if @rep_t1_ch2_q2.toLowerCase().includes("loi") || @rep_t1_ch2_q2.toLowerCase().includes("même")|| @rep_t1_ch2_q2.toLowerCase().includes("tous")`
+
+:::success ✅ Réponse validée
+L'égalité devant la loi signifie que **la loi est la même pour tous.**
 :::
 
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH02_FIN)
 `endif`
 
-`if !(@rep_t1_ch2_q1.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch2_q2.toLowerCase().includes("loi") || @rep_t1_ch2_q2.toLowerCase().includes("même")|| @rep_t1_ch2_q2.toLowerCase().includes("tous")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
+
+**Éléments de réponse :**
+
+loi, même et tous.
 :::
 
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH02_FIN)
-2. [🔁 Répondre à nouveau](SCR_REV_T1_CH02_VERIF_Q01)
+2. [🔁 Répondre à nouveau](SCR_REV_T1_CH02_VERIF_Q02)
 3. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
 `endif`
 
@@ -830,7 +867,7 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 2 et vérifiez vos connaissances. 
 
 1. [➡️ Chapitre suivant : Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
