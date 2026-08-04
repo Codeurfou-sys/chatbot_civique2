@@ -4,9 +4,8 @@ obfuscate: true
 contenuDynamique: true
 variablesDynamiques: true
 ---
-# Coach Civique NovaFrate
 
-## MENU_PRINCIPAL
+# Coach Civique NovaFrate
 
 # 🇫🇷 Bienvenue dans le Coach Civique NovaFrate
 
@@ -23,9 +22,29 @@ Ici, vous pouvez :
 - trouver une session d’examen ;
 - obtenir des conseils adaptés à vos besoins.
 
-Chaque étape vous rapproche de votre objectif. Vous pouvez commencer par la rubrique qui vous semble la plus utile aujourd’hui.
+Chaque étape vous rapproche de votre objectif. Commencez par la rubrique qui vous semble la plus utile aujourd’hui.
 
 ### 🚀 Que souhaitez-vous faire ?
+
+1. [🧭 Faire mon bilan](SCR_BIL_MENU)
+2. [🌟 Découvrir les conseils pour réussir](SCR_CONS_MENU)
+3. [❓ Consulter la FAQ](SCR_FAQ_MENU)
+4. [📝 M’entraîner](SCR_ENT_MENU)
+5. [🏛️ Passer mon examen](SCR_PASS_MENU)
+6. [💬 Poser une question](SCR_QL_MENU)
+7. [🎯 Préparer mon examen](SCR_PREP_MENU)
+8. [📚 Commencer mes révisions](SCR_REV_MENU)
+9. [📖 Consulter le glossaire](SCR_GLO_MENU)
+10. [ℹ️ Obtenir de l’aide](SCR_ACC_AIDE)
+
+
+## MENU_PRINCIPAL
+
+### 🇫🇷 Coach Civique NovaFrate
+
+👋 Vous êtes de retour sur le menu principal.
+
+### Que souhaitez-vous faire ?
 
 1. [🧭 Faire mon bilan](SCR_BIL_MENU)
 2. [🌟 Découvrir les conseils pour réussir](SCR_CONS_MENU)
