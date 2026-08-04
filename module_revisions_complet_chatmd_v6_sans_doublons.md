@@ -253,45 +253,22 @@ L'accès aux soins et l'aide aux personnes en difficulté participent au princip
 
 #### Erreur fréquente n°1
 
-❌ **À ne pas retenir :** Le Président de la République possède la souveraineté nationale.
+❌ **Point de vigilance :** Le Président de la République possède la souveraineté nationale.
 
 ✅ **Correction :** La souveraineté appartient au peuple.
 
-
----
-
 #### Erreur fréquente n°2
 
-❌ **À ne pas retenir :** Les citoyens décident directement toutes les lois.
+❌ **Point de vigilance :** Les citoyens décident directement toutes les lois.
 
 ✅ **Correction :** Les citoyens exercent principalement leur pouvoir en élisant des représentants.
 
-
----
-
 #### Erreur fréquente n°3
 
-❌ **À ne pas retenir :** Confondre République et absence de règles.
+❌ **Point de vigilance :** Le référendum permet aux citoyens d'imposer une loi.
 
-✅ **Correction :** relisez la règle correspondante dans le cours et dans l’essentiel à retenir.
+✅ **Correction :** Un référendum est une procédure par laquelle les citoyens d'une collectivité sont appelés à se prononcer directement sur une question d'ordre politique ou institutionnel
 
-#### Erreur fréquente n°4
-
-❌ **À ne pas retenir :** Penser que la laïcité interdit les religions.
-
-✅ **Correction :** relisez la règle correspondante dans le cours et dans l’essentiel à retenir.
-
-#### Erreur fréquente n°5
-
-❌ **À ne pas retenir :** Oublier les quatre principes de l'article 1er.
-
-✅ **Correction :** relisez la règle correspondante dans le cours et dans l’essentiel à retenir.
-
-#### Erreur fréquente n°6
-
-❌ **À ne pas retenir :** Confondre démocratie directe et démocratie représentative.
-
-✅ **Correction :** relisez la règle correspondante dans le cours et dans l’essentiel à retenir.
 
 1. [📖 Voir les notions utiles](SCR_REV_T1_CH01_GLO)
 2. [⭐ Revoir l’essentiel](SCR_REV_T1_CH01_SYN)
@@ -472,7 +449,7 @@ Indivisible, laïque, démocratique et sociale.
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 1 et vérifiez vos connaissances. 
 
 1. [➡️ Chapitre suivant : La devise de la République française](SCR_REV_T1_CH02_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -4142,7 +4119,7 @@ Choisissez un chapitre à réviser.
 
 ## SCR_REV_T3_CH01_ACC
 
-### 📘 Chapitre 1 — THÉMATIQUE 3
+### 📘 Les droits fondamentaux
 
 Dans ce chapitre, vous découvrirez :
 
@@ -4161,9 +4138,11 @@ Dans ce chapitre, vous découvrirez :
 
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
-- expliquer les notions essentielles du chapitre ;
-- reconnaître les erreurs fréquentes ;
-- mobiliser ces connaissances dans une question d’examen.
+- définir ce qu'est un droit fondamental ;
+- connaître les principales libertés garanties en France ;
+- comprendre la notion de dignité humaine ;
+- expliquer la citoyenneté ;
+- connaître les grands textes qui protègent les droits.
 
 1. [📖 Commencer le cours](SCR_REV_T3_CH01_COURS)
 2. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
@@ -4175,17 +4154,7 @@ Dans ce chapitre, vous découvrirez :
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
 
-#### Ce que je dois savoir
-
-À la fin de ce chapitre, je suis capable de :
-
-- définir ce qu'est un droit fondamental ;
-- connaître les principales libertés garanties en France ;
-- comprendre la notion de dignité humaine ;
-- expliquer la citoyenneté ;
-- connaître les grands textes qui protègent les droits.
-
-#### 1. Les droits fondamentaux
+#### 1. Chapitre 1 — Les droits fondamentaux
 
 :::info 📝 Notion essentielle
 Les droits fondamentaux sont les droits et libertés reconnus à toute personne.
@@ -4299,8 +4268,13 @@ Les principaux textes sont :
 
 La liberté d'expression est protégée par ces textes.
 
+1. [⭐ Voir l’essentiel à retenir](SCR_REV_T3_CH01_SYN)
+2. [🎯 Revoir les objectifs](SCR_REV_T3_CH01_OBJ)
+3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+## SCR_REV_T3_CH01_SYN
 
-#### Les mots importants
+### ⭐ L’essentiel à retenir
 
 - droit fondamental
 - liberté
@@ -4311,16 +4285,6 @@ La liberté d'expression est protégée par ces textes.
 - Déclaration des droits de l'Homme
 - Charte de l'environnement
 
-1. [⭐ Voir l’essentiel à retenir](SCR_REV_T3_CH01_SYN)
-2. [🎯 Revoir les objectifs](SCR_REV_T3_CH01_OBJ)
-3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
-## SCR_REV_T3_CH01_SYN
-
-### ⭐ L’essentiel à retenir
-
-Retenez les définitions, les règles et les exemples présentés dans le cours.
-
 1. [⚠️ Voir les points de vigilance](SCR_REV_T3_CH01_VIG)
 2. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
@@ -4328,7 +4292,7 @@ Retenez les définitions, les règles et les exemples présentés dans le cours.
 
 ## SCR_REV_T3_CH01_VIG
 
-### 🚨 Points de vigilance pour l’examen
+### 🚨 Points de vigilance
 
 #### Erreur fréquente n°1
 
@@ -4423,7 +4387,7 @@ Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
 
 ## SCR_REV_T3_CH02_ACC
 
-### 📘 Chapitre 2 — THÉMATIQUE 3
+### 📘 Chapitre 2 — Les obligations et les devoirs
 
 Dans ce chapitre, vous découvrirez :
 
@@ -4442,9 +4406,13 @@ Dans ce chapitre, vous découvrirez :
 
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
-- expliquer les notions essentielles du chapitre ;
-- reconnaître les erreurs fréquentes ;
-- mobiliser ces connaissances dans une question d’examen.
+- comprendre que les libertés sont encadrées par la loi ;
+- connaître les principales obligations des personnes vivant en France ;
+- distinguer les différents types d'infractions ;
+- connaître le rôle de la police, de la gendarmerie et de la justice ;
+- identifier les différentes formes de violences interdites ;
+- savoir comment réagir lorsqu'on est victime ou témoin de violences ;
+- adopter un comportement respectueux de l'environnement.
 
 1. [📖 Commencer le cours](SCR_REV_T3_CH02_COURS)
 2. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
@@ -4455,18 +4423,6 @@ Dans ce chapitre, vous découvrirez :
 ### 📖 Le cours — THÉMATIQUE 3
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
-
-#### Ce que je dois savoir
-
-À la fin de ce chapitre, je suis capable de :
-
-- comprendre que les libertés sont encadrées par la loi ;
-- connaître les principales obligations des personnes vivant en France ;
-- distinguer les différents types d'infractions ;
-- connaître le rôle de la police, de la gendarmerie et de la justice ;
-- identifier les différentes formes de violences interdites ;
-- savoir comment réagir lorsqu'on est victime ou témoin de violences ;
-- adopter un comportement respectueux de l'environnement.
 
 #### 1. Les libertés ont des limites
 
@@ -4631,8 +4587,13 @@ Chaque personne peut agir :
 
 Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 
+1. [⭐ Voir l’essentiel à retenir](SCR_REV_T3_CH02_SYN)
+2. [🎯 Revoir les objectifs](SCR_REV_T3_CH02_OBJ)
+3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+## SCR_REV_T3_CH02_SYN
 
-#### Les mots importants
+### ⭐ L’essentiel à retenir
 
 - obligation
 - devoir
@@ -4648,14 +4609,6 @@ Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 - harcèlement
 - environnement
 - ordre public
-
-1. [⭐ Voir l’essentiel à retenir](SCR_REV_T3_CH02_SYN)
-2. [🎯 Revoir les objectifs](SCR_REV_T3_CH02_OBJ)
-3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
-## SCR_REV_T3_CH02_SYN
-
-### ⭐ L’essentiel à retenir
 
 Retenez les définitions, les règles et les exemples présentés dans le cours.
 
