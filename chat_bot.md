@@ -1,46 +1,42 @@
 ---
+clavier: true
 obfuscate: true
+contenuDynamique: true
 variablesDynamiques: true
 ---
-
 # Coach Civique NovaFrate
-
-1. [Commencer](START)
-
-<!-- Début du fichier source : modules/start.md -->
-
-## START
-
-<!-- Initialisation globale -->
-1. [Ouvrir le Coach](MENU_PRINCIPAL)
 
 ## MENU_PRINCIPAL
 
-### Coach Civique NovaFrate
+# 🇫🇷 Bienvenue dans le Coach Civique NovaFrate
 
-Bienvenue dans le Coach Civique NovaFrate.
+👋 Bonjour et bienvenue !
 
-Je vous accompagne pour comprendre l’examen civique, organiser vos révisions, vous entraîner, préparer un examen blanc, trouver une session et répondre à vos questions.
+Je suis votre **Coach Civique**, votre compagnon pédagogique pour préparer sereinement l’examen civique.
 
-Choisissez une rubrique ci-dessous ou utilisez « Pose-moi une question ».
+Ici, vous pouvez :
 
-1. [Bilan](SCR_BIL_MENU)
-2. [Conseils pour réussir](SCR_CONS_MENU)
-3. [FAQ](SCR_FAQ_MENU)
-4. [M’entraîner](SCR_ENT_MENU)
-5. [Passer mon examen](SCR_PASS_MENU)
-6. [Pose-moi une question](SCR_QL_MENU)
-7. [Préparer mon examen](SCR_PREP_MENU)
-8. [Révisions](SCR_REV_MENU)
-9. [Consulter le glossaire](SCR_GLO_MENU)
-10. [Aide](SCR_ACC_AIDE)
+- faire le point sur vos connaissances ;
+- réviser les notions essentielles ;
+- vous entraîner à votre rythme ;
+- préparer un examen blanc ;
+- trouver une session d’examen ;
+- obtenir des conseils adaptés à vos besoins.
 
-<!-- Fin du fichier source : modules/start.md -->
+Chaque étape vous rapproche de votre objectif. Vous pouvez commencer par la rubrique qui vous semble la plus utile aujourd’hui.
 
-<!-- Début du fichier source : modules/00_accueil_complements.md -->
+### 🚀 Que souhaitez-vous faire ?
 
-<!-- Module généré automatiquement : Accueil -->
-<!-- Date : 2026-08-03T15:02:29+00:00 -->
+1. [🧭 Faire mon bilan](SCR_BIL_MENU)
+2. [🌟 Découvrir les conseils pour réussir](SCR_CONS_MENU)
+3. [❓ Consulter la FAQ](SCR_FAQ_MENU)
+4. [📝 M’entraîner](SCR_ENT_MENU)
+5. [🏛️ Passer mon examen](SCR_PASS_MENU)
+6. [💬 Poser une question](SCR_QL_MENU)
+7. [🎯 Préparer mon examen](SCR_PREP_MENU)
+8. [📚 Commencer mes révisions](SCR_REV_MENU)
+9. [📖 Consulter le glossaire](SCR_GLO_MENU)
+10. [ℹ️ Obtenir de l’aide](SCR_ACC_AIDE)
 
 ## SCR_ACC_AIDE
 
