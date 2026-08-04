@@ -377,7 +377,7 @@ Par quels moyens le peuple exerce-t-il la souveraineté nationale ?
 
 > `@rep_t1_ch1_q2`
 
-`if @rep_t1_ch1_q2.toLowerCase().includes("représentants") || @rep_t1_ch1_q2.toLowerCase().includes("voie")`
+`if @rep_t1_ch1_q2.toLowerCase().includes("représentants") || @rep_t1_ch1_q2.toLowerCase().includes("voie") || @rep_t1_ch1_q2.toLowerCase().includes("référendum")`
 
 :::success ✅ Réponse validée
 Par ses représentants et par la voie du référendum.
@@ -386,7 +386,7 @@ Par ses représentants et par la voie du référendum.
 1. [➡️ Question suivante](SCR_REV_T1_CH01_VERIF_Q03)
 `endif`
 
-`if !(@rep_t1_ch1_q2.toLowerCase().includes("représentants") || @rep_t1_ch1_q2.toLowerCase().includes("voie"))`
+`if !(@rep_t1_ch1_q2.toLowerCase().includes("représentants") || @rep_t1_ch1_q2.toLowerCase().includes("référendum")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -430,7 +430,7 @@ Indivisible, laïque, démocratique et sociale.
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH01_FIN)
 `endif`
 
-`if !(@rep_t1_ch1_q3.toLowerCase().includes("indivisible") || @rep_t1_ch1_q3.toLowerCase().includes("laïque"))`
+`if !(@rep_t1_ch1_q3.toLowerCase().includes("indivisible, laïque, démocratique, sociale")` 
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -877,6 +877,10 @@ Bravo ! Vous avez terminé le chapitre 2 et vérifiez vos connaissances.
 
 ### 📘 Chapitre 3 — LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE
 
+Les symboles de la république française permettent :
+
+- d'en savoir plus sur l'histoire de la France ; 
+
 Dans ce chapitre, vous découvrirez :
 
 - les objectifs ;
@@ -1120,27 +1124,27 @@ Le coq est un symbole national, mais **pas un symbole officiel**.
 
 #### Erreur fréquente n°1
 
-❌ **À ne pas retenir :** Les bandes du drapeau sont horizontales.
+❌ **Point de vigilance :** Les bandes du drapeau sont horizontales.
 
-✅ **Correction :** Faux.
+✅ **Correction :** Le drapeau français possède trois bandes verticales. Ne pas confondre avec le drapeau néerlandais. 
 
 #### Erreur fréquente n°2
 
-❌ **À ne pas retenir :** La Marseillaise est la devise française.
+❌ **Point de vigilance :** La Marseillaise est la devise française.
 
-✅ **Correction :** Faux.
+✅ **Correction :** La Marseillaise est un chant patriotique de la Révolution française, adopté comme hymne national français, une première fois le 14 juillet 1795 par la Convention nationale, puis de manière définitive le 14 février 1879 sous la IIIe République.
 
 #### Erreur fréquente n°3
 
-❌ **À ne pas retenir :** Marianne est un personnage historique.
+❌ **Point de vigilance :** Marianne est un personnage historique.
 
-✅ **Correction :** Faux.
+✅ **Correction :** Marianne représente la liberté et la démocratie. Il s'agit d'un symbole. 
 
 #### Erreur fréquente n°4
 
-❌ **À ne pas retenir :** Le coq est un symbole officiel de la République.
+❌ **Point de vigilance :** Le coq est un symbole officiel de la République.
 
-✅ **Correction :** Faux.
+✅ **Correction :** Non le coq est un symbole non officiel. Il est notamment présent sur les maillots des équipe de France (football, basketball,handall...)
 
 1. [📖 Voir les notions utiles](SCR_REV_T1_CH03_GLO)
 2. [⭐ Revoir l’essentiel](SCR_REV_T1_CH03_SYN)
@@ -1172,7 +1176,7 @@ Le coq est un symbole national, mais **pas un symbole officiel**.
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **5 question(s)**, l’une après l’autre.
+Vous allez répondre à **5 questions**, l’une après l’autre.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -1186,7 +1190,7 @@ Une réponse peut être validée ou signalée comme incomplète. Dans les deux c
 !Keyboard: true
 ### 🧠 Question 1/5
 
-Quelles sont les couleurs du drapeau français et comment sont-elles disposées ?
+Quelles sont les couleurs du drapeau français ?
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
@@ -1199,16 +1203,16 @@ Quelles sont les couleurs du drapeau français et comment sont-elles disposées 
 
 > `@rep_t1_ch3_q1`
 
-`if @rep_t1_ch3_q1.toLowerCase().includes("république")`
+`if @rep_t1_ch3_q1.toLowerCase().includes("bleu")|| @rep_t1_ch3_q1.toLowerCase().includes("blanc")|| @rep_t1_ch3_q1.toLowerCase().includes("rouge")`
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+Bleu, blanc et rouge.
 :::
 
 1. [➡️ Question suivante](SCR_REV_T1_CH03_VERIF_Q02)
 `endif`
 
-`if !(@rep_t1_ch3_q1.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch3_q1.toLowerCase().includes("bleu, blanc, rouge")) || @rep_t1_ch3_q1.toLowerCase().includes("Bleu blanc rouge") || @rep_t1_ch3_q1.toLowerCase().includes("bleu blanc rouge")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -1237,16 +1241,16 @@ Qu'est-ce que la Marseillaise ?
 
 > `@rep_t1_ch3_q2`
 
-`if @rep_t1_ch3_q2.toLowerCase().includes("république")`
+`if @rep_t1_ch3_q2.toLowerCase().includes("hymne")|| @rep_t1_ch3_q2.toLowerCase().includes("hymne national") || @rep_t1_ch3_q2.toLowerCase().includes("chant patriotique")`
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+La marseillaise est l'hymne national.
 :::
 
 1. [➡️ Question suivante](SCR_REV_T1_CH03_VERIF_Q03)
 `endif`
 
-`if !(@rep_t1_ch3_q2.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch3_q2.toLowerCase().includes("chant"))`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -1260,31 +1264,37 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 ## SCR_REV_T1_CH03_VERIF_Q03
 
 !Keyboard: true
-### 🧠 Question 3/5
+### 🧠 Question 3/4
 
-Qui représente Marianne ?
+
+## SCR_REV_T1_CH03_VERIF_Q03
+
+!Keyboard: true
+### 🧠 Question 3/4
+
+Pourquoi célèbre-t-on le 14 juillet ?
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
 `@rep_t1_ch3_q3 = @INPUT : SCR_REV_T1_CH03_VERIF_Q03_RESULT`
 
-## SCR_REV_T1_CH03_VERIF_Q03_RESULT
+## SCR_REV_T1_CH03_VERIF_Q04_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 3/5
+### Votre réponse — Question 3/4
 
 > `@rep_t1_ch3_q3`
 
-`if @rep_t1_ch3_q3.toLowerCase().includes("république")`
+`if @rep_t1_ch3_q4.toLowerCase().includes("bastille") || @rep_t1_ch3_q3.toLowerCase().includes("révolution") || @rep_t1_ch3_q3.toLowerCase().includes("révolution française") || @rep_t1_ch3_q3.toLowerCase().includes("fete nationale") || @rep_t1_ch3_q3.toLowerCase().includes("fête nationale") || @rep_t1_ch3_q3.toLowerCase().includes("Fête nationale")`
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+Le 14 juillet est la fête nationale française. Il commémore deux grands moments de l'histoire : la prise de la Bastille en 1789 et la Fête de la Fédération en 1790.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH03_VERIF_Q04)
+1. [➡️ Question suivante](SCR_REV_T1_CH03_VERIF_Q05)
 `endif`
 
-`if !(@rep_t1_ch3_q3.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch3_q3.toLowerCase().includes("Fête")|| @rep_t1_ch3_q3.toLowerCase().includes("prise")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -1298,76 +1308,38 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 ## SCR_REV_T1_CH03_VERIF_Q04
 
 !Keyboard: true
-### 🧠 Question 4/5
+### 🧠 Question 4/4
 
-Pourquoi célèbre-t-on le 14 juillet ?
+Le coq est-il un symbole officiel de la République ?
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
-`@rep_t1_ch3_q4 = @INPUT : SCR_REV_T1_CH03_VERIF_Q04_RESULT`
+`@rep_t1_ch3_q5 = @INPUT : SCR_REV_T1_CH03_VERIF_Q04_RESULT`
 
 ## SCR_REV_T1_CH03_VERIF_Q04_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 4/5
+### Votre réponse — Question 4/4
 
 > `@rep_t1_ch3_q4`
 
-`if @rep_t1_ch3_q4.toLowerCase().includes("république")`
+`if @rep_t1_ch3_q4.toLowerCase().includes("Non")|| @rep_t1_ch3_q4.toLowerCase().includes("non") || @rep_t1_ch3_q4.toLowerCase().includes("non.")|| @rep_t1_ch3_q4.toLowerCase().includes("Non.")`
 
 :::success ✅ Réponse validée
 Votre réponse contient un mot-clé essentiel.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH03_VERIF_Q05)
+1. [✅ Terminer le chapitre](SCR_REV_T1_CH03_FIN)
 `endif`
 
-`if !(@rep_t1_ch3_q4.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch3_q4.toLowerCase().includes("Oui")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH03_VERIF_Q05)
+1. [✅ Terminer le chapitre](SCR_REV_T1_CH03_FIN)
 2. [🔁 Répondre à nouveau](SCR_REV_T1_CH03_VERIF_Q04)
-3. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
-`endif`
-
-## SCR_REV_T1_CH03_VERIF_Q05
-
-!Keyboard: true
-### 🧠 Question 5/5
-
-Le coq est-il un symbole officiel de la République ? Explique ta réponse.
-
-Écrivez votre réponse puis cliquez sur **Envoyer**.
-
-`@rep_t1_ch3_q5 = @INPUT : SCR_REV_T1_CH03_VERIF_Q05_RESULT`
-
-## SCR_REV_T1_CH03_VERIF_Q05_RESULT
-
-!Keyboard: false
-### Votre réponse — Question 5/5
-
-> `@rep_t1_ch3_q5`
-
-`if @rep_t1_ch3_q5.toLowerCase().includes("république")`
-
-:::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
-:::
-
-1. [✅ Terminer le chapitre](SCR_REV_T1_CH03_FIN)
-`endif`
-
-`if !(@rep_t1_ch3_q5.toLowerCase().includes("république"))`
-
-:::warning 🔎 Réponse à compléter
-Votre réponse ne contient pas encore les mots-clés essentiels.
-:::
-
-1. [✅ Terminer le chapitre](SCR_REV_T1_CH03_FIN)
-2. [🔁 Répondre à nouveau](SCR_REV_T1_CH03_VERIF_Q05)
 3. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
 `endif`
 
@@ -1375,7 +1347,7 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissances.
 
 1. [➡️ Chapitre suivant : La laïcité](SCR_REV_T1_CH04_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -1384,6 +1356,12 @@ Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
 ## SCR_REV_T1_CH04_ACC
 
 ### 📘 Chapitre 4 — LA LAÏCITÉ
+
+La laïcité est un principe fondamental de la République française, elle permet de : 
+
+- garantir la liberté de conscience
+- l'égalité de tous 
+- la neutralité de l'Etat
 
 Dans ce chapitre, vous découvrirez :
 
@@ -1641,27 +1619,27 @@ Elle permet à chacun de vivre ensemble dans le respect des lois de la Républiq
 
 #### Erreur fréquente n°1
 
-❌ **À ne pas retenir :** La laïcité interdit les religions.
+❌ **Point de vigilance :** La laïcité interdit les religions.
 
-✅ **Correction :** Faux.
+✅ **Correction :** La laïcité permet à chacun d'être libre de croire ou ne pas croire en une religion. 
 
 #### Erreur fréquente n°2
 
-❌ **À ne pas retenir :** Les citoyens doivent être neutres comme les agents publics.
+❌ **Point de vigilance :** Les citoyens doivent être neutres comme les agents publics.
 
 ✅ **Correction :** Faux.
 
 #### Erreur fréquente n°3
 
-❌ **À ne pas retenir :** Le blasphème est interdit en France.
+❌ **Point de vigilance :** Le blasphème est interdit en France.
 
-✅ **Correction :** Faux.
+✅ **Correction :** En France, le blasphème n'est pas interdit et il n'existe pas de délit de blasphème, car la liberté d'expression protège la critique des religions, la loi du 29 juillet 1881 garantit la liberté de la presse, et la laïcité sépare l'État des croyances.
 
 #### Erreur fréquente n°4
 
-❌ **À ne pas retenir :** Les élèves peuvent refuser certains cours pour des raisons religieuses.
+❌ **Point de vigilance :** Les élèves peuvent refuser certains cours pour des raisons religieuses.
 
-✅ **Correction :** Faux.
+✅ **Correction :** Les élèves doivent participer à chacun des cours. 
 
 1. [📖 Voir les notions utiles](SCR_REV_T1_CH04_GLO)
 2. [⭐ Revoir l’essentiel](SCR_REV_T1_CH04_SYN)
@@ -1693,7 +1671,7 @@ Elle permet à chacun de vivre ensemble dans le respect des lois de la Républiq
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **5 question(s)**, l’une après l’autre.
+Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -1705,9 +1683,9 @@ Une réponse peut être validée ou signalée comme incomplète. Dans les deux c
 ## SCR_REV_T1_CH04_VERIF_Q01
 
 !Keyboard: true
-### 🧠 Question 1/5
+### 🧠 Question 1/3
 
-Qu'est-ce que la laïcité ?
+Quelle est la grande loi adoptée en 1905 ?
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
@@ -1716,20 +1694,20 @@ Qu'est-ce que la laïcité ?
 ## SCR_REV_T1_CH04_VERIF_Q01_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 1/5
+### Votre réponse — Question 1/3
 
 > `@rep_t1_ch4_q1`
 
-`if @rep_t1_ch4_q1.toLowerCase().includes("république")`
+`if @rep_t1_ch4_q1.toLowerCase().includes("séparation églises et Etat")|| @rep_t1_ch4_q1.toLowerCase().includes("séparation église et état") || @rep_t1_ch4_q1.toLowerCase().includes("spération Eglise et Etat")`
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+La séparation des Églises et de l'État
 :::
 
 1. [➡️ Question suivante](SCR_REV_T1_CH04_VERIF_Q02)
 `endif`
 
-`if !(@rep_t1_ch4_q1.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch4_q1.toLowerCase().includes("séparation"))`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -1743,9 +1721,9 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 ## SCR_REV_T1_CH04_VERIF_Q02
 
 !Keyboard: true
-### 🧠 Question 2/5
+### 🧠 Question 2/3
 
-Quelle est la grande loi adoptée en 1905 ?
+Qui est soumis à l'obligation de neutralité dans les services publics ?
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
@@ -1754,20 +1732,20 @@ Quelle est la grande loi adoptée en 1905 ?
 ## SCR_REV_T1_CH04_VERIF_Q02_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 2/5
+### Votre réponse — Question 2/3
 
 > `@rep_t1_ch4_q2`
 
-`if @rep_t1_ch4_q2.toLowerCase().includes("république")`
+`if @rep_t1_ch4_q2.toLowerCase().includes("agents publics") || @rep_t1_ch4_q2.toLowerCase().includes("tous les agents publics")|| @rep_t1_ch4_q2.toLowerCase().includes("agent public")`
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+L'obligation de neutralité dans les services publics s'impose à tous les agents publics (fonctionnaires et contractuels).
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH04_VERIF_Q03)
+1. [➡️ Question suivante](SCR_REV_T1_CH04_VERIF_Q02)
 `endif`
 
-`if !(@rep_t1_ch4_q2.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch4_q2.toLowerCase().includes("agent")|| @rep_t1_ch4_q2.toLowerCase().includes("agents")|| @rep_t1_ch4_q2.toLowerCase().includes("tout le monde")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -1781,9 +1759,9 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 ## SCR_REV_T1_CH04_VERIF_Q03
 
 !Keyboard: true
-### 🧠 Question 3/5
+### 🧠 Question 3/3
 
-Qui est soumis à l'obligation de neutralité dans les services publics ?
+Le blasphème est-il interdit en France ?
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
@@ -1792,103 +1770,27 @@ Qui est soumis à l'obligation de neutralité dans les services publics ?
 ## SCR_REV_T1_CH04_VERIF_Q03_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 3/5
+### Votre réponse — Question 3/3
 
 > `@rep_t1_ch4_q3`
 
-`if @rep_t1_ch4_q3.toLowerCase().includes("république")`
+`if @rep_t1_ch4_q3.toLowerCase().includes("non")|| @rep_t1_ch4_q3.toLowerCase().includes("Non") || @rep_t1_ch4_q3.toLowerCase().includes("Non.")`
 
 :::success ✅ Réponse validée
 Votre réponse contient un mot-clé essentiel.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH04_VERIF_Q04)
+1. [✅ Terminer le chapitre](SCR_REV_T1_CH04_FIN)
 `endif`
 
-`if !(@rep_t1_ch4_q3.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch4_q3.toLowerCase().includes("oui")@rep_t1_ch4_q3.toLowerCase().includes("Oui") || @rep_t1_ch4_q3.toLowerCase().includes("Oui.")`
 
 :::warning 🔎 Réponse à compléter
-Votre réponse ne contient pas encore les mots-clés essentiels.
+En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun délit de blasphème. Il est permis de critiquer une religion, de se moquer de dieux ou de rejeter des croyances. Cependant, la loi interdit d'insulter ou d'attaquer directement les personnes qui pratiquent une religion.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH04_VERIF_Q04)
+1. [✅ Terminer le chapitre](SCR_REV_T1_CH04_FIN)
 2. [🔁 Répondre à nouveau](SCR_REV_T1_CH04_VERIF_Q03)
-3. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
-`endif`
-
-## SCR_REV_T1_CH04_VERIF_Q04
-
-!Keyboard: true
-### 🧠 Question 4/5
-
-Le blasphème est-il interdit en France ?
-
-Écrivez votre réponse puis cliquez sur **Envoyer**.
-
-`@rep_t1_ch4_q4 = @INPUT : SCR_REV_T1_CH04_VERIF_Q04_RESULT`
-
-## SCR_REV_T1_CH04_VERIF_Q04_RESULT
-
-!Keyboard: false
-### Votre réponse — Question 4/5
-
-> `@rep_t1_ch4_q4`
-
-`if @rep_t1_ch4_q4.toLowerCase().includes("république")`
-
-:::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T1_CH04_VERIF_Q05)
-`endif`
-
-`if !(@rep_t1_ch4_q4.toLowerCase().includes("république"))`
-
-:::warning 🔎 Réponse à compléter
-Votre réponse ne contient pas encore les mots-clés essentiels.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T1_CH04_VERIF_Q05)
-2. [🔁 Répondre à nouveau](SCR_REV_T1_CH04_VERIF_Q04)
-3. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
-`endif`
-
-## SCR_REV_T1_CH04_VERIF_Q05
-
-!Keyboard: true
-### 🧠 Question 5/5
-
-Pourquoi la laïcité est-elle importante à l'école publique ?
-
-Écrivez votre réponse puis cliquez sur **Envoyer**.
-
-`@rep_t1_ch4_q5 = @INPUT : SCR_REV_T1_CH04_VERIF_Q05_RESULT`
-
-## SCR_REV_T1_CH04_VERIF_Q05_RESULT
-
-!Keyboard: false
-### Votre réponse — Question 5/5
-
-> `@rep_t1_ch4_q5`
-
-`if @rep_t1_ch4_q5.toLowerCase().includes("république")`
-
-:::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
-:::
-
-1. [✅ Terminer le chapitre](SCR_REV_T1_CH04_FIN)
-`endif`
-
-`if !(@rep_t1_ch4_q5.toLowerCase().includes("république"))`
-
-:::warning 🔎 Réponse à compléter
-Votre réponse ne contient pas encore les mots-clés essentiels.
-:::
-
-1. [✅ Terminer le chapitre](SCR_REV_T1_CH04_FIN)
-2. [🔁 Répondre à nouveau](SCR_REV_T1_CH04_VERIF_Q05)
 3. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
 `endif`
 
@@ -1896,7 +1798,7 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 4 et vérifiez vos connaissances. 
 
 1. [➡️ Chapitre suivant : La langue de la République](SCR_REV_T1_CH05_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -1905,6 +1807,8 @@ Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
 ## SCR_REV_T1_CH05_ACC
 
 ### 📘 Chapitre 5 — LA LANGUE DE LA RÉPUBLIQUE
+
+La langue française est inscrite depuis 1992 comme langue officielle. 
 
 Dans ce chapitre, vous découvrirez :
 
@@ -1965,9 +1869,9 @@ Le français permet :
 
 ##### 💡 Exemple concret
 
-Lorsque tu fais une demande de titre de séjour ou de carte d'identité, tous les formulaires sont rédigés en français.
+Lorsque vous faites une demande de titre de séjour ou de carte d'identité, tous les formulaires sont rédigés en français.
 
-Si tu rencontres des difficultés de compréhension, un agent peut t'expliquer la procédure, mais les documents officiels restent rédigés en français.
+Si vous rencontrez des difficultés de compréhension, un agent peut vous expliquer la procédure, mais les documents officiels restent rédigés en français.
 
 
 #### 2. Le français dans la vie publique
@@ -2005,9 +1909,9 @@ La France reconnaît la richesse de nombreuses langues parlées sur son territoi
 
 De nombreuses personnes parlent :
 
-- des langues régionales ;
-- des langues étrangères ;
-- leur langue d'origine.
+- des langues régionales (ex : l'alsacien, le breton...) ;
+- des langues étrangères (ex: l'anglais, l'allemand, l'espagnol) ;
+- leur langue d'origine (arabe, portuguais, espagnol, anglais...).
 
 Ces langues peuvent être utilisées dans la vie privée ou dans certaines activités culturelles.
 
@@ -2051,21 +1955,21 @@ Cette règle garantit l'égalité entre tous les citoyens.
 
 #### Erreur fréquente n°1
 
-❌ **À ne pas retenir :** La France interdit de parler d'autres langues.
+❌ **Point de vigilance :** La France interdit de parler d'autres langues.
 
-✅ **Correction :** Faux.
+✅ **Correction :** La France n'interdit aucune autre langue, cependant les démarches officielles et les documents admnistratifs sont rédigés en français. 
 
 #### Erreur fréquente n°2
 
-❌ **À ne pas retenir :** Les documents administratifs peuvent être rédigés dans n'importe quelle langue.
+❌ **Point de vigilance :** Les documents administratifs peuvent être rédigés dans n'importe quelle langue.
 
-✅ **Correction :** Faux.
+✅ **Correction :** Les documents administratifs sont toujours rédigés en français. 
 
 #### Erreur fréquente n°3
 
-❌ **À ne pas retenir :** Les langues régionales remplacent le français.
+❌ **Point de vigilance :** Les langues régionales remplacent le français.
 
-✅ **Correction :** Faux.
+✅ **Correction :** Les langues régionales font partie de l'histoire d'une région ou de son patrimoine, mais il ne remplace pas la langue officielle. 
 
 1. [📖 Voir les notions utiles](SCR_REV_T1_CH05_GLO)
 2. [⭐ Revoir l’essentiel](SCR_REV_T1_CH05_SYN)
@@ -2093,7 +1997,7 @@ Cette règle garantit l'égalité entre tous les citoyens.
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **5 question(s)**, l’une après l’autre.
+Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -2116,20 +2020,20 @@ Quelle est la langue officielle de la République française ?
 ## SCR_REV_T1_CH05_VERIF_Q01_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 1/5
+### Votre réponse — Question 1/3
 
 > `@rep_t1_ch5_q1`
 
-`if @rep_t1_ch5_q1.toLowerCase().includes("république")`
+`if @rep_t1_ch5_q1.toLowerCase().includes("français")|| @rep_t1_ch5_q1.toLowerCase().includes("le français")|| @rep_t1_ch5_q1.toLowerCase().includes("Le français")`
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+Le français est la langue officielle de la France depuis 1992. 
 :::
 
 1. [➡️ Question suivante](SCR_REV_T1_CH05_VERIF_Q02)
 `endif`
 
-`if !(@rep_t1_ch5_q1.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch5_q1.toLowerCase().includes("l'allemand")|| @rep_t1_ch5_q1.toLowerCase().includes("l'arabe")|| @rep_t1_ch5_q1.toLowerCase().includes("l'espagnol")|| @rep_t1_ch5_q1.toLowerCase().includes("l'anglais")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -2143,7 +2047,7 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 ## SCR_REV_T1_CH05_VERIF_Q02
 
 !Keyboard: true
-### 🧠 Question 2/5
+### 🧠 Question 2/3
 
 Dans quel texte est inscrite cette règle ?
 
@@ -2154,20 +2058,20 @@ Dans quel texte est inscrite cette règle ?
 ## SCR_REV_T1_CH05_VERIF_Q02_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 2/5
+### Votre réponse — Question 2/3
 
 > `@rep_t1_ch5_q2`
 
-`if @rep_t1_ch5_q2.toLowerCase().includes("république")`
+`if @rep_t1_ch5_q2.toLowerCase().includes("La constitution")|| @rep_t1_ch5_q2.toLowerCase().includes("constitution") || @rep_t1_ch5_q2.toLowerCase().includes("la constitution")`
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+L'article 2 de la Constitution a officialisé le français comme langue de la République française en 1992.
 :::
 
 1. [➡️ Question suivante](SCR_REV_T1_CH05_VERIF_Q03)
 `endif`
 
-`if !(@rep_t1_ch5_q2.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch5_q2.toLowerCase().includes("loi") || @rep_t1_ch5_q2.toLowerCase().includes("la déclaration des droits de l'homme")|| @rep_t1_ch5_q2.toLowerCase().includes("la déclaration des droits de l'homme et du citoyen")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -2181,9 +2085,9 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 ## SCR_REV_T1_CH05_VERIF_Q03
 
 !Keyboard: true
-### 🧠 Question 3/5
+### 🧠 Question 3/3
 
-Pourquoi le français est-il utilisé dans l'administration ?
+Peut-on parler une autre langue dans sa vie privée ?
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
@@ -2192,103 +2096,27 @@ Pourquoi le français est-il utilisé dans l'administration ?
 ## SCR_REV_T1_CH05_VERIF_Q03_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 3/5
+### Votre réponse — Question 3/3
 
 > `@rep_t1_ch5_q3`
 
-`if @rep_t1_ch5_q3.toLowerCase().includes("république")`
+`if @rep_t1_ch5_q3.toLowerCase().includes("oui")|| @rep_t1_ch5_q3.toLowerCase().includes("Oui.")|| @rep_t1_ch5_q3.toLowerCase().includes("oui.")`
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+La France n'interdit pas de parler une autre langue sur son territoire et dans sa vie privée. 
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH05_VERIF_Q04)
+1. [✅ Terminer le chapitre](SCR_REV_T1_CH03_FIN)
 `endif`
 
-`if !(@rep_t1_ch5_q3.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch5_q5.toLowerCase().includes("non")|| @rep_t1_ch5_q3.toLowerCase().includes("Non.")|| @rep_t1_ch5_q3.toLowerCase().includes("non.")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH05_VERIF_Q04)
+1. [✅ Terminer le chapitre](SCR_REV_T1_CH05_FIN)
 2. [🔁 Répondre à nouveau](SCR_REV_T1_CH05_VERIF_Q03)
-3. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
-`endif`
-
-## SCR_REV_T1_CH05_VERIF_Q04
-
-!Keyboard: true
-### 🧠 Question 4/5
-
-Peut-on parler une autre langue dans sa vie privée ?
-
-Écrivez votre réponse puis cliquez sur **Envoyer**.
-
-`@rep_t1_ch5_q4 = @INPUT : SCR_REV_T1_CH05_VERIF_Q04_RESULT`
-
-## SCR_REV_T1_CH05_VERIF_Q04_RESULT
-
-!Keyboard: false
-### Votre réponse — Question 4/5
-
-> `@rep_t1_ch5_q4`
-
-`if @rep_t1_ch5_q4.toLowerCase().includes("république")`
-
-:::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T1_CH05_VERIF_Q05)
-`endif`
-
-`if !(@rep_t1_ch5_q4.toLowerCase().includes("république"))`
-
-:::warning 🔎 Réponse à compléter
-Votre réponse ne contient pas encore les mots-clés essentiels.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T1_CH05_VERIF_Q05)
-2. [🔁 Répondre à nouveau](SCR_REV_T1_CH05_VERIF_Q04)
-3. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
-`endif`
-
-## SCR_REV_T1_CH05_VERIF_Q05
-
-!Keyboard: true
-### 🧠 Question 5/5
-
-Les documents officiels peuvent-ils être rédigés dans une autre langue que le français ?
-
-Écrivez votre réponse puis cliquez sur **Envoyer**.
-
-`@rep_t1_ch5_q5 = @INPUT : SCR_REV_T1_CH05_VERIF_Q05_RESULT`
-
-## SCR_REV_T1_CH05_VERIF_Q05_RESULT
-
-!Keyboard: false
-### Votre réponse — Question 5/5
-
-> `@rep_t1_ch5_q5`
-
-`if @rep_t1_ch5_q5.toLowerCase().includes("république")`
-
-:::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
-:::
-
-1. [✅ Terminer le chapitre](SCR_REV_T1_CH05_FIN)
-`endif`
-
-`if !(@rep_t1_ch5_q5.toLowerCase().includes("république"))`
-
-:::warning 🔎 Réponse à compléter
-Votre réponse ne contient pas encore les mots-clés essentiels.
-:::
-
-1. [✅ Terminer le chapitre](SCR_REV_T1_CH05_FIN)
-2. [🔁 Répondre à nouveau](SCR_REV_T1_CH05_VERIF_Q05)
 3. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
 `endif`
 
@@ -2296,7 +2124,7 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 5 et vérfiriez vos connaissances.
 
 1. [➡️ Chapitre suivant : Le contrat d'engagement à respecter les principes de la République](SCR_REV_T1_CH06_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -2305,6 +2133,8 @@ Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
 ## SCR_REV_T1_CH06_ACC
 
 ### 📘 Chapitre 6 — LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE
+
+Le contrat d'engagement est un contrat entre l'Etat et un demandeur de titre de séjour. Le demandeur s'engage à respecter 7 principes fondamentaux de la France. 
 
 Dans ce chapitre, vous découvrirez :
 
@@ -2462,27 +2292,22 @@ Ces notions sont régulièrement évaluées lors de l'examen civique.
 
 #### Erreur fréquente n°1
 
-❌ **À ne pas retenir :** Le contrat est facultatif.
+❌ **Point de vigilance :** Le contrat est facultatif.
 
-✅ **Correction :** Faux.
+✅ **Correction :** Le contrat est obligatoire et son refus de signature entraîne automatique le refus ou le retrait du document de séjour. 
 
 #### Erreur fréquente n°2
 
-❌ **À ne pas retenir :** Signer le contrat suffit pour obtenir un titre de séjour.
+❌ **Point de vigilance :** Signer le contrat suffit pour obtenir un titre de séjour.
 
-✅ **Correction :** Faux.
+✅ **Correction :** Non, il faut depuis janvier 2026, passé notamment cet examen civique pour obtenir son titre de séjour. 
 
 #### Erreur fréquente n°3
 
-❌ **À ne pas retenir :** Le contrat concerne uniquement les personnes demandant la nationalité française.
+❌ **Point de vigilance :** Le contrat concerne uniquement les personnes demandant la nationalité française.
 
-✅ **Correction :** Faux.
+✅ **Correction :** Non le contrat d'engagement concerne la carte de résident et la carte de séjour pluriannuelle. 
 
-#### Erreur fréquente n°4
-
-❌ **À ne pas retenir :** Les principes de la République ne concernent que la vie publique.
-
-✅ **Correction :** Faux.
 
 1. [📖 Voir les notions utiles](SCR_REV_T1_CH06_GLO)
 2. [⭐ Revoir l’essentiel](SCR_REV_T1_CH06_SYN)
@@ -2512,7 +2337,7 @@ Ces notions sont régulièrement évaluées lors de l'examen civique.
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **5 question(s)**, l’une après l’autre.
+Vous allez répondre à **2 questions**, l’une après l’autre.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -2524,9 +2349,9 @@ Une réponse peut être validée ou signalée comme incomplète. Dans les deux c
 ## SCR_REV_T1_CH06_VERIF_Q01
 
 !Keyboard: true
-### 🧠 Question 1/5
+### 🧠 Question 1/2
 
-Qu'est-ce que le contrat d'engagement à respecter les principes de la République ?
+Citez trois des sept principes contenus dans le contrat.
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
@@ -2535,20 +2360,22 @@ Qu'est-ce que le contrat d'engagement à respecter les principes de la Républiq
 ## SCR_REV_T1_CH06_VERIF_Q01_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 1/5
+### Votre réponse — Question 1/2
 
 > `@rep_t1_ch6_q1`
 
-`if @rep_t1_ch6_q1.toLowerCase().includes("république")`
+`if @rep_t1_ch6_q1.toLowerCase().includes("la liberté personnelle ")|| @rep_t1_ch6_q1.toLowerCase().includes("la liberté d'expression et de conscience")|| @rep_t1_ch6_q1.toLowerCase().includes("l'égalité entre les femmes et les hommes")|| @rep_t1_ch6_q1.toLowerCase().includes("la dignité de la personne humaine")|| @rep_t1_ch6_q1.toLowerCase().includes("la devise et les symboles de la République")|| @rep_t1_ch6_q1.toLowerCase().includes("l'intégrité territoriale de la France")|| @rep_t1_ch6_q1.toLowerCase().includes("la laïcité")`
+
+
 
 :::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
+En signant ce document, le demandeur s'engage formellement à respecter les piliers de la société française : La liberté personnelle, la liberté d'expression et de conscience, l'égalité entre les femmes et les hommes, la dignité de la personne humaine, la devise et les symboles de la République (Drapeau, Marianne, Hymne national)l'intégrité territoriale (définie par les frontières nationales)La laïcité
 :::
 
 1. [➡️ Question suivante](SCR_REV_T1_CH06_VERIF_Q02)
 `endif`
 
-`if !(@rep_t1_ch6_q1.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch6_q1.toLowerCase().includes("liberté")|| @rep_t1_ch6_q1.toLowerCase().includes("égalité")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
@@ -2562,9 +2389,9 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 ## SCR_REV_T1_CH06_VERIF_Q02
 
 !Keyboard: true
-### 🧠 Question 2/5
+### 🧠 Question 2/2
 
-Qui doit généralement signer ce contrat ?
+Que peut-il se passer si une personne refuse de signer ce contrat ?
 
 Écrivez votre réponse puis cliquez sur **Envoyer**.
 
@@ -2573,141 +2400,27 @@ Qui doit généralement signer ce contrat ?
 ## SCR_REV_T1_CH06_VERIF_Q02_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 2/5
+### Votre réponse — Question 2/2
 
 > `@rep_t1_ch6_q2`
 
-`if @rep_t1_ch6_q2.toLowerCase().includes("république")`
+`if @rep_t1_ch6_q2.toLowerCase().includes("refus du document de séjour")|| @rep_t1_ch6_q2.toLowerCase().includes("retrait du document de séjour") || @rep_t1_ch6_q2.toLowerCase().includes("retrait du titre de séjour")|| @rep_t1_ch6_q2.toLowerCase().includes("refus du titre de séjour")`
 
 :::success ✅ Réponse validée
 Votre réponse contient un mot-clé essentiel.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH06_VERIF_Q03)
+1. [✅ Terminer le chapitre](SCR_REV_T1_CH06_FIN)
 `endif`
 
-`if !(@rep_t1_ch6_q2.toLowerCase().includes("république"))`
+`if !(@rep_t1_ch6_q2.toLowerCase().includes("rien")`
 
 :::warning 🔎 Réponse à compléter
 Votre réponse ne contient pas encore les mots-clés essentiels.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T1_CH06_VERIF_Q03)
+1. [✅ Terminer le chapitre](SCR_REV_T1_CH06_FIN)
 2. [🔁 Répondre à nouveau](SCR_REV_T1_CH06_VERIF_Q02)
-3. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
-`endif`
-
-## SCR_REV_T1_CH06_VERIF_Q03
-
-!Keyboard: true
-### 🧠 Question 3/5
-
-Cite trois des sept principes contenus dans le contrat.
-
-Écrivez votre réponse puis cliquez sur **Envoyer**.
-
-`@rep_t1_ch6_q3 = @INPUT : SCR_REV_T1_CH06_VERIF_Q03_RESULT`
-
-## SCR_REV_T1_CH06_VERIF_Q03_RESULT
-
-!Keyboard: false
-### Votre réponse — Question 3/5
-
-> `@rep_t1_ch6_q3`
-
-`if @rep_t1_ch6_q3.toLowerCase().includes("république")`
-
-:::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T1_CH06_VERIF_Q04)
-`endif`
-
-`if !(@rep_t1_ch6_q3.toLowerCase().includes("république"))`
-
-:::warning 🔎 Réponse à compléter
-Votre réponse ne contient pas encore les mots-clés essentiels.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T1_CH06_VERIF_Q04)
-2. [🔁 Répondre à nouveau](SCR_REV_T1_CH06_VERIF_Q03)
-3. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
-`endif`
-
-## SCR_REV_T1_CH06_VERIF_Q04
-
-!Keyboard: true
-### 🧠 Question 4/5
-
-Que peut-il se passer si une personne refuse de signer ce contrat lorsqu'il est obligatoire ?
-
-Écrivez votre réponse puis cliquez sur **Envoyer**.
-
-`@rep_t1_ch6_q4 = @INPUT : SCR_REV_T1_CH06_VERIF_Q04_RESULT`
-
-## SCR_REV_T1_CH06_VERIF_Q04_RESULT
-
-!Keyboard: false
-### Votre réponse — Question 4/5
-
-> `@rep_t1_ch6_q4`
-
-`if @rep_t1_ch6_q4.toLowerCase().includes("république")`
-
-:::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T1_CH06_VERIF_Q05)
-`endif`
-
-`if !(@rep_t1_ch6_q4.toLowerCase().includes("république"))`
-
-:::warning 🔎 Réponse à compléter
-Votre réponse ne contient pas encore les mots-clés essentiels.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T1_CH06_VERIF_Q05)
-2. [🔁 Répondre à nouveau](SCR_REV_T1_CH06_VERIF_Q04)
-3. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
-`endif`
-
-## SCR_REV_T1_CH06_VERIF_Q05
-
-!Keyboard: true
-### 🧠 Question 5/5
-
-Pourquoi ce contrat est-il important pour la République française ?
-
-Écrivez votre réponse puis cliquez sur **Envoyer**.
-
-`@rep_t1_ch6_q5 = @INPUT : SCR_REV_T1_CH06_VERIF_Q05_RESULT`
-
-## SCR_REV_T1_CH06_VERIF_Q05_RESULT
-
-!Keyboard: false
-### Votre réponse — Question 5/5
-
-> `@rep_t1_ch6_q5`
-
-`if @rep_t1_ch6_q5.toLowerCase().includes("république")`
-
-:::success ✅ Réponse validée
-Votre réponse contient un mot-clé essentiel.
-:::
-
-1. [✅ Terminer le chapitre](SCR_REV_T1_CH06_FIN)
-`endif`
-
-`if !(@rep_t1_ch6_q5.toLowerCase().includes("république"))`
-
-:::warning 🔎 Réponse à compléter
-Votre réponse ne contient pas encore les mots-clés essentiels.
-:::
-
-1. [✅ Terminer le chapitre](SCR_REV_T1_CH06_FIN)
-2. [🔁 Répondre à nouveau](SCR_REV_T1_CH06_VERIF_Q05)
 3. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
 `endif`
 
@@ -2715,7 +2428,7 @@ Votre réponse ne contient pas encore les mots-clés essentiels.
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 6 et sa vérifiez vos connaissances.
 
 1. [➡️ Passer à la thématique suivante : Système institutionnel et politique](SCR_REV_T2_MENU)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
