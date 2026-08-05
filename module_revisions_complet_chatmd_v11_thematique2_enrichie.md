@@ -2778,6 +2778,7 @@ Ses missions principales sont :
 
 ##### 💡 Exemple concret
 
+Le Parlement adopte une loi qui fixe de nouvelles règles de sécurité routière. Les députés et les sénateurs discutent le texte, proposent des modifications, puis le votent.
 
 #### 3. Le pouvoir exécutif
 
@@ -2799,6 +2800,8 @@ Ses missions principales sont :
 - conduire la politique nationale.
 
 ##### 💡 Exemple concret
+
+Après le vote de cette loi, le Gouvernement prépare les mesures nécessaires pour qu'elle soit appliquée par les administrations et respectée sur tout le territoire.
 
 #### 4. Le pouvoir judiciaire
 
@@ -2911,7 +2914,7 @@ La séparation des pouvoirs repose sur trois pouvoirs :
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **1 question**, l’une après l’autre.
+Vous allez répondre à **1 question**.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -3050,7 +3053,11 @@ Le droit de vote permet aux citoyens d'exprimer leur choix lors des élections.
 
 ##### 🧩 Explication simple
 
+Participer à la vie politique, c'est prendre part aux choix qui concernent la société. Le vote est le moyen le plus direct : chaque électeur exprime son choix pour un candidat, une liste ou une réponse à un référendum.
+
 ##### 💡 Exemple concret
+
+Lors d'une élection municipale, les électeurs choisissent les conseillers municipaux qui prendront des décisions pour leur commune.
 
 #### 2. La démocratie
 
@@ -3075,6 +3082,7 @@ La démocratie repose sur plusieurs principes :
 
 ##### 💡 Exemple concret
 
+Plusieurs candidats présentent des programmes différents. Les citoyens peuvent s'informer, débattre librement, puis voter pour le candidat de leur choix.
 
 #### 3. La République
 
@@ -3087,8 +3095,11 @@ En France, la République est démocratique car les citoyens participent au choi
 
 ##### 🧩 Explication simple
 
+Dans une République, la fonction de chef de l'État n'est pas transmise à un héritier. Les responsables exercent leur mandat selon les règles de la Constitution et peuvent être remplacés à l'issue d'une élection.
+
 ##### 💡 Exemple concret
 
+En France, le Président de la République est élu pour cinq ans : son enfant ne devient pas automatiquement président après lui.
 
 #### 4. Le droit de vote en France
 
@@ -3108,7 +3119,11 @@ Les citoyens européens peuvent également voter en France pour certaines élect
 
 ##### 🧩 Explication simple
 
+Être majeur ne suffit pas à lui seul. Pour voter, il faut réunir toutes les conditions prévues : l'âge, la nationalité requise, l'inscription sur une liste électorale et la possession de ses droits civils et politiques.
+
 ##### 💡 Exemple concret
+
+Lina, Française de 19 ans, est majeure et possède ses droits civils. Elle pourra voter si elle est inscrite sur une liste électorale.
 
 #### 5. Les principes du vote
 
@@ -3188,7 +3203,11 @@ La pluralité des partis permet l'expression de différentes opinions.
 
 ##### 🧩 Explication simple
 
+Un parti politique rassemble des personnes qui partagent des idées et souhaitent les défendre dans le débat public. Plusieurs partis peuvent proposer des programmes différents : c'est le pluralisme politique.
+
 ##### 💡 Exemple concret
+
+Avant une élection, différents partis présentent leurs candidats et leurs programmes. Les électeurs comparent les propositions avant de choisir librement.
 
 #### 8. Comment une loi est-elle votée ?
 
@@ -3222,11 +3241,7 @@ Une fois adoptée :
 
 ##### 💡 Exemple concret
 
-Lors d'une élection présidentielle, les citoyens français votent pour choisir leur Président de la République.
-
-Le candidat qui obtient la majorité prévue par les règles électorales devient Président.
-
-Ce choix des citoyens illustre le fonctionnement démocratique.
+Un projet de loi sur la protection de l'environnement est présenté par le Gouvernement. L'Assemblée nationale et le Sénat l'examinent, proposent des amendements et le votent. Après sa promulgation et sa publication au Journal officiel, la loi entre en vigueur.
 
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T2_CH02_SYN)
 2. [🎯 Revoir les objectifs](SCR_REV_T2_CH02_OBJ)
@@ -3310,7 +3325,7 @@ Une loi est :
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **1 question**, l’une après l’autre.
+Vous allez répondre à **1 question**.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -3337,7 +3352,7 @@ Quelles sont les quatre conditions principales pour pouvoir voter en France ?
 
 ### Votre réponse — Question 1/1
 
-`@score_t2_ch2_q1 = calc((@rep_t2_ch2_q1.toLowerCase().includes("18") ? 1 : 0) + ((@rep_t2_ch2_q1.toLowerCase().includes("français") || @rep_t2_ch2_q1.toLowerCase().includes("francais") || @rep_t2_ch2_q1.toLowerCase().includes("nationalité française") || @rep_t2_ch2_q1.toLowerCase().includes("nationalite francaise")) ? 1 : 0) + ((@rep_t2_ch2_q1.toLowerCase().includes("liste électorale") || @rep_t2_ch2_q1.toLowerCase().includes("liste electorale") || @rep_t2_ch2_q1.toLowerCase().includes("inscrit") || @rep_t2_ch2_q1.toLowerCase().includes("inscription")) ? 1 : 0) + ((@rep_t2_ch2_q1.toLowerCase().includes("droits civils") || @rep_t2_ch2_q1.toLowerCase().includes("droits civiques") || @rep_t2_ch2_q1.toLowerCase().includes("pas être privé") || @rep_t2_ch2_q1.toLowerCase().includes("ne pas être privé")) ? 1 : 0))`
+`@score_t2_ch2_q1 = calc(((@rep_t2_ch2_q1.toLowerCase().includes("18") || @rep_t2_ch2_q1.toLowerCase().includes("majeur") || @rep_t2_ch2_q1.toLowerCase().includes("être majeur") || @rep_t2_ch2_q1.toLowerCase().includes("etre majeur")) ? 1 : 0) + ((@rep_t2_ch2_q1.toLowerCase().includes("français") || @rep_t2_ch2_q1.toLowerCase().includes("francais") || @rep_t2_ch2_q1.toLowerCase().includes("nationalité française") || @rep_t2_ch2_q1.toLowerCase().includes("nationalite francaise")) ? 1 : 0) + ((@rep_t2_ch2_q1.toLowerCase().includes("liste électorale") || @rep_t2_ch2_q1.toLowerCase().includes("liste electorale") || @rep_t2_ch2_q1.toLowerCase().includes("inscrit") || @rep_t2_ch2_q1.toLowerCase().includes("inscription")) ? 1 : 0) + ((@rep_t2_ch2_q1.toLowerCase().includes("droits civils") || @rep_t2_ch2_q1.toLowerCase().includes("droits civiques") || @rep_t2_ch2_q1.toLowerCase().includes("pas être privé") || @rep_t2_ch2_q1.toLowerCase().includes("ne pas être privé")) ? 1 : 0))`
 
 `if @score_t2_ch2_q1>=4`
 :::success ✅ Bonne réponse
@@ -3457,6 +3472,8 @@ Cette organisation permet de gérer les besoins de la population sur l'ensemble 
 
 ##### 💡 Exemple concret
 
+Pour construire un collège, l'État fixe les programmes scolaires et rémunère les enseignants, tandis que le département construit et entretient le bâtiment.
+
 #### 2. Les acteurs politiques au niveau national
 
 ##### A. L'État
@@ -3472,7 +3489,11 @@ L'État :
 
 ##### 🧩 Explication simple
 
+L'État prend les décisions qui doivent être communes à toute la France. Il organise les grands services nationaux et garantit les mêmes règles sur l'ensemble du territoire.
+
 ##### 💡 Exemple concret
+
+À Strasbourg comme à Marseille, les élèves préparent les mêmes diplômes nationaux, car leurs programmes sont définis par l'État.
 
 ##### B. Le Président de la République
 
@@ -3489,8 +3510,11 @@ Il joue un rôle important dans le fonctionnement des institutions françaises.
 
 ##### 🧩 Explication simple
 
+Le Président représente la France et veille au respect de la Constitution. Il nomme le Premier ministre et préside le Conseil des ministres, mais il ne gouverne pas seul.
+
 ##### 💡 Exemple concret
 
+Après des élections législatives, le Président nomme un Premier ministre chargé de former le Gouvernement.
 
 ##### C. Le Gouvernement
 
@@ -3512,6 +3536,8 @@ Ses missions principales sont :
 
 ##### 💡 Exemple concret
 
+Le Gouvernement prépare un projet de loi, puis organise son application par les ministères et les administrations après son adoption.
+
 ##### D. Le Parlement
 
 :::info 📝 Notion essentielle
@@ -3529,6 +3555,8 @@ Ses missions principales sont :
 - contrôler l'action du Gouvernement.
 
 ##### 💡 Exemple concret
+
+Les députés et les sénateurs examinent un texte sur le logement, proposent des amendements et votent pour l'adopter ou le rejeter.
 
 #### 3. Les acteurs politiques au niveau local
 
@@ -3554,6 +3582,9 @@ Ses missions principales sont :
 
 Le préfet n'est pas un élu.
 
+##### 💡 Exemple concret
+
+Lors d'une alerte météorologique grave, le préfet coordonne les services de secours et peut prendre des mesures pour protéger la population.
 
 ##### B. La commune
 
@@ -3577,6 +3608,8 @@ Elle intervient notamment dans :
 
 ##### 💡 Exemple concret
 
+La commune entretient l'école primaire, organise la cantine et aménage les espaces publics proches des habitants.
+
 ##### C. Le département
 
 :::info 📝 Notion essentielle
@@ -3593,7 +3626,13 @@ Il intervient notamment dans :
 - les collèges ;
 - certaines infrastructures.
 
+![Carte des départements français avec leurs noms et numéros](https://commons.wikimedia.org/wiki/Special:Redirect/file/D%C3%A9partements_de_France_nom%2Bnum.svg?width=900)
+
+*Repérez sur la carte les limites, les noms et les numéros des départements français. [Source de la carte : Wikimedia Commons](https://commons.wikimedia.org/wiki/File:D%C3%A9partements_de_France_nom%2Bnum.svg).*
+
 ##### 💡 Exemple concret
+
+Le conseil départemental finance et entretient les collèges publics. Il accompagne aussi les personnes âgées, les personnes en situation de handicap et les familles en difficulté.
 
 ##### D. La région
 
@@ -3614,8 +3653,13 @@ Elle intervient notamment dans :
 - les transports régionaux ;
 - le développement économique.
 
+![Carte des 18 régions françaises, dont les cinq régions d'outre-mer](https://commons.wikimedia.org/wiki/Special:Redirect/file/R%C3%A9gions_de_France_2016_avec_outremer.svg?width=900)
+
+*La France compte 18 régions : 13 en métropole et 5 en outre-mer — Guadeloupe, Martinique, Guyane, La Réunion et Mayotte. [Source de la carte : Wikimedia Commons](https://commons.wikimedia.org/wiki/File:R%C3%A9gions_de_France_2016_avec_outremer.svg).*
+
 ##### 💡 Exemple concret
 
+La région organise les trains express régionaux et participe à la construction, à l'équipement et à l'entretien des lycées.
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T2_CH03_SYN)
 2. [🎯 Revoir les objectifs](SCR_REV_T2_CH03_OBJ)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -3702,7 +3746,7 @@ Les trois principaux niveaux territoriaux sont :
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **1 question**, l’une après l’autre.
+Vous allez répondre à **1 question**.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -3840,7 +3884,6 @@ Aujourd'hui, l'Union européenne rassemble 27 États membres.
 
 ##### 🧩 Explication simple
 
-
 Après les guerres mondiales, plusieurs pays européens ont souhaité construire une coopération durable pour éviter de nouveaux conflits.
 
 La construction européenne s'est développée progressivement avec :
@@ -3853,38 +3896,22 @@ L'Union européenne permet aux États membres de prendre certaines décisions en
 
 ##### 💡 Exemple concret
 
+Grâce à des décisions prises ensemble, un citoyen de l'Union européenne peut voyager dans de nombreux pays européens et utiliser une même monnaie dans les pays de la zone euro.
 
 #### 2. Les grandes étapes de la construction européenne
 
-##### 1951 — Le traité de Paris
+##### 🕒 Frise chronologique
 
-Création de la : **CECA (Communauté européenne du charbon et de l'acier)**
+**1951** → **1957** → **1979** → **1992** → **2002** → **2007**
 
-Objectif : Favoriser la coopération entre les pays européens autour de ressources essentielles.
-
-##### 1957 — Le traité de Rome
-
-Création de la : **CEE (Communauté économique européenne)**
-
-Objectif : Développer une coopération économique entre les États membres.
-
-##### 1979 — Premières élections européennes
-
-Les citoyens européens élisent directement leurs représentants au Parlement européen.
-
-##### 1992 — Le traité de Maastricht
-
-Création de :
-
-- l'Union européenne ;
-- la citoyenneté européenne ;
-- la monnaie unique européenne (l'euro).
-
-L'euro est mis en circulation en 2002.
-
-##### 2007 — Le traité de Lisbonne
-
-Il réforme le fonctionnement des institutions européennes.
+| Date | Étape | Ce qu'il faut retenir |
+|---:|---|---|
+| **1951** | Traité de Paris | Création de la **CECA**, qui organise une coopération autour du charbon et de l'acier. |
+| **1957** | Traité de Rome | Création de la **CEE** pour développer la coopération économique. |
+| **1979** | Premières élections européennes | Les citoyens élisent directement leurs représentants au Parlement européen. |
+| **1992** | Traité de Maastricht | Naissance de l'**Union européenne**, de la citoyenneté européenne et préparation de la monnaie unique. |
+| **2002** | Mise en circulation de l'euro | Les pièces et billets en euros entrent en circulation dans les pays participants. |
+| **2007** | Traité de Lisbonne | Réforme du fonctionnement des institutions européennes. |
 
 #### 3. Les symboles européens
 
@@ -4002,6 +4029,7 @@ Pour voter en France aux élections européennes, il faut :
 
 ##### 🧩 Explication simple
 
+Les élections européennes permettent aux citoyens de choisir directement les députés qui les représenteront au Parlement européen. Elles ont lieu tous les cinq ans.
 
 ##### 💡 Exemple concret
 
@@ -4404,7 +4432,7 @@ La liberté d'expression est protégée par ces textes.
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **1 question**, l’une après l’autre.
+Vous allez répondre à **1 question**.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -4759,7 +4787,7 @@ Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **1 question**, l’une après l’autre.
+Vous allez répondre à **1 question**.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -5033,7 +5061,7 @@ Cette journée rappelle notamment la prise de la Bastille en 1789, symbole de la
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **1 question**, puis vous pourrez terminer le chapitre.
+Vous allez répondre à **1 question**.
 
 1. [Commencer](SCR_REV_T4_CH01_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
@@ -5689,7 +5717,7 @@ Le tourisme représente environ **8 % du PIB français**.
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **1 question**, l’une après l’autre.
+Vous allez répondre à **1 question**.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
@@ -6232,7 +6260,7 @@ Pour connaître les événements culturels :
 
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **1 question**, l’une après l’autre.
+Vous allez répondre à **1 question**.
 
 Une réponse peut être validée ou signalée comme incomplète. Dans les deux cas, vous pouvez poursuivre.
 
