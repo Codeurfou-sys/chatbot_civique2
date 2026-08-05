@@ -4823,11 +4823,11 @@ Dans ce chapitre, vous découvrirez :
 
 ## SCR_REV_T3_CH01_COURS
 
-### 📖 Le cours — THÉMATIQUE 3
+### 📖 Le cours — Les droits fondamentaux
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
 
-#### 1. Chapitre 1 — Les droits fondamentaux
+#### 1. Les droits fondamentaux
 
 :::info 📝 Notion essentielle
 Les droits fondamentaux sont les droits et libertés reconnus à toute personne.
@@ -5235,7 +5235,7 @@ Dans ce chapitre, vous découvrirez :
 
 ## SCR_REV_T3_CH02_COURS
 
-### 📖 Le cours — THÉMATIQUE 3
+### 📖 Le cours — Les obligations et les devoirs
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
 
@@ -5259,7 +5259,7 @@ La loi peut limiter certaines libertés afin de :
 Il est interdit de circuler le visage totalement dissimulé dans l'espace public.
 
 
-#### 2. Respecter les lois
+#### 2. Respect des lois
 
 :::info 📝 Notion essentielle
 Toute personne vivant en France doit respecter les lois.
@@ -5383,7 +5383,7 @@ Un témoin peut :
 Une personne témoin d'une agression peut appeler les secours.
 
 
-#### 7. Protéger l'environnement
+#### 7. La protection de l'environnement
 
 :::info 📝 Notion essentielle
 Le respect de l'environnement est une responsabilité de chacun.
@@ -5732,7 +5732,7 @@ La Première République est proclamée en **1792**. La République s'installe d
 La France a connu plusieurs régimes politiques avant la Ve République actuelle.
 
 ##### 💡 Exemple concret
-Les lois scolaires de **1881-1882** rendent l'école primaire publique gratuite et l'instruction obligatoire et laïque.
+Avant la Ve République, la France a connu une grande instabilité institutionnelle avec 15 régimes politiques différents depuis 1789, alternant entre monarchies, empires et républiques.
 
 #### ⚖️ Les grands repères contemporains
 
@@ -5745,7 +5745,7 @@ Les lois scolaires de **1881-1882** rendent l'école primaire publique gratuite 
 | **1981** | Abolition de la peine de mort |
 
 :::success 🌱 Astuce mémoire
-Reliez chaque date à un mot : **1789–Révolution**, **1905–laïcité**, **1944–vote des femmes**, **1958–Ve République**.
+Reliez chaque date à un mot : **1789–Révolution**, **1905–laïcité**, **1944–vote des femmes**, **1958–Ve République**, **1981-Abolition-mort**.
 :::
 
 
@@ -6006,7 +6006,7 @@ En 1958 naît la Ve République et sa Constitution est adoptée.
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissances.
 
 1. [➡️ Chapitre suivant : Territoires et géographie de la France](SCR_REV_T4_CH02_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -6049,7 +6049,7 @@ Dans ce chapitre, vous découvrirez :
 #### 📍 Situer la France
 
 :::info 📝 Notion essentielle
-La France métropolitaine se trouve en Europe occidentale. La République comprend aussi des territoires ultramarins situés dans plusieurs océans.
+La France métropolitaine se trouve en Europe occidentale. La France comprend aussi des territoires ultramarins situés dans plusieurs océans.
 :::
 
 ##### 🧩 Explication simple
@@ -6118,16 +6118,16 @@ Un fleuve se jette dans la mer ou l'océan. Les cinq grands fleuves à connaîtr
 </svg>
 
 ##### 💡 Exemple concret
-La Seine traverse Paris ; le Rhône traverse Lyon avant de rejoindre la mer Méditerranée.
+Le Rhône traverse Lyon avant de rejoindre la mer Méditerranée.
 
 #### 🏙️ Population et organisation du territoire
 
 :::info 📝 Notion essentielle
-La France est organisée en **communes**, **départements** et **régions**. Paris est la capitale.
+La France est organisée en **communes**, **départements** et **régions**. Paris est la capitale de la France.
 :::
 
 ##### 🧩 Explication simple
-Les grandes villes concentrent habitants, emplois et services, tandis que les espaces ruraux sont moins densément peuplés.
+Les grandes villes concentrent habitants, emplois et services, tandis que les espaces ruraux sont moins densément peuplés. C'est ce qu'on appelle l'exode rurale ( départ définitif des habitants des campagnes vers les villes. Ce mouvement massif s'explique par la recherche d'un travail dans l'industrie ou les services, et par de meilleures conditions de vie.). Mais depuis les années 70, on constate un **exode urbain** (retour vers la campagne). Ce mouvement s'est fortement transformé et accéléré plus récemment, notamment à partir de 2020 grâce à la crise sanitaire de la COVID-19 et au développement du télétravail.
 
 
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T4_CH02_SYN)
@@ -6141,7 +6141,7 @@ Les grandes villes concentrent habitants, emplois et services, tandis que les es
 
 - La France possède un territoire métropolitain et des territoires d’Outre-mer.
 - Elle compte 18 régions et 101 départements.
-- Ses paysages sont très variés.
+- Ses paysages sont très variés (montagnes, fleuves, plages...)
 - Les grandes villes concentrent les populations et les activités économiques.
 - La France est une puissance agricole, industrielle, touristique et maritime.
 - Chaque région possède une identité géographique et culturelle particulière.
@@ -6372,7 +6372,7 @@ Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à 
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissances.
 
 1. [➡️ Chapitre suivant : Patrimoine et culture française](SCR_REV_T4_CH03_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -6441,6 +6441,10 @@ L'UNESCO contribue à identifier et protéger des patrimoines culturels et natur
 
 ##### 🧩 Explication simple
 Préserver le patrimoine, c'est l'entretenir, le transmettre et le rendre accessible au public.
+
+##### 💡 Exemple concret
+
+L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres incluent le Mont-Saint-Michel en France, le Colisée en Italie, le parc national du Kilimandjaro en Tanzanie, ou encore la Grande Barrière de corail en Australie.
 
 
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T4_CH03_SYN)
@@ -6692,7 +6696,7 @@ L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'u
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissances.
 
 1. [➡️ Passer à la thématique suivante : Vivre dans la société française](SCR_REV_T5_MENU)
 2. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -6818,7 +6822,7 @@ Pour vivre en France, il est important de savoir :
 
 ❌ **Point de vigilance :** Une déclaration de revenus est nécessaire uniquement si l'on paie des impôts.
 
-✅ **Correction :** La déclaration peut être obligatoire même lorsqu'aucun impôt n'est dû.
+✅ **Correction :** La déclaration est obligatoire même lorsqu'aucun impôt n'est dû.
 
 #### Erreur fréquente n°2
 
@@ -7102,7 +7106,7 @@ Il décrit l'état du logement à l'entrée et à la sortie afin de limiter les 
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissances.
 
 1. [➡️ Chapitre suivant : La santé](SCR_REV_T5_CH02_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -7142,7 +7146,7 @@ Dans ce chapitre, vous découvrirez :
 
 ### 📖 Le cours — La santé 🩺
 
-#### 👩‍⚕️ Le parcours de soins
+#### 👩‍⚕️ 1. Le parcours de soins
 
 :::info 📝 Notion essentielle
 Le **médecin traitant** assure le suivi habituel et oriente, si nécessaire, vers un spécialiste.
@@ -7154,7 +7158,7 @@ Pour un problème courant, on consulte son médecin. Les urgences sont réservé
 ##### 💡 Exemple concret
 Pour une douleur persistante, Hugo consulte son médecin traitant ; face à une perte de connaissance, il appelle le 15.
 
-#### 💳 Les remboursements
+#### 💳 2. Les remboursements
 
 :::info 📝 Notion essentielle
 La **carte Vitale** facilite la transmission des informations et le remboursement par l'Assurance Maladie.
@@ -7163,7 +7167,7 @@ La **carte Vitale** facilite la transmission des informations et le remboursemen
 ##### 🧩 Explication simple
 L'Assurance Maladie rembourse une partie des soins ; une mutuelle peut compléter le remboursement.
 
-#### 🛡️ Prévenir
+#### 🛡️ 3. Prévenir
 
 :::info 📝 Notion essentielle
 Vaccination, dépistage, activité physique, alimentation équilibrée et suivi médical contribuent à protéger la santé.
@@ -7496,7 +7500,7 @@ L'Assurance Maladie rembourse une part des soins ; la mutuelle peut compléter c
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissances.
 
 1. [➡️ Chapitre suivant : L'emploi](SCR_REV_T5_CH03_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -7536,7 +7540,7 @@ Dans ce chapitre, vous découvrirez :
 
 ### 📖 Le cours — L'emploi 💼
 
-#### 🔎 Rechercher un emploi
+#### 🔎 1. Rechercher un emploi
 
 :::info 📝 Notion essentielle
 **France Travail** accompagne les demandeurs d'emploi dans leur recherche, leur orientation et leur insertion professionnelle.
@@ -7548,7 +7552,7 @@ Le candidat prépare un CV, répond à des offres et peut suivre une formation a
 ##### 💡 Exemple concret
 Nora actualise sa situation, échange avec son conseiller et postule à une offre correspondant à ses compétences.
 
-#### 📝 Le contrat de travail
+#### 📝 2. Le contrat de travail
 
 :::info 📝 Notion essentielle
 Le contrat précise notamment le poste, la rémunération, la durée du travail et les obligations des deux parties.
@@ -7557,7 +7561,7 @@ Le contrat précise notamment le poste, la rémunération, la durée du travail 
 ##### 💡 Exemple concret
 Avant de signer, un salarié vérifie le type de contrat, les horaires, le salaire et la période d'essai.
 
-#### 💶 La rémunération
+#### 💶 3. La rémunération
 
 :::info 📝 Notion essentielle
 Le **bulletin de salaire**, aussi appelé **fiche de paie** ou **fiche de paye**, distingue le salaire brut, les cotisations et le salaire net.
@@ -7566,7 +7570,7 @@ Le **bulletin de salaire**, aussi appelé **fiche de paie** ou **fiche de paye**
 ##### 🧩 Explication simple
 Le brut est calculé avant les retenues ; le net correspond à la somme versée, sous réserve du prélèvement à la source.
 
-#### 🤝 Droits et devoirs
+#### 🤝 4. Droits et devoirs
 
 :::info 📝 Notion essentielle
 Le salarié respecte les consignes et prévient l'employeur en cas d'absence ; l'employeur protège sa santé, sa sécurité et ses droits.
@@ -7899,7 +7903,7 @@ Il doit prévenir rapidement son employeur et transmettre l'arrêt de travail da
 
 ### ✅ Chapitre terminé
 
-Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
+Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissances.
 
 1. [➡️ Chapitre suivant : La parentalité](SCR_REV_T5_CH04_ACC)
 2. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -7939,7 +7943,7 @@ Dans ce chapitre, vous découvrirez :
 
 ### 📖 Le cours — La parentalité 👨‍👩‍👧
 
-#### 🛡️ L'autorité parentale
+#### 🛡️ 1. L'autorité parentale
 
 :::info 📝 Notion essentielle
 Les parents doivent protéger l'enfant, assurer son éducation et prendre les décisions dans son intérêt.
@@ -7951,7 +7955,7 @@ L'autorité parentale est un ensemble de droits et surtout de devoirs exercés d
 ##### 💡 Exemple concret
 Les parents choisissent les soins nécessaires et veillent à la sécurité et à la scolarité de leur enfant.
 
-#### 🎒 L'instruction obligatoire
+#### 🎒 2. L'instruction obligatoire
 
 :::info 📝 Notion essentielle
 En France, l'instruction est obligatoire de **3 à 16 ans**. L'obligation de formation se poursuit jusqu'à **18 ans**.
@@ -7960,7 +7964,7 @@ En France, l'instruction est obligatoire de **3 à 16 ans**. L'obligation de for
 ##### 💡 Exemple concret
 En cas d'absence, les parents préviennent rapidement l'établissement et fournissent le motif demandé.
 
-#### 🏫 Les étapes de l'école
+#### 🏫 3. Les étapes de l'école
 
 | Étape | Repère |
 |---|---|
@@ -7969,7 +7973,7 @@ En cas d'absence, les parents préviennent rapidement l'établissement et fourni
 | Collège | Enseignement commun jusqu'à la fin de la 3e |
 | Lycée ou formation | Préparation d'un diplôme général, technologique ou professionnel |
 
-#### 🤝 Protéger l'enfant
+#### 🤝 4. Protéger l'enfant
 
 :::info 📝 Notion essentielle
 Les violences éducatives sont interdites. En cas de danger ou de risque de danger, le **119** peut être contacté.
@@ -8295,14 +8299,15 @@ Les parents doivent protéger l'enfant, assurer son éducation et prendre les d�
 `endif`
 ## SCR_REV_T5_CH04_FIN
 
-### 🎉 Thématique 5 terminée !
+### 🎉 Révisions terminées !
 
 Bravo ! Vous avez répondu aux questions de vérification du dernier chapitre et terminé la thématique **Vivre dans la société française**.
 
-Vous savez maintenant mieux vous repérer dans les démarches administratives, la santé, l’emploi et la parentalité.
+Vous savez maintenant révisé l'essentiel du programme "examen civique". Vous êtes maintenant prêt à vous entraîner. 
 
 1. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. []
 
 ## SCR_GLO_MENU
 
