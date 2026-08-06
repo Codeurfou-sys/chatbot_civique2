@@ -18,7 +18,7 @@ Choisissez le type d’entraînement qui correspond à votre objectif.
 
 1. [📚 Entraînement par thématique](SCR_ENT_THEME_EXAM)
 2. [🎚️ Entraînement complet par niveau](SCR_ENT_LEVEL_EXAM)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_THEME_EXAM
 
@@ -40,7 +40,7 @@ Choisissez le type d’entraînement qui correspond à votre objectif.
 1. [5. Vivre dans la société française](SCR_ENT_CSP_T5_TYPE)
 
 1. [↩️ Changer d’examen](SCR_ENT_THEME_EXAM)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T1_TYPE
 
@@ -52,7 +52,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CSP_T1_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CSP)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T2_TYPE
 
@@ -64,7 +64,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CSP_T2_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CSP)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T3_TYPE
 
@@ -76,7 +76,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CSP_T3_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CSP)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T4_TYPE
 
@@ -88,7 +88,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CSP_T4_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CSP)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T5_TYPE
 
@@ -100,7 +100,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CSP_T5_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CSP)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_THEME_CR
 
@@ -113,7 +113,7 @@ Choisissez votre type d’entraînement.
 1. [5. Vivre dans la société française](SCR_ENT_CR_T5_TYPE)
 
 1. [↩️ Changer d’examen](SCR_ENT_THEME_EXAM)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T1_TYPE
 
@@ -125,7 +125,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CR_T1_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CR)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T2_TYPE
 
@@ -137,7 +137,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CR_T2_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CR)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T3_TYPE
 
@@ -149,7 +149,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CR_T3_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CR)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T4_TYPE
 
@@ -161,7 +161,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CR_T4_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CR)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T5_TYPE
 
@@ -173,7 +173,7 @@ Choisissez votre type d’entraînement.
 2. [🎭 Mises en situation](SCR_ENT_CR_T5_MIS_LAUNCH)
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_CR)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_THEME_NAT
 
@@ -186,7 +186,7 @@ Choisissez votre type d’entraînement.
 ℹ️ La banque Naturalisation fournie couvre actuellement les thématiques 1 à 3.
 
 1. [↩️ Changer d’examen](SCR_ENT_THEME_EXAM)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_T1_TYPE
 
@@ -199,7 +199,7 @@ Choisissez votre type d’entraînement.
 ℹ️ Aucune banque de mises en situation Naturalisation n’a été fournie. Les questions ne sont pas inventées ni empruntées à un autre examen.
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_NAT)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_T2_TYPE
 
@@ -212,7 +212,7 @@ Choisissez votre type d’entraînement.
 ℹ️ Aucune banque de mises en situation Naturalisation n’a été fournie. Les questions ne sont pas inventées ni empruntées à un autre examen.
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_NAT)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_T3_TYPE
 
@@ -225,7 +225,7 @@ Choisissez votre type d’entraînement.
 ℹ️ Aucune banque de mises en situation Naturalisation n’a été fournie. Les questions ne sont pas inventées ni empruntées à un autre examen.
 
 1. [↩️ Changer de thématique](SCR_ENT_THEME_NAT)
-2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+2. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_LEVEL_EXAM
 
@@ -247,7 +247,7 @@ Les 10 questions sont tirées dans toutes les thématiques disponibles pour votr
 1. [Difficile](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 1. [Tous niveaux confondus](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 5. [↩️ Changer d’examen](SCR_ENT_LEVEL_EXAM)
-6. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+6. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_LEVEL_CR
 
@@ -258,7 +258,7 @@ Les 10 questions sont tirées dans toutes les thématiques disponibles pour votr
 1. [Difficile](SCR_ENT_CR_LVL_DIF_LAUNCH)
 1. [Tous niveaux confondus](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 5. [↩️ Changer d’examen](SCR_ENT_LEVEL_EXAM)
-6. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+6. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_LEVEL_NAT
 
@@ -269,15 +269,21 @@ Les 10 questions sont tirées dans toutes les thématiques disponibles pour votr
 1. [Difficile](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 1. [Tous niveaux confondus](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 5. [↩️ Changer d’examen](SCR_ENT_LEVEL_EXAM)
-6. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+6. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T1_Q_LAUNCH
 
 ### 📘 🪪 Carte de séjour pluriannuelle — Principes et valeurs de la République
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Principes et valeurs de la République**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T1_Q_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T1_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T1_Q_V01_Q01 / ENT_CSP_T1_Q_V02_Q01 / ENT_CSP_T1_Q_V03_Q01 / ENT_CSP_T1_Q_V04_Q01 / ENT_CSP_T1_Q_V05_Q01 / ENT_CSP_T1_Q_V06_Q01 / ENT_CSP_T1_Q_V07_Q01 / ENT_CSP_T1_Q_V08_Q01 / ENT_CSP_T1_Q_V09_Q01 / ENT_CSP_T1_Q_V10_Q01
 
@@ -716,25 +722,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_Q_V02_Q01
 
@@ -1171,25 +1177,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_Q_V03_Q01
 
@@ -1626,25 +1632,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_Q_V04_Q01
 
@@ -2081,25 +2087,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_Q_V05_Q01
 
@@ -2536,25 +2542,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_Q_V06_Q01
 
@@ -2991,25 +2997,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_Q_V07_Q01
 
@@ -3446,25 +3452,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_Q_V08_Q01
 
@@ -3901,25 +3907,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_Q_V09_Q01
 
@@ -4356,25 +4362,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_Q_V10_Q01
 
@@ -4811,33 +4817,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T1_MIS_LAUNCH
 
 ### 🎭 🪪 Carte de séjour pluriannuelle — Principes et valeurs de la République
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Principes et valeurs de la République**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T1_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T1_MIS_V01_Q01 / ENT_CSP_T1_MIS_V02_Q01 / ENT_CSP_T1_MIS_V03_Q01 / ENT_CSP_T1_MIS_V04_Q01 / ENT_CSP_T1_MIS_V05_Q01 / ENT_CSP_T1_MIS_V06_Q01 / ENT_CSP_T1_MIS_V07_Q01 / ENT_CSP_T1_MIS_V08_Q01 / ENT_CSP_T1_MIS_V09_Q01 / ENT_CSP_T1_MIS_V10_Q01
 
@@ -5236,25 +5248,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_MIS_V02_Q01
 
@@ -5651,25 +5663,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_MIS_V03_Q01
 
@@ -6066,25 +6078,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_MIS_V04_Q01
 
@@ -6481,25 +6493,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_MIS_V05_Q01
 
@@ -6896,25 +6908,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_MIS_V06_Q01
 
@@ -7311,25 +7323,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_MIS_V07_Q01
 
@@ -7726,25 +7738,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_MIS_V08_Q01
 
@@ -8141,25 +8153,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_MIS_V09_Q01
 
@@ -8556,25 +8568,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T1_MIS_V10_Q01
 
@@ -8971,33 +8983,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T2_Q_LAUNCH
 
 ### 📘 🪪 Carte de séjour pluriannuelle — Institutions et système politique français
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Institutions et système politique français**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T2_Q_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T2_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T2_Q_V01_Q01 / ENT_CSP_T2_Q_V02_Q01 / ENT_CSP_T2_Q_V03_Q01 / ENT_CSP_T2_Q_V04_Q01 / ENT_CSP_T2_Q_V05_Q01 / ENT_CSP_T2_Q_V06_Q01 / ENT_CSP_T2_Q_V07_Q01 / ENT_CSP_T2_Q_V08_Q01 / ENT_CSP_T2_Q_V09_Q01 / ENT_CSP_T2_Q_V10_Q01
 
@@ -9436,25 +9454,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_Q_V02_Q01
 
@@ -9891,25 +9909,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_Q_V03_Q01
 
@@ -10346,25 +10364,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_Q_V04_Q01
 
@@ -10801,25 +10819,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_Q_V05_Q01
 
@@ -11256,25 +11274,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_Q_V06_Q01
 
@@ -11711,25 +11729,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_Q_V07_Q01
 
@@ -12166,25 +12184,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_Q_V08_Q01
 
@@ -12621,25 +12639,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_Q_V09_Q01
 
@@ -13076,25 +13094,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_Q_V10_Q01
 
@@ -13531,33 +13549,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T2_MIS_LAUNCH
 
 ### 🎭 🪪 Carte de séjour pluriannuelle — Institutions et système politique français
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Institutions et système politique français**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T2_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T2_MIS_V01_Q01 / ENT_CSP_T2_MIS_V02_Q01 / ENT_CSP_T2_MIS_V03_Q01 / ENT_CSP_T2_MIS_V04_Q01 / ENT_CSP_T2_MIS_V05_Q01 / ENT_CSP_T2_MIS_V06_Q01 / ENT_CSP_T2_MIS_V07_Q01 / ENT_CSP_T2_MIS_V08_Q01 / ENT_CSP_T2_MIS_V09_Q01 / ENT_CSP_T2_MIS_V10_Q01
 
@@ -13956,25 +13980,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_MIS_V02_Q01
 
@@ -14371,25 +14395,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_MIS_V03_Q01
 
@@ -14786,25 +14810,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_MIS_V04_Q01
 
@@ -15201,25 +15225,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_MIS_V05_Q01
 
@@ -15616,25 +15640,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_MIS_V06_Q01
 
@@ -16031,25 +16055,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_MIS_V07_Q01
 
@@ -16446,25 +16470,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_MIS_V08_Q01
 
@@ -16861,25 +16885,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_MIS_V09_Q01
 
@@ -17276,25 +17300,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T2_MIS_V10_Q01
 
@@ -17691,33 +17715,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T3_Q_LAUNCH
 
 ### 📘 🪪 Carte de séjour pluriannuelle — Droits et devoirs
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Droits et devoirs**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T3_Q_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T3_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T3_Q_V01_Q01 / ENT_CSP_T3_Q_V02_Q01 / ENT_CSP_T3_Q_V03_Q01 / ENT_CSP_T3_Q_V04_Q01 / ENT_CSP_T3_Q_V05_Q01 / ENT_CSP_T3_Q_V06_Q01 / ENT_CSP_T3_Q_V07_Q01 / ENT_CSP_T3_Q_V08_Q01 / ENT_CSP_T3_Q_V09_Q01 / ENT_CSP_T3_Q_V10_Q01
 
@@ -18156,25 +18186,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_Q_V02_Q01
 
@@ -18611,25 +18641,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_Q_V03_Q01
 
@@ -19066,25 +19096,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_Q_V04_Q01
 
@@ -19521,25 +19551,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_Q_V05_Q01
 
@@ -19976,25 +20006,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_Q_V06_Q01
 
@@ -20431,25 +20461,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_Q_V07_Q01
 
@@ -20886,25 +20916,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_Q_V08_Q01
 
@@ -21341,25 +21371,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_Q_V09_Q01
 
@@ -21796,25 +21826,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_Q_V10_Q01
 
@@ -22251,33 +22281,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T3_MIS_LAUNCH
 
 ### 🎭 🪪 Carte de séjour pluriannuelle — Droits et devoirs
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Droits et devoirs**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T3_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T3_MIS_V01_Q01 / ENT_CSP_T3_MIS_V02_Q01 / ENT_CSP_T3_MIS_V03_Q01 / ENT_CSP_T3_MIS_V04_Q01 / ENT_CSP_T3_MIS_V05_Q01 / ENT_CSP_T3_MIS_V06_Q01 / ENT_CSP_T3_MIS_V07_Q01 / ENT_CSP_T3_MIS_V08_Q01 / ENT_CSP_T3_MIS_V09_Q01 / ENT_CSP_T3_MIS_V10_Q01
 
@@ -22676,25 +22712,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_MIS_V02_Q01
 
@@ -23091,25 +23127,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_MIS_V03_Q01
 
@@ -23506,25 +23542,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_MIS_V04_Q01
 
@@ -23921,25 +23957,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_MIS_V05_Q01
 
@@ -24336,25 +24372,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_MIS_V06_Q01
 
@@ -24751,25 +24787,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_MIS_V07_Q01
 
@@ -25166,25 +25202,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_MIS_V08_Q01
 
@@ -25581,25 +25617,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_MIS_V09_Q01
 
@@ -25996,25 +26032,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T3_MIS_V10_Q01
 
@@ -26411,33 +26447,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T4_Q_LAUNCH
 
 ### 📘 🪪 Carte de séjour pluriannuelle — Histoire, géographie, patrimoine et culture
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Histoire, géographie, patrimoine et culture**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T4_Q_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T4_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T4_Q_V01_Q01 / ENT_CSP_T4_Q_V02_Q01 / ENT_CSP_T4_Q_V03_Q01 / ENT_CSP_T4_Q_V04_Q01 / ENT_CSP_T4_Q_V05_Q01 / ENT_CSP_T4_Q_V06_Q01 / ENT_CSP_T4_Q_V07_Q01 / ENT_CSP_T4_Q_V08_Q01 / ENT_CSP_T4_Q_V09_Q01 / ENT_CSP_T4_Q_V10_Q01
 
@@ -26876,25 +26918,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_Q_V02_Q01
 
@@ -27331,25 +27373,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_Q_V03_Q01
 
@@ -27786,25 +27828,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_Q_V04_Q01
 
@@ -28241,25 +28283,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_Q_V05_Q01
 
@@ -28696,25 +28738,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_Q_V06_Q01
 
@@ -29151,25 +29193,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_Q_V07_Q01
 
@@ -29606,25 +29648,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_Q_V08_Q01
 
@@ -30061,25 +30103,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_Q_V09_Q01
 
@@ -30516,25 +30558,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_Q_V10_Q01
 
@@ -30971,33 +31013,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T4_MIS_LAUNCH
 
 ### 🎭 🪪 Carte de séjour pluriannuelle — Histoire, géographie, patrimoine et culture
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Histoire, géographie, patrimoine et culture**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T4_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T4_MIS_V01_Q01 / ENT_CSP_T4_MIS_V02_Q01 / ENT_CSP_T4_MIS_V03_Q01 / ENT_CSP_T4_MIS_V04_Q01 / ENT_CSP_T4_MIS_V05_Q01 / ENT_CSP_T4_MIS_V06_Q01 / ENT_CSP_T4_MIS_V07_Q01 / ENT_CSP_T4_MIS_V08_Q01 / ENT_CSP_T4_MIS_V09_Q01 / ENT_CSP_T4_MIS_V10_Q01
 
@@ -31396,25 +31444,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_MIS_V02_Q01
 
@@ -31811,25 +31859,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_MIS_V03_Q01
 
@@ -32226,25 +32274,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_MIS_V04_Q01
 
@@ -32641,25 +32689,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_MIS_V05_Q01
 
@@ -33056,25 +33104,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_MIS_V06_Q01
 
@@ -33471,25 +33519,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_MIS_V07_Q01
 
@@ -33886,25 +33934,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_MIS_V08_Q01
 
@@ -34301,25 +34349,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_MIS_V09_Q01
 
@@ -34716,25 +34764,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T4_MIS_V10_Q01
 
@@ -35131,33 +35179,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T5_Q_LAUNCH
 
 ### 📘 🪪 Carte de séjour pluriannuelle — Vivre dans la société française
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Vivre dans la société française**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T5_Q_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T5_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T5_Q_V01_Q01 / ENT_CSP_T5_Q_V02_Q01 / ENT_CSP_T5_Q_V03_Q01 / ENT_CSP_T5_Q_V04_Q01 / ENT_CSP_T5_Q_V05_Q01 / ENT_CSP_T5_Q_V06_Q01 / ENT_CSP_T5_Q_V07_Q01 / ENT_CSP_T5_Q_V08_Q01 / ENT_CSP_T5_Q_V09_Q01 / ENT_CSP_T5_Q_V10_Q01
 
@@ -35596,25 +35650,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_Q_V02_Q01
 
@@ -36051,25 +36105,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_Q_V03_Q01
 
@@ -36506,25 +36560,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_Q_V04_Q01
 
@@ -36961,25 +37015,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_Q_V05_Q01
 
@@ -37416,25 +37470,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_Q_V06_Q01
 
@@ -37871,25 +37925,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_Q_V07_Q01
 
@@ -38326,25 +38380,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_Q_V08_Q01
 
@@ -38781,25 +38835,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_Q_V09_Q01
 
@@ -39236,25 +39290,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_Q_V10_Q01
 
@@ -39691,33 +39745,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_T5_MIS_LAUNCH
 
 ### 🎭 🪪 Carte de séjour pluriannuelle — Vivre dans la société française
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Vivre dans la société française**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CSP_T5_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_T5_MIS_V01_Q01 / ENT_CSP_T5_MIS_V02_Q01 / ENT_CSP_T5_MIS_V03_Q01 / ENT_CSP_T5_MIS_V04_Q01 / ENT_CSP_T5_MIS_V05_Q01 / ENT_CSP_T5_MIS_V06_Q01 / ENT_CSP_T5_MIS_V07_Q01 / ENT_CSP_T5_MIS_V08_Q01 / ENT_CSP_T5_MIS_V09_Q01 / ENT_CSP_T5_MIS_V10_Q01
 
@@ -40116,25 +40176,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_MIS_V02_Q01
 
@@ -40531,25 +40591,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_MIS_V03_Q01
 
@@ -40946,25 +41006,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_MIS_V04_Q01
 
@@ -41361,25 +41421,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_MIS_V05_Q01
 
@@ -41776,25 +41836,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_MIS_V06_Q01
 
@@ -42191,25 +42251,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_MIS_V07_Q01
 
@@ -42606,25 +42666,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_MIS_V08_Q01
 
@@ -43021,25 +43081,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_MIS_V09_Q01
 
@@ -43436,25 +43496,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_T5_MIS_V10_Q01
 
@@ -43851,33 +43911,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CSP_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T1_Q_LAUNCH
 
 ### 📘 🏡 Carte de résident — Principes et valeurs de la République
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Principes et valeurs de la République**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T1_Q_LAUNCH_RUN)
+
+## SCR_ENT_CR_T1_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T1_Q_V01_Q01 / ENT_CR_T1_Q_V02_Q01 / ENT_CR_T1_Q_V03_Q01 / ENT_CR_T1_Q_V04_Q01 / ENT_CR_T1_Q_V05_Q01 / ENT_CR_T1_Q_V06_Q01 / ENT_CR_T1_Q_V07_Q01 / ENT_CR_T1_Q_V08_Q01 / ENT_CR_T1_Q_V09_Q01 / ENT_CR_T1_Q_V10_Q01
 
@@ -44316,25 +44382,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_Q_V02_Q01
 
@@ -44771,25 +44837,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_Q_V03_Q01
 
@@ -45226,25 +45292,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_Q_V04_Q01
 
@@ -45681,25 +45747,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_Q_V05_Q01
 
@@ -46136,25 +46202,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_Q_V06_Q01
 
@@ -46591,25 +46657,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_Q_V07_Q01
 
@@ -47046,25 +47112,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_Q_V08_Q01
 
@@ -47501,25 +47567,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_Q_V09_Q01
 
@@ -47956,25 +48022,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_Q_V10_Q01
 
@@ -48411,33 +48477,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T1_MIS_LAUNCH
 
 ### 🎭 🏡 Carte de résident — Principes et valeurs de la République
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Principes et valeurs de la République**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T1_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CR_T1_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T1_MIS_V01_Q01 / ENT_CR_T1_MIS_V02_Q01 / ENT_CR_T1_MIS_V03_Q01 / ENT_CR_T1_MIS_V04_Q01 / ENT_CR_T1_MIS_V05_Q01 / ENT_CR_T1_MIS_V06_Q01 / ENT_CR_T1_MIS_V07_Q01 / ENT_CR_T1_MIS_V08_Q01 / ENT_CR_T1_MIS_V09_Q01 / ENT_CR_T1_MIS_V10_Q01
 
@@ -48836,25 +48908,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_MIS_V02_Q01
 
@@ -49251,25 +49323,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_MIS_V03_Q01
 
@@ -49666,25 +49738,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_MIS_V04_Q01
 
@@ -50081,25 +50153,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_MIS_V05_Q01
 
@@ -50496,25 +50568,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_MIS_V06_Q01
 
@@ -50911,25 +50983,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_MIS_V07_Q01
 
@@ -51326,25 +51398,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_MIS_V08_Q01
 
@@ -51741,25 +51813,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_MIS_V09_Q01
 
@@ -52156,25 +52228,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T1_MIS_V10_Q01
 
@@ -52571,33 +52643,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T1_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T1_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T2_Q_LAUNCH
 
 ### 📘 🏡 Carte de résident — Institutions et système politique français
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Institutions et système politique français**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T2_Q_LAUNCH_RUN)
+
+## SCR_ENT_CR_T2_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T2_Q_V01_Q01 / ENT_CR_T2_Q_V02_Q01 / ENT_CR_T2_Q_V03_Q01 / ENT_CR_T2_Q_V04_Q01 / ENT_CR_T2_Q_V05_Q01 / ENT_CR_T2_Q_V06_Q01 / ENT_CR_T2_Q_V07_Q01 / ENT_CR_T2_Q_V08_Q01 / ENT_CR_T2_Q_V09_Q01 / ENT_CR_T2_Q_V10_Q01
 
@@ -53036,25 +53114,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_Q_V02_Q01
 
@@ -53491,25 +53569,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_Q_V03_Q01
 
@@ -53946,25 +54024,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_Q_V04_Q01
 
@@ -54401,25 +54479,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_Q_V05_Q01
 
@@ -54856,25 +54934,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_Q_V06_Q01
 
@@ -55311,25 +55389,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_Q_V07_Q01
 
@@ -55766,25 +55844,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_Q_V08_Q01
 
@@ -56221,25 +56299,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_Q_V09_Q01
 
@@ -56676,25 +56754,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_Q_V10_Q01
 
@@ -57131,33 +57209,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T2_MIS_LAUNCH
 
 ### 🎭 🏡 Carte de résident — Institutions et système politique français
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Institutions et système politique français**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T2_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CR_T2_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T2_MIS_V01_Q01 / ENT_CR_T2_MIS_V02_Q01 / ENT_CR_T2_MIS_V03_Q01 / ENT_CR_T2_MIS_V04_Q01 / ENT_CR_T2_MIS_V05_Q01 / ENT_CR_T2_MIS_V06_Q01 / ENT_CR_T2_MIS_V07_Q01 / ENT_CR_T2_MIS_V08_Q01 / ENT_CR_T2_MIS_V09_Q01 / ENT_CR_T2_MIS_V10_Q01
 
@@ -57556,25 +57640,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_MIS_V02_Q01
 
@@ -57971,25 +58055,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_MIS_V03_Q01
 
@@ -58386,25 +58470,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_MIS_V04_Q01
 
@@ -58801,25 +58885,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_MIS_V05_Q01
 
@@ -59216,25 +59300,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_MIS_V06_Q01
 
@@ -59631,25 +59715,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_MIS_V07_Q01
 
@@ -60046,25 +60130,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_MIS_V08_Q01
 
@@ -60461,25 +60545,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_MIS_V09_Q01
 
@@ -60876,25 +60960,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T2_MIS_V10_Q01
 
@@ -61291,33 +61375,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T2_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T2_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T3_Q_LAUNCH
 
 ### 📘 🏡 Carte de résident — Droits et devoirs
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Droits et devoirs**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T3_Q_LAUNCH_RUN)
+
+## SCR_ENT_CR_T3_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T3_Q_V01_Q01 / ENT_CR_T3_Q_V02_Q01 / ENT_CR_T3_Q_V03_Q01 / ENT_CR_T3_Q_V04_Q01 / ENT_CR_T3_Q_V05_Q01 / ENT_CR_T3_Q_V06_Q01 / ENT_CR_T3_Q_V07_Q01 / ENT_CR_T3_Q_V08_Q01 / ENT_CR_T3_Q_V09_Q01 / ENT_CR_T3_Q_V10_Q01
 
@@ -61756,25 +61846,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_Q_V02_Q01
 
@@ -62211,25 +62301,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_Q_V03_Q01
 
@@ -62666,25 +62756,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_Q_V04_Q01
 
@@ -63121,25 +63211,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_Q_V05_Q01
 
@@ -63576,25 +63666,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_Q_V06_Q01
 
@@ -64031,25 +64121,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_Q_V07_Q01
 
@@ -64486,25 +64576,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_Q_V08_Q01
 
@@ -64941,25 +65031,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_Q_V09_Q01
 
@@ -65396,25 +65486,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_Q_V10_Q01
 
@@ -65851,33 +65941,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T3_MIS_LAUNCH
 
 ### 🎭 🏡 Carte de résident — Droits et devoirs
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Droits et devoirs**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T3_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CR_T3_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T3_MIS_V01_Q01 / ENT_CR_T3_MIS_V02_Q01 / ENT_CR_T3_MIS_V03_Q01 / ENT_CR_T3_MIS_V04_Q01 / ENT_CR_T3_MIS_V05_Q01 / ENT_CR_T3_MIS_V06_Q01 / ENT_CR_T3_MIS_V07_Q01 / ENT_CR_T3_MIS_V08_Q01 / ENT_CR_T3_MIS_V09_Q01 / ENT_CR_T3_MIS_V10_Q01
 
@@ -66276,25 +66372,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_MIS_V02_Q01
 
@@ -66691,25 +66787,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_MIS_V03_Q01
 
@@ -67106,25 +67202,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_MIS_V04_Q01
 
@@ -67521,25 +67617,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_MIS_V05_Q01
 
@@ -67936,25 +68032,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_MIS_V06_Q01
 
@@ -68351,25 +68447,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_MIS_V07_Q01
 
@@ -68766,25 +68862,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_MIS_V08_Q01
 
@@ -69181,25 +69277,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_MIS_V09_Q01
 
@@ -69596,25 +69692,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T3_MIS_V10_Q01
 
@@ -70011,33 +70107,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T3_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T3_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T4_Q_LAUNCH
 
 ### 📘 🏡 Carte de résident — Histoire, géographie, patrimoine et culture
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Histoire, géographie, patrimoine et culture**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T4_Q_LAUNCH_RUN)
+
+## SCR_ENT_CR_T4_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T4_Q_V01_Q01 / ENT_CR_T4_Q_V02_Q01 / ENT_CR_T4_Q_V03_Q01 / ENT_CR_T4_Q_V04_Q01 / ENT_CR_T4_Q_V05_Q01 / ENT_CR_T4_Q_V06_Q01 / ENT_CR_T4_Q_V07_Q01 / ENT_CR_T4_Q_V08_Q01 / ENT_CR_T4_Q_V09_Q01 / ENT_CR_T4_Q_V10_Q01
 
@@ -70472,25 +70574,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_Q_V02_Q01
 
@@ -70927,25 +71029,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_Q_V03_Q01
 
@@ -71382,25 +71484,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_Q_V04_Q01
 
@@ -71837,25 +71939,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_Q_V05_Q01
 
@@ -72288,25 +72390,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_Q_V06_Q01
 
@@ -72739,25 +72841,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_Q_V07_Q01
 
@@ -73190,25 +73292,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_Q_V08_Q01
 
@@ -73645,25 +73747,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_Q_V09_Q01
 
@@ -74100,25 +74202,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_Q_V10_Q01
 
@@ -74555,33 +74657,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T4_MIS_LAUNCH
 
 ### 🎭 🏡 Carte de résident — Histoire, géographie, patrimoine et culture
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Histoire, géographie, patrimoine et culture**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T4_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CR_T4_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T4_MIS_V01_Q01 / ENT_CR_T4_MIS_V02_Q01 / ENT_CR_T4_MIS_V03_Q01 / ENT_CR_T4_MIS_V04_Q01 / ENT_CR_T4_MIS_V05_Q01 / ENT_CR_T4_MIS_V06_Q01 / ENT_CR_T4_MIS_V07_Q01 / ENT_CR_T4_MIS_V08_Q01 / ENT_CR_T4_MIS_V09_Q01 / ENT_CR_T4_MIS_V10_Q01
 
@@ -74980,25 +75088,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_MIS_V02_Q01
 
@@ -75395,25 +75503,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_MIS_V03_Q01
 
@@ -75810,25 +75918,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_MIS_V04_Q01
 
@@ -76225,25 +76333,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_MIS_V05_Q01
 
@@ -76640,25 +76748,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_MIS_V06_Q01
 
@@ -77055,25 +77163,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_MIS_V07_Q01
 
@@ -77470,25 +77578,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_MIS_V08_Q01
 
@@ -77885,25 +77993,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_MIS_V09_Q01
 
@@ -78300,25 +78408,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T4_MIS_V10_Q01
 
@@ -78715,33 +78823,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T4_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T4_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T4_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T5_Q_LAUNCH
 
 ### 📘 🏡 Carte de résident — Vivre dans la société française
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Vivre dans la société française**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T5_Q_LAUNCH_RUN)
+
+## SCR_ENT_CR_T5_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T5_Q_V01_Q01 / ENT_CR_T5_Q_V02_Q01 / ENT_CR_T5_Q_V03_Q01 / ENT_CR_T5_Q_V04_Q01 / ENT_CR_T5_Q_V05_Q01 / ENT_CR_T5_Q_V06_Q01 / ENT_CR_T5_Q_V07_Q01 / ENT_CR_T5_Q_V08_Q01 / ENT_CR_T5_Q_V09_Q01 / ENT_CR_T5_Q_V10_Q01
 
@@ -79180,25 +79294,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_Q_V02_Q01
 
@@ -79635,25 +79749,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_Q_V03_Q01
 
@@ -80090,25 +80204,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_Q_V04_Q01
 
@@ -80545,25 +80659,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_Q_V05_Q01
 
@@ -81000,25 +81114,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_Q_V06_Q01
 
@@ -81455,25 +81569,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_Q_V07_Q01
 
@@ -81910,25 +82024,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_Q_V08_Q01
 
@@ -82365,25 +82479,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_Q_V09_Q01
 
@@ -82820,25 +82934,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_Q_V10_Q01
 
@@ -83275,33 +83389,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_T5_MIS_LAUNCH
 
 ### 🎭 🏡 Carte de résident — Vivre dans la société française
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Vivre dans la société française**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_T5_MIS_LAUNCH_RUN)
+
+## SCR_ENT_CR_T5_MIS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_T5_MIS_V01_Q01 / ENT_CR_T5_MIS_V02_Q01 / ENT_CR_T5_MIS_V03_Q01 / ENT_CR_T5_MIS_V04_Q01 / ENT_CR_T5_MIS_V05_Q01 / ENT_CR_T5_MIS_V06_Q01 / ENT_CR_T5_MIS_V07_Q01 / ENT_CR_T5_MIS_V08_Q01 / ENT_CR_T5_MIS_V09_Q01 / ENT_CR_T5_MIS_V10_Q01
 
@@ -83700,25 +83820,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_MIS_V02_Q01
 
@@ -84115,25 +84235,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_MIS_V03_Q01
 
@@ -84530,25 +84650,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_MIS_V04_Q01
 
@@ -84945,25 +85065,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_MIS_V05_Q01
 
@@ -85360,25 +85480,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_MIS_V06_Q01
 
@@ -85775,25 +85895,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_MIS_V07_Q01
 
@@ -86190,25 +86310,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_MIS_V08_Q01
 
@@ -86605,25 +86725,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_MIS_V09_Q01
 
@@ -87020,25 +87140,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_T5_MIS_V10_Q01
 
@@ -87435,33 +87555,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_T5_MIS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_T5_MIS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_CR_T5_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_T1_Q_LAUNCH
 
 ### 📘 🇫🇷 Naturalisation — Principes et valeurs de la République
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Principes et valeurs de la République**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_NAT_T1_Q_LAUNCH_RUN)
+
+## SCR_ENT_NAT_T1_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_NAT_T1_Q_V01_Q01 / ENT_NAT_T1_Q_V02_Q01 / ENT_NAT_T1_Q_V03_Q01 / ENT_NAT_T1_Q_V04_Q01 / ENT_NAT_T1_Q_V05_Q01 / ENT_NAT_T1_Q_V06_Q01 / ENT_NAT_T1_Q_V07_Q01 / ENT_NAT_T1_Q_V08_Q01 / ENT_NAT_T1_Q_V09_Q01 / ENT_NAT_T1_Q_V10_Q01
 
@@ -87900,25 +88026,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T1_Q_V02_Q01
 
@@ -88355,25 +88481,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T1_Q_V03_Q01
 
@@ -88810,25 +88936,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T1_Q_V04_Q01
 
@@ -89265,25 +89391,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T1_Q_V05_Q01
 
@@ -89720,25 +89846,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T1_Q_V06_Q01
 
@@ -90175,25 +90301,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T1_Q_V07_Q01
 
@@ -90630,25 +90756,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T1_Q_V08_Q01
 
@@ -91085,25 +91211,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T1_Q_V09_Q01
 
@@ -91540,25 +91666,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T1_Q_V10_Q01
 
@@ -91995,33 +92121,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T1_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T1_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T1_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_T2_Q_LAUNCH
 
 ### 📘 🇫🇷 Naturalisation — Institutions et système politique français
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Institutions et système politique français**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_NAT_T2_Q_LAUNCH_RUN)
+
+## SCR_ENT_NAT_T2_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_NAT_T2_Q_V01_Q01 / ENT_NAT_T2_Q_V02_Q01 / ENT_NAT_T2_Q_V03_Q01 / ENT_NAT_T2_Q_V04_Q01 / ENT_NAT_T2_Q_V05_Q01 / ENT_NAT_T2_Q_V06_Q01 / ENT_NAT_T2_Q_V07_Q01 / ENT_NAT_T2_Q_V08_Q01 / ENT_NAT_T2_Q_V09_Q01 / ENT_NAT_T2_Q_V10_Q01
 
@@ -92460,25 +92592,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T2_Q_V02_Q01
 
@@ -92915,25 +93047,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T2_Q_V03_Q01
 
@@ -93370,25 +93502,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T2_Q_V04_Q01
 
@@ -93825,25 +93957,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T2_Q_V05_Q01
 
@@ -94280,25 +94412,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T2_Q_V06_Q01
 
@@ -94735,25 +94867,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T2_Q_V07_Q01
 
@@ -95190,25 +95322,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T2_Q_V08_Q01
 
@@ -95645,25 +95777,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T2_Q_V09_Q01
 
@@ -96100,25 +96232,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T2_Q_V10_Q01
 
@@ -96555,33 +96687,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T2_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T2_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T2_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_T3_Q_LAUNCH
 
 ### 📘 🇫🇷 Naturalisation — Droits et devoirs
 
-`@score = 0`
+Vous allez répondre à 10 questions sur la thématique **Droits et devoirs**. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_NAT_T3_Q_LAUNCH_RUN)
+
+## SCR_ENT_NAT_T3_Q_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_NAT_T3_Q_V01_Q01 / ENT_NAT_T3_Q_V02_Q01 / ENT_NAT_T3_Q_V03_Q01 / ENT_NAT_T3_Q_V04_Q01 / ENT_NAT_T3_Q_V05_Q01 / ENT_NAT_T3_Q_V06_Q01 / ENT_NAT_T3_Q_V07_Q01 / ENT_NAT_T3_Q_V08_Q01 / ENT_NAT_T3_Q_V09_Q01 / ENT_NAT_T3_Q_V10_Q01
 
@@ -97020,25 +97158,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T3_Q_V02_Q01
 
@@ -97475,25 +97613,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T3_Q_V03_Q01
 
@@ -97930,25 +98068,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T3_Q_V04_Q01
 
@@ -98385,25 +98523,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T3_Q_V05_Q01
 
@@ -98840,25 +98978,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T3_Q_V06_Q01
 
@@ -99295,25 +99433,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T3_Q_V07_Q01
 
@@ -99750,25 +99888,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T3_Q_V08_Q01
 
@@ -100205,25 +100343,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T3_Q_V09_Q01
 
@@ -100660,25 +100798,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_T3_Q_V10_Q01
 
@@ -101115,33 +101253,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_T3_Q_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_T3_Q_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_NAT_T3_TYPE)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_LVL_FAC_LAUNCH
 
 ### 🎚️ 🪪 Carte de séjour pluriannuelle — Facile
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH_RUN)
+
+## SCR_ENT_CSP_LVL_FAC_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_LVL_FAC_V01_Q01 / ENT_CSP_LVL_FAC_V02_Q01 / ENT_CSP_LVL_FAC_V03_Q01 / ENT_CSP_LVL_FAC_V04_Q01 / ENT_CSP_LVL_FAC_V05_Q01 / ENT_CSP_LVL_FAC_V06_Q01 / ENT_CSP_LVL_FAC_V07_Q01 / ENT_CSP_LVL_FAC_V08_Q01 / ENT_CSP_LVL_FAC_V09_Q01 / ENT_CSP_LVL_FAC_V10_Q01
 
@@ -101580,25 +101724,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_FAC_V02_Q01
 
@@ -102035,25 +102179,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_FAC_V03_Q01
 
@@ -102490,25 +102634,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_FAC_V04_Q01
 
@@ -102945,25 +103089,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_FAC_V05_Q01
 
@@ -103400,25 +103544,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_FAC_V06_Q01
 
@@ -103855,25 +103999,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_FAC_V07_Q01
 
@@ -104310,25 +104454,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_FAC_V08_Q01
 
@@ -104765,25 +104909,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_FAC_V09_Q01
 
@@ -105220,25 +105364,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_FAC_V10_Q01
 
@@ -105675,33 +105819,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_LVL_INT_LAUNCH
 
 ### 🎚️ 🪪 Carte de séjour pluriannuelle — Intermédiaire
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH_RUN)
+
+## SCR_ENT_CSP_LVL_INT_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_LVL_INT_V01_Q01 / ENT_CSP_LVL_INT_V02_Q01 / ENT_CSP_LVL_INT_V03_Q01 / ENT_CSP_LVL_INT_V04_Q01 / ENT_CSP_LVL_INT_V05_Q01 / ENT_CSP_LVL_INT_V06_Q01 / ENT_CSP_LVL_INT_V07_Q01 / ENT_CSP_LVL_INT_V08_Q01 / ENT_CSP_LVL_INT_V09_Q01 / ENT_CSP_LVL_INT_V10_Q01
 
@@ -106140,25 +106290,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_INT_V02_Q01
 
@@ -106595,25 +106745,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_INT_V03_Q01
 
@@ -107050,25 +107200,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_INT_V04_Q01
 
@@ -107505,25 +107655,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_INT_V05_Q01
 
@@ -107960,25 +108110,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_INT_V06_Q01
 
@@ -108415,25 +108565,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_INT_V07_Q01
 
@@ -108870,25 +109020,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_INT_V08_Q01
 
@@ -109325,25 +109475,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_INT_V09_Q01
 
@@ -109780,25 +109930,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_INT_V10_Q01
 
@@ -110235,33 +110385,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_LVL_DIF_LAUNCH
 
 ### 🎚️ 🪪 Carte de séjour pluriannuelle — Difficile
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH_RUN)
+
+## SCR_ENT_CSP_LVL_DIF_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_LVL_DIF_V01_Q01 / ENT_CSP_LVL_DIF_V02_Q01 / ENT_CSP_LVL_DIF_V03_Q01 / ENT_CSP_LVL_DIF_V04_Q01 / ENT_CSP_LVL_DIF_V05_Q01 / ENT_CSP_LVL_DIF_V06_Q01 / ENT_CSP_LVL_DIF_V07_Q01 / ENT_CSP_LVL_DIF_V08_Q01 / ENT_CSP_LVL_DIF_V09_Q01 / ENT_CSP_LVL_DIF_V10_Q01
 
@@ -110700,25 +110856,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_DIF_V02_Q01
 
@@ -111155,25 +111311,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_DIF_V03_Q01
 
@@ -111610,25 +111766,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_DIF_V04_Q01
 
@@ -112065,25 +112221,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_DIF_V05_Q01
 
@@ -112520,25 +112676,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_DIF_V06_Q01
 
@@ -112975,25 +113131,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_DIF_V07_Q01
 
@@ -113430,25 +113586,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_DIF_V08_Q01
 
@@ -113885,25 +114041,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_DIF_V09_Q01
 
@@ -114340,25 +114496,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_DIF_V10_Q01
 
@@ -114795,33 +114951,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CSP_LVL_TOUS_LAUNCH
 
 ### 🎚️ 🪪 Carte de séjour pluriannuelle — Tous niveaux confondus
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH_RUN)
+
+## SCR_ENT_CSP_LVL_TOUS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CSP_LVL_TOUS_V01_Q01 / ENT_CSP_LVL_TOUS_V02_Q01 / ENT_CSP_LVL_TOUS_V03_Q01 / ENT_CSP_LVL_TOUS_V04_Q01 / ENT_CSP_LVL_TOUS_V05_Q01 / ENT_CSP_LVL_TOUS_V06_Q01 / ENT_CSP_LVL_TOUS_V07_Q01 / ENT_CSP_LVL_TOUS_V08_Q01 / ENT_CSP_LVL_TOUS_V09_Q01 / ENT_CSP_LVL_TOUS_V10_Q01
 
@@ -115260,25 +115422,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_TOUS_V02_Q01
 
@@ -115715,25 +115877,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_TOUS_V03_Q01
 
@@ -116170,25 +116332,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_TOUS_V04_Q01
 
@@ -116625,25 +116787,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_TOUS_V05_Q01
 
@@ -117080,25 +117242,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_TOUS_V06_Q01
 
@@ -117535,25 +117697,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_TOUS_V07_Q01
 
@@ -117990,25 +118152,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_TOUS_V08_Q01
 
@@ -118445,25 +118607,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_TOUS_V09_Q01
 
@@ -118900,25 +119062,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CSP_LVL_TOUS_V10_Q01
 
@@ -119355,33 +119517,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CSP_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CSP)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_LVL_FAC_LAUNCH
 
 ### 🎚️ 🏡 Carte de résident — Facile
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH_RUN)
+
+## SCR_ENT_CR_LVL_FAC_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_LVL_FAC_V01_Q01 / ENT_CR_LVL_FAC_V02_Q01 / ENT_CR_LVL_FAC_V03_Q01 / ENT_CR_LVL_FAC_V04_Q01 / ENT_CR_LVL_FAC_V05_Q01 / ENT_CR_LVL_FAC_V06_Q01 / ENT_CR_LVL_FAC_V07_Q01 / ENT_CR_LVL_FAC_V08_Q01 / ENT_CR_LVL_FAC_V09_Q01 / ENT_CR_LVL_FAC_V10_Q01
 
@@ -119820,25 +119988,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_FAC_V02_Q01
 
@@ -120275,25 +120443,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_FAC_V03_Q01
 
@@ -120730,25 +120898,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_FAC_V04_Q01
 
@@ -121185,25 +121353,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_FAC_V05_Q01
 
@@ -121640,25 +121808,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_FAC_V06_Q01
 
@@ -122095,25 +122263,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_FAC_V07_Q01
 
@@ -122550,25 +122718,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_FAC_V08_Q01
 
@@ -123005,25 +123173,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_FAC_V09_Q01
 
@@ -123460,25 +123628,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_FAC_V10_Q01
 
@@ -123915,33 +124083,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_LVL_INT_LAUNCH
 
 ### 🎚️ 🏡 Carte de résident — Intermédiaire
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_LVL_INT_LAUNCH_RUN)
+
+## SCR_ENT_CR_LVL_INT_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_LVL_INT_V01_Q01 / ENT_CR_LVL_INT_V02_Q01 / ENT_CR_LVL_INT_V03_Q01 / ENT_CR_LVL_INT_V04_Q01 / ENT_CR_LVL_INT_V05_Q01 / ENT_CR_LVL_INT_V06_Q01 / ENT_CR_LVL_INT_V07_Q01 / ENT_CR_LVL_INT_V08_Q01 / ENT_CR_LVL_INT_V09_Q01 / ENT_CR_LVL_INT_V10_Q01
 
@@ -124380,25 +124554,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_INT_V02_Q01
 
@@ -124835,25 +125009,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_INT_V03_Q01
 
@@ -125290,25 +125464,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_INT_V04_Q01
 
@@ -125745,25 +125919,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_INT_V05_Q01
 
@@ -126200,25 +126374,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_INT_V06_Q01
 
@@ -126655,25 +126829,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_INT_V07_Q01
 
@@ -127110,25 +127284,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_INT_V08_Q01
 
@@ -127565,25 +127739,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_INT_V09_Q01
 
@@ -128020,25 +128194,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_INT_V10_Q01
 
@@ -128475,33 +128649,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_LVL_DIF_LAUNCH
 
 ### 🎚️ 🏡 Carte de résident — Difficile
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH_RUN)
+
+## SCR_ENT_CR_LVL_DIF_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_LVL_DIF_V01_Q01 / ENT_CR_LVL_DIF_V02_Q01 / ENT_CR_LVL_DIF_V03_Q01 / ENT_CR_LVL_DIF_V04_Q01 / ENT_CR_LVL_DIF_V05_Q01 / ENT_CR_LVL_DIF_V06_Q01 / ENT_CR_LVL_DIF_V07_Q01 / ENT_CR_LVL_DIF_V08_Q01 / ENT_CR_LVL_DIF_V09_Q01 / ENT_CR_LVL_DIF_V10_Q01
 
@@ -128940,25 +129120,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_DIF_V02_Q01
 
@@ -129395,25 +129575,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_DIF_V03_Q01
 
@@ -129850,25 +130030,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_DIF_V04_Q01
 
@@ -130301,25 +130481,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_DIF_V05_Q01
 
@@ -130756,25 +130936,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_DIF_V06_Q01
 
@@ -131211,25 +131391,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_DIF_V07_Q01
 
@@ -131666,25 +131846,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_DIF_V08_Q01
 
@@ -132121,25 +132301,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_DIF_V09_Q01
 
@@ -132576,25 +132756,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_DIF_V10_Q01
 
@@ -133027,33 +133207,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_CR_LVL_TOUS_LAUNCH
 
 ### 🎚️ 🏡 Carte de résident — Tous niveaux confondus
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH_RUN)
+
+## SCR_ENT_CR_LVL_TOUS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_CR_LVL_TOUS_V01_Q01 / ENT_CR_LVL_TOUS_V02_Q01 / ENT_CR_LVL_TOUS_V03_Q01 / ENT_CR_LVL_TOUS_V04_Q01 / ENT_CR_LVL_TOUS_V05_Q01 / ENT_CR_LVL_TOUS_V06_Q01 / ENT_CR_LVL_TOUS_V07_Q01 / ENT_CR_LVL_TOUS_V08_Q01 / ENT_CR_LVL_TOUS_V09_Q01 / ENT_CR_LVL_TOUS_V10_Q01
 
@@ -133492,25 +133678,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_TOUS_V02_Q01
 
@@ -133947,25 +134133,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_TOUS_V03_Q01
 
@@ -134402,25 +134588,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_TOUS_V04_Q01
 
@@ -134857,25 +135043,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_TOUS_V05_Q01
 
@@ -135312,25 +135498,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_TOUS_V06_Q01
 
@@ -135767,25 +135953,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_TOUS_V07_Q01
 
@@ -136222,25 +136408,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_TOUS_V08_Q01
 
@@ -136677,25 +136863,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_TOUS_V09_Q01
 
@@ -137132,25 +137318,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_CR_LVL_TOUS_V10_Q01
 
@@ -137587,33 +137773,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_CR_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_CR_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_CR)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_LVL_FAC_LAUNCH
 
 ### 🎚️ 🇫🇷 Naturalisation — Facile
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH_RUN)
+
+## SCR_ENT_NAT_LVL_FAC_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_NAT_LVL_FAC_V01_Q01 / ENT_NAT_LVL_FAC_V02_Q01 / ENT_NAT_LVL_FAC_V03_Q01 / ENT_NAT_LVL_FAC_V04_Q01 / ENT_NAT_LVL_FAC_V05_Q01 / ENT_NAT_LVL_FAC_V06_Q01 / ENT_NAT_LVL_FAC_V07_Q01 / ENT_NAT_LVL_FAC_V08_Q01 / ENT_NAT_LVL_FAC_V09_Q01 / ENT_NAT_LVL_FAC_V10_Q01
 
@@ -138052,25 +138244,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_FAC_V02_Q01
 
@@ -138507,25 +138699,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_FAC_V03_Q01
 
@@ -138962,25 +139154,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_FAC_V04_Q01
 
@@ -139417,25 +139609,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_FAC_V05_Q01
 
@@ -139872,25 +140064,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_FAC_V06_Q01
 
@@ -140327,25 +140519,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_FAC_V07_Q01
 
@@ -140782,25 +140974,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_FAC_V08_Q01
 
@@ -141237,25 +141429,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_FAC_V09_Q01
 
@@ -141692,25 +141884,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_FAC_V10_Q01
 
@@ -142147,33 +142339,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_FAC_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_FAC_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_LVL_INT_LAUNCH
 
 ### 🎚️ 🇫🇷 Naturalisation — Intermédiaire
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH_RUN)
+
+## SCR_ENT_NAT_LVL_INT_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_NAT_LVL_INT_V01_Q01 / ENT_NAT_LVL_INT_V02_Q01 / ENT_NAT_LVL_INT_V03_Q01 / ENT_NAT_LVL_INT_V04_Q01 / ENT_NAT_LVL_INT_V05_Q01 / ENT_NAT_LVL_INT_V06_Q01 / ENT_NAT_LVL_INT_V07_Q01 / ENT_NAT_LVL_INT_V08_Q01 / ENT_NAT_LVL_INT_V09_Q01 / ENT_NAT_LVL_INT_V10_Q01
 
@@ -142612,25 +142810,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_INT_V02_Q01
 
@@ -143067,25 +143265,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_INT_V03_Q01
 
@@ -143522,25 +143720,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_INT_V04_Q01
 
@@ -143977,25 +144175,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_INT_V05_Q01
 
@@ -144432,25 +144630,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_INT_V06_Q01
 
@@ -144887,25 +145085,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_INT_V07_Q01
 
@@ -145342,25 +145540,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_INT_V08_Q01
 
@@ -145797,25 +145995,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_INT_V09_Q01
 
@@ -146252,25 +146450,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_INT_V10_Q01
 
@@ -146707,33 +146905,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau intermédiaire est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau intermédiaire. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **intermédiaire** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau intermédiaire est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_INT_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_INT_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_LVL_DIF_LAUNCH
 
 ### 🎚️ 🇫🇷 Naturalisation — Difficile
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH_RUN)
+
+## SCR_ENT_NAT_LVL_DIF_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_NAT_LVL_DIF_V01_Q01 / ENT_NAT_LVL_DIF_V02_Q01 / ENT_NAT_LVL_DIF_V03_Q01 / ENT_NAT_LVL_DIF_V04_Q01 / ENT_NAT_LVL_DIF_V05_Q01 / ENT_NAT_LVL_DIF_V06_Q01 / ENT_NAT_LVL_DIF_V07_Q01 / ENT_NAT_LVL_DIF_V08_Q01 / ENT_NAT_LVL_DIF_V09_Q01 / ENT_NAT_LVL_DIF_V10_Q01
 
@@ -147172,25 +147376,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_DIF_V02_Q01
 
@@ -147627,25 +147831,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_DIF_V03_Q01
 
@@ -148082,25 +148286,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_DIF_V04_Q01
 
@@ -148537,25 +148741,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_DIF_V05_Q01
 
@@ -148992,25 +149196,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_DIF_V06_Q01
 
@@ -149447,25 +149651,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_DIF_V07_Q01
 
@@ -149902,25 +150106,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_DIF_V08_Q01
 
@@ -150357,25 +150561,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_DIF_V09_Q01
 
@@ -150812,25 +151016,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_DIF_V10_Q01
 
@@ -151267,33 +151471,39 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Le niveau difficile est encore trop exigeant pour le moment.** Revenez au niveau **facile** et obtenez **10/10 trois fois de suite**, puis retentez le niveau difficile. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vous êtes proche du niveau attendu.** Refaites un entraînement de niveau **facile** sur les notions qui vous ont posé problème, puis revenez au niveau **difficile** après deux scores d’au moins 8/10.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Le niveau difficile est presque maîtrisé.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau pour confirmer ce résultat.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_DIF_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_DIF_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## SCR_ENT_NAT_LVL_TOUS_LAUNCH
 
 ### 🎚️ 🇫🇷 Naturalisation — Tous niveaux confondus
 
-`@score = 0`
+Vous allez répondre à 10 questions correspondant au niveau choisi, dans l’ensemble des thématiques disponibles. La correction est affichée après chaque réponse.
 
-Un tirage aléatoire de 10 questions va commencer. La correction est affichée après chaque réponse.
+Cliquez sur le bouton « Démarrer l’entraînement » dès que vous êtes prêt.
+
+1. [▶️ Démarrer l’entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH_RUN)
+
+## SCR_ENT_NAT_LVL_TOUS_LAUNCH_RUN
+
+`@score = 0`
 
 !SelectNext: ENT_NAT_LVL_TOUS_V01_Q01 / ENT_NAT_LVL_TOUS_V02_Q01 / ENT_NAT_LVL_TOUS_V03_Q01 / ENT_NAT_LVL_TOUS_V04_Q01 / ENT_NAT_LVL_TOUS_V05_Q01 / ENT_NAT_LVL_TOUS_V06_Q01 / ENT_NAT_LVL_TOUS_V07_Q01 / ENT_NAT_LVL_TOUS_V08_Q01 / ENT_NAT_LVL_TOUS_V09_Q01 / ENT_NAT_LVL_TOUS_V10_Q01
 
@@ -151732,25 +151942,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_TOUS_V02_Q01
 
@@ -152187,25 +152397,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_TOUS_V03_Q01
 
@@ -152642,25 +152852,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_TOUS_V04_Q01
 
@@ -153097,25 +153307,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_TOUS_V05_Q01
 
@@ -153552,25 +153762,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_TOUS_V06_Q01
 
@@ -154007,25 +154217,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_TOUS_V07_Q01
 
@@ -154462,25 +154672,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_TOUS_V08_Q01
 
@@ -154917,25 +155127,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_TOUS_V09_Q01
 
@@ -155372,25 +155582,25 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
 
 ## ENT_NAT_LVL_TOUS_V10_Q01
 
@@ -155827,22 +156037,22 @@ Vous avez obtenu **`@score` / 10**.
 
 ### Conseils personnalisés
 
-`if @score <= 3`
-🧭 **Vous posez les premières bases.** Reprenez d’abord les notions signalées dans les corrections, puis relancez une série sur le même parcours. Cherchez à expliquer chaque bonne réponse avec vos propres mots.
+`if @score <= 5`
+🧭 **Les bases doivent encore être consolidées.** Travaillez au niveau **facile** et obtenez **10/10 trois fois de suite** avant de poursuivre. Consultez aussi les cours correspondant aux questions manquées.
 `endif`
 
-`if @score >= 4 && @score <= 6`
-🌱 **Vos connaissances progressent.** Concentrez votre prochaine révision sur les erreurs récurrentes. Après chaque correction, associez la notion à un exemple concret de la vie quotidienne.
+`if @score >= 6 && @score <= 7`
+🌱 **Vos connaissances progressent.** Restez au niveau facile et visez deux scores d’au moins 8/10 consécutifs. Relisez les cours associés à vos erreurs avant chaque nouvel entraînement.
 `endif`
 
-`if @score >= 7 && @score <= 8`
-👍 **Votre niveau est solide.** Révisez les quelques notions encore hésitantes et effectuez un nouveau tirage pour vérifier que vous savez répondre à des formulations différentes.
+`if @score >= 8 && @score <= 9`
+👍 **Votre niveau est solide.** Consultez le cours pour les questions manquées, puis réalisez un nouvel entraînement au même niveau ou passez au niveau supérieur.
 `endif`
 
-`if @score >= 9`
-🏆 **Très bonne maîtrise.** Entretenez vos acquis avec un autre niveau, une autre thématique ou des mises en situation. Pensez à justifier mentalement chaque réponse.
+`if @score == 10`
+🏆 **Excellent résultat.** Pour vérifier que vos acquis sont durables, réalisez encore deux entraînements. Si vous conservez 10/10 trois fois de suite, passez à une autre thématique ou au niveau supérieur.
 `endif`
 
-1. [🔄 Nouveau tirage](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
+1. [🔄 Nouvel entraînement](SCR_ENT_NAT_LVL_TOUS_LAUNCH)
 2. [↩️ Changer de choix](SCR_ENT_LEVEL_NAT)
-3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+3. [🏠 Retour au menu principal](SCR_ENT_MENU)
