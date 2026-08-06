@@ -1021,6 +1021,7 @@ class ContentResolver:
         self.reader = reader
         self.content_root = content_root
         self.strict_content = strict_content
+        self._module07_cache: Optional[tuple[dict[str, dict[str, Any]], dict[str, list[dict[str, Any]]]]] = None
 
     def resolve(self, screen: Screen) -> str:
         reference = screen.content_ref
@@ -1030,6 +1031,9 @@ class ContentResolver:
 
         if reference.startswith("CHAPITRE:"):
             return self._resolve_chapter_reference(reference)
+
+        if reference.startswith("SESSIONS_"):
+            return self._resolve_sessions_reference(reference)
 
         if ".md" in reference.casefold():
             return self._resolve_markdown_reference(reference, screen)
@@ -1055,6 +1059,75 @@ class ContentResolver:
             return f"[Ouvrir la ressource]({reference})"
 
         return self._fallback_from_screen(screen)
+
+    def _load_module07_data(
+        self,
+    ) -> tuple[dict[str, dict[str, Any]], dict[str, list[dict[str, Any]]]]:
+        if self._module07_cache is not None:
+            return self._module07_cache
+
+        centres: dict[str, dict[str, Any]] = {}
+        sessions_by_centre: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
+
+        centre_headers = self.reader.find_header_rows(
+            "07_PASSER_EXAMEN", ["Code région"]
+        )
+        if centre_headers:
+            table = self.reader.read_table_until_blank_or_block(
+                "07_PASSER_EXAMEN", centre_headers[0]
+            )
+            for record in table.rows:
+                code = safe_text(record.get("code_centre"))
+                if code:
+                    centres[code] = record
+
+        session_headers = self.reader.find_header_rows(
+            "07_PASSER_EXAMEN", ["ID session"]
+        )
+        if session_headers:
+            table = self.reader.read_table_until_blank_or_block(
+                "07_PASSER_EXAMEN", session_headers[0]
+            )
+            for record in table.rows:
+                code = safe_text(record.get("code_centre"))
+                session_date = excel_value_to_date(record.get("date_session"))
+                if code and session_date and session_date >= date.today():
+                    normalized = dict(record)
+                    normalized["_parsed_date"] = session_date
+                    sessions_by_centre[code].append(normalized)
+
+        for values in sessions_by_centre.values():
+            values.sort(key=lambda item: item["_parsed_date"])
+
+        self._module07_cache = (centres, dict(sessions_by_centre))
+        return self._module07_cache
+
+    def _resolve_sessions_reference(self, reference: str) -> str:
+        code_centre = reference.removeprefix("SESSIONS_")
+        centres, sessions_by_centre = self._load_module07_data()
+        centre = centres.get(code_centre, {})
+        sessions = sessions_by_centre.get(code_centre, [])[:3]
+
+        if sessions:
+            month_names = (
+                "", "janvier", "février", "mars", "avril", "mai", "juin",
+                "juillet", "août", "septembre", "octobre", "novembre", "décembre",
+            )
+            lines = ["**Prochaines sessions disponibles :**", ""]
+            for item in sessions:
+                value = item["_parsed_date"]
+                lines.append(f"- {value.day} {month_names[value.month]} {value.year}")
+        else:
+            lines = [
+                "**Aucune nouvelle session n’est actuellement publiée pour ce centre.**",
+                "",
+                "Vous pouvez consulter le formulaire d’inscription ou choisir un autre centre.",
+            ]
+
+        forms_url = safe_text(centre.get("lien_forms") or centre.get("forms_url"))
+        if forms_url:
+            lines.extend(["", f"[Ouvrir le formulaire d’inscription]({forms_url})"])
+        return "\n".join(lines)
 
     def _resolve_chapter_reference(self, reference: str) -> str:
         parts = reference.split(":")

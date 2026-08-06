@@ -13,33 +13,33 @@
 
 ## Contrôle avant publication
 
-- Erreurs : **0**
-- Avertissements : **207**
+- Erreurs : **1**
+- Avertissements : **226**
 
 Consultez `reports/validation_report.md` avant de déposer les fichiers sur GitHub.
 
 ## Fichiers de modules
 
-- `modules\start.md`
-- `modules\00_accueil_complements.md`
-- `modules\02_bilan.md`
-- `modules\08_conseils.md`
-- `modules\09_faq.md`
-- `modules\04_glossaire.md`
-- `modules\06_entrainement.md`
-- `modules\07_passer_examen.md`
-- `modules\05_preparer_examen.md`
-- `modules\10_question_libre.md`
-- `modules\03_revisions.md`
+- `modules/start.md`
+- `modules/00_accueil_complements.md`
+- `modules/02_bilan.md`
+- `modules/08_conseils.md`
+- `modules/09_faq.md`
+- `modules/04_glossaire.md`
+- `modules/06_entrainement.md`
+- `modules/07_passer_examen.md`
+- `modules/05_preparer_examen.md`
+- `modules/10_question_libre.md`
+- `modules/03_revisions.md`
 
 ## Fichiers de données
 
-- `data\faq.csv`
-- `data\glossaire.csv`
-- `data\intentions.csv`
-- `data\entites.csv`
-- `data\sessions.json`
-- `data\variables.json`
+- `data/faq.csv`
+- `data/glossaire.csv`
+- `data/intentions.csv`
+- `data/entites.csv`
+- `data/sessions.json`
+- `data/variables.json`
 
 ## Publication GitHub
 

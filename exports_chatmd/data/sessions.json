@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:13:33+02:00",
+  "generated_at": "2026-08-06T12:04:43+02:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -8,7 +8,7 @@
       "ville": "Clermont-Ferrand",
       "departement": "63",
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 7,
       "ecran_centre": "SCR_PASS_CITY_CLERMONT_FERRAND",
       "requete_ban": "Clermont-Ferrand 63",
       "actif": "Oui",
@@ -21,7 +21,7 @@
       "ville": "Le Puy-en-Velay",
       "departement": "43",
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 4,
       "ecran_centre": "SCR_PASS_CITY_LE_PUY_EN_VELAY",
       "requete_ban": "Le Puy-en-Velay 43",
       "actif": "Oui",
@@ -47,7 +47,7 @@
       "ville": "Vichy",
       "departement": "03",
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 4,
       "ecran_centre": "SCR_PASS_CITY_VICHY",
       "requete_ban": "Vichy 03",
       "actif": "Oui",
@@ -60,7 +60,7 @@
       "ville": "Auxerre",
       "departement": "89",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 5,
       "ecran_centre": "SCR_PASS_CITY_AUXERRE",
       "requete_ban": "Auxerre 89",
       "actif": "Oui",
@@ -73,24 +73,11 @@
       "ville": "Dijon",
       "departement": "21",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 5,
       "ecran_centre": "SCR_PASS_CITY_DIJON",
       "requete_ban": "Dijon 21",
       "actif": "Oui",
       "_row": 52
-    },
-    {
-      "code_region": "BOURGOGNE",
-      "region": "Bourgogne",
-      "code_centre": "MONTCEAU_LES_MINES",
-      "ville": "Montceau-les-Mines",
-      "departement": "71",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
-      "ecran_centre": "SCR_PASS_CITY_MONTCEAU_LES_MINES",
-      "requete_ban": "Montceau-les-Mines 71",
-      "actif": "Oui",
-      "_row": 53
     },
     {
       "code_region": "BOURGOGNE",
@@ -103,6 +90,19 @@
       "ecran_centre": "SCR_PASS_CITY_MACON",
       "requete_ban": "Mâcon 71",
       "actif": "Oui",
+      "_row": 53
+    },
+    {
+      "code_region": "BOURGOGNE",
+      "region": "Bourgogne",
+      "code_centre": "MONTCEAU_LES_MINES",
+      "ville": "Montceau-les-Mines",
+      "departement": "71",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
+      "sessions_futures": 3,
+      "ecran_centre": "SCR_PASS_CITY_MONTCEAU_LES_MINES",
+      "requete_ban": "Montceau-les-Mines 71",
+      "actif": "Oui",
       "_row": 54
     },
     {
@@ -112,7 +112,7 @@
       "ville": "Nevers",
       "departement": "58",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 4,
       "ecran_centre": "SCR_PASS_CITY_NEVERS",
       "requete_ban": "Nevers 58",
       "actif": "Oui",
@@ -125,7 +125,7 @@
       "ville": "Sens",
       "departement": "89",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 4,
       "ecran_centre": "SCR_PASS_CITY_SENS",
       "requete_ban": "Sens 89",
       "actif": "Oui",
@@ -138,7 +138,7 @@
       "ville": "Bourges",
       "departement": "18",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 4,
       "ecran_centre": "SCR_PASS_CITY_BOURGES",
       "requete_ban": "Bourges 18",
       "actif": "Oui",
@@ -151,7 +151,7 @@
       "ville": "Besançon",
       "departement": "25",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "sessions_futures": 3,
+      "sessions_futures": 9,
       "ecran_centre": "SCR_PASS_CITY_BESANCON",
       "requete_ban": "Besançon 25",
       "actif": "Oui",
@@ -164,7 +164,7 @@
       "ville": "Lons-le-Saunier",
       "departement": "39",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "sessions_futures": 3,
+      "sessions_futures": 4,
       "ecran_centre": "SCR_PASS_CITY_LONS_LE_SAUNIER",
       "requete_ban": "Lons-le-Saunier 39",
       "actif": "Oui",
@@ -177,7 +177,7 @@
       "ville": "Montbéliard",
       "departement": "25",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "sessions_futures": 3,
+      "sessions_futures": 4,
       "ecran_centre": "SCR_PASS_CITY_MONTBELIARD",
       "requete_ban": "Montbéliard 25",
       "actif": "Oui",
@@ -203,7 +203,7 @@
       "ville": "Mulhouse",
       "departement": "68",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 7,
       "ecran_centre": "SCR_PASS_CITY_MULHOUSE",
       "requete_ban": "Mulhouse 68",
       "actif": "Oui",
@@ -216,7 +216,7 @@
       "ville": "Reims",
       "departement": "51",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 6,
       "ecran_centre": "SCR_PASS_CITY_REIMS",
       "requete_ban": "Reims 51",
       "actif": "Oui",
@@ -242,7 +242,7 @@
       "ville": "Strasbourg",
       "departement": "67",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 6,
       "ecran_centre": "SCR_PASS_CITY_STRASBOURG",
       "requete_ban": "Strasbourg 67",
       "actif": "Oui",
@@ -255,7 +255,7 @@
       "ville": "Troyes",
       "departement": "10",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 6,
       "ecran_centre": "SCR_PASS_CITY_TROYES",
       "requete_ban": "Troyes 10",
       "actif": "Oui",
@@ -264,26 +264,26 @@
     {
       "code_region": "RHONE_ALPES",
       "region": "Rhône-Alpes",
-      "code_centre": "ANNECY",
-      "ville": "Annecy",
+      "code_centre": "ANNEMASSE",
+      "ville": "Annemasse",
       "departement": "74",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
-      "ecran_centre": "SCR_PASS_CITY_ANNECY",
-      "requete_ban": "Annecy 74",
+      "sessions_futures": 4,
+      "ecran_centre": "SCR_PASS_CITY_ANNEMASSE",
+      "requete_ban": "Annemasse 74",
       "actif": "Oui",
       "_row": 67
     },
     {
       "code_region": "RHONE_ALPES",
       "region": "Rhône-Alpes",
-      "code_centre": "ANNEMASSE",
-      "ville": "Annemasse",
+      "code_centre": "ANNECY",
+      "ville": "Annecy",
       "departement": "74",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
-      "ecran_centre": "SCR_PASS_CITY_ANNEMASSE",
-      "requete_ban": "Annemasse 74",
+      "sessions_futures": 4,
+      "ecran_centre": "SCR_PASS_CITY_ANNECY",
+      "requete_ban": "Annecy 74",
       "actif": "Oui",
       "_row": 68
     },
@@ -294,7 +294,7 @@
       "ville": "Bourg-en-Bresse",
       "departement": "01",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 4,
       "ecran_centre": "SCR_PASS_CITY_BOURG_EN_BRESSE",
       "requete_ban": "Bourg-en-Bresse 01",
       "actif": "Oui",
@@ -307,7 +307,7 @@
       "ville": "Valserhône",
       "departement": "01",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
-      "sessions_futures": 3,
+      "sessions_futures": 4,
       "ecran_centre": "SCR_PASS_CITY_VALSERHONE",
       "requete_ban": "Valserhône 01",
       "actif": "Oui",
@@ -316,7 +316,7 @@
   ],
   "sessions": [
     {
-      "id_session": "SES_CLERMONT_FERRAND_20260909_AC3352C2",
+      "id_session": "SES_PASS_001",
       "code_centre": "CLERMONT_FERRAND",
       "region": "Auvergne",
       "ville": "Clermont-Ferrand",
@@ -328,7 +328,7 @@
       "_row": 74
     },
     {
-      "id_session": "SES_CLERMONT_FERRAND_20260923_BFEE374A",
+      "id_session": "SES_PASS_002",
       "code_centre": "CLERMONT_FERRAND",
       "region": "Auvergne",
       "ville": "Clermont-Ferrand",
@@ -340,7 +340,7 @@
       "_row": 75
     },
     {
-      "id_session": "SES_CLERMONT_FERRAND_20261007_4C5A35C9",
+      "id_session": "SES_PASS_003",
       "code_centre": "CLERMONT_FERRAND",
       "region": "Auvergne",
       "ville": "Clermont-Ferrand",
@@ -352,7 +352,7 @@
       "_row": 76
     },
     {
-      "id_session": "SES_LE_PUY_EN_VELAY_20260923_348EAE06",
+      "id_session": "SES_PASS_008",
       "code_centre": "LE_PUY_EN_VELAY",
       "region": "Auvergne",
       "ville": "Le Puy-en-Velay",
@@ -361,10 +361,10 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 77
+      "_row": 81
     },
     {
-      "id_session": "SES_LE_PUY_EN_VELAY_20261021_F9B6CCCF",
+      "id_session": "SES_PASS_009",
       "code_centre": "LE_PUY_EN_VELAY",
       "region": "Auvergne",
       "ville": "Le Puy-en-Velay",
@@ -373,10 +373,10 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 78
+      "_row": 82
     },
     {
-      "id_session": "SES_LE_PUY_EN_VELAY_20261125_8C1C8858",
+      "id_session": "SES_PASS_010",
       "code_centre": "LE_PUY_EN_VELAY",
       "region": "Auvergne",
       "ville": "Le Puy-en-Velay",
@@ -385,10 +385,10 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 79
+      "_row": 83
     },
     {
-      "id_session": "SES_SAINT_FLOUR_20260916_61ACA3D3",
+      "id_session": "SES_PASS_012",
       "code_centre": "SAINT_FLOUR",
       "region": "Auvergne",
       "ville": "Saint-Flour",
@@ -397,10 +397,10 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 80
+      "_row": 85
     },
     {
-      "id_session": "SES_SAINT_FLOUR_20261118_B38A7977",
+      "id_session": "SES_PASS_013",
       "code_centre": "SAINT_FLOUR",
       "region": "Auvergne",
       "ville": "Saint-Flour",
@@ -409,10 +409,10 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 81
+      "_row": 86
     },
     {
-      "id_session": "SES_VICHY_20260930_14CFCEAA",
+      "id_session": "SES_PASS_014",
       "code_centre": "VICHY",
       "region": "Auvergne",
       "ville": "Vichy",
@@ -421,10 +421,10 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 82
+      "_row": 87
     },
     {
-      "id_session": "SES_VICHY_20261028_8D044CB6",
+      "id_session": "SES_PASS_015",
       "code_centre": "VICHY",
       "region": "Auvergne",
       "ville": "Vichy",
@@ -433,10 +433,10 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 83
+      "_row": 88
     },
     {
-      "id_session": "SES_VICHY_20261118_9312B694",
+      "id_session": "SES_PASS_016",
       "code_centre": "VICHY",
       "region": "Auvergne",
       "ville": "Vichy",
@@ -445,22 +445,10 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 84
+      "_row": 89
     },
     {
-      "id_session": "SES_AUXERRE_20260805_0CF99024",
-      "code_centre": "AUXERRE",
-      "region": "Bourgogne",
-      "ville": "Auxerre",
-      "date_session": "2026-08-05",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "source": "Fichiers Markdown / site FRATE",
-      "actif": "Oui",
-      "_row": 85
-    },
-    {
-      "id_session": "SES_AUXERRE_20260916_1DC67937",
+      "id_session": "SES_PASS_019",
       "code_centre": "AUXERRE",
       "region": "Bourgogne",
       "ville": "Auxerre",
@@ -469,10 +457,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 86
+      "_row": 92
     },
     {
-      "id_session": "SES_AUXERRE_20261016_F11D1029",
+      "id_session": "SES_PASS_020",
       "code_centre": "AUXERRE",
       "region": "Bourgogne",
       "ville": "Auxerre",
@@ -481,10 +469,22 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 87
+      "_row": 93
     },
     {
-      "id_session": "SES_DIJON_20260810_45D17AAA",
+      "id_session": "SES_PASS_021",
+      "code_centre": "AUXERRE",
+      "region": "Bourgogne",
+      "ville": "Auxerre",
+      "date_session": "2026-11-18",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
+      "source": "Fichiers Markdown / site FRATE",
+      "actif": "Oui",
+      "_row": 94
+    },
+    {
+      "id_session": "SES_PASS_023",
       "code_centre": "DIJON",
       "region": "Bourgogne",
       "ville": "Dijon",
@@ -493,10 +493,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 88
+      "_row": 96
     },
     {
-      "id_session": "SES_DIJON_20260907_FCED4F6D",
+      "id_session": "SES_PASS_024",
       "code_centre": "DIJON",
       "region": "Bourgogne",
       "ville": "Dijon",
@@ -505,10 +505,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 89
+      "_row": 97
     },
     {
-      "id_session": "SES_DIJON_20261012_B445BE9B",
+      "id_session": "SES_PASS_025",
       "code_centre": "DIJON",
       "region": "Bourgogne",
       "ville": "Dijon",
@@ -517,46 +517,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 90
+      "_row": 98
     },
     {
-      "id_session": "SES_MONTCEAU_LES_MINES_20260818_89588EE2",
-      "code_centre": "MONTCEAU_LES_MINES",
-      "region": "Bourgogne",
-      "ville": "Montceau-les-Mines",
-      "date_session": "2026-08-18",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "source": "Fichiers Markdown / site FRATE",
-      "actif": "Oui",
-      "_row": 91
-    },
-    {
-      "id_session": "SES_MONTCEAU_LES_MINES_20261013_8296C632",
-      "code_centre": "MONTCEAU_LES_MINES",
-      "region": "Bourgogne",
-      "ville": "Montceau-les-Mines",
-      "date_session": "2026-10-13",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "source": "Fichiers Markdown / site FRATE",
-      "actif": "Oui",
-      "_row": 92
-    },
-    {
-      "id_session": "SES_MONTCEAU_LES_MINES_20261215_BB9B6058",
-      "code_centre": "MONTCEAU_LES_MINES",
-      "region": "Bourgogne",
-      "ville": "Montceau-les-Mines",
-      "date_session": "2026-12-15",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "source": "Fichiers Markdown / site FRATE",
-      "actif": "Oui",
-      "_row": 93
-    },
-    {
-      "id_session": "SES_MACON_20260917_B9E56348",
+      "id_session": "SES_PASS_028",
       "code_centre": "MACON",
       "region": "Bourgogne",
       "ville": "Mâcon",
@@ -565,10 +529,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 94
+      "_row": 101
     },
     {
-      "id_session": "SES_MACON_20261117_16D5AF95",
+      "id_session": "SES_PASS_029",
       "code_centre": "MACON",
       "region": "Bourgogne",
       "ville": "Mâcon",
@@ -577,10 +541,46 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 95
+      "_row": 102
     },
     {
-      "id_session": "SES_NEVERS_20260915_4FDCDB51",
+      "id_session": "SES_PASS_030",
+      "code_centre": "MONTCEAU_LES_MINES",
+      "region": "Bourgogne",
+      "ville": "Montceau-les-Mines",
+      "date_session": "2026-08-18",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
+      "source": "Fichiers Markdown / site FRATE",
+      "actif": "Oui",
+      "_row": 103
+    },
+    {
+      "id_session": "SES_PASS_031",
+      "code_centre": "MONTCEAU_LES_MINES",
+      "region": "Bourgogne",
+      "ville": "Montceau-les-Mines",
+      "date_session": "2026-10-13",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
+      "source": "Fichiers Markdown / site FRATE",
+      "actif": "Oui",
+      "_row": 104
+    },
+    {
+      "id_session": "SES_PASS_032",
+      "code_centre": "MONTCEAU_LES_MINES",
+      "region": "Bourgogne",
+      "ville": "Montceau-les-Mines",
+      "date_session": "2026-12-15",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
+      "source": "Fichiers Markdown / site FRATE",
+      "actif": "Oui",
+      "_row": 105
+    },
+    {
+      "id_session": "SES_PASS_033",
       "code_centre": "NEVERS",
       "region": "Bourgogne",
       "ville": "Nevers",
@@ -589,10 +589,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 96
+      "_row": 106
     },
     {
-      "id_session": "SES_NEVERS_20261013_36AEA110",
+      "id_session": "SES_PASS_034",
       "code_centre": "NEVERS",
       "region": "Bourgogne",
       "ville": "Nevers",
@@ -601,10 +601,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 97
+      "_row": 107
     },
     {
-      "id_session": "SES_NEVERS_20261117_C40E108A",
+      "id_session": "SES_PASS_035",
       "code_centre": "NEVERS",
       "region": "Bourgogne",
       "ville": "Nevers",
@@ -613,10 +613,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 98
+      "_row": 108
     },
     {
-      "id_session": "SES_SENS_20260922_20B0DF69",
+      "id_session": "SES_PASS_037",
       "code_centre": "SENS",
       "region": "Bourgogne",
       "ville": "Sens",
@@ -625,10 +625,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 99
+      "_row": 110
     },
     {
-      "id_session": "SES_SENS_20261020_AC4A1AC3",
+      "id_session": "SES_PASS_038",
       "code_centre": "SENS",
       "region": "Bourgogne",
       "ville": "Sens",
@@ -637,10 +637,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 100
+      "_row": 111
     },
     {
-      "id_session": "SES_SENS_20261117_DB03E310",
+      "id_session": "SES_PASS_039",
       "code_centre": "SENS",
       "region": "Bourgogne",
       "ville": "Sens",
@@ -649,10 +649,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 101
+      "_row": 112
     },
     {
-      "id_session": "SES_BOURGES_20260922_778F807F",
+      "id_session": "SES_PASS_041",
       "code_centre": "BOURGES",
       "region": "Cher",
       "ville": "Bourges",
@@ -661,10 +661,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 102
+      "_row": 114
     },
     {
-      "id_session": "SES_BOURGES_20261006_18F5FD5F",
+      "id_session": "SES_PASS_042",
       "code_centre": "BOURGES",
       "region": "Cher",
       "ville": "Bourges",
@@ -673,10 +673,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 103
+      "_row": 115
     },
     {
-      "id_session": "SES_BOURGES_20261110_133ED183",
+      "id_session": "SES_PASS_043",
       "code_centre": "BOURGES",
       "region": "Cher",
       "ville": "Bourges",
@@ -685,10 +685,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 104
+      "_row": 116
     },
     {
-      "id_session": "SES_BESANCON_20260826_6710C38E",
+      "id_session": "SES_PASS_045",
       "code_centre": "BESANCON",
       "region": "Franche-Comté",
       "ville": "Besançon",
@@ -697,10 +697,10 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 105
+      "_row": 118
     },
     {
-      "id_session": "SES_BESANCON_20260909_A4F081B0",
+      "id_session": "SES_PASS_046",
       "code_centre": "BESANCON",
       "region": "Franche-Comté",
       "ville": "Besançon",
@@ -709,10 +709,10 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 106
+      "_row": 119
     },
     {
-      "id_session": "SES_BESANCON_20260930_16FB75CA",
+      "id_session": "SES_PASS_047",
       "code_centre": "BESANCON",
       "region": "Franche-Comté",
       "ville": "Besançon",
@@ -721,10 +721,10 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 107
+      "_row": 120
     },
     {
-      "id_session": "SES_LONS_LE_SAUNIER_20260909_CE9E36FE",
+      "id_session": "SES_PASS_054",
       "code_centre": "LONS_LE_SAUNIER",
       "region": "Franche-Comté",
       "ville": "Lons-le-Saunier",
@@ -733,10 +733,10 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 108
+      "_row": 127
     },
     {
-      "id_session": "SES_LONS_LE_SAUNIER_20261008_C4903329",
+      "id_session": "SES_PASS_055",
       "code_centre": "LONS_LE_SAUNIER",
       "region": "Franche-Comté",
       "ville": "Lons-le-Saunier",
@@ -745,10 +745,10 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 109
+      "_row": 128
     },
     {
-      "id_session": "SES_LONS_LE_SAUNIER_20261113_E7CA221E",
+      "id_session": "SES_PASS_056",
       "code_centre": "LONS_LE_SAUNIER",
       "region": "Franche-Comté",
       "ville": "Lons-le-Saunier",
@@ -757,10 +757,10 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 110
+      "_row": 129
     },
     {
-      "id_session": "SES_MONTBELIARD_20260902_F3EF27A0",
+      "id_session": "SES_PASS_058",
       "code_centre": "MONTBELIARD",
       "region": "Franche-Comté",
       "ville": "Montbéliard",
@@ -769,10 +769,10 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 111
+      "_row": 131
     },
     {
-      "id_session": "SES_MONTBELIARD_20261007_DE88C0BC",
+      "id_session": "SES_PASS_059",
       "code_centre": "MONTBELIARD",
       "region": "Franche-Comté",
       "ville": "Montbéliard",
@@ -781,10 +781,10 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 112
+      "_row": 132
     },
     {
-      "id_session": "SES_MONTBELIARD_20261104_96DB837B",
+      "id_session": "SES_PASS_060",
       "code_centre": "MONTBELIARD",
       "region": "Franche-Comté",
       "ville": "Montbéliard",
@@ -793,10 +793,10 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 113
+      "_row": 133
     },
     {
-      "id_session": "SES_CHAUMONT_20260909_253333B9",
+      "id_session": "SES_PASS_062",
       "code_centre": "CHAUMONT",
       "region": "Grand Est",
       "ville": "Chaumont",
@@ -805,10 +805,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 114
+      "_row": 135
     },
     {
-      "id_session": "SES_CHAUMONT_20261118_2FD647F6",
+      "id_session": "SES_PASS_063",
       "code_centre": "CHAUMONT",
       "region": "Grand Est",
       "ville": "Chaumont",
@@ -817,10 +817,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 115
+      "_row": 136
     },
     {
-      "id_session": "SES_MULHOUSE_20260907_5FBAF104",
+      "id_session": "SES_PASS_064",
       "code_centre": "MULHOUSE",
       "region": "Grand Est",
       "ville": "Mulhouse",
@@ -829,10 +829,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 116
+      "_row": 137
     },
     {
-      "id_session": "SES_MULHOUSE_20260921_A1035EAD",
+      "id_session": "SES_PASS_065",
       "code_centre": "MULHOUSE",
       "region": "Grand Est",
       "ville": "Mulhouse",
@@ -841,10 +841,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 117
+      "_row": 138
     },
     {
-      "id_session": "SES_MULHOUSE_20261008_AA9B47E2",
+      "id_session": "SES_PASS_066",
       "code_centre": "MULHOUSE",
       "region": "Grand Est",
       "ville": "Mulhouse",
@@ -853,10 +853,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 118
+      "_row": 139
     },
     {
-      "id_session": "SES_REIMS_20260902_BDA8310D",
+      "id_session": "SES_PASS_071",
       "code_centre": "REIMS",
       "region": "Grand Est",
       "ville": "Reims",
@@ -865,10 +865,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 119
+      "_row": 144
     },
     {
-      "id_session": "SES_REIMS_20260923_8B92E9A9",
+      "id_session": "SES_PASS_072",
       "code_centre": "REIMS",
       "region": "Grand Est",
       "ville": "Reims",
@@ -877,10 +877,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 120
+      "_row": 145
     },
     {
-      "id_session": "SES_REIMS_20261007_2062AA9E",
+      "id_session": "SES_PASS_073",
       "code_centre": "REIMS",
       "region": "Grand Est",
       "ville": "Reims",
@@ -889,46 +889,46 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 121
+      "_row": 146
     },
     {
-      "id_session": "SES_SAINT_DIE_DES_VOSGES_20260810_26853195",
+      "id_session": "SES_PASS_077",
       "code_centre": "SAINT_DIE_DES_VOSGES",
       "region": "Grand Est",
       "ville": "Saint-Dié-des-Vosges",
-      "date_session": "2026-08-10",
+      "date_session": "2026-09-24",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 122
+      "_row": 150
     },
     {
-      "id_session": "SES_SAINT_DIE_DES_VOSGES_20260818_FA21B236",
+      "id_session": "SES_PASS_078",
       "code_centre": "SAINT_DIE_DES_VOSGES",
       "region": "Grand Est",
       "ville": "Saint-Dié-des-Vosges",
-      "date_session": "2026-08-18",
+      "date_session": "2026-10-22",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 123
+      "_row": 151
     },
     {
-      "id_session": "SES_SAINT_DIE_DES_VOSGES_20260902_79DCB5E6",
+      "id_session": "SES_PASS_079",
       "code_centre": "SAINT_DIE_DES_VOSGES",
       "region": "Grand Est",
       "ville": "Saint-Dié-des-Vosges",
-      "date_session": "2026-09-02",
+      "date_session": "2026-11-26",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 124
+      "_row": 152
     },
     {
-      "id_session": "SES_STRASBOURG_20260909_39E9D54C",
+      "id_session": "SES_PASS_080",
       "code_centre": "STRASBOURG",
       "region": "Grand Est",
       "ville": "Strasbourg",
@@ -937,10 +937,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 125
+      "_row": 153
     },
     {
-      "id_session": "SES_STRASBOURG_20260930_8FF8F6C5",
+      "id_session": "SES_PASS_081",
       "code_centre": "STRASBOURG",
       "region": "Grand Est",
       "ville": "Strasbourg",
@@ -949,10 +949,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 126
+      "_row": 154
     },
     {
-      "id_session": "SES_STRASBOURG_20261014_0AB90A70",
+      "id_session": "SES_PASS_082",
       "code_centre": "STRASBOURG",
       "region": "Grand Est",
       "ville": "Strasbourg",
@@ -961,10 +961,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 127
+      "_row": 155
     },
     {
-      "id_session": "SES_TROYES_20260916_C7DA10A4",
+      "id_session": "SES_PASS_086",
       "code_centre": "TROYES",
       "region": "Grand Est",
       "ville": "Troyes",
@@ -973,10 +973,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 128
+      "_row": 159
     },
     {
-      "id_session": "SES_TROYES_20260930_FB346A6A",
+      "id_session": "SES_PASS_087",
       "code_centre": "TROYES",
       "region": "Grand Est",
       "ville": "Troyes",
@@ -985,10 +985,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 129
+      "_row": 160
     },
     {
-      "id_session": "SES_TROYES_20261014_E3C8EA19",
+      "id_session": "SES_PASS_088",
       "code_centre": "TROYES",
       "region": "Grand Est",
       "ville": "Troyes",
@@ -997,46 +997,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 130
+      "_row": 161
     },
     {
-      "id_session": "SES_ANNECY_20260918_0324F274",
-      "code_centre": "ANNECY",
-      "region": "Rhône-Alpes",
-      "ville": "Annecy",
-      "date_session": "2026-09-18",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
-      "source": "Fichiers Markdown / site FRATE",
-      "actif": "Oui",
-      "_row": 131
-    },
-    {
-      "id_session": "SES_ANNECY_20261016_12A38650",
-      "code_centre": "ANNECY",
-      "region": "Rhône-Alpes",
-      "ville": "Annecy",
-      "date_session": "2026-10-16",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
-      "source": "Fichiers Markdown / site FRATE",
-      "actif": "Oui",
-      "_row": 132
-    },
-    {
-      "id_session": "SES_ANNECY_20261127_70E85CB0",
-      "code_centre": "ANNECY",
-      "region": "Rhône-Alpes",
-      "ville": "Annecy",
-      "date_session": "2026-11-27",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
-      "source": "Fichiers Markdown / site FRATE",
-      "actif": "Oui",
-      "_row": 133
-    },
-    {
-      "id_session": "SES_ANNEMASSE_20260930_CC1C0404",
+      "id_session": "SES_PASS_092",
       "code_centre": "ANNEMASSE",
       "region": "Rhône-Alpes",
       "ville": "Annemasse",
@@ -1045,10 +1009,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 134
+      "_row": 165
     },
     {
-      "id_session": "SES_ANNEMASSE_20261028_7B274DB9",
+      "id_session": "SES_PASS_093",
       "code_centre": "ANNEMASSE",
       "region": "Rhône-Alpes",
       "ville": "Annemasse",
@@ -1057,10 +1021,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 135
+      "_row": 166
     },
     {
-      "id_session": "SES_ANNEMASSE_20261125_6DAEEB7B",
+      "id_session": "SES_PASS_094",
       "code_centre": "ANNEMASSE",
       "region": "Rhône-Alpes",
       "ville": "Annemasse",
@@ -1069,10 +1033,46 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 136
+      "_row": 167
     },
     {
-      "id_session": "SES_BOURG_EN_BRESSE_20260925_4797FBFB",
+      "id_session": "SES_PASS_096",
+      "code_centre": "ANNECY",
+      "region": "Rhône-Alpes",
+      "ville": "Annecy",
+      "date_session": "2026-09-18",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
+      "source": "Fichiers Markdown / site FRATE",
+      "actif": "Oui",
+      "_row": 169
+    },
+    {
+      "id_session": "SES_PASS_097",
+      "code_centre": "ANNECY",
+      "region": "Rhône-Alpes",
+      "ville": "Annecy",
+      "date_session": "2026-10-16",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
+      "source": "Fichiers Markdown / site FRATE",
+      "actif": "Oui",
+      "_row": 170
+    },
+    {
+      "id_session": "SES_PASS_098",
+      "code_centre": "ANNECY",
+      "region": "Rhône-Alpes",
+      "ville": "Annecy",
+      "date_session": "2026-11-27",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
+      "source": "Fichiers Markdown / site FRATE",
+      "actif": "Oui",
+      "_row": 171
+    },
+    {
+      "id_session": "SES_PASS_100",
       "code_centre": "BOURG_EN_BRESSE",
       "region": "Rhône-Alpes",
       "ville": "Bourg-en-Bresse",
@@ -1081,10 +1081,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 137
+      "_row": 173
     },
     {
-      "id_session": "SES_BOURG_EN_BRESSE_20261023_A7D854FD",
+      "id_session": "SES_PASS_101",
       "code_centre": "BOURG_EN_BRESSE",
       "region": "Rhône-Alpes",
       "ville": "Bourg-en-Bresse",
@@ -1093,10 +1093,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 138
+      "_row": 174
     },
     {
-      "id_session": "SES_BOURG_EN_BRESSE_20261120_298DF783",
+      "id_session": "SES_PASS_102",
       "code_centre": "BOURG_EN_BRESSE",
       "region": "Rhône-Alpes",
       "ville": "Bourg-en-Bresse",
@@ -1105,10 +1105,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 139
+      "_row": 175
     },
     {
-      "id_session": "SES_VALSERHONE_20260923_35D96C66",
+      "id_session": "SES_PASS_104",
       "code_centre": "VALSERHONE",
       "region": "Rhône-Alpes",
       "ville": "Valserhône",
@@ -1117,10 +1117,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 140
+      "_row": 177
     },
     {
-      "id_session": "SES_VALSERHONE_20261021_5CE0ACE3",
+      "id_session": "SES_PASS_105",
       "code_centre": "VALSERHONE",
       "region": "Rhône-Alpes",
       "ville": "Valserhône",
@@ -1129,10 +1129,10 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 141
+      "_row": 178
     },
     {
-      "id_session": "SES_VALSERHONE_20261118_60B66FEF",
+      "id_session": "SES_PASS_106",
       "code_centre": "VALSERHONE",
       "region": "Rhône-Alpes",
       "ville": "Valserhône",
@@ -1141,7 +1141,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl",
       "source": "Fichiers Markdown / site FRATE",
       "actif": "Oui",
-      "_row": 142
+      "_row": 179
     }
   ],
   "max_sessions_per_centre": 3

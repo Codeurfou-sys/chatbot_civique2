@@ -71,7 +71,7 @@ from openpyxl.utils.datetime import from_excel
 
 
 DEFAULT_FRATE_URL = "https://frateformation.net/formation/examen-civique/"
-DEFAULT_BAN_URL = "https://api-adresse.data.gouv.fr/search/"
+DEFAULT_BAN_URL = "https://data.geopf.fr/geocodage/search"
 SHEET_MODULE = "07_PASSER_EXAMEN"
 SHEET_SCREENS = "95_ECRANS_PASSER_EXAMEN"
 MAX_SESSIONS_PER_CENTRE = 3
@@ -528,14 +528,15 @@ def scrape_frate_sessions(
     candidates: list[Any] = []
 
     selectors = (
-        "article",
-        "section",
+        "tr",
         ".elementor-widget-container",
         ".elementor-tab-content",
         ".wp-block-group",
         ".accordion-item",
         ".et_pb_toggle",
         "li",
+        "section",
+        "article",
     )
     for selector in selectors:
         candidates.extend(soup.select(selector))
@@ -549,6 +550,15 @@ def scrape_frate_sessions(
     for node in candidates:
         text = " ".join(node.stripped_strings)
         if len(text) < 10:
+            continue
+        matching_centres = [
+            item for item in centres
+            if normalize_text(item.ville) in normalize_text(text)
+        ]
+        # Un conteneur qui cite plusieurs villes est trop large (section ou
+        # page entière) : lui attribuer toutes ses dates au premier centre
+        # produirait des sessions erronées.
+        if len(matching_centres) != 1:
             continue
         centre = best_matching_centre(text, centres)
         if centre is None:
@@ -596,6 +606,29 @@ def merge_sessions(*session_lists: Iterable[Session]) -> list[Session]:
             key = (session.code_centre, session.session_date)
             merged[key] = copy.deepcopy(session)
     return list(merged.values())
+
+
+def merge_session_sources(
+    workbook_sessions: list[Session],
+    scraped_sessions: list[Session],
+    json_sessions: list[Session],
+) -> list[Session]:
+    """Fusionne les sources en donnant priorité aux sources les plus fraîches.
+
+    Dès que le site FRATE fournit des dates pour un centre, les anciennes dates
+    Excel de ce centre sont remplacées (et non simplement ajoutées). Le JSON
+    administrateur applique la même règle avec la priorité la plus élevée.
+    """
+    merged = merge_sessions(workbook_sessions)
+    for preferred in (scraped_sessions, json_sessions):
+        preferred_codes = {item.code_centre for item in preferred}
+        if preferred_codes:
+            merged = [
+                item for item in merged
+                if item.code_centre not in preferred_codes
+            ]
+        merged = merge_sessions(merged, preferred)
+    return merged
 
 
 def filter_future_sessions(
@@ -1151,6 +1184,14 @@ def parse_args() -> argparse.Namespace:
         help="Ne pas tenter de récupérer le site FRATE.",
     )
     parser.add_argument(
+        "--require-frate",
+        action="store_true",
+        help=(
+            "Échouer si aucune session n'est extraite du site FRATE. "
+            "À utiliser dans l'automatisation quotidienne."
+        ),
+    )
+    parser.add_argument(
         "--offline",
         action="store_true",
         help="Désactiver les appels réseau BAN et Forms.",
@@ -1298,9 +1339,16 @@ def main() -> int:
                 exc,
             )
 
+    if args.require_frate and not scraped_sessions:
+        logging.error(
+            "Aucune session FRATE n'a été extraite : publication interrompue "
+            "pour éviter de diffuser des données périmées."
+        )
+        return 6
+
     # Ordre de priorité : Excel < scraping FRATE < JSON local.
     # Le JSON local est considéré comme une source contrôlée par l'administrateur.
-    merged = merge_sessions(
+    merged = merge_session_sources(
         workbook_sessions,
         scraped_sessions,
         json_sessions,
