@@ -72,6 +72,13 @@ from openpyxl.utils.datetime import from_excel
 
 DEFAULT_FRATE_URL = "https://frateformation.net/formation/examen-civique/"
 DEFAULT_BAN_URL = "https://data.geopf.fr/geocodage/search"
+
+# Certains numéros de département peuvent être interprétés comme des codes
+# postaux incomplets par le géocodeur. Pour ces centres, on conserve une
+# requête communale explicite et stable.
+CENTRE_BAN_QUERIES = {
+    "VICHY": "Vichy 03200",
+}
 SHEET_MODULE = "07_PASSER_EXAMEN"
 SHEET_SCREENS = "95_ECRANS_PASSER_EXAMEN"
 MAX_SESSIONS_PER_CENTRE = 3
@@ -811,7 +818,10 @@ def geocode_centres(
             )
             continue
 
-        query = centre.ban_query or f"{centre.ville} {centre.departement}"
+        query = CENTRE_BAN_QUERIES.get(
+            centre.code_centre,
+            centre.ban_query or f"{centre.ville} {centre.departement}",
+        )
         try:
             results = geocode(query, session)
             if not results:
