@@ -2,8 +2,8 @@
 
 - Écrans : **695**
 - Transitions : **2732**
-- Erreurs : **1**
-- Avertissements : **226**
+- Erreurs : **0**
+- Avertissements : **207**
 
 - **INFO / DYNAMIC_NAV_DESTINATION** : Destination dynamique autorisée : SCR_GLO_* — `99_NAVIGATION` ligne 407
 - **INFO / DYNAMIC_NAV_DESTINATION** : Destination dynamique autorisée : SCR_PASS_CITY_* — `99_NAVIGATION` ligne 1563
@@ -211,26 +211,6 @@
 - **WARNING / UNDECLARED_VARIABLE** : Variable utilisée mais non déclarée : {themes_sous_seuil}
 - **WARNING / UNDECLARED_VARIABLE** : Variable utilisée mais non déclarée : {variable_obligatoire}
 - **WARNING / UNDECLARED_VARIABLE** : Variable utilisée mais non déclarée : {variables_transmises}
-- **ERROR / PAST_SESSION** : Session passée encore active : AUXERRE — 2026-08-05 — `07_PASSER_EXAMEN` ligne 91
-- **WARNING / TOO_MANY_SESSIONS** : CLERMONT_FERRAND contient 7 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : LE_PUY_EN_VELAY contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : VICHY contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : AUXERRE contient 5 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : DIJON contient 5 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : NEVERS contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : SENS contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : BOURGES contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : BESANCON contient 9 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : LONS_LE_SAUNIER contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : MONTBELIARD contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : MULHOUSE contient 7 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : REIMS contient 6 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : STRASBOURG contient 6 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : TROYES contient 6 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : ANNEMASSE contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : ANNECY contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : BOURG_EN_BRESSE contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
-- **WARNING / TOO_MANY_SESSIONS** : VALSERHONE contient 4 sessions ; l'export ChatMD en affichera au maximum 3. — `07_PASSER_EXAMEN`
 - **WARNING / MANUAL_CONDITION_REQUIRED** : La navigation NAV_ACC_008 nécessite une affectation de variable avant la destination (RESTART_YES). — `99_NAVIGATION` ligne 2808
 - **WARNING / MANUAL_CONDITION_REQUIRED** : La navigation NAV_ACC_009 nécessite une affectation de variable avant la destination (RESTART_NO). — `99_NAVIGATION` ligne 2809
 - **WARNING / MANUAL_CONDITION_REQUIRED** : La navigation NAV_BIL_INIT_003A nécessite une affectation de variable avant la destination (DEBUT_AUJOURDHUI). — `99_NAVIGATION` ligne 16
