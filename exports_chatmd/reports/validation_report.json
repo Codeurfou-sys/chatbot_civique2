@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-06T12:04:43+02:00",
+  "generated_at": "2026-08-06T16:35:17+00:00",
   "summary": {
     "screens": 695,
     "navigation": 2732,
-    "errors": 1,
-    "warnings": 226,
+    "errors": 0,
+    "warnings": 207,
     "information": 872,
-    "export_allowed": false
+    "export_allowed": true
   },
   "issues": [
     {
@@ -1656,166 +1656,6 @@
       "sheet": null,
       "row": null,
       "value": "variables_transmises"
-    },
-    {
-      "level": "ERROR",
-      "code": "PAST_SESSION",
-      "message": "Session passée encore active : AUXERRE — 2026-08-05",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": 91,
-      "value": null
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "CLERMONT_FERRAND contient 7 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "CLERMONT_FERRAND"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "LE_PUY_EN_VELAY contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "LE_PUY_EN_VELAY"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "VICHY contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "VICHY"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "AUXERRE contient 5 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "AUXERRE"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "DIJON contient 5 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "DIJON"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "NEVERS contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "NEVERS"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "SENS contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "SENS"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "BOURGES contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "BOURGES"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "BESANCON contient 9 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "BESANCON"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "LONS_LE_SAUNIER contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "LONS_LE_SAUNIER"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "MONTBELIARD contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "MONTBELIARD"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "MULHOUSE contient 7 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "MULHOUSE"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "REIMS contient 6 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "REIMS"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "STRASBOURG contient 6 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "STRASBOURG"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "TROYES contient 6 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "TROYES"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "ANNEMASSE contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "ANNEMASSE"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "ANNECY contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "ANNECY"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "BOURG_EN_BRESSE contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "BOURG_EN_BRESSE"
-    },
-    {
-      "level": "WARNING",
-      "code": "TOO_MANY_SESSIONS",
-      "message": "VALSERHONE contient 4 sessions ; l'export ChatMD en affichera au maximum 3.",
-      "sheet": "07_PASSER_EXAMEN",
-      "row": null,
-      "value": "VALSERHONE"
     },
     {
       "level": "WARNING",

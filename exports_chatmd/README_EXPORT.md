@@ -13,8 +13,8 @@
 
 ## Contrôle avant publication
 
-- Erreurs : **1**
-- Avertissements : **226**
+- Erreurs : **0**
+- Avertissements : **207**
 
 Consultez `reports/validation_report.md` avant de déposer les fichiers sur GitHub.
 

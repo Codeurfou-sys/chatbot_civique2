@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -75,9 +75,9 @@
 
 **Prochaines sessions disponibles :**
 
-- 26 août 2026
 - 9 septembre 2026
 - 30 septembre 2026
+- 16 octobre 2026
 
 [Ouvrir le formulaire d’inscription](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 
@@ -184,9 +184,9 @@
 
 **Prochaines sessions disponibles :**
 
-- 10 août 2026
 - 7 septembre 2026
 - 12 octobre 2026
+- 9 novembre 2026
 
 [Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 
@@ -448,7 +448,7 @@
 
 - 9 septembre 2026
 - 30 septembre 2026
-- 14 octobre 2026
+- 22 octobre 2026
 
 [Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 
@@ -470,7 +470,7 @@
 
 - 16 septembre 2026
 - 30 septembre 2026
-- 14 octobre 2026
+- 21 octobre 2026
 
 [Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 

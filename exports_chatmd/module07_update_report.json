@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:13:27+02:00",
+  "generated_at": "2026-08-06T16:35:15+00:00",
   "centres_total": 24,
   "centres_geocodes": 23,
   "sessions_conservees": 69,
@@ -18,7 +18,7 @@
     },
     "frate": {
       "used": true,
-      "sessions_loaded": 50,
+      "sessions_loaded": 103,
       "url": "https://frateformation.net/formation/examen-civique/"
     }
   },

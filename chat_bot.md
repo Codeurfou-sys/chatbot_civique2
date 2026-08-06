@@ -40,7 +40,7 @@ Choisissez une rubrique ci-dessous ou utilisez « Pose-moi une question ».
 <!-- Début du fichier source : modules/00_accueil_complements.md -->
 
 <!-- Module généré automatiquement : Accueil -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_ACC_AIDE
 
@@ -77,7 +77,7 @@ Le Coach Civique est un assistant pédagogique déterministe construit à partir
 <!-- Début du fichier source : modules/02_bilan.md -->
 
 <!-- Module généré automatiquement : Bilan -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_BIL_MENU
 
@@ -393,7 +393,7 @@ Votre bilan de progression est terminé. Consultez vos priorités, révisez les 
 <!-- Début du fichier source : modules/08_conseils.md -->
 
 <!-- Module généré automatiquement : Conseils -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_CONS_MENU
 
@@ -3297,7 +3297,7 @@ Pour mieux mémoriser :
 <!-- Début du fichier source : modules/09_faq.md -->
 
 <!-- Module généré automatiquement : FAQ -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_FAQ_CATEGORIES
 
@@ -5131,7 +5131,7 @@ Vous pouvez également consulter la page de, sélectionner votre région puis ch
 <!-- Début du fichier source : modules/04_glossaire.md -->
 
 <!-- Module généré automatiquement : Glossaire -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_GLO_ALPHA_MENU
 
@@ -7868,7 +7868,7 @@ La démocratie est une manière d'exercer le pouvoir.
 <!-- Début du fichier source : modules/06_entrainement.md -->
 
 <!-- Module généré automatiquement : M’entraîner -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_ENT_CR_T1_QOFF_INTRO
 
@@ -8626,7 +8626,7 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -8702,9 +8702,9 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 **Prochaines sessions disponibles :**
 
-- 26 août 2026
 - 9 septembre 2026
 - 30 septembre 2026
+- 16 octobre 2026
 
 [Ouvrir le formulaire d’inscription](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 
@@ -8811,9 +8811,9 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 **Prochaines sessions disponibles :**
 
-- 10 août 2026
 - 7 septembre 2026
 - 12 octobre 2026
+- 9 novembre 2026
 
 [Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 
@@ -9075,7 +9075,7 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 - 9 septembre 2026
 - 30 septembre 2026
-- 14 octobre 2026
+- 22 octobre 2026
 
 [Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 
@@ -9097,7 +9097,7 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 - 16 septembre 2026
 - 30 septembre 2026
-- 14 octobre 2026
+- 21 octobre 2026
 
 [Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 
@@ -9560,7 +9560,7 @@ Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
 <!-- Début du fichier source : modules/05_preparer_examen.md -->
 
 <!-- Module généré automatiquement : Préparer examen -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_PREP_RES_MENU
 
@@ -10306,7 +10306,7 @@ Vous avez obtenu {score} bonne(s) réponse(s) sur 28, soit {pourcentage} %.
 <!-- Début du fichier source : modules/10_question_libre.md -->
 
 <!-- Module généré automatiquement : Question libre -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_QL_CONFIRM
 
@@ -10564,7 +10564,7 @@ Reformulez avec une phrase plus courte ou choisissez une rubrique : FAQ, Glossai
 <!-- Début du fichier source : modules/03_revisions.md -->
 
 <!-- Module généré automatiquement : Révisions -->
-<!-- Date : 2026-08-06T12:04:43+02:00 -->
+<!-- Date : 2026-08-06T16:35:17+00:00 -->
 
 ## SCR_REV_MENU
 
