@@ -67,6 +67,21 @@ Pendant l’épreuve :
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -101,6 +116,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q01 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q02
 
 ## EXAM_CSP_V01_Q02
@@ -127,6 +144,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q02_FAUX
 
 `@err_CSP_V01_Q02 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q03
 
@@ -155,6 +174,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q03 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q04
 
 ## EXAM_CSP_V01_Q04
@@ -181,6 +202,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q04_FAUX
 
 `@err_CSP_V01_Q04 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q05
 
@@ -209,6 +232,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q05 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q06
 
 ## EXAM_CSP_V01_Q06
@@ -235,6 +260,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q06_FAUX
 
 `@err_CSP_V01_Q06 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q07
 
@@ -263,6 +290,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q07 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q08
 
 ## EXAM_CSP_V01_Q08
@@ -289,6 +318,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q08_FAUX
 
 `@err_CSP_V01_Q08 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q09
 
@@ -317,6 +348,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q09 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q10
 
 ## EXAM_CSP_V01_Q10
@@ -343,6 +376,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q10_FAUX
 
 `@err_CSP_V01_Q10 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q11
 
@@ -371,6 +406,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q11 = 1`
 
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q12
 
 ## EXAM_CSP_V01_Q12
@@ -397,6 +434,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q12_FAUX
 
 `@err_CSP_V01_Q12 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q13
 
@@ -425,6 +464,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q13 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q14
 
 ## EXAM_CSP_V01_Q14
@@ -451,6 +492,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q14_FAUX
 
 `@err_CSP_V01_Q14 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q15
 
@@ -479,6 +522,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q15 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q16
 
 ## EXAM_CSP_V01_Q16
@@ -505,6 +550,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q16_FAUX
 
 `@err_CSP_V01_Q16 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q17
 
@@ -533,6 +580,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q17 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q18
 
 ## EXAM_CSP_V01_Q18
@@ -559,6 +608,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q18_FAUX
 
 `@err_CSP_V01_Q18 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q19
 
@@ -587,6 +638,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q19 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q20
 
 ## EXAM_CSP_V01_Q20
@@ -613,6 +666,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q20_FAUX
 
 `@err_CSP_V01_Q20 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q21
 
@@ -641,6 +696,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q21 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q22
 
 ## EXAM_CSP_V01_Q22
@@ -667,6 +724,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q22_FAUX
 
 `@err_CSP_V01_Q22 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q23
 
@@ -695,6 +754,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q23 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q24
 
 ## EXAM_CSP_V01_Q24
@@ -721,6 +782,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q24_FAUX
 
 `@err_CSP_V01_Q24 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q25
 
@@ -749,6 +812,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q25 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q26
 
 ## EXAM_CSP_V01_Q26
@@ -775,6 +840,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q26_FAUX
 
 `@err_CSP_V01_Q26 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q27
 
@@ -803,6 +870,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q27 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q28
 
 ## EXAM_CSP_V01_Q28
@@ -829,6 +898,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q28_FAUX
 
 `@err_CSP_V01_Q28 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V01_PART2
 
@@ -867,6 +938,8 @@ Un ami ne comprend pas pourquoi les libertés individuelles peuvent être limit�
 
 `@err_CSP_V01_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q30
 
 ## EXAM_CSP_V01_Q30
@@ -895,6 +968,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 ## EXAM_CSP_V01_Q30_FAUX
 
 `@err_CSP_V01_Q30 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q31
 
@@ -925,6 +1000,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 
 `@err_CSP_V01_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q32
 
 ## EXAM_CSP_V01_Q32
@@ -953,6 +1030,8 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 ## EXAM_CSP_V01_Q32_FAUX
 
 `@err_CSP_V01_Q32 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q33
 
@@ -983,6 +1062,8 @@ Lors d'une révision, on vous demande de citer un texte adopté pendant la Révo
 
 `@err_CSP_V01_Q33 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q34
 
 ## EXAM_CSP_V01_Q34
@@ -1011,6 +1092,8 @@ Lors d'un débat public, un participant expose longuement son opinion sur un suj
 ## EXAM_CSP_V01_Q34_FAUX
 
 `@err_CSP_V01_Q34 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q35
 
@@ -1041,6 +1124,8 @@ Lors d'un examen blanc, on vous demande de citer le texte fondateur établissant
 
 `@err_CSP_V01_Q35 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q36
 
 ## EXAM_CSP_V01_Q36
@@ -1069,6 +1154,8 @@ Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'h
 ## EXAM_CSP_V01_Q36_FAUX
 
 `@err_CSP_V01_Q36 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q37
 
@@ -1099,6 +1186,8 @@ Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » e
 
 `@err_CSP_V01_Q37 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q38
 
 ## EXAM_CSP_V01_Q38
@@ -1127,6 +1216,8 @@ Pour décorer l'accueil de son organisme de formation, une collègue hésite ent
 ## EXAM_CSP_V01_Q38_FAUX
 
 `@err_CSP_V01_Q38 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V01_Q39
 
@@ -1157,6 +1248,8 @@ Un collègue étranger vous demande la date exacte de la fête nationale frança
 
 `@err_CSP_V01_Q39 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V01_Q40
 
 ## EXAM_CSP_V01_Q40
@@ -1185,6 +1278,8 @@ Un voisin souhaite adopter une démarche plus responsable envers l'environnement
 ## EXAM_CSP_V01_Q40_FAUX
 
 `@err_CSP_V01_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V01_RESULT
 
@@ -1845,40 +1940,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V01_CORRIGE)
@@ -1897,6 +2122,22 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -1931,6 +2172,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q01 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q02
 
 ## EXAM_CSP_V02_Q02
@@ -1957,6 +2200,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q02_FAUX
 
 `@err_CSP_V02_Q02 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q03
 
@@ -1985,6 +2230,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q03 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q04
 
 ## EXAM_CSP_V02_Q04
@@ -2011,6 +2258,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q04_FAUX
 
 `@err_CSP_V02_Q04 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q05
 
@@ -2039,6 +2288,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q05 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q06
 
 ## EXAM_CSP_V02_Q06
@@ -2065,6 +2316,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q06_FAUX
 
 `@err_CSP_V02_Q06 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q07
 
@@ -2093,6 +2346,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q07 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q08
 
 ## EXAM_CSP_V02_Q08
@@ -2119,6 +2374,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q08_FAUX
 
 `@err_CSP_V02_Q08 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q09
 
@@ -2147,6 +2404,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q09 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q10
 
 ## EXAM_CSP_V02_Q10
@@ -2173,6 +2432,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q10_FAUX
 
 `@err_CSP_V02_Q10 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q11
 
@@ -2201,6 +2462,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q11 = 1`
 
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q12
 
 ## EXAM_CSP_V02_Q12
@@ -2227,6 +2490,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q12_FAUX
 
 `@err_CSP_V02_Q12 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q13
 
@@ -2255,6 +2520,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q13 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q14
 
 ## EXAM_CSP_V02_Q14
@@ -2281,6 +2548,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q14_FAUX
 
 `@err_CSP_V02_Q14 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q15
 
@@ -2309,6 +2578,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q15 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q16
 
 ## EXAM_CSP_V02_Q16
@@ -2335,6 +2606,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q16_FAUX
 
 `@err_CSP_V02_Q16 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q17
 
@@ -2363,6 +2636,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q17 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q18
 
 ## EXAM_CSP_V02_Q18
@@ -2389,6 +2664,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q18_FAUX
 
 `@err_CSP_V02_Q18 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q19
 
@@ -2417,6 +2694,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q19 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q20
 
 ## EXAM_CSP_V02_Q20
@@ -2443,6 +2722,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q20_FAUX
 
 `@err_CSP_V02_Q20 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q21
 
@@ -2471,6 +2752,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q21 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q22
 
 ## EXAM_CSP_V02_Q22
@@ -2497,6 +2780,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q22_FAUX
 
 `@err_CSP_V02_Q22 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q23
 
@@ -2525,6 +2810,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q23 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q24
 
 ## EXAM_CSP_V02_Q24
@@ -2551,6 +2838,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q24_FAUX
 
 `@err_CSP_V02_Q24 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q25
 
@@ -2579,6 +2868,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q25 = 1`
 
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q26
 
 ## EXAM_CSP_V02_Q26
@@ -2605,6 +2896,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q26_FAUX
 
 `@err_CSP_V02_Q26 = 1`
+
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q27
 
@@ -2633,6 +2926,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q27 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q28
 
 ## EXAM_CSP_V02_Q28
@@ -2659,6 +2954,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q28_FAUX
 
 `@err_CSP_V02_Q28 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V02_PART2
 
@@ -2697,6 +2994,8 @@ Dans la rue, un ami jette une bouteille vide par terre en affirmant que « ce n'
 
 `@err_CSP_V02_Q29 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q30
 
 ## EXAM_CSP_V02_Q30
@@ -2725,6 +3024,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 ## EXAM_CSP_V02_Q30_FAUX
 
 `@err_CSP_V02_Q30 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q31
 
@@ -2755,6 +3056,8 @@ Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonn
 
 `@err_CSP_V02_Q31 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q32
 
 ## EXAM_CSP_V02_Q32
@@ -2783,6 +3086,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 ## EXAM_CSP_V02_Q32_FAUX
 
 `@err_CSP_V02_Q32 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q33
 
@@ -2813,6 +3118,8 @@ Pour un exposé scolaire, un enfant vous demande de citer, dans l'ordre, les cou
 
 `@err_CSP_V02_Q33 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q34
 
 ## EXAM_CSP_V02_Q34
@@ -2841,6 +3148,8 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limi
 ## EXAM_CSP_V02_Q34_FAUX
 
 `@err_CSP_V02_Q34 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q35
 
@@ -2871,6 +3180,8 @@ Pour un exposé sur la République, un camarade de classe vous demande de citer 
 
 `@err_CSP_V02_Q35 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q36
 
 ## EXAM_CSP_V02_Q36
@@ -2899,6 +3210,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est l'é
 ## EXAM_CSP_V02_Q36_FAUX
 
 `@err_CSP_V02_Q36 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q37
 
@@ -2929,6 +3242,8 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 
 `@err_CSP_V02_Q37 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q38
 
 ## EXAM_CSP_V02_Q38
@@ -2957,6 +3272,8 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 ## EXAM_CSP_V02_Q38_FAUX
 
 `@err_CSP_V02_Q38 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V02_Q39
 
@@ -2987,6 +3304,8 @@ Un ami récemment naturalisé vous demande ce que lui permet concrètement sa no
 
 `@err_CSP_V02_Q39 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V02_Q40
 
 ## EXAM_CSP_V02_Q40
@@ -3015,6 +3334,8 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 ## EXAM_CSP_V02_Q40_FAUX
 
 `@err_CSP_V02_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V02_RESULT
 
@@ -3675,40 +3996,179 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V02_CORRIGE)
@@ -3727,6 +4187,22 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -3761,6 +4237,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q01 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q02
 
 ## EXAM_CSP_V03_Q02
@@ -3787,6 +4265,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q02_FAUX
 
 `@err_CSP_V03_Q02 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q03
 
@@ -3815,6 +4295,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q03 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q04
 
 ## EXAM_CSP_V03_Q04
@@ -3841,6 +4323,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q04_FAUX
 
 `@err_CSP_V03_Q04 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q05
 
@@ -3869,6 +4353,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q05 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q06
 
 ## EXAM_CSP_V03_Q06
@@ -3895,6 +4381,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q06_FAUX
 
 `@err_CSP_V03_Q06 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q07
 
@@ -3923,6 +4411,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q07 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q08
 
 ## EXAM_CSP_V03_Q08
@@ -3949,6 +4439,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q08_FAUX
 
 `@err_CSP_V03_Q08 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q09
 
@@ -3977,6 +4469,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q09 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q10
 
 ## EXAM_CSP_V03_Q10
@@ -4003,6 +4497,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q10_FAUX
 
 `@err_CSP_V03_Q10 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q11
 
@@ -4031,6 +4527,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q11 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q12
 
 ## EXAM_CSP_V03_Q12
@@ -4057,6 +4555,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q12_FAUX
 
 `@err_CSP_V03_Q12 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q13
 
@@ -4085,6 +4585,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q13 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q14
 
 ## EXAM_CSP_V03_Q14
@@ -4111,6 +4613,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q14_FAUX
 
 `@err_CSP_V03_Q14 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q15
 
@@ -4139,6 +4643,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q15 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q16
 
 ## EXAM_CSP_V03_Q16
@@ -4165,6 +4671,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q16_FAUX
 
 `@err_CSP_V03_Q16 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q17
 
@@ -4193,6 +4701,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q17 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q18
 
 ## EXAM_CSP_V03_Q18
@@ -4219,6 +4729,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q18_FAUX
 
 `@err_CSP_V03_Q18 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q19
 
@@ -4247,6 +4759,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q19 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q20
 
 ## EXAM_CSP_V03_Q20
@@ -4273,6 +4787,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q20_FAUX
 
 `@err_CSP_V03_Q20 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q21
 
@@ -4301,6 +4817,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q21 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q22
 
 ## EXAM_CSP_V03_Q22
@@ -4327,6 +4845,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q22_FAUX
 
 `@err_CSP_V03_Q22 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q23
 
@@ -4355,6 +4875,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q23 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q24
 
 ## EXAM_CSP_V03_Q24
@@ -4381,6 +4903,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q24_FAUX
 
 `@err_CSP_V03_Q24 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q25
 
@@ -4409,6 +4933,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q25 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q26
 
 ## EXAM_CSP_V03_Q26
@@ -4435,6 +4961,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q26_FAUX
 
 `@err_CSP_V03_Q26 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q27
 
@@ -4463,6 +4991,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q27 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q28
 
 ## EXAM_CSP_V03_Q28
@@ -4489,6 +5019,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q28_FAUX
 
 `@err_CSP_V03_Q28 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V03_PART2
 
@@ -4527,6 +5059,8 @@ Un chef d'atelier vous confie qu'il préfère ne pas embaucher de femmes pour le
 
 `@err_CSP_V03_Q29 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q30
 
 ## EXAM_CSP_V03_Q30
@@ -4555,6 +5089,8 @@ Lors d'un cours de préparation civique, le formateur vous demande comment s'app
 ## EXAM_CSP_V03_Q30_FAUX
 
 `@err_CSP_V03_Q30 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q31
 
@@ -4585,6 +5121,8 @@ Un ami athée craint des difficultés administratives en France parce qu'il ne p
 
 `@err_CSP_V03_Q31 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q32
 
 ## EXAM_CSP_V03_Q32
@@ -4613,6 +5151,8 @@ Lors d'une formation sur les droits humains, on vous demande de définir ce qu'e
 ## EXAM_CSP_V03_Q32_FAUX
 
 `@err_CSP_V03_Q32 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q33
 
@@ -4643,6 +5183,8 @@ Un collègue se moque ouvertement d'une personne en situation de handicap au tra
 
 `@err_CSP_V03_Q33 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q34
 
 ## EXAM_CSP_V03_Q34
@@ -4671,6 +5213,8 @@ Pour décorer l'accueil de son organisme de formation, une collègue hésite ent
 ## EXAM_CSP_V03_Q34_FAUX
 
 `@err_CSP_V03_Q34 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q35
 
@@ -4701,6 +5245,8 @@ Un ami s'interroge sur la place réelle du français dans les administrations et
 
 `@err_CSP_V03_Q35 = 1`
 
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q36
 
 ## EXAM_CSP_V03_Q36
@@ -4729,6 +5275,8 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 ## EXAM_CSP_V03_Q36_FAUX
 
 `@err_CSP_V03_Q36 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q37
 
@@ -4759,6 +5307,8 @@ Un ami vous demande le nom du texte historique qui énonce les droits et devoirs
 
 `@err_CSP_V03_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q38
 
 ## EXAM_CSP_V03_Q38
@@ -4787,6 +5337,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 ## EXAM_CSP_V03_Q38_FAUX
 
 `@err_CSP_V03_Q38 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V03_Q39
 
@@ -4817,6 +5369,8 @@ Lors d'un cours de préparation civique, on vous demande d'expliquer avec vos pr
 
 `@err_CSP_V03_Q39 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V03_Q40
 
 ## EXAM_CSP_V03_Q40
@@ -4845,6 +5399,8 @@ Lors d'un cours de droit civique, on vous demande de définir ce qu'est une infr
 ## EXAM_CSP_V03_Q40_FAUX
 
 `@err_CSP_V03_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V03_RESULT
 
@@ -5505,40 +6061,179 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V03_CORRIGE)
@@ -5557,6 +6252,22 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -5591,6 +6302,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q01 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q02
 
 ## EXAM_CSP_V04_Q02
@@ -5617,6 +6330,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q02_FAUX
 
 `@err_CSP_V04_Q02 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q03
 
@@ -5645,6 +6360,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q03 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q04
 
 ## EXAM_CSP_V04_Q04
@@ -5671,6 +6388,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q04_FAUX
 
 `@err_CSP_V04_Q04 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q05
 
@@ -5699,6 +6418,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q05 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q06
 
 ## EXAM_CSP_V04_Q06
@@ -5725,6 +6446,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q06_FAUX
 
 `@err_CSP_V04_Q06 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q07
 
@@ -5753,6 +6476,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q07 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q08
 
 ## EXAM_CSP_V04_Q08
@@ -5779,6 +6504,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q08_FAUX
 
 `@err_CSP_V04_Q08 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q09
 
@@ -5807,6 +6534,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q09 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q10
 
 ## EXAM_CSP_V04_Q10
@@ -5833,6 +6562,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q10_FAUX
 
 `@err_CSP_V04_Q10 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q11
 
@@ -5861,6 +6592,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q11 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q12
 
 ## EXAM_CSP_V04_Q12
@@ -5887,6 +6620,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q12_FAUX
 
 `@err_CSP_V04_Q12 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q13
 
@@ -5915,6 +6650,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q13 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q14
 
 ## EXAM_CSP_V04_Q14
@@ -5941,6 +6678,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q14_FAUX
 
 `@err_CSP_V04_Q14 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q15
 
@@ -5969,6 +6708,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q15 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q16
 
 ## EXAM_CSP_V04_Q16
@@ -5995,6 +6736,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q16_FAUX
 
 `@err_CSP_V04_Q16 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q17
 
@@ -6023,6 +6766,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q17 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q18
 
 ## EXAM_CSP_V04_Q18
@@ -6049,6 +6794,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q18_FAUX
 
 `@err_CSP_V04_Q18 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q19
 
@@ -6077,6 +6824,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q19 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q20
 
 ## EXAM_CSP_V04_Q20
@@ -6103,6 +6852,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q20_FAUX
 
 `@err_CSP_V04_Q20 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q21
 
@@ -6131,6 +6882,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q21 = 1`
 
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q22
 
 ## EXAM_CSP_V04_Q22
@@ -6157,6 +6910,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q22_FAUX
 
 `@err_CSP_V04_Q22 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q23
 
@@ -6185,6 +6940,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q23 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q24
 
 ## EXAM_CSP_V04_Q24
@@ -6211,6 +6968,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q24_FAUX
 
 `@err_CSP_V04_Q24 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q25
 
@@ -6239,6 +6998,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q25 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q26
 
 ## EXAM_CSP_V04_Q26
@@ -6265,6 +7026,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q26_FAUX
 
 `@err_CSP_V04_Q26 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q27
 
@@ -6293,6 +7056,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q27 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q28
 
 ## EXAM_CSP_V04_Q28
@@ -6319,6 +7084,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q28_FAUX
 
 `@err_CSP_V04_Q28 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V04_PART2
 
@@ -6357,6 +7124,8 @@ Un parent d'élève pense que la laïcité sert uniquement à interdire toutes l
 
 `@err_CSP_V04_Q29 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q30
 
 ## EXAM_CSP_V04_Q30
@@ -6385,6 +7154,8 @@ Pour un exposé sur la République, un camarade de classe vous demande de citer 
 ## EXAM_CSP_V04_Q30_FAUX
 
 `@err_CSP_V04_Q30 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q31
 
@@ -6415,6 +7186,8 @@ Un ami sans religion se demande quelle liberté fondamentale protège son choix 
 
 `@err_CSP_V04_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q32
 
 ## EXAM_CSP_V04_Q32
@@ -6443,6 +7216,8 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 ## EXAM_CSP_V04_Q32_FAUX
 
 `@err_CSP_V04_Q32 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q33
 
@@ -6473,6 +7248,8 @@ Lors d'une compétition sportive, un ami remarque un coq peint sur le maillot de
 
 `@err_CSP_V04_Q33 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q34
 
 ## EXAM_CSP_V04_Q34
@@ -6501,6 +7278,8 @@ Un ami récemment naturalisé vous demande ce que lui permet concrètement sa no
 ## EXAM_CSP_V04_Q34_FAUX
 
 `@err_CSP_V04_Q34 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q35
 
@@ -6531,6 +7310,8 @@ Un collègue originaire d'une région bilingue affirme que l'anglais pourrait de
 
 `@err_CSP_V04_Q35 = 1`
 
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q36
 
 ## EXAM_CSP_V04_Q36
@@ -6559,6 +7340,8 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 ## EXAM_CSP_V04_Q36_FAUX
 
 `@err_CSP_V04_Q36 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q37
 
@@ -6589,6 +7372,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 
 `@err_CSP_V04_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q38
 
 ## EXAM_CSP_V04_Q38
@@ -6617,6 +7402,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 ## EXAM_CSP_V04_Q38_FAUX
 
 `@err_CSP_V04_Q38 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V04_Q39
 
@@ -6647,6 +7434,8 @@ Lors d'un examen blanc, on vous demande de citer le texte fondateur établissant
 
 `@err_CSP_V04_Q39 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V04_Q40
 
 ## EXAM_CSP_V04_Q40
@@ -6675,6 +7464,8 @@ Un ami pense que les droits individuels sont totalement illimités et qu'aucune 
 ## EXAM_CSP_V04_Q40_FAUX
 
 `@err_CSP_V04_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V04_RESULT
 
@@ -7335,40 +8126,179 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V04_CORRIGE)
@@ -7387,6 +8317,21 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -7421,6 +8366,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q01 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q02
 
 ## EXAM_CSP_V05_Q02
@@ -7447,6 +8394,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q02_FAUX
 
 `@err_CSP_V05_Q02 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q03
 
@@ -7475,6 +8424,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q03 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q04
 
 ## EXAM_CSP_V05_Q04
@@ -7501,6 +8452,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q04_FAUX
 
 `@err_CSP_V05_Q04 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q05
 
@@ -7529,6 +8482,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q05 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q06
 
 ## EXAM_CSP_V05_Q06
@@ -7555,6 +8510,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q06_FAUX
 
 `@err_CSP_V05_Q06 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q07
 
@@ -7583,6 +8540,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q07 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q08
 
 ## EXAM_CSP_V05_Q08
@@ -7609,6 +8568,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q08_FAUX
 
 `@err_CSP_V05_Q08 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q09
 
@@ -7637,6 +8598,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q09 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q10
 
 ## EXAM_CSP_V05_Q10
@@ -7663,6 +8626,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q10_FAUX
 
 `@err_CSP_V05_Q10 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q11
 
@@ -7691,6 +8656,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q11 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q12
 
 ## EXAM_CSP_V05_Q12
@@ -7717,6 +8684,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q12_FAUX
 
 `@err_CSP_V05_Q12 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q13
 
@@ -7745,6 +8714,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q13 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q14
 
 ## EXAM_CSP_V05_Q14
@@ -7771,6 +8742,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q14_FAUX
 
 `@err_CSP_V05_Q14 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q15
 
@@ -7799,6 +8772,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q15 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q16
 
 ## EXAM_CSP_V05_Q16
@@ -7825,6 +8800,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q16_FAUX
 
 `@err_CSP_V05_Q16 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q17
 
@@ -7853,6 +8830,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q17 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q18
 
 ## EXAM_CSP_V05_Q18
@@ -7879,6 +8858,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q18_FAUX
 
 `@err_CSP_V05_Q18 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q19
 
@@ -7907,6 +8888,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q19 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q20
 
 ## EXAM_CSP_V05_Q20
@@ -7933,6 +8916,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q20_FAUX
 
 `@err_CSP_V05_Q20 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q21
 
@@ -7961,6 +8946,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q21 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q22
 
 ## EXAM_CSP_V05_Q22
@@ -7987,6 +8974,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q22_FAUX
 
 `@err_CSP_V05_Q22 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q23
 
@@ -8015,6 +9004,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q23 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q24
 
 ## EXAM_CSP_V05_Q24
@@ -8041,6 +9032,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q24_FAUX
 
 `@err_CSP_V05_Q24 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q25
 
@@ -8069,6 +9062,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q25 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q26
 
 ## EXAM_CSP_V05_Q26
@@ -8095,6 +9090,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q26_FAUX
 
 `@err_CSP_V05_Q26 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q27
 
@@ -8123,6 +9120,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q27 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q28
 
 ## EXAM_CSP_V05_Q28
@@ -8149,6 +9148,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q28_FAUX
 
 `@err_CSP_V05_Q28 = 1`
+
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
 
 !SelectNext: EXAM_CSP_V05_PART2
 
@@ -8187,6 +9188,8 @@ Un ami vous demande le nom du texte historique qui énonce les droits et devoirs
 
 `@err_CSP_V05_Q29 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q30
 
 ## EXAM_CSP_V05_Q30
@@ -8215,6 +9218,8 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 ## EXAM_CSP_V05_Q30_FAUX
 
 `@err_CSP_V05_Q30 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q31
 
@@ -8245,6 +9250,8 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_CSP_V05_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q32
 
 ## EXAM_CSP_V05_Q32
@@ -8273,6 +9280,8 @@ Lors d'un cours de préparation civique, le formateur vous demande comment s'app
 ## EXAM_CSP_V05_Q32_FAUX
 
 `@err_CSP_V05_Q32 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q33
 
@@ -8303,6 +9312,8 @@ Lors d'une compétition sportive, un ami remarque un coq peint sur le maillot de
 
 `@err_CSP_V05_Q33 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q34
 
 ## EXAM_CSP_V05_Q34
@@ -8331,6 +9342,8 @@ Dans une zone rurale, un habitant se demande quel est précisément le rôle de 
 ## EXAM_CSP_V05_Q34_FAUX
 
 `@err_CSP_V05_Q34 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q35
 
@@ -8361,6 +9374,8 @@ Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » e
 
 `@err_CSP_V05_Q35 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q36
 
 ## EXAM_CSP_V05_Q36
@@ -8389,6 +9404,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 ## EXAM_CSP_V05_Q36_FAUX
 
 `@err_CSP_V05_Q36 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q37
 
@@ -8419,6 +9436,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 
 `@err_CSP_V05_Q37 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q38
 
 ## EXAM_CSP_V05_Q38
@@ -8447,6 +9466,8 @@ Un ami envisage de changer de religion mais craint que cela ne soit interdit par
 ## EXAM_CSP_V05_Q38_FAUX
 
 `@err_CSP_V05_Q38 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V05_Q39
 
@@ -8477,6 +9498,8 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limi
 
 `@err_CSP_V05_Q39 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V05_Q40
 
 ## EXAM_CSP_V05_Q40
@@ -8505,6 +9528,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est la l
 ## EXAM_CSP_V05_Q40_FAUX
 
 `@err_CSP_V05_Q40 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V05_RESULT
 
@@ -9165,40 +10190,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V05_CORRIGE)
@@ -9217,6 +10372,21 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -9251,6 +10421,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q01 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q02
 
 ## EXAM_CSP_V06_Q02
@@ -9277,6 +10449,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q02_FAUX
 
 `@err_CSP_V06_Q02 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q03
 
@@ -9305,6 +10479,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q03 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q04
 
 ## EXAM_CSP_V06_Q04
@@ -9331,6 +10507,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q04_FAUX
 
 `@err_CSP_V06_Q04 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q05
 
@@ -9359,6 +10537,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q05 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q06
 
 ## EXAM_CSP_V06_Q06
@@ -9385,6 +10565,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q06_FAUX
 
 `@err_CSP_V06_Q06 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q07
 
@@ -9413,6 +10595,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q07 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q08
 
 ## EXAM_CSP_V06_Q08
@@ -9439,6 +10623,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q08_FAUX
 
 `@err_CSP_V06_Q08 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q09
 
@@ -9467,6 +10653,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q09 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q10
 
 ## EXAM_CSP_V06_Q10
@@ -9493,6 +10681,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q10_FAUX
 
 `@err_CSP_V06_Q10 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q11
 
@@ -9521,6 +10711,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q11 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q12
 
 ## EXAM_CSP_V06_Q12
@@ -9547,6 +10739,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q12_FAUX
 
 `@err_CSP_V06_Q12 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q13
 
@@ -9575,6 +10769,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q13 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q14
 
 ## EXAM_CSP_V06_Q14
@@ -9601,6 +10797,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q14_FAUX
 
 `@err_CSP_V06_Q14 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q15
 
@@ -9629,6 +10827,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q15 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q16
 
 ## EXAM_CSP_V06_Q16
@@ -9655,6 +10855,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q16_FAUX
 
 `@err_CSP_V06_Q16 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q17
 
@@ -9683,6 +10885,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q17 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q18
 
 ## EXAM_CSP_V06_Q18
@@ -9709,6 +10913,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q18_FAUX
 
 `@err_CSP_V06_Q18 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q19
 
@@ -9737,6 +10943,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q19 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q20
 
 ## EXAM_CSP_V06_Q20
@@ -9763,6 +10971,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q20_FAUX
 
 `@err_CSP_V06_Q20 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q21
 
@@ -9791,6 +11001,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q21 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q22
 
 ## EXAM_CSP_V06_Q22
@@ -9817,6 +11029,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q22_FAUX
 
 `@err_CSP_V06_Q22 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q23
 
@@ -9845,6 +11059,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q23 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q24
 
 ## EXAM_CSP_V06_Q24
@@ -9871,6 +11087,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q24_FAUX
 
 `@err_CSP_V06_Q24 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q25
 
@@ -9899,6 +11117,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q25 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q26
 
 ## EXAM_CSP_V06_Q26
@@ -9925,6 +11145,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q26_FAUX
 
 `@err_CSP_V06_Q26 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q27
 
@@ -9953,6 +11175,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q27 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q28
 
 ## EXAM_CSP_V06_Q28
@@ -9979,6 +11203,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q28_FAUX
 
 `@err_CSP_V06_Q28 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V06_PART2
 
@@ -10017,6 +11243,8 @@ Un collègue originaire d'une région bilingue affirme que l'anglais pourrait de
 
 `@err_CSP_V06_Q29 = 1`
 
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q30
 
 ## EXAM_CSP_V06_Q30
@@ -10045,6 +11273,8 @@ Un ami confond le rôle de la police avec celui d'un tribunal.
 ## EXAM_CSP_V06_Q30_FAUX
 
 `@err_CSP_V06_Q30 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q31
 
@@ -10075,6 +11305,8 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 
 `@err_CSP_V06_Q31 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q32
 
 ## EXAM_CSP_V06_Q32
@@ -10103,6 +11335,8 @@ Un ami confond plusieurs symboles français et pense que la Marseillaise est une
 ## EXAM_CSP_V06_Q32_FAUX
 
 `@err_CSP_V06_Q32 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q33
 
@@ -10133,6 +11367,8 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limi
 
 `@err_CSP_V06_Q33 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q34
 
 ## EXAM_CSP_V06_Q34
@@ -10161,6 +11397,8 @@ Lors d'une visite du musée de l'Histoire de France, le guide évoque le texte f
 ## EXAM_CSP_V06_Q34_FAUX
 
 `@err_CSP_V06_Q34 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q35
 
@@ -10191,6 +11429,8 @@ Un voisin envisage de déposer sa machine à laver cassée sur le trottoir devan
 
 `@err_CSP_V06_Q35 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q36
 
 ## EXAM_CSP_V06_Q36
@@ -10219,6 +11459,8 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 ## EXAM_CSP_V06_Q36_FAUX
 
 `@err_CSP_V06_Q36 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q37
 
@@ -10249,6 +11491,8 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 
 `@err_CSP_V06_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q38
 
 ## EXAM_CSP_V06_Q38
@@ -10277,6 +11521,8 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 ## EXAM_CSP_V06_Q38_FAUX
 
 `@err_CSP_V06_Q38 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_Q39
 
@@ -10307,6 +11553,8 @@ Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'h
 
 `@err_CSP_V06_Q39 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V06_Q40
 
 ## EXAM_CSP_V06_Q40
@@ -10335,6 +11583,8 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 ## EXAM_CSP_V06_Q40_FAUX
 
 `@err_CSP_V06_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V06_RESULT
 
@@ -10995,40 +12245,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V06_CORRIGE)
@@ -11047,6 +12427,21 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -11079,6 +12474,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q01 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q02
 
 ## EXAM_CSP_V07_Q02
@@ -11105,6 +12502,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q02_FAUX
 
 `@err_CSP_V07_Q02 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q03
 
@@ -11133,6 +12532,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q03 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q04
 
 ## EXAM_CSP_V07_Q04
@@ -11159,6 +12560,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q04_FAUX
 
 `@err_CSP_V07_Q04 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q05
 
@@ -11187,6 +12590,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q05 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q06
 
 ## EXAM_CSP_V07_Q06
@@ -11213,6 +12618,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q06_FAUX
 
 `@err_CSP_V07_Q06 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q07
 
@@ -11241,6 +12648,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q07 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q08
 
 ## EXAM_CSP_V07_Q08
@@ -11267,6 +12676,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q08_FAUX
 
 `@err_CSP_V07_Q08 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q09
 
@@ -11295,6 +12706,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q09 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q10
 
 ## EXAM_CSP_V07_Q10
@@ -11321,6 +12734,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q10_FAUX
 
 `@err_CSP_V07_Q10 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q11
 
@@ -11349,6 +12764,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q11 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q12
 
 ## EXAM_CSP_V07_Q12
@@ -11375,6 +12792,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q12_FAUX
 
 `@err_CSP_V07_Q12 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q13
 
@@ -11403,6 +12822,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q13 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q14
 
 ## EXAM_CSP_V07_Q14
@@ -11429,6 +12850,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q14_FAUX
 
 `@err_CSP_V07_Q14 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q15
 
@@ -11457,6 +12880,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q15 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q16
 
 ## EXAM_CSP_V07_Q16
@@ -11483,6 +12908,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q16_FAUX
 
 `@err_CSP_V07_Q16 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q17
 
@@ -11511,6 +12938,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q17 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q18
 
 ## EXAM_CSP_V07_Q18
@@ -11537,6 +12966,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q18_FAUX
 
 `@err_CSP_V07_Q18 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q19
 
@@ -11565,6 +12996,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q19 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q20
 
 ## EXAM_CSP_V07_Q20
@@ -11591,6 +13024,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q20_FAUX
 
 `@err_CSP_V07_Q20 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q21
 
@@ -11619,6 +13054,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q21 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q22
 
 ## EXAM_CSP_V07_Q22
@@ -11645,6 +13082,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q22_FAUX
 
 `@err_CSP_V07_Q22 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q23
 
@@ -11673,6 +13112,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q23 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q24
 
 ## EXAM_CSP_V07_Q24
@@ -11699,6 +13140,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q24_FAUX
 
 `@err_CSP_V07_Q24 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q25
 
@@ -11727,6 +13170,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q25 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q26
 
 ## EXAM_CSP_V07_Q26
@@ -11753,6 +13198,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q26_FAUX
 
 `@err_CSP_V07_Q26 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q27
 
@@ -11781,6 +13228,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q27 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q28
 
 ## EXAM_CSP_V07_Q28
@@ -11807,6 +13256,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q28_FAUX
 
 `@err_CSP_V07_Q28 = 1`
+
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
 
 !SelectNext: EXAM_CSP_V07_PART2
 
@@ -11847,6 +13298,8 @@ Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » e
 
 `@err_CSP_V07_Q29 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q30
 
 ## EXAM_CSP_V07_Q30
@@ -11875,6 +13328,8 @@ Un ami sans religion se demande quelle liberté fondamentale protège son choix 
 ## EXAM_CSP_V07_Q30_FAUX
 
 `@err_CSP_V07_Q30 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q31
 
@@ -11905,6 +13360,8 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 
 `@err_CSP_V07_Q31 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q32
 
 ## EXAM_CSP_V07_Q32
@@ -11933,6 +13390,8 @@ Un ami pense qu'il ne risque rien s'il ne respecte pas une loi, tant que personn
 ## EXAM_CSP_V07_Q32_FAUX
 
 `@err_CSP_V07_Q32 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q33
 
@@ -11963,6 +13422,8 @@ Un touriste étranger vous demande quel est le régime politique actuel de la Fr
 
 `@err_CSP_V07_Q33 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q34
 
 ## EXAM_CSP_V07_Q34
@@ -11991,6 +13452,8 @@ Un chef d'atelier vous confie qu'il préfère ne pas embaucher de femmes pour le
 ## EXAM_CSP_V07_Q34_FAUX
 
 `@err_CSP_V07_Q34 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q35
 
@@ -12021,6 +13484,8 @@ Un ami pense que les libertés individuelles sont absolues et qu'aucune règle n
 
 `@err_CSP_V07_Q35 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q36
 
 ## EXAM_CSP_V07_Q36
@@ -12049,6 +13514,8 @@ Un ami récemment naturalisé vous demande ce que lui permet concrètement sa no
 ## EXAM_CSP_V07_Q36_FAUX
 
 `@err_CSP_V07_Q36 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q37
 
@@ -12079,6 +13546,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@err_CSP_V07_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q38
 
 ## EXAM_CSP_V07_Q38
@@ -12107,6 +13576,8 @@ Lors d'un cours de préparation civique, le formateur demande à quelle date rem
 ## EXAM_CSP_V07_Q38_FAUX
 
 `@err_CSP_V07_Q38 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V07_Q39
 
@@ -12137,6 +13608,8 @@ Lors d'une compétition sportive, un ami remarque un coq peint sur le maillot de
 
 `@err_CSP_V07_Q39 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V07_Q40
 
 ## EXAM_CSP_V07_Q40
@@ -12165,6 +13638,8 @@ Lors d'un cours de droit civique, on vous demande de définir ce qu'est une infr
 ## EXAM_CSP_V07_Q40_FAUX
 
 `@err_CSP_V07_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V07_RESULT
 
@@ -12825,40 +14300,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V07_CORRIGE)
@@ -12877,6 +14482,20 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -12911,6 +14530,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q01 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q02
 
 ## EXAM_CSP_V08_Q02
@@ -12937,6 +14558,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q02_FAUX
 
 `@err_CSP_V08_Q02 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q03
 
@@ -12965,6 +14588,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q03 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q04
 
 ## EXAM_CSP_V08_Q04
@@ -12991,6 +14616,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q04_FAUX
 
 `@err_CSP_V08_Q04 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q05
 
@@ -13019,6 +14646,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q05 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q06
 
 ## EXAM_CSP_V08_Q06
@@ -13045,6 +14674,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q06_FAUX
 
 `@err_CSP_V08_Q06 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q07
 
@@ -13073,6 +14704,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q07 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q08
 
 ## EXAM_CSP_V08_Q08
@@ -13099,6 +14732,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q08_FAUX
 
 `@err_CSP_V08_Q08 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q09
 
@@ -13127,6 +14762,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q09 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q10
 
 ## EXAM_CSP_V08_Q10
@@ -13153,6 +14790,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q10_FAUX
 
 `@err_CSP_V08_Q10 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q11
 
@@ -13181,6 +14820,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q11 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q12
 
 ## EXAM_CSP_V08_Q12
@@ -13207,6 +14848,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q12_FAUX
 
 `@err_CSP_V08_Q12 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q13
 
@@ -13235,6 +14878,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q13 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q14
 
 ## EXAM_CSP_V08_Q14
@@ -13261,6 +14906,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q14_FAUX
 
 `@err_CSP_V08_Q14 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q15
 
@@ -13289,6 +14936,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q15 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q16
 
 ## EXAM_CSP_V08_Q16
@@ -13315,6 +14964,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q16_FAUX
 
 `@err_CSP_V08_Q16 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q17
 
@@ -13343,6 +14994,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q17 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q18
 
 ## EXAM_CSP_V08_Q18
@@ -13369,6 +15022,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q18_FAUX
 
 `@err_CSP_V08_Q18 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q19
 
@@ -13397,6 +15052,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q19 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q20
 
 ## EXAM_CSP_V08_Q20
@@ -13423,6 +15080,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q20_FAUX
 
 `@err_CSP_V08_Q20 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q21
 
@@ -13451,6 +15110,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q21 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q22
 
 ## EXAM_CSP_V08_Q22
@@ -13477,6 +15138,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q22_FAUX
 
 `@err_CSP_V08_Q22 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q23
 
@@ -13505,6 +15168,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q23 = 1`
 
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q24
 
 ## EXAM_CSP_V08_Q24
@@ -13531,6 +15196,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q24_FAUX
 
 `@err_CSP_V08_Q24 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q25
 
@@ -13559,6 +15226,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q25 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q26
 
 ## EXAM_CSP_V08_Q26
@@ -13585,6 +15254,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q26_FAUX
 
 `@err_CSP_V08_Q26 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q27
 
@@ -13613,6 +15284,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q27 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q28
 
 ## EXAM_CSP_V08_Q28
@@ -13639,6 +15312,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q28_FAUX
 
 `@err_CSP_V08_Q28 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V08_PART2
 
@@ -13677,6 +15352,8 @@ Un ami confond plusieurs symboles français et pense que la Marseillaise est une
 
 `@err_CSP_V08_Q29 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q30
 
 ## EXAM_CSP_V08_Q30
@@ -13705,6 +15382,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 ## EXAM_CSP_V08_Q30_FAUX
 
 `@err_CSP_V08_Q30 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q31
 
@@ -13735,6 +15414,8 @@ Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'h
 
 `@err_CSP_V08_Q31 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q32
 
 ## EXAM_CSP_V08_Q32
@@ -13763,6 +15444,8 @@ Un voisin souhaite adopter une démarche plus responsable envers l'environnement
 ## EXAM_CSP_V08_Q32_FAUX
 
 `@err_CSP_V08_Q32 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q33
 
@@ -13793,6 +15476,8 @@ Un ami confond plusieurs textes juridiques et vous demande lequel garantit réel
 
 `@err_CSP_V08_Q33 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q34
 
 ## EXAM_CSP_V08_Q34
@@ -13821,6 +15506,8 @@ Un voisin envisage de déposer sa machine à laver cassée sur le trottoir devan
 ## EXAM_CSP_V08_Q34_FAUX
 
 `@err_CSP_V08_Q34 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q35
 
@@ -13851,6 +15538,8 @@ Lors d'une formation sur les droits humains, on vous demande de définir ce qu'e
 
 `@err_CSP_V08_Q35 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q36
 
 ## EXAM_CSP_V08_Q36
@@ -13879,6 +15568,8 @@ Une famille envisage de retirer son enfant de l'école certains jours pour des m
 ## EXAM_CSP_V08_Q36_FAUX
 
 `@err_CSP_V08_Q36 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q37
 
@@ -13909,6 +15600,8 @@ Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonn
 
 `@err_CSP_V08_Q37 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q38
 
 ## EXAM_CSP_V08_Q38
@@ -13937,6 +15630,8 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limi
 ## EXAM_CSP_V08_Q38_FAUX
 
 `@err_CSP_V08_Q38 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V08_Q39
 
@@ -13967,6 +15662,8 @@ Lors d'un débat citoyen, on vous demande de citer un exemple concret de droit f
 
 `@err_CSP_V08_Q39 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V08_Q40
 
 ## EXAM_CSP_V08_Q40
@@ -13995,6 +15692,8 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 ## EXAM_CSP_V08_Q40_FAUX
 
 `@err_CSP_V08_Q40 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V08_RESULT
 
@@ -14655,40 +16354,161 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V08_CORRIGE)
@@ -14707,6 +16527,20 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -14741,6 +16575,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q01 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q02
 
 ## EXAM_CSP_V09_Q02
@@ -14767,6 +16603,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q02_FAUX
 
 `@err_CSP_V09_Q02 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q03
 
@@ -14795,6 +16633,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q03 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q04
 
 ## EXAM_CSP_V09_Q04
@@ -14821,6 +16661,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q04_FAUX
 
 `@err_CSP_V09_Q04 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q05
 
@@ -14849,6 +16691,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q05 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q06
 
 ## EXAM_CSP_V09_Q06
@@ -14875,6 +16719,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q06_FAUX
 
 `@err_CSP_V09_Q06 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q07
 
@@ -14903,6 +16749,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q07 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q08
 
 ## EXAM_CSP_V09_Q08
@@ -14929,6 +16777,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q08_FAUX
 
 `@err_CSP_V09_Q08 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q09
 
@@ -14957,6 +16807,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q09 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q10
 
 ## EXAM_CSP_V09_Q10
@@ -14983,6 +16835,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q10_FAUX
 
 `@err_CSP_V09_Q10 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q11
 
@@ -15011,6 +16865,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q11 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q12
 
 ## EXAM_CSP_V09_Q12
@@ -15037,6 +16893,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q12_FAUX
 
 `@err_CSP_V09_Q12 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q13
 
@@ -15065,6 +16923,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q13 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q14
 
 ## EXAM_CSP_V09_Q14
@@ -15091,6 +16951,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q14_FAUX
 
 `@err_CSP_V09_Q14 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q15
 
@@ -15119,6 +16981,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q15 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q16
 
 ## EXAM_CSP_V09_Q16
@@ -15145,6 +17009,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q16_FAUX
 
 `@err_CSP_V09_Q16 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q17
 
@@ -15173,6 +17039,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q17 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q18
 
 ## EXAM_CSP_V09_Q18
@@ -15199,6 +17067,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q18_FAUX
 
 `@err_CSP_V09_Q18 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q19
 
@@ -15227,6 +17097,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q19 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q20
 
 ## EXAM_CSP_V09_Q20
@@ -15253,6 +17125,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q20_FAUX
 
 `@err_CSP_V09_Q20 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q21
 
@@ -15281,6 +17155,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q21 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q22
 
 ## EXAM_CSP_V09_Q22
@@ -15307,6 +17183,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q22_FAUX
 
 `@err_CSP_V09_Q22 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q23
 
@@ -15335,6 +17213,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q23 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q24
 
 ## EXAM_CSP_V09_Q24
@@ -15361,6 +17241,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q24_FAUX
 
 `@err_CSP_V09_Q24 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q25
 
@@ -15389,6 +17271,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q25 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q26
 
 ## EXAM_CSP_V09_Q26
@@ -15415,6 +17299,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q26_FAUX
 
 `@err_CSP_V09_Q26 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q27
 
@@ -15443,6 +17329,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q27 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q28
 
 ## EXAM_CSP_V09_Q28
@@ -15469,6 +17357,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q28_FAUX
 
 `@err_CSP_V09_Q28 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V09_PART2
 
@@ -15507,6 +17397,8 @@ Lors d'une révision, on vous demande de citer un texte adopté pendant la Révo
 
 `@err_CSP_V09_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q30
 
 ## EXAM_CSP_V09_Q30
@@ -15535,6 +17427,8 @@ Un ami confond plusieurs textes juridiques et vous demande lequel garantit réel
 ## EXAM_CSP_V09_Q30_FAUX
 
 `@err_CSP_V09_Q30 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q31
 
@@ -15565,6 +17459,8 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_CSP_V09_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q32
 
 ## EXAM_CSP_V09_Q32
@@ -15593,6 +17489,8 @@ Pour un exposé scolaire, un enfant vous demande de citer, dans l'ordre, les cou
 ## EXAM_CSP_V09_Q32_FAUX
 
 `@err_CSP_V09_Q32 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q33
 
@@ -15623,6 +17521,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est la l
 
 `@err_CSP_V09_Q33 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q34
 
 ## EXAM_CSP_V09_Q34
@@ -15651,6 +17551,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 ## EXAM_CSP_V09_Q34_FAUX
 
 `@err_CSP_V09_Q34 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q35
 
@@ -15681,6 +17583,8 @@ Un voisin envisage de déposer sa machine à laver cassée sur le trottoir devan
 
 `@err_CSP_V09_Q35 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q36
 
 ## EXAM_CSP_V09_Q36
@@ -15709,6 +17613,8 @@ Un ami convoqué devant un tribunal se demande quel droit lui permet de prépare
 ## EXAM_CSP_V09_Q36_FAUX
 
 `@err_CSP_V09_Q36 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q37
 
@@ -15739,6 +17645,8 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 
 `@err_CSP_V09_Q37 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q38
 
 ## EXAM_CSP_V09_Q38
@@ -15767,6 +17675,8 @@ Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'h
 ## EXAM_CSP_V09_Q38_FAUX
 
 `@err_CSP_V09_Q38 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V09_Q39
 
@@ -15797,6 +17707,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 
 `@err_CSP_V09_Q39 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CSP_V09_Q40
 
 ## EXAM_CSP_V09_Q40
@@ -15825,6 +17737,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 ## EXAM_CSP_V09_Q40_FAUX
 
 `@err_CSP_V09_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V09_RESULT
 
@@ -16485,40 +18399,161 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V09_CORRIGE)
@@ -16537,6 +18572,22 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -16569,6 +18620,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q01 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q02
 
 ## EXAM_CSP_V10_Q02
@@ -16595,6 +18648,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q02_FAUX
 
 `@err_CSP_V10_Q02 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q03
 
@@ -16623,6 +18678,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q03 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q04
 
 ## EXAM_CSP_V10_Q04
@@ -16649,6 +18706,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q04_FAUX
 
 `@err_CSP_V10_Q04 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q05
 
@@ -16677,6 +18736,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q05 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q06
 
 ## EXAM_CSP_V10_Q06
@@ -16703,6 +18764,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q06_FAUX
 
 `@err_CSP_V10_Q06 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q07
 
@@ -16731,6 +18794,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q07 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q08
 
 ## EXAM_CSP_V10_Q08
@@ -16757,6 +18822,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q08_FAUX
 
 `@err_CSP_V10_Q08 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q09
 
@@ -16785,6 +18852,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q09 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q10
 
 ## EXAM_CSP_V10_Q10
@@ -16811,6 +18880,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q10_FAUX
 
 `@err_CSP_V10_Q10 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q11
 
@@ -16839,6 +18910,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q11 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q12
 
 ## EXAM_CSP_V10_Q12
@@ -16865,6 +18938,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q12_FAUX
 
 `@err_CSP_V10_Q12 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q13
 
@@ -16893,6 +18968,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q13 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q14
 
 ## EXAM_CSP_V10_Q14
@@ -16919,6 +18996,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q14_FAUX
 
 `@err_CSP_V10_Q14 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q15
 
@@ -16947,6 +19026,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q15 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q16
 
 ## EXAM_CSP_V10_Q16
@@ -16973,6 +19054,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q16_FAUX
 
 `@err_CSP_V10_Q16 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q17
 
@@ -17001,6 +19084,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q17 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q18
 
 ## EXAM_CSP_V10_Q18
@@ -17027,6 +19112,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q18_FAUX
 
 `@err_CSP_V10_Q18 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q19
 
@@ -17055,6 +19142,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q19 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q20
 
 ## EXAM_CSP_V10_Q20
@@ -17081,6 +19170,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q20_FAUX
 
 `@err_CSP_V10_Q20 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q21
 
@@ -17109,6 +19200,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q21 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q22
 
 ## EXAM_CSP_V10_Q22
@@ -17135,6 +19228,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q22_FAUX
 
 `@err_CSP_V10_Q22 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q23
 
@@ -17163,6 +19258,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q23 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q24
 
 ## EXAM_CSP_V10_Q24
@@ -17189,6 +19286,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q24_FAUX
 
 `@err_CSP_V10_Q24 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q25
 
@@ -17217,6 +19316,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q25 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q26
 
 ## EXAM_CSP_V10_Q26
@@ -17243,6 +19344,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q26_FAUX
 
 `@err_CSP_V10_Q26 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q27
 
@@ -17271,6 +19374,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q27 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q28
 
 ## EXAM_CSP_V10_Q28
@@ -17297,6 +19402,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q28_FAUX
 
 `@err_CSP_V10_Q28 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V10_PART2
 
@@ -17337,6 +19444,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@err_CSP_V10_Q29 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q30
 
 ## EXAM_CSP_V10_Q30
@@ -17365,6 +19474,8 @@ Un ami confond le rôle de la police avec celui d'un tribunal.
 ## EXAM_CSP_V10_Q30_FAUX
 
 `@err_CSP_V10_Q30 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q31
 
@@ -17395,6 +19506,8 @@ Lors d'un cours de préparation civique, on vous demande d'expliquer avec vos pr
 
 `@err_CSP_V10_Q31 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q32
 
 ## EXAM_CSP_V10_Q32
@@ -17423,6 +19536,8 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 ## EXAM_CSP_V10_Q32_FAUX
 
 `@err_CSP_V10_Q32 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q33
 
@@ -17453,6 +19568,8 @@ Un ami s'interroge sur la place réelle du français dans les administrations et
 
 `@err_CSP_V10_Q33 = 1`
 
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q34
 
 ## EXAM_CSP_V10_Q34
@@ -17481,6 +19598,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est la l
 ## EXAM_CSP_V10_Q34_FAUX
 
 `@err_CSP_V10_Q34 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q35
 
@@ -17511,6 +19630,8 @@ Lors d'une révision, on vous demande de citer un texte adopté pendant la Révo
 
 `@err_CSP_V10_Q35 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q36
 
 ## EXAM_CSP_V10_Q36
@@ -17539,6 +19660,8 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 ## EXAM_CSP_V10_Q36_FAUX
 
 `@err_CSP_V10_Q36 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q37
 
@@ -17569,6 +19692,8 @@ Pour un exposé scolaire, un enfant vous demande de citer, dans l'ordre, les cou
 
 `@err_CSP_V10_Q37 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q38
 
 ## EXAM_CSP_V10_Q38
@@ -17597,6 +19722,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 ## EXAM_CSP_V10_Q38_FAUX
 
 `@err_CSP_V10_Q38 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CSP_V10_Q39
 
@@ -17627,6 +19754,8 @@ Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » e
 
 `@err_CSP_V10_Q39 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CSP_V10_Q40
 
 ## EXAM_CSP_V10_Q40
@@ -17655,6 +19784,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 ## EXAM_CSP_V10_Q40_FAUX
 
 `@err_CSP_V10_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CSP_V10_RESULT
 
@@ -18315,40 +20446,179 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CSP_V10_CORRIGE)
@@ -18367,6 +20637,20 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -18401,6 +20685,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q01 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q02
 
 ## EXAM_CR_V01_Q02
@@ -18427,6 +20713,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q02_FAUX
 
 `@err_CR_V01_Q02 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q03
 
@@ -18455,6 +20743,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q03 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q04
 
 ## EXAM_CR_V01_Q04
@@ -18481,6 +20771,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q04_FAUX
 
 `@err_CR_V01_Q04 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q05
 
@@ -18509,6 +20801,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q05 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q06
 
 ## EXAM_CR_V01_Q06
@@ -18535,6 +20829,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q06_FAUX
 
 `@err_CR_V01_Q06 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q07
 
@@ -18563,6 +20859,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q07 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q08
 
 ## EXAM_CR_V01_Q08
@@ -18589,6 +20887,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q08_FAUX
 
 `@err_CR_V01_Q08 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q09
 
@@ -18617,6 +20917,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q09 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q10
 
 ## EXAM_CR_V01_Q10
@@ -18643,6 +20945,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q10_FAUX
 
 `@err_CR_V01_Q10 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q11
 
@@ -18671,6 +20975,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q11 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q12
 
 ## EXAM_CR_V01_Q12
@@ -18697,6 +21003,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q12_FAUX
 
 `@err_CR_V01_Q12 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q13
 
@@ -18725,6 +21033,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q13 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q14
 
 ## EXAM_CR_V01_Q14
@@ -18751,6 +21061,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q14_FAUX
 
 `@err_CR_V01_Q14 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q15
 
@@ -18779,6 +21091,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q15 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q16
 
 ## EXAM_CR_V01_Q16
@@ -18805,6 +21119,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q16_FAUX
 
 `@err_CR_V01_Q16 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q17
 
@@ -18833,6 +21149,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q17 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q18
 
 ## EXAM_CR_V01_Q18
@@ -18859,6 +21177,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q18_FAUX
 
 `@err_CR_V01_Q18 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q19
 
@@ -18887,6 +21207,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q19 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q20
 
 ## EXAM_CR_V01_Q20
@@ -18913,6 +21235,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q20_FAUX
 
 `@err_CR_V01_Q20 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q21
 
@@ -18941,6 +21265,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q21 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q22
 
 ## EXAM_CR_V01_Q22
@@ -18967,6 +21293,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q22_FAUX
 
 `@err_CR_V01_Q22 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q23
 
@@ -18995,6 +21323,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q23 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q24
 
 ## EXAM_CR_V01_Q24
@@ -19021,6 +21351,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q24_FAUX
 
 `@err_CR_V01_Q24 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q25
 
@@ -19049,6 +21381,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q25 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q26
 
 ## EXAM_CR_V01_Q26
@@ -19075,6 +21409,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q26_FAUX
 
 `@err_CR_V01_Q26 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q27
 
@@ -19103,6 +21439,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q27 = 1`
 
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q28
 
 ## EXAM_CR_V01_Q28
@@ -19129,6 +21467,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q28_FAUX
 
 `@err_CR_V01_Q28 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V01_PART2
 
@@ -19167,6 +21507,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_CR_V01_Q29 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q30
 
 ## EXAM_CR_V01_Q30
@@ -19195,6 +21537,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 ## EXAM_CR_V01_Q30_FAUX
 
 `@err_CR_V01_Q30 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q31
 
@@ -19225,6 +21569,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 
 `@err_CR_V01_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q32
 
 ## EXAM_CR_V01_Q32
@@ -19253,6 +21599,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 ## EXAM_CR_V01_Q32_FAUX
 
 `@err_CR_V01_Q32 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q33
 
@@ -19283,6 +21631,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 `@err_CR_V01_Q33 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q34
 
 ## EXAM_CR_V01_Q34
@@ -19311,6 +21661,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 ## EXAM_CR_V01_Q34_FAUX
 
 `@err_CR_V01_Q34 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q35
 
@@ -19341,6 +21693,8 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 
 `@err_CR_V01_Q35 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q36
 
 ## EXAM_CR_V01_Q36
@@ -19369,6 +21723,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 ## EXAM_CR_V01_Q36_FAUX
 
 `@err_CR_V01_Q36 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q37
 
@@ -19399,6 +21755,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 
 `@err_CR_V01_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q38
 
 ## EXAM_CR_V01_Q38
@@ -19427,6 +21785,8 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 ## EXAM_CR_V01_Q38_FAUX
 
 `@err_CR_V01_Q38 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V01_Q39
 
@@ -19457,6 +21817,8 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 
 `@err_CR_V01_Q39 = 1`
 
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+
 !SelectNext: EXAM_CR_V01_Q40
 
 ## EXAM_CR_V01_Q40
@@ -19485,6 +21847,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 ## EXAM_CR_V01_Q40_FAUX
 
 `@err_CR_V01_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V01_RESULT
 
@@ -20145,40 +22509,161 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V01_CORRIGE)
@@ -20197,6 +22682,21 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -20231,6 +22731,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q01 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q02
 
 ## EXAM_CR_V02_Q02
@@ -20257,6 +22759,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q02_FAUX
 
 `@err_CR_V02_Q02 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q03
 
@@ -20285,6 +22789,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q03 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q04
 
 ## EXAM_CR_V02_Q04
@@ -20311,6 +22817,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q04_FAUX
 
 `@err_CR_V02_Q04 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q05
 
@@ -20339,6 +22847,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q05 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q06
 
 ## EXAM_CR_V02_Q06
@@ -20365,6 +22875,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q06_FAUX
 
 `@err_CR_V02_Q06 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q07
 
@@ -20393,6 +22905,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q07 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q08
 
 ## EXAM_CR_V02_Q08
@@ -20419,6 +22933,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q08_FAUX
 
 `@err_CR_V02_Q08 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q09
 
@@ -20447,6 +22963,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q09 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q10
 
 ## EXAM_CR_V02_Q10
@@ -20473,6 +22991,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q10_FAUX
 
 `@err_CR_V02_Q10 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q11
 
@@ -20501,6 +23021,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q11 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q12
 
 ## EXAM_CR_V02_Q12
@@ -20527,6 +23049,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q12_FAUX
 
 `@err_CR_V02_Q12 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q13
 
@@ -20555,6 +23079,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q13 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q14
 
 ## EXAM_CR_V02_Q14
@@ -20581,6 +23107,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q14_FAUX
 
 `@err_CR_V02_Q14 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q15
 
@@ -20609,6 +23137,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q15 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q16
 
 ## EXAM_CR_V02_Q16
@@ -20635,6 +23165,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q16_FAUX
 
 `@err_CR_V02_Q16 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q17
 
@@ -20663,6 +23195,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q17 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q18
 
 ## EXAM_CR_V02_Q18
@@ -20689,6 +23223,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q18_FAUX
 
 `@err_CR_V02_Q18 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q19
 
@@ -20717,6 +23253,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q19 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q20
 
 ## EXAM_CR_V02_Q20
@@ -20743,6 +23281,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q20_FAUX
 
 `@err_CR_V02_Q20 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q21
 
@@ -20771,6 +23311,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q21 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q22
 
 ## EXAM_CR_V02_Q22
@@ -20797,6 +23339,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q22_FAUX
 
 `@err_CR_V02_Q22 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q23
 
@@ -20825,6 +23369,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q23 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q24
 
 ## EXAM_CR_V02_Q24
@@ -20851,6 +23397,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q24_FAUX
 
 `@err_CR_V02_Q24 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q25
 
@@ -20879,6 +23427,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q25 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q26
 
 ## EXAM_CR_V02_Q26
@@ -20905,6 +23455,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q26_FAUX
 
 `@err_CR_V02_Q26 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q27
 
@@ -20933,6 +23485,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q27 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q28
 
 ## EXAM_CR_V02_Q28
@@ -20959,6 +23513,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q28_FAUX
 
 `@err_CR_V02_Q28 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V02_PART2
 
@@ -20997,6 +23553,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 
 `@err_CR_V02_Q29 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q30
 
 ## EXAM_CR_V02_Q30
@@ -21025,6 +23583,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 ## EXAM_CR_V02_Q30_FAUX
 
 `@err_CR_V02_Q30 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q31
 
@@ -21055,6 +23615,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 
 `@err_CR_V02_Q31 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q32
 
 ## EXAM_CR_V02_Q32
@@ -21083,6 +23645,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 ## EXAM_CR_V02_Q32_FAUX
 
 `@err_CR_V02_Q32 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q33
 
@@ -21113,6 +23677,8 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 
 `@err_CR_V02_Q33 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q34
 
 ## EXAM_CR_V02_Q34
@@ -21141,6 +23707,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 ## EXAM_CR_V02_Q34_FAUX
 
 `@err_CR_V02_Q34 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q35
 
@@ -21171,6 +23739,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_CR_V02_Q35 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q36
 
 ## EXAM_CR_V02_Q36
@@ -21199,6 +23769,8 @@ Lors d'un rassemblement public, un ami se demande quelles autorités sont charg�
 ## EXAM_CR_V02_Q36_FAUX
 
 `@err_CR_V02_Q36 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q37
 
@@ -21229,6 +23801,8 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 
 `@err_CR_V02_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q38
 
 ## EXAM_CR_V02_Q38
@@ -21257,6 +23831,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 ## EXAM_CR_V02_Q38_FAUX
 
 `@err_CR_V02_Q38 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V02_Q39
 
@@ -21287,6 +23863,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 
 `@err_CR_V02_Q39 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V02_Q40
 
 ## EXAM_CR_V02_Q40
@@ -21315,6 +23893,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 ## EXAM_CR_V02_Q40_FAUX
 
 `@err_CR_V02_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V02_RESULT
 
@@ -21975,40 +24555,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V02_CORRIGE)
@@ -22027,6 +24737,20 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -22061,6 +24785,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q01 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q02
 
 ## EXAM_CR_V03_Q02
@@ -22087,6 +24813,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q02_FAUX
 
 `@err_CR_V03_Q02 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q03
 
@@ -22115,6 +24843,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q03 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q04
 
 ## EXAM_CR_V03_Q04
@@ -22141,6 +24871,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q04_FAUX
 
 `@err_CR_V03_Q04 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q05
 
@@ -22169,6 +24901,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q05 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q06
 
 ## EXAM_CR_V03_Q06
@@ -22195,6 +24929,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q06_FAUX
 
 `@err_CR_V03_Q06 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q07
 
@@ -22223,6 +24959,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q07 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q08
 
 ## EXAM_CR_V03_Q08
@@ -22249,6 +24987,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q08_FAUX
 
 `@err_CR_V03_Q08 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q09
 
@@ -22277,6 +25017,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q09 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q10
 
 ## EXAM_CR_V03_Q10
@@ -22303,6 +25045,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q10_FAUX
 
 `@err_CR_V03_Q10 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q11
 
@@ -22331,6 +25075,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q11 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q12
 
 ## EXAM_CR_V03_Q12
@@ -22357,6 +25103,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q12_FAUX
 
 `@err_CR_V03_Q12 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q13
 
@@ -22385,6 +25133,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q13 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q14
 
 ## EXAM_CR_V03_Q14
@@ -22411,6 +25161,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q14_FAUX
 
 `@err_CR_V03_Q14 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q15
 
@@ -22439,6 +25191,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q15 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q16
 
 ## EXAM_CR_V03_Q16
@@ -22465,6 +25219,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q16_FAUX
 
 `@err_CR_V03_Q16 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q17
 
@@ -22493,6 +25249,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q17 = 1`
 
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q18
 
 ## EXAM_CR_V03_Q18
@@ -22519,6 +25277,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q18_FAUX
 
 `@err_CR_V03_Q18 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q19
 
@@ -22547,6 +25307,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q19 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q20
 
 ## EXAM_CR_V03_Q20
@@ -22573,6 +25335,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q20_FAUX
 
 `@err_CR_V03_Q20 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q21
 
@@ -22601,6 +25365,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q21 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q22
 
 ## EXAM_CR_V03_Q22
@@ -22627,6 +25393,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q22_FAUX
 
 `@err_CR_V03_Q22 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q23
 
@@ -22655,6 +25423,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q23 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q24
 
 ## EXAM_CR_V03_Q24
@@ -22681,6 +25451,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q24_FAUX
 
 `@err_CR_V03_Q24 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q25
 
@@ -22709,6 +25481,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q25 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q26
 
 ## EXAM_CR_V03_Q26
@@ -22735,6 +25509,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q26_FAUX
 
 `@err_CR_V03_Q26 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q27
 
@@ -22763,6 +25539,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q27 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q28
 
 ## EXAM_CR_V03_Q28
@@ -22789,6 +25567,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q28_FAUX
 
 `@err_CR_V03_Q28 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V03_PART2
 
@@ -22827,6 +25607,8 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 
 `@err_CR_V03_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q30
 
 ## EXAM_CR_V03_Q30
@@ -22855,6 +25637,8 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 ## EXAM_CR_V03_Q30_FAUX
 
 `@err_CR_V03_Q30 = 1`
+
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q31
 
@@ -22885,6 +25669,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 
 `@err_CR_V03_Q31 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q32
 
 ## EXAM_CR_V03_Q32
@@ -22913,6 +25699,8 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 ## EXAM_CR_V03_Q32_FAUX
 
 `@err_CR_V03_Q32 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q33
 
@@ -22943,6 +25731,8 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 
 `@err_CR_V03_Q33 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q34
 
 ## EXAM_CR_V03_Q34
@@ -22971,6 +25761,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 ## EXAM_CR_V03_Q34_FAUX
 
 `@err_CR_V03_Q34 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q35
 
@@ -23001,6 +25793,8 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 
 `@err_CR_V03_Q35 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q36
 
 ## EXAM_CR_V03_Q36
@@ -23029,6 +25823,8 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 ## EXAM_CR_V03_Q36_FAUX
 
 `@err_CR_V03_Q36 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q37
 
@@ -23059,6 +25855,8 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 
 `@err_CR_V03_Q37 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q38
 
 ## EXAM_CR_V03_Q38
@@ -23087,6 +25885,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 ## EXAM_CR_V03_Q38_FAUX
 
 `@err_CR_V03_Q38 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V03_Q39
 
@@ -23117,6 +25917,8 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 
 `@err_CR_V03_Q39 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V03_Q40
 
 ## EXAM_CR_V03_Q40
@@ -23145,6 +25947,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 ## EXAM_CR_V03_Q40_FAUX
 
 `@err_CR_V03_Q40 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V03_RESULT
 
@@ -23805,40 +26609,161 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V03_CORRIGE)
@@ -23857,6 +26782,20 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -23891,6 +26830,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q01 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q02
 
 ## EXAM_CR_V04_Q02
@@ -23917,6 +26858,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q02_FAUX
 
 `@err_CR_V04_Q02 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q03
 
@@ -23945,6 +26888,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q03 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q04
 
 ## EXAM_CR_V04_Q04
@@ -23971,6 +26916,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q04_FAUX
 
 `@err_CR_V04_Q04 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q05
 
@@ -23999,6 +26946,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q05 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q06
 
 ## EXAM_CR_V04_Q06
@@ -24025,6 +26974,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q06_FAUX
 
 `@err_CR_V04_Q06 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q07
 
@@ -24053,6 +27004,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q07 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q08
 
 ## EXAM_CR_V04_Q08
@@ -24079,6 +27032,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q08_FAUX
 
 `@err_CR_V04_Q08 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q09
 
@@ -24107,6 +27062,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q09 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q10
 
 ## EXAM_CR_V04_Q10
@@ -24133,6 +27090,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q10_FAUX
 
 `@err_CR_V04_Q10 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q11
 
@@ -24161,6 +27120,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q11 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q12
 
 ## EXAM_CR_V04_Q12
@@ -24187,6 +27148,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q12_FAUX
 
 `@err_CR_V04_Q12 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q13
 
@@ -24215,6 +27178,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q13 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q14
 
 ## EXAM_CR_V04_Q14
@@ -24241,6 +27206,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q14_FAUX
 
 `@err_CR_V04_Q14 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q15
 
@@ -24269,6 +27236,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q15 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q16
 
 ## EXAM_CR_V04_Q16
@@ -24295,6 +27264,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q16_FAUX
 
 `@err_CR_V04_Q16 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q17
 
@@ -24323,6 +27294,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q17 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q18
 
 ## EXAM_CR_V04_Q18
@@ -24349,6 +27322,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q18_FAUX
 
 `@err_CR_V04_Q18 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q19
 
@@ -24377,6 +27352,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q19 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q20
 
 ## EXAM_CR_V04_Q20
@@ -24403,6 +27380,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q20_FAUX
 
 `@err_CR_V04_Q20 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q21
 
@@ -24431,6 +27410,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q21 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q22
 
 ## EXAM_CR_V04_Q22
@@ -24457,6 +27438,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q22_FAUX
 
 `@err_CR_V04_Q22 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q23
 
@@ -24485,6 +27468,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q23 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q24
 
 ## EXAM_CR_V04_Q24
@@ -24511,6 +27496,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q24_FAUX
 
 `@err_CR_V04_Q24 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q25
 
@@ -24539,6 +27526,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q25 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q26
 
 ## EXAM_CR_V04_Q26
@@ -24565,6 +27554,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q26_FAUX
 
 `@err_CR_V04_Q26 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q27
 
@@ -24593,6 +27584,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q27 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q28
 
 ## EXAM_CR_V04_Q28
@@ -24619,6 +27612,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q28_FAUX
 
 `@err_CR_V04_Q28 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V04_PART2
 
@@ -24657,6 +27652,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 
 `@err_CR_V04_Q29 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q30
 
 ## EXAM_CR_V04_Q30
@@ -24685,6 +27682,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 ## EXAM_CR_V04_Q30_FAUX
 
 `@err_CR_V04_Q30 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q31
 
@@ -24715,6 +27714,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 
 `@err_CR_V04_Q31 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q32
 
 ## EXAM_CR_V04_Q32
@@ -24743,6 +27744,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 ## EXAM_CR_V04_Q32_FAUX
 
 `@err_CR_V04_Q32 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q33
 
@@ -24773,6 +27776,8 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 `@err_CR_V04_Q33 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q34
 
 ## EXAM_CR_V04_Q34
@@ -24801,6 +27806,8 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 ## EXAM_CR_V04_Q34_FAUX
 
 `@err_CR_V04_Q34 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q35
 
@@ -24831,6 +27838,8 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 
 `@err_CR_V04_Q35 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q36
 
 ## EXAM_CR_V04_Q36
@@ -24859,6 +27868,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 ## EXAM_CR_V04_Q36_FAUX
 
 `@err_CR_V04_Q36 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q37
 
@@ -24889,6 +27900,8 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 
 `@err_CR_V04_Q37 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q38
 
 ## EXAM_CR_V04_Q38
@@ -24917,6 +27930,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 ## EXAM_CR_V04_Q38_FAUX
 
 `@err_CR_V04_Q38 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V04_Q39
 
@@ -24947,6 +27962,8 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 
 `@err_CR_V04_Q39 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V04_Q40
 
 ## EXAM_CR_V04_Q40
@@ -24975,6 +27992,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 ## EXAM_CR_V04_Q40_FAUX
 
 `@err_CR_V04_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V04_RESULT
 
@@ -25635,40 +28654,161 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V04_CORRIGE)
@@ -25687,6 +28827,21 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -25721,6 +28876,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q01 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q02
 
 ## EXAM_CR_V05_Q02
@@ -25747,6 +28904,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q02_FAUX
 
 `@err_CR_V05_Q02 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q03
 
@@ -25775,6 +28934,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q03 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q04
 
 ## EXAM_CR_V05_Q04
@@ -25801,6 +28962,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q04_FAUX
 
 `@err_CR_V05_Q04 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q05
 
@@ -25829,6 +28992,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q05 = 1`
 
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q06
 
 ## EXAM_CR_V05_Q06
@@ -25855,6 +29020,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q06_FAUX
 
 `@err_CR_V05_Q06 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q07
 
@@ -25883,6 +29050,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q07 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q08
 
 ## EXAM_CR_V05_Q08
@@ -25909,6 +29078,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q08_FAUX
 
 `@err_CR_V05_Q08 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q09
 
@@ -25937,6 +29108,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q09 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q10
 
 ## EXAM_CR_V05_Q10
@@ -25963,6 +29136,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q10_FAUX
 
 `@err_CR_V05_Q10 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q11
 
@@ -25991,6 +29166,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q11 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q12
 
 ## EXAM_CR_V05_Q12
@@ -26017,6 +29194,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q12_FAUX
 
 `@err_CR_V05_Q12 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q13
 
@@ -26045,6 +29224,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q13 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q14
 
 ## EXAM_CR_V05_Q14
@@ -26071,6 +29252,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q14_FAUX
 
 `@err_CR_V05_Q14 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q15
 
@@ -26099,6 +29282,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q15 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q16
 
 ## EXAM_CR_V05_Q16
@@ -26125,6 +29310,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q16_FAUX
 
 `@err_CR_V05_Q16 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q17
 
@@ -26153,6 +29340,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q17 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q18
 
 ## EXAM_CR_V05_Q18
@@ -26179,6 +29368,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q18_FAUX
 
 `@err_CR_V05_Q18 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q19
 
@@ -26207,6 +29398,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q19 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q20
 
 ## EXAM_CR_V05_Q20
@@ -26233,6 +29426,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q20_FAUX
 
 `@err_CR_V05_Q20 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q21
 
@@ -26261,6 +29456,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q21 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q22
 
 ## EXAM_CR_V05_Q22
@@ -26287,6 +29484,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q22_FAUX
 
 `@err_CR_V05_Q22 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q23
 
@@ -26315,6 +29514,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q23 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q24
 
 ## EXAM_CR_V05_Q24
@@ -26341,6 +29542,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q24_FAUX
 
 `@err_CR_V05_Q24 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q25
 
@@ -26369,6 +29572,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q25 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q26
 
 ## EXAM_CR_V05_Q26
@@ -26395,6 +29600,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q26_FAUX
 
 `@err_CR_V05_Q26 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q27
 
@@ -26423,6 +29630,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q27 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q28
 
 ## EXAM_CR_V05_Q28
@@ -26449,6 +29658,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q28_FAUX
 
 `@err_CR_V05_Q28 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V05_PART2
 
@@ -26487,6 +29698,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_CR_V05_Q29 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q30
 
 ## EXAM_CR_V05_Q30
@@ -26515,6 +29728,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 ## EXAM_CR_V05_Q30_FAUX
 
 `@err_CR_V05_Q30 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q31
 
@@ -26545,6 +29760,8 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 
 `@err_CR_V05_Q31 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q32
 
 ## EXAM_CR_V05_Q32
@@ -26573,6 +29790,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 ## EXAM_CR_V05_Q32_FAUX
 
 `@err_CR_V05_Q32 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q33
 
@@ -26603,6 +29822,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 
 `@err_CR_V05_Q33 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q34
 
 ## EXAM_CR_V05_Q34
@@ -26631,6 +29852,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 ## EXAM_CR_V05_Q34_FAUX
 
 `@err_CR_V05_Q34 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q35
 
@@ -26661,6 +29884,8 @@ Un ami pense que l'État n'a jamais le droit de limiter une liberté individuell
 
 `@err_CR_V05_Q35 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q36
 
 ## EXAM_CR_V05_Q36
@@ -26689,6 +29914,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 ## EXAM_CR_V05_Q36_FAUX
 
 `@err_CR_V05_Q36 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q37
 
@@ -26719,6 +29946,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 
 `@err_CR_V05_Q37 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q38
 
 ## EXAM_CR_V05_Q38
@@ -26747,6 +29976,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 ## EXAM_CR_V05_Q38_FAUX
 
 `@err_CR_V05_Q38 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V05_Q39
 
@@ -26777,6 +30008,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 
 `@err_CR_V05_Q39 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V05_Q40
 
 ## EXAM_CR_V05_Q40
@@ -26805,6 +30038,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 ## EXAM_CR_V05_Q40_FAUX
 
 `@err_CR_V05_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V05_RESULT
 
@@ -27465,40 +30700,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V05_CORRIGE)
@@ -27517,6 +30882,21 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -27551,6 +30931,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q01 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q02
 
 ## EXAM_CR_V06_Q02
@@ -27577,6 +30959,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q02_FAUX
 
 `@err_CR_V06_Q02 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q03
 
@@ -27605,6 +30989,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q03 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q04
 
 ## EXAM_CR_V06_Q04
@@ -27631,6 +31017,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q04_FAUX
 
 `@err_CR_V06_Q04 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q05
 
@@ -27659,6 +31047,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q05 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q06
 
 ## EXAM_CR_V06_Q06
@@ -27685,6 +31075,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q06_FAUX
 
 `@err_CR_V06_Q06 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q07
 
@@ -27713,6 +31105,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q07 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q08
 
 ## EXAM_CR_V06_Q08
@@ -27739,6 +31133,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q08_FAUX
 
 `@err_CR_V06_Q08 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q09
 
@@ -27767,6 +31163,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q09 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q10
 
 ## EXAM_CR_V06_Q10
@@ -27793,6 +31191,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q10_FAUX
 
 `@err_CR_V06_Q10 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q11
 
@@ -27821,6 +31221,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q11 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q12
 
 ## EXAM_CR_V06_Q12
@@ -27847,6 +31249,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q12_FAUX
 
 `@err_CR_V06_Q12 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q13
 
@@ -27875,6 +31279,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q13 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q14
 
 ## EXAM_CR_V06_Q14
@@ -27901,6 +31307,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q14_FAUX
 
 `@err_CR_V06_Q14 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q15
 
@@ -27929,6 +31337,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q15 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q16
 
 ## EXAM_CR_V06_Q16
@@ -27955,6 +31365,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q16_FAUX
 
 `@err_CR_V06_Q16 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q17
 
@@ -27983,6 +31395,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q17 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q18
 
 ## EXAM_CR_V06_Q18
@@ -28009,6 +31423,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q18_FAUX
 
 `@err_CR_V06_Q18 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q19
 
@@ -28037,6 +31453,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q19 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q20
 
 ## EXAM_CR_V06_Q20
@@ -28063,6 +31481,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q20_FAUX
 
 `@err_CR_V06_Q20 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q21
 
@@ -28091,6 +31511,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q21 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q22
 
 ## EXAM_CR_V06_Q22
@@ -28117,6 +31539,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q22_FAUX
 
 `@err_CR_V06_Q22 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q23
 
@@ -28145,6 +31569,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q23 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q24
 
 ## EXAM_CR_V06_Q24
@@ -28171,6 +31597,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q24_FAUX
 
 `@err_CR_V06_Q24 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q25
 
@@ -28199,6 +31627,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q25 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q26
 
 ## EXAM_CR_V06_Q26
@@ -28225,6 +31655,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q26_FAUX
 
 `@err_CR_V06_Q26 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q27
 
@@ -28253,6 +31685,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q27 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q28
 
 ## EXAM_CR_V06_Q28
@@ -28279,6 +31713,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q28_FAUX
 
 `@err_CR_V06_Q28 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V06_PART2
 
@@ -28317,6 +31753,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 `@err_CR_V06_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q30
 
 ## EXAM_CR_V06_Q30
@@ -28345,6 +31783,8 @@ Pendant votre préparation à l'examen civique, le formateur vous demande de com
 ## EXAM_CR_V06_Q30_FAUX
 
 `@err_CR_V06_Q30 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q31
 
@@ -28375,6 +31815,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 
 `@err_CR_V06_Q31 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q32
 
 ## EXAM_CR_V06_Q32
@@ -28403,6 +31845,8 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 ## EXAM_CR_V06_Q32_FAUX
 
 `@err_CR_V06_Q32 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q33
 
@@ -28433,6 +31877,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 
 `@err_CR_V06_Q33 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q34
 
 ## EXAM_CR_V06_Q34
@@ -28461,6 +31907,8 @@ Une personne récemment installée en France envisage de changer de religion, ma
 ## EXAM_CR_V06_Q34_FAUX
 
 `@err_CR_V06_Q34 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q35
 
@@ -28491,6 +31939,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 
 `@err_CR_V06_Q35 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q36
 
 ## EXAM_CR_V06_Q36
@@ -28519,6 +31969,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 ## EXAM_CR_V06_Q36_FAUX
 
 `@err_CR_V06_Q36 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q37
 
@@ -28549,6 +32001,8 @@ Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peu
 
 `@err_CR_V06_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q38
 
 ## EXAM_CR_V06_Q38
@@ -28577,6 +32031,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 ## EXAM_CR_V06_Q38_FAUX
 
 `@err_CR_V06_Q38 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V06_Q39
 
@@ -28607,6 +32063,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 `@err_CR_V06_Q39 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V06_Q40
 
 ## EXAM_CR_V06_Q40
@@ -28635,6 +32093,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 ## EXAM_CR_V06_Q40_FAUX
 
 `@err_CR_V06_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V06_RESULT
 
@@ -29295,40 +32755,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V06_CORRIGE)
@@ -29347,6 +32937,21 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -29381,6 +32986,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q01 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q02
 
 ## EXAM_CR_V07_Q02
@@ -29407,6 +33014,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q02_FAUX
 
 `@err_CR_V07_Q02 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q03
 
@@ -29435,6 +33044,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q03 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q04
 
 ## EXAM_CR_V07_Q04
@@ -29461,6 +33072,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q04_FAUX
 
 `@err_CR_V07_Q04 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q05
 
@@ -29489,6 +33102,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q05 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q06
 
 ## EXAM_CR_V07_Q06
@@ -29515,6 +33130,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q06_FAUX
 
 `@err_CR_V07_Q06 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q07
 
@@ -29543,6 +33160,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q07 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q08
 
 ## EXAM_CR_V07_Q08
@@ -29569,6 +33188,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q08_FAUX
 
 `@err_CR_V07_Q08 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q09
 
@@ -29597,6 +33218,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q09 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q10
 
 ## EXAM_CR_V07_Q10
@@ -29623,6 +33246,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q10_FAUX
 
 `@err_CR_V07_Q10 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q11
 
@@ -29651,6 +33276,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q11 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q12
 
 ## EXAM_CR_V07_Q12
@@ -29677,6 +33304,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q12_FAUX
 
 `@err_CR_V07_Q12 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q13
 
@@ -29705,6 +33334,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q13 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q14
 
 ## EXAM_CR_V07_Q14
@@ -29731,6 +33362,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q14_FAUX
 
 `@err_CR_V07_Q14 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q15
 
@@ -29759,6 +33392,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q15 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q16
 
 ## EXAM_CR_V07_Q16
@@ -29785,6 +33420,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q16_FAUX
 
 `@err_CR_V07_Q16 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q17
 
@@ -29813,6 +33450,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q17 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q18
 
 ## EXAM_CR_V07_Q18
@@ -29839,6 +33478,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q18_FAUX
 
 `@err_CR_V07_Q18 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q19
 
@@ -29867,6 +33508,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q19 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q20
 
 ## EXAM_CR_V07_Q20
@@ -29893,6 +33536,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q20_FAUX
 
 `@err_CR_V07_Q20 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q21
 
@@ -29921,6 +33566,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q21 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q22
 
 ## EXAM_CR_V07_Q22
@@ -29947,6 +33594,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q22_FAUX
 
 `@err_CR_V07_Q22 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q23
 
@@ -29975,6 +33624,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q23 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q24
 
 ## EXAM_CR_V07_Q24
@@ -30001,6 +33652,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q24_FAUX
 
 `@err_CR_V07_Q24 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q25
 
@@ -30029,6 +33682,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q25 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q26
 
 ## EXAM_CR_V07_Q26
@@ -30055,6 +33710,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q26_FAUX
 
 `@err_CR_V07_Q26 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q27
 
@@ -30083,6 +33740,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q27 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q28
 
 ## EXAM_CR_V07_Q28
@@ -30109,6 +33768,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q28_FAUX
 
 `@err_CR_V07_Q28 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V07_PART2
 
@@ -30147,6 +33808,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 
 `@err_CR_V07_Q29 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q30
 
 ## EXAM_CR_V07_Q30
@@ -30175,6 +33838,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 ## EXAM_CR_V07_Q30_FAUX
 
 `@err_CR_V07_Q30 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q31
 
@@ -30205,6 +33870,8 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 
 `@err_CR_V07_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q32
 
 ## EXAM_CR_V07_Q32
@@ -30233,6 +33900,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 ## EXAM_CR_V07_Q32_FAUX
 
 `@err_CR_V07_Q32 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q33
 
@@ -30263,6 +33932,8 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 
 `@err_CR_V07_Q33 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q34
 
 ## EXAM_CR_V07_Q34
@@ -30291,6 +33962,8 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 ## EXAM_CR_V07_Q34_FAUX
 
 `@err_CR_V07_Q34 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q35
 
@@ -30321,6 +33994,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 `@err_CR_V07_Q35 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q36
 
 ## EXAM_CR_V07_Q36
@@ -30349,6 +34024,8 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 ## EXAM_CR_V07_Q36_FAUX
 
 `@err_CR_V07_Q36 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q37
 
@@ -30379,6 +34056,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 
 `@err_CR_V07_Q37 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q38
 
 ## EXAM_CR_V07_Q38
@@ -30407,6 +34086,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 ## EXAM_CR_V07_Q38_FAUX
 
 `@err_CR_V07_Q38 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V07_Q39
 
@@ -30437,6 +34118,8 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 
 `@err_CR_V07_Q39 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V07_Q40
 
 ## EXAM_CR_V07_Q40
@@ -30465,6 +34148,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 ## EXAM_CR_V07_Q40_FAUX
 
 `@err_CR_V07_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V07_RESULT
 
@@ -31125,40 +34810,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V07_CORRIGE)
@@ -31177,6 +34992,19 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -31211,6 +35039,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q01 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q02
 
 ## EXAM_CR_V08_Q02
@@ -31237,6 +35067,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q02_FAUX
 
 `@err_CR_V08_Q02 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q03
 
@@ -31265,6 +35097,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q03 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q04
 
 ## EXAM_CR_V08_Q04
@@ -31291,6 +35125,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q04_FAUX
 
 `@err_CR_V08_Q04 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q05
 
@@ -31319,6 +35155,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q05 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q06
 
 ## EXAM_CR_V08_Q06
@@ -31345,6 +35183,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q06_FAUX
 
 `@err_CR_V08_Q06 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q07
 
@@ -31373,6 +35213,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q07 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q08
 
 ## EXAM_CR_V08_Q08
@@ -31399,6 +35241,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q08_FAUX
 
 `@err_CR_V08_Q08 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q09
 
@@ -31427,6 +35271,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q09 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q10
 
 ## EXAM_CR_V08_Q10
@@ -31453,6 +35299,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q10_FAUX
 
 `@err_CR_V08_Q10 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q11
 
@@ -31481,6 +35329,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q11 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q12
 
 ## EXAM_CR_V08_Q12
@@ -31507,6 +35357,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q12_FAUX
 
 `@err_CR_V08_Q12 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q13
 
@@ -31535,6 +35387,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q13 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q14
 
 ## EXAM_CR_V08_Q14
@@ -31561,6 +35415,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q14_FAUX
 
 `@err_CR_V08_Q14 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q15
 
@@ -31589,6 +35445,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q15 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q16
 
 ## EXAM_CR_V08_Q16
@@ -31615,6 +35473,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q16_FAUX
 
 `@err_CR_V08_Q16 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q17
 
@@ -31643,6 +35503,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q17 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q18
 
 ## EXAM_CR_V08_Q18
@@ -31669,6 +35531,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q18_FAUX
 
 `@err_CR_V08_Q18 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q19
 
@@ -31697,6 +35561,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q19 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q20
 
 ## EXAM_CR_V08_Q20
@@ -31723,6 +35589,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q20_FAUX
 
 `@err_CR_V08_Q20 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q21
 
@@ -31751,6 +35619,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q21 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q22
 
 ## EXAM_CR_V08_Q22
@@ -31777,6 +35647,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q22_FAUX
 
 `@err_CR_V08_Q22 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q23
 
@@ -31805,6 +35677,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q23 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q24
 
 ## EXAM_CR_V08_Q24
@@ -31831,6 +35705,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q24_FAUX
 
 `@err_CR_V08_Q24 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q25
 
@@ -31859,6 +35735,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q25 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q26
 
 ## EXAM_CR_V08_Q26
@@ -31885,6 +35763,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q26_FAUX
 
 `@err_CR_V08_Q26 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q27
 
@@ -31913,6 +35793,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q27 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q28
 
 ## EXAM_CR_V08_Q28
@@ -31939,6 +35821,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q28_FAUX
 
 `@err_CR_V08_Q28 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V08_PART2
 
@@ -31977,6 +35861,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 
 `@err_CR_V08_Q29 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q30
 
 ## EXAM_CR_V08_Q30
@@ -32005,6 +35891,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 ## EXAM_CR_V08_Q30_FAUX
 
 `@err_CR_V08_Q30 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q31
 
@@ -32035,6 +35923,8 @@ Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre e
 
 `@err_CR_V08_Q31 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q32
 
 ## EXAM_CR_V08_Q32
@@ -32063,6 +35953,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 ## EXAM_CR_V08_Q32_FAUX
 
 `@err_CR_V08_Q32 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q33
 
@@ -32093,6 +35985,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 
 `@err_CR_V08_Q33 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q34
 
 ## EXAM_CR_V08_Q34
@@ -32121,6 +36015,8 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 ## EXAM_CR_V08_Q34_FAUX
 
 `@err_CR_V08_Q34 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q35
 
@@ -32151,6 +36047,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 `@err_CR_V08_Q35 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q36
 
 ## EXAM_CR_V08_Q36
@@ -32179,6 +36077,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 ## EXAM_CR_V08_Q36_FAUX
 
 `@err_CR_V08_Q36 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q37
 
@@ -32209,6 +36109,8 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 
 `@err_CR_V08_Q37 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q38
 
 ## EXAM_CR_V08_Q38
@@ -32237,6 +36139,8 @@ Lors d'une manifestation, certains participants brûlent un drapeau français de
 ## EXAM_CR_V08_Q38_FAUX
 
 `@err_CR_V08_Q38 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V08_Q39
 
@@ -32267,6 +36171,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_CR_V08_Q39 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V08_Q40
 
 ## EXAM_CR_V08_Q40
@@ -32295,6 +36201,8 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 ## EXAM_CR_V08_Q40_FAUX
 
 `@err_CR_V08_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V08_RESULT
 
@@ -32955,40 +36863,152 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V08_CORRIGE)
@@ -33007,6 +37027,20 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -33039,6 +37073,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q01 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q02
 
 ## EXAM_CR_V09_Q02
@@ -33065,6 +37101,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q02_FAUX
 
 `@err_CR_V09_Q02 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q03
 
@@ -33093,6 +37131,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q03 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q04
 
 ## EXAM_CR_V09_Q04
@@ -33119,6 +37159,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q04_FAUX
 
 `@err_CR_V09_Q04 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q05
 
@@ -33147,6 +37189,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q05 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q06
 
 ## EXAM_CR_V09_Q06
@@ -33173,6 +37217,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q06_FAUX
 
 `@err_CR_V09_Q06 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q07
 
@@ -33201,6 +37247,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q07 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q08
 
 ## EXAM_CR_V09_Q08
@@ -33227,6 +37275,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q08_FAUX
 
 `@err_CR_V09_Q08 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q09
 
@@ -33255,6 +37305,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q09 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q10
 
 ## EXAM_CR_V09_Q10
@@ -33281,6 +37333,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q10_FAUX
 
 `@err_CR_V09_Q10 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q11
 
@@ -33309,6 +37363,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q11 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q12
 
 ## EXAM_CR_V09_Q12
@@ -33335,6 +37391,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q12_FAUX
 
 `@err_CR_V09_Q12 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q13
 
@@ -33363,6 +37421,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q13 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q14
 
 ## EXAM_CR_V09_Q14
@@ -33389,6 +37449,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q14_FAUX
 
 `@err_CR_V09_Q14 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q15
 
@@ -33417,6 +37479,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q15 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q16
 
 ## EXAM_CR_V09_Q16
@@ -33443,6 +37507,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q16_FAUX
 
 `@err_CR_V09_Q16 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q17
 
@@ -33471,6 +37537,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q17 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q18
 
 ## EXAM_CR_V09_Q18
@@ -33497,6 +37565,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q18_FAUX
 
 `@err_CR_V09_Q18 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q19
 
@@ -33525,6 +37595,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q19 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q20
 
 ## EXAM_CR_V09_Q20
@@ -33551,6 +37623,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q20_FAUX
 
 `@err_CR_V09_Q20 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q21
 
@@ -33579,6 +37653,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q21 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q22
 
 ## EXAM_CR_V09_Q22
@@ -33605,6 +37681,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q22_FAUX
 
 `@err_CR_V09_Q22 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q23
 
@@ -33633,6 +37711,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q23 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q24
 
 ## EXAM_CR_V09_Q24
@@ -33659,6 +37739,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q24_FAUX
 
 `@err_CR_V09_Q24 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q25
 
@@ -33687,6 +37769,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q25 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q26
 
 ## EXAM_CR_V09_Q26
@@ -33713,6 +37797,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q26_FAUX
 
 `@err_CR_V09_Q26 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q27
 
@@ -33741,6 +37827,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q27 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q28
 
 ## EXAM_CR_V09_Q28
@@ -33767,6 +37855,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q28_FAUX
 
 `@err_CR_V09_Q28 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_PART2
 
@@ -33807,6 +37897,8 @@ Un ami pense qu'une simple loi votée par le Parlement est aussi difficile à mo
 
 `@err_CR_V09_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q30
 
 ## EXAM_CR_V09_Q30
@@ -33835,6 +37927,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 ## EXAM_CR_V09_Q30_FAUX
 
 `@err_CR_V09_Q30 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q31
 
@@ -33865,6 +37959,8 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 
 `@err_CR_V09_Q31 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q32
 
 ## EXAM_CR_V09_Q32
@@ -33893,6 +37989,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 ## EXAM_CR_V09_Q32_FAUX
 
 `@err_CR_V09_Q32 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q33
 
@@ -33923,6 +38021,8 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 
 `@err_CR_V09_Q33 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q34
 
 ## EXAM_CR_V09_Q34
@@ -33951,6 +38051,8 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 ## EXAM_CR_V09_Q34_FAUX
 
 `@err_CR_V09_Q34 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q35
 
@@ -33981,6 +38083,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 `@err_CR_V09_Q35 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q36
 
 ## EXAM_CR_V09_Q36
@@ -34009,6 +38113,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 ## EXAM_CR_V09_Q36_FAUX
 
 `@err_CR_V09_Q36 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q37
 
@@ -34039,6 +38145,8 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 `@err_CR_V09_Q37 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q38
 
 ## EXAM_CR_V09_Q38
@@ -34067,6 +38175,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 ## EXAM_CR_V09_Q38_FAUX
 
 `@err_CR_V09_Q38 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V09_Q39
 
@@ -34097,6 +38207,8 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 
 `@err_CR_V09_Q39 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V09_Q40
 
 ## EXAM_CR_V09_Q40
@@ -34125,6 +38237,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 ## EXAM_CR_V09_Q40_FAUX
 
 `@err_CR_V09_Q40 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V09_RESULT
 
@@ -34785,40 +38899,161 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V09_CORRIGE)
@@ -34837,6 +39072,19 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -34871,6 +39119,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q01 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q02
 
 ## EXAM_CR_V10_Q02
@@ -34897,6 +39147,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q02_FAUX
 
 `@err_CR_V10_Q02 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q03
 
@@ -34925,6 +39177,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q03 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q04
 
 ## EXAM_CR_V10_Q04
@@ -34951,6 +39205,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q04_FAUX
 
 `@err_CR_V10_Q04 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q05
 
@@ -34979,6 +39235,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q05 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q06
 
 ## EXAM_CR_V10_Q06
@@ -35005,6 +39263,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q06_FAUX
 
 `@err_CR_V10_Q06 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q07
 
@@ -35033,6 +39293,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q07 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q08
 
 ## EXAM_CR_V10_Q08
@@ -35059,6 +39321,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q08_FAUX
 
 `@err_CR_V10_Q08 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q09
 
@@ -35087,6 +39351,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q09 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q10
 
 ## EXAM_CR_V10_Q10
@@ -35113,6 +39379,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q10_FAUX
 
 `@err_CR_V10_Q10 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q11
 
@@ -35141,6 +39409,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q11 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q12
 
 ## EXAM_CR_V10_Q12
@@ -35167,6 +39437,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q12_FAUX
 
 `@err_CR_V10_Q12 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q13
 
@@ -35195,6 +39467,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q13 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q14
 
 ## EXAM_CR_V10_Q14
@@ -35221,6 +39495,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q14_FAUX
 
 `@err_CR_V10_Q14 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q15
 
@@ -35249,6 +39525,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q15 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q16
 
 ## EXAM_CR_V10_Q16
@@ -35275,6 +39553,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q16_FAUX
 
 `@err_CR_V10_Q16 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q17
 
@@ -35303,6 +39583,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q17 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q18
 
 ## EXAM_CR_V10_Q18
@@ -35329,6 +39611,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q18_FAUX
 
 `@err_CR_V10_Q18 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q19
 
@@ -35357,6 +39641,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q19 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q20
 
 ## EXAM_CR_V10_Q20
@@ -35383,6 +39669,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q20_FAUX
 
 `@err_CR_V10_Q20 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q21
 
@@ -35411,6 +39699,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q21 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q22
 
 ## EXAM_CR_V10_Q22
@@ -35437,6 +39727,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q22_FAUX
 
 `@err_CR_V10_Q22 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q23
 
@@ -35465,6 +39757,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q23 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q24
 
 ## EXAM_CR_V10_Q24
@@ -35491,6 +39785,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q24_FAUX
 
 `@err_CR_V10_Q24 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q25
 
@@ -35519,6 +39815,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q25 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q26
 
 ## EXAM_CR_V10_Q26
@@ -35545,6 +39843,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q26_FAUX
 
 `@err_CR_V10_Q26 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q27
 
@@ -35573,6 +39873,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q27 = 1`
 
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q28
 
 ## EXAM_CR_V10_Q28
@@ -35599,6 +39901,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q28_FAUX
 
 `@err_CR_V10_Q28 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_CR_V10_PART2
 
@@ -35637,6 +39941,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 
 `@err_CR_V10_Q29 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q30
 
 ## EXAM_CR_V10_Q30
@@ -35665,6 +39971,8 @@ Un usager demande à être reçu avant tout le monde au guichet de la mairie, en
 ## EXAM_CR_V10_Q30_FAUX
 
 `@err_CR_V10_Q30 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q31
 
@@ -35695,6 +40003,8 @@ Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir 
 
 `@err_CR_V10_Q31 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q32
 
 ## EXAM_CR_V10_Q32
@@ -35723,6 +40033,8 @@ Un chef d'entreprise vous confie qu'il préfère ne pas embaucher de femmes dans
 ## EXAM_CR_V10_Q32_FAUX
 
 `@err_CR_V10_Q32 = 1`
+
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q33
 
@@ -35753,6 +40065,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 
 `@err_CR_V10_Q33 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q34
 
 ## EXAM_CR_V10_Q34
@@ -35781,6 +40095,8 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 ## EXAM_CR_V10_Q34_FAUX
 
 `@err_CR_V10_Q34 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q35
 
@@ -35811,6 +40127,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 
 `@err_CR_V10_Q35 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q36
 
 ## EXAM_CR_V10_Q36
@@ -35839,6 +40157,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 ## EXAM_CR_V10_Q36_FAUX
 
 `@err_CR_V10_Q36 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q37
 
@@ -35869,6 +40189,8 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 
 `@err_CR_V10_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q38
 
 ## EXAM_CR_V10_Q38
@@ -35897,6 +40219,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 ## EXAM_CR_V10_Q38_FAUX
 
 `@err_CR_V10_Q38 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_CR_V10_Q39
 
@@ -35927,6 +40251,8 @@ On vous demande de définir en une phrase ce qu'est la Constitution, pour un exp
 
 `@err_CR_V10_Q39 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_CR_V10_Q40
 
 ## EXAM_CR_V10_Q40
@@ -35955,6 +40281,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 ## EXAM_CR_V10_Q40_FAUX
 
 `@err_CR_V10_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_CR_V10_RESULT
 
@@ -36615,40 +40943,152 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_CR_V10_CORRIGE)
@@ -36667,6 +41107,22 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -36699,6 +41155,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q01 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q02
 
 ## EXAM_NAT_V01_Q02
@@ -36725,6 +41183,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q02_FAUX
 
 `@err_NAT_V01_Q02 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q03
 
@@ -36753,6 +41213,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q03 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q04
 
 ## EXAM_NAT_V01_Q04
@@ -36779,6 +41241,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q04_FAUX
 
 `@err_NAT_V01_Q04 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q05
 
@@ -36807,6 +41271,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q05 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q06
 
 ## EXAM_NAT_V01_Q06
@@ -36833,6 +41299,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q06_FAUX
 
 `@err_NAT_V01_Q06 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q07
 
@@ -36861,6 +41329,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q07 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q08
 
 ## EXAM_NAT_V01_Q08
@@ -36887,6 +41357,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q08_FAUX
 
 `@err_NAT_V01_Q08 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q09
 
@@ -36915,6 +41387,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q09 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q10
 
 ## EXAM_NAT_V01_Q10
@@ -36941,6 +41415,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q10_FAUX
 
 `@err_NAT_V01_Q10 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q11
 
@@ -36969,6 +41445,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q11 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q12
 
 ## EXAM_NAT_V01_Q12
@@ -36995,6 +41473,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q12_FAUX
 
 `@err_NAT_V01_Q12 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q13
 
@@ -37023,6 +41503,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q13 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q14
 
 ## EXAM_NAT_V01_Q14
@@ -37049,6 +41531,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q14_FAUX
 
 `@err_NAT_V01_Q14 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q15
 
@@ -37077,6 +41561,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q15 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q16
 
 ## EXAM_NAT_V01_Q16
@@ -37103,6 +41589,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q16_FAUX
 
 `@err_NAT_V01_Q16 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q17
 
@@ -37131,6 +41619,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q17 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q18
 
 ## EXAM_NAT_V01_Q18
@@ -37157,6 +41647,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q18_FAUX
 
 `@err_NAT_V01_Q18 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q19
 
@@ -37185,6 +41677,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q19 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q20
 
 ## EXAM_NAT_V01_Q20
@@ -37211,6 +41705,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q20_FAUX
 
 `@err_NAT_V01_Q20 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q21
 
@@ -37239,6 +41735,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q21 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q22
 
 ## EXAM_NAT_V01_Q22
@@ -37265,6 +41763,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q22_FAUX
 
 `@err_NAT_V01_Q22 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q23
 
@@ -37293,6 +41793,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q23 = 1`
 
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q24
 
 ## EXAM_NAT_V01_Q24
@@ -37319,6 +41821,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q24_FAUX
 
 `@err_NAT_V01_Q24 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q25
 
@@ -37347,6 +41851,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q25 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q26
 
 ## EXAM_NAT_V01_Q26
@@ -37373,6 +41879,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q26_FAUX
 
 `@err_NAT_V01_Q26 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q27
 
@@ -37401,6 +41909,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q27 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q28
 
 ## EXAM_NAT_V01_Q28
@@ -37427,6 +41937,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q28_FAUX
 
 `@err_NAT_V01_Q28 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V01_PART2
 
@@ -37467,6 +41979,8 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_NAT_V01_Q29 = 1`
 
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q30
 
 ## EXAM_NAT_V01_Q30
@@ -37495,6 +42009,8 @@ Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre e
 ## EXAM_NAT_V01_Q30_FAUX
 
 `@err_NAT_V01_Q30 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q31
 
@@ -37525,6 +42041,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 `@err_NAT_V01_Q31 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q32
 
 ## EXAM_NAT_V01_Q32
@@ -37553,6 +42071,8 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 ## EXAM_NAT_V01_Q32_FAUX
 
 `@err_NAT_V01_Q32 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q33
 
@@ -37583,6 +42103,8 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 `@err_NAT_V01_Q33 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q34
 
 ## EXAM_NAT_V01_Q34
@@ -37611,6 +42133,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 ## EXAM_NAT_V01_Q34_FAUX
 
 `@err_NAT_V01_Q34 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q35
 
@@ -37641,6 +42165,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 
 `@err_NAT_V01_Q35 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q36
 
 ## EXAM_NAT_V01_Q36
@@ -37669,6 +42195,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 ## EXAM_NAT_V01_Q36_FAUX
 
 `@err_NAT_V01_Q36 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q37
 
@@ -37699,6 +42227,8 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 
 `@err_NAT_V01_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q38
 
 ## EXAM_NAT_V01_Q38
@@ -37727,6 +42257,8 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 ## EXAM_NAT_V01_Q38_FAUX
 
 `@err_NAT_V01_Q38 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V01_Q39
 
@@ -37757,6 +42289,8 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 
 `@err_NAT_V01_Q39 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V01_Q40
 
 ## EXAM_NAT_V01_Q40
@@ -37785,6 +42319,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 ## EXAM_NAT_V01_Q40_FAUX
 
 `@err_NAT_V01_Q40 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V01_RESULT
 
@@ -38445,40 +42981,179 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V01_CORRIGE)
@@ -38497,6 +43172,20 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -38531,6 +43220,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q01 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q02
 
 ## EXAM_NAT_V02_Q02
@@ -38557,6 +43248,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q02_FAUX
 
 `@err_NAT_V02_Q02 = 1`
+
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q03
 
@@ -38585,6 +43278,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q03 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q04
 
 ## EXAM_NAT_V02_Q04
@@ -38611,6 +43306,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q04_FAUX
 
 `@err_NAT_V02_Q04 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q05
 
@@ -38639,6 +43336,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q05 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q06
 
 ## EXAM_NAT_V02_Q06
@@ -38665,6 +43364,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q06_FAUX
 
 `@err_NAT_V02_Q06 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q07
 
@@ -38693,6 +43394,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q07 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q08
 
 ## EXAM_NAT_V02_Q08
@@ -38719,6 +43422,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q08_FAUX
 
 `@err_NAT_V02_Q08 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q09
 
@@ -38747,6 +43452,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q09 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q10
 
 ## EXAM_NAT_V02_Q10
@@ -38773,6 +43480,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q10_FAUX
 
 `@err_NAT_V02_Q10 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q11
 
@@ -38801,6 +43510,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q11 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q12
 
 ## EXAM_NAT_V02_Q12
@@ -38827,6 +43538,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q12_FAUX
 
 `@err_NAT_V02_Q12 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q13
 
@@ -38855,6 +43568,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q13 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q14
 
 ## EXAM_NAT_V02_Q14
@@ -38881,6 +43596,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q14_FAUX
 
 `@err_NAT_V02_Q14 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q15
 
@@ -38909,6 +43626,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q15 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q16
 
 ## EXAM_NAT_V02_Q16
@@ -38935,6 +43654,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q16_FAUX
 
 `@err_NAT_V02_Q16 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q17
 
@@ -38963,6 +43684,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q17 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q18
 
 ## EXAM_NAT_V02_Q18
@@ -38989,6 +43712,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q18_FAUX
 
 `@err_NAT_V02_Q18 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q19
 
@@ -39017,6 +43742,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q19 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q20
 
 ## EXAM_NAT_V02_Q20
@@ -39043,6 +43770,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q20_FAUX
 
 `@err_NAT_V02_Q20 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q21
 
@@ -39071,6 +43800,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q21 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q22
 
 ## EXAM_NAT_V02_Q22
@@ -39097,6 +43828,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q22_FAUX
 
 `@err_NAT_V02_Q22 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q23
 
@@ -39125,6 +43858,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q23 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q24
 
 ## EXAM_NAT_V02_Q24
@@ -39151,6 +43886,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q24_FAUX
 
 `@err_NAT_V02_Q24 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q25
 
@@ -39179,6 +43916,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q25 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q26
 
 ## EXAM_NAT_V02_Q26
@@ -39205,6 +43944,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q26_FAUX
 
 `@err_NAT_V02_Q26 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q27
 
@@ -39233,6 +43974,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q27 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q28
 
 ## EXAM_NAT_V02_Q28
@@ -39259,6 +44002,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q28_FAUX
 
 `@err_NAT_V02_Q28 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V02_PART2
 
@@ -39297,6 +44042,8 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_NAT_V02_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q30
 
 ## EXAM_NAT_V02_Q30
@@ -39325,6 +44072,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 ## EXAM_NAT_V02_Q30_FAUX
 
 `@err_NAT_V02_Q30 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q31
 
@@ -39355,6 +44104,8 @@ Une personne récemment installée en France envisage de changer de religion, ma
 
 `@err_NAT_V02_Q31 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q32
 
 ## EXAM_NAT_V02_Q32
@@ -39383,6 +44134,8 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 ## EXAM_NAT_V02_Q32_FAUX
 
 `@err_NAT_V02_Q32 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q33
 
@@ -39413,6 +44166,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 
 `@err_NAT_V02_Q33 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q34
 
 ## EXAM_NAT_V02_Q34
@@ -39441,6 +44196,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 ## EXAM_NAT_V02_Q34_FAUX
 
 `@err_NAT_V02_Q34 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q35
 
@@ -39471,6 +44228,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 `@err_NAT_V02_Q35 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q36
 
 ## EXAM_NAT_V02_Q36
@@ -39499,6 +44258,8 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 ## EXAM_NAT_V02_Q36_FAUX
 
 `@err_NAT_V02_Q36 = 1`
+
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q37
 
@@ -39529,6 +44290,8 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 
 `@err_NAT_V02_Q37 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q38
 
 ## EXAM_NAT_V02_Q38
@@ -39557,6 +44320,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 ## EXAM_NAT_V02_Q38_FAUX
 
 `@err_NAT_V02_Q38 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V02_Q39
 
@@ -39587,6 +44352,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 
 `@err_NAT_V02_Q39 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V02_Q40
 
 ## EXAM_NAT_V02_Q40
@@ -39615,6 +44382,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 ## EXAM_NAT_V02_Q40_FAUX
 
 `@err_NAT_V02_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V02_RESULT
 
@@ -40275,40 +45044,161 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V02_CORRIGE)
@@ -40327,6 +45217,20 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -40361,6 +45265,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q01 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q02
 
 ## EXAM_NAT_V03_Q02
@@ -40387,6 +45293,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q02_FAUX
 
 `@err_NAT_V03_Q02 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q03
 
@@ -40415,6 +45323,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q03 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q04
 
 ## EXAM_NAT_V03_Q04
@@ -40441,6 +45351,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q04_FAUX
 
 `@err_NAT_V03_Q04 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q05
 
@@ -40469,6 +45381,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q05 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q06
 
 ## EXAM_NAT_V03_Q06
@@ -40495,6 +45409,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q06_FAUX
 
 `@err_NAT_V03_Q06 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q07
 
@@ -40523,6 +45439,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q07 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q08
 
 ## EXAM_NAT_V03_Q08
@@ -40549,6 +45467,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q08_FAUX
 
 `@err_NAT_V03_Q08 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q09
 
@@ -40577,6 +45497,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q09 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q10
 
 ## EXAM_NAT_V03_Q10
@@ -40603,6 +45525,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q10_FAUX
 
 `@err_NAT_V03_Q10 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q11
 
@@ -40631,6 +45555,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q11 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q12
 
 ## EXAM_NAT_V03_Q12
@@ -40657,6 +45583,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q12_FAUX
 
 `@err_NAT_V03_Q12 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q13
 
@@ -40685,6 +45613,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q13 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q14
 
 ## EXAM_NAT_V03_Q14
@@ -40711,6 +45641,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q14_FAUX
 
 `@err_NAT_V03_Q14 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q15
 
@@ -40739,6 +45671,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q15 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q16
 
 ## EXAM_NAT_V03_Q16
@@ -40765,6 +45699,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q16_FAUX
 
 `@err_NAT_V03_Q16 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q17
 
@@ -40793,6 +45729,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q17 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q18
 
 ## EXAM_NAT_V03_Q18
@@ -40819,6 +45757,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q18_FAUX
 
 `@err_NAT_V03_Q18 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q19
 
@@ -40847,6 +45787,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q19 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q20
 
 ## EXAM_NAT_V03_Q20
@@ -40873,6 +45815,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q20_FAUX
 
 `@err_NAT_V03_Q20 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q21
 
@@ -40901,6 +45845,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q21 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q22
 
 ## EXAM_NAT_V03_Q22
@@ -40927,6 +45873,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q22_FAUX
 
 `@err_NAT_V03_Q22 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q23
 
@@ -40955,6 +45903,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q23 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q24
 
 ## EXAM_NAT_V03_Q24
@@ -40981,6 +45931,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q24_FAUX
 
 `@err_NAT_V03_Q24 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q25
 
@@ -41009,6 +45961,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q25 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q26
 
 ## EXAM_NAT_V03_Q26
@@ -41035,6 +45989,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q26_FAUX
 
 `@err_NAT_V03_Q26 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q27
 
@@ -41063,6 +46019,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q27 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q28
 
 ## EXAM_NAT_V03_Q28
@@ -41089,6 +46047,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q28_FAUX
 
 `@err_NAT_V03_Q28 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V03_PART2
 
@@ -41127,6 +46087,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V03_Q29 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q30
 
 ## EXAM_NAT_V03_Q30
@@ -41155,6 +46117,8 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 ## EXAM_NAT_V03_Q30_FAUX
 
 `@err_NAT_V03_Q30 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q31
 
@@ -41185,6 +46149,8 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_NAT_V03_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q32
 
 ## EXAM_NAT_V03_Q32
@@ -41213,6 +46179,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 ## EXAM_NAT_V03_Q32_FAUX
 
 `@err_NAT_V03_Q32 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q33
 
@@ -41243,6 +46211,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 
 `@err_NAT_V03_Q33 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q34
 
 ## EXAM_NAT_V03_Q34
@@ -41271,6 +46241,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 ## EXAM_NAT_V03_Q34_FAUX
 
 `@err_NAT_V03_Q34 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q35
 
@@ -41301,6 +46273,8 @@ Pendant votre préparation à l'examen civique, le formateur vous demande de com
 
 `@err_NAT_V03_Q35 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q36
 
 ## EXAM_NAT_V03_Q36
@@ -41329,6 +46303,8 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 ## EXAM_NAT_V03_Q36_FAUX
 
 `@err_NAT_V03_Q36 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q37
 
@@ -41359,6 +46335,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 `@err_NAT_V03_Q37 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q38
 
 ## EXAM_NAT_V03_Q38
@@ -41387,6 +46365,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 ## EXAM_NAT_V03_Q38_FAUX
 
 `@err_NAT_V03_Q38 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V03_Q39
 
@@ -41417,6 +46397,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V03_Q39 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V03_Q40
 
 ## EXAM_NAT_V03_Q40
@@ -41445,6 +46427,8 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 ## EXAM_NAT_V03_Q40_FAUX
 
 `@err_NAT_V03_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V03_RESULT
 
@@ -42105,40 +47089,161 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V03_CORRIGE)
@@ -42157,6 +47262,21 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -42191,6 +47311,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q01 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q02
 
 ## EXAM_NAT_V04_Q02
@@ -42217,6 +47339,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q02_FAUX
 
 `@err_NAT_V04_Q02 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q03
 
@@ -42245,6 +47369,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q03 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q04
 
 ## EXAM_NAT_V04_Q04
@@ -42271,6 +47397,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q04_FAUX
 
 `@err_NAT_V04_Q04 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q05
 
@@ -42299,6 +47427,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q05 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q06
 
 ## EXAM_NAT_V04_Q06
@@ -42325,6 +47455,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q06_FAUX
 
 `@err_NAT_V04_Q06 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q07
 
@@ -42353,6 +47485,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q07 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q08
 
 ## EXAM_NAT_V04_Q08
@@ -42379,6 +47513,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q08_FAUX
 
 `@err_NAT_V04_Q08 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q09
 
@@ -42407,6 +47543,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q09 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q10
 
 ## EXAM_NAT_V04_Q10
@@ -42433,6 +47571,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q10_FAUX
 
 `@err_NAT_V04_Q10 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q11
 
@@ -42461,6 +47601,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q11 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q12
 
 ## EXAM_NAT_V04_Q12
@@ -42487,6 +47629,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q12_FAUX
 
 `@err_NAT_V04_Q12 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q13
 
@@ -42515,6 +47659,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q13 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q14
 
 ## EXAM_NAT_V04_Q14
@@ -42541,6 +47687,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q14_FAUX
 
 `@err_NAT_V04_Q14 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q15
 
@@ -42569,6 +47717,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q15 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q16
 
 ## EXAM_NAT_V04_Q16
@@ -42595,6 +47745,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q16_FAUX
 
 `@err_NAT_V04_Q16 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q17
 
@@ -42623,6 +47775,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q17 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q18
 
 ## EXAM_NAT_V04_Q18
@@ -42649,6 +47803,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q18_FAUX
 
 `@err_NAT_V04_Q18 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q19
 
@@ -42677,6 +47833,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q19 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q20
 
 ## EXAM_NAT_V04_Q20
@@ -42703,6 +47861,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q20_FAUX
 
 `@err_NAT_V04_Q20 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q21
 
@@ -42731,6 +47891,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q21 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q22
 
 ## EXAM_NAT_V04_Q22
@@ -42757,6 +47919,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q22_FAUX
 
 `@err_NAT_V04_Q22 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q23
 
@@ -42785,6 +47949,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q23 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q24
 
 ## EXAM_NAT_V04_Q24
@@ -42811,6 +47977,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q24_FAUX
 
 `@err_NAT_V04_Q24 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q25
 
@@ -42839,6 +48007,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q25 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q26
 
 ## EXAM_NAT_V04_Q26
@@ -42865,6 +48035,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q26_FAUX
 
 `@err_NAT_V04_Q26 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q27
 
@@ -42893,6 +48065,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q27 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q28
 
 ## EXAM_NAT_V04_Q28
@@ -42919,6 +48093,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q28_FAUX
 
 `@err_NAT_V04_Q28 = 1`
+
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_PART2
 
@@ -42957,6 +48133,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 
 `@err_NAT_V04_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q30
 
 ## EXAM_NAT_V04_Q30
@@ -42985,6 +48163,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 ## EXAM_NAT_V04_Q30_FAUX
 
 `@err_NAT_V04_Q30 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q31
 
@@ -43015,6 +48195,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 
 `@err_NAT_V04_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q32
 
 ## EXAM_NAT_V04_Q32
@@ -43043,6 +48225,8 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 ## EXAM_NAT_V04_Q32_FAUX
 
 `@err_NAT_V04_Q32 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q33
 
@@ -43073,6 +48257,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V04_Q33 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q34
 
 ## EXAM_NAT_V04_Q34
@@ -43101,6 +48287,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 ## EXAM_NAT_V04_Q34_FAUX
 
 `@err_NAT_V04_Q34 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q35
 
@@ -43131,6 +48319,8 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 
 `@err_NAT_V04_Q35 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q36
 
 ## EXAM_NAT_V04_Q36
@@ -43159,6 +48349,8 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 ## EXAM_NAT_V04_Q36_FAUX
 
 `@err_NAT_V04_Q36 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q37
 
@@ -43189,6 +48381,8 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_NAT_V04_Q37 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q38
 
 ## EXAM_NAT_V04_Q38
@@ -43217,6 +48411,8 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 ## EXAM_NAT_V04_Q38_FAUX
 
 `@err_NAT_V04_Q38 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V04_Q39
 
@@ -43247,6 +48443,8 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_NAT_V04_Q39 = 1`
 
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+
 !SelectNext: EXAM_NAT_V04_Q40
 
 ## EXAM_NAT_V04_Q40
@@ -43275,6 +48473,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 ## EXAM_NAT_V04_Q40_FAUX
 
 `@err_NAT_V04_Q40 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V04_RESULT
 
@@ -43935,40 +49135,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V04_CORRIGE)
@@ -43987,6 +49317,19 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -44021,6 +49364,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q01 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q02
 
 ## EXAM_NAT_V05_Q02
@@ -44047,6 +49392,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q02_FAUX
 
 `@err_NAT_V05_Q02 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q03
 
@@ -44075,6 +49422,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q03 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q04
 
 ## EXAM_NAT_V05_Q04
@@ -44101,6 +49450,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q04_FAUX
 
 `@err_NAT_V05_Q04 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q05
 
@@ -44129,6 +49480,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q05 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q06
 
 ## EXAM_NAT_V05_Q06
@@ -44155,6 +49508,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q06_FAUX
 
 `@err_NAT_V05_Q06 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q07
 
@@ -44183,6 +49538,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q07 = 1`
 
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q08
 
 ## EXAM_NAT_V05_Q08
@@ -44209,6 +49566,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q08_FAUX
 
 `@err_NAT_V05_Q08 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q09
 
@@ -44237,6 +49596,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q09 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q10
 
 ## EXAM_NAT_V05_Q10
@@ -44263,6 +49624,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q10_FAUX
 
 `@err_NAT_V05_Q10 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q11
 
@@ -44291,6 +49654,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q11 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q12
 
 ## EXAM_NAT_V05_Q12
@@ -44317,6 +49682,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q12_FAUX
 
 `@err_NAT_V05_Q12 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q13
 
@@ -44345,6 +49712,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q13 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q14
 
 ## EXAM_NAT_V05_Q14
@@ -44371,6 +49740,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q14_FAUX
 
 `@err_NAT_V05_Q14 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q15
 
@@ -44399,6 +49770,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q15 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q16
 
 ## EXAM_NAT_V05_Q16
@@ -44425,6 +49798,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q16_FAUX
 
 `@err_NAT_V05_Q16 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q17
 
@@ -44453,6 +49828,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q17 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q18
 
 ## EXAM_NAT_V05_Q18
@@ -44479,6 +49856,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q18_FAUX
 
 `@err_NAT_V05_Q18 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q19
 
@@ -44507,6 +49886,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q19 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q20
 
 ## EXAM_NAT_V05_Q20
@@ -44533,6 +49914,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q20_FAUX
 
 `@err_NAT_V05_Q20 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q21
 
@@ -44561,6 +49944,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q21 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q22
 
 ## EXAM_NAT_V05_Q22
@@ -44587,6 +49972,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q22_FAUX
 
 `@err_NAT_V05_Q22 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q23
 
@@ -44615,6 +50002,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q23 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q24
 
 ## EXAM_NAT_V05_Q24
@@ -44641,6 +50030,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q24_FAUX
 
 `@err_NAT_V05_Q24 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q25
 
@@ -44669,6 +50060,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q25 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q26
 
 ## EXAM_NAT_V05_Q26
@@ -44695,6 +50088,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q26_FAUX
 
 `@err_NAT_V05_Q26 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q27
 
@@ -44723,6 +50118,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q27 = 1`
 
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q28
 
 ## EXAM_NAT_V05_Q28
@@ -44749,6 +50146,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q28_FAUX
 
 `@err_NAT_V05_Q28 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V05_PART2
 
@@ -44787,6 +50186,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 
 `@err_NAT_V05_Q29 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q30
 
 ## EXAM_NAT_V05_Q30
@@ -44815,6 +50216,8 @@ Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe
 ## EXAM_NAT_V05_Q30_FAUX
 
 `@err_NAT_V05_Q30 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q31
 
@@ -44845,6 +50248,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 
 `@err_NAT_V05_Q31 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q32
 
 ## EXAM_NAT_V05_Q32
@@ -44873,6 +50278,8 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 ## EXAM_NAT_V05_Q32_FAUX
 
 `@err_NAT_V05_Q32 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q33
 
@@ -44903,6 +50310,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 
 `@err_NAT_V05_Q33 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q34
 
 ## EXAM_NAT_V05_Q34
@@ -44931,6 +50340,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 ## EXAM_NAT_V05_Q34_FAUX
 
 `@err_NAT_V05_Q34 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q35
 
@@ -44961,6 +50372,8 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 
 `@err_NAT_V05_Q35 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q36
 
 ## EXAM_NAT_V05_Q36
@@ -44989,6 +50402,8 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 ## EXAM_NAT_V05_Q36_FAUX
 
 `@err_NAT_V05_Q36 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q37
 
@@ -45019,6 +50434,8 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 
 `@err_NAT_V05_Q37 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q38
 
 ## EXAM_NAT_V05_Q38
@@ -45047,6 +50464,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 ## EXAM_NAT_V05_Q38_FAUX
 
 `@err_NAT_V05_Q38 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V05_Q39
 
@@ -45077,6 +50496,8 @@ Des salariés de votre entreprise cessent le travail collectivement pour protest
 
 `@err_NAT_V05_Q39 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V05_Q40
 
 ## EXAM_NAT_V05_Q40
@@ -45105,6 +50526,8 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 ## EXAM_NAT_V05_Q40_FAUX
 
 `@err_NAT_V05_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V05_RESULT
 
@@ -45765,40 +51188,152 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+- [La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V05_CORRIGE)
@@ -45817,6 +51352,21 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -45849,6 +51399,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q01 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q02
 
 ## EXAM_NAT_V06_Q02
@@ -45875,6 +51427,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q02_FAUX
 
 `@err_NAT_V06_Q02 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q03
 
@@ -45903,6 +51457,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q03 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q04
 
 ## EXAM_NAT_V06_Q04
@@ -45929,6 +51485,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q04_FAUX
 
 `@err_NAT_V06_Q04 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q05
 
@@ -45957,6 +51515,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q05 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q06
 
 ## EXAM_NAT_V06_Q06
@@ -45983,6 +51543,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q06_FAUX
 
 `@err_NAT_V06_Q06 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q07
 
@@ -46011,6 +51573,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q07 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q08
 
 ## EXAM_NAT_V06_Q08
@@ -46037,6 +51601,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q08_FAUX
 
 `@err_NAT_V06_Q08 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q09
 
@@ -46065,6 +51631,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q09 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q10
 
 ## EXAM_NAT_V06_Q10
@@ -46091,6 +51659,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q10_FAUX
 
 `@err_NAT_V06_Q10 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q11
 
@@ -46119,6 +51689,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q11 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q12
 
 ## EXAM_NAT_V06_Q12
@@ -46145,6 +51717,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q12_FAUX
 
 `@err_NAT_V06_Q12 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q13
 
@@ -46173,6 +51747,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q13 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q14
 
 ## EXAM_NAT_V06_Q14
@@ -46199,6 +51775,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q14_FAUX
 
 `@err_NAT_V06_Q14 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q15
 
@@ -46227,6 +51805,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q15 = 1`
 
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q16
 
 ## EXAM_NAT_V06_Q16
@@ -46253,6 +51833,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q16_FAUX
 
 `@err_NAT_V06_Q16 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q17
 
@@ -46281,6 +51863,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q17 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q18
 
 ## EXAM_NAT_V06_Q18
@@ -46307,6 +51891,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q18_FAUX
 
 `@err_NAT_V06_Q18 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q19
 
@@ -46335,6 +51921,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q19 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q20
 
 ## EXAM_NAT_V06_Q20
@@ -46361,6 +51949,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q20_FAUX
 
 `@err_NAT_V06_Q20 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q21
 
@@ -46389,6 +51979,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q21 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q22
 
 ## EXAM_NAT_V06_Q22
@@ -46415,6 +52007,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q22_FAUX
 
 `@err_NAT_V06_Q22 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q23
 
@@ -46443,6 +52037,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q23 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q24
 
 ## EXAM_NAT_V06_Q24
@@ -46469,6 +52065,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q24_FAUX
 
 `@err_NAT_V06_Q24 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q25
 
@@ -46497,6 +52095,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q25 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q26
 
 ## EXAM_NAT_V06_Q26
@@ -46523,6 +52123,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q26_FAUX
 
 `@err_NAT_V06_Q26 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q27
 
@@ -46551,6 +52153,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q27 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q28
 
 ## EXAM_NAT_V06_Q28
@@ -46577,6 +52181,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q28_FAUX
 
 `@err_NAT_V06_Q28 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V06_PART2
 
@@ -46617,6 +52223,8 @@ On vous demande de définir en une phrase ce qu'est la Constitution, pour un exp
 
 `@err_NAT_V06_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q30
 
 ## EXAM_NAT_V06_Q30
@@ -46645,6 +52253,8 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 ## EXAM_NAT_V06_Q30_FAUX
 
 `@err_NAT_V06_Q30 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q31
 
@@ -46675,6 +52285,8 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 `@err_NAT_V06_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q32
 
 ## EXAM_NAT_V06_Q32
@@ -46703,6 +52315,8 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 ## EXAM_NAT_V06_Q32_FAUX
 
 `@err_NAT_V06_Q32 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q33
 
@@ -46733,6 +52347,8 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 
 `@err_NAT_V06_Q33 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q34
 
 ## EXAM_NAT_V06_Q34
@@ -46761,6 +52377,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 ## EXAM_NAT_V06_Q34_FAUX
 
 `@err_NAT_V06_Q34 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q35
 
@@ -46791,6 +52409,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 
 `@err_NAT_V06_Q35 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q36
 
 ## EXAM_NAT_V06_Q36
@@ -46819,6 +52439,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 ## EXAM_NAT_V06_Q36_FAUX
 
 `@err_NAT_V06_Q36 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q37
 
@@ -46849,6 +52471,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 
 `@err_NAT_V06_Q37 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q38
 
 ## EXAM_NAT_V06_Q38
@@ -46877,6 +52501,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 ## EXAM_NAT_V06_Q38_FAUX
 
 `@err_NAT_V06_Q38 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V06_Q39
 
@@ -46907,6 +52533,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_NAT_V06_Q39 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V06_Q40
 
 ## EXAM_NAT_V06_Q40
@@ -46935,6 +52563,8 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 ## EXAM_NAT_V06_Q40_FAUX
 
 `@err_NAT_V06_Q40 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V06_RESULT
 
@@ -47595,40 +53225,170 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V06_CORRIGE)
@@ -47647,6 +53407,17 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -47681,6 +53452,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q01 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q02
 
 ## EXAM_NAT_V07_Q02
@@ -47707,6 +53480,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q02_FAUX
 
 `@err_NAT_V07_Q02 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q03
 
@@ -47735,6 +53510,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q03 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q04
 
 ## EXAM_NAT_V07_Q04
@@ -47761,6 +53538,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q04_FAUX
 
 `@err_NAT_V07_Q04 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q05
 
@@ -47789,6 +53568,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q05 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q06
 
 ## EXAM_NAT_V07_Q06
@@ -47815,6 +53596,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q06_FAUX
 
 `@err_NAT_V07_Q06 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q07
 
@@ -47843,6 +53626,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q07 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q08
 
 ## EXAM_NAT_V07_Q08
@@ -47869,6 +53654,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q08_FAUX
 
 `@err_NAT_V07_Q08 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q09
 
@@ -47897,6 +53684,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q09 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q10
 
 ## EXAM_NAT_V07_Q10
@@ -47923,6 +53712,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q10_FAUX
 
 `@err_NAT_V07_Q10 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q11
 
@@ -47951,6 +53742,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q11 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q12
 
 ## EXAM_NAT_V07_Q12
@@ -47977,6 +53770,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q12_FAUX
 
 `@err_NAT_V07_Q12 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q13
 
@@ -48005,6 +53800,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q13 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q14
 
 ## EXAM_NAT_V07_Q14
@@ -48031,6 +53828,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q14_FAUX
 
 `@err_NAT_V07_Q14 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q15
 
@@ -48059,6 +53858,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q15 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q16
 
 ## EXAM_NAT_V07_Q16
@@ -48085,6 +53886,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q16_FAUX
 
 `@err_NAT_V07_Q16 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q17
 
@@ -48113,6 +53916,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q17 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q18
 
 ## EXAM_NAT_V07_Q18
@@ -48139,6 +53944,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q18_FAUX
 
 `@err_NAT_V07_Q18 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q19
 
@@ -48167,6 +53974,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q19 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q20
 
 ## EXAM_NAT_V07_Q20
@@ -48193,6 +54002,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q20_FAUX
 
 `@err_NAT_V07_Q20 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q21
 
@@ -48221,6 +54032,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q21 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q22
 
 ## EXAM_NAT_V07_Q22
@@ -48247,6 +54060,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q22_FAUX
 
 `@err_NAT_V07_Q22 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q23
 
@@ -48275,6 +54090,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q23 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q24
 
 ## EXAM_NAT_V07_Q24
@@ -48301,6 +54118,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q24_FAUX
 
 `@err_NAT_V07_Q24 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q25
 
@@ -48329,6 +54148,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q25 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q26
 
 ## EXAM_NAT_V07_Q26
@@ -48355,6 +54176,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q26_FAUX
 
 `@err_NAT_V07_Q26 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q27
 
@@ -48383,6 +54206,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q27 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q28
 
 ## EXAM_NAT_V07_Q28
@@ -48409,6 +54234,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q28_FAUX
 
 `@err_NAT_V07_Q28 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V07_PART2
 
@@ -48447,6 +54274,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 `@err_NAT_V07_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q30
 
 ## EXAM_NAT_V07_Q30
@@ -48475,6 +54304,8 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 ## EXAM_NAT_V07_Q30_FAUX
 
 `@err_NAT_V07_Q30 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q31
 
@@ -48505,6 +54336,8 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 
 `@err_NAT_V07_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q32
 
 ## EXAM_NAT_V07_Q32
@@ -48533,6 +54366,8 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 ## EXAM_NAT_V07_Q32_FAUX
 
 `@err_NAT_V07_Q32 = 1`
+
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q33
 
@@ -48563,6 +54398,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 `@err_NAT_V07_Q33 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q34
 
 ## EXAM_NAT_V07_Q34
@@ -48591,6 +54428,8 @@ Vous montrez à un ami une enveloppe affranchie et lui faites remarquer le visag
 ## EXAM_NAT_V07_Q34_FAUX
 
 `@err_NAT_V07_Q34 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q35
 
@@ -48621,6 +54460,8 @@ Un enseignant vous présente la Charte de la laïcité affichée dans les établ
 
 `@err_NAT_V07_Q35 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q36
 
 ## EXAM_NAT_V07_Q36
@@ -48649,6 +54490,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 ## EXAM_NAT_V07_Q36_FAUX
 
 `@err_NAT_V07_Q36 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q37
 
@@ -48679,6 +54522,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V07_Q37 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q38
 
 ## EXAM_NAT_V07_Q38
@@ -48707,6 +54552,8 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 ## EXAM_NAT_V07_Q38_FAUX
 
 `@err_NAT_V07_Q38 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V07_Q39
 
@@ -48737,6 +54584,8 @@ Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe
 
 `@err_NAT_V07_Q39 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V07_Q40
 
 ## EXAM_NAT_V07_Q40
@@ -48765,6 +54614,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 ## EXAM_NAT_V07_Q40_FAUX
 
 `@err_NAT_V07_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V07_RESULT
 
@@ -49425,40 +55276,134 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH03 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH03 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V07_CORRIGE)
@@ -49477,6 +55422,22 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -49511,6 +55472,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q01 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q02
 
 ## EXAM_NAT_V08_Q02
@@ -49537,6 +55500,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q02_FAUX
 
 `@err_NAT_V08_Q02 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q03
 
@@ -49565,6 +55530,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q03 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q04
 
 ## EXAM_NAT_V08_Q04
@@ -49591,6 +55558,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q04_FAUX
 
 `@err_NAT_V08_Q04 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q05
 
@@ -49619,6 +55588,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q05 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q06
 
 ## EXAM_NAT_V08_Q06
@@ -49645,6 +55616,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q06_FAUX
 
 `@err_NAT_V08_Q06 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q07
 
@@ -49673,6 +55646,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q07 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q08
 
 ## EXAM_NAT_V08_Q08
@@ -49699,6 +55674,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q08_FAUX
 
 `@err_NAT_V08_Q08 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q09
 
@@ -49727,6 +55704,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q09 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q10
 
 ## EXAM_NAT_V08_Q10
@@ -49753,6 +55732,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q10_FAUX
 
 `@err_NAT_V08_Q10 = 1`
+
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q11
 
@@ -49781,6 +55762,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q11 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q12
 
 ## EXAM_NAT_V08_Q12
@@ -49807,6 +55790,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q12_FAUX
 
 `@err_NAT_V08_Q12 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q13
 
@@ -49835,6 +55820,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q13 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q14
 
 ## EXAM_NAT_V08_Q14
@@ -49861,6 +55848,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q14_FAUX
 
 `@err_NAT_V08_Q14 = 1`
+
+`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q15
 
@@ -49889,6 +55878,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q15 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q16
 
 ## EXAM_NAT_V08_Q16
@@ -49915,6 +55906,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q16_FAUX
 
 `@err_NAT_V08_Q16 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q17
 
@@ -49943,6 +55936,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q17 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q18
 
 ## EXAM_NAT_V08_Q18
@@ -49969,6 +55964,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q18_FAUX
 
 `@err_NAT_V08_Q18 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q19
 
@@ -49997,6 +55994,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q19 = 1`
 
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q20
 
 ## EXAM_NAT_V08_Q20
@@ -50023,6 +56022,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q20_FAUX
 
 `@err_NAT_V08_Q20 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q21
 
@@ -50051,6 +56052,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q21 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q22
 
 ## EXAM_NAT_V08_Q22
@@ -50077,6 +56080,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q22_FAUX
 
 `@err_NAT_V08_Q22 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q23
 
@@ -50105,6 +56110,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q23 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q24
 
 ## EXAM_NAT_V08_Q24
@@ -50131,6 +56138,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q24_FAUX
 
 `@err_NAT_V08_Q24 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q25
 
@@ -50159,6 +56168,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q25 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q26
 
 ## EXAM_NAT_V08_Q26
@@ -50185,6 +56196,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q26_FAUX
 
 `@err_NAT_V08_Q26 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q27
 
@@ -50213,6 +56226,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q27 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q28
 
 ## EXAM_NAT_V08_Q28
@@ -50239,6 +56254,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q28_FAUX
 
 `@err_NAT_V08_Q28 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V08_PART2
 
@@ -50277,6 +56294,8 @@ Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que �
 
 `@err_NAT_V08_Q29 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q30
 
 ## EXAM_NAT_V08_Q30
@@ -50305,6 +56324,8 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 ## EXAM_NAT_V08_Q30_FAUX
 
 `@err_NAT_V08_Q30 = 1`
+
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q31
 
@@ -50335,6 +56356,8 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_NAT_V08_Q31 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q32
 
 ## EXAM_NAT_V08_Q32
@@ -50363,6 +56386,8 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 ## EXAM_NAT_V08_Q32_FAUX
 
 `@err_NAT_V08_Q32 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q33
 
@@ -50393,6 +56418,8 @@ Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peu
 
 `@err_NAT_V08_Q33 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q34
 
 ## EXAM_NAT_V08_Q34
@@ -50421,6 +56448,8 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 ## EXAM_NAT_V08_Q34_FAUX
 
 `@err_NAT_V08_Q34 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q35
 
@@ -50451,6 +56480,8 @@ Un ami pense que la liberté de la presse permet aux journalistes de publier n'i
 
 `@err_NAT_V08_Q35 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q36
 
 ## EXAM_NAT_V08_Q36
@@ -50479,6 +56510,8 @@ Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir 
 ## EXAM_NAT_V08_Q36_FAUX
 
 `@err_NAT_V08_Q36 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q37
 
@@ -50509,6 +56542,8 @@ Un ami sans religion craint de rencontrer des difficultés administratives en Fr
 
 `@err_NAT_V08_Q37 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q38
 
 ## EXAM_NAT_V08_Q38
@@ -50537,6 +56572,8 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 ## EXAM_NAT_V08_Q38_FAUX
 
 `@err_NAT_V08_Q38 = 1`
+
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
 
 !SelectNext: EXAM_NAT_V08_Q39
 
@@ -50567,6 +56604,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V08_Q39 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V08_Q40
 
 ## EXAM_NAT_V08_Q40
@@ -50595,6 +56634,8 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 ## EXAM_NAT_V08_Q40_FAUX
 
 `@err_NAT_V08_Q40 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V08_RESULT
 
@@ -51255,40 +57296,179 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH02 >= 3`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH02 == 2`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH02 == 1`
+- [La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V08_CORRIGE)
@@ -51307,6 +57487,20 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -51341,6 +57535,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q01 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q02
 
 ## EXAM_NAT_V09_Q02
@@ -51367,6 +57563,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q02_FAUX
 
 `@err_NAT_V09_Q02 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q03
 
@@ -51395,6 +57593,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q03 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q04
 
 ## EXAM_NAT_V09_Q04
@@ -51421,6 +57621,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q04_FAUX
 
 `@err_NAT_V09_Q04 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q05
 
@@ -51449,6 +57651,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q05 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q06
 
 ## EXAM_NAT_V09_Q06
@@ -51475,6 +57679,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q06_FAUX
 
 `@err_NAT_V09_Q06 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q07
 
@@ -51503,6 +57709,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q07 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q08
 
 ## EXAM_NAT_V09_Q08
@@ -51529,6 +57737,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q08_FAUX
 
 `@err_NAT_V09_Q08 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q09
 
@@ -51557,6 +57767,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q09 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q10
 
 ## EXAM_NAT_V09_Q10
@@ -51583,6 +57795,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q10_FAUX
 
 `@err_NAT_V09_Q10 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q11
 
@@ -51611,6 +57825,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q11 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q12
 
 ## EXAM_NAT_V09_Q12
@@ -51637,6 +57853,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q12_FAUX
 
 `@err_NAT_V09_Q12 = 1`
+
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q13
 
@@ -51665,6 +57883,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q13 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q14
 
 ## EXAM_NAT_V09_Q14
@@ -51691,6 +57911,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q14_FAUX
 
 `@err_NAT_V09_Q14 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q15
 
@@ -51719,6 +57941,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q15 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q16
 
 ## EXAM_NAT_V09_Q16
@@ -51745,6 +57969,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q16_FAUX
 
 `@err_NAT_V09_Q16 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q17
 
@@ -51773,6 +57999,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q17 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q18
 
 ## EXAM_NAT_V09_Q18
@@ -51799,6 +58027,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q18_FAUX
 
 `@err_NAT_V09_Q18 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q19
 
@@ -51827,6 +58057,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q19 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q20
 
 ## EXAM_NAT_V09_Q20
@@ -51853,6 +58085,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q20_FAUX
 
 `@err_NAT_V09_Q20 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q21
 
@@ -51881,6 +58115,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q21 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q22
 
 ## EXAM_NAT_V09_Q22
@@ -51907,6 +58143,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q22_FAUX
 
 `@err_NAT_V09_Q22 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q23
 
@@ -51935,6 +58173,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q23 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q24
 
 ## EXAM_NAT_V09_Q24
@@ -51961,6 +58201,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q24_FAUX
 
 `@err_NAT_V09_Q24 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q25
 
@@ -51989,6 +58231,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q25 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q26
 
 ## EXAM_NAT_V09_Q26
@@ -52015,6 +58259,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q26_FAUX
 
 `@err_NAT_V09_Q26 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q27
 
@@ -52043,6 +58289,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q27 = 1`
 
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q28
 
 ## EXAM_NAT_V09_Q28
@@ -52069,6 +58317,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q28_FAUX
 
 `@err_NAT_V09_Q28 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V09_PART2
 
@@ -52107,6 +58357,8 @@ Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que �
 
 `@err_NAT_V09_Q29 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q30
 
 ## EXAM_NAT_V09_Q30
@@ -52135,6 +58387,8 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 ## EXAM_NAT_V09_Q30_FAUX
 
 `@err_NAT_V09_Q30 = 1`
+
+`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q31
 
@@ -52165,6 +58419,8 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 
 `@err_NAT_V09_Q31 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q32
 
 ## EXAM_NAT_V09_Q32
@@ -52193,6 +58449,8 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 ## EXAM_NAT_V09_Q32_FAUX
 
 `@err_NAT_V09_Q32 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q33
 
@@ -52223,6 +58481,8 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 
 `@err_NAT_V09_Q33 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q34
 
 ## EXAM_NAT_V09_Q34
@@ -52251,6 +58511,8 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 ## EXAM_NAT_V09_Q34_FAUX
 
 `@err_NAT_V09_Q34 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q35
 
@@ -52281,6 +58543,8 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 `@err_NAT_V09_Q35 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q36
 
 ## EXAM_NAT_V09_Q36
@@ -52309,6 +58573,8 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 ## EXAM_NAT_V09_Q36_FAUX
 
 `@err_NAT_V09_Q36 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q37
 
@@ -52339,6 +58605,8 @@ Un enseignant vous présente la Charte de la laïcité affichée dans les établ
 
 `@err_NAT_V09_Q37 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q38
 
 ## EXAM_NAT_V09_Q38
@@ -52367,6 +58635,8 @@ Un ami s'étonne que l'État puisse imposer des règles limitant certaines liber
 ## EXAM_NAT_V09_Q38_FAUX
 
 `@err_NAT_V09_Q38 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V09_Q39
 
@@ -52397,6 +58667,8 @@ Une personne récemment installée en France envisage de changer de religion, ma
 
 `@err_NAT_V09_Q39 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V09_Q40
 
 ## EXAM_NAT_V09_Q40
@@ -52425,6 +58697,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 ## EXAM_NAT_V09_Q40_FAUX
 
 `@err_NAT_V09_Q40 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V09_RESULT
 
@@ -53085,40 +59359,161 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T1_CH05 == 1`
+- [La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V09_CORRIGE)
@@ -53137,6 +59532,19 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH03 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -53171,6 +59579,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q01 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q02
 
 ## EXAM_NAT_V10_Q02
@@ -53197,6 +59607,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q02_FAUX
 
 `@err_NAT_V10_Q02 = 1`
+
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q03
 
@@ -53225,6 +59637,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q03 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q04
 
 ## EXAM_NAT_V10_Q04
@@ -53251,6 +59665,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q04_FAUX
 
 `@err_NAT_V10_Q04 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q05
 
@@ -53279,6 +59695,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q05 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q06
 
 ## EXAM_NAT_V10_Q06
@@ -53305,6 +59723,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q06_FAUX
 
 `@err_NAT_V10_Q06 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q07
 
@@ -53333,6 +59753,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q07 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q08
 
 ## EXAM_NAT_V10_Q08
@@ -53359,6 +59781,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q08_FAUX
 
 `@err_NAT_V10_Q08 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q09
 
@@ -53387,6 +59811,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q09 = 1`
 
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q10
 
 ## EXAM_NAT_V10_Q10
@@ -53413,6 +59839,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q10_FAUX
 
 `@err_NAT_V10_Q10 = 1`
+
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q11
 
@@ -53441,6 +59869,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q11 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q12
 
 ## EXAM_NAT_V10_Q12
@@ -53467,6 +59897,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q12_FAUX
 
 `@err_NAT_V10_Q12 = 1`
+
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q13
 
@@ -53495,6 +59927,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q13 = 1`
 
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q14
 
 ## EXAM_NAT_V10_Q14
@@ -53521,6 +59955,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q14_FAUX
 
 `@err_NAT_V10_Q14 = 1`
+
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q15
 
@@ -53549,6 +59985,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q15 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q16
 
 ## EXAM_NAT_V10_Q16
@@ -53575,6 +60013,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q16_FAUX
 
 `@err_NAT_V10_Q16 = 1`
+
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q17
 
@@ -53603,6 +60043,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q17 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q18
 
 ## EXAM_NAT_V10_Q18
@@ -53629,6 +60071,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q18_FAUX
 
 `@err_NAT_V10_Q18 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q19
 
@@ -53657,6 +60101,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q19 = 1`
 
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q20
 
 ## EXAM_NAT_V10_Q20
@@ -53683,6 +60129,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q20_FAUX
 
 `@err_NAT_V10_Q20 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q21
 
@@ -53711,6 +60159,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q21 = 1`
 
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q22
 
 ## EXAM_NAT_V10_Q22
@@ -53737,6 +60187,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q22_FAUX
 
 `@err_NAT_V10_Q22 = 1`
+
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q23
 
@@ -53765,6 +60217,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q23 = 1`
 
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q24
 
 ## EXAM_NAT_V10_Q24
@@ -53791,6 +60245,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q24_FAUX
 
 `@err_NAT_V10_Q24 = 1`
+
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q25
 
@@ -53819,6 +60275,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q25 = 1`
 
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q26
 
 ## EXAM_NAT_V10_Q26
@@ -53845,6 +60303,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q26_FAUX
 
 `@err_NAT_V10_Q26 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q27
 
@@ -53873,6 +60333,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q27 = 1`
 
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q28
 
 ## EXAM_NAT_V10_Q28
@@ -53899,6 +60361,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q28_FAUX
 
 `@err_NAT_V10_Q28 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V10_PART2
 
@@ -53937,6 +60401,8 @@ Un ami pense que la liberté de la presse permet aux journalistes de publier n'i
 
 `@err_NAT_V10_Q29 = 1`
 
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q30
 
 ## EXAM_NAT_V10_Q30
@@ -53965,6 +60431,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 ## EXAM_NAT_V10_Q30_FAUX
 
 `@err_NAT_V10_Q30 = 1`
+
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q31
 
@@ -53995,6 +60463,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V10_Q31 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q32
 
 ## EXAM_NAT_V10_Q32
@@ -54023,6 +60493,8 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 ## EXAM_NAT_V10_Q32_FAUX
 
 `@err_NAT_V10_Q32 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q33
 
@@ -54053,6 +60525,8 @@ Lors d'une manifestation, certains participants brûlent un drapeau français de
 
 `@err_NAT_V10_Q33 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q34
 
 ## EXAM_NAT_V10_Q34
@@ -54081,6 +60555,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 ## EXAM_NAT_V10_Q34_FAUX
 
 `@err_NAT_V10_Q34 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q35
 
@@ -54111,6 +60587,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V10_Q35 = 1`
 
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q36
 
 ## EXAM_NAT_V10_Q36
@@ -54139,6 +60617,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 ## EXAM_NAT_V10_Q36_FAUX
 
 `@err_NAT_V10_Q36 = 1`
+
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q37
 
@@ -54169,6 +60649,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 `@err_NAT_V10_Q37 = 1`
 
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q38
 
 ## EXAM_NAT_V10_Q38
@@ -54197,6 +60679,8 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 ## EXAM_NAT_V10_Q38_FAUX
 
 `@err_NAT_V10_Q38 = 1`
+
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 !SelectNext: EXAM_NAT_V10_Q39
 
@@ -54227,6 +60711,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@err_NAT_V10_Q39 = 1`
 
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+
 !SelectNext: EXAM_NAT_V10_Q40
 
 ## EXAM_NAT_V10_Q40
@@ -54255,6 +60741,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 ## EXAM_NAT_V10_Q40_FAUX
 
 `@err_NAT_V10_Q40 = 1`
+
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 !SelectNext: EXAM_NAT_V10_RESULT
 
@@ -54915,40 +61403,152 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 ### 🎯 Conseils personnalisés
 
-`if @exam_connaissances <= 16`
-- **Questions de connaissances : priorité forte.** Reprenez les définitions, dates, institutions et repères essentiels. Créez de courtes fiches ou expliquez chaque notion avec vos propres mots.
+Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
+
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+#### 🔴 Priorité forte
+
+Plusieurs erreurs ont été identifiées. Reprenez en priorité :
+
 `endif`
-`if @exam_connaissances >= 17 && @exam_connaissances <= 22`
-- **Questions de connaissances : en consolidation.** Appuyez-vous sur le corrigé pour repérer les notions proches que vous confondez et révisez-les par comparaison.
+`if @errchap_T1_CH01 >= 3`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_connaissances >= 23`
-- **Questions de connaissances : bon niveau.** Entretenez vos acquis avec des rappels espacés et concentrez-vous sur vos erreurs ponctuelles.
+`if @errchap_T1_CH03 >= 3`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 >= 3`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 >= 3`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 >= 3`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 >= 3`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 >= 3`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 >= 3`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 >= 3`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_situations <= 6`
-- **Mises en situation : priorité forte.** Avant de répondre, identifiez la règle ou la valeur concernée, puis éliminez les propositions illégales, discriminatoires ou contraires aux droits d’autrui.
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+#### 🟠 Priorité moyenne
+
+Ces chapitres méritent une révision ciblée :
+
 `endif`
-`if @exam_situations >= 7 && @exam_situations <= 9`
-- **Mises en situation : en progression.** Prenez le temps de relier chaque situation concrète au principe civique qui s’applique.
+`if @errchap_T1_CH01 == 2`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_situations >= 10`
-- **Mises en situation : bon niveau.** Continuez à justifier mentalement votre choix afin de rester efficace face à une formulation nouvelle.
+`if @errchap_T1_CH03 == 2`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+`endif`
+`if @errchap_T1_CH04 == 2`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 2`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 2`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 2`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 2`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 2`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 2`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @exam_t1 <= 6`
-- **Principes et valeurs de la République :** reprenez la laïcité, la devise, les symboles républicains, la liberté de conscience et l’égalité. [Ouvrir ces révisions](SCR_REV_T1_MENU)
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+#### 🟡 Priorité faible
+
+Une erreur ponctuelle a été repérée. Vérifiez :
+
 `endif`
-`if @exam_t2 <= 3`
-- **Système institutionnel et politique :** révisez le rôle du Président, du Gouvernement, du Parlement, des collectivités territoriales et le fonctionnement des élections. [Ouvrir ces révisions](SCR_REV_T2_MENU)
+`if @errchap_T1_CH01 == 1`
+- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
-`if @exam_t3 <= 6`
-- **Droits et devoirs :** reprenez les libertés fondamentales, le droit de vote, les obligations de chacun, le travail, l’école et les règles de la vie collective. [Ouvrir ces révisions](SCR_REV_T3_MENU)
+`if @errchap_T1_CH03 == 1`
+- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
-`if @exam_t4 <= 4`
-- **Histoire, géographie et culture :** révisez les grandes dates, les personnalités, les territoires, les fleuves, les massifs et les principaux repères culturels français. [Ouvrir ces révisions](SCR_REV_T4_MENU)
+`if @errchap_T1_CH04 == 1`
+- [La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
-`if @exam_t5 <= 2`
-- **Vivre dans la société française :** reprenez la santé, le logement, l’emploi, les services publics, les démarches du quotidien et les comportements responsables. [Ouvrir ces révisions](SCR_REV_T5_MENU)
+`if @errchap_T2_CH02 == 1`
+- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
+`if @errchap_T2_CH03 == 1`
+- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+`endif`
+`if @errchap_T3_CH01 == 1`
+- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+`endif`
+`if @errchap_T3_CH02 == 1`
+- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+`endif`
+`if @errchap_T4_CH01 == 1`
+- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+`endif`
+`if @errchap_T4_CH02 == 1`
+- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
+`if @errchap_T4_CH03 == 1`
+- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+- [L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
+
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
+`endif`
+
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
 1. [📘 Voir uniquement le corrigé de mes erreurs](EXAM_NAT_V10_CORRIGE)
