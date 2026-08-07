@@ -550,7 +550,7 @@ L'OFII organise la formation civique dans le cadre du Contrat d'Intégration Ré
 
 L'examen civique est organisé par des centres agréés selon les modalités prévues par la réglementation.
 
-Si vous souhaitez passer l'examen, utilisez la rubrique **« Je passe mon examen »** du Coach ou consultez le site de **FRATE Formation** pour trouver un centre et vous inscrire.
+Si vous souhaitez passer l'examen, utilisez la rubrique **« Passer mon examen »** du Coach ou consultez le site de **FRATE Formation** pour trouver un centre et vous inscrire.
 
 1. [Question précédente](SCR_FAQ_034)
 2. [Question suivante](SCR_FAQ_036)
@@ -1747,7 +1747,7 @@ Dans la plupart des démarches concernées, l'examen civique doit être réussi 
 
 👉 Pour vous inscrire facilement, vous pouvez :
 
-- vous rendre dans la rubrique **« Je passe mon examen »** du Coach ;
+- vous rendre dans la rubrique **« Passer mon examen »** du Coach ;
 - ou consulter la page d'inscription de puis choisir votre région et compléter le formulaire d'inscription.
 
 1. [Question suivante](SCR_FAQ_017)
@@ -1771,7 +1771,7 @@ L'examen se passe dans un **centre agréé** par l'Etat. Frate Formation est org
 
 Pour trouver une session près de chez vous :
 
-- ouvrez la rubrique **« Je passe mon examen »** du Coach ;
+- ouvrez la rubrique **« Passer mon examen »** du Coach ;
 - ou consultez et choisissez votre région.
 
 Vous y trouverez les centres disponibles ainsi que les prochaines dates d'examen.
@@ -1832,7 +1832,7 @@ L'inscription est simple.
 
 👉 Vous pouvez effectuer cette démarche directement depuis :
 
-- la rubrique **« Je passe mon examen »** du Coach ;
+- la rubrique **« Passer mon examen »** du Coach ;
 - ou le site officiel de.
 
 1. [Question précédente](SCR_FAQ_017)
@@ -1883,7 +1883,7 @@ Vous devez vous inscrire auprès d'un centre agréé.
 
 Le moyen le plus simple est de :
 
-- utiliser la rubrique **« Je passe mon examen »** du Coach ;
+- utiliser la rubrique **« Passer mon examen »** du Coach ;
 - ou consulter.
 
 1. [Question précédente](SCR_FAQ_019)
@@ -1974,7 +1974,7 @@ En cas de doute sur la validité de vos documents, contactez votre centre avant 
 
 ### Reponse markdown
 
-Depuis la rubrique **« Je passe mon examen »**, le Coach vous oriente vers les centres disponibles.
+Depuis la rubrique **« Passer mon examen »**, le Coach vous oriente vers les centres disponibles.
 
 Vous pouvez également consulter la page de, sélectionner votre région puis choisir le centre qui vous convient.
 

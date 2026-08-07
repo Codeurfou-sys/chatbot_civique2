@@ -46,11 +46,15 @@ if absent:
     errors.append(f"Écrans essentiels absents : {absent}")
 if "@{screen_id_faq}" in text:
     errors.append("Ancienne destination dynamique non résolue dans la FAQ")
-if text.count("❓ Poser une question") < 22000:
-    errors.append("Accès global aux questions libres incomplet")
+if text.count("❓ Poser une question") < 18000:
+    errors.append("Accès global aux questions libres incomplet hors examen blanc")
+if "❓ Poser une question" in Path("modules/05_preparer_examen.md").read_text(encoding="utf-8"):
+    errors.append("Le bouton Poser une question doit être absent de l'examen blanc")
+if text.count('<ul class="messageOptions">') < 24:
+    errors.append("Les boutons externes d'inscription du module 07 sont incomplets")
 
 if errors:
     raise SystemExit("\n".join(errors))
 
 print(f"OK — {len(screen_ids)} écrans, {len(targets)} liens, aucun doublon, aucune destination manquante.")
-print(f"Accès ‘Poser une question’ : {text.count('❓ Poser une question')} occurrences.")
+print(f"Accès ‘Poser une question’ hors examen blanc : {text.count('❓ Poser une question')} occurrences.")

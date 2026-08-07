@@ -294,6 +294,21 @@ text = re.sub(r"^\*\*Réponse attendue\s*:\*\*.*\n+", "", text, flags=re.M)
 text = re.sub(r"^(### )(Annecy|Annemasse|Auxerre|Besançon|Bourg-en-Bresse|Bourges|Chaumont|Clermont-Ferrand|Le Puy-en-Velay|Lons-le-Saunier|Montbéliard|Montceau-les-Mines|Mulhouse|Mâcon|Nevers|Reims|Saint-Dié-des-Vosges|Saint-Flour|Sens|Strasbourg|Troyes|Valserhône|Vichy)( \(\d{2}\))$", r"\1📍 \2\3", text, flags=re.M)
 text = text.replace("### Prochaines sessions", "#### 📅 Prochaines sessions disponibles")
 text = text.replace("[S’inscrire à une session]", "[📝 S’inscrire à une session]")
+
+# Les liens externes écrits comme des listes Markdown affichent un numéro dans
+# ChatMD. La classe messageOptions leur donne le rendu visuel des boutons.
+registration_pattern = re.compile(
+    r"^\d+\. \[(?:📝\s*)?S[’']inscrire à une session\]\((https?://[^\n)]+)\)$",
+    re.M,
+)
+text = registration_pattern.sub(
+    lambda match: (
+        '<ul class="messageOptions">\n'
+        f'  <li><a href="{match.group(1)}" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>\n'
+        '</ul>'
+    ),
+    text,
+)
 region_icons = {
     "Auvergne": "⛰️", "Bourgogne": "🍇", "Cher": "🌿",
     "Franche-Comté": "🌲", "Grand Est": "🏰", "Rhône-Alpes": "🏔️",

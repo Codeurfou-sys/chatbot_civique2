@@ -83,7 +83,7 @@ Ce n'est pas grave, vous pouvez tout de même lancer un bilan de progression, ma
 :::
 `endif`
 
-`if @score_precedent >= 0`
+`if @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 Votre dernier score est bien enregistré. Vous pourrez le comparer avec le résultat de ce nouveau bilan.
 `endif`
 
@@ -1391,17 +1391,18 @@ La Première Guerre mondiale s'est déroulée de 1914 à 1918 et s'est achevée 
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -3010,17 +3011,18 @@ En France, une personne ne peut être mariée qu'à une seule autre personne à 
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -4629,17 +4631,18 @@ Le coq est un symbole traditionnel de la France, souvent utilisé lors des comp�
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -6248,17 +6251,18 @@ Depuis la réforme territoriale de 2016, la France métropolitaine compte 13 ré
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -7867,17 +7871,18 @@ Les principaux numéros d'urgence en France sont le 15 (SAMU), le 17 (Police), l
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -9486,17 +9491,18 @@ Le 14 juillet est la fête nationale française. Cette journée rappelle un év�
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -11105,17 +11111,18 @@ Les juges rendent la justice de manière indépendante. Ils appliquent la loi et
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -12724,17 +12731,18 @@ Les droits de la défense permettent à chacun de connaître les accusations por
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -14343,17 +14351,18 @@ Le 15 permet de joindre le SAMU (Service d'aide médicale urgente) en cas d'urge
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -15962,17 +15971,18 @@ Louis XVI est le roi de France au début de la Révolution française en 1789. I
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -17581,17 +17591,18 @@ La France est aujourd'hui sous la Ve République, instaurée en 1958 avec la Con
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -19200,17 +19211,18 @@ La loi du 9 décembre 1905 garantit la séparation des Églises et de l'État. E
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -20819,17 +20831,18 @@ Le drapeau tricolore bleu, blanc, rouge est l'un des symboles officiels de la R�
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -22438,17 +22451,18 @@ L'autorité parentale regroupe les droits et les devoirs des parents dans l'int�
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -24057,17 +24071,18 @@ En droit français, les infractions sont classées en trois catégories : les co
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -25676,17 +25691,18 @@ Les députés européens sont élus au suffrage universel direct par les citoyen
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -27295,17 +27311,18 @@ Le palais de l'Élysée, situé à Paris, est la résidence officielle et le lie
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -28914,17 +28931,18 @@ L'égalité entre les femmes et les hommes est protégée par la loi. Les discri
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -30533,17 +30551,18 @@ La laïcité est l'un des principes fondamentaux de la République française. E
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -32152,17 +32171,18 @@ Abandonner des déchets sur la voie publique est interdit. Ce comportement peut 
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -33771,17 +33791,18 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -35390,17 +35411,18 @@ En France, l'accès aux soins est organisé pour permettre à chacun d'être soi
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -37009,17 +37031,18 @@ La gratuité de l'école publique est instaurée par les lois Jules Ferry en 188
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -38628,17 +38651,18 @@ Louis XVI est le roi de France au début de la Révolution française en 1789. I
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -40247,17 +40271,18 @@ Paris est la capitale de la France. Elle accueille notamment les principales ins
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -41866,17 +41891,18 @@ Le médecin traitant est l'interlocuteur privilégié pour assurer le suivi méd
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -43485,17 +43511,18 @@ Les sénateurs sont élus pour un mandat de six ans. Afin d'assurer une continui
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -45104,17 +45131,18 @@ La France est une République indivisible, laïque, démocratique et sociale.
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -46723,17 +46751,18 @@ Chaque 14 juillet, un défilé militaire est organisé sur les Champs-Élysées 
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -48342,17 +48371,18 @@ La liberté de conscience est un droit fondamental. Elle garantit à chacun la l
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -49975,17 +50005,18 @@ Le 21 septembre 1792, la monarchie est abolie et la Première République est pr
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -51600,17 +51631,18 @@ La France est une République indivisible, laïque, démocratique et sociale, co
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -53235,17 +53267,18 @@ La Shoah est le génocide des Juifs d'Europe pendant la Seconde Guerre mondiale.
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -54860,17 +54893,18 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -56485,17 +56519,18 @@ La liberté religieuse est garantie en France. Chacun est libre de croire, de pr
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -58112,17 +58147,18 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -59737,17 +59773,18 @@ Depuis 1944, les femmes disposent du droit de vote en France. Elles peuvent part
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -61366,17 +61403,18 @@ La liberté de la presse permet aux journalistes d'informer le public. Elle s'ex
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -62999,17 +63037,18 @@ En France, les femmes et les hommes disposent des mêmes droits. La répudiation
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -64624,17 +64663,18 @@ Les réseaux sociaux ne sont pas une zone de non-droit. Les propos injurieux, di
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -66249,17 +66289,18 @@ La liberté de la presse permet aux journalistes d'informer le public. Elle s'ex
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -67868,17 +67909,18 @@ En France, chacun est libre de choisir sa religion, d'en changer ou de ne pas en
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -69493,17 +69535,18 @@ En France, la majorité est fixée à 18 ans. À partir de cet âge, une personn
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -71112,17 +71155,18 @@ La Journée de l'Europe est célébrée le 9 mai, en souvenir de la déclaration
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -72737,17 +72781,18 @@ Après la Seconde Guerre mondiale, de nombreux territoires français situés en 
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -74358,17 +74403,18 @@ La laïcité garantit à chacun la liberté de conscience et assure l'égalité 
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -75977,17 +76023,18 @@ Le secret médical protège la vie privée des patients. Les professionnels de s
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -77602,17 +77649,18 @@ La France compte environ 35 000 communes, ce qui en fait l'un des pays européen
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -79221,17 +79269,18 @@ Les impôts servent à financer les écoles, les hôpitaux, les routes, la sécu
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -80846,17 +80895,18 @@ La France est une démocratie fondée sur la séparation des pouvoirs. Le prési
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -82469,17 +82519,18 @@ Toutes les personnes présentes en France doivent respecter les lois. En revanch
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -84092,17 +84143,18 @@ Le président de la République n'est pas au-dessus des lois. Toutefois, pendant
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -85715,17 +85767,18 @@ La Charte de la laïcité à l'école interdit le prosélytisme et les pressions
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -87334,17 +87387,18 @@ La France est une République indivisible, laïque, démocratique et sociale, co
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -88953,17 +89007,18 @@ La France est une République indivisible, laïque, démocratique et sociale, co
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -90582,17 +90637,18 @@ Le maire est élu par le conseil municipal. Il dirige la commune et met en œuvr
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -92207,17 +92263,18 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -93832,17 +93889,18 @@ L'article 1er de la Déclaration des droits de l'homme et du citoyen de 1789 aff
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -95459,17 +95517,18 @@ Le congé parental permet à un parent de réduire ou de suspendre temporairemen
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -97084,17 +97143,18 @@ Le 21 septembre 1792, la monarchie est abolie et la Première République est pr
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -98703,17 +98763,18 @@ Le drapeau tricolore est un symbole de la République. Son outrage public est r�
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -100250,17 +100311,18 @@ La liberté d'association comprend également la possibilité de créer ou de re
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -101797,17 +101859,18 @@ Conduire un véhicule sans le permis correspondant est un délit grave, passible
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -103344,17 +103407,18 @@ Toute personne concernée doit déclarer ses revenus chaque année. Cette décla
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -104891,17 +104955,18 @@ Les agents publics représentent l'État et les services publics. À ce titre, i
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -106438,17 +106503,18 @@ Marianne est la représentation officielle de la République française. Son eff
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -107985,17 +108051,18 @@ Pour voter en France, il faut être inscrit sur une liste électorale. Les jeune
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -109532,17 +109599,18 @@ En France, la majorité numérique est fixée à 15 ans. Avant cet âge, l'accor
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -111079,17 +111147,18 @@ Les régions organisent notamment les transports régionaux (comme les trains r�
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -112626,17 +112695,18 @@ Le traité de Maastricht, signé en 1992, marque la naissance officielle de l'Un
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -114173,17 +114243,18 @@ La liberté d'association comprend également la possibilité de créer ou de re
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -115720,17 +115791,18 @@ Les communes sont responsables de la construction, de l'entretien et du fonction
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -117267,17 +117339,18 @@ L'État de droit repose sur le respect des lois par tous. Personne n'est au-dess
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -118814,17 +118887,18 @@ La laïcité est un principe fondamental de la République française. Elle repo
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -120361,17 +120435,18 @@ La liberté d'association comprend également la possibilité de créer ou de re
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -121908,17 +121983,18 @@ En France, la majorité numérique est fixée à 15 ans. Avant cet âge, l'accor
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -123455,17 +123531,18 @@ Adoptée en 1789 pendant la Révolution française, la Déclaration des droits d
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -125002,17 +125079,18 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -126549,17 +126627,18 @@ En France, la majorité civile est fixée à 18 ans. À partir de cet âge, une 
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -128096,17 +128175,18 @@ Le traité de Maastricht, signé en 1992, marque la naissance officielle de l'Un
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -129643,17 +129723,18 @@ Les jurés d'assises sont des citoyens inscrits sur les listes électorales et t
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -131190,17 +131271,18 @@ L'État de droit repose sur le respect des lois par tous. Personne n'est au-dess
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -132737,17 +132819,18 @@ L'État de droit repose sur le respect des lois par tous. Personne n'est au-dess
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -134284,17 +134367,18 @@ La liberté d'expression est un droit fondamental. Elle permet d'exprimer ses id
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -135831,17 +135915,18 @@ L'État de droit repose sur le respect des lois par tous. Personne n'est au-dess
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -137378,17 +137463,18 @@ Les jurés d'assises participent à la justice rendue au nom du peuple français
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -138925,17 +139011,18 @@ La déclaration des revenus permet à l'administration fiscale de calculer les i
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -140472,17 +140559,18 @@ Les députés représentent les citoyens à l'Assemblée nationale. Ils sont él
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -142019,17 +142107,18 @@ La Journée nationale de la laïcité est célébrée le 9 décembre, date anniv
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`
@@ -143566,17 +143655,18 @@ En France, la polygamie est interdite. Une personne ne peut être mariée qu'à 
 
 ### 🎉 Votre bilan est terminé
 
-`if @mode_bilan == "PROG" && @score_precedent == -1`
+`if @mode_bilan == "PROG" && (@score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT" || @score_precedent == "")`
 
-### 📈 Votre point de départ
+### 📈 Votre évolution
 
-Comme il s'agit de votre premier bilan de progression, ce résultat devient votre **score de référence**.
+- Score précédent : **score non retenu ou non communiqué**
+- Nouveau score : **`@score` / 25**
 
-Lors de votre prochain bilan, sélectionnez ce score dans la liste afin de mesurer précisément votre évolution.
+Ce nouveau résultat devient votre **score de référence**. Notez-le pour pouvoir mesurer précisément votre progression lors d'un prochain bilan.
 
 `endif`
 
-`if @mode_bilan == "PROG" && @score_precedent >= 0`
+`if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
 
 `@evolution = calc(@score-@score_precedent)`
 `@ecart_abs = calc(Math.abs(@evolution))`

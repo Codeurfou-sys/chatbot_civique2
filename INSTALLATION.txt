@@ -1,14 +1,13 @@
-CHATBOT CIVIQUE — VERSION FINALE
+CHATBOT CIVIQUE V2 — CORRECTIFS V3
 
 1. Copiez tout le contenu de ce dossier à la racine du dépôt Chatbot_civique2.
 2. Acceptez le remplacement des fichiers existants.
 3. Dans GitHub Desktop, créez un commit puis cliquez sur Push origin.
 4. Attendez la fin du déploiement GitHub Pages.
-5. Testez le fichier chat_bot.md avec son adresse raw.githubusercontent.com dans ChatMD.
+5. Rechargez ChatMD avec Ctrl + F5 avant de tester.
 
-Cette version contient les dix rubriques : accueil/aide, bilan, révisions, glossaire,
-préparation, entraînement, passage de l'examen, conseils, FAQ et questions libres.
-
-Le bouton « Poser une question » est présent dans tous les écrans des modules.
-Les réponses restent déterministes et proviennent des contenus validés du chatbot.
-L'automatisation quotidienne continue de ne remplacer que le module 07.
+Cette livraison corrige le bilan sans score précédent, les réponses numériques
+des révisions, l'introduction et la navigation de l'examen blanc, le module
+Conseils, les boutons d'inscription du module 07 et les intitulés de la FAQ.
+Le post-traitement du module 07 conserve les boutons d'inscription après les
+actualisations automatiques quotidiennes.

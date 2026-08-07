@@ -58,7 +58,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 27 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -82,7 +84,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 25 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -106,7 +110,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -130,7 +136,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 16 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -154,7 +162,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 20 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -178,7 +188,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 10 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_CHER)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -201,7 +213,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -225,7 +239,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 7 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -249,7 +265,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 9 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -273,7 +291,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 25 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -297,7 +317,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 13 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -321,7 +343,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 4 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -345,7 +369,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 15 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -369,7 +395,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 8 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -392,7 +420,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 17 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -416,7 +446,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 17 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -440,7 +472,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 7 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -464,7 +498,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 26 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -487,7 +523,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -511,7 +549,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 17 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -535,7 +575,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 22 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -559,7 +601,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 21 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -583,7 +627,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
@@ -607,7 +653,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
-1. [📝 S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
+<ul class="messageOptions">
+  <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
+</ul>
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
 3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)

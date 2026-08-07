@@ -6235,7 +6235,7 @@ En quelle année débute la Révolution française ?
 
 > `@rep_t4_ch1_q1`
 
-`if ((("" + @rep_t4_ch1_q1).toLowerCase().includes("révolution"))) && ((("" + @rep_t4_ch1_q1).toLowerCase().includes("revolution")))`
+`if (("" + @rep_t4_ch1_q1).trim() == "1789")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -6245,7 +6245,7 @@ La Révolution française débute en 1789.
 1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t4_ch1_q1).toLowerCase().includes("révolution"))) && ((("" + @rep_t4_ch1_q1).toLowerCase().includes("revolution")))) && ((("" + @rep_t4_ch1_q1).toLowerCase().includes("révolution")) || (("" + @rep_t4_ch1_q1).toLowerCase().includes("revolution")))`
+`if (("" + @rep_t4_ch1_q1).trim() != "1789") && (("" + @rep_t4_ch1_q1).includes("1789"))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -6259,7 +6259,7 @@ La Révolution française débute en 1789.
 3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t4_ch1_q1).toLowerCase().includes("révolution")) || (("" + @rep_t4_ch1_q1).toLowerCase().includes("revolution")))`
+`if !(("" + @rep_t4_ch1_q1).includes("1789"))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -6295,7 +6295,7 @@ En quelle année la loi de séparation des Églises et de l'État a-t-elle été
 
 > `@rep_t4_ch1_q2`
 
-`if ((("" + @rep_t4_ch1_q2).toLowerCase().includes("1905")))`
+`if (("" + @rep_t4_ch1_q2).trim() == "1905")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -6305,7 +6305,7 @@ La loi de séparation des Églises et de l'État a été adoptée en 1905.
 1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t4_ch1_q2).toLowerCase().includes("1905")))) && ((("" + @rep_t4_ch1_q2).toLowerCase().includes("1905")))`
+`if (("" + @rep_t4_ch1_q2).trim() != "1905") && (("" + @rep_t4_ch1_q2).includes("1905"))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -6319,7 +6319,7 @@ La loi de séparation des Églises et de l'État a été adoptée en 1905.
 3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t4_ch1_q2).toLowerCase().includes("1905")))`
+`if !(("" + @rep_t4_ch1_q2).includes("1905"))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -7875,7 +7875,7 @@ Quel numéro appeler en cas d'urgence médicale grave ?
 
 > `@rep_t5_ch2_q3`
 
-`if ((("" + @rep_t5_ch2_q3).toLowerCase().includes("15")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("112")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("samu")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("urgence")))`
+`if (("" + @rep_t5_ch2_q3).trim() == "15") || (("" + @rep_t5_ch2_q3).trim() == "112")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -7885,7 +7885,7 @@ En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.
 1. [➡️ Question suivante](SCR_REV_T5_CH02_VERIF_Q04)
 `endif`
 
-`if !(((("" + @rep_t5_ch2_q3).toLowerCase().includes("15")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("112")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("samu")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("urgence")))) && ((("" + @rep_t5_ch2_q3).toLowerCase().includes("15")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("112")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("samu")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("urgence")))`
+`if !((("" + @rep_t5_ch2_q3).trim() == "15") || (("" + @rep_t5_ch2_q3).trim() == "112")) && ((("" + @rep_t5_ch2_q3).toLowerCase().includes("15")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("112")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("samu")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("urgence")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -8622,7 +8622,7 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 > `@rep_t5_ch4_q1`
 
-`if ((("" + @rep_t5_ch4_q1).toLowerCase().includes("3")) || (("" + @rep_t5_ch4_q1).toLowerCase().includes("trois ans")))`
+`if (("" + @rep_t5_ch4_q1).trim() == "3")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -8632,7 +8632,7 @@ L'instruction est obligatoire à partir de 3 ans.
 1. [➡️ Question suivante](SCR_REV_T5_CH04_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t5_ch4_q1).toLowerCase().includes("3")) || (("" + @rep_t5_ch4_q1).toLowerCase().includes("trois ans")))) && ((("" + @rep_t5_ch4_q1).toLowerCase().includes("3")) || (("" + @rep_t5_ch4_q1).toLowerCase().includes("trois ans")))`
+`if (("" + @rep_t5_ch4_q1).trim() != "3") && ((("" + @rep_t5_ch4_q1).toLowerCase().includes("3")) || (("" + @rep_t5_ch4_q1).toLowerCase().includes("trois")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -8646,7 +8646,7 @@ L'instruction est obligatoire à partir de 3 ans.
 3. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch4_q1).toLowerCase().includes("3")) || (("" + @rep_t5_ch4_q1).toLowerCase().includes("trois ans")))`
+`if !((("" + @rep_t5_ch4_q1).toLowerCase().includes("3")) || (("" + @rep_t5_ch4_q1).toLowerCase().includes("trois")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
