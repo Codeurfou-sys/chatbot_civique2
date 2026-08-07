@@ -1,28 +1,6 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T12:39:32+02:00 -->
 
-## SCR_PASS_MENU
-
-### Je passe mon examen
-
-Que souhaitez-vous faire ? Consultez les informations pratiques, recherchez une session ou inscrivez-vous à l’examen.
-
-1. [Toutes les informations sur l’examen](SCR_PASS_INFO_MENU)
-2. [Trouver une session d’examen](SCR_PASS_SEARCH_MENU)
-3. [M’inscrire à l’examen](SCR_PASS_REGIONS)
-4. [Retour au menu principal](MENU_PRINCIPAL)
-
-<!-- Écran d’entrée -->
-
-## SCR_PASS_SEARCH_MENU
-
-### Trouver les centres les plus proches
-
-Saisissez votre commune ou votre code postal dans notre outil de proximité. Il calculera les trois centres FRATE les plus proches et affichera leurs prochaines sessions.
-
-1. [Ouvrir la recherche par commune ou code postal](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
 ## SCR_PASS_CITY_ANNECY
 
 ### Annecy (74)
@@ -32,12 +10,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 18 septembre 2026
-- 16 octobre 2026
-- 27 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
@@ -57,12 +29,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 30 septembre 2026
-- 28 octobre 2026
-- 25 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
@@ -80,12 +46,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 16 septembre 2026
-- 16 octobre 2026
-- 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -105,12 +65,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 9 septembre 2026
-- 30 septembre 2026
-- 16 octobre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
@@ -128,12 +82,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 25 septembre 2026
-- 23 octobre 2026
-- 20 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
@@ -153,12 +101,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 22 septembre 2026
-- 6 octobre 2026
-- 10 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_CHER)
@@ -176,11 +118,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 9 septembre 2026
-- 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -200,12 +137,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 9 septembre 2026
-- 23 septembre 2026
-- 7 octobre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
@@ -223,12 +154,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 7 septembre 2026
-- 12 octobre 2026
-- 9 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -248,12 +173,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 23 septembre 2026
-- 21 octobre 2026
-- 25 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
@@ -271,12 +190,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 9 septembre 2026
-- 8 octobre 2026
-- 13 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
@@ -296,12 +209,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 2 septembre 2026
-- 7 octobre 2026
-- 4 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
@@ -319,12 +226,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 18 août 2026
-- 13 octobre 2026
-- 15 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -344,12 +245,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 7 septembre 2026
-- 21 septembre 2026
-- 8 octobre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
@@ -367,11 +262,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 17 septembre 2026
-- 17 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -391,12 +281,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 15 septembre 2026
-- 13 octobre 2026
-- 17 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
@@ -414,12 +298,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 2 septembre 2026
-- 23 septembre 2026
-- 7 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -439,12 +317,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 24 septembre 2026
-- 22 octobre 2026
-- 26 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
@@ -462,11 +334,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 16 septembre 2026
-- 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
@@ -486,12 +353,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 22 septembre 2026
-- 20 octobre 2026
-- 17 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
@@ -509,12 +370,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 9 septembre 2026
-- 30 septembre 2026
-- 22 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -534,12 +389,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 16 septembre 2026
-- 30 septembre 2026
-- 21 octobre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
@@ -558,12 +407,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 23 septembre 2026
-- 21 octobre 2026
-- 18 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
@@ -581,12 +424,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 30 septembre 2026
-- 28 octobre 2026
-- 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
@@ -719,20 +556,20 @@ Cliquez sur le lien Forms pour vous inscrire à une session dans la région choi
 7. [Rechercher depuis ma commune](SCR_PASS_INPUT_COMMUNE)
 8. [Retour au module](SCR_PASS_MENU)
 
-## SCR_PASS_INPUT_ADDRESS
+## SCR_PASS_MENU
 
-### Recherche de proximité
+### Je passe mon examen
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+Que souhaitez-vous faire ? Consultez les informations pratiques, recherchez une session ou inscrivez-vous à l’examen.
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
-## SCR_PASS_NO_SESSION
+1. [Toutes les informations sur l’examen](SCR_PASS_INFO_MENU)
+2. [Trouver une session d’examen](SCR_PASS_SEARCH_MENU)
+3. [M’inscrire à l’examen](SCR_PASS_REGIONS)
+4. [Retour au menu principal](MENU_PRINCIPAL)
 
-### Recherche de proximité
+<!-- Écran d’entrée -->
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+## SCR_PASS_SEARCH_MENU
 
 ### Trouver une session
 
@@ -789,16 +626,22 @@ Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
 
 ## SCR_PASS_INPUT_COMMUNE
 
-### Indiquez votre commune
+### Trouvez les centres les plus proches
 
-<!-- Variables : {mode_recherche}=COMMUNE; {saisie_utilisateur} -->
+Saisissez votre commune ou votre code postal dans le moteur ci-dessous.
 
-Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/"
+  title="Recherche des centres d’examen FRATE"
+  width="100%"
+  height="780"
+  loading="lazy"
+  style="border: 0; border-radius: 12px; background: #ffffff;"
+></iframe>
 
-<!-- Condition métier : Saisie non vide -->
-1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
-2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
-3. [Retour au module](SCR_PASS_MENU)
+Si le moteur ne s’affiche pas, [ouvrez la recherche dans un nouvel onglet](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/).
+
+1. [Retour au module](SCR_PASS_MENU)
 
 ## SCR_PASS_DISTANCE
 

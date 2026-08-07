@@ -98,6 +98,30 @@ DEFAULT_MAIN_FILE = "chat_bot.md"
 DEFAULT_START_FILE = "start.md"
 DEFAULT_ENCODING = "utf-8"
 
+MODULE07_SEARCH_URL = (
+    "https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/"
+)
+
+MODULE07_EMBEDDED_SEARCH = f"""## SCR_PASS_INPUT_COMMUNE
+
+### Trouvez les centres les plus proches
+
+Saisissez votre commune ou votre code postal dans le moteur ci-dessous.
+
+<iframe
+  src="{MODULE07_SEARCH_URL}"
+  title="Recherche des centres d’examen FRATE"
+  width="100%"
+  height="780"
+  loading="lazy"
+  style="border: 0; border-radius: 12px; background: #ffffff;"
+></iframe>
+
+Si le moteur ne s’affiche pas, [ouvrez la recherche dans un nouvel onglet]({MODULE07_SEARCH_URL}).
+
+1. [Retour au module](SCR_PASS_MENU)
+"""
+
 SCREEN_SHEETS = [
     "90_ECRANS_BILAN",
     "91_ECRANS_REVISIONS",
@@ -1320,68 +1344,6 @@ class ChatMDRenderer:
                 key=lambda item: (item.priority, item.label, item.nav_id)
             )
 
-        # Les dates du module 07 sont stockees dans un tableau distinct des
-        # ecrans. Elles doivent etre reinjectees explicitement dans les fiches
-        # des centres, sinon le Markdown ne contient que les boutons et le
-        # nombre de sessions (dans un commentaire invisible).
-        self.module07_sessions = self._load_module07_sessions()
-
-    def _load_module07_sessions(self) -> dict[str, list[date]]:
-        sessions: defaultdict[str, list[date]] = defaultdict(list)
-        if "07_PASSER_EXAMEN" not in self.reader.wb.sheetnames:
-            return {}
-
-        ws = self.reader.wb["07_PASSER_EXAMEN"]
-        today = date.today()
-        for row in range(1, ws.max_row + 1):
-            session_id = safe_text(ws.cell(row=row, column=1).value)
-            code_centre = safe_text(ws.cell(row=row, column=2).value)
-            session_date = excel_value_to_date(
-                ws.cell(row=row, column=5).value
-            )
-            if (
-                not session_id.startswith("SES_")
-                or not code_centre
-                or not session_date
-                or session_date < today
-            ):
-                continue
-            if session_date not in sessions[code_centre]:
-                sessions[code_centre].append(session_date)
-
-        return {
-            code: sorted(values)[:3]
-            for code, values in sessions.items()
-        }
-
-    def _render_module07_dates(self, screen: Screen) -> list[str]:
-        prefix = "SCR_PASS_CITY_"
-        if not screen.screen_id.startswith(prefix):
-            return []
-
-        code_centre = screen.screen_id[len(prefix):]
-        dates = self.module07_sessions.get(code_centre, [])
-        if not dates:
-            return [
-                "### Prochaines sessions",
-                "",
-                "Aucune date n'est actuellement disponible pour ce centre.",
-                "",
-            ]
-
-        lines = ["### Prochaines sessions", ""]
-        french_months = (
-            "", "janvier", "février", "mars", "avril", "mai", "juin",
-            "juillet", "août", "septembre", "octobre", "novembre", "décembre",
-        )
-        for session_date in dates:
-            lines.append(
-                f"- {session_date.day} {french_months[session_date.month]} "
-                f"{session_date.year}"
-            )
-        lines.append("")
-        return lines
-
     def render_screen(self, screen: Screen) -> str:
         lines: list[str] = [f"## {screen.screen_id}", ""]
 
@@ -1399,8 +1361,6 @@ class ChatMDRenderer:
         content = self.resolver.resolve(screen)
         if content:
             lines.extend([content, ""])
-
-        lines.extend(self._render_module07_dates(screen))
 
         buttons = self.navigation_by_source.get(screen.screen_id, [])
         if buttons:
@@ -1487,72 +1447,14 @@ class ChatMDRenderer:
             f"<!-- Date : {datetime.now().astimezone().isoformat(timespec='seconds')} -->",
             "",
         ]
-        ordered_screens = sorted(
+        for screen in sorted(
             module_screens,
             key=lambda item: (
-                0 if item.screen_id == "SCR_PASS_MENU" else 1,
-                0 if item.screen_id == "SCR_PASS_SEARCH_MENU" else 1,
                 item.subpath,
                 item.order,
                 item.screen_id,
             ),
-        )
-        for screen in ordered_screens:
-            if (
-                module_name in {"Passer examen", "Passer mon examen"}
-                and screen.screen_id == "SCR_PASS_SEARCH_MENU"
-            ):
-                parts.append(
-                    "\n".join(
-                        [
-                            "## SCR_PASS_SEARCH_MENU",
-                            "",
-                            "### Trouver les centres les plus proches",
-                            "",
-                            "Saisissez votre commune ou votre code postal dans notre outil de proximité. "
-                            "Il calculera les trois centres FRATE les plus proches et affichera leurs prochaines sessions.",
-                            "",
-                            "1. [Ouvrir la recherche par commune ou code postal]"
-                            "(https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)",
-                            "2. [Choisir directement une région](SCR_PASS_REGIONS)",
-                            "3. [Retour au module](SCR_PASS_MENU)",
-                        ]
-                    )
-                )
-                continue
-            if (
-                module_name in {"Passer examen", "Passer mon examen"}
-                and screen.screen_id
-                in {
-                    "SCR_PASS_INPUT_ADDRESS",
-                    "SCR_PASS_INPUT_CITY",
-                    "SCR_PASS_INPUT_COMMUNE",
-                    "SCR_PASS_INPUT_CP",
-                    "SCR_PASS_INPUT_DEPT",
-                    "SCR_PASS_BAN_RESOLVE",
-                    "SCR_PASS_DISTANCE",
-                    "SCR_PASS_RESULTS_NEAR",
-                    "SCR_PASS_NO_RESULT",
-                    "SCR_PASS_NO_SESSION",
-                }
-            ):
-                parts.append(
-                    "\n".join(
-                        [
-                            f"## {screen.screen_id}",
-                            "",
-                            "### Recherche de proximité",
-                            "",
-                            "La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.",
-                            "",
-                            "1. [Ouvrir la recherche des trois centres les plus proches]"
-                            "(https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)",
-                            "2. [Choisir directement une région](SCR_PASS_REGIONS)",
-                            "3. [Retour au module](SCR_PASS_MENU)",
-                        ]
-                    )
-                )
-                continue
+        ):
             parts.append(self.render_screen(screen))
         return "\n".join(parts).rstrip() + "\n"
 
@@ -2207,15 +2109,37 @@ class ExportApplication:
                     f"{slugify(module_name)}.md",
                 )
             path = self.modules_dir / Path(filename).name
+            module_content = renderer.render_module(
+                module_name,
+                module_screens,
+            )
+            if Path(filename).name == "07_passer_examen.md":
+                module_content = self._embed_module07_search(module_content)
             atomic_write(
                 path,
-                renderer.render_module(
-                    module_name,
-                    module_screens,
-                ),
+                module_content,
             )
             generated.append(str(path.relative_to(self.output_dir)))
         return generated
+
+    @staticmethod
+    def _embed_module07_search(content: str) -> str:
+        """Remplace l'ancien écran simulé par le moteur web embarqué."""
+        pattern = re.compile(
+            r"^## SCR_PASS_INPUT_COMMUNE\s*$.*?(?=^## \S+)",
+            flags=re.MULTILINE | re.DOTALL,
+        )
+        updated, replacements = pattern.subn(
+            MODULE07_EMBEDDED_SEARCH + "\n",
+            content,
+            count=1,
+        )
+        if replacements != 1:
+            logging.warning(
+                "Écran SCR_PASS_INPUT_COMMUNE introuvable : "
+                "le moteur intégré n'a pas été injecté."
+            )
+        return updated
 
     def _write_validation_report(
         self,

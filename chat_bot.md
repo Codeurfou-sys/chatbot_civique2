@@ -1,56 +1,72 @@
 ---
+clavier: true
 obfuscate: true
+contenuDynamique: true
 variablesDynamiques: true
 ---
 
 # Coach Civique NovaFrate
 
-1. [Commencer](START)
+👋 **Bonjour et bienvenue dans le Coach Civique NovaFrate !**
 
-<!-- Début du fichier source : modules/start.md -->
+Je suis votre **Coach Civique**, votre compagnon pédagogique pour préparer sereinement l’examen civique.
 
-## START
+Ensemble, nous allons avancer étape par étape pour :
 
-<!-- Initialisation globale -->
-1. [Ouvrir le Coach](MENU_PRINCIPAL)
+- 🧭 faire le point sur vos connaissances ;
+- 📚 réviser les notions essentielles ;
+- 📝 vous entraîner à votre rythme ;
+- 🎯 préparer un examen blanc ;
+- 🏛️ trouver une session d’examen ;
+- 🌟 découvrir des conseils pour réussir.
+
+Chaque activité vous rapproche de votre objectif. Choisissez simplement la rubrique qui vous semble la plus utile aujourd’hui.
+
+### 🚀 Que souhaitez-vous faire ?
+
+1. [🧭 Faire mon bilan](SCR_BIL_MENU)
+2. [📚 Commencer mes révisions](SCR_REV_MENU)
+3. [📖 Consulter le glossaire](SCR_GLO_MENU)
+4. [🎯 Préparer mon examen](SCR_PREP_MENU)
+5. [📝 M’entraîner](SCR_ENT_MENU)
+6. [🏛️ Passer mon examen](SCR_PASS_MENU)
+7. [🌟 Découvrir les conseils pour réussir](SCR_CONS_MENU)
+8. [❓ Consulter la FAQ](SCR_FAQ_MENU)
+9. [💬 Poser une question](SCR_QL_MENU)
+10. [ℹ️ Obtenir de l’aide](SCR_ACC_AIDE)
+
 
 ## MENU_PRINCIPAL
 
-### Coach Civique NovaFrate
+### 🇫🇷 Coach Civique NovaFrate
 
-Bienvenue dans le Coach Civique NovaFrate.
+👋 Vous êtes de retour sur le menu principal.
 
-Je vous accompagne pour comprendre l’examen civique, organiser vos révisions, vous entraîner, préparer un examen blanc, trouver une session et répondre à vos questions.
+### Que souhaitez-vous faire ?
 
-Choisissez une rubrique ci-dessous ou utilisez « Pose-moi une question ».
+1. [🧭 Faire mon bilan](SCR_BIL_MENU)
+2. [📚 Commencer mes révisions](SCR_REV_MENU)
+3. [📖 Consulter le glossaire](SCR_GLO_MENU)
+4. [🎯 Préparer mon examen](SCR_PREP_MENU)
+5. [📝 M’entraîner](SCR_ENT_MENU)
+6. [🏛️ Passer mon examen](SCR_PASS_MENU)
+7. [🌟 Découvrir les conseils pour réussir](SCR_CONS_MENU)
+8. [❓ Consulter la FAQ](SCR_FAQ_MENU)
+9. [💬 Poser une question](SCR_QL_MENU)
+10. [ℹ️ Obtenir de l’aide](SCR_ACC_AIDE)
 
-1. [Bilan](SCR_BIL_MENU)
-2. [Conseils pour réussir](SCR_CONS_MENU)
-3. [FAQ](SCR_FAQ_MENU)
-4. [M’entraîner](SCR_ENT_MENU)
-5. [Passer mon examen](SCR_PASS_MENU)
-6. [Pose-moi une question](SCR_QL_MENU)
-7. [Préparer mon examen](SCR_PREP_MENU)
-8. [Révisions](SCR_REV_MENU)
-9. [Consulter le glossaire](SCR_GLO_MENU)
-10. [Aide](SCR_ACC_AIDE)
-
-<!-- Fin du fichier source : modules/start.md -->
-
-<!-- Début du fichier source : modules/00_accueil_complements.md -->
-
-<!-- Module généré automatiquement : Accueil -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_ACC_AIDE
 
-### Comment utiliser le Coach ?
+### ℹ️ Comment utiliser le Coach ?
 
-Choisissez une rubrique selon votre besoin. Utilisez les boutons de retour pour changer d’activité. Pour une demande précise, écrivez votre question dans « Pose-moi une question ».
+Choisissez une rubrique selon votre besoin.
 
-1. [À propos du Coach](SCR_ACC_APROPOS)
-2. [Poser une question](SCR_QL_INPUT)
-3. [Retour au menu principal](MENU_PRINCIPAL)
+Utilisez les boutons de retour pour changer d’activité. Pour une demande précise, utilisez la rubrique « Poser une question ».
+
+1. [💬 Poser une question](SCR_QL_INPUT)
+2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
 
 ## SCR_ACC_RESTART
 
@@ -77,7 +93,7 @@ Le Coach Civique est un assistant pédagogique déterministe construit à partir
 <!-- Début du fichier source : modules/02_bilan.md -->
 
 <!-- Module généré automatiquement : Bilan -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
 ## SCR_BIL_MENU
 
@@ -393,7 +409,7 @@ Votre bilan de progression est terminé. Consultez vos priorités, révisez les 
 <!-- Début du fichier source : modules/08_conseils.md -->
 
 <!-- Module généré automatiquement : Conseils -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
 ## SCR_CONS_MENU
 
@@ -3297,7 +3313,7 @@ Pour mieux mémoriser :
 <!-- Début du fichier source : modules/09_faq.md -->
 
 <!-- Module généré automatiquement : FAQ -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
 ## SCR_FAQ_CATEGORIES
 
@@ -5131,7 +5147,7 @@ Vous pouvez également consulter la page de, sélectionner votre région puis ch
 <!-- Début du fichier source : modules/04_glossaire.md -->
 
 <!-- Module généré automatiquement : Glossaire -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
 ## SCR_GLO_ALPHA_MENU
 
@@ -7868,7 +7884,7 @@ La démocratie est une manière d'exercer le pouvoir.
 <!-- Début du fichier source : modules/06_entrainement.md -->
 
 <!-- Module généré automatiquement : M’entraîner -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
 ## SCR_ENT_CR_T1_QOFF_INTRO
 
@@ -8626,30 +8642,8 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
-## SCR_PASS_MENU
-
-### Je passe mon examen
-
-Que souhaitez-vous faire ? Consultez les informations pratiques, recherchez une session ou inscrivez-vous à l’examen.
-
-1. [Toutes les informations sur l’examen](SCR_PASS_INFO_MENU)
-2. [Trouver une session d’examen](SCR_PASS_SEARCH_MENU)
-3. [M’inscrire à l’examen](SCR_PASS_REGIONS)
-4. [Retour au menu principal](MENU_PRINCIPAL)
-
-<!-- Écran d’entrée -->
-
-## SCR_PASS_SEARCH_MENU
-
-### Trouver les centres les plus proches
-
-Saisissez votre commune ou votre code postal dans notre outil de proximité. Il calculera les trois centres FRATE les plus proches et affichera leurs prochaines sessions.
-
-1. [Ouvrir la recherche par commune ou code postal](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
 ## SCR_PASS_CITY_ANNECY
 
 ### Annecy (74)
@@ -8659,12 +8653,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 18 septembre 2026
-- 16 octobre 2026
-- 27 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
@@ -8684,12 +8672,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 30 septembre 2026
-- 28 octobre 2026
-- 25 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
@@ -8707,12 +8689,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 16 septembre 2026
-- 16 octobre 2026
-- 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -8732,12 +8708,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 9 septembre 2026
-- 30 septembre 2026
-- 16 octobre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
@@ -8755,12 +8725,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 25 septembre 2026
-- 23 octobre 2026
-- 20 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
@@ -8780,12 +8744,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 22 septembre 2026
-- 6 octobre 2026
-- 10 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_CHER)
@@ -8803,11 +8761,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 9 septembre 2026
-- 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -8827,12 +8780,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 9 septembre 2026
-- 23 septembre 2026
-- 7 octobre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
@@ -8850,12 +8797,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 7 septembre 2026
-- 12 octobre 2026
-- 9 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -8875,12 +8816,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 23 septembre 2026
-- 21 octobre 2026
-- 25 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
@@ -8898,12 +8833,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 9 septembre 2026
-- 8 octobre 2026
-- 13 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
@@ -8923,12 +8852,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 2 septembre 2026
-- 7 octobre 2026
-- 4 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
@@ -8946,12 +8869,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 18 août 2026
-- 13 octobre 2026
-- 15 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -8971,12 +8888,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 7 septembre 2026
-- 21 septembre 2026
-- 8 octobre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
@@ -8994,11 +8905,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 17 septembre 2026
-- 17 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -9018,12 +8924,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 15 septembre 2026
-- 13 octobre 2026
-- 17 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
@@ -9041,12 +8941,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 2 septembre 2026
-- 23 septembre 2026
-- 7 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -9066,12 +8960,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 24 septembre 2026
-- 22 octobre 2026
-- 26 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
@@ -9089,11 +8977,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 16 septembre 2026
-- 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
@@ -9113,12 +8996,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 22 septembre 2026
-- 20 octobre 2026
-- 17 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
@@ -9136,12 +9013,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 9 septembre 2026
-- 30 septembre 2026
-- 22 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -9161,12 +9032,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 16 septembre 2026
-- 30 septembre 2026
-- 21 octobre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
@@ -9185,12 +9050,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 
 **Réponse attendue :** Choix d’une action
 
-### Prochaines sessions
-
-- 23 septembre 2026
-- 21 octobre 2026
-- 18 novembre 2026
-
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
@@ -9208,12 +9067,6 @@ Saisissez votre commune ou votre code postal dans notre outil de proximité. Il 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
 **Réponse attendue :** Choix d’une action
-
-### Prochaines sessions
-
-- 30 septembre 2026
-- 28 octobre 2026
-- 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
@@ -9346,20 +9199,20 @@ Cliquez sur le lien Forms pour vous inscrire à une session dans la région choi
 7. [Rechercher depuis ma commune](SCR_PASS_INPUT_COMMUNE)
 8. [Retour au module](SCR_PASS_MENU)
 
-## SCR_PASS_INPUT_ADDRESS
+## SCR_PASS_MENU
 
-### Recherche de proximité
+### Je passe mon examen
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+Que souhaitez-vous faire ? Consultez les informations pratiques, recherchez une session ou inscrivez-vous à l’examen.
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
-## SCR_PASS_NO_SESSION
+1. [Toutes les informations sur l’examen](SCR_PASS_INFO_MENU)
+2. [Trouver une session d’examen](SCR_PASS_SEARCH_MENU)
+3. [M’inscrire à l’examen](SCR_PASS_REGIONS)
+4. [Retour au menu principal](MENU_PRINCIPAL)
 
-### Recherche de proximité
+<!-- Écran d’entrée -->
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+## SCR_PASS_SEARCH_MENU
 
 ### Trouver une session
 
@@ -9416,16 +9269,22 @@ Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
 
 ## SCR_PASS_INPUT_COMMUNE
 
-### Indiquez votre commune
+### Trouvez les centres les plus proches
 
-<!-- Variables : {mode_recherche}=COMMUNE; {saisie_utilisateur} -->
+Saisissez votre commune ou votre code postal dans le moteur ci-dessous.
 
-Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/"
+  title="Recherche des centres d’examen FRATE"
+  width="100%"
+  height="780"
+  loading="lazy"
+  style="border: 0; border-radius: 12px; background: #ffffff;"
+></iframe>
 
-<!-- Condition métier : Saisie non vide -->
-1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
-2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
-3. [Retour au module](SCR_PASS_MENU)
+Si le moteur ne s’affiche pas, [ouvrez la recherche dans un nouvel onglet](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/).
+
+1. [Retour au module](SCR_PASS_MENU)
 
 ## SCR_PASS_DISTANCE
 
@@ -9630,7 +9489,7 @@ Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
 <!-- Début du fichier source : modules/05_preparer_examen.md -->
 
 <!-- Module généré automatiquement : Préparer examen -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
 ## SCR_PREP_RES_MENU
 
@@ -10376,7 +10235,7 @@ Vous avez obtenu {score} bonne(s) réponse(s) sur 28, soit {pourcentage} %.
 <!-- Début du fichier source : modules/10_question_libre.md -->
 
 <!-- Module généré automatiquement : Question libre -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
 ## SCR_QL_CONFIRM
 
@@ -10634,7 +10493,7 @@ Reformulez avec une phrase plus courte ou choisissez une rubrique : FAQ, Glossai
 <!-- Début du fichier source : modules/03_revisions.md -->
 
 <!-- Module généré automatiquement : Révisions -->
-<!-- Date : 2026-08-07T07:42:07+00:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
 ## SCR_REV_MENU
 
