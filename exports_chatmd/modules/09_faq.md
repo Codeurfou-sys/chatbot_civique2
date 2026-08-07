@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : FAQ -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_FAQ_CATEGORIES
 

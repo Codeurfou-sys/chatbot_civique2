@@ -40,7 +40,7 @@ Choisissez une rubrique ci-dessous ou utilisez « Pose-moi une question ».
 <!-- Début du fichier source : modules/00_accueil_complements.md -->
 
 <!-- Module généré automatiquement : Accueil -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_ACC_AIDE
 
@@ -77,7 +77,7 @@ Le Coach Civique est un assistant pédagogique déterministe construit à partir
 <!-- Début du fichier source : modules/02_bilan.md -->
 
 <!-- Module généré automatiquement : Bilan -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_BIL_MENU
 
@@ -393,7 +393,7 @@ Votre bilan de progression est terminé. Consultez vos priorités, révisez les 
 <!-- Début du fichier source : modules/08_conseils.md -->
 
 <!-- Module généré automatiquement : Conseils -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_CONS_MENU
 
@@ -3297,7 +3297,7 @@ Pour mieux mémoriser :
 <!-- Début du fichier source : modules/09_faq.md -->
 
 <!-- Module généré automatiquement : FAQ -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_FAQ_CATEGORIES
 
@@ -5131,7 +5131,7 @@ Vous pouvez également consulter la page de, sélectionner votre région puis ch
 <!-- Début du fichier source : modules/04_glossaire.md -->
 
 <!-- Module généré automatiquement : Glossaire -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_GLO_ALPHA_MENU
 
@@ -7868,7 +7868,7 @@ La démocratie est une manière d'exercer le pouvoir.
 <!-- Début du fichier source : modules/06_entrainement.md -->
 
 <!-- Module généré automatiquement : M’entraîner -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_ENT_CR_T1_QOFF_INTRO
 
@@ -8626,7 +8626,7 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_PASS_MENU
 
@@ -9361,54 +9361,109 @@ La recherche personnalisée s’effectue dans l’outil sécurisé par commune o
 
 La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
+### Trouver une session
+
+<!-- Variables : {mode_recherche} -->
+
+Comment souhaitez-vous rechercher une session : région, ville, commune, code postal, département ou adresse ?
+
+1. [Rechercher par région](SCR_PASS_REGIONS)
+2. [Rechercher une ville FRATE](SCR_PASS_INPUT_CITY)
+3. [Trouver les centres proches de ma commune](SCR_PASS_INPUT_COMMUNE)
+4. [Rechercher par code postal](SCR_PASS_INPUT_CP)
+5. [Rechercher par département](SCR_PASS_INPUT_DEPT)
+6. [Rechercher depuis une adresse](SCR_PASS_INPUT_ADDRESS)
+7. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_INPUT_ADDRESS
+
+### Indiquez votre adresse
+
+<!-- Variables : {mode_recherche}=ADRESSE; {saisie_utilisateur} -->
+
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Condition métier : Saisie non vide -->
+1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
+2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
 3. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_NO_SESSION
+
+### Aucune session disponible
+
+<!-- Variables : {centre}; {centre_alternatif} -->
+
+Aucune session future n’est publiée dans ce centre. Je vous propose le centre suivant le plus proche.
+
+<!-- Condition métier : Centre alternatif disponible -->
+1. [Voir le centre alternatif](SCR_PASS_CITY_*)
+2. [Nouvelle recherche](SCR_PASS_SEARCH_MENU)
+3. [Retour au module](SCR_PASS_MENU)
+
 ## SCR_PASS_INPUT_CP
 
-### Recherche de proximité
+### Indiquez votre code postal
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+<!-- Variables : {mode_recherche}=CP; {saisie_utilisateur} -->
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Condition métier : Saisie non vide -->
+1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
+2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
 3. [Retour au module](SCR_PASS_MENU)
+
 ## SCR_PASS_INPUT_COMMUNE
 
-### Recherche de proximité
+### Indiquez votre commune
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+<!-- Variables : {mode_recherche}=COMMUNE; {saisie_utilisateur} -->
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Condition métier : Saisie non vide -->
+1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
+2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
 3. [Retour au module](SCR_PASS_MENU)
+
 ## SCR_PASS_DISTANCE
 
-### Recherche de proximité
+### Calcul des distances
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+<!-- Variables : {distances_centres}; {centre_1}; {centre_2}; {centre_3} -->
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
+<!-- Règle métier : Classer les centres FRATE par distance croissante -->
+
+<!-- Transition automatique NAV_PASS_068 : Calcul terminé → SCR_PASS_RESULTS_NEAR -->
+1. [Afficher les résultats](SCR_PASS_RESULTS_NEAR)
+
+<!-- Écran logique non affiché -->
+
 ## SCR_PASS_INPUT_DEPT
 
-### Recherche de proximité
+### Indiquez votre département
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+<!-- Variables : {mode_recherche}=DEPARTEMENT; {saisie_utilisateur} -->
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Condition métier : Saisie non vide -->
+1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
+2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
 3. [Retour au module](SCR_PASS_MENU)
+
 ## SCR_PASS_NO_RESULT
 
-### Recherche de proximité
+### Lieu non trouvé
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+<!-- Variables : {saisie_utilisateur} -->
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
+Je n’ai pas trouvé ce lieu. Vérifiez l’orthographe ou saisissez un code postal.
+
+1. [Réessayer](SCR_PASS_SEARCH_MENU)
+2. [Retour au module](SCR_PASS_MENU)
+
 ## SCR_PASS_BAN_CHOICE
 
 ### Précisez votre localisation
@@ -9423,31 +9478,51 @@ Plusieurs lieux correspondent. Choisissez la proposition qui correspond à votre
 
 ## SCR_PASS_BAN_RESOLVE
 
-### Recherche de proximité
+### Recherche de la localisation
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+<!-- Variables : {ban_resultats}; {latitude_utilisateur}; {longitude_utilisateur} -->
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
+<!-- Règle métier : Résoudre la saisie et compter les résultats pertinents -->
+
+<!-- Transition automatique NAV_PASS_061 : 1 résultat pertinent → SCR_PASS_DISTANCE -->
+1. [Résultat unique](SCR_PASS_DISTANCE)
+<!-- Transition automatique NAV_PASS_062 : Plusieurs résultats pertinents → SCR_PASS_BAN_CHOICE -->
+1. [Plusieurs résultats](SCR_PASS_BAN_CHOICE)
+<!-- Transition automatique NAV_PASS_063 : 0 résultat pertinent → SCR_PASS_NO_RESULT -->
+1. [Aucun résultat](SCR_PASS_NO_RESULT)
+
+<!-- Écran logique non affiché -->
+
 ## SCR_PASS_RESULTS_NEAR
 
-### Recherche de proximité
+### Centres les plus proches
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+<!-- Variables : {lieu_utilisateur}; {centre_1}; {centre_2}; {centre_3} -->
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
+Voici les trois centres FRATE les plus proches de {lieu_utilisateur}.
+
+<!-- Condition métier : Centre disponible | Valeur : CENTRE_1 -->
+1. [Voir le centre 1](SCR_PASS_CITY_*)
+<!-- Condition métier : Centre disponible | Valeur : CENTRE_2 -->
+2. [Voir le centre 2](SCR_PASS_CITY_*)
+<!-- Condition métier : Centre disponible | Valeur : CENTRE_3 -->
+3. [Voir le centre 3](SCR_PASS_CITY_*)
+4. [Nouvelle recherche](SCR_PASS_SEARCH_MENU)
+5. [Retour au module](SCR_PASS_MENU)
+
 ## SCR_PASS_INPUT_CITY
 
-### Recherche de proximité
+### Rechercher une ville FRATE
 
-La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.
+<!-- Variables : {mode_recherche}=VILLE; {saisie_utilisateur} -->
 
-1. [Ouvrir la recherche des trois centres les plus proches](https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)
-2. [Choisir directement une région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Transition automatique NAV_PASS_046 : Saisie validée → SCR_PASS_BAN_RESOLVE -->
+1. [Rechercher la ville](SCR_PASS_BAN_RESOLVE)
+1. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
+2. [Retour au module](SCR_PASS_MENU)
+
 ## SCR_PASS_REGION_AUVERGNE
 
 ### Auvergne
@@ -9555,7 +9630,7 @@ La recherche personnalisée s’effectue dans l’outil sécurisé par commune o
 <!-- Début du fichier source : modules/05_preparer_examen.md -->
 
 <!-- Module généré automatiquement : Préparer examen -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_PREP_RES_MENU
 
@@ -10301,7 +10376,7 @@ Vous avez obtenu {score} bonne(s) réponse(s) sur 28, soit {pourcentage} %.
 <!-- Début du fichier source : modules/10_question_libre.md -->
 
 <!-- Module généré automatiquement : Question libre -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_QL_CONFIRM
 
@@ -10559,7 +10634,7 @@ Reformulez avec une phrase plus courte ou choisissez une rubrique : FAQ, Glossai
 <!-- Début du fichier source : modules/03_revisions.md -->
 
 <!-- Module généré automatiquement : Révisions -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_REV_MENU
 
