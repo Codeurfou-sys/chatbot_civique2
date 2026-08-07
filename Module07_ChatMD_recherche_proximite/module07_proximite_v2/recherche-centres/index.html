@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Trouver les trois centres d'examen civique FRATE les plus proches.">
+  <title>Trouver un centre d’examen civique</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <p class="eyebrow">Module 07 · Passer mon examen</p>
+      <h1>Trouvez les centres les plus proches</h1>
+      <p class="lead">Saisissez un code postal ou le nom de votre commune. Le calcul est effectué directement dans votre navigateur.</p>
+    </header>
+
+    <form id="search-form" role="search" novalidate>
+      <label for="query">Code postal ou commune</label>
+      <div class="search-row">
+        <input id="query" name="query" type="search" inputmode="search" autocomplete="postal-code" placeholder="Ex. 67370 ou Vichy" required>
+        <button type="submit">Rechercher</button>
+      </div>
+      <p class="hint">Les distances affichées sont à vol d’oiseau et servent à comparer les centres.</p>
+    </form>
+
+    <p id="status" class="status" role="status" aria-live="polite">Chargement des communes…</p>
+    <section id="choices" class="panel hidden" aria-labelledby="choices-title">
+      <h2 id="choices-title">Précisez votre commune</h2>
+      <div id="choices-list" class="choices"></div>
+    </section>
+    <section id="results" class="hidden" aria-labelledby="results-title">
+      <div class="result-heading">
+        <div><p class="eyebrow">Résultats</p><h2 id="results-title">Trois centres recommandés</h2></div>
+        <button id="new-search" class="secondary" type="button">Nouvelle recherche</button>
+      </div>
+      <p id="location-summary"></p>
+      <div id="cards" class="cards"></div>
+    </section>
+    <noscript>Cette recherche nécessite JavaScript. Vous pouvez revenir dans ChatMD et choisir un centre par région.</noscript>
+  </main>
+  <script src="app.js" defer></script>
+</body>
+</html>
