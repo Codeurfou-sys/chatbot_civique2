@@ -1320,6 +1320,61 @@ class ChatMDRenderer:
                 key=lambda item: (item.priority, item.label, item.nav_id)
             )
 
+        # Les dates du module 07 sont stockees dans un tableau distinct des
+        # ecrans. Elles doivent etre reinjectees explicitement dans les fiches
+        # des centres, sinon le Markdown ne contient que les boutons et le
+        # nombre de sessions (dans un commentaire invisible).
+        self.module07_sessions = self._load_module07_sessions()
+
+    def _load_module07_sessions(self) -> dict[str, list[date]]:
+        sessions: defaultdict[str, list[date]] = defaultdict(list)
+        if "07_PASSER_EXAMEN" not in self.reader.wb.sheetnames:
+            return {}
+
+        ws = self.reader.wb["07_PASSER_EXAMEN"]
+        today = date.today()
+        for row in range(1, ws.max_row + 1):
+            session_id = safe_text(ws.cell(row=row, column=1).value)
+            code_centre = safe_text(ws.cell(row=row, column=2).value)
+            session_date = excel_value_to_date(
+                ws.cell(row=row, column=5).value
+            )
+            if (
+                not session_id.startswith("SES_")
+                or not code_centre
+                or not session_date
+                or session_date < today
+            ):
+                continue
+            if session_date not in sessions[code_centre]:
+                sessions[code_centre].append(session_date)
+
+        return {
+            code: sorted(values)[:3]
+            for code, values in sessions.items()
+        }
+
+    def _render_module07_dates(self, screen: Screen) -> list[str]:
+        prefix = "SCR_PASS_CITY_"
+        if not screen.screen_id.startswith(prefix):
+            return []
+
+        code_centre = screen.screen_id[len(prefix):]
+        dates = self.module07_sessions.get(code_centre, [])
+        if not dates:
+            return [
+                "### Prochaines sessions",
+                "",
+                "Aucune date n'est actuellement disponible pour ce centre.",
+                "",
+            ]
+
+        lines = ["### Prochaines sessions", ""]
+        for session_date in dates:
+            lines.append(f"- **{session_date.strftime('%d/%m/%Y')}**")
+        lines.append("")
+        return lines
+
     def render_screen(self, screen: Screen) -> str:
         lines: list[str] = [f"## {screen.screen_id}", ""]
 
@@ -1337,6 +1392,8 @@ class ChatMDRenderer:
         content = self.resolver.resolve(screen)
         if content:
             lines.extend([content, ""])
+
+        lines.extend(self._render_module07_dates(screen))
 
         buttons = self.navigation_by_source.get(screen.screen_id, [])
         if buttons:
@@ -1857,12 +1914,6 @@ class ExportApplication:
             module_file_map,
         )
 
-        # ChatMD ne sait pas appeler la BAN ni interpréter une saisie libre au
-        # moment de la consultation. Le module 07 est donc converti en parcours
-        # guidé statique à chaque export. La BAN reste utilisée en amont par
-        # update_passer_examen.py pour maintenir les coordonnées des centres.
-        self._make_module07_chatmd_compatible(reader, generated_module_files)
-
         start_filename = (
             config.get("START_MARKDOWN_FILE")
             or DEFAULT_START_FILE
@@ -1987,181 +2038,6 @@ class ExportApplication:
             final_warnings,
         )
         return 0 if final_errors == 0 or self.args.force else 5
-
-    def _make_module07_chatmd_compatible(
-        self,
-        reader: WorkbookReader,
-        generated_module_files: list[str],
-    ) -> None:
-        relative_path = next(
-            (
-                name for name in generated_module_files
-                if Path(name).name == "07_passer_examen.md"
-            ),
-            None,
-        )
-        if relative_path is None:
-            return
-
-        module_path = self.output_dir / relative_path
-        if not module_path.exists():
-            return
-
-        centres = DataExporter(reader, self.data_dir)._records_from_sheet_by_header(
-            "07_PASSER_EXAMEN",
-            "code_region",
-        )
-        active_centres = [
-            row for row in centres
-            if normalize_text(row.get("actif")) not in INACTIVE_VALUES
-            and safe_text(row.get("ecran_centre"))
-        ]
-        if not active_centres:
-            return
-
-        by_department: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
-        for row in active_centres:
-            department = safe_text(row.get("departement")).zfill(2)
-            by_department[department].append(row)
-
-        department_lines = [
-            "## SCR_PASS_DEPARTMENTS",
-            "",
-            "### Choisissez votre département",
-            "",
-            "Sélectionnez votre département pour afficher les centres FRATE disponibles.",
-            "",
-        ]
-        for index, department in enumerate(sorted(by_department), start=1):
-            department_lines.append(
-                f"{index}. [Département {department}](SCR_PASS_DEPT_{department})"
-            )
-        department_lines.extend(
-            [
-                f"{len(by_department) + 1}. [Choisir par région](SCR_PASS_REGIONS)",
-                f"{len(by_department) + 2}. [Retour au module](SCR_PASS_MENU)",
-                "",
-            ]
-        )
-
-        detail_lines: list[str] = []
-        for department in sorted(by_department):
-            rows = sorted(
-                by_department[department],
-                key=lambda row: safe_text(row.get("ville")),
-            )
-            detail_lines.extend(
-                [
-                    f"## SCR_PASS_DEPT_{department}",
-                    "",
-                    f"### Centres du département {department}",
-                    "",
-                    "Choisissez un centre pour consulter ses prochaines sessions.",
-                    "",
-                ]
-            )
-            for index, row in enumerate(rows, start=1):
-                detail_lines.append(
-                    f"{index}. [{safe_text(row.get('ville'))}]"
-                    f"({safe_text(row.get('ecran_centre'))})"
-                )
-            detail_lines.extend(
-                [
-                    f"{len(rows) + 1}. [Choisir un autre département](SCR_PASS_DEPARTMENTS)",
-                    f"{len(rows) + 2}. [Choisir par région](SCR_PASS_REGIONS)",
-                    f"{len(rows) + 3}. [Retour au module](SCR_PASS_MENU)",
-                    "",
-                ]
-            )
-
-        markdown = module_path.read_text(encoding=DEFAULT_ENCODING)
-        dynamic_ids = {
-            "SCR_PASS_INPUT_ADDRESS",
-            "SCR_PASS_INPUT_CP",
-            "SCR_PASS_INPUT_COMMUNE",
-            "SCR_PASS_INPUT_DEPT",
-            "SCR_PASS_INPUT_CITY",
-            "SCR_PASS_BAN_RESOLVE",
-            "SCR_PASS_BAN_CHOICE",
-            "SCR_PASS_DISTANCE",
-            "SCR_PASS_RESULTS_NEAR",
-            "SCR_PASS_NO_RESULT",
-            "SCR_PASS_NO_SESSION",
-        }
-
-        sections = re.split(r"(?=^## [A-Z0-9_]+\s*$)", markdown, flags=re.MULTILINE)
-        kept: list[str] = []
-        for section in sections:
-            match = re.match(r"^## ([A-Z0-9_]+)\s*$", section, flags=re.MULTILINE)
-            if match and match.group(1) in dynamic_ids:
-                continue
-            if match and match.group(1) == "SCR_PASS_SEARCH_MENU":
-                section = "\n".join(
-                    [
-                        "## SCR_PASS_SEARCH_MENU",
-                        "",
-                        "### Trouver une session d’examen",
-                        "",
-                        "La recherche est guidée pour garantir que tous les boutons fonctionnent dans ChatMD.",
-                        "",
-                        "1. [Choisir mon département](SCR_PASS_DEPARTMENTS)",
-                        "2. [Choisir ma région](SCR_PASS_REGIONS)",
-                        "3. [Voir directement la liste des villes FRATE](SCR_PASS_REGIONS)",
-                        "4. [Retour au module](SCR_PASS_MENU)",
-                        "",
-                    ]
-                )
-            kept.append(section)
-
-        markdown = "".join(kept)
-        for target in (
-            "SCR_PASS_INPUT_ADDRESS",
-            "SCR_PASS_INPUT_CP",
-            "SCR_PASS_INPUT_COMMUNE",
-            "SCR_PASS_INPUT_DEPT",
-            "SCR_PASS_INPUT_CITY",
-            "SCR_PASS_BAN_RESOLVE",
-            "SCR_PASS_RESULTS_NEAR",
-        ):
-            markdown = markdown.replace(f"]({target})", "](SCR_PASS_SEARCH_MENU)")
-        markdown = markdown.replace(
-            "7. [Rechercher depuis ma commune](SCR_PASS_SEARCH_MENU)",
-            "7. [Choisir par département](SCR_PASS_DEPARTMENTS)",
-        )
-
-        insertion = "\n".join(department_lines + detail_lines)
-        marker = "## SCR_PASS_REGIONS"
-        if marker in markdown:
-            markdown = markdown.replace(marker, insertion + "\n" + marker, 1)
-        else:
-            markdown += "\n" + insertion
-
-        atomic_write(module_path, markdown.rstrip() + "\n")
-
-        # Les intentions du module « Question libre » pointaient elles aussi
-        # vers les anciens écrans dynamiques. Elles rejoignent désormais le
-        # même parcours guidé, afin qu'une question sur un code postal ou un
-        # centre proche n'aboutisse jamais sur un écran supprimé.
-        for other_relative_path in generated_module_files:
-            other_path = self.output_dir / other_relative_path
-            if not other_path.exists() or other_path == module_path:
-                continue
-            other_markdown = other_path.read_text(encoding=DEFAULT_ENCODING)
-            updated = other_markdown
-            for obsolete_target in (
-                "SCR_PASS_INPUT_CP",
-                "SCR_PASS_RESULTS_NEAR",
-                "SCR_PASS_INPUT_COMMUNE",
-                "SCR_PASS_INPUT_ADDRESS",
-                "SCR_PASS_INPUT_DEPT",
-                "SCR_PASS_INPUT_CITY",
-            ):
-                updated = updated.replace(
-                    f"]({obsolete_target})",
-                    "](SCR_PASS_SEARCH_MENU)",
-                )
-            if updated != other_markdown:
-                atomic_write(other_path, updated)
 
     def _prepare_output(self) -> None:
         self.output_dir.mkdir(parents=True, exist_ok=True)
