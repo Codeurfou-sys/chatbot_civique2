@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-06T19:17:12+02:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -11,10 +11,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 18 septembre 2026
+- 16 octobre 2026
+- 27 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -29,10 +35,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 30 septembre 2026
+- 28 octobre 2026
+- 25 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -47,10 +59,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 16 septembre 2026
+- 16 octobre 2026
+- 18 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 5 session(s) future(s) dans la source -->
@@ -65,10 +83,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 9 septembre 2026
+- 30 septembre 2026
+- 16 octobre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 9 session(s) future(s) dans la source -->
@@ -83,10 +107,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 25 septembre 2026
+- 23 octobre 2026
+- 20 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -101,10 +131,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 22 septembre 2026
+- 6 octobre 2026
+- 10 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_CHER)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -119,10 +155,15 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 9 septembre 2026
+- 18 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
@@ -137,10 +178,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 9 septembre 2026
+- 23 septembre 2026
+- 7 octobre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 7 session(s) future(s) dans la source -->
@@ -155,10 +202,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 7 septembre 2026
+- 12 octobre 2026
+- 9 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 5 session(s) future(s) dans la source -->
@@ -173,10 +226,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 23 septembre 2026
+- 21 octobre 2026
+- 25 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -191,10 +250,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 9 septembre 2026
+- 8 octobre 2026
+- 13 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -209,10 +274,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 2 septembre 2026
+- 7 octobre 2026
+- 4 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -227,10 +298,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 18 août 2026
+- 13 octobre 2026
+- 15 décembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 3 session(s) future(s) dans la source -->
@@ -245,10 +322,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 7 septembre 2026
+- 21 septembre 2026
+- 8 octobre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 7 session(s) future(s) dans la source -->
@@ -263,10 +346,15 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 17 septembre 2026
+- 17 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
@@ -281,10 +369,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 15 septembre 2026
+- 13 octobre 2026
+- 17 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -299,10 +393,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 2 septembre 2026
+- 23 septembre 2026
+- 7 octobre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
@@ -317,10 +417,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 24 septembre 2026
+- 22 octobre 2026
+- 26 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 3 session(s) future(s) dans la source -->
@@ -335,10 +441,15 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 16 septembre 2026
+- 18 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
@@ -353,10 +464,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 22 septembre 2026
+- 20 octobre 2026
+- 17 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -371,10 +488,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 9 septembre 2026
+- 30 septembre 2026
+- 22 octobre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
@@ -389,10 +512,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 16 septembre 2026
+- 30 septembre 2026
+- 21 octobre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
@@ -407,10 +536,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 23 septembre 2026
+- 21 octobre 2026
+- 18 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -425,10 +560,16 @@
 
 **Réponse attendue :** Choix d’une action
 
+### Prochaines sessions
+
+- 30 septembre 2026
+- 28 octobre 2026
+- 18 novembre 2026
+
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_SEARCH_MENU)
+3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -539,248 +680,6 @@ Principes et valeurs ; institutions ; droits et devoirs ; histoire, géographie 
 
 Cliquez sur le lien Forms pour vous inscrire à une session dans la région choisie.
 
-## SCR_PASS_DEPARTMENTS
-
-### Choisissez votre département
-
-Sélectionnez votre département pour afficher les centres FRATE disponibles.
-
-1. [Département 01](SCR_PASS_DEPT_01)
-2. [Département 03](SCR_PASS_DEPT_03)
-3. [Département 10](SCR_PASS_DEPT_10)
-4. [Département 15](SCR_PASS_DEPT_15)
-5. [Département 18](SCR_PASS_DEPT_18)
-6. [Département 21](SCR_PASS_DEPT_21)
-7. [Département 25](SCR_PASS_DEPT_25)
-8. [Département 39](SCR_PASS_DEPT_39)
-9. [Département 43](SCR_PASS_DEPT_43)
-10. [Département 51](SCR_PASS_DEPT_51)
-11. [Département 52](SCR_PASS_DEPT_52)
-12. [Département 58](SCR_PASS_DEPT_58)
-13. [Département 63](SCR_PASS_DEPT_63)
-14. [Département 67](SCR_PASS_DEPT_67)
-15. [Département 68](SCR_PASS_DEPT_68)
-16. [Département 71](SCR_PASS_DEPT_71)
-17. [Département 74](SCR_PASS_DEPT_74)
-18. [Département 88](SCR_PASS_DEPT_88)
-19. [Département 89](SCR_PASS_DEPT_89)
-20. [Choisir par région](SCR_PASS_REGIONS)
-21. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_01
-
-### Centres du département 01
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Bourg-en-Bresse](SCR_PASS_CITY_BOURG_EN_BRESSE)
-2. [Valserhône](SCR_PASS_CITY_VALSERHONE)
-3. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-4. [Choisir par région](SCR_PASS_REGIONS)
-5. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_03
-
-### Centres du département 03
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Vichy](SCR_PASS_CITY_VICHY)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_10
-
-### Centres du département 10
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Troyes](SCR_PASS_CITY_TROYES)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_15
-
-### Centres du département 15
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Saint-Flour](SCR_PASS_CITY_SAINT_FLOUR)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_18
-
-### Centres du département 18
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Bourges](SCR_PASS_CITY_BOURGES)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_21
-
-### Centres du département 21
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Dijon](SCR_PASS_CITY_DIJON)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_25
-
-### Centres du département 25
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Besançon](SCR_PASS_CITY_BESANCON)
-2. [Montbéliard](SCR_PASS_CITY_MONTBELIARD)
-3. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-4. [Choisir par région](SCR_PASS_REGIONS)
-5. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_39
-
-### Centres du département 39
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Lons-le-Saunier](SCR_PASS_CITY_LONS_LE_SAUNIER)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_43
-
-### Centres du département 43
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Le Puy-en-Velay](SCR_PASS_CITY_LE_PUY_EN_VELAY)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_51
-
-### Centres du département 51
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Reims](SCR_PASS_CITY_REIMS)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_52
-
-### Centres du département 52
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Chaumont](SCR_PASS_CITY_CHAUMONT)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_58
-
-### Centres du département 58
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Nevers](SCR_PASS_CITY_NEVERS)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_63
-
-### Centres du département 63
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Clermont-Ferrand](SCR_PASS_CITY_CLERMONT_FERRAND)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_67
-
-### Centres du département 67
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Strasbourg](SCR_PASS_CITY_STRASBOURG)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_68
-
-### Centres du département 68
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Mulhouse](SCR_PASS_CITY_MULHOUSE)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_71
-
-### Centres du département 71
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Montceau-les-Mines](SCR_PASS_CITY_MONTCEAU_LES_MINES)
-2. [Mâcon](SCR_PASS_CITY_MACON)
-3. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-4. [Choisir par région](SCR_PASS_REGIONS)
-5. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_74
-
-### Centres du département 74
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Annecy](SCR_PASS_CITY_ANNECY)
-2. [Annemasse](SCR_PASS_CITY_ANNEMASSE)
-3. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-4. [Choisir par région](SCR_PASS_REGIONS)
-5. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_88
-
-### Centres du département 88
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Saint-Dié-des-Vosges](SCR_PASS_CITY_SAINT_DIE_DES_VOSGES)
-2. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-3. [Choisir par région](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
-
-## SCR_PASS_DEPT_89
-
-### Centres du département 89
-
-Choisissez un centre pour consulter ses prochaines sessions.
-
-1. [Auxerre](SCR_PASS_CITY_AUXERRE)
-2. [Sens](SCR_PASS_CITY_SENS)
-3. [Choisir un autre département](SCR_PASS_DEPARTMENTS)
-4. [Choisir par région](SCR_PASS_REGIONS)
-5. [Retour au module](SCR_PASS_MENU)
-
 ## SCR_PASS_REGIONS
 
 ### Choisir une région
@@ -795,7 +694,7 @@ Choisissez un centre pour consulter ses prochaines sessions.
 4. [Franche-Comté](SCR_PASS_REGION_FRANCHE_COMTE)
 5. [Grand Est](SCR_PASS_REGION_GRAND_EST)
 6. [Rhône-Alpes](SCR_PASS_REGION_RHONE_ALPES)
-7. [Choisir par département](SCR_PASS_DEPARTMENTS)
+7. [Rechercher depuis ma commune](SCR_PASS_INPUT_COMMUNE)
 8. [Retour au module](SCR_PASS_MENU)
 
 ## SCR_PASS_MENU
@@ -813,14 +712,168 @@ Que souhaitez-vous faire ? Consultez les informations pratiques, recherchez une 
 
 ## SCR_PASS_SEARCH_MENU
 
-### Trouver une session d’examen
+### Trouver une session
 
-La recherche est guidée pour garantir que tous les boutons fonctionnent dans ChatMD.
+<!-- Variables : {mode_recherche} -->
 
-1. [Choisir mon département](SCR_PASS_DEPARTMENTS)
-2. [Choisir ma région](SCR_PASS_REGIONS)
-3. [Voir directement la liste des villes FRATE](SCR_PASS_REGIONS)
-4. [Retour au module](SCR_PASS_MENU)
+Comment souhaitez-vous rechercher une session : région, ville, commune, code postal, département ou adresse ?
+
+1. [Rechercher par région](SCR_PASS_REGIONS)
+2. [Rechercher une ville FRATE](SCR_PASS_INPUT_CITY)
+3. [Trouver les centres proches de ma commune](SCR_PASS_INPUT_COMMUNE)
+4. [Rechercher par code postal](SCR_PASS_INPUT_CP)
+5. [Rechercher par département](SCR_PASS_INPUT_DEPT)
+6. [Rechercher depuis une adresse](SCR_PASS_INPUT_ADDRESS)
+7. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_INPUT_ADDRESS
+
+### Indiquez votre adresse
+
+<!-- Variables : {mode_recherche}=ADRESSE; {saisie_utilisateur} -->
+
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Condition métier : Saisie non vide -->
+1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
+2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
+3. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_NO_SESSION
+
+### Aucune session disponible
+
+<!-- Variables : {centre}; {centre_alternatif} -->
+
+Aucune session future n’est publiée dans ce centre. Je vous propose le centre suivant le plus proche.
+
+<!-- Condition métier : Centre alternatif disponible -->
+1. [Voir le centre alternatif](SCR_PASS_CITY_*)
+2. [Nouvelle recherche](SCR_PASS_SEARCH_MENU)
+3. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_INPUT_CP
+
+### Indiquez votre code postal
+
+<!-- Variables : {mode_recherche}=CP; {saisie_utilisateur} -->
+
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Condition métier : Saisie non vide -->
+1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
+2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
+3. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_INPUT_COMMUNE
+
+### Indiquez votre commune
+
+<!-- Variables : {mode_recherche}=COMMUNE; {saisie_utilisateur} -->
+
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Condition métier : Saisie non vide -->
+1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
+2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
+3. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_DISTANCE
+
+### Calcul des distances
+
+<!-- Variables : {distances_centres}; {centre_1}; {centre_2}; {centre_3} -->
+
+<!-- Règle métier : Classer les centres FRATE par distance croissante -->
+
+<!-- Transition automatique NAV_PASS_068 : Calcul terminé → SCR_PASS_RESULTS_NEAR -->
+1. [Afficher les résultats](SCR_PASS_RESULTS_NEAR)
+
+<!-- Écran logique non affiché -->
+
+## SCR_PASS_INPUT_DEPT
+
+### Indiquez votre département
+
+<!-- Variables : {mode_recherche}=DEPARTEMENT; {saisie_utilisateur} -->
+
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Condition métier : Saisie non vide -->
+1. [Valider ma recherche](SCR_PASS_BAN_RESOLVE)
+2. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
+3. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_NO_RESULT
+
+### Lieu non trouvé
+
+<!-- Variables : {saisie_utilisateur} -->
+
+Je n’ai pas trouvé ce lieu. Vérifiez l’orthographe ou saisissez un code postal.
+
+1. [Réessayer](SCR_PASS_SEARCH_MENU)
+2. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_BAN_CHOICE
+
+### Précisez votre localisation
+
+<!-- Variables : {ban_resultats}; {ban_choix} -->
+
+Plusieurs lieux correspondent. Choisissez la proposition qui correspond à votre commune.
+
+<!-- Condition métier : Réponse sélectionnée | Valeur : BAN_RESULT_* -->
+1. [Utiliser ce lieu](SCR_PASS_DISTANCE)
+2. [Recommencer la recherche](SCR_PASS_SEARCH_MENU)
+
+## SCR_PASS_BAN_RESOLVE
+
+### Recherche de la localisation
+
+<!-- Variables : {ban_resultats}; {latitude_utilisateur}; {longitude_utilisateur} -->
+
+<!-- Règle métier : Résoudre la saisie et compter les résultats pertinents -->
+
+<!-- Transition automatique NAV_PASS_061 : 1 résultat pertinent → SCR_PASS_DISTANCE -->
+1. [Résultat unique](SCR_PASS_DISTANCE)
+<!-- Transition automatique NAV_PASS_062 : Plusieurs résultats pertinents → SCR_PASS_BAN_CHOICE -->
+1. [Plusieurs résultats](SCR_PASS_BAN_CHOICE)
+<!-- Transition automatique NAV_PASS_063 : 0 résultat pertinent → SCR_PASS_NO_RESULT -->
+1. [Aucun résultat](SCR_PASS_NO_RESULT)
+
+<!-- Écran logique non affiché -->
+
+## SCR_PASS_RESULTS_NEAR
+
+### Centres les plus proches
+
+<!-- Variables : {lieu_utilisateur}; {centre_1}; {centre_2}; {centre_3} -->
+
+Voici les trois centres FRATE les plus proches de {lieu_utilisateur}.
+
+<!-- Condition métier : Centre disponible | Valeur : CENTRE_1 -->
+1. [Voir le centre 1](SCR_PASS_CITY_*)
+<!-- Condition métier : Centre disponible | Valeur : CENTRE_2 -->
+2. [Voir le centre 2](SCR_PASS_CITY_*)
+<!-- Condition métier : Centre disponible | Valeur : CENTRE_3 -->
+3. [Voir le centre 3](SCR_PASS_CITY_*)
+4. [Nouvelle recherche](SCR_PASS_SEARCH_MENU)
+5. [Retour au module](SCR_PASS_MENU)
+
+## SCR_PASS_INPUT_CITY
+
+### Rechercher une ville FRATE
+
+<!-- Variables : {mode_recherche}=VILLE; {saisie_utilisateur} -->
+
+Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
+
+<!-- Transition automatique NAV_PASS_046 : Saisie validée → SCR_PASS_BAN_RESOLVE -->
+1. [Rechercher la ville](SCR_PASS_BAN_RESOLVE)
+1. [Changer de mode de recherche](SCR_PASS_SEARCH_MENU)
+2. [Retour au module](SCR_PASS_MENU)
+
 ## SCR_PASS_REGION_AUVERGNE
 
 ### Auvergne

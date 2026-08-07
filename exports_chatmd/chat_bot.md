@@ -40,7 +40,7 @@ Choisissez une rubrique ci-dessous ou utilisez « Pose-moi une question ».
 <!-- Début du fichier source : modules/00_accueil_complements.md -->
 
 <!-- Module généré automatiquement : Accueil -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_ACC_AIDE
 
@@ -77,7 +77,7 @@ Le Coach Civique est un assistant pédagogique déterministe construit à partir
 <!-- Début du fichier source : modules/02_bilan.md -->
 
 <!-- Module généré automatiquement : Bilan -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_BIL_MENU
 
@@ -393,7 +393,7 @@ Votre bilan de progression est terminé. Consultez vos priorités, révisez les 
 <!-- Début du fichier source : modules/08_conseils.md -->
 
 <!-- Module généré automatiquement : Conseils -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_CONS_MENU
 
@@ -3297,7 +3297,7 @@ Pour mieux mémoriser :
 <!-- Début du fichier source : modules/09_faq.md -->
 
 <!-- Module généré automatiquement : FAQ -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_FAQ_CATEGORIES
 
@@ -5131,7 +5131,7 @@ Vous pouvez également consulter la page de, sélectionner votre région puis ch
 <!-- Début du fichier source : modules/04_glossaire.md -->
 
 <!-- Module généré automatiquement : Glossaire -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_GLO_ALPHA_MENU
 
@@ -7868,7 +7868,7 @@ La démocratie est une manière d'exercer le pouvoir.
 <!-- Début du fichier source : modules/06_entrainement.md -->
 
 <!-- Module généré automatiquement : M’entraîner -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_ENT_CR_T1_QOFF_INTRO
 
@@ -8626,7 +8626,7 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -8634,13 +8634,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Annecy; {region}=Rhône-Alpes; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 18 septembre 2026
 - 16 octobre 2026
 - 27 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
@@ -8656,13 +8658,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Annemasse; {region}=Rhône-Alpes; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 30 septembre 2026
 - 28 octobre 2026
 - 25 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
@@ -8678,13 +8682,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Auxerre; {region}=Bourgogne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 16 septembre 2026
 - 16 octobre 2026
 - 18 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -8700,13 +8706,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Besançon; {region}=Franche-Comté; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 9 septembre 2026
 - 30 septembre 2026
 - 16 octobre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
@@ -8722,13 +8730,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Bourg-en-Bresse; {region}=Rhône-Alpes; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 25 septembre 2026
 - 23 octobre 2026
 - 20 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
@@ -8744,13 +8754,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Bourges; {region}=Cher; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 22 septembre 2026
 - 6 octobre 2026
 - 10 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl)
@@ -8766,12 +8778,14 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Chaumont; {region}=Grand Est; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 9 septembre 2026
 - 18 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -8787,13 +8801,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Clermont-Ferrand; {region}=Auvergne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 9 septembre 2026
 - 23 septembre 2026
 - 7 octobre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
@@ -8809,13 +8825,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Dijon; {region}=Bourgogne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 7 septembre 2026
 - 12 octobre 2026
 - 9 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -8831,13 +8849,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Le Puy-en-Velay; {region}=Auvergne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 23 septembre 2026
 - 21 octobre 2026
 - 25 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
@@ -8853,13 +8873,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Lons-le-Saunier; {region}=Franche-Comté; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 9 septembre 2026
 - 8 octobre 2026
 - 13 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
@@ -8875,13 +8897,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Montbéliard; {region}=Franche-Comté; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 2 septembre 2026
 - 7 octobre 2026
 - 4 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu)
@@ -8897,13 +8921,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Montceau-les-Mines; {region}=Bourgogne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 18 août 2026
 - 13 octobre 2026
 - 15 décembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -8919,13 +8945,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Mulhouse; {region}=Grand Est; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 7 septembre 2026
 - 21 septembre 2026
 - 8 octobre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -8941,12 +8969,14 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Mâcon; {region}=Bourgogne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 17 septembre 2026
 - 17 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -8962,13 +8992,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Nevers; {region}=Bourgogne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 15 septembre 2026
 - 13 octobre 2026
 - 17 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -8984,13 +9016,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Reims; {region}=Grand Est; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 2 septembre 2026
 - 23 septembre 2026
 - 7 octobre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -9006,13 +9040,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Saint-Dié-des-Vosges; {region}=Grand Est; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 24 septembre 2026
 - 22 octobre 2026
 - 26 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -9028,12 +9064,14 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Saint-Flour; {region}=Auvergne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 16 septembre 2026
 - 18 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
@@ -9049,13 +9087,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Sens; {region}=Bourgogne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 22 septembre 2026
 - 20 octobre 2026
 - 17 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl)
@@ -9071,13 +9111,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Strasbourg; {region}=Grand Est; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 9 septembre 2026
 - 30 septembre 2026
 - 22 octobre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -9093,13 +9135,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Troyes; {region}=Grand Est; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 16 septembre 2026
 - 30 septembre 2026
 - 21 octobre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl)
@@ -9115,13 +9159,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Valserhône; {region}=Rhône-Alpes; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 23 septembre 2026
 - 21 octobre 2026
 - 18 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl)
@@ -9137,13 +9183,15 @@ Cet entraînement n’est pas encore disponible. La banque de données correspon
 
 <!-- Variables : {centre}=Vichy; {region}=Auvergne; {lien_forms} -->
 
-**Prochaines sessions disponibles :**
+<!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
+**Réponse attendue :** Choix d’une action
+
+### Prochaines sessions
 
 - 30 septembre 2026
 - 28 octobre 2026
 - 18 novembre 2026
-
-[Ouvrir le formulaire d’inscription](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
 
 <!-- Condition métier : Au moins une session future -->
 1. [S’inscrire à une session](https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl)
@@ -9560,7 +9608,7 @@ Indiquez votre {mode_recherche}. Exemple : Strasbourg, 67000 ou Lons-le-Saunier.
 <!-- Début du fichier source : modules/05_preparer_examen.md -->
 
 <!-- Module généré automatiquement : Préparer examen -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_PREP_RES_MENU
 
@@ -10306,7 +10354,7 @@ Vous avez obtenu {score} bonne(s) réponse(s) sur 28, soit {pourcentage} %.
 <!-- Début du fichier source : modules/10_question_libre.md -->
 
 <!-- Module généré automatiquement : Question libre -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_QL_CONFIRM
 
@@ -10564,7 +10612,7 @@ Reformulez avec une phrase plus courte ou choisissez une rubrique : FAQ, Glossai
 <!-- Début du fichier source : modules/03_revisions.md -->
 
 <!-- Module généré automatiquement : Révisions -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T07:42:07+00:00 -->
 
 ## SCR_REV_MENU
 
