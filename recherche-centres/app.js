@@ -103,8 +103,8 @@ async function init() {
     state.centres = (await centresResponse.json()).centres || [];
     try {
       const [sessionsResponse, geocodesResponse] = await Promise.all([
-        fetch("../exports_chatmd/data/sessions.json", { cache: "no-store" }),
-        fetch("../exports_chatmd/data/centres_geocodes.json", { cache: "no-store" })
+        fetch("data/sessions.json", { cache: "no-store" }),
+        fetch("data/centres_geocodes.json", { cache: "no-store" })
       ]);
       if (sessionsResponse.ok && geocodesResponse.ok) {
         const live = buildLiveCentres(await sessionsResponse.json(), await geocodesResponse.json());

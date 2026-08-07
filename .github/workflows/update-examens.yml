@@ -26,35 +26,45 @@ jobs:
 
       - name: Actualiser les sessions FRATE
         run: |
-          python update_passer_examen.py \
-            --workbook FICHIER_EXCEL_MOTEUR_CHAT_BOT.xlsx \
-            --output-workbook exports_chatmd/FICHIER_EXCEL_MOTEUR_CHAT_BOT_module07_actualise.xlsx \
-            --output-dir exports_chatmd \
+          mkdir -p .build_chatmd/export
+          python scripts/update_passer_examen.py \
+            --workbook sources/FICHIER_EXCEL_MOTEUR_CHAT_BOT.xlsx \
+            --output-workbook .build_chatmd/FICHIER_EXCEL_MOTEUR_CHAT_BOT_module07_actualise.xlsx \
+            --output-dir .build_chatmd/export \
             --require-frate
 
       - name: Régénérer les fichiers ChatMD
         run: |
-          python export_chatmd.py \
-            --workbook exports_chatmd/FICHIER_EXCEL_MOTEUR_CHAT_BOT_module07_actualise.xlsx \
-            --output-dir exports_chatmd \
+          python scripts/export_chatmd.py \
+            --workbook .build_chatmd/FICHIER_EXCEL_MOTEUR_CHAT_BOT_module07_actualise.xlsx \
+            --output-dir .build_chatmd/export \
             --force
 
       - name: Appliquer la présentation validée au module 07
-        run: python postprocess_module07.py exports_chatmd/modules/07_passer_examen.md
+        run: python scripts/postprocess_module07.py .build_chatmd/export/modules/07_passer_examen.md
 
       - name: Contrôler le module publié
-        run: python validate_passer_examen.py exports_chatmd/modules/07_passer_examen.md
+        run: python scripts/validate_passer_examen.py .build_chatmd/export/modules/07_passer_examen.md
 
       - name: Actualiser uniquement le module 07 dans le chatbot V2
         run: |
-          cp exports_chatmd/modules/07_passer_examen.md modules/07_passer_examen.md
-          python sync_module07_into_chatbot.py chat_bot.md modules/07_passer_examen.md
+          cp .build_chatmd/export/modules/07_passer_examen.md modules/07_passer_examen.md
+          cp .build_chatmd/export/data/sessions.json recherche-centres/data/sessions.json
+          cp .build_chatmd/export/data/centres_geocodes.json recherche-centres/data/centres_geocodes.json
+          python scripts/sync_module_into_chatbot.py chat_bot.md modules/07_passer_examen.md
+
+      - name: Contrôler le chatbot complet et les banques Naturalisation
+        run: |
+          python scripts/validate_naturalisation.py
+          python scripts/validate_chatbot_final.py
 
       - name: Publier uniquement si les fichiers ont changé
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add exports_chatmd modules/07_passer_examen.md chat_bot.md
+          git add modules/07_passer_examen.md chat_bot.md \
+            recherche-centres/data/sessions.json \
+            recherche-centres/data/centres_geocodes.json
           if git diff --cached --quiet; then
             echo "Aucune modification à publier."
           else

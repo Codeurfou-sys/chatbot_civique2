@@ -1,5 +1,7 @@
 """Harmonise le module 07 aprè sa régénération depuis Excel."""
 from pathlib import Path
+from datetime import datetime
+import json
 import re
 import sys
 
@@ -315,6 +317,47 @@ region_icons = {
 }
 for region, icon in region_icons.items():
     text = re.sub(rf"(^## SCR_PASS_REGION_[A-Z_]+\n\n)### {re.escape(region)}$", rf"\1### {icon} {region}", text, flags=re.M)
+
+# L'export générique connaît le nombre de sessions mais n'insère pas leurs
+# dates dans les fiches. Les réinjecter depuis le JSON produit au même moment.
+sessions_path = path.parent.parent / "data" / "sessions.json"
+if not sessions_path.exists():
+    raise SystemExit(f"Données de sessions introuvables : {sessions_path}")
+sessions_doc = json.loads(sessions_path.read_text(encoding="utf-8"))
+months = (
+    "janvier", "février", "mars", "avril", "mai", "juin",
+    "juillet", "août", "septembre", "octobre", "novembre", "décembre",
+)
+sessions_by_centre = {}
+for item in sessions_doc.get("sessions", []):
+    if item.get("actif") != "Oui" or item.get("statut") != "À venir":
+        continue
+    sessions_by_centre.setdefault(item.get("code_centre"), []).append(item.get("date_session"))
+for code, raw_dates in sessions_by_centre.items():
+    formatted = []
+    for raw_date in sorted(set(raw_dates))[:3]:
+        parsed = datetime.strptime(raw_date, "%Y-%m-%d").date()
+        formatted.append(f"- {parsed.day} {months[parsed.month - 1]} {parsed.year}")
+    if not formatted:
+        continue
+    screen_pattern = re.compile(
+        rf"(?ms)(^## SCR_PASS_CITY_{re.escape(code)}\s*$\n.*?)(?=^## |\Z)"
+    )
+    match = screen_pattern.search(text)
+    if not match:
+        continue
+    block = re.sub(
+        r"(?ms)\n####? (?:📅 )?Prochaines sessions(?: disponibles)?\n\n(?:- .+\n)+",
+        "\n",
+        match.group(1),
+    )
+    dates_block = "#### 📅 Prochaines sessions disponibles\n\n" + "\n".join(formatted) + "\n\n"
+    marker = "<!-- Condition métier :"
+    if marker in block:
+        block = block.replace(marker, dates_block + marker, 1)
+    else:
+        block = block.rstrip() + "\n\n" + dates_block
+    text = text[:match.start()] + block + text[match.end():]
 
 # Le module 07 est régénéré chaque jour. Réinjecter l'accès aux questions
 # libres dans chaque écran évite qu'il disparaisse après l'actualisation.

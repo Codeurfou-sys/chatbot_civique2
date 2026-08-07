@@ -48303,22 +48303,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T2_CH01 = 0`
-`@errchap_T5_CH01 = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T1_CH05 = 0`
-`@errchap_T5_CH04 = 0`
-`@errchap_T4_CH02 = 0`
-`@errchap_T1_CH04 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T2_CH02 = 0`
-`@errchap_T5_CH03 = 0`
-`@errchap_T4_CH01 = 0`
 `@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
-`@errchap_T2_CH03 = 0`
 `@errchap_T1_CH02 = 0`
 `@errchap_T1_CH03 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -48329,6 +48332,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q01
 
 `@err_NAT_V01_Q01 = 0`
+`@exam_variant = 1`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -48341,12 +48346,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**Une personne déclare ne croire en aucun dieu. On peut dire :**
+<!-- Source naturalisation : NAT-T1-001 -->
 
-1) [Qu'elle a moins de droits que les autres citoyens.](EXAM_NAT_V01_Q01_FAUX)
-2) [Qu'elle a les mêmes droits et devoirs que les autres citoyens.](EXAM_NAT_V01_Q01_VRAI)
-3) [Qu'elle doit choisir une religion avant sa naturalisation.](EXAM_NAT_V01_Q01_FAUX)
-4) [Qu'elle ne peut pas exercer certains métiers publics.](EXAM_NAT_V01_Q01_FAUX)
+**Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**
+
+1) [Le jour de gloire est arrivé.](EXAM_NAT_V01_Q01_VRAI)
+2) [Aux armes, citoyens.](EXAM_NAT_V01_Q01_FAUX)
+3) [Formez vos bataillons.](EXAM_NAT_V01_Q01_FAUX)
+4) [Contre nous de la tyrannie.](EXAM_NAT_V01_Q01_FAUX)
 
 ## EXAM_NAT_V01_Q01_VRAI
 
@@ -48360,7 +48367,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q01 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q02)
 
@@ -48379,12 +48386,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**Que porte Marianne sur la tête ?**
+<!-- Source naturalisation : NAT-T1-002 -->
 
-1) [Une couronne.](EXAM_NAT_V01_Q02_FAUX)
-2) [Un casque.](EXAM_NAT_V01_Q02_FAUX)
-3) [Un béret.](EXAM_NAT_V01_Q02_FAUX)
-4) [Un bonnet phrygien.](EXAM_NAT_V01_Q02_VRAI)
+**Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
+
+1) [Sa religion.](EXAM_NAT_V01_Q02_FAUX)
+2) [Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.](EXAM_NAT_V01_Q02_VRAI)
+3) [Son origine.](EXAM_NAT_V01_Q02_FAUX)
+4) [Ses opinions politiques.](EXAM_NAT_V01_Q02_FAUX)
 
 ## EXAM_NAT_V01_Q02_VRAI
 
@@ -48398,7 +48407,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q02 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q03)
 
@@ -48417,17 +48426,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**À l'école, il est interdit aux parents de :**
+<!-- Source naturalisation : NAT-T1-003 -->
 
-1) [Rencontrer les enseignants.](EXAM_NAT_V01_Q03_FAUX)
-2) [Contester les enseignements ou les activités obligatoires pour des motifs religieux.](EXAM_NAT_V01_Q03_VRAI)
-3) [Participer aux réunions de parents.](EXAM_NAT_V01_Q03_FAUX)
-4) [Élire leurs représentants.](EXAM_NAT_V01_Q03_FAUX)
+**Déclarer ses revenus aux services fiscaux est :**
+
+1) [Facultatif.](EXAM_NAT_V01_Q03_FAUX)
+2) [Réservé aux salariés.](EXAM_NAT_V01_Q03_FAUX)
+3) [Une obligation.](EXAM_NAT_V01_Q03_VRAI)
+4) [Réservé aux propriétaires.](EXAM_NAT_V01_Q03_FAUX)
 
 ## EXAM_NAT_V01_Q03_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q04)
@@ -48436,7 +48447,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q03 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q04)
 
@@ -48455,17 +48466,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**Qui est élu lors des élections législatives ?**
+<!-- Source naturalisation : NAT-T1-004 -->
 
-1) [Les sénateurs.](EXAM_NAT_V01_Q04_FAUX)
-2) [Les maires.](EXAM_NAT_V01_Q04_FAUX)
-3) [Les ministres.](EXAM_NAT_V01_Q04_FAUX)
-4) [Les députés.](EXAM_NAT_V01_Q04_VRAI)
+**En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?**
+
+1) [Ils financent uniquement les salaires des élus.](EXAM_NAT_V01_Q04_FAUX)
+2) [Ils sont reversés directement aux entreprises.](EXAM_NAT_V01_Q04_FAUX)
+3) [Ils ne financent que l'armée.](EXAM_NAT_V01_Q04_FAUX)
+4) [Ils financent notamment les écoles, les hôpitaux, la police et les routes.](EXAM_NAT_V01_Q04_VRAI)
 
 ## EXAM_NAT_V01_Q04_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q05)
@@ -48474,7 +48487,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q04 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q05)
 
@@ -48493,17 +48506,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**Quelle ville française est un port maritime ?**
+<!-- Source naturalisation : NAT-T2-002 -->
 
-1) [Clermont-Ferrand.](EXAM_NAT_V01_Q05_FAUX)
-2) [Limoges.](EXAM_NAT_V01_Q05_FAUX)
-3) [Marseille.](EXAM_NAT_V01_Q05_VRAI)
-4) [Dijon.](EXAM_NAT_V01_Q05_FAUX)
+**Qui peut être candidat à l'élection présidentielle ?**
+
+1) [Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).](EXAM_NAT_V01_Q05_VRAI)
+2) [Tous les Français automatiquement.](EXAM_NAT_V01_Q05_FAUX)
+3) [Les ministres uniquement.](EXAM_NAT_V01_Q05_FAUX)
+4) [Les députés uniquement.](EXAM_NAT_V01_Q05_FAUX)
 
 ## EXAM_NAT_V01_Q05_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q06)
@@ -48512,7 +48527,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q05 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q06)
 
@@ -48531,17 +48546,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**Quelle chaîne de montagnes est située entre la France et l'Espagne ?**
+<!-- Source naturalisation : NAT-T2-003 -->
 
-1) [Les Pyrénées.](EXAM_NAT_V01_Q06_VRAI)
-2) [Les Alpes.](EXAM_NAT_V01_Q06_FAUX)
-3) [Le Massif central.](EXAM_NAT_V01_Q06_FAUX)
-4) [Les Vosges.](EXAM_NAT_V01_Q06_FAUX)
+**À qui appartient la souveraineté nationale ?**
+
+1) [Au Président de la République.](EXAM_NAT_V01_Q06_FAUX)
+2) [Au peuple.](EXAM_NAT_V01_Q06_VRAI)
+3) [Au Gouvernement.](EXAM_NAT_V01_Q06_FAUX)
+4) [Au Parlement uniquement.](EXAM_NAT_V01_Q06_FAUX)
 
 ## EXAM_NAT_V01_Q06_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q07)
@@ -48550,7 +48567,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q06 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q07)
 
@@ -48569,17 +48586,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?**
+<!-- Source naturalisation : NAT-T2-004 -->
 
-1) [Racisme.](EXAM_NAT_V01_Q07_FAUX)
-2) [Xénophobie.](EXAM_NAT_V01_Q07_FAUX)
-3) [Discrimination.](EXAM_NAT_V01_Q07_FAUX)
-4) [L'antisémitisme.](EXAM_NAT_V01_Q07_VRAI)
+**Qui est élu lors des élections municipales ?**
+
+1) [Le maire directement.](EXAM_NAT_V01_Q07_FAUX)
+2) [Les préfets.](EXAM_NAT_V01_Q07_FAUX)
+3) [Les conseillers municipaux.](EXAM_NAT_V01_Q07_VRAI)
+4) [Les sénateurs.](EXAM_NAT_V01_Q07_FAUX)
 
 ## EXAM_NAT_V01_Q07_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q08)
@@ -48588,7 +48607,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q07 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q08)
 
@@ -48607,17 +48626,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Selon le principe de laïcité, que signifie la neutralité de l'État ?**
+<!-- Source naturalisation : NAT-T2-005 -->
 
-1) [L'État interdit les religions.](EXAM_NAT_V01_Q08_FAUX)
-2) [L'État choisit une religion officielle.](EXAM_NAT_V01_Q08_FAUX)
-3) [L'État finance toutes les religions.](EXAM_NAT_V01_Q08_FAUX)
-4) [L'État ne favorise ni ne défavorise aucune religion.](EXAM_NAT_V01_Q08_VRAI)
+**L'inscription sur les listes électorales est-elle... ?**
+
+1) [Facultative.](EXAM_NAT_V01_Q08_FAUX)
+2) [Réservée à certaines professions.](EXAM_NAT_V01_Q08_FAUX)
+3) [Automatique dès la naissance, sans démarche.](EXAM_NAT_V01_Q08_FAUX)
+4) [Obligatoire pour pouvoir voter.](EXAM_NAT_V01_Q08_VRAI)
 
 ## EXAM_NAT_V01_Q08_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q09)
@@ -48626,7 +48647,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q08 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q09)
 
@@ -48645,17 +48666,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?**
+<!-- Source naturalisation : NAT-T2-006 -->
 
-1) [13 ans.](EXAM_NAT_V01_Q09_FAUX)
-2) [15 ans.](EXAM_NAT_V01_Q09_VRAI)
-3) [16 ans.](EXAM_NAT_V01_Q09_FAUX)
-4) [18 ans.](EXAM_NAT_V01_Q09_FAUX)
+**Citez une condition nécessaire pour voter à l'élection présidentielle.**
+
+1) [Être de nationalité française, majeur et inscrit sur les listes électorales.](EXAM_NAT_V01_Q09_VRAI)
+2) [Avoir un emploi.](EXAM_NAT_V01_Q09_FAUX)
+3) [Être marié.](EXAM_NAT_V01_Q09_FAUX)
+4) [Payer des impôts.](EXAM_NAT_V01_Q09_FAUX)
 
 ## EXAM_NAT_V01_Q09_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q10)
@@ -48664,7 +48687,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q09 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q10)
 
@@ -48683,17 +48706,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**Quel est l'objectif du droit de grève ?**
+<!-- Source naturalisation : NAT-T2-007 -->
 
-1) [Ne plus travailler quand on le souhaite, sans raison.](EXAM_NAT_V01_Q10_FAUX)
-2) [Refuser définitivement de travailler.](EXAM_NAT_V01_Q10_FAUX)
-3) [Faire fermer une entreprise.](EXAM_NAT_V01_Q10_FAUX)
-4) [Défendre les intérêts professionnels des salariés.](EXAM_NAT_V01_Q10_VRAI)
+**Citez une condition pour être candidat aux élections municipales.**
+
+1) [Être fonctionnaire.](EXAM_NAT_V01_Q10_FAUX)
+2) [Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).](EXAM_NAT_V01_Q10_VRAI)
+3) [Être marié.](EXAM_NAT_V01_Q10_FAUX)
+4) [Être propriétaire.](EXAM_NAT_V01_Q10_FAUX)
 
 ## EXAM_NAT_V01_Q10_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q11)
@@ -48702,7 +48727,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q10 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q11)
 
@@ -48721,17 +48746,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**Combien de personnes parlent français dans le monde ?**
+<!-- Source naturalisation : NAT-T3-001 -->
 
-1) [50 millions.](EXAM_NAT_V01_Q11_FAUX)
-2) [120 millions.](EXAM_NAT_V01_Q11_FAUX)
-3) [320 millions.](EXAM_NAT_V01_Q11_VRAI)
-4) [700 millions.](EXAM_NAT_V01_Q11_FAUX)
+**Quel est l'objectif du droit de grève ?**
+
+1) [Défendre les intérêts professionnels des salariés.](EXAM_NAT_V01_Q11_VRAI)
+2) [Ne plus travailler quand on le souhaite, sans raison.](EXAM_NAT_V01_Q11_FAUX)
+3) [Refuser définitivement de travailler.](EXAM_NAT_V01_Q11_FAUX)
+4) [Faire fermer une entreprise.](EXAM_NAT_V01_Q11_FAUX)
 
 ## EXAM_NAT_V01_Q11_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q12)
@@ -48740,7 +48767,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q11 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q12)
 
@@ -48759,17 +48786,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**Qu'est-ce que le droit de grève ?**
+<!-- Source naturalisation : NAT-T3-002 -->
 
-1) [Refuser définitivement de travailler.](EXAM_NAT_V01_Q12_FAUX)
-2) [Quitter son emploi.](EXAM_NAT_V01_Q12_FAUX)
-3) [Ne plus respecter son contrat de travail.](EXAM_NAT_V01_Q12_FAUX)
-4) [Le droit de cesser collectivement le travail pour défendre des revendications professionnelles.](EXAM_NAT_V01_Q12_VRAI)
+**Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**
+
+1) [Les opinions politiques.](EXAM_NAT_V01_Q12_FAUX)
+2) [L'intérêt général.](EXAM_NAT_V01_Q12_VRAI)
+3) [Une religion.](EXAM_NAT_V01_Q12_FAUX)
+4) [Les intérêts d'un groupe.](EXAM_NAT_V01_Q12_FAUX)
 
 ## EXAM_NAT_V01_Q12_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q13)
@@ -48778,7 +48807,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q12 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q13)
 
@@ -48797,17 +48826,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Quel pays a une frontière terrestre avec la France métropolitaine ?**
+<!-- Source naturalisation : NAT-T3-003 -->
 
-1) [Royaume-Uni.](EXAM_NAT_V01_Q13_FAUX)
-2) [Portugal.](EXAM_NAT_V01_Q13_FAUX)
-3) [Autriche.](EXAM_NAT_V01_Q13_FAUX)
-4) [Espagne.](EXAM_NAT_V01_Q13_VRAI)
+**Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**
+
+1) [Les hommes doivent respecter le roi.](EXAM_NAT_V01_Q13_FAUX)
+2) [Les hommes naissent inégaux selon leur naissance.](EXAM_NAT_V01_Q13_FAUX)
+3) [Les hommes naissent et demeurent libres et égaux en droits.](EXAM_NAT_V01_Q13_VRAI)
+4) [Les hommes doivent appartenir à une religion.](EXAM_NAT_V01_Q13_FAUX)
 
 ## EXAM_NAT_V01_Q13_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q14)
@@ -48816,7 +48847,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q13 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q14)
 
@@ -48835,17 +48866,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**Parmi ces responsables, lequel est élu (et non nommé) ?**
+<!-- Source naturalisation : NAT-T3-004 -->
 
-1) [Le préfet.](EXAM_NAT_V01_Q14_FAUX)
-2) [Le procureur.](EXAM_NAT_V01_Q14_FAUX)
-3) [Le Premier ministre.](EXAM_NAT_V01_Q14_FAUX)
-4) [Le maire.](EXAM_NAT_V01_Q14_VRAI)
+**Que signifie être libre, en France ?**
+
+1) [On peut faire tout ce que l'on veut.](EXAM_NAT_V01_Q14_FAUX)
+2) [Les lois ne s'appliquent pas.](EXAM_NAT_V01_Q14_FAUX)
+3) [Chacun décide de ses propres règles.](EXAM_NAT_V01_Q14_FAUX)
+4) [Chacun est libre tant qu'il respecte les droits des autres.](EXAM_NAT_V01_Q14_VRAI)
 
 ## EXAM_NAT_V01_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q15)
@@ -48854,7 +48887,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q14 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q15)
 
@@ -48873,17 +48906,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Quelles sont les affaires traitées par le conseil de prud'hommes ?**
+<!-- Source naturalisation : NAT-T4-001 -->
 
-1) [Les divorces.](EXAM_NAT_V01_Q15_FAUX)
-2) [Les infractions pénales.](EXAM_NAT_V01_Q15_FAUX)
-3) [Les conflits entre un salarié et son employeur.](EXAM_NAT_V01_Q15_VRAI)
-4) [Les conflits entre voisins.](EXAM_NAT_V01_Q15_FAUX)
+**Comment s'appelle le texte, promulgué en 1804 sous Napoléon Ier, qui rassemble les principales règles du droit civil français ?**
+
+1) [Le Code civil.](EXAM_NAT_V01_Q15_VRAI)
+2) [La Constitution de 1958.](EXAM_NAT_V01_Q15_FAUX)
+3) [La Déclaration des droits de l'Homme.](EXAM_NAT_V01_Q15_FAUX)
+4) [Le Code pénal.](EXAM_NAT_V01_Q15_FAUX)
 
 ## EXAM_NAT_V01_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q16)
@@ -48892,7 +48927,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q15 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q16)
 
@@ -48911,17 +48946,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Quelle est l'une des conséquences si un juge prononce une privation des droits civils et politiques à l'encontre d'une personne ?**
+<!-- Source naturalisation : NAT-T4-002 -->
 
-1) [Elle ne peut plus voter ni être candidate à une élection.](EXAM_NAT_V01_Q16_VRAI)
-2) [Elle perd automatiquement la nationalité française.](EXAM_NAT_V01_Q16_FAUX)
-3) [Elle ne peut plus travailler.](EXAM_NAT_V01_Q16_FAUX)
-4) [Elle doit quitter le territoire français.](EXAM_NAT_V01_Q16_FAUX)
+**Lequel de ces noms est celui d'un Président de la Ve République ?**
+
+1) [Napoléon Bonaparte.](EXAM_NAT_V01_Q16_FAUX)
+2) [Georges Pompidou.](EXAM_NAT_V01_Q16_VRAI)
+3) [Louis XIV.](EXAM_NAT_V01_Q16_FAUX)
+4) [Jules Ferry.](EXAM_NAT_V01_Q16_FAUX)
 
 ## EXAM_NAT_V01_Q16_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q17)
@@ -48930,7 +48967,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q16 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q17)
 
@@ -48949,17 +48986,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**Quelle est l'une des conditions pour passer l'examen du permis de conduire ?**
+<!-- Source naturalisation : NAT-T4-003 -->
 
-1) [Ne pas porter de lunettes.](EXAM_NAT_V01_Q17_FAUX)
-2) [Être propriétaire d'une voiture.](EXAM_NAT_V01_Q17_FAUX)
-3) [Avoir un emploi.](EXAM_NAT_V01_Q17_FAUX)
-4) [Avoir l'âge minimum requis.](EXAM_NAT_V01_Q17_VRAI)
+**Que célèbre la fête nationale française du 14 juillet ?**
+
+1) [L'Armistice.](EXAM_NAT_V01_Q17_FAUX)
+2) [La Libération.](EXAM_NAT_V01_Q17_FAUX)
+3) [La prise de la Bastille (1789).](EXAM_NAT_V01_Q17_VRAI)
+4) [La Révolution de 1848.](EXAM_NAT_V01_Q17_FAUX)
 
 ## EXAM_NAT_V01_Q17_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q18)
@@ -48968,7 +49007,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q17 = 1`
 
-`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q18)
 
@@ -48987,17 +49026,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Qu'est-ce que les droits fondamentaux ?**
+<!-- Source naturalisation : NAT-T4-004 -->
 
-1) [Les règles du Code de la route.](EXAM_NAT_V01_Q18_FAUX)
-2) [Les droits réservés aux élus.](EXAM_NAT_V01_Q18_FAUX)
-3) [Les droits des entreprises.](EXAM_NAT_V01_Q18_FAUX)
-4) [Les droits essentiels garantis à toute personne.](EXAM_NAT_V01_Q18_VRAI)
+**Quel était l'objectif principal des lois de Jules Ferry (1881-1882) ?**
+
+1) [Supprimer l'école privée.](EXAM_NAT_V01_Q18_FAUX)
+2) [Créer les universités.](EXAM_NAT_V01_Q18_FAUX)
+3) [Rendre l'école payante.](EXAM_NAT_V01_Q18_FAUX)
+4) [Rendre l'école gratuite, laïque et obligatoire.](EXAM_NAT_V01_Q18_VRAI)
 
 ## EXAM_NAT_V01_Q18_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q19)
@@ -49006,7 +49047,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q18 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q19)
 
@@ -49025,17 +49066,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**Qui vote les lois en France ?**
+<!-- Source naturalisation : NAT-T4-005 -->
 
-1) [Le Président de la République.](EXAM_NAT_V01_Q19_FAUX)
-2) [Le Premier ministre.](EXAM_NAT_V01_Q19_FAUX)
-3) [Le Conseil constitutionnel.](EXAM_NAT_V01_Q19_FAUX)
-4) [Le Parlement.](EXAM_NAT_V01_Q19_VRAI)
+**Pourquoi l'année 1958 est-elle importante dans l'histoire des institutions françaises ?**
+
+1) [Adoption de la Constitution qui fonde la Ve République.](EXAM_NAT_V01_Q19_VRAI)
+2) [Début de la Première Guerre mondiale.](EXAM_NAT_V01_Q19_FAUX)
+3) [Création de l'Union européenne.](EXAM_NAT_V01_Q19_FAUX)
+4) [Révolution française.](EXAM_NAT_V01_Q19_FAUX)
 
 ## EXAM_NAT_V01_Q19_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q20)
@@ -49044,7 +49087,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q19 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q20)
 
@@ -49063,12 +49106,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**En quelle année l'euro est-elle devenue la monnaie utilisée en France ?**
+<!-- Source naturalisation : NAT-T4-006 -->
 
-1) [2002.](EXAM_NAT_V01_Q20_VRAI)
-2) [1992.](EXAM_NAT_V01_Q20_FAUX)
-3) [1999.](EXAM_NAT_V01_Q20_FAUX)
-4) [2005.](EXAM_NAT_V01_Q20_FAUX)
+**Quelle loi Simone Veil a-t-elle fait adopter en 1975 ?**
+
+1) [La création de la Sécurité sociale.](EXAM_NAT_V01_Q20_FAUX)
+2) [La loi légalisant l'interruption volontaire de grossesse (IVG).](EXAM_NAT_V01_Q20_VRAI)
+3) [La Constitution.](EXAM_NAT_V01_Q20_FAUX)
+4) [L'abolition de la peine de mort.](EXAM_NAT_V01_Q20_FAUX)
 
 ## EXAM_NAT_V01_Q20_VRAI
 
@@ -49101,17 +49146,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Quels sont les trois pouvoirs de la République française ?**
+<!-- Source naturalisation : NAT-T4-007 -->
 
-1) [Président, maire, préfet.](EXAM_NAT_V01_Q21_FAUX)
-2) [Gouvernement, Sénat, police.](EXAM_NAT_V01_Q21_FAUX)
-3) [Exécutif et législatif uniquement.](EXAM_NAT_V01_Q21_FAUX)
-4) [Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](EXAM_NAT_V01_Q21_VRAI)
+**Lequel de ces pays est l'un des six pays fondateurs de la construction européenne ?**
+
+1) [Espagne.](EXAM_NAT_V01_Q21_FAUX)
+2) [Croatie.](EXAM_NAT_V01_Q21_FAUX)
+3) [Italie.](EXAM_NAT_V01_Q21_VRAI)
+4) [Pologne.](EXAM_NAT_V01_Q21_FAUX)
 
 ## EXAM_NAT_V01_Q21_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q22)
@@ -49120,7 +49167,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q21 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q22)
 
@@ -49139,12 +49186,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
-**Quand peut-on visiter gratuitement des lieux culturels en France ?**
+<!-- Source naturalisation : NAT-T4-008 -->
 
-1) [Le 14 juillet.](EXAM_NAT_V01_Q22_FAUX)
-2) [Le 25 décembre.](EXAM_NAT_V01_Q22_FAUX)
-3) [Lors des Journées européennes du patrimoine.](EXAM_NAT_V01_Q22_VRAI)
-4) [Tous les dimanches.](EXAM_NAT_V01_Q22_FAUX)
+**Sur quelle région française a eu lieu le Débarquement allié du 6 juin 1944 ?**
+
+1) [Bretagne.](EXAM_NAT_V01_Q22_FAUX)
+2) [Hauts-de-France.](EXAM_NAT_V01_Q22_FAUX)
+3) [Provence.](EXAM_NAT_V01_Q22_FAUX)
+4) [Normandie.](EXAM_NAT_V01_Q22_VRAI)
 
 ## EXAM_NAT_V01_Q22_VRAI
 
@@ -49158,7 +49207,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q22 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q23)
 
@@ -49177,17 +49226,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**Qui juge et sanctionne les auteurs d'infractions ?**
+<!-- Source naturalisation : NAT-T4-009 -->
 
-1) [La police.](EXAM_NAT_V01_Q23_FAUX)
-2) [Le maire.](EXAM_NAT_V01_Q23_FAUX)
-3) [Le Président de la République.](EXAM_NAT_V01_Q23_FAUX)
-4) [La justice.](EXAM_NAT_V01_Q23_VRAI)
+**Dans quelle ville les rois de France étaient-ils traditionnellement sacrés ?**
+
+1) [Reims.](EXAM_NAT_V01_Q23_VRAI)
+2) [Paris.](EXAM_NAT_V01_Q23_FAUX)
+3) [Versailles.](EXAM_NAT_V01_Q23_FAUX)
+4) [Orléans.](EXAM_NAT_V01_Q23_FAUX)
 
 ## EXAM_NAT_V01_Q23_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q24)
@@ -49196,7 +49247,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q23 = 1`
 
-`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q24)
 
@@ -49215,17 +49266,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**Comment les députés sont-ils désignés ?**
+<!-- Source naturalisation : NAT-T5-001 -->
 
-1) [Ils sont nommés par le Président.](EXAM_NAT_V01_Q24_FAUX)
-2) [Ils sont désignés par le Sénat.](EXAM_NAT_V01_Q24_FAUX)
-3) [Ils sont choisis par le Gouvernement.](EXAM_NAT_V01_Q24_FAUX)
-4) [Ils sont élus au suffrage universel direct.](EXAM_NAT_V01_Q24_VRAI)
+**Où doit-on déclarer la naissance d'un enfant ?**
+
+1) [À la mairie du lieu de naissance.](EXAM_NAT_V01_Q24_VRAI)
+2) [À la préfecture.](EXAM_NAT_V01_Q24_FAUX)
+3) [À la CAF.](EXAM_NAT_V01_Q24_FAUX)
+4) [À la police.](EXAM_NAT_V01_Q24_FAUX)
 
 ## EXAM_NAT_V01_Q24_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q25)
@@ -49234,7 +49287,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q24 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q25)
 
@@ -49253,17 +49306,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**
+<!-- Source naturalisation : NAT-T5-002 -->
 
-1) [1962.](EXAM_NAT_V01_Q25_VRAI)
-2) [1958.](EXAM_NAT_V01_Q25_FAUX)
-3) [1945.](EXAM_NAT_V01_Q25_FAUX)
-4) [1981.](EXAM_NAT_V01_Q25_FAUX)
+**Quels types de travaux un locataire peut-il réaliser librement dans son logement ?**
+
+1) [Abattre une cloison.](EXAM_NAT_V01_Q25_FAUX)
+2) [Effectuer les petits aménagements du logement (peinture, étagères...).](EXAM_NAT_V01_Q25_VRAI)
+3) [Transformer le logement.](EXAM_NAT_V01_Q25_FAUX)
+4) [Construire une extension.](EXAM_NAT_V01_Q25_FAUX)
 
 ## EXAM_NAT_V01_Q25_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q26)
@@ -49272,7 +49327,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q25 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q26)
 
@@ -49291,17 +49346,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
+<!-- Source naturalisation : NAT-T5-003 -->
 
-1) [1789.](EXAM_NAT_V01_Q26_FAUX)
-2) [1905.](EXAM_NAT_V01_Q26_VRAI)
-3) [1958.](EXAM_NAT_V01_Q26_FAUX)
-4) [1945.](EXAM_NAT_V01_Q26_FAUX)
+**Quel mariage est reconnu par l'État français ?**
+
+1) [Le mariage religieux uniquement.](EXAM_NAT_V01_Q26_FAUX)
+2) [Le mariage coutumier.](EXAM_NAT_V01_Q26_FAUX)
+3) [Le mariage civil, célébré à la mairie.](EXAM_NAT_V01_Q26_VRAI)
+4) [Les fiançailles.](EXAM_NAT_V01_Q26_FAUX)
 
 ## EXAM_NAT_V01_Q26_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q27)
@@ -49310,7 +49367,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q26 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q27)
 
@@ -49329,17 +49386,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**Que signifie être libre, en France ?**
+<!-- Source naturalisation : NAT-T5-004 -->
 
-1) [On peut faire tout ce que l'on veut.](EXAM_NAT_V01_Q27_FAUX)
-2) [Les lois ne s'appliquent pas.](EXAM_NAT_V01_Q27_FAUX)
-3) [Chacun décide de ses propres règles.](EXAM_NAT_V01_Q27_FAUX)
-4) [Chacun est libre tant qu'il respecte les droits des autres.](EXAM_NAT_V01_Q27_VRAI)
+**Le stationnement sur une place réservée aux personnes handicapées est :**
+
+1) [Autorisé pour tout le monde en cas d'urgence.](EXAM_NAT_V01_Q27_FAUX)
+2) [Autorisé le week-end pour tous.](EXAM_NAT_V01_Q27_FAUX)
+3) [Interdit dans tous les cas, même avec une carte.](EXAM_NAT_V01_Q27_FAUX)
+4) [Autorisé uniquement pour les véhicules disposant de la carte de stationnement (CMI).](EXAM_NAT_V01_Q27_VRAI)
 
 ## EXAM_NAT_V01_Q27_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q28)
@@ -49348,7 +49407,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q27 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q28)
 
@@ -49367,17 +49426,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
-**Quelle est la première étape de la construction européenne en 1951 ?**
+<!-- Source naturalisation : NAT-T5-005 -->
 
-1) [L'Union européenne.](EXAM_NAT_V01_Q28_FAUX)
-2) [La création de la Communauté économique européenne (CEE).](EXAM_NAT_V01_Q28_FAUX)
-3) [La création de la Communauté européenne du charbon et de l'acier (CECA).](EXAM_NAT_V01_Q28_VRAI)
-4) [Le traité de Maastricht.](EXAM_NAT_V01_Q28_FAUX)
+**Un appareil électroménager neuf tombe en panne un an après l'achat. Que peut faire l'acheteur ?**
+
+1) [Faire jouer la garantie légale de 2 ans ou demander une réparation.](EXAM_NAT_V01_Q28_VRAI)
+2) [Il faut contacter directement le fabricant.](EXAM_NAT_V01_Q28_FAUX)
+3) [Rien ne peut être fait après l'achat.](EXAM_NAT_V01_Q28_FAUX)
+4) [Il faut payer une nouvelle réparation.](EXAM_NAT_V01_Q28_FAUX)
 
 ## EXAM_NAT_V01_Q28_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_PART2)
@@ -49386,7 +49447,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q28 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_PART2)
 
@@ -49401,8 +49462,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V01_Q29
 
 `@err_NAT_V01_Q29 = 0`
-
 `@exam_variant = 1`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -49415,14 +49476,16 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-Un collègue originaire d'une région où l'on parle une langue régionale vous affirme que chaque région de France est libre de choisir sa propre langue officielle.
+<!-- Source naturalisation : MS-NAT-T1-001 -->
 
-**Que lui répondez-vous ?**
+Lors d’un échange dans une association locale, une personne souhaite mieux comprendre les principes et les symboles de la République. Un participant propose la réponse « Aux armes, citoyens ». Vous devez vérifier cette affirmation.
 
-1) [Chaque région choisit sa langue officielle.](EXAM_NAT_V01_Q29_FAUX)
-2) [Le français est la langue de la République.](EXAM_NAT_V01_Q29_VRAI)
-3) [Il existe plusieurs langues officielles en France.](EXAM_NAT_V01_Q29_FAUX)
-4) [L'anglais est la langue officielle.](EXAM_NAT_V01_Q29_FAUX)
+**Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**
+
+1) [Le jour de gloire est arrivé.](EXAM_NAT_V01_Q29_VRAI)
+2) [Aux armes, citoyens.](EXAM_NAT_V01_Q29_FAUX)
+3) [Formez vos bataillons.](EXAM_NAT_V01_Q29_FAUX)
+4) [Contre nous de la tyrannie.](EXAM_NAT_V01_Q29_FAUX)
 
 ## EXAM_NAT_V01_Q29_VRAI
 
@@ -49436,7 +49499,7 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_NAT_V01_Q29 = 1`
 
-`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q30)
 
@@ -49455,14 +49518,16 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 ### Question 30 sur 40
 
-Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre enfant fasse du sport avec des élèves de l'autre sexe. Vous envisagez de demander une dispense pour ce motif.
+<!-- Source naturalisation : MS-NAT-T1-002 -->
 
-**Avez-vous le droit de refuser que votre enfant participe aux cours de sport parce qu'ils sont mixtes ?**
+Au cours d’un atelier citoyen, votre groupe discute de la manière dont les valeurs républicaines s’appliquent au quotidien. Un proche pense que la bonne réponse pourrait être « Son origine ». Aidez-le à raisonner.
 
-1) [Oui.](EXAM_NAT_V01_Q30_FAUX)
-2) [Oui, si les parents le souhaitent.](EXAM_NAT_V01_Q30_FAUX)
-3) [Oui, dans tous les cas.](EXAM_NAT_V01_Q30_FAUX)
-4) [Non.](EXAM_NAT_V01_Q30_VRAI)
+**Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
+
+1) [Sa religion.](EXAM_NAT_V01_Q30_FAUX)
+2) [Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.](EXAM_NAT_V01_Q30_VRAI)
+3) [Son origine.](EXAM_NAT_V01_Q30_FAUX)
+4) [Ses opinions politiques.](EXAM_NAT_V01_Q30_FAUX)
 
 ## EXAM_NAT_V01_Q30_VRAI
 
@@ -49495,19 +49560,21 @@ Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre e
 
 ### Question 31 sur 40
 
-Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
+<!-- Source naturalisation : MS-NAT-T2-002 -->
 
-**Quelle est l'attitude à adopter ?**
+Une discussion sur les élections amène votre entourage à vérifier une règle du système politique français. Dans le groupe, la réponse « Les députés uniquement » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Prendre parti et intervenir physiquement pour sauver la victime.](EXAM_NAT_V01_Q31_FAUX)
-2) [Filmer la scène sans intervenir.](EXAM_NAT_V01_Q31_FAUX)
-3) [Alerter les secours, la police ou la gendarmerie.](EXAM_NAT_V01_Q31_VRAI)
-4) [Partir sans prévenir personne.](EXAM_NAT_V01_Q31_FAUX)
+**Qui peut être candidat à l'élection présidentielle ?**
+
+1) [Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).](EXAM_NAT_V01_Q31_VRAI)
+2) [Tous les Français automatiquement.](EXAM_NAT_V01_Q31_FAUX)
+3) [Les ministres uniquement.](EXAM_NAT_V01_Q31_FAUX)
+4) [Les députés uniquement.](EXAM_NAT_V01_Q31_FAUX)
 
 ## EXAM_NAT_V01_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q32)
@@ -49516,7 +49583,7 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 `@err_NAT_V01_Q31 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q32)
 
@@ -49535,19 +49602,21 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 ### Question 32 sur 40
 
-Lors d'un débat, un participant affirme que « l'égalité », dans la devise républicaine, signifie que tout le monde doit gagner le même salaire.
+<!-- Source naturalisation : MS-NAT-T2-003 -->
 
-**Comment corrigez-vous cette affirmation ?**
+Un proche prépare une démarche citoyenne et souhaite clarifier le fonctionnement de la République et de ses institutions. Une personne hésite et choisit « Au Président de la République ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [L'égalité signifie que toutes les personnes ont les mêmes droits et devoirs devant la loi.](EXAM_NAT_V01_Q32_VRAI)
-2) [Cela signifie que tout le monde est identique.](EXAM_NAT_V01_Q32_FAUX)
-3) [Cela signifie que tout le monde gagne le même salaire.](EXAM_NAT_V01_Q32_FAUX)
-4) [Cela signifie que chacun fait ce qu'il veut, quand il veut.](EXAM_NAT_V01_Q32_FAUX)
+**À qui appartient la souveraineté nationale ?**
+
+1) [Au Président de la République.](EXAM_NAT_V01_Q32_FAUX)
+2) [Au peuple.](EXAM_NAT_V01_Q32_VRAI)
+3) [Au Gouvernement.](EXAM_NAT_V01_Q32_FAUX)
+4) [Au Parlement uniquement.](EXAM_NAT_V01_Q32_FAUX)
 
 ## EXAM_NAT_V01_Q32_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q33)
@@ -49556,7 +49625,7 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 
 `@err_NAT_V01_Q32 = 1`
 
-`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q33)
 
@@ -49575,19 +49644,21 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 
 ### Question 33 sur 40
 
-Dans le même exercice, vous devez maintenant identifier laquelle de ces infractions constitue un délit.
+<!-- Source naturalisation : MS-NAT-T2-004 -->
 
-**Laquelle choisissez-vous ?**
+À l’occasion d’un échange sur la vie démocratique, un proche vous interroge sur le fonctionnement des institutions françaises. Un participant propose la réponse « Les préfets ». Vous devez vérifier cette affirmation.
 
-1) [Un homicide volontaire.](EXAM_NAT_V01_Q33_FAUX)
-2) [Un stationnement interdit.](EXAM_NAT_V01_Q33_FAUX)
-3) [Jeter un papier dans la rue.](EXAM_NAT_V01_Q33_FAUX)
-4) [Un vol.](EXAM_NAT_V01_Q33_VRAI)
+**Qui est élu lors des élections municipales ?**
+
+1) [Le maire directement.](EXAM_NAT_V01_Q33_FAUX)
+2) [Les préfets.](EXAM_NAT_V01_Q33_FAUX)
+3) [Les conseillers municipaux.](EXAM_NAT_V01_Q33_VRAI)
+4) [Les sénateurs.](EXAM_NAT_V01_Q33_FAUX)
 
 ## EXAM_NAT_V01_Q33_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q34)
@@ -49596,7 +49667,7 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 `@err_NAT_V01_Q33 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q34)
 
@@ -49615,19 +49686,21 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 ### Question 34 sur 40
 
-Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
+<!-- Source naturalisation : MS-NAT-T3-001 -->
 
-**Que lui répondez-vous ?**
+Dans une situation de la vie quotidienne, une personne souhaite vérifier quels droits et quels devoirs s’appliquent en France. Un participant propose la réponse « Faire fermer une entreprise ». Vous devez vérifier cette affirmation.
 
-1) [C'est l'hymne national français.](EXAM_NAT_V01_Q34_VRAI)
-2) [C'est une devise.](EXAM_NAT_V01_Q34_FAUX)
-3) [C'est une chanson de variété française.](EXAM_NAT_V01_Q34_FAUX)
-4) [C'est un monument historique.](EXAM_NAT_V01_Q34_FAUX)
+**Quel est l'objectif du droit de grève ?**
+
+1) [Défendre les intérêts professionnels des salariés.](EXAM_NAT_V01_Q34_VRAI)
+2) [Ne plus travailler quand on le souhaite, sans raison.](EXAM_NAT_V01_Q34_FAUX)
+3) [Refuser définitivement de travailler.](EXAM_NAT_V01_Q34_FAUX)
+4) [Faire fermer une entreprise.](EXAM_NAT_V01_Q34_FAUX)
 
 ## EXAM_NAT_V01_Q34_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q35)
@@ -49636,7 +49709,7 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V01_Q34 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q35)
 
@@ -49655,14 +49728,16 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 ### Question 35 sur 40
 
-Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respectueuse de l'environnement au quotidien.
+<!-- Source naturalisation : MS-NAT-T3-002 -->
 
-**Laquelle de ces actions y contribue ?**
+Au travail ou dans l’espace public, un proche hésite sur une règle liée aux droits, aux libertés ou aux obligations. Un proche pense que la bonne réponse pourrait être « Les opinions politiques ». Aidez-le à raisonner.
 
-1) [Jeter ses déchets dans la nature.](EXAM_NAT_V01_Q35_FAUX)
-2) [Brûler ses déchets dans son jardin.](EXAM_NAT_V01_Q35_FAUX)
-3) [Abandonner ses encombrants sur le trottoir.](EXAM_NAT_V01_Q35_FAUX)
-4) [Trier ses déchets.](EXAM_NAT_V01_Q35_VRAI)
+**Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**
+
+1) [Les opinions politiques.](EXAM_NAT_V01_Q35_FAUX)
+2) [L'intérêt général.](EXAM_NAT_V01_Q35_VRAI)
+3) [Une religion.](EXAM_NAT_V01_Q35_FAUX)
+4) [Les intérêts d'un groupe.](EXAM_NAT_V01_Q35_FAUX)
 
 ## EXAM_NAT_V01_Q35_VRAI
 
@@ -49676,7 +49751,7 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 
 `@err_NAT_V01_Q35 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q36)
 
@@ -49695,19 +49770,21 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 
 ### Question 36 sur 40
 
-On vous demande de nommer la liberté qui permet à une personne de croire en la religion de son choix, ou de n'en avoir aucune.
+<!-- Source naturalisation : MS-NAT-T4-001 -->
 
-**Quelle liberté est concernée ?**
+Vous préparez une sortie en France et une discussion s’engage autour d’un lieu, d’une personnalité ou d’un événement important. Un proche pense que la bonne réponse pourrait être « La Constitution de 1958 ». Aidez-le à raisonner.
 
-1) [La liberté de conscience.](EXAM_NAT_V01_Q36_VRAI)
-2) [La liberté d'expression.](EXAM_NAT_V01_Q36_FAUX)
-3) [La liberté de circulation.](EXAM_NAT_V01_Q36_FAUX)
-4) [La liberté de la presse.](EXAM_NAT_V01_Q36_FAUX)
+**Comment s'appelle le texte, promulgué en 1804 sous Napoléon Ier, qui rassemble les principales règles du droit civil français ?**
+
+1) [Le Code civil.](EXAM_NAT_V01_Q36_VRAI)
+2) [La Constitution de 1958.](EXAM_NAT_V01_Q36_FAUX)
+3) [La Déclaration des droits de l'Homme.](EXAM_NAT_V01_Q36_FAUX)
+4) [Le Code pénal.](EXAM_NAT_V01_Q36_FAUX)
 
 ## EXAM_NAT_V01_Q36_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q37)
@@ -49716,7 +49793,7 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 `@err_NAT_V01_Q36 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q37)
 
@@ -49735,19 +49812,21 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 ### Question 37 sur 40
 
-Un ami confond les différentes catégories d'infractions prévues par le droit français.
+<!-- Source naturalisation : MS-NAT-T4-002 -->
 
-**Quelle est l'infraction la plus grave, parmi ces catégories juridiques ?**
+Au cours d’un atelier culturel, votre groupe doit reconnaître un repère essentiel de l’histoire ou de la géographie française. Dans le groupe, la réponse « Louis XIV » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Un crime.](EXAM_NAT_V01_Q37_VRAI)
-2) [Une contravention.](EXAM_NAT_V01_Q37_FAUX)
-3) [Un délit.](EXAM_NAT_V01_Q37_FAUX)
-4) [Des violences conjugales.](EXAM_NAT_V01_Q37_FAUX)
+**Lequel de ces noms est celui d'un Président de la Ve République ?**
+
+1) [Napoléon Bonaparte.](EXAM_NAT_V01_Q37_FAUX)
+2) [Georges Pompidou.](EXAM_NAT_V01_Q37_VRAI)
+3) [Louis XIV.](EXAM_NAT_V01_Q37_FAUX)
+4) [Jules Ferry.](EXAM_NAT_V01_Q37_FAUX)
 
 ## EXAM_NAT_V01_Q37_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q38)
@@ -49756,7 +49835,7 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 
 `@err_NAT_V01_Q37 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q38)
 
@@ -49775,19 +49854,21 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 
 ### Question 38 sur 40
 
-Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-ci remarque un buste de femme coiffée d'un bonnet phrygien et vous demande qui elle représente.
+<!-- Source naturalisation : MS-NAT-T4-003 -->
 
-**Que lui répondez-vous ?**
+Un proche prépare son entretien de naturalisation et vous demande de l’aider sur un élément du patrimoine français. Une personne hésite et choisit « La Révolution de 1848 ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Une reine de France.](EXAM_NAT_V01_Q38_FAUX)
-2) [La République française.](EXAM_NAT_V01_Q38_VRAI)
-3) [La première présidente française.](EXAM_NAT_V01_Q38_FAUX)
-4) [Une déesse antique.](EXAM_NAT_V01_Q38_FAUX)
+**Que célèbre la fête nationale française du 14 juillet ?**
+
+1) [L'Armistice.](EXAM_NAT_V01_Q38_FAUX)
+2) [La Libération.](EXAM_NAT_V01_Q38_FAUX)
+3) [La prise de la Bastille (1789).](EXAM_NAT_V01_Q38_VRAI)
+4) [La Révolution de 1848.](EXAM_NAT_V01_Q38_FAUX)
 
 ## EXAM_NAT_V01_Q38_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q39)
@@ -49796,7 +49877,7 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 
 `@err_NAT_V01_Q38 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q39)
 
@@ -49815,19 +49896,21 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 
 ### Question 39 sur 40
 
-Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, car Internet ne serait selon lui soumis à aucune loi.
+<!-- Source naturalisation : MS-NAT-T5-001 -->
 
-**Que lui répondez-vous ?**
+Lors d’un échange dans un service public, une personne veut s’assurer qu’elle connaît la règle applicable à sa situation. Une personne hésite et choisit « À la préfecture ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [On peut tout publier sans limite.](EXAM_NAT_V01_Q39_FAUX)
-2) [Les réseaux sociaux sont soumis aux lois françaises.](EXAM_NAT_V01_Q39_VRAI)
-3) [Les insultes sont autorisées sur Internet.](EXAM_NAT_V01_Q39_FAUX)
-4) [Les propos discriminatoires sont permis sur un compte privé.](EXAM_NAT_V01_Q39_FAUX)
+**Où doit-on déclarer la naissance d'un enfant ?**
+
+1) [À la mairie du lieu de naissance.](EXAM_NAT_V01_Q39_VRAI)
+2) [À la préfecture.](EXAM_NAT_V01_Q39_FAUX)
+3) [À la CAF.](EXAM_NAT_V01_Q39_FAUX)
+4) [À la police.](EXAM_NAT_V01_Q39_FAUX)
 
 ## EXAM_NAT_V01_Q39_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q40)
@@ -49836,7 +49919,7 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 
 `@err_NAT_V01_Q39 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V01_Q40)
 
@@ -49855,19 +49938,21 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 
 ### Question 40 sur 40
 
-Un ami se demande si un agent de la CAF a le droit de traiter les usagers différemment selon ses propres convictions personnelles.
+<!-- Source naturalisation : MS-NAT-T5-002 -->
 
-**La laïcité impose-t-elle aux agents publics d'être neutres envers tous les usagers ?**
+Dans une démarche de la vie quotidienne, une personne de votre entourage hésite sur la conduite à adopter en France. Un participant propose la réponse « Transformer le logement ». Vous devez vérifier cette affirmation.
 
-1) [Oui.](EXAM_NAT_V01_Q40_VRAI)
-2) [Non.](EXAM_NAT_V01_Q40_FAUX)
-3) [Seulement dans certaines administrations.](EXAM_NAT_V01_Q40_FAUX)
-4) [Cela dépend des usagers rencontrés.](EXAM_NAT_V01_Q40_FAUX)
+**Quels types de travaux un locataire peut-il réaliser librement dans son logement ?**
+
+1) [Abattre une cloison.](EXAM_NAT_V01_Q40_FAUX)
+2) [Effectuer les petits aménagements du logement (peinture, étagères...).](EXAM_NAT_V01_Q40_VRAI)
+3) [Transformer le logement.](EXAM_NAT_V01_Q40_FAUX)
+4) [Construire une extension.](EXAM_NAT_V01_Q40_FAUX)
 
 ## EXAM_NAT_V01_Q40_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V01_RESULT)
@@ -49876,7 +49961,7 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 
 `@err_NAT_V01_Q40 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V01_RESULT)
 
@@ -49893,88 +49978,97 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V01_Q01 == 1`
-**1. Une personne déclare ne croire en aucun dieu. On peut dire :**  
-✅ Qu'elle a les mêmes droits et devoirs que les autres citoyens.
+**1. Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**  
+✅ Le jour de gloire est arrivé.
 
-Une personne qui ne croit en aucun dieu (on parle d'athéisme) a les mêmes devoirs et droits que les autres. Cela relève de la liberté de conscience : la République garantit à chacun le droit de croire, de ne pas croire ou de changer de religion.
+La Marseillaise est l'hymne national français depuis 1795. Le vers exact est « Allons enfants de la patrie, le jour de gloire est arrivé. »
 
-💡 Retenez le mot-clé : athée = mêmes droits et devoirs que tout citoyen
+💡 Retenez le mot-clé : « Allons enfants de la patrie, le jour de gloire est arrivé »
 `endif`
 
 `if @err_NAT_V01_Q02 == 1`
-**2. Que porte Marianne sur la tête ?**  
-✅ Un bonnet phrygien.
+**2. Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**  
+✅ Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.
 
-Le bonnet phrygien est un symbole de liberté hérité de la Révolution française. Il est porté par Marianne, figure emblématique de la République.
+Lors d'un recrutement, l'employeur ne peut poser que des questions ayant un lien direct avec l'emploi proposé. Les discriminations sont interdites.
 
-💡 Retenez le mot-clé : Marianne = bonnet phrygien
+💡 Retenez le mot-clé : entretien d'embauche = questions liées au poste uniquement
 `endif`
 
 `if @err_NAT_V01_Q03 == 1`
-**3. À l'école, il est interdit aux parents de :**  
-✅ Contester les enseignements ou les activités obligatoires pour des motifs religieux.
+**3. Déclarer ses revenus aux services fiscaux est :**  
+✅ Une obligation.
 
-Tous les élèves doivent suivre les enseignements obligatoires prévus par les programmes scolaires. Les parents ne peuvent pas s'y opposer pour des motifs religieux.
+La déclaration des revenus permet à l'administration fiscale de calculer les impôts et certains droits sociaux. Elle constitue une obligation pour les personnes concernées.
 
-💡 Retenez : Les parents ne peuvent pas s'opposer à un enseignement
+💡 Retenez le mot-clé : déclaration de revenus = obligation
 `endif`
 
 `if @err_NAT_V01_Q04 == 1`
-**4. Qui est élu lors des élections législatives ?**  
-✅ Les députés.
+**4. En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?**  
+✅ Ils financent notamment les écoles, les hôpitaux, la police et les routes.
 
-Les élections législatives permettent d'élire les députés qui siègent à l'Assemblée nationale et participent au vote des lois.
+Les impôts servent à financer les services publics utilisés par tous : éducation, santé, sécurité, justice, transports, etc.
 
-💡 Retenez le mot-clé : élections législatives = députés
+💡 Retenez le mot-clé : impôts = services publics (écoles, hôpitaux, police, routes)
 `endif`
 
 `if @err_NAT_V01_Q05 == 1`
-**5. Quelle ville française est un port maritime ?**  
-✅ Marseille.
+**5. Qui peut être candidat à l'élection présidentielle ?**  
+✅ Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).
 
-Marseille est le plus grand port maritime français et l'un des plus importants ports de la mer Méditerranée.
+Pour être candidat à l'élection présidentielle, il faut notamment être de nationalité française, majeur, jouir de ses droits civiques et réunir les conditions prévues par la loi, notamment les 500 parrainages d'élus.
 
-💡 Retenez : Marseille = 1er port français
+💡 Retenez le mot-clé : candidat présidentielle = conditions légales + 500 parrainages
 `endif`
 
 `if @err_NAT_V01_Q06 == 1`
-**6. Quelle chaîne de montagnes est située entre la France et l'Espagne ?**  
-✅ Les Pyrénées.
+**6. À qui appartient la souveraineté nationale ?**  
+✅ Au peuple.
 
-Les Pyrénées forment une frontière naturelle entre la France et l'Espagne.
+L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par la voie du référendum.
 
-💡 Retenez : Pyrénées = montagnes entre France et Espagne
+💡 Retenez le mot-clé : souveraineté nationale = appartient au peuple
 `endif`
 
 `if @err_NAT_V01_Q07 == 1`
-**7. Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?**  
-✅ L'antisémitisme.
+**7. Qui est élu lors des élections municipales ?**  
+✅ Les conseillers municipaux.
 
-L'antisémitisme désigne la haine, les préjugés ou les discriminations dirigés contre les personnes juives. En France, il est interdit par la loi.
+Les citoyens élisent les conseillers municipaux. Une fois élus, ces derniers élisent le maire parmi eux.
 
-💡 Retenez le mot-clé : haine envers les Juifs = antisémitisme
+💡 Retenez le mot-clé : élections municipales = conseillers municipaux (puis maire élu par le conseil)
 `endif`
 
 `if @err_NAT_V01_Q08 == 1`
-**8. Selon le principe de laïcité, que signifie la neutralité de l'État ?**  
-✅ L'État ne favorise ni ne défavorise aucune religion.
+**8. L'inscription sur les listes électorales est-elle... ?**  
+✅ Obligatoire pour pouvoir voter.
 
-La neutralité de l'État est l'un des principes de la laïcité. Elle garantit l'égalité de traitement de tous les citoyens, quelles que soient leurs convictions religieuses.
+Pour voter en France, il faut être inscrit sur une liste électorale. Les jeunes Français sont généralement inscrits automatiquement à 18 ans, mais ce n'est pas le cas de toutes les situations.
 
-💡 Retenez le mot-clé : neutralité de l'État = ne favorise ni ne défavorise aucune religion
+💡 Retenez le mot-clé : voter = inscription obligatoire sur les listes électorales
 `endif`
 
 `if @err_NAT_V01_Q09 == 1`
-**9. À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?**  
-✅ 15 ans.
+**9. Citez une condition nécessaire pour voter à l'élection présidentielle.**  
+✅ Être de nationalité française, majeur et inscrit sur les listes électorales.
 
-En France, la majorité numérique est fixée à 15 ans. Avant cet âge, l'accord des parents est généralement nécessaire pour l'inscription à certains services en ligne utilisant les données personnelles.
+Pour voter à l'élection présidentielle, plusieurs conditions doivent être remplies, notamment être français, majeur, inscrit sur une liste électorale et disposer de ses droits civils et politiques.
 
-💡 Retenez le mot-clé : majorité numérique = 15 ans
+💡 Retenez le mot-clé : voter = nationalité française + majeur + inscrit sur les listes
 `endif`
 
 `if @err_NAT_V01_Q10 == 1`
-**10. Quel est l'objectif du droit de grève ?**  
+**10. Citez une condition pour être candidat aux élections municipales.**  
+✅ Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).
+
+Pour être candidat aux élections municipales, il faut notamment être majeur et remplir les conditions d'éligibilité prévues par la loi. Les citoyens de l'Union européenne résidant en France peuvent également être candidats.
+
+💡 Retenez le mot-clé : candidat municipales = majeur + conditions légales (nationalité FR ou UE)
+`endif`
+
+`if @err_NAT_V01_Q11 == 1`
+**11. Quel est l'objectif du droit de grève ?**  
 ✅ Défendre les intérêts professionnels des salariés.
 
 Le droit de grève est une liberté reconnue par la Constitution. Il permet aux salariés de cesser collectivement le travail afin de défendre leurs intérêts professionnels.
@@ -49982,152 +50076,26 @@ Le droit de grève est une liberté reconnue par la Constitution. Il permet aux 
 💡 Retenez le mot-clé : droit de grève = défendre les intérêts professionnels des salariés
 `endif`
 
-`if @err_NAT_V01_Q11 == 1`
-**11. Combien de personnes parlent français dans le monde ?**  
-✅ 320 millions.
-
-Le français est parlé sur les cinq continents par environ 320 millions de personnes. Ce chiffre évolue régulièrement.
-
-💡 Retenez : 320 millions de personnes parlent français
-`endif`
-
 `if @err_NAT_V01_Q12 == 1`
-**12. Qu'est-ce que le droit de grève ?**  
-✅ Le droit de cesser collectivement le travail pour défendre des revendications professionnelles.
+**12. Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**  
+✅ L'intérêt général.
 
-Le droit de grève est une liberté reconnue par la Constitution. Il permet aux salariés de défendre leurs intérêts professionnels dans le respect de la loi.
+Certaines libertés peuvent être limitées afin de protéger l'intérêt général, par exemple pour assurer la sécurité, la santé publique ou les droits d'autrui.
 
-💡 Retenez : Grève = droits de défendre des intérêts (ex : des licenciements économiques massifs)
+💡 Retenez le mot-clé : limites aux libertés = intérêt général
 `endif`
 
 `if @err_NAT_V01_Q13 == 1`
-**13. Quel pays a une frontière terrestre avec la France métropolitaine ?**  
-✅ Espagne.
+**13. Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**  
+✅ Les hommes naissent et demeurent libres et égaux en droits.
 
-La France métropolitaine partage une frontière terrestre avec huit pays.
+L'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 affirme : « Les hommes naissent et demeurent libres et égaux en droits. »
 
-💡 À compléter
+💡 Retenez le mot-clé : article 1er DDHC = libres et égaux en droits
 `endif`
 
 `if @err_NAT_V01_Q14 == 1`
-**14. Parmi ces responsables, lequel est élu (et non nommé) ?**  
-✅ Le maire.
-
-Le maire est un élu local. Les autres (préfet et procureur) sont nommés par l'État. Le Premier ministre est nommé par le Président de la République.
-
-💡 Retenez le mot-clé : maire = élu ; préfet, procureur, Premier ministre = nommés
-`endif`
-
-`if @err_NAT_V01_Q15 == 1`
-**15. Quelles sont les affaires traitées par le conseil de prud'hommes ?**  
-✅ Les conflits entre un salarié et son employeur.
-
-Le conseil de prud'hommes est un tribunal spécialisé qui traite les litiges individuels liés au contrat de travail entre salariés et employeurs.
-
-💡 Retenez : Les Prud'hommes = conflits de travail
-`endif`
-
-`if @err_NAT_V01_Q16 == 1`
-**16. Quelle est l'une des conséquences si un juge prononce une privation des droits civils et politiques à l'encontre d'une personne ?**  
-✅ Elle ne peut plus voter ni être candidate à une élection.
-
-Dans certains cas prévus par la loi, un juge peut prononcer une privation des droits civils et politiques. Pendant cette durée, la personne ne peut notamment plus voter ni être candidate à une élection. Cette sanction est limitée dans le temps et ne retire pas automatiquement la nationalité française.
-
-💡 Retenez le mot-clé : privation des droits civiques = ne plus voter ni être candidat (temporaire)
-`endif`
-
-`if @err_NAT_V01_Q17 == 1`
-**17. Quelle est l'une des conditions pour passer l'examen du permis de conduire ?**  
-✅ Avoir l'âge minimum requis.
-
-Pour passer le permis de conduire, il faut notamment respecter l'âge minimum prévu par la réglementation et satisfaire aux autres conditions fixées par la loi.
-
-💡 Retenez : Permis de conduire = possible à partir d'un âge minimum (18 ans en général)
-`endif`
-
-`if @err_NAT_V01_Q18 == 1`
-**18. Qu'est-ce que les droits fondamentaux ?**  
-✅ Les droits essentiels garantis à toute personne.
-
-Les droits fondamentaux sont les droits et libertés indispensables reconnus à toute personne. Ils sont protégés par la Constitution, les lois françaises et les textes internationaux.
-
-💡 Retenez le mot-clé : droits fondamentaux = droits essentiels garantis à tous
-`endif`
-
-`if @err_NAT_V01_Q19 == 1`
-**19. Qui vote les lois en France ?**  
-✅ Le Parlement.
-
-Le Parlement est composé de deux chambres : l'Assemblée nationale et le Sénat. Ensemble, elles discutent, modifient et votent les lois.
-
-💡 Retenez le mot-clé : voter les lois = le Parlement
-`endif`
-
-`if @err_NAT_V01_Q20 == 1`
-**20. En quelle année l'euro est-elle devenue la monnaie utilisée en France ?**  
-✅ 2002.
-
-L'euro est devenu la monnaie utilisée en France le 1er janvier 2002, avec la mise en circulation des pièces et des billets.
-
-💡 Retenez : 2002 = Monnaie (€)
-`endif`
-
-`if @err_NAT_V01_Q21 == 1`
-**21. Quels sont les trois pouvoirs de la République française ?**  
-✅ Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.
-
-La séparation des pouvoirs évite qu'une seule autorité concentre tous les pouvoirs. En France, les pouvoirs exécutif, législatif et judiciaire sont exercés par des institutions différentes.
-
-💡 Retenez le mot-clé : 3 pouvoirs = exécutif, législatif, judiciaire
-`endif`
-
-`if @err_NAT_V01_Q22 == 1`
-**22. Quand peut-on visiter gratuitement des lieux culturels en France ?**  
-✅ Lors des Journées européennes du patrimoine.
-
-Chaque année, les Journées européennes du patrimoine permettent au public de visiter gratuitement de nombreux monuments et lieux habituellement fermés ou payants.
-
-💡 Retenez: Journée du patrimoine = visite gratuite (musées, monuments…)
-`endif`
-
-`if @err_NAT_V01_Q23 == 1`
-**23. Qui juge et sanctionne les auteurs d'infractions ?**  
-✅ La justice.
-
-La police enquête et interpelle les auteurs d'infractions, mais c'est la justice, par l'intermédiaire des tribunaux, qui juge et sanctionne les infractions.
-
-💡 Retenez le mot-clé : juger et sanctionner = la justice (pas la police)
-`endif`
-
-`if @err_NAT_V01_Q24 == 1`
-**24. Comment les députés sont-ils désignés ?**  
-✅ Ils sont élus au suffrage universel direct.
-
-Les députés représentent les citoyens à l'Assemblée nationale. Ils sont élus directement par les électeurs lors des élections législatives.
-
-💡 Retenez le mot-clé : députés = élus au suffrage universel direct
-`endif`
-
-`if @err_NAT_V01_Q25 == 1`
-**25. Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**  
-✅ 1962.
-
-Depuis le référendum de 1962, le président de la République est élu au suffrage universel direct par les citoyens.
-
-💡 Retenez : 1962 = élection suffrage universel direct (sans intermédiaire)
-`endif`
-
-`if @err_NAT_V01_Q26 == 1`
-**26. En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**  
-✅ 1905.
-
-La loi du 9 décembre 1905 fonde la laïcité française en organisant la séparation des Églises et de l'État.
-
-💡 Retenez le mot-clé : loi de séparation des Églises et de l'État = 1905
-`endif`
-
-`if @err_NAT_V01_Q27 == 1`
-**27. Que signifie être libre, en France ?**  
+**14. Que signifie être libre, en France ?**  
 ✅ Chacun est libre tant qu'il respecte les droits des autres.
 
 Les libertés sont garanties par la République, mais elles ne sont pas absolues. Elles s'exercent dans le respect des droits des autres et de la loi.
@@ -50135,13 +50103,130 @@ Les libertés sont garanties par la République, mais elles ne sont pas absolues
 💡 Retenez le mot-clé : liberté = respect des droits des autres
 `endif`
 
+`if @err_NAT_V01_Q15 == 1`
+**15. Comment s'appelle le texte, promulgué en 1804 sous Napoléon Ier, qui rassemble les principales règles du droit civil français ?**  
+✅ Le Code civil.
+
+Le Code civil, promulgué en 1804 sous Napoléon Ier, rassemble les principales règles du droit civil français (famille, propriété, contrats...). Il constitue l'un des fondements du droit français actuel.
+
+💡 Retenez le mot-clé : Code civil = 1804, Napoléon Ier
+`endif`
+
+`if @err_NAT_V01_Q16 == 1`
+**16. Lequel de ces noms est celui d'un Président de la Ve République ?**  
+✅ Georges Pompidou.
+
+Depuis la création de la Ve République en 1958, plusieurs Présidents de la République se sont succédé, dont Charles de Gaulle, Georges Pompidou, Valéry Giscard d'Estaing, François Mitterrand, Jacques Chirac, Nicolas Sarkozy, François Hollande et Emmanuel Macron.
+
+💡 Retenez le mot-clé : Présidents de la Ve République = de Gaulle à Macron
+`endif`
+
+`if @err_NAT_V01_Q17 == 1`
+**17. Que célèbre la fête nationale française du 14 juillet ?**  
+✅ La prise de la Bastille (1789).
+
+Le 14 juillet est la fête nationale française. Elle commémore la prise de la Bastille (1789) et symbolise les valeurs de la République.
+
+💡 Retenez le mot-clé : 14 juillet = prise de la Bastille (1789)
+`endif`
+
+`if @err_NAT_V01_Q18 == 1`
+**18. Quel était l'objectif principal des lois de Jules Ferry (1881-1882) ?**  
+✅ Rendre l'école gratuite, laïque et obligatoire.
+
+Les lois de Jules Ferry (1881-1882) rendent progressivement l'école primaire gratuite, laïque et obligatoire.
+
+💡 Retenez le mot-clé : lois Jules Ferry = gratuite, laïque, obligatoire
+`endif`
+
+`if @err_NAT_V01_Q19 == 1`
+**19. Pourquoi l'année 1958 est-elle importante dans l'histoire des institutions françaises ?**  
+✅ Adoption de la Constitution qui fonde la Ve République.
+
+La Constitution du 4 octobre 1958 fonde la Ve République. Elle organise les institutions françaises actuelles.
+
+💡 Retenez le mot-clé : 1958 = Constitution + Ve République
+`endif`
+
+`if @err_NAT_V01_Q20 == 1`
+**20. Quelle loi Simone Veil a-t-elle fait adopter en 1975 ?**  
+✅ La loi légalisant l'interruption volontaire de grossesse (IVG).
+
+Survivante de la Shoah, Simone Veil est une grande figure de la République. Ministre de la Santé, elle a porté la loi de 1975 légalisant l'IVG. Elle a également été la première présidente du Parlement européen élue au suffrage universel.
+
+💡 Retenez le mot-clé : Simone Veil = loi IVG (1975)
+`endif`
+
+`if @err_NAT_V01_Q21 == 1`
+**21. Lequel de ces pays est l'un des six pays fondateurs de la construction européenne ?**  
+✅ Italie.
+
+Les six États fondateurs (France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg) sont à l'origine de la construction européenne avec la Communauté européenne du charbon et de l'acier (CECA) en 1951.
+
+💡 Retenez le mot-clé : 6 pays fondateurs = France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg
+`endif`
+
+`if @err_NAT_V01_Q22 == 1`
+**22. Sur quelle région française a eu lieu le Débarquement allié du 6 juin 1944 ?**  
+✅ Normandie.
+
+Le Débarquement du 6 juin 1944 a eu lieu sur plusieurs plages de Normandie. Il marque le début de la libération de la France occupée.
+
+💡 Retenez le mot-clé : Débarquement (6 juin 1944) = Normandie
+`endif`
+
+`if @err_NAT_V01_Q23 == 1`
+**23. Dans quelle ville les rois de France étaient-ils traditionnellement sacrés ?**  
+✅ Reims.
+
+La cathédrale de Reims a accueilli le sacre de la grande majorité des rois de France, faisant de cette ville un lieu symbolique de la monarchie française.
+
+💡 Retenez le mot-clé : sacre des rois = Reims
+`endif`
+
+`if @err_NAT_V01_Q24 == 1`
+**24. Où doit-on déclarer la naissance d'un enfant ?**  
+✅ À la mairie du lieu de naissance.
+
+Toute naissance doit être déclarée auprès du service de l'état civil de la mairie du lieu de naissance afin d'établir l'acte de naissance de l'enfant.
+
+💡 Retenez le mot-clé : déclaration de naissance = mairie du lieu de naissance
+`endif`
+
+`if @err_NAT_V01_Q25 == 1`
+**25. Quels types de travaux un locataire peut-il réaliser librement dans son logement ?**  
+✅ Effectuer les petits aménagements du logement (peinture, étagères...).
+
+Le locataire peut librement réaliser des aménagements légers. En revanche, toute transformation importante nécessite l'accord du propriétaire.
+
+💡 Retenez le mot-clé : locataire = petits aménagements autorisés, transformations soumises à accord
+`endif`
+
+`if @err_NAT_V01_Q26 == 1`
+**26. Quel mariage est reconnu par l'État français ?**  
+✅ Le mariage civil, célébré à la mairie.
+
+En France, le mariage doit obligatoirement être célébré devant un officier d'état civil. Une cérémonie religieuse peut avoir lieu ensuite, mais elle ne remplace pas le mariage civil.
+
+💡 Retenez le mot-clé : mariage reconnu par l'État = mariage civil (mairie)
+`endif`
+
+`if @err_NAT_V01_Q27 == 1`
+**27. Le stationnement sur une place réservée aux personnes handicapées est :**  
+✅ Autorisé uniquement pour les véhicules disposant de la carte de stationnement (CMI).
+
+Les places réservées sont destinées aux personnes titulaires d'une carte mobilité inclusion (CMI) mention « stationnement » ou d'une carte européenne de stationnement encore valide. Le stationnement abusif est passible d'une amende.
+
+💡 Retenez le mot-clé : place handicap = réservée aux titulaires de la CMI stationnement
+`endif`
+
 `if @err_NAT_V01_Q28 == 1`
-**28. Quelle est la première étape de la construction européenne en 1951 ?**  
-✅ La création de la Communauté européenne du charbon et de l'acier (CECA).
+**28. Un appareil électroménager neuf tombe en panne un an après l'achat. Que peut faire l'acheteur ?**  
+✅ Faire jouer la garantie légale de 2 ans ou demander une réparation.
 
-La CECA rassemble six pays européens afin de développer une coopération économique et de favoriser la paix après la Seconde Guerre mondiale.
+En France, tout produit neuf acheté en magasin bénéficie d'une garantie légale de conformité de 2 ans. Si l'appareil tombe en panne, c'est au vendeur (le magasin) de régler le problème (réparation ou échange), pas au fabricant.
 
-💡 Retenez : CECA = 1 er rassemblement européen
+💡 Retenez le mot-clé : produit neuf = garantie légale de 2 ans (vendeur, pas fabricant)
 `endif`
 
 ### Partie 2 — Mises en situation
@@ -50151,87 +50236,87 @@ La CECA rassemble six pays européens afin de développer une coopération écon
 `endif`
 
 `if @err_NAT_V01_Q29 == 1`
-**29. Que lui répondez-vous ?**  
-✅ Le français est la langue de la République.
+**29. Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**  
+✅ Le jour de gloire est arrivé.
 
-L'article 2 de la Constitution dispose que « La langue de la République est le français ». Les langues régionales font partie du patrimoine culturel, mais le français reste la seule langue officielle de la République.
+La bonne réponse est « Le jour de gloire est arrivé ». La Marseillaise est l'hymne national français depuis 1795. Le vers exact est « Allons enfants de la patrie, le jour de gloire est arrivé. »
 `endif`
 
 `if @err_NAT_V01_Q30 == 1`
-**30. Avez-vous le droit de refuser que votre enfant participe aux cours de sport parce qu'ils sont mixtes ?**  
-✅ Non.
+**30. Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**  
+✅ Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.
 
-Les cours de sport font partie des enseignements obligatoires. La mixité entre filles et garçons est un principe de l'école de la République : aucune dispense n'est possible pour ce motif.
+La bonne réponse est « Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat ». Lors d'un recrutement, l'employeur ne peut poser que des questions ayant un lien direct avec l'emploi proposé. Les discriminations sont interdites.
 `endif`
 
 `if @err_NAT_V01_Q31 == 1`
-**31. Quelle est l'attitude à adopter ?**  
-✅ Alerter les secours, la police ou la gendarmerie.
+**31. Qui peut être candidat à l'élection présidentielle ?**  
+✅ Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).
 
-Face à des violences, il est important d'agir en alertant les secours ou les forces de l'ordre, sans se mettre soi-même en danger en intervenant physiquement.
+La bonne réponse est « Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...) ». Pour être candidat à l'élection présidentielle, il faut notamment être de nationalité française, majeur, jouir de ses droits civiques et réunir les conditions prévues par la loi, notamment les 500 parrainages d'élus.
 `endif`
 
 `if @err_NAT_V01_Q32 == 1`
-**32. Comment corrigez-vous cette affirmation ?**  
-✅ L'égalité signifie que toutes les personnes ont les mêmes droits et devoirs devant la loi.
+**32. À qui appartient la souveraineté nationale ?**  
+✅ Au peuple.
 
-L'égalité est l'un des principes fondamentaux de la République. Elle garantit que la loi s'applique de la même manière à toutes les personnes, sans viser une identité de revenus ou de mode de vie.
+La bonne réponse est « Au peuple ». L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par la voie du référendum.
 `endif`
 
 `if @err_NAT_V01_Q33 == 1`
-**33. Laquelle choisissez-vous ?**  
-✅ Un vol.
+**33. Qui est élu lors des élections municipales ?**  
+✅ Les conseillers municipaux.
 
-Le vol est un délit. En droit français, les infractions sont classées en trois catégories : contraventions, délits et crimes. L'homicide volontaire est, lui, un crime.
+La bonne réponse est « Les conseillers municipaux ». Les citoyens élisent les conseillers municipaux. Une fois élus, ces derniers élisent le maire parmi eux.
 `endif`
 
 `if @err_NAT_V01_Q34 == 1`
-**34. Que lui répondez-vous ?**  
-✅ C'est l'hymne national français.
+**34. Quel est l'objectif du droit de grève ?**  
+✅ Défendre les intérêts professionnels des salariés.
 
-La Marseillaise est l'hymne national de la République française, au même titre que le drapeau, Marianne ou la devise sont d'autres symboles officiels, mais de nature différente.
+La bonne réponse est « Défendre les intérêts professionnels des salariés ». Le droit de grève est une liberté reconnue par la Constitution. Il permet aux salariés de cesser collectivement le travail afin de défendre leurs intérêts professionnels.
 `endif`
 
 `if @err_NAT_V01_Q35 == 1`
-**35. Laquelle de ces actions y contribue ?**  
-✅ Trier ses déchets.
+**35. Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**  
+✅ L'intérêt général.
 
-Le tri des déchets permet de recycler de nombreux matériaux et de limiter les impacts sur l'environnement, contrairement aux autres pratiques citées, qui sont interdites ou nuisibles.
+La bonne réponse est « L'intérêt général ». Certaines libertés peuvent être limitées afin de protéger l'intérêt général, par exemple pour assurer la sécurité, la santé publique ou les droits d'autrui.
 `endif`
 
 `if @err_NAT_V01_Q36 == 1`
-**36. Quelle liberté est concernée ?**  
-✅ La liberté de conscience.
+**36. Comment s'appelle le texte, promulgué en 1804 sous Napoléon Ier, qui rassemble les principales règles du droit civil français ?**  
+✅ Le Code civil.
 
-La liberté de conscience garantit à chacun le droit de choisir ses convictions religieuses ou philosophiques, de les changer ou de ne pas avoir de religion.
+La bonne réponse est « Le Code civil ». Le Code civil, promulgué en 1804 sous Napoléon Ier, rassemble les principales règles du droit civil français (famille, propriété, contrats...). Il constitue l'un des fondements du droit français actuel.
 `endif`
 
 `if @err_NAT_V01_Q37 == 1`
-**37. Quelle est l'infraction la plus grave, parmi ces catégories juridiques ?**  
-✅ Un crime.
+**37. Lequel de ces noms est celui d'un Président de la Ve République ?**  
+✅ Georges Pompidou.
 
-En droit français, les infractions sont classées en trois catégories : la contravention, le délit et le crime. Le crime est l'infraction la plus grave.
+La bonne réponse est « Georges Pompidou ». Depuis la création de la Ve République en 1958, plusieurs Présidents de la République se sont succédé, dont Charles de Gaulle, Georges Pompidou, Valéry Giscard d'Estaing, François Mitterrand, Jacques Chirac, Nicolas Sarkozy, François Hollande et Emmanuel Macron.
 `endif`
 
 `if @err_NAT_V01_Q38 == 1`
-**38. Que lui répondez-vous ?**  
-✅ La République française.
+**38. Que célèbre la fête nationale française du 14 juillet ?**  
+✅ La prise de la Bastille (1789).
 
-Marianne est la représentation symbolique de la République française. Son buste orne de nombreuses mairies et son portrait figure sur certains documents officiels ; elle n'a jamais été reine, présidente, ni déesse.
+La bonne réponse est « La prise de la Bastille (1789) ». Le 14 juillet est la fête nationale française. Elle commémore la prise de la Bastille (1789) et symbolise les valeurs de la République.
 `endif`
 
 `if @err_NAT_V01_Q39 == 1`
-**39. Que lui répondez-vous ?**  
-✅ Les réseaux sociaux sont soumis aux lois françaises.
+**39. Où doit-on déclarer la naissance d'un enfant ?**  
+✅ À la mairie du lieu de naissance.
 
-Les réseaux sociaux ne sont pas une zone de non-droit. Les propos injurieux, diffamatoires, discriminatoires ou incitant à la haine sont interdits et peuvent être sanctionnés, y compris sur un compte privé.
+La bonne réponse est « À la mairie du lieu de naissance ». Toute naissance doit être déclarée auprès du service de l'état civil de la mairie du lieu de naissance afin d'établir l'acte de naissance de l'enfant.
 `endif`
 
 `if @err_NAT_V01_Q40 == 1`
-**40. La laïcité impose-t-elle aux agents publics d'être neutres envers tous les usagers ?**  
-✅ Oui.
+**40. Quels types de travaux un locataire peut-il réaliser librement dans son logement ?**  
+✅ Effectuer les petits aménagements du logement (peinture, étagères...).
 
-Les agents publics doivent assurer leurs missions avec neutralité, en toutes circonstances et dans toutes les administrations, afin de garantir l'égalité de traitement des usagers.
+La bonne réponse est « Effectuer les petits aménagements du logement (peinture, étagères...) ». Le locataire peut librement réaliser des aménagements légers. En revanche, toute transformation importante nécessite l'accord du propriétaire.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -50505,11 +50590,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -50539,7 +50624,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -50560,6 +50645,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T1_CH05 >= 3`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
 `if @errchap_T2_CH01 >= 3`
 1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
@@ -50568,6 +50656,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `endif`
 `if @errchap_T2_CH03 >= 3`
 1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
 1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -50587,6 +50678,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T5_CH01 >= 3`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 >= 3`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 >= 3`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -50594,7 +50688,7 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -50615,6 +50709,9 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T1_CH05 == 2`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
 `if @errchap_T2_CH01 == 2`
 1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
@@ -50623,6 +50720,9 @@ Ces chapitres méritent une révision ciblée :
 `endif`
 `if @errchap_T2_CH03 == 2`
 1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
 1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -50642,6 +50742,9 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T5_CH01 == 2`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 2`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 2`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -50649,7 +50752,7 @@ Ces chapitres méritent une révision ciblée :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -50670,6 +50773,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T1_CH05 == 1`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
 `if @errchap_T2_CH01 == 1`
 1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
@@ -50678,6 +50784,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `endif`
 `if @errchap_T2_CH03 == 1`
 1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
 1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -50697,6 +50806,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T5_CH01 == 1`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 1`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 1`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -50704,11 +50816,11 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
@@ -50728,20 +50840,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T2_CH01 = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T5_CH04 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T1_CH05 = 0`
-`@errchap_T1_CH04 = 0`
-`@errchap_T4_CH02 = 0`
-`@errchap_T4_CH01 = 0`
-`@errchap_T2_CH02 = 0`
-`@errchap_T5_CH03 = 0`
 `@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
-`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
 `@errchap_T1_CH03 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -50752,8 +50869,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q01
 
 `@err_NAT_V02_Q01 = 0`
-
 `@exam_variant = 2`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -50766,17 +50883,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**Que fête-t-on le 8 mai ?**
+<!-- Source naturalisation : NAT-T2-011 -->
 
-1) [L'Armistice de 1918.](EXAM_NAT_V02_Q01_FAUX)
-2) [La Révolution française.](EXAM_NAT_V02_Q01_FAUX)
-3) [La fin de la seconde guerre mondiale.](EXAM_NAT_V02_Q01_VRAI)
-4) [Le Débarquement des alliés en Normandie.](EXAM_NAT_V02_Q01_FAUX)
+**À partir de quel âge devient-on électeur en France ?**
+
+1) [16 ans.](EXAM_NAT_V02_Q01_FAUX)
+2) [18 ans.](EXAM_NAT_V02_Q01_VRAI)
+3) [17 ans.](EXAM_NAT_V02_Q01_FAUX)
+4) [21 ans.](EXAM_NAT_V02_Q01_FAUX)
 
 ## EXAM_NAT_V02_Q01_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q02)
@@ -50785,7 +50904,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q01 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q02)
 
@@ -50804,12 +50923,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**Qui juge et sanctionne les auteurs d'infractions ?**
+<!-- Source naturalisation : NAT-T2-012 -->
 
-1) [La police.](EXAM_NAT_V02_Q02_FAUX)
-2) [Le maire.](EXAM_NAT_V02_Q02_FAUX)
-3) [Le Président de la République.](EXAM_NAT_V02_Q02_FAUX)
-4) [La justice.](EXAM_NAT_V02_Q02_VRAI)
+**Le vote est-il obligatoire en France ?**
+
+1) [Oui.](EXAM_NAT_V02_Q02_FAUX)
+2) [Oui, seulement pour les élections présidentielles.](EXAM_NAT_V02_Q02_FAUX)
+3) [Non, c'est un droit, pas une obligation.](EXAM_NAT_V02_Q02_VRAI)
+4) [Oui, sous peine d'amende.](EXAM_NAT_V02_Q02_FAUX)
 
 ## EXAM_NAT_V02_Q02_VRAI
 
@@ -50823,7 +50944,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q02 = 1`
 
-`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q03)
 
@@ -50842,17 +50963,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**Citez un symbole qui représente officiellement la République française.**
+<!-- Source naturalisation : NAT-T2-013 -->
 
-1) [La tour Eiffel.](EXAM_NAT_V02_Q03_FAUX)
-2) [Le béret.](EXAM_NAT_V02_Q03_FAUX)
-3) [Marianne.](EXAM_NAT_V02_Q03_VRAI)
-4) [Le coq.](EXAM_NAT_V02_Q03_FAUX)
+**A-t-on le droit de ne pas respecter une loi que l'on juge injuste ?**
+
+1) [Oui.](EXAM_NAT_V02_Q03_FAUX)
+2) [Oui si l'on n'est pas d'accord.](EXAM_NAT_V02_Q03_FAUX)
+3) [Oui selon sa religion.](EXAM_NAT_V02_Q03_FAUX)
+4) [Non, chacun doit respecter la loi.](EXAM_NAT_V02_Q03_VRAI)
 
 ## EXAM_NAT_V02_Q03_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q04)
@@ -50861,7 +50984,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q03 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q04)
 
@@ -50880,17 +51003,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**Que doit obtenir un candidat pour se présenter à l'élection présidentielle ?**
+<!-- Source naturalisation : NAT-T3-005 -->
 
-1) [Être député.](EXAM_NAT_V02_Q04_FAUX)
-2) [Être ministre.](EXAM_NAT_V02_Q04_FAUX)
-3) [Être membre d'un parti politique.](EXAM_NAT_V02_Q04_FAUX)
-4) [Obtenir 500 parrainages d'élus.](EXAM_NAT_V02_Q04_VRAI)
+**Que dit l'article 1er de la Constitution à propos de la France ?**
+
+1) [La France est une République indivisible, laïque, démocratique et sociale.](EXAM_NAT_V02_Q04_VRAI)
+2) [La France est une République fédérale et catholique.](EXAM_NAT_V02_Q04_FAUX)
+3) [La France est un royaume démocratique.](EXAM_NAT_V02_Q04_FAUX)
+4) [La France est une République uniquement laïque.](EXAM_NAT_V02_Q04_FAUX)
 
 ## EXAM_NAT_V02_Q04_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q05)
@@ -50899,7 +51024,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q04 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q05)
 
@@ -50918,17 +51043,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**Quel était le surnom de Louis XIV ?**
+<!-- Source naturalisation : NAT-T3-006 -->
 
-1) [Le Roi-Soleil.](EXAM_NAT_V02_Q05_VRAI)
-2) [Le Roi-Chevalier.](EXAM_NAT_V02_Q05_FAUX)
-3) [Le Roi-Soulier.](EXAM_NAT_V02_Q05_FAUX)
-4) [Le Roi-Majestueux.](EXAM_NAT_V02_Q05_FAUX)
+**Que garantit la liberté de la presse ?**
+
+1) [On peut publier n'importe quoi.](EXAM_NAT_V02_Q05_FAUX)
+2) [La liberté d'informer et d'être informé.](EXAM_NAT_V02_Q05_VRAI)
+3) [Les journalistes sont au-dessus des lois.](EXAM_NAT_V02_Q05_FAUX)
+4) [Les médias peuvent diffamer librement.](EXAM_NAT_V02_Q05_FAUX)
 
 ## EXAM_NAT_V02_Q05_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q06)
@@ -50937,7 +51064,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q05 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q06)
 
@@ -50956,17 +51083,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+<!-- Source naturalisation : NAT-T3-007 -->
 
-1) [Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](EXAM_NAT_V02_Q06_VRAI)
-2) [Aucun risque.](EXAM_NAT_V02_Q06_FAUX)
-3) [Seulement un avertissement.](EXAM_NAT_V02_Q06_FAUX)
-4) [Une simple remarque de l'école.](EXAM_NAT_V02_Q06_FAUX)
+**Que permet la liberté de circulation ?**
+
+1) [Entrer dans n'importe quel pays sans règle.](EXAM_NAT_V02_Q06_FAUX)
+2) [Aller sur un terrain privé sans autorisation.](EXAM_NAT_V02_Q06_FAUX)
+3) [Se déplacer librement, dans le respect de la loi.](EXAM_NAT_V02_Q06_VRAI)
+4) [Voyager sans respecter les contrôles applicables.](EXAM_NAT_V02_Q06_FAUX)
 
 ## EXAM_NAT_V02_Q06_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q07)
@@ -50975,7 +51104,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q06 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q07)
 
@@ -50994,17 +51123,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans son contrat de travail :**
+<!-- Source naturalisation : NAT-T3-008 -->
 
-1) [L'employeur peut imposer n'importe quel nombre d'heures.](EXAM_NAT_V02_Q07_FAUX)
-2) [Les heures supplémentaires ne sont jamais rémunérées.](EXAM_NAT_V02_Q07_FAUX)
-3) [Les heures supplémentaires doivent respecter les règles prévues par la loi.](EXAM_NAT_V02_Q07_VRAI)
-4) [Le contrat de travail n'a plus de valeur.](EXAM_NAT_V02_Q07_FAUX)
+**Qu'implique le fait d'être citoyen d'un État ?**
+
+1) [Habiter dans un pays.](EXAM_NAT_V02_Q07_FAUX)
+2) [Avoir uniquement des droits.](EXAM_NAT_V02_Q07_FAUX)
+3) [Être né dans un pays.](EXAM_NAT_V02_Q07_FAUX)
+4) [Avoir des droits et des devoirs dans cet État.](EXAM_NAT_V02_Q07_VRAI)
 
 ## EXAM_NAT_V02_Q07_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q08)
@@ -51013,7 +51144,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q07 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q08)
 
@@ -51032,17 +51163,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Citez une condition nécessaire pour voter à l'élection présidentielle.**
+<!-- Source naturalisation : NAT-T4-010 -->
 
-1) [Avoir un emploi.](EXAM_NAT_V02_Q08_FAUX)
-2) [Être marié.](EXAM_NAT_V02_Q08_FAUX)
-3) [Payer des impôts.](EXAM_NAT_V02_Q08_FAUX)
-4) [Être de nationalité française, majeur et inscrit sur les listes électorales.](EXAM_NAT_V02_Q08_VRAI)
+**Qui est l'auteur des grandes lois scolaires de la IIIᵉ République rendant l'école gratuite, laïque et obligatoire ?**
+
+1) [Napoléon.](EXAM_NAT_V02_Q08_FAUX)
+2) [Jules Ferry.](EXAM_NAT_V02_Q08_VRAI)
+3) [Victor Hugo.](EXAM_NAT_V02_Q08_FAUX)
+4) [Charles de Gaulle.](EXAM_NAT_V02_Q08_FAUX)
 
 ## EXAM_NAT_V02_Q08_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q09)
@@ -51051,7 +51184,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q08 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q09)
 
@@ -51070,17 +51203,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**Qui dirige l'action du Gouvernement au quotidien ?**
+<!-- Source naturalisation : NAT-T4-011 -->
 
-1) [Le Président de la République.](EXAM_NAT_V02_Q09_FAUX)
-2) [Le Président de l'Assemblée nationale.](EXAM_NAT_V02_Q09_FAUX)
-3) [Le préfet.](EXAM_NAT_V02_Q09_FAUX)
-4) [Le Premier ministre.](EXAM_NAT_V02_Q09_VRAI)
+**Quel roi de France a été guillotiné le 21 janvier 1793 pendant la Révolution ?**
+
+1) [Louis XIV.](EXAM_NAT_V02_Q09_FAUX)
+2) [Louis XV.](EXAM_NAT_V02_Q09_FAUX)
+3) [Louis XVI.](EXAM_NAT_V02_Q09_VRAI)
+4) [Napoléon Ier.](EXAM_NAT_V02_Q09_FAUX)
 
 ## EXAM_NAT_V02_Q09_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q10)
@@ -51089,7 +51224,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q09 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q10)
 
@@ -51108,12 +51243,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**Quel pays a été colonisé par la France ?**
+<!-- Source naturalisation : NAT-T4-012 -->
 
-1) [L'Algérie.](EXAM_NAT_V02_Q10_VRAI)
-2) [Le Japon.](EXAM_NAT_V02_Q10_FAUX)
-3) [Le Canada.](EXAM_NAT_V02_Q10_FAUX)
-4) [Le Portugal.](EXAM_NAT_V02_Q10_FAUX)
+**En quelle année a débuté la Révolution française ?**
+
+1) [1792.](EXAM_NAT_V02_Q10_FAUX)
+2) [1804.](EXAM_NAT_V02_Q10_FAUX)
+3) [1815.](EXAM_NAT_V02_Q10_FAUX)
+4) [1789.](EXAM_NAT_V02_Q10_VRAI)
 
 ## EXAM_NAT_V02_Q10_VRAI
 
@@ -51146,17 +51283,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**Que porte Marianne sur la tête ?**
+<!-- Source naturalisation : NAT-T4-013 -->
 
-1) [Une couronne.](EXAM_NAT_V02_Q11_FAUX)
-2) [Un casque.](EXAM_NAT_V02_Q11_FAUX)
-3) [Un béret.](EXAM_NAT_V02_Q11_FAUX)
-4) [Un bonnet phrygien.](EXAM_NAT_V02_Q11_VRAI)
+**En quelle année Napoléon Bonaparte est-il devenu empereur des Français ?**
+
+1) [1804.](EXAM_NAT_V02_Q11_VRAI)
+2) [1789.](EXAM_NAT_V02_Q11_FAUX)
+3) [1799.](EXAM_NAT_V02_Q11_FAUX)
+4) [1815.](EXAM_NAT_V02_Q11_FAUX)
 
 ## EXAM_NAT_V02_Q11_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q12)
@@ -51165,7 +51304,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q11 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q12)
 
@@ -51184,12 +51323,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?**
+<!-- Source naturalisation : NAT-T4-014 -->
 
-1) [L'Organisation des Nations unies (ONU).](EXAM_NAT_V02_Q12_VRAI)
-2) [L'Union européenne.](EXAM_NAT_V02_Q12_FAUX)
-3) [L'OTAN.](EXAM_NAT_V02_Q12_FAUX)
-4) [L'UNESCO.](EXAM_NAT_V02_Q12_FAUX)
+**Quel homme d'État a fait adopter des lois rendant l'école laïque, gratuite et obligatoire pour les enfants de 6 à 13 ans ?**
+
+1) [Napoléon.](EXAM_NAT_V02_Q12_FAUX)
+2) [Jules Ferry.](EXAM_NAT_V02_Q12_VRAI)
+3) [Victor Hugo.](EXAM_NAT_V02_Q12_FAUX)
+4) [Charles de Gaulle.](EXAM_NAT_V02_Q12_FAUX)
 
 ## EXAM_NAT_V02_Q12_VRAI
 
@@ -51222,17 +51363,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Sur quel document peut-on voir Marianne ?**
+<!-- Source naturalisation : NAT-T4-015 -->
 
-1) [Uniquement sur le permis de conduire.](EXAM_NAT_V02_Q13_FAUX)
-2) [Uniquement sur les billets en euros.](EXAM_NAT_V02_Q13_FAUX)
-3) [Uniquement sur les passeports étrangers.](EXAM_NAT_V02_Q13_FAUX)
-4) [Sur les timbres, les pièces de monnaie ou les documents officiels de la République.](EXAM_NAT_V02_Q13_VRAI)
+**À quelle date le général de Gaulle a-t-il lancé son appel à la Résistance depuis Londres ?**
+
+1) [8 mai 1945.](EXAM_NAT_V02_Q13_FAUX)
+2) [6 juin 1944.](EXAM_NAT_V02_Q13_FAUX)
+3) [Le 18 juin 1940.](EXAM_NAT_V02_Q13_VRAI)
+4) [11 novembre 1918.](EXAM_NAT_V02_Q13_FAUX)
 
 ## EXAM_NAT_V02_Q13_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q14)
@@ -51241,7 +51384,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q13 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q14)
 
@@ -51260,17 +51403,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**Les parents d'élève ont le droit de :**
+<!-- Source naturalisation : NAT-T4-016 -->
 
-1) [Modifier les programmes scolaires.](EXAM_NAT_V02_Q14_FAUX)
-2) [Choisir les notes de leur enfant.](EXAM_NAT_V02_Q14_FAUX)
-3) [Décider seuls des sanctions disciplinaires.](EXAM_NAT_V02_Q14_FAUX)
-4) [Participer aux réunions organisées par l'école et échanger avec les enseignants.](EXAM_NAT_V02_Q14_VRAI)
+**Qu'est-ce que la Shoah ?**
+
+1) [Une bataille.](EXAM_NAT_V02_Q14_FAUX)
+2) [Une religion.](EXAM_NAT_V02_Q14_FAUX)
+3) [La Première Guerre mondiale.](EXAM_NAT_V02_Q14_FAUX)
+4) [L'extermination des Juifs d'Europe par le régime nazi.](EXAM_NAT_V02_Q14_VRAI)
 
 ## EXAM_NAT_V02_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q15)
@@ -51279,7 +51424,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q14 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q15)
 
@@ -51298,17 +51443,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Quel est le rôle du Conseil constitutionnel ?**
+<!-- Source naturalisation : NAT-T4-017 -->
 
-1) [Il vote les lois.](EXAM_NAT_V02_Q15_FAUX)
-2) [Il dirige le Gouvernement.](EXAM_NAT_V02_Q15_FAUX)
-3) [Il juge les crimes.](EXAM_NAT_V02_Q15_FAUX)
-4) [Il veille au respect de la Constitution.](EXAM_NAT_V02_Q15_VRAI)
+**Laquelle de ces œuvres a été écrite par Victor Hugo ?**
+
+1) [Les Misérables.](EXAM_NAT_V02_Q15_VRAI)
+2) [Le Petit Prince.](EXAM_NAT_V02_Q15_FAUX)
+3) [Madame Bovary.](EXAM_NAT_V02_Q15_FAUX)
+4) [Germinal.](EXAM_NAT_V02_Q15_FAUX)
 
 ## EXAM_NAT_V02_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q16)
@@ -51317,7 +51464,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q15 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q16)
 
@@ -51336,17 +51483,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Tous les citoyens français ont-ils obligatoirement la même religion ?**
+<!-- Source naturalisation : NAT-T4-018 -->
 
-1) [Oui.](EXAM_NAT_V02_Q16_FAUX)
-2) [Tous sont catholiques.](EXAM_NAT_V02_Q16_FAUX)
-3) [Tous doivent avoir une religion.](EXAM_NAT_V02_Q16_FAUX)
-4) [Non, chacun est libre de croire ou de ne pas croire.](EXAM_NAT_V02_Q16_VRAI)
+**Citez un pays ayant été colonisé par la France.**
+
+1) [Espagne.](EXAM_NAT_V02_Q16_FAUX)
+2) [Algérie.](EXAM_NAT_V02_Q16_VRAI)
+3) [Allemagne.](EXAM_NAT_V02_Q16_FAUX)
+4) [Japon.](EXAM_NAT_V02_Q16_FAUX)
 
 ## EXAM_NAT_V02_Q16_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q17)
@@ -51355,7 +51504,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q16 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q17)
 
@@ -51374,12 +51523,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?**
+<!-- Source naturalisation : NAT-T5-006 -->
 
-1) [La préfecture.](EXAM_NAT_V02_Q17_FAUX)
-2) [À la mairie.](EXAM_NAT_V02_Q17_VRAI)
-3) [Au commissariat.](EXAM_NAT_V02_Q17_FAUX)
-4) [A l'école directement.](EXAM_NAT_V02_Q17_FAUX)
+**À quel moment la naissance d'un enfant doit-elle être déclarée ?**
+
+1) [À son entrée à l'école.](EXAM_NAT_V02_Q17_FAUX)
+2) [Lors de sa naissance.](EXAM_NAT_V02_Q17_VRAI)
+3) [Lorsqu'il obtient sa carte d'identité.](EXAM_NAT_V02_Q17_FAUX)
+4) [À ses 18 ans.](EXAM_NAT_V02_Q17_FAUX)
 
 ## EXAM_NAT_V02_Q17_VRAI
 
@@ -51412,17 +51563,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Un citoyen a-t-il le droit d'adhérer à un parti politique ?**
+<!-- Source naturalisation : NAT-T5-007 -->
 
-1) [Non.](EXAM_NAT_V02_Q18_FAUX)
-2) [Seulement les élus.](EXAM_NAT_V02_Q18_FAUX)
-3) [Seulement les fonctionnaires.](EXAM_NAT_V02_Q18_FAUX)
-4) [Oui, chacun est libre d'adhérer ou non.](EXAM_NAT_V02_Q18_VRAI)
+**Dans quel délai la naissance d'un enfant doit-elle être déclarée à la mairie ?**
+
+1) [Dans le mois.](EXAM_NAT_V02_Q18_FAUX)
+2) [Avant un an.](EXAM_NAT_V02_Q18_FAUX)
+3) [Dans les cinq jours suivant la naissance.](EXAM_NAT_V02_Q18_VRAI)
+4) [À tout moment.](EXAM_NAT_V02_Q18_FAUX)
 
 ## EXAM_NAT_V02_Q18_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q19)
@@ -51431,7 +51584,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q18 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q19)
 
@@ -51450,17 +51603,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**Quelle ville française fait partie des 10 plus grandes métropoles du pays ?**
+<!-- Source naturalisation : NAT-T5-008 -->
 
-1) [Lyon.](EXAM_NAT_V02_Q19_VRAI)
-2) [Vichy.](EXAM_NAT_V02_Q19_FAUX)
-3) [Lourdes.](EXAM_NAT_V02_Q19_FAUX)
-4) [Colmar.](EXAM_NAT_V02_Q19_FAUX)
+**Quel numéro permet de joindre directement la police en cas d'urgence ?**
+
+1) [15.](EXAM_NAT_V02_Q19_FAUX)
+2) [18.](EXAM_NAT_V02_Q19_FAUX)
+3) [112.](EXAM_NAT_V02_Q19_FAUX)
+4) [Le 17.](EXAM_NAT_V02_Q19_VRAI)
 
 ## EXAM_NAT_V02_Q19_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q20)
@@ -51469,7 +51624,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q19 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q20)
 
@@ -51488,17 +51643,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**
+<!-- Source naturalisation : NAT-T5-009 -->
 
-1) [Les hommes doivent respecter le roi.](EXAM_NAT_V02_Q20_FAUX)
-2) [Les hommes naissent inégaux selon leur naissance.](EXAM_NAT_V02_Q20_FAUX)
-3) [Les hommes doivent appartenir à une religion.](EXAM_NAT_V02_Q20_FAUX)
-4) [Les hommes naissent et demeurent libres et égaux en droits.](EXAM_NAT_V02_Q20_VRAI)
+**Quel numéro permet de joindre directement le SAMU en cas d'urgence médicale ?**
+
+1) [Le 15.](EXAM_NAT_V02_Q20_VRAI)
+2) [17.](EXAM_NAT_V02_Q20_FAUX)
+3) [18.](EXAM_NAT_V02_Q20_FAUX)
+4) [112.](EXAM_NAT_V02_Q20_FAUX)
 
 ## EXAM_NAT_V02_Q20_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q21)
@@ -51507,7 +51664,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q20 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q21)
 
@@ -51526,17 +51683,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Qui était Marguerite Yourcenar ?**
+<!-- Source naturalisation : NAT-T5-010 -->
 
-1) [Une chanteuse.](EXAM_NAT_V02_Q21_FAUX)
-2) [Une peintre.](EXAM_NAT_V02_Q21_FAUX)
-3) [Une scientifique.](EXAM_NAT_V02_Q21_FAUX)
-4) [Une écrivaine française.](EXAM_NAT_V02_Q21_VRAI)
+**Où les parents doivent-ils d'abord s'adresser pour inscrire leur enfant à l'école publique ?**
+
+1) [À la préfecture.](EXAM_NAT_V02_Q21_FAUX)
+2) [À la mairie.](EXAM_NAT_V02_Q21_VRAI)
+3) [À France Travail.](EXAM_NAT_V02_Q21_FAUX)
+4) [À la CAF.](EXAM_NAT_V02_Q21_FAUX)
 
 ## EXAM_NAT_V02_Q21_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q22)
@@ -51545,7 +51704,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q21 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q22)
 
@@ -51564,10 +51723,12 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
+<!-- Source naturalisation : NAT-T1-005 -->
+
 **La liberté d'association est :**
 
-1) [L'obligation d'adhérer à une association.](EXAM_NAT_V02_Q22_FAUX)
-2) [Le droit de créer une association, d'y adhérer ou non.](EXAM_NAT_V02_Q22_VRAI)
+1) [Le droit de créer une association, d'y adhérer ou non.](EXAM_NAT_V02_Q22_VRAI)
+2) [L'obligation d'adhérer à une association.](EXAM_NAT_V02_Q22_FAUX)
 3) [Une association réservée aux citoyens français.](EXAM_NAT_V02_Q22_FAUX)
 4) [L'interdiction de créer une association sans autorisation de l'État.](EXAM_NAT_V02_Q22_FAUX)
 
@@ -51602,17 +51763,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**Qu'est-ce que la citoyenneté numérique ?**
+<!-- Source naturalisation : NAT-T1-006 -->
 
-1) [Savoir utiliser un ordinateur.](EXAM_NAT_V02_Q23_FAUX)
-2) [Être inscrit sur un réseau social.](EXAM_NAT_V02_Q23_FAUX)
-3) [Avoir un téléphone portable.](EXAM_NAT_V02_Q23_FAUX)
-4) [L'utilisation responsable, respectueuse et sécurisée des outils numériques et d'Internet.](EXAM_NAT_V02_Q23_VRAI)
+**La liberté d'expression sur les réseaux sociaux en France est :**
+
+1) [Totalement libre, sans aucune limite.](EXAM_NAT_V02_Q23_FAUX)
+2) [Garantie mais encadrée par la loi (interdiction de la haine, de la diffamation, des injures...).](EXAM_NAT_V02_Q23_VRAI)
+3) [Interdite sur Internet.](EXAM_NAT_V02_Q23_FAUX)
+4) [Réservée aux journalistes.](EXAM_NAT_V02_Q23_FAUX)
 
 ## EXAM_NAT_V02_Q23_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q24)
@@ -51621,7 +51784,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q23 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q24)
 
@@ -51640,17 +51803,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**Quel est l'un des premiers devoirs de tout citoyen ?**
+<!-- Source naturalisation : NAT-T1-007 -->
 
-1) [Voter à toutes les élections.](EXAM_NAT_V02_Q24_FAUX)
-2) [Être bénévole.](EXAM_NAT_V02_Q24_FAUX)
-3) [Appartenir à une association.](EXAM_NAT_V02_Q24_FAUX)
-4) [Respecter les lois.](EXAM_NAT_V02_Q24_VRAI)
+**Quel prénom évoque un symbole de la République ?**
+
+1) [Jeanne.](EXAM_NAT_V02_Q24_FAUX)
+2) [Marie.](EXAM_NAT_V02_Q24_FAUX)
+3) [Marianne.](EXAM_NAT_V02_Q24_VRAI)
+4) [Louise.](EXAM_NAT_V02_Q24_FAUX)
 
 ## EXAM_NAT_V02_Q24_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q25)
@@ -51659,7 +51824,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q24 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q25)
 
@@ -51678,17 +51843,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**Lequel de ces personnages a un lien avec la République française ?**
+<!-- Source naturalisation : NAT-T1-008 -->
 
-1) [Louis XIV.](EXAM_NAT_V02_Q25_FAUX)
-2) [Charlemagne.](EXAM_NAT_V02_Q25_FAUX)
-3) [François Ier.](EXAM_NAT_V02_Q25_FAUX)
-4) [Jules Ferry.](EXAM_NAT_V02_Q25_VRAI)
+**Citez un symbole qui représente officiellement la République française.**
+
+1) [La tour Eiffel.](EXAM_NAT_V02_Q25_FAUX)
+2) [Le béret.](EXAM_NAT_V02_Q25_FAUX)
+3) [Le coq.](EXAM_NAT_V02_Q25_FAUX)
+4) [Marianne.](EXAM_NAT_V02_Q25_VRAI)
 
 ## EXAM_NAT_V02_Q25_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q26)
@@ -51697,7 +51864,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q25 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q26)
 
@@ -51716,17 +51883,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**Que signifie être libre, en France ?**
+<!-- Source naturalisation : NAT-T2-008 -->
 
-1) [On peut faire tout ce que l'on veut.](EXAM_NAT_V02_Q26_FAUX)
-2) [Les lois ne s'appliquent pas.](EXAM_NAT_V02_Q26_FAUX)
-3) [Chacun décide de ses propres règles.](EXAM_NAT_V02_Q26_FAUX)
-4) [Chacun est libre tant qu'il respecte les droits des autres.](EXAM_NAT_V02_Q26_VRAI)
+**Parmi ces responsables, lequel est élu (et non nommé) ?**
+
+1) [Le préfet.](EXAM_NAT_V02_Q26_FAUX)
+2) [Le procureur.](EXAM_NAT_V02_Q26_FAUX)
+3) [Le maire.](EXAM_NAT_V02_Q26_VRAI)
+4) [Le Premier ministre.](EXAM_NAT_V02_Q26_FAUX)
 
 ## EXAM_NAT_V02_Q26_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q27)
@@ -51735,7 +51904,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q26 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q27)
 
@@ -51754,17 +51923,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**Une personne peut-elle changer librement de religion en France ?**
+<!-- Source naturalisation : NAT-T2-009 -->
 
-1) [Non, c'est interdit.](EXAM_NAT_V02_Q27_FAUX)
-2) [Seulement avec l'accord de l'État.](EXAM_NAT_V02_Q27_FAUX)
-3) [Seulement à partir de 18 ans.](EXAM_NAT_V02_Q27_FAUX)
-4) [Oui, chacun est libre de changer de religion.](EXAM_NAT_V02_Q27_VRAI)
+**Quel est le rôle du maire ?**
+
+1) [Il vote les lois.](EXAM_NAT_V02_Q27_FAUX)
+2) [Il dirige le Gouvernement.](EXAM_NAT_V02_Q27_FAUX)
+3) [Il représente la France à l'étranger.](EXAM_NAT_V02_Q27_FAUX)
+4) [Il dirige la commune, applique les décisions du conseil municipal et assure notamment l'état civil.](EXAM_NAT_V02_Q27_VRAI)
 
 ## EXAM_NAT_V02_Q27_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q28)
@@ -51773,7 +51944,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q27 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q28)
 
@@ -51792,17 +51963,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
-**Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?**
+<!-- Source naturalisation : NAT-T2-010 -->
 
-1) [Cinquième.](EXAM_NAT_V02_Q28_VRAI)
-2) [Première.](EXAM_NAT_V02_Q28_FAUX)
-3) [Deuxième.](EXAM_NAT_V02_Q28_FAUX)
-4) [Dixième.](EXAM_NAT_V02_Q28_FAUX)
+**Où peut-on demander son inscription sur les listes électorales sans effectuer de démarche en ligne ?**
+
+1) [À la mairie de son domicile.](EXAM_NAT_V02_Q28_VRAI)
+2) [À la préfecture.](EXAM_NAT_V02_Q28_FAUX)
+3) [Au commissariat.](EXAM_NAT_V02_Q28_FAUX)
+4) [À France Travail.](EXAM_NAT_V02_Q28_FAUX)
 
 ## EXAM_NAT_V02_Q28_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_PART2)
@@ -51811,7 +51984,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q28 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_PART2)
 
@@ -51826,6 +51999,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V02_Q29
 
 `@err_NAT_V02_Q29 = 0`
+`@exam_variant = 2`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -51838,19 +52013,21 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-Une amie vous demande si une femme a le droit de recourir à un avortement en France.
+<!-- Source naturalisation : MS-NAT-T4-004 -->
 
-**Que lui répondez-vous ?**
+Lors d’une visite culturelle, une personne de votre entourage souhaite vérifier un repère sur l’histoire, la géographie ou le patrimoine français. Un participant propose la réponse « Supprimer l'école privée ». Vous devez vérifier cette affirmation.
 
-1) [Non.](EXAM_NAT_V02_Q29_FAUX)
-2) [Seulement avec l'accord du mari.](EXAM_NAT_V02_Q29_FAUX)
-3) [Seulement avec l'accord du médecin.](EXAM_NAT_V02_Q29_FAUX)
-4) [Oui, dans les conditions prévues par la loi.](EXAM_NAT_V02_Q29_VRAI)
+**Quel était l'objectif principal des lois de Jules Ferry (1881-1882) ?**
+
+1) [Supprimer l'école privée.](EXAM_NAT_V02_Q29_FAUX)
+2) [Créer les universités.](EXAM_NAT_V02_Q29_FAUX)
+3) [Rendre l'école payante.](EXAM_NAT_V02_Q29_FAUX)
+4) [Rendre l'école gratuite, laïque et obligatoire.](EXAM_NAT_V02_Q29_VRAI)
 
 ## EXAM_NAT_V02_Q29_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q30)
@@ -51859,7 +52036,7 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_NAT_V02_Q29 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q30)
 
@@ -51878,19 +52055,21 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 ### Question 30 sur 40
 
-Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réellement de faire en France, pensant que cela veut dire « choisir ses propres règles ».
+<!-- Source naturalisation : MS-NAT-T4-005 -->
 
-**Que pouvez-vous lui répondre ?**
+Vous préparez une sortie en France et une discussion s’engage autour d’un lieu, d’une personnalité ou d’un événement important. Un proche pense que la bonne réponse pourrait être « Création de l'Union européenne ». Aidez-le à raisonner.
 
-1) [Il peut refuser de respecter les lois si elles sont contraires à ses principes.](EXAM_NAT_V02_Q30_FAUX)
-2) [Il peut imposer ses idées aux autres.](EXAM_NAT_V02_Q30_FAUX)
-3) [Il peut choisir ses propres règles.](EXAM_NAT_V02_Q30_FAUX)
-4) [Il peut choisir sa religion ou ne pas en avoir.](EXAM_NAT_V02_Q30_VRAI)
+**Pourquoi l'année 1958 est-elle importante dans l'histoire des institutions françaises ?**
+
+1) [Adoption de la Constitution qui fonde la Ve République.](EXAM_NAT_V02_Q30_VRAI)
+2) [Début de la Première Guerre mondiale.](EXAM_NAT_V02_Q30_FAUX)
+3) [Création de l'Union européenne.](EXAM_NAT_V02_Q30_FAUX)
+4) [Révolution française.](EXAM_NAT_V02_Q30_FAUX)
 
 ## EXAM_NAT_V02_Q30_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q31)
@@ -51899,7 +52078,7 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_NAT_V02_Q30 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q31)
 
@@ -51918,19 +52097,21 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 ### Question 31 sur 40
 
-Une personne récemment installée en France envisage de changer de religion, mais craint que cela ne soit interdit par la loi française.
+<!-- Source naturalisation : MS-NAT-T4-006 -->
 
-**A-t-elle le droit de changer de religion ?**
+Au cours d’un atelier culturel, votre groupe doit reconnaître un repère essentiel de l’histoire ou de la géographie française. Dans le groupe, la réponse « L'abolition de la peine de mort » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Seulement avec l'autorisation de l'État.](EXAM_NAT_V02_Q31_FAUX)
-2) [Seulement avec une autorisation religieuse.](EXAM_NAT_V02_Q31_FAUX)
-3) [Non, c'est interdit par la loi.](EXAM_NAT_V02_Q31_FAUX)
-4) [Oui.](EXAM_NAT_V02_Q31_VRAI)
+**Quelle loi Simone Veil a-t-elle fait adopter en 1975 ?**
+
+1) [La création de la Sécurité sociale.](EXAM_NAT_V02_Q31_FAUX)
+2) [La loi légalisant l'interruption volontaire de grossesse (IVG).](EXAM_NAT_V02_Q31_VRAI)
+3) [La Constitution.](EXAM_NAT_V02_Q31_FAUX)
+4) [L'abolition de la peine de mort.](EXAM_NAT_V02_Q31_FAUX)
 
 ## EXAM_NAT_V02_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q32)
@@ -51939,7 +52120,7 @@ Une personne récemment installée en France envisage de changer de religion, ma
 
 `@err_NAT_V02_Q31 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q32)
 
@@ -51958,19 +52139,21 @@ Une personne récemment installée en France envisage de changer de religion, ma
 
 ### Question 32 sur 40
 
-Dans le même exercice, vous devez maintenant identifier laquelle de ces infractions constitue un délit.
+<!-- Source naturalisation : MS-NAT-T5-003 -->
 
-**Laquelle choisissez-vous ?**
+Une famille récemment installée en France vous demande de l’aider à comprendre une règle pratique de la société française. Un proche pense que la bonne réponse pourrait être « Les fiançailles ». Aidez-le à raisonner.
 
-1) [Un homicide volontaire.](EXAM_NAT_V02_Q32_FAUX)
-2) [Un stationnement interdit.](EXAM_NAT_V02_Q32_FAUX)
-3) [Jeter un papier dans la rue.](EXAM_NAT_V02_Q32_FAUX)
-4) [Un vol.](EXAM_NAT_V02_Q32_VRAI)
+**Quel mariage est reconnu par l'État français ?**
+
+1) [Le mariage religieux uniquement.](EXAM_NAT_V02_Q32_FAUX)
+2) [Le mariage coutumier.](EXAM_NAT_V02_Q32_FAUX)
+3) [Le mariage civil, célébré à la mairie.](EXAM_NAT_V02_Q32_VRAI)
+4) [Les fiançailles.](EXAM_NAT_V02_Q32_FAUX)
 
 ## EXAM_NAT_V02_Q32_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q33)
@@ -51979,7 +52162,7 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 `@err_NAT_V02_Q32 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q33)
 
@@ -51998,19 +52181,21 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 ### Question 33 sur 40
 
-Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respectueuse de l'environnement au quotidien.
+<!-- Source naturalisation : MS-NAT-T5-004 -->
 
-**Laquelle de ces actions y contribue ?**
+Au travail, à l’école, dans le logement ou dans le système de santé, un proche souhaite vérifier la bonne démarche. Dans le groupe, la réponse « Autorisé pour tout le monde en cas d'urgence » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Jeter ses déchets dans la nature.](EXAM_NAT_V02_Q33_FAUX)
-2) [Brûler ses déchets dans son jardin.](EXAM_NAT_V02_Q33_FAUX)
-3) [Abandonner ses encombrants sur le trottoir.](EXAM_NAT_V02_Q33_FAUX)
-4) [Trier ses déchets.](EXAM_NAT_V02_Q33_VRAI)
+**Le stationnement sur une place réservée aux personnes handicapées est :**
+
+1) [Autorisé pour tout le monde en cas d'urgence.](EXAM_NAT_V02_Q33_FAUX)
+2) [Autorisé le week-end pour tous.](EXAM_NAT_V02_Q33_FAUX)
+3) [Interdit dans tous les cas, même avec une carte.](EXAM_NAT_V02_Q33_FAUX)
+4) [Autorisé uniquement pour les véhicules disposant de la carte de stationnement (CMI).](EXAM_NAT_V02_Q33_VRAI)
 
 ## EXAM_NAT_V02_Q33_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q34)
@@ -52019,7 +52204,7 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 
 `@err_NAT_V02_Q33 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q34)
 
@@ -52038,19 +52223,21 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 
 ### Question 34 sur 40
 
-Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicalement assistée) pour avoir un enfant, et se demande à quelle liberté fondamentale ce droit se rattache.
+<!-- Source naturalisation : MS-NAT-T1-003 -->
 
-**Que lui répondez-vous ?**
+Une personne de votre entourage prépare son entretien de naturalisation et vous demande de l’aider sur un principe républicain. Dans le groupe, la réponse « Réservé aux propriétaires » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [La liberté de disposer de son corps.](EXAM_NAT_V02_Q34_VRAI)
-2) [La liberté de circuler.](EXAM_NAT_V02_Q34_FAUX)
-3) [La liberté d'expression.](EXAM_NAT_V02_Q34_FAUX)
-4) [La liberté de la presse.](EXAM_NAT_V02_Q34_FAUX)
+**Déclarer ses revenus aux services fiscaux est :**
+
+1) [Facultatif.](EXAM_NAT_V02_Q34_FAUX)
+2) [Réservé aux salariés.](EXAM_NAT_V02_Q34_FAUX)
+3) [Une obligation.](EXAM_NAT_V02_Q34_VRAI)
+4) [Réservé aux propriétaires.](EXAM_NAT_V02_Q34_FAUX)
 
 ## EXAM_NAT_V02_Q34_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q35)
@@ -52059,7 +52246,7 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 
 `@err_NAT_V02_Q34 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q35)
 
@@ -52078,14 +52265,16 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 
 ### Question 35 sur 40
 
-Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux visible et vous demande ce que signifie la « neutralité de l'État ».
+<!-- Source naturalisation : MS-NAT-T1-004 -->
 
-**Que lui répondez-vous ?**
+Pendant une discussion sur la citoyenneté française, un proche hésite sur une règle ou un symbole de la République. Une personne hésite et choisit « Ils financent uniquement les salaires des élus ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [L'État interdit les religions.](EXAM_NAT_V02_Q35_FAUX)
-2) [L'État choisit une religion officielle.](EXAM_NAT_V02_Q35_FAUX)
-3) [L'État ne favorise ni ne défavorise aucune religion.](EXAM_NAT_V02_Q35_VRAI)
-4) [L'État finance une seule religion.](EXAM_NAT_V02_Q35_FAUX)
+**En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?**
+
+1) [Ils financent uniquement les salaires des élus.](EXAM_NAT_V02_Q35_FAUX)
+2) [Ils sont reversés directement aux entreprises.](EXAM_NAT_V02_Q35_FAUX)
+3) [Ils ne financent que l'armée.](EXAM_NAT_V02_Q35_FAUX)
+4) [Ils financent notamment les écoles, les hôpitaux, la police et les routes.](EXAM_NAT_V02_Q35_VRAI)
 
 ## EXAM_NAT_V02_Q35_VRAI
 
@@ -52099,7 +52288,7 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 `@err_NAT_V02_Q35 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q36)
 
@@ -52118,19 +52307,21 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 ### Question 36 sur 40
 
-Un collègue originaire d'une région où l'on parle une langue régionale vous affirme que chaque région de France est libre de choisir sa propre langue officielle.
+<!-- Source naturalisation : MS-NAT-T2-005 -->
 
-**Que lui répondez-vous ?**
+Lors d’un atelier civique à la mairie, une personne cherche à comprendre le rôle des responsables publics et des institutions. Un proche pense que la bonne réponse pourrait être « Automatique dès la naissance, sans démarche ». Aidez-le à raisonner.
 
-1) [Chaque région choisit sa langue officielle.](EXAM_NAT_V02_Q36_FAUX)
-2) [Le français est la langue de la République.](EXAM_NAT_V02_Q36_VRAI)
-3) [Il existe plusieurs langues officielles en France.](EXAM_NAT_V02_Q36_FAUX)
-4) [L'anglais est la langue officielle.](EXAM_NAT_V02_Q36_FAUX)
+**L'inscription sur les listes électorales est-elle... ?**
+
+1) [Facultative.](EXAM_NAT_V02_Q36_FAUX)
+2) [Réservée à certaines professions.](EXAM_NAT_V02_Q36_FAUX)
+3) [Automatique dès la naissance, sans démarche.](EXAM_NAT_V02_Q36_FAUX)
+4) [Obligatoire pour pouvoir voter.](EXAM_NAT_V02_Q36_VRAI)
 
 ## EXAM_NAT_V02_Q36_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q37)
@@ -52139,7 +52330,7 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_NAT_V02_Q36 = 1`
 
-`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q37)
 
@@ -52158,19 +52349,21 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 ### Question 37 sur 40
 
-Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation de handicap, en affirmant que c'est « juste de l'humour », protégé selon lui par la liberté d'expression.
+<!-- Source naturalisation : MS-NAT-T2-006 -->
 
-**A-t-il le droit d'agir ainsi ?**
+Une discussion sur les élections amène votre entourage à vérifier une règle du système politique français. Dans le groupe, la réponse « Avoir un emploi » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Oui, c'est la liberté d'expression.](EXAM_NAT_V02_Q37_FAUX)
-2) [Non, ce comportement n'est pas autorisé.](EXAM_NAT_V02_Q37_VRAI)
-3) [Oui, si c'est présenté comme une plaisanterie.](EXAM_NAT_V02_Q37_FAUX)
-4) [Oui, si cela se passe sur Internet.](EXAM_NAT_V02_Q37_FAUX)
+**Citez une condition nécessaire pour voter à l'élection présidentielle.**
+
+1) [Être de nationalité française, majeur et inscrit sur les listes électorales.](EXAM_NAT_V02_Q37_VRAI)
+2) [Avoir un emploi.](EXAM_NAT_V02_Q37_FAUX)
+3) [Être marié.](EXAM_NAT_V02_Q37_FAUX)
+4) [Payer des impôts.](EXAM_NAT_V02_Q37_FAUX)
 
 ## EXAM_NAT_V02_Q37_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q38)
@@ -52179,7 +52372,7 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 
 `@err_NAT_V02_Q37 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q38)
 
@@ -52198,19 +52391,21 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 
 ### Question 38 sur 40
 
-Lors d'un examen blanc, on vous demande de définir précisément ce que représente la laïcité, au-delà de la simple idée de neutralité.
+<!-- Source naturalisation : MS-NAT-T2-007 -->
 
-**Quelle est la définition la plus complète ?**
+Un proche prépare une démarche citoyenne et souhaite clarifier le fonctionnement de la République et de ses institutions. Une personne hésite et choisit « Être marié ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [L'interdiction de toutes les religions.](EXAM_NAT_V02_Q38_FAUX)
-2) [La séparation des Églises et de l'État, garantissant la liberté de conscience.](EXAM_NAT_V02_Q38_VRAI)
-3) [L'obligation d'avoir une religion.](EXAM_NAT_V02_Q38_FAUX)
-4) [La priorité donnée à une religion par l'État.](EXAM_NAT_V02_Q38_FAUX)
+**Citez une condition pour être candidat aux élections municipales.**
+
+1) [Être fonctionnaire.](EXAM_NAT_V02_Q38_FAUX)
+2) [Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).](EXAM_NAT_V02_Q38_VRAI)
+3) [Être marié.](EXAM_NAT_V02_Q38_FAUX)
+4) [Être propriétaire.](EXAM_NAT_V02_Q38_FAUX)
 
 ## EXAM_NAT_V02_Q38_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q39)
@@ -52219,7 +52414,7 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 
 `@err_NAT_V02_Q38 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V02_Q39)
 
@@ -52238,14 +52433,16 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 
 ### Question 39 sur 40
 
-Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alcool, estimant que cela relève selon lui de sa liberté personnelle.
+<!-- Source naturalisation : MS-NAT-T3-003 -->
 
-**Quel principe justifie cette interdiction ?**
+Pendant un atelier d’accès aux droits, une personne vous demande de l’aider à identifier la règle applicable. Dans le groupe, la réponse « Les hommes naissent inégaux selon leur naissance » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [L'interdiction de conduire après avoir consommé de l'alcool protège l'intérêt général.](EXAM_NAT_V02_Q39_VRAI)
-2) [L'interdiction de voter.](EXAM_NAT_V02_Q39_FAUX)
-3) [L'interdiction de choisir sa religion.](EXAM_NAT_V02_Q39_FAUX)
-4) [L'interdiction de se marier.](EXAM_NAT_V02_Q39_FAUX)
+**Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**
+
+1) [Les hommes doivent respecter le roi.](EXAM_NAT_V02_Q39_FAUX)
+2) [Les hommes naissent inégaux selon leur naissance.](EXAM_NAT_V02_Q39_FAUX)
+3) [Les hommes naissent et demeurent libres et égaux en droits.](EXAM_NAT_V02_Q39_VRAI)
+4) [Les hommes doivent appartenir à une religion.](EXAM_NAT_V02_Q39_FAUX)
 
 ## EXAM_NAT_V02_Q39_VRAI
 
@@ -52278,14 +52475,16 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 
 ### Question 40 sur 40
 
-Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionnés, puisqu'il s'agit selon lui simplement de son opinion personnelle.
+<!-- Source naturalisation : MS-NAT-T3-004 -->
 
-**Pour quel motif peut-on réellement limiter la liberté d'expression ?**
+Une personne de votre entourage rencontre une situation concrète et veut agir dans le respect de la loi française. Une personne hésite et choisit « Chacun décide de ses propres règles ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Parce qu'une opinion déplaît.](EXAM_NAT_V02_Q40_FAUX)
-2) [Pour protéger les droits d'autrui, l'ordre public ou lutter contre les infractions prévues par la loi.](EXAM_NAT_V02_Q40_VRAI)
-3) [Pour interdire toute critique.](EXAM_NAT_V02_Q40_FAUX)
-4) [Sans justification particulière.](EXAM_NAT_V02_Q40_FAUX)
+**Que signifie être libre, en France ?**
+
+1) [On peut faire tout ce que l'on veut.](EXAM_NAT_V02_Q40_FAUX)
+2) [Les lois ne s'appliquent pas.](EXAM_NAT_V02_Q40_FAUX)
+3) [Chacun décide de ses propres règles.](EXAM_NAT_V02_Q40_FAUX)
+4) [Chacun est libre tant qu'il respecte les droits des autres.](EXAM_NAT_V02_Q40_VRAI)
 
 ## EXAM_NAT_V02_Q40_VRAI
 
@@ -52316,192 +52515,192 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V02_Q01 == 1`
-**1. Que fête-t-on le 8 mai ?**  
-✅ La fin de la seconde guerre mondiale.
+**1. À partir de quel âge devient-on électeur en France ?**  
+✅ 18 ans.
 
-Le 8 mai est un jour férié en France. Il commémore la victoire des Alliés sur l'Allemagne nazie en 1945 et rend hommage aux combattants et aux victimes de la Seconde Guerre mondiale.
+En France, toute personne remplissant les conditions prévues par la loi devient électeur à partir de 18 ans.
 
-💡 Retenez : 8 mai 1945 = victoire de la France contre l'Allemagne
+💡 Retenez le mot-clé : électeur = 18 ans
 `endif`
 
 `if @err_NAT_V02_Q02 == 1`
-**2. Qui juge et sanctionne les auteurs d'infractions ?**  
-✅ La justice.
+**2. Le vote est-il obligatoire en France ?**  
+✅ Non, c'est un droit, pas une obligation.
 
-La police enquête et interpelle les auteurs d'infractions, mais c'est la justice, par l'intermédiaire des tribunaux, qui juge et sanctionne les infractions.
+En France, le vote est un droit civique, mais il n'est pas obligatoire. Chaque électeur est libre de participer ou non aux élections.
 
-💡 Retenez le mot-clé : juger et sanctionner = la justice (pas la police)
+💡 Retenez le mot-clé : vote = droit, pas une obligation
 `endif`
 
 `if @err_NAT_V02_Q03 == 1`
-**3. Citez un symbole qui représente officiellement la République française.**  
-✅ Marianne.
+**3. A-t-on le droit de ne pas respecter une loi que l'on juge injuste ?**  
+✅ Non, chacun doit respecter la loi.
 
-Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ». Le coq, la tour Eiffel et le béret n'en font pas partie.
+L'État de droit repose sur le respect des lois par tous. Personne n'est au-dessus de la loi. En cas de désaccord, il existe des voies légales pour la contester.
 
-💡 Retenez le mot-clé : symboles officiels = drapeau, Marianne, Marseillaise, devise
+💡 Retenez le mot-clé : loi = respect obligatoire pour tous
 `endif`
 
 `if @err_NAT_V02_Q04 == 1`
-**4. Que doit obtenir un candidat pour se présenter à l'élection présidentielle ?**  
-✅ Obtenir 500 parrainages d'élus.
+**4. Que dit l'article 1er de la Constitution à propos de la France ?**  
+✅ La France est une République indivisible, laïque, démocratique et sociale.
 
-Parmi les conditions prévues par la loi, un candidat à l'élection présidentielle doit recueillir 500 présentations (parrainages) d'élus habilités.
+L'article 1er de la Constitution définit les principes fondamentaux de la République française : « La France est une République indivisible, laïque, démocratique et sociale. » Cette formulation est à connaître par cœur pour l'examen.
 
-💡 Retenez le mot-clé : candidature présidentielle = 500 parrainages d'élus
+💡 Retenez le mot-clé : article 1er = indivisible, laïque, démocratique, sociale
 `endif`
 
 `if @err_NAT_V02_Q05 == 1`
-**5. Quel était le surnom de Louis XIV ?**  
-✅ Le Roi-Soleil.
+**5. Que garantit la liberté de la presse ?**  
+✅ La liberté d'informer et d'être informé.
 
-Louis XIV (1638-1715) est surnommé le Roi-Soleil. Son règne est l'un des plus longs de l'histoire de France et il a renforcé le pouvoir de la monarchie.
+La liberté de la presse permet aux médias d'informer le public tout en respectant les lois, notamment celles qui protègent les personnes contre la diffamation, l'injure ou la provocation à la haine.
 
-💡 Retenez : Louis XIV = Roi-Soleil
+💡 Retenez le mot-clé : liberté de la presse = informer et être informé
 `endif`
 
 `if @err_NAT_V02_Q06 == 1`
-**6. Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**  
-✅ Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.
+**6. Que permet la liberté de circulation ?**  
+✅ Se déplacer librement, dans le respect de la loi.
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+La liberté de circulation est une liberté fondamentale. Elle permet de se déplacer librement, sous réserve des règles prévues par la loi.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Retenez le mot-clé : liberté de circulation = se déplacer dans le respect de la loi
 `endif`
 
 `if @err_NAT_V02_Q07 == 1`
-**7. Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans son contrat de travail :**  
-✅ Les heures supplémentaires doivent respecter les règles prévues par la loi.
+**7. Qu'implique le fait d'être citoyen d'un État ?**  
+✅ Avoir des droits et des devoirs dans cet État.
 
-Les heures supplémentaires sont encadrées par le Code du travail. Elles doivent respecter les limites légales ou conventionnelles et donnent généralement droit à une rémunération majorée ou à un repos compensateur.
+Être citoyen signifie bénéficier de droits (vote, libertés...) mais aussi respecter des devoirs (respect des lois, solidarité, participation à la vie démocratique...).
 
-💡 Retenez : Les heures supplémentaires doivent respecter des lois et sont limitées
+💡 Retenez le mot-clé : citoyen = droits ET devoirs
 `endif`
 
 `if @err_NAT_V02_Q08 == 1`
-**8. Citez une condition nécessaire pour voter à l'élection présidentielle.**  
-✅ Être de nationalité française, majeur et inscrit sur les listes électorales.
+**8. Qui est l'auteur des grandes lois scolaires de la IIIᵉ République rendant l'école gratuite, laïque et obligatoire ?**  
+✅ Jules Ferry.
 
-Pour voter à l'élection présidentielle, plusieurs conditions doivent être remplies, notamment être français, majeur, inscrit sur une liste électorale et disposer de ses droits civils et politiques.
+Jules Ferry est l'auteur des grandes lois scolaires de la IIIᵉ République. Elles garantissent l'accès de tous les enfants à une école publique gratuite, laïque et obligatoire.
 
-💡 Retenez le mot-clé : voter = nationalité française + majeur + inscrit sur les listes
+💡 Retenez le mot-clé : lois scolaires (1881-1882) = Jules Ferry
 `endif`
 
 `if @err_NAT_V02_Q09 == 1`
-**9. Qui dirige l'action du Gouvernement au quotidien ?**  
-✅ Le Premier ministre.
+**9. Quel roi de France a été guillotiné le 21 janvier 1793 pendant la Révolution ?**  
+✅ Louis XVI.
 
-Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du Gouvernement et veille à l'exécution des lois.
+Louis XVI est le dernier roi de l'Ancien Régime. Il est guillotiné le 21 janvier 1793 pendant la Révolution française.
 
-💡 Retenez le mot-clé : action du Gouvernement = dirigée par le Premier ministre
+💡 Retenez le mot-clé : roi guillotiné en 1793 = Louis XVI
 `endif`
 
 `if @err_NAT_V02_Q10 == 1`
-**10. Quel pays a été colonisé par la France ?**  
-✅ L'Algérie.
+**10. En quelle année a débuté la Révolution française ?**  
+✅ 1789.
 
-Au cours de son histoire, la France a constitué un empire colonial sur plusieurs continents. L'Algérie, le Sénégal, Madagascar ou encore le Vietnam en ont fait partie.
+La Révolution française débute en 1789. Cette année marque notamment la prise de la Bastille le 14 juillet et l'adoption de la Déclaration des droits de l'Homme et du Citoyen.
 
-💡 Retenez : L'Algérie a été colonisée par la France
+💡 Retenez le mot-clé : Révolution française = 1789
 `endif`
 
 `if @err_NAT_V02_Q11 == 1`
-**11. Que porte Marianne sur la tête ?**  
-✅ Un bonnet phrygien.
+**11. En quelle année Napoléon Bonaparte est-il devenu empereur des Français ?**  
+✅ 1804.
 
-Le bonnet phrygien est un symbole de liberté hérité de la Révolution française. Il est porté par Marianne, figure emblématique de la République.
+Napoléon Bonaparte devient empereur des Français en 1804. Son sacre a lieu le 2 décembre 1804 à Notre-Dame de Paris.
 
-💡 Retenez le mot-clé : Marianne = bonnet phrygien
+💡 Retenez le mot-clé : Napoléon empereur = 1804
 `endif`
 
 `if @err_NAT_V02_Q12 == 1`
-**12. Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?**  
-✅ L'Organisation des Nations unies (ONU).
+**12. Quel homme d'État a fait adopter des lois rendant l'école laïque, gratuite et obligatoire pour les enfants de 6 à 13 ans ?**  
+✅ Jules Ferry.
 
-L'ONU a été créée après la Seconde Guerre mondiale afin de maintenir la paix, promouvoir les droits humains et encourager la coopération internationale.
+Jules Ferry est un homme d'État français. Il a fait adopter des lois qui rendent l'école laïque, gratuite et obligatoire pour tous les enfants âgés de 6 à 13 ans.
 
-💡 Retenez : ONU = maitien de la paix
+💡 Retenez le mot-clé : école laïque, gratuite, obligatoire (6-13 ans) = Jules Ferry
 `endif`
 
 `if @err_NAT_V02_Q13 == 1`
-**13. Sur quel document peut-on voir Marianne ?**  
-✅ Sur les timbres, les pièces de monnaie ou les documents officiels de la République.
+**13. À quelle date le général de Gaulle a-t-il lancé son appel à la Résistance depuis Londres ?**  
+✅ Le 18 juin 1940.
 
-Marianne est la représentation officielle de la République française. Son effigie est présente sur plusieurs documents et symboles officiels.
+Le 18 juin 1940, depuis Londres, le général de Gaulle lance un appel à poursuivre le combat contre l'Allemagne nazie. Cet appel est devenu le symbole de la Résistance française.
 
-💡 Retenez le mot-clé : Marianne = timbres, pièces, documents officiels
+💡 Retenez le mot-clé : appel à la Résistance = 18 juin 1940
 `endif`
 
 `if @err_NAT_V02_Q14 == 1`
-**14. Les parents d'élève ont le droit de :**  
-✅ Participer aux réunions organisées par l'école et échanger avec les enseignants.
+**14. Qu'est-ce que la Shoah ?**  
+✅ L'extermination des Juifs d'Europe par le régime nazi.
 
-Les parents sont des partenaires de l'école. Ils peuvent rencontrer les enseignants, participer aux réunions et suivre la scolarité de leur enfant, dans le respect du fonctionnement de l'établissement.
+La Shoah désigne l'extermination systématique d'environ six millions de Juifs par le régime nazi entre 1941 et 1945. Son étude participe au devoir de mémoire et à la lutte contre l'antisémitisme et le racisme.
 
-💡 Retenez : Les parents peuvent échanger et participer aux réunions scolaires
+💡 Retenez le mot-clé : Shoah = extermination des Juifs par le régime nazi
 `endif`
 
 `if @err_NAT_V02_Q15 == 1`
-**15. Quel est le rôle du Conseil constitutionnel ?**  
-✅ Il veille au respect de la Constitution.
+**15. Laquelle de ces œuvres a été écrite par Victor Hugo ?**  
+✅ Les Misérables.
 
-Le Conseil constitutionnel contrôle la conformité des lois à la Constitution et veille au bon déroulement de certaines élections et référendums.
+Victor Hugo est l'un des plus grands écrivains français. Parmi ses œuvres les plus célèbres figurent Les Misérables et Notre-Dame de Paris.
 
-💡 Retenez le mot-clé : Conseil constitutionnel = contrôle la conformité des lois à la Constitution
+💡 Retenez le mot-clé : Victor Hugo = Les Misérables, Notre-Dame de Paris
 `endif`
 
 `if @err_NAT_V02_Q16 == 1`
-**16. Tous les citoyens français ont-ils obligatoirement la même religion ?**  
-✅ Non, chacun est libre de croire ou de ne pas croire.
+**16. Citez un pays ayant été colonisé par la France.**  
+✅ Algérie.
 
-La République garantit la liberté de conscience. Chacun est libre de pratiquer une religion, d'en changer ou de ne pas croire.
+La France a constitué un vaste empire colonial, notamment en Afrique, en Asie et dans les Caraïbes. Plusieurs pays actuels (Algérie, Maroc, Tunisie, Sénégal, Vietnam, Côte d'Ivoire, Madagascar...) ont été des colonies ou des protectorats français.
 
-💡 Retenez le mot-clé : liberté de conscience = croire ou ne pas croire
+💡 Retenez le mot-clé : empire colonial français = Algérie, Sénégal, Madagascar, Indochine...
 `endif`
 
 `if @err_NAT_V02_Q17 == 1`
-**17. Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?**  
-✅ À la mairie.
+**17. À quel moment la naissance d'un enfant doit-elle être déclarée ?**  
+✅ Lors de sa naissance.
 
-L'inscription à l'école publique commence généralement par une démarche auprès de la mairie de la commune de résidence.
+La naissance d'un enfant doit obligatoirement être déclarée au service de l'état civil afin qu'un acte de naissance soit établi.
 
-💡 Retenez : Contactez la mairie pour inscrire un enfant à l'école publique
+💡 Retenez le mot-clé : déclaration de naissance = dès la naissance
 `endif`
 
 `if @err_NAT_V02_Q18 == 1`
-**18. Un citoyen a-t-il le droit d'adhérer à un parti politique ?**  
-✅ Oui, chacun est libre d'adhérer ou non.
+**18. Dans quel délai la naissance d'un enfant doit-elle être déclarée à la mairie ?**  
+✅ Dans les cinq jours suivant la naissance.
 
-La liberté d'association comprend également la possibilité de créer ou de rejoindre un parti politique. Cette liberté participe au fonctionnement démocratique.
+En France, la déclaration de naissance doit être réalisée dans les cinq jours suivant la naissance auprès de la mairie du lieu de naissance.
 
-💡 Retenez le mot-clé : parti politique = liberté d'adhérer ou non
+💡 Retenez le mot-clé : déclaration de naissance = dans les 5 jours
 `endif`
 
 `if @err_NAT_V02_Q19 == 1`
-**19. Quelle ville française fait partie des 10 plus grandes métropoles du pays ?**  
-✅ Lyon.
+**19. Quel numéro permet de joindre directement la police en cas d'urgence ?**  
+✅ Le 17.
 
-La France compte plusieurs grandes métropoles qui concentrent une grande partie de la population, des emplois et des activités économiques.
+Le 17 permet de contacter la police ou la gendarmerie en cas d'urgence nécessitant leur intervention. Le 112 fonctionne aussi dans toute l'Union européenne, mais le numéro national dédié à la police reste le 17.
 
-💡 Retenez : Lyon est la 2e ville la plus peuplée (plus d'un million d'habitants)
+💡 Retenez le mot-clé : police = 17
 `endif`
 
 `if @err_NAT_V02_Q20 == 1`
-**20. Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**  
-✅ Les hommes naissent et demeurent libres et égaux en droits.
+**20. Quel numéro permet de joindre directement le SAMU en cas d'urgence médicale ?**  
+✅ Le 15.
 
-L'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 affirme : « Les hommes naissent et demeurent libres et égaux en droits. »
+Le 15 permet de contacter le SAMU pour toute urgence médicale nécessitant une intervention rapide.
 
-💡 Retenez le mot-clé : article 1er DDHC = libres et égaux en droits
+💡 Retenez le mot-clé : SAMU = 15
 `endif`
 
 `if @err_NAT_V02_Q21 == 1`
-**21. Qui était Marguerite Yourcenar ?**  
-✅ Une écrivaine française.
+**21. Où les parents doivent-ils d'abord s'adresser pour inscrire leur enfant à l'école publique ?**  
+✅ À la mairie.
 
-Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient la première femme élue à l'Académie française.
+Pour une école publique, les parents effectuent d'abord l'inscription auprès de la mairie, puis présentent les documents demandés par l'établissement scolaire.
 
-💡 Retenez : Marguerite Yourcenar = écrivaine
+💡 Retenez le mot-clé : inscription école publique = mairie d'abord
 `endif`
 
 `if @err_NAT_V02_Q22 == 1`
@@ -52514,57 +52713,57 @@ La liberté d'association est une liberté fondamentale. Chacun est libre de cr�
 `endif`
 
 `if @err_NAT_V02_Q23 == 1`
-**23. Qu'est-ce que la citoyenneté numérique ?**  
-✅ L'utilisation responsable, respectueuse et sécurisée des outils numériques et d'Internet.
+**23. La liberté d'expression sur les réseaux sociaux en France est :**  
+✅ Garantie mais encadrée par la loi (interdiction de la haine, de la diffamation, des injures...).
 
-La citoyenneté numérique implique de respecter les autres en ligne, protéger ses données personnelles, vérifier les informations avant de les partager et respecter les lois sur Internet.
+La liberté d'expression s'applique aussi sur Internet et les réseaux sociaux. Cependant, elle ne permet pas d'insulter, de diffamer, de harceler ou d'inciter à la haine ou à la violence.
 
-💡 Retenez le mot-clé : citoyenneté numérique = usage responsable, respectueux, sécurisé d'Internet
+💡 Retenez le mot-clé : liberté d'expression en ligne = garantie mais encadrée par la loi
 `endif`
 
 `if @err_NAT_V02_Q24 == 1`
-**24. Quel est l'un des premiers devoirs de tout citoyen ?**  
-✅ Respecter les lois.
+**24. Quel prénom évoque un symbole de la République ?**  
+✅ Marianne.
 
-Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. Le premier d'entre eux est de respecter les lois de la République.
+Marianne est la représentation symbolique de la République française. Elle incarne les valeurs de liberté, d'égalité et de fraternité.
 
-💡 Retenez le mot-clé : premier devoir du citoyen = respecter les lois
+💡 Retenez le mot-clé : Marianne = symbole de la République
 `endif`
 
 `if @err_NAT_V02_Q25 == 1`
-**25. Lequel de ces personnages a un lien avec la République française ?**  
-✅ Jules Ferry.
+**25. Citez un symbole qui représente officiellement la République française.**  
+✅ Marianne.
 
-Jules Ferry est connu pour les lois qui ont rendu l'école gratuite, laïque et obligatoire. Son action est étroitement liée aux valeurs de la République.
+Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ». Le coq, la tour Eiffel et le béret n'en font pas partie.
 
-💡 Retenez : Jules Ferry a rendu l'école obligatoire
+💡 Retenez le mot-clé : symboles officiels = drapeau, Marianne, Marseillaise, devise
 `endif`
 
 `if @err_NAT_V02_Q26 == 1`
-**26. Que signifie être libre, en France ?**  
-✅ Chacun est libre tant qu'il respecte les droits des autres.
+**26. Parmi ces responsables, lequel est élu (et non nommé) ?**  
+✅ Le maire.
 
-Les libertés sont garanties par la République, mais elles ne sont pas absolues. Elles s'exercent dans le respect des droits des autres et de la loi.
+Le maire est un élu local. Les autres (préfet et procureur) sont nommés par l'État. Le Premier ministre est nommé par le Président de la République.
 
-💡 Retenez le mot-clé : liberté = respect des droits des autres
+💡 Retenez le mot-clé : maire = élu ; préfet, procureur, Premier ministre = nommés
 `endif`
 
 `if @err_NAT_V02_Q27 == 1`
-**27. Une personne peut-elle changer librement de religion en France ?**  
-✅ Oui, chacun est libre de changer de religion.
+**27. Quel est le rôle du maire ?**  
+✅ Il dirige la commune, applique les décisions du conseil municipal et assure notamment l'état civil.
 
-La liberté de conscience garantit à chacun le droit de croire, de changer de religion ou de ne pratiquer aucune religion.
+Le maire est l'exécutif de la commune. Il met en œuvre les décisions du conseil municipal, gère les services municipaux et exerce certaines missions pour le compte de l'État, comme l'état civil.
 
-💡 Retenez le mot-clé : liberté de conscience = droit de changer de religion
+💡 Retenez le mot-clé : maire = exécutif de la commune + état civil
 `endif`
 
 `if @err_NAT_V02_Q28 == 1`
-**28. Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?**  
-✅ Cinquième.
+**28. Où peut-on demander son inscription sur les listes électorales sans effectuer de démarche en ligne ?**  
+✅ À la mairie de son domicile.
 
-Le français est aujourd'hui considéré comme la cinquième langue la plus parlée dans le monde. Ce classement peut évoluer au fil du temps.
+Les personnes qui ne souhaitent pas effectuer leurs démarches en ligne peuvent demander leur inscription sur les listes électorales directement auprès de la mairie de leur domicile.
 
-💡 Retenez : Le français = 5e langue la + parlée
+💡 Retenez le mot-clé : inscription listes électorales = mairie du domicile
 `endif`
 
 ### Partie 2 — Mises en situation
@@ -52574,87 +52773,87 @@ Le français est aujourd'hui considéré comme la cinquième langue la plus parl
 `endif`
 
 `if @err_NAT_V02_Q29 == 1`
-**29. Que lui répondez-vous ?**  
-✅ Oui, dans les conditions prévues par la loi.
+**29. Quel était l'objectif principal des lois de Jules Ferry (1881-1882) ?**  
+✅ Rendre l'école gratuite, laïque et obligatoire.
 
-En France, une femme peut recourir à l'interruption volontaire de grossesse (IVG) dans les conditions prévues par la loi, sans avoir besoin de l'accord d'un tiers.
+La bonne réponse est « Rendre l'école gratuite, laïque et obligatoire ». Les lois de Jules Ferry (1881-1882) rendent progressivement l'école primaire gratuite, laïque et obligatoire.
 `endif`
 
 `if @err_NAT_V02_Q30 == 1`
-**30. Que pouvez-vous lui répondre ?**  
-✅ Il peut choisir sa religion ou ne pas en avoir.
+**30. Pourquoi l'année 1958 est-elle importante dans l'histoire des institutions françaises ?**  
+✅ Adoption de la Constitution qui fonde la Ve République.
 
-En France, chacun est libre de pratiquer une religion, d'en changer ou de ne pas en avoir : c'est cela, la liberté individuelle. Elle ne dispense en revanche jamais de respecter la loi commune.
+La bonne réponse est « Adoption de la Constitution qui fonde la Ve République ». La Constitution du 4 octobre 1958 fonde la Ve République. Elle organise les institutions françaises actuelles.
 `endif`
 
 `if @err_NAT_V02_Q31 == 1`
-**31. A-t-elle le droit de changer de religion ?**  
-✅ Oui.
+**31. Quelle loi Simone Veil a-t-elle fait adopter en 1975 ?**  
+✅ La loi légalisant l'interruption volontaire de grossesse (IVG).
 
-En France, chacun est libre de choisir sa religion, d'en changer ou de ne pas en avoir. Cette liberté est protégée par la loi et ne nécessite aucune autorisation, ni de l'État ni d'une autorité religieuse.
+La bonne réponse est « La loi légalisant l'interruption volontaire de grossesse (IVG) ». Survivante de la Shoah, Simone Veil est une grande figure de la République. Ministre de la Santé, elle a porté la loi de 1975 légalisant l'IVG. Elle a également été la première présidente du Parlement européen élue au suffrage universel.
 `endif`
 
 `if @err_NAT_V02_Q32 == 1`
-**32. Laquelle choisissez-vous ?**  
-✅ Un vol.
+**32. Quel mariage est reconnu par l'État français ?**  
+✅ Le mariage civil, célébré à la mairie.
 
-Le vol est un délit. En droit français, les infractions sont classées en trois catégories : contraventions, délits et crimes. L'homicide volontaire est, lui, un crime.
+La bonne réponse est « Le mariage civil, célébré à la mairie ». En France, le mariage doit obligatoirement être célébré devant un officier d'état civil. Une cérémonie religieuse peut avoir lieu ensuite, mais elle ne remplace pas le mariage civil.
 `endif`
 
 `if @err_NAT_V02_Q33 == 1`
-**33. Laquelle de ces actions y contribue ?**  
-✅ Trier ses déchets.
+**33. Le stationnement sur une place réservée aux personnes handicapées est :**  
+✅ Autorisé uniquement pour les véhicules disposant de la carte de stationnement (CMI).
 
-Le tri des déchets permet de recycler de nombreux matériaux et de limiter les impacts sur l'environnement, contrairement aux autres pratiques citées, qui sont interdites ou nuisibles.
+La bonne réponse est « Autorisé uniquement pour les véhicules disposant de la carte de stationnement (CMI) ». Les places réservées sont destinées aux personnes titulaires d'une carte mobilité inclusion (CMI) mention « stationnement » ou d'une carte européenne de stationnement encore valide. Le stationnement abusif est passible d'une amende.
 `endif`
 
 `if @err_NAT_V02_Q34 == 1`
-**34. Que lui répondez-vous ?**  
-✅ La liberté de disposer de son corps.
+**34. Déclarer ses revenus aux services fiscaux est :**  
+✅ Une obligation.
 
-La procréation médicalement assistée (PMA) relève de la liberté individuelle de disposer de son corps. En France, elle est autorisée dans les conditions prévues par la loi.
+La bonne réponse est « Une obligation ». La déclaration des revenus permet à l'administration fiscale de calculer les impôts et certains droits sociaux. Elle constitue une obligation pour les personnes concernées.
 `endif`
 
 `if @err_NAT_V02_Q35 == 1`
-**35. Que lui répondez-vous ?**  
-✅ L'État ne favorise ni ne défavorise aucune religion.
+**35. En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?**  
+✅ Ils financent notamment les écoles, les hôpitaux, la police et les routes.
 
-La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, sans avantager ni pénaliser aucune conviction religieuse.
+La bonne réponse est « Ils financent notamment les écoles, les hôpitaux, la police et les routes ». Les impôts servent à financer les services publics utilisés par tous : éducation, santé, sécurité, justice, transports, etc.
 `endif`
 
 `if @err_NAT_V02_Q36 == 1`
-**36. Que lui répondez-vous ?**  
-✅ Le français est la langue de la République.
+**36. L'inscription sur les listes électorales est-elle... ?**  
+✅ Obligatoire pour pouvoir voter.
 
-L'article 2 de la Constitution dispose que « La langue de la République est le français ». Les langues régionales font partie du patrimoine culturel, mais le français reste la seule langue officielle de la République.
+La bonne réponse est « Obligatoire pour pouvoir voter ». Pour voter en France, il faut être inscrit sur une liste électorale. Les jeunes Français sont généralement inscrits automatiquement à 18 ans, mais ce n'est pas le cas de toutes les situations.
 `endif`
 
 `if @err_NAT_V02_Q37 == 1`
-**37. A-t-il le droit d'agir ainsi ?**  
-✅ Non, ce comportement n'est pas autorisé.
+**37. Citez une condition nécessaire pour voter à l'élection présidentielle.**  
+✅ Être de nationalité française, majeur et inscrit sur les listes électorales.
 
-En France, chacun doit être respecté, quelles que soient son origine, son sexe, son handicap, son apparence physique ou ses convictions. La liberté d'expression ne couvre ni l'insulte, ni le harcèlement, en public comme en ligne.
+La bonne réponse est « Être de nationalité française, majeur et inscrit sur les listes électorales ». Pour voter à l'élection présidentielle, plusieurs conditions doivent être remplies, notamment être français, majeur, inscrit sur une liste électorale et disposer de ses droits civils et politiques.
 `endif`
 
 `if @err_NAT_V02_Q38 == 1`
-**38. Quelle est la définition la plus complète ?**  
-✅ La séparation des Églises et de l'État, garantissant la liberté de conscience.
+**38. Citez une condition pour être candidat aux élections municipales.**  
+✅ Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).
 
-La laïcité repose sur la séparation des Églises et de l'État, instaurée par la loi de 1905. Elle garantit à chacun la liberté de conscience ainsi que l'égalité devant la loi, quelles que soient ses convictions religieuses ou philosophiques.
+La bonne réponse est « Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE) ». Pour être candidat aux élections municipales, il faut notamment être majeur et remplir les conditions d'éligibilité prévues par la loi. Les citoyens de l'Union européenne résidant en France peuvent également être candidats.
 `endif`
 
 `if @err_NAT_V02_Q39 == 1`
-**39. Quel principe justifie cette interdiction ?**  
-✅ L'interdiction de conduire après avoir consommé de l'alcool protège l'intérêt général.
+**39. Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**  
+✅ Les hommes naissent et demeurent libres et égaux en droits.
 
-Certaines libertés peuvent être limitées pour protéger l'intérêt général. L'interdiction de conduire sous l'emprise de l'alcool protège la sécurité de tous les usagers de la route.
+La bonne réponse est « Les hommes naissent et demeurent libres et égaux en droits ». L'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 affirme : « Les hommes naissent et demeurent libres et égaux en droits. »
 `endif`
 
 `if @err_NAT_V02_Q40 == 1`
-**40. Pour quel motif peut-on réellement limiter la liberté d'expression ?**  
-✅ Pour protéger les droits d'autrui, l'ordre public ou lutter contre les infractions prévues par la loi.
+**40. Que signifie être libre, en France ?**  
+✅ Chacun est libre tant qu'il respecte les droits des autres.
 
-La liberté d'expression est un droit fondamental, mais elle ne permet pas d'insulter, de diffamer, de provoquer à la haine ou de commettre des infractions prévues par la loi.
+La bonne réponse est « Chacun est libre tant qu'il respecte les droits des autres ». Les libertés sont garanties par la République, mais elles ne sont pas absolues. Elles s'exercent dans le respect des droits des autres et de la loi.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -52928,11 +53127,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -52962,7 +53161,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -52970,6 +53169,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `endif`
 `if @errchap_T1_CH01 >= 3`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+`endif`
+`if @errchap_T1_CH02 >= 3`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
@@ -52980,6 +53182,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T1_CH05 >= 3`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
 `if @errchap_T2_CH01 >= 3`
 1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
@@ -52988,6 +53193,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `endif`
 `if @errchap_T2_CH03 >= 3`
 1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
 1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -53004,6 +53212,12 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T4_CH03 >= 3`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
+`if @errchap_T5_CH01 >= 3`
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 >= 3`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -53011,7 +53225,7 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -53019,6 +53233,9 @@ Ces chapitres méritent une révision ciblée :
 `endif`
 `if @errchap_T1_CH01 == 2`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+`endif`
+`if @errchap_T1_CH02 == 2`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
@@ -53029,6 +53246,9 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T1_CH05 == 2`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
 `if @errchap_T2_CH01 == 2`
 1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
@@ -53037,6 +53257,9 @@ Ces chapitres méritent une révision ciblée :
 `endif`
 `if @errchap_T2_CH03 == 2`
 1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
 1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -53053,6 +53276,12 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T4_CH03 == 2`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
+`if @errchap_T5_CH01 == 2`
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 2`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -53060,7 +53289,7 @@ Ces chapitres méritent une révision ciblée :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -53068,6 +53297,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `endif`
 `if @errchap_T1_CH01 == 1`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+`endif`
+`if @errchap_T1_CH02 == 1`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
@@ -53078,6 +53310,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T1_CH05 == 1`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
 `if @errchap_T2_CH01 == 1`
 1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
@@ -53086,6 +53321,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `endif`
 `if @errchap_T2_CH03 == 1`
 1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
 1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -53102,6 +53340,12 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T4_CH03 == 1`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
+`if @errchap_T5_CH01 == 1`
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 1`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -53109,11 +53353,11 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
@@ -53133,20 +53377,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T2_CH04 = 0`
-`@errchap_T5_CH01 = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T5_CH04 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T4_CH02 = 0`
-`@errchap_T1_CH04 = 0`
-`@errchap_T4_CH01 = 0`
-`@errchap_T5_CH03 = 0`
-`@errchap_T2_CH02 = 0`
 `@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
-`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
 `@errchap_T1_CH03 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -53157,8 +53406,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q01
 
 `@err_NAT_V03_Q01 = 0`
-
 `@exam_variant = 3`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -53171,12 +53420,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**Qui était une écrivaine française célèbre ?**
+<!-- Source naturalisation : NAT-T4-019 -->
 
-1) [George Sand.](EXAM_NAT_V03_Q01_VRAI)
-2) [Victor Hugo.](EXAM_NAT_V03_Q01_FAUX)
-3) [Émile Zola.](EXAM_NAT_V03_Q01_FAUX)
-4) [Molière.](EXAM_NAT_V03_Q01_FAUX)
+**Depuis quelle année les Français élisent-ils le Président de la République au suffrage universel direct ?**
+
+1) [1958.](EXAM_NAT_V03_Q01_FAUX)
+2) [1945.](EXAM_NAT_V03_Q01_FAUX)
+3) [1962.](EXAM_NAT_V03_Q01_VRAI)
+4) [1789.](EXAM_NAT_V03_Q01_FAUX)
 
 ## EXAM_NAT_V03_Q01_VRAI
 
@@ -53190,7 +53441,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q01 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q02)
 
@@ -53209,17 +53460,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**Selon la Constitution, la France est une République...**
+<!-- Source naturalisation : NAT-T4-020 -->
 
-1) [Fédérale, religieuse, démocratique et sociale.](EXAM_NAT_V03_Q02_FAUX)
-2) [Indivisible, catholique, démocratique et sociale.](EXAM_NAT_V03_Q02_FAUX)
-3) [Indivisible, laïque, démocratique et sociale.](EXAM_NAT_V03_Q02_VRAI)
-4) [Indivisible, laïque, monarchique et sociale.](EXAM_NAT_V03_Q02_FAUX)
+**En quelle année l'Union européenne a-t-elle été officiellement créée par le traité de Maastricht ?**
+
+1) [1951.](EXAM_NAT_V03_Q02_FAUX)
+2) [1957.](EXAM_NAT_V03_Q02_FAUX)
+3) [2002.](EXAM_NAT_V03_Q02_FAUX)
+4) [1992.](EXAM_NAT_V03_Q02_VRAI)
 
 ## EXAM_NAT_V03_Q02_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q03)
@@ -53228,7 +53481,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q02 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q03)
 
@@ -53247,12 +53500,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**Quel pays a été colonisé par la France ?**
+<!-- Source naturalisation : NAT-T4-021 -->
 
-1) [L'Algérie.](EXAM_NAT_V03_Q03_VRAI)
-2) [Le Japon.](EXAM_NAT_V03_Q03_FAUX)
-3) [Le Canada.](EXAM_NAT_V03_Q03_FAUX)
-4) [Le Portugal.](EXAM_NAT_V03_Q03_FAUX)
+**De quand à quand s'est déroulée la Seconde Guerre mondiale ?**
+
+1) [De 1939 à 1945.](EXAM_NAT_V03_Q03_VRAI)
+2) [1914-1918.](EXAM_NAT_V03_Q03_FAUX)
+3) [1940-1944.](EXAM_NAT_V03_Q03_FAUX)
+4) [1938-1946.](EXAM_NAT_V03_Q03_FAUX)
 
 ## EXAM_NAT_V03_Q03_VRAI
 
@@ -53285,17 +53540,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**Quelle collectivité territoriale a la compétence des collèges publics ?**
+<!-- Source naturalisation : NAT-T4-022 -->
 
-1) [La commune.](EXAM_NAT_V03_Q04_FAUX)
-2) [La région.](EXAM_NAT_V03_Q04_FAUX)
-3) [L'État.](EXAM_NAT_V03_Q04_FAUX)
-4) [Le département.](EXAM_NAT_V03_Q04_VRAI)
+**De quand à quand s'est déroulée la Première Guerre mondiale ?**
+
+1) [1939-1945.](EXAM_NAT_V03_Q04_FAUX)
+2) [De 1914 à 1918.](EXAM_NAT_V03_Q04_VRAI)
+3) [1789-1799.](EXAM_NAT_V03_Q04_FAUX)
+4) [1918-1945.](EXAM_NAT_V03_Q04_FAUX)
 
 ## EXAM_NAT_V03_Q04_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q05)
@@ -53304,7 +53561,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q04 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q05)
 
@@ -53323,17 +53580,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?**
+<!-- Source naturalisation : NAT-T4-023 -->
 
-1) [Marianne.](EXAM_NAT_V03_Q05_FAUX)
-2) [Le drapeau.](EXAM_NAT_V03_Q05_FAUX)
-3) [La tour Eiffel.](EXAM_NAT_V03_Q05_FAUX)
-4) [Le coq.](EXAM_NAT_V03_Q05_VRAI)
+**Sous la présidence de qui la peine de mort a-t-elle été abolie en France, en 1981 ?**
+
+1) [Charles de Gaulle.](EXAM_NAT_V03_Q05_FAUX)
+2) [Jacques Chirac.](EXAM_NAT_V03_Q05_FAUX)
+3) [François Mitterrand.](EXAM_NAT_V03_Q05_VRAI)
+4) [Valéry Giscard d'Estaing.](EXAM_NAT_V03_Q05_FAUX)
 
 ## EXAM_NAT_V03_Q05_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q06)
@@ -53342,7 +53601,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q05 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q06)
 
@@ -53361,17 +53620,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**
+<!-- Source naturalisation : NAT-T4-024 -->
 
-1) [Les opinions politiques.](EXAM_NAT_V03_Q06_FAUX)
-2) [Une religion.](EXAM_NAT_V03_Q06_FAUX)
-3) [Les intérêts d'un groupe.](EXAM_NAT_V03_Q06_FAUX)
-4) [L'intérêt général.](EXAM_NAT_V03_Q06_VRAI)
+**Que commémore le 8 mai, jour férié en France ?**
+
+1) [L'Armistice de 1918.](EXAM_NAT_V03_Q06_FAUX)
+2) [Le Débarquement.](EXAM_NAT_V03_Q06_FAUX)
+3) [La Révolution française.](EXAM_NAT_V03_Q06_FAUX)
+4) [La victoire des Alliés sur l'Allemagne nazie en 1945.](EXAM_NAT_V03_Q06_VRAI)
 
 ## EXAM_NAT_V03_Q06_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q07)
@@ -53380,7 +53641,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q06 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q07)
 
@@ -53399,17 +53660,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**Quel pays a quitté l'Union européenne (Brexit) ?**
+<!-- Source naturalisation : NAT-T4-025 -->
 
-1) [La Norvège.](EXAM_NAT_V03_Q07_FAUX)
-2) [La Suisse.](EXAM_NAT_V03_Q07_FAUX)
-3) [L'Irlande.](EXAM_NAT_V03_Q07_FAUX)
-4) [Le Royaume-Uni.](EXAM_NAT_V03_Q07_VRAI)
+**Quelle est la première étape de la construction européenne, créée en 1951 ?**
+
+1) [La Communauté européenne du charbon et de l'acier (CECA).](EXAM_NAT_V03_Q07_VRAI)
+2) [L'Union européenne.](EXAM_NAT_V03_Q07_FAUX)
+3) [Le traité de Maastricht.](EXAM_NAT_V03_Q07_FAUX)
+4) [L'euro.](EXAM_NAT_V03_Q07_FAUX)
 
 ## EXAM_NAT_V03_Q07_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q08)
@@ -53418,7 +53681,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q07 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q08)
 
@@ -53437,17 +53700,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Dans une entreprise, le droit de grève autorise :**
+<!-- Source naturalisation : NAT-T4-026 -->
 
-1) [Les salariés à quitter définitivement leur emploi.](EXAM_NAT_V03_Q08_FAUX)
-2) [Les salariés à dégrader leur entreprise.](EXAM_NAT_V03_Q08_FAUX)
-3) [Les salariés à cesser collectivement le travail pour défendre leurs revendications professionnelles.](EXAM_NAT_V03_Q08_VRAI)
-4) [Les salariés à ne plus respecter leur contrat de travail.](EXAM_NAT_V03_Q08_FAUX)
+**Qui a été chargé par le général de Gaulle d'unifier les mouvements de Résistance ?**
+
+1) [Napoléon Bonaparte.](EXAM_NAT_V03_Q08_FAUX)
+2) [Jean Moulin.](EXAM_NAT_V03_Q08_VRAI)
+3) [Jules Ferry.](EXAM_NAT_V03_Q08_FAUX)
+4) [Louis XIV.](EXAM_NAT_V03_Q08_FAUX)
 
 ## EXAM_NAT_V03_Q08_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q09)
@@ -53456,7 +53721,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q08 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q09)
 
@@ -53475,17 +53740,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**Où faut-il déclarer la naissance d'un enfant ?**
+<!-- Source naturalisation : NAT-T4-027 -->
 
-1) [À la préfecture.](EXAM_NAT_V03_Q09_FAUX)
-2) [À la mairie du lieu de naissance.](EXAM_NAT_V03_Q09_VRAI)
-3) [À la CAF.](EXAM_NAT_V03_Q09_FAUX)
-4) [Aux impôts.](EXAM_NAT_V03_Q09_FAUX)
+**Quelle mer sépare la France de l'Angleterre ?**
+
+1) [La mer du Nord.](EXAM_NAT_V03_Q09_FAUX)
+2) [La Méditerranée.](EXAM_NAT_V03_Q09_FAUX)
+3) [La Manche.](EXAM_NAT_V03_Q09_VRAI)
+4) [L'océan Atlantique.](EXAM_NAT_V03_Q09_FAUX)
 
 ## EXAM_NAT_V03_Q09_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q10)
@@ -53494,7 +53761,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q09 = 1`
 
-`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q10)
 
@@ -53513,17 +53780,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**
+<!-- Source naturalisation : NAT-T5-011 -->
 
-1) [1962.](EXAM_NAT_V03_Q10_VRAI)
-2) [1958.](EXAM_NAT_V03_Q10_FAUX)
-3) [1945.](EXAM_NAT_V03_Q10_FAUX)
-4) [1981.](EXAM_NAT_V03_Q10_FAUX)
+**Après un divorce, qui exerce l'autorité parentale sur les enfants ?**
+
+1) [La mère uniquement.](EXAM_NAT_V03_Q10_FAUX)
+2) [Le père uniquement.](EXAM_NAT_V03_Q10_FAUX)
+3) [Les deux parents, sauf décision contraire du juge.](EXAM_NAT_V03_Q10_VRAI)
+4) [Les grands-parents.](EXAM_NAT_V03_Q10_FAUX)
 
 ## EXAM_NAT_V03_Q10_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q11)
@@ -53532,7 +53801,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q10 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q11)
 
@@ -53551,17 +53820,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**Quelle mer se situe entre la France et l'Angleterre ?**
+<!-- Source naturalisation : NAT-T5-012 -->
 
-1) [La mer du Nord.](EXAM_NAT_V03_Q11_FAUX)
-2) [La mer Méditerranée.](EXAM_NAT_V03_Q11_FAUX)
-3) [L'océan Atlantique.](EXAM_NAT_V03_Q11_FAUX)
-4) [La Manche.](EXAM_NAT_V03_Q11_VRAI)
+**Quel dispositif permet, sous conditions de ressources, de prendre en charge les frais de justice, notamment les honoraires d'avocat ?**
+
+1) [La CAF.](EXAM_NAT_V03_Q11_FAUX)
+2) [L'Assurance maladie.](EXAM_NAT_V03_Q11_FAUX)
+3) [France Travail.](EXAM_NAT_V03_Q11_FAUX)
+4) [L'aide juridictionnelle.](EXAM_NAT_V03_Q11_VRAI)
 
 ## EXAM_NAT_V03_Q11_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q12)
@@ -53570,7 +53841,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q11 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q12)
 
@@ -53589,17 +53860,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**En 1944, qu'est-ce qui a changé pour les femmes ?**
+<!-- Source naturalisation : NAT-T5-013 -->
 
-1) [Elles ont obtenu le droit au travail.](EXAM_NAT_V03_Q12_FAUX)
-2) [Elles ont obtenu le droit au divorce.](EXAM_NAT_V03_Q12_FAUX)
-3) [Elles ont obtenu le droit de vote et d'éligibilité.](EXAM_NAT_V03_Q12_VRAI)
-4) [Elles ont obtenues le droit de devenir présidente de la République.](EXAM_NAT_V03_Q12_FAUX)
+**Qui peut demander le divorce en France ?**
+
+1) [L'un des deux époux ou les deux ensemble.](EXAM_NAT_V03_Q12_VRAI)
+2) [Les enfants.](EXAM_NAT_V03_Q12_FAUX)
+3) [Les parents.](EXAM_NAT_V03_Q12_FAUX)
+4) [La mairie.](EXAM_NAT_V03_Q12_FAUX)
 
 ## EXAM_NAT_V03_Q12_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q13)
@@ -53608,7 +53881,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q12 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q13)
 
@@ -53627,17 +53900,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Où siège officiellement le Parlement européen ?**
+<!-- Source naturalisation : NAT-T5-014 -->
 
-1) [Bruxelles.](EXAM_NAT_V03_Q13_FAUX)
-2) [Luxembourg.](EXAM_NAT_V03_Q13_FAUX)
-3) [Francfort.](EXAM_NAT_V03_Q13_FAUX)
-4) [À Strasbourg.](EXAM_NAT_V03_Q13_VRAI)
+**Auprès de quel organisme demander le remboursement principal de ses frais de santé ?**
+
+1) [La CAF.](EXAM_NAT_V03_Q13_FAUX)
+2) [Auprès de l'Assurance maladie (CPAM).](EXAM_NAT_V03_Q13_VRAI)
+3) [France Travail.](EXAM_NAT_V03_Q13_FAUX)
+4) [La mairie.](EXAM_NAT_V03_Q13_FAUX)
 
 ## EXAM_NAT_V03_Q13_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q14)
@@ -53646,7 +53921,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q13 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q14)
 
@@ -53665,17 +53940,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**Quel est le dernier pays à avoir rejoint l'Union européenne ?**
+<!-- Source naturalisation : NAT-T5-015 -->
 
-1) [La Bulgarie.](EXAM_NAT_V03_Q14_FAUX)
-2) [La Roumanie.](EXAM_NAT_V03_Q14_FAUX)
-3) [La Serbie.](EXAM_NAT_V03_Q14_FAUX)
-4) [La Croatie.](EXAM_NAT_V03_Q14_VRAI)
+**En France, la contraception est :**
+
+1) [Réservée aux personnes mariées.](EXAM_NAT_V03_Q14_FAUX)
+2) [Soumise à l'accord du conjoint.](EXAM_NAT_V03_Q14_FAUX)
+3) [Un choix personnel et un droit, accessible aux femmes comme aux hommes.](EXAM_NAT_V03_Q14_VRAI)
+4) [Interdite aux mineurs.](EXAM_NAT_V03_Q14_FAUX)
 
 ## EXAM_NAT_V03_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q15)
@@ -53684,7 +53961,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q14 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q15)
 
@@ -53703,17 +53980,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Quel est le rôle du Défenseur des droits ?**
+<!-- Source naturalisation : NAT-T1-009 -->
 
-1) [Il vote les lois.](EXAM_NAT_V03_Q15_FAUX)
-2) [Il dirige la police.](EXAM_NAT_V03_Q15_FAUX)
-3) [Il juge et condamne les personnes.](EXAM_NAT_V03_Q15_FAUX)
-4) [Il protège les droits et les libertés des personnes et lutte contre les discriminations.](EXAM_NAT_V03_Q15_VRAI)
+**Où peut-on voir la devise de la République ?**
+
+1) [Sur les bâtiments publics, notamment les mairies et les écoles.](EXAM_NAT_V03_Q15_VRAI)
+2) [Uniquement sur les permis de conduire.](EXAM_NAT_V03_Q15_FAUX)
+3) [Uniquement sur les billets en euros.](EXAM_NAT_V03_Q15_FAUX)
+4) [Uniquement sur les passeports étrangers.](EXAM_NAT_V03_Q15_FAUX)
 
 ## EXAM_NAT_V03_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q16)
@@ -53722,7 +54001,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q15 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q16)
 
@@ -53741,17 +54020,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Que permet la liberté de circulation ?**
+<!-- Source naturalisation : NAT-T1-010 -->
 
-1) [Entrer dans n'importe quel pays sans règle.](EXAM_NAT_V03_Q16_FAUX)
-2) [Aller sur un terrain privé sans autorisation.](EXAM_NAT_V03_Q16_FAUX)
-3) [Voyager sans respecter les contrôles applicables.](EXAM_NAT_V03_Q16_FAUX)
-4) [Se déplacer librement, dans le respect de la loi.](EXAM_NAT_V03_Q16_VRAI)
+**Citez tous les symboles officiels de la République française.**
+
+1) [Le coq, la tour Eiffel, le béret et la baguette.](EXAM_NAT_V03_Q16_FAUX)
+2) [Le drapeau tricolore, Marianne, la Marseillaise et la devise.](EXAM_NAT_V03_Q16_VRAI)
+3) [La tour Eiffel et le Louvre.](EXAM_NAT_V03_Q16_FAUX)
+4) [Le béret et la baguette.](EXAM_NAT_V03_Q16_FAUX)
 
 ## EXAM_NAT_V03_Q16_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q17)
@@ -53760,7 +54041,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q16 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q17)
 
@@ -53779,17 +54060,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**Qui est élu lors des élections législatives ?**
+<!-- Source naturalisation : NAT-T1-011 -->
 
-1) [Les sénateurs.](EXAM_NAT_V03_Q17_FAUX)
-2) [Les maires.](EXAM_NAT_V03_Q17_FAUX)
-3) [Les ministres.](EXAM_NAT_V03_Q17_FAUX)
-4) [Les députés.](EXAM_NAT_V03_Q17_VRAI)
+**Peut-on brûler publiquement un drapeau français ?**
+
+1) [Oui.](EXAM_NAT_V03_Q17_FAUX)
+2) [Oui, si c'est dans le cadre d'une manifestation.](EXAM_NAT_V03_Q17_FAUX)
+3) [Non, cet acte peut être sanctionné par la loi.](EXAM_NAT_V03_Q17_VRAI)
+4) [Oui, au nom de la liberté d'expression.](EXAM_NAT_V03_Q17_FAUX)
 
 ## EXAM_NAT_V03_Q17_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q18)
@@ -53798,7 +54081,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q17 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q18)
 
@@ -53817,17 +54100,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Que dit l'article 1er de la Constitution à propos de la France ?**
+<!-- Source naturalisation : NAT-T1-012 -->
 
-1) [La France est une République fédérale et catholique.](EXAM_NAT_V03_Q18_FAUX)
-2) [La France est un royaume démocratique.](EXAM_NAT_V03_Q18_FAUX)
-3) [La France est une République indivisible, laïque, démocratique et sociale.](EXAM_NAT_V03_Q18_VRAI)
-4) [La France est une République uniquement laïque.](EXAM_NAT_V03_Q18_FAUX)
+**Quand la Sécurité sociale a-t-elle été établie en France ?**
+
+1) [1789.](EXAM_NAT_V03_Q18_FAUX)
+2) [1905.](EXAM_NAT_V03_Q18_FAUX)
+3) [1958.](EXAM_NAT_V03_Q18_FAUX)
+4) [1945.](EXAM_NAT_V03_Q18_VRAI)
 
 ## EXAM_NAT_V03_Q18_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q19)
@@ -53836,7 +54121,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q18 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q19)
 
@@ -53855,17 +54140,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**Une personne peut-elle changer librement de religion en France ?**
+<!-- Source naturalisation : NAT-T2-014 -->
 
-1) [Non, c'est interdit.](EXAM_NAT_V03_Q19_FAUX)
-2) [Seulement avec l'accord de l'État.](EXAM_NAT_V03_Q19_FAUX)
-3) [Seulement à partir de 18 ans.](EXAM_NAT_V03_Q19_FAUX)
-4) [Oui, chacun est libre de changer de religion.](EXAM_NAT_V03_Q19_VRAI)
+**Comment les députés sont-ils désignés ?**
+
+1) [Ils sont élus au suffrage universel direct.](EXAM_NAT_V03_Q19_VRAI)
+2) [Ils sont nommés par le Président.](EXAM_NAT_V03_Q19_FAUX)
+3) [Ils sont désignés par le Sénat.](EXAM_NAT_V03_Q19_FAUX)
+4) [Ils sont choisis par le Gouvernement.](EXAM_NAT_V03_Q19_FAUX)
 
 ## EXAM_NAT_V03_Q19_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q20)
@@ -53874,7 +54161,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q19 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q20)
 
@@ -53893,17 +54180,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**Travailler sans être déclaré est :**
+<!-- Source naturalisation : NAT-T2-015 -->
 
-1) [Interdit par la loi.](EXAM_NAT_V03_Q20_VRAI)
-2) [Autorisé si l'employeur est d'accord.](EXAM_NAT_V03_Q20_FAUX)
-3) [Autorisé pour les petits emplois.](EXAM_NAT_V03_Q20_FAUX)
-4) [Obligatoire pour les étudiants.](EXAM_NAT_V03_Q20_FAUX)
+**Qui vote les lois en France ?**
+
+1) [Le Président de la République.](EXAM_NAT_V03_Q20_FAUX)
+2) [Le Parlement.](EXAM_NAT_V03_Q20_VRAI)
+3) [Le Premier ministre.](EXAM_NAT_V03_Q20_FAUX)
+4) [Le Conseil constitutionnel.](EXAM_NAT_V03_Q20_FAUX)
 
 ## EXAM_NAT_V03_Q20_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q21)
@@ -53912,7 +54201,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q20 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q21)
 
@@ -53931,17 +54220,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Pourquoi la liberté d'expression peut-elle être limitée par la loi ?**
+<!-- Source naturalisation : NAT-T2-016 -->
 
-1) [Parce qu'une opinion déplaît.](EXAM_NAT_V03_Q21_FAUX)
-2) [Pour interdire toute critique.](EXAM_NAT_V03_Q21_FAUX)
-3) [Pour empêcher les débats politiques.](EXAM_NAT_V03_Q21_FAUX)
-4) [Pour protéger les droits d'autrui, l'ordre public ou prévenir des infractions prévues par la loi.](EXAM_NAT_V03_Q21_VRAI)
+**Quels sont les trois pouvoirs de la République française ?**
+
+1) [Président, maire, préfet.](EXAM_NAT_V03_Q21_FAUX)
+2) [Gouvernement, Sénat, police.](EXAM_NAT_V03_Q21_FAUX)
+3) [Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](EXAM_NAT_V03_Q21_VRAI)
+4) [Exécutif et législatif uniquement.](EXAM_NAT_V03_Q21_FAUX)
 
 ## EXAM_NAT_V03_Q21_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q22)
@@ -53950,7 +54241,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q21 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q22)
 
@@ -53969,17 +54260,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
-**Quelle fête est française ?**
+<!-- Source naturalisation : NAT-T2-017 -->
 
-1) [Thanksgiving.](EXAM_NAT_V03_Q22_FAUX)
-2) [Halloween.](EXAM_NAT_V03_Q22_FAUX)
-3) [Le 14 juillet.](EXAM_NAT_V03_Q22_VRAI)
-4) [La Saint-Patrick.](EXAM_NAT_V03_Q22_FAUX)
+**Qu'est-ce qu'un État de droit ?**
+
+1) [Le Président décide seul.](EXAM_NAT_V03_Q22_FAUX)
+2) [L'État peut faire ce qu'il veut.](EXAM_NAT_V03_Q22_FAUX)
+3) [Les citoyens choisissent les lois qu'ils respectent.](EXAM_NAT_V03_Q22_FAUX)
+4) [Un État dans lequel tout le monde respecte la loi, y compris les pouvoirs publics.](EXAM_NAT_V03_Q22_VRAI)
 
 ## EXAM_NAT_V03_Q22_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q23)
@@ -53988,7 +54281,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q22 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q23)
 
@@ -54007,17 +54300,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**Quel est l'âge de la majorité ?**
+<!-- Source naturalisation : NAT-T2-018 -->
 
-1) [18 ans.](EXAM_NAT_V03_Q23_VRAI)
-2) [16 ans.](EXAM_NAT_V03_Q23_FAUX)
-3) [17 ans.](EXAM_NAT_V03_Q23_FAUX)
-4) [21 ans.](EXAM_NAT_V03_Q23_FAUX)
+**Pour combien de temps le maire et les conseillers municipaux sont-ils élus ?**
+
+1) [6 ans.](EXAM_NAT_V03_Q23_VRAI)
+2) [5 ans.](EXAM_NAT_V03_Q23_FAUX)
+3) [7 ans.](EXAM_NAT_V03_Q23_FAUX)
+4) [9 ans.](EXAM_NAT_V03_Q23_FAUX)
 
 ## EXAM_NAT_V03_Q23_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q24)
@@ -54026,7 +54321,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q23 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q24)
 
@@ -54045,17 +54340,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**Quel jour célèbre-t-on officiellement la laïcité en France ?**
+<!-- Source naturalisation : NAT-T2-019 -->
 
-1) [Le 14 juillet.](EXAM_NAT_V03_Q24_FAUX)
-2) [Le 11 novembre.](EXAM_NAT_V03_Q24_FAUX)
-3) [Le 8 mai.](EXAM_NAT_V03_Q24_FAUX)
-4) [Le 9 décembre.](EXAM_NAT_V03_Q24_VRAI)
+**Qui est élu lors des élections législatives ?**
+
+1) [Les sénateurs.](EXAM_NAT_V03_Q24_FAUX)
+2) [Les députés.](EXAM_NAT_V03_Q24_VRAI)
+3) [Les maires.](EXAM_NAT_V03_Q24_FAUX)
+4) [Les ministres.](EXAM_NAT_V03_Q24_FAUX)
 
 ## EXAM_NAT_V03_Q24_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q25)
@@ -54064,7 +54361,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q24 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q25)
 
@@ -54083,17 +54380,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**Quel était le surnom de Louis XIV ?**
+<!-- Source naturalisation : NAT-T3-009 -->
 
-1) [Le Roi-Soleil.](EXAM_NAT_V03_Q25_VRAI)
-2) [Le Roi-Chevalier.](EXAM_NAT_V03_Q25_FAUX)
-3) [Le Roi-Soulier.](EXAM_NAT_V03_Q25_FAUX)
-4) [Le Roi-Majestueux.](EXAM_NAT_V03_Q25_FAUX)
+**Qu'est-ce que les droits fondamentaux ?**
+
+1) [Les droits essentiels garantis à toute personne.](EXAM_NAT_V03_Q25_VRAI)
+2) [Les règles du Code de la route.](EXAM_NAT_V03_Q25_FAUX)
+3) [Les droits réservés aux élus.](EXAM_NAT_V03_Q25_FAUX)
+4) [Les droits des entreprises.](EXAM_NAT_V03_Q25_FAUX)
 
 ## EXAM_NAT_V03_Q25_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q26)
@@ -54102,7 +54401,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q25 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q26)
 
@@ -54121,12 +54420,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?**
+<!-- Source naturalisation : NAT-T3-010 -->
 
-1) [13 ans.](EXAM_NAT_V03_Q26_FAUX)
-2) [15 ans.](EXAM_NAT_V03_Q26_VRAI)
-3) [16 ans.](EXAM_NAT_V03_Q26_FAUX)
-4) [18 ans.](EXAM_NAT_V03_Q26_FAUX)
+**Quel droit protège une personne contre les arrestations ou détentions arbitraires ?**
+
+1) [La liberté de la presse.](EXAM_NAT_V03_Q26_FAUX)
+2) [Le droit à la liberté individuelle.](EXAM_NAT_V03_Q26_VRAI)
+3) [La liberté d'association.](EXAM_NAT_V03_Q26_FAUX)
+4) [Le droit de vote.](EXAM_NAT_V03_Q26_FAUX)
 
 ## EXAM_NAT_V03_Q26_VRAI
 
@@ -54159,17 +54460,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**De quand date l'appel à la résistance du général de Gaulle ?**
+<!-- Source naturalisation : NAT-T3-011 -->
 
-1) [18 juin 1940.](EXAM_NAT_V03_Q27_VRAI)
-2) [18 juin 1944.](EXAM_NAT_V03_Q27_FAUX)
-3) [18 juin 1939.](EXAM_NAT_V03_Q27_FAUX)
-4) [18 juin1945.](EXAM_NAT_V03_Q27_FAUX)
+**Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**
+
+1) [La Constitution.](EXAM_NAT_V03_Q27_FAUX)
+2) [Le Code civil.](EXAM_NAT_V03_Q27_FAUX)
+3) [La Déclaration des droits de l'Homme et du Citoyen de 1789.](EXAM_NAT_V03_Q27_VRAI)
+4) [La Charte de l'environnement.](EXAM_NAT_V03_Q27_FAUX)
 
 ## EXAM_NAT_V03_Q27_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q28)
@@ -54178,7 +54481,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q27 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q28)
 
@@ -54197,17 +54500,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
-**Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**
+<!-- Source naturalisation : NAT-T3-012 -->
 
-1) [Aux armes, citoyens.](EXAM_NAT_V03_Q28_FAUX)
-2) [Le jour de gloire est arrivé.](EXAM_NAT_V03_Q28_VRAI)
-3) [Formez vos bataillons.](EXAM_NAT_V03_Q28_FAUX)
-4) [Contre nous de la tyrannie.](EXAM_NAT_V03_Q28_FAUX)
+**Dans quel texte trouve-t-on la phrase « Les hommes naissent et demeurent libres et égaux en droits » ?**
+
+1) [La Constitution.](EXAM_NAT_V03_Q28_FAUX)
+2) [Le Code pénal.](EXAM_NAT_V03_Q28_FAUX)
+3) [La Convention européenne des droits de l'homme.](EXAM_NAT_V03_Q28_FAUX)
+4) [La Déclaration des droits de l'Homme et du Citoyen de 1789.](EXAM_NAT_V03_Q28_VRAI)
 
 ## EXAM_NAT_V03_Q28_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_PART2)
@@ -54216,7 +54521,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q28 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_PART2)
 
@@ -54231,6 +54536,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V03_Q29
 
 `@err_NAT_V03_Q29 = 0`
+`@exam_variant = 3`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -54243,19 +54550,21 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
+<!-- Source naturalisation : MS-NAT-T2-008 -->
 
-**Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**
+À l’occasion d’un échange sur la vie démocratique, un proche vous interroge sur le fonctionnement des institutions françaises. Un participant propose la réponse « Le Premier ministre ». Vous devez vérifier cette affirmation.
 
-1) [Elle sert à interdire toutes les religions.](EXAM_NAT_V03_Q29_FAUX)
-2) [Elle sert à favoriser une religion en particulier.](EXAM_NAT_V03_Q29_FAUX)
-3) [Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.](EXAM_NAT_V03_Q29_VRAI)
-4) [Elle empêche les élèves de parler de leur religion et de la promouvoir.](EXAM_NAT_V03_Q29_FAUX)
+**Parmi ces responsables, lequel est élu (et non nommé) ?**
+
+1) [Le préfet.](EXAM_NAT_V03_Q29_FAUX)
+2) [Le procureur.](EXAM_NAT_V03_Q29_FAUX)
+3) [Le maire.](EXAM_NAT_V03_Q29_VRAI)
+4) [Le Premier ministre.](EXAM_NAT_V03_Q29_FAUX)
 
 ## EXAM_NAT_V03_Q29_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q30)
@@ -54264,7 +54573,7 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V03_Q29 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q30)
 
@@ -54283,19 +54592,21 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 ### Question 30 sur 40
 
-Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant qu'il n'a pas obtenu la nationalité française.
+<!-- Source naturalisation : MS-NAT-T2-009 -->
 
-**Quelle obligation concerne pourtant toutes les personnes résidant en France, quelle que soit leur nationalité ?**
+Lors d’un atelier civique à la mairie, une personne cherche à comprendre le rôle des responsables publics et des institutions. Un proche pense que la bonne réponse pourrait être « Il vote les lois ». Aidez-le à raisonner.
 
-1) [Voter.](EXAM_NAT_V03_Q30_FAUX)
-2) [Être citoyen français.](EXAM_NAT_V03_Q30_FAUX)
-3) [Effectuer un service militaire.](EXAM_NAT_V03_Q30_FAUX)
-4) [Respecter la loi.](EXAM_NAT_V03_Q30_VRAI)
+**Quel est le rôle du maire ?**
+
+1) [Il vote les lois.](EXAM_NAT_V03_Q30_FAUX)
+2) [Il dirige le Gouvernement.](EXAM_NAT_V03_Q30_FAUX)
+3) [Il représente la France à l'étranger.](EXAM_NAT_V03_Q30_FAUX)
+4) [Il dirige la commune, applique les décisions du conseil municipal et assure notamment l'état civil.](EXAM_NAT_V03_Q30_VRAI)
 
 ## EXAM_NAT_V03_Q30_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q31)
@@ -54304,7 +54615,7 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 
 `@err_NAT_V03_Q30 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q31)
 
@@ -54323,19 +54634,21 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 
 ### Question 31 sur 40
 
-Une amie vous demande si une femme a le droit de recourir à un avortement en France.
+<!-- Source naturalisation : MS-NAT-T2-010 -->
 
-**Que lui répondez-vous ?**
+Une discussion sur les élections amène votre entourage à vérifier une règle du système politique français. Dans le groupe, la réponse « Au commissariat » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Non.](EXAM_NAT_V03_Q31_FAUX)
-2) [Seulement avec l'accord du mari.](EXAM_NAT_V03_Q31_FAUX)
-3) [Seulement avec l'accord du médecin.](EXAM_NAT_V03_Q31_FAUX)
-4) [Oui, dans les conditions prévues par la loi.](EXAM_NAT_V03_Q31_VRAI)
+**Où peut-on demander son inscription sur les listes électorales sans effectuer de démarche en ligne ?**
+
+1) [À la mairie de son domicile.](EXAM_NAT_V03_Q31_VRAI)
+2) [À la préfecture.](EXAM_NAT_V03_Q31_FAUX)
+3) [Au commissariat.](EXAM_NAT_V03_Q31_FAUX)
+4) [À France Travail.](EXAM_NAT_V03_Q31_FAUX)
 
 ## EXAM_NAT_V03_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q32)
@@ -54344,7 +54657,7 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_NAT_V03_Q31 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q32)
 
@@ -54363,19 +54676,21 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 ### Question 32 sur 40
 
-Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réellement de faire en France, pensant que cela veut dire « choisir ses propres règles ».
+<!-- Source naturalisation : MS-NAT-T3-005 -->
 
-**Que pouvez-vous lui répondre ?**
+Dans une situation de la vie quotidienne, une personne souhaite vérifier quels droits et quels devoirs s’appliquent en France. Un participant propose la réponse « La France est une République fédérale et catholique ». Vous devez vérifier cette affirmation.
 
-1) [Il peut refuser de respecter les lois si elles sont contraires à ses principes.](EXAM_NAT_V03_Q32_FAUX)
-2) [Il peut imposer ses idées aux autres.](EXAM_NAT_V03_Q32_FAUX)
-3) [Il peut choisir ses propres règles.](EXAM_NAT_V03_Q32_FAUX)
-4) [Il peut choisir sa religion ou ne pas en avoir.](EXAM_NAT_V03_Q32_VRAI)
+**Que dit l'article 1er de la Constitution à propos de la France ?**
+
+1) [La France est une République indivisible, laïque, démocratique et sociale.](EXAM_NAT_V03_Q32_VRAI)
+2) [La France est une République fédérale et catholique.](EXAM_NAT_V03_Q32_FAUX)
+3) [La France est un royaume démocratique.](EXAM_NAT_V03_Q32_FAUX)
+4) [La France est une République uniquement laïque.](EXAM_NAT_V03_Q32_FAUX)
 
 ## EXAM_NAT_V03_Q32_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q33)
@@ -54384,7 +54699,7 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_NAT_V03_Q32 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q33)
 
@@ -54403,19 +54718,21 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 ### Question 33 sur 40
 
-Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marseillaise. Vous hésitez sur un mot des paroles : « Aux armes [...] ! Formez vos bataillons. »
+<!-- Source naturalisation : MS-NAT-T3-006 -->
 
-**Quel mot manque-t-il ?**
+Au travail ou dans l’espace public, un proche hésite sur une règle liée aux droits, aux libertés ou aux obligations. Un proche pense que la bonne réponse pourrait être « Les journalistes sont au-dessus des lois ». Aidez-le à raisonner.
 
-1) [Français.](EXAM_NAT_V03_Q33_FAUX)
-2) [Soldats.](EXAM_NAT_V03_Q33_FAUX)
-3) [Amis.](EXAM_NAT_V03_Q33_FAUX)
-4) [Citoyens.](EXAM_NAT_V03_Q33_VRAI)
+**Que garantit la liberté de la presse ?**
+
+1) [On peut publier n'importe quoi.](EXAM_NAT_V03_Q33_FAUX)
+2) [La liberté d'informer et d'être informé.](EXAM_NAT_V03_Q33_VRAI)
+3) [Les journalistes sont au-dessus des lois.](EXAM_NAT_V03_Q33_FAUX)
+4) [Les médias peuvent diffamer librement.](EXAM_NAT_V03_Q33_FAUX)
 
 ## EXAM_NAT_V03_Q33_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q34)
@@ -54424,7 +54741,7 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 
 `@err_NAT_V03_Q33 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q34)
 
@@ -54443,19 +54760,21 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 
 ### Question 34 sur 40
 
-Un ami pense que seul l'État est responsable de la protection de l'environnement, et que les citoyens n'ont aucune obligation en la matière.
+<!-- Source naturalisation : MS-NAT-T4-007 -->
 
-**Que prévoit la Charte de l'environnement, intégrée à la Constitution ?**
+Un proche prépare son entretien de naturalisation et vous demande de l’aider sur un élément du patrimoine français. Une personne hésite et choisit « Espagne ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Seul l'État protège l'environnement.](EXAM_NAT_V03_Q34_FAUX)
-2) [La protection de l'environnement est facultative.](EXAM_NAT_V03_Q34_FAUX)
-3) [Chacun a le devoir de prendre part à la préservation et à l'amélioration de l'environnement.](EXAM_NAT_V03_Q34_VRAI)
-4) [Les entreprises sont les seules responsables de l'environnement.](EXAM_NAT_V03_Q34_FAUX)
+**Lequel de ces pays est l'un des six pays fondateurs de la construction européenne ?**
+
+1) [Espagne.](EXAM_NAT_V03_Q34_FAUX)
+2) [Croatie.](EXAM_NAT_V03_Q34_FAUX)
+3) [Italie.](EXAM_NAT_V03_Q34_VRAI)
+4) [Pologne.](EXAM_NAT_V03_Q34_FAUX)
 
 ## EXAM_NAT_V03_Q34_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q35)
@@ -54464,7 +54783,7 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 
 `@err_NAT_V03_Q34 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q35)
 
@@ -54483,19 +54802,21 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 
 ### Question 35 sur 40
 
-Pendant votre préparation à l'examen civique, le formateur vous demande de compléter de mémoire l'article 1er de la Constitution française.
+<!-- Source naturalisation : MS-NAT-T4-008 -->
 
-**Quelle formulation est exacte ?**
+Lors d’une visite culturelle, une personne de votre entourage souhaite vérifier un repère sur l’histoire, la géographie ou le patrimoine français. Un participant propose la réponse « Hauts-de-France ». Vous devez vérifier cette affirmation.
 
-1) [La France est une République fédérale, religieuse, démocratique et sociale.](EXAM_NAT_V03_Q35_FAUX)
-2) [La France est une République indivisible, catholique, démocratique et sociale.](EXAM_NAT_V03_Q35_FAUX)
-3) [La France est une République indivisible, démocratique et monarchique.](EXAM_NAT_V03_Q35_FAUX)
-4) [La France est une République indivisible, laïque, démocratique et sociale.](EXAM_NAT_V03_Q35_VRAI)
+**Sur quelle région française a eu lieu le Débarquement allié du 6 juin 1944 ?**
+
+1) [Bretagne.](EXAM_NAT_V03_Q35_FAUX)
+2) [Hauts-de-France.](EXAM_NAT_V03_Q35_FAUX)
+3) [Provence.](EXAM_NAT_V03_Q35_FAUX)
+4) [Normandie.](EXAM_NAT_V03_Q35_VRAI)
 
 ## EXAM_NAT_V03_Q35_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q36)
@@ -54504,7 +54825,7 @@ Pendant votre préparation à l'examen civique, le formateur vous demande de com
 
 `@err_NAT_V03_Q35 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q36)
 
@@ -54523,19 +54844,21 @@ Pendant votre préparation à l'examen civique, le formateur vous demande de com
 
 ### Question 36 sur 40
 
-Un ami confond ses droits et ses obligations et vous demande laquelle de ces propositions constitue une véritable obligation légale.
+<!-- Source naturalisation : MS-NAT-T4-009 -->
 
-**Laquelle choisissez-vous ?**
+Vous préparez une sortie en France et une discussion s’engage autour d’un lieu, d’une personnalité ou d’un événement important. Un proche pense que la bonne réponse pourrait être « Orléans ». Aidez-le à raisonner.
 
-1) [Choisir une religion.](EXAM_NAT_V03_Q36_FAUX)
-2) [Adhérer à une association.](EXAM_NAT_V03_Q36_FAUX)
-3) [Voter à toutes les élections.](EXAM_NAT_V03_Q36_FAUX)
-4) [Respecter la loi.](EXAM_NAT_V03_Q36_VRAI)
+**Dans quelle ville les rois de France étaient-ils traditionnellement sacrés ?**
+
+1) [Reims.](EXAM_NAT_V03_Q36_VRAI)
+2) [Paris.](EXAM_NAT_V03_Q36_FAUX)
+3) [Versailles.](EXAM_NAT_V03_Q36_FAUX)
+4) [Orléans.](EXAM_NAT_V03_Q36_FAUX)
 
 ## EXAM_NAT_V03_Q36_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q37)
@@ -54544,7 +54867,7 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 
 `@err_NAT_V03_Q36 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q37)
 
@@ -54563,19 +54886,21 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 
 ### Question 37 sur 40
 
-Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionnés, puisqu'il s'agit selon lui simplement de son opinion personnelle.
+<!-- Source naturalisation : MS-NAT-T5-005 -->
 
-**Pour quel motif peut-on réellement limiter la liberté d'expression ?**
+Lors d’un échange dans un service public, une personne veut s’assurer qu’elle connaît la règle applicable à sa situation. Une personne hésite et choisit « Rien ne peut être fait après l'achat ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Parce qu'une opinion déplaît.](EXAM_NAT_V03_Q37_FAUX)
-2) [Pour protéger les droits d'autrui, l'ordre public ou lutter contre les infractions prévues par la loi.](EXAM_NAT_V03_Q37_VRAI)
-3) [Pour interdire toute critique.](EXAM_NAT_V03_Q37_FAUX)
-4) [Sans justification particulière.](EXAM_NAT_V03_Q37_FAUX)
+**Un appareil électroménager neuf tombe en panne un an après l'achat. Que peut faire l'acheteur ?**
+
+1) [Faire jouer la garantie légale de 2 ans ou demander une réparation.](EXAM_NAT_V03_Q37_VRAI)
+2) [Il faut contacter directement le fabricant.](EXAM_NAT_V03_Q37_FAUX)
+3) [Rien ne peut être fait après l'achat.](EXAM_NAT_V03_Q37_FAUX)
+4) [Il faut payer une nouvelle réparation.](EXAM_NAT_V03_Q37_FAUX)
 
 ## EXAM_NAT_V03_Q37_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q38)
@@ -54584,7 +54909,7 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 `@err_NAT_V03_Q37 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q38)
 
@@ -54603,19 +54928,21 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 ### Question 38 sur 40
 
-Un homme vous explique que, dans son pays d'origine, il pouvait répudier son épouse simplement en le déclarant devant témoins. Il vous demande si cette pratique est reconnue une fois installé en France.
+<!-- Source naturalisation : MS-NAT-T5-006 -->
 
-**Que lui répondez-vous ?**
+Dans une démarche de la vie quotidienne, une personne de votre entourage hésite sur la conduite à adopter en France. Un participant propose la réponse « À ses 18 ans ». Vous devez vérifier cette affirmation.
 
-1) [C'est autorisé avec l'accord d'un juge.](EXAM_NAT_V03_Q38_FAUX)
-2) [C'est interdit par la loi française.](EXAM_NAT_V03_Q38_VRAI)
-3) [C'est légal si c'est prévu dans le contrat de mariage.](EXAM_NAT_V03_Q38_FAUX)
-4) [C'est autorisé avec l'accord de la famille.](EXAM_NAT_V03_Q38_FAUX)
+**À quel moment la naissance d'un enfant doit-elle être déclarée ?**
+
+1) [À son entrée à l'école.](EXAM_NAT_V03_Q38_FAUX)
+2) [Lors de sa naissance.](EXAM_NAT_V03_Q38_VRAI)
+3) [Lorsqu'il obtient sa carte d'identité.](EXAM_NAT_V03_Q38_FAUX)
+4) [À ses 18 ans.](EXAM_NAT_V03_Q38_FAUX)
 
 ## EXAM_NAT_V03_Q38_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q39)
@@ -54624,7 +54951,7 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 
 `@err_NAT_V03_Q38 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q39)
 
@@ -54643,14 +54970,16 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 
 ### Question 39 sur 40
 
-Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
+<!-- Source naturalisation : MS-NAT-T1-005 -->
 
-**Que lui répondez-vous ?**
+Lors d’un échange dans une association locale, une personne souhaite mieux comprendre les principes et les symboles de la République. Un participant propose la réponse « Une association réservée aux citoyens français ». Vous devez vérifier cette affirmation.
 
-1) [C'est l'hymne national français.](EXAM_NAT_V03_Q39_VRAI)
-2) [C'est une devise.](EXAM_NAT_V03_Q39_FAUX)
-3) [C'est une chanson de variété française.](EXAM_NAT_V03_Q39_FAUX)
-4) [C'est un monument historique.](EXAM_NAT_V03_Q39_FAUX)
+**La liberté d'association est :**
+
+1) [Le droit de créer une association, d'y adhérer ou non.](EXAM_NAT_V03_Q39_VRAI)
+2) [L'obligation d'adhérer à une association.](EXAM_NAT_V03_Q39_FAUX)
+3) [Une association réservée aux citoyens français.](EXAM_NAT_V03_Q39_FAUX)
+4) [L'interdiction de créer une association sans autorisation de l'État.](EXAM_NAT_V03_Q39_FAUX)
 
 ## EXAM_NAT_V03_Q39_VRAI
 
@@ -54664,7 +54993,7 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V03_Q39 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V03_Q40)
 
@@ -54683,19 +55012,21 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 ### Question 40 sur 40
 
-Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lui, en dehors des jours de collecte prévus.
+<!-- Source naturalisation : MS-NAT-T1-006 -->
 
-**Quelle proposition est correcte concernant les déchets ?**
+Au cours d’un atelier citoyen, votre groupe discute de la manière dont les valeurs républicaines s’appliquent au quotidien. Un proche pense que la bonne réponse pourrait être « Réservée aux journalistes ». Aidez-le à raisonner.
 
-1) [Les déchets doivent être triés et déposés dans les équipements prévus.](EXAM_NAT_V03_Q40_VRAI)
-2) [Il est permis de jeter ses déchets dans la nature.](EXAM_NAT_V03_Q40_FAUX)
-3) [Les encombrants peuvent être déposés sur le trottoir à tout moment.](EXAM_NAT_V03_Q40_FAUX)
-4) [Les déchets peuvent être brûlés librement dans son jardin.](EXAM_NAT_V03_Q40_FAUX)
+**La liberté d'expression sur les réseaux sociaux en France est :**
+
+1) [Totalement libre, sans aucune limite.](EXAM_NAT_V03_Q40_FAUX)
+2) [Garantie mais encadrée par la loi (interdiction de la haine, de la diffamation, des injures...).](EXAM_NAT_V03_Q40_VRAI)
+3) [Interdite sur Internet.](EXAM_NAT_V03_Q40_FAUX)
+4) [Réservée aux journalistes.](EXAM_NAT_V03_Q40_FAUX)
 
 ## EXAM_NAT_V03_Q40_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V03_RESULT)
@@ -54704,7 +55035,7 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 
 `@err_NAT_V03_Q40 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V03_RESULT)
 
@@ -54721,151 +55052,214 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V03_Q01 == 1`
-**1. Qui était une écrivaine française célèbre ?**  
-✅ George Sand.
+**1. Depuis quelle année les Français élisent-ils le Président de la République au suffrage universel direct ?**  
+✅ 1962.
 
-La France compte de nombreuses écrivaines célèbres. George Sand, Marguerite Yourcenar et Simone de Beauvoir figurent parmi les plus connues.
+Le référendum de 1962, voulu par le général de Gaulle, instaure l'élection du Président de la République au suffrage universel direct.
 
-💡 Retenez : George Sand = écrivaine
+💡 Retenez le mot-clé : Président élu au suffrage universel direct = depuis 1962
 `endif`
 
 `if @err_NAT_V03_Q02 == 1`
-**2. Selon la Constitution, la France est une République...**  
-✅ Indivisible, laïque, démocratique et sociale.
+**2. En quelle année l'Union européenne a-t-elle été officiellement créée par le traité de Maastricht ?**  
+✅ 1992.
 
-L'article 1er de la Constitution dispose que « La France est une République indivisible, laïque, démocratique et sociale. »
+L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
 
-💡 Retenez le mot-clé : article 1er = indivisible, laïque, démocratique, sociale
+💡 Retenez le mot-clé : traité de Maastricht = 1992
 `endif`
 
 `if @err_NAT_V03_Q03 == 1`
-**3. Quel pays a été colonisé par la France ?**  
-✅ L'Algérie.
+**3. De quand à quand s'est déroulée la Seconde Guerre mondiale ?**  
+✅ De 1939 à 1945.
 
-Au cours de son histoire, la France a constitué un empire colonial sur plusieurs continents. L'Algérie, le Sénégal, Madagascar ou encore le Vietnam en ont fait partie.
+La Seconde Guerre mondiale s'est déroulée de 1939 à 1945. Elle a profondément marqué la France, l'Europe et le monde.
 
-💡 Retenez : L'Algérie a été colonisée par la France
+💡 Retenez le mot-clé : Seconde Guerre mondiale = 1939-1945
 `endif`
 
 `if @err_NAT_V03_Q04 == 1`
-**4. Quelle collectivité territoriale a la compétence des collèges publics ?**  
-✅ Le département.
+**4. De quand à quand s'est déroulée la Première Guerre mondiale ?**  
+✅ De 1914 à 1918.
 
-Les collèges publics relèvent de la compétence des départements, qui assurent notamment leur construction, leur entretien et leur équipement.
+La Première Guerre mondiale oppose principalement les puissances alliées aux Empires centraux entre 1914 et 1918.
 
-💡 Retenez le mot-clé : collèges = compétence du département
+💡 Retenez le mot-clé : Première Guerre mondiale = 1914-1918
 `endif`
 
 `if @err_NAT_V03_Q05 == 1`
-**5. Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?**  
-✅ Le coq.
+**5. Sous la présidence de qui la peine de mort a-t-elle été abolie en France, en 1981 ?**  
+✅ François Mitterrand.
 
-Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur les maillots de nombreuses équipes nationales sportives, mais ne fait pas partie des symboles officiels de la République.
+La peine de mort est abolie en 1981, sous la présidence de François Mitterrand, grâce au projet défendu par le garde des Sceaux Robert Badinter.
 
-💡 Retenez le mot-clé : coq gaulois = symbole traditionnel (maillots sportifs), non officiel
+💡 Retenez le mot-clé : abolition peine de mort (1981) = François Mitterrand + Robert Badinter
 `endif`
 
 `if @err_NAT_V03_Q06 == 1`
-**6. Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**  
-✅ L'intérêt général.
+**6. Que commémore le 8 mai, jour férié en France ?**  
+✅ La victoire des Alliés sur l'Allemagne nazie en 1945.
 
-Certaines libertés peuvent être limitées afin de protéger l'intérêt général, par exemple pour assurer la sécurité, la santé publique ou les droits d'autrui.
+Le 8 mai est un jour férié en France. Il commémore la victoire des Alliés en 1945 et rend hommage aux combattants de la Seconde Guerre mondiale.
 
-💡 Retenez le mot-clé : limites aux libertés = intérêt général
+💡 Retenez le mot-clé : 8 mai = victoire des Alliés (1945)
 `endif`
 
 `if @err_NAT_V03_Q07 == 1`
-**7. Quel pays a quitté l'Union européenne (Brexit) ?**  
-✅ Le Royaume-Uni.
+**7. Quelle est la première étape de la construction européenne, créée en 1951 ?**  
+✅ La Communauté européenne du charbon et de l'acier (CECA).
 
-Le Royaume-Uni a quitté officiellement l'Union européenne le 31 janvier 2020. Cet événement est appelé le Brexit.
+Créée en 1951, la CECA constitue la première étape de la construction européenne. Elle réunit six États fondateurs afin de favoriser la paix et la coopération économique.
 
-💡 Retenez le mot-clé : Brexit = Royaume-Uni (sortie en 2020)
+💡 Retenez le mot-clé : première étape de la construction européenne = CECA (1951)
 `endif`
 
 `if @err_NAT_V03_Q08 == 1`
-**8. Dans une entreprise, le droit de grève autorise :**  
-✅ Les salariés à cesser collectivement le travail pour défendre leurs revendications professionnelles.
+**8. Qui a été chargé par le général de Gaulle d'unifier les mouvements de Résistance ?**  
+✅ Jean Moulin.
 
-Le droit de grève est une liberté reconnue par la Constitution. Il permet aux salariés de cesser collectivement le travail pour défendre leurs intérêts professionnels, dans le respect des règles applicables.
+Jean Moulin est chargé par le général de Gaulle d'unifier les mouvements de Résistance. Arrêté en 1943, il meurt sous la torture sans avoir livré d'informations.
 
-💡 Retenez : La Grève est une liberté qui permet de défendre ses intérêts
+💡 Retenez le mot-clé : unification de la Résistance = Jean Moulin
 `endif`
 
 `if @err_NAT_V03_Q09 == 1`
-**9. Où faut-il déclarer la naissance d'un enfant ?**  
-✅ À la mairie du lieu de naissance.
+**9. Quelle mer sépare la France de l'Angleterre ?**  
+✅ La Manche.
 
-La naissance d'un enfant doit être déclarée dans les délais prévus par la loi auprès du service d'état civil de la mairie où l'enfant est né.
+La Manche sépare la France et l'Angleterre. C'est également sous cette mer que passe le tunnel sous la Manche.
 
-💡 Retenez : La naissance doit être déclaré à la mairie
+💡 Retenez le mot-clé : France-Angleterre = la Manche
 `endif`
 
 `if @err_NAT_V03_Q10 == 1`
-**10. Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**  
-✅ 1962.
+**10. Après un divorce, qui exerce l'autorité parentale sur les enfants ?**  
+✅ Les deux parents, sauf décision contraire du juge.
 
-Depuis le référendum de 1962, le président de la République est élu au suffrage universel direct par les citoyens.
+Le divorce ne met pas fin à l'autorité parentale. En règle générale, les deux parents continuent à prendre ensemble les décisions importantes concernant leur enfant.
 
-💡 Retenez : 1962 = élection suffrage universel direct (sans intermédiaire)
+💡 Retenez le mot-clé : divorce = autorité parentale conservée par les deux parents
 `endif`
 
 `if @err_NAT_V03_Q11 == 1`
-**11. Quelle mer se situe entre la France et l'Angleterre ?**  
-✅ La Manche.
+**11. Quel dispositif permet, sous conditions de ressources, de prendre en charge les frais de justice, notamment les honoraires d'avocat ?**  
+✅ L'aide juridictionnelle.
 
-La Manche sépare la France de l'Angleterre. Elle est traversée notamment par le tunnel sous la Manche.
+L'aide juridictionnelle permet, sous conditions de ressources, de prendre en charge tout ou partie des frais de justice, notamment les honoraires d'un avocat.
 
-💡 Retenez le mot-clé : La Manche.
+💡 Retenez le mot-clé : frais de justice sous conditions de ressources = aide juridictionnelle
 `endif`
 
 `if @err_NAT_V03_Q12 == 1`
-**12. En 1944, qu'est-ce qui a changé pour les femmes ?**  
-✅ Elles ont obtenu le droit de vote et d'éligibilité.
+**12. Qui peut demander le divorce en France ?**  
+✅ L'un des deux époux ou les deux ensemble.
 
-L'ordonnance du 21 avril 1944 accorde aux femmes le droit de vote et d'éligibilité. Elles votent pour la première fois en 1945.
+En France, un divorce peut être demandé par l'un des époux ou être engagé d'un commun accord selon les modalités prévues par la loi.
 
-💡 Retenez : 1944 = droit de vote des femmes
+💡 Retenez le mot-clé : demande de divorce = l'un des époux ou les deux ensemble
 `endif`
 
 `if @err_NAT_V03_Q13 == 1`
-**13. Où siège officiellement le Parlement européen ?**  
-✅ À Strasbourg.
+**13. Auprès de quel organisme demander le remboursement principal de ses frais de santé ?**  
+✅ Auprès de l'Assurance maladie (CPAM).
 
-Le Parlement européen a son siège officiel à Strasbourg, où se tiennent les sessions plénières. Une partie importante de ses travaux se déroule également à Bruxelles.
+L'Assurance maladie prend en charge une partie des dépenses de santé. Une mutuelle peut ensuite compléter ce remboursement.
 
-💡 Retenez le mot-clé : Strasbourg = Parlement européen ; Bruxelles = Commission européenne ; Francfort = BCE
+💡 Retenez le mot-clé : remboursement principal des soins = Assurance maladie (CPAM)
 `endif`
 
 `if @err_NAT_V03_Q14 == 1`
-**14. Quel est le dernier pays à avoir rejoint l'Union européenne ?**  
-✅ La Croatie.
+**14. En France, la contraception est :**  
+✅ Un choix personnel et un droit, accessible aux femmes comme aux hommes.
 
-La Croatie est devenue le 28ᵉ État membre de l'Union européenne le 1ᵉʳ juillet 2013.
+La contraception est un droit et dépend du choix de chacun. Différents moyens existent pour prévenir une grossesse, et certains sont accessibles aux mineurs dans le respect de la confidentialité. Elle est même gratuite pour les moins de 26 ans.
 
-💡 Retenez le mot-clé : dernier pays entré dans l'UE = Croatie (2013)
+💡 Retenez le mot-clé : contraception = choix personnel et droit, pour tous
 `endif`
 
 `if @err_NAT_V03_Q15 == 1`
-**15. Quel est le rôle du Défenseur des droits ?**  
-✅ Il protège les droits et les libertés des personnes et lutte contre les discriminations.
+**15. Où peut-on voir la devise de la République ?**  
+✅ Sur les bâtiments publics, notamment les mairies et les écoles.
 
-Le Défenseur des droits est une autorité indépendante. Il protège les droits et les libertés, lutte contre les discriminations et veille au respect des règles par les services publics.
+La devise « Liberté, Égalité, Fraternité » est visible sur de nombreux bâtiments publics, notamment les mairies et les établissements scolaires.
 
-💡 Retenez le mot-clé : Défenseur des droits = protège les droits + lutte contre les discriminations
+💡 Retenez le mot-clé : devise = mairies, écoles, bâtiments publics
 `endif`
 
 `if @err_NAT_V03_Q16 == 1`
-**16. Que permet la liberté de circulation ?**  
-✅ Se déplacer librement, dans le respect de la loi.
+**16. Citez tous les symboles officiels de la République française.**  
+✅ Le drapeau tricolore, Marianne, la Marseillaise et la devise.
 
-La liberté de circulation est une liberté fondamentale. Elle permet de se déplacer librement, sous réserve des règles prévues par la loi.
+Les quatre symboles officiels de la République française sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 
-💡 Retenez le mot-clé : liberté de circulation = se déplacer dans le respect de la loi
+💡 Retenez le mot-clé : les 4 symboles officiels = drapeau + Marianne + Marseillaise + devise
 `endif`
 
 `if @err_NAT_V03_Q17 == 1`
-**17. Qui est élu lors des élections législatives ?**  
+**17. Peut-on brûler publiquement un drapeau français ?**  
+✅ Non, cet acte peut être sanctionné par la loi.
+
+Le drapeau tricolore est un symbole de la République. Son outrage public est réprimé dans les cas prévus par la loi.
+
+💡 Retenez le mot-clé : drapeau français = symbole protégé par la loi
+`endif`
+
+`if @err_NAT_V03_Q18 == 1`
+**18. Quand la Sécurité sociale a-t-elle été établie en France ?**  
+✅ 1945.
+
+La Sécurité sociale a été créée en 1945, après la Seconde Guerre mondiale, afin de protéger les personnes contre les principaux risques de la vie (maladie, vieillesse, famille, accidents du travail...).
+
+💡 Retenez le mot-clé : Sécurité sociale = 1945
+`endif`
+
+`if @err_NAT_V03_Q19 == 1`
+**19. Comment les députés sont-ils désignés ?**  
+✅ Ils sont élus au suffrage universel direct.
+
+Les députés représentent les citoyens à l'Assemblée nationale. Ils sont élus directement par les électeurs lors des élections législatives.
+
+💡 Retenez le mot-clé : députés = élus au suffrage universel direct
+`endif`
+
+`if @err_NAT_V03_Q20 == 1`
+**20. Qui vote les lois en France ?**  
+✅ Le Parlement.
+
+Le Parlement est composé de deux chambres : l'Assemblée nationale et le Sénat. Ensemble, elles discutent, modifient et votent les lois.
+
+💡 Retenez le mot-clé : voter les lois = le Parlement
+`endif`
+
+`if @err_NAT_V03_Q21 == 1`
+**21. Quels sont les trois pouvoirs de la République française ?**  
+✅ Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.
+
+La séparation des pouvoirs évite qu'une seule autorité concentre tous les pouvoirs. En France, les pouvoirs exécutif, législatif et judiciaire sont exercés par des institutions différentes.
+
+💡 Retenez le mot-clé : 3 pouvoirs = exécutif, législatif, judiciaire
+`endif`
+
+`if @err_NAT_V03_Q22 == 1`
+**22. Qu'est-ce qu'un État de droit ?**  
+✅ Un État dans lequel tout le monde respecte la loi, y compris les pouvoirs publics.
+
+L'État de droit garantit que les lois s'appliquent à tous de la même manière. Les autorités publiques doivent également respecter la Constitution et les lois.
+
+💡 Retenez le mot-clé : État de droit = la loi s'applique à tous, y compris les pouvoirs publics
+`endif`
+
+`if @err_NAT_V03_Q23 == 1`
+**23. Pour combien de temps le maire et les conseillers municipaux sont-ils élus ?**  
+✅ 6 ans.
+
+Les conseillers municipaux sont élus pour six ans. Ils élisent ensuite le maire, qui exerce lui aussi un mandat de six ans.
+
+💡 Retenez le mot-clé : maire et conseillers municipaux = mandat de 6 ans
+`endif`
+
+`if @err_NAT_V03_Q24 == 1`
+**24. Qui est élu lors des élections législatives ?**  
 ✅ Les députés.
 
 Les élections législatives permettent d'élire les députés qui siègent à l'Assemblée nationale et participent au vote des lois.
@@ -54873,103 +55267,40 @@ Les élections législatives permettent d'élire les députés qui siègent à l
 💡 Retenez le mot-clé : élections législatives = députés
 `endif`
 
-`if @err_NAT_V03_Q18 == 1`
-**18. Que dit l'article 1er de la Constitution à propos de la France ?**  
-✅ La France est une République indivisible, laïque, démocratique et sociale.
-
-L'article 1er de la Constitution définit les principes fondamentaux de la République française : « La France est une République indivisible, laïque, démocratique et sociale. » Cette formulation est à connaître par cœur pour l'examen.
-
-💡 Retenez le mot-clé : article 1er = indivisible, laïque, démocratique, sociale
-`endif`
-
-`if @err_NAT_V03_Q19 == 1`
-**19. Une personne peut-elle changer librement de religion en France ?**  
-✅ Oui, chacun est libre de changer de religion.
-
-La liberté de conscience garantit à chacun le droit de croire, de changer de religion ou de ne pratiquer aucune religion.
-
-💡 Retenez le mot-clé : liberté de conscience = droit de changer de religion
-`endif`
-
-`if @err_NAT_V03_Q20 == 1`
-**20. Travailler sans être déclaré est :**  
-✅ Interdit par la loi.
-
-Le travail non déclaré, appelé aussi travail dissimulé, est interdit. Il prive notamment le salarié de ses droits sociaux (Assurance maladie, retraite, chômage...) et expose le salarié comme l'employeur à des sanctions.
-
-💡 Retenez : Travail dissimulé = interdit
-`endif`
-
-`if @err_NAT_V03_Q21 == 1`
-**21. Pourquoi la liberté d'expression peut-elle être limitée par la loi ?**  
-✅ Pour protéger les droits d'autrui, l'ordre public ou prévenir des infractions prévues par la loi.
-
-La liberté d'expression est une liberté fondamentale, mais elle connaît des limites prévues par la loi afin de protéger les personnes et l'intérêt général.
-
-💡 Retenez le mot-clé : limites de la liberté d'expression = droits d'autrui, ordre public
-`endif`
-
-`if @err_NAT_V03_Q22 == 1`
-**22. Quelle fête est française ?**  
-✅ Le 14 juillet.
-
-Le 14 juillet est la fête nationale française. Elle commémore la prise de la Bastille en 1789 et la Fête de la Fédération de 1790.
-
-💡 Retenez : 14 juillet = Fête de la France
-`endif`
-
-`if @err_NAT_V03_Q23 == 1`
-**23. Quel est l'âge de la majorité ?**  
-✅ 18 ans.
-
-En France, la majorité est fixée à 18 ans. À partir de cet âge, une personne devient juridiquement majeure et exerce pleinement ses droits civils.
-
-💡 Retenez : Majorité = 18 ans en France
-`endif`
-
-`if @err_NAT_V03_Q24 == 1`
-**24. Quel jour célèbre-t-on officiellement la laïcité en France ?**  
-✅ Le 9 décembre.
-
-La Journée nationale de la laïcité est célébrée le 9 décembre, date anniversaire de la loi de séparation des Églises et de l'État de 1905.
-
-💡 Retenez le mot-clé : Journée de la laïcité = 9 décembre
-`endif`
-
 `if @err_NAT_V03_Q25 == 1`
-**25. Quel était le surnom de Louis XIV ?**  
-✅ Le Roi-Soleil.
+**25. Qu'est-ce que les droits fondamentaux ?**  
+✅ Les droits essentiels garantis à toute personne.
 
-Louis XIV (1638-1715) est surnommé le Roi-Soleil. Son règne est l'un des plus longs de l'histoire de France et il a renforcé le pouvoir de la monarchie.
+Les droits fondamentaux sont les droits et libertés indispensables reconnus à toute personne. Ils sont protégés par la Constitution, les lois françaises et les textes internationaux.
 
-💡 Retenez : Louis XIV = Roi-Soleil
+💡 Retenez le mot-clé : droits fondamentaux = droits essentiels garantis à tous
 `endif`
 
 `if @err_NAT_V03_Q26 == 1`
-**26. À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?**  
-✅ 15 ans.
+**26. Quel droit protège une personne contre les arrestations ou détentions arbitraires ?**  
+✅ Le droit à la liberté individuelle.
 
-En France, la majorité numérique est fixée à 15 ans. Avant cet âge, l'accord des parents est généralement nécessaire pour l'inscription à certains services en ligne utilisant les données personnelles.
+La liberté individuelle est un droit fondamental. Personne ne peut être arrêté ou détenu de manière arbitraire : toute privation de liberté doit respecter la loi.
 
-💡 Retenez le mot-clé : majorité numérique = 15 ans
+💡 Retenez le mot-clé : liberté individuelle = protection contre les arrestations arbitraires
 `endif`
 
 `if @err_NAT_V03_Q27 == 1`
-**27. De quand date l'appel à la résistance du général de Gaulle ?**  
-✅ 18 juin 1940.
+**27. Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**  
+✅ La Déclaration des droits de l'Homme et du Citoyen de 1789.
 
-Le 18 juin 1940, le général de Gaulle lance depuis Londres un appel à poursuivre le combat contre l'Allemagne nazie. Cet appel est devenu un symbole de la Résistance française.
+Adoptée en 1789 pendant la Révolution française, la Déclaration des droits de l'Homme et du Citoyen affirme les droits fondamentaux et inspire encore aujourd'hui le droit français.
 
-💡 Retenez : 18 juin 1940 (presque 1 an après le début de la guerre) le général de Gaulle appelle les français à résister
+💡 Retenez le mot-clé : texte de 1789 = Déclaration des droits de l'Homme et du Citoyen
 `endif`
 
 `if @err_NAT_V03_Q28 == 1`
-**28. Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**  
-✅ Le jour de gloire est arrivé.
+**28. Dans quel texte trouve-t-on la phrase « Les hommes naissent et demeurent libres et égaux en droits » ?**  
+✅ La Déclaration des droits de l'Homme et du Citoyen de 1789.
 
-La Marseillaise est l'hymne national français depuis 1795. Le vers exact est « Allons enfants de la patrie, le jour de gloire est arrivé. »
+L'article premier de la Déclaration de 1789 affirme cette phrase, l'un des fondements des valeurs républicaines françaises.
 
-💡 Retenez le mot-clé : « Allons enfants de la patrie, le jour de gloire est arrivé »
+💡 Retenez le mot-clé : « libres et égaux en droits » = DDHC de 1789
 `endif`
 
 ### Partie 2 — Mises en situation
@@ -54979,87 +55310,87 @@ La Marseillaise est l'hymne national français depuis 1795. Le vers exact est «
 `endif`
 
 `if @err_NAT_V03_Q29 == 1`
-**29. Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**  
-✅ Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.
+**29. Parmi ces responsables, lequel est élu (et non nommé) ?**  
+✅ Le maire.
 
-L'école publique accueille tous les élèves sans distinction de religion ou de conviction. La laïcité garantit la liberté de conscience de chacun et la neutralité de l'établissement, sans interdire ni imposer aucune religion.
+La bonne réponse est « Le maire ». Le maire est un élu local. Les autres (préfet et procureur) sont nommés par l'État. Le Premier ministre est nommé par le Président de la République.
 `endif`
 
 `if @err_NAT_V03_Q30 == 1`
-**30. Quelle obligation concerne pourtant toutes les personnes résidant en France, quelle que soit leur nationalité ?**  
-✅ Respecter la loi.
+**30. Quel est le rôle du maire ?**  
+✅ Il dirige la commune, applique les décisions du conseil municipal et assure notamment l'état civil.
 
-Toutes les personnes vivant en France, quelle que soit leur nationalité, doivent respecter les lois françaises. Voter ou être citoyen sont des droits ou statuts, pas des obligations générales.
+La bonne réponse est « Il dirige la commune, applique les décisions du conseil municipal et assure notamment l'état civil ». Le maire est l'exécutif de la commune. Il met en œuvre les décisions du conseil municipal, gère les services municipaux et exerce certaines missions pour le compte de l'État, comme l'état civil.
 `endif`
 
 `if @err_NAT_V03_Q31 == 1`
-**31. Que lui répondez-vous ?**  
-✅ Oui, dans les conditions prévues par la loi.
+**31. Où peut-on demander son inscription sur les listes électorales sans effectuer de démarche en ligne ?**  
+✅ À la mairie de son domicile.
 
-En France, une femme peut recourir à l'interruption volontaire de grossesse (IVG) dans les conditions prévues par la loi, sans avoir besoin de l'accord d'un tiers.
+La bonne réponse est « À la mairie de son domicile ». Les personnes qui ne souhaitent pas effectuer leurs démarches en ligne peuvent demander leur inscription sur les listes électorales directement auprès de la mairie de leur domicile.
 `endif`
 
 `if @err_NAT_V03_Q32 == 1`
-**32. Que pouvez-vous lui répondre ?**  
-✅ Il peut choisir sa religion ou ne pas en avoir.
+**32. Que dit l'article 1er de la Constitution à propos de la France ?**  
+✅ La France est une République indivisible, laïque, démocratique et sociale.
 
-En France, chacun est libre de pratiquer une religion, d'en changer ou de ne pas en avoir : c'est cela, la liberté individuelle. Elle ne dispense en revanche jamais de respecter la loi commune.
+La bonne réponse est « La France est une République indivisible, laïque, démocratique et sociale ». L'article 1er de la Constitution définit les principes fondamentaux de la République française : « La France est une République indivisible, laïque, démocratique et sociale. » Cette formulation est à connaître par cœur pour l'examen.
 `endif`
 
 `if @err_NAT_V03_Q33 == 1`
-**33. Quel mot manque-t-il ?**  
-✅ Citoyens.
+**33. Que garantit la liberté de la presse ?**  
+✅ La liberté d'informer et d'être informé.
 
-La Marseillaise est l'hymne national français. Le vers exact est « Aux armes, citoyens ! Formez vos bataillons. » Connaître ses paroles fait partie de la culture civique attendue.
+La bonne réponse est « La liberté d'informer et d'être informé ». La liberté de la presse permet aux médias d'informer le public tout en respectant les lois, notamment celles qui protègent les personnes contre la diffamation, l'injure ou la provocation à la haine.
 `endif`
 
 `if @err_NAT_V03_Q34 == 1`
-**34. Que prévoit la Charte de l'environnement, intégrée à la Constitution ?**  
-✅ Chacun a le devoir de prendre part à la préservation et à l'amélioration de l'environnement.
+**34. Lequel de ces pays est l'un des six pays fondateurs de la construction européenne ?**  
+✅ Italie.
 
-La Charte de l'environnement, intégrée à la Constitution, rappelle que chacun a des droits mais aussi des devoirs pour protéger l'environnement, pas seulement l'État ou les entreprises.
+La bonne réponse est « Italie ». Les six États fondateurs (France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg) sont à l'origine de la construction européenne avec la Communauté européenne du charbon et de l'acier (CECA) en 1951.
 `endif`
 
 `if @err_NAT_V03_Q35 == 1`
-**35. Quelle formulation est exacte ?**  
-✅ La France est une République indivisible, laïque, démocratique et sociale.
+**35. Sur quelle région française a eu lieu le Débarquement allié du 6 juin 1944 ?**  
+✅ Normandie.
 
-L'article 1er de la Constitution affirme que la France est une République indivisible, laïque, démocratique et sociale. Il garantit l'égalité devant la loi de tous les citoyens, sans distinction d'origine, de race ou de religion.
+La bonne réponse est « Normandie ». Le Débarquement du 6 juin 1944 a eu lieu sur plusieurs plages de Normandie. Il marque le début de la libération de la France occupée.
 `endif`
 
 `if @err_NAT_V03_Q36 == 1`
-**36. Laquelle choisissez-vous ?**  
-✅ Respecter la loi.
+**36. Dans quelle ville les rois de France étaient-ils traditionnellement sacrés ?**  
+✅ Reims.
 
-Toutes les personnes présentes en France doivent respecter les lois : c'est une obligation. Choisir une religion, adhérer à une association ou voter sont, en revanche, des libertés ou des droits, pas des obligations.
+La bonne réponse est « Reims ». La cathédrale de Reims a accueilli le sacre de la grande majorité des rois de France, faisant de cette ville un lieu symbolique de la monarchie française.
 `endif`
 
 `if @err_NAT_V03_Q37 == 1`
-**37. Pour quel motif peut-on réellement limiter la liberté d'expression ?**  
-✅ Pour protéger les droits d'autrui, l'ordre public ou lutter contre les infractions prévues par la loi.
+**37. Un appareil électroménager neuf tombe en panne un an après l'achat. Que peut faire l'acheteur ?**  
+✅ Faire jouer la garantie légale de 2 ans ou demander une réparation.
 
-La liberté d'expression est un droit fondamental, mais elle ne permet pas d'insulter, de diffamer, de provoquer à la haine ou de commettre des infractions prévues par la loi.
+La bonne réponse est « Faire jouer la garantie légale de 2 ans ou demander une réparation ». En France, tout produit neuf acheté en magasin bénéficie d'une garantie légale de conformité de 2 ans. Si l'appareil tombe en panne, c'est au vendeur (le magasin) de régler le problème (réparation ou échange), pas au fabricant.
 `endif`
 
 `if @err_NAT_V03_Q38 == 1`
-**38. Que lui répondez-vous ?**  
-✅ C'est interdit par la loi française.
+**38. À quel moment la naissance d'un enfant doit-elle être déclarée ?**  
+✅ Lors de sa naissance.
 
-En France, les femmes et les hommes disposent des mêmes droits. La répudiation n'est pas reconnue par le droit français, quelles que soient les circonstances ou les accords passés à l'étranger.
+La bonne réponse est « Lors de sa naissance ». La naissance d'un enfant doit obligatoirement être déclarée au service de l'état civil afin qu'un acte de naissance soit établi.
 `endif`
 
 `if @err_NAT_V03_Q39 == 1`
-**39. Que lui répondez-vous ?**  
-✅ C'est l'hymne national français.
+**39. La liberté d'association est :**  
+✅ Le droit de créer une association, d'y adhérer ou non.
 
-La Marseillaise est l'hymne national de la République française, au même titre que le drapeau, Marianne ou la devise sont d'autres symboles officiels, mais de nature différente.
+La bonne réponse est « Le droit de créer une association, d'y adhérer ou non ». La liberté d'association est une liberté fondamentale. Chacun est libre de créer une association, d'y adhérer ou de ne pas y adhérer.
 `endif`
 
 `if @err_NAT_V03_Q40 == 1`
-**40. Quelle proposition est correcte concernant les déchets ?**  
-✅ Les déchets doivent être triés et déposés dans les équipements prévus.
+**40. La liberté d'expression sur les réseaux sociaux en France est :**  
+✅ Garantie mais encadrée par la loi (interdiction de la haine, de la diffamation, des injures...).
 
-Le tri des déchets est un geste citoyen qui protège l'environnement. Les déchets, y compris les encombrants, doivent être déposés dans les conteneurs, déchèteries ou aux dates de collecte prévus.
+La bonne réponse est « Garantie mais encadrée par la loi (interdiction de la haine, de la diffamation, des injures...) ». La liberté d'expression s'applique aussi sur Internet et les réseaux sociaux. Cependant, elle ne permet pas d'insulter, de diffamer, de harceler ou d'inciter à la haine ou à la violence.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -55333,11 +55664,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -55367,7 +55698,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -55376,11 +55707,23 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T1_CH01 >= 3`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
+`if @errchap_T1_CH02 >= 3`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
 `if @errchap_T1_CH03 >= 3`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -55409,6 +55752,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T5_CH01 >= 3`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 >= 3`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 >= 3`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -55416,7 +55762,7 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -55425,11 +55771,23 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T1_CH01 == 2`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
+`if @errchap_T1_CH02 == 2`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
 `if @errchap_T1_CH03 == 2`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -55458,6 +55816,9 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T5_CH01 == 2`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 2`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 2`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -55465,7 +55826,7 @@ Ces chapitres méritent une révision ciblée :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -55474,11 +55835,23 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T1_CH01 == 1`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
+`if @errchap_T1_CH02 == 1`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
 `if @errchap_T1_CH03 == 1`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -55507,6 +55880,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T5_CH01 == 1`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 1`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 1`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -55514,11 +55890,11 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
@@ -55538,21 +55914,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T2_CH04 = 0`
-`@errchap_T5_CH01 = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T1_CH05 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T4_CH02 = 0`
-`@errchap_T1_CH04 = 0`
-`@errchap_T4_CH01 = 0`
-`@errchap_T2_CH02 = 0`
-`@errchap_T5_CH02 = 0`
 `@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
-`@errchap_T2_CH03 = 0`
 `@errchap_T1_CH02 = 0`
 `@errchap_T1_CH03 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -55563,8 +55943,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q01
 
 `@err_NAT_V04_Q01 = 0`
-
 `@exam_variant = 4`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -55577,17 +55957,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**Citez un symbole qui représente officiellement la République française.**
+<!-- Source naturalisation : NAT-T4-035 -->
 
-1) [La tour Eiffel.](EXAM_NAT_V04_Q01_FAUX)
-2) [Le béret.](EXAM_NAT_V04_Q01_FAUX)
-3) [Marianne.](EXAM_NAT_V04_Q01_VRAI)
-4) [Le coq.](EXAM_NAT_V04_Q01_FAUX)
+**En quelle année les pièces et billets en euros sont-ils entrés en circulation en France ?**
+
+1) [1992.](EXAM_NAT_V04_Q01_FAUX)
+2) [1999.](EXAM_NAT_V04_Q01_FAUX)
+3) [2002.](EXAM_NAT_V04_Q01_VRAI)
+4) [2000.](EXAM_NAT_V04_Q01_FAUX)
 
 ## EXAM_NAT_V04_Q01_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q02)
@@ -55596,7 +55978,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q01 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q02)
 
@@ -55615,17 +55997,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**Qui est le préfet ?**
+<!-- Source naturalisation : NAT-T4-036 -->
 
-1) [Le maire.](EXAM_NAT_V04_Q02_FAUX)
-2) [Le président du conseil départemental.](EXAM_NAT_V04_Q02_FAUX)
-3) [Le député.](EXAM_NAT_V04_Q02_FAUX)
-4) [Le représentant de l'État dans le département.](EXAM_NAT_V04_Q02_VRAI)
+**À quelle date Paris a-t-elle été libérée en 1944 ?**
+
+1) [Le 6 juin.](EXAM_NAT_V04_Q02_FAUX)
+2) [Le 8 mai.](EXAM_NAT_V04_Q02_FAUX)
+3) [Le 11 novembre.](EXAM_NAT_V04_Q02_FAUX)
+4) [Le 25 août.](EXAM_NAT_V04_Q02_VRAI)
 
 ## EXAM_NAT_V04_Q02_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q03)
@@ -55634,7 +56018,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q02 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q03)
 
@@ -55653,17 +56037,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**Où peut-on voir la devise de la République ?**
+<!-- Source naturalisation : NAT-T5-016 -->
 
-1) [Uniquement sur les permis de conduire.](EXAM_NAT_V04_Q03_FAUX)
-2) [Uniquement sur les billets en euros.](EXAM_NAT_V04_Q03_FAUX)
-3) [Sur les bâtiments publics, notamment les mairies et les écoles.](EXAM_NAT_V04_Q03_VRAI)
-4) [Uniquement sur les passeports étrangers.](EXAM_NAT_V04_Q03_FAUX)
+**Que garantit le secret médical ?**
+
+1) [Tout le monde peut consulter un dossier médical.](EXAM_NAT_V04_Q03_FAUX)
+2) [Le médecin doit informer l'employeur.](EXAM_NAT_V04_Q03_FAUX)
+3) [Les informations sont publiques.](EXAM_NAT_V04_Q03_FAUX)
+4) [Les informations médicales sont protégées et ne peuvent être divulguées sans l'accord du patient, sauf exceptions prévues par la loi.](EXAM_NAT_V04_Q03_VRAI)
 
 ## EXAM_NAT_V04_Q03_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q04)
@@ -55672,7 +56058,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q03 = 1`
 
-`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q04)
 
@@ -55691,17 +56077,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**Quel pays a été colonisé par la France ?**
+<!-- Source naturalisation : NAT-T5-017 -->
 
-1) [L'Algérie.](EXAM_NAT_V04_Q04_VRAI)
-2) [Le Japon.](EXAM_NAT_V04_Q04_FAUX)
-3) [Le Canada.](EXAM_NAT_V04_Q04_FAUX)
-4) [Le Portugal.](EXAM_NAT_V04_Q04_FAUX)
+**À quoi sert la carte Vitale ?**
+
+1) [À faciliter la prise en charge et le remboursement des frais de santé.](EXAM_NAT_V04_Q04_VRAI)
+2) [À payer les impôts.](EXAM_NAT_V04_Q04_FAUX)
+3) [À voter.](EXAM_NAT_V04_Q04_FAUX)
+4) [À conduire.](EXAM_NAT_V04_Q04_FAUX)
 
 ## EXAM_NAT_V04_Q04_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q05)
@@ -55710,7 +56098,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q04 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q05)
 
@@ -55729,17 +56117,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**Quand peut-on visiter gratuitement des lieux culturels en France ?**
+<!-- Source naturalisation : NAT-T5-018 -->
 
-1) [Le 14 juillet.](EXAM_NAT_V04_Q05_FAUX)
-2) [Le 25 décembre.](EXAM_NAT_V04_Q05_FAUX)
-3) [Lors des Journées européennes du patrimoine.](EXAM_NAT_V04_Q05_VRAI)
-4) [Tous les dimanches.](EXAM_NAT_V04_Q05_FAUX)
+**Quel est le rôle d'une mutuelle santé ?**
+
+1) [Elle remplace la CPAM.](EXAM_NAT_V04_Q05_FAUX)
+2) [À compléter les remboursements de l'Assurance maladie.](EXAM_NAT_V04_Q05_VRAI)
+3) [Elle délivre la carte Vitale.](EXAM_NAT_V04_Q05_FAUX)
+4) [Elle soigne les patients.](EXAM_NAT_V04_Q05_FAUX)
 
 ## EXAM_NAT_V04_Q05_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q06)
@@ -55748,7 +56138,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q05 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q06)
 
@@ -55767,17 +56157,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**Que dit l'article 1er de la Constitution à propos de la France ?**
+<!-- Source naturalisation : NAT-T5-019 -->
 
-1) [La France est une République fédérale et catholique.](EXAM_NAT_V04_Q06_FAUX)
-2) [La France est un royaume démocratique.](EXAM_NAT_V04_Q06_FAUX)
-3) [La France est une République indivisible, laïque, démocratique et sociale.](EXAM_NAT_V04_Q06_VRAI)
-4) [La France est une République uniquement laïque.](EXAM_NAT_V04_Q06_FAUX)
+**Qu'est-ce que le tiers payant ?**
+
+1) [Les soins sont toujours gratuits.](EXAM_NAT_V04_Q06_FAUX)
+2) [Le médecin travaille gratuitement.](EXAM_NAT_V04_Q06_FAUX)
+3) [Le patient n'avance pas tout ou partie des frais de santé.](EXAM_NAT_V04_Q06_VRAI)
+4) [La mutuelle devient obligatoire.](EXAM_NAT_V04_Q06_FAUX)
 
 ## EXAM_NAT_V04_Q06_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q07)
@@ -55786,7 +56178,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q06 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q07)
 
@@ -55805,17 +56197,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**Comment demander une carte nationale d'identité ?**
+<!-- Source naturalisation : NAT-T5-020 -->
 
-1) [Aller au commissariat.](EXAM_NAT_V04_Q07_FAUX)
-2) [Aller à la préfecture.](EXAM_NAT_V04_Q07_FAUX)
-3) [Faire uniquement une demande auprès de France Travail.](EXAM_NAT_V04_Q07_FAUX)
-4) [En faire la demande auprès d'une mairie équipée.](EXAM_NAT_V04_Q07_VRAI)
+**L'affiliation à l'Assurance maladie est :**
+
+1) [Facultative pour tous.](EXAM_NAT_V04_Q07_FAUX)
+2) [Réservée aux salariés.](EXAM_NAT_V04_Q07_FAUX)
+3) [Réservée aux personnes âgées.](EXAM_NAT_V04_Q07_FAUX)
+4) [Obligatoire pour tous les résidents français réguliers.](EXAM_NAT_V04_Q07_VRAI)
 
 ## EXAM_NAT_V04_Q07_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q08)
@@ -55824,7 +56218,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q07 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q08)
 
@@ -55843,17 +56237,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Quel est l'un des premiers devoirs de tout citoyen ?**
+<!-- Source naturalisation : NAT-T1-013 -->
 
-1) [Voter à toutes les élections.](EXAM_NAT_V04_Q08_FAUX)
-2) [Être bénévole.](EXAM_NAT_V04_Q08_FAUX)
-3) [Appartenir à une association.](EXAM_NAT_V04_Q08_FAUX)
-4) [Respecter les lois.](EXAM_NAT_V04_Q08_VRAI)
+**Que commémore la fête nationale ?**
+
+1) [La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.](EXAM_NAT_V04_Q08_VRAI)
+2) [La fin de la Seconde Guerre mondiale.](EXAM_NAT_V04_Q08_FAUX)
+3) [La signature de la Constitution.](EXAM_NAT_V04_Q08_FAUX)
+4) [La création de l'Union européenne.](EXAM_NAT_V04_Q08_FAUX)
 
 ## EXAM_NAT_V04_Q08_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q09)
@@ -55862,7 +56258,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q08 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q09)
 
@@ -55881,17 +56277,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**Quel traité a créé officiellement l'Union européenne ?**
+<!-- Source naturalisation : NAT-T1-014 -->
 
-1) [Le traité de Versailles.](EXAM_NAT_V04_Q09_FAUX)
-2) [Le traité de Rome.](EXAM_NAT_V04_Q09_FAUX)
-3) [Le traité de Lisbonne.](EXAM_NAT_V04_Q09_FAUX)
-4) [Le traité de Maastricht.](EXAM_NAT_V04_Q09_VRAI)
+**Que porte Marianne sur la tête ?**
+
+1) [Une couronne.](EXAM_NAT_V04_Q09_FAUX)
+2) [Un bonnet phrygien.](EXAM_NAT_V04_Q09_VRAI)
+3) [Un casque.](EXAM_NAT_V04_Q09_FAUX)
+4) [Un béret.](EXAM_NAT_V04_Q09_FAUX)
 
 ## EXAM_NAT_V04_Q09_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q10)
@@ -55900,7 +56298,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q09 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q10)
 
@@ -55919,17 +56317,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**Qui était Auguste Rodin ?**
+<!-- Source naturalisation : NAT-T1-015 -->
 
-1) [Un sculpteur français.](EXAM_NAT_V04_Q10_VRAI)
-2) [Un écrivain.](EXAM_NAT_V04_Q10_FAUX)
-3) [Un peintre.](EXAM_NAT_V04_Q10_FAUX)
-4) [Un musicien.](EXAM_NAT_V04_Q10_FAUX)
+**Que signifie le mot « fraternité » dans la devise française ?**
+
+1) [Être tous de la même famille.](EXAM_NAT_V04_Q10_FAUX)
+2) [Avoir la même religion.](EXAM_NAT_V04_Q10_FAUX)
+3) [La solidarité, l'entraide et le respect entre toutes les personnes.](EXAM_NAT_V04_Q10_VRAI)
+4) [Penser tous la même chose.](EXAM_NAT_V04_Q10_FAUX)
 
 ## EXAM_NAT_V04_Q10_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q11)
@@ -55938,7 +56338,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q10 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q11)
 
@@ -55957,17 +56357,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**Citez une mer ou un océan qui borde la France métropolitaine.**
+<!-- Source naturalisation : NAT-T1-016 -->
 
-1) [La mer Méditerranée.](EXAM_NAT_V04_Q11_VRAI)
-2) [L'océan indien.](EXAM_NAT_V04_Q11_FAUX)
-3) [La mer Rouge.](EXAM_NAT_V04_Q11_FAUX)
-4) [L'océan Pacifique.](EXAM_NAT_V04_Q11_FAUX)
+**Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?**
+
+1) [Marianne.](EXAM_NAT_V04_Q11_FAUX)
+2) [Le drapeau.](EXAM_NAT_V04_Q11_FAUX)
+3) [La tour Eiffel.](EXAM_NAT_V04_Q11_FAUX)
+4) [Le coq.](EXAM_NAT_V04_Q11_VRAI)
 
 ## EXAM_NAT_V04_Q11_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q12)
@@ -55976,7 +56378,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q11 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q12)
 
@@ -55995,12 +56397,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**Combien de départements compte la France ?**
+<!-- Source naturalisation : NAT-T2-020 -->
 
-1) [96.](EXAM_NAT_V04_Q12_FAUX)
-2) [98.](EXAM_NAT_V04_Q12_FAUX)
-3) [13.](EXAM_NAT_V04_Q12_FAUX)
-4) [101.](EXAM_NAT_V04_Q12_VRAI)
+**Pour combien de temps le Président de la République est-il élu ?**
+
+1) [4 ans.](EXAM_NAT_V04_Q12_FAUX)
+2) [6 ans.](EXAM_NAT_V04_Q12_FAUX)
+3) [5 ans.](EXAM_NAT_V04_Q12_VRAI)
+4) [7 ans.](EXAM_NAT_V04_Q12_FAUX)
 
 ## EXAM_NAT_V04_Q12_VRAI
 
@@ -56033,17 +56437,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Lequel de ces personnages a un lien avec la République française ?**
+<!-- Source naturalisation : NAT-T2-021 -->
 
-1) [Louis XIV.](EXAM_NAT_V04_Q13_FAUX)
-2) [Charlemagne.](EXAM_NAT_V04_Q13_FAUX)
-3) [François Ier.](EXAM_NAT_V04_Q13_FAUX)
-4) [Jules Ferry.](EXAM_NAT_V04_Q13_VRAI)
+**Pour combien de temps les députés sont-ils élus ?**
+
+1) [4 ans.](EXAM_NAT_V04_Q13_FAUX)
+2) [6 ans.](EXAM_NAT_V04_Q13_FAUX)
+3) [7 ans.](EXAM_NAT_V04_Q13_FAUX)
+4) [5 ans.](EXAM_NAT_V04_Q13_VRAI)
 
 ## EXAM_NAT_V04_Q13_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q14)
@@ -56052,7 +56458,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q13 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q14)
 
@@ -56071,17 +56477,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
+<!-- Source naturalisation : NAT-T2-022 -->
 
-1) [Tout le monde est identique.](EXAM_NAT_V04_Q14_FAUX)
-2) [Tout le monde gagne le même salaire.](EXAM_NAT_V04_Q14_FAUX)
-3) [Tout le monde pense la même chose.](EXAM_NAT_V04_Q14_FAUX)
-4) [Toutes les personnes sont égales en droits devant la loi, sans discrimination.](EXAM_NAT_V04_Q14_VRAI)
+**Pour combien de temps les sénateurs sont-ils élus ?**
+
+1) [6 ans.](EXAM_NAT_V04_Q14_VRAI)
+2) [5 ans.](EXAM_NAT_V04_Q14_FAUX)
+3) [7 ans.](EXAM_NAT_V04_Q14_FAUX)
+4) [9 ans.](EXAM_NAT_V04_Q14_FAUX)
 
 ## EXAM_NAT_V04_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q15)
@@ -56090,7 +56498,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q14 = 1`
 
-`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q15)
 
@@ -56109,17 +56517,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Quelle est la devise de la République française ?**
+<!-- Source naturalisation : NAT-T2-023 -->
 
-1) [Liberté, Justice, Fraternité.](EXAM_NAT_V04_Q15_FAUX)
-2) [Liberté, Égalité, Fraternité.](EXAM_NAT_V04_Q15_VRAI)
-3) [Égalité, Travail, Patrie.](EXAM_NAT_V04_Q15_FAUX)
-4) [Liberté, Solidarité, Égalité.](EXAM_NAT_V04_Q15_FAUX)
+**Qui dirige l'action du Gouvernement au quotidien ?**
+
+1) [Le Président de la République.](EXAM_NAT_V04_Q15_FAUX)
+2) [Le Premier ministre.](EXAM_NAT_V04_Q15_VRAI)
+3) [Le Président de l'Assemblée nationale.](EXAM_NAT_V04_Q15_FAUX)
+4) [Le préfet.](EXAM_NAT_V04_Q15_FAUX)
 
 ## EXAM_NAT_V04_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q16)
@@ -56128,7 +56538,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q15 = 1`
 
-`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q16)
 
@@ -56147,17 +56557,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Qui était un célèbre musicien français ?**
+<!-- Source naturalisation : NAT-T2-024 -->
 
-1) [Mozart.](EXAM_NAT_V04_Q16_FAUX)
-2) [Beethoven.](EXAM_NAT_V04_Q16_FAUX)
-3) [Chopin.](EXAM_NAT_V04_Q16_FAUX)
-4) [Hector Berlioz.](EXAM_NAT_V04_Q16_VRAI)
+**Un citoyen a-t-il le droit d'adhérer à un parti politique ?**
+
+1) [Non.](EXAM_NAT_V04_Q16_FAUX)
+2) [Seulement les élus.](EXAM_NAT_V04_Q16_FAUX)
+3) [Oui, chacun est libre d'adhérer ou non.](EXAM_NAT_V04_Q16_VRAI)
+4) [Seulement les fonctionnaires.](EXAM_NAT_V04_Q16_FAUX)
 
 ## EXAM_NAT_V04_Q16_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q17)
@@ -56166,7 +56578,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q16 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q17)
 
@@ -56185,17 +56597,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?**
+<!-- Source naturalisation : NAT-T2-025 -->
 
-1) [L'Organisation des Nations unies (ONU).](EXAM_NAT_V04_Q17_VRAI)
-2) [L'Union européenne.](EXAM_NAT_V04_Q17_FAUX)
-3) [L'OTAN.](EXAM_NAT_V04_Q17_FAUX)
-4) [L'UNESCO.](EXAM_NAT_V04_Q17_FAUX)
+**Qui juge et sanctionne les auteurs d'infractions ?**
+
+1) [La police.](EXAM_NAT_V04_Q17_FAUX)
+2) [Le maire.](EXAM_NAT_V04_Q17_FAUX)
+3) [Le Président de la République.](EXAM_NAT_V04_Q17_FAUX)
+4) [La justice.](EXAM_NAT_V04_Q17_VRAI)
 
 ## EXAM_NAT_V04_Q17_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q18)
@@ -56204,7 +56618,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q17 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q18)
 
@@ -56223,12 +56637,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Parmi les trois catégories d'infractions du droit français, laquelle est la plus grave ?**
+<!-- Source naturalisation : NAT-T3-013 -->
 
-1) [La contravention.](EXAM_NAT_V04_Q18_FAUX)
-2) [Le délit.](EXAM_NAT_V04_Q18_FAUX)
-3) [L'infraction routière.](EXAM_NAT_V04_Q18_FAUX)
-4) [Le crime.](EXAM_NAT_V04_Q18_VRAI)
+**Lequel de ces actes porte gravement atteinte à la dignité humaine ?**
+
+1) [La torture ou l'esclavage.](EXAM_NAT_V04_Q18_VRAI)
+2) [Une critique.](EXAM_NAT_V04_Q18_FAUX)
+3) [Une amende.](EXAM_NAT_V04_Q18_FAUX)
+4) [Une contravention.](EXAM_NAT_V04_Q18_FAUX)
 
 ## EXAM_NAT_V04_Q18_VRAI
 
@@ -56242,7 +56658,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q18 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q19)
 
@@ -56261,17 +56677,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**Quelle chaîne de montagnes est située entre la France et l'Espagne ?**
+<!-- Source naturalisation : NAT-T3-014 -->
 
-1) [Les Pyrénées.](EXAM_NAT_V04_Q19_VRAI)
-2) [Les Alpes.](EXAM_NAT_V04_Q19_FAUX)
-3) [Le Massif central.](EXAM_NAT_V04_Q19_FAUX)
-4) [Les Vosges.](EXAM_NAT_V04_Q19_FAUX)
+**Que garantit la liberté d'expression ?**
+
+1) [Dire n'importe quoi.](EXAM_NAT_V04_Q19_FAUX)
+2) [Le droit d'exprimer librement ses opinions dans le respect de la loi et des droits d'autrui.](EXAM_NAT_V04_Q19_VRAI)
+3) [Insulter librement.](EXAM_NAT_V04_Q19_FAUX)
+4) [Diffuser de fausses informations sans limite.](EXAM_NAT_V04_Q19_FAUX)
 
 ## EXAM_NAT_V04_Q19_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q20)
@@ -56280,7 +56698,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q19 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q20)
 
@@ -56299,17 +56717,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**À qui est accessible la contraception ?**
+<!-- Source naturalisation : NAT-T3-015 -->
 
-1) [Seulement aux personnes mariées.](EXAM_NAT_V04_Q20_FAUX)
-2) [Seulement aux femmes majeures.](EXAM_NAT_V04_Q20_FAUX)
-3) [Seulement aux personnes ayant des enfants.](EXAM_NAT_V04_Q20_FAUX)
-4) [À toute personne qui en a besoin.](EXAM_NAT_V04_Q20_VRAI)
+**Après une interpellation, que peut décider la police dans les conditions prévues par la loi ?**
+
+1) [Condamner directement la personne.](EXAM_NAT_V04_Q20_FAUX)
+2) [Confisquer définitivement ses biens.](EXAM_NAT_V04_Q20_FAUX)
+3) [Placer la personne en garde à vue.](EXAM_NAT_V04_Q20_VRAI)
+4) [Informer la presse de son identité.](EXAM_NAT_V04_Q20_FAUX)
 
 ## EXAM_NAT_V04_Q20_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q21)
@@ -56318,7 +56738,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q20 = 1`
 
-`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q21)
 
@@ -56337,17 +56757,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Comment les députés sont-ils désignés ?**
+<!-- Source naturalisation : NAT-T3-016 -->
 
-1) [Ils sont nommés par le Président.](EXAM_NAT_V04_Q21_FAUX)
-2) [Ils sont désignés par le Sénat.](EXAM_NAT_V04_Q21_FAUX)
-3) [Ils sont choisis par le Gouvernement.](EXAM_NAT_V04_Q21_FAUX)
-4) [Ils sont élus au suffrage universel direct.](EXAM_NAT_V04_Q21_VRAI)
+**Tous les citoyens français ont-ils obligatoirement la même religion ?**
+
+1) [Oui.](EXAM_NAT_V04_Q21_FAUX)
+2) [Tous sont catholiques.](EXAM_NAT_V04_Q21_FAUX)
+3) [Tous doivent avoir une religion.](EXAM_NAT_V04_Q21_FAUX)
+4) [Non, chacun est libre de croire ou de ne pas croire.](EXAM_NAT_V04_Q21_VRAI)
 
 ## EXAM_NAT_V04_Q21_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q22)
@@ -56356,7 +56778,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q21 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q22)
 
@@ -56375,17 +56797,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
-**Pour un citoyen tiré au sort, être juré à la cour d'assises est :**
+<!-- Source naturalisation : NAT-T4-028 -->
 
-1) [Un devoir civique obligatoire.](EXAM_NAT_V04_Q22_VRAI)
-2) [Une activité facultative.](EXAM_NAT_V04_Q22_FAUX)
-3) [Un métier rémunéré.](EXAM_NAT_V04_Q22_FAUX)
-4) [Une mission réservée aux avocats.](EXAM_NAT_V04_Q22_FAUX)
+**Que commémore le 11 novembre, jour férié en France ?**
+
+1) [Le Débarquement.](EXAM_NAT_V04_Q22_FAUX)
+2) [La Libération de Paris.](EXAM_NAT_V04_Q22_FAUX)
+3) [Le 8 mai 1945.](EXAM_NAT_V04_Q22_FAUX)
+4) [L'Armistice de la Première Guerre mondiale (1918).](EXAM_NAT_V04_Q22_VRAI)
 
 ## EXAM_NAT_V04_Q22_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q23)
@@ -56394,7 +56818,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q22 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q23)
 
@@ -56413,17 +56837,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**Quel numéro d'urgence permet d'appeler la police ?**
+<!-- Source naturalisation : NAT-T4-029 -->
 
-1) [15.](EXAM_NAT_V04_Q23_FAUX)
-2) [17.](EXAM_NAT_V04_Q23_VRAI)
-3) [18.](EXAM_NAT_V04_Q23_FAUX)
-4) [112.](EXAM_NAT_V04_Q23_FAUX)
+**Depuis quelle année l'esclavage est-il définitivement aboli en France ?**
+
+1) [Depuis 1848.](EXAM_NAT_V04_Q23_VRAI)
+2) [1789.](EXAM_NAT_V04_Q23_FAUX)
+3) [1804.](EXAM_NAT_V04_Q23_FAUX)
+4) [1945.](EXAM_NAT_V04_Q23_FAUX)
 
 ## EXAM_NAT_V04_Q23_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q24)
@@ -56432,7 +56858,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q23 = 1`
 
-`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q24)
 
@@ -56451,17 +56877,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**Un citoyen a-t-il le droit d'adhérer à un parti politique ?**
+<!-- Source naturalisation : NAT-T4-030 -->
 
-1) [Non.](EXAM_NAT_V04_Q24_FAUX)
-2) [Seulement les élus.](EXAM_NAT_V04_Q24_FAUX)
-3) [Seulement les fonctionnaires.](EXAM_NAT_V04_Q24_FAUX)
-4) [Oui, chacun est libre d'adhérer ou non.](EXAM_NAT_V04_Q24_VRAI)
+**Qui est le principal artisan du décret de 1848 abolissant l'esclavage dans les colonies françaises ?**
+
+1) [Napoléon.](EXAM_NAT_V04_Q24_FAUX)
+2) [Victor Schœlcher.](EXAM_NAT_V04_Q24_VRAI)
+3) [Jules Ferry.](EXAM_NAT_V04_Q24_FAUX)
+4) [Victor Hugo.](EXAM_NAT_V04_Q24_FAUX)
 
 ## EXAM_NAT_V04_Q24_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q25)
@@ -56470,7 +56898,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q24 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q25)
 
@@ -56489,17 +56917,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**Qui est élu lors des élections législatives ?**
+<!-- Source naturalisation : NAT-T4-031 -->
 
-1) [Les sénateurs.](EXAM_NAT_V04_Q25_FAUX)
-2) [Les maires.](EXAM_NAT_V04_Q25_FAUX)
-3) [Les ministres.](EXAM_NAT_V04_Q25_FAUX)
-4) [Les députés.](EXAM_NAT_V04_Q25_VRAI)
+**Depuis quelle année l'école primaire publique est-elle gratuite en France ?**
+
+1) [1882.](EXAM_NAT_V04_Q25_FAUX)
+2) [1905.](EXAM_NAT_V04_Q25_FAUX)
+3) [Depuis 1881.](EXAM_NAT_V04_Q25_VRAI)
+4) [1958.](EXAM_NAT_V04_Q25_FAUX)
 
 ## EXAM_NAT_V04_Q25_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q26)
@@ -56508,7 +56938,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q25 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q26)
 
@@ -56527,17 +56957,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**L'inscription à l'Assurance maladie est :**
+<!-- Source naturalisation : NAT-T4-032 -->
 
-1) [Facultative.](EXAM_NAT_V04_Q26_FAUX)
-2) [Obligatoire.](EXAM_NAT_V04_Q26_VRAI)
-3) [Réservée aux salariés.](EXAM_NAT_V04_Q26_FAUX)
-4) [Réservée aux personnes âgées.](EXAM_NAT_V04_Q26_FAUX)
+**Quelle chaîne de montagnes forme la frontière naturelle entre la France et l'Espagne ?**
+
+1) [Les Alpes.](EXAM_NAT_V04_Q26_FAUX)
+2) [Le Massif central.](EXAM_NAT_V04_Q26_FAUX)
+3) [Les Vosges.](EXAM_NAT_V04_Q26_FAUX)
+4) [Les Pyrénées.](EXAM_NAT_V04_Q26_VRAI)
 
 ## EXAM_NAT_V04_Q26_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q27)
@@ -56546,7 +56978,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q26 = 1`
 
-`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q27)
 
@@ -56565,17 +56997,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**Que commémore la fête nationale ?**
+<!-- Source naturalisation : NAT-T4-033 -->
 
-1) [La fin de la Seconde Guerre mondiale.](EXAM_NAT_V04_Q27_FAUX)
-2) [La signature de la Constitution.](EXAM_NAT_V04_Q27_FAUX)
-3) [La création de l'Union européenne.](EXAM_NAT_V04_Q27_FAUX)
-4) [La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.](EXAM_NAT_V04_Q27_VRAI)
+**Qu'ont obtenu les femmes françaises grâce à l'ordonnance du 21 avril 1944 ?**
+
+1) [Elles ont obtenu le droit de vote.](EXAM_NAT_V04_Q27_VRAI)
+2) [Elles deviennent députées automatiquement.](EXAM_NAT_V04_Q27_FAUX)
+3) [Elles obtiennent le droit au divorce.](EXAM_NAT_V04_Q27_FAUX)
+4) [Elles deviennent majeures à 18 ans.](EXAM_NAT_V04_Q27_FAUX)
 
 ## EXAM_NAT_V04_Q27_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q28)
@@ -56584,7 +57018,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q27 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q28)
 
@@ -56603,17 +57037,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
-**Concernant l'accès aux soins, quelle proposition est correcte ?**
+<!-- Source naturalisation : NAT-T4-034 -->
 
-1) [Les soins sont réservés aux personnes de nationalité française.](EXAM_NAT_V04_Q28_FAUX)
-2) [Toute personne peut accéder aux soins en France.](EXAM_NAT_V04_Q28_VRAI)
-3) [Il faut être salarié pour consulter un médecin.](EXAM_NAT_V04_Q28_FAUX)
-4) [Seules les urgences sont accessibles.](EXAM_NAT_V04_Q28_FAUX)
+**Quelle organisation internationale a été créée en 1945 pour maintenir la paix dans le monde ?**
+
+1) [L'Union européenne.](EXAM_NAT_V04_Q28_FAUX)
+2) [L'Organisation des Nations unies (ONU).](EXAM_NAT_V04_Q28_VRAI)
+3) [L'OTAN.](EXAM_NAT_V04_Q28_FAUX)
+4) [La CECA.](EXAM_NAT_V04_Q28_FAUX)
 
 ## EXAM_NAT_V04_Q28_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_PART2)
@@ -56622,7 +57058,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q28 = 1`
 
-`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_PART2)
 
@@ -56637,6 +57073,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V04_Q29
 
 `@err_NAT_V04_Q29 = 0`
+`@exam_variant = 4`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -56649,19 +57087,21 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicalement assistée) pour avoir un enfant, et se demande à quelle liberté fondamentale ce droit se rattache.
+<!-- Source naturalisation : MS-NAT-T4-012 -->
 
-**Que lui répondez-vous ?**
+Lors d’une visite culturelle, une personne de votre entourage souhaite vérifier un repère sur l’histoire, la géographie ou le patrimoine français. Un participant propose la réponse « 1815 ». Vous devez vérifier cette affirmation.
 
-1) [La liberté de disposer de son corps.](EXAM_NAT_V04_Q29_VRAI)
-2) [La liberté de circuler.](EXAM_NAT_V04_Q29_FAUX)
-3) [La liberté d'expression.](EXAM_NAT_V04_Q29_FAUX)
-4) [La liberté de la presse.](EXAM_NAT_V04_Q29_FAUX)
+**En quelle année a débuté la Révolution française ?**
+
+1) [1792.](EXAM_NAT_V04_Q29_FAUX)
+2) [1804.](EXAM_NAT_V04_Q29_FAUX)
+3) [1815.](EXAM_NAT_V04_Q29_FAUX)
+4) [1789.](EXAM_NAT_V04_Q29_VRAI)
 
 ## EXAM_NAT_V04_Q29_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q30)
@@ -56670,7 +57110,7 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 
 `@err_NAT_V04_Q29 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q30)
 
@@ -56689,19 +57129,21 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 
 ### Question 30 sur 40
 
-Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
+<!-- Source naturalisation : MS-NAT-T5-007 -->
 
-**Comment ce vers se poursuit-il ?**
+Une famille récemment installée en France vous demande de l’aider à comprendre une règle pratique de la société française. Un proche pense que la bonne réponse pourrait être « Dans le mois ». Aidez-le à raisonner.
 
-1) [Le jour de gloire est arrivé.](EXAM_NAT_V04_Q30_VRAI)
-2) [Le droit d'exprimer librement ses opinions dans le respect de la loi.](EXAM_NAT_V04_Q30_FAUX)
-3) [À autoriser un étranger à séjourner légalement en France.](EXAM_NAT_V04_Q30_FAUX)
-4) [Se déplacer librement sur le territoire national et à l'étranger.](EXAM_NAT_V04_Q30_FAUX)
+**Dans quel délai la naissance d'un enfant doit-elle être déclarée à la mairie ?**
+
+1) [Dans le mois.](EXAM_NAT_V04_Q30_FAUX)
+2) [Avant un an.](EXAM_NAT_V04_Q30_FAUX)
+3) [Dans les cinq jours suivant la naissance.](EXAM_NAT_V04_Q30_VRAI)
+4) [À tout moment.](EXAM_NAT_V04_Q30_FAUX)
 
 ## EXAM_NAT_V04_Q30_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q31)
@@ -56710,7 +57152,7 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 
 `@err_NAT_V04_Q30 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q31)
 
@@ -56729,19 +57171,21 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 
 ### Question 31 sur 40
 
-Lors d'un débat sur un fait divers grave, un participant pense que la peine de mort pourrait encore être appliquée en France dans certains cas exceptionnels.
+<!-- Source naturalisation : MS-NAT-T5-008 -->
 
-**Que lui répondez-vous ?**
+Au travail, à l’école, dans le logement ou dans le système de santé, un proche souhaite vérifier la bonne démarche. Dans le groupe, la réponse « 18 » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Elle est autorisée dans certains cas.](EXAM_NAT_V04_Q31_FAUX)
-2) [Elle est décidée par le Président de la République.](EXAM_NAT_V04_Q31_FAUX)
-3) [Elle est interdite.](EXAM_NAT_V04_Q31_VRAI)
-4) [Elle est réservée aux crimes les plus graves.](EXAM_NAT_V04_Q31_FAUX)
+**Quel numéro permet de joindre directement la police en cas d'urgence ?**
+
+1) [15.](EXAM_NAT_V04_Q31_FAUX)
+2) [18.](EXAM_NAT_V04_Q31_FAUX)
+3) [112.](EXAM_NAT_V04_Q31_FAUX)
+4) [Le 17.](EXAM_NAT_V04_Q31_VRAI)
 
 ## EXAM_NAT_V04_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q32)
@@ -56750,7 +57194,7 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 
 `@err_NAT_V04_Q31 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q32)
 
@@ -56769,19 +57213,21 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 
 ### Question 32 sur 40
 
-Un ami confond les différentes catégories d'infractions prévues par le droit français.
+<!-- Source naturalisation : MS-NAT-T1-007 -->
 
-**Quelle est l'infraction la plus grave, parmi ces catégories juridiques ?**
+Une personne de votre entourage prépare son entretien de naturalisation et vous demande de l’aider sur un principe républicain. Dans le groupe, la réponse « Jeanne » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Un crime.](EXAM_NAT_V04_Q32_VRAI)
-2) [Une contravention.](EXAM_NAT_V04_Q32_FAUX)
-3) [Un délit.](EXAM_NAT_V04_Q32_FAUX)
-4) [Des violences conjugales.](EXAM_NAT_V04_Q32_FAUX)
+**Quel prénom évoque un symbole de la République ?**
+
+1) [Jeanne.](EXAM_NAT_V04_Q32_FAUX)
+2) [Marie.](EXAM_NAT_V04_Q32_FAUX)
+3) [Marianne.](EXAM_NAT_V04_Q32_VRAI)
+4) [Louise.](EXAM_NAT_V04_Q32_FAUX)
 
 ## EXAM_NAT_V04_Q32_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q33)
@@ -56790,7 +57236,7 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 
 `@err_NAT_V04_Q32 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q33)
 
@@ -56809,14 +57255,16 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 
 ### Question 33 sur 40
 
-Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
+<!-- Source naturalisation : MS-NAT-T1-008 -->
 
-**Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**
+Pendant une discussion sur la citoyenneté française, un proche hésite sur une règle ou un symbole de la République. Une personne hésite et choisit « Le béret ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Elle sert à interdire toutes les religions.](EXAM_NAT_V04_Q33_FAUX)
-2) [Elle sert à favoriser une religion en particulier.](EXAM_NAT_V04_Q33_FAUX)
-3) [Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.](EXAM_NAT_V04_Q33_VRAI)
-4) [Elle empêche les élèves de parler de leur religion et de la promouvoir.](EXAM_NAT_V04_Q33_FAUX)
+**Citez un symbole qui représente officiellement la République française.**
+
+1) [La tour Eiffel.](EXAM_NAT_V04_Q33_FAUX)
+2) [Le béret.](EXAM_NAT_V04_Q33_FAUX)
+3) [Le coq.](EXAM_NAT_V04_Q33_FAUX)
+4) [Marianne.](EXAM_NAT_V04_Q33_VRAI)
 
 ## EXAM_NAT_V04_Q33_VRAI
 
@@ -56830,7 +57278,7 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V04_Q33 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q34)
 
@@ -56849,19 +57297,21 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 ### Question 34 sur 40
 
-Lors d'un cours de préparation civique, le formateur demande aux participants de citer la devise inscrite sur les frontons des mairies françaises.
+<!-- Source naturalisation : MS-NAT-T2-011 -->
 
-**Quelle réponse donnez-vous ?**
+Un proche prépare une démarche citoyenne et souhaite clarifier le fonctionnement de la République et de ses institutions. Une personne hésite et choisit « 21 ans ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Liberté, Justice, Égalité.](EXAM_NAT_V04_Q34_FAUX)
-2) [Travail, Famille, Patrie.](EXAM_NAT_V04_Q34_FAUX)
-3) [Liberté, Égalité, Fraternité.](EXAM_NAT_V04_Q34_VRAI)
-4) [Égalité, Solidarité, Liberté.](EXAM_NAT_V04_Q34_FAUX)
+**À partir de quel âge devient-on électeur en France ?**
+
+1) [16 ans.](EXAM_NAT_V04_Q34_FAUX)
+2) [18 ans.](EXAM_NAT_V04_Q34_VRAI)
+3) [17 ans.](EXAM_NAT_V04_Q34_FAUX)
+4) [21 ans.](EXAM_NAT_V04_Q34_FAUX)
 
 ## EXAM_NAT_V04_Q34_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q35)
@@ -56870,7 +57320,7 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 
 `@err_NAT_V04_Q34 = 1`
 
-`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q35)
 
@@ -56889,19 +57339,21 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 
 ### Question 35 sur 40
 
-Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne sert qu'à désencombrer sa poubelle.
+<!-- Source naturalisation : MS-NAT-T2-012 -->
 
-**Pourquoi doit-on réellement trier ses déchets ?**
+À l’occasion d’un échange sur la vie démocratique, un proche vous interroge sur le fonctionnement des institutions françaises. Un participant propose la réponse « Oui ». Vous devez vérifier cette affirmation.
 
-1) [Pour gagner de l'argent.](EXAM_NAT_V04_Q35_FAUX)
-2) [Pour désencombrer la poubelle ménagère.](EXAM_NAT_V04_Q35_FAUX)
-3) [Pour éviter de payer des impôts.](EXAM_NAT_V04_Q35_FAUX)
-4) [Pour protéger l'environnement et favoriser le recyclage.](EXAM_NAT_V04_Q35_VRAI)
+**Le vote est-il obligatoire en France ?**
+
+1) [Oui.](EXAM_NAT_V04_Q35_FAUX)
+2) [Oui, seulement pour les élections présidentielles.](EXAM_NAT_V04_Q35_FAUX)
+3) [Non, c'est un droit, pas une obligation.](EXAM_NAT_V04_Q35_VRAI)
+4) [Oui, sous peine d'amende.](EXAM_NAT_V04_Q35_FAUX)
 
 ## EXAM_NAT_V04_Q35_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q36)
@@ -56910,7 +57362,7 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 
 `@err_NAT_V04_Q35 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q36)
 
@@ -56929,19 +57381,21 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 
 ### Question 36 sur 40
 
-Un ami affirme que certaines personnes auraient moins de droits que d'autres, selon leur origine ou leur religion.
+<!-- Source naturalisation : MS-NAT-T2-013 -->
 
-**Que lui répondez-vous sur le principe de dignité humaine ?**
+Lors d’un atelier civique à la mairie, une personne cherche à comprendre le rôle des responsables publics et des institutions. Un proche pense que la bonne réponse pourrait être « Oui si l'on n'est pas d'accord ». Aidez-le à raisonner.
 
-1) [Certaines personnes ont moins de droits.](EXAM_NAT_V04_Q36_FAUX)
-2) [Chaque personne doit être respectée et traitée avec dignité.](EXAM_NAT_V04_Q36_VRAI)
-3) [La dignité dépend de la nationalité.](EXAM_NAT_V04_Q36_FAUX)
-4) [La dignité dépend de la religion.](EXAM_NAT_V04_Q36_FAUX)
+**A-t-on le droit de ne pas respecter une loi que l'on juge injuste ?**
+
+1) [Oui.](EXAM_NAT_V04_Q36_FAUX)
+2) [Oui si l'on n'est pas d'accord.](EXAM_NAT_V04_Q36_FAUX)
+3) [Oui selon sa religion.](EXAM_NAT_V04_Q36_FAUX)
+4) [Non, chacun doit respecter la loi.](EXAM_NAT_V04_Q36_VRAI)
 
 ## EXAM_NAT_V04_Q36_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q37)
@@ -56950,7 +57404,7 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 `@err_NAT_V04_Q36 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q37)
 
@@ -56969,14 +57423,16 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 ### Question 37 sur 40
 
-Une amie vous demande si une femme a le droit de recourir à un avortement en France.
+<!-- Source naturalisation : MS-NAT-T3-007 -->
 
-**Que lui répondez-vous ?**
+Pendant un atelier d’accès aux droits, une personne vous demande de l’aider à identifier la règle applicable. Dans le groupe, la réponse « Voyager sans respecter les contrôles applicables » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Non.](EXAM_NAT_V04_Q37_FAUX)
-2) [Seulement avec l'accord du mari.](EXAM_NAT_V04_Q37_FAUX)
-3) [Seulement avec l'accord du médecin.](EXAM_NAT_V04_Q37_FAUX)
-4) [Oui, dans les conditions prévues par la loi.](EXAM_NAT_V04_Q37_VRAI)
+**Que permet la liberté de circulation ?**
+
+1) [Entrer dans n'importe quel pays sans règle.](EXAM_NAT_V04_Q37_FAUX)
+2) [Aller sur un terrain privé sans autorisation.](EXAM_NAT_V04_Q37_FAUX)
+3) [Se déplacer librement, dans le respect de la loi.](EXAM_NAT_V04_Q37_VRAI)
+4) [Voyager sans respecter les contrôles applicables.](EXAM_NAT_V04_Q37_FAUX)
 
 ## EXAM_NAT_V04_Q37_VRAI
 
@@ -57009,19 +57465,21 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 ### Question 38 sur 40
 
-Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation de handicap, en affirmant que c'est « juste de l'humour », protégé selon lui par la liberté d'expression.
+<!-- Source naturalisation : MS-NAT-T3-008 -->
 
-**A-t-il le droit d'agir ainsi ?**
+Une personne de votre entourage rencontre une situation concrète et veut agir dans le respect de la loi française. Une personne hésite et choisit « Habiter dans un pays ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Oui, c'est la liberté d'expression.](EXAM_NAT_V04_Q38_FAUX)
-2) [Non, ce comportement n'est pas autorisé.](EXAM_NAT_V04_Q38_VRAI)
-3) [Oui, si c'est présenté comme une plaisanterie.](EXAM_NAT_V04_Q38_FAUX)
-4) [Oui, si cela se passe sur Internet.](EXAM_NAT_V04_Q38_FAUX)
+**Qu'implique le fait d'être citoyen d'un État ?**
+
+1) [Habiter dans un pays.](EXAM_NAT_V04_Q38_FAUX)
+2) [Avoir uniquement des droits.](EXAM_NAT_V04_Q38_FAUX)
+3) [Être né dans un pays.](EXAM_NAT_V04_Q38_FAUX)
+4) [Avoir des droits et des devoirs dans cet État.](EXAM_NAT_V04_Q38_VRAI)
 
 ## EXAM_NAT_V04_Q38_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q39)
@@ -57030,7 +57488,7 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 
 `@err_NAT_V04_Q38 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q39)
 
@@ -57049,19 +57507,21 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 
 ### Question 39 sur 40
 
-Un collègue originaire d'une région où l'on parle une langue régionale vous affirme que chaque région de France est libre de choisir sa propre langue officielle.
+<!-- Source naturalisation : MS-NAT-T4-010 -->
 
-**Que lui répondez-vous ?**
+Au cours d’un atelier culturel, votre groupe doit reconnaître un repère essentiel de l’histoire ou de la géographie française. Dans le groupe, la réponse « Napoléon » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Chaque région choisit sa langue officielle.](EXAM_NAT_V04_Q39_FAUX)
-2) [Le français est la langue de la République.](EXAM_NAT_V04_Q39_VRAI)
-3) [Il existe plusieurs langues officielles en France.](EXAM_NAT_V04_Q39_FAUX)
-4) [L'anglais est la langue officielle.](EXAM_NAT_V04_Q39_FAUX)
+**Qui est l'auteur des grandes lois scolaires de la IIIᵉ République rendant l'école gratuite, laïque et obligatoire ?**
+
+1) [Napoléon.](EXAM_NAT_V04_Q39_FAUX)
+2) [Jules Ferry.](EXAM_NAT_V04_Q39_VRAI)
+3) [Victor Hugo.](EXAM_NAT_V04_Q39_FAUX)
+4) [Charles de Gaulle.](EXAM_NAT_V04_Q39_FAUX)
 
 ## EXAM_NAT_V04_Q39_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q40)
@@ -57070,7 +57530,7 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_NAT_V04_Q39 = 1`
 
-`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V04_Q40)
 
@@ -57089,19 +57549,21 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 ### Question 40 sur 40
 
-Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux visible et vous demande ce que signifie la « neutralité de l'État ».
+<!-- Source naturalisation : MS-NAT-T4-011 -->
 
-**Que lui répondez-vous ?**
+Un proche prépare son entretien de naturalisation et vous demande de l’aider sur un élément du patrimoine français. Une personne hésite et choisit « Louis XV ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [L'État interdit les religions.](EXAM_NAT_V04_Q40_FAUX)
-2) [L'État choisit une religion officielle.](EXAM_NAT_V04_Q40_FAUX)
-3) [L'État ne favorise ni ne défavorise aucune religion.](EXAM_NAT_V04_Q40_VRAI)
-4) [L'État finance une seule religion.](EXAM_NAT_V04_Q40_FAUX)
+**Quel roi de France a été guillotiné le 21 janvier 1793 pendant la Révolution ?**
+
+1) [Louis XIV.](EXAM_NAT_V04_Q40_FAUX)
+2) [Louis XV.](EXAM_NAT_V04_Q40_FAUX)
+3) [Louis XVI.](EXAM_NAT_V04_Q40_VRAI)
+4) [Napoléon Ier.](EXAM_NAT_V04_Q40_FAUX)
 
 ## EXAM_NAT_V04_Q40_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V04_RESULT)
@@ -57110,7 +57572,7 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 `@err_NAT_V04_Q40 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V04_RESULT)
 
@@ -57127,241 +57589,70 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V04_Q01 == 1`
-**1. Citez un symbole qui représente officiellement la République française.**  
-✅ Marianne.
+**1. En quelle année les pièces et billets en euros sont-ils entrés en circulation en France ?**  
+✅ 2002.
 
-Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ». Le coq, la tour Eiffel et le béret n'en font pas partie.
+L'euro est introduit sous forme scripturale en 1999, mais les pièces et billets entrent en circulation le 1er janvier 2002, remplaçant le franc.
 
-💡 Retenez le mot-clé : symboles officiels = drapeau, Marianne, Marseillaise, devise
+💡 Retenez le mot-clé : pièces/billets en euros = 2002
 `endif`
 
 `if @err_NAT_V04_Q02 == 1`
-**2. Qui est le préfet ?**  
-✅ Le représentant de l'État dans le département.
+**2. À quelle date Paris a-t-elle été libérée en 1944 ?**  
+✅ Le 25 août.
 
-Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État sur le territoire.
+Le 25 août 1944, Paris est libérée par les Forces françaises de l'intérieur et la 2ᵉ Division blindée du général Leclerc. Cet événement marque une étape majeure de la Libération de la France.
 
-💡 Retenez le mot-clé : préfet = représentant de l'État dans le département
+💡 Retenez le mot-clé : Libération de Paris = 25 août 1944
 `endif`
 
 `if @err_NAT_V04_Q03 == 1`
-**3. Où peut-on voir la devise de la République ?**  
-✅ Sur les bâtiments publics, notamment les mairies et les écoles.
+**3. Que garantit le secret médical ?**  
+✅ Les informations médicales sont protégées et ne peuvent être divulguées sans l'accord du patient, sauf exceptions prévues par la loi.
 
-La devise « Liberté, Égalité, Fraternité » est visible sur de nombreux bâtiments publics, notamment les mairies et les établissements scolaires.
+En France, le secret médical protège la vie privée des patients. Les professionnels de santé sont tenus à une obligation de confidentialité.
 
-💡 Retenez le mot-clé : devise = mairies, écoles, bâtiments publics
+💡 Retenez le mot-clé : secret médical = informations protégées, accord du patient nécessaire
 `endif`
 
 `if @err_NAT_V04_Q04 == 1`
-**4. Quel pays a été colonisé par la France ?**  
-✅ L'Algérie.
+**4. À quoi sert la carte Vitale ?**  
+✅ À faciliter la prise en charge et le remboursement des frais de santé.
 
-Au cours de son histoire, la France a constitué un empire colonial sur plusieurs continents. L'Algérie, le Sénégal, Madagascar ou encore le Vietnam en ont fait partie.
+La carte Vitale contient les informations nécessaires à l'Assurance maladie pour assurer le remboursement rapide des dépenses de santé.
 
-💡 Retenez : L'Algérie a été colonisée par la France
+💡 Retenez le mot-clé : carte Vitale = prise en charge et remboursement des soins
 `endif`
 
 `if @err_NAT_V04_Q05 == 1`
-**5. Quand peut-on visiter gratuitement des lieux culturels en France ?**  
-✅ Lors des Journées européennes du patrimoine.
+**5. Quel est le rôle d'une mutuelle santé ?**  
+✅ À compléter les remboursements de l'Assurance maladie.
 
-Chaque année, les Journées européennes du patrimoine permettent au public de visiter gratuitement de nombreux monuments et lieux habituellement fermés ou payants.
+La mutuelle santé, ou complémentaire santé, rembourse tout ou partie des dépenses qui restent à la charge du patient après le remboursement de l'Assurance maladie.
 
-💡 Retenez: Journée du patrimoine = visite gratuite (musées, monuments…)
+💡 Retenez le mot-clé : mutuelle = complète les remboursements de l'Assurance maladie
 `endif`
 
 `if @err_NAT_V04_Q06 == 1`
-**6. Que dit l'article 1er de la Constitution à propos de la France ?**  
-✅ La France est une République indivisible, laïque, démocratique et sociale.
+**6. Qu'est-ce que le tiers payant ?**  
+✅ Le patient n'avance pas tout ou partie des frais de santé.
 
-L'article 1er de la Constitution définit les principes fondamentaux de la République française : « La France est une République indivisible, laïque, démocratique et sociale. » Cette formulation est à connaître par cœur pour l'examen.
+Le tiers payant permet au patient de ne pas avancer tout ou partie des frais médicaux lors d'une consultation ou d'un achat en pharmacie.
 
-💡 Retenez le mot-clé : article 1er = indivisible, laïque, démocratique, sociale
+💡 Retenez le mot-clé : tiers payant = ne pas avancer les frais de santé
 `endif`
 
 `if @err_NAT_V04_Q07 == 1`
-**7. Comment demander une carte nationale d'identité ?**  
-✅ En faire la demande auprès d'une mairie équipée.
+**7. L'affiliation à l'Assurance maladie est :**  
+✅ Obligatoire pour tous les résidents français réguliers.
 
-La carte nationale d'identité est délivrée après dépôt d'un dossier dans une mairie habilitée à recueillir les demandes.
+Toute personne qui réside ou travaille en France de manière stable et régulière peut bénéficier de l'Assurance maladie selon les règles en vigueur. L'affiliation est une étape essentielle pour accéder à la prise en charge des soins.
 
-💡 Retenez le mot-clé : carte nationale d'identité = demande en mairie équipée
+💡 Retenez le mot-clé : Assurance maladie = obligatoire pour les résidents réguliers
 `endif`
 
 `if @err_NAT_V04_Q08 == 1`
-**8. Quel est l'un des premiers devoirs de tout citoyen ?**  
-✅ Respecter les lois.
-
-Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. Le premier d'entre eux est de respecter les lois de la République.
-
-💡 Retenez le mot-clé : premier devoir du citoyen = respecter les lois
-`endif`
-
-`if @err_NAT_V04_Q09 == 1`
-**9. Quel traité a créé officiellement l'Union européenne ?**  
-✅ Le traité de Maastricht.
-
-Le traité de Maastricht, signé en 1992, marque la naissance officielle de l'Union européenne et crée la citoyenneté européenne. À connaître par cœur pour l'examen.
-
-💡 Retenez le mot-clé : traité fondateur de l'UE = traité de Maastricht (1992)
-`endif`
-
-`if @err_NAT_V04_Q10 == 1`
-**10. Qui était Auguste Rodin ?**  
-✅ Un sculpteur français.
-
-Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres les plus connues figure Le Penseur.
-
-💡 Retenez : Rodin = sculpteur
-`endif`
-
-`if @err_NAT_V04_Q11 == 1`
-**11. Citez une mer ou un océan qui borde la France métropolitaine.**  
-✅ La mer Méditerranée.
-
-La France métropolitaine est bordée par quatre espaces maritimes : la Manche, la mer du Nord, l'océan Atlantique et la mer Méditerranée.
-
-💡 Retenez : 3 mers et 1 océan entourent la France - Mers : Méditerranée, Du Nord et la Manche - Océan : Atlantique
-`endif`
-
-`if @err_NAT_V04_Q12 == 1`
-**12. Combien de départements compte la France ?**  
-✅ 101.
-
-La France compte 101 départements : 96 en métropole et 5 en outre-mer.
-
-💡 Retenez le mot-clé : France = 101 départements
-`endif`
-
-`if @err_NAT_V04_Q13 == 1`
-**13. Lequel de ces personnages a un lien avec la République française ?**  
-✅ Jules Ferry.
-
-Jules Ferry est connu pour les lois qui ont rendu l'école gratuite, laïque et obligatoire. Son action est étroitement liée aux valeurs de la République.
-
-💡 Retenez : Jules Ferry a rendu l'école obligatoire
-`endif`
-
-`if @err_NAT_V04_Q14 == 1`
-**14. Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**  
-✅ Toutes les personnes sont égales en droits devant la loi, sans discrimination.
-
-L'égalité est une valeur fondamentale de la République. Elle garantit que chacun est traité de la même manière par la loi, quelles que soient son origine, son sexe, sa religion ou ses convictions.
-
-💡 Retenez le mot-clé : égalité = mêmes droits devant la loi, sans discrimination
-`endif`
-
-`if @err_NAT_V04_Q15 == 1`
-**15. Quelle est la devise de la République française ?**  
-✅ Liberté, Égalité, Fraternité.
-
-La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
-
-💡 Retenez le mot-clé : devise = Liberté, Égalité, Fraternité
-`endif`
-
-`if @err_NAT_V04_Q16 == 1`
-**16. Qui était un célèbre musicien français ?**  
-✅ Hector Berlioz.
-
-La France a vu naître de grands compositeurs comme Hector Berlioz, Georges Bizet, Claude Debussy ou Maurice Ravel, dont les œuvres sont connues dans le monde entier.
-
-💡 Retenez : Berlioz = musicien
-`endif`
-
-`if @err_NAT_V04_Q17 == 1`
-**17. Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?**  
-✅ L'Organisation des Nations unies (ONU).
-
-L'ONU a été créée après la Seconde Guerre mondiale afin de maintenir la paix, promouvoir les droits humains et encourager la coopération internationale.
-
-💡 Retenez : ONU = maitien de la paix
-`endif`
-
-`if @err_NAT_V04_Q18 == 1`
-**18. Parmi les trois catégories d'infractions du droit français, laquelle est la plus grave ?**  
-✅ Le crime.
-
-En droit français, les infractions sont classées en trois catégories : la contravention, le délit et le crime. Le crime est l'infraction la plus grave.
-
-💡 Retenez le mot-clé : infraction la plus grave = le crime
-`endif`
-
-`if @err_NAT_V04_Q19 == 1`
-**19. Quelle chaîne de montagnes est située entre la France et l'Espagne ?**  
-✅ Les Pyrénées.
-
-Les Pyrénées forment une frontière naturelle entre la France et l'Espagne.
-
-💡 Retenez : Pyrénées = montagnes entre France et Espagne
-`endif`
-
-`if @err_NAT_V04_Q20 == 1`
-**20. À qui est accessible la contraception ?**  
-✅ À toute personne qui en a besoin.
-
-En France, la contraception est accessible à toute personne qui en a besoin. Elle permet de choisir librement si et quand avoir un enfant.
-
-💡 Retenez : Contraception = à tout le monde et pas seulement réservé aux femmes (ex: le préservatif comme contraception pour les hommes)
-`endif`
-
-`if @err_NAT_V04_Q21 == 1`
-**21. Comment les députés sont-ils désignés ?**  
-✅ Ils sont élus au suffrage universel direct.
-
-Les députés représentent les citoyens à l'Assemblée nationale. Ils sont élus directement par les électeurs lors des élections législatives.
-
-💡 Retenez le mot-clé : députés = élus au suffrage universel direct
-`endif`
-
-`if @err_NAT_V04_Q22 == 1`
-**22. Pour un citoyen tiré au sort, être juré à la cour d'assises est :**  
-✅ Un devoir civique obligatoire.
-
-Les citoyens tirés au sort pour être jurés d'assises doivent accomplir cette mission et ne peuvent la refuser (sauf motif validé par la commission). Il s'agit d'une participation à la justice rendue au nom du peuple français.
-
-💡 Retenez le mot-clé : juré d'assises = devoir civique obligatoire
-`endif`
-
-`if @err_NAT_V04_Q23 == 1`
-**23. Quel numéro d'urgence permet d'appeler la police ?**  
-✅ 17.
-
-Le 17 permet de joindre la police ou la gendarmerie en cas d'urgence. Le 112 est le numéro d'urgence européen, utilisable dans toute l'Union européenne.
-
-💡 Retenez les numéros suivants : - 17 = police ou gendarmerie - 15 = SAMU - 18 = Pompiers - 112 = numéro d'urgence européen
-`endif`
-
-`if @err_NAT_V04_Q24 == 1`
-**24. Un citoyen a-t-il le droit d'adhérer à un parti politique ?**  
-✅ Oui, chacun est libre d'adhérer ou non.
-
-La liberté d'association comprend également la possibilité de créer ou de rejoindre un parti politique. Cette liberté participe au fonctionnement démocratique.
-
-💡 Retenez le mot-clé : parti politique = liberté d'adhérer ou non
-`endif`
-
-`if @err_NAT_V04_Q25 == 1`
-**25. Qui est élu lors des élections législatives ?**  
-✅ Les députés.
-
-Les élections législatives permettent d'élire les députés qui siègent à l'Assemblée nationale et participent au vote des lois.
-
-💡 Retenez le mot-clé : élections législatives = députés
-`endif`
-
-`if @err_NAT_V04_Q26 == 1`
-**26. L'inscription à l'Assurance maladie est :**  
-✅ Obligatoire.
-
-L'Assurance maladie est un élément essentiel du système de protection sociale français. Les personnes qui remplissent les conditions prévues doivent y être affiliées.
-
-💡 Retenez : L'Assurance maladie est obligatoire
-`endif`
-
-`if @err_NAT_V04_Q27 == 1`
-**27. Que commémore la fête nationale ?**  
+**8. Que commémore la fête nationale ?**  
 ✅ La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.
 
 Le 14 juillet est la fête nationale française. Elle rappelle la Révolution française et l'attachement aux valeurs de la République.
@@ -57369,13 +57660,184 @@ Le 14 juillet est la fête nationale française. Elle rappelle la Révolution fr
 💡 Retenez le mot-clé : 14 juillet = prise de la Bastille (1789) + Fête de la Fédération (1790)
 `endif`
 
+`if @err_NAT_V04_Q09 == 1`
+**9. Que porte Marianne sur la tête ?**  
+✅ Un bonnet phrygien.
+
+Le bonnet phrygien est un symbole de liberté hérité de la Révolution française. Il est porté par Marianne, figure emblématique de la République.
+
+💡 Retenez le mot-clé : Marianne = bonnet phrygien
+`endif`
+
+`if @err_NAT_V04_Q10 == 1`
+**10. Que signifie le mot « fraternité » dans la devise française ?**  
+✅ La solidarité, l'entraide et le respect entre toutes les personnes.
+
+La fraternité est l'une des trois valeurs de la devise républicaine. Elle invite chacun à vivre ensemble dans le respect, la solidarité et l'entraide.
+
+💡 Retenez le mot-clé : fraternité = solidarité, entraide, respect
+`endif`
+
+`if @err_NAT_V04_Q11 == 1`
+**11. Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?**  
+✅ Le coq.
+
+Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur les maillots de nombreuses équipes nationales sportives, mais ne fait pas partie des symboles officiels de la République.
+
+💡 Retenez le mot-clé : coq gaulois = symbole traditionnel (maillots sportifs), non officiel
+`endif`
+
+`if @err_NAT_V04_Q12 == 1`
+**12. Pour combien de temps le Président de la République est-il élu ?**  
+✅ 5 ans.
+
+Depuis la réforme constitutionnelle de 2000, le Président de la République est élu pour un mandat de 5 ans, appelé quinquennat.
+
+💡 Retenez le mot-clé : Président = mandat de 5 ans (quinquennat)
+`endif`
+
+`if @err_NAT_V04_Q13 == 1`
+**13. Pour combien de temps les députés sont-ils élus ?**  
+✅ 5 ans.
+
+Les députés sont élus pour un mandat de 5 ans lors des élections législatives. Ils siègent à l'Assemblée nationale.
+
+💡 Retenez le mot-clé : députés = mandat de 5 ans
+`endif`
+
+`if @err_NAT_V04_Q14 == 1`
+**14. Pour combien de temps les sénateurs sont-ils élus ?**  
+✅ 6 ans.
+
+Les sénateurs sont élus pour un mandat de 6 ans. Le Sénat est renouvelé par moitié tous les trois ans.
+
+💡 Retenez le mot-clé : sénateurs = mandat de 6 ans
+`endif`
+
+`if @err_NAT_V04_Q15 == 1`
+**15. Qui dirige l'action du Gouvernement au quotidien ?**  
+✅ Le Premier ministre.
+
+Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du Gouvernement et veille à l'exécution des lois.
+
+💡 Retenez le mot-clé : action du Gouvernement = dirigée par le Premier ministre
+`endif`
+
+`if @err_NAT_V04_Q16 == 1`
+**16. Un citoyen a-t-il le droit d'adhérer à un parti politique ?**  
+✅ Oui, chacun est libre d'adhérer ou non.
+
+La liberté d'association comprend également la possibilité de créer ou de rejoindre un parti politique. Cette liberté participe au fonctionnement démocratique.
+
+💡 Retenez le mot-clé : parti politique = liberté d'adhérer ou non
+`endif`
+
+`if @err_NAT_V04_Q17 == 1`
+**17. Qui juge et sanctionne les auteurs d'infractions ?**  
+✅ La justice.
+
+La police enquête et interpelle les auteurs d'infractions, mais c'est la justice, par l'intermédiaire des tribunaux, qui juge et sanctionne les infractions.
+
+💡 Retenez le mot-clé : juger et sanctionner = la justice (pas la police)
+`endif`
+
+`if @err_NAT_V04_Q18 == 1`
+**18. Lequel de ces actes porte gravement atteinte à la dignité humaine ?**  
+✅ La torture ou l'esclavage.
+
+La dignité humaine signifie que chaque personne doit être respectée. Les traitements inhumains, la torture ou l'esclavage sont interdits car ils portent atteinte à cette dignité.
+
+💡 Retenez le mot-clé : atteintes à la dignité = torture, esclavage, traitements inhumains
+`endif`
+
+`if @err_NAT_V04_Q19 == 1`
+**19. Que garantit la liberté d'expression ?**  
+✅ Le droit d'exprimer librement ses opinions dans le respect de la loi et des droits d'autrui.
+
+La liberté d'expression est un droit fondamental. Elle permet d'exprimer ses idées, mais elle connaît des limites prévues par la loi, notamment pour protéger les personnes contre l'injure, la diffamation ou l'incitation à la haine.
+
+💡 Retenez le mot-clé : liberté d'expression = respect de la loi et des droits d'autrui
+`endif`
+
+`if @err_NAT_V04_Q20 == 1`
+**20. Après une interpellation, que peut décider la police dans les conditions prévues par la loi ?**  
+✅ Placer la personne en garde à vue.
+
+Après une interpellation, une personne peut être placée en garde à vue si les conditions prévues par la loi sont réunies. Cette mesure est strictement encadrée et la personne bénéficie de droits (avocat, médecin, information de ses proches, etc.).
+
+💡 Retenez le mot-clé : après interpellation = garde à vue encadrée par la loi
+`endif`
+
+`if @err_NAT_V04_Q21 == 1`
+**21. Tous les citoyens français ont-ils obligatoirement la même religion ?**  
+✅ Non, chacun est libre de croire ou de ne pas croire.
+
+La République garantit la liberté de conscience. Chacun est libre de pratiquer une religion, d'en changer ou de ne pas croire.
+
+💡 Retenez le mot-clé : liberté de conscience = croire ou ne pas croire
+`endif`
+
+`if @err_NAT_V04_Q22 == 1`
+**22. Que commémore le 11 novembre, jour férié en France ?**  
+✅ L'Armistice de la Première Guerre mondiale (1918).
+
+Le 11 novembre commémore l'Armistice signé en 1918, qui met fin aux combats de la Première Guerre mondiale.
+
+💡 Retenez le mot-clé : 11 novembre = Armistice de 1918
+`endif`
+
+`if @err_NAT_V04_Q23 == 1`
+**23. Depuis quelle année l'esclavage est-il définitivement aboli en France ?**  
+✅ Depuis 1848.
+
+L'esclavage est définitivement aboli en France par le décret du 27 avril 1848.
+
+💡 Retenez le mot-clé : abolition de l'esclavage = 1848
+`endif`
+
+`if @err_NAT_V04_Q24 == 1`
+**24. Qui est le principal artisan du décret de 1848 abolissant l'esclavage dans les colonies françaises ?**  
+✅ Victor Schœlcher.
+
+Victor Schœlcher est le principal artisan du décret de 1848 abolissant définitivement l'esclavage dans les colonies françaises.
+
+💡 Retenez le mot-clé : abolition de l'esclavage (1848) = Victor Schœlcher
+`endif`
+
+`if @err_NAT_V04_Q25 == 1`
+**25. Depuis quelle année l'école primaire publique est-elle gratuite en France ?**  
+✅ Depuis 1881.
+
+La loi du 16 juin 1881 rend l'école primaire publique gratuite. En 1882, Jules Ferry rend l'instruction obligatoire et l'enseignement public laïque.
+
+💡 Retenez le mot-clé : école gratuite = 1881 (obligatoire en 1882)
+`endif`
+
+`if @err_NAT_V04_Q26 == 1`
+**26. Quelle chaîne de montagnes forme la frontière naturelle entre la France et l'Espagne ?**  
+✅ Les Pyrénées.
+
+Les Pyrénées forment la frontière naturelle entre la France et l'Espagne sur près de 430 kilomètres.
+
+💡 Retenez le mot-clé : frontière France-Espagne = les Pyrénées
+`endif`
+
+`if @err_NAT_V04_Q27 == 1`
+**27. Qu'ont obtenu les femmes françaises grâce à l'ordonnance du 21 avril 1944 ?**  
+✅ Elles ont obtenu le droit de vote.
+
+Le 21 avril 1944, les femmes obtiennent le droit de vote et d'éligibilité. Elles votent pour la première fois lors des élections municipales de 1945.
+
+💡 Retenez le mot-clé : 21 avril 1944 = droit de vote des femmes
+`endif`
+
 `if @err_NAT_V04_Q28 == 1`
-**28. Concernant l'accès aux soins, quelle proposition est correcte ?**  
-✅ Toute personne peut accéder aux soins en France.
+**28. Quelle organisation internationale a été créée en 1945 pour maintenir la paix dans le monde ?**  
+✅ L'Organisation des Nations unies (ONU).
 
-En France, chacun peut accéder aux soins. Les modalités de prise en charge dépendent de la situation de la personne, mais l'accès aux soins est un principe fondamental.
+L'Organisation des Nations unies (ONU) est créée en 1945 afin de maintenir la paix et favoriser la coopération internationale après la Seconde Guerre mondiale.
 
-💡 Retenez : Santé = accessible à tous
+💡 Retenez le mot-clé : ONU = 1945
 `endif`
 
 ### Partie 2 — Mises en situation
@@ -57385,87 +57847,87 @@ En France, chacun peut accéder aux soins. Les modalités de prise en charge dé
 `endif`
 
 `if @err_NAT_V04_Q29 == 1`
-**29. Que lui répondez-vous ?**  
-✅ La liberté de disposer de son corps.
+**29. En quelle année a débuté la Révolution française ?**  
+✅ 1789.
 
-La procréation médicalement assistée (PMA) relève de la liberté individuelle de disposer de son corps. En France, elle est autorisée dans les conditions prévues par la loi.
+La bonne réponse est « 1789 ». La Révolution française débute en 1789. Cette année marque notamment la prise de la Bastille le 14 juillet et l'adoption de la Déclaration des droits de l'Homme et du Citoyen.
 `endif`
 
 `if @err_NAT_V04_Q30 == 1`
-**30. Comment ce vers se poursuit-il ?**  
-✅ Le jour de gloire est arrivé.
+**30. Dans quel délai la naissance d'un enfant doit-elle être déclarée à la mairie ?**  
+✅ Dans les cinq jours suivant la naissance.
 
-Ces paroles ouvrent la Marseillaise, l'hymne national de la République française : « Allons enfants de la Patrie, le jour de gloire est arrivé. » Les autres propositions n'ont aucun lien avec l'hymne.
+La bonne réponse est « Dans les cinq jours suivant la naissance ». En France, la déclaration de naissance doit être réalisée dans les cinq jours suivant la naissance auprès de la mairie du lieu de naissance.
 `endif`
 
 `if @err_NAT_V04_Q31 == 1`
-**31. Que lui répondez-vous ?**  
-✅ Elle est interdite.
+**31. Quel numéro permet de joindre directement la police en cas d'urgence ?**  
+✅ Le 17.
 
-La peine de mort a été abolie en France en 1981. Depuis 2007, son interdiction est inscrite dans la Constitution : elle ne peut être appliquée dans aucun cas, quelle que soit la gravité de l'infraction.
+La bonne réponse est « Le 17 ». Le 17 permet de contacter la police ou la gendarmerie en cas d'urgence nécessitant leur intervention. Le 112 fonctionne aussi dans toute l'Union européenne, mais le numéro national dédié à la police reste le 17.
 `endif`
 
 `if @err_NAT_V04_Q32 == 1`
-**32. Quelle est l'infraction la plus grave, parmi ces catégories juridiques ?**  
-✅ Un crime.
+**32. Quel prénom évoque un symbole de la République ?**  
+✅ Marianne.
 
-En droit français, les infractions sont classées en trois catégories : la contravention, le délit et le crime. Le crime est l'infraction la plus grave.
+La bonne réponse est « Marianne ». Marianne est la représentation symbolique de la République française. Elle incarne les valeurs de liberté, d'égalité et de fraternité.
 `endif`
 
 `if @err_NAT_V04_Q33 == 1`
-**33. Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**  
-✅ Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.
+**33. Citez un symbole qui représente officiellement la République française.**  
+✅ Marianne.
 
-L'école publique accueille tous les élèves sans distinction de religion ou de conviction. La laïcité garantit la liberté de conscience de chacun et la neutralité de l'établissement, sans interdire ni imposer aucune religion.
+La bonne réponse est « Marianne ». Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ». Le coq, la tour Eiffel et le béret n'en font pas partie.
 `endif`
 
 `if @err_NAT_V04_Q34 == 1`
-**34. Quelle réponse donnez-vous ?**  
-✅ Liberté, Égalité, Fraternité.
+**34. À partir de quel âge devient-on électeur en France ?**  
+✅ 18 ans.
 
-La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République et figure sur les frontons des bâtiments publics.
+La bonne réponse est « 18 ans ». En France, toute personne remplissant les conditions prévues par la loi devient électeur à partir de 18 ans.
 `endif`
 
 `if @err_NAT_V04_Q35 == 1`
-**35. Pourquoi doit-on réellement trier ses déchets ?**  
-✅ Pour protéger l'environnement et favoriser le recyclage.
+**35. Le vote est-il obligatoire en France ?**  
+✅ Non, c'est un droit, pas une obligation.
 
-Le tri permet de recycler de nombreux matériaux, de limiter les déchets et de préserver les ressources naturelles, bien au-delà du simple confort ménager.
+La bonne réponse est « Non, c'est un droit, pas une obligation ». En France, le vote est un droit civique, mais il n'est pas obligatoire. Chaque électeur est libre de participer ou non aux élections.
 `endif`
 
 `if @err_NAT_V04_Q36 == 1`
-**36. Que lui répondez-vous sur le principe de dignité humaine ?**  
-✅ Chaque personne doit être respectée et traitée avec dignité.
+**36. A-t-on le droit de ne pas respecter une loi que l'on juge injuste ?**  
+✅ Non, chacun doit respecter la loi.
 
-La dignité humaine est un principe fondamental de la République française. Chaque personne doit être traitée avec respect et bénéficie des mêmes droits fondamentaux, quelle que soit son origine ou sa religion.
+La bonne réponse est « Non, chacun doit respecter la loi ». L'État de droit repose sur le respect des lois par tous. Personne n'est au-dessus de la loi. En cas de désaccord, il existe des voies légales pour la contester.
 `endif`
 
 `if @err_NAT_V04_Q37 == 1`
-**37. Que lui répondez-vous ?**  
-✅ Oui, dans les conditions prévues par la loi.
+**37. Que permet la liberté de circulation ?**  
+✅ Se déplacer librement, dans le respect de la loi.
 
-En France, une femme peut recourir à l'interruption volontaire de grossesse (IVG) dans les conditions prévues par la loi, sans avoir besoin de l'accord d'un tiers.
+La bonne réponse est « Se déplacer librement, dans le respect de la loi ». La liberté de circulation est une liberté fondamentale. Elle permet de se déplacer librement, sous réserve des règles prévues par la loi.
 `endif`
 
 `if @err_NAT_V04_Q38 == 1`
-**38. A-t-il le droit d'agir ainsi ?**  
-✅ Non, ce comportement n'est pas autorisé.
+**38. Qu'implique le fait d'être citoyen d'un État ?**  
+✅ Avoir des droits et des devoirs dans cet État.
 
-En France, chacun doit être respecté, quelles que soient son origine, son sexe, son handicap, son apparence physique ou ses convictions. La liberté d'expression ne couvre ni l'insulte, ni le harcèlement, en public comme en ligne.
+La bonne réponse est « Avoir des droits et des devoirs dans cet État ». Être citoyen signifie bénéficier de droits (vote, libertés...) mais aussi respecter des devoirs (respect des lois, solidarité, participation à la vie démocratique...).
 `endif`
 
 `if @err_NAT_V04_Q39 == 1`
-**39. Que lui répondez-vous ?**  
-✅ Le français est la langue de la République.
+**39. Qui est l'auteur des grandes lois scolaires de la IIIᵉ République rendant l'école gratuite, laïque et obligatoire ?**  
+✅ Jules Ferry.
 
-L'article 2 de la Constitution dispose que « La langue de la République est le français ». Les langues régionales font partie du patrimoine culturel, mais le français reste la seule langue officielle de la République.
+La bonne réponse est « Jules Ferry ». Jules Ferry est l'auteur des grandes lois scolaires de la IIIᵉ République. Elles garantissent l'accès de tous les enfants à une école publique gratuite, laïque et obligatoire.
 `endif`
 
 `if @err_NAT_V04_Q40 == 1`
-**40. Que lui répondez-vous ?**  
-✅ L'État ne favorise ni ne défavorise aucune religion.
+**40. Quel roi de France a été guillotiné le 21 janvier 1793 pendant la Révolution ?**  
+✅ Louis XVI.
 
-La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, sans avantager ni pénaliser aucune conviction religieuse.
+La bonne réponse est « Louis XVI ». Louis XVI est le dernier roi de l'Ancien Régime. Il est guillotiné le 21 janvier 1793 pendant la Révolution française.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -57739,11 +58201,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -57773,7 +58235,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -57793,6 +58255,12 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `endif`
 `if @errchap_T1_CH05 >= 3`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -57824,8 +58292,14 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T5_CH02 >= 3`
 1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
+`if @errchap_T5_CH03 >= 3`
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 >= 3`
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -57845,6 +58319,12 @@ Ces chapitres méritent une révision ciblée :
 `endif`
 `if @errchap_T1_CH05 == 2`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -57876,8 +58356,14 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T5_CH02 == 2`
 1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
+`if @errchap_T5_CH03 == 2`
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 2`
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -57897,6 +58383,12 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `endif`
 `if @errchap_T1_CH05 == 1`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -57928,12 +58420,18 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T5_CH02 == 1`
 1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
+`if @errchap_T5_CH03 == 1`
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
+`if @errchap_T5_CH04 == 1`
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
@@ -57953,19 +58451,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T2_CH04 = 0`
-`@errchap_T5_CH01 = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T5_CH04 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T1_CH04 = 0`
-`@errchap_T4_CH01 = 0`
-`@errchap_T2_CH02 = 0`
-`@errchap_T5_CH02 = 0`
 `@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
-`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
 `@errchap_T1_CH03 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -57976,8 +58480,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q01
 
 `@err_NAT_V05_Q01 = 0`
-
 `@exam_variant = 5`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -57990,17 +58494,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**Lequel de ces personnages a un lien avec la République française ?**
+<!-- Source naturalisation : NAT-T1-017 -->
 
-1) [Louis XIV.](EXAM_NAT_V05_Q01_FAUX)
-2) [Charlemagne.](EXAM_NAT_V05_Q01_FAUX)
-3) [François Ier.](EXAM_NAT_V05_Q01_FAUX)
-4) [Jules Ferry.](EXAM_NAT_V05_Q01_VRAI)
+**Quelle est la devise de la République française ?**
+
+1) [Liberté, Égalité, Fraternité.](EXAM_NAT_V05_Q01_VRAI)
+2) [Liberté, Justice, Fraternité.](EXAM_NAT_V05_Q01_FAUX)
+3) [Égalité, Travail, Patrie.](EXAM_NAT_V05_Q01_FAUX)
+4) [Liberté, Solidarité, Égalité.](EXAM_NAT_V05_Q01_FAUX)
 
 ## EXAM_NAT_V05_Q01_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q02)
@@ -58009,7 +58515,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q01 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q02)
 
@@ -58028,17 +58534,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?**
+<!-- Source naturalisation : NAT-T1-018 -->
 
-1) [16 ans.](EXAM_NAT_V05_Q02_FAUX)
-2) [17 ans.](EXAM_NAT_V05_Q02_FAUX)
-3) [18 ans.](EXAM_NAT_V05_Q02_VRAI)
-4) [21 ans.](EXAM_NAT_V05_Q02_FAUX)
+**Qu'est-ce que la liberté d'association ?**
+
+1) [Il faut obligatoirement adhérer à une association.](EXAM_NAT_V05_Q02_FAUX)
+2) [La liberté de créer une association, d'y adhérer ou de ne pas y adhérer.](EXAM_NAT_V05_Q02_VRAI)
+3) [Seuls les Français peuvent créer une association.](EXAM_NAT_V05_Q02_FAUX)
+4) [Une association ne peut être créée qu'avec l'autorisation de l'État.](EXAM_NAT_V05_Q02_FAUX)
 
 ## EXAM_NAT_V05_Q02_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q03)
@@ -58047,7 +58555,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q02 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q03)
 
@@ -58066,17 +58574,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**À l'école, un enfant en situation de handicap :**
+<!-- Source naturalisation : NAT-T1-019 -->
 
-1) [Doit obligatoirement être scolarisé dans un établissement spécialisé.](EXAM_NAT_V05_Q03_FAUX)
-2) [A le droit d'être scolarisé avec les autres élèves lorsque cela est possible, avec les accompagnements nécessaires.](EXAM_NAT_V05_Q03_VRAI)
-3) [Ne peut pas fréquenter l'école publique.](EXAM_NAT_V05_Q03_FAUX)
-4) [Est dispensé d'instruction.](EXAM_NAT_V05_Q03_FAUX)
+**Qu'est-ce qu'une liberté ?**
+
+1) [Faire tout ce que l'on veut.](EXAM_NAT_V05_Q03_FAUX)
+2) [Ne respecter aucune règle.](EXAM_NAT_V05_Q03_FAUX)
+3) [Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](EXAM_NAT_V05_Q03_VRAI)
+4) [Être au-dessus des lois.](EXAM_NAT_V05_Q03_FAUX)
 
 ## EXAM_NAT_V05_Q03_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q04)
@@ -58085,7 +58595,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q03 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q04)
 
@@ -58104,12 +58614,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**
+<!-- Source naturalisation : NAT-T1-020 -->
 
-1) [Aux armes, citoyens.](EXAM_NAT_V05_Q04_FAUX)
-2) [Le jour de gloire est arrivé.](EXAM_NAT_V05_Q04_VRAI)
-3) [Formez vos bataillons.](EXAM_NAT_V05_Q04_FAUX)
-4) [Contre nous de la tyrannie.](EXAM_NAT_V05_Q04_FAUX)
+**Selon la Constitution, la France est une République...**
+
+1) [Fédérale, religieuse, démocratique et sociale.](EXAM_NAT_V05_Q04_FAUX)
+2) [Indivisible, catholique, démocratique et sociale.](EXAM_NAT_V05_Q04_FAUX)
+3) [Indivisible, laïque, monarchique et sociale.](EXAM_NAT_V05_Q04_FAUX)
+4) [Indivisible, laïque, démocratique et sociale.](EXAM_NAT_V05_Q04_VRAI)
 
 ## EXAM_NAT_V05_Q04_VRAI
 
@@ -58123,7 +58635,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q04 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q05)
 
@@ -58142,17 +58654,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**Sur quel document peut-on voir Marianne ?**
+<!-- Source naturalisation : NAT-T2-026 -->
 
-1) [Uniquement sur le permis de conduire.](EXAM_NAT_V05_Q05_FAUX)
-2) [Uniquement sur les billets en euros.](EXAM_NAT_V05_Q05_FAUX)
-3) [Uniquement sur les passeports étrangers.](EXAM_NAT_V05_Q05_FAUX)
-4) [Sur les timbres, les pièces de monnaie ou les documents officiels de la République.](EXAM_NAT_V05_Q05_VRAI)
+**Quelle collectivité territoriale a la compétence des collèges publics ?**
+
+1) [Le département.](EXAM_NAT_V05_Q05_VRAI)
+2) [La commune.](EXAM_NAT_V05_Q05_FAUX)
+3) [La région.](EXAM_NAT_V05_Q05_FAUX)
+4) [L'État.](EXAM_NAT_V05_Q05_FAUX)
 
 ## EXAM_NAT_V05_Q05_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q06)
@@ -58161,7 +58675,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q05 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q06)
 
@@ -58180,17 +58694,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**Qu'implique le fait d'être citoyen d'un État ?**
+<!-- Source naturalisation : NAT-T2-027 -->
 
-1) [Habiter dans un pays.](EXAM_NAT_V05_Q06_FAUX)
-2) [Avoir uniquement des droits.](EXAM_NAT_V05_Q06_FAUX)
-3) [Être né dans un pays.](EXAM_NAT_V05_Q06_FAUX)
-4) [Avoir des droits et des devoirs dans cet État.](EXAM_NAT_V05_Q06_VRAI)
+**Qui gère les écoles maternelles et élémentaires publiques ?**
+
+1) [Le département.](EXAM_NAT_V05_Q06_FAUX)
+2) [La commune.](EXAM_NAT_V05_Q06_VRAI)
+3) [La région.](EXAM_NAT_V05_Q06_FAUX)
+4) [Le Sénat.](EXAM_NAT_V05_Q06_FAUX)
 
 ## EXAM_NAT_V05_Q06_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q07)
@@ -58199,7 +58715,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q06 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q07)
 
@@ -58218,17 +58734,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?**
+<!-- Source naturalisation : NAT-T2-028 -->
 
-1) [Les informations sont publiques.](EXAM_NAT_V05_Q07_FAUX)
-2) [Les médecins peuvent tout raconter.](EXAM_NAT_V05_Q07_FAUX)
-3) [Les employeurs ont accès au dossier médical.](EXAM_NAT_V05_Q07_FAUX)
-4) [Les informations médicales d'un patient sont protégées par le secret médical.](EXAM_NAT_V05_Q07_VRAI)
+**Comment le maire est-il élu ?**
+
+1) [Par les habitants directement.](EXAM_NAT_V05_Q07_FAUX)
+2) [Par le Président de la République.](EXAM_NAT_V05_Q07_FAUX)
+3) [Par les conseillers municipaux.](EXAM_NAT_V05_Q07_VRAI)
+4) [Par le préfet.](EXAM_NAT_V05_Q07_FAUX)
 
 ## EXAM_NAT_V05_Q07_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q08)
@@ -58237,7 +58755,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q07 = 1`
 
-`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q08)
 
@@ -58256,17 +58774,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Quelle fête est française ?**
+<!-- Source naturalisation : NAT-T2-029 -->
 
-1) [Thanksgiving.](EXAM_NAT_V05_Q08_FAUX)
-2) [Halloween.](EXAM_NAT_V05_Q08_FAUX)
-3) [Le 14 juillet.](EXAM_NAT_V05_Q08_VRAI)
-4) [La Saint-Patrick.](EXAM_NAT_V05_Q08_FAUX)
+**Quelle collectivité territoriale organise les trains régionaux (TER) ?**
+
+1) [La commune.](EXAM_NAT_V05_Q08_FAUX)
+2) [Le département.](EXAM_NAT_V05_Q08_FAUX)
+3) [L'État.](EXAM_NAT_V05_Q08_FAUX)
+4) [La région.](EXAM_NAT_V05_Q08_VRAI)
 
 ## EXAM_NAT_V05_Q08_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q09)
@@ -58275,7 +58795,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q08 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q09)
 
@@ -58294,12 +58814,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**Où siège la Banque centrale européenne (BCE) ?**
+<!-- Source naturalisation : NAT-T2-030 -->
 
-1) [Bruxelles.](EXAM_NAT_V05_Q09_FAUX)
-2) [Strasbourg.](EXAM_NAT_V05_Q09_FAUX)
-3) [Luxembourg.](EXAM_NAT_V05_Q09_FAUX)
-4) [À Francfort (Allemagne).](EXAM_NAT_V05_Q09_VRAI)
+**Comment la Constitution peut-elle être révisée ?**
+
+1) [Par référendum ou par le Parlement réuni en Congrès.](EXAM_NAT_V05_Q09_VRAI)
+2) [Par décret du Président.](EXAM_NAT_V05_Q09_FAUX)
+3) [Par décision du Premier ministre.](EXAM_NAT_V05_Q09_FAUX)
+4) [Par un tribunal.](EXAM_NAT_V05_Q09_FAUX)
 
 ## EXAM_NAT_V05_Q09_VRAI
 
@@ -58313,7 +58835,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q09 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q10)
 
@@ -58332,17 +58854,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**Quel mariage est reconnu par l'État ?**
+<!-- Source naturalisation : NAT-T2-031 -->
 
-1) [Le mariage religieux uniquement.](EXAM_NAT_V05_Q10_FAUX)
-2) [Le PACS.](EXAM_NAT_V05_Q10_FAUX)
-3) [Les fiançailles.](EXAM_NAT_V05_Q10_FAUX)
-4) [Le mariage civil.](EXAM_NAT_V05_Q10_VRAI)
+**En cas de vacance de la présidence, qui assure provisoirement les fonctions de Président de la République ?**
+
+1) [Le Premier ministre.](EXAM_NAT_V05_Q10_FAUX)
+2) [Le Président du Sénat.](EXAM_NAT_V05_Q10_VRAI)
+3) [Le Président de l'Assemblée nationale.](EXAM_NAT_V05_Q10_FAUX)
+4) [Le ministre de l'Intérieur.](EXAM_NAT_V05_Q10_FAUX)
 
 ## EXAM_NAT_V05_Q10_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q11)
@@ -58351,7 +58875,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q10 = 1`
 
-`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q11)
 
@@ -58370,17 +58894,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**Quelle est la première étape de la construction européenne en 1951 ?**
+<!-- Source naturalisation : NAT-T3-017 -->
 
-1) [L'Union européenne.](EXAM_NAT_V05_Q11_FAUX)
-2) [La création de la Communauté économique européenne (CEE).](EXAM_NAT_V05_Q11_FAUX)
-3) [La création de la Communauté européenne du charbon et de l'acier (CECA).](EXAM_NAT_V05_Q11_VRAI)
-4) [Le traité de Maastricht.](EXAM_NAT_V05_Q11_FAUX)
+**À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?**
+
+1) [15 ans.](EXAM_NAT_V05_Q11_VRAI)
+2) [13 ans.](EXAM_NAT_V05_Q11_FAUX)
+3) [16 ans.](EXAM_NAT_V05_Q11_FAUX)
+4) [18 ans.](EXAM_NAT_V05_Q11_FAUX)
 
 ## EXAM_NAT_V05_Q11_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q12)
@@ -58389,7 +58915,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q11 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q12)
 
@@ -58408,17 +58934,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**En quelle année Napoléon Ier est-il devenu empereur ?**
+<!-- Source naturalisation : NAT-T3-018 -->
 
-1) [1789.](EXAM_NAT_V05_Q12_FAUX)
-2) [1799.](EXAM_NAT_V05_Q12_FAUX)
-3) [1804.](EXAM_NAT_V05_Q12_VRAI)
-4) [1815.](EXAM_NAT_V05_Q12_FAUX)
+**Où est-il autorisé de fumer, alors que c'est interdit dans de nombreux lieux publics fermés ?**
+
+1) [Dans un restaurant.](EXAM_NAT_V05_Q12_FAUX)
+2) [Chez soi.](EXAM_NAT_V05_Q12_VRAI)
+3) [Dans un train.](EXAM_NAT_V05_Q12_FAUX)
+4) [Dans un bureau partagé.](EXAM_NAT_V05_Q12_FAUX)
 
 ## EXAM_NAT_V05_Q12_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q13)
@@ -58427,7 +58955,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q12 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q13)
 
@@ -58446,17 +58974,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Qu'est-ce que l'école maternelle ?**
+<!-- Source naturalisation : NAT-T3-019 -->
 
-1) [Le collège.](EXAM_NAT_V05_Q13_FAUX)
-2) [L'école qui accueille les jeunes enfants avant l'école élémentaire.](EXAM_NAT_V05_Q13_VRAI)
-3) [Le lycée.](EXAM_NAT_V05_Q13_FAUX)
-4) [L'université.](EXAM_NAT_V05_Q13_FAUX)
+**Conduire un véhicule sans le permis correspondant constitue :**
+
+1) [Une simple erreur sans conséquence.](EXAM_NAT_V05_Q13_FAUX)
+2) [Une contravention mineure.](EXAM_NAT_V05_Q13_FAUX)
+3) [Un délit puni par la loi.](EXAM_NAT_V05_Q13_VRAI)
+4) [Une pratique tolérée pour les petites cylindrées.](EXAM_NAT_V05_Q13_FAUX)
 
 ## EXAM_NAT_V05_Q13_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q14)
@@ -58465,7 +58995,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q13 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q14)
 
@@ -58484,17 +59014,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**La liberté d'expression sur les réseaux sociaux en France est :**
+<!-- Source naturalisation : NAT-T3-020 -->
 
-1) [Totalement libre, sans aucune limite.](EXAM_NAT_V05_Q14_FAUX)
-2) [Interdite sur Internet.](EXAM_NAT_V05_Q14_FAUX)
-3) [Réservée aux journalistes.](EXAM_NAT_V05_Q14_FAUX)
-4) [Garantie mais encadrée par la loi (interdiction de la haine, de la diffamation, des injures...).](EXAM_NAT_V05_Q14_VRAI)
+**En quoi consiste le devoir de solidarité du citoyen ?**
+
+1) [Aider uniquement sa famille.](EXAM_NAT_V05_Q14_FAUX)
+2) [Donner obligatoirement de l'argent.](EXAM_NAT_V05_Q14_FAUX)
+3) [Être bénévole dans une association uniquement.](EXAM_NAT_V05_Q14_FAUX)
+4) [Aider les personnes en difficulté et contribuer à la solidarité nationale.](EXAM_NAT_V05_Q14_VRAI)
 
 ## EXAM_NAT_V05_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q15)
@@ -58503,7 +59035,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q14 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q15)
 
@@ -58522,17 +59054,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Ne pas respecter le Code de la route constitue :**
+<!-- Source naturalisation : NAT-T4-037 -->
 
-1) [Une simple recommandation ignorée.](EXAM_NAT_V05_Q15_FAUX)
-2) [Un choix personnel sans conséquence.](EXAM_NAT_V05_Q15_FAUX)
-3) [Une infraction punie par la loi.](EXAM_NAT_V05_Q15_VRAI)
-4) [Une pratique tolérée en dehors des villes.](EXAM_NAT_V05_Q15_FAUX)
+**Quel port français était, au XVIIIᵉ siècle, le principal port impliqué dans la traite négrière ?**
+
+1) [Nantes.](EXAM_NAT_V05_Q15_VRAI)
+2) [Marseille.](EXAM_NAT_V05_Q15_FAUX)
+3) [Bordeaux.](EXAM_NAT_V05_Q15_FAUX)
+4) [Le Havre.](EXAM_NAT_V05_Q15_FAUX)
 
 ## EXAM_NAT_V05_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q16)
@@ -58541,7 +59075,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q15 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q16)
 
@@ -58560,17 +59094,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Qui élit les députés européens ?**
+<!-- Source naturalisation : NAT-T4-038 -->
 
-1) [Les gouvernements.](EXAM_NAT_V05_Q16_FAUX)
-2) [Les chefs d'État.](EXAM_NAT_V05_Q16_FAUX)
-3) [La Commission européenne.](EXAM_NAT_V05_Q16_FAUX)
-4) [Les citoyens des États membres de l'Union européenne.](EXAM_NAT_V05_Q16_VRAI)
+**Quel philosophe des Lumières est identifié, dans cette question, comme ayant critiqué l'esclavage et défendu la liberté et la tolérance ?**
+
+1) [Rousseau.](EXAM_NAT_V05_Q16_FAUX)
+2) [Voltaire.](EXAM_NAT_V05_Q16_VRAI)
+3) [Montesquieu.](EXAM_NAT_V05_Q16_FAUX)
+4) [Diderot.](EXAM_NAT_V05_Q16_FAUX)
 
 ## EXAM_NAT_V05_Q16_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q17)
@@ -58579,7 +59115,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q16 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q17)
 
@@ -58598,17 +59134,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**Qui est élu lors des élections législatives ?**
+<!-- Source naturalisation : NAT-T4-039 -->
 
-1) [Les sénateurs.](EXAM_NAT_V05_Q17_FAUX)
-2) [Les maires.](EXAM_NAT_V05_Q17_FAUX)
-3) [Les ministres.](EXAM_NAT_V05_Q17_FAUX)
-4) [Les députés.](EXAM_NAT_V05_Q17_VRAI)
+**Lequel de ces peintres est français ?**
+
+1) [Pablo Picasso.](EXAM_NAT_V05_Q17_FAUX)
+2) [Léonard de Vinci.](EXAM_NAT_V05_Q17_FAUX)
+3) [Claude Monet.](EXAM_NAT_V05_Q17_VRAI)
+4) [Vincent Van Gogh.](EXAM_NAT_V05_Q17_FAUX)
 
 ## EXAM_NAT_V05_Q17_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q18)
@@ -58617,7 +59155,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q17 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q18)
 
@@ -58636,12 +59174,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Quel peintre est français ?**
+<!-- Source naturalisation : NAT-T4-040 -->
 
-1) [Pablo Picasso.](EXAM_NAT_V05_Q18_FAUX)
-2) [Vincent Van Gogh.](EXAM_NAT_V05_Q18_FAUX)
-3) [Auguste Renoir.](EXAM_NAT_V05_Q18_VRAI)
-4) [Salvador Dalí.](EXAM_NAT_V05_Q18_FAUX)
+**Laquelle de ces spécialités est un plat traditionnel français ?**
+
+1) [Pizza.](EXAM_NAT_V05_Q18_FAUX)
+2) [Sushi.](EXAM_NAT_V05_Q18_FAUX)
+3) [Paella.](EXAM_NAT_V05_Q18_FAUX)
+4) [Le cassoulet.](EXAM_NAT_V05_Q18_VRAI)
 
 ## EXAM_NAT_V05_Q18_VRAI
 
@@ -58674,12 +59214,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**En quelle année a commencé la Première Guerre mondiale ?**
+<!-- Source naturalisation : NAT-T4-041 -->
 
-1) [1918.](EXAM_NAT_V05_Q19_FAUX)
-2) [1939.](EXAM_NAT_V05_Q19_FAUX)
-3) [1945.](EXAM_NAT_V05_Q19_FAUX)
-4) [1914.](EXAM_NAT_V05_Q19_VRAI)
+**Qui était Marie Curie ?**
+
+1) [Une scientifique franco-polonaise, double prix Nobel.](EXAM_NAT_V05_Q19_VRAI)
+2) [Une écrivaine.](EXAM_NAT_V05_Q19_FAUX)
+3) [Une reine de France.](EXAM_NAT_V05_Q19_FAUX)
+4) [Une peintre.](EXAM_NAT_V05_Q19_FAUX)
 
 ## EXAM_NAT_V05_Q19_VRAI
 
@@ -58693,7 +59235,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q19 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q20)
 
@@ -58712,12 +59254,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?**
+<!-- Source naturalisation : NAT-T4-042 -->
 
-1) [L'Europe.](EXAM_NAT_V05_Q20_FAUX)
-2) [L'Amérique.](EXAM_NAT_V05_Q20_FAUX)
-3) [L'Afrique.](EXAM_NAT_V05_Q20_VRAI)
-4) [L'Océanie.](EXAM_NAT_V05_Q20_FAUX)
+**Qui a peint « La Liberté guidant le peuple » en 1830 ?**
+
+1) [Claude Monet.](EXAM_NAT_V05_Q20_FAUX)
+2) [Eugène Delacroix.](EXAM_NAT_V05_Q20_VRAI)
+3) [Auguste Renoir.](EXAM_NAT_V05_Q20_FAUX)
+4) [Paul Cézanne.](EXAM_NAT_V05_Q20_FAUX)
 
 ## EXAM_NAT_V05_Q20_VRAI
 
@@ -58731,7 +59275,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q20 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q21)
 
@@ -58750,12 +59294,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Où a eu lieu le débarquement en 1944 ?**
+<!-- Source naturalisation : NAT-T4-043 -->
 
-1) [En Bretagne.](EXAM_NAT_V05_Q21_FAUX)
-2) [En Normandie.](EXAM_NAT_V05_Q21_VRAI)
-3) [À Paris.](EXAM_NAT_V05_Q21_FAUX)
-4) [En Aquitaine.](EXAM_NAT_V05_Q21_FAUX)
+**Où est exposée la Joconde de Léonard de Vinci ?**
+
+1) [Le musée d'Orsay.](EXAM_NAT_V05_Q21_FAUX)
+2) [Le Centre Pompidou.](EXAM_NAT_V05_Q21_FAUX)
+3) [Le musée du Louvre.](EXAM_NAT_V05_Q21_VRAI)
+4) [Le château de Versailles.](EXAM_NAT_V05_Q21_FAUX)
 
 ## EXAM_NAT_V05_Q21_VRAI
 
@@ -58769,7 +59315,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q21 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q22)
 
@@ -58788,17 +59334,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
-**Comment le maire est-il élu ?**
+<!-- Source naturalisation : NAT-T4-044 -->
 
-1) [Par les habitants directement.](EXAM_NAT_V05_Q22_FAUX)
-2) [Par le Président de la République.](EXAM_NAT_V05_Q22_FAUX)
-3) [Par le préfet.](EXAM_NAT_V05_Q22_FAUX)
-4) [Par les conseillers municipaux.](EXAM_NAT_V05_Q22_VRAI)
+**Quel monument est la résidence royale développée par Louis XIV, le Roi-Soleil ?**
+
+1) [Fontainebleau.](EXAM_NAT_V05_Q22_FAUX)
+2) [Chambord.](EXAM_NAT_V05_Q22_FAUX)
+3) [Le Louvre.](EXAM_NAT_V05_Q22_FAUX)
+4) [Le château de Versailles.](EXAM_NAT_V05_Q22_VRAI)
 
 ## EXAM_NAT_V05_Q22_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q23)
@@ -58807,7 +59355,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q22 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q23)
 
@@ -58826,17 +59374,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**Quel est l'un des premiers devoirs de tout citoyen ?**
+<!-- Source naturalisation : NAT-T4-045 -->
 
-1) [Voter à toutes les élections.](EXAM_NAT_V05_Q23_FAUX)
-2) [Être bénévole.](EXAM_NAT_V05_Q23_FAUX)
-3) [Appartenir à une association.](EXAM_NAT_V05_Q23_FAUX)
-4) [Respecter les lois.](EXAM_NAT_V05_Q23_VRAI)
+**Où se trouvent les célèbres peintures rupestres préhistoriques vieilles d'environ 17 000 ans ?**
+
+1) [Dans la grotte de Lascaux.](EXAM_NAT_V05_Q23_VRAI)
+2) [Au Louvre.](EXAM_NAT_V05_Q23_FAUX)
+3) [À Versailles.](EXAM_NAT_V05_Q23_FAUX)
+4) [Au Mont-Saint-Michel.](EXAM_NAT_V05_Q23_FAUX)
 
 ## EXAM_NAT_V05_Q23_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q24)
@@ -58845,7 +59395,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q23 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q24)
 
@@ -58864,17 +59414,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**À qui appartient la souveraineté nationale ?**
+<!-- Source naturalisation : NAT-T5-021 -->
 
-1) [Au Président de la République.](EXAM_NAT_V05_Q24_FAUX)
-2) [Au Gouvernement.](EXAM_NAT_V05_Q24_FAUX)
-3) [Au Parlement uniquement.](EXAM_NAT_V05_Q24_FAUX)
-4) [Au peuple.](EXAM_NAT_V05_Q24_VRAI)
+**Une femme a-t-elle le droit de recourir à une interruption volontaire de grossesse (IVG) en France ?**
+
+1) [Oui, dans les conditions prévues par la loi.](EXAM_NAT_V05_Q24_VRAI)
+2) [Non.](EXAM_NAT_V05_Q24_FAUX)
+3) [Seulement pour les personnes mariées.](EXAM_NAT_V05_Q24_FAUX)
+4) [Seulement avec l'accord du mari.](EXAM_NAT_V05_Q24_FAUX)
 
 ## EXAM_NAT_V05_Q24_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q25)
@@ -58883,7 +59435,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q24 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q25)
 
@@ -58902,17 +59454,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**Que dit l'article 1er de la Constitution à propos de la France ?**
+<!-- Source naturalisation : NAT-T5-022 -->
 
-1) [La France est une République fédérale et catholique.](EXAM_NAT_V05_Q25_FAUX)
-2) [La France est un royaume démocratique.](EXAM_NAT_V05_Q25_FAUX)
-3) [La France est une République indivisible, laïque, démocratique et sociale.](EXAM_NAT_V05_Q25_VRAI)
-4) [La France est une République uniquement laïque.](EXAM_NAT_V05_Q25_FAUX)
+**Le travail non déclaré (« au noir ») est :**
+
+1) [Autorisé.](EXAM_NAT_V05_Q25_FAUX)
+2) [Illégal (travail dissimulé).](EXAM_NAT_V05_Q25_VRAI)
+3) [Toléré.](EXAM_NAT_V05_Q25_FAUX)
+4) [Normal.](EXAM_NAT_V05_Q25_FAUX)
 
 ## EXAM_NAT_V05_Q25_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q26)
@@ -58921,7 +59475,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q25 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q26)
 
@@ -58940,17 +59494,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**En France, il est possible pour l'État de financer :**
+<!-- Source naturalisation : NAT-T5-023 -->
 
-1) [Les aumôneries dans certains services publics (hôpitaux, prisons, armées).](EXAM_NAT_V05_Q26_VRAI)
-2) [N'importe quel lieu de culte, sans exception.](EXAM_NAT_V05_Q26_FAUX)
-3) [Uniquement les églises catholiques.](EXAM_NAT_V05_Q26_FAUX)
-4) [Aucun financement religieux, sans exception.](EXAM_NAT_V05_Q26_FAUX)
+**Qu'est-ce que le SMIC ?**
+
+1) [Une aide sociale.](EXAM_NAT_V05_Q26_FAUX)
+2) [Une allocation chômage.](EXAM_NAT_V05_Q26_FAUX)
+3) [Le salaire minimum légal.](EXAM_NAT_V05_Q26_VRAI)
+4) [Une prime.](EXAM_NAT_V05_Q26_FAUX)
 
 ## EXAM_NAT_V05_Q26_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q27)
@@ -58959,7 +59515,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q26 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q27)
 
@@ -58978,17 +59534,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**Quel est le dernier pays à avoir rejoint l'Union européenne ?**
+<!-- Source naturalisation : NAT-T5-024 -->
 
-1) [La Bulgarie.](EXAM_NAT_V05_Q27_FAUX)
-2) [La Roumanie.](EXAM_NAT_V05_Q27_FAUX)
-3) [La Serbie.](EXAM_NAT_V05_Q27_FAUX)
-4) [La Croatie.](EXAM_NAT_V05_Q27_VRAI)
+**Quelle est la première démarche pour chercher un emploi ?**
+
+1) [Aller à la mairie.](EXAM_NAT_V05_Q27_FAUX)
+2) [Aller à la CAF.](EXAM_NAT_V05_Q27_FAUX)
+3) [Aller à la CPAM.](EXAM_NAT_V05_Q27_FAUX)
+4) [S'inscrire à France Travail.](EXAM_NAT_V05_Q27_VRAI)
 
 ## EXAM_NAT_V05_Q27_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q28)
@@ -58997,7 +59555,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q27 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q28)
 
@@ -59016,17 +59574,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
-**Qu'est-ce que la liberté d'association ?**
+<!-- Source naturalisation : NAT-T5-025 -->
 
-1) [Il faut obligatoirement adhérer à une association.](EXAM_NAT_V05_Q28_FAUX)
-2) [Seuls les Français peuvent créer une association.](EXAM_NAT_V05_Q28_FAUX)
-3) [La liberté de créer une association, d'y adhérer ou de ne pas y adhérer.](EXAM_NAT_V05_Q28_VRAI)
-4) [Une association ne peut être créée qu'avec l'autorisation de l'État.](EXAM_NAT_V05_Q28_FAUX)
+**Quelle est la durée légale du travail en France ?**
+
+1) [35 heures.](EXAM_NAT_V05_Q28_VRAI)
+2) [39 heures.](EXAM_NAT_V05_Q28_FAUX)
+3) [40 heures.](EXAM_NAT_V05_Q28_FAUX)
+4) [30 heures.](EXAM_NAT_V05_Q28_FAUX)
 
 ## EXAM_NAT_V05_Q28_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_PART2)
@@ -59035,7 +59595,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q28 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_PART2)
 
@@ -59050,6 +59610,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V05_Q29
 
 `@err_NAT_V05_Q29 = 0`
+`@exam_variant = 5`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -59062,19 +59624,21 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-Une collègue vous demande si elle peut pratiquer sa religion librement en France, en dehors de son domicile.
+<!-- Source naturalisation : MS-NAT-T2-016 -->
 
-**Que lui répondez-vous ?**
+À l’occasion d’un échange sur la vie démocratique, un proche vous interroge sur le fonctionnement des institutions françaises. Un participant propose la réponse « Gouvernement, Sénat, police ». Vous devez vérifier cette affirmation.
 
-1) [Chacun est libre de pratiquer sa religion, dans le respect de la loi.](EXAM_NAT_V05_Q29_VRAI)
-2) [Les signes religieux sont interdits dans la rue.](EXAM_NAT_V05_Q29_FAUX)
-3) [La religion ne peut être pratiquée qu'à la maison.](EXAM_NAT_V05_Q29_FAUX)
-4) [Les lieux de culte sont financés par tous les services publics.](EXAM_NAT_V05_Q29_FAUX)
+**Quels sont les trois pouvoirs de la République française ?**
+
+1) [Président, maire, préfet.](EXAM_NAT_V05_Q29_FAUX)
+2) [Gouvernement, Sénat, police.](EXAM_NAT_V05_Q29_FAUX)
+3) [Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](EXAM_NAT_V05_Q29_VRAI)
+4) [Exécutif et législatif uniquement.](EXAM_NAT_V05_Q29_FAUX)
 
 ## EXAM_NAT_V05_Q29_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q30)
@@ -59083,7 +59647,7 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 
 `@err_NAT_V05_Q29 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q30)
 
@@ -59102,19 +59666,21 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 
 ### Question 30 sur 40
 
-Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe religieux et se demande si cette règle s'applique aussi à lui, en tant qu'usager.
+<!-- Source naturalisation : MS-NAT-T3-009 -->
 
-**Qui, en priorité, doit respecter la neutralité religieuse dans l'exercice de ses fonctions au sein d'une préfecture ?**
+Dans une situation de la vie quotidienne, une personne souhaite vérifier quels droits et quels devoirs s’appliquent en France. Un participant propose la réponse « Les droits réservés aux élus ». Vous devez vérifier cette affirmation.
 
-1) [Les usagers.](EXAM_NAT_V05_Q30_FAUX)
-2) [Les visiteurs.](EXAM_NAT_V05_Q30_FAUX)
-3) [Les citoyens.](EXAM_NAT_V05_Q30_FAUX)
-4) [Les agents publics.](EXAM_NAT_V05_Q30_VRAI)
+**Qu'est-ce que les droits fondamentaux ?**
+
+1) [Les droits essentiels garantis à toute personne.](EXAM_NAT_V05_Q30_VRAI)
+2) [Les règles du Code de la route.](EXAM_NAT_V05_Q30_FAUX)
+3) [Les droits réservés aux élus.](EXAM_NAT_V05_Q30_FAUX)
+4) [Les droits des entreprises.](EXAM_NAT_V05_Q30_FAUX)
 
 ## EXAM_NAT_V05_Q30_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q31)
@@ -59123,7 +59689,7 @@ Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe
 
 `@err_NAT_V05_Q30 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q31)
 
@@ -59142,19 +59708,21 @@ Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe
 
 ### Question 31 sur 40
 
-Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le principe de laïcité pour les habitants de France.
+<!-- Source naturalisation : MS-NAT-T3-010 -->
 
-**Que répondez-vous ?**
+Au travail ou dans l’espace public, un proche hésite sur une règle liée aux droits, aux libertés ou aux obligations. Un proche pense que la bonne réponse pourrait être « Le droit de vote ». Aidez-le à raisonner.
 
-1) [Le droit d'imposer sa religion aux autres.](EXAM_NAT_V05_Q31_FAUX)
-2) [La liberté de conscience.](EXAM_NAT_V05_Q31_VRAI)
-3) [Le droit de ne pas respecter la loi.](EXAM_NAT_V05_Q31_FAUX)
-4) [Le droit de voter aux élections.](EXAM_NAT_V05_Q31_FAUX)
+**Quel droit protège une personne contre les arrestations ou détentions arbitraires ?**
+
+1) [La liberté de la presse.](EXAM_NAT_V05_Q31_FAUX)
+2) [Le droit à la liberté individuelle.](EXAM_NAT_V05_Q31_VRAI)
+3) [La liberté d'association.](EXAM_NAT_V05_Q31_FAUX)
+4) [Le droit de vote.](EXAM_NAT_V05_Q31_FAUX)
 
 ## EXAM_NAT_V05_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q32)
@@ -59163,7 +59731,7 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 
 `@err_NAT_V05_Q31 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q32)
 
@@ -59182,19 +59750,21 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 
 ### Question 32 sur 40
 
-Un ami pense que la liberté de circulation lui permet de camper où il veut en France, y compris sur un terrain privé, du moment qu'il ne dérange personne.
+<!-- Source naturalisation : MS-NAT-T4-013 -->
 
-**Que lui répondez-vous ?**
+Vous préparez une sortie en France et une discussion s’engage autour d’un lieu, d’une personnalité ou d’un événement important. Un proche pense que la bonne réponse pourrait être « 1789 ». Aidez-le à raisonner.
 
-1) [Il peut s'installer sur n'importe quel terrain privé.](EXAM_NAT_V05_Q32_FAUX)
-2) [Il peut se déplacer librement sur le territoire national et à l'étranger, dans le respect des règles.](EXAM_NAT_V05_Q32_VRAI)
-3) [Il peut conduire n'importe quel véhicule sans permis.](EXAM_NAT_V05_Q32_FAUX)
-4) [Il peut voyager sans papiers d'identité dans toute l'Europe.](EXAM_NAT_V05_Q32_FAUX)
+**En quelle année Napoléon Bonaparte est-il devenu empereur des Français ?**
+
+1) [1804.](EXAM_NAT_V05_Q32_VRAI)
+2) [1789.](EXAM_NAT_V05_Q32_FAUX)
+3) [1799.](EXAM_NAT_V05_Q32_FAUX)
+4) [1815.](EXAM_NAT_V05_Q32_FAUX)
 
 ## EXAM_NAT_V05_Q32_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q33)
@@ -59203,7 +59773,7 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 `@err_NAT_V05_Q32 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q33)
 
@@ -59222,19 +59792,21 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 ### Question 33 sur 40
 
-Lors d'un examen blanc, on vous demande de définir précisément ce que représente la laïcité, au-delà de la simple idée de neutralité.
+<!-- Source naturalisation : MS-NAT-T4-014 -->
 
-**Quelle est la définition la plus complète ?**
+Au cours d’un atelier culturel, votre groupe doit reconnaître un repère essentiel de l’histoire ou de la géographie française. Dans le groupe, la réponse « Victor Hugo » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [L'interdiction de toutes les religions.](EXAM_NAT_V05_Q33_FAUX)
-2) [La séparation des Églises et de l'État, garantissant la liberté de conscience.](EXAM_NAT_V05_Q33_VRAI)
-3) [L'obligation d'avoir une religion.](EXAM_NAT_V05_Q33_FAUX)
-4) [La priorité donnée à une religion par l'État.](EXAM_NAT_V05_Q33_FAUX)
+**Quel homme d'État a fait adopter des lois rendant l'école laïque, gratuite et obligatoire pour les enfants de 6 à 13 ans ?**
+
+1) [Napoléon.](EXAM_NAT_V05_Q33_FAUX)
+2) [Jules Ferry.](EXAM_NAT_V05_Q33_VRAI)
+3) [Victor Hugo.](EXAM_NAT_V05_Q33_FAUX)
+4) [Charles de Gaulle.](EXAM_NAT_V05_Q33_FAUX)
 
 ## EXAM_NAT_V05_Q33_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q34)
@@ -59243,7 +59815,7 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 
 `@err_NAT_V05_Q33 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q34)
 
@@ -59262,19 +59834,21 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 
 ### Question 34 sur 40
 
-Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réellement de faire en France, pensant que cela veut dire « choisir ses propres règles ».
+<!-- Source naturalisation : MS-NAT-T4-015 -->
 
-**Que pouvez-vous lui répondre ?**
+Un proche prépare son entretien de naturalisation et vous demande de l’aider sur un élément du patrimoine français. Une personne hésite et choisit « 11 novembre 1918 ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Il peut refuser de respecter les lois si elles sont contraires à ses principes.](EXAM_NAT_V05_Q34_FAUX)
-2) [Il peut imposer ses idées aux autres.](EXAM_NAT_V05_Q34_FAUX)
-3) [Il peut choisir ses propres règles.](EXAM_NAT_V05_Q34_FAUX)
-4) [Il peut choisir sa religion ou ne pas en avoir.](EXAM_NAT_V05_Q34_VRAI)
+**À quelle date le général de Gaulle a-t-il lancé son appel à la Résistance depuis Londres ?**
+
+1) [8 mai 1945.](EXAM_NAT_V05_Q34_FAUX)
+2) [6 juin 1944.](EXAM_NAT_V05_Q34_FAUX)
+3) [Le 18 juin 1940.](EXAM_NAT_V05_Q34_VRAI)
+4) [11 novembre 1918.](EXAM_NAT_V05_Q34_FAUX)
 
 ## EXAM_NAT_V05_Q34_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q35)
@@ -59283,7 +59857,7 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_NAT_V05_Q34 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q35)
 
@@ -59302,19 +59876,21 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 ### Question 35 sur 40
 
-Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du gendarme parce qu'il n'est pas d'accord avec le contrôle.
+<!-- Source naturalisation : MS-NAT-T5-009 -->
 
-**Que doit-on faire face aux injonctions légales des policiers ou des gendarmes ?**
+Lors d’un échange dans un service public, une personne veut s’assurer qu’elle connaît la règle applicable à sa situation. Une personne hésite et choisit « 112 ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Obéir aux injonctions légales des policiers ou des gendarmes.](EXAM_NAT_V05_Q35_VRAI)
-2) [Les ignorer.](EXAM_NAT_V05_Q35_FAUX)
-3) [Les contester par la force.](EXAM_NAT_V05_Q35_FAUX)
-4) [Refuser systématiquement.](EXAM_NAT_V05_Q35_FAUX)
+**Quel numéro permet de joindre directement le SAMU en cas d'urgence médicale ?**
+
+1) [Le 15.](EXAM_NAT_V05_Q35_VRAI)
+2) [17.](EXAM_NAT_V05_Q35_FAUX)
+3) [18.](EXAM_NAT_V05_Q35_FAUX)
+4) [112.](EXAM_NAT_V05_Q35_FAUX)
 
 ## EXAM_NAT_V05_Q35_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q36)
@@ -59323,7 +59899,7 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 
 `@err_NAT_V05_Q35 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q36)
 
@@ -59342,19 +59918,21 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 
 ### Question 36 sur 40
 
-Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lui, en dehors des jours de collecte prévus.
+<!-- Source naturalisation : MS-NAT-T5-010 -->
 
-**Quelle proposition est correcte concernant les déchets ?**
+Dans une démarche de la vie quotidienne, une personne de votre entourage hésite sur la conduite à adopter en France. Un participant propose la réponse « À la préfecture ». Vous devez vérifier cette affirmation.
 
-1) [Les déchets doivent être triés et déposés dans les équipements prévus.](EXAM_NAT_V05_Q36_VRAI)
-2) [Il est permis de jeter ses déchets dans la nature.](EXAM_NAT_V05_Q36_FAUX)
-3) [Les encombrants peuvent être déposés sur le trottoir à tout moment.](EXAM_NAT_V05_Q36_FAUX)
-4) [Les déchets peuvent être brûlés librement dans son jardin.](EXAM_NAT_V05_Q36_FAUX)
+**Où les parents doivent-ils d'abord s'adresser pour inscrire leur enfant à l'école publique ?**
+
+1) [À la préfecture.](EXAM_NAT_V05_Q36_FAUX)
+2) [À la mairie.](EXAM_NAT_V05_Q36_VRAI)
+3) [À France Travail.](EXAM_NAT_V05_Q36_FAUX)
+4) [À la CAF.](EXAM_NAT_V05_Q36_FAUX)
 
 ## EXAM_NAT_V05_Q36_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q37)
@@ -59363,7 +59941,7 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 
 `@err_NAT_V05_Q36 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q37)
 
@@ -59382,19 +59960,21 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 
 ### Question 37 sur 40
 
-Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
+<!-- Source naturalisation : MS-NAT-T1-009 -->
 
-**Quel est le rôle principal de la police ?**
+Lors d’un échange dans une association locale, une personne souhaite mieux comprendre les principes et les symboles de la République. Un participant propose la réponse « Uniquement sur les passeports étrangers ». Vous devez vérifier cette affirmation.
 
-1) [Voter les lois.](EXAM_NAT_V05_Q37_FAUX)
-2) [Rendre la justice.](EXAM_NAT_V05_Q37_FAUX)
-3) [Protéger les personnes, faire respecter la loi et maintenir l'ordre public.](EXAM_NAT_V05_Q37_VRAI)
-4) [Gouverner le pays.](EXAM_NAT_V05_Q37_FAUX)
+**Où peut-on voir la devise de la République ?**
+
+1) [Sur les bâtiments publics, notamment les mairies et les écoles.](EXAM_NAT_V05_Q37_VRAI)
+2) [Uniquement sur les permis de conduire.](EXAM_NAT_V05_Q37_FAUX)
+3) [Uniquement sur les billets en euros.](EXAM_NAT_V05_Q37_FAUX)
+4) [Uniquement sur les passeports étrangers.](EXAM_NAT_V05_Q37_FAUX)
 
 ## EXAM_NAT_V05_Q37_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q38)
@@ -59403,7 +59983,7 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 
 `@err_NAT_V05_Q37 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q38)
 
@@ -59422,19 +60002,21 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 
 ### Question 38 sur 40
 
-Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en connaître la signification exacte.
+<!-- Source naturalisation : MS-NAT-T1-010 -->
 
-**Que signifie ce sigle ?**
+Au cours d’un atelier citoyen, votre groupe discute de la manière dont les valeurs républicaines s’appliquent au quotidien. Un proche pense que la bonne réponse pourrait être « Le coq, la tour Eiffel, le béret et la baguette ». Aidez-le à raisonner.
 
-1) [Protection médicale assistée.](EXAM_NAT_V05_Q38_FAUX)
-2) [Programme médical avancé.](EXAM_NAT_V05_Q38_FAUX)
-3) [Parcours médical administratif.](EXAM_NAT_V05_Q38_FAUX)
-4) [Procréation médicalement assistée.](EXAM_NAT_V05_Q38_VRAI)
+**Citez tous les symboles officiels de la République française.**
+
+1) [Le coq, la tour Eiffel, le béret et la baguette.](EXAM_NAT_V05_Q38_FAUX)
+2) [Le drapeau tricolore, Marianne, la Marseillaise et la devise.](EXAM_NAT_V05_Q38_VRAI)
+3) [La tour Eiffel et le Louvre.](EXAM_NAT_V05_Q38_FAUX)
+4) [Le béret et la baguette.](EXAM_NAT_V05_Q38_FAUX)
 
 ## EXAM_NAT_V05_Q38_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q39)
@@ -59443,7 +60025,7 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 `@err_NAT_V05_Q38 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q39)
 
@@ -59462,19 +60044,21 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 ### Question 39 sur 40
 
-Des salariés de votre entreprise cessent le travail collectivement pour protester contre leurs conditions de travail. Un collègue vous dit que c'est illégal.
+<!-- Source naturalisation : MS-NAT-T2-014 -->
 
-**Que lui répondez-vous sur le droit de grève ?**
+Une discussion sur les élections amène votre entourage à vérifier une règle du système politique français. Dans le groupe, la réponse « Ils sont choisis par le Gouvernement » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [C'est le droit de refuser définitivement de travailler.](EXAM_NAT_V05_Q39_FAUX)
-2) [C'est le droit de quitter son emploi.](EXAM_NAT_V05_Q39_FAUX)
-3) [C'est le droit de ne plus respecter son contrat de travail.](EXAM_NAT_V05_Q39_FAUX)
-4) [C'est le droit de cesser collectivement le travail pour défendre des revendications professionnelles.](EXAM_NAT_V05_Q39_VRAI)
+**Comment les députés sont-ils désignés ?**
+
+1) [Ils sont élus au suffrage universel direct.](EXAM_NAT_V05_Q39_VRAI)
+2) [Ils sont nommés par le Président.](EXAM_NAT_V05_Q39_FAUX)
+3) [Ils sont désignés par le Sénat.](EXAM_NAT_V05_Q39_FAUX)
+4) [Ils sont choisis par le Gouvernement.](EXAM_NAT_V05_Q39_FAUX)
 
 ## EXAM_NAT_V05_Q39_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q40)
@@ -59483,7 +60067,7 @@ Des salariés de votre entreprise cessent le travail collectivement pour protest
 
 `@err_NAT_V05_Q39 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V05_Q40)
 
@@ -59502,19 +60086,21 @@ Des salariés de votre entreprise cessent le travail collectivement pour protest
 
 ### Question 40 sur 40
 
-Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant qu'il n'a pas obtenu la nationalité française.
+<!-- Source naturalisation : MS-NAT-T2-015 -->
 
-**Quelle obligation concerne pourtant toutes les personnes résidant en France, quelle que soit leur nationalité ?**
+Un proche prépare une démarche citoyenne et souhaite clarifier le fonctionnement de la République et de ses institutions. Une personne hésite et choisit « Le Président de la République ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Voter.](EXAM_NAT_V05_Q40_FAUX)
-2) [Être citoyen français.](EXAM_NAT_V05_Q40_FAUX)
-3) [Effectuer un service militaire.](EXAM_NAT_V05_Q40_FAUX)
-4) [Respecter la loi.](EXAM_NAT_V05_Q40_VRAI)
+**Qui vote les lois en France ?**
+
+1) [Le Président de la République.](EXAM_NAT_V05_Q40_FAUX)
+2) [Le Parlement.](EXAM_NAT_V05_Q40_VRAI)
+3) [Le Premier ministre.](EXAM_NAT_V05_Q40_FAUX)
+4) [Le Conseil constitutionnel.](EXAM_NAT_V05_Q40_FAUX)
 
 ## EXAM_NAT_V05_Q40_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V05_RESULT)
@@ -59523,7 +60109,7 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 
 `@err_NAT_V05_Q40 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V05_RESULT)
 
@@ -59540,196 +60126,61 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V05_Q01 == 1`
-**1. Lequel de ces personnages a un lien avec la République française ?**  
-✅ Jules Ferry.
+**1. Quelle est la devise de la République française ?**  
+✅ Liberté, Égalité, Fraternité.
 
-Jules Ferry est connu pour les lois qui ont rendu l'école gratuite, laïque et obligatoire. Son action est étroitement liée aux valeurs de la République.
+La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 
-💡 Retenez : Jules Ferry a rendu l'école obligatoire
+💡 Retenez le mot-clé : devise = Liberté, Égalité, Fraternité
 `endif`
 
 `if @err_NAT_V05_Q02 == 1`
-**2. À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?**  
-✅ 18 ans.
+**2. Qu'est-ce que la liberté d'association ?**  
+✅ La liberté de créer une association, d'y adhérer ou de ne pas y adhérer.
 
-En France, la vente de boissons alcoolisées est interdite aux mineurs de moins de 18 ans, afin de protéger leur santé.
+La liberté d'association est une liberté fondamentale garantie par la loi. Elle permet à chacun de participer librement à la vie associative.
 
-💡 Retenez le mot-clé : vente d'alcool = interdite aux moins de 18 ans
+💡 Retenez le mot-clé : liberté d'association = créer, adhérer, ou ne pas adhérer
 `endif`
 
 `if @err_NAT_V05_Q03 == 1`
-**3. À l'école, un enfant en situation de handicap :**  
-✅ A le droit d'être scolarisé avec les autres élèves lorsque cela est possible, avec les accompagnements nécessaires.
+**3. Qu'est-ce qu'une liberté ?**  
+✅ Le droit de faire ce que la loi autorise, dans le respect des droits des autres.
 
-L'école française favorise l'école inclusive. Les élèves en situation de handicap ont le droit d'être scolarisés avec les autres élèves lorsque cela est possible, avec les aménagements et accompagnements nécessaires.
+Les libertés sont garanties par la République, mais elles s'exercent dans le respect des lois et des droits d'autrui.
 
-💡 Retenez : Les éléves handicapés ont le droit d'être avec les autres élèves = école inclusive
+💡 Retenez le mot-clé : liberté = ce que la loi autorise, dans le respect des autres
 `endif`
 
 `if @err_NAT_V05_Q04 == 1`
-**4. Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**  
-✅ Le jour de gloire est arrivé.
+**4. Selon la Constitution, la France est une République...**  
+✅ Indivisible, laïque, démocratique et sociale.
 
-La Marseillaise est l'hymne national français depuis 1795. Le vers exact est « Allons enfants de la patrie, le jour de gloire est arrivé. »
+L'article 1er de la Constitution dispose que « La France est une République indivisible, laïque, démocratique et sociale. »
 
-💡 Retenez le mot-clé : « Allons enfants de la patrie, le jour de gloire est arrivé »
+💡 Retenez le mot-clé : article 1er = indivisible, laïque, démocratique, sociale
 `endif`
 
 `if @err_NAT_V05_Q05 == 1`
-**5. Sur quel document peut-on voir Marianne ?**  
-✅ Sur les timbres, les pièces de monnaie ou les documents officiels de la République.
+**5. Quelle collectivité territoriale a la compétence des collèges publics ?**  
+✅ Le département.
 
-Marianne est la représentation officielle de la République française. Son effigie est présente sur plusieurs documents et symboles officiels.
+Les collèges publics relèvent de la compétence des départements, qui assurent notamment leur construction, leur entretien et leur équipement.
 
-💡 Retenez le mot-clé : Marianne = timbres, pièces, documents officiels
+💡 Retenez le mot-clé : collèges = compétence du département
 `endif`
 
 `if @err_NAT_V05_Q06 == 1`
-**6. Qu'implique le fait d'être citoyen d'un État ?**  
-✅ Avoir des droits et des devoirs dans cet État.
+**6. Qui gère les écoles maternelles et élémentaires publiques ?**  
+✅ La commune.
 
-Être citoyen signifie bénéficier de droits (vote, libertés...) mais aussi respecter des devoirs (respect des lois, solidarité, participation à la vie démocratique...).
+Les communes sont responsables de la construction, de l'entretien et du fonctionnement des écoles maternelles et élémentaires publiques.
 
-💡 Retenez le mot-clé : citoyen = droits ET devoirs
+💡 Retenez le mot-clé : écoles maternelles/élémentaires = compétence de la commune
 `endif`
 
 `if @err_NAT_V05_Q07 == 1`
-**7. Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?**  
-✅ Les informations médicales d'un patient sont protégées par le secret médical.
-
-Le secret médical protège la vie privée des patients. Les professionnels de santé doivent respecter la confidentialité des informations qu'ils connaissent dans l'exercice de leur métier.
-
-💡 Retenez le mot-clé : Secret médical
-`endif`
-
-`if @err_NAT_V05_Q08 == 1`
-**8. Quelle fête est française ?**  
-✅ Le 14 juillet.
-
-Le 14 juillet est la fête nationale française. Elle commémore la prise de la Bastille en 1789 et la Fête de la Fédération de 1790.
-
-💡 Retenez : 14 juillet = Fête de la France
-`endif`
-
-`if @err_NAT_V05_Q09 == 1`
-**9. Où siège la Banque centrale européenne (BCE) ?**  
-✅ À Francfort (Allemagne).
-
-La Banque centrale européenne (BCE) est installée à Francfort, en Allemagne. Elle est responsable de la politique monétaire de la zone euro.
-
-💡 Retenez le mot-clé : BCE = Francfort (Allemagne)
-`endif`
-
-`if @err_NAT_V05_Q10 == 1`
-**10. Quel mariage est reconnu par l'État ?**  
-✅ Le mariage civil.
-
-En France, seul le mariage civil célébré devant un officier d'état civil produit des effets juridiques. Une cérémonie religieuse peut être organisée ensuite, mais elle ne remplace pas le mariage civil.
-
-💡 Retenez : Mariage civil = le seul reconnu par l'Etat
-`endif`
-
-`if @err_NAT_V05_Q11 == 1`
-**11. Quelle est la première étape de la construction européenne en 1951 ?**  
-✅ La création de la Communauté européenne du charbon et de l'acier (CECA).
-
-La CECA rassemble six pays européens afin de développer une coopération économique et de favoriser la paix après la Seconde Guerre mondiale.
-
-💡 Retenez : CECA = 1 er rassemblement européen
-`endif`
-
-`if @err_NAT_V05_Q12 == 1`
-**12. En quelle année Napoléon Ier est-il devenu empereur ?**  
-✅ 1804.
-
-Napoléon Bonaparte est devenu empereur des Français en 1804 sous le nom de Napoléon Ier.
-
-💡 Retenez : 1804 = Napoléon empereur
-`endif`
-
-`if @err_NAT_V05_Q13 == 1`
-**13. Qu'est-ce que l'école maternelle ?**  
-✅ L'école qui accueille les jeunes enfants avant l'école élémentaire.
-
-L'école maternelle constitue la première étape de la scolarité. Elle favorise le développement, la socialisation et les premiers apprentissages.
-
-💡 Retenez : L'école maternelle accueille les enfants entre 3 et 6 ans Lycée>Collège>Primaire>Maternelle
-`endif`
-
-`if @err_NAT_V05_Q14 == 1`
-**14. La liberté d'expression sur les réseaux sociaux en France est :**  
-✅ Garantie mais encadrée par la loi (interdiction de la haine, de la diffamation, des injures...).
-
-La liberté d'expression s'applique aussi sur Internet et les réseaux sociaux. Cependant, elle ne permet pas d'insulter, de diffamer, de harceler ou d'inciter à la haine ou à la violence.
-
-💡 Retenez le mot-clé : liberté d'expression en ligne = garantie mais encadrée par la loi
-`endif`
-
-`if @err_NAT_V05_Q15 == 1`
-**15. Ne pas respecter le Code de la route constitue :**  
-✅ Une infraction punie par la loi.
-
-Le Code de la route est un ensemble de règlements et de lois. Son non-respect constitue une infraction pouvant entraîner une amende, un retrait de points, une suspension du permis ou d'autres sanctions selon la gravité.
-
-💡 Retenez le mot-clé : non-respect du Code de la route = infraction punie par la loi
-`endif`
-
-`if @err_NAT_V05_Q16 == 1`
-**16. Qui élit les députés européens ?**  
-✅ Les citoyens des États membres de l'Union européenne.
-
-Tous les cinq ans, les citoyens de chaque État membre élisent leurs représentants au Parlement européen.
-
-💡 Retenez le mot-clé : députés européens = élus par les citoyens des États membres
-`endif`
-
-`if @err_NAT_V05_Q17 == 1`
-**17. Qui est élu lors des élections législatives ?**  
-✅ Les députés.
-
-Les élections législatives permettent d'élire les députés qui siègent à l'Assemblée nationale et participent au vote des lois.
-
-💡 Retenez le mot-clé : élections législatives = députés
-`endif`
-
-`if @err_NAT_V05_Q18 == 1`
-**18. Quel peintre est français ?**  
-✅ Auguste Renoir.
-
-Auguste Renoir est un peintre français majeur du mouvement impressionniste. Il est connu pour ses portraits et ses scènes de la vie quotidienne.
-
-💡 Retenez : Renoir = peintre
-`endif`
-
-`if @err_NAT_V05_Q19 == 1`
-**19. En quelle année a commencé la Première Guerre mondiale ?**  
-✅ 1914.
-
-La Première Guerre mondiale débute en 1914 et se termine en 1918.
-
-💡 Retenez : 1914 = début 1ère guerre mondiale
-`endif`
-
-`if @err_NAT_V05_Q20 == 1`
-**20. Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?**  
-✅ L'Afrique.
-
-Après la Seconde Guerre mondiale, de nombreux territoires français situés en Afrique accèdent progressivement à l'indépendance.
-
-💡 Retenez : Départ des colonies françaises en Afrique après la guerre
-`endif`
-
-`if @err_NAT_V05_Q21 == 1`
-**21. Où a eu lieu le débarquement en 1944 ?**  
-✅ En Normandie.
-
-Le 6 juin 1944, les forces alliées débarquent en Normandie. Cet événement marque le début de la libération de la France occupée.
-
-💡 Retenez : Normandie = débarquement des alliés
-`endif`
-
-`if @err_NAT_V05_Q22 == 1`
-**22. Comment le maire est-il élu ?**  
+**7. Comment le maire est-il élu ?**  
 ✅ Par les conseillers municipaux.
 
 Après les élections municipales, les conseillers municipaux se réunissent pour élire le maire parmi eux.
@@ -59737,58 +60188,193 @@ Après les élections municipales, les conseillers municipaux se réunissent pou
 💡 Retenez le mot-clé : maire = élu par les conseillers municipaux
 `endif`
 
+`if @err_NAT_V05_Q08 == 1`
+**8. Quelle collectivité territoriale organise les trains régionaux (TER) ?**  
+✅ La région.
+
+Les régions organisent notamment les transports régionaux (comme les trains régionaux TER) et participent au développement économique et à l'aménagement du territoire.
+
+💡 Retenez le mot-clé : TER = compétence de la région
+`endif`
+
+`if @err_NAT_V05_Q09 == 1`
+**9. Comment la Constitution peut-elle être révisée ?**  
+✅ Par référendum ou par le Parlement réuni en Congrès.
+
+La Constitution est le texte juridique suprême. Sa révision suit une procédure spécifique, notamment par référendum ou par le Parlement réuni en Congrès (article 89 de la Constitution).
+
+💡 Retenez le mot-clé : révision de la Constitution = référendum ou Congrès
+`endif`
+
+`if @err_NAT_V05_Q10 == 1`
+**10. En cas de vacance de la présidence, qui assure provisoirement les fonctions de Président de la République ?**  
+✅ Le Président du Sénat.
+
+Selon la Constitution, en cas de vacance de la présidence (décès, démission ou empêchement), le Président du Sénat assure provisoirement les fonctions de Président de la République jusqu'à l'élection d'un nouveau Président.
+
+💡 Retenez le mot-clé : vacance de la présidence = intérim assuré par le Président du Sénat
+`endif`
+
+`if @err_NAT_V05_Q11 == 1`
+**11. À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?**  
+✅ 15 ans.
+
+En France, la majorité numérique est fixée à 15 ans. Avant cet âge, l'accord des parents est généralement nécessaire pour l'inscription à certains services en ligne utilisant les données personnelles.
+
+💡 Retenez le mot-clé : majorité numérique = 15 ans
+`endif`
+
+`if @err_NAT_V05_Q12 == 1`
+**12. Où est-il autorisé de fumer, alors que c'est interdit dans de nombreux lieux publics fermés ?**  
+✅ Chez soi.
+
+En France, il est interdit de fumer dans de nombreux lieux publics fermés afin de protéger la santé de tous. En revanche, il est autorisé de fumer à son domicile.
+
+💡 Retenez le mot-clé : interdiction de fumer = lieux publics fermés (pas chez soi)
+`endif`
+
+`if @err_NAT_V05_Q13 == 1`
+**13. Conduire un véhicule sans le permis correspondant constitue :**  
+✅ Un délit puni par la loi.
+
+Conduire un véhicule sans le permis correspondant est un délit grave, passible d'emprisonnement et de forte amende (sauf certaines petites cylindrées avec le permis B + formation).
+
+💡 Retenez le mot-clé : conduire sans permis = délit puni par la loi
+`endif`
+
+`if @err_NAT_V05_Q14 == 1`
+**14. En quoi consiste le devoir de solidarité du citoyen ?**  
+✅ Aider les personnes en difficulté et contribuer à la solidarité nationale.
+
+La solidarité est une valeur importante de la République. Elle se traduit par l'entraide entre les personnes et par la participation de chacun au financement des services publics et de la protection sociale.
+
+💡 Retenez le mot-clé : solidarité = aider les autres + participer à la solidarité nationale
+`endif`
+
+`if @err_NAT_V05_Q15 == 1`
+**15. Quel port français était, au XVIIIᵉ siècle, le principal port impliqué dans la traite négrière ?**  
+✅ Nantes.
+
+Au XVIIIᵉ siècle, Nantes est le principal port français impliqué dans la traite négrière. Cette histoire est aujourd'hui reconnue et fait l'objet d'un important travail de mémoire.
+
+💡 Retenez le mot-clé : principal port de la traite négrière = Nantes
+`endif`
+
+`if @err_NAT_V05_Q16 == 1`
+**16. Quel philosophe des Lumières est identifié, dans cette question, comme ayant critiqué l'esclavage et défendu la liberté et la tolérance ?**  
+✅ Voltaire.
+
+Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'esclavage et défend les idées de liberté, de tolérance et de justice. Plusieurs philosophes des Lumières ont critiqué l'esclavage, mais la réponse officiellement attendue pour cet examen est Voltaire.
+
+💡 Retenez le mot-clé : critique de l'esclavage (Lumières) = Voltaire
+`endif`
+
+`if @err_NAT_V05_Q17 == 1`
+**17. Lequel de ces peintres est français ?**  
+✅ Claude Monet.
+
+La France compte de nombreux peintres mondialement connus, notamment les impressionnistes comme Claude Monet, Auguste Renoir ou Edgar Degas.
+
+💡 Retenez le mot-clé : peintres français = Monet, Renoir, Degas, Cézanne...
+`endif`
+
+`if @err_NAT_V05_Q18 == 1`
+**18. Laquelle de ces spécialités est un plat traditionnel français ?**  
+✅ Le cassoulet.
+
+La gastronomie est un élément important du patrimoine français. Elle est reconnue par l'UNESCO à travers le repas gastronomique des Français, inscrit au patrimoine culturel immatériel de l'humanité.
+
+💡 Retenez le mot-clé : gastronomie française = repas gastronomique inscrit à l'UNESCO
+`endif`
+
+`if @err_NAT_V05_Q19 == 1`
+**19. Qui était Marie Curie ?**  
+✅ Une scientifique franco-polonaise, double prix Nobel.
+
+Marie Curie est l'une des plus grandes scientifiques de l'histoire. Elle est la première femme à recevoir un prix Nobel et la seule personne à avoir obtenu deux prix Nobel dans deux disciplines scientifiques différentes (physique et chimie).
+
+💡 Retenez le mot-clé : Marie Curie = scientifique franco-polonaise, deux prix Nobel
+`endif`
+
+`if @err_NAT_V05_Q20 == 1`
+**20. Qui a peint « La Liberté guidant le peuple » en 1830 ?**  
+✅ Eugène Delacroix.
+
+« La Liberté guidant le peuple », peinte par Eugène Delacroix en 1830, est devenue un symbole de la République et de la liberté.
+
+💡 Retenez le mot-clé : « La Liberté guidant le peuple » = Eugène Delacroix
+`endif`
+
+`if @err_NAT_V05_Q21 == 1`
+**21. Où est exposée la Joconde de Léonard de Vinci ?**  
+✅ Le musée du Louvre.
+
+La Joconde, peinte par Léonard de Vinci, est exposée au musée du Louvre, le plus grand musée de France et l'un des plus célèbres au monde.
+
+💡 Retenez le mot-clé : Joconde = musée du Louvre
+`endif`
+
+`if @err_NAT_V05_Q22 == 1`
+**22. Quel monument est la résidence royale développée par Louis XIV, le Roi-Soleil ?**  
+✅ Le château de Versailles.
+
+Le château de Versailles est la résidence royale développée par Louis XIV, le Roi-Soleil. Il est aujourd'hui l'un des monuments les plus visités de France.
+
+💡 Retenez le mot-clé : résidence de Louis XIV = château de Versailles
+`endif`
+
 `if @err_NAT_V05_Q23 == 1`
-**23. Quel est l'un des premiers devoirs de tout citoyen ?**  
-✅ Respecter les lois.
+**23. Où se trouvent les célèbres peintures rupestres préhistoriques vieilles d'environ 17 000 ans ?**  
+✅ Dans la grotte de Lascaux.
 
-Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. Le premier d'entre eux est de respecter les lois de la République.
+La grotte de Lascaux, en Dordogne, est célèbre pour ses peintures rupestres datant d'environ 17 000 ans. Elle constitue l'un des plus grands témoignages de l'art préhistorique.
 
-💡 Retenez le mot-clé : premier devoir du citoyen = respecter les lois
+💡 Retenez le mot-clé : peintures rupestres préhistoriques = grotte de Lascaux
 `endif`
 
 `if @err_NAT_V05_Q24 == 1`
-**24. À qui appartient la souveraineté nationale ?**  
-✅ Au peuple.
+**24. Une femme a-t-elle le droit de recourir à une interruption volontaire de grossesse (IVG) en France ?**  
+✅ Oui, dans les conditions prévues par la loi.
 
-L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par la voie du référendum.
+En France, les femmes ont le droit de recourir à une IVG dans les conditions prévues par la loi. Depuis 2024, la liberté garantie à la femme de recourir à l'IVG est inscrite dans la Constitution.
 
-💡 Retenez le mot-clé : souveraineté nationale = appartient au peuple
+💡 Retenez le mot-clé : IVG = droit garanti par la loi (inscrit dans la Constitution depuis 2024)
 `endif`
 
 `if @err_NAT_V05_Q25 == 1`
-**25. Que dit l'article 1er de la Constitution à propos de la France ?**  
-✅ La France est une République indivisible, laïque, démocratique et sociale.
+**25. Le travail non déclaré (« au noir ») est :**  
+✅ Illégal (travail dissimulé).
 
-L'article 1er de la Constitution définit les principes fondamentaux de la République française : « La France est une République indivisible, laïque, démocratique et sociale. » Cette formulation est à connaître par cœur pour l'examen.
+Le travail non déclaré, aussi appelé travail dissimulé, est interdit par la loi. Il prive le salarié de nombreux droits (protection sociale, retraite, assurance chômage...) et expose l'employeur à des sanctions.
 
-💡 Retenez le mot-clé : article 1er = indivisible, laïque, démocratique, sociale
+💡 Retenez le mot-clé : travail non déclaré = illégal (travail dissimulé)
 `endif`
 
 `if @err_NAT_V05_Q26 == 1`
-**26. En France, il est possible pour l'État de financer :**  
-✅ Les aumôneries dans certains services publics (hôpitaux, prisons, armées).
+**26. Qu'est-ce que le SMIC ?**  
+✅ Le salaire minimum légal.
 
-En principe, la loi de 1905 interdit à l'État de financer les cultes. Toutefois, des exceptions existent, notamment pour les aumôneries dans certains services publics afin de garantir la liberté de culte des personnes qui ne peuvent pas se déplacer.
+Le SMIC (Salaire minimum interprofessionnel de croissance) fixe le salaire horaire minimum qu'un employeur doit verser à un salarié, sauf exceptions prévues par la loi.
 
-💡 Retenez le mot-clé : exception au financement des cultes = aumôneries (hôpitaux, prisons, armées)
+💡 Retenez le mot-clé : SMIC = salaire minimum légal
 `endif`
 
 `if @err_NAT_V05_Q27 == 1`
-**27. Quel est le dernier pays à avoir rejoint l'Union européenne ?**  
-✅ La Croatie.
+**27. Quelle est la première démarche pour chercher un emploi ?**  
+✅ S'inscrire à France Travail.
 
-La Croatie est devenue le 28ᵉ État membre de l'Union européenne le 1ᵉʳ juillet 2013.
+France Travail accompagne les demandeurs d'emploi dans leurs recherches, propose des offres d'emploi, des formations et peut verser les allocations chômage sous certaines conditions.
 
-💡 Retenez le mot-clé : dernier pays entré dans l'UE = Croatie (2013)
+💡 Retenez le mot-clé : chercher un emploi = s'inscrire à France Travail
 `endif`
 
 `if @err_NAT_V05_Q28 == 1`
-**28. Qu'est-ce que la liberté d'association ?**  
-✅ La liberté de créer une association, d'y adhérer ou de ne pas y adhérer.
+**28. Quelle est la durée légale du travail en France ?**  
+✅ 35 heures.
 
-La liberté d'association est une liberté fondamentale garantie par la loi. Elle permet à chacun de participer librement à la vie associative.
+En France, la durée légale du travail est fixée à 35 heures par semaine pour un salarié à temps complet. Des heures supplémentaires peuvent être effectuées dans les conditions prévues par la loi.
 
-💡 Retenez le mot-clé : liberté d'association = créer, adhérer, ou ne pas adhérer
+💡 Retenez le mot-clé : durée légale du travail = 35 heures
 `endif`
 
 ### Partie 2 — Mises en situation
@@ -59798,87 +60384,87 @@ La liberté d'association est une liberté fondamentale garantie par la loi. Ell
 `endif`
 
 `if @err_NAT_V05_Q29 == 1`
-**29. Que lui répondez-vous ?**  
-✅ Chacun est libre de pratiquer sa religion, dans le respect de la loi.
+**29. Quels sont les trois pouvoirs de la République française ?**  
+✅ Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.
 
-La liberté religieuse est garantie en France. Chacun est libre de croire, de pratiquer sa religion ou de ne pas en avoir, dans le respect de la loi et de l'ordre public.
+La bonne réponse est « Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire ». La séparation des pouvoirs évite qu'une seule autorité concentre tous les pouvoirs. En France, les pouvoirs exécutif, législatif et judiciaire sont exercés par des institutions différentes.
 `endif`
 
 `if @err_NAT_V05_Q30 == 1`
-**30. Qui, en priorité, doit respecter la neutralité religieuse dans l'exercice de ses fonctions au sein d'une préfecture ?**  
-✅ Les agents publics.
+**30. Qu'est-ce que les droits fondamentaux ?**  
+✅ Les droits essentiels garantis à toute personne.
 
-Les agents publics exercent leurs fonctions dans le respect du principe de neutralité et ne doivent pas manifester leurs convictions religieuses au travail. Les usagers, eux, restent libres de leurs convictions dans les espaces publics.
+La bonne réponse est « Les droits essentiels garantis à toute personne ». Les droits fondamentaux sont les droits et libertés indispensables reconnus à toute personne. Ils sont protégés par la Constitution, les lois françaises et les textes internationaux.
 `endif`
 
 `if @err_NAT_V05_Q31 == 1`
-**31. Que répondez-vous ?**  
-✅ La liberté de conscience.
+**31. Quel droit protège une personne contre les arrestations ou détentions arbitraires ?**  
+✅ Le droit à la liberté individuelle.
 
-La laïcité garantit à chacun la liberté de conscience et assure l'égalité de tous devant la loi, quelles que soient leurs convictions religieuses ou philosophiques.
+La bonne réponse est « Le droit à la liberté individuelle ». La liberté individuelle est un droit fondamental. Personne ne peut être arrêté ou détenu de manière arbitraire : toute privation de liberté doit respecter la loi.
 `endif`
 
 `if @err_NAT_V05_Q32 == 1`
-**32. Que lui répondez-vous ?**  
-✅ Il peut se déplacer librement sur le territoire national et à l'étranger, dans le respect des règles.
+**32. En quelle année Napoléon Bonaparte est-il devenu empereur des Français ?**  
+✅ 1804.
 
-La liberté de circulation permet à chacun de se déplacer librement sur le territoire et à l'étranger, mais elle ne donne aucun droit sur la propriété privée d'autrui, ni de conduire sans permis, ni de voyager sans document d'identité.
+La bonne réponse est « 1804 ». Napoléon Bonaparte devient empereur des Français en 1804. Son sacre a lieu le 2 décembre 1804 à Notre-Dame de Paris.
 `endif`
 
 `if @err_NAT_V05_Q33 == 1`
-**33. Quelle est la définition la plus complète ?**  
-✅ La séparation des Églises et de l'État, garantissant la liberté de conscience.
+**33. Quel homme d'État a fait adopter des lois rendant l'école laïque, gratuite et obligatoire pour les enfants de 6 à 13 ans ?**  
+✅ Jules Ferry.
 
-La laïcité repose sur la séparation des Églises et de l'État, instaurée par la loi de 1905. Elle garantit à chacun la liberté de conscience ainsi que l'égalité devant la loi, quelles que soient ses convictions religieuses ou philosophiques.
+La bonne réponse est « Jules Ferry ». Jules Ferry est un homme d'État français. Il a fait adopter des lois qui rendent l'école laïque, gratuite et obligatoire pour tous les enfants âgés de 6 à 13 ans.
 `endif`
 
 `if @err_NAT_V05_Q34 == 1`
-**34. Que pouvez-vous lui répondre ?**  
-✅ Il peut choisir sa religion ou ne pas en avoir.
+**34. À quelle date le général de Gaulle a-t-il lancé son appel à la Résistance depuis Londres ?**  
+✅ Le 18 juin 1940.
 
-En France, chacun est libre de pratiquer une religion, d'en changer ou de ne pas en avoir : c'est cela, la liberté individuelle. Elle ne dispense en revanche jamais de respecter la loi commune.
+La bonne réponse est « Le 18 juin 1940 ». Le 18 juin 1940, depuis Londres, le général de Gaulle lance un appel à poursuivre le combat contre l'Allemagne nazie. Cet appel est devenu le symbole de la Résistance française.
 `endif`
 
 `if @err_NAT_V05_Q35 == 1`
-**35. Que doit-on faire face aux injonctions légales des policiers ou des gendarmes ?**  
-✅ Obéir aux injonctions légales des policiers ou des gendarmes.
+**35. Quel numéro permet de joindre directement le SAMU en cas d'urgence médicale ?**  
+✅ Le 15.
 
-Les policiers et les gendarmes exercent leurs missions dans le cadre de la loi. Leurs instructions légales doivent être respectées, même en cas de désaccord ; les voies de recours existent par ailleurs.
+La bonne réponse est « Le 15 ». Le 15 permet de contacter le SAMU pour toute urgence médicale nécessitant une intervention rapide.
 `endif`
 
 `if @err_NAT_V05_Q36 == 1`
-**36. Quelle proposition est correcte concernant les déchets ?**  
-✅ Les déchets doivent être triés et déposés dans les équipements prévus.
+**36. Où les parents doivent-ils d'abord s'adresser pour inscrire leur enfant à l'école publique ?**  
+✅ À la mairie.
 
-Le tri des déchets est un geste citoyen qui protège l'environnement. Les déchets, y compris les encombrants, doivent être déposés dans les conteneurs, déchèteries ou aux dates de collecte prévus.
+La bonne réponse est « À la mairie ». Pour une école publique, les parents effectuent d'abord l'inscription auprès de la mairie, puis présentent les documents demandés par l'établissement scolaire.
 `endif`
 
 `if @err_NAT_V05_Q37 == 1`
-**37. Quel est le rôle principal de la police ?**  
-✅ Protéger les personnes, faire respecter la loi et maintenir l'ordre public.
+**37. Où peut-on voir la devise de la République ?**  
+✅ Sur les bâtiments publics, notamment les mairies et les écoles.
 
-La police assure la sécurité des personnes et des biens, fait respecter la loi et contribue au maintien de l'ordre public. Voter les lois, rendre la justice et gouverner relèvent d'autres institutions.
+La bonne réponse est « Sur les bâtiments publics, notamment les mairies et les écoles ». La devise « Liberté, Égalité, Fraternité » est visible sur de nombreux bâtiments publics, notamment les mairies et les établissements scolaires.
 `endif`
 
 `if @err_NAT_V05_Q38 == 1`
-**38. Que signifie ce sigle ?**  
-✅ Procréation médicalement assistée.
+**38. Citez tous les symboles officiels de la République française.**  
+✅ Le drapeau tricolore, Marianne, la Marseillaise et la devise.
 
-La PMA signifie « Procréation médicalement assistée ». Elle regroupe les techniques médicales permettant d'aider à concevoir un enfant, dans les conditions prévues par la loi.
+La bonne réponse est « Le drapeau tricolore, Marianne, la Marseillaise et la devise ». Les quatre symboles officiels de la République française sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ».
 `endif`
 
 `if @err_NAT_V05_Q39 == 1`
-**39. Que lui répondez-vous sur le droit de grève ?**  
-✅ C'est le droit de cesser collectivement le travail pour défendre des revendications professionnelles.
+**39. Comment les députés sont-ils désignés ?**  
+✅ Ils sont élus au suffrage universel direct.
 
-Le droit de grève est une liberté reconnue par la Constitution. Il permet aux salariés de cesser collectivement le travail pour défendre leurs intérêts professionnels, dans le respect de la loi.
+La bonne réponse est « Ils sont élus au suffrage universel direct ». Les députés représentent les citoyens à l'Assemblée nationale. Ils sont élus directement par les électeurs lors des élections législatives.
 `endif`
 
 `if @err_NAT_V05_Q40 == 1`
-**40. Quelle obligation concerne pourtant toutes les personnes résidant en France, quelle que soit leur nationalité ?**  
-✅ Respecter la loi.
+**40. Qui vote les lois en France ?**  
+✅ Le Parlement.
 
-Toutes les personnes vivant en France, quelle que soit leur nationalité, doivent respecter les lois françaises. Voter ou être citoyen sont des droits ou statuts, pas des obligations générales.
+La bonne réponse est « Le Parlement ». Le Parlement est composé de deux chambres : l'Assemblée nationale et le Sénat. Ensemble, elles discutent, modifient et votent les lois.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -60152,11 +60738,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -60186,7 +60772,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH04 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -60195,11 +60781,23 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T1_CH01 >= 3`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
+`if @errchap_T1_CH02 >= 3`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
 `if @errchap_T1_CH03 >= 3`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -60219,6 +60817,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T4_CH01 >= 3`
 1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
+`if @errchap_T4_CH02 >= 3`
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
 `if @errchap_T4_CH03 >= 3`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
@@ -60228,11 +60829,14 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T5_CH02 >= 3`
 1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
+`if @errchap_T5_CH03 >= 3`
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
 `if @errchap_T5_CH04 >= 3`
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH04 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -60241,11 +60845,23 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T1_CH01 == 2`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
+`if @errchap_T1_CH02 == 2`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
 `if @errchap_T1_CH03 == 2`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -60265,6 +60881,9 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T4_CH01 == 2`
 1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
+`if @errchap_T4_CH02 == 2`
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
 `if @errchap_T4_CH03 == 2`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
@@ -60274,11 +60893,14 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T5_CH02 == 2`
 1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
+`if @errchap_T5_CH03 == 2`
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
 `if @errchap_T5_CH04 == 2`
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH04 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -60287,11 +60909,23 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T1_CH01 == 1`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
+`if @errchap_T1_CH02 == 1`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
 `if @errchap_T1_CH03 == 1`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -60311,6 +60945,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T4_CH01 == 1`
 1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
+`if @errchap_T4_CH02 == 1`
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
 `if @errchap_T4_CH03 == 1`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
@@ -60320,15 +60957,18 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T5_CH02 == 1`
 1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
+`if @errchap_T5_CH03 == 1`
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
 `if @errchap_T5_CH04 == 1`
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH04 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH04 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
@@ -60348,21 +60988,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T2_CH04 = 0`
-`@errchap_T5_CH01 = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T5_CH04 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T4_CH02 = 0`
-`@errchap_T1_CH04 = 0`
-`@errchap_T2_CH02 = 0`
-`@errchap_T4_CH01 = 0`
-`@errchap_T5_CH03 = 0`
 `@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
-`@errchap_T2_CH03 = 0`
 `@errchap_T1_CH02 = 0`
 `@errchap_T1_CH03 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -60373,6 +61017,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q01
 
 `@err_NAT_V06_Q01 = 0`
+`@exam_variant = 6`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -60385,17 +61031,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**Quel pays a une frontière terrestre avec la France métropolitaine ?**
+<!-- Source naturalisation : NAT-T2-035 -->
 
-1) [Royaume-Uni.](EXAM_NAT_V06_Q01_FAUX)
-2) [Portugal.](EXAM_NAT_V06_Q01_FAUX)
-3) [Autriche.](EXAM_NAT_V06_Q01_FAUX)
-4) [Espagne.](EXAM_NAT_V06_Q01_VRAI)
+**En quels niveaux le territoire français est-il découpé ?**
+
+1) [Cantons et arrondissements uniquement.](EXAM_NAT_V06_Q01_FAUX)
+2) [Communes, départements et régions.](EXAM_NAT_V06_Q01_VRAI)
+3) [Préfectures et ministères.](EXAM_NAT_V06_Q01_FAUX)
+4) [Régions et communes uniquement.](EXAM_NAT_V06_Q01_FAUX)
 
 ## EXAM_NAT_V06_Q01_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q02)
@@ -60404,7 +61052,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q01 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q02)
 
@@ -60423,17 +61071,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**Comment demander une carte nationale d'identité ?**
+<!-- Source naturalisation : NAT-T2-036 -->
 
-1) [Aller au commissariat.](EXAM_NAT_V06_Q02_FAUX)
-2) [Aller à la préfecture.](EXAM_NAT_V06_Q02_FAUX)
-3) [Faire uniquement une demande auprès de France Travail.](EXAM_NAT_V06_Q02_FAUX)
-4) [En faire la demande auprès d'une mairie équipée.](EXAM_NAT_V06_Q02_VRAI)
+**Qui est le préfet ?**
+
+1) [Le maire.](EXAM_NAT_V06_Q02_FAUX)
+2) [Le président du conseil départemental.](EXAM_NAT_V06_Q02_FAUX)
+3) [Le représentant de l'État dans le département.](EXAM_NAT_V06_Q02_VRAI)
+4) [Le député.](EXAM_NAT_V06_Q02_FAUX)
 
 ## EXAM_NAT_V06_Q02_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q03)
@@ -60442,7 +61092,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q02 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q03)
 
@@ -60461,12 +61111,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**Quel est le rôle du maire ?**
+<!-- Source naturalisation : NAT-T2-037 -->
 
-1) [Il vote les lois.](EXAM_NAT_V06_Q03_FAUX)
-2) [Il dirige le Gouvernement.](EXAM_NAT_V06_Q03_FAUX)
-3) [Il représente la France à l'étranger.](EXAM_NAT_V06_Q03_FAUX)
-4) [Il dirige la commune, applique les décisions du conseil municipal et assure notamment l'état civil.](EXAM_NAT_V06_Q03_VRAI)
+**Quel est le rôle du Président de la République ?**
+
+1) [Il vote seul les lois.](EXAM_NAT_V06_Q03_FAUX)
+2) [Il rend la justice.](EXAM_NAT_V06_Q03_FAUX)
+3) [Il dirige les communes.](EXAM_NAT_V06_Q03_FAUX)
+4) [Il est le chef de l'État, veille au respect de la Constitution et assure le fonctionnement des institutions.](EXAM_NAT_V06_Q03_VRAI)
 
 ## EXAM_NAT_V06_Q03_VRAI
 
@@ -60499,17 +61151,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**Qui peut être candidat à l'élection présidentielle ?**
+<!-- Source naturalisation : NAT-T3-021 -->
 
-1) [Tous les Français automatiquement.](EXAM_NAT_V06_Q04_FAUX)
-2) [Les ministres uniquement.](EXAM_NAT_V06_Q04_FAUX)
-3) [Les députés uniquement.](EXAM_NAT_V06_Q04_FAUX)
-4) [Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).](EXAM_NAT_V06_Q04_VRAI)
+**Une personne peut-elle être mariée à plusieurs personnes en même temps en France ?**
+
+1) [Non, la polygamie est interdite.](EXAM_NAT_V06_Q04_VRAI)
+2) [Oui.](EXAM_NAT_V06_Q04_FAUX)
+3) [Oui, selon sa religion.](EXAM_NAT_V06_Q04_FAUX)
+4) [Oui, avec l'accord des époux.](EXAM_NAT_V06_Q04_FAUX)
 
 ## EXAM_NAT_V06_Q04_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q05)
@@ -60518,7 +61172,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q04 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q05)
 
@@ -60537,17 +61191,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**
+<!-- Source naturalisation : NAT-T3-022 -->
 
-1) [1962.](EXAM_NAT_V06_Q05_VRAI)
-2) [1958.](EXAM_NAT_V06_Q05_FAUX)
-3) [1945.](EXAM_NAT_V06_Q05_FAUX)
-4) [1981.](EXAM_NAT_V06_Q05_FAUX)
+**Doit-on déclarer ses revenus chaque année aux services fiscaux ?**
+
+1) [Non.](EXAM_NAT_V06_Q05_FAUX)
+2) [Oui, c'est une obligation.](EXAM_NAT_V06_Q05_VRAI)
+3) [Seulement si l'on paie des impôts.](EXAM_NAT_V06_Q05_FAUX)
+4) [Seulement les salariés.](EXAM_NAT_V06_Q05_FAUX)
 
 ## EXAM_NAT_V06_Q05_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q06)
@@ -60556,7 +61212,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q05 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q06)
 
@@ -60575,17 +61231,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?**
+<!-- Source naturalisation : NAT-T3-023 -->
 
-1) [L'Europe.](EXAM_NAT_V06_Q06_FAUX)
-2) [L'Amérique.](EXAM_NAT_V06_Q06_FAUX)
-3) [L'Afrique.](EXAM_NAT_V06_Q06_VRAI)
-4) [L'Océanie.](EXAM_NAT_V06_Q06_FAUX)
+**A-t-on l'obligation de porter assistance à une personne en danger ?**
+
+1) [Non.](EXAM_NAT_V06_Q06_FAUX)
+2) [Seulement les médecins.](EXAM_NAT_V06_Q06_FAUX)
+3) [Oui, dans la mesure où cela ne met pas sa propre vie en danger.](EXAM_NAT_V06_Q06_VRAI)
+4) [Seulement les policiers.](EXAM_NAT_V06_Q06_FAUX)
 
 ## EXAM_NAT_V06_Q06_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q07)
@@ -60594,7 +61252,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q06 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q07)
 
@@ -60613,12 +61271,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**La privation des droits civiques est réservée aux infractions les plus graves. Laquelle de ces situations peut être concernée ?**
+<!-- Source naturalisation : NAT-T3-024 -->
 
-1) [Un simple excès de vitesse.](EXAM_NAT_V06_Q07_FAUX)
-2) [Une contravention de stationnement.](EXAM_NAT_V06_Q07_FAUX)
-3) [Un désaccord avec un voisin.](EXAM_NAT_V06_Q07_FAUX)
-4) [Un crime comme le terrorisme ou la corruption.](EXAM_NAT_V06_Q07_VRAI)
+**Pour un citoyen tiré au sort, être juré à la cour d'assises est :**
+
+1) [Une activité facultative.](EXAM_NAT_V06_Q07_FAUX)
+2) [Un métier rémunéré.](EXAM_NAT_V06_Q07_FAUX)
+3) [Une mission réservée aux avocats.](EXAM_NAT_V06_Q07_FAUX)
+4) [Un devoir civique obligatoire.](EXAM_NAT_V06_Q07_VRAI)
 
 ## EXAM_NAT_V06_Q07_VRAI
 
@@ -60651,17 +61311,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Quel est l'âge de la majorité ?**
+<!-- Source naturalisation : NAT-T4-046 -->
 
-1) [18 ans.](EXAM_NAT_V06_Q08_VRAI)
-2) [16 ans.](EXAM_NAT_V06_Q08_FAUX)
-3) [17 ans.](EXAM_NAT_V06_Q08_FAUX)
-4) [21 ans.](EXAM_NAT_V06_Q08_FAUX)
+**Qui a peint la célèbre série des Nymphéas ?**
+
+1) [Renoir.](EXAM_NAT_V06_Q08_FAUX)
+2) [Claude Monet.](EXAM_NAT_V06_Q08_VRAI)
+3) [Cézanne.](EXAM_NAT_V06_Q08_FAUX)
+4) [Delacroix.](EXAM_NAT_V06_Q08_FAUX)
 
 ## EXAM_NAT_V06_Q08_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q09)
@@ -60670,7 +61332,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q08 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q09)
 
@@ -60689,17 +61351,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**Où peut-on déposer un lave-vaisselle cassé ?**
+<!-- Source naturalisation : NAT-T4-047 -->
 
-1) [Sur le trottoir.](EXAM_NAT_V06_Q09_FAUX)
-2) [Dans la rue.](EXAM_NAT_V06_Q09_FAUX)
-3) [Dans la nature.](EXAM_NAT_V06_Q09_FAUX)
-4) [Dans une déchèterie ou un point de collecte prévu pour les encombrants.](EXAM_NAT_V06_Q09_VRAI)
+**Quel événement permet chaque année de visiter gratuitement de nombreux monuments habituellement payants ?**
+
+1) [Le 14 juillet.](EXAM_NAT_V06_Q09_FAUX)
+2) [La Nuit des musées.](EXAM_NAT_V06_Q09_FAUX)
+3) [Les Journées européennes du patrimoine.](EXAM_NAT_V06_Q09_VRAI)
+4) [Les vacances scolaires.](EXAM_NAT_V06_Q09_FAUX)
 
 ## EXAM_NAT_V06_Q09_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q10)
@@ -60708,7 +61372,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q09 = 1`
 
-`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q10)
 
@@ -60727,17 +61391,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**Citez une condition pour être candidat aux élections municipales.**
+<!-- Source naturalisation : NAT-T4-048 -->
 
-1) [Être fonctionnaire.](EXAM_NAT_V06_Q10_FAUX)
-2) [Être marié.](EXAM_NAT_V06_Q10_FAUX)
-3) [Être propriétaire.](EXAM_NAT_V06_Q10_FAUX)
-4) [Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).](EXAM_NAT_V06_Q10_VRAI)
+**Que célèbre-t-on le 1er mai en France ?**
+
+1) [La fête nationale.](EXAM_NAT_V06_Q10_FAUX)
+2) [La Libération.](EXAM_NAT_V06_Q10_FAUX)
+3) [L'Armistice.](EXAM_NAT_V06_Q10_FAUX)
+4) [La fête du Travail.](EXAM_NAT_V06_Q10_VRAI)
 
 ## EXAM_NAT_V06_Q10_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q11)
@@ -60746,7 +61412,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q10 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q11)
 
@@ -60765,12 +61431,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**En 1944, qu'est-ce qui a changé pour les femmes ?**
+<!-- Source naturalisation : NAT-T4-049 -->
 
-1) [Elles ont obtenu le droit au travail.](EXAM_NAT_V06_Q11_FAUX)
-2) [Elles ont obtenu le droit au divorce.](EXAM_NAT_V06_Q11_FAUX)
-3) [Elles ont obtenu le droit de vote et d'éligibilité.](EXAM_NAT_V06_Q11_VRAI)
-4) [Elles ont obtenues le droit de devenir présidente de la République.](EXAM_NAT_V06_Q11_FAUX)
+**Qui est l'auteur de la Marseillaise ?**
+
+1) [Claude Joseph Rouget de Lisle.](EXAM_NAT_V06_Q11_VRAI)
+2) [Victor Hugo.](EXAM_NAT_V06_Q11_FAUX)
+3) [Beethoven.](EXAM_NAT_V06_Q11_FAUX)
+4) [Napoléon.](EXAM_NAT_V06_Q11_FAUX)
 
 ## EXAM_NAT_V06_Q11_VRAI
 
@@ -60784,7 +61452,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q11 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q12)
 
@@ -60803,17 +61471,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**Quel motif d'absence est accepté par l'école ?**
+<!-- Source naturalisation : NAT-T4-050 -->
 
-1) [Partir en vacances hors période scolaire.](EXAM_NAT_V06_Q12_FAUX)
-2) [Un enfant malade.](EXAM_NAT_V06_Q12_VRAI)
-3) [Ne pas avoir envie d'aller à l'école.](EXAM_NAT_V06_Q12_FAUX)
-4) [Dormir plus longtemps.](EXAM_NAT_V06_Q12_FAUX)
+**Pour quel événement la tour Eiffel a-t-elle été construite en 1889 ?**
+
+1) [Les Jeux olympiques.](EXAM_NAT_V06_Q12_FAUX)
+2) [L'Exposition universelle.](EXAM_NAT_V06_Q12_VRAI)
+3) [La Révolution française.](EXAM_NAT_V06_Q12_FAUX)
+4) [La Première Guerre mondiale.](EXAM_NAT_V06_Q12_FAUX)
 
 ## EXAM_NAT_V06_Q12_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q13)
@@ -60822,7 +61492,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q12 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q13)
 
@@ -60841,17 +61511,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Selon la Constitution, la France est une République...**
+<!-- Source naturalisation : NAT-T4-051 -->
 
-1) [Fédérale, religieuse, démocratique et sociale.](EXAM_NAT_V06_Q13_FAUX)
-2) [Indivisible, catholique, démocratique et sociale.](EXAM_NAT_V06_Q13_FAUX)
-3) [Indivisible, laïque, démocratique et sociale.](EXAM_NAT_V06_Q13_VRAI)
-4) [Indivisible, laïque, monarchique et sociale.](EXAM_NAT_V06_Q13_FAUX)
+**Quelle chaîne de montagnes forme une frontière naturelle entre la France et l'Italie et abrite le Mont Blanc ?**
+
+1) [Les Pyrénées.](EXAM_NAT_V06_Q13_FAUX)
+2) [Le Massif central.](EXAM_NAT_V06_Q13_FAUX)
+3) [Les Alpes.](EXAM_NAT_V06_Q13_VRAI)
+4) [Les Vosges.](EXAM_NAT_V06_Q13_FAUX)
 
 ## EXAM_NAT_V06_Q13_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q14)
@@ -60860,7 +61532,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q13 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q14)
 
@@ -60879,17 +61551,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?**
+<!-- Source naturalisation : NAT-T4-052 -->
 
-1) [16 ans.](EXAM_NAT_V06_Q14_FAUX)
-2) [17 ans.](EXAM_NAT_V06_Q14_FAUX)
-3) [18 ans.](EXAM_NAT_V06_Q14_VRAI)
-4) [21 ans.](EXAM_NAT_V06_Q14_FAUX)
+**Qui était Molière ?**
+
+1) [Un peintre.](EXAM_NAT_V06_Q14_FAUX)
+2) [Un roi.](EXAM_NAT_V06_Q14_FAUX)
+3) [Un scientifique.](EXAM_NAT_V06_Q14_FAUX)
+4) [Un dramaturge et comédien français.](EXAM_NAT_V06_Q14_VRAI)
 
 ## EXAM_NAT_V06_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q15)
@@ -60898,7 +61572,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q14 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q15)
 
@@ -60917,17 +61591,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Où peut-on voir la devise de la République ?**
+<!-- Source naturalisation : NAT-T4-053 -->
 
-1) [Uniquement sur les permis de conduire.](EXAM_NAT_V06_Q15_FAUX)
-2) [Uniquement sur les billets en euros.](EXAM_NAT_V06_Q15_FAUX)
-3) [Sur les bâtiments publics, notamment les mairies et les écoles.](EXAM_NAT_V06_Q15_VRAI)
-4) [Uniquement sur les passeports étrangers.](EXAM_NAT_V06_Q15_FAUX)
+**Qui était Charles Baudelaire, auteur des Fleurs du mal ?**
+
+1) [Un poète français.](EXAM_NAT_V06_Q15_VRAI)
+2) [Un peintre.](EXAM_NAT_V06_Q15_FAUX)
+3) [Un musicien.](EXAM_NAT_V06_Q15_FAUX)
+4) [Un homme politique.](EXAM_NAT_V06_Q15_FAUX)
 
 ## EXAM_NAT_V06_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q16)
@@ -60936,7 +61612,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q15 = 1`
 
-`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q16)
 
@@ -60955,12 +61631,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Lequel de ces personnages a un lien avec la République française ?**
+<!-- Source naturalisation : NAT-T4-054 -->
 
-1) [Louis XIV.](EXAM_NAT_V06_Q16_FAUX)
-2) [Charlemagne.](EXAM_NAT_V06_Q16_FAUX)
-3) [François Ier.](EXAM_NAT_V06_Q16_FAUX)
-4) [Jules Ferry.](EXAM_NAT_V06_Q16_VRAI)
+**Qui était George Sand ?**
+
+1) [Une peintre.](EXAM_NAT_V06_Q16_FAUX)
+2) [Une écrivaine française.](EXAM_NAT_V06_Q16_VRAI)
+3) [Une scientifique.](EXAM_NAT_V06_Q16_FAUX)
+4) [Une reine.](EXAM_NAT_V06_Q16_FAUX)
 
 ## EXAM_NAT_V06_Q16_VRAI
 
@@ -60974,7 +61652,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q16 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q17)
 
@@ -60993,12 +61671,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**Quelles sont les affaires traitées par le conseil de prud'hommes ?**
+<!-- Source naturalisation : NAT-T5-026 -->
 
-1) [Les divorces.](EXAM_NAT_V06_Q17_FAUX)
-2) [Les infractions pénales.](EXAM_NAT_V06_Q17_FAUX)
-3) [Les conflits entre un salarié et son employeur.](EXAM_NAT_V06_Q17_VRAI)
-4) [Les conflits entre voisins.](EXAM_NAT_V06_Q17_FAUX)
+**Qui peut demander un congé parental d'éducation ?**
+
+1) [Seulement la mère.](EXAM_NAT_V06_Q17_FAUX)
+2) [Le père ou la mère (les deux parents peuvent en bénéficier).](EXAM_NAT_V06_Q17_VRAI)
+3) [Seulement le père.](EXAM_NAT_V06_Q17_FAUX)
+4) [Les grands-parents.](EXAM_NAT_V06_Q17_FAUX)
 
 ## EXAM_NAT_V06_Q17_VRAI
 
@@ -61031,17 +61711,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Quand peut-on visiter gratuitement des lieux culturels en France ?**
+<!-- Source naturalisation : NAT-T5-027 -->
 
-1) [Le 14 juillet.](EXAM_NAT_V06_Q18_FAUX)
-2) [Le 25 décembre.](EXAM_NAT_V06_Q18_FAUX)
-3) [Lors des Journées européennes du patrimoine.](EXAM_NAT_V06_Q18_VRAI)
-4) [Tous les dimanches.](EXAM_NAT_V06_Q18_FAUX)
+**Une personne étrangère en situation régulière peut-elle créer une entreprise en France ?**
+
+1) [Non.](EXAM_NAT_V06_Q18_FAUX)
+2) [Seulement les Français.](EXAM_NAT_V06_Q18_FAUX)
+3) [Oui, si la personne est en situation régulière.](EXAM_NAT_V06_Q18_VRAI)
+4) [Seulement les citoyens européens.](EXAM_NAT_V06_Q18_FAUX)
 
 ## EXAM_NAT_V06_Q18_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q19)
@@ -61050,7 +61732,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q18 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q19)
 
@@ -61069,17 +61751,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**Qu'est-ce que la laïcité ?**
+<!-- Source naturalisation : NAT-T5-028 -->
 
-1) [L'interdiction des religions.](EXAM_NAT_V06_Q19_FAUX)
-2) [L'obligation de ne pas croire.](EXAM_NAT_V06_Q19_FAUX)
-3) [Une religion officielle.](EXAM_NAT_V06_Q19_FAUX)
-4) [La séparation des Églises et de l'État, garantissant la liberté de conscience et l'égalité de tous.](EXAM_NAT_V06_Q19_VRAI)
+**Une femme peut-elle créer une entreprise en France ?**
+
+1) [Non.](EXAM_NAT_V06_Q19_FAUX)
+2) [Seulement avec l'accord de son mari.](EXAM_NAT_V06_Q19_FAUX)
+3) [Seulement après 30 ans.](EXAM_NAT_V06_Q19_FAUX)
+4) [Oui.](EXAM_NAT_V06_Q19_VRAI)
 
 ## EXAM_NAT_V06_Q19_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q20)
@@ -61088,7 +61772,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q19 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q20)
 
@@ -61107,17 +61791,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**Quelle peine a été supprimée en 1981 ?**
+<!-- Source naturalisation : NAT-T5-029 -->
 
-1) [La prison à perpétuité.](EXAM_NAT_V06_Q20_FAUX)
-2) [L'amende.](EXAM_NAT_V06_Q20_FAUX)
-3) [Les travaux d'intérêt général.](EXAM_NAT_V06_Q20_FAUX)
-4) [La peine de mort.](EXAM_NAT_V06_Q20_VRAI)
+**Quels textes fixent les règles applicables aux salariés en France ?**
+
+1) [Le Code du travail et les conventions collectives.](EXAM_NAT_V06_Q20_VRAI)
+2) [Le Code de la route.](EXAM_NAT_V06_Q20_FAUX)
+3) [La Constitution uniquement.](EXAM_NAT_V06_Q20_FAUX)
+4) [Le règlement intérieur uniquement.](EXAM_NAT_V06_Q20_FAUX)
 
 ## EXAM_NAT_V06_Q20_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q21)
@@ -61126,7 +61812,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q20 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q21)
 
@@ -61145,17 +61831,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Que garantit le principe de laïcité ?**
+<!-- Source naturalisation : NAT-T5-030 -->
 
-1) [L'interdiction des religions.](EXAM_NAT_V06_Q21_FAUX)
-2) [Une religion officielle.](EXAM_NAT_V06_Q21_FAUX)
-3) [L'obligation de croire.](EXAM_NAT_V06_Q21_FAUX)
-4) [La liberté de conscience, l'égalité de tous devant la loi et la neutralité de l'État.](EXAM_NAT_V06_Q21_VRAI)
+**Quel type de litige le conseil de prud'hommes traite-t-il ?**
+
+1) [Les divorces.](EXAM_NAT_V06_Q21_FAUX)
+2) [Les conflits entre employeurs et salariés.](EXAM_NAT_V06_Q21_VRAI)
+3) [Les affaires pénales.](EXAM_NAT_V06_Q21_FAUX)
+4) [Les conflits entre voisins.](EXAM_NAT_V06_Q21_FAUX)
 
 ## EXAM_NAT_V06_Q21_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q22)
@@ -61164,7 +61852,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q21 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q22)
 
@@ -61183,17 +61871,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
-**Où siège la Banque centrale européenne (BCE) ?**
+<!-- Source naturalisation : NAT-T1-021 -->
 
-1) [Bruxelles.](EXAM_NAT_V06_Q22_FAUX)
-2) [Strasbourg.](EXAM_NAT_V06_Q22_FAUX)
-3) [Luxembourg.](EXAM_NAT_V06_Q22_FAUX)
-4) [À Francfort (Allemagne).](EXAM_NAT_V06_Q22_VRAI)
+**Sur quel document peut-on voir Marianne ?**
+
+1) [Sur les timbres, les pièces de monnaie ou les documents officiels de la République.](EXAM_NAT_V06_Q22_VRAI)
+2) [Uniquement sur le permis de conduire.](EXAM_NAT_V06_Q22_FAUX)
+3) [Uniquement sur les billets en euros.](EXAM_NAT_V06_Q22_FAUX)
+4) [Uniquement sur les passeports étrangers.](EXAM_NAT_V06_Q22_FAUX)
 
 ## EXAM_NAT_V06_Q22_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q23)
@@ -61202,7 +61892,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q22 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q23)
 
@@ -61221,12 +61911,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**Une personne déclare ne croire en aucun dieu. On peut dire :**
+<!-- Source naturalisation : NAT-T1-022 -->
 
-1) [Qu'elle a moins de droits que les autres citoyens.](EXAM_NAT_V06_Q23_FAUX)
-2) [Qu'elle a les mêmes droits et devoirs que les autres citoyens.](EXAM_NAT_V06_Q23_VRAI)
-3) [Qu'elle doit choisir une religion avant sa naturalisation.](EXAM_NAT_V06_Q23_FAUX)
-4) [Qu'elle ne peut pas exercer certains métiers publics.](EXAM_NAT_V06_Q23_FAUX)
+**Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
+
+1) [Tout le monde est identique.](EXAM_NAT_V06_Q23_FAUX)
+2) [Toutes les personnes sont égales en droits devant la loi, sans discrimination.](EXAM_NAT_V06_Q23_VRAI)
+3) [Tout le monde gagne le même salaire.](EXAM_NAT_V06_Q23_FAUX)
+4) [Tout le monde pense la même chose.](EXAM_NAT_V06_Q23_FAUX)
 
 ## EXAM_NAT_V06_Q23_VRAI
 
@@ -61240,7 +61932,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q23 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q24)
 
@@ -61259,17 +61951,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**Quelle est la population approximative de la France en 2025 ?**
+<!-- Source naturalisation : NAT-T1-023 -->
 
-1) [50 millions.](EXAM_NAT_V06_Q24_FAUX)
-2) [68 millions.](EXAM_NAT_V06_Q24_VRAI)
-3) [60 millions.](EXAM_NAT_V06_Q24_FAUX)
-4) [57 millions.](EXAM_NAT_V06_Q24_FAUX)
+**Une personne peut-elle changer librement de religion en France ?**
+
+1) [Non, c'est interdit.](EXAM_NAT_V06_Q24_FAUX)
+2) [Seulement avec l'accord de l'État.](EXAM_NAT_V06_Q24_FAUX)
+3) [Oui, chacun est libre de changer de religion.](EXAM_NAT_V06_Q24_VRAI)
+4) [Seulement à partir de 18 ans.](EXAM_NAT_V06_Q24_FAUX)
 
 ## EXAM_NAT_V06_Q24_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q25)
@@ -61278,7 +61972,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q24 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q25)
 
@@ -61297,17 +61991,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**Quel est l'un des premiers devoirs de tout citoyen ?**
+<!-- Source naturalisation : NAT-T1-024 -->
 
-1) [Voter à toutes les élections.](EXAM_NAT_V06_Q25_FAUX)
-2) [Être bénévole.](EXAM_NAT_V06_Q25_FAUX)
-3) [Appartenir à une association.](EXAM_NAT_V06_Q25_FAUX)
-4) [Respecter les lois.](EXAM_NAT_V06_Q25_VRAI)
+**Selon le principe de laïcité, que signifie la neutralité de l'État ?**
+
+1) [L'État interdit les religions.](EXAM_NAT_V06_Q25_FAUX)
+2) [L'État choisit une religion officielle.](EXAM_NAT_V06_Q25_FAUX)
+3) [L'État finance toutes les religions.](EXAM_NAT_V06_Q25_FAUX)
+4) [L'État ne favorise ni ne défavorise aucune religion.](EXAM_NAT_V06_Q25_VRAI)
 
 ## EXAM_NAT_V06_Q25_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q26)
@@ -61316,7 +62012,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q25 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q26)
 
@@ -61335,17 +62031,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**A-t-on l'obligation de porter assistance à une personne en danger ?**
+<!-- Source naturalisation : NAT-T2-032 -->
 
-1) [Non.](EXAM_NAT_V06_Q26_FAUX)
-2) [Seulement les médecins.](EXAM_NAT_V06_Q26_FAUX)
-3) [Seulement les policiers.](EXAM_NAT_V06_Q26_FAUX)
-4) [Oui, dans la mesure où cela ne met pas sa propre vie en danger.](EXAM_NAT_V06_Q26_VRAI)
+**Quel est le rôle du Conseil constitutionnel ?**
+
+1) [Il vote les lois.](EXAM_NAT_V06_Q26_FAUX)
+2) [Il dirige le Gouvernement.](EXAM_NAT_V06_Q26_FAUX)
+3) [Il veille au respect de la Constitution.](EXAM_NAT_V06_Q26_VRAI)
+4) [Il juge les crimes.](EXAM_NAT_V06_Q26_FAUX)
 
 ## EXAM_NAT_V06_Q26_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q27)
@@ -61354,7 +62052,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q26 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q27)
 
@@ -61373,12 +62071,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**Citez une condition nécessaire pour voter à l'élection présidentielle.**
+<!-- Source naturalisation : NAT-T2-033 -->
 
-1) [Avoir un emploi.](EXAM_NAT_V06_Q27_FAUX)
-2) [Être marié.](EXAM_NAT_V06_Q27_FAUX)
-3) [Payer des impôts.](EXAM_NAT_V06_Q27_FAUX)
-4) [Être de nationalité française, majeur et inscrit sur les listes électorales.](EXAM_NAT_V06_Q27_VRAI)
+**Que doit obtenir un candidat pour se présenter à l'élection présidentielle ?**
+
+1) [Être député.](EXAM_NAT_V06_Q27_FAUX)
+2) [Être ministre.](EXAM_NAT_V06_Q27_FAUX)
+3) [Être membre d'un parti politique.](EXAM_NAT_V06_Q27_FAUX)
+4) [Obtenir 500 parrainages d'élus.](EXAM_NAT_V06_Q27_VRAI)
 
 ## EXAM_NAT_V06_Q27_VRAI
 
@@ -61411,12 +62111,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
+<!-- Source naturalisation : NAT-T2-034 -->
+
 **Combien de départements compte la France ?**
 
-1) [96.](EXAM_NAT_V06_Q28_FAUX)
-2) [98.](EXAM_NAT_V06_Q28_FAUX)
-3) [13.](EXAM_NAT_V06_Q28_FAUX)
-4) [101.](EXAM_NAT_V06_Q28_VRAI)
+1) [101.](EXAM_NAT_V06_Q28_VRAI)
+2) [96.](EXAM_NAT_V06_Q28_FAUX)
+3) [98.](EXAM_NAT_V06_Q28_FAUX)
+4) [13.](EXAM_NAT_V06_Q28_FAUX)
 
 ## EXAM_NAT_V06_Q28_VRAI
 
@@ -61445,8 +62147,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V06_Q29
 
 `@err_NAT_V06_Q29 = 0`
-
 `@exam_variant = 6`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -61459,19 +62161,21 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-On vous demande de définir en une phrase ce qu'est la Constitution, pour un exposé de préparation civique.
+<!-- Source naturalisation : MS-NAT-T5-012 -->
 
-**Quelle définition choisissez-vous ?**
+Au travail, à l’école, dans le logement ou dans le système de santé, un proche souhaite vérifier la bonne démarche. Dans le groupe, la réponse « France Travail » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Une loi ordinaire.](EXAM_NAT_V06_Q29_FAUX)
-2) [Un règlement.](EXAM_NAT_V06_Q29_FAUX)
-3) [Un décret.](EXAM_NAT_V06_Q29_FAUX)
-4) [Le texte fondamental qui organise les institutions de la République et fixe les règles de leur fonctionnement.](EXAM_NAT_V06_Q29_VRAI)
+**Quel dispositif permet, sous conditions de ressources, de prendre en charge les frais de justice, notamment les honoraires d'avocat ?**
+
+1) [La CAF.](EXAM_NAT_V06_Q29_FAUX)
+2) [L'Assurance maladie.](EXAM_NAT_V06_Q29_FAUX)
+3) [France Travail.](EXAM_NAT_V06_Q29_FAUX)
+4) [L'aide juridictionnelle.](EXAM_NAT_V06_Q29_VRAI)
 
 ## EXAM_NAT_V06_Q29_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q30)
@@ -61480,7 +62184,7 @@ On vous demande de définir en une phrase ce qu'est la Constitution, pour un exp
 
 `@err_NAT_V06_Q29 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q30)
 
@@ -61499,14 +62203,16 @@ On vous demande de définir en une phrase ce qu'est la Constitution, pour un exp
 
 ### Question 30 sur 40
 
-Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolument tout ce qu'elle pense sur les autres, sans aucune limite, car « la liberté d'expression le permet ».
+<!-- Source naturalisation : MS-NAT-T1-011 -->
 
-**Que lui répondez-vous ?**
+Une personne de votre entourage prépare son entretien de naturalisation et vous demande de l’aider sur un principe républicain. Dans le groupe, la réponse « Oui, si c'est dans le cadre d'une manifestation » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Elle a le droit d'insulter les autres.](EXAM_NAT_V06_Q30_FAUX)
-2) [Elle peut diffamer une personne sans risque.](EXAM_NAT_V06_Q30_FAUX)
-3) [Elle peut exprimer ses opinions, mais dans le respect de la loi et des autres.](EXAM_NAT_V06_Q30_VRAI)
-4) [Elle peut inciter à la haine si c'est son opinion personnelle.](EXAM_NAT_V06_Q30_FAUX)
+**Peut-on brûler publiquement un drapeau français ?**
+
+1) [Oui.](EXAM_NAT_V06_Q30_FAUX)
+2) [Oui, si c'est dans le cadre d'une manifestation.](EXAM_NAT_V06_Q30_FAUX)
+3) [Non, cet acte peut être sanctionné par la loi.](EXAM_NAT_V06_Q30_VRAI)
+4) [Oui, au nom de la liberté d'expression.](EXAM_NAT_V06_Q30_FAUX)
 
 ## EXAM_NAT_V06_Q30_VRAI
 
@@ -61520,7 +62226,7 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 
 `@err_NAT_V06_Q30 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q31)
 
@@ -61539,19 +62245,21 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 
 ### Question 31 sur 40
 
-Un ami affirme que certaines personnes auraient moins de droits que d'autres, selon leur origine ou leur religion.
+<!-- Source naturalisation : MS-NAT-T1-012 -->
 
-**Que lui répondez-vous sur le principe de dignité humaine ?**
+Pendant une discussion sur la citoyenneté française, un proche hésite sur une règle ou un symbole de la République. Une personne hésite et choisit « 1958 ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Certaines personnes ont moins de droits.](EXAM_NAT_V06_Q31_FAUX)
-2) [Chaque personne doit être respectée et traitée avec dignité.](EXAM_NAT_V06_Q31_VRAI)
-3) [La dignité dépend de la nationalité.](EXAM_NAT_V06_Q31_FAUX)
-4) [La dignité dépend de la religion.](EXAM_NAT_V06_Q31_FAUX)
+**Quand la Sécurité sociale a-t-elle été établie en France ?**
+
+1) [1789.](EXAM_NAT_V06_Q31_FAUX)
+2) [1905.](EXAM_NAT_V06_Q31_FAUX)
+3) [1958.](EXAM_NAT_V06_Q31_FAUX)
+4) [1945.](EXAM_NAT_V06_Q31_VRAI)
 
 ## EXAM_NAT_V06_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q32)
@@ -61560,7 +62268,7 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 `@err_NAT_V06_Q31 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q32)
 
@@ -61579,19 +62287,21 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 ### Question 32 sur 40
 
-Lors d'un débat, un participant affirme que « l'égalité », dans la devise républicaine, signifie que tout le monde doit gagner le même salaire.
+<!-- Source naturalisation : MS-NAT-T2-017 -->
 
-**Comment corrigez-vous cette affirmation ?**
+Lors d’un atelier civique à la mairie, une personne cherche à comprendre le rôle des responsables publics et des institutions. Un proche pense que la bonne réponse pourrait être « Les citoyens choisissent les lois qu'ils respectent ». Aidez-le à raisonner.
 
-1) [L'égalité signifie que toutes les personnes ont les mêmes droits et devoirs devant la loi.](EXAM_NAT_V06_Q32_VRAI)
-2) [Cela signifie que tout le monde est identique.](EXAM_NAT_V06_Q32_FAUX)
-3) [Cela signifie que tout le monde gagne le même salaire.](EXAM_NAT_V06_Q32_FAUX)
-4) [Cela signifie que chacun fait ce qu'il veut, quand il veut.](EXAM_NAT_V06_Q32_FAUX)
+**Qu'est-ce qu'un État de droit ?**
+
+1) [Le Président décide seul.](EXAM_NAT_V06_Q32_FAUX)
+2) [L'État peut faire ce qu'il veut.](EXAM_NAT_V06_Q32_FAUX)
+3) [Les citoyens choisissent les lois qu'ils respectent.](EXAM_NAT_V06_Q32_FAUX)
+4) [Un État dans lequel tout le monde respecte la loi, y compris les pouvoirs publics.](EXAM_NAT_V06_Q32_VRAI)
 
 ## EXAM_NAT_V06_Q32_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q33)
@@ -61600,7 +62310,7 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 
 `@err_NAT_V06_Q32 = 1`
 
-`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q33)
 
@@ -61619,19 +62329,21 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 
 ### Question 33 sur 40
 
-Un ami confond ses droits et ses obligations et vous demande laquelle de ces propositions constitue une véritable obligation légale.
+<!-- Source naturalisation : MS-NAT-T2-018 -->
 
-**Laquelle choisissez-vous ?**
+Une discussion sur les élections amène votre entourage à vérifier une règle du système politique français. Dans le groupe, la réponse « 5 ans » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Choisir une religion.](EXAM_NAT_V06_Q33_FAUX)
-2) [Adhérer à une association.](EXAM_NAT_V06_Q33_FAUX)
-3) [Voter à toutes les élections.](EXAM_NAT_V06_Q33_FAUX)
-4) [Respecter la loi.](EXAM_NAT_V06_Q33_VRAI)
+**Pour combien de temps le maire et les conseillers municipaux sont-ils élus ?**
+
+1) [6 ans.](EXAM_NAT_V06_Q33_VRAI)
+2) [5 ans.](EXAM_NAT_V06_Q33_FAUX)
+3) [7 ans.](EXAM_NAT_V06_Q33_FAUX)
+4) [9 ans.](EXAM_NAT_V06_Q33_FAUX)
 
 ## EXAM_NAT_V06_Q33_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q34)
@@ -61640,7 +62352,7 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 
 `@err_NAT_V06_Q33 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q34)
 
@@ -61659,19 +62371,21 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 
 ### Question 34 sur 40
 
-Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
+<!-- Source naturalisation : MS-NAT-T2-019 -->
 
-**Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**
+Un proche prépare une démarche citoyenne et souhaite clarifier le fonctionnement de la République et de ses institutions. Une personne hésite et choisit « Les maires ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Elle sert à interdire toutes les religions.](EXAM_NAT_V06_Q34_FAUX)
-2) [Elle sert à favoriser une religion en particulier.](EXAM_NAT_V06_Q34_FAUX)
-3) [Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.](EXAM_NAT_V06_Q34_VRAI)
-4) [Elle empêche les élèves de parler de leur religion et de la promouvoir.](EXAM_NAT_V06_Q34_FAUX)
+**Qui est élu lors des élections législatives ?**
+
+1) [Les sénateurs.](EXAM_NAT_V06_Q34_FAUX)
+2) [Les députés.](EXAM_NAT_V06_Q34_VRAI)
+3) [Les maires.](EXAM_NAT_V06_Q34_FAUX)
+4) [Les ministres.](EXAM_NAT_V06_Q34_FAUX)
 
 ## EXAM_NAT_V06_Q34_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q35)
@@ -61680,7 +62394,7 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V06_Q34 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q35)
 
@@ -61699,19 +62413,21 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 ### Question 35 sur 40
 
-Vous préparez un exposé sur les symboles de la République et cherchez un site officiel fiable pour illustrer votre travail.
+<!-- Source naturalisation : MS-NAT-T3-011 -->
 
-**Quel site consultez-vous ?**
+Pendant un atelier d’accès aux droits, une personne vous demande de l’aider à identifier la règle applicable. Dans le groupe, la réponse « La Constitution » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Le site de l'Élysée.](EXAM_NAT_V06_Q35_VRAI)
-2) [Le site de la CAF.](EXAM_NAT_V06_Q35_FAUX)
-3) [Le site de France Travail.](EXAM_NAT_V06_Q35_FAUX)
-4) [Le site Ameli.](EXAM_NAT_V06_Q35_FAUX)
+**Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**
+
+1) [La Constitution.](EXAM_NAT_V06_Q35_FAUX)
+2) [Le Code civil.](EXAM_NAT_V06_Q35_FAUX)
+3) [La Déclaration des droits de l'Homme et du Citoyen de 1789.](EXAM_NAT_V06_Q35_VRAI)
+4) [La Charte de l'environnement.](EXAM_NAT_V06_Q35_FAUX)
 
 ## EXAM_NAT_V06_Q35_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q36)
@@ -61720,7 +62436,7 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 
 `@err_NAT_V06_Q35 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q36)
 
@@ -61739,14 +62455,16 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 
 ### Question 36 sur 40
 
-Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en connaître la signification exacte.
+<!-- Source naturalisation : MS-NAT-T3-012 -->
 
-**Que signifie ce sigle ?**
+Une personne de votre entourage rencontre une situation concrète et veut agir dans le respect de la loi française. Une personne hésite et choisit « Le Code pénal ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Protection médicale assistée.](EXAM_NAT_V06_Q36_FAUX)
-2) [Programme médical avancé.](EXAM_NAT_V06_Q36_FAUX)
-3) [Parcours médical administratif.](EXAM_NAT_V06_Q36_FAUX)
-4) [Procréation médicalement assistée.](EXAM_NAT_V06_Q36_VRAI)
+**Dans quel texte trouve-t-on la phrase « Les hommes naissent et demeurent libres et égaux en droits » ?**
+
+1) [La Constitution.](EXAM_NAT_V06_Q36_FAUX)
+2) [Le Code pénal.](EXAM_NAT_V06_Q36_FAUX)
+3) [La Convention européenne des droits de l'homme.](EXAM_NAT_V06_Q36_FAUX)
+4) [La Déclaration des droits de l'Homme et du Citoyen de 1789.](EXAM_NAT_V06_Q36_VRAI)
 
 ## EXAM_NAT_V06_Q36_VRAI
 
@@ -61779,19 +62497,21 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 ### Question 37 sur 40
 
-Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
+<!-- Source naturalisation : MS-NAT-T4-016 -->
 
-**Comment ce vers se poursuit-il ?**
+Lors d’une visite culturelle, une personne de votre entourage souhaite vérifier un repère sur l’histoire, la géographie ou le patrimoine français. Un participant propose la réponse « Une bataille ». Vous devez vérifier cette affirmation.
 
-1) [Le jour de gloire est arrivé.](EXAM_NAT_V06_Q37_VRAI)
-2) [Le droit d'exprimer librement ses opinions dans le respect de la loi.](EXAM_NAT_V06_Q37_FAUX)
-3) [À autoriser un étranger à séjourner légalement en France.](EXAM_NAT_V06_Q37_FAUX)
-4) [Se déplacer librement sur le territoire national et à l'étranger.](EXAM_NAT_V06_Q37_FAUX)
+**Qu'est-ce que la Shoah ?**
+
+1) [Une bataille.](EXAM_NAT_V06_Q37_FAUX)
+2) [Une religion.](EXAM_NAT_V06_Q37_FAUX)
+3) [La Première Guerre mondiale.](EXAM_NAT_V06_Q37_FAUX)
+4) [L'extermination des Juifs d'Europe par le régime nazi.](EXAM_NAT_V06_Q37_VRAI)
 
 ## EXAM_NAT_V06_Q37_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q38)
@@ -61800,7 +62520,7 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 
 `@err_NAT_V06_Q37 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q38)
 
@@ -61819,19 +62539,21 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 
 ### Question 38 sur 40
 
-Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionnés, puisqu'il s'agit selon lui simplement de son opinion personnelle.
+<!-- Source naturalisation : MS-NAT-T4-017 -->
 
-**Pour quel motif peut-on réellement limiter la liberté d'expression ?**
+Vous préparez une sortie en France et une discussion s’engage autour d’un lieu, d’une personnalité ou d’un événement important. Un proche pense que la bonne réponse pourrait être « Madame Bovary ». Aidez-le à raisonner.
 
-1) [Parce qu'une opinion déplaît.](EXAM_NAT_V06_Q38_FAUX)
-2) [Pour protéger les droits d'autrui, l'ordre public ou lutter contre les infractions prévues par la loi.](EXAM_NAT_V06_Q38_VRAI)
-3) [Pour interdire toute critique.](EXAM_NAT_V06_Q38_FAUX)
-4) [Sans justification particulière.](EXAM_NAT_V06_Q38_FAUX)
+**Laquelle de ces œuvres a été écrite par Victor Hugo ?**
+
+1) [Les Misérables.](EXAM_NAT_V06_Q38_VRAI)
+2) [Le Petit Prince.](EXAM_NAT_V06_Q38_FAUX)
+3) [Madame Bovary.](EXAM_NAT_V06_Q38_FAUX)
+4) [Germinal.](EXAM_NAT_V06_Q38_FAUX)
 
 ## EXAM_NAT_V06_Q38_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q39)
@@ -61840,7 +62562,7 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 `@err_NAT_V06_Q38 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q39)
 
@@ -61859,19 +62581,21 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 ### Question 39 sur 40
 
-Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réellement de faire en France, pensant que cela veut dire « choisir ses propres règles ».
+<!-- Source naturalisation : MS-NAT-T4-018 -->
 
-**Que pouvez-vous lui répondre ?**
+Au cours d’un atelier culturel, votre groupe doit reconnaître un repère essentiel de l’histoire ou de la géographie française. Dans le groupe, la réponse « Japon » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Il peut refuser de respecter les lois si elles sont contraires à ses principes.](EXAM_NAT_V06_Q39_FAUX)
-2) [Il peut imposer ses idées aux autres.](EXAM_NAT_V06_Q39_FAUX)
-3) [Il peut choisir ses propres règles.](EXAM_NAT_V06_Q39_FAUX)
-4) [Il peut choisir sa religion ou ne pas en avoir.](EXAM_NAT_V06_Q39_VRAI)
+**Citez un pays ayant été colonisé par la France.**
+
+1) [Espagne.](EXAM_NAT_V06_Q39_FAUX)
+2) [Algérie.](EXAM_NAT_V06_Q39_VRAI)
+3) [Allemagne.](EXAM_NAT_V06_Q39_FAUX)
+4) [Japon.](EXAM_NAT_V06_Q39_FAUX)
 
 ## EXAM_NAT_V06_Q39_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q40)
@@ -61880,7 +62604,7 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_NAT_V06_Q39 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V06_Q40)
 
@@ -61899,19 +62623,21 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 ### Question 40 sur 40
 
-Vous êtes témoin d'un accident de la route et une personne se trouve blessée au sol.
+<!-- Source naturalisation : MS-NAT-T5-011 -->
 
-**Quelle est la bonne attitude à adopter ?**
+Une famille récemment installée en France vous demande de l’aider à comprendre une règle pratique de la société française. Un proche pense que la bonne réponse pourrait être « Le père uniquement ». Aidez-le à raisonner.
 
-1) [Partir sans rien faire.](EXAM_NAT_V06_Q40_FAUX)
-2) [Porter secours ou appeler les services d'urgence.](EXAM_NAT_V06_Q40_VRAI)
-3) [Filmer la scène puis appeler les secours.](EXAM_NAT_V06_Q40_FAUX)
-4) [Attendre que quelqu'un d'autre intervienne.](EXAM_NAT_V06_Q40_FAUX)
+**Après un divorce, qui exerce l'autorité parentale sur les enfants ?**
+
+1) [La mère uniquement.](EXAM_NAT_V06_Q40_FAUX)
+2) [Le père uniquement.](EXAM_NAT_V06_Q40_FAUX)
+3) [Les deux parents, sauf décision contraire du juge.](EXAM_NAT_V06_Q40_VRAI)
+4) [Les grands-parents.](EXAM_NAT_V06_Q40_FAUX)
 
 ## EXAM_NAT_V06_Q40_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V06_RESULT)
@@ -61920,7 +62646,7 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 
 `@err_NAT_V06_Q40 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V06_RESULT)
 
@@ -61937,232 +62663,52 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V06_Q01 == 1`
-**1. Quel pays a une frontière terrestre avec la France métropolitaine ?**  
-✅ Espagne.
+**1. En quels niveaux le territoire français est-il découpé ?**  
+✅ Communes, départements et régions.
 
-La France métropolitaine partage une frontière terrestre avec huit pays.
+L'organisation territoriale de la France repose principalement sur trois niveaux de collectivités territoriales : les communes, les départements et les régions, chacun exerçant des compétences spécifiques.
 
-💡 À compléter
+💡 Retenez le mot-clé : organisation territoriale = communes + départements + régions
 `endif`
 
 `if @err_NAT_V06_Q02 == 1`
-**2. Comment demander une carte nationale d'identité ?**  
-✅ En faire la demande auprès d'une mairie équipée.
+**2. Qui est le préfet ?**  
+✅ Le représentant de l'État dans le département.
 
-La carte nationale d'identité est délivrée après dépôt d'un dossier dans une mairie habilitée à recueillir les demandes.
+Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État sur le territoire.
 
-💡 Retenez le mot-clé : carte nationale d'identité = demande en mairie équipée
+💡 Retenez le mot-clé : préfet = représentant de l'État dans le département
 `endif`
 
 `if @err_NAT_V06_Q03 == 1`
-**3. Quel est le rôle du maire ?**  
-✅ Il dirige la commune, applique les décisions du conseil municipal et assure notamment l'état civil.
+**3. Quel est le rôle du Président de la République ?**  
+✅ Il est le chef de l'État, veille au respect de la Constitution et assure le fonctionnement des institutions.
 
-Le maire est l'exécutif de la commune. Il met en œuvre les décisions du conseil municipal, gère les services municipaux et exerce certaines missions pour le compte de l'État, comme l'état civil.
+Le Président de la République est le chef de l'État. Il veille au respect de la Constitution, assure le fonctionnement régulier des pouvoirs publics et représente la France, notamment à l'étranger.
 
-💡 Retenez le mot-clé : maire = exécutif de la commune + état civil
+💡 Retenez le mot-clé : Président = chef de l'État + garant de la Constitution
 `endif`
 
 `if @err_NAT_V06_Q04 == 1`
-**4. Qui peut être candidat à l'élection présidentielle ?**  
-✅ Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).
+**4. Une personne peut-elle être mariée à plusieurs personnes en même temps en France ?**  
+✅ Non, la polygamie est interdite.
 
-Pour être candidat à l'élection présidentielle, il faut notamment être de nationalité française, majeur, jouir de ses droits civiques et réunir les conditions prévues par la loi, notamment les 500 parrainages d'élus.
+En France, la polygamie est interdite. Une personne ne peut être mariée qu'à une seule autre personne à la fois.
 
-💡 Retenez le mot-clé : candidat présidentielle = conditions légales + 500 parrainages
+💡 Retenez le mot-clé : mariage en France = une seule personne à la fois (polygamie interdite)
 `endif`
 
 `if @err_NAT_V06_Q05 == 1`
-**5. Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**  
-✅ 1962.
+**5. Doit-on déclarer ses revenus chaque année aux services fiscaux ?**  
+✅ Oui, c'est une obligation.
 
-Depuis le référendum de 1962, le président de la République est élu au suffrage universel direct par les citoyens.
+Toute personne concernée doit déclarer ses revenus chaque année. Cette déclaration permet à l'administration fiscale de calculer correctement l'impôt dû ou de constater qu'aucun impôt n'est à payer.
 
-💡 Retenez : 1962 = élection suffrage universel direct (sans intermédiaire)
+💡 Retenez le mot-clé : déclaration de revenus = obligation annuelle
 `endif`
 
 `if @err_NAT_V06_Q06 == 1`
-**6. Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?**  
-✅ L'Afrique.
-
-Après la Seconde Guerre mondiale, de nombreux territoires français situés en Afrique accèdent progressivement à l'indépendance.
-
-💡 Retenez : Départ des colonies françaises en Afrique après la guerre
-`endif`
-
-`if @err_NAT_V06_Q07 == 1`
-**7. La privation des droits civiques est réservée aux infractions les plus graves. Laquelle de ces situations peut être concernée ?**  
-✅ Un crime comme le terrorisme ou la corruption.
-
-La peine d'inéligibilité ou de privation de droits civiques est réservée aux infractions graves, notamment celles portant atteinte à la nation, aux droits des Hommes, à la vie publique et politique.
-
-💡 Retenez le mot-clé : privation des droits civiques = infractions les plus graves (terrorisme, corruption...)
-`endif`
-
-`if @err_NAT_V06_Q08 == 1`
-**8. Quel est l'âge de la majorité ?**  
-✅ 18 ans.
-
-En France, la majorité est fixée à 18 ans. À partir de cet âge, une personne devient juridiquement majeure et exerce pleinement ses droits civils.
-
-💡 Retenez : Majorité = 18 ans en France
-`endif`
-
-`if @err_NAT_V06_Q09 == 1`
-**9. Où peut-on déposer un lave-vaisselle cassé ?**  
-✅ Dans une déchèterie ou un point de collecte prévu pour les encombrants.
-
-Les appareils électroménagers usagés doivent être déposés dans une déchèterie ou repris par un distributeur lors de l'achat d'un appareil neuf. Ils ne doivent pas être abandonnés sur la voie publique.
-
-💡 Retenez : Pour tous déchets encombrants que vous ne pouvez pas jeter à la poubelle, rendez-vous dans une déchèterie
-`endif`
-
-`if @err_NAT_V06_Q10 == 1`
-**10. Citez une condition pour être candidat aux élections municipales.**  
-✅ Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).
-
-Pour être candidat aux élections municipales, il faut notamment être majeur et remplir les conditions d'éligibilité prévues par la loi. Les citoyens de l'Union européenne résidant en France peuvent également être candidats.
-
-💡 Retenez le mot-clé : candidat municipales = majeur + conditions légales (nationalité FR ou UE)
-`endif`
-
-`if @err_NAT_V06_Q11 == 1`
-**11. En 1944, qu'est-ce qui a changé pour les femmes ?**  
-✅ Elles ont obtenu le droit de vote et d'éligibilité.
-
-L'ordonnance du 21 avril 1944 accorde aux femmes le droit de vote et d'éligibilité. Elles votent pour la première fois en 1945.
-
-💡 Retenez : 1944 = droit de vote des femmes
-`endif`
-
-`if @err_NAT_V06_Q12 == 1`
-**12. Quel motif d'absence est accepté par l'école ?**  
-✅ Un enfant malade.
-
-Les absences scolaires doivent être justifiées. La maladie fait partie des motifs légitimes prévus par la réglementation.
-
-💡 Retenez : Une absence scolaire doit être justifié (ex : maladie, hospitalisation…)
-`endif`
-
-`if @err_NAT_V06_Q13 == 1`
-**13. Selon la Constitution, la France est une République...**  
-✅ Indivisible, laïque, démocratique et sociale.
-
-L'article 1er de la Constitution dispose que « La France est une République indivisible, laïque, démocratique et sociale. »
-
-💡 Retenez le mot-clé : article 1er = indivisible, laïque, démocratique, sociale
-`endif`
-
-`if @err_NAT_V06_Q14 == 1`
-**14. À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?**  
-✅ 18 ans.
-
-En France, la vente de boissons alcoolisées est interdite aux mineurs de moins de 18 ans, afin de protéger leur santé.
-
-💡 Retenez le mot-clé : vente d'alcool = interdite aux moins de 18 ans
-`endif`
-
-`if @err_NAT_V06_Q15 == 1`
-**15. Où peut-on voir la devise de la République ?**  
-✅ Sur les bâtiments publics, notamment les mairies et les écoles.
-
-La devise « Liberté, Égalité, Fraternité » est visible sur de nombreux bâtiments publics, notamment les mairies et les établissements scolaires.
-
-💡 Retenez le mot-clé : devise = mairies, écoles, bâtiments publics
-`endif`
-
-`if @err_NAT_V06_Q16 == 1`
-**16. Lequel de ces personnages a un lien avec la République française ?**  
-✅ Jules Ferry.
-
-Jules Ferry est connu pour les lois qui ont rendu l'école gratuite, laïque et obligatoire. Son action est étroitement liée aux valeurs de la République.
-
-💡 Retenez : Jules Ferry a rendu l'école obligatoire
-`endif`
-
-`if @err_NAT_V06_Q17 == 1`
-**17. Quelles sont les affaires traitées par le conseil de prud'hommes ?**  
-✅ Les conflits entre un salarié et son employeur.
-
-Le conseil de prud'hommes est un tribunal spécialisé qui traite les litiges individuels liés au contrat de travail entre salariés et employeurs.
-
-💡 Retenez : Les Prud'hommes = conflits de travail
-`endif`
-
-`if @err_NAT_V06_Q18 == 1`
-**18. Quand peut-on visiter gratuitement des lieux culturels en France ?**  
-✅ Lors des Journées européennes du patrimoine.
-
-Chaque année, les Journées européennes du patrimoine permettent au public de visiter gratuitement de nombreux monuments et lieux habituellement fermés ou payants.
-
-💡 Retenez: Journée du patrimoine = visite gratuite (musées, monuments…)
-`endif`
-
-`if @err_NAT_V06_Q19 == 1`
-**19. Qu'est-ce que la laïcité ?**  
-✅ La séparation des Églises et de l'État, garantissant la liberté de conscience et l'égalité de tous.
-
-La laïcité est un principe fondamental de la République française. Elle repose sur la séparation des Églises et de l'État, garantit la liberté de conscience et assure la neutralité de l'État vis-à-vis des religions.
-
-💡 Retenez le mot-clé : laïcité = séparation Églises/État + liberté de conscience + égalité
-`endif`
-
-`if @err_NAT_V06_Q20 == 1`
-**20. Quelle peine a été supprimée en 1981 ?**  
-✅ La peine de mort.
-
-La peine de mort a été abolie en France en 1981 grâce à la loi portée par Robert Badinter, sous la présidence de François Mitterrand.
-
-💡 Retenez : 1981 = abandon de la peine de mort
-`endif`
-
-`if @err_NAT_V06_Q21 == 1`
-**21. Que garantit le principe de laïcité ?**  
-✅ La liberté de conscience, l'égalité de tous devant la loi et la neutralité de l'État.
-
-La laïcité garantit à chacun la liberté de croire ou de ne pas croire. Elle assure également la neutralité de l'État et l'égalité entre tous les citoyens.
-
-💡 Retenez le mot-clé : laïcité = liberté de conscience + neutralité + égalité
-`endif`
-
-`if @err_NAT_V06_Q22 == 1`
-**22. Où siège la Banque centrale européenne (BCE) ?**  
-✅ À Francfort (Allemagne).
-
-La Banque centrale européenne (BCE) est installée à Francfort, en Allemagne. Elle est responsable de la politique monétaire de la zone euro.
-
-💡 Retenez le mot-clé : BCE = Francfort (Allemagne)
-`endif`
-
-`if @err_NAT_V06_Q23 == 1`
-**23. Une personne déclare ne croire en aucun dieu. On peut dire :**  
-✅ Qu'elle a les mêmes droits et devoirs que les autres citoyens.
-
-Une personne qui ne croit en aucun dieu (on parle d'athéisme) a les mêmes devoirs et droits que les autres. Cela relève de la liberté de conscience : la République garantit à chacun le droit de croire, de ne pas croire ou de changer de religion.
-
-💡 Retenez le mot-clé : athée = mêmes droits et devoirs que tout citoyen
-`endif`
-
-`if @err_NAT_V06_Q24 == 1`
-**24. Quelle est la population approximative de la France en 2025 ?**  
-✅ 68 millions.
-
-En 2025, la France compte environ 68 millions d'habitants. Ce chiffre peut évoluer légèrement au fil des années.
-
-💡 Retenez le mot-clé : Population France = 68 millions
-`endif`
-
-`if @err_NAT_V06_Q25 == 1`
-**25. Quel est l'un des premiers devoirs de tout citoyen ?**  
-✅ Respecter les lois.
-
-Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. Le premier d'entre eux est de respecter les lois de la République.
-
-💡 Retenez le mot-clé : premier devoir du citoyen = respecter les lois
-`endif`
-
-`if @err_NAT_V06_Q26 == 1`
-**26. A-t-on l'obligation de porter assistance à une personne en danger ?**  
+**6. A-t-on l'obligation de porter assistance à une personne en danger ?**  
 ✅ Oui, dans la mesure où cela ne met pas sa propre vie en danger.
 
 La loi sanctionne la non-assistance à personne en danger. Porter secours peut consister à intervenir directement si cela est possible ou à prévenir les services de secours.
@@ -62170,13 +62716,193 @@ La loi sanctionne la non-assistance à personne en danger. Porter secours peut c
 💡 Retenez le mot-clé : personne en danger = obligation de porter assistance (sans se mettre en danger)
 `endif`
 
+`if @err_NAT_V06_Q07 == 1`
+**7. Pour un citoyen tiré au sort, être juré à la cour d'assises est :**  
+✅ Un devoir civique obligatoire.
+
+Les citoyens tirés au sort pour être jurés d'assises doivent accomplir cette mission et ne peuvent la refuser (sauf motif validé par la commission). Il s'agit d'une participation à la justice rendue au nom du peuple français.
+
+💡 Retenez le mot-clé : juré d'assises = devoir civique obligatoire
+`endif`
+
+`if @err_NAT_V06_Q08 == 1`
+**8. Qui a peint la célèbre série des Nymphéas ?**  
+✅ Claude Monet.
+
+Les Nymphéas sont une série de tableaux réalisés par Claude Monet, l'un des principaux représentants de l'impressionnisme. Une grande partie est exposée au musée de l'Orangerie à Paris.
+
+💡 Retenez le mot-clé : Nymphéas = Claude Monet
+`endif`
+
+`if @err_NAT_V06_Q09 == 1`
+**9. Quel événement permet chaque année de visiter gratuitement de nombreux monuments habituellement payants ?**  
+✅ Les Journées européennes du patrimoine.
+
+Chaque année, les Journées européennes du patrimoine ouvrent gratuitement au public des milliers de monuments, musées et bâtiments habituellement fermés ou payants.
+
+💡 Retenez le mot-clé : visites gratuites de monuments = Journées européennes du patrimoine (septembre)
+`endif`
+
+`if @err_NAT_V06_Q10 == 1`
+**10. Que célèbre-t-on le 1er mai en France ?**  
+✅ La fête du Travail.
+
+Le 1er mai est la fête du Travail. C'est un jour férié en France, associé aux droits des travailleurs. Il est également traditionnel d'offrir du muguet ce jour-là.
+
+💡 Retenez le mot-clé : 1er mai = fête du Travail (muguet)
+`endif`
+
+`if @err_NAT_V06_Q11 == 1`
+**11. Qui est l'auteur de la Marseillaise ?**  
+✅ Claude Joseph Rouget de Lisle.
+
+Claude Joseph Rouget de Lisle compose La Marseillaise en 1792. Ce chant révolutionnaire devient ensuite l'hymne national de la République française.
+
+💡 Retenez le mot-clé : auteur de la Marseillaise = Rouget de Lisle (1792)
+`endif`
+
+`if @err_NAT_V06_Q12 == 1`
+**12. Pour quel événement la tour Eiffel a-t-elle été construite en 1889 ?**  
+✅ L'Exposition universelle.
+
+La Tour Eiffel, inaugurée en 1889, est construite pour l'Exposition universelle organisée à Paris à l'occasion du centenaire de la Révolution française.
+
+💡 Retenez le mot-clé : tour Eiffel (1889) = Exposition universelle
+`endif`
+
+`if @err_NAT_V06_Q13 == 1`
+**13. Quelle chaîne de montagnes forme une frontière naturelle entre la France et l'Italie et abrite le Mont Blanc ?**  
+✅ Les Alpes.
+
+Les Alpes forment une frontière naturelle entre la France et l'Italie. Elles abritent le Mont Blanc, point culminant de la France.
+
+💡 Retenez le mot-clé : frontière France-Italie = les Alpes (Mont Blanc)
+`endif`
+
+`if @err_NAT_V06_Q14 == 1`
+**14. Qui était Molière ?**  
+✅ Un dramaturge et comédien français.
+
+Molière (Jean-Baptiste Poquelin) est l'auteur de nombreuses comédies célèbres comme Le Misanthrope, L'Avare ou Le Bourgeois gentilhomme.
+
+💡 Retenez le mot-clé : Molière = dramaturge et comédien français
+`endif`
+
+`if @err_NAT_V06_Q15 == 1`
+**15. Qui était Charles Baudelaire, auteur des Fleurs du mal ?**  
+✅ Un poète français.
+
+Charles Baudelaire est l'un des plus grands poètes français du XIXᵉ siècle. Son œuvre la plus célèbre est Les Fleurs du mal.
+
+💡 Retenez le mot-clé : Baudelaire = poète français (Les Fleurs du mal)
+`endif`
+
+`if @err_NAT_V06_Q16 == 1`
+**16. Qui était George Sand ?**  
+✅ Une écrivaine française.
+
+George Sand, de son vrai nom Aurore Dupin, est une grande romancière française du XIXᵉ siècle. Elle est connue pour son engagement en faveur de la liberté et de l'égalité.
+
+💡 Retenez le mot-clé : George Sand = écrivaine française (XIXe siècle)
+`endif`
+
+`if @err_NAT_V06_Q17 == 1`
+**17. Qui peut demander un congé parental d'éducation ?**  
+✅ Le père ou la mère (les deux parents peuvent en bénéficier).
+
+Le congé parental d'éducation permet à un salarié de suspendre ou réduire son activité pour s'occuper de son enfant. Il est accessible au père comme à la mère.
+
+💡 Retenez le mot-clé : congé parental = accessible au père et à la mère
+`endif`
+
+`if @err_NAT_V06_Q18 == 1`
+**18. Une personne étrangère en situation régulière peut-elle créer une entreprise en France ?**  
+✅ Oui, si la personne est en situation régulière.
+
+La création d'entreprise est ouverte aux personnes étrangères en situation régulière, selon leur titre de séjour et les règles applicables.
+
+💡 Retenez le mot-clé : étranger en situation régulière = peut créer une entreprise
+`endif`
+
+`if @err_NAT_V06_Q19 == 1`
+**19. Une femme peut-elle créer une entreprise en France ?**  
+✅ Oui.
+
+En France, les femmes disposent des mêmes droits que les hommes pour créer une entreprise et exercer une activité professionnelle.
+
+💡 Retenez le mot-clé : création d'entreprise = mêmes droits pour les femmes et les hommes
+`endif`
+
+`if @err_NAT_V06_Q20 == 1`
+**20. Quels textes fixent les règles applicables aux salariés en France ?**  
+✅ Le Code du travail et les conventions collectives.
+
+Le Code du travail fixe les règles générales applicables aux salariés. Les conventions collectives peuvent prévoir des dispositions plus favorables selon les professions.
+
+💡 Retenez le mot-clé : règles du travail = Code du travail + conventions collectives
+`endif`
+
+`if @err_NAT_V06_Q21 == 1`
+**21. Quel type de litige le conseil de prud'hommes traite-t-il ?**  
+✅ Les conflits entre employeurs et salariés.
+
+Le conseil de prud'hommes est une juridiction spécialisée qui traite les conflits individuels entre employeurs et salariés (licenciement, salaire, contrat de travail, etc.).
+
+💡 Retenez le mot-clé : prud'hommes = conflits employeur-salarié
+`endif`
+
+`if @err_NAT_V06_Q22 == 1`
+**22. Sur quel document peut-on voir Marianne ?**  
+✅ Sur les timbres, les pièces de monnaie ou les documents officiels de la République.
+
+Marianne est la représentation officielle de la République française. Son effigie est présente sur plusieurs documents et symboles officiels.
+
+💡 Retenez le mot-clé : Marianne = timbres, pièces, documents officiels
+`endif`
+
+`if @err_NAT_V06_Q23 == 1`
+**23. Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**  
+✅ Toutes les personnes sont égales en droits devant la loi, sans discrimination.
+
+L'égalité est une valeur fondamentale de la République. Elle garantit que chacun est traité de la même manière par la loi, quelles que soient son origine, son sexe, sa religion ou ses convictions.
+
+💡 Retenez le mot-clé : égalité = mêmes droits devant la loi, sans discrimination
+`endif`
+
+`if @err_NAT_V06_Q24 == 1`
+**24. Une personne peut-elle changer librement de religion en France ?**  
+✅ Oui, chacun est libre de changer de religion.
+
+La liberté de conscience garantit à chacun le droit de croire, de changer de religion ou de ne pratiquer aucune religion.
+
+💡 Retenez le mot-clé : liberté de conscience = droit de changer de religion
+`endif`
+
+`if @err_NAT_V06_Q25 == 1`
+**25. Selon le principe de laïcité, que signifie la neutralité de l'État ?**  
+✅ L'État ne favorise ni ne défavorise aucune religion.
+
+La neutralité de l'État est l'un des principes de la laïcité. Elle garantit l'égalité de traitement de tous les citoyens, quelles que soient leurs convictions religieuses.
+
+💡 Retenez le mot-clé : neutralité de l'État = ne favorise ni ne défavorise aucune religion
+`endif`
+
+`if @err_NAT_V06_Q26 == 1`
+**26. Quel est le rôle du Conseil constitutionnel ?**  
+✅ Il veille au respect de la Constitution.
+
+Le Conseil constitutionnel contrôle la conformité des lois à la Constitution et veille au bon déroulement de certaines élections et référendums.
+
+💡 Retenez le mot-clé : Conseil constitutionnel = contrôle la conformité des lois à la Constitution
+`endif`
+
 `if @err_NAT_V06_Q27 == 1`
-**27. Citez une condition nécessaire pour voter à l'élection présidentielle.**  
-✅ Être de nationalité française, majeur et inscrit sur les listes électorales.
+**27. Que doit obtenir un candidat pour se présenter à l'élection présidentielle ?**  
+✅ Obtenir 500 parrainages d'élus.
 
-Pour voter à l'élection présidentielle, plusieurs conditions doivent être remplies, notamment être français, majeur, inscrit sur une liste électorale et disposer de ses droits civils et politiques.
+Parmi les conditions prévues par la loi, un candidat à l'élection présidentielle doit recueillir 500 présentations (parrainages) d'élus habilités.
 
-💡 Retenez le mot-clé : voter = nationalité française + majeur + inscrit sur les listes
+💡 Retenez le mot-clé : candidature présidentielle = 500 parrainages d'élus
 `endif`
 
 `if @err_NAT_V06_Q28 == 1`
@@ -62195,87 +62921,87 @@ La France compte 101 départements : 96 en métropole et 5 en outre-mer.
 `endif`
 
 `if @err_NAT_V06_Q29 == 1`
-**29. Quelle définition choisissez-vous ?**  
-✅ Le texte fondamental qui organise les institutions de la République et fixe les règles de leur fonctionnement.
+**29. Quel dispositif permet, sous conditions de ressources, de prendre en charge les frais de justice, notamment les honoraires d'avocat ?**  
+✅ L'aide juridictionnelle.
 
-La Constitution est la norme juridique la plus importante en France. Elle définit les principes de la République, les droits fondamentaux et l'organisation des pouvoirs publics.
+La bonne réponse est « L'aide juridictionnelle ». L'aide juridictionnelle permet, sous conditions de ressources, de prendre en charge tout ou partie des frais de justice, notamment les honoraires d'un avocat.
 `endif`
 
 `if @err_NAT_V06_Q30 == 1`
-**30. Que lui répondez-vous ?**  
-✅ Elle peut exprimer ses opinions, mais dans le respect de la loi et des autres.
+**30. Peut-on brûler publiquement un drapeau français ?**  
+✅ Non, cet acte peut être sanctionné par la loi.
 
-La liberté d'expression est une liberté fondamentale, mais elle n'est pas absolue : elle permet d'exprimer ses idées à condition de respecter la loi (pas d'injure, de diffamation ni d'incitation à la haine) et les autres personnes.
+La bonne réponse est « Non, cet acte peut être sanctionné par la loi ». Le drapeau tricolore est un symbole de la République. Son outrage public est réprimé dans les cas prévus par la loi.
 `endif`
 
 `if @err_NAT_V06_Q31 == 1`
-**31. Que lui répondez-vous sur le principe de dignité humaine ?**  
-✅ Chaque personne doit être respectée et traitée avec dignité.
+**31. Quand la Sécurité sociale a-t-elle été établie en France ?**  
+✅ 1945.
 
-La dignité humaine est un principe fondamental de la République française. Chaque personne doit être traitée avec respect et bénéficie des mêmes droits fondamentaux, quelle que soit son origine ou sa religion.
+La bonne réponse est « 1945 ». La Sécurité sociale a été créée en 1945, après la Seconde Guerre mondiale, afin de protéger les personnes contre les principaux risques de la vie (maladie, vieillesse, famille, accidents du travail...).
 `endif`
 
 `if @err_NAT_V06_Q32 == 1`
-**32. Comment corrigez-vous cette affirmation ?**  
-✅ L'égalité signifie que toutes les personnes ont les mêmes droits et devoirs devant la loi.
+**32. Qu'est-ce qu'un État de droit ?**  
+✅ Un État dans lequel tout le monde respecte la loi, y compris les pouvoirs publics.
 
-L'égalité est l'un des principes fondamentaux de la République. Elle garantit que la loi s'applique de la même manière à toutes les personnes, sans viser une identité de revenus ou de mode de vie.
+La bonne réponse est « Un État dans lequel tout le monde respecte la loi, y compris les pouvoirs publics ». L'État de droit garantit que les lois s'appliquent à tous de la même manière. Les autorités publiques doivent également respecter la Constitution et les lois.
 `endif`
 
 `if @err_NAT_V06_Q33 == 1`
-**33. Laquelle choisissez-vous ?**  
-✅ Respecter la loi.
+**33. Pour combien de temps le maire et les conseillers municipaux sont-ils élus ?**  
+✅ 6 ans.
 
-Toutes les personnes présentes en France doivent respecter les lois : c'est une obligation. Choisir une religion, adhérer à une association ou voter sont, en revanche, des libertés ou des droits, pas des obligations.
+La bonne réponse est « 6 ans ». Les conseillers municipaux sont élus pour six ans. Ils élisent ensuite le maire, qui exerce lui aussi un mandat de six ans.
 `endif`
 
 `if @err_NAT_V06_Q34 == 1`
-**34. Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**  
-✅ Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.
+**34. Qui est élu lors des élections législatives ?**  
+✅ Les députés.
 
-L'école publique accueille tous les élèves sans distinction de religion ou de conviction. La laïcité garantit la liberté de conscience de chacun et la neutralité de l'établissement, sans interdire ni imposer aucune religion.
+La bonne réponse est « Les députés ». Les élections législatives permettent d'élire les députés qui siègent à l'Assemblée nationale et participent au vote des lois.
 `endif`
 
 `if @err_NAT_V06_Q35 == 1`
-**35. Quel site consultez-vous ?**  
-✅ Le site de l'Élysée.
+**35. Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**  
+✅ La Déclaration des droits de l'Homme et du Citoyen de 1789.
 
-Le site officiel de la Présidence de la République présente les symboles de la République française : le drapeau, Marianne, la Marseillaise et la devise. La CAF, France Travail et Ameli sont des sites de services publics sans lien avec ce sujet.
+La bonne réponse est « La Déclaration des droits de l'Homme et du Citoyen de 1789 ». Adoptée en 1789 pendant la Révolution française, la Déclaration des droits de l'Homme et du Citoyen affirme les droits fondamentaux et inspire encore aujourd'hui le droit français.
 `endif`
 
 `if @err_NAT_V06_Q36 == 1`
-**36. Que signifie ce sigle ?**  
-✅ Procréation médicalement assistée.
+**36. Dans quel texte trouve-t-on la phrase « Les hommes naissent et demeurent libres et égaux en droits » ?**  
+✅ La Déclaration des droits de l'Homme et du Citoyen de 1789.
 
-La PMA signifie « Procréation médicalement assistée ». Elle regroupe les techniques médicales permettant d'aider à concevoir un enfant, dans les conditions prévues par la loi.
+La bonne réponse est « La Déclaration des droits de l'Homme et du Citoyen de 1789 ». L'article premier de la Déclaration de 1789 affirme cette phrase, l'un des fondements des valeurs républicaines françaises.
 `endif`
 
 `if @err_NAT_V06_Q37 == 1`
-**37. Comment ce vers se poursuit-il ?**  
-✅ Le jour de gloire est arrivé.
+**37. Qu'est-ce que la Shoah ?**  
+✅ L'extermination des Juifs d'Europe par le régime nazi.
 
-Ces paroles ouvrent la Marseillaise, l'hymne national de la République française : « Allons enfants de la Patrie, le jour de gloire est arrivé. » Les autres propositions n'ont aucun lien avec l'hymne.
+La bonne réponse est « L'extermination des Juifs d'Europe par le régime nazi ». La Shoah désigne l'extermination systématique d'environ six millions de Juifs par le régime nazi entre 1941 et 1945. Son étude participe au devoir de mémoire et à la lutte contre l'antisémitisme et le racisme.
 `endif`
 
 `if @err_NAT_V06_Q38 == 1`
-**38. Pour quel motif peut-on réellement limiter la liberté d'expression ?**  
-✅ Pour protéger les droits d'autrui, l'ordre public ou lutter contre les infractions prévues par la loi.
+**38. Laquelle de ces œuvres a été écrite par Victor Hugo ?**  
+✅ Les Misérables.
 
-La liberté d'expression est un droit fondamental, mais elle ne permet pas d'insulter, de diffamer, de provoquer à la haine ou de commettre des infractions prévues par la loi.
+La bonne réponse est « Les Misérables ». Victor Hugo est l'un des plus grands écrivains français. Parmi ses œuvres les plus célèbres figurent Les Misérables et Notre-Dame de Paris.
 `endif`
 
 `if @err_NAT_V06_Q39 == 1`
-**39. Que pouvez-vous lui répondre ?**  
-✅ Il peut choisir sa religion ou ne pas en avoir.
+**39. Citez un pays ayant été colonisé par la France.**  
+✅ Algérie.
 
-En France, chacun est libre de pratiquer une religion, d'en changer ou de ne pas en avoir : c'est cela, la liberté individuelle. Elle ne dispense en revanche jamais de respecter la loi commune.
+La bonne réponse est « Algérie ». La France a constitué un vaste empire colonial, notamment en Afrique, en Asie et dans les Caraïbes. Plusieurs pays actuels (Algérie, Maroc, Tunisie, Sénégal, Vietnam, Côte d'Ivoire, Madagascar...) ont été des colonies ou des protectorats français.
 `endif`
 
 `if @err_NAT_V06_Q40 == 1`
-**40. Quelle est la bonne attitude à adopter ?**  
-✅ Porter secours ou appeler les services d'urgence.
+**40. Après un divorce, qui exerce l'autorité parentale sur les enfants ?**  
+✅ Les deux parents, sauf décision contraire du juge.
 
-En France, porter assistance à une personne en danger est une obligation prévue par la loi, lorsque cela est possible sans risque pour soi-même ou pour les autres. Filmer avant d'agir n'est pas la priorité.
+La bonne réponse est « Les deux parents, sauf décision contraire du juge ». Le divorce ne met pas fin à l'autorité parentale. En règle générale, les deux parents continuent à prendre ensemble les décisions importantes concernant leur enfant.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -62549,11 +63275,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -62583,7 +63309,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -62600,6 +63326,15 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `endif`
 `if @errchap_T1_CH04 >= 3`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -62628,6 +63363,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T5_CH01 >= 3`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 >= 3`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 >= 3`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -62635,7 +63373,7 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -62652,6 +63390,15 @@ Ces chapitres méritent une révision ciblée :
 `endif`
 `if @errchap_T1_CH04 == 2`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -62680,6 +63427,9 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T5_CH01 == 2`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 2`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 2`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -62687,7 +63437,7 @@ Ces chapitres méritent une révision ciblée :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -62704,6 +63454,15 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `endif`
 `if @errchap_T1_CH04 == 1`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -62732,6 +63491,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T5_CH01 == 1`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 1`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 1`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -62739,11 +63501,11 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
@@ -62763,17 +63525,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T1_CH05 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T1_CH04 = 0`
-`@errchap_T4_CH01 = 0`
-`@errchap_T5_CH03 = 0`
 `@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
-`@errchap_T2_CH03 = 0`
 `@errchap_T1_CH02 = 0`
 `@errchap_T1_CH03 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -62784,8 +63554,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q01
 
 `@err_NAT_V07_Q01 = 0`
-
 `@exam_variant = 7`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -62798,12 +63568,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**En quelle année Napoléon Ier est-il devenu empereur ?**
+<!-- Source naturalisation : NAT-T4-055 -->
 
-1) [1789.](EXAM_NAT_V07_Q01_FAUX)
-2) [1799.](EXAM_NAT_V07_Q01_FAUX)
-3) [1804.](EXAM_NAT_V07_Q01_VRAI)
-4) [1815.](EXAM_NAT_V07_Q01_FAUX)
+**Qui était Simone de Beauvoir, autrice du Deuxième Sexe ?**
+
+1) [Une scientifique.](EXAM_NAT_V07_Q01_FAUX)
+2) [Une reine.](EXAM_NAT_V07_Q01_FAUX)
+3) [Une philosophe et écrivaine française.](EXAM_NAT_V07_Q01_VRAI)
+4) [Une peintre.](EXAM_NAT_V07_Q01_FAUX)
 
 ## EXAM_NAT_V07_Q01_VRAI
 
@@ -62817,7 +63589,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q01 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q02)
 
@@ -62836,17 +63608,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**Que signifie le mot « fraternité » dans la devise française ?**
+<!-- Source naturalisation : NAT-T4-056 -->
 
-1) [Être tous de la même famille.](EXAM_NAT_V07_Q02_FAUX)
-2) [Avoir la même religion.](EXAM_NAT_V07_Q02_FAUX)
-3) [Penser tous la même chose.](EXAM_NAT_V07_Q02_FAUX)
-4) [La solidarité, l'entraide et le respect entre toutes les personnes.](EXAM_NAT_V07_Q02_VRAI)
+**Qui était Albert Camus, prix Nobel de littérature en 1957 ?**
+
+1) [Un peintre.](EXAM_NAT_V07_Q02_FAUX)
+2) [Un compositeur.](EXAM_NAT_V07_Q02_FAUX)
+3) [Un homme politique.](EXAM_NAT_V07_Q02_FAUX)
+4) [Un écrivain et philosophe français.](EXAM_NAT_V07_Q02_VRAI)
 
 ## EXAM_NAT_V07_Q02_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q03)
@@ -62855,7 +63629,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q02 = 1`
 
-`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q03)
 
@@ -62874,12 +63648,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**Combien de personnes parlent français dans le monde ?**
+<!-- Source naturalisation : NAT-T4-057 -->
 
-1) [50 millions.](EXAM_NAT_V07_Q03_FAUX)
-2) [120 millions.](EXAM_NAT_V07_Q03_FAUX)
-3) [320 millions.](EXAM_NAT_V07_Q03_VRAI)
-4) [700 millions.](EXAM_NAT_V07_Q03_FAUX)
+**Qui était Marguerite Yourcenar, première femme élue à l'Académie française en 1980 ?**
+
+1) [Une écrivaine française.](EXAM_NAT_V07_Q03_VRAI)
+2) [Une scientifique.](EXAM_NAT_V07_Q03_FAUX)
+3) [Une peintre.](EXAM_NAT_V07_Q03_FAUX)
+4) [Une actrice.](EXAM_NAT_V07_Q03_FAUX)
 
 ## EXAM_NAT_V07_Q03_VRAI
 
@@ -62912,17 +63688,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**Déclarer ses revenus aux services fiscaux est :**
+<!-- Source naturalisation : NAT-T4-058 -->
 
-1) [Facultatif.](EXAM_NAT_V07_Q04_FAUX)
-2) [Réservé aux salariés.](EXAM_NAT_V07_Q04_FAUX)
-3) [Une obligation.](EXAM_NAT_V07_Q04_VRAI)
-4) [Réservé aux propriétaires.](EXAM_NAT_V07_Q04_FAUX)
+**Qui était Paul Cézanne ?**
+
+1) [Un écrivain.](EXAM_NAT_V07_Q04_FAUX)
+2) [Un peintre français.](EXAM_NAT_V07_Q04_VRAI)
+3) [Un musicien.](EXAM_NAT_V07_Q04_FAUX)
+4) [Un sculpteur.](EXAM_NAT_V07_Q04_FAUX)
 
 ## EXAM_NAT_V07_Q04_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q05)
@@ -62931,7 +63709,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q04 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q05)
 
@@ -62950,12 +63728,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**
+<!-- Source naturalisation : NAT-T4-059 -->
 
-1) [1962.](EXAM_NAT_V07_Q05_VRAI)
-2) [1958.](EXAM_NAT_V07_Q05_FAUX)
-3) [1945.](EXAM_NAT_V07_Q05_FAUX)
-4) [1981.](EXAM_NAT_V07_Q05_FAUX)
+**Qui est l'auteur de la célèbre sculpture Le Penseur ?**
+
+1) [Un peintre.](EXAM_NAT_V07_Q05_FAUX)
+2) [Un écrivain.](EXAM_NAT_V07_Q05_FAUX)
+3) [Un sculpteur français (Auguste Rodin).](EXAM_NAT_V07_Q05_VRAI)
+4) [Un musicien.](EXAM_NAT_V07_Q05_FAUX)
 
 ## EXAM_NAT_V07_Q05_VRAI
 
@@ -62969,7 +63749,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q05 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q06)
 
@@ -62988,17 +63768,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**
+<!-- Source naturalisation : NAT-T4-060 -->
 
-1) [Les hommes doivent respecter le roi.](EXAM_NAT_V07_Q06_FAUX)
-2) [Les hommes naissent inégaux selon leur naissance.](EXAM_NAT_V07_Q06_FAUX)
-3) [Les hommes doivent appartenir à une religion.](EXAM_NAT_V07_Q06_FAUX)
-4) [Les hommes naissent et demeurent libres et égaux en droits.](EXAM_NAT_V07_Q06_VRAI)
+**Lequel de ces compositeurs est français ?**
+
+1) [Mozart.](EXAM_NAT_V07_Q06_FAUX)
+2) [Beethoven.](EXAM_NAT_V07_Q06_FAUX)
+3) [Chopin.](EXAM_NAT_V07_Q06_FAUX)
+4) [Claude Debussy.](EXAM_NAT_V07_Q06_VRAI)
 
 ## EXAM_NAT_V07_Q06_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q07)
@@ -63007,7 +63789,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q06 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q07)
 
@@ -63026,12 +63808,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**Quel musée est situé à Paris ?**
+<!-- Source naturalisation : NAT-T4-066 -->
 
-1) [Le musée Guggenheim.](EXAM_NAT_V07_Q07_FAUX)
-2) [Le musée du Prado.](EXAM_NAT_V07_Q07_FAUX)
-3) [Le musée du Louvre.](EXAM_NAT_V07_Q07_VRAI)
-4) [Le British Museum.](EXAM_NAT_V07_Q07_FAUX)
+**Quelle île française, collectivité territoriale unique, est située en Méditerranée ?**
+
+1) [La Corse.](EXAM_NAT_V07_Q07_VRAI)
+2) [La Sardaigne.](EXAM_NAT_V07_Q07_FAUX)
+3) [La Sicile.](EXAM_NAT_V07_Q07_FAUX)
+4) [Majorque.](EXAM_NAT_V07_Q07_FAUX)
 
 ## EXAM_NAT_V07_Q07_VRAI
 
@@ -63045,7 +63829,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q07 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q08)
 
@@ -63064,17 +63848,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Une personne peut-elle changer librement de religion en France ?**
+<!-- Source naturalisation : NAT-T4-067 -->
 
-1) [Non, c'est interdit.](EXAM_NAT_V07_Q08_FAUX)
-2) [Seulement avec l'accord de l'État.](EXAM_NAT_V07_Q08_FAUX)
-3) [Seulement à partir de 18 ans.](EXAM_NAT_V07_Q08_FAUX)
-4) [Oui, chacun est libre de changer de religion.](EXAM_NAT_V07_Q08_VRAI)
+**Quel est le plus haut sommet de France, situé dans les Alpes ?**
+
+1) [Le Canigou.](EXAM_NAT_V07_Q08_FAUX)
+2) [Le Mont Blanc.](EXAM_NAT_V07_Q08_VRAI)
+3) [Le Puy de Dôme.](EXAM_NAT_V07_Q08_FAUX)
+4) [Le mont Ventoux.](EXAM_NAT_V07_Q08_FAUX)
 
 ## EXAM_NAT_V07_Q08_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q09)
@@ -63083,7 +63869,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q08 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q09)
 
@@ -63102,12 +63888,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**Quel monument parisien est l'un des symboles de la France ?**
+<!-- Source naturalisation : NAT-T4-068 -->
 
-1) [Le Colisée.](EXAM_NAT_V07_Q09_FAUX)
-2) [Big Ben.](EXAM_NAT_V07_Q09_FAUX)
-3) [La tour Eiffel.](EXAM_NAT_V07_Q09_VRAI)
-4) [La statue de la Liberté.](EXAM_NAT_V07_Q09_FAUX)
+**Quel département français d'outre-mer est situé dans l'océan Indien, à l'est de Madagascar ?**
+
+1) [La Corse.](EXAM_NAT_V07_Q09_FAUX)
+2) [La Martinique.](EXAM_NAT_V07_Q09_FAUX)
+3) [La Réunion.](EXAM_NAT_V07_Q09_VRAI)
+4) [La Guadeloupe.](EXAM_NAT_V07_Q09_FAUX)
 
 ## EXAM_NAT_V07_Q09_VRAI
 
@@ -63121,7 +63909,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q09 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q10)
 
@@ -63140,17 +63928,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**Doit-on déclarer ses revenus chaque année aux services fiscaux ?**
+<!-- Source naturalisation : NAT-T5-031 -->
 
-1) [Non.](EXAM_NAT_V07_Q10_FAUX)
-2) [Seulement si l'on paie des impôts.](EXAM_NAT_V07_Q10_FAUX)
-3) [Seulement les salariés.](EXAM_NAT_V07_Q10_FAUX)
-4) [Oui, c'est une obligation.](EXAM_NAT_V07_Q10_VRAI)
+**Qui peut adhérer à un syndicat en France ?**
+
+1) [Seulement les fonctionnaires.](EXAM_NAT_V07_Q10_FAUX)
+2) [Seulement les cadres.](EXAM_NAT_V07_Q10_FAUX)
+3) [Tous les salariés.](EXAM_NAT_V07_Q10_VRAI)
+4) [Uniquement les Français.](EXAM_NAT_V07_Q10_FAUX)
 
 ## EXAM_NAT_V07_Q10_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q11)
@@ -63159,7 +63949,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q10 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q11)
 
@@ -63178,12 +63968,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**Qu'est-ce que le droit de grève ?**
+<!-- Source naturalisation : NAT-T5-032 -->
 
-1) [Refuser définitivement de travailler.](EXAM_NAT_V07_Q11_FAUX)
-2) [Quitter son emploi.](EXAM_NAT_V07_Q11_FAUX)
-3) [Ne plus respecter son contrat de travail.](EXAM_NAT_V07_Q11_FAUX)
-4) [Le droit de cesser collectivement le travail pour défendre des revendications professionnelles.](EXAM_NAT_V07_Q11_VRAI)
+**Un employeur peut-il licencier une salariée en raison de sa grossesse ?**
+
+1) [Oui.](EXAM_NAT_V07_Q11_FAUX)
+2) [Oui, si l'employeur le souhaite.](EXAM_NAT_V07_Q11_FAUX)
+3) [Oui, automatiquement.](EXAM_NAT_V07_Q11_FAUX)
+4) [Non, la salariée est protégée contre le licenciement pendant sa grossesse.](EXAM_NAT_V07_Q11_VRAI)
 
 ## EXAM_NAT_V07_Q11_VRAI
 
@@ -63197,7 +63989,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q11 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q12)
 
@@ -63216,17 +64008,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**Qui dirige l'action du Gouvernement au quotidien ?**
+<!-- Source naturalisation : NAT-T5-033 -->
 
-1) [Le Président de la République.](EXAM_NAT_V07_Q12_FAUX)
-2) [Le Président de l'Assemblée nationale.](EXAM_NAT_V07_Q12_FAUX)
-3) [Le préfet.](EXAM_NAT_V07_Q12_FAUX)
-4) [Le Premier ministre.](EXAM_NAT_V07_Q12_VRAI)
+**Entre quels âges l'instruction est-elle obligatoire en France ?**
+
+1) [De 3 ans à 16 ans.](EXAM_NAT_V07_Q12_VRAI)
+2) [De 6 à 16 ans.](EXAM_NAT_V07_Q12_FAUX)
+3) [De 3 à 18 ans.](EXAM_NAT_V07_Q12_FAUX)
+4) [De 5 à 15 ans.](EXAM_NAT_V07_Q12_FAUX)
 
 ## EXAM_NAT_V07_Q12_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q13)
@@ -63235,7 +64029,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q12 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q13)
 
@@ -63254,12 +64048,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Dans une entreprise, le droit syndical permet :**
+<!-- Source naturalisation : NAT-T5-034 -->
 
-1) [De refuser d'appliquer le contrat de travail.](EXAM_NAT_V07_Q13_FAUX)
-2) [De créer un syndicat, d'y adhérer ou non, et d'exercer une activité syndicale dans le respect de la loi.](EXAM_NAT_V07_Q13_VRAI)
-3) [D'imposer ses opinions politiques à ses collègues.](EXAM_NAT_V07_Q13_FAUX)
-4) [De remplacer l'employeur.](EXAM_NAT_V07_Q13_FAUX)
+**Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**
+
+1) [Une simple remarque.](EXAM_NAT_V07_Q13_FAUX)
+2) [Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.](EXAM_NAT_V07_Q13_VRAI)
+3) [Une contravention uniquement.](EXAM_NAT_V07_Q13_FAUX)
+4) [Aucune sanction.](EXAM_NAT_V07_Q13_FAUX)
 
 ## EXAM_NAT_V07_Q13_VRAI
 
@@ -63273,7 +64069,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q13 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q14)
 
@@ -63292,17 +64088,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**En quels niveaux le territoire français est-il découpé ?**
+<!-- Source naturalisation : NAT-T5-035 -->
 
-1) [Cantons et arrondissements uniquement.](EXAM_NAT_V07_Q14_FAUX)
-2) [Préfectures et ministères.](EXAM_NAT_V07_Q14_FAUX)
-3) [Régions et communes uniquement.](EXAM_NAT_V07_Q14_FAUX)
-4) [Communes, départements et régions.](EXAM_NAT_V07_Q14_VRAI)
+**Qu'est-ce que l'autorité parentale ?**
+
+1) [Le droit de punir son enfant.](EXAM_NAT_V07_Q14_FAUX)
+2) [Le pouvoir du père uniquement.](EXAM_NAT_V07_Q14_FAUX)
+3) [L'ensemble des droits et des devoirs des parents envers leur enfant.](EXAM_NAT_V07_Q14_VRAI)
+4) [Une autorité réservée à la mère.](EXAM_NAT_V07_Q14_FAUX)
 
 ## EXAM_NAT_V07_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q15)
@@ -63311,7 +64109,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q14 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q15)
 
@@ -63330,17 +64128,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Que garantit la liberté de la presse ?**
+<!-- Source naturalisation : NAT-T1-025 -->
 
-1) [On peut publier n'importe quoi.](EXAM_NAT_V07_Q15_FAUX)
-2) [Les journalistes sont au-dessus des lois.](EXAM_NAT_V07_Q15_FAUX)
-3) [Les médias peuvent diffamer librement.](EXAM_NAT_V07_Q15_FAUX)
-4) [La liberté d'informer et d'être informé.](EXAM_NAT_V07_Q15_VRAI)
+**Que peut faire un usager du service public dans une mairie ?**
+
+1) [Accéder aux services publics dans les mêmes conditions que tous les autres usagers.](EXAM_NAT_V07_Q15_VRAI)
+2) [Être prioritaire en raison de sa religion.](EXAM_NAT_V07_Q15_FAUX)
+3) [Obtenir un service réservé à certaines personnes.](EXAM_NAT_V07_Q15_FAUX)
+4) [Choisir les règles de la mairie.](EXAM_NAT_V07_Q15_FAUX)
 
 ## EXAM_NAT_V07_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q16)
@@ -63349,7 +64149,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q15 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q16)
 
@@ -63368,17 +64168,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Pour combien de temps les sénateurs sont-ils élus ?**
+<!-- Source naturalisation : NAT-T1-026 -->
 
-1) [5 ans.](EXAM_NAT_V07_Q16_FAUX)
-2) [7 ans.](EXAM_NAT_V07_Q16_FAUX)
-3) [9 ans.](EXAM_NAT_V07_Q16_FAUX)
-4) [6 ans.](EXAM_NAT_V07_Q16_VRAI)
+**En France, il est possible pour l'État de financer :**
+
+1) [N'importe quel lieu de culte, sans exception.](EXAM_NAT_V07_Q16_FAUX)
+2) [Les aumôneries dans certains services publics (hôpitaux, prisons, armées).](EXAM_NAT_V07_Q16_VRAI)
+3) [Uniquement les églises catholiques.](EXAM_NAT_V07_Q16_FAUX)
+4) [Aucun financement religieux, sans exception.](EXAM_NAT_V07_Q16_FAUX)
 
 ## EXAM_NAT_V07_Q16_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q17)
@@ -63387,7 +64189,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q16 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q17)
 
@@ -63406,17 +64208,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**Quelles sont les conditions pour toucher les allocations chômage ?**
+<!-- Source naturalisation : NAT-T1-027 -->
 
-1) [Être simplement sans emploi.](EXAM_NAT_V07_Q17_FAUX)
-2) [Avoir travaillé et remplir les conditions prévues par la réglementation.](EXAM_NAT_V07_Q17_VRAI)
-3) [En faire la demande sans autre condition.](EXAM_NAT_V07_Q17_FAUX)
-4) [Être de nationalité française.](EXAM_NAT_V07_Q17_FAUX)
+**En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
+
+1) [1789.](EXAM_NAT_V07_Q17_FAUX)
+2) [1958.](EXAM_NAT_V07_Q17_FAUX)
+3) [1905.](EXAM_NAT_V07_Q17_VRAI)
+4) [1945.](EXAM_NAT_V07_Q17_FAUX)
 
 ## EXAM_NAT_V07_Q17_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q18)
@@ -63425,7 +64229,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q17 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q18)
 
@@ -63444,17 +64248,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Quel est le rôle du Premier ministre ?**
+<!-- Source naturalisation : NAT-T1-028 -->
 
-1) [Il vote les lois.](EXAM_NAT_V07_Q18_FAUX)
-2) [Il est le chef de l'État.](EXAM_NAT_V07_Q18_FAUX)
-3) [Il dirige le Parlement.](EXAM_NAT_V07_Q18_FAUX)
-4) [Il dirige l'action du Gouvernement et veille à l'exécution des lois.](EXAM_NAT_V07_Q18_VRAI)
+**Que dit la loi de 1905 ?**
+
+1) [Elle interdit les religions.](EXAM_NAT_V07_Q18_FAUX)
+2) [Elle impose une religion officielle.](EXAM_NAT_V07_Q18_FAUX)
+3) [Elle interdit les lieux de culte.](EXAM_NAT_V07_Q18_FAUX)
+4) [Elle sépare les Églises et l'État et garantit la liberté de conscience.](EXAM_NAT_V07_Q18_VRAI)
 
 ## EXAM_NAT_V07_Q18_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q19)
@@ -63463,7 +64269,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q18 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q19)
 
@@ -63482,17 +64288,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**Qui était un célèbre musicien français ?**
+<!-- Source naturalisation : NAT-T2-038 -->
 
-1) [Mozart.](EXAM_NAT_V07_Q19_FAUX)
-2) [Beethoven.](EXAM_NAT_V07_Q19_FAUX)
-3) [Chopin.](EXAM_NAT_V07_Q19_FAUX)
-4) [Hector Berlioz.](EXAM_NAT_V07_Q19_VRAI)
+**Quel est le rôle du Premier ministre ?**
+
+1) [Il dirige l'action du Gouvernement et veille à l'exécution des lois.](EXAM_NAT_V07_Q19_VRAI)
+2) [Il vote les lois.](EXAM_NAT_V07_Q19_FAUX)
+3) [Il est le chef de l'État.](EXAM_NAT_V07_Q19_FAUX)
+4) [Il dirige le Parlement.](EXAM_NAT_V07_Q19_FAUX)
 
 ## EXAM_NAT_V07_Q19_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q20)
@@ -63501,7 +64309,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q19 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q20)
 
@@ -63520,17 +64328,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**Quelle est la mission de France Travail ?**
+<!-- Source naturalisation : NAT-T2-039 -->
 
-1) [Délivrer les cartes d'identité.](EXAM_NAT_V07_Q20_FAUX)
-2) [Gérer les hôpitaux.](EXAM_NAT_V07_Q20_FAUX)
-3) [Accompagner les personnes dans leur recherche d'emploi.](EXAM_NAT_V07_Q20_VRAI)
-4) [Organiser les élections.](EXAM_NAT_V07_Q20_FAUX)
+**Quel est le rôle du Défenseur des droits ?**
+
+1) [Il vote les lois.](EXAM_NAT_V07_Q20_FAUX)
+2) [Il protège les droits et les libertés des personnes et lutte contre les discriminations.](EXAM_NAT_V07_Q20_VRAI)
+3) [Il dirige la police.](EXAM_NAT_V07_Q20_FAUX)
+4) [Il juge et condamne les personnes.](EXAM_NAT_V07_Q20_FAUX)
 
 ## EXAM_NAT_V07_Q20_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q21)
@@ -63539,7 +64349,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q20 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q21)
 
@@ -63558,12 +64368,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Quelle collectivité territoriale a la compétence des collèges publics ?**
+<!-- Source naturalisation : NAT-T2-040 -->
 
-1) [La commune.](EXAM_NAT_V07_Q21_FAUX)
-2) [La région.](EXAM_NAT_V07_Q21_FAUX)
-3) [L'État.](EXAM_NAT_V07_Q21_FAUX)
-4) [Le département.](EXAM_NAT_V07_Q21_VRAI)
+**En quelle année la citoyenneté européenne a-t-elle été créée ?**
+
+1) [1951.](EXAM_NAT_V07_Q21_FAUX)
+2) [1957.](EXAM_NAT_V07_Q21_FAUX)
+3) [1992.](EXAM_NAT_V07_Q21_VRAI)
+4) [2002.](EXAM_NAT_V07_Q21_FAUX)
 
 ## EXAM_NAT_V07_Q21_VRAI
 
@@ -63577,7 +64389,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q21 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q22)
 
@@ -63596,17 +64408,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
-**Lequel de ces personnages a un lien avec la République française ?**
+<!-- Source naturalisation : NAT-T2-041 -->
 
-1) [Louis XIV.](EXAM_NAT_V07_Q22_FAUX)
-2) [Charlemagne.](EXAM_NAT_V07_Q22_FAUX)
-3) [François Ier.](EXAM_NAT_V07_Q22_FAUX)
-4) [Jules Ferry.](EXAM_NAT_V07_Q22_VRAI)
+**Quel est le dernier pays à avoir rejoint l'Union européenne ?**
+
+1) [La Bulgarie.](EXAM_NAT_V07_Q22_FAUX)
+2) [La Roumanie.](EXAM_NAT_V07_Q22_FAUX)
+3) [La Serbie.](EXAM_NAT_V07_Q22_FAUX)
+4) [La Croatie.](EXAM_NAT_V07_Q22_VRAI)
 
 ## EXAM_NAT_V07_Q22_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q23)
@@ -63615,7 +64429,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q22 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q23)
 
@@ -63634,12 +64448,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**Comment la Constitution peut-elle être révisée ?**
+<!-- Source naturalisation : NAT-T2-042 -->
 
-1) [Par décret du Président.](EXAM_NAT_V07_Q23_FAUX)
-2) [Par décision du Premier ministre.](EXAM_NAT_V07_Q23_FAUX)
-3) [Par un tribunal.](EXAM_NAT_V07_Q23_FAUX)
-4) [Par référendum ou par le Parlement réuni en Congrès.](EXAM_NAT_V07_Q23_VRAI)
+**Quelle est la devise de l'Union européenne ?**
+
+1) [« Unie dans la diversité ».](EXAM_NAT_V07_Q23_VRAI)
+2) [Liberté, Égalité, Fraternité.](EXAM_NAT_V07_Q23_FAUX)
+3) [Paix et justice.](EXAM_NAT_V07_Q23_FAUX)
+4) [Tous pour un.](EXAM_NAT_V07_Q23_FAUX)
 
 ## EXAM_NAT_V07_Q23_VRAI
 
@@ -63653,7 +64469,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q23 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q24)
 
@@ -63672,17 +64488,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**Que peut faire un usager du service public dans une mairie ?**
+<!-- Source naturalisation : NAT-T2-043 -->
 
-1) [Être prioritaire en raison de sa religion.](EXAM_NAT_V07_Q24_FAUX)
-2) [Obtenir un service réservé à certaines personnes.](EXAM_NAT_V07_Q24_FAUX)
-3) [Choisir les règles de la mairie.](EXAM_NAT_V07_Q24_FAUX)
-4) [Accéder aux services publics dans les mêmes conditions que tous les autres usagers.](EXAM_NAT_V07_Q24_VRAI)
+**Qui a composé l'hymne européen ?**
+
+1) [Mozart.](EXAM_NAT_V07_Q24_FAUX)
+2) [Ludwig van Beethoven.](EXAM_NAT_V07_Q24_VRAI)
+3) [Chopin.](EXAM_NAT_V07_Q24_FAUX)
+4) [Victor Hugo.](EXAM_NAT_V07_Q24_FAUX)
 
 ## EXAM_NAT_V07_Q24_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q25)
@@ -63691,7 +64509,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q24 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q25)
 
@@ -63710,12 +64528,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**
+<!-- Source naturalisation : NAT-T3-025 -->
 
-1) [Les opinions politiques.](EXAM_NAT_V07_Q25_FAUX)
-2) [Une religion.](EXAM_NAT_V07_Q25_FAUX)
-3) [Les intérêts d'un groupe.](EXAM_NAT_V07_Q25_FAUX)
-4) [L'intérêt général.](EXAM_NAT_V07_Q25_VRAI)
+**À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?**
+
+1) [18 ans.](EXAM_NAT_V07_Q25_VRAI)
+2) [16 ans.](EXAM_NAT_V07_Q25_FAUX)
+3) [17 ans.](EXAM_NAT_V07_Q25_FAUX)
+4) [21 ans.](EXAM_NAT_V07_Q25_FAUX)
 
 ## EXAM_NAT_V07_Q25_VRAI
 
@@ -63748,17 +64568,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**Quelle peine a été supprimée en 1981 ?**
+<!-- Source naturalisation : NAT-T3-026 -->
 
-1) [La prison à perpétuité.](EXAM_NAT_V07_Q26_FAUX)
-2) [L'amende.](EXAM_NAT_V07_Q26_FAUX)
-3) [Les travaux d'intérêt général.](EXAM_NAT_V07_Q26_FAUX)
-4) [La peine de mort.](EXAM_NAT_V07_Q26_VRAI)
+**Ne pas respecter le Code de la route constitue :**
+
+1) [Une simple recommandation ignorée.](EXAM_NAT_V07_Q26_FAUX)
+2) [Une infraction punie par la loi.](EXAM_NAT_V07_Q26_VRAI)
+3) [Un choix personnel sans conséquence.](EXAM_NAT_V07_Q26_FAUX)
+4) [Une pratique tolérée en dehors des villes.](EXAM_NAT_V07_Q26_FAUX)
 
 ## EXAM_NAT_V07_Q26_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q27)
@@ -63767,7 +64589,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q26 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q27)
 
@@ -63786,12 +64608,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**Lequel de ces actes porte gravement atteinte à la dignité humaine ?**
+<!-- Source naturalisation : NAT-T3-027 -->
 
-1) [Une critique.](EXAM_NAT_V07_Q27_FAUX)
-2) [Une amende.](EXAM_NAT_V07_Q27_FAUX)
-3) [Une contravention.](EXAM_NAT_V07_Q27_FAUX)
-4) [La torture ou l'esclavage.](EXAM_NAT_V07_Q27_VRAI)
+**La privation des droits civiques est réservée aux infractions les plus graves. Laquelle de ces situations peut être concernée ?**
+
+1) [Un simple excès de vitesse.](EXAM_NAT_V07_Q27_FAUX)
+2) [Une contravention de stationnement.](EXAM_NAT_V07_Q27_FAUX)
+3) [Un crime comme le terrorisme ou la corruption.](EXAM_NAT_V07_Q27_VRAI)
+4) [Un désaccord avec un voisin.](EXAM_NAT_V07_Q27_FAUX)
 
 ## EXAM_NAT_V07_Q27_VRAI
 
@@ -63805,7 +64629,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q27 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q28)
 
@@ -63824,17 +64648,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
-**En France, il est possible pour l'État de financer :**
+<!-- Source naturalisation : NAT-T3-028 -->
 
-1) [Les aumôneries dans certains services publics (hôpitaux, prisons, armées).](EXAM_NAT_V07_Q28_VRAI)
-2) [N'importe quel lieu de culte, sans exception.](EXAM_NAT_V07_Q28_FAUX)
-3) [Uniquement les églises catholiques.](EXAM_NAT_V07_Q28_FAUX)
-4) [Aucun financement religieux, sans exception.](EXAM_NAT_V07_Q28_FAUX)
+**Comment demander une carte nationale d'identité ?**
+
+1) [Aller au commissariat.](EXAM_NAT_V07_Q28_FAUX)
+2) [Aller à la préfecture.](EXAM_NAT_V07_Q28_FAUX)
+3) [Faire uniquement une demande auprès de France Travail.](EXAM_NAT_V07_Q28_FAUX)
+4) [En faire la demande auprès d'une mairie équipée.](EXAM_NAT_V07_Q28_VRAI)
 
 ## EXAM_NAT_V07_Q28_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_PART2)
@@ -63843,7 +64669,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q28 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_PART2)
 
@@ -63858,6 +64684,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V07_Q29
 
 `@err_NAT_V07_Q29 = 0`
+`@exam_variant = 7`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -63870,14 +64698,16 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionnés, puisqu'il s'agit selon lui simplement de son opinion personnelle.
+<!-- Source naturalisation : MS-NAT-T3-014 -->
 
-**Pour quel motif peut-on réellement limiter la liberté d'expression ?**
+Au travail ou dans l’espace public, un proche hésite sur une règle liée aux droits, aux libertés ou aux obligations. Un proche pense que la bonne réponse pourrait être « Dire n'importe quoi ». Aidez-le à raisonner.
 
-1) [Parce qu'une opinion déplaît.](EXAM_NAT_V07_Q29_FAUX)
-2) [Pour protéger les droits d'autrui, l'ordre public ou lutter contre les infractions prévues par la loi.](EXAM_NAT_V07_Q29_VRAI)
-3) [Pour interdire toute critique.](EXAM_NAT_V07_Q29_FAUX)
-4) [Sans justification particulière.](EXAM_NAT_V07_Q29_FAUX)
+**Que garantit la liberté d'expression ?**
+
+1) [Dire n'importe quoi.](EXAM_NAT_V07_Q29_FAUX)
+2) [Le droit d'exprimer librement ses opinions dans le respect de la loi et des droits d'autrui.](EXAM_NAT_V07_Q29_VRAI)
+3) [Insulter librement.](EXAM_NAT_V07_Q29_FAUX)
+4) [Diffuser de fausses informations sans limite.](EXAM_NAT_V07_Q29_FAUX)
 
 ## EXAM_NAT_V07_Q29_VRAI
 
@@ -63910,19 +64740,21 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 ### Question 30 sur 40
 
-Dans le même exercice, vous devez maintenant identifier laquelle de ces infractions constitue un délit.
+<!-- Source naturalisation : MS-NAT-T4-019 -->
 
-**Laquelle choisissez-vous ?**
+Un proche prépare son entretien de naturalisation et vous demande de l’aider sur un élément du patrimoine français. Une personne hésite et choisit « 1958 ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Un homicide volontaire.](EXAM_NAT_V07_Q30_FAUX)
-2) [Un stationnement interdit.](EXAM_NAT_V07_Q30_FAUX)
-3) [Jeter un papier dans la rue.](EXAM_NAT_V07_Q30_FAUX)
-4) [Un vol.](EXAM_NAT_V07_Q30_VRAI)
+**Depuis quelle année les Français élisent-ils le Président de la République au suffrage universel direct ?**
+
+1) [1958.](EXAM_NAT_V07_Q30_FAUX)
+2) [1945.](EXAM_NAT_V07_Q30_FAUX)
+3) [1962.](EXAM_NAT_V07_Q30_VRAI)
+4) [1789.](EXAM_NAT_V07_Q30_FAUX)
 
 ## EXAM_NAT_V07_Q30_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q31)
@@ -63931,7 +64763,7 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 `@err_NAT_V07_Q30 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q31)
 
@@ -63950,19 +64782,21 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 ### Question 31 sur 40
 
-Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, car Internet ne serait selon lui soumis à aucune loi.
+<!-- Source naturalisation : MS-NAT-T4-020 -->
 
-**Que lui répondez-vous ?**
+Lors d’une visite culturelle, une personne de votre entourage souhaite vérifier un repère sur l’histoire, la géographie ou le patrimoine français. Un participant propose la réponse « 1957 ». Vous devez vérifier cette affirmation.
 
-1) [On peut tout publier sans limite.](EXAM_NAT_V07_Q31_FAUX)
-2) [Les réseaux sociaux sont soumis aux lois françaises.](EXAM_NAT_V07_Q31_VRAI)
-3) [Les insultes sont autorisées sur Internet.](EXAM_NAT_V07_Q31_FAUX)
-4) [Les propos discriminatoires sont permis sur un compte privé.](EXAM_NAT_V07_Q31_FAUX)
+**En quelle année l'Union européenne a-t-elle été officiellement créée par le traité de Maastricht ?**
+
+1) [1951.](EXAM_NAT_V07_Q31_FAUX)
+2) [1957.](EXAM_NAT_V07_Q31_FAUX)
+3) [2002.](EXAM_NAT_V07_Q31_FAUX)
+4) [1992.](EXAM_NAT_V07_Q31_VRAI)
 
 ## EXAM_NAT_V07_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q32)
@@ -63971,7 +64805,7 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 
 `@err_NAT_V07_Q31 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q32)
 
@@ -63990,19 +64824,21 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 
 ### Question 32 sur 40
 
-Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement en raison de son origine.
+<!-- Source naturalisation : MS-NAT-T4-021 -->
 
-**Que pouvez-vous lui dire sur ce que fait la loi française face à ce type de discrimination ?**
+Vous préparez une sortie en France et une discussion s’engage autour d’un lieu, d’une personnalité ou d’un événement important. Un proche pense que la bonne réponse pourrait être « 1938-1946 ». Aidez-le à raisonner.
 
-1) [L'État les autorise dans certains cas.](EXAM_NAT_V07_Q32_FAUX)
-2) [L'État ne fait rien face à ce type de situation.](EXAM_NAT_V07_Q32_FAUX)
-3) [La loi interdit les discriminations et les sanctionne.](EXAM_NAT_V07_Q32_VRAI)
-4) [Cela dépend des régions.](EXAM_NAT_V07_Q32_FAUX)
+**De quand à quand s'est déroulée la Seconde Guerre mondiale ?**
+
+1) [De 1939 à 1945.](EXAM_NAT_V07_Q32_VRAI)
+2) [1914-1918.](EXAM_NAT_V07_Q32_FAUX)
+3) [1940-1944.](EXAM_NAT_V07_Q32_FAUX)
+4) [1938-1946.](EXAM_NAT_V07_Q32_FAUX)
 
 ## EXAM_NAT_V07_Q32_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q33)
@@ -64011,7 +64847,7 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 
 `@err_NAT_V07_Q32 = 1`
 
-`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q33)
 
@@ -64030,19 +64866,21 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 
 ### Question 33 sur 40
 
-On vous demande de nommer la liberté qui permet à une personne de croire en la religion de son choix, ou de n'en avoir aucune.
+<!-- Source naturalisation : MS-NAT-T5-013 -->
 
-**Quelle liberté est concernée ?**
+Lors d’un échange dans un service public, une personne veut s’assurer qu’elle connaît la règle applicable à sa situation. Une personne hésite et choisit « Les enfants ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [La liberté de conscience.](EXAM_NAT_V07_Q33_VRAI)
-2) [La liberté d'expression.](EXAM_NAT_V07_Q33_FAUX)
-3) [La liberté de circulation.](EXAM_NAT_V07_Q33_FAUX)
-4) [La liberté de la presse.](EXAM_NAT_V07_Q33_FAUX)
+**Qui peut demander le divorce en France ?**
+
+1) [L'un des deux époux ou les deux ensemble.](EXAM_NAT_V07_Q33_VRAI)
+2) [Les enfants.](EXAM_NAT_V07_Q33_FAUX)
+3) [Les parents.](EXAM_NAT_V07_Q33_FAUX)
+4) [La mairie.](EXAM_NAT_V07_Q33_FAUX)
 
 ## EXAM_NAT_V07_Q33_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q34)
@@ -64051,7 +64889,7 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 `@err_NAT_V07_Q33 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q34)
 
@@ -64070,19 +64908,21 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 ### Question 34 sur 40
 
-Vous montrez à un ami une enveloppe affranchie et lui faites remarquer le visage féminin qui y figure, qu'il ne reconnaît pas.
+<!-- Source naturalisation : MS-NAT-T5-014 -->
 
-**Sur quel document officiel peut-on couramment voir ce visage, celui de Marianne ?**
+Dans une démarche de la vie quotidienne, une personne de votre entourage hésite sur la conduite à adopter en France. Un participant propose la réponse « France Travail ». Vous devez vérifier cette affirmation.
 
-1) [Le permis de conduire.](EXAM_NAT_V07_Q34_FAUX)
-2) [Une facture d'électricité.](EXAM_NAT_V07_Q34_FAUX)
-3) [Le passeport.](EXAM_NAT_V07_Q34_FAUX)
-4) [Les timbres-poste.](EXAM_NAT_V07_Q34_VRAI)
+**Auprès de quel organisme demander le remboursement principal de ses frais de santé ?**
+
+1) [La CAF.](EXAM_NAT_V07_Q34_FAUX)
+2) [Auprès de l'Assurance maladie (CPAM).](EXAM_NAT_V07_Q34_VRAI)
+3) [France Travail.](EXAM_NAT_V07_Q34_FAUX)
+4) [La mairie.](EXAM_NAT_V07_Q34_FAUX)
 
 ## EXAM_NAT_V07_Q34_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q35)
@@ -64091,7 +64931,7 @@ Vous montrez à un ami une enveloppe affranchie et lui faites remarquer le visag
 
 `@err_NAT_V07_Q34 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q35)
 
@@ -64110,14 +64950,16 @@ Vous montrez à un ami une enveloppe affranchie et lui faites remarquer le visag
 
 ### Question 35 sur 40
 
-Un enseignant vous présente la Charte de la laïcité affichée dans les établissements scolaires et vous demande ce qu'elle interdit précisément.
+<!-- Source naturalisation : MS-NAT-T1-013 -->
 
-**Que lui répondez-vous ?**
+Lors d’un échange dans une association locale, une personne souhaite mieux comprendre les principes et les symboles de la République. Un participant propose la réponse « La fin de la Seconde Guerre mondiale ». Vous devez vérifier cette affirmation.
 
-1) [Étudier les religions en cours d'histoire.](EXAM_NAT_V07_Q35_FAUX)
-2) [Avoir une religion.](EXAM_NAT_V07_Q35_FAUX)
-3) [Parler de ses convictions personnelles en dehors des cours.](EXAM_NAT_V07_Q35_FAUX)
-4) [Le prosélytisme et les pressions religieuses sur les élèves.](EXAM_NAT_V07_Q35_VRAI)
+**Que commémore la fête nationale ?**
+
+1) [La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.](EXAM_NAT_V07_Q35_VRAI)
+2) [La fin de la Seconde Guerre mondiale.](EXAM_NAT_V07_Q35_FAUX)
+3) [La signature de la Constitution.](EXAM_NAT_V07_Q35_FAUX)
+4) [La création de l'Union européenne.](EXAM_NAT_V07_Q35_FAUX)
 
 ## EXAM_NAT_V07_Q35_VRAI
 
@@ -64131,7 +64973,7 @@ Un enseignant vous présente la Charte de la laïcité affichée dans les établ
 
 `@err_NAT_V07_Q35 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q36)
 
@@ -64150,19 +64992,21 @@ Un enseignant vous présente la Charte de la laïcité affichée dans les établ
 
 ### Question 36 sur 40
 
-Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
+<!-- Source naturalisation : MS-NAT-T1-014 -->
 
-**Quelle est l'attitude à adopter ?**
+Au cours d’un atelier citoyen, votre groupe discute de la manière dont les valeurs républicaines s’appliquent au quotidien. Un proche pense que la bonne réponse pourrait être « Un casque ». Aidez-le à raisonner.
 
-1) [Prendre parti et intervenir physiquement pour sauver la victime.](EXAM_NAT_V07_Q36_FAUX)
-2) [Filmer la scène sans intervenir.](EXAM_NAT_V07_Q36_FAUX)
-3) [Alerter les secours, la police ou la gendarmerie.](EXAM_NAT_V07_Q36_VRAI)
-4) [Partir sans prévenir personne.](EXAM_NAT_V07_Q36_FAUX)
+**Que porte Marianne sur la tête ?**
+
+1) [Une couronne.](EXAM_NAT_V07_Q36_FAUX)
+2) [Un bonnet phrygien.](EXAM_NAT_V07_Q36_VRAI)
+3) [Un casque.](EXAM_NAT_V07_Q36_FAUX)
+4) [Un béret.](EXAM_NAT_V07_Q36_FAUX)
 
 ## EXAM_NAT_V07_Q36_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q37)
@@ -64171,7 +65015,7 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 `@err_NAT_V07_Q36 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q37)
 
@@ -64190,19 +65034,21 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 ### Question 37 sur 40
 
-Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
+<!-- Source naturalisation : MS-NAT-T2-020 -->
 
-**Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**
+À l’occasion d’un échange sur la vie démocratique, un proche vous interroge sur le fonctionnement des institutions françaises. Un participant propose la réponse « 7 ans ». Vous devez vérifier cette affirmation.
 
-1) [Elle sert à interdire toutes les religions.](EXAM_NAT_V07_Q37_FAUX)
-2) [Elle sert à favoriser une religion en particulier.](EXAM_NAT_V07_Q37_FAUX)
-3) [Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.](EXAM_NAT_V07_Q37_VRAI)
-4) [Elle empêche les élèves de parler de leur religion et de la promouvoir.](EXAM_NAT_V07_Q37_FAUX)
+**Pour combien de temps le Président de la République est-il élu ?**
+
+1) [4 ans.](EXAM_NAT_V07_Q37_FAUX)
+2) [6 ans.](EXAM_NAT_V07_Q37_FAUX)
+3) [5 ans.](EXAM_NAT_V07_Q37_VRAI)
+4) [7 ans.](EXAM_NAT_V07_Q37_FAUX)
 
 ## EXAM_NAT_V07_Q37_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q38)
@@ -64211,7 +65057,7 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V07_Q37 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q38)
 
@@ -64230,19 +65076,21 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 ### Question 38 sur 40
 
-Un ami pense que la liberté de circulation lui permet de camper où il veut en France, y compris sur un terrain privé, du moment qu'il ne dérange personne.
+<!-- Source naturalisation : MS-NAT-T2-021 -->
 
-**Que lui répondez-vous ?**
+Lors d’un atelier civique à la mairie, une personne cherche à comprendre le rôle des responsables publics et des institutions. Un proche pense que la bonne réponse pourrait être « 4 ans ». Aidez-le à raisonner.
 
-1) [Il peut s'installer sur n'importe quel terrain privé.](EXAM_NAT_V07_Q38_FAUX)
-2) [Il peut se déplacer librement sur le territoire national et à l'étranger, dans le respect des règles.](EXAM_NAT_V07_Q38_VRAI)
-3) [Il peut conduire n'importe quel véhicule sans permis.](EXAM_NAT_V07_Q38_FAUX)
-4) [Il peut voyager sans papiers d'identité dans toute l'Europe.](EXAM_NAT_V07_Q38_FAUX)
+**Pour combien de temps les députés sont-ils élus ?**
+
+1) [4 ans.](EXAM_NAT_V07_Q38_FAUX)
+2) [6 ans.](EXAM_NAT_V07_Q38_FAUX)
+3) [7 ans.](EXAM_NAT_V07_Q38_FAUX)
+4) [5 ans.](EXAM_NAT_V07_Q38_VRAI)
 
 ## EXAM_NAT_V07_Q38_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q39)
@@ -64251,7 +65099,7 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 `@err_NAT_V07_Q38 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q39)
 
@@ -64270,19 +65118,21 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 ### Question 39 sur 40
 
-Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe religieux et se demande si cette règle s'applique aussi à lui, en tant qu'usager.
+<!-- Source naturalisation : MS-NAT-T2-022 -->
 
-**Qui, en priorité, doit respecter la neutralité religieuse dans l'exercice de ses fonctions au sein d'une préfecture ?**
+Une discussion sur les élections amène votre entourage à vérifier une règle du système politique français. Dans le groupe, la réponse « 7 ans » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Les usagers.](EXAM_NAT_V07_Q39_FAUX)
-2) [Les visiteurs.](EXAM_NAT_V07_Q39_FAUX)
-3) [Les citoyens.](EXAM_NAT_V07_Q39_FAUX)
-4) [Les agents publics.](EXAM_NAT_V07_Q39_VRAI)
+**Pour combien de temps les sénateurs sont-ils élus ?**
+
+1) [6 ans.](EXAM_NAT_V07_Q39_VRAI)
+2) [5 ans.](EXAM_NAT_V07_Q39_FAUX)
+3) [7 ans.](EXAM_NAT_V07_Q39_FAUX)
+4) [9 ans.](EXAM_NAT_V07_Q39_FAUX)
 
 ## EXAM_NAT_V07_Q39_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q40)
@@ -64291,7 +65141,7 @@ Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe
 
 `@err_NAT_V07_Q39 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V07_Q40)
 
@@ -64310,14 +65160,16 @@ Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe
 
 ### Question 40 sur 40
 
-Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en connaître la signification exacte.
+<!-- Source naturalisation : MS-NAT-T3-013 -->
 
-**Que signifie ce sigle ?**
+Dans une situation de la vie quotidienne, une personne souhaite vérifier quels droits et quels devoirs s’appliquent en France. Un participant propose la réponse « Une contravention ». Vous devez vérifier cette affirmation.
 
-1) [Protection médicale assistée.](EXAM_NAT_V07_Q40_FAUX)
-2) [Programme médical avancé.](EXAM_NAT_V07_Q40_FAUX)
-3) [Parcours médical administratif.](EXAM_NAT_V07_Q40_FAUX)
-4) [Procréation médicalement assistée.](EXAM_NAT_V07_Q40_VRAI)
+**Lequel de ces actes porte gravement atteinte à la dignité humaine ?**
+
+1) [La torture ou l'esclavage.](EXAM_NAT_V07_Q40_VRAI)
+2) [Une critique.](EXAM_NAT_V07_Q40_FAUX)
+3) [Une amende.](EXAM_NAT_V07_Q40_FAUX)
+4) [Une contravention.](EXAM_NAT_V07_Q40_FAUX)
 
 ## EXAM_NAT_V07_Q40_VRAI
 
@@ -64348,214 +65200,133 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V07_Q01 == 1`
-**1. En quelle année Napoléon Ier est-il devenu empereur ?**  
-✅ 1804.
+**1. Qui était Simone de Beauvoir, autrice du Deuxième Sexe ?**  
+✅ Une philosophe et écrivaine française.
 
-Napoléon Bonaparte est devenu empereur des Français en 1804 sous le nom de Napoléon Ier.
+Simone de Beauvoir est une philosophe, écrivaine et essayiste française. Son ouvrage Le Deuxième Sexe est une référence majeure dans l'histoire du féminisme.
 
-💡 Retenez : 1804 = Napoléon empereur
+💡 Retenez le mot-clé : Simone de Beauvoir = philosophe et écrivaine (Le Deuxième Sexe)
 `endif`
 
 `if @err_NAT_V07_Q02 == 1`
-**2. Que signifie le mot « fraternité » dans la devise française ?**  
-✅ La solidarité, l'entraide et le respect entre toutes les personnes.
+**2. Qui était Albert Camus, prix Nobel de littérature en 1957 ?**  
+✅ Un écrivain et philosophe français.
 
-La fraternité est l'une des trois valeurs de la devise républicaine. Elle invite chacun à vivre ensemble dans le respect, la solidarité et l'entraide.
+Albert Camus est l'un des plus grands écrivains français du XXᵉ siècle. Il est notamment l'auteur de L'Étranger et La Peste et reçoit le prix Nobel de littérature en 1957.
 
-💡 Retenez le mot-clé : fraternité = solidarité, entraide, respect
+💡 Retenez le mot-clé : Albert Camus = écrivain et philosophe, prix Nobel 1957
 `endif`
 
 `if @err_NAT_V07_Q03 == 1`
-**3. Combien de personnes parlent français dans le monde ?**  
-✅ 320 millions.
+**3. Qui était Marguerite Yourcenar, première femme élue à l'Académie française en 1980 ?**  
+✅ Une écrivaine française.
 
-Le français est parlé sur les cinq continents par environ 320 millions de personnes. Ce chiffre évolue régulièrement.
+Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient la première femme élue à l'Académie française.
 
-💡 Retenez : 320 millions de personnes parlent français
+💡 Retenez le mot-clé : Marguerite Yourcenar = 1ère femme à l'Académie française (1980)
 `endif`
 
 `if @err_NAT_V07_Q04 == 1`
-**4. Déclarer ses revenus aux services fiscaux est :**  
-✅ Une obligation.
+**4. Qui était Paul Cézanne ?**  
+✅ Un peintre français.
 
-La déclaration des revenus permet à l'administration fiscale de calculer les impôts et certains droits sociaux. Elle constitue une obligation pour les personnes concernées.
+Paul Cézanne est un peintre français majeur de la fin du XIXᵉ siècle. Son œuvre a profondément influencé l'art moderne.
 
-💡 Retenez le mot-clé : déclaration de revenus = obligation
+💡 Retenez le mot-clé : Paul Cézanne = peintre français
 `endif`
 
 `if @err_NAT_V07_Q05 == 1`
-**5. Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**  
-✅ 1962.
+**5. Qui est l'auteur de la célèbre sculpture Le Penseur ?**  
+✅ Un sculpteur français (Auguste Rodin).
 
-Depuis le référendum de 1962, le président de la République est élu au suffrage universel direct par les citoyens.
+Auguste Rodin est considéré comme le père de la sculpture moderne. Parmi ses œuvres les plus célèbres figurent Le Penseur et La Porte de l'Enfer.
 
-💡 Retenez : 1962 = élection suffrage universel direct (sans intermédiaire)
+💡 Retenez le mot-clé : Le Penseur = Auguste Rodin
 `endif`
 
 `if @err_NAT_V07_Q06 == 1`
-**6. Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**  
-✅ Les hommes naissent et demeurent libres et égaux en droits.
+**6. Lequel de ces compositeurs est français ?**  
+✅ Claude Debussy.
 
-L'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 affirme : « Les hommes naissent et demeurent libres et égaux en droits. »
+La France compte de nombreux compositeurs mondialement connus, comme Claude Debussy, Maurice Ravel ou Georges Bizet, dont les œuvres sont jouées dans le monde entier.
 
-💡 Retenez le mot-clé : article 1er DDHC = libres et égaux en droits
+💡 Retenez le mot-clé : compositeurs français = Debussy, Ravel, Bizet...
 `endif`
 
 `if @err_NAT_V07_Q07 == 1`
-**7. Quel musée est situé à Paris ?**  
-✅ Le musée du Louvre.
+**7. Quelle île française, collectivité territoriale unique, est située en Méditerranée ?**  
+✅ La Corse.
 
-Le musée du Louvre est situé à Paris. C'est l'un des plus grands musées du monde et il abrite notamment la Joconde.
+La Corse est une île française située en Méditerranée. Elle constitue une collectivité territoriale unique et fait partie intégrante de la République française.
 
-💡 Retenez : Musée Paris = Louvre.
+💡 Retenez le mot-clé : île française méditerranéenne = la Corse
 `endif`
 
 `if @err_NAT_V07_Q08 == 1`
-**8. Une personne peut-elle changer librement de religion en France ?**  
-✅ Oui, chacun est libre de changer de religion.
+**8. Quel est le plus haut sommet de France, situé dans les Alpes ?**  
+✅ Le Mont Blanc.
 
-La liberté de conscience garantit à chacun le droit de croire, de changer de religion ou de ne pratiquer aucune religion.
+Le Mont Blanc, situé dans les Alpes, culmine à environ 4 805 mètres. Il est le plus haut sommet de France et d'Europe occidentale.
 
-💡 Retenez le mot-clé : liberté de conscience = droit de changer de religion
+💡 Retenez le mot-clé : plus haut sommet de France = Mont Blanc
 `endif`
 
 `if @err_NAT_V07_Q09 == 1`
-**9. Quel monument parisien est l'un des symboles de la France ?**  
-✅ La tour Eiffel.
+**9. Quel département français d'outre-mer est situé dans l'océan Indien, à l'est de Madagascar ?**  
+✅ La Réunion.
 
-Construite pour l'Exposition universelle de 1889, la tour Eiffel est aujourd'hui l'un des monuments les plus connus au monde et un symbole de la France.
+La Réunion est un département et une région d'outre-mer situés dans l'océan Indien, à l'est de Madagascar.
 
-💡 Retenez le mot-clé : Tour Eiffel.
+💡 Retenez le mot-clé : océan Indien (est de Madagascar) = La Réunion
 `endif`
 
 `if @err_NAT_V07_Q10 == 1`
-**10. Doit-on déclarer ses revenus chaque année aux services fiscaux ?**  
-✅ Oui, c'est une obligation.
+**10. Qui peut adhérer à un syndicat en France ?**  
+✅ Tous les salariés.
 
-Toute personne concernée doit déclarer ses revenus chaque année. Cette déclaration permet à l'administration fiscale de calculer correctement l'impôt dû ou de constater qu'aucun impôt n'est à payer.
+La liberté syndicale est un droit fondamental. Les salariés peuvent adhérer à un syndicat pour défendre leurs intérêts professionnels.
 
-💡 Retenez le mot-clé : déclaration de revenus = obligation annuelle
+💡 Retenez le mot-clé : liberté syndicale = ouverte à tous les salariés
 `endif`
 
 `if @err_NAT_V07_Q11 == 1`
-**11. Qu'est-ce que le droit de grève ?**  
-✅ Le droit de cesser collectivement le travail pour défendre des revendications professionnelles.
+**11. Un employeur peut-il licencier une salariée en raison de sa grossesse ?**  
+✅ Non, la salariée est protégée contre le licenciement pendant sa grossesse.
 
-Le droit de grève est une liberté reconnue par la Constitution. Il permet aux salariés de défendre leurs intérêts professionnels dans le respect de la loi.
+En France, une salariée bénéficie d'une protection contre le licenciement pendant sa grossesse et son congé maternité. Son employeur ne peut pas la licencier en raison de sa grossesse.
 
-💡 Retenez : Grève = droits de défendre des intérêts (ex : des licenciements économiques massifs)
+💡 Retenez le mot-clé : grossesse = protection contre le licenciement
 `endif`
 
 `if @err_NAT_V07_Q12 == 1`
-**12. Qui dirige l'action du Gouvernement au quotidien ?**  
-✅ Le Premier ministre.
+**12. Entre quels âges l'instruction est-elle obligatoire en France ?**  
+✅ De 3 ans à 16 ans.
 
-Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du Gouvernement et veille à l'exécution des lois.
+Depuis 2019, l'instruction est obligatoire pour tous les enfants de 3 ans à 16 ans, que celle-ci soit suivie à l'école ou dans un autre cadre autorisé par la loi.
 
-💡 Retenez le mot-clé : action du Gouvernement = dirigée par le Premier ministre
+💡 Retenez le mot-clé : instruction obligatoire = de 3 à 16 ans
 `endif`
 
 `if @err_NAT_V07_Q13 == 1`
-**13. Dans une entreprise, le droit syndical permet :**  
-✅ De créer un syndicat, d'y adhérer ou non, et d'exercer une activité syndicale dans le respect de la loi.
+**13. Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?**  
+✅ Jusqu'à 30 000 € d'amende et deux ans d'emprisonnement.
 
-Le droit syndical garantit aux salariés la liberté d'adhérer à un syndicat, de ne pas y adhérer ou de participer à ses activités, dans le respect de la loi.
+Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales importantes.
 
-💡 Retenez : Le droit Syndical = liberté de créer ou d'adhérer ou non à un syndicat
+💡 Retenez le mot-clé : non-respect de l'instruction = jusqu'à 30 000 € et 2 ans d'emprisonnement
 `endif`
 
 `if @err_NAT_V07_Q14 == 1`
-**14. En quels niveaux le territoire français est-il découpé ?**  
-✅ Communes, départements et régions.
+**14. Qu'est-ce que l'autorité parentale ?**  
+✅ L'ensemble des droits et des devoirs des parents envers leur enfant.
 
-L'organisation territoriale de la France repose principalement sur trois niveaux de collectivités territoriales : les communes, les départements et les régions, chacun exerçant des compétences spécifiques.
+L'autorité parentale a pour objectif de protéger l'enfant, d'assurer son éducation, sa santé, sa sécurité et son développement, dans le respect de ses droits.
 
-💡 Retenez le mot-clé : organisation territoriale = communes + départements + régions
+💡 Retenez le mot-clé : autorité parentale = droits ET devoirs des parents
 `endif`
 
 `if @err_NAT_V07_Q15 == 1`
-**15. Que garantit la liberté de la presse ?**  
-✅ La liberté d'informer et d'être informé.
-
-La liberté de la presse permet aux médias d'informer le public tout en respectant les lois, notamment celles qui protègent les personnes contre la diffamation, l'injure ou la provocation à la haine.
-
-💡 Retenez le mot-clé : liberté de la presse = informer et être informé
-`endif`
-
-`if @err_NAT_V07_Q16 == 1`
-**16. Pour combien de temps les sénateurs sont-ils élus ?**  
-✅ 6 ans.
-
-Les sénateurs sont élus pour un mandat de 6 ans. Le Sénat est renouvelé par moitié tous les trois ans.
-
-💡 Retenez le mot-clé : sénateurs = mandat de 6 ans
-`endif`
-
-`if @err_NAT_V07_Q17 == 1`
-**17. Quelles sont les conditions pour toucher les allocations chômage ?**  
-✅ Avoir travaillé et remplir les conditions prévues par la réglementation.
-
-Les allocations chômage sont versées aux personnes qui remplissent les conditions prévues par la réglementation, notamment une durée minimale d'activité et une inscription auprès de France Travail.
-
-💡 Retenez : Le droit au chômage doit répondre à plusieurs conditions
-`endif`
-
-`if @err_NAT_V07_Q18 == 1`
-**18. Quel est le rôle du Premier ministre ?**  
-✅ Il dirige l'action du Gouvernement et veille à l'exécution des lois.
-
-Le Premier ministre dirige l'action du Gouvernement. Il coordonne le travail des ministres et veille à l'application des lois et des politiques publiques.
-
-💡 Retenez le mot-clé : Premier ministre = dirige le Gouvernement + exécution des lois
-`endif`
-
-`if @err_NAT_V07_Q19 == 1`
-**19. Qui était un célèbre musicien français ?**  
-✅ Hector Berlioz.
-
-La France a vu naître de grands compositeurs comme Hector Berlioz, Georges Bizet, Claude Debussy ou Maurice Ravel, dont les œuvres sont connues dans le monde entier.
-
-💡 Retenez : Berlioz = musicien
-`endif`
-
-`if @err_NAT_V07_Q20 == 1`
-**20. Quelle est la mission de France Travail ?**  
-✅ Accompagner les personnes dans leur recherche d'emploi.
-
-France Travail accompagne les demandeurs d'emploi, propose des offres, des formations et des conseils afin de favoriser le retour à l'emploi.
-
-💡 Retenez le mot-clé : France Travail
-`endif`
-
-`if @err_NAT_V07_Q21 == 1`
-**21. Quelle collectivité territoriale a la compétence des collèges publics ?**  
-✅ Le département.
-
-Les collèges publics relèvent de la compétence des départements, qui assurent notamment leur construction, leur entretien et leur équipement.
-
-💡 Retenez le mot-clé : collèges = compétence du département
-`endif`
-
-`if @err_NAT_V07_Q22 == 1`
-**22. Lequel de ces personnages a un lien avec la République française ?**  
-✅ Jules Ferry.
-
-Jules Ferry est connu pour les lois qui ont rendu l'école gratuite, laïque et obligatoire. Son action est étroitement liée aux valeurs de la République.
-
-💡 Retenez : Jules Ferry a rendu l'école obligatoire
-`endif`
-
-`if @err_NAT_V07_Q23 == 1`
-**23. Comment la Constitution peut-elle être révisée ?**  
-✅ Par référendum ou par le Parlement réuni en Congrès.
-
-La Constitution est le texte juridique suprême. Sa révision suit une procédure spécifique, notamment par référendum ou par le Parlement réuni en Congrès (article 89 de la Constitution).
-
-💡 Retenez le mot-clé : révision de la Constitution = référendum ou Congrès
-`endif`
-
-`if @err_NAT_V07_Q24 == 1`
-**24. Que peut faire un usager du service public dans une mairie ?**  
+**15. Que peut faire un usager du service public dans une mairie ?**  
 ✅ Accéder aux services publics dans les mêmes conditions que tous les autres usagers.
 
 Le service public applique le principe d'égalité : chaque usager bénéficie des mêmes droits et des mêmes conditions d'accès, quelles que soient ses convictions, son origine ou sa religion.
@@ -64563,40 +65334,121 @@ Le service public applique le principe d'égalité : chaque usager bénéficie d
 💡 Retenez le mot-clé : service public = égalité de traitement entre usagers
 `endif`
 
-`if @err_NAT_V07_Q25 == 1`
-**25. Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**  
-✅ L'intérêt général.
-
-Certaines libertés peuvent être limitées afin de protéger l'intérêt général, par exemple pour assurer la sécurité, la santé publique ou les droits d'autrui.
-
-💡 Retenez le mot-clé : limites aux libertés = intérêt général
-`endif`
-
-`if @err_NAT_V07_Q26 == 1`
-**26. Quelle peine a été supprimée en 1981 ?**  
-✅ La peine de mort.
-
-La peine de mort a été abolie en France en 1981 grâce à la loi portée par Robert Badinter, sous la présidence de François Mitterrand.
-
-💡 Retenez : 1981 = abandon de la peine de mort
-`endif`
-
-`if @err_NAT_V07_Q27 == 1`
-**27. Lequel de ces actes porte gravement atteinte à la dignité humaine ?**  
-✅ La torture ou l'esclavage.
-
-La dignité humaine signifie que chaque personne doit être respectée. Les traitements inhumains, la torture ou l'esclavage sont interdits car ils portent atteinte à cette dignité.
-
-💡 Retenez le mot-clé : atteintes à la dignité = torture, esclavage, traitements inhumains
-`endif`
-
-`if @err_NAT_V07_Q28 == 1`
-**28. En France, il est possible pour l'État de financer :**  
+`if @err_NAT_V07_Q16 == 1`
+**16. En France, il est possible pour l'État de financer :**  
 ✅ Les aumôneries dans certains services publics (hôpitaux, prisons, armées).
 
 En principe, la loi de 1905 interdit à l'État de financer les cultes. Toutefois, des exceptions existent, notamment pour les aumôneries dans certains services publics afin de garantir la liberté de culte des personnes qui ne peuvent pas se déplacer.
 
 💡 Retenez le mot-clé : exception au financement des cultes = aumôneries (hôpitaux, prisons, armées)
+`endif`
+
+`if @err_NAT_V07_Q17 == 1`
+**17. En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**  
+✅ 1905.
+
+La loi du 9 décembre 1905 fonde la laïcité française en organisant la séparation des Églises et de l'État.
+
+💡 Retenez le mot-clé : loi de séparation des Églises et de l'État = 1905
+`endif`
+
+`if @err_NAT_V07_Q18 == 1`
+**18. Que dit la loi de 1905 ?**  
+✅ Elle sépare les Églises et l'État et garantit la liberté de conscience.
+
+La loi de 1905 établit la séparation des Églises et de l'État. Elle garantit la liberté de conscience et assure que la République ne reconnaît ni ne salarie aucun culte, sous réserve des exceptions prévues par la loi.
+
+💡 Retenez le mot-clé : loi de 1905 = séparation Églises/État + liberté de conscience
+`endif`
+
+`if @err_NAT_V07_Q19 == 1`
+**19. Quel est le rôle du Premier ministre ?**  
+✅ Il dirige l'action du Gouvernement et veille à l'exécution des lois.
+
+Le Premier ministre dirige l'action du Gouvernement. Il coordonne le travail des ministres et veille à l'application des lois et des politiques publiques.
+
+💡 Retenez le mot-clé : Premier ministre = dirige le Gouvernement + exécution des lois
+`endif`
+
+`if @err_NAT_V07_Q20 == 1`
+**20. Quel est le rôle du Défenseur des droits ?**  
+✅ Il protège les droits et les libertés des personnes et lutte contre les discriminations.
+
+Le Défenseur des droits est une autorité indépendante. Il protège les droits et les libertés, lutte contre les discriminations et veille au respect des règles par les services publics.
+
+💡 Retenez le mot-clé : Défenseur des droits = protège les droits + lutte contre les discriminations
+`endif`
+
+`if @err_NAT_V07_Q21 == 1`
+**21. En quelle année la citoyenneté européenne a-t-elle été créée ?**  
+✅ 1992.
+
+La citoyenneté européenne a été créée par le traité de Maastricht en 1992. Elle complète la citoyenneté nationale et accorde certains droits aux citoyens des États membres de l'Union européenne.
+
+💡 Retenez le mot-clé : citoyenneté européenne = 1992 (traité de Maastricht)
+`endif`
+
+`if @err_NAT_V07_Q22 == 1`
+**22. Quel est le dernier pays à avoir rejoint l'Union européenne ?**  
+✅ La Croatie.
+
+La Croatie est devenue le 28ᵉ État membre de l'Union européenne le 1ᵉʳ juillet 2013.
+
+💡 Retenez le mot-clé : dernier pays entré dans l'UE = Croatie (2013)
+`endif`
+
+`if @err_NAT_V07_Q23 == 1`
+**23. Quelle est la devise de l'Union européenne ?**  
+✅ « Unie dans la diversité ».
+
+La devise de l'Union européenne est « Unie dans la diversité ». Elle souligne que les États membres coopèrent tout en conservant leurs langues, leurs cultures et leurs traditions.
+
+💡 Retenez le mot-clé : devise de l'UE = « Unie dans la diversité »
+`endif`
+
+`if @err_NAT_V07_Q24 == 1`
+**24. Qui a composé l'hymne européen ?**  
+✅ Ludwig van Beethoven.
+
+L'hymne européen est tiré de l'Ode à la joie, composée par Ludwig van Beethoven, d'après un poème de Friedrich Schiller.
+
+💡 Retenez le mot-clé : hymne européen = composé par Beethoven
+`endif`
+
+`if @err_NAT_V07_Q25 == 1`
+**25. À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?**  
+✅ 18 ans.
+
+En France, la vente de boissons alcoolisées est interdite aux mineurs de moins de 18 ans, afin de protéger leur santé.
+
+💡 Retenez le mot-clé : vente d'alcool = interdite aux moins de 18 ans
+`endif`
+
+`if @err_NAT_V07_Q26 == 1`
+**26. Ne pas respecter le Code de la route constitue :**  
+✅ Une infraction punie par la loi.
+
+Le Code de la route est un ensemble de règlements et de lois. Son non-respect constitue une infraction pouvant entraîner une amende, un retrait de points, une suspension du permis ou d'autres sanctions selon la gravité.
+
+💡 Retenez le mot-clé : non-respect du Code de la route = infraction punie par la loi
+`endif`
+
+`if @err_NAT_V07_Q27 == 1`
+**27. La privation des droits civiques est réservée aux infractions les plus graves. Laquelle de ces situations peut être concernée ?**  
+✅ Un crime comme le terrorisme ou la corruption.
+
+La peine d'inéligibilité ou de privation de droits civiques est réservée aux infractions graves, notamment celles portant atteinte à la nation, aux droits des Hommes, à la vie publique et politique.
+
+💡 Retenez le mot-clé : privation des droits civiques = infractions les plus graves (terrorisme, corruption...)
+`endif`
+
+`if @err_NAT_V07_Q28 == 1`
+**28. Comment demander une carte nationale d'identité ?**  
+✅ En faire la demande auprès d'une mairie équipée.
+
+La carte nationale d'identité est délivrée après dépôt d'un dossier dans une mairie habilitée à recueillir les demandes.
+
+💡 Retenez le mot-clé : carte nationale d'identité = demande en mairie équipée
 `endif`
 
 ### Partie 2 — Mises en situation
@@ -64606,87 +65458,87 @@ En principe, la loi de 1905 interdit à l'État de financer les cultes. Toutefoi
 `endif`
 
 `if @err_NAT_V07_Q29 == 1`
-**29. Pour quel motif peut-on réellement limiter la liberté d'expression ?**  
-✅ Pour protéger les droits d'autrui, l'ordre public ou lutter contre les infractions prévues par la loi.
+**29. Que garantit la liberté d'expression ?**  
+✅ Le droit d'exprimer librement ses opinions dans le respect de la loi et des droits d'autrui.
 
-La liberté d'expression est un droit fondamental, mais elle ne permet pas d'insulter, de diffamer, de provoquer à la haine ou de commettre des infractions prévues par la loi.
+La bonne réponse est « Le droit d'exprimer librement ses opinions dans le respect de la loi et des droits d'autrui ». La liberté d'expression est un droit fondamental. Elle permet d'exprimer ses idées, mais elle connaît des limites prévues par la loi, notamment pour protéger les personnes contre l'injure, la diffamation ou l'incitation à la haine.
 `endif`
 
 `if @err_NAT_V07_Q30 == 1`
-**30. Laquelle choisissez-vous ?**  
-✅ Un vol.
+**30. Depuis quelle année les Français élisent-ils le Président de la République au suffrage universel direct ?**  
+✅ 1962.
 
-Le vol est un délit. En droit français, les infractions sont classées en trois catégories : contraventions, délits et crimes. L'homicide volontaire est, lui, un crime.
+La bonne réponse est « 1962 ». Le référendum de 1962, voulu par le général de Gaulle, instaure l'élection du Président de la République au suffrage universel direct.
 `endif`
 
 `if @err_NAT_V07_Q31 == 1`
-**31. Que lui répondez-vous ?**  
-✅ Les réseaux sociaux sont soumis aux lois françaises.
+**31. En quelle année l'Union européenne a-t-elle été officiellement créée par le traité de Maastricht ?**  
+✅ 1992.
 
-Les réseaux sociaux ne sont pas une zone de non-droit. Les propos injurieux, diffamatoires, discriminatoires ou incitant à la haine sont interdits et peuvent être sanctionnés, y compris sur un compte privé.
+La bonne réponse est « 1992 ». L'Union européenne est officiellement créée par le traité de Maastricht, signé en 1992. Ce traité instaure également la citoyenneté européenne.
 `endif`
 
 `if @err_NAT_V07_Q32 == 1`
-**32. Que pouvez-vous lui dire sur ce que fait la loi française face à ce type de discrimination ?**  
-✅ La loi interdit les discriminations et les sanctionne.
+**32. De quand à quand s'est déroulée la Seconde Guerre mondiale ?**  
+✅ De 1939 à 1945.
 
-La loi protège chaque personne contre les discriminations fondées notamment sur l'origine, le sexe, la religion, le handicap ou l'orientation sexuelle, y compris dans l'accès au logement. Ces discriminations sont sanctionnées pénalement.
+La bonne réponse est « De 1939 à 1945 ». La Seconde Guerre mondiale s'est déroulée de 1939 à 1945. Elle a profondément marqué la France, l'Europe et le monde.
 `endif`
 
 `if @err_NAT_V07_Q33 == 1`
-**33. Quelle liberté est concernée ?**  
-✅ La liberté de conscience.
+**33. Qui peut demander le divorce en France ?**  
+✅ L'un des deux époux ou les deux ensemble.
 
-La liberté de conscience garantit à chacun le droit de choisir ses convictions religieuses ou philosophiques, de les changer ou de ne pas avoir de religion.
+La bonne réponse est « L'un des deux époux ou les deux ensemble ». En France, un divorce peut être demandé par l'un des époux ou être engagé d'un commun accord selon les modalités prévues par la loi.
 `endif`
 
 `if @err_NAT_V07_Q34 == 1`
-**34. Sur quel document officiel peut-on couramment voir ce visage, celui de Marianne ?**  
-✅ Les timbres-poste.
+**34. Auprès de quel organisme demander le remboursement principal de ses frais de santé ?**  
+✅ Auprès de l'Assurance maladie (CPAM).
 
-Marianne, symbole de la République française, figure notamment sur les timbres-poste français, ainsi que dans de nombreuses mairies sous forme de buste. Elle n'apparaît pas sur le permis de conduire, une facture ou le passeport.
+La bonne réponse est « Auprès de l'Assurance maladie (CPAM) ». L'Assurance maladie prend en charge une partie des dépenses de santé. Une mutuelle peut ensuite compléter ce remboursement.
 `endif`
 
 `if @err_NAT_V07_Q35 == 1`
-**35. Que lui répondez-vous ?**  
-✅ Le prosélytisme et les pressions religieuses sur les élèves.
+**35. Que commémore la fête nationale ?**  
+✅ La prise de la Bastille en 1789 et la Fête de la Fédération de 1790.
 
-La Charte de la laïcité à l'école interdit le prosélytisme et les pressions exercées sur les élèves en raison de leurs convictions. En revanche, l'étude du fait religieux dans un but de connaissance, par exemple en histoire, reste possible.
+La bonne réponse est « La prise de la Bastille en 1789 et la Fête de la Fédération de 1790 ». Le 14 juillet est la fête nationale française. Elle rappelle la Révolution française et l'attachement aux valeurs de la République.
 `endif`
 
 `if @err_NAT_V07_Q36 == 1`
-**36. Quelle est l'attitude à adopter ?**  
-✅ Alerter les secours, la police ou la gendarmerie.
+**36. Que porte Marianne sur la tête ?**  
+✅ Un bonnet phrygien.
 
-Face à des violences, il est important d'agir en alertant les secours ou les forces de l'ordre, sans se mettre soi-même en danger en intervenant physiquement.
+La bonne réponse est « Un bonnet phrygien ». Le bonnet phrygien est un symbole de liberté hérité de la Révolution française. Il est porté par Marianne, figure emblématique de la République.
 `endif`
 
 `if @err_NAT_V07_Q37 == 1`
-**37. Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**  
-✅ Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.
+**37. Pour combien de temps le Président de la République est-il élu ?**  
+✅ 5 ans.
 
-L'école publique accueille tous les élèves sans distinction de religion ou de conviction. La laïcité garantit la liberté de conscience de chacun et la neutralité de l'établissement, sans interdire ni imposer aucune religion.
+La bonne réponse est « 5 ans ». Depuis la réforme constitutionnelle de 2000, le Président de la République est élu pour un mandat de 5 ans, appelé quinquennat.
 `endif`
 
 `if @err_NAT_V07_Q38 == 1`
-**38. Que lui répondez-vous ?**  
-✅ Il peut se déplacer librement sur le territoire national et à l'étranger, dans le respect des règles.
+**38. Pour combien de temps les députés sont-ils élus ?**  
+✅ 5 ans.
 
-La liberté de circulation permet à chacun de se déplacer librement sur le territoire et à l'étranger, mais elle ne donne aucun droit sur la propriété privée d'autrui, ni de conduire sans permis, ni de voyager sans document d'identité.
+La bonne réponse est « 5 ans ». Les députés sont élus pour un mandat de 5 ans lors des élections législatives. Ils siègent à l'Assemblée nationale.
 `endif`
 
 `if @err_NAT_V07_Q39 == 1`
-**39. Qui, en priorité, doit respecter la neutralité religieuse dans l'exercice de ses fonctions au sein d'une préfecture ?**  
-✅ Les agents publics.
+**39. Pour combien de temps les sénateurs sont-ils élus ?**  
+✅ 6 ans.
 
-Les agents publics exercent leurs fonctions dans le respect du principe de neutralité et ne doivent pas manifester leurs convictions religieuses au travail. Les usagers, eux, restent libres de leurs convictions dans les espaces publics.
+La bonne réponse est « 6 ans ». Les sénateurs sont élus pour un mandat de 6 ans. Le Sénat est renouvelé par moitié tous les trois ans.
 `endif`
 
 `if @err_NAT_V07_Q40 == 1`
-**40. Que signifie ce sigle ?**  
-✅ Procréation médicalement assistée.
+**40. Lequel de ces actes porte gravement atteinte à la dignité humaine ?**  
+✅ La torture ou l'esclavage.
 
-La PMA signifie « Procréation médicalement assistée ». Elle regroupe les techniques médicales permettant d'aider à concevoir un enfant, dans les conditions prévues par la loi.
+La bonne réponse est « La torture ou l'esclavage ». La dignité humaine signifie que chaque personne doit être respectée. Les traitements inhumains, la torture ou l'esclavage sont interdits car ils portent atteinte à cette dignité.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -64960,11 +65812,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -64994,7 +65846,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH03 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -65015,8 +65867,20 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T1_CH05 >= 3`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 >= 3`
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
 `if @errchap_T2_CH03 >= 3`
 1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 >= 3`
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
 1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -65027,14 +65891,26 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T4_CH01 >= 3`
 1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
+`if @errchap_T4_CH02 >= 3`
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
 `if @errchap_T4_CH03 >= 3`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 >= 3`
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
+`if @errchap_T5_CH04 >= 3`
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -65055,8 +65931,20 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T1_CH05 == 2`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 2`
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
 `if @errchap_T2_CH03 == 2`
 1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 2`
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
 1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -65067,14 +65955,26 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T4_CH01 == 2`
 1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
+`if @errchap_T4_CH02 == 2`
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
 `if @errchap_T4_CH03 == 2`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 2`
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
+`if @errchap_T5_CH04 == 2`
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -65095,8 +65995,20 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T1_CH05 == 1`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+`endif`
+`if @errchap_T2_CH02 == 1`
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+`endif`
 `if @errchap_T2_CH03 == 1`
 1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+`endif`
+`if @errchap_T2_CH04 == 1`
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
 1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
@@ -65107,18 +66019,30 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T4_CH01 == 1`
 1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
+`if @errchap_T4_CH02 == 1`
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+`endif`
 `if @errchap_T4_CH03 == 1`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+`endif`
+`if @errchap_T5_CH01 == 1`
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
+`if @errchap_T5_CH04 == 1`
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+`endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH03 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
@@ -65138,22 +66062,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T2_CH04 = 0`
-`@errchap_T5_CH01 = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T5_CH04 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T4_CH02 = 0`
-`@errchap_T1_CH04 = 0`
-`@errchap_T1_CH05 = 0`
-`@errchap_T4_CH01 = 0`
-`@errchap_T2_CH02 = 0`
-`@errchap_T5_CH03 = 0`
 `@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
-`@errchap_T2_CH03 = 0`
 `@errchap_T1_CH02 = 0`
 `@errchap_T1_CH03 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -65164,8 +66091,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q01
 
 `@err_NAT_V08_Q01 = 0`
-
 `@exam_variant = 8`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -65178,17 +66105,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**Quelle institution française doit rester neutre en matière de religion ?**
+<!-- Source naturalisation : NAT-T4-076 -->
 
-1) [Les citoyens.](EXAM_NAT_V08_Q01_FAUX)
-2) [Les associations.](EXAM_NAT_V08_Q01_FAUX)
-3) [Les entreprises privées.](EXAM_NAT_V08_Q01_FAUX)
-4) [L'État.](EXAM_NAT_V08_Q01_VRAI)
+**Combien de régions compte la France métropolitaine depuis la réforme territoriale de 2016 ?**
+
+1) [18.](EXAM_NAT_V08_Q01_FAUX)
+2) [22.](EXAM_NAT_V08_Q01_FAUX)
+3) [13.](EXAM_NAT_V08_Q01_VRAI)
+4) [96.](EXAM_NAT_V08_Q01_FAUX)
 
 ## EXAM_NAT_V08_Q01_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q02)
@@ -65197,7 +66126,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q01 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q02)
 
@@ -65216,17 +66145,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**Quels sont les trois pouvoirs de la République française ?**
+<!-- Source naturalisation : NAT-T4-077 -->
 
-1) [Président, maire, préfet.](EXAM_NAT_V08_Q02_FAUX)
-2) [Gouvernement, Sénat, police.](EXAM_NAT_V08_Q02_FAUX)
-3) [Exécutif et législatif uniquement.](EXAM_NAT_V08_Q02_FAUX)
-4) [Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.](EXAM_NAT_V08_Q02_VRAI)
+**Quel département d'outre-mer se situe dans l'océan Indien, au sud-est du continent africain ?**
+
+1) [La Corse.](EXAM_NAT_V08_Q02_FAUX)
+2) [La Martinique.](EXAM_NAT_V08_Q02_FAUX)
+3) [La Guadeloupe.](EXAM_NAT_V08_Q02_FAUX)
+4) [La Réunion.](EXAM_NAT_V08_Q02_VRAI)
 
 ## EXAM_NAT_V08_Q02_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q03)
@@ -65235,7 +66166,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q02 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q03)
 
@@ -65254,12 +66185,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**Quelle est l'une des conditions pour passer l'examen du permis de conduire ?**
+<!-- Source naturalisation : NAT-T5-036 -->
 
-1) [Ne pas porter de lunettes.](EXAM_NAT_V08_Q03_FAUX)
-2) [Être propriétaire d'une voiture.](EXAM_NAT_V08_Q03_FAUX)
-3) [Avoir un emploi.](EXAM_NAT_V08_Q03_FAUX)
-4) [Avoir l'âge minimum requis.](EXAM_NAT_V08_Q03_VRAI)
+**Laquelle de ces situations constitue un motif légitime d'absence scolaire ?**
+
+1) [Vacances anticipées.](EXAM_NAT_V08_Q03_FAUX)
+2) [Faire les courses.](EXAM_NAT_V08_Q03_FAUX)
+3) [Dormir.](EXAM_NAT_V08_Q03_FAUX)
+4) [Un motif légitime, comme une maladie.](EXAM_NAT_V08_Q03_VRAI)
 
 ## EXAM_NAT_V08_Q03_VRAI
 
@@ -65273,7 +66206,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q03 = 1`
 
-`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q04)
 
@@ -65292,17 +66225,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**À qui appartient la souveraineté nationale ?**
+<!-- Source naturalisation : NAT-T5-037 -->
 
-1) [Au Président de la République.](EXAM_NAT_V08_Q04_FAUX)
-2) [Au Gouvernement.](EXAM_NAT_V08_Q04_FAUX)
-3) [Au Parlement uniquement.](EXAM_NAT_V08_Q04_FAUX)
-4) [Au peuple.](EXAM_NAT_V08_Q04_VRAI)
+**Jusqu'à quel âge l'instruction est-elle obligatoire en France ?**
+
+1) [Jusqu'à 16 ans.](EXAM_NAT_V08_Q04_VRAI)
+2) [15 ans.](EXAM_NAT_V08_Q04_FAUX)
+3) [18 ans.](EXAM_NAT_V08_Q04_FAUX)
+4) [14 ans.](EXAM_NAT_V08_Q04_FAUX)
 
 ## EXAM_NAT_V08_Q04_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q05)
@@ -65311,7 +66246,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q04 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q05)
 
@@ -65330,17 +66265,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**A-t-on le droit de ne pas respecter une loi que l'on juge injuste ?**
+<!-- Source naturalisation : NAT-T5-038 -->
 
-1) [Oui.](EXAM_NAT_V08_Q05_FAUX)
-2) [Oui si l'on n'est pas d'accord.](EXAM_NAT_V08_Q05_FAUX)
-3) [Oui selon sa religion.](EXAM_NAT_V08_Q05_FAUX)
-4) [Non, chacun doit respecter la loi.](EXAM_NAT_V08_Q05_VRAI)
+**À partir de quel âge l'instruction devient-elle obligatoire en France ?**
+
+1) [6 ans.](EXAM_NAT_V08_Q05_FAUX)
+2) [À 3 ans.](EXAM_NAT_V08_Q05_VRAI)
+3) [5 ans.](EXAM_NAT_V08_Q05_FAUX)
+4) [2 ans.](EXAM_NAT_V08_Q05_FAUX)
 
 ## EXAM_NAT_V08_Q05_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q06)
@@ -65349,7 +66286,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q05 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q06)
 
@@ -65368,17 +66305,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**Quel était le surnom de Louis XIV ?**
+<!-- Source naturalisation : NAT-T5-039 -->
 
-1) [Le Roi-Soleil.](EXAM_NAT_V08_Q06_VRAI)
-2) [Le Roi-Chevalier.](EXAM_NAT_V08_Q06_FAUX)
-3) [Le Roi-Soulier.](EXAM_NAT_V08_Q06_FAUX)
-4) [Le Roi-Majestueux.](EXAM_NAT_V08_Q06_FAUX)
+**Dans quel établissement les élèves poursuivent-ils leur scolarité après l'école élémentaire ?**
+
+1) [Le lycée.](EXAM_NAT_V08_Q06_FAUX)
+2) [L'université.](EXAM_NAT_V08_Q06_FAUX)
+3) [Les collèges.](EXAM_NAT_V08_Q06_VRAI)
+4) [La maternelle.](EXAM_NAT_V08_Q06_FAUX)
 
 ## EXAM_NAT_V08_Q06_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q07)
@@ -65387,7 +66326,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q06 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q07)
 
@@ -65406,17 +66345,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**Quel roi de France a été exécuté pendant la Révolution française ?**
+<!-- Source naturalisation : NAT-T5-040 -->
 
-1) [Louis XIV.](EXAM_NAT_V08_Q07_FAUX)
-2) [Henri IV.](EXAM_NAT_V08_Q07_FAUX)
-3) [Louis XVI.](EXAM_NAT_V08_Q07_VRAI)
-4) [François Ier.](EXAM_NAT_V08_Q07_FAUX)
+**Que peuvent faire les parents d'élèves au sein de l'école ?**
+
+1) [Modifier les notes des élèves.](EXAM_NAT_V08_Q07_FAUX)
+2) [Décider seul des programmes scolaires.](EXAM_NAT_V08_Q07_FAUX)
+3) [Exclure un élève.](EXAM_NAT_V08_Q07_FAUX)
+4) [Participer à la vie de l'école et élire leurs représentants.](EXAM_NAT_V08_Q07_VRAI)
 
 ## EXAM_NAT_V08_Q07_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q08)
@@ -65425,7 +66366,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q07 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q08)
 
@@ -65444,17 +66385,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?**
+<!-- Source naturalisation : NAT-T1-029 -->
 
-1) [Cinquième.](EXAM_NAT_V08_Q08_VRAI)
-2) [Première.](EXAM_NAT_V08_Q08_FAUX)
-3) [Deuxième.](EXAM_NAT_V08_Q08_FAUX)
-4) [Dixième.](EXAM_NAT_V08_Q08_FAUX)
+**Que garantit le principe de laïcité ?**
+
+1) [La liberté de conscience, l'égalité de tous devant la loi et la neutralité de l'État.](EXAM_NAT_V08_Q08_VRAI)
+2) [L'interdiction des religions.](EXAM_NAT_V08_Q08_FAUX)
+3) [Une religion officielle.](EXAM_NAT_V08_Q08_FAUX)
+4) [L'obligation de croire.](EXAM_NAT_V08_Q08_FAUX)
 
 ## EXAM_NAT_V08_Q08_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q09)
@@ -65463,7 +66406,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q08 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q09)
 
@@ -65482,17 +66425,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**En quoi consiste le devoir de solidarité du citoyen ?**
+<!-- Source naturalisation : NAT-T1-030 -->
 
-1) [Aider uniquement sa famille.](EXAM_NAT_V08_Q09_FAUX)
-2) [Donner obligatoirement de l'argent.](EXAM_NAT_V08_Q09_FAUX)
-3) [Être bénévole dans une association uniquement.](EXAM_NAT_V08_Q09_FAUX)
-4) [Aider les personnes en difficulté et contribuer à la solidarité nationale.](EXAM_NAT_V08_Q09_VRAI)
+**Quel jour célèbre-t-on officiellement la laïcité en France ?**
+
+1) [Le 14 juillet.](EXAM_NAT_V08_Q09_FAUX)
+2) [Le 9 décembre.](EXAM_NAT_V08_Q09_VRAI)
+3) [Le 11 novembre.](EXAM_NAT_V08_Q09_FAUX)
+4) [Le 8 mai.](EXAM_NAT_V08_Q09_FAUX)
 
 ## EXAM_NAT_V08_Q09_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q10)
@@ -65501,7 +66446,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q09 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q10)
 
@@ -65520,17 +66465,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**Quelle île française se trouve dans l'océan Indien ?**
+<!-- Source naturalisation : NAT-T1-031 -->
 
-1) [La Réunion.](EXAM_NAT_V08_Q10_VRAI)
-2) [La Corse.](EXAM_NAT_V08_Q10_FAUX)
-3) [La Guadeloupe.](EXAM_NAT_V08_Q10_FAUX)
-4) [La Martinique.](EXAM_NAT_V08_Q10_FAUX)
+**Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?**
+
+1) [Un voile couvrant les cheveux.](EXAM_NAT_V08_Q10_FAUX)
+2) [Une grande croix visible.](EXAM_NAT_V08_Q10_FAUX)
+3) [Un symbole religieux discret.](EXAM_NAT_V08_Q10_VRAI)
+4) [Une kippa.](EXAM_NAT_V08_Q10_FAUX)
 
 ## EXAM_NAT_V08_Q10_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q11)
@@ -65539,7 +66486,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q10 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q11)
 
@@ -65558,12 +66505,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**Peut-on brûler publiquement un drapeau français ?**
+<!-- Source naturalisation : NAT-T1-032 -->
 
-1) [Oui.](EXAM_NAT_V08_Q11_FAUX)
-2) [Oui, si c'est dans le cadre d'une manifestation.](EXAM_NAT_V08_Q11_FAUX)
-3) [Oui, au nom de la liberté d'expression.](EXAM_NAT_V08_Q11_FAUX)
-4) [Non, cet acte peut être sanctionné par la loi.](EXAM_NAT_V08_Q11_VRAI)
+**Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?**
+
+1) [Racisme.](EXAM_NAT_V08_Q11_FAUX)
+2) [Xénophobie.](EXAM_NAT_V08_Q11_FAUX)
+3) [Discrimination.](EXAM_NAT_V08_Q11_FAUX)
+4) [L'antisémitisme.](EXAM_NAT_V08_Q11_VRAI)
 
 ## EXAM_NAT_V08_Q11_VRAI
 
@@ -65577,7 +66526,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q11 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q12)
 
@@ -65596,17 +66545,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**Après une interpellation, que peut décider la police dans les conditions prévues par la loi ?**
+<!-- Source naturalisation : NAT-T2-044 -->
 
-1) [Condamner directement la personne.](EXAM_NAT_V08_Q12_FAUX)
-2) [Confisquer définitivement ses biens.](EXAM_NAT_V08_Q12_FAUX)
-3) [Placer la personne en garde à vue.](EXAM_NAT_V08_Q12_VRAI)
-4) [Informer la presse de son identité.](EXAM_NAT_V08_Q12_FAUX)
+**Quand célèbre-t-on la Journée de l'Europe ?**
+
+1) [Le 8 mai.](EXAM_NAT_V08_Q12_FAUX)
+2) [Le 14 juillet.](EXAM_NAT_V08_Q12_FAUX)
+3) [Le 9 mai.](EXAM_NAT_V08_Q12_VRAI)
+4) [Le 9 décembre.](EXAM_NAT_V08_Q12_FAUX)
 
 ## EXAM_NAT_V08_Q12_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q13)
@@ -65615,7 +66566,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q12 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q13)
 
@@ -65634,17 +66585,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Qui peut manger à la cantine scolaire ?**
+<!-- Source naturalisation : NAT-T2-045 -->
 
-1) [Seulement les meilleurs élèves.](EXAM_NAT_V08_Q13_FAUX)
-2) [Tous les élèves inscrits, selon les règles de la commune ou de l'établissement.](EXAM_NAT_V08_Q13_VRAI)
-3) [Seulement les enfants français.](EXAM_NAT_V08_Q13_FAUX)
-4) [Seulement les élèves du primaire.](EXAM_NAT_V08_Q13_FAUX)
+**Où siège la Banque centrale européenne (BCE) ?**
+
+1) [Bruxelles.](EXAM_NAT_V08_Q13_FAUX)
+2) [Strasbourg.](EXAM_NAT_V08_Q13_FAUX)
+3) [Luxembourg.](EXAM_NAT_V08_Q13_FAUX)
+4) [À Francfort (Allemagne).](EXAM_NAT_V08_Q13_VRAI)
 
 ## EXAM_NAT_V08_Q13_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q14)
@@ -65653,7 +66606,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q13 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q14)
 
@@ -65672,17 +66625,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**
+<!-- Source naturalisation : NAT-T2-046 -->
 
-1) [Tout le monde est identique.](EXAM_NAT_V08_Q14_FAUX)
-2) [Tout le monde gagne le même salaire.](EXAM_NAT_V08_Q14_FAUX)
-3) [Tout le monde pense la même chose.](EXAM_NAT_V08_Q14_FAUX)
-4) [Toutes les personnes sont égales en droits devant la loi, sans discrimination.](EXAM_NAT_V08_Q14_VRAI)
+**Où siège la Commission européenne ?**
+
+1) [À Bruxelles (Belgique).](EXAM_NAT_V08_Q14_VRAI)
+2) [Strasbourg.](EXAM_NAT_V08_Q14_FAUX)
+3) [Luxembourg.](EXAM_NAT_V08_Q14_FAUX)
+4) [Francfort.](EXAM_NAT_V08_Q14_FAUX)
 
 ## EXAM_NAT_V08_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q15)
@@ -65691,7 +66646,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q14 = 1`
 
-`@errchap_T1_CH02 = calc(@errchap_T1_CH02 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q15)
 
@@ -65710,17 +66665,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Durant le mandat de quel président la peine de mort a-t-elle été abolie ?**
+<!-- Source naturalisation : NAT-T2-047 -->
 
-1) [Charles de Gaulle.](EXAM_NAT_V08_Q15_FAUX)
-2) [Jacques Chirac.](EXAM_NAT_V08_Q15_FAUX)
-3) [François Mitterrand.](EXAM_NAT_V08_Q15_VRAI)
-4) [Valéry Giscard d'Estaing.](EXAM_NAT_V08_Q15_FAUX)
+**De qui le Parlement européen est-il composé ?**
+
+1) [Les ministres.](EXAM_NAT_V08_Q15_FAUX)
+2) [Les députés européens.](EXAM_NAT_V08_Q15_VRAI)
+3) [Les commissaires européens.](EXAM_NAT_V08_Q15_FAUX)
+4) [Les sénateurs.](EXAM_NAT_V08_Q15_FAUX)
 
 ## EXAM_NAT_V08_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q16)
@@ -65729,7 +66686,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q15 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q16)
 
@@ -65748,12 +66705,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Comment les députés sont-ils désignés ?**
+<!-- Source naturalisation : NAT-T2-048 -->
 
-1) [Ils sont nommés par le Président.](EXAM_NAT_V08_Q16_FAUX)
-2) [Ils sont désignés par le Sénat.](EXAM_NAT_V08_Q16_FAUX)
-3) [Ils sont choisis par le Gouvernement.](EXAM_NAT_V08_Q16_FAUX)
-4) [Ils sont élus au suffrage universel direct.](EXAM_NAT_V08_Q16_VRAI)
+**Combien d'États compte aujourd'hui l'Union européenne ?**
+
+1) [26.](EXAM_NAT_V08_Q16_FAUX)
+2) [28.](EXAM_NAT_V08_Q16_FAUX)
+3) [27 États.](EXAM_NAT_V08_Q16_VRAI)
+4) [29.](EXAM_NAT_V08_Q16_FAUX)
 
 ## EXAM_NAT_V08_Q16_VRAI
 
@@ -65767,7 +66726,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q16 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q17)
 
@@ -65786,17 +66745,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?**
+<!-- Source naturalisation : NAT-T2-049 -->
 
-1) [16 ans.](EXAM_NAT_V08_Q17_FAUX)
-2) [17 ans.](EXAM_NAT_V08_Q17_FAUX)
-3) [18 ans.](EXAM_NAT_V08_Q17_VRAI)
-4) [21 ans.](EXAM_NAT_V08_Q17_FAUX)
+**En quelle année le traité de Maastricht a-t-il été signé ?**
+
+1) [1951.](EXAM_NAT_V08_Q17_FAUX)
+2) [1957.](EXAM_NAT_V08_Q17_FAUX)
+3) [2002.](EXAM_NAT_V08_Q17_FAUX)
+4) [1992.](EXAM_NAT_V08_Q17_VRAI)
 
 ## EXAM_NAT_V08_Q17_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q18)
@@ -65805,7 +66766,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q17 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q18)
 
@@ -65824,17 +66785,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Quelle est la première étape de la construction européenne en 1951 ?**
+<!-- Source naturalisation : NAT-T3-029 -->
 
-1) [L'Union européenne.](EXAM_NAT_V08_Q18_FAUX)
-2) [La création de la Communauté économique européenne (CEE).](EXAM_NAT_V08_Q18_FAUX)
-3) [La création de la Communauté européenne du charbon et de l'acier (CECA).](EXAM_NAT_V08_Q18_VRAI)
-4) [Le traité de Maastricht.](EXAM_NAT_V08_Q18_FAUX)
+**Pourquoi la liberté d'expression peut-elle être limitée par la loi ?**
+
+1) [Pour protéger les droits d'autrui, l'ordre public ou prévenir des infractions prévues par la loi.](EXAM_NAT_V08_Q18_VRAI)
+2) [Parce qu'une opinion déplaît.](EXAM_NAT_V08_Q18_FAUX)
+3) [Pour interdire toute critique.](EXAM_NAT_V08_Q18_FAUX)
+4) [Pour empêcher les débats politiques.](EXAM_NAT_V08_Q18_FAUX)
 
 ## EXAM_NAT_V08_Q18_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q19)
@@ -65843,7 +66806,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q18 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q19)
 
@@ -65862,17 +66825,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**Citez une condition pour être candidat aux élections municipales.**
+<!-- Source naturalisation : NAT-T3-030 -->
 
-1) [Être fonctionnaire.](EXAM_NAT_V08_Q19_FAUX)
-2) [Être marié.](EXAM_NAT_V08_Q19_FAUX)
-3) [Être propriétaire.](EXAM_NAT_V08_Q19_FAUX)
-4) [Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).](EXAM_NAT_V08_Q19_VRAI)
+**Que doit faire un citoyen convoqué pour être juré d'assises ?**
+
+1) [Ignorer la convocation.](EXAM_NAT_V08_Q19_FAUX)
+2) [Répondre à la convocation et exercer cette mission, sauf motif légitime.](EXAM_NAT_V08_Q19_VRAI)
+3) [Refuser sans motif.](EXAM_NAT_V08_Q19_FAUX)
+4) [Choisir librement d'y aller ou non.](EXAM_NAT_V08_Q19_FAUX)
 
 ## EXAM_NAT_V08_Q19_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q20)
@@ -65881,7 +66846,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q19 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q20)
 
@@ -65900,12 +66865,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**Quel est l'un des premiers devoirs de tout citoyen ?**
+<!-- Source naturalisation : NAT-T3-031 -->
 
-1) [Voter à toutes les élections.](EXAM_NAT_V08_Q20_FAUX)
-2) [Être bénévole.](EXAM_NAT_V08_Q20_FAUX)
-3) [Appartenir à une association.](EXAM_NAT_V08_Q20_FAUX)
-4) [Respecter les lois.](EXAM_NAT_V08_Q20_VRAI)
+**À quel âge est fixée la majorité civile en France ?**
+
+1) [16 ans.](EXAM_NAT_V08_Q20_FAUX)
+2) [17 ans.](EXAM_NAT_V08_Q20_FAUX)
+3) [18 ans.](EXAM_NAT_V08_Q20_VRAI)
+4) [21 ans.](EXAM_NAT_V08_Q20_FAUX)
 
 ## EXAM_NAT_V08_Q20_VRAI
 
@@ -65938,17 +66905,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Quelle ville française est un port maritime ?**
+<!-- Source naturalisation : NAT-T3-032 -->
 
-1) [Clermont-Ferrand.](EXAM_NAT_V08_Q21_FAUX)
-2) [Limoges.](EXAM_NAT_V08_Q21_FAUX)
-3) [Marseille.](EXAM_NAT_V08_Q21_VRAI)
-4) [Dijon.](EXAM_NAT_V08_Q21_FAUX)
+**Quel est l'un des premiers devoirs de tout citoyen ?**
+
+1) [Voter à toutes les élections.](EXAM_NAT_V08_Q21_FAUX)
+2) [Être bénévole.](EXAM_NAT_V08_Q21_FAUX)
+3) [Appartenir à une association.](EXAM_NAT_V08_Q21_FAUX)
+4) [Respecter les lois.](EXAM_NAT_V08_Q21_VRAI)
 
 ## EXAM_NAT_V08_Q21_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q22)
@@ -65957,7 +66926,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q21 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q22)
 
@@ -65976,17 +66945,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
-**Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**
+<!-- Source naturalisation : NAT-T4-069 -->
 
-1) [La Constitution.](EXAM_NAT_V08_Q22_FAUX)
-2) [Le Code civil.](EXAM_NAT_V08_Q22_FAUX)
-3) [La Charte de l'environnement.](EXAM_NAT_V08_Q22_FAUX)
-4) [La Déclaration des droits de l'Homme et du Citoyen de 1789.](EXAM_NAT_V08_Q22_VRAI)
+**Quel département français d'outre-mer se situe en Amérique du Sud, à la frontière du Brésil ?**
+
+1) [Guadeloupe.](EXAM_NAT_V08_Q22_FAUX)
+2) [Martinique.](EXAM_NAT_V08_Q22_FAUX)
+3) [La Réunion.](EXAM_NAT_V08_Q22_FAUX)
+4) [La Guyane.](EXAM_NAT_V08_Q22_VRAI)
 
 ## EXAM_NAT_V08_Q22_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q23)
@@ -65995,7 +66966,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q22 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q23)
 
@@ -66014,17 +66985,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**À quoi sert un titre de séjour ?**
+<!-- Source naturalisation : NAT-T4-070 -->
 
-1) [À obtenir automatiquement la nationalité française.](EXAM_NAT_V08_Q23_FAUX)
-2) [À voter aux élections.](EXAM_NAT_V08_Q23_FAUX)
-3) [À remplacer une carte d'identité.](EXAM_NAT_V08_Q23_FAUX)
-4) [À autoriser un étranger à séjourner légalement en France.](EXAM_NAT_V08_Q23_VRAI)
+**D'où décollent les fusées Ariane, au sein du Centre spatial guyanais ?**
+
+1) [Kourou.](EXAM_NAT_V08_Q23_VRAI)
+2) [Toulouse.](EXAM_NAT_V08_Q23_FAUX)
+3) [Paris.](EXAM_NAT_V08_Q23_FAUX)
+4) [Bordeaux.](EXAM_NAT_V08_Q23_FAUX)
 
 ## EXAM_NAT_V08_Q23_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q24)
@@ -66033,7 +67006,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q23 = 1`
 
-`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q24)
 
@@ -66052,12 +67025,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**En 1944, qu'est-ce qui a changé pour les femmes ?**
+<!-- Source naturalisation : NAT-T4-071 -->
 
-1) [Elles ont obtenu le droit au travail.](EXAM_NAT_V08_Q24_FAUX)
-2) [Elles ont obtenu le droit au divorce.](EXAM_NAT_V08_Q24_FAUX)
-3) [Elles ont obtenu le droit de vote et d'éligibilité.](EXAM_NAT_V08_Q24_VRAI)
-4) [Elles ont obtenues le droit de devenir présidente de la République.](EXAM_NAT_V08_Q24_FAUX)
+**Laquelle de ces mers ou de ces océans borde la France métropolitaine ?**
+
+1) [L'océan Pacifique.](EXAM_NAT_V08_Q24_FAUX)
+2) [L'océan Atlantique.](EXAM_NAT_V08_Q24_VRAI)
+3) [La mer Noire.](EXAM_NAT_V08_Q24_FAUX)
+4) [La mer Rouge.](EXAM_NAT_V08_Q24_FAUX)
 
 ## EXAM_NAT_V08_Q24_VRAI
 
@@ -66071,7 +67046,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q24 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q25)
 
@@ -66090,17 +67065,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?**
+<!-- Source naturalisation : NAT-T4-072 -->
 
-1) [Un voile couvrant les cheveux.](EXAM_NAT_V08_Q25_FAUX)
-2) [Une grande croix visible.](EXAM_NAT_V08_Q25_FAUX)
-3) [Une kippa.](EXAM_NAT_V08_Q25_FAUX)
-4) [Un symbole religieux discret.](EXAM_NAT_V08_Q25_VRAI)
+**Lequel de ces territoires est un département-région d'outre-mer insulaire français ?**
+
+1) [La Corse.](EXAM_NAT_V08_Q25_FAUX)
+2) [La Nouvelle-Calédonie.](EXAM_NAT_V08_Q25_FAUX)
+3) [La Guadeloupe.](EXAM_NAT_V08_Q25_VRAI)
+4) [La Polynésie française.](EXAM_NAT_V08_Q25_FAUX)
 
 ## EXAM_NAT_V08_Q25_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q26)
@@ -66109,7 +67086,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q25 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q26)
 
@@ -66128,17 +67105,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**Qu'est-ce que le droit de grève ?**
+<!-- Source naturalisation : NAT-T4-073 -->
 
-1) [Refuser définitivement de travailler.](EXAM_NAT_V08_Q26_FAUX)
-2) [Quitter son emploi.](EXAM_NAT_V08_Q26_FAUX)
-3) [Ne plus respecter son contrat de travail.](EXAM_NAT_V08_Q26_FAUX)
-4) [Le droit de cesser collectivement le travail pour défendre des revendications professionnelles.](EXAM_NAT_V08_Q26_VRAI)
+**Qu'appelle-t-on la « France d'outre-mer » ?**
+
+1) [Les pays voisins de la France.](EXAM_NAT_V08_Q26_FAUX)
+2) [Les anciennes colonies françaises.](EXAM_NAT_V08_Q26_FAUX)
+3) [Les régions métropolitaines.](EXAM_NAT_V08_Q26_FAUX)
+4) [Les territoires français situés en dehors de l'Europe.](EXAM_NAT_V08_Q26_VRAI)
 
 ## EXAM_NAT_V08_Q26_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q27)
@@ -66147,7 +67126,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q26 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q27)
 
@@ -66166,17 +67145,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**
+<!-- Source naturalisation : NAT-T4-074 -->
 
-1) [Aux armes, citoyens.](EXAM_NAT_V08_Q27_FAUX)
-2) [Le jour de gloire est arrivé.](EXAM_NAT_V08_Q27_VRAI)
-3) [Formez vos bataillons.](EXAM_NAT_V08_Q27_FAUX)
-4) [Contre nous de la tyrannie.](EXAM_NAT_V08_Q27_FAUX)
+**Quelle est, environ, la population de la France en 2025 ?**
+
+1) [Environ 68 millions d'habitants.](EXAM_NAT_V08_Q27_VRAI)
+2) [50 millions.](EXAM_NAT_V08_Q27_FAUX)
+3) [80 millions.](EXAM_NAT_V08_Q27_FAUX)
+4) [100 millions.](EXAM_NAT_V08_Q27_FAUX)
 
 ## EXAM_NAT_V08_Q27_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q28)
@@ -66185,7 +67166,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q27 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q28)
 
@@ -66204,17 +67185,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
-**Quand célèbre-t-on la Journée de l'Europe ?**
+<!-- Source naturalisation : NAT-T4-075 -->
 
-1) [Le 8 mai.](EXAM_NAT_V08_Q28_FAUX)
-2) [Le 14 juillet.](EXAM_NAT_V08_Q28_FAUX)
-3) [Le 9 décembre.](EXAM_NAT_V08_Q28_FAUX)
-4) [Le 9 mai.](EXAM_NAT_V08_Q28_VRAI)
+**Quel est le premier port français, aussi l'un des principaux ports de la Méditerranée ?**
+
+1) [Bordeaux.](EXAM_NAT_V08_Q28_FAUX)
+2) [Marseille.](EXAM_NAT_V08_Q28_VRAI)
+3) [Nantes.](EXAM_NAT_V08_Q28_FAUX)
+4) [Le Havre.](EXAM_NAT_V08_Q28_FAUX)
 
 ## EXAM_NAT_V08_Q28_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_PART2)
@@ -66223,7 +67206,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q28 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_PART2)
 
@@ -66238,6 +67221,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V08_Q29
 
 `@err_NAT_V08_Q29 = 0`
+`@exam_variant = 8`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -66250,19 +67235,21 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que « personne ne regarde, donc ce n'est pas grave ».
+<!-- Source naturalisation : MS-NAT-T1-016 -->
 
-**Que lui répondez-vous ?**
+Pendant une discussion sur la citoyenneté française, un proche hésite sur une règle ou un symbole de la République. Une personne hésite et choisit « Marianne ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [C'est autorisé si personne ne regarde.](EXAM_NAT_V08_Q29_FAUX)
-2) [C'est autorisé dans les grandes villes.](EXAM_NAT_V08_Q29_FAUX)
-3) [C'est interdit et passible d'une sanction.](EXAM_NAT_V08_Q29_VRAI)
-4) [C'est obligatoire si aucune poubelle n'est disponible.](EXAM_NAT_V08_Q29_FAUX)
+**Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?**
+
+1) [Marianne.](EXAM_NAT_V08_Q29_FAUX)
+2) [Le drapeau.](EXAM_NAT_V08_Q29_FAUX)
+3) [La tour Eiffel.](EXAM_NAT_V08_Q29_FAUX)
+4) [Le coq.](EXAM_NAT_V08_Q29_VRAI)
 
 ## EXAM_NAT_V08_Q29_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q30)
@@ -66271,7 +67258,7 @@ Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que �
 
 `@err_NAT_V08_Q29 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q30)
 
@@ -66290,19 +67277,21 @@ Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que �
 
 ### Question 30 sur 40
 
-Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle et un travail. Il vous demande un exemple concret de participation à la vie citoyenne et démocratique de la France.
+<!-- Source naturalisation : MS-NAT-T2-023 -->
 
-**Quel exemple lui donnez-vous ?**
+Un proche prépare une démarche citoyenne et souhaite clarifier le fonctionnement de la République et de ses institutions. Une personne hésite et choisit « Le préfet ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Avoir une carte d'identité française.](EXAM_NAT_V08_Q30_FAUX)
-2) [Être inscrit à la Sécurité sociale.](EXAM_NAT_V08_Q30_FAUX)
-3) [Voter aux élections.](EXAM_NAT_V08_Q30_VRAI)
-4) [Travailler dans une entreprise.](EXAM_NAT_V08_Q30_FAUX)
+**Qui dirige l'action du Gouvernement au quotidien ?**
+
+1) [Le Président de la République.](EXAM_NAT_V08_Q30_FAUX)
+2) [Le Premier ministre.](EXAM_NAT_V08_Q30_VRAI)
+3) [Le Président de l'Assemblée nationale.](EXAM_NAT_V08_Q30_FAUX)
+4) [Le préfet.](EXAM_NAT_V08_Q30_FAUX)
 
 ## EXAM_NAT_V08_Q30_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q31)
@@ -66311,7 +67300,7 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 
 `@err_NAT_V08_Q30 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q31)
 
@@ -66330,19 +67319,21 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 
 ### Question 31 sur 40
 
-Une amie vous demande si une femme a le droit de recourir à un avortement en France.
+<!-- Source naturalisation : MS-NAT-T2-024 -->
 
-**Que lui répondez-vous ?**
+À l’occasion d’un échange sur la vie démocratique, un proche vous interroge sur le fonctionnement des institutions françaises. Un participant propose la réponse « Non ». Vous devez vérifier cette affirmation.
+
+**Un citoyen a-t-il le droit d'adhérer à un parti politique ?**
 
 1) [Non.](EXAM_NAT_V08_Q31_FAUX)
-2) [Seulement avec l'accord du mari.](EXAM_NAT_V08_Q31_FAUX)
-3) [Seulement avec l'accord du médecin.](EXAM_NAT_V08_Q31_FAUX)
-4) [Oui, dans les conditions prévues par la loi.](EXAM_NAT_V08_Q31_VRAI)
+2) [Seulement les élus.](EXAM_NAT_V08_Q31_FAUX)
+3) [Oui, chacun est libre d'adhérer ou non.](EXAM_NAT_V08_Q31_VRAI)
+4) [Seulement les fonctionnaires.](EXAM_NAT_V08_Q31_FAUX)
 
 ## EXAM_NAT_V08_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q32)
@@ -66351,7 +67342,7 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_NAT_V08_Q31 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q32)
 
@@ -66370,19 +67361,21 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 ### Question 32 sur 40
 
-On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit le principe de laïcité en France.
+<!-- Source naturalisation : MS-NAT-T2-025 -->
 
-**Quelle réponse choisissez-vous ?**
+Lors d’un atelier civique à la mairie, une personne cherche à comprendre le rôle des responsables publics et des institutions. Un proche pense que la bonne réponse pourrait être « Le maire ». Aidez-le à raisonner.
 
-1) [L'interdiction des religions.](EXAM_NAT_V08_Q32_FAUX)
-2) [La liberté de conscience et l'égalité de tous devant la loi.](EXAM_NAT_V08_Q32_VRAI)
-3) [Une religion officielle pour tout le pays.](EXAM_NAT_V08_Q32_FAUX)
-4) [Le droit d'exprimer librement ses opinions dans le respect de la loi.](EXAM_NAT_V08_Q32_FAUX)
+**Qui juge et sanctionne les auteurs d'infractions ?**
+
+1) [La police.](EXAM_NAT_V08_Q32_FAUX)
+2) [Le maire.](EXAM_NAT_V08_Q32_FAUX)
+3) [Le Président de la République.](EXAM_NAT_V08_Q32_FAUX)
+4) [La justice.](EXAM_NAT_V08_Q32_VRAI)
 
 ## EXAM_NAT_V08_Q32_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q33)
@@ -66391,7 +67384,7 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 
 `@err_NAT_V08_Q32 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH01 = calc(@errchap_T2_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q33)
 
@@ -66410,14 +67403,16 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 
 ### Question 33 sur 40
 
-Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peuvent voter aux élections.
+<!-- Source naturalisation : MS-NAT-T3-015 -->
 
-**Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?**
+Pendant un atelier d’accès aux droits, une personne vous demande de l’aider à identifier la règle applicable. Dans le groupe, la réponse « Confisquer définitivement ses biens » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Oui, dans les mêmes conditions que les hommes.](EXAM_NAT_V08_Q33_VRAI)
-2) [Non.](EXAM_NAT_V08_Q33_FAUX)
-3) [Seulement si elle est mariée.](EXAM_NAT_V08_Q33_FAUX)
-4) [Seulement si elle travaille.](EXAM_NAT_V08_Q33_FAUX)
+**Après une interpellation, que peut décider la police dans les conditions prévues par la loi ?**
+
+1) [Condamner directement la personne.](EXAM_NAT_V08_Q33_FAUX)
+2) [Confisquer définitivement ses biens.](EXAM_NAT_V08_Q33_FAUX)
+3) [Placer la personne en garde à vue.](EXAM_NAT_V08_Q33_VRAI)
+4) [Informer la presse de son identité.](EXAM_NAT_V08_Q33_FAUX)
 
 ## EXAM_NAT_V08_Q33_VRAI
 
@@ -66450,14 +67445,16 @@ Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peu
 
 ### Question 34 sur 40
 
-Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lui, en dehors des jours de collecte prévus.
+<!-- Source naturalisation : MS-NAT-T3-016 -->
 
-**Quelle proposition est correcte concernant les déchets ?**
+Une personne de votre entourage rencontre une situation concrète et veut agir dans le respect de la loi française. Une personne hésite et choisit « Tous doivent avoir une religion ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Les déchets doivent être triés et déposés dans les équipements prévus.](EXAM_NAT_V08_Q34_VRAI)
-2) [Il est permis de jeter ses déchets dans la nature.](EXAM_NAT_V08_Q34_FAUX)
-3) [Les encombrants peuvent être déposés sur le trottoir à tout moment.](EXAM_NAT_V08_Q34_FAUX)
-4) [Les déchets peuvent être brûlés librement dans son jardin.](EXAM_NAT_V08_Q34_FAUX)
+**Tous les citoyens français ont-ils obligatoirement la même religion ?**
+
+1) [Oui.](EXAM_NAT_V08_Q34_FAUX)
+2) [Tous sont catholiques.](EXAM_NAT_V08_Q34_FAUX)
+3) [Tous doivent avoir une religion.](EXAM_NAT_V08_Q34_FAUX)
+4) [Non, chacun est libre de croire ou de ne pas croire.](EXAM_NAT_V08_Q34_VRAI)
 
 ## EXAM_NAT_V08_Q34_VRAI
 
@@ -66471,7 +67468,7 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 
 `@err_NAT_V08_Q34 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q35)
 
@@ -66490,19 +67487,21 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 
 ### Question 35 sur 40
 
-Un ami pense que la liberté de la presse permet aux journalistes de publier n'importe quelle information, sans aucune limite.
+<!-- Source naturalisation : MS-NAT-T4-022 -->
 
-**Que lui répondez-vous ?**
+Au cours d’un atelier culturel, votre groupe doit reconnaître un repère essentiel de l’histoire ou de la géographie française. Dans le groupe, la réponse « 1939-1945 » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Elle permet de publier n'importe quoi.](EXAM_NAT_V08_Q35_FAUX)
-2) [Elle garantit le droit d'informer et d'être informé, dans le respect de la loi.](EXAM_NAT_V08_Q35_VRAI)
-3) [Elle permet de diffamer librement.](EXAM_NAT_V08_Q35_FAUX)
-4) [Elle permet d'insulter les personnes.](EXAM_NAT_V08_Q35_FAUX)
+**De quand à quand s'est déroulée la Première Guerre mondiale ?**
+
+1) [1939-1945.](EXAM_NAT_V08_Q35_FAUX)
+2) [De 1914 à 1918.](EXAM_NAT_V08_Q35_VRAI)
+3) [1789-1799.](EXAM_NAT_V08_Q35_FAUX)
+4) [1918-1945.](EXAM_NAT_V08_Q35_FAUX)
 
 ## EXAM_NAT_V08_Q35_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q36)
@@ -66511,7 +67510,7 @@ Un ami pense que la liberté de la presse permet aux journalistes de publier n'i
 
 `@err_NAT_V08_Q35 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q36)
 
@@ -66530,19 +67529,21 @@ Un ami pense que la liberté de la presse permet aux journalistes de publier n'i
 
 ### Question 36 sur 40
 
-Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir une image représentant un symbole officiel de la République française.
+<!-- Source naturalisation : MS-NAT-T4-023 -->
 
-**Laquelle de ces images choisissez-vous ?**
+Un proche prépare son entretien de naturalisation et vous demande de l’aider sur un élément du patrimoine français. Une personne hésite et choisit « Jacques Chirac ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [L'Arc de Triomphe.](EXAM_NAT_V08_Q36_FAUX)
-2) [La tour Eiffel.](EXAM_NAT_V08_Q36_FAUX)
-3) [Le coq.](EXAM_NAT_V08_Q36_FAUX)
-4) [Le bonnet phrygien.](EXAM_NAT_V08_Q36_VRAI)
+**Sous la présidence de qui la peine de mort a-t-elle été abolie en France, en 1981 ?**
+
+1) [Charles de Gaulle.](EXAM_NAT_V08_Q36_FAUX)
+2) [Jacques Chirac.](EXAM_NAT_V08_Q36_FAUX)
+3) [François Mitterrand.](EXAM_NAT_V08_Q36_VRAI)
+4) [Valéry Giscard d'Estaing.](EXAM_NAT_V08_Q36_FAUX)
 
 ## EXAM_NAT_V08_Q36_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q37)
@@ -66551,7 +67552,7 @@ Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir 
 
 `@err_NAT_V08_Q36 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q37)
 
@@ -66570,19 +67571,21 @@ Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir 
 
 ### Question 37 sur 40
 
-Un ami sans religion craint de rencontrer des difficultés administratives en France parce qu'il ne pratique aucun culte.
+<!-- Source naturalisation : MS-NAT-T4-024 -->
 
-**A-t-il le droit de ne croire en aucune religion ?**
+Lors d’une visite culturelle, une personne de votre entourage souhaite vérifier un repère sur l’histoire, la géographie ou le patrimoine français. Un participant propose la réponse « La Révolution française ». Vous devez vérifier cette affirmation.
 
-1) [Oui.](EXAM_NAT_V08_Q37_VRAI)
-2) [Non.](EXAM_NAT_V08_Q37_FAUX)
-3) [Il doit choisir une religion.](EXAM_NAT_V08_Q37_FAUX)
-4) [Oui, mais seulement dans certains cas.](EXAM_NAT_V08_Q37_FAUX)
+**Que commémore le 8 mai, jour férié en France ?**
+
+1) [L'Armistice de 1918.](EXAM_NAT_V08_Q37_FAUX)
+2) [Le Débarquement.](EXAM_NAT_V08_Q37_FAUX)
+3) [La Révolution française.](EXAM_NAT_V08_Q37_FAUX)
+4) [La victoire des Alliés sur l'Allemagne nazie en 1945.](EXAM_NAT_V08_Q37_VRAI)
 
 ## EXAM_NAT_V08_Q37_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q38)
@@ -66591,7 +67594,7 @@ Un ami sans religion craint de rencontrer des difficultés administratives en Fr
 
 `@err_NAT_V08_Q37 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q38)
 
@@ -66610,19 +67613,21 @@ Un ami sans religion craint de rencontrer des difficultés administratives en Fr
 
 ### Question 38 sur 40
 
-Un collègue originaire d'une région où l'on parle une langue régionale vous affirme que chaque région de France est libre de choisir sa propre langue officielle.
+<!-- Source naturalisation : MS-NAT-T5-015 -->
 
-**Que lui répondez-vous ?**
+Une famille récemment installée en France vous demande de l’aider à comprendre une règle pratique de la société française. Un proche pense que la bonne réponse pourrait être « Interdite aux mineurs ». Aidez-le à raisonner.
 
-1) [Chaque région choisit sa langue officielle.](EXAM_NAT_V08_Q38_FAUX)
-2) [Le français est la langue de la République.](EXAM_NAT_V08_Q38_VRAI)
-3) [Il existe plusieurs langues officielles en France.](EXAM_NAT_V08_Q38_FAUX)
-4) [L'anglais est la langue officielle.](EXAM_NAT_V08_Q38_FAUX)
+**En France, la contraception est :**
+
+1) [Réservée aux personnes mariées.](EXAM_NAT_V08_Q38_FAUX)
+2) [Soumise à l'accord du conjoint.](EXAM_NAT_V08_Q38_FAUX)
+3) [Un choix personnel et un droit, accessible aux femmes comme aux hommes.](EXAM_NAT_V08_Q38_VRAI)
+4) [Interdite aux mineurs.](EXAM_NAT_V08_Q38_FAUX)
 
 ## EXAM_NAT_V08_Q38_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q39)
@@ -66631,7 +67636,7 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_NAT_V08_Q38 = 1`
 
-`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q39)
 
@@ -66650,19 +67655,21 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 ### Question 39 sur 40
 
-Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
+<!-- Source naturalisation : MS-NAT-T5-016 -->
 
-**Que lui répondez-vous ?**
+Au travail, à l’école, dans le logement ou dans le système de santé, un proche souhaite vérifier la bonne démarche. Dans le groupe, la réponse « Tout le monde peut consulter un dossier médical » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [C'est l'hymne national français.](EXAM_NAT_V08_Q39_VRAI)
-2) [C'est une devise.](EXAM_NAT_V08_Q39_FAUX)
-3) [C'est une chanson de variété française.](EXAM_NAT_V08_Q39_FAUX)
-4) [C'est un monument historique.](EXAM_NAT_V08_Q39_FAUX)
+**Que garantit le secret médical ?**
+
+1) [Tout le monde peut consulter un dossier médical.](EXAM_NAT_V08_Q39_FAUX)
+2) [Le médecin doit informer l'employeur.](EXAM_NAT_V08_Q39_FAUX)
+3) [Les informations sont publiques.](EXAM_NAT_V08_Q39_FAUX)
+4) [Les informations médicales sont protégées et ne peuvent être divulguées sans l'accord du patient, sauf exceptions prévues par la loi.](EXAM_NAT_V08_Q39_VRAI)
 
 ## EXAM_NAT_V08_Q39_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q40)
@@ -66671,7 +67678,7 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V08_Q39 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V08_Q40)
 
@@ -66690,19 +67697,21 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 ### Question 40 sur 40
 
-Un ami affirme que certaines personnes auraient moins de droits que d'autres, selon leur origine ou leur religion.
+<!-- Source naturalisation : MS-NAT-T1-015 -->
 
-**Que lui répondez-vous sur le principe de dignité humaine ?**
+Une personne de votre entourage prépare son entretien de naturalisation et vous demande de l’aider sur un principe républicain. Dans le groupe, la réponse « Penser tous la même chose » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Certaines personnes ont moins de droits.](EXAM_NAT_V08_Q40_FAUX)
-2) [Chaque personne doit être respectée et traitée avec dignité.](EXAM_NAT_V08_Q40_VRAI)
-3) [La dignité dépend de la nationalité.](EXAM_NAT_V08_Q40_FAUX)
-4) [La dignité dépend de la religion.](EXAM_NAT_V08_Q40_FAUX)
+**Que signifie le mot « fraternité » dans la devise française ?**
+
+1) [Être tous de la même famille.](EXAM_NAT_V08_Q40_FAUX)
+2) [Avoir la même religion.](EXAM_NAT_V08_Q40_FAUX)
+3) [La solidarité, l'entraide et le respect entre toutes les personnes.](EXAM_NAT_V08_Q40_VRAI)
+4) [Penser tous la même chose.](EXAM_NAT_V08_Q40_FAUX)
 
 ## EXAM_NAT_V08_Q40_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V08_RESULT)
@@ -66711,7 +67720,7 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 `@err_NAT_V08_Q40 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V08_RESULT)
 
@@ -66728,223 +67737,88 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V08_Q01 == 1`
-**1. Quelle institution française doit rester neutre en matière de religion ?**  
-✅ L'État.
+**1. Combien de régions compte la France métropolitaine depuis la réforme territoriale de 2016 ?**  
+✅ 13.
 
-Selon le principe de laïcité, l'État et ses services publics doivent rester neutres vis-à-vis des religions afin de garantir l'égalité de tous les citoyens.
+Depuis la réforme territoriale de 2016, la France métropolitaine compte 13 régions. Si l'on ajoute les régions d'outre-mer, la France compte 18 régions au total.
 
-💡 Retenez le mot-clé : neutralité religieuse = l'État
+💡 Retenez le mot-clé : France métropolitaine (depuis 2016) = 13 régions
 `endif`
 
 `if @err_NAT_V08_Q02 == 1`
-**2. Quels sont les trois pouvoirs de la République française ?**  
-✅ Le pouvoir exécutif, le pouvoir législatif et le pouvoir judiciaire.
+**2. Quel département d'outre-mer se situe dans l'océan Indien, au sud-est du continent africain ?**  
+✅ La Réunion.
 
-La séparation des pouvoirs évite qu'une seule autorité concentre tous les pouvoirs. En France, les pouvoirs exécutif, législatif et judiciaire sont exercés par des institutions différentes.
+La Réunion est un département et une région d'outre-mer français situé dans l'océan Indien, à l'est de Madagascar.
 
-💡 Retenez le mot-clé : 3 pouvoirs = exécutif, législatif, judiciaire
+💡 Retenez le mot-clé : océan Indien (sud-est de l'Afrique) = La Réunion
 `endif`
 
 `if @err_NAT_V08_Q03 == 1`
-**3. Quelle est l'une des conditions pour passer l'examen du permis de conduire ?**  
-✅ Avoir l'âge minimum requis.
+**3. Laquelle de ces situations constitue un motif légitime d'absence scolaire ?**  
+✅ Un motif légitime, comme une maladie.
 
-Pour passer le permis de conduire, il faut notamment respecter l'âge minimum prévu par la réglementation et satisfaire aux autres conditions fixées par la loi.
+Les absences scolaires doivent être justifiées. Les motifs légitimes sont notamment la maladie, un rendez-vous médical ou un événement familial exceptionnel.
 
-💡 Retenez : Permis de conduire = possible à partir d'un âge minimum (18 ans en général)
+💡 Retenez le mot-clé : absence justifiée = maladie, rendez-vous médical, événement familial
 `endif`
 
 `if @err_NAT_V08_Q04 == 1`
-**4. À qui appartient la souveraineté nationale ?**  
-✅ Au peuple.
+**4. Jusqu'à quel âge l'instruction est-elle obligatoire en France ?**  
+✅ Jusqu'à 16 ans.
 
-L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par la voie du référendum.
+En France, l'instruction est obligatoire de 3 ans à 16 ans. Cette obligation peut être remplie à l'école ou par l'instruction en famille lorsqu'elle est autorisée.
 
-💡 Retenez le mot-clé : souveraineté nationale = appartient au peuple
+💡 Retenez le mot-clé : instruction obligatoire = jusqu'à 16 ans
 `endif`
 
 `if @err_NAT_V08_Q05 == 1`
-**5. A-t-on le droit de ne pas respecter une loi que l'on juge injuste ?**  
-✅ Non, chacun doit respecter la loi.
+**5. À partir de quel âge l'instruction devient-elle obligatoire en France ?**  
+✅ À 3 ans.
 
-L'État de droit repose sur le respect des lois par tous. Personne n'est au-dessus de la loi. En cas de désaccord, il existe des voies légales pour la contester.
+Depuis la loi de 2019, l'instruction est obligatoire dès l'âge de 3 ans.
 
-💡 Retenez le mot-clé : loi = respect obligatoire pour tous
+💡 Retenez le mot-clé : instruction obligatoire = dès 3 ans
 `endif`
 
 `if @err_NAT_V08_Q06 == 1`
-**6. Quel était le surnom de Louis XIV ?**  
-✅ Le Roi-Soleil.
+**6. Dans quel établissement les élèves poursuivent-ils leur scolarité après l'école élémentaire ?**  
+✅ Les collèges.
 
-Louis XIV (1638-1715) est surnommé le Roi-Soleil. Son règne est l'un des plus longs de l'histoire de France et il a renforcé le pouvoir de la monarchie.
+Après l'école élémentaire, les élèves poursuivent leur scolarité au collège, généralement de la 6ᵉ à la 3ᵉ.
 
-💡 Retenez : Louis XIV = Roi-Soleil
+💡 Retenez le mot-clé : après l'école élémentaire = le collège
 `endif`
 
 `if @err_NAT_V08_Q07 == 1`
-**7. Quel roi de France a été exécuté pendant la Révolution française ?**  
-✅ Louis XVI.
+**7. Que peuvent faire les parents d'élèves au sein de l'école ?**  
+✅ Participer à la vie de l'école et élire leurs représentants.
 
-Louis XVI a été condamné à mort et exécuté en 1793 pendant la Révolution française, après l'abolition de la monarchie.
+Les parents d'élèves sont des partenaires de l'école. Ils peuvent participer aux réunions, échanger avec les enseignants et élire leurs représentants dans les conseils d'école ou d'administration.
 
-💡 Retenez : Louis XVI = exécution
+💡 Retenez le mot-clé : parents d'élèves = participer à la vie de l'école + élire leurs représentants
 `endif`
 
 `if @err_NAT_V08_Q08 == 1`
-**8. Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?**  
-✅ Cinquième.
+**8. Que garantit le principe de laïcité ?**  
+✅ La liberté de conscience, l'égalité de tous devant la loi et la neutralité de l'État.
 
-Le français est aujourd'hui considéré comme la cinquième langue la plus parlée dans le monde. Ce classement peut évoluer au fil du temps.
+La laïcité garantit à chacun la liberté de croire ou de ne pas croire. Elle assure également la neutralité de l'État et l'égalité entre tous les citoyens.
 
-💡 Retenez : Le français = 5e langue la + parlée
+💡 Retenez le mot-clé : laïcité = liberté de conscience + neutralité + égalité
 `endif`
 
 `if @err_NAT_V08_Q09 == 1`
-**9. En quoi consiste le devoir de solidarité du citoyen ?**  
-✅ Aider les personnes en difficulté et contribuer à la solidarité nationale.
+**9. Quel jour célèbre-t-on officiellement la laïcité en France ?**  
+✅ Le 9 décembre.
 
-La solidarité est une valeur importante de la République. Elle se traduit par l'entraide entre les personnes et par la participation de chacun au financement des services publics et de la protection sociale.
+La Journée nationale de la laïcité est célébrée le 9 décembre, date anniversaire de la loi de séparation des Églises et de l'État de 1905.
 
-💡 Retenez le mot-clé : solidarité = aider les autres + participer à la solidarité nationale
+💡 Retenez le mot-clé : Journée de la laïcité = 9 décembre
 `endif`
 
 `if @err_NAT_V08_Q10 == 1`
-**10. Quelle île française se trouve dans l'océan Indien ?**  
-✅ La Réunion.
-
-La Réunion est un département et une région d'outre-mer situé dans l'océan Indien, à l'est de Madagascar.
-
-💡 Retenez : La Réunion est entourée par l'océan Indien
-`endif`
-
-`if @err_NAT_V08_Q11 == 1`
-**11. Peut-on brûler publiquement un drapeau français ?**  
-✅ Non, cet acte peut être sanctionné par la loi.
-
-Le drapeau tricolore est un symbole de la République. Son outrage public est réprimé dans les cas prévus par la loi.
-
-💡 Retenez le mot-clé : drapeau français = symbole protégé par la loi
-`endif`
-
-`if @err_NAT_V08_Q12 == 1`
-**12. Après une interpellation, que peut décider la police dans les conditions prévues par la loi ?**  
-✅ Placer la personne en garde à vue.
-
-Après une interpellation, une personne peut être placée en garde à vue si les conditions prévues par la loi sont réunies. Cette mesure est strictement encadrée et la personne bénéficie de droits (avocat, médecin, information de ses proches, etc.).
-
-💡 Retenez le mot-clé : après interpellation = garde à vue encadrée par la loi
-`endif`
-
-`if @err_NAT_V08_Q13 == 1`
-**13. Qui peut manger à la cantine scolaire ?**  
-✅ Tous les élèves inscrits, selon les règles de la commune ou de l'établissement.
-
-La cantine scolaire est un service proposé aux élèves. Les modalités d'inscription sont fixées par la commune ou l'établissement, dans le respect du principe d'égalité d'accès.
-
-💡 Retenez : Tous les élèves peuvent manger à la cantine
-`endif`
-
-`if @err_NAT_V08_Q14 == 1`
-**14. Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?**  
-✅ Toutes les personnes sont égales en droits devant la loi, sans discrimination.
-
-L'égalité est une valeur fondamentale de la République. Elle garantit que chacun est traité de la même manière par la loi, quelles que soient son origine, son sexe, sa religion ou ses convictions.
-
-💡 Retenez le mot-clé : égalité = mêmes droits devant la loi, sans discrimination
-`endif`
-
-`if @err_NAT_V08_Q15 == 1`
-**15. Durant le mandat de quel président la peine de mort a-t-elle été abolie ?**  
-✅ François Mitterrand.
-
-La peine de mort a été abolie en France en 1981, sous la présidence de François Mitterrand. La loi a été portée par le garde des Sceaux Robert Badinter.
-
-💡 Retenez : François Mitterrand = plus de peine de mort
-`endif`
-
-`if @err_NAT_V08_Q16 == 1`
-**16. Comment les députés sont-ils désignés ?**  
-✅ Ils sont élus au suffrage universel direct.
-
-Les députés représentent les citoyens à l'Assemblée nationale. Ils sont élus directement par les électeurs lors des élections législatives.
-
-💡 Retenez le mot-clé : députés = élus au suffrage universel direct
-`endif`
-
-`if @err_NAT_V08_Q17 == 1`
-**17. À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?**  
-✅ 18 ans.
-
-En France, la vente de boissons alcoolisées est interdite aux mineurs de moins de 18 ans, afin de protéger leur santé.
-
-💡 Retenez le mot-clé : vente d'alcool = interdite aux moins de 18 ans
-`endif`
-
-`if @err_NAT_V08_Q18 == 1`
-**18. Quelle est la première étape de la construction européenne en 1951 ?**  
-✅ La création de la Communauté européenne du charbon et de l'acier (CECA).
-
-La CECA rassemble six pays européens afin de développer une coopération économique et de favoriser la paix après la Seconde Guerre mondiale.
-
-💡 Retenez : CECA = 1 er rassemblement européen
-`endif`
-
-`if @err_NAT_V08_Q19 == 1`
-**19. Citez une condition pour être candidat aux élections municipales.**  
-✅ Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).
-
-Pour être candidat aux élections municipales, il faut notamment être majeur et remplir les conditions d'éligibilité prévues par la loi. Les citoyens de l'Union européenne résidant en France peuvent également être candidats.
-
-💡 Retenez le mot-clé : candidat municipales = majeur + conditions légales (nationalité FR ou UE)
-`endif`
-
-`if @err_NAT_V08_Q20 == 1`
-**20. Quel est l'un des premiers devoirs de tout citoyen ?**  
-✅ Respecter les lois.
-
-Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. Le premier d'entre eux est de respecter les lois de la République.
-
-💡 Retenez le mot-clé : premier devoir du citoyen = respecter les lois
-`endif`
-
-`if @err_NAT_V08_Q21 == 1`
-**21. Quelle ville française est un port maritime ?**  
-✅ Marseille.
-
-Marseille est le plus grand port maritime français et l'un des plus importants ports de la mer Méditerranée.
-
-💡 Retenez : Marseille = 1er port français
-`endif`
-
-`if @err_NAT_V08_Q22 == 1`
-**22. Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**  
-✅ La Déclaration des droits de l'Homme et du Citoyen de 1789.
-
-Adoptée en 1789 pendant la Révolution française, la Déclaration des droits de l'Homme et du Citoyen affirme les droits fondamentaux et inspire encore aujourd'hui le droit français.
-
-💡 Retenez le mot-clé : texte de 1789 = Déclaration des droits de l'Homme et du Citoyen
-`endif`
-
-`if @err_NAT_V08_Q23 == 1`
-**23. À quoi sert un titre de séjour ?**  
-✅ À autoriser un étranger à séjourner légalement en France.
-
-Le titre de séjour est un document officiel qui autorise une personne étrangère à résider en France pendant une durée déterminée ou permanente, selon sa situation.
-
-💡 Retenez le mot-clé : Titre de séjour = document pour habiter en France
-`endif`
-
-`if @err_NAT_V08_Q24 == 1`
-**24. En 1944, qu'est-ce qui a changé pour les femmes ?**  
-✅ Elles ont obtenu le droit de vote et d'éligibilité.
-
-L'ordonnance du 21 avril 1944 accorde aux femmes le droit de vote et d'éligibilité. Elles votent pour la première fois en 1945.
-
-💡 Retenez : 1944 = droit de vote des femmes
-`endif`
-
-`if @err_NAT_V08_Q25 == 1`
-**25. Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?**  
+**10. Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?**  
 ✅ Un symbole religieux discret.
 
 La loi de 2004 interdit aux élèves des écoles publiques le port de signes religieux ostensibles. Les signes discrets restent autorisés.
@@ -66952,31 +67826,166 @@ La loi de 2004 interdit aux élèves des écoles publiques le port de signes rel
 💡 Retenez le mot-clé : signes religieux à l'école = discrets autorisés, ostensibles interdits
 `endif`
 
-`if @err_NAT_V08_Q26 == 1`
-**26. Qu'est-ce que le droit de grève ?**  
-✅ Le droit de cesser collectivement le travail pour défendre des revendications professionnelles.
+`if @err_NAT_V08_Q11 == 1`
+**11. Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?**  
+✅ L'antisémitisme.
 
-Le droit de grève est une liberté reconnue par la Constitution. Il permet aux salariés de défendre leurs intérêts professionnels dans le respect de la loi.
+L'antisémitisme désigne la haine, les préjugés ou les discriminations dirigés contre les personnes juives. En France, il est interdit par la loi.
 
-💡 Retenez : Grève = droits de défendre des intérêts (ex : des licenciements économiques massifs)
+💡 Retenez le mot-clé : haine envers les Juifs = antisémitisme
 `endif`
 
-`if @err_NAT_V08_Q27 == 1`
-**27. Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**  
-✅ Le jour de gloire est arrivé.
-
-La Marseillaise est l'hymne national français depuis 1795. Le vers exact est « Allons enfants de la patrie, le jour de gloire est arrivé. »
-
-💡 Retenez le mot-clé : « Allons enfants de la patrie, le jour de gloire est arrivé »
-`endif`
-
-`if @err_NAT_V08_Q28 == 1`
-**28. Quand célèbre-t-on la Journée de l'Europe ?**  
+`if @err_NAT_V08_Q12 == 1`
+**12. Quand célèbre-t-on la Journée de l'Europe ?**  
 ✅ Le 9 mai.
 
 La Journée de l'Europe est célébrée le 9 mai, en mémoire de la déclaration Schuman de 1950, considérée comme le point de départ de la construction européenne.
 
 💡 Retenez le mot-clé : Journée de l'Europe = 9 mai
+`endif`
+
+`if @err_NAT_V08_Q13 == 1`
+**13. Où siège la Banque centrale européenne (BCE) ?**  
+✅ À Francfort (Allemagne).
+
+La Banque centrale européenne (BCE) est installée à Francfort, en Allemagne. Elle est responsable de la politique monétaire de la zone euro.
+
+💡 Retenez le mot-clé : BCE = Francfort (Allemagne)
+`endif`
+
+`if @err_NAT_V08_Q14 == 1`
+**14. Où siège la Commission européenne ?**  
+✅ À Bruxelles (Belgique).
+
+La Commission européenne est installée à Bruxelles. Elle propose les lois européennes, veille à leur application et représente l'intérêt général de l'Union européenne.
+
+💡 Retenez le mot-clé : Commission européenne = Bruxelles
+`endif`
+
+`if @err_NAT_V08_Q15 == 1`
+**15. De qui le Parlement européen est-il composé ?**  
+✅ Les députés européens.
+
+Le Parlement européen est composé de députés européens, élus directement par les citoyens des États membres de l'Union européenne.
+
+💡 Retenez le mot-clé : Parlement européen = députés européens
+`endif`
+
+`if @err_NAT_V08_Q16 == 1`
+**16. Combien d'États compte aujourd'hui l'Union européenne ?**  
+✅ 27 États.
+
+Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États membres.
+
+💡 Retenez le mot-clé : Union européenne = 27 États membres
+`endif`
+
+`if @err_NAT_V08_Q17 == 1`
+**17. En quelle année le traité de Maastricht a-t-il été signé ?**  
+✅ 1992.
+
+Le traité de Maastricht a été signé en 1992. Il crée officiellement l'Union européenne et instaure notamment la citoyenneté européenne.
+
+💡 Retenez le mot-clé : traité de Maastricht = 1992
+`endif`
+
+`if @err_NAT_V08_Q18 == 1`
+**18. Pourquoi la liberté d'expression peut-elle être limitée par la loi ?**  
+✅ Pour protéger les droits d'autrui, l'ordre public ou prévenir des infractions prévues par la loi.
+
+La liberté d'expression est une liberté fondamentale, mais elle connaît des limites prévues par la loi afin de protéger les personnes et l'intérêt général.
+
+💡 Retenez le mot-clé : limites de la liberté d'expression = droits d'autrui, ordre public
+`endif`
+
+`if @err_NAT_V08_Q19 == 1`
+**19. Que doit faire un citoyen convoqué pour être juré d'assises ?**  
+✅ Répondre à la convocation et exercer cette mission, sauf motif légitime.
+
+Les jurés d'assises participent à la justice rendue au nom du peuple français. Lorsqu'une personne est désignée, elle doit répondre à la convocation, sauf si elle bénéficie d'une dispense prévue par la loi.
+
+💡 Retenez le mot-clé : convocation juré = obligation, sauf motif légitime de dispense
+`endif`
+
+`if @err_NAT_V08_Q20 == 1`
+**20. À quel âge est fixée la majorité civile en France ?**  
+✅ 18 ans.
+
+En France, la majorité civile est fixée à 18 ans. À partir de cet âge, une personne devient juridiquement responsable de ses actes et peut exercer pleinement ses droits civils.
+
+💡 Retenez le mot-clé : majorité civile = 18 ans
+`endif`
+
+`if @err_NAT_V08_Q21 == 1`
+**21. Quel est l'un des premiers devoirs de tout citoyen ?**  
+✅ Respecter les lois.
+
+Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. Le premier d'entre eux est de respecter les lois de la République.
+
+💡 Retenez le mot-clé : premier devoir du citoyen = respecter les lois
+`endif`
+
+`if @err_NAT_V08_Q22 == 1`
+**22. Quel département français d'outre-mer se situe en Amérique du Sud, à la frontière du Brésil ?**  
+✅ La Guyane.
+
+La Guyane est un département et une région d'outre-mer d'Amérique du Sud. Elle partage une frontière avec le Brésil et le Suriname.
+
+💡 Retenez le mot-clé : frontière avec le Brésil = la Guyane
+`endif`
+
+`if @err_NAT_V08_Q23 == 1`
+**23. D'où décollent les fusées Ariane, au sein du Centre spatial guyanais ?**  
+✅ Kourou.
+
+Le Centre spatial guyanais, situé à Kourou, est le principal site de lancement spatial européen. Sa proximité avec l'équateur facilite les lancements de satellites.
+
+💡 Retenez le mot-clé : fusées Ariane = Kourou (Guyane)
+`endif`
+
+`if @err_NAT_V08_Q24 == 1`
+**24. Laquelle de ces mers ou de ces océans borde la France métropolitaine ?**  
+✅ L'océan Atlantique.
+
+La France métropolitaine est bordée par la Manche, l'océan Atlantique et la mer Méditerranée. Une petite partie du littoral touche également la mer du Nord.
+
+💡 Retenez le mot-clé : littoral France métropolitaine = Manche, Atlantique, Méditerranée
+`endif`
+
+`if @err_NAT_V08_Q25 == 1`
+**25. Lequel de ces territoires est un département-région d'outre-mer insulaire français ?**  
+✅ La Guadeloupe.
+
+Les îles françaises ayant le statut de département (ou département-région) d'outre-mer sont la Guadeloupe, la Martinique, La Réunion et Mayotte.
+
+💡 Retenez le mot-clé : DROM insulaires = Guadeloupe, Martinique, Réunion, Mayotte
+`endif`
+
+`if @err_NAT_V08_Q26 == 1`
+**26. Qu'appelle-t-on la « France d'outre-mer » ?**  
+✅ Les territoires français situés en dehors de l'Europe.
+
+La France d'outre-mer regroupe les territoires français situés hors du continent européen. Ils possèdent des statuts différents (DROM, COM, etc.) mais appartiennent à la République française.
+
+💡 Retenez le mot-clé : France d'outre-mer = territoires hors d'Europe
+`endif`
+
+`if @err_NAT_V08_Q27 == 1`
+**27. Quelle est, environ, la population de la France en 2025 ?**  
+✅ Environ 68 millions d'habitants.
+
+En 2025, la France compte environ 68 millions d'habitants (France entière). L'objectif est de connaître un ordre de grandeur, pas un chiffre exact.
+
+💡 Retenez le mot-clé : population France (2025) = environ 68 millions
+`endif`
+
+`if @err_NAT_V08_Q28 == 1`
+**28. Quel est le premier port français, aussi l'un des principaux ports de la Méditerranée ?**  
+✅ Marseille.
+
+Le Grand Port Maritime de Marseille est le premier port français et l'un des principaux ports de la Méditerranée. Il joue un rôle essentiel dans le commerce et les échanges internationaux.
+
+💡 Retenez le mot-clé : premier port français = Marseille
 `endif`
 
 ### Partie 2 — Mises en situation
@@ -66986,87 +67995,87 @@ La Journée de l'Europe est célébrée le 9 mai, en mémoire de la déclaration
 `endif`
 
 `if @err_NAT_V08_Q29 == 1`
-**29. Que lui répondez-vous ?**  
-✅ C'est interdit et passible d'une sanction.
+**29. Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?**  
+✅ Le coq.
 
-Jeter un mégot sur la voie publique est interdit, que quelqu'un observe la scène ou non. Ce geste pollue l'environnement et peut être sanctionné par une amende.
+La bonne réponse est « Le coq ». Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur les maillots de nombreuses équipes nationales sportives, mais ne fait pas partie des symboles officiels de la République.
 `endif`
 
 `if @err_NAT_V08_Q30 == 1`
-**30. Quel exemple lui donnez-vous ?**  
-✅ Voter aux élections.
+**30. Qui dirige l'action du Gouvernement au quotidien ?**  
+✅ Le Premier ministre.
 
-La participation citoyenne consiste à prendre part à la vie démocratique du pays. Le vote est l'une des principales formes de participation citoyenne, à ne pas confondre avec des démarches administratives (papiers d'identité, sécurité sociale) ou une activité professionnelle.
+La bonne réponse est « Le Premier ministre ». Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du Gouvernement et veille à l'exécution des lois.
 `endif`
 
 `if @err_NAT_V08_Q31 == 1`
-**31. Que lui répondez-vous ?**  
-✅ Oui, dans les conditions prévues par la loi.
+**31. Un citoyen a-t-il le droit d'adhérer à un parti politique ?**  
+✅ Oui, chacun est libre d'adhérer ou non.
 
-En France, une femme peut recourir à l'interruption volontaire de grossesse (IVG) dans les conditions prévues par la loi, sans avoir besoin de l'accord d'un tiers.
+La bonne réponse est « Oui, chacun est libre d'adhérer ou non ». La liberté d'association comprend également la possibilité de créer ou de rejoindre un parti politique. Cette liberté participe au fonctionnement démocratique.
 `endif`
 
 `if @err_NAT_V08_Q32 == 1`
-**32. Quelle réponse choisissez-vous ?**  
-✅ La liberté de conscience et l'égalité de tous devant la loi.
+**32. Qui juge et sanctionne les auteurs d'infractions ?**  
+✅ La justice.
 
-La laïcité protège la liberté de conscience de chacun et garantit que toutes les personnes sont traitées de manière égale, quelles que soient leurs convictions. La liberté d'expression (option D) est un principe différent, même s'il est également fondamental.
+La bonne réponse est « La justice ». La police enquête et interpelle les auteurs d'infractions, mais c'est la justice, par l'intermédiaire des tribunaux, qui juge et sanctionne les infractions.
 `endif`
 
 `if @err_NAT_V08_Q33 == 1`
-**33. Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?**  
-✅ Oui, dans les mêmes conditions que les hommes.
+**33. Après une interpellation, que peut décider la police dans les conditions prévues par la loi ?**  
+✅ Placer la personne en garde à vue.
 
-Depuis 1944, les femmes disposent du droit de vote en France. Elles peuvent participer aux élections dans les mêmes conditions que les hommes, sans condition de statut marital ou professionnel.
+La bonne réponse est « Placer la personne en garde à vue ». Après une interpellation, une personne peut être placée en garde à vue si les conditions prévues par la loi sont réunies. Cette mesure est strictement encadrée et la personne bénéficie de droits (avocat, médecin, information de ses proches, etc.).
 `endif`
 
 `if @err_NAT_V08_Q34 == 1`
-**34. Quelle proposition est correcte concernant les déchets ?**  
-✅ Les déchets doivent être triés et déposés dans les équipements prévus.
+**34. Tous les citoyens français ont-ils obligatoirement la même religion ?**  
+✅ Non, chacun est libre de croire ou de ne pas croire.
 
-Le tri des déchets est un geste citoyen qui protège l'environnement. Les déchets, y compris les encombrants, doivent être déposés dans les conteneurs, déchèteries ou aux dates de collecte prévus.
+La bonne réponse est « Non, chacun est libre de croire ou de ne pas croire ». La République garantit la liberté de conscience. Chacun est libre de pratiquer une religion, d'en changer ou de ne pas croire.
 `endif`
 
 `if @err_NAT_V08_Q35 == 1`
-**35. Que lui répondez-vous ?**  
-✅ Elle garantit le droit d'informer et d'être informé, dans le respect de la loi.
+**35. De quand à quand s'est déroulée la Première Guerre mondiale ?**  
+✅ De 1914 à 1918.
 
-La liberté de la presse permet aux journalistes d'informer le public et aux citoyens d'être informés. Elle s'exerce dans le respect de la loi, qui interdit la diffamation et l'injure.
+La bonne réponse est « De 1914 à 1918 ». La Première Guerre mondiale oppose principalement les puissances alliées aux Empires centraux entre 1914 et 1918.
 `endif`
 
 `if @err_NAT_V08_Q36 == 1`
-**36. Laquelle de ces images choisissez-vous ?**  
-✅ Le bonnet phrygien.
+**36. Sous la présidence de qui la peine de mort a-t-elle été abolie en France, en 1981 ?**  
+✅ François Mitterrand.
 
-⚠️ Réponse conforme à la banque source (à faire revalider par l'équipe pédagogique : l'explication associée cite plutôt le drapeau, Marianne, la Marseillaise et la devise comme symboles officiels — ce point mérite une vérification avant publication).
+La bonne réponse est « François Mitterrand ». La peine de mort est abolie en 1981, sous la présidence de François Mitterrand, grâce au projet défendu par le garde des Sceaux Robert Badinter.
 `endif`
 
 `if @err_NAT_V08_Q37 == 1`
-**37. A-t-il le droit de ne croire en aucune religion ?**  
-✅ Oui.
+**37. Que commémore le 8 mai, jour férié en France ?**  
+✅ La victoire des Alliés sur l'Allemagne nazie en 1945.
 
-En France, chacun est libre de croire, de ne pas croire, ou de changer de religion. Cette liberté de conscience est protégée par la loi et ne comporte aucune exception ni obligation administrative.
+La bonne réponse est « La victoire des Alliés sur l'Allemagne nazie en 1945 ». Le 8 mai est un jour férié en France. Il commémore la victoire des Alliés en 1945 et rend hommage aux combattants de la Seconde Guerre mondiale.
 `endif`
 
 `if @err_NAT_V08_Q38 == 1`
-**38. Que lui répondez-vous ?**  
-✅ Le français est la langue de la République.
+**38. En France, la contraception est :**  
+✅ Un choix personnel et un droit, accessible aux femmes comme aux hommes.
 
-L'article 2 de la Constitution dispose que « La langue de la République est le français ». Les langues régionales font partie du patrimoine culturel, mais le français reste la seule langue officielle de la République.
+La bonne réponse est « Un choix personnel et un droit, accessible aux femmes comme aux hommes ». La contraception est un droit et dépend du choix de chacun. Différents moyens existent pour prévenir une grossesse, et certains sont accessibles aux mineurs dans le respect de la confidentialité. Elle est même gratuite pour les moins de 26 ans.
 `endif`
 
 `if @err_NAT_V08_Q39 == 1`
-**39. Que lui répondez-vous ?**  
-✅ C'est l'hymne national français.
+**39. Que garantit le secret médical ?**  
+✅ Les informations médicales sont protégées et ne peuvent être divulguées sans l'accord du patient, sauf exceptions prévues par la loi.
 
-La Marseillaise est l'hymne national de la République française, au même titre que le drapeau, Marianne ou la devise sont d'autres symboles officiels, mais de nature différente.
+La bonne réponse est « Les informations médicales sont protégées et ne peuvent être divulguées sans l'accord du patient, sauf exceptions prévues par la loi ». En France, le secret médical protège la vie privée des patients. Les professionnels de santé sont tenus à une obligation de confidentialité.
 `endif`
 
 `if @err_NAT_V08_Q40 == 1`
-**40. Que lui répondez-vous sur le principe de dignité humaine ?**  
-✅ Chaque personne doit être respectée et traitée avec dignité.
+**40. Que signifie le mot « fraternité » dans la devise française ?**  
+✅ La solidarité, l'entraide et le respect entre toutes les personnes.
 
-La dignité humaine est un principe fondamental de la République française. Chaque personne doit être traitée avec respect et bénéficie des mêmes droits fondamentaux, quelle que soit son origine ou sa religion.
+La bonne réponse est « La solidarité, l'entraide et le respect entre toutes les personnes ». La fraternité est l'une des trois valeurs de la devise républicaine. Elle invite chacun à vivre ensemble dans le respect, la solidarité et l'entraide.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -67340,11 +68349,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -67374,7 +68383,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -67394,6 +68403,12 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `endif`
 `if @errchap_T1_CH05 >= 3`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -67422,6 +68437,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T5_CH01 >= 3`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 >= 3`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 >= 3`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -67429,7 +68447,7 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -67449,6 +68467,12 @@ Ces chapitres méritent une révision ciblée :
 `endif`
 `if @errchap_T1_CH05 == 2`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -67477,6 +68501,9 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T5_CH01 == 2`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 2`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 2`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -67484,7 +68511,7 @@ Ces chapitres méritent une révision ciblée :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -67504,6 +68531,12 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `endif`
 `if @errchap_T1_CH05 == 1`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -67532,6 +68565,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T5_CH01 == 1`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 1`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 1`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -67539,11 +68575,11 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
@@ -67563,20 +68599,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T2_CH04 = 0`
-`@errchap_T5_CH01 = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T5_CH04 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T4_CH02 = 0`
+`@errchap_T1_CH01 = 0`
+`@errchap_T1_CH02 = 0`
+`@errchap_T1_CH03 = 0`
 `@errchap_T1_CH04 = 0`
 `@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
 `@errchap_T2_CH02 = 0`
-`@errchap_T4_CH01 = 0`
-`@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
 `@errchap_T2_CH03 = 0`
-`@errchap_T1_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -67587,8 +68628,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q01
 
 `@err_NAT_V09_Q01 = 0`
-
 `@exam_variant = 9`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -67601,12 +68642,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**Que porte Marianne sur la tête ?**
+<!-- Source naturalisation : NAT-T1-033 -->
 
-1) [Une couronne.](EXAM_NAT_V09_Q01_FAUX)
-2) [Un casque.](EXAM_NAT_V09_Q01_FAUX)
-3) [Un béret.](EXAM_NAT_V09_Q01_FAUX)
-4) [Un bonnet phrygien.](EXAM_NAT_V09_Q01_VRAI)
+**Quel texte est considéré comme le texte fondateur de la laïcité ?**
+
+1) [La loi du 9 décembre 1905 de séparation des Églises et de l'État.](EXAM_NAT_V09_Q01_VRAI)
+2) [La Constitution.](EXAM_NAT_V09_Q01_FAUX)
+3) [La Déclaration des droits de l'homme.](EXAM_NAT_V09_Q01_FAUX)
+4) [Le Code civil.](EXAM_NAT_V09_Q01_FAUX)
 
 ## EXAM_NAT_V09_Q01_VRAI
 
@@ -67620,7 +68663,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q01 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q02)
 
@@ -67639,17 +68682,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**
+<!-- Source naturalisation : NAT-T1-034 -->
 
-1) [La Constitution.](EXAM_NAT_V09_Q02_FAUX)
-2) [Le Code civil.](EXAM_NAT_V09_Q02_FAUX)
-3) [La Charte de l'environnement.](EXAM_NAT_V09_Q02_FAUX)
-4) [La Déclaration des droits de l'Homme et du Citoyen de 1789.](EXAM_NAT_V09_Q02_VRAI)
+**Quelle institution française doit rester neutre en matière de religion ?**
+
+1) [Les citoyens.](EXAM_NAT_V09_Q02_FAUX)
+2) [L'État.](EXAM_NAT_V09_Q02_VRAI)
+3) [Les associations.](EXAM_NAT_V09_Q02_FAUX)
+4) [Les entreprises privées.](EXAM_NAT_V09_Q02_FAUX)
 
 ## EXAM_NAT_V09_Q02_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q03)
@@ -67658,7 +68703,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q02 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q03)
 
@@ -67677,17 +68722,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**Quel est le rôle du maire ?**
+<!-- Source naturalisation : NAT-T1-035 -->
 
-1) [Il vote les lois.](EXAM_NAT_V09_Q03_FAUX)
-2) [Il dirige le Gouvernement.](EXAM_NAT_V09_Q03_FAUX)
-3) [Il représente la France à l'étranger.](EXAM_NAT_V09_Q03_FAUX)
-4) [Il dirige la commune, applique les décisions du conseil municipal et assure notamment l'état civil.](EXAM_NAT_V09_Q03_VRAI)
+**Qu'est-ce que la laïcité ?**
+
+1) [L'interdiction des religions.](EXAM_NAT_V09_Q03_FAUX)
+2) [L'obligation de ne pas croire.](EXAM_NAT_V09_Q03_FAUX)
+3) [La séparation des Églises et de l'État, garantissant la liberté de conscience et l'égalité de tous.](EXAM_NAT_V09_Q03_VRAI)
+4) [Une religion officielle.](EXAM_NAT_V09_Q03_FAUX)
 
 ## EXAM_NAT_V09_Q03_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q04)
@@ -67696,7 +68743,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q03 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q04)
 
@@ -67715,17 +68762,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**À l'école, il est interdit aux parents de :**
+<!-- Source naturalisation : NAT-T1-036 -->
 
-1) [Rencontrer les enseignants.](EXAM_NAT_V09_Q04_FAUX)
-2) [Contester les enseignements ou les activités obligatoires pour des motifs religieux.](EXAM_NAT_V09_Q04_VRAI)
-3) [Participer aux réunions de parents.](EXAM_NAT_V09_Q04_FAUX)
-4) [Élire leurs représentants.](EXAM_NAT_V09_Q04_FAUX)
+**À l'école, la Charte de la laïcité permet de :**
+
+1) [Imposer une religion aux élèves.](EXAM_NAT_V09_Q04_FAUX)
+2) [Interdire toute discussion sur la religion.](EXAM_NAT_V09_Q04_FAUX)
+3) [Remplacer les cours d'histoire.](EXAM_NAT_V09_Q04_FAUX)
+4) [Expliquer les règles de la laïcité, du vivre-ensemble et du respect des convictions de chacun.](EXAM_NAT_V09_Q04_VRAI)
 
 ## EXAM_NAT_V09_Q04_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q05)
@@ -67734,7 +68783,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q04 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q05)
 
@@ -67753,17 +68802,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?**
+<!-- Source naturalisation : NAT-T2-050 -->
 
-1) [Un voile couvrant les cheveux.](EXAM_NAT_V09_Q05_FAUX)
-2) [Une grande croix visible.](EXAM_NAT_V09_Q05_FAUX)
-3) [Une kippa.](EXAM_NAT_V09_Q05_FAUX)
-4) [Un symbole religieux discret.](EXAM_NAT_V09_Q05_VRAI)
+**Quel traité a créé officiellement l'Union européenne ?**
+
+1) [Le traité de Maastricht.](EXAM_NAT_V09_Q05_VRAI)
+2) [Le traité de Versailles.](EXAM_NAT_V09_Q05_FAUX)
+3) [Le traité de Rome.](EXAM_NAT_V09_Q05_FAUX)
+4) [Le traité de Lisbonne.](EXAM_NAT_V09_Q05_FAUX)
 
 ## EXAM_NAT_V09_Q05_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q06)
@@ -67772,7 +68823,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q05 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q06)
 
@@ -67791,12 +68842,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**L'inscription sur les listes électorales est-elle... ?**
+<!-- Source naturalisation : NAT-T2-051 -->
 
-1) [Obligatoire pour pouvoir voter.](EXAM_NAT_V09_Q06_VRAI)
-2) [Facultative.](EXAM_NAT_V09_Q06_FAUX)
-3) [Réservée à certaines professions.](EXAM_NAT_V09_Q06_FAUX)
-4) [Automatique dès la naissance, sans démarche.](EXAM_NAT_V09_Q06_FAUX)
+**Quel pays a quitté l'Union européenne (Brexit) ?**
+
+1) [La Norvège.](EXAM_NAT_V09_Q06_FAUX)
+2) [Le Royaume-Uni.](EXAM_NAT_V09_Q06_VRAI)
+3) [La Suisse.](EXAM_NAT_V09_Q06_FAUX)
+4) [L'Irlande.](EXAM_NAT_V09_Q06_FAUX)
 
 ## EXAM_NAT_V09_Q06_VRAI
 
@@ -67810,7 +68863,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q06 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q07)
 
@@ -67829,17 +68882,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**Que dit la loi de 1905 ?**
+<!-- Source naturalisation : NAT-T2-052 -->
 
-1) [Elle interdit les religions.](EXAM_NAT_V09_Q07_FAUX)
-2) [Elle impose une religion officielle.](EXAM_NAT_V09_Q07_FAUX)
-3) [Elle interdit les lieux de culte.](EXAM_NAT_V09_Q07_FAUX)
-4) [Elle sépare les Églises et l'État et garantit la liberté de conscience.](EXAM_NAT_V09_Q07_VRAI)
+**Comment s'appelle l'hymne de l'Union européenne ?**
+
+1) [La Marseillaise.](EXAM_NAT_V09_Q07_FAUX)
+2) [Le Beau Danube bleu.](EXAM_NAT_V09_Q07_FAUX)
+3) [L'Ode à la joie.](EXAM_NAT_V09_Q07_VRAI)
+4) [L'Hymne à la joie.](EXAM_NAT_V09_Q07_FAUX)
 
 ## EXAM_NAT_V09_Q07_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q08)
@@ -67848,7 +68903,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q07 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q08)
 
@@ -67867,12 +68922,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Qui est le préfet ?**
+<!-- Source naturalisation : NAT-T2-053 -->
 
-1) [Le maire.](EXAM_NAT_V09_Q08_FAUX)
-2) [Le président du conseil départemental.](EXAM_NAT_V09_Q08_FAUX)
-3) [Le député.](EXAM_NAT_V09_Q08_FAUX)
-4) [Le représentant de l'État dans le département.](EXAM_NAT_V09_Q08_VRAI)
+**Comment est composé le drapeau européen ?**
+
+1) [Une étoile par État membre.](EXAM_NAT_V09_Q08_FAUX)
+2) [Vingt-sept étoiles.](EXAM_NAT_V09_Q08_FAUX)
+3) [Des bandes bleues et blanches.](EXAM_NAT_V09_Q08_FAUX)
+4) [Douze étoiles dorées sur fond bleu.](EXAM_NAT_V09_Q08_VRAI)
 
 ## EXAM_NAT_V09_Q08_VRAI
 
@@ -67886,7 +68943,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q08 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q09)
 
@@ -67905,17 +68962,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**Quelle ville française est un port maritime ?**
+<!-- Source naturalisation : NAT-T2-054 -->
 
-1) [Clermont-Ferrand.](EXAM_NAT_V09_Q09_FAUX)
-2) [Limoges.](EXAM_NAT_V09_Q09_FAUX)
-3) [Marseille.](EXAM_NAT_V09_Q09_VRAI)
-4) [Dijon.](EXAM_NAT_V09_Q09_FAUX)
+**Qui élit les députés européens ?**
+
+1) [Les citoyens des États membres de l'Union européenne.](EXAM_NAT_V09_Q09_VRAI)
+2) [Les gouvernements.](EXAM_NAT_V09_Q09_FAUX)
+3) [Les chefs d'État.](EXAM_NAT_V09_Q09_FAUX)
+4) [La Commission européenne.](EXAM_NAT_V09_Q09_FAUX)
 
 ## EXAM_NAT_V09_Q09_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q10)
@@ -67924,7 +68983,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q09 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q10)
 
@@ -67943,17 +69002,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**En France, il est possible pour l'État de financer :**
+<!-- Source naturalisation : NAT-T2-055 -->
 
-1) [Les aumôneries dans certains services publics (hôpitaux, prisons, armées).](EXAM_NAT_V09_Q10_VRAI)
-2) [N'importe quel lieu de culte, sans exception.](EXAM_NAT_V09_Q10_FAUX)
-3) [Uniquement les églises catholiques.](EXAM_NAT_V09_Q10_FAUX)
-4) [Aucun financement religieux, sans exception.](EXAM_NAT_V09_Q10_FAUX)
+**Où siège officiellement le Parlement européen ?**
+
+1) [Bruxelles.](EXAM_NAT_V09_Q10_FAUX)
+2) [À Strasbourg.](EXAM_NAT_V09_Q10_VRAI)
+3) [Luxembourg.](EXAM_NAT_V09_Q10_FAUX)
+4) [Francfort.](EXAM_NAT_V09_Q10_FAUX)
 
 ## EXAM_NAT_V09_Q10_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q11)
@@ -67962,7 +69023,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q10 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q11)
 
@@ -67981,17 +69042,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**Quel monument parisien est l'un des symboles de la France ?**
+<!-- Source naturalisation : NAT-T3-033 -->
 
-1) [Le Colisée.](EXAM_NAT_V09_Q11_FAUX)
-2) [Big Ben.](EXAM_NAT_V09_Q11_FAUX)
-3) [La tour Eiffel.](EXAM_NAT_V09_Q11_VRAI)
-4) [La statue de la Liberté.](EXAM_NAT_V09_Q11_FAUX)
+**Parmi les trois catégories d'infractions du droit français, laquelle est la plus grave ?**
+
+1) [Le crime.](EXAM_NAT_V09_Q11_VRAI)
+2) [La contravention.](EXAM_NAT_V09_Q11_FAUX)
+3) [Le délit.](EXAM_NAT_V09_Q11_FAUX)
+4) [L'infraction routière.](EXAM_NAT_V09_Q11_FAUX)
 
 ## EXAM_NAT_V09_Q11_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q12)
@@ -68000,7 +69063,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q11 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q12)
 
@@ -68019,17 +69082,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?**
+<!-- Source naturalisation : NAT-T3-034 -->
 
-1) [Les allocations familiales.](EXAM_NAT_V09_Q12_FAUX)
-2) [Le RSA.](EXAM_NAT_V09_Q12_FAUX)
-3) [L'aide juridictionnelle.](EXAM_NAT_V09_Q12_VRAI)
-4) [Les allocations chômage.](EXAM_NAT_V09_Q12_FAUX)
+**Qu'est-ce que la citoyenneté numérique ?**
+
+1) [Savoir utiliser un ordinateur.](EXAM_NAT_V09_Q12_FAUX)
+2) [L'utilisation responsable, respectueuse et sécurisée des outils numériques et d'Internet.](EXAM_NAT_V09_Q12_VRAI)
+3) [Être inscrit sur un réseau social.](EXAM_NAT_V09_Q12_FAUX)
+4) [Avoir un téléphone portable.](EXAM_NAT_V09_Q12_FAUX)
 
 ## EXAM_NAT_V09_Q12_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q13)
@@ -68038,7 +69103,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q12 = 1`
 
-`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q13)
 
@@ -68057,12 +69122,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Que signifie être libre, en France ?**
+<!-- Source naturalisation : NAT-T3-035 -->
 
-1) [On peut faire tout ce que l'on veut.](EXAM_NAT_V09_Q13_FAUX)
-2) [Les lois ne s'appliquent pas.](EXAM_NAT_V09_Q13_FAUX)
-3) [Chacun décide de ses propres règles.](EXAM_NAT_V09_Q13_FAUX)
-4) [Chacun est libre tant qu'il respecte les droits des autres.](EXAM_NAT_V09_Q13_VRAI)
+**Qui peut être désigné juré d'assises ?**
+
+1) [Les policiers.](EXAM_NAT_V09_Q13_FAUX)
+2) [Les magistrats uniquement.](EXAM_NAT_V09_Q13_FAUX)
+3) [Un citoyen inscrit sur les listes électorales, tiré au sort.](EXAM_NAT_V09_Q13_VRAI)
+4) [Les avocats uniquement.](EXAM_NAT_V09_Q13_FAUX)
 
 ## EXAM_NAT_V09_Q13_VRAI
 
@@ -68076,7 +69143,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q13 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q14)
 
@@ -68095,17 +69162,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**En 1944, qu'est-ce qui a changé pour les femmes ?**
+<!-- Source naturalisation : NAT-T3-036 -->
 
-1) [Elles ont obtenu le droit au travail.](EXAM_NAT_V09_Q14_FAUX)
-2) [Elles ont obtenu le droit au divorce.](EXAM_NAT_V09_Q14_FAUX)
-3) [Elles ont obtenu le droit de vote et d'éligibilité.](EXAM_NAT_V09_Q14_VRAI)
-4) [Elles ont obtenues le droit de devenir présidente de la République.](EXAM_NAT_V09_Q14_FAUX)
+**Qu'est-ce que le devoir de mémoire ?**
+
+1) [Oublier le passé.](EXAM_NAT_V09_Q14_FAUX)
+2) [Célébrer toutes les guerres.](EXAM_NAT_V09_Q14_FAUX)
+3) [Apprendre uniquement les dates historiques.](EXAM_NAT_V09_Q14_FAUX)
+4) [Se souvenir des événements tragiques du passé afin de transmettre leur histoire et d'éviter qu'ils ne se reproduisent.](EXAM_NAT_V09_Q14_VRAI)
 
 ## EXAM_NAT_V09_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q15)
@@ -68114,7 +69183,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q14 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q15)
 
@@ -68133,17 +69202,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
+<!-- Source naturalisation : NAT-T4-078 -->
 
-1) [Sa religion.](EXAM_NAT_V09_Q15_FAUX)
-2) [Son origine.](EXAM_NAT_V09_Q15_FAUX)
-3) [Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.](EXAM_NAT_V09_Q15_VRAI)
-4) [Ses opinions politiques.](EXAM_NAT_V09_Q15_FAUX)
+**Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?**
+
+1) [Lyon.](EXAM_NAT_V09_Q15_VRAI)
+2) [Clermont-Ferrand.](EXAM_NAT_V09_Q15_FAUX)
+3) [Grenoble.](EXAM_NAT_V09_Q15_FAUX)
+4) [Saint-Étienne.](EXAM_NAT_V09_Q15_FAUX)
 
 ## EXAM_NAT_V09_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q16)
@@ -68152,7 +69223,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q15 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q16)
 
@@ -68171,17 +69242,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Quel est le rôle du Défenseur des droits ?**
+<!-- Source naturalisation : NAT-T4-079 -->
 
-1) [Il vote les lois.](EXAM_NAT_V09_Q16_FAUX)
-2) [Il dirige la police.](EXAM_NAT_V09_Q16_FAUX)
-3) [Il juge et condamne les personnes.](EXAM_NAT_V09_Q16_FAUX)
-4) [Il protège les droits et les libertés des personnes et lutte contre les discriminations.](EXAM_NAT_V09_Q16_VRAI)
+**Quel est le chef-lieu de la région Bretagne ?**
+
+1) [Brest.](EXAM_NAT_V09_Q16_FAUX)
+2) [Rennes.](EXAM_NAT_V09_Q16_VRAI)
+3) [Nantes.](EXAM_NAT_V09_Q16_FAUX)
+4) [Quimper.](EXAM_NAT_V09_Q16_FAUX)
 
 ## EXAM_NAT_V09_Q16_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q17)
@@ -68190,7 +69263,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q16 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q17)
 
@@ -68209,12 +69282,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**De quand date l'appel à la résistance du général de Gaulle ?**
+<!-- Source naturalisation : NAT-T4-080 -->
 
-1) [18 juin 1940.](EXAM_NAT_V09_Q17_VRAI)
-2) [18 juin 1944.](EXAM_NAT_V09_Q17_FAUX)
-3) [18 juin 1939.](EXAM_NAT_V09_Q17_FAUX)
-4) [18 juin1945.](EXAM_NAT_V09_Q17_FAUX)
+**Quel est le chef-lieu de la région Provence-Alpes-Côte d'Azur ?**
+
+1) [Nice.](EXAM_NAT_V09_Q17_FAUX)
+2) [Toulon.](EXAM_NAT_V09_Q17_FAUX)
+3) [Marseille.](EXAM_NAT_V09_Q17_VRAI)
+4) [Aix-en-Provence.](EXAM_NAT_V09_Q17_FAUX)
 
 ## EXAM_NAT_V09_Q17_VRAI
 
@@ -68228,7 +69303,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q17 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q18)
 
@@ -68247,12 +69322,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Lequel de ces départements de France est le plus touristique ?**
+<!-- Source naturalisation : NAT-T4-081 -->
 
-1) [Paris.](EXAM_NAT_V09_Q18_VRAI)
-2) [Creuse.](EXAM_NAT_V09_Q18_FAUX)
-3) [Lozère.](EXAM_NAT_V09_Q18_FAUX)
-4) [Haute-Marne.](EXAM_NAT_V09_Q18_FAUX)
+**Depuis 2011, quel territoire est devenu le 101ᵉ département français ?**
+
+1) [La Réunion.](EXAM_NAT_V09_Q18_FAUX)
+2) [La Guyane.](EXAM_NAT_V09_Q18_FAUX)
+3) [La Martinique.](EXAM_NAT_V09_Q18_FAUX)
+4) [Mayotte.](EXAM_NAT_V09_Q18_VRAI)
 
 ## EXAM_NAT_V09_Q18_VRAI
 
@@ -68266,7 +69343,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q18 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q19)
 
@@ -68285,17 +69362,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**En cas de vacance de la présidence, qui assure provisoirement les fonctions de Président de la République ?**
+<!-- Source naturalisation : NAT-T4-082 -->
 
-1) [Le Premier ministre.](EXAM_NAT_V09_Q19_FAUX)
-2) [Le Président de l'Assemblée nationale.](EXAM_NAT_V09_Q19_FAUX)
-3) [Le ministre de l'Intérieur.](EXAM_NAT_V09_Q19_FAUX)
-4) [Le Président du Sénat.](EXAM_NAT_V09_Q19_VRAI)
+**Dans quelle région se trouvent la plupart des grandes stations de ski françaises (Chamonix, Les Trois Vallées...) ?**
+
+1) [Auvergne-Rhône-Alpes.](EXAM_NAT_V09_Q19_VRAI)
+2) [Bretagne.](EXAM_NAT_V09_Q19_FAUX)
+3) [Normandie.](EXAM_NAT_V09_Q19_FAUX)
+4) [Île-de-France.](EXAM_NAT_V09_Q19_FAUX)
 
 ## EXAM_NAT_V09_Q19_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q20)
@@ -68304,7 +69383,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q19 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q20)
 
@@ -68323,17 +69402,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**Quel pays a quitté l'Union européenne (Brexit) ?**
+<!-- Source naturalisation : NAT-T4-083 -->
 
-1) [La Norvège.](EXAM_NAT_V09_Q20_FAUX)
-2) [La Suisse.](EXAM_NAT_V09_Q20_FAUX)
-3) [L'Irlande.](EXAM_NAT_V09_Q20_FAUX)
-4) [Le Royaume-Uni.](EXAM_NAT_V09_Q20_VRAI)
+**Quel fleuve traverse Paris avant de se jeter dans la Manche au Havre ?**
+
+1) [Le Rhône.](EXAM_NAT_V09_Q20_FAUX)
+2) [La Seine.](EXAM_NAT_V09_Q20_VRAI)
+3) [La Loire.](EXAM_NAT_V09_Q20_FAUX)
+4) [La Garonne.](EXAM_NAT_V09_Q20_FAUX)
 
 ## EXAM_NAT_V09_Q20_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q21)
@@ -68342,7 +69423,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q20 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q21)
 
@@ -68361,17 +69442,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Pour un citoyen tiré au sort, être juré à la cour d'assises est :**
+<!-- Source naturalisation : NAT-T4-001 -->
 
-1) [Un devoir civique obligatoire.](EXAM_NAT_V09_Q21_VRAI)
-2) [Une activité facultative.](EXAM_NAT_V09_Q21_FAUX)
-3) [Un métier rémunéré.](EXAM_NAT_V09_Q21_FAUX)
-4) [Une mission réservée aux avocats.](EXAM_NAT_V09_Q21_FAUX)
+**Comment s'appelle le texte, promulgué en 1804 sous Napoléon Ier, qui rassemble les principales règles du droit civil français ?**
+
+1) [Le Code civil.](EXAM_NAT_V09_Q21_VRAI)
+2) [La Constitution de 1958.](EXAM_NAT_V09_Q21_FAUX)
+3) [La Déclaration des droits de l'Homme.](EXAM_NAT_V09_Q21_FAUX)
+4) [Le Code pénal.](EXAM_NAT_V09_Q21_FAUX)
 
 ## EXAM_NAT_V09_Q21_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q22)
@@ -68380,7 +69463,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q21 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q22)
 
@@ -68399,17 +69482,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
-**Qu'est-ce que la citoyenneté numérique ?**
+<!-- Source naturalisation : NAT-T4-002 -->
 
-1) [Savoir utiliser un ordinateur.](EXAM_NAT_V09_Q22_FAUX)
-2) [Être inscrit sur un réseau social.](EXAM_NAT_V09_Q22_FAUX)
-3) [Avoir un téléphone portable.](EXAM_NAT_V09_Q22_FAUX)
-4) [L'utilisation responsable, respectueuse et sécurisée des outils numériques et d'Internet.](EXAM_NAT_V09_Q22_VRAI)
+**Lequel de ces noms est celui d'un Président de la Ve République ?**
+
+1) [Napoléon Bonaparte.](EXAM_NAT_V09_Q22_FAUX)
+2) [Georges Pompidou.](EXAM_NAT_V09_Q22_VRAI)
+3) [Louis XIV.](EXAM_NAT_V09_Q22_FAUX)
+4) [Jules Ferry.](EXAM_NAT_V09_Q22_FAUX)
 
 ## EXAM_NAT_V09_Q22_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q23)
@@ -68418,7 +69503,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q22 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q23)
 
@@ -68437,17 +69522,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
+<!-- Source naturalisation : NAT-T4-003 -->
 
-1) [Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.](EXAM_NAT_V09_Q23_VRAI)
-2) [Aucun risque.](EXAM_NAT_V09_Q23_FAUX)
-3) [Seulement un avertissement.](EXAM_NAT_V09_Q23_FAUX)
-4) [Une simple remarque de l'école.](EXAM_NAT_V09_Q23_FAUX)
+**Que célèbre la fête nationale française du 14 juillet ?**
+
+1) [L'Armistice.](EXAM_NAT_V09_Q23_FAUX)
+2) [La Libération.](EXAM_NAT_V09_Q23_FAUX)
+3) [La prise de la Bastille (1789).](EXAM_NAT_V09_Q23_VRAI)
+4) [La Révolution de 1848.](EXAM_NAT_V09_Q23_FAUX)
 
 ## EXAM_NAT_V09_Q23_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q24)
@@ -68456,7 +69543,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q23 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q24)
 
@@ -68475,17 +69562,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**Qui était Auguste Rodin ?**
+<!-- Source naturalisation : NAT-T5-041 -->
 
-1) [Un sculpteur français.](EXAM_NAT_V09_Q24_VRAI)
-2) [Un écrivain.](EXAM_NAT_V09_Q24_FAUX)
-3) [Un peintre.](EXAM_NAT_V09_Q24_FAUX)
-4) [Un musicien.](EXAM_NAT_V09_Q24_FAUX)
+**Comment sont accueillis à l'école les enfants qui ne parlent pas encore français ?**
+
+1) [Ils bénéficient d'un enseignement du français adapté.](EXAM_NAT_V09_Q24_VRAI)
+2) [Ils ne peuvent pas aller à l'école.](EXAM_NAT_V09_Q24_FAUX)
+3) [Ils doivent attendre de parler français.](EXAM_NAT_V09_Q24_FAUX)
+4) [Ils suivent uniquement des cours à distance.](EXAM_NAT_V09_Q24_FAUX)
 
 ## EXAM_NAT_V09_Q24_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q25)
@@ -68494,7 +69583,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q24 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q25)
 
@@ -68513,17 +69602,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**En quelle année l'euro est-elle devenue la monnaie utilisée en France ?**
+<!-- Source naturalisation : NAT-T5-042 -->
 
-1) [2002.](EXAM_NAT_V09_Q25_VRAI)
-2) [1992.](EXAM_NAT_V09_Q25_FAUX)
-3) [1999.](EXAM_NAT_V09_Q25_FAUX)
-4) [2005.](EXAM_NAT_V09_Q25_FAUX)
+**Concernant la scolarisation des enfants en situation de handicap, quelle proposition est correcte ?**
+
+1) [Ils doivent être scolarisés uniquement en établissement spécialisé.](EXAM_NAT_V09_Q25_FAUX)
+2) [Les enfants en situation de handicap ont le droit d'être scolarisés, avec des aménagements adaptés.](EXAM_NAT_V09_Q25_VRAI)
+3) [Ils sont dispensés d'instruction.](EXAM_NAT_V09_Q25_FAUX)
+4) [Ils ne peuvent pas fréquenter l'école publique.](EXAM_NAT_V09_Q25_FAUX)
 
 ## EXAM_NAT_V09_Q25_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q26)
@@ -68532,7 +69623,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q25 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q26)
 
@@ -68551,17 +69642,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**Que garantit la liberté de la presse ?**
+<!-- Source naturalisation : NAT-T5-043 -->
 
-1) [On peut publier n'importe quoi.](EXAM_NAT_V09_Q26_FAUX)
-2) [Les journalistes sont au-dessus des lois.](EXAM_NAT_V09_Q26_FAUX)
-3) [Les médias peuvent diffamer librement.](EXAM_NAT_V09_Q26_FAUX)
-4) [La liberté d'informer et d'être informé.](EXAM_NAT_V09_Q26_VRAI)
+**Depuis le 1er juillet 2021, quelle est la durée du congé de paternité et d'accueil de l'enfant pour une naissance simple ?**
+
+1) [11 jours.](EXAM_NAT_V09_Q26_FAUX)
+2) [15 jours.](EXAM_NAT_V09_Q26_FAUX)
+3) [25 jours.](EXAM_NAT_V09_Q26_VRAI)
+4) [30 jours.](EXAM_NAT_V09_Q26_FAUX)
 
 ## EXAM_NAT_V09_Q26_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q27)
@@ -68570,7 +69663,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q26 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q27)
 
@@ -68589,12 +69682,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**Quel numéro d'urgence permet d'appeler la police ?**
+<!-- Source naturalisation : NAT-T5-044 -->
 
-1) [15.](EXAM_NAT_V09_Q27_FAUX)
-2) [17.](EXAM_NAT_V09_Q27_VRAI)
-3) [18.](EXAM_NAT_V09_Q27_FAUX)
-4) [112.](EXAM_NAT_V09_Q27_FAUX)
+**Les châtiments corporels envers un enfant sont-ils autorisés en France ?**
+
+1) [Oui.](EXAM_NAT_V09_Q27_FAUX)
+2) [Oui, si l'enfant a désobéi.](EXAM_NAT_V09_Q27_FAUX)
+3) [Oui, dans certaines situations.](EXAM_NAT_V09_Q27_FAUX)
+4) [Non, les violences éducatives, y compris les châtiments corporels, sont interdites.](EXAM_NAT_V09_Q27_VRAI)
 
 ## EXAM_NAT_V09_Q27_VRAI
 
@@ -68608,7 +69703,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q27 = 1`
 
-`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q28)
 
@@ -68627,17 +69722,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
-**Quand peut-on visiter gratuitement des lieux culturels en France ?**
+<!-- Source naturalisation : NAT-T5-001 -->
 
-1) [Le 14 juillet.](EXAM_NAT_V09_Q28_FAUX)
-2) [Le 25 décembre.](EXAM_NAT_V09_Q28_FAUX)
-3) [Lors des Journées européennes du patrimoine.](EXAM_NAT_V09_Q28_VRAI)
-4) [Tous les dimanches.](EXAM_NAT_V09_Q28_FAUX)
+**Où doit-on déclarer la naissance d'un enfant ?**
+
+1) [À la mairie du lieu de naissance.](EXAM_NAT_V09_Q28_VRAI)
+2) [À la préfecture.](EXAM_NAT_V09_Q28_FAUX)
+3) [À la CAF.](EXAM_NAT_V09_Q28_FAUX)
+4) [À la police.](EXAM_NAT_V09_Q28_FAUX)
 
 ## EXAM_NAT_V09_Q28_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_PART2)
@@ -68646,7 +69743,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q28 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_PART2)
 
@@ -68661,6 +69758,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V09_Q29
 
 `@err_NAT_V09_Q29 = 0`
+`@exam_variant = 9`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -68673,19 +69772,21 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que « personne ne regarde, donc ce n'est pas grave ».
+<!-- Source naturalisation : MS-NAT-T4-026 -->
 
-**Que lui répondez-vous ?**
+Au cours d’un atelier culturel, votre groupe doit reconnaître un repère essentiel de l’histoire ou de la géographie française. Dans le groupe, la réponse « Jules Ferry » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [C'est autorisé si personne ne regarde.](EXAM_NAT_V09_Q29_FAUX)
-2) [C'est autorisé dans les grandes villes.](EXAM_NAT_V09_Q29_FAUX)
-3) [C'est interdit et passible d'une sanction.](EXAM_NAT_V09_Q29_VRAI)
-4) [C'est obligatoire si aucune poubelle n'est disponible.](EXAM_NAT_V09_Q29_FAUX)
+**Qui a été chargé par le général de Gaulle d'unifier les mouvements de Résistance ?**
+
+1) [Napoléon Bonaparte.](EXAM_NAT_V09_Q29_FAUX)
+2) [Jean Moulin.](EXAM_NAT_V09_Q29_VRAI)
+3) [Jules Ferry.](EXAM_NAT_V09_Q29_FAUX)
+4) [Louis XIV.](EXAM_NAT_V09_Q29_FAUX)
 
 ## EXAM_NAT_V09_Q29_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q30)
@@ -68694,7 +69795,7 @@ Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que �
 
 `@err_NAT_V09_Q29 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q30)
 
@@ -68713,19 +69814,21 @@ Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que �
 
 ### Question 30 sur 40
 
-Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement en raison de son origine.
+<!-- Source naturalisation : MS-NAT-T4-027 -->
 
-**Que pouvez-vous lui dire sur ce que fait la loi française face à ce type de discrimination ?**
+Un proche prépare son entretien de naturalisation et vous demande de l’aider sur un élément du patrimoine français. Une personne hésite et choisit « L'océan Atlantique ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [L'État les autorise dans certains cas.](EXAM_NAT_V09_Q30_FAUX)
-2) [L'État ne fait rien face à ce type de situation.](EXAM_NAT_V09_Q30_FAUX)
-3) [La loi interdit les discriminations et les sanctionne.](EXAM_NAT_V09_Q30_VRAI)
-4) [Cela dépend des régions.](EXAM_NAT_V09_Q30_FAUX)
+**Quelle mer sépare la France de l'Angleterre ?**
+
+1) [La mer du Nord.](EXAM_NAT_V09_Q30_FAUX)
+2) [La Méditerranée.](EXAM_NAT_V09_Q30_FAUX)
+3) [La Manche.](EXAM_NAT_V09_Q30_VRAI)
+4) [L'océan Atlantique.](EXAM_NAT_V09_Q30_FAUX)
 
 ## EXAM_NAT_V09_Q30_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q31)
@@ -68734,7 +69837,7 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 
 `@err_NAT_V09_Q30 = 1`
 
-`@errchap_T1_CH05 = calc(@errchap_T1_CH05 + 1)`
+`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q31)
 
@@ -68753,19 +69856,21 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 
 ### Question 31 sur 40
 
-Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle et un travail. Il vous demande un exemple concret de participation à la vie citoyenne et démocratique de la France.
+<!-- Source naturalisation : MS-NAT-T5-017 -->
 
-**Quel exemple lui donnez-vous ?**
+Lors d’un échange dans un service public, une personne veut s’assurer qu’elle connaît la règle applicable à sa situation. Une personne hésite et choisit « À voter ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Avoir une carte d'identité française.](EXAM_NAT_V09_Q31_FAUX)
-2) [Être inscrit à la Sécurité sociale.](EXAM_NAT_V09_Q31_FAUX)
-3) [Voter aux élections.](EXAM_NAT_V09_Q31_VRAI)
-4) [Travailler dans une entreprise.](EXAM_NAT_V09_Q31_FAUX)
+**À quoi sert la carte Vitale ?**
+
+1) [À faciliter la prise en charge et le remboursement des frais de santé.](EXAM_NAT_V09_Q31_VRAI)
+2) [À payer les impôts.](EXAM_NAT_V09_Q31_FAUX)
+3) [À voter.](EXAM_NAT_V09_Q31_FAUX)
+4) [À conduire.](EXAM_NAT_V09_Q31_FAUX)
 
 ## EXAM_NAT_V09_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q32)
@@ -68774,7 +69879,7 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 
 `@err_NAT_V09_Q31 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q32)
 
@@ -68793,19 +69898,21 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 
 ### Question 32 sur 40
 
-Une amie vous demande si une femme a le droit de recourir à un avortement en France.
+<!-- Source naturalisation : MS-NAT-T5-018 -->
 
-**Que lui répondez-vous ?**
+Dans une démarche de la vie quotidienne, une personne de votre entourage hésite sur la conduite à adopter en France. Un participant propose la réponse « Elle soigne les patients ». Vous devez vérifier cette affirmation.
 
-1) [Non.](EXAM_NAT_V09_Q32_FAUX)
-2) [Seulement avec l'accord du mari.](EXAM_NAT_V09_Q32_FAUX)
-3) [Seulement avec l'accord du médecin.](EXAM_NAT_V09_Q32_FAUX)
-4) [Oui, dans les conditions prévues par la loi.](EXAM_NAT_V09_Q32_VRAI)
+**Quel est le rôle d'une mutuelle santé ?**
+
+1) [Elle remplace la CPAM.](EXAM_NAT_V09_Q32_FAUX)
+2) [À compléter les remboursements de l'Assurance maladie.](EXAM_NAT_V09_Q32_VRAI)
+3) [Elle délivre la carte Vitale.](EXAM_NAT_V09_Q32_FAUX)
+4) [Elle soigne les patients.](EXAM_NAT_V09_Q32_FAUX)
 
 ## EXAM_NAT_V09_Q32_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q33)
@@ -68814,7 +69921,7 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_NAT_V09_Q32 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q33)
 
@@ -68833,19 +69940,21 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 ### Question 33 sur 40
 
-Un ami confond les différentes catégories d'infractions prévues par le droit français.
+<!-- Source naturalisation : MS-NAT-T1-017 -->
 
-**Quelle est l'infraction la plus grave, parmi ces catégories juridiques ?**
+Lors d’un échange dans une association locale, une personne souhaite mieux comprendre les principes et les symboles de la République. Un participant propose la réponse « Égalité, Travail, Patrie ». Vous devez vérifier cette affirmation.
 
-1) [Un crime.](EXAM_NAT_V09_Q33_VRAI)
-2) [Une contravention.](EXAM_NAT_V09_Q33_FAUX)
-3) [Un délit.](EXAM_NAT_V09_Q33_FAUX)
-4) [Des violences conjugales.](EXAM_NAT_V09_Q33_FAUX)
+**Quelle est la devise de la République française ?**
+
+1) [Liberté, Égalité, Fraternité.](EXAM_NAT_V09_Q33_VRAI)
+2) [Liberté, Justice, Fraternité.](EXAM_NAT_V09_Q33_FAUX)
+3) [Égalité, Travail, Patrie.](EXAM_NAT_V09_Q33_FAUX)
+4) [Liberté, Solidarité, Égalité.](EXAM_NAT_V09_Q33_FAUX)
 
 ## EXAM_NAT_V09_Q33_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q34)
@@ -68854,7 +69963,7 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 
 `@err_NAT_V09_Q33 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q34)
 
@@ -68873,19 +69982,21 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 
 ### Question 34 sur 40
 
-Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant qu'il n'a pas obtenu la nationalité française.
+<!-- Source naturalisation : MS-NAT-T1-018 -->
 
-**Quelle obligation concerne pourtant toutes les personnes résidant en France, quelle que soit leur nationalité ?**
+Au cours d’un atelier citoyen, votre groupe discute de la manière dont les valeurs républicaines s’appliquent au quotidien. Un proche pense que la bonne réponse pourrait être « Une association ne peut être créée qu'avec l'autorisation de l'État ». Aidez-le à raisonner.
 
-1) [Voter.](EXAM_NAT_V09_Q34_FAUX)
-2) [Être citoyen français.](EXAM_NAT_V09_Q34_FAUX)
-3) [Effectuer un service militaire.](EXAM_NAT_V09_Q34_FAUX)
-4) [Respecter la loi.](EXAM_NAT_V09_Q34_VRAI)
+**Qu'est-ce que la liberté d'association ?**
+
+1) [Il faut obligatoirement adhérer à une association.](EXAM_NAT_V09_Q34_FAUX)
+2) [La liberté de créer une association, d'y adhérer ou de ne pas y adhérer.](EXAM_NAT_V09_Q34_VRAI)
+3) [Seuls les Français peuvent créer une association.](EXAM_NAT_V09_Q34_FAUX)
+4) [Une association ne peut être créée qu'avec l'autorisation de l'État.](EXAM_NAT_V09_Q34_FAUX)
 
 ## EXAM_NAT_V09_Q34_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q35)
@@ -68894,7 +70005,7 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 
 `@err_NAT_V09_Q34 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q35)
 
@@ -68913,19 +70024,21 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 
 ### Question 35 sur 40
 
-Un ami pense que la liberté de circulation lui permet de camper où il veut en France, y compris sur un terrain privé, du moment qu'il ne dérange personne.
+<!-- Source naturalisation : MS-NAT-T2-026 -->
 
-**Que lui répondez-vous ?**
+Une discussion sur les élections amène votre entourage à vérifier une règle du système politique français. Dans le groupe, la réponse « L'État » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Il peut s'installer sur n'importe quel terrain privé.](EXAM_NAT_V09_Q35_FAUX)
-2) [Il peut se déplacer librement sur le territoire national et à l'étranger, dans le respect des règles.](EXAM_NAT_V09_Q35_VRAI)
-3) [Il peut conduire n'importe quel véhicule sans permis.](EXAM_NAT_V09_Q35_FAUX)
-4) [Il peut voyager sans papiers d'identité dans toute l'Europe.](EXAM_NAT_V09_Q35_FAUX)
+**Quelle collectivité territoriale a la compétence des collèges publics ?**
+
+1) [Le département.](EXAM_NAT_V09_Q35_VRAI)
+2) [La commune.](EXAM_NAT_V09_Q35_FAUX)
+3) [La région.](EXAM_NAT_V09_Q35_FAUX)
+4) [L'État.](EXAM_NAT_V09_Q35_FAUX)
 
 ## EXAM_NAT_V09_Q35_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q36)
@@ -68934,7 +70047,7 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 `@err_NAT_V09_Q35 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q36)
 
@@ -68953,19 +70066,21 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 ### Question 36 sur 40
 
-Un ami confond la Constitution avec un simple règlement intérieur de mairie et vous demande ce qu'elle contient réellement.
+<!-- Source naturalisation : MS-NAT-T2-027 -->
 
-**Que lui répondez-vous ?**
+Un proche prépare une démarche citoyenne et souhaite clarifier le fonctionnement de la République et de ses institutions. Une personne hésite et choisit « Le département ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [La liste des ministres.](EXAM_NAT_V09_Q36_FAUX)
-2) [Les lois votées chaque année.](EXAM_NAT_V09_Q36_FAUX)
-3) [Les règles d'organisation des pouvoirs publics et les principes fondamentaux de la République.](EXAM_NAT_V09_Q36_VRAI)
-4) [Les règlements intérieurs des mairies.](EXAM_NAT_V09_Q36_FAUX)
+**Qui gère les écoles maternelles et élémentaires publiques ?**
+
+1) [Le département.](EXAM_NAT_V09_Q36_FAUX)
+2) [La commune.](EXAM_NAT_V09_Q36_VRAI)
+3) [La région.](EXAM_NAT_V09_Q36_FAUX)
+4) [Le Sénat.](EXAM_NAT_V09_Q36_FAUX)
 
 ## EXAM_NAT_V09_Q36_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q37)
@@ -68974,7 +70089,7 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 
 `@err_NAT_V09_Q36 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q37)
 
@@ -68993,19 +70108,21 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 
 ### Question 37 sur 40
 
-Un enseignant vous présente la Charte de la laïcité affichée dans les établissements scolaires et vous demande ce qu'elle interdit précisément.
+<!-- Source naturalisation : MS-NAT-T2-028 -->
 
-**Que lui répondez-vous ?**
+À l’occasion d’un échange sur la vie démocratique, un proche vous interroge sur le fonctionnement des institutions françaises. Un participant propose la réponse « Par le Président de la République ». Vous devez vérifier cette affirmation.
 
-1) [Étudier les religions en cours d'histoire.](EXAM_NAT_V09_Q37_FAUX)
-2) [Avoir une religion.](EXAM_NAT_V09_Q37_FAUX)
-3) [Parler de ses convictions personnelles en dehors des cours.](EXAM_NAT_V09_Q37_FAUX)
-4) [Le prosélytisme et les pressions religieuses sur les élèves.](EXAM_NAT_V09_Q37_VRAI)
+**Comment le maire est-il élu ?**
+
+1) [Par les habitants directement.](EXAM_NAT_V09_Q37_FAUX)
+2) [Par le Président de la République.](EXAM_NAT_V09_Q37_FAUX)
+3) [Par les conseillers municipaux.](EXAM_NAT_V09_Q37_VRAI)
+4) [Par le préfet.](EXAM_NAT_V09_Q37_FAUX)
 
 ## EXAM_NAT_V09_Q37_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q38)
@@ -69014,7 +70131,7 @@ Un enseignant vous présente la Charte de la laïcité affichée dans les établ
 
 `@err_NAT_V09_Q37 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q38)
 
@@ -69033,14 +70150,16 @@ Un enseignant vous présente la Charte de la laïcité affichée dans les établ
 
 ### Question 38 sur 40
 
-Un ami s'étonne que l'État puisse imposer des règles limitant certaines libertés individuelles, comme le port obligatoire de la ceinture de sécurité en voiture.
+<!-- Source naturalisation : MS-NAT-T3-017 -->
 
-**Au nom de quoi l'État justifie-t-il ce type de restriction ?**
+Dans une situation de la vie quotidienne, une personne souhaite vérifier quels droits et quels devoirs s’appliquent en France. Un participant propose la réponse « 13 ans ». Vous devez vérifier cette affirmation.
 
-1) [De l'intérêt général.](EXAM_NAT_V09_Q38_VRAI)
-2) [De la volonté du Gouvernement.](EXAM_NAT_V09_Q38_FAUX)
-3) [De l'opinion de la majorité.](EXAM_NAT_V09_Q38_FAUX)
-4) [Des convictions religieuses.](EXAM_NAT_V09_Q38_FAUX)
+**À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?**
+
+1) [15 ans.](EXAM_NAT_V09_Q38_VRAI)
+2) [13 ans.](EXAM_NAT_V09_Q38_FAUX)
+3) [16 ans.](EXAM_NAT_V09_Q38_FAUX)
+4) [18 ans.](EXAM_NAT_V09_Q38_FAUX)
 
 ## EXAM_NAT_V09_Q38_VRAI
 
@@ -69073,19 +70192,21 @@ Un ami s'étonne que l'État puisse imposer des règles limitant certaines liber
 
 ### Question 39 sur 40
 
-Une personne récemment installée en France envisage de changer de religion, mais craint que cela ne soit interdit par la loi française.
+<!-- Source naturalisation : MS-NAT-T3-018 -->
 
-**A-t-elle le droit de changer de religion ?**
+Au travail ou dans l’espace public, un proche hésite sur une règle liée aux droits, aux libertés ou aux obligations. Un proche pense que la bonne réponse pourrait être « Dans un train ». Aidez-le à raisonner.
 
-1) [Seulement avec l'autorisation de l'État.](EXAM_NAT_V09_Q39_FAUX)
-2) [Seulement avec une autorisation religieuse.](EXAM_NAT_V09_Q39_FAUX)
-3) [Non, c'est interdit par la loi.](EXAM_NAT_V09_Q39_FAUX)
-4) [Oui.](EXAM_NAT_V09_Q39_VRAI)
+**Où est-il autorisé de fumer, alors que c'est interdit dans de nombreux lieux publics fermés ?**
+
+1) [Dans un restaurant.](EXAM_NAT_V09_Q39_FAUX)
+2) [Chez soi.](EXAM_NAT_V09_Q39_VRAI)
+3) [Dans un train.](EXAM_NAT_V09_Q39_FAUX)
+4) [Dans un bureau partagé.](EXAM_NAT_V09_Q39_FAUX)
 
 ## EXAM_NAT_V09_Q39_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q40)
@@ -69094,7 +70215,7 @@ Une personne récemment installée en France envisage de changer de religion, ma
 
 `@err_NAT_V09_Q39 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V09_Q40)
 
@@ -69113,19 +70234,21 @@ Une personne récemment installée en France envisage de changer de religion, ma
 
 ### Question 40 sur 40
 
-Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
+<!-- Source naturalisation : MS-NAT-T4-025 -->
 
-**Que lui répondez-vous ?**
+Vous préparez une sortie en France et une discussion s’engage autour d’un lieu, d’une personnalité ou d’un événement important. Un proche pense que la bonne réponse pourrait être « L'Union européenne ». Aidez-le à raisonner.
 
-1) [C'est l'hymne national français.](EXAM_NAT_V09_Q40_VRAI)
-2) [C'est une devise.](EXAM_NAT_V09_Q40_FAUX)
-3) [C'est une chanson de variété française.](EXAM_NAT_V09_Q40_FAUX)
-4) [C'est un monument historique.](EXAM_NAT_V09_Q40_FAUX)
+**Quelle est la première étape de la construction européenne, créée en 1951 ?**
+
+1) [La Communauté européenne du charbon et de l'acier (CECA).](EXAM_NAT_V09_Q40_VRAI)
+2) [L'Union européenne.](EXAM_NAT_V09_Q40_FAUX)
+3) [Le traité de Maastricht.](EXAM_NAT_V09_Q40_FAUX)
+4) [L'euro.](EXAM_NAT_V09_Q40_FAUX)
 
 ## EXAM_NAT_V09_Q40_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V09_RESULT)
@@ -69134,7 +70257,7 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V09_Q40 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V09_RESULT)
 
@@ -69151,178 +70274,52 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V09_Q01 == 1`
-**1. Que porte Marianne sur la tête ?**  
-✅ Un bonnet phrygien.
+**1. Quel texte est considéré comme le texte fondateur de la laïcité ?**  
+✅ La loi du 9 décembre 1905 de séparation des Églises et de l'État.
 
-Le bonnet phrygien est un symbole de liberté hérité de la Révolution française. Il est porté par Marianne, figure emblématique de la République.
+La loi du 9 décembre 1905 organise la séparation des Églises et de l'État et garantit la liberté de conscience.
 
-💡 Retenez le mot-clé : Marianne = bonnet phrygien
+💡 Retenez le mot-clé : texte fondateur de la laïcité = loi de 1905
 `endif`
 
 `if @err_NAT_V09_Q02 == 1`
-**2. Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**  
-✅ La Déclaration des droits de l'Homme et du Citoyen de 1789.
+**2. Quelle institution française doit rester neutre en matière de religion ?**  
+✅ L'État.
 
-Adoptée en 1789 pendant la Révolution française, la Déclaration des droits de l'Homme et du Citoyen affirme les droits fondamentaux et inspire encore aujourd'hui le droit français.
+Selon le principe de laïcité, l'État et ses services publics doivent rester neutres vis-à-vis des religions afin de garantir l'égalité de tous les citoyens.
 
-💡 Retenez le mot-clé : texte de 1789 = Déclaration des droits de l'Homme et du Citoyen
+💡 Retenez le mot-clé : neutralité religieuse = l'État
 `endif`
 
 `if @err_NAT_V09_Q03 == 1`
-**3. Quel est le rôle du maire ?**  
-✅ Il dirige la commune, applique les décisions du conseil municipal et assure notamment l'état civil.
+**3. Qu'est-ce que la laïcité ?**  
+✅ La séparation des Églises et de l'État, garantissant la liberté de conscience et l'égalité de tous.
 
-Le maire est l'exécutif de la commune. Il met en œuvre les décisions du conseil municipal, gère les services municipaux et exerce certaines missions pour le compte de l'État, comme l'état civil.
+La laïcité est un principe fondamental de la République française. Elle repose sur la séparation des Églises et de l'État, garantit la liberté de conscience et assure la neutralité de l'État vis-à-vis des religions.
 
-💡 Retenez le mot-clé : maire = exécutif de la commune + état civil
+💡 Retenez le mot-clé : laïcité = séparation Églises/État + liberté de conscience + égalité
 `endif`
 
 `if @err_NAT_V09_Q04 == 1`
-**4. À l'école, il est interdit aux parents de :**  
-✅ Contester les enseignements ou les activités obligatoires pour des motifs religieux.
+**4. À l'école, la Charte de la laïcité permet de :**  
+✅ Expliquer les règles de la laïcité, du vivre-ensemble et du respect des convictions de chacun.
 
-Tous les élèves doivent suivre les enseignements obligatoires prévus par les programmes scolaires. Les parents ne peuvent pas s'y opposer pour des motifs religieux.
+La Charte de la laïcité rappelle les droits et les devoirs de chacun dans les écoles publiques. Elle garantit la liberté de conscience et le respect des valeurs de la République.
 
-💡 Retenez : Les parents ne peuvent pas s'opposer à un enseignement
+💡 Retenez le mot-clé : Charte de la laïcité = règles + vivre-ensemble + respect des convictions
 `endif`
 
 `if @err_NAT_V09_Q05 == 1`
-**5. Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?**  
-✅ Un symbole religieux discret.
+**5. Quel traité a créé officiellement l'Union européenne ?**  
+✅ Le traité de Maastricht.
 
-La loi de 2004 interdit aux élèves des écoles publiques le port de signes religieux ostensibles. Les signes discrets restent autorisés.
+Le traité de Maastricht, signé en 1992, marque la naissance officielle de l'Union européenne et crée la citoyenneté européenne. À connaître par cœur pour l'examen.
 
-💡 Retenez le mot-clé : signes religieux à l'école = discrets autorisés, ostensibles interdits
+💡 Retenez le mot-clé : traité fondateur de l'UE = traité de Maastricht (1992)
 `endif`
 
 `if @err_NAT_V09_Q06 == 1`
-**6. L'inscription sur les listes électorales est-elle... ?**  
-✅ Obligatoire pour pouvoir voter.
-
-Pour voter en France, il faut être inscrit sur une liste électorale. Les jeunes Français sont généralement inscrits automatiquement à 18 ans, mais ce n'est pas le cas de toutes les situations.
-
-💡 Retenez le mot-clé : voter = inscription obligatoire sur les listes électorales
-`endif`
-
-`if @err_NAT_V09_Q07 == 1`
-**7. Que dit la loi de 1905 ?**  
-✅ Elle sépare les Églises et l'État et garantit la liberté de conscience.
-
-La loi de 1905 établit la séparation des Églises et de l'État. Elle garantit la liberté de conscience et assure que la République ne reconnaît ni ne salarie aucun culte, sous réserve des exceptions prévues par la loi.
-
-💡 Retenez le mot-clé : loi de 1905 = séparation Églises/État + liberté de conscience
-`endif`
-
-`if @err_NAT_V09_Q08 == 1`
-**8. Qui est le préfet ?**  
-✅ Le représentant de l'État dans le département.
-
-Le préfet représente l'État dans le département. Il veille notamment à l'application des lois et coordonne les services de l'État sur le territoire.
-
-💡 Retenez le mot-clé : préfet = représentant de l'État dans le département
-`endif`
-
-`if @err_NAT_V09_Q09 == 1`
-**9. Quelle ville française est un port maritime ?**  
-✅ Marseille.
-
-Marseille est le plus grand port maritime français et l'un des plus importants ports de la mer Méditerranée.
-
-💡 Retenez : Marseille = 1er port français
-`endif`
-
-`if @err_NAT_V09_Q10 == 1`
-**10. En France, il est possible pour l'État de financer :**  
-✅ Les aumôneries dans certains services publics (hôpitaux, prisons, armées).
-
-En principe, la loi de 1905 interdit à l'État de financer les cultes. Toutefois, des exceptions existent, notamment pour les aumôneries dans certains services publics afin de garantir la liberté de culte des personnes qui ne peuvent pas se déplacer.
-
-💡 Retenez le mot-clé : exception au financement des cultes = aumôneries (hôpitaux, prisons, armées)
-`endif`
-
-`if @err_NAT_V09_Q11 == 1`
-**11. Quel monument parisien est l'un des symboles de la France ?**  
-✅ La tour Eiffel.
-
-Construite pour l'Exposition universelle de 1889, la tour Eiffel est aujourd'hui l'un des monuments les plus connus au monde et un symbole de la France.
-
-💡 Retenez le mot-clé : Tour Eiffel.
-`endif`
-
-`if @err_NAT_V09_Q12 == 1`
-**12. Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?**  
-✅ L'aide juridictionnelle.
-
-L'aide juridictionnelle permet aux personnes disposant de faibles ressources de bénéficier d'une prise en charge totale ou partielle des frais de justice, notamment des honoraires d'avocat.
-
-💡 Retenez : Aide juridictionnelle = peu ou pas de frais de justice
-`endif`
-
-`if @err_NAT_V09_Q13 == 1`
-**13. Que signifie être libre, en France ?**  
-✅ Chacun est libre tant qu'il respecte les droits des autres.
-
-Les libertés sont garanties par la République, mais elles ne sont pas absolues. Elles s'exercent dans le respect des droits des autres et de la loi.
-
-💡 Retenez le mot-clé : liberté = respect des droits des autres
-`endif`
-
-`if @err_NAT_V09_Q14 == 1`
-**14. En 1944, qu'est-ce qui a changé pour les femmes ?**  
-✅ Elles ont obtenu le droit de vote et d'éligibilité.
-
-L'ordonnance du 21 avril 1944 accorde aux femmes le droit de vote et d'éligibilité. Elles votent pour la première fois en 1945.
-
-💡 Retenez : 1944 = droit de vote des femmes
-`endif`
-
-`if @err_NAT_V09_Q15 == 1`
-**15. Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**  
-✅ Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.
-
-Lors d'un recrutement, l'employeur ne peut poser que des questions ayant un lien direct avec l'emploi proposé. Les discriminations sont interdites.
-
-💡 Retenez le mot-clé : entretien d'embauche = questions liées au poste uniquement
-`endif`
-
-`if @err_NAT_V09_Q16 == 1`
-**16. Quel est le rôle du Défenseur des droits ?**  
-✅ Il protège les droits et les libertés des personnes et lutte contre les discriminations.
-
-Le Défenseur des droits est une autorité indépendante. Il protège les droits et les libertés, lutte contre les discriminations et veille au respect des règles par les services publics.
-
-💡 Retenez le mot-clé : Défenseur des droits = protège les droits + lutte contre les discriminations
-`endif`
-
-`if @err_NAT_V09_Q17 == 1`
-**17. De quand date l'appel à la résistance du général de Gaulle ?**  
-✅ 18 juin 1940.
-
-Le 18 juin 1940, le général de Gaulle lance depuis Londres un appel à poursuivre le combat contre l'Allemagne nazie. Cet appel est devenu un symbole de la Résistance française.
-
-💡 Retenez : 18 juin 1940 (presque 1 an après le début de la guerre) le général de Gaulle appelle les français à résister
-`endif`
-
-`if @err_NAT_V09_Q18 == 1`
-**18. Lequel de ces départements de France est le plus touristique ?**  
-✅ Paris.
-
-Paris est le département français qui accueille le plus grand nombre de visiteurs grâce à son patrimoine, ses musées et ses monuments.
-
-💡 Retenez le mot-clé : Paris.
-`endif`
-
-`if @err_NAT_V09_Q19 == 1`
-**19. En cas de vacance de la présidence, qui assure provisoirement les fonctions de Président de la République ?**  
-✅ Le Président du Sénat.
-
-Selon la Constitution, en cas de vacance de la présidence (décès, démission ou empêchement), le Président du Sénat assure provisoirement les fonctions de Président de la République jusqu'à l'élection d'un nouveau Président.
-
-💡 Retenez le mot-clé : vacance de la présidence = intérim assuré par le Président du Sénat
-`endif`
-
-`if @err_NAT_V09_Q20 == 1`
-**20. Quel pays a quitté l'Union européenne (Brexit) ?**  
+**6. Quel pays a quitté l'Union européenne (Brexit) ?**  
 ✅ Le Royaume-Uni.
 
 Le Royaume-Uni a quitté officiellement l'Union européenne le 31 janvier 2020. Cet événement est appelé le Brexit.
@@ -69330,17 +70327,53 @@ Le Royaume-Uni a quitté officiellement l'Union européenne le 31 janvier 2020. 
 💡 Retenez le mot-clé : Brexit = Royaume-Uni (sortie en 2020)
 `endif`
 
-`if @err_NAT_V09_Q21 == 1`
-**21. Pour un citoyen tiré au sort, être juré à la cour d'assises est :**  
-✅ Un devoir civique obligatoire.
+`if @err_NAT_V09_Q07 == 1`
+**7. Comment s'appelle l'hymne de l'Union européenne ?**  
+✅ L'Ode à la joie.
 
-Les citoyens tirés au sort pour être jurés d'assises doivent accomplir cette mission et ne peuvent la refuser (sauf motif validé par la commission). Il s'agit d'une participation à la justice rendue au nom du peuple français.
+L'hymne européen est l'Ode à la joie, extrait de la 9ᵉ Symphonie de Ludwig van Beethoven.
 
-💡 Retenez le mot-clé : juré d'assises = devoir civique obligatoire
+💡 Retenez le mot-clé : hymne européen = l'Ode à la joie (Beethoven)
 `endif`
 
-`if @err_NAT_V09_Q22 == 1`
-**22. Qu'est-ce que la citoyenneté numérique ?**  
+`if @err_NAT_V09_Q08 == 1`
+**8. Comment est composé le drapeau européen ?**  
+✅ Douze étoiles dorées sur fond bleu.
+
+Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les peuples d'Europe. Leur nombre n'est pas lié au nombre d'États membres.
+
+💡 Retenez le mot-clé : drapeau européen = 12 étoiles dorées sur fond bleu
+`endif`
+
+`if @err_NAT_V09_Q09 == 1`
+**9. Qui élit les députés européens ?**  
+✅ Les citoyens des États membres de l'Union européenne.
+
+Tous les cinq ans, les citoyens de chaque État membre élisent leurs représentants au Parlement européen.
+
+💡 Retenez le mot-clé : députés européens = élus par les citoyens des États membres
+`endif`
+
+`if @err_NAT_V09_Q10 == 1`
+**10. Où siège officiellement le Parlement européen ?**  
+✅ À Strasbourg.
+
+Le Parlement européen a son siège officiel à Strasbourg, où se tiennent les sessions plénières. Une partie importante de ses travaux se déroule également à Bruxelles.
+
+💡 Retenez le mot-clé : Strasbourg = Parlement européen ; Bruxelles = Commission européenne ; Francfort = BCE
+`endif`
+
+`if @err_NAT_V09_Q11 == 1`
+**11. Parmi les trois catégories d'infractions du droit français, laquelle est la plus grave ?**  
+✅ Le crime.
+
+En droit français, les infractions sont classées en trois catégories : la contravention, le délit et le crime. Le crime est l'infraction la plus grave.
+
+💡 Retenez le mot-clé : infraction la plus grave = le crime
+`endif`
+
+`if @err_NAT_V09_Q12 == 1`
+**12. Qu'est-ce que la citoyenneté numérique ?**  
 ✅ L'utilisation responsable, respectueuse et sécurisée des outils numériques et d'Internet.
 
 La citoyenneté numérique implique de respecter les autres en ligne, protéger ses données personnelles, vérifier les informations avant de les partager et respecter les lois sur Internet.
@@ -69348,58 +70381,148 @@ La citoyenneté numérique implique de respecter les autres en ligne, protéger 
 💡 Retenez le mot-clé : citoyenneté numérique = usage responsable, respectueux, sécurisé d'Internet
 `endif`
 
+`if @err_NAT_V09_Q13 == 1`
+**13. Qui peut être désigné juré d'assises ?**  
+✅ Un citoyen inscrit sur les listes électorales, tiré au sort.
+
+Les jurés d'assises sont des citoyens inscrits sur les listes électorales et tirés au sort. Ils participent aux côtés des magistrats au jugement des crimes les plus graves.
+
+💡 Retenez le mot-clé : juré d'assises = citoyen inscrit sur les listes électorales, tiré au sort
+`endif`
+
+`if @err_NAT_V09_Q14 == 1`
+**14. Qu'est-ce que le devoir de mémoire ?**  
+✅ Se souvenir des événements tragiques du passé afin de transmettre leur histoire et d'éviter qu'ils ne se reproduisent.
+
+Le devoir de mémoire est une valeur importante en France. Il consiste à préserver le souvenir des événements tragiques, comme les guerres ou la Shoah, afin d'honorer les victimes, de transmettre l'Histoire et de lutter contre le racisme, l'antisémitisme et toutes les formes de haine.
+
+💡 Retenez le mot-clé : devoir de mémoire = se souvenir + transmettre + éviter que cela se reproduise
+`endif`
+
+`if @err_NAT_V09_Q15 == 1`
+**15. Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?**  
+✅ Lyon.
+
+Lyon est le chef-lieu de la région Auvergne-Rhône-Alpes. C'est également la troisième commune la plus peuplée de France.
+
+💡 Retenez le mot-clé : Auvergne-Rhône-Alpes = chef-lieu Lyon
+`endif`
+
+`if @err_NAT_V09_Q16 == 1`
+**16. Quel est le chef-lieu de la région Bretagne ?**  
+✅ Rennes.
+
+Rennes est le chef-lieu de la région Bretagne. C'est également une grande ville universitaire et économique de l'ouest de la France.
+
+💡 Retenez le mot-clé : Bretagne = chef-lieu Rennes
+`endif`
+
+`if @err_NAT_V09_Q17 == 1`
+**17. Quel est le chef-lieu de la région Provence-Alpes-Côte d'Azur ?**  
+✅ Marseille.
+
+Marseille est le chef-lieu de la région Provence-Alpes-Côte d'Azur (PACA). C'est également la deuxième ville la plus peuplée de France et le premier port maritime du pays.
+
+💡 Retenez le mot-clé : PACA = chef-lieu Marseille
+`endif`
+
+`if @err_NAT_V09_Q18 == 1`
+**18. Depuis 2011, quel territoire est devenu le 101ᵉ département français ?**  
+✅ Mayotte.
+
+Depuis le 31 mars 2011, Mayotte est devenue le 101ᵉ département français. Elle est également une région d'outre-mer située dans l'océan Indien.
+
+💡 Retenez le mot-clé : 101e département (2011) = Mayotte
+`endif`
+
+`if @err_NAT_V09_Q19 == 1`
+**19. Dans quelle région se trouvent la plupart des grandes stations de ski françaises (Chamonix, Les Trois Vallées...) ?**  
+✅ Auvergne-Rhône-Alpes.
+
+La région Auvergne-Rhône-Alpes accueille certaines des plus grandes stations de ski françaises, comme Chamonix, Les Trois Vallées, La Plagne ou Les Arcs.
+
+💡 Retenez le mot-clé : grandes stations de ski = Auvergne-Rhône-Alpes
+`endif`
+
+`if @err_NAT_V09_Q20 == 1`
+**20. Quel fleuve traverse Paris avant de se jeter dans la Manche au Havre ?**  
+✅ La Seine.
+
+La Seine traverse Paris avant de se jeter dans la Manche au Havre. Les quais de Seine sont inscrits au patrimoine mondial de l'UNESCO.
+
+💡 Retenez le mot-clé : fleuve de Paris = la Seine
+`endif`
+
+`if @err_NAT_V09_Q21 == 1`
+**21. Comment s'appelle le texte, promulgué en 1804 sous Napoléon Ier, qui rassemble les principales règles du droit civil français ?**  
+✅ Le Code civil.
+
+Le Code civil, promulgué en 1804 sous Napoléon Ier, rassemble les principales règles du droit civil français (famille, propriété, contrats...). Il constitue l'un des fondements du droit français actuel.
+
+💡 Retenez le mot-clé : Code civil = 1804, Napoléon Ier
+`endif`
+
+`if @err_NAT_V09_Q22 == 1`
+**22. Lequel de ces noms est celui d'un Président de la Ve République ?**  
+✅ Georges Pompidou.
+
+Depuis la création de la Ve République en 1958, plusieurs Présidents de la République se sont succédé, dont Charles de Gaulle, Georges Pompidou, Valéry Giscard d'Estaing, François Mitterrand, Jacques Chirac, Nicolas Sarkozy, François Hollande et Emmanuel Macron.
+
+💡 Retenez le mot-clé : Présidents de la Ve République = de Gaulle à Macron
+`endif`
+
 `if @err_NAT_V09_Q23 == 1`
-**23. Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**  
-✅ Jusqu'à 6 mois d'emprisonnement et 7 500 € d'amende.
+**23. Que célèbre la fête nationale française du 14 juillet ?**  
+✅ La prise de la Bastille (1789).
 
-Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instruction. Le non-respect de cette obligation constitue une infraction pouvant entraîner des sanctions pénales.
+Le 14 juillet est la fête nationale française. Elle commémore la prise de la Bastille (1789) et symbolise les valeurs de la République.
 
-💡 Retenez : Le non-respect de l'instruction obligatoire = infraction
+💡 Retenez le mot-clé : 14 juillet = prise de la Bastille (1789)
 `endif`
 
 `if @err_NAT_V09_Q24 == 1`
-**24. Qui était Auguste Rodin ?**  
-✅ Un sculpteur français.
+**24. Comment sont accueillis à l'école les enfants qui ne parlent pas encore français ?**  
+✅ Ils bénéficient d'un enseignement du français adapté.
 
-Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres les plus connues figure Le Penseur.
+Les enfants allophones nouvellement arrivés en France sont scolarisés et peuvent bénéficier d'un enseignement renforcé en français afin de faciliter leur intégration dans le système scolaire.
 
-💡 Retenez : Rodin = sculpteur
+💡 Retenez le mot-clé : enfant allophone = scolarisé + enseignement du français adapté
 `endif`
 
 `if @err_NAT_V09_Q25 == 1`
-**25. En quelle année l'euro est-elle devenue la monnaie utilisée en France ?**  
-✅ 2002.
+**25. Concernant la scolarisation des enfants en situation de handicap, quelle proposition est correcte ?**  
+✅ Les enfants en situation de handicap ont le droit d'être scolarisés, avec des aménagements adaptés.
 
-L'euro est devenu la monnaie utilisée en France le 1er janvier 2002, avec la mise en circulation des pièces et des billets.
+L'école française est une école inclusive. Les enfants en situation de handicap ont le droit d'être scolarisés et peuvent bénéficier d'aménagements et d'accompagnements adaptés à leurs besoins.
 
-💡 Retenez : 2002 = Monnaie (€)
+💡 Retenez le mot-clé : école inclusive = droit à la scolarisation + aménagements adaptés
 `endif`
 
 `if @err_NAT_V09_Q26 == 1`
-**26. Que garantit la liberté de la presse ?**  
-✅ La liberté d'informer et d'être informé.
+**26. Depuis le 1er juillet 2021, quelle est la durée du congé de paternité et d'accueil de l'enfant pour une naissance simple ?**  
+✅ 25 jours.
 
-La liberté de la presse permet aux médias d'informer le public tout en respectant les lois, notamment celles qui protègent les personnes contre la diffamation, l'injure ou la provocation à la haine.
+Depuis le 1er juillet 2021, le congé de paternité et d'accueil de l'enfant est de 25 jours pour une naissance simple, afin de favoriser la présence du second parent auprès de l'enfant.
 
-💡 Retenez le mot-clé : liberté de la presse = informer et être informé
+💡 Retenez le mot-clé : congé paternité (depuis 2021) = 25 jours
 `endif`
 
 `if @err_NAT_V09_Q27 == 1`
-**27. Quel numéro d'urgence permet d'appeler la police ?**  
-✅ 17.
+**27. Les châtiments corporels envers un enfant sont-ils autorisés en France ?**  
+✅ Non, les violences éducatives, y compris les châtiments corporels, sont interdites.
 
-Le 17 permet de joindre la police ou la gendarmerie en cas d'urgence. Le 112 est le numéro d'urgence européen, utilisable dans toute l'Union européenne.
+En France, les violences éducatives ordinaires, y compris les châtiments corporels, sont interdites. L'autorité parentale doit s'exercer dans le respect de l'intégrité physique et psychologique de l'enfant.
 
-💡 Retenez les numéros suivants : - 17 = police ou gendarmerie - 15 = SAMU - 18 = Pompiers - 112 = numéro d'urgence européen
+💡 Retenez le mot-clé : violences éducatives (y compris châtiments corporels) = interdites
 `endif`
 
 `if @err_NAT_V09_Q28 == 1`
-**28. Quand peut-on visiter gratuitement des lieux culturels en France ?**  
-✅ Lors des Journées européennes du patrimoine.
+**28. Où doit-on déclarer la naissance d'un enfant ?**  
+✅ À la mairie du lieu de naissance.
 
-Chaque année, les Journées européennes du patrimoine permettent au public de visiter gratuitement de nombreux monuments et lieux habituellement fermés ou payants.
+Toute naissance doit être déclarée auprès du service de l'état civil de la mairie du lieu de naissance afin d'établir l'acte de naissance de l'enfant.
 
-💡 Retenez: Journée du patrimoine = visite gratuite (musées, monuments…)
+💡 Retenez le mot-clé : déclaration de naissance = mairie du lieu de naissance
 `endif`
 
 ### Partie 2 — Mises en situation
@@ -69409,87 +70532,87 @@ Chaque année, les Journées européennes du patrimoine permettent au public de 
 `endif`
 
 `if @err_NAT_V09_Q29 == 1`
-**29. Que lui répondez-vous ?**  
-✅ C'est interdit et passible d'une sanction.
+**29. Qui a été chargé par le général de Gaulle d'unifier les mouvements de Résistance ?**  
+✅ Jean Moulin.
 
-Jeter un mégot sur la voie publique est interdit, que quelqu'un observe la scène ou non. Ce geste pollue l'environnement et peut être sanctionné par une amende.
+La bonne réponse est « Jean Moulin ». Jean Moulin est chargé par le général de Gaulle d'unifier les mouvements de Résistance. Arrêté en 1943, il meurt sous la torture sans avoir livré d'informations.
 `endif`
 
 `if @err_NAT_V09_Q30 == 1`
-**30. Que pouvez-vous lui dire sur ce que fait la loi française face à ce type de discrimination ?**  
-✅ La loi interdit les discriminations et les sanctionne.
+**30. Quelle mer sépare la France de l'Angleterre ?**  
+✅ La Manche.
 
-La loi protège chaque personne contre les discriminations fondées notamment sur l'origine, le sexe, la religion, le handicap ou l'orientation sexuelle, y compris dans l'accès au logement. Ces discriminations sont sanctionnées pénalement.
+La bonne réponse est « La Manche ». La Manche sépare la France et l'Angleterre. C'est également sous cette mer que passe le tunnel sous la Manche.
 `endif`
 
 `if @err_NAT_V09_Q31 == 1`
-**31. Quel exemple lui donnez-vous ?**  
-✅ Voter aux élections.
+**31. À quoi sert la carte Vitale ?**  
+✅ À faciliter la prise en charge et le remboursement des frais de santé.
 
-La participation citoyenne consiste à prendre part à la vie démocratique du pays. Le vote est l'une des principales formes de participation citoyenne, à ne pas confondre avec des démarches administratives (papiers d'identité, sécurité sociale) ou une activité professionnelle.
+La bonne réponse est « À faciliter la prise en charge et le remboursement des frais de santé ». La carte Vitale contient les informations nécessaires à l'Assurance maladie pour assurer le remboursement rapide des dépenses de santé.
 `endif`
 
 `if @err_NAT_V09_Q32 == 1`
-**32. Que lui répondez-vous ?**  
-✅ Oui, dans les conditions prévues par la loi.
+**32. Quel est le rôle d'une mutuelle santé ?**  
+✅ À compléter les remboursements de l'Assurance maladie.
 
-En France, une femme peut recourir à l'interruption volontaire de grossesse (IVG) dans les conditions prévues par la loi, sans avoir besoin de l'accord d'un tiers.
+La bonne réponse est « À compléter les remboursements de l'Assurance maladie ». La mutuelle santé, ou complémentaire santé, rembourse tout ou partie des dépenses qui restent à la charge du patient après le remboursement de l'Assurance maladie.
 `endif`
 
 `if @err_NAT_V09_Q33 == 1`
-**33. Quelle est l'infraction la plus grave, parmi ces catégories juridiques ?**  
-✅ Un crime.
+**33. Quelle est la devise de la République française ?**  
+✅ Liberté, Égalité, Fraternité.
 
-En droit français, les infractions sont classées en trois catégories : la contravention, le délit et le crime. Le crime est l'infraction la plus grave.
+La bonne réponse est « Liberté, Égalité, Fraternité ». La devise de la République française est « Liberté, Égalité, Fraternité ». Elle exprime les valeurs fondamentales de la République.
 `endif`
 
 `if @err_NAT_V09_Q34 == 1`
-**34. Quelle obligation concerne pourtant toutes les personnes résidant en France, quelle que soit leur nationalité ?**  
-✅ Respecter la loi.
+**34. Qu'est-ce que la liberté d'association ?**  
+✅ La liberté de créer une association, d'y adhérer ou de ne pas y adhérer.
 
-Toutes les personnes vivant en France, quelle que soit leur nationalité, doivent respecter les lois françaises. Voter ou être citoyen sont des droits ou statuts, pas des obligations générales.
+La bonne réponse est « La liberté de créer une association, d'y adhérer ou de ne pas y adhérer ». La liberté d'association est une liberté fondamentale garantie par la loi. Elle permet à chacun de participer librement à la vie associative.
 `endif`
 
 `if @err_NAT_V09_Q35 == 1`
-**35. Que lui répondez-vous ?**  
-✅ Il peut se déplacer librement sur le territoire national et à l'étranger, dans le respect des règles.
+**35. Quelle collectivité territoriale a la compétence des collèges publics ?**  
+✅ Le département.
 
-La liberté de circulation permet à chacun de se déplacer librement sur le territoire et à l'étranger, mais elle ne donne aucun droit sur la propriété privée d'autrui, ni de conduire sans permis, ni de voyager sans document d'identité.
+La bonne réponse est « Le département ». Les collèges publics relèvent de la compétence des départements, qui assurent notamment leur construction, leur entretien et leur équipement.
 `endif`
 
 `if @err_NAT_V09_Q36 == 1`
-**36. Que lui répondez-vous ?**  
-✅ Les règles d'organisation des pouvoirs publics et les principes fondamentaux de la République.
+**36. Qui gère les écoles maternelles et élémentaires publiques ?**  
+✅ La commune.
 
-La Constitution est le texte juridique le plus important de la République française. Elle fixe les règles de fonctionnement des institutions et garantit les principes fondamentaux, mais ne détaille ni la liste des ministres ni les lois annuelles.
+La bonne réponse est « La commune ». Les communes sont responsables de la construction, de l'entretien et du fonctionnement des écoles maternelles et élémentaires publiques.
 `endif`
 
 `if @err_NAT_V09_Q37 == 1`
-**37. Que lui répondez-vous ?**  
-✅ Le prosélytisme et les pressions religieuses sur les élèves.
+**37. Comment le maire est-il élu ?**  
+✅ Par les conseillers municipaux.
 
-La Charte de la laïcité à l'école interdit le prosélytisme et les pressions exercées sur les élèves en raison de leurs convictions. En revanche, l'étude du fait religieux dans un but de connaissance, par exemple en histoire, reste possible.
+La bonne réponse est « Par les conseillers municipaux ». Après les élections municipales, les conseillers municipaux se réunissent pour élire le maire parmi eux.
 `endif`
 
 `if @err_NAT_V09_Q38 == 1`
-**38. Au nom de quoi l'État justifie-t-il ce type de restriction ?**  
-✅ De l'intérêt général.
+**38. À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?**  
+✅ 15 ans.
 
-Certaines libertés peuvent être limitées par la loi lorsque cela est nécessaire pour protéger l'intérêt général : la sécurité, la santé publique ou les droits d'autrui, par exemple.
+La bonne réponse est « 15 ans ». En France, la majorité numérique est fixée à 15 ans. Avant cet âge, l'accord des parents est généralement nécessaire pour l'inscription à certains services en ligne utilisant les données personnelles.
 `endif`
 
 `if @err_NAT_V09_Q39 == 1`
-**39. A-t-elle le droit de changer de religion ?**  
-✅ Oui.
+**39. Où est-il autorisé de fumer, alors que c'est interdit dans de nombreux lieux publics fermés ?**  
+✅ Chez soi.
 
-En France, chacun est libre de choisir sa religion, d'en changer ou de ne pas en avoir. Cette liberté est protégée par la loi et ne nécessite aucune autorisation, ni de l'État ni d'une autorité religieuse.
+La bonne réponse est « Chez soi ». En France, il est interdit de fumer dans de nombreux lieux publics fermés afin de protéger la santé de tous. En revanche, il est autorisé de fumer à son domicile.
 `endif`
 
 `if @err_NAT_V09_Q40 == 1`
-**40. Que lui répondez-vous ?**  
-✅ C'est l'hymne national français.
+**40. Quelle est la première étape de la construction européenne, créée en 1951 ?**  
+✅ La Communauté européenne du charbon et de l'acier (CECA).
 
-La Marseillaise est l'hymne national de la République française, au même titre que le drapeau, Marianne ou la devise sont d'autres symboles officiels, mais de nature différente.
+La bonne réponse est « La Communauté européenne du charbon et de l'acier (CECA) ». Créée en 1951, la CECA constitue la première étape de la construction européenne. Elle réunit six États fondateurs afin de favoriser la paix et la coopération économique.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -69763,11 +70886,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -69797,7 +70920,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH04 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -69805,6 +70928,9 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `endif`
 `if @errchap_T1_CH01 >= 3`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+`endif`
+`if @errchap_T1_CH02 >= 3`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
@@ -69814,6 +70940,12 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `endif`
 `if @errchap_T1_CH05 >= 3`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -69842,11 +70974,17 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T5_CH01 >= 3`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 >= 3`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 >= 3`
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
 `if @errchap_T5_CH04 >= 3`
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH04 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -69854,6 +70992,9 @@ Ces chapitres méritent une révision ciblée :
 `endif`
 `if @errchap_T1_CH01 == 2`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+`endif`
+`if @errchap_T1_CH02 == 2`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
@@ -69863,6 +71004,12 @@ Ces chapitres méritent une révision ciblée :
 `endif`
 `if @errchap_T1_CH05 == 2`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -69891,11 +71038,17 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T5_CH01 == 2`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 2`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 2`
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
 `if @errchap_T5_CH04 == 2`
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH04 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -69903,6 +71056,9 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `endif`
 `if @errchap_T1_CH01 == 1`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+`endif`
+`if @errchap_T1_CH02 == 1`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
@@ -69912,6 +71068,12 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `endif`
 `if @errchap_T1_CH05 == 1`
 1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -69940,15 +71102,21 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T5_CH01 == 1`
 1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
+`if @errchap_T5_CH02 == 1`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
+`if @errchap_T5_CH03 == 1`
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
+`endif`
 `if @errchap_T5_CH04 == 1`
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH04 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH04 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
@@ -69968,19 +71136,25 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 `@exam_t5 = 0`
 `@exam_connaissances = 0`
 `@exam_situations = 0`
-`@errchap_T2_CH04 = 0`
-`@errchap_T4_CH03 = 0`
-`@errchap_T5_CH04 = 0`
-`@errchap_T3_CH01 = 0`
-`@errchap_T4_CH02 = 0`
-`@errchap_T1_CH04 = 0`
-`@errchap_T4_CH01 = 0`
-`@errchap_T2_CH02 = 0`
-`@errchap_T5_CH03 = 0`
 `@errchap_T1_CH01 = 0`
-`@errchap_T3_CH02 = 0`
-`@errchap_T2_CH03 = 0`
+`@errchap_T1_CH02 = 0`
 `@errchap_T1_CH03 = 0`
+`@errchap_T1_CH04 = 0`
+`@errchap_T1_CH05 = 0`
+`@errchap_T1_CH06 = 0`
+`@errchap_T2_CH01 = 0`
+`@errchap_T2_CH02 = 0`
+`@errchap_T2_CH03 = 0`
+`@errchap_T2_CH04 = 0`
+`@errchap_T3_CH01 = 0`
+`@errchap_T3_CH02 = 0`
+`@errchap_T4_CH01 = 0`
+`@errchap_T4_CH02 = 0`
+`@errchap_T4_CH03 = 0`
+`@errchap_T5_CH01 = 0`
+`@errchap_T5_CH02 = 0`
+`@errchap_T5_CH03 = 0`
+`@errchap_T5_CH04 = 0`
 
 ### 🧠 Partie 1 sur 2 — Questions de connaissances
 
@@ -69991,8 +71165,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q01
 
 `@err_NAT_V10_Q01 = 0`
-
 `@exam_variant = 10`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
@@ -70005,17 +71179,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 1 sur 40
 
-**Quel régime politique a été mis en place pendant la Révolution française en 1792 ?**
+<!-- Source naturalisation : NAT-T2-005 -->
 
-1) [La Ve République.](EXAM_NAT_V10_Q01_FAUX)
-2) [L'Empire.](EXAM_NAT_V10_Q01_FAUX)
-3) [La monarchie.](EXAM_NAT_V10_Q01_FAUX)
-4) [La Première République.](EXAM_NAT_V10_Q01_VRAI)
+**L'inscription sur les listes électorales est-elle... ?**
+
+1) [Facultative.](EXAM_NAT_V10_Q01_FAUX)
+2) [Réservée à certaines professions.](EXAM_NAT_V10_Q01_FAUX)
+3) [Automatique dès la naissance, sans démarche.](EXAM_NAT_V10_Q01_FAUX)
+4) [Obligatoire pour pouvoir voter.](EXAM_NAT_V10_Q01_VRAI)
 
 ## EXAM_NAT_V10_Q01_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q02)
@@ -70024,7 +71200,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q01 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q02)
 
@@ -70043,17 +71219,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 2 sur 40
 
-**Quand ont lieu les vacances scolaires de Noël ?**
+<!-- Source naturalisation : NAT-T2-006 -->
 
-1) [En décembre.](EXAM_NAT_V10_Q02_VRAI)
-2) [En février.](EXAM_NAT_V10_Q02_FAUX)
-3) [En avril.](EXAM_NAT_V10_Q02_FAUX)
-4) [En Octobre.](EXAM_NAT_V10_Q02_FAUX)
+**Citez une condition nécessaire pour voter à l'élection présidentielle.**
+
+1) [Être de nationalité française, majeur et inscrit sur les listes électorales.](EXAM_NAT_V10_Q02_VRAI)
+2) [Avoir un emploi.](EXAM_NAT_V10_Q02_FAUX)
+3) [Être marié.](EXAM_NAT_V10_Q02_FAUX)
+4) [Payer des impôts.](EXAM_NAT_V10_Q02_FAUX)
 
 ## EXAM_NAT_V10_Q02_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q03)
@@ -70062,7 +71240,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q02 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q03)
 
@@ -70081,17 +71259,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 3 sur 40
 
-**Où a eu lieu le débarquement en 1944 ?**
+<!-- Source naturalisation : NAT-T2-007 -->
 
-1) [En Bretagne.](EXAM_NAT_V10_Q03_FAUX)
-2) [En Normandie.](EXAM_NAT_V10_Q03_VRAI)
-3) [À Paris.](EXAM_NAT_V10_Q03_FAUX)
-4) [En Aquitaine.](EXAM_NAT_V10_Q03_FAUX)
+**Citez une condition pour être candidat aux élections municipales.**
+
+1) [Être fonctionnaire.](EXAM_NAT_V10_Q03_FAUX)
+2) [Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).](EXAM_NAT_V10_Q03_VRAI)
+3) [Être marié.](EXAM_NAT_V10_Q03_FAUX)
+4) [Être propriétaire.](EXAM_NAT_V10_Q03_FAUX)
 
 ## EXAM_NAT_V10_Q03_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q04)
@@ -70100,7 +71280,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q03 = 1`
 
-`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q04)
 
@@ -70119,17 +71299,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 4 sur 40
 
-**Quel est le dernier pays à avoir rejoint l'Union européenne ?**
+<!-- Source naturalisation : NAT-T3-037 -->
 
-1) [La Bulgarie.](EXAM_NAT_V10_Q04_FAUX)
-2) [La Roumanie.](EXAM_NAT_V10_Q04_FAUX)
-3) [La Serbie.](EXAM_NAT_V10_Q04_FAUX)
-4) [La Croatie.](EXAM_NAT_V10_Q04_VRAI)
+**Quelle est l'une des conséquences si un juge prononce une privation des droits civils et politiques à l'encontre d'une personne ?**
+
+1) [Elle ne peut plus voter ni être candidate à une élection.](EXAM_NAT_V10_Q04_VRAI)
+2) [Elle perd automatiquement la nationalité française.](EXAM_NAT_V10_Q04_FAUX)
+3) [Elle ne peut plus travailler.](EXAM_NAT_V10_Q04_FAUX)
+4) [Elle doit quitter le territoire français.](EXAM_NAT_V10_Q04_FAUX)
 
 ## EXAM_NAT_V10_Q04_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q05)
@@ -70138,7 +71320,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q04 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q05)
 
@@ -70157,17 +71339,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 5 sur 40
 
-**Selon le principe de laïcité, que signifie la neutralité de l'État ?**
+<!-- Source naturalisation : NAT-T3-001 -->
 
-1) [L'État interdit les religions.](EXAM_NAT_V10_Q05_FAUX)
-2) [L'État choisit une religion officielle.](EXAM_NAT_V10_Q05_FAUX)
-3) [L'État finance toutes les religions.](EXAM_NAT_V10_Q05_FAUX)
-4) [L'État ne favorise ni ne défavorise aucune religion.](EXAM_NAT_V10_Q05_VRAI)
+**Quel est l'objectif du droit de grève ?**
+
+1) [Défendre les intérêts professionnels des salariés.](EXAM_NAT_V10_Q05_VRAI)
+2) [Ne plus travailler quand on le souhaite, sans raison.](EXAM_NAT_V10_Q05_FAUX)
+3) [Refuser définitivement de travailler.](EXAM_NAT_V10_Q05_FAUX)
+4) [Faire fermer une entreprise.](EXAM_NAT_V10_Q05_FAUX)
 
 ## EXAM_NAT_V10_Q05_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q06)
@@ -70176,7 +71360,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q05 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q06)
 
@@ -70195,17 +71379,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 6 sur 40
 
-**Pour combien de temps le maire et les conseillers municipaux sont-ils élus ?**
+<!-- Source naturalisation : NAT-T3-002 -->
 
-1) [5 ans.](EXAM_NAT_V10_Q06_FAUX)
-2) [7 ans.](EXAM_NAT_V10_Q06_FAUX)
-3) [9 ans.](EXAM_NAT_V10_Q06_FAUX)
-4) [6 ans.](EXAM_NAT_V10_Q06_VRAI)
+**Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**
+
+1) [Les opinions politiques.](EXAM_NAT_V10_Q06_FAUX)
+2) [L'intérêt général.](EXAM_NAT_V10_Q06_VRAI)
+3) [Une religion.](EXAM_NAT_V10_Q06_FAUX)
+4) [Les intérêts d'un groupe.](EXAM_NAT_V10_Q06_FAUX)
 
 ## EXAM_NAT_V10_Q06_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q07)
@@ -70214,7 +71400,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q06 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q07)
 
@@ -70233,12 +71419,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 7 sur 40
 
-**Tous les citoyens français ont-ils obligatoirement la même religion ?**
+<!-- Source naturalisation : NAT-T3-003 -->
 
-1) [Oui.](EXAM_NAT_V10_Q07_FAUX)
-2) [Tous sont catholiques.](EXAM_NAT_V10_Q07_FAUX)
-3) [Tous doivent avoir une religion.](EXAM_NAT_V10_Q07_FAUX)
-4) [Non, chacun est libre de croire ou de ne pas croire.](EXAM_NAT_V10_Q07_VRAI)
+**Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**
+
+1) [Les hommes doivent respecter le roi.](EXAM_NAT_V10_Q07_FAUX)
+2) [Les hommes naissent inégaux selon leur naissance.](EXAM_NAT_V10_Q07_FAUX)
+3) [Les hommes naissent et demeurent libres et égaux en droits.](EXAM_NAT_V10_Q07_VRAI)
+4) [Les hommes doivent appartenir à une religion.](EXAM_NAT_V10_Q07_FAUX)
 
 ## EXAM_NAT_V10_Q07_VRAI
 
@@ -70271,17 +71459,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 8 sur 40
 
-**Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**
+<!-- Source naturalisation : NAT-T4-004 -->
 
-1) [La Constitution.](EXAM_NAT_V10_Q08_FAUX)
-2) [Le Code civil.](EXAM_NAT_V10_Q08_FAUX)
-3) [La Charte de l'environnement.](EXAM_NAT_V10_Q08_FAUX)
-4) [La Déclaration des droits de l'Homme et du Citoyen de 1789.](EXAM_NAT_V10_Q08_VRAI)
+**Quel était l'objectif principal des lois de Jules Ferry (1881-1882) ?**
+
+1) [Supprimer l'école privée.](EXAM_NAT_V10_Q08_FAUX)
+2) [Créer les universités.](EXAM_NAT_V10_Q08_FAUX)
+3) [Rendre l'école payante.](EXAM_NAT_V10_Q08_FAUX)
+4) [Rendre l'école gratuite, laïque et obligatoire.](EXAM_NAT_V10_Q08_VRAI)
 
 ## EXAM_NAT_V10_Q08_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q09)
@@ -70290,7 +71480,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q08 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q09)
 
@@ -70309,12 +71499,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 9 sur 40
 
-**En quelle année l'euro est-elle devenue la monnaie utilisée en France ?**
+<!-- Source naturalisation : NAT-T4-005 -->
 
-1) [2002.](EXAM_NAT_V10_Q09_VRAI)
-2) [1992.](EXAM_NAT_V10_Q09_FAUX)
-3) [1999.](EXAM_NAT_V10_Q09_FAUX)
-4) [2005.](EXAM_NAT_V10_Q09_FAUX)
+**Pourquoi l'année 1958 est-elle importante dans l'histoire des institutions françaises ?**
+
+1) [Adoption de la Constitution qui fonde la Ve République.](EXAM_NAT_V10_Q09_VRAI)
+2) [Début de la Première Guerre mondiale.](EXAM_NAT_V10_Q09_FAUX)
+3) [Création de l'Union européenne.](EXAM_NAT_V10_Q09_FAUX)
+4) [Révolution française.](EXAM_NAT_V10_Q09_FAUX)
 
 ## EXAM_NAT_V10_Q09_VRAI
 
@@ -70347,12 +71539,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 10 sur 40
 
-**Lequel de ces personnages a un lien avec la République française ?**
+<!-- Source naturalisation : NAT-T4-006 -->
 
-1) [Louis XIV.](EXAM_NAT_V10_Q10_FAUX)
-2) [Charlemagne.](EXAM_NAT_V10_Q10_FAUX)
-3) [François Ier.](EXAM_NAT_V10_Q10_FAUX)
-4) [Jules Ferry.](EXAM_NAT_V10_Q10_VRAI)
+**Quelle loi Simone Veil a-t-elle fait adopter en 1975 ?**
+
+1) [La création de la Sécurité sociale.](EXAM_NAT_V10_Q10_FAUX)
+2) [La loi légalisant l'interruption volontaire de grossesse (IVG).](EXAM_NAT_V10_Q10_VRAI)
+3) [La Constitution.](EXAM_NAT_V10_Q10_FAUX)
+4) [L'abolition de la peine de mort.](EXAM_NAT_V10_Q10_FAUX)
 
 ## EXAM_NAT_V10_Q10_VRAI
 
@@ -70385,12 +71579,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 11 sur 40
 
-**Quand peut-on visiter gratuitement des lieux culturels en France ?**
+<!-- Source naturalisation : NAT-T4-007 -->
 
-1) [Le 14 juillet.](EXAM_NAT_V10_Q11_FAUX)
-2) [Le 25 décembre.](EXAM_NAT_V10_Q11_FAUX)
-3) [Lors des Journées européennes du patrimoine.](EXAM_NAT_V10_Q11_VRAI)
-4) [Tous les dimanches.](EXAM_NAT_V10_Q11_FAUX)
+**Lequel de ces pays est l'un des six pays fondateurs de la construction européenne ?**
+
+1) [Espagne.](EXAM_NAT_V10_Q11_FAUX)
+2) [Croatie.](EXAM_NAT_V10_Q11_FAUX)
+3) [Italie.](EXAM_NAT_V10_Q11_VRAI)
+4) [Pologne.](EXAM_NAT_V10_Q11_FAUX)
 
 ## EXAM_NAT_V10_Q11_VRAI
 
@@ -70404,7 +71600,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q11 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q12)
 
@@ -70423,17 +71619,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 12 sur 40
 
-**Qui peut être candidat à l'élection présidentielle ?**
+<!-- Source naturalisation : NAT-T4-008 -->
 
-1) [Tous les Français automatiquement.](EXAM_NAT_V10_Q12_FAUX)
-2) [Les ministres uniquement.](EXAM_NAT_V10_Q12_FAUX)
-3) [Les députés uniquement.](EXAM_NAT_V10_Q12_FAUX)
-4) [Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).](EXAM_NAT_V10_Q12_VRAI)
+**Sur quelle région française a eu lieu le Débarquement allié du 6 juin 1944 ?**
+
+1) [Bretagne.](EXAM_NAT_V10_Q12_FAUX)
+2) [Hauts-de-France.](EXAM_NAT_V10_Q12_FAUX)
+3) [Provence.](EXAM_NAT_V10_Q12_FAUX)
+4) [Normandie.](EXAM_NAT_V10_Q12_VRAI)
 
 ## EXAM_NAT_V10_Q12_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q13)
@@ -70442,7 +71640,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q12 = 1`
 
-`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q13)
 
@@ -70461,12 +71659,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 13 sur 40
 
-**Quel pays a une frontière terrestre avec la France métropolitaine ?**
+<!-- Source naturalisation : NAT-T4-009 -->
 
-1) [Royaume-Uni.](EXAM_NAT_V10_Q13_FAUX)
-2) [Portugal.](EXAM_NAT_V10_Q13_FAUX)
-3) [Autriche.](EXAM_NAT_V10_Q13_FAUX)
-4) [Espagne.](EXAM_NAT_V10_Q13_VRAI)
+**Dans quelle ville les rois de France étaient-ils traditionnellement sacrés ?**
+
+1) [Reims.](EXAM_NAT_V10_Q13_VRAI)
+2) [Paris.](EXAM_NAT_V10_Q13_FAUX)
+3) [Versailles.](EXAM_NAT_V10_Q13_FAUX)
+4) [Orléans.](EXAM_NAT_V10_Q13_FAUX)
 
 ## EXAM_NAT_V10_Q13_VRAI
 
@@ -70480,7 +71680,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q13 = 1`
 
-`@errchap_T4_CH02 = calc(@errchap_T4_CH02 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q14)
 
@@ -70499,17 +71699,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 14 sur 40
 
-**Combien de départements compte la France ?**
+<!-- Source naturalisation : NAT-T4-010 -->
 
-1) [96.](EXAM_NAT_V10_Q14_FAUX)
-2) [98.](EXAM_NAT_V10_Q14_FAUX)
-3) [13.](EXAM_NAT_V10_Q14_FAUX)
-4) [101.](EXAM_NAT_V10_Q14_VRAI)
+**Qui est l'auteur des grandes lois scolaires de la IIIᵉ République rendant l'école gratuite, laïque et obligatoire ?**
+
+1) [Napoléon.](EXAM_NAT_V10_Q14_FAUX)
+2) [Jules Ferry.](EXAM_NAT_V10_Q14_VRAI)
+3) [Victor Hugo.](EXAM_NAT_V10_Q14_FAUX)
+4) [Charles de Gaulle.](EXAM_NAT_V10_Q14_FAUX)
 
 ## EXAM_NAT_V10_Q14_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q15)
@@ -70518,7 +71720,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q14 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q15)
 
@@ -70537,17 +71739,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 15 sur 40
 
-**Sur quel document peut-on voir Marianne ?**
+<!-- Source naturalisation : NAT-T4-011 -->
 
-1) [Uniquement sur le permis de conduire.](EXAM_NAT_V10_Q15_FAUX)
-2) [Uniquement sur les billets en euros.](EXAM_NAT_V10_Q15_FAUX)
-3) [Uniquement sur les passeports étrangers.](EXAM_NAT_V10_Q15_FAUX)
-4) [Sur les timbres, les pièces de monnaie ou les documents officiels de la République.](EXAM_NAT_V10_Q15_VRAI)
+**Quel roi de France a été guillotiné le 21 janvier 1793 pendant la Révolution ?**
+
+1) [Louis XIV.](EXAM_NAT_V10_Q15_FAUX)
+2) [Louis XV.](EXAM_NAT_V10_Q15_FAUX)
+3) [Louis XVI.](EXAM_NAT_V10_Q15_VRAI)
+4) [Napoléon Ier.](EXAM_NAT_V10_Q15_FAUX)
 
 ## EXAM_NAT_V10_Q15_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q16)
@@ -70556,7 +71760,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q15 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q16)
 
@@ -70575,17 +71779,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 16 sur 40
 
-**Quel pays a quitté l'Union européenne (Brexit) ?**
+<!-- Source naturalisation : NAT-T4-012 -->
 
-1) [La Norvège.](EXAM_NAT_V10_Q16_FAUX)
-2) [La Suisse.](EXAM_NAT_V10_Q16_FAUX)
-3) [L'Irlande.](EXAM_NAT_V10_Q16_FAUX)
-4) [Le Royaume-Uni.](EXAM_NAT_V10_Q16_VRAI)
+**En quelle année a débuté la Révolution française ?**
+
+1) [1792.](EXAM_NAT_V10_Q16_FAUX)
+2) [1804.](EXAM_NAT_V10_Q16_FAUX)
+3) [1815.](EXAM_NAT_V10_Q16_FAUX)
+4) [1789.](EXAM_NAT_V10_Q16_VRAI)
 
 ## EXAM_NAT_V10_Q16_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q17)
@@ -70594,7 +71800,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q16 = 1`
 
-`@errchap_T2_CH04 = calc(@errchap_T2_CH04 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q17)
 
@@ -70613,17 +71819,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 17 sur 40
 
-**Quel est l'objectif du droit de grève ?**
+<!-- Source naturalisation : NAT-T5-002 -->
 
-1) [Ne plus travailler quand on le souhaite, sans raison.](EXAM_NAT_V10_Q17_FAUX)
-2) [Refuser définitivement de travailler.](EXAM_NAT_V10_Q17_FAUX)
-3) [Faire fermer une entreprise.](EXAM_NAT_V10_Q17_FAUX)
-4) [Défendre les intérêts professionnels des salariés.](EXAM_NAT_V10_Q17_VRAI)
+**Quels types de travaux un locataire peut-il réaliser librement dans son logement ?**
+
+1) [Abattre une cloison.](EXAM_NAT_V10_Q17_FAUX)
+2) [Effectuer les petits aménagements du logement (peinture, étagères...).](EXAM_NAT_V10_Q17_VRAI)
+3) [Transformer le logement.](EXAM_NAT_V10_Q17_FAUX)
+4) [Construire une extension.](EXAM_NAT_V10_Q17_FAUX)
 
 ## EXAM_NAT_V10_Q17_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q18)
@@ -70632,7 +71840,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q17 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q18)
 
@@ -70651,17 +71859,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 18 sur 40
 
-**Citez un symbole qui représente officiellement la République française.**
+<!-- Source naturalisation : NAT-T5-003 -->
 
-1) [La tour Eiffel.](EXAM_NAT_V10_Q18_FAUX)
-2) [Le béret.](EXAM_NAT_V10_Q18_FAUX)
-3) [Marianne.](EXAM_NAT_V10_Q18_VRAI)
-4) [Le coq.](EXAM_NAT_V10_Q18_FAUX)
+**Quel mariage est reconnu par l'État français ?**
+
+1) [Le mariage religieux uniquement.](EXAM_NAT_V10_Q18_FAUX)
+2) [Le mariage coutumier.](EXAM_NAT_V10_Q18_FAUX)
+3) [Le mariage civil, célébré à la mairie.](EXAM_NAT_V10_Q18_VRAI)
+4) [Les fiançailles.](EXAM_NAT_V10_Q18_FAUX)
 
 ## EXAM_NAT_V10_Q18_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q19)
@@ -70670,7 +71880,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q18 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q19)
 
@@ -70689,12 +71899,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 19 sur 40
 
-**Quel est l'âge de la majorité ?**
+<!-- Source naturalisation : NAT-T5-004 -->
 
-1) [18 ans.](EXAM_NAT_V10_Q19_VRAI)
-2) [16 ans.](EXAM_NAT_V10_Q19_FAUX)
-3) [17 ans.](EXAM_NAT_V10_Q19_FAUX)
-4) [21 ans.](EXAM_NAT_V10_Q19_FAUX)
+**Le stationnement sur une place réservée aux personnes handicapées est :**
+
+1) [Autorisé pour tout le monde en cas d'urgence.](EXAM_NAT_V10_Q19_FAUX)
+2) [Autorisé le week-end pour tous.](EXAM_NAT_V10_Q19_FAUX)
+3) [Interdit dans tous les cas, même avec une carte.](EXAM_NAT_V10_Q19_FAUX)
+4) [Autorisé uniquement pour les véhicules disposant de la carte de stationnement (CMI).](EXAM_NAT_V10_Q19_VRAI)
 
 ## EXAM_NAT_V10_Q19_VRAI
 
@@ -70708,7 +71920,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q19 = 1`
 
-`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q20)
 
@@ -70727,17 +71939,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 20 sur 40
 
-**Quelle institution française doit rester neutre en matière de religion ?**
+<!-- Source naturalisation : NAT-T5-005 -->
 
-1) [Les citoyens.](EXAM_NAT_V10_Q20_FAUX)
-2) [Les associations.](EXAM_NAT_V10_Q20_FAUX)
-3) [Les entreprises privées.](EXAM_NAT_V10_Q20_FAUX)
-4) [L'État.](EXAM_NAT_V10_Q20_VRAI)
+**Un appareil électroménager neuf tombe en panne un an après l'achat. Que peut faire l'acheteur ?**
+
+1) [Faire jouer la garantie légale de 2 ans ou demander une réparation.](EXAM_NAT_V10_Q20_VRAI)
+2) [Il faut contacter directement le fabricant.](EXAM_NAT_V10_Q20_FAUX)
+3) [Rien ne peut être fait après l'achat.](EXAM_NAT_V10_Q20_FAUX)
+4) [Il faut payer une nouvelle réparation.](EXAM_NAT_V10_Q20_FAUX)
 
 ## EXAM_NAT_V10_Q20_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q21)
@@ -70746,7 +71960,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q20 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T5_CH01 = calc(@errchap_T5_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q21)
 
@@ -70765,17 +71979,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 21 sur 40
 
-**Qui était Auguste Rodin ?**
+<!-- Source naturalisation : NAT-T5-006 -->
 
-1) [Un sculpteur français.](EXAM_NAT_V10_Q21_VRAI)
-2) [Un écrivain.](EXAM_NAT_V10_Q21_FAUX)
-3) [Un peintre.](EXAM_NAT_V10_Q21_FAUX)
-4) [Un musicien.](EXAM_NAT_V10_Q21_FAUX)
+**À quel moment la naissance d'un enfant doit-elle être déclarée ?**
+
+1) [À son entrée à l'école.](EXAM_NAT_V10_Q21_FAUX)
+2) [Lors de sa naissance.](EXAM_NAT_V10_Q21_VRAI)
+3) [Lorsqu'il obtient sa carte d'identité.](EXAM_NAT_V10_Q21_FAUX)
+4) [À ses 18 ans.](EXAM_NAT_V10_Q21_FAUX)
 
 ## EXAM_NAT_V10_Q21_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q22)
@@ -70784,7 +72000,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q21 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T5_CH04 = calc(@errchap_T5_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q22)
 
@@ -70803,17 +72019,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 22 sur 40
 
-**Quelle est la mission de France Travail ?**
+<!-- Source naturalisation : NAT-T1-037 -->
 
-1) [Délivrer les cartes d'identité.](EXAM_NAT_V10_Q22_FAUX)
-2) [Gérer les hôpitaux.](EXAM_NAT_V10_Q22_FAUX)
-3) [Accompagner les personnes dans leur recherche d'emploi.](EXAM_NAT_V10_Q22_VRAI)
-4) [Organiser les élections.](EXAM_NAT_V10_Q22_FAUX)
+**Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?**
+
+1) [Les agents publics.](EXAM_NAT_V10_Q22_VRAI)
+2) [Les usagers.](EXAM_NAT_V10_Q22_FAUX)
+3) [Les visiteurs.](EXAM_NAT_V10_Q22_FAUX)
+4) [Les élus uniquement.](EXAM_NAT_V10_Q22_FAUX)
 
 ## EXAM_NAT_V10_Q22_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q23)
@@ -70822,7 +72040,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q22 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q23)
 
@@ -70841,12 +72059,14 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 23 sur 40
 
-**La liberté d'association est :**
+<!-- Source naturalisation : NAT-T1-038 -->
 
-1) [L'obligation d'adhérer à une association.](EXAM_NAT_V10_Q23_FAUX)
-2) [Le droit de créer une association, d'y adhérer ou non.](EXAM_NAT_V10_Q23_VRAI)
-3) [Une association réservée aux citoyens français.](EXAM_NAT_V10_Q23_FAUX)
-4) [L'interdiction de créer une association sans autorisation de l'État.](EXAM_NAT_V10_Q23_FAUX)
+**Une personne déclare ne croire en aucun dieu. On peut dire :**
+
+1) [Qu'elle a moins de droits que les autres citoyens.](EXAM_NAT_V10_Q23_FAUX)
+2) [Qu'elle a les mêmes droits et devoirs que les autres citoyens.](EXAM_NAT_V10_Q23_VRAI)
+3) [Qu'elle doit choisir une religion avant sa naturalisation.](EXAM_NAT_V10_Q23_FAUX)
+4) [Qu'elle ne peut pas exercer certains métiers publics.](EXAM_NAT_V10_Q23_FAUX)
 
 ## EXAM_NAT_V10_Q23_VRAI
 
@@ -70860,7 +72080,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q23 = 1`
 
-`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
+`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q24)
 
@@ -70879,17 +72099,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 24 sur 40
 
-**Quelle fête est française ?**
+<!-- Source naturalisation : NAT-T1-001 -->
 
-1) [Thanksgiving.](EXAM_NAT_V10_Q24_FAUX)
-2) [Halloween.](EXAM_NAT_V10_Q24_FAUX)
-3) [Le 14 juillet.](EXAM_NAT_V10_Q24_VRAI)
-4) [La Saint-Patrick.](EXAM_NAT_V10_Q24_FAUX)
+**Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**
+
+1) [Le jour de gloire est arrivé.](EXAM_NAT_V10_Q24_VRAI)
+2) [Aux armes, citoyens.](EXAM_NAT_V10_Q24_FAUX)
+3) [Formez vos bataillons.](EXAM_NAT_V10_Q24_FAUX)
+4) [Contre nous de la tyrannie.](EXAM_NAT_V10_Q24_FAUX)
 
 ## EXAM_NAT_V10_Q24_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t4 = calc(@exam_t4+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q25)
@@ -70898,7 +72120,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q24 = 1`
 
-`@errchap_T4_CH03 = calc(@errchap_T4_CH03 + 1)`
+`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q25)
 
@@ -70917,17 +72139,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 25 sur 40
 
-**Quelle collectivité territoriale a la compétence des collèges publics ?**
+<!-- Source naturalisation : NAT-T1-002 -->
 
-1) [La commune.](EXAM_NAT_V10_Q25_FAUX)
-2) [La région.](EXAM_NAT_V10_Q25_FAUX)
-3) [L'État.](EXAM_NAT_V10_Q25_FAUX)
-4) [Le département.](EXAM_NAT_V10_Q25_VRAI)
+**Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
+
+1) [Sa religion.](EXAM_NAT_V10_Q25_FAUX)
+2) [Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.](EXAM_NAT_V10_Q25_VRAI)
+3) [Son origine.](EXAM_NAT_V10_Q25_FAUX)
+4) [Ses opinions politiques.](EXAM_NAT_V10_Q25_FAUX)
 
 ## EXAM_NAT_V10_Q25_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t2 = calc(@exam_t2+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q26)
@@ -70936,7 +72160,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q25 = 1`
 
-`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q26)
 
@@ -70955,17 +72179,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 26 sur 40
 
-**Qui peut être désigné juré d'assises ?**
+<!-- Source naturalisation : NAT-T2-002 -->
 
-1) [Les policiers.](EXAM_NAT_V10_Q26_FAUX)
-2) [Les magistrats uniquement.](EXAM_NAT_V10_Q26_FAUX)
-3) [Les avocats uniquement.](EXAM_NAT_V10_Q26_FAUX)
-4) [Un citoyen inscrit sur les listes électorales, tiré au sort.](EXAM_NAT_V10_Q26_VRAI)
+**Qui peut être candidat à l'élection présidentielle ?**
+
+1) [Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).](EXAM_NAT_V10_Q26_VRAI)
+2) [Tous les Français automatiquement.](EXAM_NAT_V10_Q26_FAUX)
+3) [Les ministres uniquement.](EXAM_NAT_V10_Q26_FAUX)
+4) [Les députés uniquement.](EXAM_NAT_V10_Q26_FAUX)
 
 ## EXAM_NAT_V10_Q26_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q27)
@@ -70974,7 +72200,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q26 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q27)
 
@@ -70993,17 +72219,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 27 sur 40
 
-**Dans une entreprise, le droit syndical permet :**
+<!-- Source naturalisation : NAT-T2-003 -->
 
-1) [De refuser d'appliquer le contrat de travail.](EXAM_NAT_V10_Q27_FAUX)
-2) [De créer un syndicat, d'y adhérer ou non, et d'exercer une activité syndicale dans le respect de la loi.](EXAM_NAT_V10_Q27_VRAI)
-3) [D'imposer ses opinions politiques à ses collègues.](EXAM_NAT_V10_Q27_FAUX)
-4) [De remplacer l'employeur.](EXAM_NAT_V10_Q27_FAUX)
+**À qui appartient la souveraineté nationale ?**
+
+1) [Au Président de la République.](EXAM_NAT_V10_Q27_FAUX)
+2) [Au peuple.](EXAM_NAT_V10_Q27_VRAI)
+3) [Au Gouvernement.](EXAM_NAT_V10_Q27_FAUX)
+4) [Au Parlement uniquement.](EXAM_NAT_V10_Q27_FAUX)
 
 ## EXAM_NAT_V10_Q27_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t5 = calc(@exam_t5+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q28)
@@ -71012,7 +72240,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q27 = 1`
 
-`@errchap_T5_CH03 = calc(@errchap_T5_CH03 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q28)
 
@@ -71031,17 +72259,19 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 ### Question 28 sur 40
 
-**Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**
+<!-- Source naturalisation : NAT-T2-004 -->
 
-1) [Les opinions politiques.](EXAM_NAT_V10_Q28_FAUX)
-2) [Une religion.](EXAM_NAT_V10_Q28_FAUX)
-3) [Les intérêts d'un groupe.](EXAM_NAT_V10_Q28_FAUX)
-4) [L'intérêt général.](EXAM_NAT_V10_Q28_VRAI)
+**Qui est élu lors des élections municipales ?**
+
+1) [Le maire directement.](EXAM_NAT_V10_Q28_FAUX)
+2) [Les préfets.](EXAM_NAT_V10_Q28_FAUX)
+3) [Les conseillers municipaux.](EXAM_NAT_V10_Q28_VRAI)
+4) [Les sénateurs.](EXAM_NAT_V10_Q28_FAUX)
 
 ## EXAM_NAT_V10_Q28_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_connaissances = calc(@exam_connaissances+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_PART2)
@@ -71050,7 +72280,7 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q28 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH02 = calc(@errchap_T2_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_PART2)
 
@@ -71065,6 +72295,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 ## EXAM_NAT_V10_Q29
 
 `@err_NAT_V10_Q29 = 0`
+`@exam_variant = 10`
+
 
 <iframe
   src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
@@ -71077,19 +72309,21 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 ### Question 29 sur 40
 
-Un ami pense que la liberté de la presse permet aux journalistes de publier n'importe quelle information, sans aucune limite.
+<!-- Source naturalisation : MS-NAT-T2-030 -->
 
-**Que lui répondez-vous ?**
+Une discussion sur les élections amène votre entourage à vérifier une règle du système politique français. Dans le groupe, la réponse « Par décret du Président » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Elle permet de publier n'importe quoi.](EXAM_NAT_V10_Q29_FAUX)
-2) [Elle garantit le droit d'informer et d'être informé, dans le respect de la loi.](EXAM_NAT_V10_Q29_VRAI)
-3) [Elle permet de diffamer librement.](EXAM_NAT_V10_Q29_FAUX)
-4) [Elle permet d'insulter les personnes.](EXAM_NAT_V10_Q29_FAUX)
+**Comment la Constitution peut-elle être révisée ?**
+
+1) [Par référendum ou par le Parlement réuni en Congrès.](EXAM_NAT_V10_Q29_VRAI)
+2) [Par décret du Président.](EXAM_NAT_V10_Q29_FAUX)
+3) [Par décision du Premier ministre.](EXAM_NAT_V10_Q29_FAUX)
+4) [Par un tribunal.](EXAM_NAT_V10_Q29_FAUX)
 
 ## EXAM_NAT_V10_Q29_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q30)
@@ -71098,7 +72332,7 @@ Un ami pense que la liberté de la presse permet aux journalistes de publier n'i
 
 `@err_NAT_V10_Q29 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q30)
 
@@ -71117,19 +72351,21 @@ Un ami pense que la liberté de la presse permet aux journalistes de publier n'i
 
 ### Question 30 sur 40
 
-Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marseillaise. Vous hésitez sur un mot des paroles : « Aux armes [...] ! Formez vos bataillons. »
+<!-- Source naturalisation : MS-NAT-T2-031 -->
 
-**Quel mot manque-t-il ?**
+Un proche prépare une démarche citoyenne et souhaite clarifier le fonctionnement de la République et de ses institutions. Une personne hésite et choisit « Le Président de l'Assemblée nationale ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Français.](EXAM_NAT_V10_Q30_FAUX)
-2) [Soldats.](EXAM_NAT_V10_Q30_FAUX)
-3) [Amis.](EXAM_NAT_V10_Q30_FAUX)
-4) [Citoyens.](EXAM_NAT_V10_Q30_VRAI)
+**En cas de vacance de la présidence, qui assure provisoirement les fonctions de Président de la République ?**
+
+1) [Le Premier ministre.](EXAM_NAT_V10_Q30_FAUX)
+2) [Le Président du Sénat.](EXAM_NAT_V10_Q30_VRAI)
+3) [Le Président de l'Assemblée nationale.](EXAM_NAT_V10_Q30_FAUX)
+4) [Le ministre de l'Intérieur.](EXAM_NAT_V10_Q30_FAUX)
 
 ## EXAM_NAT_V10_Q30_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q31)
@@ -71138,7 +72374,7 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 
 `@err_NAT_V10_Q30 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q31)
 
@@ -71157,19 +72393,21 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 
 ### Question 31 sur 40
 
-Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
+<!-- Source naturalisation : MS-NAT-T3-019 -->
 
-**Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**
+Pendant un atelier d’accès aux droits, une personne vous demande de l’aider à identifier la règle applicable. Dans le groupe, la réponse « Une pratique tolérée pour les petites cylindrées » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Elle sert à interdire toutes les religions.](EXAM_NAT_V10_Q31_FAUX)
-2) [Elle sert à favoriser une religion en particulier.](EXAM_NAT_V10_Q31_FAUX)
-3) [Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.](EXAM_NAT_V10_Q31_VRAI)
-4) [Elle empêche les élèves de parler de leur religion et de la promouvoir.](EXAM_NAT_V10_Q31_FAUX)
+**Conduire un véhicule sans le permis correspondant constitue :**
+
+1) [Une simple erreur sans conséquence.](EXAM_NAT_V10_Q31_FAUX)
+2) [Une contravention mineure.](EXAM_NAT_V10_Q31_FAUX)
+3) [Un délit puni par la loi.](EXAM_NAT_V10_Q31_VRAI)
+4) [Une pratique tolérée pour les petites cylindrées.](EXAM_NAT_V10_Q31_FAUX)
 
 ## EXAM_NAT_V10_Q31_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q32)
@@ -71178,7 +72416,7 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V10_Q31 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q32)
 
@@ -71197,14 +72435,16 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 ### Question 32 sur 40
 
-Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne sert qu'à désencombrer sa poubelle.
+<!-- Source naturalisation : MS-NAT-T3-020 -->
 
-**Pourquoi doit-on réellement trier ses déchets ?**
+Une personne de votre entourage rencontre une situation concrète et veut agir dans le respect de la loi française. Une personne hésite et choisit « Aider uniquement sa famille ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Pour gagner de l'argent.](EXAM_NAT_V10_Q32_FAUX)
-2) [Pour désencombrer la poubelle ménagère.](EXAM_NAT_V10_Q32_FAUX)
-3) [Pour éviter de payer des impôts.](EXAM_NAT_V10_Q32_FAUX)
-4) [Pour protéger l'environnement et favoriser le recyclage.](EXAM_NAT_V10_Q32_VRAI)
+**En quoi consiste le devoir de solidarité du citoyen ?**
+
+1) [Aider uniquement sa famille.](EXAM_NAT_V10_Q32_FAUX)
+2) [Donner obligatoirement de l'argent.](EXAM_NAT_V10_Q32_FAUX)
+3) [Être bénévole dans une association uniquement.](EXAM_NAT_V10_Q32_FAUX)
+4) [Aider les personnes en difficulté et contribuer à la solidarité nationale.](EXAM_NAT_V10_Q32_VRAI)
 
 ## EXAM_NAT_V10_Q32_VRAI
 
@@ -71237,19 +72477,21 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 
 ### Question 33 sur 40
 
-Lors d'une manifestation, certains participants brûlent un drapeau français devant les caméras, pensant que la liberté de manifester le permet.
+<!-- Source naturalisation : MS-NAT-T4-028 -->
 
-**Cet acte est-il autorisé en France ?**
+Lors d’une visite culturelle, une personne de votre entourage souhaite vérifier un repère sur l’histoire, la géographie ou le patrimoine français. Un participant propose la réponse « Le Débarquement ». Vous devez vérifier cette affirmation.
 
-1) [Oui.](EXAM_NAT_V10_Q33_FAUX)
-2) [Oui, si c'est dans le cadre d'une manifestation.](EXAM_NAT_V10_Q33_FAUX)
-3) [Non, cet acte est encadré par la loi et peut être sanctionné.](EXAM_NAT_V10_Q33_VRAI)
-4) [Oui, dans tous les cas.](EXAM_NAT_V10_Q33_FAUX)
+**Que commémore le 11 novembre, jour férié en France ?**
+
+1) [Le Débarquement.](EXAM_NAT_V10_Q33_FAUX)
+2) [La Libération de Paris.](EXAM_NAT_V10_Q33_FAUX)
+3) [Le 8 mai 1945.](EXAM_NAT_V10_Q33_FAUX)
+4) [L'Armistice de la Première Guerre mondiale (1918).](EXAM_NAT_V10_Q33_VRAI)
 
 ## EXAM_NAT_V10_Q33_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q34)
@@ -71258,7 +72500,7 @@ Lors d'une manifestation, certains participants brûlent un drapeau français de
 
 `@err_NAT_V10_Q33 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q34)
 
@@ -71277,19 +72519,21 @@ Lors d'une manifestation, certains participants brûlent un drapeau français de
 
 ### Question 34 sur 40
 
-On vous demande de nommer la liberté qui permet à une personne de croire en la religion de son choix, ou de n'en avoir aucune.
+<!-- Source naturalisation : MS-NAT-T4-029 -->
 
-**Quelle liberté est concernée ?**
+Vous préparez une sortie en France et une discussion s’engage autour d’un lieu, d’une personnalité ou d’un événement important. Un proche pense que la bonne réponse pourrait être « 1804 ». Aidez-le à raisonner.
 
-1) [La liberté de conscience.](EXAM_NAT_V10_Q34_VRAI)
-2) [La liberté d'expression.](EXAM_NAT_V10_Q34_FAUX)
-3) [La liberté de circulation.](EXAM_NAT_V10_Q34_FAUX)
-4) [La liberté de la presse.](EXAM_NAT_V10_Q34_FAUX)
+**Depuis quelle année l'esclavage est-il définitivement aboli en France ?**
+
+1) [Depuis 1848.](EXAM_NAT_V10_Q34_VRAI)
+2) [1789.](EXAM_NAT_V10_Q34_FAUX)
+3) [1804.](EXAM_NAT_V10_Q34_FAUX)
+4) [1945.](EXAM_NAT_V10_Q34_FAUX)
 
 ## EXAM_NAT_V10_Q34_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q35)
@@ -71298,7 +72542,7 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 `@err_NAT_V10_Q34 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q35)
 
@@ -71317,19 +72561,21 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 ### Question 35 sur 40
 
-Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
+<!-- Source naturalisation : MS-NAT-T4-030 -->
 
-**Que lui répondez-vous ?**
+Au cours d’un atelier culturel, votre groupe doit reconnaître un repère essentiel de l’histoire ou de la géographie française. Dans le groupe, la réponse « Victor Hugo » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [C'est l'hymne national français.](EXAM_NAT_V10_Q35_VRAI)
-2) [C'est une devise.](EXAM_NAT_V10_Q35_FAUX)
-3) [C'est une chanson de variété française.](EXAM_NAT_V10_Q35_FAUX)
-4) [C'est un monument historique.](EXAM_NAT_V10_Q35_FAUX)
+**Qui est le principal artisan du décret de 1848 abolissant l'esclavage dans les colonies françaises ?**
+
+1) [Napoléon.](EXAM_NAT_V10_Q35_FAUX)
+2) [Victor Schœlcher.](EXAM_NAT_V10_Q35_VRAI)
+3) [Jules Ferry.](EXAM_NAT_V10_Q35_FAUX)
+4) [Victor Hugo.](EXAM_NAT_V10_Q35_FAUX)
 
 ## EXAM_NAT_V10_Q35_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t4 = calc(@exam_t4+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q36)
@@ -71338,7 +72584,7 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V10_Q35 = 1`
 
-`@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
+`@errchap_T4_CH01 = calc(@errchap_T4_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q36)
 
@@ -71357,19 +72603,21 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 ### Question 36 sur 40
 
-Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
+<!-- Source naturalisation : MS-NAT-T5-019 -->
 
-**Quelle est l'attitude à adopter ?**
+Une famille récemment installée en France vous demande de l’aider à comprendre une règle pratique de la société française. Un proche pense que la bonne réponse pourrait être « Les soins sont toujours gratuits ». Aidez-le à raisonner.
 
-1) [Prendre parti et intervenir physiquement pour sauver la victime.](EXAM_NAT_V10_Q36_FAUX)
-2) [Filmer la scène sans intervenir.](EXAM_NAT_V10_Q36_FAUX)
-3) [Alerter les secours, la police ou la gendarmerie.](EXAM_NAT_V10_Q36_VRAI)
-4) [Partir sans prévenir personne.](EXAM_NAT_V10_Q36_FAUX)
+**Qu'est-ce que le tiers payant ?**
+
+1) [Les soins sont toujours gratuits.](EXAM_NAT_V10_Q36_FAUX)
+2) [Le médecin travaille gratuitement.](EXAM_NAT_V10_Q36_FAUX)
+3) [Le patient n'avance pas tout ou partie des frais de santé.](EXAM_NAT_V10_Q36_VRAI)
+4) [La mutuelle devient obligatoire.](EXAM_NAT_V10_Q36_FAUX)
 
 ## EXAM_NAT_V10_Q36_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q37)
@@ -71378,7 +72626,7 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 `@err_NAT_V10_Q36 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q37)
 
@@ -71397,19 +72645,21 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 ### Question 37 sur 40
 
-Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux visible et vous demande ce que signifie la « neutralité de l'État ».
+<!-- Source naturalisation : MS-NAT-T5-020 -->
 
-**Que lui répondez-vous ?**
+Au travail, à l’école, dans le logement ou dans le système de santé, un proche souhaite vérifier la bonne démarche. Dans le groupe, la réponse « Réservée aux salariés » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [L'État interdit les religions.](EXAM_NAT_V10_Q37_FAUX)
-2) [L'État choisit une religion officielle.](EXAM_NAT_V10_Q37_FAUX)
-3) [L'État ne favorise ni ne défavorise aucune religion.](EXAM_NAT_V10_Q37_VRAI)
-4) [L'État finance une seule religion.](EXAM_NAT_V10_Q37_FAUX)
+**L'affiliation à l'Assurance maladie est :**
+
+1) [Facultative pour tous.](EXAM_NAT_V10_Q37_FAUX)
+2) [Réservée aux salariés.](EXAM_NAT_V10_Q37_FAUX)
+3) [Réservée aux personnes âgées.](EXAM_NAT_V10_Q37_FAUX)
+4) [Obligatoire pour tous les résidents français réguliers.](EXAM_NAT_V10_Q37_VRAI)
 
 ## EXAM_NAT_V10_Q37_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t5 = calc(@exam_t5+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q38)
@@ -71418,7 +72668,7 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 `@err_NAT_V10_Q37 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T5_CH02 = calc(@errchap_T5_CH02 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q38)
 
@@ -71437,19 +72687,21 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 ### Question 38 sur 40
 
-Un ami affirme que certaines personnes auraient moins de droits que d'autres, selon leur origine ou leur religion.
+<!-- Source naturalisation : MS-NAT-T1-019 -->
 
-**Que lui répondez-vous sur le principe de dignité humaine ?**
+Une personne de votre entourage prépare son entretien de naturalisation et vous demande de l’aider sur un principe républicain. Dans le groupe, la réponse « Faire tout ce que l'on veut » est avancée. Vous devez déterminer si elle est correcte.
 
-1) [Certaines personnes ont moins de droits.](EXAM_NAT_V10_Q38_FAUX)
-2) [Chaque personne doit être respectée et traitée avec dignité.](EXAM_NAT_V10_Q38_VRAI)
-3) [La dignité dépend de la nationalité.](EXAM_NAT_V10_Q38_FAUX)
-4) [La dignité dépend de la religion.](EXAM_NAT_V10_Q38_FAUX)
+**Qu'est-ce qu'une liberté ?**
+
+1) [Faire tout ce que l'on veut.](EXAM_NAT_V10_Q38_FAUX)
+2) [Ne respecter aucune règle.](EXAM_NAT_V10_Q38_FAUX)
+3) [Le droit de faire ce que la loi autorise, dans le respect des droits des autres.](EXAM_NAT_V10_Q38_VRAI)
+4) [Être au-dessus des lois.](EXAM_NAT_V10_Q38_FAUX)
 
 ## EXAM_NAT_V10_Q38_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q39)
@@ -71458,7 +72710,7 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 `@err_NAT_V10_Q38 = 1`
 
-`@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q39)
 
@@ -71477,19 +72729,21 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 ### Question 39 sur 40
 
-Lors d'un cours de droit civique, on vous présente plusieurs infractions et vous devez identifier celle qui constitue un crime.
+<!-- Source naturalisation : MS-NAT-T1-020 -->
 
-**Laquelle de ces propositions représente un exemple de crime ?**
+Pendant une discussion sur la citoyenneté française, un proche hésite sur une règle ou un symbole de la République. Une personne hésite et choisit « Indivisible, catholique, démocratique et sociale ». Vous l’aidez à retrouver la règle ou le repère juste.
 
-1) [Un stationnement interdit.](EXAM_NAT_V10_Q39_FAUX)
-2) [Un homicide volontaire.](EXAM_NAT_V10_Q39_VRAI)
-3) [Un excès de vitesse.](EXAM_NAT_V10_Q39_FAUX)
-4) [Une injure non publique.](EXAM_NAT_V10_Q39_FAUX)
+**Selon la Constitution, la France est une République...**
+
+1) [Fédérale, religieuse, démocratique et sociale.](EXAM_NAT_V10_Q39_FAUX)
+2) [Indivisible, catholique, démocratique et sociale.](EXAM_NAT_V10_Q39_FAUX)
+3) [Indivisible, laïque, monarchique et sociale.](EXAM_NAT_V10_Q39_FAUX)
+4) [Indivisible, laïque, démocratique et sociale.](EXAM_NAT_V10_Q39_VRAI)
 
 ## EXAM_NAT_V10_Q39_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t3 = calc(@exam_t3+1)`
+`@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q40)
@@ -71498,7 +72752,7 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@err_NAT_V10_Q39 = 1`
 
-`@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
+`@errchap_T1_CH01 = calc(@errchap_T1_CH01 + 1)`
 
 1. [➡️ Question suivante](EXAM_NAT_V10_Q40)
 
@@ -71517,19 +72771,21 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 ### Question 40 sur 40
 
-Un ami se demande si un agent de la CAF a le droit de traiter les usagers différemment selon ses propres convictions personnelles.
+<!-- Source naturalisation : MS-NAT-T2-029 -->
 
-**La laïcité impose-t-elle aux agents publics d'être neutres envers tous les usagers ?**
+Lors d’un atelier civique à la mairie, une personne cherche à comprendre le rôle des responsables publics et des institutions. Un proche pense que la bonne réponse pourrait être « L'État ». Aidez-le à raisonner.
 
-1) [Oui.](EXAM_NAT_V10_Q40_VRAI)
-2) [Non.](EXAM_NAT_V10_Q40_FAUX)
-3) [Seulement dans certaines administrations.](EXAM_NAT_V10_Q40_FAUX)
-4) [Cela dépend des usagers rencontrés.](EXAM_NAT_V10_Q40_FAUX)
+**Quelle collectivité territoriale organise les trains régionaux (TER) ?**
+
+1) [La commune.](EXAM_NAT_V10_Q40_FAUX)
+2) [Le département.](EXAM_NAT_V10_Q40_FAUX)
+3) [L'État.](EXAM_NAT_V10_Q40_FAUX)
+4) [La région.](EXAM_NAT_V10_Q40_VRAI)
 
 ## EXAM_NAT_V10_Q40_VRAI
 
 `@exam_score = calc(@exam_score+1)`
-`@exam_t1 = calc(@exam_t1+1)`
+`@exam_t2 = calc(@exam_t2+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V10_RESULT)
@@ -71538,7 +72794,7 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 
 `@err_NAT_V10_Q40 = 1`
 
-`@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
+`@errchap_T2_CH03 = calc(@errchap_T2_CH03 + 1)`
 
 1. [📊 Accéder à mes résultats](EXAM_NAT_V10_RESULT)
 
@@ -71555,151 +72811,43 @@ Seules les questions auxquelles vous avez répondu faux sont affichées.
 `endif`
 
 `if @err_NAT_V10_Q01 == 1`
-**1. Quel régime politique a été mis en place pendant la Révolution française en 1792 ?**  
-✅ La Première République.
+**1. L'inscription sur les listes électorales est-elle... ?**  
+✅ Obligatoire pour pouvoir voter.
 
-Le 21 septembre 1792, la monarchie est abolie et la Première République est proclamée.
+Pour voter en France, il faut être inscrit sur une liste électorale. Les jeunes Français sont généralement inscrits automatiquement à 18 ans, mais ce n'est pas le cas de toutes les situations.
 
-💡 Retenez : 1792 = 1ère République
+💡 Retenez le mot-clé : voter = inscription obligatoire sur les listes électorales
 `endif`
 
 `if @err_NAT_V10_Q02 == 1`
-**2. Quand ont lieu les vacances scolaires de Noël ?**  
-✅ En décembre.
+**2. Citez une condition nécessaire pour voter à l'élection présidentielle.**  
+✅ Être de nationalité française, majeur et inscrit sur les listes électorales.
 
-Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de décembre. Les dates précises varient légèrement selon le calendrier scolaire.
+Pour voter à l'élection présidentielle, plusieurs conditions doivent être remplies, notamment être français, majeur, inscrit sur une liste électorale et disposer de ses droits civils et politiques.
 
-💡 Retenez : Vacances de Noël = Décembre. La date de Noël est le 25 décembre
+💡 Retenez le mot-clé : voter = nationalité française + majeur + inscrit sur les listes
 `endif`
 
 `if @err_NAT_V10_Q03 == 1`
-**3. Où a eu lieu le débarquement en 1944 ?**  
-✅ En Normandie.
+**3. Citez une condition pour être candidat aux élections municipales.**  
+✅ Être majeur et remplir les conditions prévues par la loi (nationalité française ou d'un État membre de l'UE).
 
-Le 6 juin 1944, les forces alliées débarquent en Normandie. Cet événement marque le début de la libération de la France occupée.
+Pour être candidat aux élections municipales, il faut notamment être majeur et remplir les conditions d'éligibilité prévues par la loi. Les citoyens de l'Union européenne résidant en France peuvent également être candidats.
 
-💡 Retenez : Normandie = débarquement des alliés
+💡 Retenez le mot-clé : candidat municipales = majeur + conditions légales (nationalité FR ou UE)
 `endif`
 
 `if @err_NAT_V10_Q04 == 1`
-**4. Quel est le dernier pays à avoir rejoint l'Union européenne ?**  
-✅ La Croatie.
+**4. Quelle est l'une des conséquences si un juge prononce une privation des droits civils et politiques à l'encontre d'une personne ?**  
+✅ Elle ne peut plus voter ni être candidate à une élection.
 
-La Croatie est devenue le 28ᵉ État membre de l'Union européenne le 1ᵉʳ juillet 2013.
+Dans certains cas prévus par la loi, un juge peut prononcer une privation des droits civils et politiques. Pendant cette durée, la personne ne peut notamment plus voter ni être candidate à une élection. Cette sanction est limitée dans le temps et ne retire pas automatiquement la nationalité française.
 
-💡 Retenez le mot-clé : dernier pays entré dans l'UE = Croatie (2013)
+💡 Retenez le mot-clé : privation des droits civiques = ne plus voter ni être candidat (temporaire)
 `endif`
 
 `if @err_NAT_V10_Q05 == 1`
-**5. Selon le principe de laïcité, que signifie la neutralité de l'État ?**  
-✅ L'État ne favorise ni ne défavorise aucune religion.
-
-La neutralité de l'État est l'un des principes de la laïcité. Elle garantit l'égalité de traitement de tous les citoyens, quelles que soient leurs convictions religieuses.
-
-💡 Retenez le mot-clé : neutralité de l'État = ne favorise ni ne défavorise aucune religion
-`endif`
-
-`if @err_NAT_V10_Q06 == 1`
-**6. Pour combien de temps le maire et les conseillers municipaux sont-ils élus ?**  
-✅ 6 ans.
-
-Les conseillers municipaux sont élus pour six ans. Ils élisent ensuite le maire, qui exerce lui aussi un mandat de six ans.
-
-💡 Retenez le mot-clé : maire et conseillers municipaux = mandat de 6 ans
-`endif`
-
-`if @err_NAT_V10_Q07 == 1`
-**7. Tous les citoyens français ont-ils obligatoirement la même religion ?**  
-✅ Non, chacun est libre de croire ou de ne pas croire.
-
-La République garantit la liberté de conscience. Chacun est libre de pratiquer une religion, d'en changer ou de ne pas croire.
-
-💡 Retenez le mot-clé : liberté de conscience = croire ou ne pas croire
-`endif`
-
-`if @err_NAT_V10_Q08 == 1`
-**8. Comment s'appelle le texte adopté en 1789 qui affirme les droits fondamentaux des citoyens ?**  
-✅ La Déclaration des droits de l'Homme et du Citoyen de 1789.
-
-Adoptée en 1789 pendant la Révolution française, la Déclaration des droits de l'Homme et du Citoyen affirme les droits fondamentaux et inspire encore aujourd'hui le droit français.
-
-💡 Retenez le mot-clé : texte de 1789 = Déclaration des droits de l'Homme et du Citoyen
-`endif`
-
-`if @err_NAT_V10_Q09 == 1`
-**9. En quelle année l'euro est-elle devenue la monnaie utilisée en France ?**  
-✅ 2002.
-
-L'euro est devenu la monnaie utilisée en France le 1er janvier 2002, avec la mise en circulation des pièces et des billets.
-
-💡 Retenez : 2002 = Monnaie (€)
-`endif`
-
-`if @err_NAT_V10_Q10 == 1`
-**10. Lequel de ces personnages a un lien avec la République française ?**  
-✅ Jules Ferry.
-
-Jules Ferry est connu pour les lois qui ont rendu l'école gratuite, laïque et obligatoire. Son action est étroitement liée aux valeurs de la République.
-
-💡 Retenez : Jules Ferry a rendu l'école obligatoire
-`endif`
-
-`if @err_NAT_V10_Q11 == 1`
-**11. Quand peut-on visiter gratuitement des lieux culturels en France ?**  
-✅ Lors des Journées européennes du patrimoine.
-
-Chaque année, les Journées européennes du patrimoine permettent au public de visiter gratuitement de nombreux monuments et lieux habituellement fermés ou payants.
-
-💡 Retenez: Journée du patrimoine = visite gratuite (musées, monuments…)
-`endif`
-
-`if @err_NAT_V10_Q12 == 1`
-**12. Qui peut être candidat à l'élection présidentielle ?**  
-✅ Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).
-
-Pour être candidat à l'élection présidentielle, il faut notamment être de nationalité française, majeur, jouir de ses droits civiques et réunir les conditions prévues par la loi, notamment les 500 parrainages d'élus.
-
-💡 Retenez le mot-clé : candidat présidentielle = conditions légales + 500 parrainages
-`endif`
-
-`if @err_NAT_V10_Q13 == 1`
-**13. Quel pays a une frontière terrestre avec la France métropolitaine ?**  
-✅ Espagne.
-
-La France métropolitaine partage une frontière terrestre avec huit pays.
-
-💡 À compléter
-`endif`
-
-`if @err_NAT_V10_Q14 == 1`
-**14. Combien de départements compte la France ?**  
-✅ 101.
-
-La France compte 101 départements : 96 en métropole et 5 en outre-mer.
-
-💡 Retenez le mot-clé : France = 101 départements
-`endif`
-
-`if @err_NAT_V10_Q15 == 1`
-**15. Sur quel document peut-on voir Marianne ?**  
-✅ Sur les timbres, les pièces de monnaie ou les documents officiels de la République.
-
-Marianne est la représentation officielle de la République française. Son effigie est présente sur plusieurs documents et symboles officiels.
-
-💡 Retenez le mot-clé : Marianne = timbres, pièces, documents officiels
-`endif`
-
-`if @err_NAT_V10_Q16 == 1`
-**16. Quel pays a quitté l'Union européenne (Brexit) ?**  
-✅ Le Royaume-Uni.
-
-Le Royaume-Uni a quitté officiellement l'Union européenne le 31 janvier 2020. Cet événement est appelé le Brexit.
-
-💡 Retenez le mot-clé : Brexit = Royaume-Uni (sortie en 2020)
-`endif`
-
-`if @err_NAT_V10_Q17 == 1`
-**17. Quel est l'objectif du droit de grève ?**  
+**5. Quel est l'objectif du droit de grève ?**  
 ✅ Défendre les intérêts professionnels des salariés.
 
 Le droit de grève est une liberté reconnue par la Constitution. Il permet aux salariés de cesser collectivement le travail afin de défendre leurs intérêts professionnels.
@@ -71707,103 +72855,211 @@ Le droit de grève est une liberté reconnue par la Constitution. Il permet aux 
 💡 Retenez le mot-clé : droit de grève = défendre les intérêts professionnels des salariés
 `endif`
 
-`if @err_NAT_V10_Q18 == 1`
-**18. Citez un symbole qui représente officiellement la République française.**  
-✅ Marianne.
-
-Les principaux symboles officiels de la République sont le drapeau tricolore, Marianne, la Marseillaise et la devise « Liberté, Égalité, Fraternité ». Le coq, la tour Eiffel et le béret n'en font pas partie.
-
-💡 Retenez le mot-clé : symboles officiels = drapeau, Marianne, Marseillaise, devise
-`endif`
-
-`if @err_NAT_V10_Q19 == 1`
-**19. Quel est l'âge de la majorité ?**  
-✅ 18 ans.
-
-En France, la majorité est fixée à 18 ans. À partir de cet âge, une personne devient juridiquement majeure et exerce pleinement ses droits civils.
-
-💡 Retenez : Majorité = 18 ans en France
-`endif`
-
-`if @err_NAT_V10_Q20 == 1`
-**20. Quelle institution française doit rester neutre en matière de religion ?**  
-✅ L'État.
-
-Selon le principe de laïcité, l'État et ses services publics doivent rester neutres vis-à-vis des religions afin de garantir l'égalité de tous les citoyens.
-
-💡 Retenez le mot-clé : neutralité religieuse = l'État
-`endif`
-
-`if @err_NAT_V10_Q21 == 1`
-**21. Qui était Auguste Rodin ?**  
-✅ Un sculpteur français.
-
-Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres les plus connues figure Le Penseur.
-
-💡 Retenez : Rodin = sculpteur
-`endif`
-
-`if @err_NAT_V10_Q22 == 1`
-**22. Quelle est la mission de France Travail ?**  
-✅ Accompagner les personnes dans leur recherche d'emploi.
-
-France Travail accompagne les demandeurs d'emploi, propose des offres, des formations et des conseils afin de favoriser le retour à l'emploi.
-
-💡 Retenez le mot-clé : France Travail
-`endif`
-
-`if @err_NAT_V10_Q23 == 1`
-**23. La liberté d'association est :**  
-✅ Le droit de créer une association, d'y adhérer ou non.
-
-La liberté d'association est une liberté fondamentale. Chacun est libre de créer une association, d'y adhérer ou de ne pas y adhérer.
-
-💡 Retenez le mot-clé : liberté d'association = créer, adhérer ou non
-`endif`
-
-`if @err_NAT_V10_Q24 == 1`
-**24. Quelle fête est française ?**  
-✅ Le 14 juillet.
-
-Le 14 juillet est la fête nationale française. Elle commémore la prise de la Bastille en 1789 et la Fête de la Fédération de 1790.
-
-💡 Retenez : 14 juillet = Fête de la France
-`endif`
-
-`if @err_NAT_V10_Q25 == 1`
-**25. Quelle collectivité territoriale a la compétence des collèges publics ?**  
-✅ Le département.
-
-Les collèges publics relèvent de la compétence des départements, qui assurent notamment leur construction, leur entretien et leur équipement.
-
-💡 Retenez le mot-clé : collèges = compétence du département
-`endif`
-
-`if @err_NAT_V10_Q26 == 1`
-**26. Qui peut être désigné juré d'assises ?**  
-✅ Un citoyen inscrit sur les listes électorales, tiré au sort.
-
-Les jurés d'assises sont des citoyens inscrits sur les listes électorales et tirés au sort. Ils participent aux côtés des magistrats au jugement des crimes les plus graves.
-
-💡 Retenez le mot-clé : juré d'assises = citoyen inscrit sur les listes électorales, tiré au sort
-`endif`
-
-`if @err_NAT_V10_Q27 == 1`
-**27. Dans une entreprise, le droit syndical permet :**  
-✅ De créer un syndicat, d'y adhérer ou non, et d'exercer une activité syndicale dans le respect de la loi.
-
-Le droit syndical garantit aux salariés la liberté d'adhérer à un syndicat, de ne pas y adhérer ou de participer à ses activités, dans le respect de la loi.
-
-💡 Retenez : Le droit Syndical = liberté de créer ou d'adhérer ou non à un syndicat
-`endif`
-
-`if @err_NAT_V10_Q28 == 1`
-**28. Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**  
+`if @err_NAT_V10_Q06 == 1`
+**6. Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**  
 ✅ L'intérêt général.
 
 Certaines libertés peuvent être limitées afin de protéger l'intérêt général, par exemple pour assurer la sécurité, la santé publique ou les droits d'autrui.
 
 💡 Retenez le mot-clé : limites aux libertés = intérêt général
+`endif`
+
+`if @err_NAT_V10_Q07 == 1`
+**7. Que dit l'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 ?**  
+✅ Les hommes naissent et demeurent libres et égaux en droits.
+
+L'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789 affirme : « Les hommes naissent et demeurent libres et égaux en droits. »
+
+💡 Retenez le mot-clé : article 1er DDHC = libres et égaux en droits
+`endif`
+
+`if @err_NAT_V10_Q08 == 1`
+**8. Quel était l'objectif principal des lois de Jules Ferry (1881-1882) ?**  
+✅ Rendre l'école gratuite, laïque et obligatoire.
+
+Les lois de Jules Ferry (1881-1882) rendent progressivement l'école primaire gratuite, laïque et obligatoire.
+
+💡 Retenez le mot-clé : lois Jules Ferry = gratuite, laïque, obligatoire
+`endif`
+
+`if @err_NAT_V10_Q09 == 1`
+**9. Pourquoi l'année 1958 est-elle importante dans l'histoire des institutions françaises ?**  
+✅ Adoption de la Constitution qui fonde la Ve République.
+
+La Constitution du 4 octobre 1958 fonde la Ve République. Elle organise les institutions françaises actuelles.
+
+💡 Retenez le mot-clé : 1958 = Constitution + Ve République
+`endif`
+
+`if @err_NAT_V10_Q10 == 1`
+**10. Quelle loi Simone Veil a-t-elle fait adopter en 1975 ?**  
+✅ La loi légalisant l'interruption volontaire de grossesse (IVG).
+
+Survivante de la Shoah, Simone Veil est une grande figure de la République. Ministre de la Santé, elle a porté la loi de 1975 légalisant l'IVG. Elle a également été la première présidente du Parlement européen élue au suffrage universel.
+
+💡 Retenez le mot-clé : Simone Veil = loi IVG (1975)
+`endif`
+
+`if @err_NAT_V10_Q11 == 1`
+**11. Lequel de ces pays est l'un des six pays fondateurs de la construction européenne ?**  
+✅ Italie.
+
+Les six États fondateurs (France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg) sont à l'origine de la construction européenne avec la Communauté européenne du charbon et de l'acier (CECA) en 1951.
+
+💡 Retenez le mot-clé : 6 pays fondateurs = France, Allemagne, Italie, Belgique, Pays-Bas, Luxembourg
+`endif`
+
+`if @err_NAT_V10_Q12 == 1`
+**12. Sur quelle région française a eu lieu le Débarquement allié du 6 juin 1944 ?**  
+✅ Normandie.
+
+Le Débarquement du 6 juin 1944 a eu lieu sur plusieurs plages de Normandie. Il marque le début de la libération de la France occupée.
+
+💡 Retenez le mot-clé : Débarquement (6 juin 1944) = Normandie
+`endif`
+
+`if @err_NAT_V10_Q13 == 1`
+**13. Dans quelle ville les rois de France étaient-ils traditionnellement sacrés ?**  
+✅ Reims.
+
+La cathédrale de Reims a accueilli le sacre de la grande majorité des rois de France, faisant de cette ville un lieu symbolique de la monarchie française.
+
+💡 Retenez le mot-clé : sacre des rois = Reims
+`endif`
+
+`if @err_NAT_V10_Q14 == 1`
+**14. Qui est l'auteur des grandes lois scolaires de la IIIᵉ République rendant l'école gratuite, laïque et obligatoire ?**  
+✅ Jules Ferry.
+
+Jules Ferry est l'auteur des grandes lois scolaires de la IIIᵉ République. Elles garantissent l'accès de tous les enfants à une école publique gratuite, laïque et obligatoire.
+
+💡 Retenez le mot-clé : lois scolaires (1881-1882) = Jules Ferry
+`endif`
+
+`if @err_NAT_V10_Q15 == 1`
+**15. Quel roi de France a été guillotiné le 21 janvier 1793 pendant la Révolution ?**  
+✅ Louis XVI.
+
+Louis XVI est le dernier roi de l'Ancien Régime. Il est guillotiné le 21 janvier 1793 pendant la Révolution française.
+
+💡 Retenez le mot-clé : roi guillotiné en 1793 = Louis XVI
+`endif`
+
+`if @err_NAT_V10_Q16 == 1`
+**16. En quelle année a débuté la Révolution française ?**  
+✅ 1789.
+
+La Révolution française débute en 1789. Cette année marque notamment la prise de la Bastille le 14 juillet et l'adoption de la Déclaration des droits de l'Homme et du Citoyen.
+
+💡 Retenez le mot-clé : Révolution française = 1789
+`endif`
+
+`if @err_NAT_V10_Q17 == 1`
+**17. Quels types de travaux un locataire peut-il réaliser librement dans son logement ?**  
+✅ Effectuer les petits aménagements du logement (peinture, étagères...).
+
+Le locataire peut librement réaliser des aménagements légers. En revanche, toute transformation importante nécessite l'accord du propriétaire.
+
+💡 Retenez le mot-clé : locataire = petits aménagements autorisés, transformations soumises à accord
+`endif`
+
+`if @err_NAT_V10_Q18 == 1`
+**18. Quel mariage est reconnu par l'État français ?**  
+✅ Le mariage civil, célébré à la mairie.
+
+En France, le mariage doit obligatoirement être célébré devant un officier d'état civil. Une cérémonie religieuse peut avoir lieu ensuite, mais elle ne remplace pas le mariage civil.
+
+💡 Retenez le mot-clé : mariage reconnu par l'État = mariage civil (mairie)
+`endif`
+
+`if @err_NAT_V10_Q19 == 1`
+**19. Le stationnement sur une place réservée aux personnes handicapées est :**  
+✅ Autorisé uniquement pour les véhicules disposant de la carte de stationnement (CMI).
+
+Les places réservées sont destinées aux personnes titulaires d'une carte mobilité inclusion (CMI) mention « stationnement » ou d'une carte européenne de stationnement encore valide. Le stationnement abusif est passible d'une amende.
+
+💡 Retenez le mot-clé : place handicap = réservée aux titulaires de la CMI stationnement
+`endif`
+
+`if @err_NAT_V10_Q20 == 1`
+**20. Un appareil électroménager neuf tombe en panne un an après l'achat. Que peut faire l'acheteur ?**  
+✅ Faire jouer la garantie légale de 2 ans ou demander une réparation.
+
+En France, tout produit neuf acheté en magasin bénéficie d'une garantie légale de conformité de 2 ans. Si l'appareil tombe en panne, c'est au vendeur (le magasin) de régler le problème (réparation ou échange), pas au fabricant.
+
+💡 Retenez le mot-clé : produit neuf = garantie légale de 2 ans (vendeur, pas fabricant)
+`endif`
+
+`if @err_NAT_V10_Q21 == 1`
+**21. À quel moment la naissance d'un enfant doit-elle être déclarée ?**  
+✅ Lors de sa naissance.
+
+La naissance d'un enfant doit obligatoirement être déclarée au service de l'état civil afin qu'un acte de naissance soit établi.
+
+💡 Retenez le mot-clé : déclaration de naissance = dès la naissance
+`endif`
+
+`if @err_NAT_V10_Q22 == 1`
+**22. Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?**  
+✅ Les agents publics.
+
+Les agents publics représentent l'État et les services publics. À ce titre, ils doivent respecter le principe de neutralité religieuse afin de garantir l'égalité de traitement de tous les usagers.
+
+💡 Retenez le mot-clé : neutralité religieuse = obligation des agents publics
+`endif`
+
+`if @err_NAT_V10_Q23 == 1`
+**23. Une personne déclare ne croire en aucun dieu. On peut dire :**  
+✅ Qu'elle a les mêmes droits et devoirs que les autres citoyens.
+
+Une personne qui ne croit en aucun dieu (on parle d'athéisme) a les mêmes devoirs et droits que les autres. Cela relève de la liberté de conscience : la République garantit à chacun le droit de croire, de ne pas croire ou de changer de religion.
+
+💡 Retenez le mot-clé : athée = mêmes droits et devoirs que tout citoyen
+`endif`
+
+`if @err_NAT_V10_Q24 == 1`
+**24. Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**  
+✅ Le jour de gloire est arrivé.
+
+La Marseillaise est l'hymne national français depuis 1795. Le vers exact est « Allons enfants de la patrie, le jour de gloire est arrivé. »
+
+💡 Retenez le mot-clé : « Allons enfants de la patrie, le jour de gloire est arrivé »
+`endif`
+
+`if @err_NAT_V10_Q25 == 1`
+**25. Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**  
+✅ Uniquement des questions en lien avec l'emploi proposé et les compétences du candidat.
+
+Lors d'un recrutement, l'employeur ne peut poser que des questions ayant un lien direct avec l'emploi proposé. Les discriminations sont interdites.
+
+💡 Retenez le mot-clé : entretien d'embauche = questions liées au poste uniquement
+`endif`
+
+`if @err_NAT_V10_Q26 == 1`
+**26. Qui peut être candidat à l'élection présidentielle ?**  
+✅ Toute personne remplissant les conditions prévues par la loi (nationalité française, majorité, 500 parrainages...).
+
+Pour être candidat à l'élection présidentielle, il faut notamment être de nationalité française, majeur, jouir de ses droits civiques et réunir les conditions prévues par la loi, notamment les 500 parrainages d'élus.
+
+💡 Retenez le mot-clé : candidat présidentielle = conditions légales + 500 parrainages
+`endif`
+
+`if @err_NAT_V10_Q27 == 1`
+**27. À qui appartient la souveraineté nationale ?**  
+✅ Au peuple.
+
+L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple, qui l'exerce par ses représentants et par la voie du référendum.
+
+💡 Retenez le mot-clé : souveraineté nationale = appartient au peuple
+`endif`
+
+`if @err_NAT_V10_Q28 == 1`
+**28. Qui est élu lors des élections municipales ?**  
+✅ Les conseillers municipaux.
+
+Les citoyens élisent les conseillers municipaux. Une fois élus, ces derniers élisent le maire parmi eux.
+
+💡 Retenez le mot-clé : élections municipales = conseillers municipaux (puis maire élu par le conseil)
 `endif`
 
 ### Partie 2 — Mises en situation
@@ -71813,87 +73069,87 @@ Certaines libertés peuvent être limitées afin de protéger l'intérêt géné
 `endif`
 
 `if @err_NAT_V10_Q29 == 1`
-**29. Que lui répondez-vous ?**  
-✅ Elle garantit le droit d'informer et d'être informé, dans le respect de la loi.
+**29. Comment la Constitution peut-elle être révisée ?**  
+✅ Par référendum ou par le Parlement réuni en Congrès.
 
-La liberté de la presse permet aux journalistes d'informer le public et aux citoyens d'être informés. Elle s'exerce dans le respect de la loi, qui interdit la diffamation et l'injure.
+La bonne réponse est « Par référendum ou par le Parlement réuni en Congrès ». La Constitution est le texte juridique suprême. Sa révision suit une procédure spécifique, notamment par référendum ou par le Parlement réuni en Congrès (article 89 de la Constitution).
 `endif`
 
 `if @err_NAT_V10_Q30 == 1`
-**30. Quel mot manque-t-il ?**  
-✅ Citoyens.
+**30. En cas de vacance de la présidence, qui assure provisoirement les fonctions de Président de la République ?**  
+✅ Le Président du Sénat.
 
-La Marseillaise est l'hymne national français. Le vers exact est « Aux armes, citoyens ! Formez vos bataillons. » Connaître ses paroles fait partie de la culture civique attendue.
+La bonne réponse est « Le Président du Sénat ». Selon la Constitution, en cas de vacance de la présidence (décès, démission ou empêchement), le Président du Sénat assure provisoirement les fonctions de Président de la République jusqu'à l'élection d'un nouveau Président.
 `endif`
 
 `if @err_NAT_V10_Q31 == 1`
-**31. Comment lui expliquez-vous le véritable rôle de la laïcité à l'école ?**  
-✅ Elle garantit la liberté de conscience de tous les élèves et la neutralité de l'école.
+**31. Conduire un véhicule sans le permis correspondant constitue :**  
+✅ Un délit puni par la loi.
 
-L'école publique accueille tous les élèves sans distinction de religion ou de conviction. La laïcité garantit la liberté de conscience de chacun et la neutralité de l'établissement, sans interdire ni imposer aucune religion.
+La bonne réponse est « Un délit puni par la loi ». Conduire un véhicule sans le permis correspondant est un délit grave, passible d'emprisonnement et de forte amende (sauf certaines petites cylindrées avec le permis B + formation).
 `endif`
 
 `if @err_NAT_V10_Q32 == 1`
-**32. Pourquoi doit-on réellement trier ses déchets ?**  
-✅ Pour protéger l'environnement et favoriser le recyclage.
+**32. En quoi consiste le devoir de solidarité du citoyen ?**  
+✅ Aider les personnes en difficulté et contribuer à la solidarité nationale.
 
-Le tri permet de recycler de nombreux matériaux, de limiter les déchets et de préserver les ressources naturelles, bien au-delà du simple confort ménager.
+La bonne réponse est « Aider les personnes en difficulté et contribuer à la solidarité nationale ». La solidarité est une valeur importante de la République. Elle se traduit par l'entraide entre les personnes et par la participation de chacun au financement des services publics et de la protection sociale.
 `endif`
 
 `if @err_NAT_V10_Q33 == 1`
-**33. Cet acte est-il autorisé en France ?**  
-✅ Non, cet acte est encadré par la loi et peut être sanctionné.
+**33. Que commémore le 11 novembre, jour férié en France ?**  
+✅ L'Armistice de la Première Guerre mondiale (1918).
 
-Le drapeau français est un symbole de la République. Les atteintes publiques à ce symbole sont encadrées par la loi et peuvent être sanctionnées, y compris pendant une manifestation.
+La bonne réponse est « L'Armistice de la Première Guerre mondiale (1918) ». Le 11 novembre commémore l'Armistice signé en 1918, qui met fin aux combats de la Première Guerre mondiale.
 `endif`
 
 `if @err_NAT_V10_Q34 == 1`
-**34. Quelle liberté est concernée ?**  
-✅ La liberté de conscience.
+**34. Depuis quelle année l'esclavage est-il définitivement aboli en France ?**  
+✅ Depuis 1848.
 
-La liberté de conscience garantit à chacun le droit de choisir ses convictions religieuses ou philosophiques, de les changer ou de ne pas avoir de religion.
+La bonne réponse est « Depuis 1848 ». L'esclavage est définitivement aboli en France par le décret du 27 avril 1848.
 `endif`
 
 `if @err_NAT_V10_Q35 == 1`
-**35. Que lui répondez-vous ?**  
-✅ C'est l'hymne national français.
+**35. Qui est le principal artisan du décret de 1848 abolissant l'esclavage dans les colonies françaises ?**  
+✅ Victor Schœlcher.
 
-La Marseillaise est l'hymne national de la République française, au même titre que le drapeau, Marianne ou la devise sont d'autres symboles officiels, mais de nature différente.
+La bonne réponse est « Victor Schœlcher ». Victor Schœlcher est le principal artisan du décret de 1848 abolissant définitivement l'esclavage dans les colonies françaises.
 `endif`
 
 `if @err_NAT_V10_Q36 == 1`
-**36. Quelle est l'attitude à adopter ?**  
-✅ Alerter les secours, la police ou la gendarmerie.
+**36. Qu'est-ce que le tiers payant ?**  
+✅ Le patient n'avance pas tout ou partie des frais de santé.
 
-Face à des violences, il est important d'agir en alertant les secours ou les forces de l'ordre, sans se mettre soi-même en danger en intervenant physiquement.
+La bonne réponse est « Le patient n'avance pas tout ou partie des frais de santé ». Le tiers payant permet au patient de ne pas avancer tout ou partie des frais médicaux lors d'une consultation ou d'un achat en pharmacie.
 `endif`
 
 `if @err_NAT_V10_Q37 == 1`
-**37. Que lui répondez-vous ?**  
-✅ L'État ne favorise ni ne défavorise aucune religion.
+**37. L'affiliation à l'Assurance maladie est :**  
+✅ Obligatoire pour tous les résidents français réguliers.
 
-La neutralité de l'État garantit que les services publics traitent toutes les personnes de manière égale, sans avantager ni pénaliser aucune conviction religieuse.
+La bonne réponse est « Obligatoire pour tous les résidents français réguliers ». Toute personne qui réside ou travaille en France de manière stable et régulière peut bénéficier de l'Assurance maladie selon les règles en vigueur. L'affiliation est une étape essentielle pour accéder à la prise en charge des soins.
 `endif`
 
 `if @err_NAT_V10_Q38 == 1`
-**38. Que lui répondez-vous sur le principe de dignité humaine ?**  
-✅ Chaque personne doit être respectée et traitée avec dignité.
+**38. Qu'est-ce qu'une liberté ?**  
+✅ Le droit de faire ce que la loi autorise, dans le respect des droits des autres.
 
-La dignité humaine est un principe fondamental de la République française. Chaque personne doit être traitée avec respect et bénéficie des mêmes droits fondamentaux, quelle que soit son origine ou sa religion.
+La bonne réponse est « Le droit de faire ce que la loi autorise, dans le respect des droits des autres ». Les libertés sont garanties par la République, mais elles s'exercent dans le respect des lois et des droits d'autrui.
 `endif`
 
 `if @err_NAT_V10_Q39 == 1`
-**39. Laquelle de ces propositions représente un exemple de crime ?**  
-✅ Un homicide volontaire.
+**39. Selon la Constitution, la France est une République...**  
+✅ Indivisible, laïque, démocratique et sociale.
 
-Le crime est l'infraction la plus grave. L'homicide volontaire en est un exemple. Les autres propositions correspondent à des infractions moins graves (contraventions ou délits).
+La bonne réponse est « Indivisible, laïque, démocratique et sociale ». L'article 1er de la Constitution dispose que « La France est une République indivisible, laïque, démocratique et sociale. »
 `endif`
 
 `if @err_NAT_V10_Q40 == 1`
-**40. La laïcité impose-t-elle aux agents publics d'être neutres envers tous les usagers ?**  
-✅ Oui.
+**40. Quelle collectivité territoriale organise les trains régionaux (TER) ?**  
+✅ La région.
 
-Les agents publics doivent assurer leurs missions avec neutralité, en toutes circonstances et dans toutes les administrations, afin de garantir l'égalité de traitement des usagers.
+La bonne réponse est « La région ». Les régions organisent notamment les transports régionaux (comme les trains régionaux TER) et participent au développement économique et à l'aménagement du territoire.
 `endif`
 
 1. [🔁 Refaire un nouvel examen](SCR_EXAM_START)
@@ -72167,11 +73423,11 @@ Vous avez obtenu **`@exam_score` / 40**.
 
 #### Détail par thématique
 
-- Thématique 1 — Principes et valeurs : **`@exam_t1` / 11**
-- Thématique 2 — Système institutionnel : **`@exam_t2` / 6**
-- Thématique 3 — Droits et devoirs : **`@exam_t3` / 11**
-- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 8**
-- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 4**
+- Thématique 1 — Principes et valeurs : **`@exam_t1` / 6**
+- Thématique 2 — Système institutionnel : **`@exam_t2` / 9**
+- Thématique 3 — Droits et devoirs : **`@exam_t3` / 6**
+- Thématique 4 — Histoire, géographie et culture : **`@exam_t4` / 12**
+- Thématique 5 — Vivre dans la société française : **`@exam_t5` / 7**
 
 `if @exam_score >= 32`
 ### 🟢 Objectif atteint
@@ -72201,7 +73457,7 @@ Ce résultat constitue un point de départ utile. Reprenez d’abord les notions
 
 Les recommandations ci-dessous sont calculées uniquement à partir des réponses incorrectes de cette série.
 
-`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
+`if @errchap_T1_CH01 >= 3 || @errchap_T1_CH02 >= 3 || @errchap_T1_CH03 >= 3 || @errchap_T1_CH04 >= 3 || @errchap_T1_CH05 >= 3 || @errchap_T1_CH06 >= 3 || @errchap_T2_CH01 >= 3 || @errchap_T2_CH02 >= 3 || @errchap_T2_CH03 >= 3 || @errchap_T2_CH04 >= 3 || @errchap_T3_CH01 >= 3 || @errchap_T3_CH02 >= 3 || @errchap_T4_CH01 >= 3 || @errchap_T4_CH02 >= 3 || @errchap_T4_CH03 >= 3 || @errchap_T5_CH01 >= 3 || @errchap_T5_CH02 >= 3 || @errchap_T5_CH03 >= 3 || @errchap_T5_CH04 >= 3`
 #### 🔴 Priorité forte
 
 Plusieurs erreurs ont été identifiées. Reprenez en priorité :
@@ -72210,11 +73466,23 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T1_CH01 >= 3`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
+`if @errchap_T1_CH02 >= 3`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
 `if @errchap_T1_CH03 >= 3`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 >= 3`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 >= 3`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 >= 3`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -72240,6 +73508,12 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 `if @errchap_T4_CH03 >= 3`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
+`if @errchap_T5_CH01 >= 3`
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 >= 3`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 >= 3`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -72247,7 +73521,7 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
+`if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T1_CH06 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
 #### 🟠 Priorité moyenne
 
 Ces chapitres méritent une révision ciblée :
@@ -72256,11 +73530,23 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T1_CH01 == 2`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
+`if @errchap_T1_CH02 == 2`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
 `if @errchap_T1_CH03 == 2`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 2`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 2`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 2`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -72286,6 +73572,12 @@ Ces chapitres méritent une révision ciblée :
 `if @errchap_T4_CH03 == 2`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
+`if @errchap_T5_CH01 == 2`
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 2`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 2`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -72293,7 +73585,7 @@ Ces chapitres méritent une révision ciblée :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
+`if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T1_CH06 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
 #### 🟡 Priorité faible
 
 Une erreur ponctuelle a été repérée. Vérifiez :
@@ -72302,11 +73594,23 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T1_CH01 == 1`
 1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
+`if @errchap_T1_CH02 == 1`
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
+`endif`
 `if @errchap_T1_CH03 == 1`
 1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
 1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
+`endif`
+`if @errchap_T1_CH05 == 1`
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
+`endif`
+`if @errchap_T1_CH06 == 1`
+1. [📘 Le contrat d’engagement républicain](SCR_REV_T1_CH06_ACC)
+`endif`
+`if @errchap_T2_CH01 == 1`
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
 1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
@@ -72332,6 +73636,12 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 `if @errchap_T4_CH03 == 1`
 1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
+`if @errchap_T5_CH01 == 1`
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
+`endif`
+`if @errchap_T5_CH02 == 1`
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
+`endif`
 `if @errchap_T5_CH03 == 1`
 1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
@@ -72339,11 +73649,11 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
-`if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
+`if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T1_CH06 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
 🟢 **Aucun chapitre à reprendre : toutes vos réponses sont correctes.**
 `endif`
 
-`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
+`if @errchap_T1_CH01 >= 1 || @errchap_T1_CH02 >= 1 || @errchap_T1_CH03 >= 1 || @errchap_T1_CH04 >= 1 || @errchap_T1_CH05 >= 1 || @errchap_T1_CH06 >= 1 || @errchap_T2_CH01 >= 1 || @errchap_T2_CH02 >= 1 || @errchap_T2_CH03 >= 1 || @errchap_T2_CH04 >= 1 || @errchap_T3_CH01 >= 1 || @errchap_T3_CH02 >= 1 || @errchap_T4_CH01 >= 1 || @errchap_T4_CH02 >= 1 || @errchap_T4_CH03 >= 1 || @errchap_T5_CH01 >= 1 || @errchap_T5_CH02 >= 1 || @errchap_T5_CH03 >= 1 || @errchap_T5_CH04 >= 1`
 Commencez par les priorités les plus fortes, puis réalisez un nouvel entraînement pour vérifier vos progrès.
 `endif`
 
