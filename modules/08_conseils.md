@@ -5,6 +5,10 @@
 
 ### Conseils pour réussir
 
+:::info ⌨️ Conseil de navigation
+Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
+:::
+
 Choisissez le conseil dont vous avez besoin. Vous pouvez consulter le guide dans l’ordre ou accéder directement à une rubrique.
 
 1. [🌟 Bien démarrer](SCR_CONS_GUIDE_MENU)
@@ -18,6 +22,8 @@ Choisissez le conseil dont vous avez besoin. Vous pouvez consulter le guide dans
 9. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Écran d’entrée -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_ERREURS_01
 
@@ -48,6 +54,8 @@ Les candidats commettent souvent les mêmes erreurs :
 3. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_ERREURS_02
 
@@ -88,6 +96,8 @@ Cette dernière étape est essentielle pour consolider vos connaissances.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_ERREURS_03
 
 ### 📌 À retenir
@@ -123,6 +133,8 @@ En appliquant cette méthode à chaque entraînement, vous progresserez rapideme
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_ERREURS_04
 
 ### ⚠️ Les erreurs les plus fréquentes
@@ -153,6 +165,8 @@ En appliquant cette méthode à chaque entraînement, vous progresserez rapideme
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_ERREURS_05
 
@@ -186,6 +200,8 @@ Restez naturel, prenez le temps de réfléchir et faites confiance au travail r�
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_ERREURS_MENU
 
 ### ⚠️ Éviter les erreurs fréquentes
@@ -206,6 +222,8 @@ Restez naturel, prenez le temps de réfléchir et faites confiance au travail r�
 
 <!-- Repérer les confusions par thématique et corriger sa méthode. -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_QCM_01
 
 ### ✅ Réussir les QCM
@@ -219,6 +237,8 @@ Restez naturel, prenez le temps de réfléchir et faites confiance au travail r�
 3. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_QCM_02
 
@@ -244,6 +264,8 @@ Quelques bonnes habitudes permettent d'éviter ces erreurs et d'améliorer rapid
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_QCM_03
 
@@ -278,6 +300,8 @@ Une lecture trop rapide peut conduire à choisir une mauvaise réponse alors que
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_QCM_04
 
 ### 📍 Conseil n°2 : Lire toutes les réponses proposées
@@ -300,6 +324,8 @@ Vous éviterez ainsi de sélectionner une réponse incomplète ou de passer à c
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_QCM_05
 
@@ -324,6 +350,8 @@ Cette méthode vous permet de réduire le nombre de possibilités et d'augmenter
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_QCM_MENU
 
 ### ✅ Réussir les QCM
@@ -347,6 +375,8 @@ Cette méthode vous permet de réduire le nombre de possibilités et d'augmenter
 13. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Lire, éliminer les pièges, analyser les erreurs et gagner des points. -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_QCM_06
 
@@ -379,6 +409,8 @@ Ils donnent souvent un indice sur la réponse attendue.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_QCM_07
 
 ### 📍 Conseil n°5 : Ne répondez pas trop vite
@@ -403,6 +435,8 @@ Un candidat attentif obtient généralement de meilleurs résultats qu'un candid
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_QCM_08
 
@@ -434,6 +468,8 @@ Une erreur comprise est rarement une erreur que l'on reproduit.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_QCM_09
 
 ### 📍 Conseil n°7 : Faites confiance à votre préparation
@@ -458,6 +494,8 @@ Si vous avez travaillé régulièrement, faites confiance à vos connaissances.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_GUIDE_01
 
 ### 🌟 Guide de réussite
@@ -471,6 +509,8 @@ Si vous avez travaillé régulièrement, faites confiance à vos connaissances.
 3. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_GUIDE_MENU
 
@@ -502,6 +542,8 @@ Si vous avez travaillé régulièrement, faites confiance à vos connaissances.
 
 <!-- Comprendre l’objectif du guide et choisir une méthode de travail. -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_GUIDE_02
 
 ### Bienvenue !
@@ -532,6 +574,8 @@ Si c'est le cas, ce guide est fait pour vous.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_GUIDE_03
 
@@ -568,6 +612,8 @@ Vous y découvrirez :
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_GUIDE_04
 
 ### Comment utiliser ce guide ?
@@ -598,6 +644,8 @@ L'objectif est de vous aider à apprendre plus facilement, tout en gagnant du te
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_GUIDE_05
 
@@ -636,6 +684,8 @@ Faites-vous confiance.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_GUIDE_06
 
 ### Notre conseil
@@ -658,6 +708,8 @@ Comprenez ce qu'ils représentent et pourquoi ils sont importants.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_GUIDE_07
 
@@ -686,6 +738,8 @@ Les erreurs les plus fréquentes concernent :
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_GUIDE_08
 
 ### Notre conseil
@@ -710,6 +764,8 @@ Cette simple réflexion permet souvent de retrouver la bonne réponse.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_GUIDE_09
 
@@ -738,6 +794,8 @@ Les candidats hésitent souvent sur :
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_GUIDE_10
 
 ### Notre conseil
@@ -760,6 +818,8 @@ Lorsque vous rencontrez une mise en situation, demandez-vous toujours :
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_GUIDE_11
 
@@ -792,6 +852,8 @@ Les erreurs portent souvent sur :
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_GUIDE_12
 
 ### Notre conseil
@@ -820,6 +882,8 @@ Votre mémoire retiendra beaucoup plus facilement ces informations.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_GUIDE_13
 
@@ -850,6 +914,8 @@ Les erreurs concernent souvent :
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_GUIDE_14
 
 ### Notre conseil
@@ -872,6 +938,8 @@ Plus vous visualisez une situation concrète, plus il sera facile de retrouver l
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_GUIDE_15
 
@@ -905,6 +973,8 @@ Au-delà des connaissances, certains comportements expliquent de nombreux échec
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_GUIDE_16
 
@@ -944,6 +1014,8 @@ L'important est de comprendre pourquoi une réponse est correcte afin de ne plus
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_SITUATIONS_01
 
 ### 🎭 Réussir les mises en situation
@@ -957,6 +1029,8 @@ L'important est de comprendre pourquoi une réponse est correcte afin de ne plus
 3. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_SITUATIONS_02
 
@@ -992,6 +1066,8 @@ L'objectif est de réfléchir avant de répondre.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_SITUATIONS_03
 
 ### 📍 Conseil n°1 : Lire toute la situation
@@ -1022,6 +1098,8 @@ Essayez de comprendre :
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_SITUATIONS_04
 
@@ -1055,6 +1133,8 @@ Cette première étape vous aide souvent à retrouver la bonne réponse.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_SITUATIONS_05
 
@@ -1091,6 +1171,8 @@ Si vous identifiez la règle, la réponse devient souvent évidente.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_SITUATIONS_06
 
 ### 📍 Conseil n°4 : Ne répondez pas selon votre opinion
@@ -1117,6 +1199,8 @@ Basez toujours votre réponse sur ces principes.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_SITUATIONS_MENU
 
@@ -1145,6 +1229,8 @@ Basez toujours votre réponse sur ces principes.
 17. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Identifier le thème, la règle et la réponse conforme aux principes français. -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_SITUATIONS_07
 
@@ -1175,6 +1261,8 @@ Vous serez ainsi mieux préparé.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_SITUATIONS_08
 
 ### 📍 Conseil n°6 : Analysez les explications
@@ -1201,6 +1289,8 @@ Comprendre le raisonnement est plus important que retenir la réponse.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_SITUATIONS_09
 
@@ -1230,6 +1320,8 @@ Les candidats ont tendance à :
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_SITUATIONS_10
 
@@ -1272,6 +1364,8 @@ Pour réussir une mise en situation :
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_SITUATIONS_11
 
 ### ⚠️ Les erreurs les plus fréquentes
@@ -1286,6 +1380,8 @@ Pour réussir une mise en situation :
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_SITUATIONS_12
 
@@ -1311,6 +1407,8 @@ Les connaître à l'avance vous permettra d'être plus vigilant et d'éviter les
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_SITUATIONS_13
 
@@ -1338,6 +1436,8 @@ Les candidats confondent souvent :
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_ENTRETIEN_01
 
 ### 👤 Chapitre 7 - Préparer son entretien de naturalisation
@@ -1351,6 +1451,8 @@ Les candidats confondent souvent :
 3. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_ENTRETIEN_02
 
@@ -1379,6 +1481,8 @@ Une bonne préparation vous permettra d'aborder cet échange avec davantage de c
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_ENTRETIEN_03
 
 ### 📍 Conseil n°1 : Soyez vous-même
@@ -1405,6 +1509,8 @@ Il n'est pas nécessaire de réciter des réponses apprises par cœur.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_ENTRETIEN_04
 
@@ -1436,6 +1542,8 @@ Ces thèmes reviennent très régulièrement lors des entretiens.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_ENTRETIEN_05
 
@@ -1469,6 +1577,8 @@ Il ne s'agit pas de trouver la réponse parfaite, mais d'expliquer votre parcour
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_ENTRETIEN_06
 
 ### 📍 Conseil n°4 : Prenez le temps de répondre
@@ -1496,6 +1606,8 @@ Prenez quelques secondes pour réfléchir avant de répondre.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_ENTRETIEN_07
 
 ### 📍 Conseil n°5 : Valorisez ce que vous connaissez
@@ -1520,6 +1632,8 @@ Une réponse partielle est souvent préférable à une absence de réponse.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_ENTRETIEN_08
 
@@ -1550,6 +1664,8 @@ Une attitude sereine favorise un échange de qualité.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_ENTRETIEN_MENU
 
 ### 👤 Préparer l’entretien de naturalisation
@@ -1574,6 +1690,8 @@ Une attitude sereine favorise un échange de qualité.
 14. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Préparer ses connaissances, son parcours personnel et son attitude. -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_ENTRETIEN_09
 
@@ -1604,6 +1722,8 @@ Il est préférable de consolider vos connaissances plutôt que d'essayer d'appr
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_ENTRETIEN_10
 
 ### 🎯 Les questions qui reviennent souvent
@@ -1633,6 +1753,8 @@ L'objectif n'est pas de réciter une réponse, mais de montrer que vous comprene
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_PARCOURS_01
 
 ### 📅 Construire son parcours de révision
@@ -1646,6 +1768,8 @@ L'objectif n'est pas de réciter une réponse, mais de montrer que vous comprene
 3. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_PARCOURS_02
 
@@ -1673,6 +1797,8 @@ Le parcours proposé ci-dessous vous permet de tirer pleinement parti des diffé
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_PARCOURS_MENU
 
@@ -1703,6 +1829,8 @@ Le parcours proposé ci-dessous vous permet de tirer pleinement parti des diffé
 19. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Suivre une progression logique, des entraînements à l’examen blanc. -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_PARCOURS_03
 
@@ -1741,6 +1869,8 @@ Après chaque entraînement :
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_PARCOURS_04
 
 ### 📍 Étape 2 : Consolider les connaissances
@@ -1770,6 +1900,8 @@ L'objectif est de comprendre vos erreurs avant de poursuivre.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_PARCOURS_05
 
 ### 📍 Étape 3 : Utiliser les ressources de révision
@@ -1790,6 +1922,8 @@ Nous vous conseillons notamment de travailler :
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_PARCOURS_06
 
@@ -1812,6 +1946,8 @@ Retrouvez les régions, les principaux fleuves et les repères géographiques.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_PARCOURS_07
 
 ### 📅 Les grandes dates de l'histoire
@@ -1832,6 +1968,8 @@ Retenez les événements les plus importants grâce à des activités spécialem
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_PARCOURS_08
 
@@ -1855,6 +1993,8 @@ Ces ressources sont particulièrement utiles avant de passer un examen blanc.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_PARCOURS_09
 
@@ -1880,6 +2020,8 @@ Cette étape est souvent déterminante pour gagner en confiance.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_PARCOURS_10
 
@@ -1914,6 +2056,8 @@ Votre score vous permettra d'identifier les derniers points à renforcer.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_PARCOURS_11
 
 ### 📍 Étape 6 : Analyser ses erreurs
@@ -1944,6 +2088,8 @@ Ce travail d'analyse est souvent plus utile que l'examen lui-même.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_PARCOURS_12
 
 ### 📍 Étape 7 : Repasser un examen blanc
@@ -1970,6 +2116,8 @@ Vous pouvez répéter ce cycle autant de fois que nécessaire jusqu'à vous sent
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_PARCOURS_13
 
@@ -2030,6 +2178,8 @@ text 📚 Entraînements thématiques │ ▼ 📝 Comprendre les explications �
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_PARCOURS_14
 
 ### 📌 À retenir
@@ -2059,6 +2209,8 @@ C'est cette progression qui vous permettra d'aborder votre examen avec confiance
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MEMOIRE_01
 
 ### 🧠 Les secrets de la mémoire
@@ -2072,6 +2224,8 @@ C'est cette progression qui vous permettra d'aborder votre examen avec confiance
 3. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MEMOIRE_02
 
@@ -2105,6 +2259,8 @@ L'objectif n'est donc pas de tout apprendre en une seule fois, mais de consolide
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MEMOIRE_03
 
@@ -2143,6 +2299,8 @@ La mémorisation devient alors beaucoup plus facile.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MEMOIRE_MENU
 
 ### 🧠 Mémoriser efficacement
@@ -2166,6 +2324,8 @@ La mémorisation devient alors beaucoup plus facile.
 13. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Comprendre le fonctionnement de la mémoire et réviser durablement. -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MEMOIRE_04
 
@@ -2197,6 +2357,8 @@ Chaque révision renforce progressivement votre mémoire.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MEMOIRE_05
 
@@ -2236,6 +2398,8 @@ C'est exactement le principe des entraînements proposés dans NovaFrate.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MEMOIRE_06
 
@@ -2278,6 +2442,8 @@ Au lieu de retenir une simple date, vous mémorisez une histoire.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MEMOIRE_07
 
 ### 🧠 Secret n°5 : Apprendre par petites séances
@@ -2307,6 +2473,8 @@ Cette méthode améliore la concentration et limite la fatigue.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MEMOIRE_08
 
 ### 🧠 Secret n°6 : Dormir
@@ -2331,6 +2499,8 @@ Une bonne nuit de sommeil est souvent plus bénéfique qu'une longue révision t
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MEMOIRE_09
 
@@ -2374,6 +2544,8 @@ Pour mieux mémoriser :
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_01
 
 ### 🧩 Les moyens mnémotechniques pour réussir l'examen civique
@@ -2387,6 +2559,8 @@ Pour mieux mémoriser :
 3. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MNEMO_02
 
@@ -2420,6 +2594,8 @@ Elles ne remplacent pas la compréhension des notions, mais elles peuvent vous a
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_03
 
 ### 📅 Mémoriser les grandes dates de l'histoire de France
@@ -2443,6 +2619,8 @@ Essayez plutôt d'associer chaque date à une image mentale.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_04
 
 ### Exemple
@@ -2457,6 +2635,8 @@ Exemple
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H2 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MNEMO_MENU
 
@@ -2491,6 +2671,8 @@ Exemple
 
 <!-- Mémoriser dates, symboles, géographie, personnages et institutions. -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_05
 
 ### 1789
@@ -2516,6 +2698,8 @@ Cette porte représente le début d'une nouvelle France.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_06
 
 ### 1905
@@ -2538,6 +2722,8 @@ Imaginez une église et une mairie qui prennent chacune un chemin différent.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MNEMO_07
 
@@ -2574,6 +2760,8 @@ Cette maison représente la nouvelle Constitution.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_08
 
 ### 🇫🇷 Mémoriser les symboles de la République
@@ -2605,6 +2793,8 @@ Cherchez toujours à comprendre ce que représente chaque symbole plutôt que d'
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_09
 
 ### 🗺️ Mémoriser les régions françaises
@@ -2634,6 +2824,8 @@ L'activité **Géographie de la France** disponible dans NovaFrate est spéciale
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_10
 
 ### 🌊 Mémoriser les principaux fleuves
@@ -2659,6 +2851,8 @@ Ne cherchez pas à apprendre leur nom par cœur sans les situer.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_11
 
 ### 👤 Mémoriser les personnages importants
@@ -2679,6 +2873,8 @@ Par exemple :
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MNEMO_12
 
@@ -2704,6 +2900,8 @@ Victor Hugo Molière Albert Camus George Sand
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_13
 
 ### Peintres
@@ -2727,6 +2925,8 @@ Claude Monet Paul Cézanne Auguste Renoir
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_14
 
 ### Scientifiques
@@ -2747,6 +2947,8 @@ Marie Curie
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MNEMO_15
 
@@ -2771,6 +2973,8 @@ Votre cerveau retiendra plus facilement ces catégories qu'une liste de noms mé
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H3 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MNEMO_16
 
@@ -2825,6 +3029,8 @@ Petit à petit, ajoutez de nouveaux détails.
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
 
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
 ## SCR_CONS_MNEMO_17
 
 ### 🧠 Utiliser le rappel actif
@@ -2859,6 +3065,8 @@ Cet exercice est beaucoup plus efficace qu'une simple relecture.
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 ## SCR_CONS_MNEMO_18
 
@@ -2897,3 +3105,5 @@ Pour mieux mémoriser :
 3. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : GUIDE_REUSSITE.md — niveau H1 -->
+
+1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)

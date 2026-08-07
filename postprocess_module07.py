@@ -300,4 +300,16 @@ region_icons = {
 }
 for region, icon in region_icons.items():
     text = re.sub(rf"(^## SCR_PASS_REGION_[A-Z_]+\n\n)### {re.escape(region)}$", rf"\1### {icon} {region}", text, flags=re.M)
+
+# Le module 07 est régénéré chaque jour. Réinjecter l'accès aux questions
+# libres dans chaque écran évite qu'il disparaisse après l'actualisation.
+question_button = "1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)"
+parts = re.split(r"(?=^## SCR_PASS_)", text, flags=re.M)
+updated_parts = []
+for part in parts:
+    if not part.startswith("## SCR_PASS_") or "](SCR_QL_RESET)" in part:
+        updated_parts.append(part)
+        continue
+    updated_parts.append(part.rstrip() + "\n\n" + question_button + "\n\n")
+text = "".join(updated_parts).rstrip() + "\n"
 path.write_text(text, encoding="utf-8", newline="\n")

@@ -20,6 +20,8 @@ Retrouvez les réponses à vos questions, choisissez un centre et accédez au fo
 
 <!-- Écran d’entrée -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_SEARCH_MENU
 
 ### 📍 Trouver une session d’examen
@@ -38,6 +40,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 2. [🧭 Rechercher un centre proche de chez moi](SCR_PASS_INPUT_COMMUNE)
 3. [↩️ Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -61,6 +65,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 4 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_ANNEMASSE
 
 ### 📍 Annemasse (74)
@@ -82,6 +88,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_AUXERRE
 
@@ -105,6 +113,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 5 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_BESANCON
 
 ### 📍 Besançon (25)
@@ -126,6 +136,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 9 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_BOURG_EN_BRESSE
 
@@ -149,6 +161,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 4 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_BOURGES
 
 ### 📍 Bourges (18)
@@ -171,6 +185,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 4 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_CHAUMONT
 
 ### 📍 Chaumont (52)
@@ -191,6 +207,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_CLERMONT_FERRAND
 
@@ -214,6 +232,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 7 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_DIJON
 
 ### Dijon (21)
@@ -235,6 +255,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 5 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_LE_PUY_EN_VELAY
 
@@ -258,6 +280,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 4 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_LONS_LE_SAUNIER
 
 ### 📍 Lons-le-Saunier (39)
@@ -279,6 +303,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_MONTBELIARD
 
@@ -302,6 +328,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 4 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_MONTCEAU_LES_MINES
 
 ### 📍 Montceau-les-Mines (71)
@@ -323,6 +351,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 3 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_MULHOUSE
 
@@ -346,6 +376,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 7 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_MACON
 
 ### 📍 Mâcon (71)
@@ -366,6 +398,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_NEVERS
 
@@ -389,6 +423,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 4 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_REIMS
 
 ### 📍 Reims (51)
@@ -410,6 +446,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_SAINT_DIE_DES_VOSGES
 
@@ -433,6 +471,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 3 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_SAINT_FLOUR
 
 ### 📍 Saint-Flour (15)
@@ -453,6 +493,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_SENS
 
@@ -476,6 +518,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 4 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_STRASBOURG
 
 ### 📍 Strasbourg (67)
@@ -497,6 +541,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_TROYES
 
@@ -520,6 +566,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 6 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_CITY_VALSERHONE
 
 ### 📍 Valserhône (01)
@@ -541,6 +589,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 4. [Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_CITY_VICHY
 
@@ -564,6 +614,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 <!-- 4 session(s) future(s) dans la source -->
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_INFO_MENU
 
 ### ❓ Questions sur l’examen civique
@@ -579,6 +631,8 @@ Choisissez votre question. Chaque réponse vous donne les repères essentiels et
 7. [🤖 Comment le chatbot peut-il m’aider ?](SCR_PASS_INFO_HELP)
 8. [⭐ Les informations essentielles à retenir](SCR_PASS_INFO_REMEMBER)
 9. [↩️ Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_INFO_HELP
 
@@ -599,6 +653,8 @@ Le chatbot vous accompagne à chaque étape de votre préparation :
 4. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 5. [↩️ Retour au module](SCR_PASS_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_INFO_MATCH
 
 ### 🪪 Quel examen correspond à ma situation ?
@@ -615,6 +671,8 @@ Choisissez dans le chatbot le même parcours que celui indiqué pour votre déma
 2. [🧠 Commencer un bilan](SCR_BIL_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_INFO_FORMAT
 
@@ -638,6 +696,8 @@ Vous disposez en moyenne d’un peu plus d’une minute par question. Si vous h�
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_INFO_REMEMBER
 
 ### ⭐ Les informations essentielles à retenir
@@ -659,6 +719,8 @@ L’épreuve porte sur cinq thèmes civiques et associe connaissances et situati
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_INFO_WHY
 
 ### 🎯 Pourquoi un examen civique ?
@@ -673,6 +735,8 @@ Il ne s’agit pas seulement de mémoriser des dates ou des définitions. Vous d
 2. [📚 Découvrir les cinq thématiques](SCR_PASS_INFO_THEMES)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_INFO_PREP
 
@@ -696,6 +760,8 @@ Travaillez par séances courtes et régulières. Lorsque vous obtenez des résul
 5. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 6. [↩️ Retour au module](SCR_PASS_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_INFO_CONCERNE
 
 ### 👤 Suis-je concerné ?
@@ -714,6 +780,8 @@ Votre situation administrative peut comporter des particularités. Vérifiez les
 2. [📍 Trouver une session d’examen](SCR_PASS_SEARCH_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_INFO_THEMES
 
@@ -736,6 +804,8 @@ Révisez un thème à la fois, puis vérifiez vos acquis avec un entraînement c
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_REGISTER
 
 ### S’inscrire à l’examen
@@ -743,6 +813,8 @@ Révisez un thème à la fois, puis vérifiez vos acquis avec un entraînement c
 <!-- Variables : {centre}; {region}; {lien_forms} -->
 
 Cliquez sur le lien Forms pour vous inscrire à une session dans la région choisie.
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_REGIONS
 
@@ -758,6 +830,8 @@ Sélectionnez une région pour consulter ses centres et leurs prochaines dates d
 6. [🏔️ Rhône-Alpes](SCR_PASS_REGION_RHONE_ALPES)
 7. [🧭 Rechercher un centre proche de chez moi](SCR_PASS_INPUT_COMMUNE)
 8. [↩️ Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_INPUT_COMMUNE
 
@@ -781,6 +855,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 1. [🗺️ Rechercher par région](SCR_PASS_REGIONS)
 2. [↩️ Retour au module](SCR_PASS_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_REGION_AUVERGNE
 
 ### ⛰️ Auvergne
@@ -795,6 +871,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 4. [Vichy (03)](SCR_PASS_CITY_VICHY)
 5. [Choisir une autre région](SCR_PASS_REGIONS)
 6. [Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_REGION_BOURGOGNE
 
@@ -813,6 +891,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 7. [Choisir une autre région](SCR_PASS_REGIONS)
 8. [Retour au module](SCR_PASS_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_REGION_CHER
 
 ### 🌿 Cher
@@ -824,6 +904,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 1. [Bourges (18)](SCR_PASS_CITY_BOURGES)
 2. [Choisir une autre région](SCR_PASS_REGIONS)
 3. [Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_REGION_FRANCHE_COMTE
 
@@ -838,6 +920,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 3. [Montbéliard (25)](SCR_PASS_CITY_MONTBELIARD)
 4. [Choisir une autre région](SCR_PASS_REGIONS)
 5. [Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 ## SCR_PASS_REGION_GRAND_EST
 
@@ -856,6 +940,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 7. [Choisir une autre région](SCR_PASS_REGIONS)
 8. [Retour au module](SCR_PASS_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
 ## SCR_PASS_REGION_RHONE_ALPES
 
 ### 🏔️ Rhône-Alpes
@@ -870,3 +956,5 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 4. [Valserhône (01)](SCR_PASS_CITY_VALSERHONE)
 5. [Choisir une autre région](SCR_PASS_REGIONS)
 6. [Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)

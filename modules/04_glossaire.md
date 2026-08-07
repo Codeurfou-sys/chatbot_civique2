@@ -13,6 +13,8 @@ Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touch
 2. [🔤 Parcourir par ordre alphabétique](SCR_GLO_ALPHA_MENU)
 3. [📚 Parcourir par thème](SCR_GLO_THEME_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_SEARCH
 
 ### 🔍 Rechercher un mot
@@ -24,6 +26,7 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 1. [🔤 Parcourir par ordre alphabétique](SCR_GLO_ALPHA_MENU)
 2. [📚 Parcourir par thème](SCR_GLO_THEME_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_ALPHA_MENU
 
@@ -36,6 +39,8 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 5. [Q–S](SCR_GLO_ALPHA_QS)
 6. [T–Z](SCR_GLO_ALPHA_TZ)
 7. [↩️ Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_ALPHA_AC
 
@@ -80,6 +85,8 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 37. [Crime](SCR_GLO_0037)
 38. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_ALPHA_DF
 
 ### Mots de D–F
@@ -111,6 +118,8 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 25. [Fraternité](SCR_GLO_0062)
 26. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_ALPHA_GL
 
 ### Mots de G–L
@@ -140,6 +149,8 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 23. [Loi](SCR_GLO_0085)
 24. [Lycée](SCR_GLO_0086)
 25. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_ALPHA_MP
 
@@ -176,6 +187,8 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 29. [Pyrénées](SCR_GLO_0115)
 30. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_ALPHA_QS
 
 ### Mots de Q–S
@@ -195,6 +208,8 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 13. [Sûreté](SCR_GLO_0128)
 14. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_ALPHA_TZ
 
 ### Mots de T–Z
@@ -210,6 +225,8 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 9. [Vote](SCR_GLO_0137)
 10. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_THEME_MENU
 
 ### 📚 Parcourir par thème
@@ -222,6 +239,8 @@ Choisissez une thématique pour découvrir les mots qui lui sont associés.
 4. [🗺️ Thème 4 : Histoire, géographie et culture](SCR_GLO_THEME_T4)
 5. [🤝 Thème 5 : Vivre dans la société française](SCR_GLO_THEME_T5)
 6. [↩️ Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_THEME_T1
 
@@ -248,6 +267,8 @@ Découvrez tous les mots associés au thème 1 : **« principes et valeurs de la
 17. [République](SCR_GLO_0118)
 18. [Souveraineté nationale](SCR_GLO_0126)
 19. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_THEME_T2
 
@@ -291,6 +312,8 @@ Découvrez tous les mots associés au thème 2 : **« système institutionnel et
 34. [Vote](SCR_GLO_0137)
 35. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_THEME_T3
 
 ### ⚖️ Thème 3 : Droits et devoirs
@@ -326,6 +349,8 @@ Découvrez tous les mots associés au thème 3 : **« droits et devoirs »**.
 27. [Traite des êtres humains](SCR_GLO_0131)
 28. [Violence](SCR_GLO_0136)
 29. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_THEME_T4
 
@@ -367,6 +392,8 @@ Découvrez tous les mots associés au thème 4 : **« histoire, géographie et c
 32. [Vercingétorix](SCR_GLO_0135)
 33. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_THEME_T5
 
 ### 🤝 Thème 5 : Vivre dans la société française
@@ -402,6 +429,8 @@ Découvrez tous les mots associés au thème 5 : **« vivre dans la société fr
 27. [Urgences](SCR_GLO_0134)
 28. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0001
 - Abstention
 - le Abstention
@@ -425,6 +454,8 @@ L'abstention est différente du vote blanc.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0002
 - Alpes
@@ -450,6 +481,8 @@ Le Mont Blanc est le plus haut sommet d'Europe occidentale.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0003
 - APL
 - le APL
@@ -473,6 +506,8 @@ Elle permet de réduire le montant du loyer.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0004
 - Assemblée nationale
@@ -500,6 +535,8 @@ Les députés sont élus directement par les citoyens.
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0005
 - Assistance à personne en danger
 - Assistance a personne en danger
@@ -520,6 +557,8 @@ Ne pas porter assistance peut être puni par la loi.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T3)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0006
 - Assurance maladie
@@ -547,6 +586,8 @@ Toute personne résidant régulièrement en France peut bénéficier d'une couve
 5. [📚 Retour au thème](SCR_GLO_THEME_T5)
 6. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0007
 - Bail
 - le Bail
@@ -566,6 +607,8 @@ Le bail fixe les droits et obligations de chacun.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T5)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0008
 - Bretagne
@@ -591,6 +634,8 @@ La Bretagne est connue pour son littoral, sa culture bretonne, ses ports de pêc
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0009
 - CAF
 - le CAF
@@ -614,6 +659,8 @@ La CAF peut aider au paiement du logement.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0010
 - Carte de résident
@@ -640,6 +687,8 @@ Sa durée de validité est généralement de dix ans.
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0011
 - Carte Vitale
 - le Carte Vitale
@@ -664,6 +713,8 @@ Elle facilite le remboursement des soins.
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0012
 - CDD
@@ -694,6 +745,8 @@ CDD ≠ CDI.
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0013
 - CDI
 - le CDI
@@ -723,6 +776,8 @@ CDI ≠ CDD.
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0014
 - Celtes
 - le Celtes
@@ -747,6 +802,8 @@ Les Gaulois étaient des peuples celtes.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0015
 - Charlemagne
 - le Charlemagne
@@ -766,6 +823,8 @@ Il a contribué au développement de l'éducation et de l'organisation de son em
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0016
 - Charte de l'environnement
@@ -791,6 +850,8 @@ La protection de l'environnement est un principe constitutionnel.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0017
 - Château de Versailles
 - Chateau de Versailles
@@ -811,6 +872,8 @@ Il est célèbre pour son architecture et ses jardins.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0018
 - Cinquième République
@@ -837,6 +900,8 @@ La Constitution de 1958 est toujours en vigueur.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0019
 - Citoyen
 - le Citoyen
@@ -856,6 +921,8 @@ Le citoyen participe à la vie démocratique.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T1)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0020
 - Citoyenneté
@@ -882,6 +949,8 @@ Citoyenneté ≠ résidence.
 2. [📚 Retour au thème](SCR_GLO_THEME_T3)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0021
 - Clovis
 - le Clovis
@@ -905,6 +974,8 @@ Son règne marque le début de la dynastie mérovingienne.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0022
 - Collège
@@ -931,6 +1002,8 @@ Le collège est obligatoire.
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0023
 - Commission européenne
 - Commission europeenne
@@ -956,6 +1029,8 @@ Elle défend l'intérêt général de l'Union européenne.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0024
 - Commune
 - le Commune
@@ -980,6 +1055,8 @@ Elle est administrée par un maire.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0025
 - Conseil constitutionnel
 - le Conseil constitutionnel
@@ -1003,6 +1080,8 @@ Il protège la Constitution.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0026
 - Conseil de l'Union européenne
@@ -1029,6 +1108,8 @@ Il participe au vote des lois européennes.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0027
 - Conseil départemental
 - Conseil departemental
@@ -1053,6 +1134,8 @@ Ses membres sont les conseillers départementaux.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0028
 - Conseil européen
@@ -1079,6 +1162,8 @@ Il fixe les grandes orientations politiques de l'Union européenne.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0029
 - Conseil municipal
 - le Conseil municipal
@@ -1102,6 +1187,8 @@ Les conseillers municipaux élisent le maire.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0030
 - Conseil régional
@@ -1128,6 +1215,8 @@ Ses membres sont les conseillers régionaux.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0031
 - Consentement
 - le Consentement
@@ -1147,6 +1236,8 @@ Sans consentement, un acte peut constituer une infraction.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T3)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0032
 - Constitution
@@ -1172,6 +1263,8 @@ Toutes les lois doivent respecter la Constitution.
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0033
 - Contrat d'engagement à respecter les principes de la République
@@ -1199,6 +1292,8 @@ Le respect des principes républicains est attendu dans certains parcours admini
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0034
 - Contrat de travail
 - le Contrat de travail
@@ -1223,6 +1318,8 @@ Le contrat précise les droits et les obligations de chacun.
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0035
 - Contravention
@@ -1249,6 +1346,8 @@ Elle est généralement punie d'une amende.
 4. [📚 Retour au thème](SCR_GLO_THEME_T3)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0036
 - CPAM
 - le CPAM
@@ -1274,6 +1373,8 @@ Elle accompagne les assurés dans leurs démarches de santé.
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0037
 - Crime
 - le Crime
@@ -1297,6 +1398,8 @@ Les crimes sont jugés par une cour d'assises.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0038
 - Déclaration des droits de l'homme et du citoyen
@@ -1323,6 +1426,8 @@ C'est l'un des textes fondateurs de la République française.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0039
 - Délit
 - Delit
@@ -1347,6 +1452,8 @@ Il peut être puni d'une peine de prison.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0040
 - Démocratie
@@ -1378,6 +1485,8 @@ Démocratie ≠ République.
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0041
 - Département
 - Departement
@@ -1404,6 +1513,8 @@ La France compte 101 départements.
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0042
 - Député
 - Depute
@@ -1429,6 +1540,8 @@ Il vote les lois.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0043
 - Député européen
 - Depute europeen
@@ -1453,6 +1566,8 @@ Les députés européens sont élus tous les cinq ans.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0044
 - Devise de la République
@@ -1483,6 +1598,8 @@ Elle représente les trois valeurs fondamentales de la République.
 5. [📚 Retour au thème](SCR_GLO_THEME_T1)
 6. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0045
 - Dignité humaine
 - Dignite humaine
@@ -1508,6 +1625,8 @@ La dignité humaine est protégée par la loi.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0046
 - Drapeau français
 - Drapeau francais
@@ -1532,6 +1651,8 @@ Il est l'un des symboles officiels de la République.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0047
 - Droits fondamentaux
@@ -1559,6 +1680,8 @@ Ils protègent la dignité, la liberté et l'égalité de chacun.
 5. [📚 Retour au thème](SCR_GLO_THEME_T3)
 6. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0048
 - École
 - Ecole
@@ -1584,6 +1707,8 @@ L'instruction est obligatoire de 3 à 16 ans.
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0049
 - Égalité
@@ -1614,6 +1739,8 @@ Aucune discrimination n'est autorisée.
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0050
 - Élection
 - Election
@@ -1639,6 +1766,8 @@ Les élections sont au cœur de la démocratie.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0051
 - Employeur
 - le Employeur
@@ -1658,6 +1787,8 @@ L'employeur doit respecter le Code du travail.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T5)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0052
 - Environnement
@@ -1683,6 +1814,8 @@ La protection de l'environnement est une responsabilité collective.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0053
 - Espace Schengen
 - le Espace Schengen
@@ -1706,6 +1839,8 @@ La France fait partie de l'espace Schengen.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0054
 - État
@@ -1734,6 +1869,8 @@ L'État assure les services publics et protège les citoyens.
 5. [📚 Retour au thème](SCR_GLO_THEME_T2)
 6. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0055
 - Euro
 - le Euro
@@ -1758,6 +1895,8 @@ L'euro est la monnaie officielle de la France.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0056
 - Fête de la Musique
 - Fete de la Musique
@@ -1778,6 +1917,8 @@ Elle permet à tous de partager la musique gratuitement.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0057
 - Fête nationale
@@ -1804,6 +1945,8 @@ Elle commémore la prise de la Bastille et la Fête de la Fédération.
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0058
 - France métropolitaine
 - France metropolitaine
@@ -1829,6 +1972,8 @@ Elle est composée de 13 régions.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0059
 - France Services
 - le France Services
@@ -1848,6 +1993,8 @@ France Services accompagne les usagers gratuitement.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T5)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0060
 - France Travail
@@ -1869,6 +2016,8 @@ France Travail remplace Pôle emploi.
 2. [📚 Retour au thème](SCR_GLO_THEME_T5)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0061
 - Francophonie
 - le Francophonie
@@ -1888,6 +2037,8 @@ Le français est parlé sur les cinq continents.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0062
 - Fraternité
@@ -1909,6 +2060,8 @@ La fraternité favorise le vivre ensemble.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T1)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0063
 - Gastronomie française
@@ -1935,6 +2088,8 @@ Le repas gastronomique des Français est inscrit au patrimoine culturel immatér
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0064
 - Gaule
 - le Gaule
@@ -1960,6 +2115,8 @@ La Gaule était peuplée de peuples celtes.
 4. [📚 Retour au thème](SCR_GLO_THEME_T4)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0065
 - Gendarmerie
 - le Gendarmerie
@@ -1983,6 +2140,8 @@ Elle intervient principalement en zone rurale.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0066
 - Gouvernement
@@ -2017,6 +2176,8 @@ Le Parlement les vote.
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0067
 - Guadeloupe
 - le Guadeloupe
@@ -2041,6 +2202,8 @@ Elle est connue pour ses plages, son volcan de la Soufrière et sa biodiversité
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0068
 - Guyane
 - le Guyane
@@ -2064,6 +2227,8 @@ La Guyane accueille le Centre spatial guyanais de Kourou et possède une vaste f
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0069
 - Harcèlement
@@ -2090,6 +2255,8 @@ Le harcèlement est puni par la loi.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0070
 - Harcèlement scolaire
 - Harcelement scolaire
@@ -2114,6 +2281,8 @@ Il s'agit d'un délit.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0071
 - Hôpital
@@ -2140,6 +2309,8 @@ Les hôpitaux publics accueillent tous les patients.
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0072
 - Île-de-France
 - Ile-de-France
@@ -2161,6 +2332,8 @@ Elle est la région la plus peuplée du pays et concentre de nombreuses institut
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0073
 - Impôt
 - Impot
@@ -2181,6 +2354,8 @@ Le paiement des impôts est une obligation.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T3)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0074
 - Infraction
@@ -2208,6 +2383,8 @@ Une infraction peut être sanctionnée.
 5. [📚 Retour au thème](SCR_GLO_THEME_T3)
 6. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0075
 - Intégrité de la personne
 - Integrite de la personne
@@ -2232,6 +2409,8 @@ Toute atteinte injustifiée à l'intégrité est interdite.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0076
 - Journées européennes du patrimoine
@@ -2258,6 +2437,8 @@ Elles ont lieu chaque année en septembre.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0077
 - Justice
 - le Justice
@@ -2277,6 +2458,8 @@ Elle est indépendante.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T2)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0078
 - La Marseillaise
@@ -2299,6 +2482,8 @@ Elle est chantée lors des cérémonies officielles.
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0079
 - La Réunion
 - La Reunion
@@ -2320,6 +2505,8 @@ L'île est connue pour ses cirques, son volcan actif et ses paysages naturels.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0080
 - Laïcité
@@ -2353,6 +2540,8 @@ Elle garantit leur libre exercice dans le respect de la loi.
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0081
 - Langue de la République
 - Langue de la Republique
@@ -2377,6 +2566,8 @@ Le français est utilisé dans les administrations, les écoles et les services 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0082
 - Liberté
@@ -2414,6 +2605,8 @@ La liberté ne permet pas de porter atteinte aux droits des autres.
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0083
 - Liberté de conscience
 - Liberte de conscience
@@ -2439,6 +2632,8 @@ Cette liberté est protégée par la République.
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0084
 - Locataire
 - le Locataire
@@ -2462,6 +2657,8 @@ Le locataire doit payer son loyer et entretenir le logement.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0085
 - Loi
@@ -2487,6 +2684,8 @@ Toute personne vivant en France doit respecter la loi.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0086
 - Lycée
 - Lycee
@@ -2507,6 +2706,8 @@ Il existe des lycées généraux, technologiques et professionnels.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T5)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0087
 - Maire
@@ -2539,6 +2740,8 @@ Le préfet représente l'État.
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0088
 - Mairie
 - le Mairie
@@ -2564,6 +2767,8 @@ De nombreuses démarches administratives y sont réalisées.
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0089
 - Marianne
 - le Marianne
@@ -2587,6 +2792,8 @@ Elle symbolise la liberté et la République.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0090
 - Martinique
@@ -2612,6 +2819,8 @@ La Martinique est célèbre pour la montagne Pelée et son patrimoine culturel.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0091
 - Mayotte
 - le Mayotte
@@ -2635,6 +2844,8 @@ Mayotte est le département le plus récent de la République française.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0092
 - Médecin traitant
@@ -2660,6 +2871,8 @@ Le déclarer permet un meilleur remboursement des soins.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0093
 - Ministre
@@ -2687,6 +2900,8 @@ Chaque ministre dirige un ministère.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0094
 - Mont-Saint-Michel
 - le Mont-Saint-Michel
@@ -2711,6 +2926,8 @@ Il est inscrit au patrimoine mondial de l'UNESCO.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0095
 - Musée du Louvre
 - Musee du Louvre
@@ -2731,6 +2948,8 @@ Il abrite notamment la Joconde.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0096
 - Mutilations sexuelles féminines
@@ -2757,6 +2976,8 @@ Elles sont interdites et sévèrement punies en France.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0097
 - Naturalisation
 - le Naturalisation
@@ -2776,6 +2997,8 @@ La naturalisation n'est pas automatique.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T5)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0098
 - Neutralité
@@ -2802,6 +3025,8 @@ La neutralité concerne principalement les institutions et les agents publics.
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0099
 - Ordre public
 - le Ordre public
@@ -2826,6 +3051,8 @@ L'ordre public permet le bon fonctionnement de la société.
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T3)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0100
 - Outre-mer
@@ -2855,6 +3082,8 @@ Ils font pleinement partie de la République française.
 7. [📚 Retour au thème](SCR_GLO_THEME_T4)
 8. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0101
 - Parlement
 - le Parlement
@@ -2879,6 +3108,8 @@ Il comprend deux assemblées.
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0102
 - Parlement européen
@@ -2905,6 +3136,8 @@ Il participe à l'adoption des lois européennes.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0103
 - Patrimoine
 - le Patrimoine
@@ -2928,6 +3161,8 @@ Le patrimoine est protégé et valorisé.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0104
 - Police
@@ -2953,6 +3188,8 @@ Elle intervient principalement dans les villes.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0105
 - Préfecture
 - Prefecture
@@ -2977,6 +3214,8 @@ Elle traite notamment certaines démarches liées au séjour des étrangers.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0106
 - Préfet
@@ -3008,6 +3247,8 @@ Le préfet n'est pas élu.
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0107
 - Premier ministre
 - le Premier ministre
@@ -3038,6 +3279,8 @@ Le Premier ministre dirige le Gouvernement.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0108
 - Première Guerre mondiale
 - Premiere Guerre mondiale
@@ -3062,6 +3305,8 @@ La France fait partie des pays vainqueurs.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0109
 - Président de la République
@@ -3095,6 +3340,8 @@ Le Premier ministre dirige l'action du Gouvernement.
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0110
 - Présomption d'innocence
 - Presomption d'innocence
@@ -3120,6 +3367,8 @@ La culpabilité doit être prouvée.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0111
 - Procuration
 - le Procuration
@@ -3143,6 +3392,8 @@ Elle permet de voter en cas d'absence.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0112
 - Propriétaire
@@ -3169,6 +3420,8 @@ Le propriétaire peut louer son logement.
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0113
 - Prostitution
 - le Prostitution
@@ -3193,6 +3446,8 @@ Le proxénétisme et le recours à la prostitution sont encadrés par la loi.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0114
 - Provence-Alpes-Côte d'Azur
 - Provence-Alpes-Cote d'Azur
@@ -3213,6 +3468,8 @@ Elle est réputée pour la Méditerranée, les Alpes, Marseille, Nice et la lava
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0115
 - Pyrénées
@@ -3239,6 +3496,8 @@ Elles forment une frontière naturelle.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0116
 - Référendum
 - Referendum
@@ -3264,6 +3523,8 @@ Les citoyens répondent généralement par "Oui" ou "Non".
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0117
 - Région
 - Region
@@ -3288,6 +3549,8 @@ La France compte 18 régions.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0118
 - République
@@ -3324,6 +3587,8 @@ La démocratie est une manière d'exercer le pouvoir.
 5. [📚 Retour au thème](SCR_GLO_THEME_T1)
 6. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0119
 - Révolution française
 - Revolution francaise
@@ -3349,6 +3614,8 @@ Elle marque la naissance des valeurs républicaines modernes.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0120
 - Salaire
 - le Salaire
@@ -3373,6 +3640,8 @@ Le salaire est indiqué sur la fiche de paie.
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0121
 - Seconde Guerre mondiale
 - le Seconde Guerre mondiale
@@ -3393,6 +3662,8 @@ La Résistance a joué un rôle important dans la libération de la France.
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0122
 - Seine
 - le Seine
@@ -3412,6 +3683,8 @@ La Seine est l'un des principaux fleuves français.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0123
 - Sénat
@@ -3443,6 +3716,8 @@ Assemblée nationale ≠ Sénat.
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0124
 - Sénateur
 - Senateur
@@ -3468,6 +3743,8 @@ Il participe au vote des lois.
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0125
 - Service public
 - le Service public
@@ -3492,6 +3769,8 @@ Les services publics garantissent l'égalité d'accès pour tous.
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0126
 - Souveraineté nationale
@@ -3524,6 +3803,8 @@ La souveraineté appartient au peuple et non au Président de la République.
 5. [📚 Retour au thème](SCR_GLO_THEME_T1)
 6. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0127
 - Suffrage universel
 - le Suffrage universel
@@ -3547,6 +3828,8 @@ En France, le vote est universel, égal et secret.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0128
 - Sûreté
@@ -3574,6 +3857,8 @@ La justice protège les libertés individuelles.
 4. [📚 Retour au thème](SCR_GLO_THEME_T3)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0129
 - Titre de séjour
 - Titre de sejour
@@ -3599,6 +3884,8 @@ Il doit être renouvelé avant sa date d'expiration.
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0130
 - Tour Eiffel
 - le Tour Eiffel
@@ -3618,6 +3905,8 @@ Elle est l'un des symboles les plus connus de la France.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T4)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0131
 - Traite des êtres humains
@@ -3639,6 +3928,8 @@ La traite des êtres humains est un crime.
 1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 2. [📚 Retour au thème](SCR_GLO_THEME_T3)
 3. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0132
 - UNESCO
@@ -3663,6 +3954,8 @@ Plusieurs sites français sont inscrits au patrimoine mondial de l'UNESCO.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0133
 - Union européenne
@@ -3690,6 +3983,8 @@ La France est membre de l'Union européenne.
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
 5. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0134
 - Urgences
 - le Urgences
@@ -3713,6 +4008,8 @@ En cas d'urgence médicale, composez le 15.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 ## SCR_GLO_0135
 - Vercingétorix
@@ -3739,6 +4036,8 @@ Il est devenu un symbole de la résistance gauloise.
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0136
 - Violence
 - le Violence
@@ -3763,6 +4062,8 @@ Toutes les formes de violence sont interdites.
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
 
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
+
 ## SCR_GLO_0137
 - Vote
 - le Vote
@@ -3786,3 +4087,5 @@ Le vote est un droit civique.
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
 4. [📖 Retour au glossaire](SCR_GLO_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)

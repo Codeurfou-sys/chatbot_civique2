@@ -17,18 +17,26 @@
 8. [Retour à la FAQ](SCR_FAQ_MENU)
 9. [Retour au menu principal](MENU_PRINCIPAL)
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_MENU
 
 ### FAQ du Coach
 
+:::info ⌨️ Conseil de navigation
+Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
+:::
+
 Recherchez une question ou parcourez les catégories de la FAQ.
 
-1. [Rechercher une question](SCR_FAQ_SEARCH)
+1. [🔎 Rechercher une question](SCR_FAQ_SEARCH)
 2. [Parcourir par catégorie](SCR_FAQ_CATEGORIES)
-3. [Questions fréquentes](SCR_FAQ_POPULAR)
+3. [⭐ Questions fréquentes](SCR_FAQ_POPULAR)
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Écran d’entrée -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_POPULAR
 
@@ -53,35 +61,28 @@ Recherchez une question ou parcourez les catégories de la FAQ.
 
 <!-- Sélection éditoriale -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_SEARCH
 
-### Rechercher dans la FAQ
+### 🔎 Rechercher une réponse
 
-<!-- Variables : {requete_faq} -->
+Écrivez une question courte ou un mot important. Le Coach cherchera dans les notions validées et dans les questions fréquentes.
 
-Saisissez un mot-clé ou une question courte. Le moteur compare la saisie aux questions et aux mots-clés.
+Exemples : « Combien de réponses faut-il pour réussir ? », « Comment s’inscrire ? » ou « Qu’est-ce que la laïcité ? »
 
-<!-- Transition automatique NAV_FAQ_006 : Saisie validée → SCR_FAQ_RESULT -->
-1. [Rechercher](SCR_FAQ_RESULT)
-1. [Parcourir les catégories](SCR_FAQ_CATEGORIES)
-2. [Retour à la FAQ](SCR_FAQ_MENU)
-
-<!-- Accepte un mot ou une question courte -->
+1. [✍️ Écrire ma question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+2. [🗂️ Parcourir les catégories](SCR_FAQ_CATEGORIES)
+3. [↩️ Retour à la FAQ](SCR_FAQ_MENU)
 
 ## SCR_FAQ_RESULT
 
-### Résultat de recherche
+### 🔎 Recherche dans les réponses validées
 
-<!-- Variables : {requete_faq}; {faq_id} -->
+La recherche est maintenant assurée par l’assistant « Poser une question » afin de reconnaître davantage de formulations.
 
-Normaliser la saisie puis rechercher dans Question et Mots-clés. Ouvrir la réponse la plus pertinente.
-
-<!-- Transition automatique NAV_FAQ_009 : Correspondance trouvée → @{screen_id_faq} -->
-1. [Ouvrir la meilleure réponse](@{screen_id_faq})
-<!-- Transition automatique NAV_FAQ_010 : Aucune correspondance → SCR_FAQ_NOT_FOUND -->
-1. [Aucune réponse trouvée](SCR_FAQ_NOT_FOUND)
-
-<!-- Écran logique non affiché -->
+1. [✍️ Écrire ma question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+2. [↩️ Retour à la FAQ](SCR_FAQ_MENU)
 
 ## SCR_FAQ_NOT_FOUND
 
@@ -96,6 +97,8 @@ Aucune réponse exacte n’a été trouvée. Consultez le glossaire, les révisi
 3. [Consulter les révisions](SCR_REV_MENU)
 4. [Voir les conseils de réussite](SCR_CONS_MENU)
 5. [Retour au menu principal](MENU_PRINCIPAL)
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_063
 
@@ -123,6 +126,8 @@ Le Coach pédagogique adapte vos révisions en fonction de vos résultats.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_064
 
 ### Combien de temps faut-il réviser ?
@@ -144,6 +149,8 @@ Quelques séances régulières de 15 à 30 minutes sont généralement plus effi
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_065
 
@@ -168,6 +175,8 @@ Une bonne compréhension vous permettra de répondre correctement même si la fo
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_066
 
@@ -195,6 +204,8 @@ Le Coach propose des rappels réguliers afin de faciliter la mémorisation.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_067
 
 ### Que faire si je me trompe souvent sur un même thème ?
@@ -218,6 +229,8 @@ Le Coach pédagogique identifie automatiquement vos difficultés et peut vous pr
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_068
 
@@ -243,6 +256,8 @@ Le Coach vous indique toujours les éléments essentiels attendus dans la répon
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_069
 
 ### Que faire si je ne connais pas une réponse ?
@@ -264,6 +279,8 @@ Il vous reposera ensuite une question similaire afin de vérifier que la notion 
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_CONSEILS_MENU
 
@@ -287,6 +304,8 @@ Il vous reposera ensuite une question similaire afin de vérifier que la notion 
 12. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Réviser efficacement, mémoriser, gérer le stress et savoir si l’on est prêt. -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_070
 
@@ -317,6 +336,8 @@ Le Coach vous aide à vous entraîner dans des conditions proches de l'examen af
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_071
 
 ### Comment savoir si je suis prêt pour l'examen ?
@@ -335,6 +356,8 @@ Le Coach suit votre progression et vous indique les thèmes qu'il est encore con
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_029
 
@@ -359,6 +382,8 @@ Il intervient notamment dans :
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_030
 
@@ -387,6 +412,8 @@ Cette formation favorise l'intégration des nouveaux arrivants et prépare à l'
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_031
 
 ### Combien de temps dure la formation civique ?
@@ -404,6 +431,8 @@ La formation civique de l'OFII dure 4 jours (soit 24 heures au total). Elle se d
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_032
 
@@ -431,6 +460,8 @@ L'objectif est de favoriser une bonne intégration dans la société française.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_OFII_MENU
 
 ### 🏛️ OFII et formation civique
@@ -452,6 +483,8 @@ L'objectif est de favoriser une bonne intégration dans la société française.
 11. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Distinguer l’OFII, le CIR, la formation civique et l’examen. -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_033
 
@@ -477,6 +510,8 @@ La formation prépare donc à l'examen, mais ne le remplace pas.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_034
 
 ### La formation civique suffit-elle pour réussir l'examen civique ?
@@ -498,6 +533,8 @@ Le Coach pédagogique est conçu pour vous accompagner dans cette préparation.
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_035
 
@@ -523,6 +560,8 @@ Si vous souhaitez passer l'examen, utilisez la rubrique **« Je passe mon examen
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_036
 
 ### Que se passe-t-il après la formation civique ?
@@ -544,6 +583,8 @@ Le Coach pédagogique peut ensuite vous accompagner dans vos révisions jusqu'au
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_037
 
 ### Qu'est-ce que l'entretien de naturalisation ?
@@ -562,6 +603,8 @@ L'agent échange avec vous sur votre parcours, votre intégration, votre connais
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_038
 
@@ -591,6 +634,8 @@ Le contenu peut varier d'un entretien à l'autre.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_039
 
 ### Comment répondre à la question : "Pourquoi souhaitez-vous devenir français ?"
@@ -613,6 +658,8 @@ Expliquez ce qui motive votre demande (intégration, projet de vie, attachement 
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_040
 
 ### Combien de temps dure l'entretien de naturalisation ?
@@ -632,6 +679,8 @@ En général, un entretien dure entre **15 et 30 minutes**, mais il peut être p
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_041
 
@@ -654,6 +703,8 @@ Les deux sont complémentaires mais répondent à des objectifs différents.L'ex
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_ENTRETIEN_MENU
 
@@ -685,6 +736,8 @@ Les deux sont complémentaires mais répondent à des objectifs différents.L'ex
 
 <!-- Préparer les questions, les documents, l’attitude et le stress. -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_042
 
 ### L'examen civique est-il obligatoire pour obtenir la naturalisation ?
@@ -702,6 +755,8 @@ Oui, l'examen civique fait partie des étapes à prévoir pour une demande de na
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_043
 
@@ -732,6 +787,8 @@ Le Coach pédagogique vous aide à travailler chacun de ces points progressiveme
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_044
 
 ### Dois-je parler parfaitement français pour réussir l'entretien de naturalisation ?
@@ -754,6 +811,8 @@ N'hésitez pas à demander à l'agent de reformuler une question si vous ne l'av
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_045
 
 ### Puis-je demander à l'agent de répéter ou de reformuler une question ?
@@ -775,6 +834,8 @@ Il est préférable de demander une explication plutôt que de répondre au hasa
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_046
 
@@ -803,6 +864,8 @@ Vérifiez toujours votre convocation avant le rendez-vous.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_047
 
 ### Comment dois-je m'habiller pour l'entretien de naturalisation ?
@@ -824,6 +887,8 @@ L'essentiel est de vous présenter avec sérieux et de rester naturel.
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_048
 
@@ -847,6 +912,8 @@ L'entretien est un échange. Il est préférable de demander une précision plut
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_049
 
 ### L'entretien de naturalisation est-il éliminatoire ?
@@ -868,6 +935,8 @@ L'administration prend ensuite sa décision en tenant compte de l'ensemble de vo
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_050
 
@@ -891,6 +960,8 @@ Le Coach pédagogique vous aide à comprendre les notions et à vous entraîner 
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_051
 
 ### Que faire si je suis stressé le jour de l'entretien ?
@@ -913,6 +984,8 @@ Une bonne préparation est le meilleur moyen de gagner en confiance.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_052
 
 ### Faut-il apprendre des réponses par cœur pour réussir l'entretien ?
@@ -933,6 +1006,8 @@ L'agent cherche avant tout à vérifier que vous comprenez les valeurs de la Ré
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_NOVAFRATE_MENU
 
@@ -957,6 +1032,8 @@ L'agent cherche avant tout à vérifier que vous comprenez les valeurs de la Ré
 13. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Utiliser la plateforme, le Coach, les accès et le support. -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_053
 
@@ -985,6 +1062,8 @@ L'objectif est de vous préparer efficacement aux différentes mentions de l'exa
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_054
 
@@ -1016,6 +1095,8 @@ La plateforme est conçue pour vous accompagner jusqu'au jour de votre examen.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_055
 
 ### Quand vais-je recevoir mes accès à NovaFrate ?
@@ -1036,6 +1117,8 @@ Pensez également à vérifier votre dossier « Courriers indésirables » ou «
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_056
 
 ### Comment accéder à NovaFrate ?
@@ -1055,6 +1138,8 @@ En cas de difficulté de connexion, vous pouvez contacter le support de FRATE Fo
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_057
 
@@ -1078,6 +1163,8 @@ Le Coach pédagogique adapte progressivement les questions afin de vous aider à
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_058
 
 ### Le contenu est-il régulièrement mis à jour ?
@@ -1097,6 +1184,8 @@ Les contenus pédagogiques sont mis à jour afin de rester conformes aux évolut
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_059
 
@@ -1119,6 +1208,8 @@ Aucune installation particulière n'est nécessaire.
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_060
 
@@ -1147,6 +1238,8 @@ Son objectif est de rendre vos révisions plus simples, plus efficaces et plus p
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_061
 
 ### Comment contacter le support de FRATE Formation ?
@@ -1168,6 +1261,8 @@ L'équipe vous répondra dans les meilleurs délais.
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_062
 
@@ -1192,6 +1287,8 @@ Nous vous accompagnerons pour trouver la réponse la plus adaptée à votre situ
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_025
 
 ### Quel score faut-il obtenir pour réussir l'examen ?
@@ -1211,6 +1308,8 @@ Le Coach vous aide à identifier les thèmes à renforcer.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_026
 
 ### Que se passe-t-il si j'échoue à l'examen ?
@@ -1228,6 +1327,8 @@ Pas de panique, cela n'annule pas votre demande de visa. Mais vous devez : (1) V
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_027
 
@@ -1247,6 +1348,8 @@ Non. Une fois l'examen réussi, cela est définitif. Vous pourrez réutiliser vo
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_RESULTATS_MENU
 
 ### 📊 Résultats
@@ -1265,6 +1368,8 @@ Non. Une fois l'examen réussi, cela est définitif. Vous pourrez réutiliser vo
 
 <!-- Comprendre le score, l’échec, les délais et l’attestation. -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_028
 
 ### Quand reçoit-on les résultats ?
@@ -1281,6 +1386,8 @@ Généralement, vous obtenez le résultat sous 48 h de la part de Frate Formatio
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_001
 
@@ -1305,6 +1412,8 @@ Le contenu varie selon que vous préparez :
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_EXAMEN_MENU
 
@@ -1335,6 +1444,8 @@ Le contenu varie selon que vous préparez :
 
 <!-- Comprendre le format, les thèmes, les niveaux et les règles de l’examen. -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_002
 
 ### Qui est concerné par l'examen civique ?
@@ -1352,6 +1463,8 @@ L'examen civique concerne toutes les personnes réalisant une première demande 
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_003
 
@@ -1379,6 +1492,8 @@ Ces thèmes correspondent au référentiel officiel publié par les autorités f
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_004
 
 ### Combien de questions comporte l'examen civique ?
@@ -1396,6 +1511,8 @@ L'examen comporte 40 questions QCM : 28 questions de connaissances et 12 mises e
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_005
 
@@ -1415,6 +1532,8 @@ Les trois examens civiques ont des niveaux de difficulté différents : CSP (Car
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_006
 
 ### A quoi correspond l'examen civique pour la naturalisation ?
@@ -1432,6 +1551,8 @@ L'examen civique pour la naturalisation est le test officiel demandé lorsque l'
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_007
 
@@ -1451,6 +1572,8 @@ L'examen civique pour la carte de résident est le test officiel demandé lorsqu
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_008
 
 ### A quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?
@@ -1468,6 +1591,8 @@ L'examen civique pour la carte de séjour pluriannuelle est le test officiel dem
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_009
 
@@ -1487,6 +1612,8 @@ Pour réussir l'examen civique, vous devez obtenir 80 % de bonnes réponses soit
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_010
 
 ### Que se passe-t-il si on triche à l'examen ?
@@ -1504,6 +1631,8 @@ La fraude à l'examen civique a de lourdes conséquences : vous serez immédiate
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_011
 
@@ -1523,6 +1652,8 @@ Cela dépend du type d'examen que vous passez. Le niveau pour la carte de séjou
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_012
 
 ### Quel est le niveau de français requis pour passer l'examen ?
@@ -1540,6 +1671,8 @@ L'examen se déroule uniquement en français, sans traduction disponible. Les qu
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_013
 
@@ -1561,6 +1694,8 @@ Conseil : Lisez bien les mots comme "toujours", "jamais" ou "interdit" qui vous 
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_014
 
 ### Qui peut être dispensé de passer l'examen civique ?
@@ -1579,6 +1714,8 @@ Les dispenses dépendent du titre demandé — il n'existe pas de liste universe
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_015
 
 ### Peut-on repasser l'examen si on échoue ?
@@ -1595,6 +1732,8 @@ Oui, il n'existe aucune limite de tentatives. Si vous échouez, vous pouvez rete
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_016
 
@@ -1617,6 +1756,8 @@ Dans la plupart des démarches concernées, l'examen civique doit être réussi 
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_017
 
@@ -1643,6 +1784,8 @@ Vous y trouverez les centres disponibles ainsi que les prochaines dates d'examen
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_INSCRIPTION_MENU
 
 ### 📝 Inscription, prix et organisation
@@ -1665,6 +1808,8 @@ Vous y trouverez les centres disponibles ainsi que les prochaines dates d'examen
 12. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Trouver un centre, s’inscrire, connaître le tarif et préparer le jour J. -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_018
 
@@ -1698,6 +1843,8 @@ L'inscription est simple.
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_019
 
 ### Combien coûte l'examen civique ?
@@ -1717,6 +1864,8 @@ Le tarif applicable est de 75 € vous sera demandé au moment de votre inscript
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_020
 
@@ -1745,6 +1894,8 @@ Le moyen le plus simple est de :
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_021
 
 ### Quels documents dois-je apporter le jour de l'examen ?
@@ -1769,6 +1920,8 @@ Vérifiez toujours les consignes communiquées par votre centre avant votre dép
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_022
 
 ### Puis-je changer de centre après mon inscription ?
@@ -1788,6 +1941,8 @@ Si vous souhaitez modifier votre inscription, contactez rapidement votre centre 
 5. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_023
 
@@ -1809,6 +1964,8 @@ En cas de doute sur la validité de vos documents, contactez votre centre avant 
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
 ## SCR_FAQ_024
 
 ### Comment choisir le centre d'examen le plus proche de chez moi ?
@@ -1827,3 +1984,5 @@ Vous pouvez également consulter la page de, sélectionner votre région puis ch
 4. [Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
+
+1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
