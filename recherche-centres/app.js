@@ -14,14 +14,6 @@ function normalize(value) {
   return value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
 }
 
-function parseCsv(text) {
-  const lines = text.trim().split(/\r?\n/);
-  return lines.slice(1).map((line) => {
-    const [code_postal, code_insee, commune, latitude, longitude] = line.split(",");
-    return { code_postal, code_insee, commune, latitude: Number(latitude), longitude: Number(longitude) };
-  }).filter((row) => row.code_postal && Number.isFinite(row.latitude) && Number.isFinite(row.longitude));
-}
-
 function haversine(a, b) {
   const rad = (degrees) => degrees * Math.PI / 180;
   const dLat = rad(b.latitude - a.latitude);
@@ -104,13 +96,10 @@ function showResults(commune) {
 
 async function init() {
   try {
-    let communesResponse = await fetch("data/communes_france.csv");
-    if (!communesResponse.ok) {
-      communesResponse = await fetch("../communes_france.csv");
-    }
+    const communesResponse = await fetch("data/communes_france.json", { cache: "force-cache" });
     const centresResponse = await fetch("data/centres_frate.json", { cache: "no-store" });
     if (!communesResponse.ok || !centresResponse.ok) throw new Error("Données indisponibles");
-    state.communes = parseCsv(await communesResponse.text());
+    state.communes = (await communesResponse.json()).communes || [];
     state.centres = (await centresResponse.json()).centres || [];
     try {
       const [sessionsResponse, geocodesResponse] = await Promise.all([

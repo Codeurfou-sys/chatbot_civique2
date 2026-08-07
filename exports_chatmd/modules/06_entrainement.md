@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : M’entraîner -->
-<!-- Date : 2026-08-06T16:35:17+00:00 -->
+<!-- Date : 2026-08-07T10:09:29+02:00 -->
 
 ## SCR_ENT_CR_T1_QOFF_INTRO
 

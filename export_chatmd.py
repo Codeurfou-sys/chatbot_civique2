@@ -1487,14 +1487,72 @@ class ChatMDRenderer:
             f"<!-- Date : {datetime.now().astimezone().isoformat(timespec='seconds')} -->",
             "",
         ]
-        for screen in sorted(
+        ordered_screens = sorted(
             module_screens,
             key=lambda item: (
+                0 if item.screen_id == "SCR_PASS_MENU" else 1,
+                0 if item.screen_id == "SCR_PASS_SEARCH_MENU" else 1,
                 item.subpath,
                 item.order,
                 item.screen_id,
             ),
-        ):
+        )
+        for screen in ordered_screens:
+            if (
+                module_name in {"Passer examen", "Passer mon examen"}
+                and screen.screen_id == "SCR_PASS_SEARCH_MENU"
+            ):
+                parts.append(
+                    "\n".join(
+                        [
+                            "## SCR_PASS_SEARCH_MENU",
+                            "",
+                            "### Trouver les centres les plus proches",
+                            "",
+                            "Saisissez votre commune ou votre code postal dans notre outil de proximité. "
+                            "Il calculera les trois centres FRATE les plus proches et affichera leurs prochaines sessions.",
+                            "",
+                            "1. [Ouvrir la recherche par commune ou code postal]"
+                            "(https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)",
+                            "2. [Choisir directement une région](SCR_PASS_REGIONS)",
+                            "3. [Retour au module](SCR_PASS_MENU)",
+                        ]
+                    )
+                )
+                continue
+            if (
+                module_name in {"Passer examen", "Passer mon examen"}
+                and screen.screen_id
+                in {
+                    "SCR_PASS_INPUT_ADDRESS",
+                    "SCR_PASS_INPUT_CITY",
+                    "SCR_PASS_INPUT_COMMUNE",
+                    "SCR_PASS_INPUT_CP",
+                    "SCR_PASS_INPUT_DEPT",
+                    "SCR_PASS_BAN_RESOLVE",
+                    "SCR_PASS_DISTANCE",
+                    "SCR_PASS_RESULTS_NEAR",
+                    "SCR_PASS_NO_RESULT",
+                    "SCR_PASS_NO_SESSION",
+                }
+            ):
+                parts.append(
+                    "\n".join(
+                        [
+                            f"## {screen.screen_id}",
+                            "",
+                            "### Recherche de proximité",
+                            "",
+                            "La recherche personnalisée s’effectue dans l’outil sécurisé par commune ou code postal.",
+                            "",
+                            "1. [Ouvrir la recherche des trois centres les plus proches]"
+                            "(https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/)",
+                            "2. [Choisir directement une région](SCR_PASS_REGIONS)",
+                            "3. [Retour au module](SCR_PASS_MENU)",
+                        ]
+                    )
+                )
+                continue
             parts.append(self.render_screen(screen))
         return "\n".join(parts).rstrip() + "\n"
 

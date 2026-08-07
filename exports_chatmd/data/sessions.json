@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T16:35:17+00:00",
+  "generated_at": "2026-08-07T10:09:29+02:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -49,7 +49,7 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "sessions_futures": 3,
       "ecran_centre": "SCR_PASS_CITY_VICHY",
-      "requete_ban": "Vichy 03200",
+      "requete_ban": "Vichy 03",
       "actif": "Oui",
       "_row": 50
     },

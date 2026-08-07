@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T16:35:17+00:00",
+  "generated_at": "2026-08-07T10:09:29+02:00",
   "summary": {
     "screens": 695,
     "navigation": 2732,
     "errors": 0,
     "warnings": 207,
-    "information": 872,
+    "information": 859,
     "export_allowed": true
   },
   "issues": [
@@ -6002,116 +6002,12 @@
       "value": "Au moins une session future"
     },
     {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Saisie non vide",
-      "sheet": "99_NAVIGATION",
-      "row": 1552,
-      "value": "Saisie non vide"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Centre alternatif disponible",
-      "sheet": "99_NAVIGATION",
-      "row": 1568,
-      "value": "Centre alternatif disponible"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Saisie non vide",
-      "sheet": "99_NAVIGATION",
-      "row": 1546,
-      "value": "Saisie non vide"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Saisie non vide",
-      "sheet": "99_NAVIGATION",
-      "row": 1543,
-      "value": "Saisie non vide"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Calcul terminé",
-      "sheet": "99_NAVIGATION",
-      "row": 1562,
-      "value": "Calcul terminé"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Saisie non vide",
-      "sheet": "99_NAVIGATION",
-      "row": 1549,
-      "value": "Saisie non vide"
-    },
-    {
       "level": "WARNING",
       "code": "MANUAL_CONDITION_REQUIRED",
       "message": "La navigation NAV_PASS_064 nécessite une affectation de variable avant la destination (BAN_RESULT_*).",
       "sheet": "99_NAVIGATION",
       "row": 1558,
       "value": null
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : 1 résultat pertinent",
-      "sheet": "99_NAVIGATION",
-      "row": 1555,
-      "value": "1 résultat pertinent"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Plusieurs résultats pertinents",
-      "sheet": "99_NAVIGATION",
-      "row": 1556,
-      "value": "Plusieurs résultats pertinents"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : 0 résultat pertinent",
-      "sheet": "99_NAVIGATION",
-      "row": 1557,
-      "value": "0 résultat pertinent"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Centre disponible",
-      "sheet": "99_NAVIGATION",
-      "row": 1563,
-      "value": "Centre disponible"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Centre disponible",
-      "sheet": "99_NAVIGATION",
-      "row": 1564,
-      "value": "Centre disponible"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Centre disponible",
-      "sheet": "99_NAVIGATION",
-      "row": 1565,
-      "value": "Centre disponible"
-    },
-    {
-      "level": "INFO",
-      "code": "NATURAL_LANGUAGE_CONDITION",
-      "message": "Condition conservée en commentaire : Saisie validée",
-      "sheet": "99_NAVIGATION",
-      "row": 1540,
-      "value": "Saisie validée"
     },
     {
       "level": "INFO",
