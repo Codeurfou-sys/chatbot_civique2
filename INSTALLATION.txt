@@ -1,0 +1,15 @@
+CORRECTIF COMPLET DU MODULE 07
+
+1. Copiez tous les fichiers et le dossier recherche-centres à la racine du dépôt.
+2. Conservez communes_france.csv à la racine si vous l'avez déjà ajouté.
+   Le moteur accepte aussi ce fichier dans recherche-centres/data/.
+3. Faites Commit to main, puis Push origin.
+4. Relancez l'action Actualiser les sessions d'examen.
+5. Attendez le redéploiement GitHub Pages.
+
+Adresses de test :
+https://codeurfou-sys.github.io/chatbot_civique2/
+https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/
+
+Le fichier recherche-centres.html n'est pas nécessaire :
+recherche-centres/index.html joue ce rôle.

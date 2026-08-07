@@ -25,9 +25,13 @@ def main() -> int:
         "juin": 6, "juillet": 7, "août": 8, "septembre": 9,
         "octobre": 10, "novembre": 11, "décembre": 12,
     }
-    pattern = r"^-\s+(\d{1,2})\s+(" + "|".join(months) + r")\s+(20\d{2})$"
-    for match in re.finditer(pattern, text, re.MULTILINE | re.IGNORECASE):
+    long_pattern = r"^-\s+(?:\*\*)?(\d{1,2})\s+(" + "|".join(months) + r")\s+(20\d{2})(?:\*\*)?$"
+    for match in re.finditer(long_pattern, text, re.MULTILINE | re.IGNORECASE):
         dates.append(date(int(match.group(3)), months[match.group(2).lower()], int(match.group(1))))
+
+    numeric_pattern = r"^-\s+(?:\*\*)?(\d{1,2})/(\d{1,2})/(20\d{2})(?:\*\*)?$"
+    for match in re.finditer(numeric_pattern, text, re.MULTILINE):
+        dates.append(date(int(match.group(3)), int(match.group(2)), int(match.group(1))))
 
     if not dates:
         print("Aucune date visible dans le module généré.", file=sys.stderr)
@@ -36,7 +40,12 @@ def main() -> int:
     if past:
         print(f"Dates passées détectées : {past[:5]}", file=sys.stderr)
         return 5
-    if "Ouvrir le formulaire d’inscription" not in text:
+    inscription_labels = (
+        "Ouvrir le formulaire d’inscription",
+        "S’inscrire à une session",
+        "S'inscrire à une session",
+    )
+    if not any(label in text for label in inscription_labels):
         print("Aucun lien d'inscription généré.", file=sys.stderr)
         return 6
 

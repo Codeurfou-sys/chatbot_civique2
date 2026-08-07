@@ -1370,8 +1370,15 @@ class ChatMDRenderer:
             ]
 
         lines = ["### Prochaines sessions", ""]
+        french_months = (
+            "", "janvier", "février", "mars", "avril", "mai", "juin",
+            "juillet", "août", "septembre", "octobre", "novembre", "décembre",
+        )
         for session_date in dates:
-            lines.append(f"- **{session_date.strftime('%d/%m/%Y')}**")
+            lines.append(
+                f"- {session_date.day} {french_months[session_date.month]} "
+                f"{session_date.year}"
+            )
         lines.append("")
         return lines
 
