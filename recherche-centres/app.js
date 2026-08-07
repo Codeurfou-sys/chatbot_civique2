@@ -84,7 +84,7 @@ function showResults(commune) {
     const sessionItems = (centre.sessions || []).length
       ? centre.sessions.map((date) => `<li>${formatDate(date)}</li>`).join("")
       : "<li>Consultez le formulaire pour les prochaines dates.</li>";
-    article.innerHTML = `<span class="rank">Choix ${index + 1}</span><div class="city">${centre.ville}</div><p class="meta">${centre.departement} · ${centre.region}<br><strong>${Math.round(centre.distance)} km</strong> à vol d’oiseau</p><div><strong>Prochaines sessions</strong><ul class="sessions">${sessionItems}</ul></div><a class="button" href="${centre.lien_forms}" target="_blank" rel="noopener">Voir les sessions et s’inscrire</a>`;
+    article.innerHTML = `<span class="rank">Choix ${index + 1}</span><div class="city">${centre.ville}</div><p class="meta">${centre.departement} · ${centre.region}<br><strong>${Math.round(centre.distance)} km</strong> à vol d’oiseau</p><div><strong>Prochaines sessions</strong><ul class="sessions">${sessionItems}</ul></div><a class="button" href="${centre.lien_forms}" target="_blank" rel="noopener">📝 S’inscrire à une session</a>`;
     cards.append(article);
   });
   locationSummary.textContent = `Résultats calculés depuis ${commune.commune} (${commune.code_postal}).`;

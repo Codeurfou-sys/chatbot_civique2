@@ -6056,24 +6056,7 @@ La Guadeloupe, la Martinique, la Guyane, La Réunion et Mayotte sont à la fois 
 Repérez surtout les **Alpes** au sud-est, les **Pyrénées** au sud-ouest, le **Massif central** au centre-sud, le **Jura** et les **Vosges** à l'est.
 :::
 
-<svg style="display:block;width:100%;max-width:760px;height:auto;margin:1rem auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" role="img" aria-labelledby="title desc">
-  <title id="title">Carte pédagogique des principaux massifs montagneux français</title>
-  <desc id="desc">Carte schématique de la France localisant les Alpes, les Pyrénées, le Massif central, le Jura et les Vosges.</desc>
-  <rect width="760" height="650" rx="28" fill="#fff9f2"/>
-  <text x="380" y="48" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#5c3b17">Les principaux massifs montagneux</text>
-  <path d="M250 90 L455 90 L590 190 L555 360 L465 535 L300 575 L145 435 L115 260 Z" fill="#fff" stroke="#9b8a75" stroke-width="5"/>
-  <g fill="#bd6b2d" stroke="#8d4c1d" stroke-width="2">
-    <path d="M440 390 l20 -55 18 35 22 -70 24 48 20 -42 15 84z"/>
-    <path d="M220 515 l30 -45 23 35 30 -55 28 45 30 -35 35 55z"/>
-    <path d="M300 390 l26 -60 25 40 22 -55 35 75z"/>
-    <path d="M505 250 l16 -45 17 30 16 -42 20 57z"/>
-    <path d="M490 170 l15 -35 15 24 17 -38 22 49z"/>
-  </g>
-  <g font-family="Arial" font-size="21" font-weight="700" fill="#6b3b17">
-    <text x="470" y="425">Alpes</text><text x="245" y="545">Pyrénées</text><text x="285" y="420">Massif central</text><text x="545" y="275">Jura</text><text x="535" y="145">Vosges</text>
-  </g>
-  <g font-family="Arial" font-size="16" fill="#5f5346"><text x="380" y="622" text-anchor="middle">Carte schématique — repérez surtout la position relative de chaque massif.</text></g>
-</svg>
+![Carte schématique des principaux massifs montagneux français](https://codeurfou-sys.github.io/chatbot_civique2/assets/cartes/massifs-france.svg)
 
 ##### 💡 Exemple concret
 Le mont Blanc, dans les Alpes, est le plus haut sommet de France métropolitaine.
@@ -6084,30 +6067,7 @@ Le mont Blanc, dans les Alpes, est le plus haut sommet de France métropolitaine
 Un fleuve se jette dans la mer ou l'océan. Les cinq grands fleuves à connaître sont la **Seine**, la **Loire**, la **Garonne**, le **Rhône** et le **Rhin**.
 :::
 
-<svg style="display:block;width:100%;max-width:760px;height:auto;margin:1rem auto" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 650" role="img" aria-labelledby="title desc">
-  <title id="title">Carte pédagogique des cinq grands fleuves français</title>
-  <desc id="desc">Carte schématique de la France avec la Seine, la Loire, la Garonne, le Rhône et le Rhin.</desc>
-  <rect width="760" height="650" rx="28" fill="#f4f8ff"/>
-  <text x="380" y="48" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#17365d">Les cinq grands fleuves français</text>
-  <path d="M250 90 L455 90 L590 190 L555 360 L465 535 L300 575 L145 435 L115 260 Z" fill="#fff" stroke="#7d93ad" stroke-width="5"/>
-  <g fill="none" stroke="#1687c9" stroke-width="10" stroke-linecap="round">
-    <path d="M395 195 C360 205 335 205 315 185 C285 155 245 160 205 180"/>
-    <path d="M455 305 C385 300 330 320 270 350 C215 375 175 390 135 395"/>
-    <path d="M355 425 C300 430 255 455 205 495 C180 515 155 525 135 520"/>
-    <path d="M475 220 C485 280 470 345 495 405 C510 450 505 490 485 535"/>
-    <path d="M545 145 C555 205 555 250 545 300"/>
-  </g>
-  <g font-family="Arial" font-size="22" font-weight="700" fill="#0c5f91">
-    <text x="205" y="150">Seine</text><text x="170" y="345">Loire</text><text x="175" y="475">Garonne</text><text x="505" y="390">Rhône</text><text x="570" y="235">Rhin</text>
-  </g>
-  <g font-family="Arial" font-size="16" fill="#334e68">
-    <circle cx="337" cy="190" r="5" fill="#e74c3c"/><text x="347" y="184">Paris</text>
-    <circle cx="279" cy="347" r="5" fill="#e74c3c"/><text x="289" y="342">Orléans</text>
-    <circle cx="260" cy="455" r="5" fill="#e74c3c"/><text x="270" y="450">Bordeaux</text>
-    <circle cx="480" cy="300" r="5" fill="#e74c3c"/><text x="490" y="295">Lyon</text>
-    <text x="380" y="622" text-anchor="middle">Carte schématique — les tracés facilitent la mémorisation et ne remplacent pas un atlas.</text>
-  </g>
-</svg>
+![Carte schématique des cinq grands fleuves français](https://codeurfou-sys.github.io/chatbot_civique2/assets/cartes/fleuves-france.svg)
 
 ##### 💡 Exemple concret
 Le Rhône traverse Lyon avant de rejoindre la mer Méditerranée.

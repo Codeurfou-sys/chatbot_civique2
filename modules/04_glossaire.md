@@ -214,16 +214,20 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 
 ### 📚 Parcourir par thème
 
-1. [Principes et valeurs de la République](SCR_GLO_THEME_T1)
-2. [Système institutionnel et politique](SCR_GLO_THEME_T2)
-3. [Droits et devoirs](SCR_GLO_THEME_T3)
-4. [Histoire, géographie et culture](SCR_GLO_THEME_T4)
-5. [Vivre dans la société française](SCR_GLO_THEME_T5)
+Choisissez une thématique pour découvrir les mots qui lui sont associés.
+
+1. [🇫🇷 Thème 1 : Principes et valeurs de la République](SCR_GLO_THEME_T1)
+2. [🏛️ Thème 2 : Système institutionnel et politique](SCR_GLO_THEME_T2)
+3. [⚖️ Thème 3 : Droits et devoirs](SCR_GLO_THEME_T3)
+4. [🗺️ Thème 4 : Histoire, géographie et culture](SCR_GLO_THEME_T4)
+5. [🤝 Thème 5 : Vivre dans la société française](SCR_GLO_THEME_T5)
 6. [↩️ Retour au glossaire](SCR_GLO_MENU)
 
 ## SCR_GLO_THEME_T1
 
-### Principes et valeurs de la République
+### 🇫🇷 Thème 1 : Principes et valeurs de la République
+
+Découvrez tous les mots associés au thème 1 : **« principes et valeurs de la république »**.
 
 1. [Citoyen](SCR_GLO_0019)
 2. [Constitution](SCR_GLO_0032)
@@ -247,7 +251,9 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 
 ## SCR_GLO_THEME_T2
 
-### Système institutionnel et politique
+### 🏛️ Thème 2 : Système institutionnel et politique
+
+Découvrez tous les mots associés au thème 2 : **« système institutionnel et politique »**.
 
 1. [Abstention](SCR_GLO_0001)
 2. [Assemblée nationale](SCR_GLO_0004)
@@ -287,7 +293,9 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 
 ## SCR_GLO_THEME_T3
 
-### Droits et devoirs
+### ⚖️ Thème 3 : Droits et devoirs
+
+Découvrez tous les mots associés au thème 3 : **« droits et devoirs »**.
 
 1. [Assistance à personne en danger](SCR_GLO_0005)
 2. [Charte de l'environnement](SCR_GLO_0016)
@@ -321,7 +329,9 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 
 ## SCR_GLO_THEME_T4
 
-### Histoire, géographie et culture
+### 🗺️ Thème 4 : Histoire, géographie et culture
+
+Découvrez tous les mots associés au thème 4 : **« histoire, géographie et culture »**.
 
 1. [Alpes](SCR_GLO_0002)
 2. [Bretagne](SCR_GLO_0008)
@@ -359,7 +369,9 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 
 ## SCR_GLO_THEME_T5
 
-### Vivre dans la société française
+### 🤝 Thème 5 : Vivre dans la société française
+
+Découvrez tous les mots associés au thème 5 : **« vivre dans la société française »**.
 
 1. [APL](SCR_GLO_0003)
 2. [Assurance maladie](SCR_GLO_0006)

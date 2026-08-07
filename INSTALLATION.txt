@@ -1,13 +1,26 @@
-INSTALLATION DU CHATBOT CIVIQUE V2
+CHATBOT CIVIQUE V3 — INSTALLATION DES CORRECTIFS
 
-1. Décompressez ce paquet hors du dépôt GitHub.
-2. Copiez tout son contenu à la racine du dossier Chatbot_civique2.
-3. Acceptez le remplacement de chat_bot.md et des fichiers du dossier modules.
-4. Le fichier .github/workflows/update-examens.yml remplace l'ancien workflow.
-5. Dans GitHub Desktop, créez un commit : "Intégration du Chatbot Civique V2 complet".
-6. Cliquez sur Push origin.
-7. Testez le fichier complet dans ChatMD avec son URL raw GitHub.
+1. Fermez les fichiers du projet éventuellement ouverts.
+2. Copiez tout le contenu de ce dossier à la racine de votre dépôt Chatbot_civique2.
+3. Acceptez le remplacement des fichiers existants.
+4. Dans GitHub Desktop, vérifiez les changements puis créez un commit nommé :
+   Correctifs pédagogiques et visuels V3
+5. Cliquez sur Push origin.
+6. Attendez la fin du déploiement GitHub Pages avant de tester les cartes,
+   le minuteur et la recherche de proximité dans ChatMD.
 
-IMPORTANT
-Le workflow a été sécurisé : l'actualisation quotidienne des sessions ne
-remplace plus l'ensemble du chatbot. Elle actualise uniquement le module 07.
+FICHIERS PRINCIPAUX
+
+- chat_bot.md : chatbot complet à charger dans ChatMD ;
+- modules/02_bilan.md à modules/07_passer_examen.md : modules corrigés ;
+- minuteur-examen/index.html : minuteur partagé de 45 minutes ;
+- assets/cartes/ : cartes de géographie compatibles avec ChatMD ;
+- recherche-centres/app.js : nouveau libellé du bouton d'inscription ;
+- postprocess_module07.py : préserve la présentation du module 07 après chaque actualisation ;
+- sync_module07_into_chatbot.py et le workflow : préservent le chatbot complet.
+
+LIEN DE TEST
+
+https://chatmd.forge.apps.education.fr/#https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/chat_bot.md
+
+Si une ancienne version apparaît, utilisez Ctrl + F5 ou une fenêtre de navigation privée.

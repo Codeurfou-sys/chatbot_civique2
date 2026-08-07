@@ -34,8 +34,8 @@ Sélectionnez votre précédent résultat sur 25.
 <label for="score_precedent">Dernier score :</label>
 <select name="score_precedent" id="score_precedent" data-selected="`@score_precedent`">
   <option value="">À sélectionner</option>
-  <option value="-1">Je n'ai pas retenu le score de mon dernier bilan de progression</option>
-  <option value="-2">Je n'ai pas retenu le score de mon 1er bilan</option>
+  <option value="NON_RETENU_PROG">Je n'ai pas retenu le score de mon dernier bilan de progression</option>
+  <option value="NON_RETENU_INIT">Je n'ai pas retenu le score de mon 1er bilan</option>
   <option value="0">0 / 25</option>
   <option value="1">1 / 25</option>
   <option value="2">2 / 25</option>
@@ -72,7 +72,7 @@ Sélectionnez votre précédent résultat sur 25.
 
 ### 📈 Avant de lancer votre bilan de progression
 
-`if @score_precedent == -1 || @score_precedent == -2`
+`if @score_precedent == "NON_RETENU_PROG" || @score_precedent == "NON_RETENU_INIT"`
 :::info ℹ️ Aucun problème
 Ce n'est pas grave, vous pouvez tout de même lancer un bilan de progression, mais à la fin, veillez à noter votre score sur une feuille, votre ordinateur ou votre téléphone pour pouvoir le noter lors d'un prochain bilan de progression.
 :::
@@ -98,7 +98,7 @@ Cette information permet d'adapter le niveau des nouvelles questions.
 
 ## SCR_BIL_PROG_SCENARIO_DEC
 
-### Votre bilan de progression va commencer
+### 📈 Votre bilan de progression est prêt
 
 `@score = 0`
 `@score_t1 = 0`
@@ -107,7 +107,62 @@ Cette information permet d'adapter le niveau des nouvelles questions.
 `@score_t4 = 0`
 `@score_t5 = 0`
 
-Une nouvelle série aléatoire de 25 questions va mesurer votre progression.
+:::info 🎯 Une série adaptée à votre progression
+Grâce à vos réponses, nous vous avons préparé une nouvelle série de **25 questions de consolidation**. Elle est adaptée à votre rythme de révision et permettra de mesurer les acquis récents.
+:::
+
+### Êtes-vous prêt à commencer votre bilan de progression ?
+
+Vous allez répondre à **25 questions**. Installez-vous au calme avant de démarrer.
+
+1. [▶️ Démarrer mon bilan de progression](SCR_BIL_PROG_START_DEC)
+2. [↩️ Modifier le délai de révision](SCR_BIL_PROG_DELAI)
+
+## SCR_BIL_PROG_SCENARIO_EQ
+
+### 📈 Votre bilan de progression est prêt
+
+`@score = 0`
+`@score_t1 = 0`
+`@score_t2 = 0`
+`@score_t3 = 0`
+`@score_t4 = 0`
+`@score_t5 = 0`
+
+:::info 🎯 Une série adaptée à votre progression
+Grâce à vos réponses, nous vous avons préparé une nouvelle série de **25 questions équilibrées**. Elle permettra de mesurer votre progression tout en renforçant les notions encore fragiles.
+:::
+
+### Êtes-vous prêt à commencer votre bilan de progression ?
+
+Vous allez répondre à **25 questions**. Installez-vous au calme avant de démarrer.
+
+1. [▶️ Démarrer mon bilan de progression](SCR_BIL_PROG_START_EQ)
+2. [↩️ Modifier le délai de révision](SCR_BIL_PROG_DELAI)
+
+## SCR_BIL_PROG_SCENARIO_INT
+
+### 📈 Votre bilan de progression est prêt
+
+`@score = 0`
+`@score_t1 = 0`
+`@score_t2 = 0`
+`@score_t3 = 0`
+`@score_t4 = 0`
+`@score_t5 = 0`
+
+:::info 🎯 Une série adaptée à votre progression
+Grâce à vos réponses, nous vous avons préparé une nouvelle série de **25 questions approfondies**. Elle permettra de mesurer votre progression après votre période de révision.
+:::
+
+### Êtes-vous prêt à commencer votre bilan de progression ?
+
+Vous allez répondre à **25 questions**. Installez-vous au calme avant de démarrer.
+
+1. [▶️ Démarrer mon bilan de progression](SCR_BIL_PROG_START_INT)
+2. [↩️ Modifier le délai de révision](SCR_BIL_PROG_DELAI)
+
+## SCR_BIL_PROG_START_DEC
 
 `if @type_examen == "CSP"`
 !SelectNext: BIL_CSP_DEC_V01_Q01 / BIL_CSP_DEC_V02_Q01 / BIL_CSP_DEC_V03_Q01 / BIL_CSP_DEC_V04_Q01 / BIL_CSP_DEC_V05_Q01 / BIL_CSP_DEC_V06_Q01 / BIL_CSP_DEC_V07_Q01 / BIL_CSP_DEC_V08_Q01 / BIL_CSP_DEC_V09_Q01 / BIL_CSP_DEC_V10_Q01
@@ -119,18 +174,7 @@ Une nouvelle série aléatoire de 25 questions va mesurer votre progression.
 !SelectNext: BIL_NAT_DEC_V01_Q01 / BIL_NAT_DEC_V02_Q01 / BIL_NAT_DEC_V03_Q01 / BIL_NAT_DEC_V04_Q01 / BIL_NAT_DEC_V05_Q01 / BIL_NAT_DEC_V06_Q01 / BIL_NAT_DEC_V07_Q01 / BIL_NAT_DEC_V08_Q01 / BIL_NAT_DEC_V09_Q01 / BIL_NAT_DEC_V10_Q01
 `endif`
 
-## SCR_BIL_PROG_SCENARIO_EQ
-
-### Votre bilan de progression va commencer
-
-`@score = 0`
-`@score_t1 = 0`
-`@score_t2 = 0`
-`@score_t3 = 0`
-`@score_t4 = 0`
-`@score_t5 = 0`
-
-Une nouvelle série aléatoire de 25 questions va mesurer votre progression.
+## SCR_BIL_PROG_START_EQ
 
 `if @type_examen == "CSP"`
 !SelectNext: BIL_CSP_EQ_V01_Q01 / BIL_CSP_EQ_V02_Q01 / BIL_CSP_EQ_V03_Q01 / BIL_CSP_EQ_V04_Q01 / BIL_CSP_EQ_V05_Q01 / BIL_CSP_EQ_V06_Q01 / BIL_CSP_EQ_V07_Q01 / BIL_CSP_EQ_V08_Q01 / BIL_CSP_EQ_V09_Q01 / BIL_CSP_EQ_V10_Q01
@@ -142,18 +186,43 @@ Une nouvelle série aléatoire de 25 questions va mesurer votre progression.
 !SelectNext: BIL_NAT_EQ_V01_Q01 / BIL_NAT_EQ_V02_Q01 / BIL_NAT_EQ_V03_Q01 / BIL_NAT_EQ_V04_Q01 / BIL_NAT_EQ_V05_Q01 / BIL_NAT_EQ_V06_Q01 / BIL_NAT_EQ_V07_Q01 / BIL_NAT_EQ_V08_Q01 / BIL_NAT_EQ_V09_Q01 / BIL_NAT_EQ_V10_Q01
 `endif`
 
-## SCR_BIL_PROG_SCENARIO_INT
+## SCR_BIL_PROG_START_INT
 
-### Votre bilan de progression va commencer
+`if @type_examen == "CSP"`
+!SelectNext: BIL_CSP_INT_V01_Q01 / BIL_CSP_INT_V02_Q01 / BIL_CSP_INT_V03_Q01 / BIL_CSP_INT_V04_Q01 / BIL_CSP_INT_V05_Q01 / BIL_CSP_INT_V06_Q01 / BIL_CSP_INT_V07_Q01 / BIL_CSP_INT_V08_Q01 / BIL_CSP_INT_V09_Q01 / BIL_CSP_INT_V10_Q01
+`endif`
+`if @type_examen == "CR"`
+!SelectNext: BIL_CR_INT_V01_Q01 / BIL_CR_INT_V02_Q01 / BIL_CR_INT_V03_Q01 / BIL_CR_INT_V04_Q01 / BIL_CR_INT_V05_Q01 / BIL_CR_INT_V06_Q01 / BIL_CR_INT_V07_Q01 / BIL_CR_INT_V08_Q01 / BIL_CR_INT_V09_Q01 / BIL_CR_INT_V10_Q01
+`endif`
+`if @type_examen == "NAT"`
+!SelectNext: BIL_NAT_INT_V01_Q01 / BIL_NAT_INT_V02_Q01 / BIL_NAT_INT_V03_Q01 / BIL_NAT_INT_V04_Q01 / BIL_NAT_INT_V05_Q01 / BIL_NAT_INT_V06_Q01 / BIL_NAT_INT_V07_Q01 / BIL_NAT_INT_V08_Q01 / BIL_NAT_INT_V09_Q01 / BIL_NAT_INT_V10_Q01
+`endif`
 
-`@score = 0`
-`@score_t1 = 0`
-`@score_t2 = 0`
-`@score_t3 = 0`
-`@score_t4 = 0`
-`@score_t5 = 0`
+## SCR_BIL_START_DEC
 
-Une nouvelle série aléatoire de 25 questions va mesurer votre progression.
+`if @type_examen == "CSP"`
+!SelectNext: BIL_CSP_DEC_V01_Q01 / BIL_CSP_DEC_V02_Q01 / BIL_CSP_DEC_V03_Q01 / BIL_CSP_DEC_V04_Q01 / BIL_CSP_DEC_V05_Q01 / BIL_CSP_DEC_V06_Q01 / BIL_CSP_DEC_V07_Q01 / BIL_CSP_DEC_V08_Q01 / BIL_CSP_DEC_V09_Q01 / BIL_CSP_DEC_V10_Q01
+`endif`
+`if @type_examen == "CR"`
+!SelectNext: BIL_CR_DEC_V01_Q01 / BIL_CR_DEC_V02_Q01 / BIL_CR_DEC_V03_Q01 / BIL_CR_DEC_V04_Q01 / BIL_CR_DEC_V05_Q01 / BIL_CR_DEC_V06_Q01 / BIL_CR_DEC_V07_Q01 / BIL_CR_DEC_V08_Q01 / BIL_CR_DEC_V09_Q01 / BIL_CR_DEC_V10_Q01
+`endif`
+`if @type_examen == "NAT"`
+!SelectNext: BIL_NAT_DEC_V01_Q01 / BIL_NAT_DEC_V02_Q01 / BIL_NAT_DEC_V03_Q01 / BIL_NAT_DEC_V04_Q01 / BIL_NAT_DEC_V05_Q01 / BIL_NAT_DEC_V06_Q01 / BIL_NAT_DEC_V07_Q01 / BIL_NAT_DEC_V08_Q01 / BIL_NAT_DEC_V09_Q01 / BIL_NAT_DEC_V10_Q01
+`endif`
+
+## SCR_BIL_START_EQ
+
+`if @type_examen == "CSP"`
+!SelectNext: BIL_CSP_EQ_V01_Q01 / BIL_CSP_EQ_V02_Q01 / BIL_CSP_EQ_V03_Q01 / BIL_CSP_EQ_V04_Q01 / BIL_CSP_EQ_V05_Q01 / BIL_CSP_EQ_V06_Q01 / BIL_CSP_EQ_V07_Q01 / BIL_CSP_EQ_V08_Q01 / BIL_CSP_EQ_V09_Q01 / BIL_CSP_EQ_V10_Q01
+`endif`
+`if @type_examen == "CR"`
+!SelectNext: BIL_CR_EQ_V01_Q01 / BIL_CR_EQ_V02_Q01 / BIL_CR_EQ_V03_Q01 / BIL_CR_EQ_V04_Q01 / BIL_CR_EQ_V05_Q01 / BIL_CR_EQ_V06_Q01 / BIL_CR_EQ_V07_Q01 / BIL_CR_EQ_V08_Q01 / BIL_CR_EQ_V09_Q01 / BIL_CR_EQ_V10_Q01
+`endif`
+`if @type_examen == "NAT"`
+!SelectNext: BIL_NAT_EQ_V01_Q01 / BIL_NAT_EQ_V02_Q01 / BIL_NAT_EQ_V03_Q01 / BIL_NAT_EQ_V04_Q01 / BIL_NAT_EQ_V05_Q01 / BIL_NAT_EQ_V06_Q01 / BIL_NAT_EQ_V07_Q01 / BIL_NAT_EQ_V08_Q01 / BIL_NAT_EQ_V09_Q01 / BIL_NAT_EQ_V10_Q01
+`endif`
+
+## SCR_BIL_START_INT
 
 `if @type_examen == "CSP"`
 !SelectNext: BIL_CSP_INT_V01_Q01 / BIL_CSP_INT_V02_Q01 / BIL_CSP_INT_V03_Q01 / BIL_CSP_INT_V04_Q01 / BIL_CSP_INT_V05_Q01 / BIL_CSP_INT_V06_Q01 / BIL_CSP_INT_V07_Q01 / BIL_CSP_INT_V08_Q01 / BIL_CSP_INT_V09_Q01 / BIL_CSP_INT_V10_Q01
@@ -211,7 +280,7 @@ Une nouvelle série aléatoire de 25 questions va mesurer votre progression.
 
 ## SCR_BIL_SCENARIO_DEC
 
-### Votre scénario : Découverte
+### 🌱 Votre bilan personnalisé est prêt
 
 `@score = 0`
 `@score_t1 = 0`
@@ -220,21 +289,20 @@ Une nouvelle série aléatoire de 25 questions va mesurer votre progression.
 `@score_t4 = 0`
 `@score_t5 = 0`
 
-Une nouvelle série aléatoire de 25 questions va commencer.
+:::info 🎯 Un parcours adapté à vos réponses
+Grâce à vos choix, nous vous avons préparé une série de **25 questions de découverte**, adaptée à votre niveau actuel et à votre objectif de passation de l’examen. Elle vous permettra d’identifier sereinement vos premiers acquis et les notions à découvrir.
+:::
 
-`if @type_examen == "CSP"`
-!SelectNext: BIL_CSP_DEC_V01_Q01 / BIL_CSP_DEC_V02_Q01 / BIL_CSP_DEC_V03_Q01 / BIL_CSP_DEC_V04_Q01 / BIL_CSP_DEC_V05_Q01 / BIL_CSP_DEC_V06_Q01 / BIL_CSP_DEC_V07_Q01 / BIL_CSP_DEC_V08_Q01 / BIL_CSP_DEC_V09_Q01 / BIL_CSP_DEC_V10_Q01
-`endif`
-`if @type_examen == "CR"`
-!SelectNext: BIL_CR_DEC_V01_Q01 / BIL_CR_DEC_V02_Q01 / BIL_CR_DEC_V03_Q01 / BIL_CR_DEC_V04_Q01 / BIL_CR_DEC_V05_Q01 / BIL_CR_DEC_V06_Q01 / BIL_CR_DEC_V07_Q01 / BIL_CR_DEC_V08_Q01 / BIL_CR_DEC_V09_Q01 / BIL_CR_DEC_V10_Q01
-`endif`
-`if @type_examen == "NAT"`
-!SelectNext: BIL_NAT_DEC_V01_Q01 / BIL_NAT_DEC_V02_Q01 / BIL_NAT_DEC_V03_Q01 / BIL_NAT_DEC_V04_Q01 / BIL_NAT_DEC_V05_Q01 / BIL_NAT_DEC_V06_Q01 / BIL_NAT_DEC_V07_Q01 / BIL_NAT_DEC_V08_Q01 / BIL_NAT_DEC_V09_Q01 / BIL_NAT_DEC_V10_Q01
-`endif`
+### Êtes-vous prêt à commencer votre bilan ?
+
+Prenez le temps de lire chaque proposition. Une seule réponse est attendue par question.
+
+1. [▶️ Démarrer mon bilan](SCR_BIL_START_DEC)
+2. [↩️ Modifier mes choix](SCR_BIL_EXAMEN)
 
 ## SCR_BIL_SCENARIO_EQ
 
-### Votre scénario : Équilibré
+### ⚖️ Votre bilan personnalisé est prêt
 
 `@score = 0`
 `@score_t1 = 0`
@@ -243,21 +311,20 @@ Une nouvelle série aléatoire de 25 questions va commencer.
 `@score_t4 = 0`
 `@score_t5 = 0`
 
-Une nouvelle série aléatoire de 25 questions va commencer.
+:::info 🎯 Un parcours adapté à vos réponses
+Grâce à vos choix, nous vous avons préparé une série de **25 questions équilibrées**, adaptée à votre niveau et à votre objectif de passation de l’examen. Elle associe des repères essentiels et des questions plus exigeantes pour situer précisément vos acquis.
+:::
 
-`if @type_examen == "CSP"`
-!SelectNext: BIL_CSP_EQ_V01_Q01 / BIL_CSP_EQ_V02_Q01 / BIL_CSP_EQ_V03_Q01 / BIL_CSP_EQ_V04_Q01 / BIL_CSP_EQ_V05_Q01 / BIL_CSP_EQ_V06_Q01 / BIL_CSP_EQ_V07_Q01 / BIL_CSP_EQ_V08_Q01 / BIL_CSP_EQ_V09_Q01 / BIL_CSP_EQ_V10_Q01
-`endif`
-`if @type_examen == "CR"`
-!SelectNext: BIL_CR_EQ_V01_Q01 / BIL_CR_EQ_V02_Q01 / BIL_CR_EQ_V03_Q01 / BIL_CR_EQ_V04_Q01 / BIL_CR_EQ_V05_Q01 / BIL_CR_EQ_V06_Q01 / BIL_CR_EQ_V07_Q01 / BIL_CR_EQ_V08_Q01 / BIL_CR_EQ_V09_Q01 / BIL_CR_EQ_V10_Q01
-`endif`
-`if @type_examen == "NAT"`
-!SelectNext: BIL_NAT_EQ_V01_Q01 / BIL_NAT_EQ_V02_Q01 / BIL_NAT_EQ_V03_Q01 / BIL_NAT_EQ_V04_Q01 / BIL_NAT_EQ_V05_Q01 / BIL_NAT_EQ_V06_Q01 / BIL_NAT_EQ_V07_Q01 / BIL_NAT_EQ_V08_Q01 / BIL_NAT_EQ_V09_Q01 / BIL_NAT_EQ_V10_Q01
-`endif`
+### Êtes-vous prêt à commencer votre bilan ?
+
+Prenez le temps de lire chaque proposition. Une seule réponse est attendue par question.
+
+1. [▶️ Démarrer mon bilan](SCR_BIL_START_EQ)
+2. [↩️ Modifier mes choix](SCR_BIL_EXAMEN)
 
 ## SCR_BIL_SCENARIO_INT
 
-### Votre scénario : Intensif
+### 🚀 Votre bilan personnalisé est prêt
 
 `@score = 0`
 `@score_t1 = 0`
@@ -266,17 +333,16 @@ Une nouvelle série aléatoire de 25 questions va commencer.
 `@score_t4 = 0`
 `@score_t5 = 0`
 
-Une nouvelle série aléatoire de 25 questions va commencer.
+:::info 🎯 Un parcours adapté à vos réponses
+Grâce à vos choix, nous vous avons préparé une série de **25 questions renforcées**, adaptée à votre niveau et à la proximité de votre examen. Elle vous aidera à vérifier rapidement votre maîtrise des notions prioritaires.
+:::
 
-`if @type_examen == "CSP"`
-!SelectNext: BIL_CSP_INT_V01_Q01 / BIL_CSP_INT_V02_Q01 / BIL_CSP_INT_V03_Q01 / BIL_CSP_INT_V04_Q01 / BIL_CSP_INT_V05_Q01 / BIL_CSP_INT_V06_Q01 / BIL_CSP_INT_V07_Q01 / BIL_CSP_INT_V08_Q01 / BIL_CSP_INT_V09_Q01 / BIL_CSP_INT_V10_Q01
-`endif`
-`if @type_examen == "CR"`
-!SelectNext: BIL_CR_INT_V01_Q01 / BIL_CR_INT_V02_Q01 / BIL_CR_INT_V03_Q01 / BIL_CR_INT_V04_Q01 / BIL_CR_INT_V05_Q01 / BIL_CR_INT_V06_Q01 / BIL_CR_INT_V07_Q01 / BIL_CR_INT_V08_Q01 / BIL_CR_INT_V09_Q01 / BIL_CR_INT_V10_Q01
-`endif`
-`if @type_examen == "NAT"`
-!SelectNext: BIL_NAT_INT_V01_Q01 / BIL_NAT_INT_V02_Q01 / BIL_NAT_INT_V03_Q01 / BIL_NAT_INT_V04_Q01 / BIL_NAT_INT_V05_Q01 / BIL_NAT_INT_V06_Q01 / BIL_NAT_INT_V07_Q01 / BIL_NAT_INT_V08_Q01 / BIL_NAT_INT_V09_Q01 / BIL_NAT_INT_V10_Q01
-`endif`
+### Êtes-vous prêt à commencer votre bilan ?
+
+Prenez le temps de lire chaque proposition. Une seule réponse est attendue par question.
+
+1. [▶️ Démarrer mon bilan](SCR_BIL_START_INT)
+2. [↩️ Modifier mes choix](SCR_BIL_EXAMEN)
 
 ## BIL_CSP_DEC_V01_Q01
 
@@ -1732,7 +1798,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -3190,7 +3261,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -4648,7 +4724,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -6106,7 +6187,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -7564,7 +7650,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -9022,7 +9113,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -10480,7 +10576,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -11938,7 +12039,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -13396,7 +13502,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -14854,7 +14965,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -16312,7 +16428,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -17770,7 +17891,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -19228,7 +19354,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -20686,7 +20817,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -22144,7 +22280,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -23602,7 +23743,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -25060,7 +25206,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -26518,7 +26669,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -27976,7 +28132,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -29434,7 +29595,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -30892,7 +31058,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -32350,7 +32521,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -33808,7 +33984,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -35266,7 +35447,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -36724,7 +36910,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -38182,7 +38373,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -39640,7 +39836,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -41098,7 +41299,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -42556,7 +42762,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -44014,7 +44225,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -45486,7 +45702,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -46950,7 +47171,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -48424,7 +48650,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -49888,7 +50119,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -51352,7 +51588,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -52818,7 +53059,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -54282,7 +54528,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -55750,7 +56001,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -57222,7 +57478,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -58686,7 +58947,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -60150,7 +60416,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -61608,7 +61879,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -63072,7 +63348,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -64530,7 +64811,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -65994,7 +66280,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -67454,7 +67745,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -68912,7 +69208,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -70376,7 +70677,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -71834,7 +72140,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -73298,7 +73609,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -74760,7 +75076,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -76222,7 +76543,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -77684,7 +78010,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -79142,7 +79473,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -80600,7 +80936,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -82068,7 +82409,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -83532,7 +83878,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -84996,7 +85347,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -86462,7 +86818,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -87926,7 +88287,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -89312,7 +89678,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -90698,7 +91069,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -92084,7 +92460,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -93470,7 +93851,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -94856,7 +95242,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -96242,7 +96633,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -97628,7 +98024,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -99014,7 +99415,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -100400,7 +100806,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -101786,7 +102197,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -103172,7 +103588,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -104558,7 +104979,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -105944,7 +106370,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -107330,7 +107761,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -108716,7 +109152,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -110102,7 +110543,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -111488,7 +111934,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -112874,7 +113325,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -114260,7 +114716,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -115646,7 +116107,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -117032,7 +117498,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -118418,7 +118889,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -119804,7 +120280,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -121190,7 +121671,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -122576,7 +123062,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -123962,7 +124453,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -125348,7 +125844,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -126734,7 +127235,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -128120,7 +128626,12 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -129506,6 +130017,11 @@ Maintenez votre excellent niveau avec un examen blanc et quelques questions diff
 1. [📚 Commencer mes révisions](SCR_REV_MENU)
 2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [🎯 Préparer un examen blanc](SCR_PREP_MENU)
+`if @mode_bilan == "INIT"`
+5. [📈 Faire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
+`if @mode_bilan == "PROG"`
 5. [📈 Refaire un bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
+`endif`
 6. [🔄 Refaire un premier bilan @mode_bilan=INIT](SCR_BIL_EXAMEN)
 7. [🏠 Retour au menu principal](MENU_PRINCIPAL)

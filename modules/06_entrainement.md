@@ -715,15 +715,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -1170,15 +1176,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -1625,15 +1637,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -2080,15 +2098,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -2535,15 +2559,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -2990,15 +3020,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -3445,15 +3481,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -3900,15 +3942,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -4355,15 +4403,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -4810,15 +4864,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -5241,15 +5301,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -5656,15 +5722,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -6071,15 +6143,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -6486,15 +6564,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -6901,15 +6985,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -7316,15 +7406,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -7731,15 +7827,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -8146,15 +8248,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -8561,15 +8669,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -8976,15 +9090,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -9447,15 +9567,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -9902,15 +10028,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -10357,15 +10489,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -10812,15 +10950,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -11267,15 +11411,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -11722,15 +11872,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -12177,15 +12333,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -12632,15 +12794,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -13087,15 +13255,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -13542,15 +13716,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -13973,15 +14153,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -14388,15 +14574,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -14803,15 +14995,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -15218,15 +15416,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -15633,15 +15837,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -16048,15 +16258,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -16463,15 +16679,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -16878,15 +17100,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -17293,15 +17521,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -17708,15 +17942,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -18179,15 +18419,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -18634,15 +18880,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -19089,15 +19341,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -19544,15 +19802,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -19999,15 +20263,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -20454,15 +20724,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -20909,15 +21185,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -21364,15 +21646,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -21819,15 +22107,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -22274,15 +22568,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -22705,15 +23005,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -23120,15 +23426,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -23535,15 +23847,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -23950,15 +24268,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -24365,15 +24689,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -24780,15 +25110,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -25195,15 +25531,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -25610,15 +25952,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -26025,15 +26373,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -26440,15 +26794,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -26911,15 +27271,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -27366,15 +27732,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -27821,15 +28193,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -28276,15 +28654,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -28731,15 +29115,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -29186,15 +29576,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -29641,15 +30037,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -30096,15 +30498,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -30551,15 +30959,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -31006,15 +31420,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -31437,15 +31857,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -31852,15 +32278,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -32267,15 +32699,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -32682,15 +33120,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -33097,15 +33541,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -33512,15 +33962,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -33927,15 +34383,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -34342,15 +34804,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -34757,15 +35225,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -35172,15 +35646,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -35643,15 +36123,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -36098,15 +36584,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -36553,15 +37045,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -37008,15 +37506,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -37463,15 +37967,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -37918,15 +38428,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -38373,15 +38889,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -38828,15 +39350,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -39283,15 +39811,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -39738,15 +40272,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -40169,15 +40709,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -40584,15 +41130,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -40999,15 +41551,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -41414,15 +41972,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -41829,15 +42393,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -42244,15 +42814,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -42659,15 +43235,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -43074,15 +43656,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -43489,15 +44077,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -43904,15 +44498,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -44375,15 +44975,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -44830,15 +45436,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -45285,15 +45897,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -45740,15 +46358,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -46195,15 +46819,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -46650,15 +47280,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -47105,15 +47741,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -47560,15 +48202,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -48015,15 +48663,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -48470,15 +49124,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -48901,15 +49561,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -49316,15 +49982,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -49731,15 +50403,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -50146,15 +50824,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -50561,15 +51245,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -50976,15 +51666,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -51391,15 +52087,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -51806,15 +52508,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -52221,15 +52929,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -52636,15 +53350,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T1_MENU)
 `endif`
 
 `if @score == 10`
@@ -53107,15 +53827,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -53562,15 +54288,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -54017,15 +54749,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -54472,15 +55210,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -54927,15 +55671,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -55382,15 +56132,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -55837,15 +56593,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -56292,15 +57054,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -56747,15 +57515,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -57202,15 +57976,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -57633,15 +58413,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -58048,15 +58834,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -58463,15 +59255,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -58878,15 +59676,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -59293,15 +60097,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -59708,15 +60518,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -60123,15 +60939,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -60538,15 +61360,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -60953,15 +61781,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -61368,15 +62202,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T2_MENU)
 `endif`
 
 `if @score == 10`
@@ -61839,15 +62679,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -62294,15 +63140,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -62749,15 +63601,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -63204,15 +64062,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -63659,15 +64523,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -64114,15 +64984,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -64569,15 +65445,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -65024,15 +65906,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -65479,15 +66367,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -65934,15 +66828,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -66365,15 +67265,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -66780,15 +67686,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -67195,15 +68107,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -67610,15 +68528,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -68025,15 +68949,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -68440,15 +69370,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -68855,15 +69791,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -69270,15 +70212,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -69685,15 +70633,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -70100,15 +71054,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T3_MENU)
 `endif`
 
 `if @score == 10`
@@ -70567,15 +71527,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -71022,15 +71988,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -71477,15 +72449,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -71932,15 +72910,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -72383,15 +73367,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -72834,15 +73824,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -73285,15 +74281,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -73740,15 +74742,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -74195,15 +75203,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -74650,15 +75664,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -75081,15 +76101,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -75496,15 +76522,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -75911,15 +76943,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -76326,15 +77364,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -76741,15 +77785,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -77156,15 +78206,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -77571,15 +78627,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -77986,15 +79048,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -78401,15 +79469,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -78816,15 +79890,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T4_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T4_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T4_MENU)
 `endif`
 
 `if @score == 10`
@@ -79287,15 +80367,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -79742,15 +80828,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -80197,15 +81289,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -80652,15 +81750,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -81107,15 +82211,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -81562,15 +82672,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -82017,15 +83133,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -82472,15 +83594,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -82927,15 +84055,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -83382,15 +84516,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -83813,15 +84953,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -84228,15 +85374,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -84643,15 +85795,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -85058,15 +86216,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -85473,15 +86637,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -85888,15 +87058,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -86303,15 +87479,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -86718,15 +87900,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -87133,15 +88321,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -87548,15 +88742,21 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T5_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T5_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+
+1. [📚 Revoir les cours de cette thématique](SCR_REV_T5_MENU)
 `endif`
 
 `if @score == 10`
@@ -88019,15 +89219,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -88474,15 +89674,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -88929,15 +90129,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -89384,15 +90584,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -89839,15 +91039,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -90294,15 +91494,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -90749,15 +91949,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -91204,15 +92404,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -91659,15 +92859,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -92114,15 +93314,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T1_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T1_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -92585,15 +93785,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -93040,15 +94240,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -93495,15 +94695,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -93950,15 +95150,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -94405,15 +95605,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -94860,15 +96060,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -95315,15 +96515,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -95770,15 +96970,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -96225,15 +97425,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -96680,15 +97880,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T2_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T2_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -97151,15 +98351,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -97606,15 +98806,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -98061,15 +99261,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -98516,15 +99716,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -98971,15 +100171,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -99426,15 +100626,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -99881,15 +101081,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -100336,15 +101536,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -100791,15 +101991,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`
@@ -101246,15 +102446,15 @@ Vous avez obtenu **`@score` / 10**.
 ### Conseils personnalisés
 
 `if @score <= 5`
-🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
+🧭 **Cette thématique reste à consolider.** Reprenez les corrections des questions manquées, puis consultez les cours associés. Réalisez ensuite de nouveaux entraînements sur cette même thématique jusqu’à obtenir **10/10 trois fois de suite**.
 `endif`
 
 `if @score >= 6 && @score <= 7`
-🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis [Revoir les cours de cette thématique](SCR_REV_T3_MENU). Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
+🌱 **Vous progressez sur cette thématique.** Repérez les notions qui reviennent dans vos erreurs, puis consultez les cours associés. Visez maintenant **deux scores d’au moins 8/10 consécutifs** avant de changer de thématique.
 `endif`
 
 `if @score >= 8 && @score <= 9`
-👍 **La thématique est presque maîtrisée.** [Revoir les cours de cette thématique](SCR_REV_T3_MENU) pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
+👍 **La thématique est presque maîtrisée.** consultez les cours associés pour les questions encore hésitantes, puis réalisez un nouvel entraînement afin de confirmer votre résultat.
 `endif`
 
 `if @score == 10`

@@ -24,7 +24,11 @@ Chaque examen blanc reproduit le format officiel :
 
 ### ⏱️ Avant de commencer
 
-Vous allez répondre à **40 questions**. Pour vous placer dans les conditions réelles, prévoyez au maximum **45 minutes**.
+Vous allez répondre à **40 questions**. Pour vous placer dans les conditions réelles, prévoyez au maximum **45 minutes**. Vous pouvez programmer un minuteur de 45 minutes sur votre téléphone, par exemple, afin de vous entraîner dans les conditions réelles de l’examen.
+
+:::info ⏱️ Minuteur intégré
+Un minuteur de **45 minutes** démarrera automatiquement lorsque vous lancerez les **28 premières questions**. Il restera visible au début de chaque question.
+:::
 
 Pendant l’épreuve :
 
@@ -87,6 +91,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 1`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Quelle condition est nécessaire pour voter aux élections européennes ?**
@@ -115,6 +128,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q02
 
 `@err_CSP_V01_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -145,6 +167,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Qui peut voter aux élections en France ?**
@@ -173,6 +204,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q04
 
 `@err_CSP_V01_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -203,6 +243,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Qu'est-ce que la liberté d'expression ?**
@@ -231,6 +280,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q06
 
 `@err_CSP_V01_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -261,6 +319,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Le 11 novembre est un jour férié. À quoi correspond cette date ?**
@@ -289,6 +356,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q08
 
 `@err_CSP_V01_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -319,6 +395,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **De quelle année date la Déclaration des droits de l'homme et du citoyen ?**
@@ -347,6 +432,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q10
 
 `@err_CSP_V01_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -377,6 +471,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quel numéro d'urgence permet d'appeler les pompiers ?**
@@ -405,6 +508,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q12
 
 `@err_CSP_V01_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -435,6 +547,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Qu'est-ce que l'égalité ?**
@@ -463,6 +584,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q14
 
 `@err_CSP_V01_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -493,6 +623,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Que signifie la liberté ?**
@@ -521,6 +660,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q16
 
 `@err_CSP_V01_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -551,6 +699,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quel symbole de la République française est tricolore ?**
@@ -579,6 +736,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q18
 
 `@err_CSP_V01_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -609,6 +775,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Qui sanctionne l'auteur d'un vol ?**
@@ -637,6 +812,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q20
 
 `@err_CSP_V01_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -667,6 +851,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Qui élit les députés européens ?**
@@ -695,6 +888,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q22
 
 `@err_CSP_V01_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -725,6 +927,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Que célèbre-t-on le 14 juillet ?**
@@ -753,6 +964,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q24
 
 `@err_CSP_V01_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -783,6 +1003,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Pour combien de temps est élu le président de la République française ?**
@@ -811,6 +1040,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q26
 
 `@err_CSP_V01_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -841,6 +1079,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V01_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Citez un pays ou une région du monde qui a été colonisé par la France.**
@@ -869,6 +1116,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V01_Q28
 
 `@err_CSP_V01_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -907,6 +1163,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CSP_V01_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami ne comprend pas pourquoi les libertés individuelles peuvent être limitées par la loi dans une démocratie.
@@ -937,6 +1202,15 @@ Un ami ne comprend pas pourquoi les libertés individuelles peuvent être limit�
 ## EXAM_CSP_V01_Q30
 
 `@err_CSP_V01_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -969,6 +1243,15 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 
 `@err_CSP_V01_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Lors d'un débat sur un fait divers grave, un participant pense que la peine de mort pourrait encore être appliquée en France dans certains cas exceptionnels.
@@ -999,6 +1282,15 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 ## EXAM_CSP_V01_Q32
 
 `@err_CSP_V01_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -1031,6 +1323,15 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 
 `@err_CSP_V01_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'une révision, on vous demande de citer un texte adopté pendant la Révolution française.
@@ -1061,6 +1362,15 @@ Lors d'une révision, on vous demande de citer un texte adopté pendant la Révo
 ## EXAM_CSP_V01_Q34
 
 `@err_CSP_V01_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -1093,6 +1403,15 @@ Lors d'un débat public, un participant expose longuement son opinion sur un suj
 
 `@err_CSP_V01_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Lors d'un examen blanc, on vous demande de citer le texte fondateur établissant en France les droits et les devoirs de chaque citoyen.
@@ -1123,6 +1442,15 @@ Lors d'un examen blanc, on vous demande de citer le texte fondateur établissant
 ## EXAM_CSP_V01_Q36
 
 `@err_CSP_V01_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -1155,6 +1483,15 @@ Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'h
 
 `@err_CSP_V01_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » et vous demande de quoi il s'agit.
@@ -1185,6 +1522,15 @@ Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » e
 ## EXAM_CSP_V01_Q38
 
 `@err_CSP_V01_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -1217,6 +1563,15 @@ Pour décorer l'accueil de son organisme de formation, une collègue hésite ent
 
 `@err_CSP_V01_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un collègue étranger vous demande la date exacte de la fête nationale française pour poser ses congés.
@@ -1248,6 +1603,15 @@ Un collègue étranger vous demande la date exacte de la fête nationale frança
 
 `@err_CSP_V01_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un voisin souhaite adopter une démarche plus responsable envers l'environnement mais ne sait pas par où commencer.
@@ -1265,7 +1629,7 @@ Un voisin souhaite adopter une démarche plus responsable envers l'environnement
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V01_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V01_RESULT)
 
 ## EXAM_CSP_V01_Q40_FAUX
 
@@ -1273,7 +1637,7 @@ Un voisin souhaite adopter une démarche plus responsable envers l'environnement
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V01_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V01_RESULT)
 
 ## EXAM_CSP_V01_CORRIGE
 
@@ -1941,49 +2305,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2`
@@ -1993,49 +2357,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1`
@@ -2045,49 +2409,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0`
@@ -2143,6 +2507,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 2`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Qui possède le pouvoir exécutif ?**
@@ -2171,6 +2544,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q02
 
 `@err_CSP_V02_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -2201,6 +2583,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Quel écrivain est français ?**
@@ -2229,6 +2620,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q04
 
 `@err_CSP_V02_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -2259,6 +2659,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Est-ce que le président de la République a tous les pouvoirs ?**
@@ -2287,6 +2696,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q06
 
 `@err_CSP_V02_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -2317,6 +2735,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Le principe d'égalité signifie que :**
@@ -2345,6 +2772,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q08
 
 `@err_CSP_V02_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -2375,6 +2811,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quel est le rôle de la police ?**
@@ -2403,6 +2848,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q10
 
 `@err_CSP_V02_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -2433,6 +2887,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Qu'est-ce qu'un numéro d'urgence ?**
@@ -2461,6 +2924,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q12
 
 `@err_CSP_V02_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -2491,6 +2963,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Qu'est-ce que la laïcité ?**
@@ -2519,6 +3000,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q14
 
 `@err_CSP_V02_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -2549,6 +3039,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **En quelle année a été créée la Communauté Économique Européenne (CEE) ?**
@@ -2577,6 +3076,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q16
 
 `@err_CSP_V02_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -2607,6 +3115,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Dans quelle République est-on aujourd'hui ?**
@@ -2635,6 +3152,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q18
 
 `@err_CSP_V02_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -2665,6 +3191,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Qui était Joséphine Baker ?**
@@ -2693,6 +3228,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q20
 
 `@err_CSP_V02_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -2723,6 +3267,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
@@ -2751,6 +3304,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q22
 
 `@err_CSP_V02_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -2781,6 +3343,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe...) ?**
@@ -2809,6 +3380,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q24
 
 `@err_CSP_V02_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -2839,6 +3419,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **En cas de problème de santé non urgent, à qui faut-il s'adresser en premier ?**
@@ -2867,6 +3456,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q26
 
 `@err_CSP_V02_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -2897,6 +3495,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V02_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **L'autorité judiciaire est exercée par :**
@@ -2925,6 +3532,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V02_Q28
 
 `@err_CSP_V02_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -2963,6 +3579,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CSP_V02_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Dans la rue, un ami jette une bouteille vide par terre en affirmant que « ce n'est pas bien grave ».
@@ -2993,6 +3618,15 @@ Dans la rue, un ami jette une bouteille vide par terre en affirmant que « ce n'
 ## EXAM_CSP_V02_Q30
 
 `@err_CSP_V02_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -3025,6 +3659,15 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@err_CSP_V02_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonnet phrygien et vous demande qui elle représente.
@@ -3055,6 +3698,15 @@ Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonn
 ## EXAM_CSP_V02_Q32
 
 `@err_CSP_V02_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -3087,6 +3739,15 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 
 `@err_CSP_V02_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Pour un exposé scolaire, un enfant vous demande de citer, dans l'ordre, les couleurs du drapeau français.
@@ -3117,6 +3778,15 @@ Pour un exposé scolaire, un enfant vous demande de citer, dans l'ordre, les cou
 ## EXAM_CSP_V02_Q34
 
 `@err_CSP_V02_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -3149,6 +3819,15 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limi
 
 `@err_CSP_V02_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Pour un exposé sur la République, un camarade de classe vous demande de citer un symbole officiel de la France, en pensant spontanément au coq.
@@ -3179,6 +3858,15 @@ Pour un exposé sur la République, un camarade de classe vous demande de citer 
 ## EXAM_CSP_V02_Q36
 
 `@err_CSP_V02_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -3211,6 +3899,15 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est l'é
 
 `@err_CSP_V02_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami confond plusieurs symboles français et vous demande lequel est tricolore.
@@ -3241,6 +3938,15 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 ## EXAM_CSP_V02_Q38
 
 `@err_CSP_V02_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -3273,6 +3979,15 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 
 `@err_CSP_V02_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un ami récemment naturalisé vous demande ce que lui permet concrètement sa nouvelle citoyenneté française.
@@ -3304,6 +4019,15 @@ Un ami récemment naturalisé vous demande ce que lui permet concrètement sa no
 
 `@err_CSP_V02_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Une amie vous demande si une femme a le droit de recourir à un avortement en France.
@@ -3321,7 +4045,7 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V02_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V02_RESULT)
 
 ## EXAM_CSP_V02_Q40_FAUX
 
@@ -3329,7 +4053,7 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V02_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V02_RESULT)
 
 ## EXAM_CSP_V02_CORRIGE
 
@@ -3997,52 +4721,52 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2`
@@ -4052,52 +4776,52 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1`
@@ -4107,52 +4831,52 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0`
@@ -4208,6 +4932,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 3`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **« La France est une République indivisible, ..., démocratique et sociale. » Quel mot complète correctement l'article 1er de la Constitution ?**
@@ -4236,6 +4969,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q02
 
 `@err_CSP_V03_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -4266,6 +5008,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Parmi ces textes, lequel garantit les droits et libertés en France ?**
@@ -4294,6 +5045,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q04
 
 `@err_CSP_V03_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -4324,6 +5084,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Qui réside au palais de l'Élysée ?**
@@ -4352,6 +5121,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q06
 
 `@err_CSP_V03_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -4382,6 +5160,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Qu'est-ce que la liberté d'expression ?**
@@ -4410,6 +5197,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q08
 
 `@err_CSP_V03_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -4440,6 +5236,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Qui doit respecter la loi ?**
@@ -4468,6 +5273,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q10
 
 `@err_CSP_V03_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -4498,6 +5312,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Dans quelle ville se trouve la tour Eiffel ?**
@@ -4526,6 +5349,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q12
 
 `@err_CSP_V03_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -4556,6 +5388,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Jeter une bouteille dans la rue est :**
@@ -4584,6 +5425,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q14
 
 `@err_CSP_V03_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -4614,6 +5464,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Citez un pays ou une région du monde qui a été colonisé par la France.**
@@ -4642,6 +5501,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q16
 
 `@err_CSP_V03_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -4672,6 +5540,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quand a eu lieu la Première Guerre mondiale ?**
@@ -4700,6 +5577,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q18
 
 `@err_CSP_V03_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -4730,6 +5616,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **En quelle année a débuté la Révolution française ?**
@@ -4758,6 +5653,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q20
 
 `@err_CSP_V03_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -4788,6 +5692,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quand sont élus les sénateurs ?**
@@ -4816,6 +5729,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q22
 
 `@err_CSP_V03_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -4846,6 +5768,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Quelle île est un département d'outre-mer français ?**
@@ -4874,6 +5805,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q24
 
 `@err_CSP_V03_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -4904,6 +5844,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Quelle est la durée légale du temps de travail par semaine ?**
@@ -4932,6 +5881,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q26
 
 `@err_CSP_V03_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -4962,6 +5920,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V03_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Le travail non déclaré est :**
@@ -4990,6 +5957,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V03_Q28
 
 `@err_CSP_V03_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -5028,6 +6004,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CSP_V03_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un chef d'atelier vous confie qu'il préfère ne pas embaucher de femmes pour les postes physiques de son entreprise, estimant que c'est son droit d'employeur.
@@ -5058,6 +6043,15 @@ Un chef d'atelier vous confie qu'il préfère ne pas embaucher de femmes pour le
 ## EXAM_CSP_V03_Q30
 
 `@err_CSP_V03_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -5090,6 +6084,15 @@ Lors d'un cours de préparation civique, le formateur vous demande comment s'app
 
 `@err_CSP_V03_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un ami athée craint des difficultés administratives en France parce qu'il ne pratique aucune religion.
@@ -5120,6 +6123,15 @@ Un ami athée craint des difficultés administratives en France parce qu'il ne p
 ## EXAM_CSP_V03_Q32
 
 `@err_CSP_V03_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -5152,6 +6164,15 @@ Lors d'une formation sur les droits humains, on vous demande de définir ce qu'e
 
 `@err_CSP_V03_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un collègue se moque ouvertement d'une personne en situation de handicap au travail, en affirmant que c'est « juste de l'humour ».
@@ -5182,6 +6203,15 @@ Un collègue se moque ouvertement d'une personne en situation de handicap au tra
 ## EXAM_CSP_V03_Q34
 
 `@err_CSP_V03_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -5214,6 +6244,15 @@ Pour décorer l'accueil de son organisme de formation, une collègue hésite ent
 
 `@err_CSP_V03_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un ami s'interroge sur la place réelle du français dans les administrations et les tribunaux français.
@@ -5244,6 +6283,15 @@ Un ami s'interroge sur la place réelle du français dans les administrations et
 ## EXAM_CSP_V03_Q36
 
 `@err_CSP_V03_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -5276,6 +6324,15 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 
 `@err_CSP_V03_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami vous demande le nom du texte historique qui énonce les droits et devoirs des personnes résidant en France.
@@ -5306,6 +6363,15 @@ Un ami vous demande le nom du texte historique qui énonce les droits et devoirs
 ## EXAM_CSP_V03_Q38
 
 `@err_CSP_V03_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -5338,6 +6404,15 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@err_CSP_V03_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Lors d'un cours de préparation civique, on vous demande d'expliquer avec vos propres mots ce que signifie le mot « fraternité » dans la devise française.
@@ -5369,6 +6444,15 @@ Lors d'un cours de préparation civique, on vous demande d'expliquer avec vos pr
 
 `@err_CSP_V03_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Lors d'un cours de droit civique, on vous demande de définir ce qu'est une infraction.
@@ -5386,7 +6470,7 @@ Lors d'un cours de droit civique, on vous demande de définir ce qu'est une infr
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V03_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V03_RESULT)
 
 ## EXAM_CSP_V03_Q40_FAUX
 
@@ -5394,7 +6478,7 @@ Lors d'un cours de droit civique, on vous demande de définir ce qu'est une infr
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V03_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V03_RESULT)
 
 ## EXAM_CSP_V03_CORRIGE
 
@@ -6062,52 +7146,52 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2`
@@ -6117,52 +7201,52 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1`
@@ -6172,52 +7256,52 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0`
@@ -6273,6 +7357,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 4`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Lequel de ces personnages historiques est français ?**
@@ -6301,6 +7394,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q02
 
 `@err_CSP_V04_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -6331,6 +7433,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Qu'est-ce que le Louvre ?**
@@ -6359,6 +7470,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q04
 
 `@err_CSP_V04_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -6389,6 +7509,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Un enfant peut-il refuser d'aller à l'école pour une raison religieuse ?**
@@ -6417,6 +7546,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q06
 
 `@err_CSP_V04_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -6447,6 +7585,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Qui était Jean de La Fontaine ?**
@@ -6475,6 +7622,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q08
 
 `@err_CSP_V04_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -6505,6 +7661,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Est-ce que le président de la République a tous les pouvoirs ?**
@@ -6533,6 +7698,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q10
 
 `@err_CSP_V04_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -6563,6 +7737,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quel écrivain est français ?**
@@ -6591,6 +7774,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q12
 
 `@err_CSP_V04_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -6621,6 +7813,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Qui a rendu l'école gratuite, laïque et obligatoire ?**
@@ -6649,6 +7850,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q14
 
 `@err_CSP_V04_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -6679,6 +7889,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quelle est l'infraction la plus grave ?**
@@ -6707,6 +7926,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q16
 
 `@err_CSP_V04_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -6737,6 +7965,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quel est le rôle des députés ?**
@@ -6765,6 +8002,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q18
 
 `@err_CSP_V04_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -6795,6 +8041,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Qui était Marc Chagall ?**
@@ -6823,6 +8078,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q20
 
 `@err_CSP_V04_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -6853,6 +8117,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Concernant l'accès aux soins, quelle proposition est correcte ?**
@@ -6881,6 +8154,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q22
 
 `@err_CSP_V04_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -6911,6 +8193,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Que se passe-t-il si un ministre ne respecte pas la loi ?**
@@ -6939,6 +8230,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q24
 
 `@err_CSP_V04_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -6969,6 +8269,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Qui élit les députés ?**
@@ -6997,6 +8306,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q26
 
 `@err_CSP_V04_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -7027,6 +8345,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V04_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Concernant les partis politiques, quelle proposition est correcte ?**
@@ -7055,6 +8382,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V04_Q28
 
 `@err_CSP_V04_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -7093,6 +8429,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CSP_V04_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un parent d'élève pense que la laïcité sert uniquement à interdire toutes les religions à l'école.
@@ -7123,6 +8468,15 @@ Un parent d'élève pense que la laïcité sert uniquement à interdire toutes l
 ## EXAM_CSP_V04_Q30
 
 `@err_CSP_V04_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -7155,6 +8509,15 @@ Pour un exposé sur la République, un camarade de classe vous demande de citer 
 
 `@err_CSP_V04_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un ami sans religion se demande quelle liberté fondamentale protège son choix de ne pas croire.
@@ -7185,6 +8548,15 @@ Un ami sans religion se demande quelle liberté fondamentale protège son choix 
 ## EXAM_CSP_V04_Q32
 
 `@err_CSP_V04_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -7217,6 +8589,15 @@ Pendant votre préparation, le formateur vous demande de compléter de mémoire 
 
 `@err_CSP_V04_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'une compétition sportive, un ami remarque un coq peint sur le maillot de l'équipe de France et vous demande sa signification.
@@ -7247,6 +8628,15 @@ Lors d'une compétition sportive, un ami remarque un coq peint sur le maillot de
 ## EXAM_CSP_V04_Q34
 
 `@err_CSP_V04_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -7279,6 +8669,15 @@ Un ami récemment naturalisé vous demande ce que lui permet concrètement sa no
 
 `@err_CSP_V04_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un collègue originaire d'une région bilingue affirme que l'anglais pourrait devenir une langue officielle en France, au même titre que le français.
@@ -7309,6 +8708,15 @@ Un collègue originaire d'une région bilingue affirme que l'anglais pourrait de
 ## EXAM_CSP_V04_Q36
 
 `@err_CSP_V04_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -7341,6 +8749,15 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 
 `@err_CSP_V04_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Une amie vous confie avoir été victime de violences de la part de son conjoint, mais hésite à en parler.
@@ -7371,6 +8788,15 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 ## EXAM_CSP_V04_Q38
 
 `@err_CSP_V04_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -7403,6 +8829,15 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 
 `@err_CSP_V04_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Lors d'un examen blanc, on vous demande de citer le texte fondateur établissant en France les droits et les devoirs de chaque citoyen.
@@ -7434,6 +8869,15 @@ Lors d'un examen blanc, on vous demande de citer le texte fondateur établissant
 
 `@err_CSP_V04_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami pense que les droits individuels sont totalement illimités et qu'aucune règle ne peut jamais les encadrer.
@@ -7451,7 +8895,7 @@ Un ami pense que les droits individuels sont totalement illimités et qu'aucune 
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V04_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V04_RESULT)
 
 ## EXAM_CSP_V04_Q40_FAUX
 
@@ -7459,7 +8903,7 @@ Un ami pense que les droits individuels sont totalement illimités et qu'aucune 
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V04_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V04_RESULT)
 
 ## EXAM_CSP_V04_CORRIGE
 
@@ -8127,52 +9571,52 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -8182,52 +9626,52 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -8237,52 +9681,52 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -8337,6 +9781,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 5`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **L'autorité parentale prévoit l'obligation :**
@@ -8365,6 +9818,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q02
 
 `@err_CSP_V05_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -8395,6 +9857,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Pour combien de temps sont élus les députés ?**
@@ -8423,6 +9894,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q04
 
 `@err_CSP_V05_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -8453,6 +9933,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Que permet la citoyenneté française ?**
@@ -8481,6 +9970,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q06
 
 `@err_CSP_V05_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -8511,6 +10009,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quel État n'est pas membre de l'Union européenne ?**
@@ -8539,6 +10046,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q08
 
 `@err_CSP_V05_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -8569,6 +10085,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Que doit faire un employeur pour fixer un salaire ?**
@@ -8597,6 +10122,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q10
 
 `@err_CSP_V05_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -8627,6 +10161,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe...) ?**
@@ -8655,6 +10198,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q12
 
 `@err_CSP_V05_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -8685,6 +10237,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Quelle proposition est correcte ? La liberté d'expression :**
@@ -8713,6 +10274,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q14
 
 `@err_CSP_V05_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -8743,6 +10313,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Que célèbre-t-on le 14 juillet ?**
@@ -8771,6 +10350,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q16
 
 `@err_CSP_V05_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -8801,6 +10389,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Que doit faire une personne en cas d'accident ?**
@@ -8829,6 +10426,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q18
 
 `@err_CSP_V05_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -8859,6 +10465,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?**
@@ -8887,6 +10502,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q20
 
 `@err_CSP_V05_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -8917,6 +10541,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quelle île est un département d'outre-mer français ?**
@@ -8945,6 +10578,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q22
 
 `@err_CSP_V05_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -8975,6 +10617,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Qui est aidé par France Travail ?**
@@ -9003,6 +10654,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q24
 
 `@err_CSP_V05_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -9033,6 +10693,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **De quelle année date la Déclaration des droits de l'homme et du citoyen ?**
@@ -9061,6 +10730,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q26
 
 `@err_CSP_V05_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -9091,6 +10769,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V05_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Quel symbole de la République française est tricolore ?**
@@ -9119,6 +10806,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V05_Q28
 
 `@err_CSP_V05_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -9157,6 +10853,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CSP_V05_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami vous demande le nom du texte historique qui énonce les droits et devoirs des personnes résidant en France.
@@ -9187,6 +10892,15 @@ Un ami vous demande le nom du texte historique qui énonce les droits et devoirs
 ## EXAM_CSP_V05_Q30
 
 `@err_CSP_V05_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -9219,6 +10933,15 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 
 `@err_CSP_V05_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Une amie vous demande si une femme a le droit de recourir à un avortement en France.
@@ -9249,6 +10972,15 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 ## EXAM_CSP_V05_Q32
 
 `@err_CSP_V05_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -9281,6 +11013,15 @@ Lors d'un cours de préparation civique, le formateur vous demande comment s'app
 
 `@err_CSP_V05_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'une compétition sportive, un ami remarque un coq peint sur le maillot de l'équipe de France et vous demande sa signification.
@@ -9311,6 +11052,15 @@ Lors d'une compétition sportive, un ami remarque un coq peint sur le maillot de
 ## EXAM_CSP_V05_Q34
 
 `@err_CSP_V05_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -9343,6 +11093,15 @@ Dans une zone rurale, un habitant se demande quel est précisément le rôle de 
 
 `@err_CSP_V05_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » et vous demande de quoi il s'agit.
@@ -9373,6 +11132,15 @@ Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » e
 ## EXAM_CSP_V05_Q36
 
 `@err_CSP_V05_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -9405,6 +11173,15 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_CSP_V05_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Lors d'un débat sur un fait divers grave, un participant pense que la peine de mort pourrait encore être appliquée en France dans certains cas exceptionnels.
@@ -9435,6 +11212,15 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 ## EXAM_CSP_V05_Q38
 
 `@err_CSP_V05_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -9467,6 +11253,15 @@ Un ami envisage de changer de religion mais craint que cela ne soit interdit par
 
 `@err_CSP_V05_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limiter ses déchets.
@@ -9498,6 +11293,15 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limi
 
 `@err_CSP_V05_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Lors d'un examen blanc, on vous demande de définir précisément ce qu'est la laïcité, au-delà de la simple neutralité.
@@ -9515,7 +11319,7 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est la l
 `@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V05_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V05_RESULT)
 
 ## EXAM_CSP_V05_Q40_FAUX
 
@@ -9523,7 +11327,7 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est la l
 
 `@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V05_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V05_RESULT)
 
 ## EXAM_CSP_V05_CORRIGE
 
@@ -10191,49 +11995,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -10243,49 +12047,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -10295,49 +12099,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -10392,6 +12196,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 6`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Qui était une chanteuse française célèbre ?**
@@ -10420,6 +12233,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q02
 
 `@err_CSP_V06_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -10450,6 +12272,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Qui nomme le Premier ministre ?**
@@ -10478,6 +12309,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q04
 
 `@err_CSP_V06_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -10508,6 +12348,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quand a eu lieu la Seconde Guerre mondiale ?**
@@ -10536,6 +12385,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q06
 
 `@err_CSP_V06_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -10566,6 +12424,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?**
@@ -10594,6 +12461,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q08
 
 `@err_CSP_V06_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -10624,6 +12500,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **En quoi consiste la traite des êtres humains ?**
@@ -10652,6 +12537,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q10
 
 `@err_CSP_V06_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -10682,6 +12576,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quelle ville est un grand port maritime ?**
@@ -10710,6 +12613,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q12
 
 `@err_CSP_V06_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -10740,6 +12652,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Qui élit les députés européens ?**
@@ -10768,6 +12689,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q14
 
 `@err_CSP_V06_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -10798,6 +12728,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quelle condition est nécessaire pour voter aux élections européennes ?**
@@ -10826,6 +12765,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q16
 
 `@err_CSP_V06_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -10856,6 +12804,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quelle chaîne de montagnes est située entre la France et l'Italie ?**
@@ -10884,6 +12841,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q18
 
 `@err_CSP_V06_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -10914,6 +12880,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Qui sanctionne l'auteur d'un vol ?**
@@ -10942,6 +12917,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q20
 
 `@err_CSP_V06_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -10972,6 +12956,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quelle proposition est correcte ? La liberté d'expression :**
@@ -11000,6 +12993,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q22
 
 `@err_CSP_V06_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -11030,6 +13032,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Quelle liberté permet à une personne de ne pas avoir de religion ?**
@@ -11058,6 +13069,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q24
 
 `@err_CSP_V06_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -11088,6 +13108,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Qu'est-ce qu'une infraction ?**
@@ -11116,6 +13145,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q26
 
 `@err_CSP_V06_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -11146,6 +13184,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V06_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **L'autorité parentale prévoit l'obligation :**
@@ -11174,6 +13221,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V06_Q28
 
 `@err_CSP_V06_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -11212,6 +13268,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CSP_V06_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un collègue originaire d'une région bilingue affirme que l'anglais pourrait devenir une langue officielle en France, au même titre que le français.
@@ -11242,6 +13307,15 @@ Un collègue originaire d'une région bilingue affirme que l'anglais pourrait de
 ## EXAM_CSP_V06_Q30
 
 `@err_CSP_V06_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -11274,6 +13348,15 @@ Un ami confond le rôle de la police avec celui d'un tribunal.
 
 `@err_CSP_V06_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Lors d'un débat, un participant affirme que l'égalité signifie que tout le monde doit recevoir le même salaire, quel que soit son travail.
@@ -11304,6 +13387,15 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 ## EXAM_CSP_V06_Q32
 
 `@err_CSP_V06_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -11336,6 +13428,15 @@ Un ami confond plusieurs symboles français et pense que la Marseillaise est une
 
 `@err_CSP_V06_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limiter ses déchets.
@@ -11366,6 +13467,15 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limi
 ## EXAM_CSP_V06_Q34
 
 `@err_CSP_V06_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -11398,6 +13508,15 @@ Lors d'une visite du musée de l'Histoire de France, le guide évoque le texte f
 
 `@err_CSP_V06_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un voisin envisage de déposer sa machine à laver cassée sur le trottoir devant chez lui, en dehors des jours de collecte.
@@ -11428,6 +13547,15 @@ Un voisin envisage de déposer sa machine à laver cassée sur le trottoir devan
 ## EXAM_CSP_V06_Q36
 
 `@err_CSP_V06_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -11460,6 +13588,15 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 
 `@err_CSP_V06_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Vous êtes témoin d'un accident de la route et une personne se trouve blessée au sol.
@@ -11490,6 +13627,15 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 ## EXAM_CSP_V06_Q38
 
 `@err_CSP_V06_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -11522,6 +13668,15 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 
 `@err_CSP_V06_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'hymne national qui est joué.
@@ -11553,6 +13708,15 @@ Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'h
 
 `@err_CSP_V06_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Une amie vous demande si une femme a le droit de recourir à un avortement en France.
@@ -11570,7 +13734,7 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V06_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V06_RESULT)
 
 ## EXAM_CSP_V06_Q40_FAUX
 
@@ -11578,7 +13742,7 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V06_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V06_RESULT)
 
 ## EXAM_CSP_V06_CORRIGE
 
@@ -12246,49 +14410,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH04 == 2`
@@ -12298,49 +14462,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH04 == 1`
@@ -12350,49 +14514,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH04 == 0`
@@ -12445,6 +14609,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q01 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Quelle est la durée légale du temps de travail par semaine ?**
@@ -12473,6 +14646,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q02
 
 `@err_CSP_V07_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -12503,6 +14685,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Que signifie le mot « fraternité » dans la devise française ?**
@@ -12531,6 +14722,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q04
 
 `@err_CSP_V07_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -12561,6 +14761,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Parmi ces textes, lequel garantit les droits et libertés en France ?**
@@ -12589,6 +14798,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q06
 
 `@err_CSP_V07_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -12619,6 +14837,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Lequel de ces symboles représente officiellement la République française ?**
@@ -12647,6 +14874,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q08
 
 `@err_CSP_V07_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -12677,6 +14913,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Qu'est-ce que le SMIC ?**
@@ -12705,6 +14950,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q10
 
 `@err_CSP_V07_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -12735,6 +14989,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Une personne étrangère en situation régulière peut créer son entreprise :**
@@ -12763,6 +15026,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q12
 
 `@err_CSP_V07_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -12793,6 +15065,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Qui était Charles Baudelaire ?**
@@ -12821,6 +15102,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q14
 
 `@err_CSP_V07_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -12851,6 +15141,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Qui peut voter aux élections en France ?**
@@ -12879,6 +15178,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q16
 
 `@err_CSP_V07_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -12909,6 +15217,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quelle est la monnaie utilisée en France ?**
@@ -12937,6 +15254,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q18
 
 `@err_CSP_V07_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -12967,6 +15293,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?**
@@ -12995,6 +15330,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q20
 
 `@err_CSP_V07_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -13025,6 +15369,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Dans quelle ville se trouve la tour Eiffel ?**
@@ -13053,6 +15406,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q22
 
 `@err_CSP_V07_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -13083,6 +15445,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Quand faut-il déclarer son enfant au service d'état civil de la mairie ?**
@@ -13111,6 +15482,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q24
 
 `@err_CSP_V07_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -13141,6 +15521,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Quel symbole de la République française est tricolore ?**
@@ -13169,6 +15558,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q26
 
 `@err_CSP_V07_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -13199,6 +15597,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V07_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Combien y a-t-il de régions en France métropolitaine ?**
@@ -13227,6 +15634,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V07_Q28
 
 `@err_CSP_V07_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -13267,6 +15683,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@exam_variant = 7`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » et vous demande de quoi il s'agit.
@@ -13297,6 +15722,15 @@ Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » e
 ## EXAM_CSP_V07_Q30
 
 `@err_CSP_V07_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -13329,6 +15763,15 @@ Un ami sans religion se demande quelle liberté fondamentale protège son choix 
 
 `@err_CSP_V07_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un voisin envisage de créer une association sportive de quartier et vous demande à quoi sert concrètement ce type de structure.
@@ -13359,6 +15802,15 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 ## EXAM_CSP_V07_Q32
 
 `@err_CSP_V07_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -13391,6 +15843,15 @@ Un ami pense qu'il ne risque rien s'il ne respecte pas une loi, tant que personn
 
 `@err_CSP_V07_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un touriste étranger vous demande quel est le régime politique actuel de la France.
@@ -13421,6 +15882,15 @@ Un touriste étranger vous demande quel est le régime politique actuel de la Fr
 ## EXAM_CSP_V07_Q34
 
 `@err_CSP_V07_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -13453,6 +15923,15 @@ Un chef d'atelier vous confie qu'il préfère ne pas embaucher de femmes pour le
 
 `@err_CSP_V07_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un ami pense que les libertés individuelles sont absolues et qu'aucune règle ne peut jamais les limiter.
@@ -13483,6 +15962,15 @@ Un ami pense que les libertés individuelles sont absolues et qu'aucune règle n
 ## EXAM_CSP_V07_Q36
 
 `@err_CSP_V07_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -13515,6 +16003,15 @@ Un ami récemment naturalisé vous demande ce que lui permet concrètement sa no
 
 `@err_CSP_V07_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Lors d'un cours de droit civique, on vous présente plusieurs infractions et vous devez identifier la plus grave.
@@ -13545,6 +16042,15 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 ## EXAM_CSP_V07_Q38
 
 `@err_CSP_V07_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -13577,6 +16083,15 @@ Lors d'un cours de préparation civique, le formateur demande à quelle date rem
 
 `@err_CSP_V07_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Lors d'une compétition sportive, un ami remarque un coq peint sur le maillot de l'équipe de France et vous demande sa signification.
@@ -13608,6 +16123,15 @@ Lors d'une compétition sportive, un ami remarque un coq peint sur le maillot de
 
 `@err_CSP_V07_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Lors d'un cours de droit civique, on vous demande de définir ce qu'est une infraction.
@@ -13625,7 +16149,7 @@ Lors d'un cours de droit civique, on vous demande de définir ce qu'est une infr
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V07_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V07_RESULT)
 
 ## EXAM_CSP_V07_Q40_FAUX
 
@@ -13633,7 +16157,7 @@ Lors d'un cours de droit civique, on vous demande de définir ce qu'est une infr
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V07_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V07_RESULT)
 
 ## EXAM_CSP_V07_CORRIGE
 
@@ -14301,49 +16825,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2`
@@ -14353,49 +16877,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1`
@@ -14405,49 +16929,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0`
@@ -14501,6 +17025,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 8`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Quel est le rôle de la gendarmerie ?**
@@ -14529,6 +17062,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q02
 
 `@err_CSP_V08_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -14559,6 +17101,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Quelle ville est située au bord de la mer Méditerranée ?**
@@ -14587,6 +17138,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q04
 
 `@err_CSP_V08_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -14617,6 +17177,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Pour combien de temps est élu le président de la République française ?**
@@ -14645,6 +17214,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q06
 
 `@err_CSP_V08_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -14675,6 +17253,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quelle est la date de la fête nationale française ?**
@@ -14703,6 +17290,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q08
 
 `@err_CSP_V08_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -14733,6 +17329,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **En quelle année l'esclavage a-t-il été aboli définitivement en France ?**
@@ -14761,6 +17366,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q10
 
 `@err_CSP_V08_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -14791,6 +17405,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quel écrivain est français ?**
@@ -14819,6 +17442,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q12
 
 `@err_CSP_V08_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -14849,6 +17481,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Qui est aidé par France Travail ?**
@@ -14877,6 +17518,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q14
 
 `@err_CSP_V08_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -14907,6 +17557,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Une personne a-t-elle le droit de ne pas croire en une religion ?**
@@ -14935,6 +17594,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q16
 
 `@err_CSP_V08_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -14965,6 +17633,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **De quelle année date la Déclaration des droits de l'homme et du citoyen ?**
@@ -14993,6 +17670,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q18
 
 `@err_CSP_V08_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -15023,6 +17709,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **À quoi correspond la date du 14 juillet ?**
@@ -15051,6 +17746,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q20
 
 `@err_CSP_V08_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -15081,6 +17785,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quelle guerre a eu lieu entre 1914 et 1918 ?**
@@ -15109,6 +17822,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q22
 
 `@err_CSP_V08_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -15139,6 +17861,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Quel numéro d'urgence permet d'appeler les pompiers ?**
@@ -15167,6 +17898,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q24
 
 `@err_CSP_V08_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -15197,6 +17937,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Jusqu'à quel âge l'école est-elle obligatoire ?**
@@ -15225,6 +17974,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q26
 
 `@err_CSP_V08_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -15255,6 +18013,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V08_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Pourquoi l'année 1958 est-elle importante pour la France ?**
@@ -15283,6 +18050,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V08_Q28
 
 `@err_CSP_V08_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -15321,6 +18097,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CSP_V08_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami confond plusieurs symboles français et pense que la Marseillaise est une chanson de variété récente.
@@ -15351,6 +18136,15 @@ Un ami confond plusieurs symboles français et pense que la Marseillaise est une
 ## EXAM_CSP_V08_Q30
 
 `@err_CSP_V08_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -15383,6 +18177,15 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 
 `@err_CSP_V08_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'hymne national qui est joué.
@@ -15413,6 +18216,15 @@ Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'h
 ## EXAM_CSP_V08_Q32
 
 `@err_CSP_V08_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -15445,6 +18257,15 @@ Un voisin souhaite adopter une démarche plus responsable envers l'environnement
 
 `@err_CSP_V08_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un ami confond plusieurs textes juridiques et vous demande lequel garantit réellement les droits et libertés en France.
@@ -15475,6 +18296,15 @@ Un ami confond plusieurs textes juridiques et vous demande lequel garantit réel
 ## EXAM_CSP_V08_Q34
 
 `@err_CSP_V08_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -15507,6 +18337,15 @@ Un voisin envisage de déposer sa machine à laver cassée sur le trottoir devan
 
 `@err_CSP_V08_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Lors d'une formation sur les droits humains, on vous demande de définir ce qu'est la traite des êtres humains.
@@ -15537,6 +18376,15 @@ Lors d'une formation sur les droits humains, on vous demande de définir ce qu'e
 ## EXAM_CSP_V08_Q36
 
 `@err_CSP_V08_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -15569,6 +18417,15 @@ Une famille envisage de retirer son enfant de l'école certains jours pour des m
 
 `@err_CSP_V08_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonnet phrygien et vous demande qui elle représente.
@@ -15599,6 +18456,15 @@ Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonn
 ## EXAM_CSP_V08_Q38
 
 `@err_CSP_V08_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -15631,6 +18497,15 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour limi
 
 `@err_CSP_V08_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Lors d'un débat citoyen, on vous demande de citer un exemple concret de droit fondamental garanti en France.
@@ -15662,6 +18537,15 @@ Lors d'un débat citoyen, on vous demande de citer un exemple concret de droit f
 
 `@err_CSP_V08_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami confond plusieurs symboles français et vous demande lequel est tricolore.
@@ -15679,7 +18563,7 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 `@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V08_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V08_RESULT)
 
 ## EXAM_CSP_V08_Q40_FAUX
 
@@ -15687,7 +18571,7 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 
 `@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V08_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V08_RESULT)
 
 ## EXAM_CSP_V08_CORRIGE
 
@@ -16355,46 +19239,46 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -16404,46 +19288,46 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -16453,46 +19337,46 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -16546,6 +19430,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 9`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Jeter une bouteille dans la rue est :**
@@ -16574,6 +19467,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q02
 
 `@err_CSP_V09_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -16604,6 +19506,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Combien y a-t-il eu de Républiques en France ?**
@@ -16632,6 +19543,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q04
 
 `@err_CSP_V09_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -16662,6 +19582,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quel est le rôle du Parlement ?**
@@ -16690,6 +19619,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q06
 
 `@err_CSP_V09_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -16720,6 +19658,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Qui était George Sand ?**
@@ -16748,6 +19695,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q08
 
 `@err_CSP_V09_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -16778,6 +19734,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Qui était Charles Baudelaire ?**
@@ -16806,6 +19771,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q10
 
 `@err_CSP_V09_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -16836,6 +19810,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quelle liberté permet à chacun d'exprimer ses idées ?**
@@ -16864,6 +19847,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q12
 
 `@err_CSP_V09_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -16894,6 +19886,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Pour combien de temps est élu le président de la République française ?**
@@ -16922,6 +19923,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q14
 
 `@err_CSP_V09_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -16952,6 +19962,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quelle liberté permet à une personne de ne pas avoir de religion ?**
@@ -16980,6 +19999,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q16
 
 `@err_CSP_V09_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -17010,6 +20038,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quel est le régime politique de la France aujourd'hui ?**
@@ -17038,6 +20075,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q18
 
 `@err_CSP_V09_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -17068,6 +20114,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Dans quelle ville se trouve la tour Eiffel ?**
@@ -17096,6 +20151,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q20
 
 `@err_CSP_V09_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -17126,6 +20190,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quelle est la date de la fête nationale française ?**
@@ -17154,6 +20227,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q22
 
 `@err_CSP_V09_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -17184,6 +20266,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **À quelle fréquence les élections européennes sont-elles organisées ?**
@@ -17212,6 +20303,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q24
 
 `@err_CSP_V09_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -17242,6 +20342,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Qui a fondé la Ve République ?**
@@ -17270,6 +20379,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q26
 
 `@err_CSP_V09_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -17300,6 +20418,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V09_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Un enfant inscrit à l'école :**
@@ -17328,6 +20455,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V09_Q28
 
 `@err_CSP_V09_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -17366,6 +20502,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CSP_V09_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Lors d'une révision, on vous demande de citer un texte adopté pendant la Révolution française.
@@ -17396,6 +20541,15 @@ Lors d'une révision, on vous demande de citer un texte adopté pendant la Révo
 ## EXAM_CSP_V09_Q30
 
 `@err_CSP_V09_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -17428,6 +20582,15 @@ Un ami confond plusieurs textes juridiques et vous demande lequel garantit réel
 
 `@err_CSP_V09_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Une amie vous demande si une femme a le droit de recourir à un avortement en France.
@@ -17458,6 +20621,15 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 ## EXAM_CSP_V09_Q32
 
 `@err_CSP_V09_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -17490,6 +20662,15 @@ Pour un exposé scolaire, un enfant vous demande de citer, dans l'ordre, les cou
 
 `@err_CSP_V09_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'un examen blanc, on vous demande de définir précisément ce qu'est la laïcité, au-delà de la simple neutralité.
@@ -17520,6 +20701,15 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est la l
 ## EXAM_CSP_V09_Q34
 
 `@err_CSP_V09_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -17552,6 +20742,15 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_CSP_V09_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un voisin envisage de déposer sa machine à laver cassée sur le trottoir devant chez lui, en dehors des jours de collecte.
@@ -17582,6 +20781,15 @@ Un voisin envisage de déposer sa machine à laver cassée sur le trottoir devan
 ## EXAM_CSP_V09_Q36
 
 `@err_CSP_V09_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -17614,6 +20822,15 @@ Un ami convoqué devant un tribunal se demande quel droit lui permet de prépare
 
 `@err_CSP_V09_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Lors d'un débat, un participant affirme que l'égalité signifie que tout le monde doit recevoir le même salaire, quel que soit son travail.
@@ -17644,6 +20861,15 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 ## EXAM_CSP_V09_Q38
 
 `@err_CSP_V09_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -17676,6 +20902,15 @@ Lors d'une cérémonie officielle, on vous demande de reconnaître le nom de l'h
 
 `@err_CSP_V09_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparation des Églises et de l'État en France.
@@ -17707,6 +20942,15 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 
 `@err_CSP_V09_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Lors d'un cours de droit civique, on vous présente plusieurs infractions et vous devez identifier la plus grave.
@@ -17724,7 +20968,7 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V09_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V09_RESULT)
 
 ## EXAM_CSP_V09_Q40_FAUX
 
@@ -17732,7 +20976,7 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V09_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V09_RESULT)
 
 ## EXAM_CSP_V09_CORRIGE
 
@@ -18400,46 +21644,46 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH04 == 2`
@@ -18449,46 +21693,46 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH04 == 1`
@@ -18498,46 +21742,46 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH04 == 0`
@@ -18591,6 +21835,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q01 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Comment s'appelle la Constitution actuelle de la France ?**
@@ -18619,6 +21872,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q02
 
 `@err_CSP_V10_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -18649,6 +21911,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Qui sanctionne l'auteur d'un vol ?**
@@ -18677,6 +21948,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q04
 
 `@err_CSP_V10_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -18707,6 +21987,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ?**
@@ -18735,6 +22024,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q06
 
 `@err_CSP_V10_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -18765,6 +22063,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Combien y a-t-il eu de Républiques en France ?**
@@ -18793,6 +22100,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q08
 
 `@err_CSP_V10_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -18823,6 +22139,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quel est l'un des rôles des associations ?**
@@ -18851,6 +22176,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q10
 
 `@err_CSP_V10_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -18881,6 +22215,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Sur quel continent se situe la France métropolitaine ?**
@@ -18909,6 +22252,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q12
 
 `@err_CSP_V10_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -18939,6 +22291,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Quel écrivain est français ?**
@@ -18967,6 +22328,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q14
 
 `@err_CSP_V10_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -18997,6 +22367,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quelle proposition est correcte ? La liberté d'expression :**
@@ -19025,6 +22404,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q16
 
 `@err_CSP_V10_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -19055,6 +22443,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **À quoi correspond la date du 14 juillet ?**
@@ -19083,6 +22480,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q18
 
 `@err_CSP_V10_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -19113,6 +22519,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Jeter une bouteille dans la rue est :**
@@ -19141,6 +22556,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q20
 
 `@err_CSP_V10_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -19171,6 +22595,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **À partir de quel âge a-t-on le droit de voter ?**
@@ -19199,6 +22632,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q22
 
 `@err_CSP_V10_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -19229,6 +22671,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Quelle guerre a eu lieu entre 1914 et 1918 ?**
@@ -19257,6 +22708,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q24
 
 `@err_CSP_V10_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -19287,6 +22747,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Pour combien de temps sont élus les sénateurs ?**
@@ -19315,6 +22784,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q26
 
 `@err_CSP_V10_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -19345,6 +22823,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CSP_V10_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Quel est le rôle de l'autorité judiciaire ?**
@@ -19373,6 +22860,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CSP_V10_Q28
 
 `@err_CSP_V10_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -19413,6 +22909,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@exam_variant = 10`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Lors d'un cours de droit civique, on vous présente plusieurs infractions et vous devez identifier la plus grave.
@@ -19443,6 +22948,15 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 ## EXAM_CSP_V10_Q30
 
 `@err_CSP_V10_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -19475,6 +22989,15 @@ Un ami confond le rôle de la police avec celui d'un tribunal.
 
 `@err_CSP_V10_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Lors d'un cours de préparation civique, on vous demande d'expliquer avec vos propres mots ce que signifie le mot « fraternité » dans la devise française.
@@ -19505,6 +23028,15 @@ Lors d'un cours de préparation civique, on vous demande d'expliquer avec vos pr
 ## EXAM_CSP_V10_Q32
 
 `@err_CSP_V10_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -19537,6 +23069,15 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 
 `@err_CSP_V10_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un ami s'interroge sur la place réelle du français dans les administrations et les tribunaux français.
@@ -19567,6 +23108,15 @@ Un ami s'interroge sur la place réelle du français dans les administrations et
 ## EXAM_CSP_V10_Q34
 
 `@err_CSP_V10_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -19599,6 +23149,15 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est la l
 
 `@err_CSP_V10_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Lors d'une révision, on vous demande de citer un texte adopté pendant la Révolution française.
@@ -19629,6 +23188,15 @@ Lors d'une révision, on vous demande de citer un texte adopté pendant la Révo
 ## EXAM_CSP_V10_Q36
 
 `@err_CSP_V10_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -19661,6 +23229,15 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 
 `@err_CSP_V10_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Pour un exposé scolaire, un enfant vous demande de citer, dans l'ordre, les couleurs du drapeau français.
@@ -19691,6 +23268,15 @@ Pour un exposé scolaire, un enfant vous demande de citer, dans l'ordre, les cou
 ## EXAM_CSP_V10_Q38
 
 `@err_CSP_V10_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -19723,6 +23309,15 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 
 `@err_CSP_V10_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » et vous demande de quoi il s'agit.
@@ -19754,6 +23349,15 @@ Sur le fronton de la mairie, un ami lit « Liberté, Égalité, Fraternité » e
 
 `@err_CSP_V10_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Une amie vous confie avoir été victime de violences de la part de son conjoint, mais hésite à en parler.
@@ -19771,7 +23375,7 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V10_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V10_RESULT)
 
 ## EXAM_CSP_V10_Q40_FAUX
 
@@ -19779,7 +23383,7 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_CSP_V10_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CSP_V10_RESULT)
 
 ## EXAM_CSP_V10_CORRIGE
 
@@ -20447,52 +24051,52 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH04 == 2`
@@ -20502,52 +24106,52 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH04 == 1`
@@ -20557,52 +24161,52 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH04 == 0`
@@ -20656,6 +24260,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 1`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?**
@@ -20684,6 +24297,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q02
 
 `@err_CR_V01_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -20714,6 +24336,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Que contient la Constitution ?**
@@ -20742,6 +24373,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q04
 
 `@err_CR_V01_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -20772,6 +24412,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quelle est la première étape de la construction européenne en 1951 ?**
@@ -20800,6 +24449,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q06
 
 `@err_CR_V01_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -20830,6 +24488,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Laquelle de ces citations est inscrite dans la Déclaration des droits de l'homme et du citoyen de 1789 ?**
@@ -20858,6 +24525,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q08
 
 `@err_CR_V01_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -20888,6 +24564,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Qui sanctionne l'auteur d'un vol ?**
@@ -20916,6 +24601,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q10
 
 `@err_CR_V01_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -20946,6 +24640,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **En quelle année a commencé la Première Guerre mondiale ?**
@@ -20974,6 +24677,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q12
 
 `@err_CR_V01_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -21004,6 +24716,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
@@ -21032,6 +24753,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q14
 
 `@err_CR_V01_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -21062,6 +24792,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quelle est la mission de France Travail ?**
@@ -21090,6 +24829,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q16
 
 `@err_CR_V01_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -21120,6 +24868,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Qu'est-ce que la Constitution ?**
@@ -21148,6 +24905,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q18
 
 `@err_CR_V01_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -21178,6 +24944,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Quelle proposition représente un exemple de crime ?**
@@ -21206,6 +24981,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q20
 
 `@err_CR_V01_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -21236,6 +25020,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Que garantit la liberté d'expression ?**
@@ -21264,6 +25057,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q22
 
 `@err_CR_V01_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -21294,6 +25096,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Lequel de ces personnages a un lien avec la République française ?**
@@ -21322,6 +25133,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q24
 
 `@err_CR_V01_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -21352,6 +25172,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Qui doit respecter le principe de neutralité religieuse dans une préfecture ?**
@@ -21380,6 +25209,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q26
 
 `@err_CR_V01_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -21410,6 +25248,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V01_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **L'inscription à l'Assurance maladie est :**
@@ -21438,6 +25285,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V01_Q28
 
 `@err_CR_V01_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -21476,6 +25332,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CR_V01_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
@@ -21506,6 +25371,15 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 ## EXAM_CR_V01_Q30
 
 `@err_CR_V01_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -21538,6 +25412,15 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 `@err_CR_V01_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas divorcer en France sans l'accord de sa famille ou d'une autorité religieuse.
@@ -21568,6 +25451,15 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 ## EXAM_CR_V01_Q32
 
 `@err_CR_V01_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -21600,6 +25492,15 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 
 `@err_CR_V01_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
@@ -21630,6 +25531,15 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 ## EXAM_CR_V01_Q34
 
 `@err_CR_V01_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -21662,6 +25572,15 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 
 `@err_CR_V01_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impôts ne sert « qu'à payer le salaire des responsables politiques ».
@@ -21692,6 +25611,15 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 ## EXAM_CR_V01_Q36
 
 `@err_CR_V01_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -21724,6 +25652,15 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 
 `@err_CR_V01_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respectueuse de l'environnement au quotidien.
@@ -21754,6 +25691,15 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 ## EXAM_CR_V01_Q38
 
 `@err_CR_V01_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -21786,6 +25732,15 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 
 `@err_CR_V01_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement en raison de son origine.
@@ -21817,6 +25772,15 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 
 `@err_CR_V01_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicalement assistée) pour avoir un enfant, et se demande à quelle liberté fondamentale ce droit se rattache.
@@ -21834,7 +25798,7 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V01_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V01_RESULT)
 
 ## EXAM_CR_V01_Q40_FAUX
 
@@ -21842,7 +25806,7 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V01_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V01_RESULT)
 
 ## EXAM_CR_V01_CORRIGE
 
@@ -22510,46 +26474,46 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -22559,46 +26523,46 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -22608,46 +26572,46 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -22702,6 +26666,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 2`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Citez une mer ou un océan qui borde la France métropolitaine.**
@@ -22730,6 +26703,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q02
 
 `@err_CR_V02_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -22760,6 +26742,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **De quand date l'appel à la résistance du général de Gaulle ?**
@@ -22788,6 +26779,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q04
 
 `@err_CR_V02_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -22818,6 +26818,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Combien de communes environ existe-t-il en France ?**
@@ -22846,6 +26855,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q06
 
 `@err_CR_V02_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -22876,6 +26894,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Qui doit respecter le principe de neutralité religieuse dans une préfecture ?**
@@ -22904,6 +26931,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q08
 
 `@err_CR_V02_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -22934,6 +26970,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Les parents d'élève ont le droit de :**
@@ -22962,6 +27007,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q10
 
 `@err_CR_V02_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -22992,6 +27046,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?**
@@ -23020,6 +27083,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q12
 
 `@err_CR_V02_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -23050,6 +27122,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Le recours à l'avortement est-il autorisé ?**
@@ -23078,6 +27159,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q14
 
 `@err_CR_V02_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -23108,6 +27198,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Que peut faire un usager du service public dans une mairie ?**
@@ -23136,6 +27235,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q16
 
 `@err_CR_V02_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -23166,6 +27274,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Où faut-il déclarer la naissance d'un enfant ?**
@@ -23194,6 +27311,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q18
 
 `@err_CR_V02_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -23224,6 +27350,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Quel roi de France a été exécuté pendant la Révolution française ?**
@@ -23252,6 +27387,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q20
 
 `@err_CR_V02_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -23282,6 +27426,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quelle chaîne de montagnes est située entre la France et l'Espagne ?**
@@ -23310,6 +27463,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q22
 
 `@err_CR_V02_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -23340,6 +27502,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?**
@@ -23368,6 +27539,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q24
 
 `@err_CR_V02_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -23398,6 +27578,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Qui dirige l'action du Gouvernement ?**
@@ -23426,6 +27615,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q26
 
 `@err_CR_V02_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -23456,6 +27654,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V02_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Qui sanctionne l'auteur d'un vol ?**
@@ -23484,6 +27691,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V02_Q28
 
 `@err_CR_V02_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -23522,6 +27738,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CR_V02_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami pense que seul l'État est responsable de la protection de l'environnement, et que les citoyens n'ont aucune obligation en la matière.
@@ -23552,6 +27777,15 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 ## EXAM_CR_V02_Q30
 
 `@err_CR_V02_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -23584,6 +27818,15 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 
 `@err_CR_V02_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Lors d'un cours de préparation civique, le formateur demande aux participants de citer la devise inscrite sur les frontons des mairies françaises.
@@ -23614,6 +27857,15 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 ## EXAM_CR_V02_Q32
 
 `@err_CR_V02_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -23646,6 +27898,15 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 
 `@err_CR_V02_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'un débat, un participant affirme que « l'égalité », dans la devise républicaine, signifie que tout le monde doit gagner le même salaire.
@@ -23676,6 +27937,15 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 ## EXAM_CR_V02_Q34
 
 `@err_CR_V02_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -23708,6 +27978,15 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 
 `@err_CR_V02_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réellement de faire en France, pensant que cela veut dire « choisir ses propres règles ».
@@ -23738,6 +28017,15 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 ## EXAM_CR_V02_Q36
 
 `@err_CR_V02_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -23770,6 +28058,15 @@ Lors d'un rassemblement public, un ami se demande quelles autorités sont charg�
 
 `@err_CR_V02_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant qu'il n'a pas obtenu la nationalité française.
@@ -23800,6 +28097,15 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 ## EXAM_CR_V02_Q38
 
 `@err_CR_V02_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -23832,6 +28138,15 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 `@err_CR_V02_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le principe de laïcité pour les habitants de France.
@@ -23863,6 +28178,15 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 
 `@err_CR_V02_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas divorcer en France sans l'accord de sa famille ou d'une autorité religieuse.
@@ -23880,7 +28204,7 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V02_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V02_RESULT)
 
 ## EXAM_CR_V02_Q40_FAUX
 
@@ -23888,7 +28212,7 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V02_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V02_RESULT)
 
 ## EXAM_CR_V02_CORRIGE
 
@@ -24556,49 +28880,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -24608,49 +28932,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -24660,49 +28984,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -24756,6 +29080,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 3`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Selon le principe de laïcité, que signifie la neutralité de l'État ?**
@@ -24784,6 +29117,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q02
 
 `@err_CR_V03_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -24814,6 +29156,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Quel pays est un pays fondateur de l'Union européenne ?**
@@ -24842,6 +29193,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q04
 
 `@err_CR_V03_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -24872,6 +29232,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quelle est l'organisation administrative de la France ?**
@@ -24900,6 +29269,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q06
 
 `@err_CR_V03_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -24930,6 +29308,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Une personne a-t-elle le droit de ne pas croire en une religion ?**
@@ -24958,6 +29345,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q08
 
 `@err_CR_V03_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -24988,6 +29384,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quelle est la première étape de la construction européenne en 1951 ?**
@@ -25016,6 +29421,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q10
 
 `@err_CR_V03_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -25046,6 +29460,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quel est le rôle de la police ?**
@@ -25074,6 +29497,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q12
 
 `@err_CR_V03_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -25104,6 +29536,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Quel régime politique a été mis en place pendant la Révolution française en 1792 ?**
@@ -25132,6 +29573,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q14
 
 `@err_CR_V03_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -25162,6 +29612,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Qu'est-ce que la liberté d'association ?**
@@ -25190,6 +29649,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q16
 
 `@err_CR_V03_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -25220,6 +29688,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **L'inscription à l'Assurance maladie est :**
@@ -25248,6 +29725,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q18
 
 `@err_CR_V03_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -25278,6 +29764,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Pourquoi la Shoah est-elle étudiée à l'école ?**
@@ -25306,6 +29801,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q20
 
 `@err_CR_V03_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -25336,6 +29840,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Combien de communes environ existe-t-il en France ?**
@@ -25364,6 +29877,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q22
 
 `@err_CR_V03_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -25394,6 +29916,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Que signifie la dignité humaine ?**
@@ -25422,6 +29953,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q24
 
 `@err_CR_V03_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -25452,6 +29992,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Quel roi de France a été exécuté pendant la Révolution française ?**
@@ -25480,6 +30029,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q26
 
 `@err_CR_V03_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -25510,6 +30068,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V03_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Quel est un exemple d'assistance à personne en danger ?**
@@ -25538,6 +30105,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V03_Q28
 
 `@err_CR_V03_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -25576,6 +30152,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CR_V03_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille pour recourir à une IVG en France.
@@ -25606,6 +30191,15 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 ## EXAM_CR_V03_Q30
 
 `@err_CR_V03_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -25638,6 +30232,15 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_CR_V03_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le principe de laïcité pour les habitants de France.
@@ -25668,6 +30271,15 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 ## EXAM_CR_V03_Q32
 
 `@err_CR_V03_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -25700,6 +30312,15 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 `@err_CR_V03_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout ce qu'on veut, sans aucune limite. »
@@ -25730,6 +30351,15 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 ## EXAM_CR_V03_Q34
 
 `@err_CR_V03_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -25762,6 +30392,15 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 `@err_CR_V03_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne sert qu'à désencombrer sa poubelle.
@@ -25792,6 +30431,15 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 ## EXAM_CR_V03_Q36
 
 `@err_CR_V03_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -25824,6 +30472,15 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 
 `@err_CR_V03_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Une jeune femme vous confie que sa famille souhaite choisir son futur époux à sa place, selon les traditions de son pays d'origine.
@@ -25854,6 +30511,15 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 ## EXAM_CR_V03_Q38
 
 `@err_CR_V03_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -25886,6 +30552,15 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 
 `@err_CR_V03_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impôts ne sert « qu'à payer le salaire des responsables politiques ».
@@ -25917,6 +30592,15 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 
 `@err_CR_V03_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Une collègue vous demande si elle peut pratiquer sa religion librement en France, en dehors de son domicile.
@@ -25934,7 +30618,7 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 `@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V03_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V03_RESULT)
 
 ## EXAM_CR_V03_Q40_FAUX
 
@@ -25942,7 +30626,7 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 
 `@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V03_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V03_RESULT)
 
 ## EXAM_CR_V03_CORRIGE
 
@@ -26610,46 +31294,46 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2`
@@ -26659,46 +31343,46 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1`
@@ -26708,46 +31392,46 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0`
@@ -26801,6 +31485,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 4`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Au nom de quoi l'État justifie-t-il la restriction des droits ?**
@@ -26829,6 +31522,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q02
 
 `@err_CR_V04_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -26859,6 +31561,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Que représente la laïcité ?**
@@ -26887,6 +31598,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q04
 
 `@err_CR_V04_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -26917,6 +31637,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quelle est la population approximative de la France en 2025 ?**
@@ -26945,6 +31674,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q06
 
 `@err_CR_V04_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -26975,6 +31713,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Qu'est-ce que l'Hôtel de Matignon ?**
@@ -27003,6 +31750,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q08
 
 `@err_CR_V04_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -27033,6 +31789,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **De quand date l'appel à la résistance du général de Gaulle ?**
@@ -27061,6 +31826,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q10
 
 `@err_CR_V04_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -27091,6 +31865,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Combien de communes environ existe-t-il en France ?**
@@ -27119,6 +31902,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q12
 
 `@err_CR_V04_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -27149,6 +31941,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Quel pays a une frontière terrestre avec la France métropolitaine ?**
@@ -27177,6 +31978,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q14
 
 `@err_CR_V04_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -27207,6 +32017,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?**
@@ -27235,6 +32054,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q16
 
 `@err_CR_V04_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -27265,6 +32093,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Lequel de ces personnages a un lien avec la République française ?**
@@ -27293,6 +32130,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q18
 
 `@err_CR_V04_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -27323,6 +32169,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Jeter un mégot par terre est :**
@@ -27351,6 +32206,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q20
 
 `@err_CR_V04_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -27381,6 +32245,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe…) ?**
@@ -27409,6 +32282,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q22
 
 `@err_CR_V04_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -27439,6 +32321,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **En quelle année l'euro est-elle devenue la monnaie utilisée en France ?**
@@ -27467,6 +32358,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q24
 
 `@err_CR_V04_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -27497,6 +32397,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Le recours à l'avortement est-il autorisé ?**
@@ -27525,6 +32434,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q26
 
 `@err_CR_V04_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -27555,6 +32473,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V04_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Quel motif d'absence est accepté par l'école ?**
@@ -27583,6 +32510,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V04_Q28
 
 `@err_CR_V04_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -27621,6 +32557,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CR_V04_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Une mère envisage d'inscrire sa fille au collège public en la laissant porter un signe religieux très visible, pensant que cela reste autorisé.
@@ -27651,6 +32596,15 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 ## EXAM_CR_V04_Q30
 
 `@err_CR_V04_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -27683,6 +32637,15 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 
 `@err_CR_V04_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marseillaise. Vous hésitez sur un mot des paroles : « Aux armes [...] ! Formez vos bataillons. »
@@ -27713,6 +32676,15 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 ## EXAM_CR_V04_Q32
 
 `@err_CR_V04_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -27745,6 +32717,15 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 
 `@err_CR_V04_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un ami affirme que certaines personnes auraient moins de droits que d'autres, selon leur origine ou leur religion.
@@ -27775,6 +32756,15 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 ## EXAM_CR_V04_Q34
 
 `@err_CR_V04_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -27807,6 +32797,15 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 
 `@err_CR_V04_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Une jeune femme vous confie que sa famille souhaite choisir son futur époux à sa place, selon les traditions de son pays d'origine.
@@ -27837,6 +32836,15 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 ## EXAM_CR_V04_Q36
 
 `@err_CR_V04_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -27869,6 +32877,15 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 
 `@err_CR_V04_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-ci remarque un buste de femme coiffée d'un bonnet phrygien et vous demande qui elle représente.
@@ -27899,6 +32916,15 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 ## EXAM_CR_V04_Q38
 
 `@err_CR_V04_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -27931,6 +32957,15 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 
 `@err_CR_V04_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit le principe de laïcité en France.
@@ -27962,6 +32997,15 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 
 `@err_CR_V04_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionnés, puisqu'il s'agit selon lui simplement de son opinion personnelle.
@@ -27979,7 +33023,7 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V04_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V04_RESULT)
 
 ## EXAM_CR_V04_Q40_FAUX
 
@@ -27987,7 +33031,7 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V04_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V04_RESULT)
 
 ## EXAM_CR_V04_CORRIGE
 
@@ -28655,46 +33699,46 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -28704,46 +33748,46 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -28753,46 +33797,46 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -28847,6 +33891,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 5`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Pour quel motif peut-on limiter la liberté d'expression ?**
@@ -28875,6 +33928,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q02
 
 `@err_CR_V05_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -28905,6 +33967,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Où a eu lieu le débarquement en 1944 ?**
@@ -28933,6 +34004,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q04
 
 `@err_CR_V05_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -28963,6 +34043,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quelle est la place de la langue française dans la République ?**
@@ -28991,6 +34080,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q06
 
 `@err_CR_V05_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -29021,6 +34119,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quelle proposition constitue une obligation ?**
@@ -29049,6 +34156,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q08
 
 `@err_CR_V05_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -29079,6 +34195,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?**
@@ -29107,6 +34232,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q10
 
 `@err_CR_V05_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -29137,6 +34271,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Durant le mandat de quel président la peine de mort a-t-elle été abolie ?**
@@ -29165,6 +34308,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q12
 
 `@err_CR_V05_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -29195,6 +34347,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **À quelle fréquence les élections européennes sont-elles organisées ?**
@@ -29223,6 +34384,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q14
 
 `@err_CR_V05_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -29253,6 +34423,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quel est un exemple d'assistance à personne en danger ?**
@@ -29281,6 +34460,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q16
 
 `@err_CR_V05_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -29311,6 +34499,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école parce qu'ils sont mixtes ?**
@@ -29339,6 +34536,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q18
 
 `@err_CR_V05_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -29369,6 +34575,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Que représente Marianne ?**
@@ -29397,6 +34612,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q20
 
 `@err_CR_V05_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -29427,6 +34651,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quelle condition est nécessaire pour voter aux élections européennes ?**
@@ -29455,6 +34688,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q22
 
 `@err_CR_V05_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -29485,6 +34727,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Lequel de ces départements de France est le plus touristique ?**
@@ -29513,6 +34764,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q24
 
 `@err_CR_V05_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -29543,6 +34803,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Qui est le préfet ?**
@@ -29571,6 +34840,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q26
 
 `@err_CR_V05_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -29601,6 +34879,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V05_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Que garantit la liberté d'expression ?**
@@ -29629,6 +34916,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V05_Q28
 
 `@err_CR_V05_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -29667,6 +34963,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CR_V05_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réellement de faire en France, pensant que cela veut dire « choisir ses propres règles ».
@@ -29697,6 +35002,15 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 ## EXAM_CR_V05_Q30
 
 `@err_CR_V05_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -29729,6 +35043,15 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 
 `@err_CR_V05_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
@@ -29759,6 +35082,15 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 ## EXAM_CR_V05_Q32
 
 `@err_CR_V05_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -29791,6 +35123,15 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 
 `@err_CR_V05_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Une mère envisage d'inscrire sa fille au collège public en la laissant porter un signe religieux très visible, pensant que cela reste autorisé.
@@ -29821,6 +35162,15 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 ## EXAM_CR_V05_Q34
 
 `@err_CR_V05_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -29853,6 +35203,15 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 
 `@err_CR_V05_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un ami pense que l'État n'a jamais le droit de limiter une liberté individuelle, quelle que soit la situation.
@@ -29883,6 +35242,15 @@ Un ami pense que l'État n'a jamais le droit de limiter une liberté individuell
 ## EXAM_CR_V05_Q36
 
 `@err_CR_V05_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -29915,6 +35283,15 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_CR_V05_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans la rue, y compris dégrader du mobilier urbain.
@@ -29945,6 +35322,15 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 ## EXAM_CR_V05_Q38
 
 `@err_CR_V05_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -29977,6 +35363,15 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@err_CR_V05_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
@@ -30008,6 +35403,15 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 
 `@err_CR_V05_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Une amie vous confie avoir été victime de violences de la part de son conjoint, mais hésite à en parler par peur d'aggraver la situation.
@@ -30025,7 +35429,7 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V05_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V05_RESULT)
 
 ## EXAM_CR_V05_Q40_FAUX
 
@@ -30033,7 +35437,7 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V05_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V05_RESULT)
 
 ## EXAM_CR_V05_CORRIGE
 
@@ -30701,49 +36105,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -30753,49 +36157,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -30805,49 +36209,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -30902,6 +36306,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 6`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
@@ -30930,6 +36343,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q02
 
 `@err_CR_V06_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -30960,6 +36382,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Jeter un mégot par terre est :**
@@ -30988,6 +36419,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q04
 
 `@err_CR_V06_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -31018,6 +36458,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **S'agissant des déchets, quelle proposition est correcte ?**
@@ -31046,6 +36495,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q06
 
 `@err_CR_V06_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -31076,6 +36534,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Citez une mer ou un océan qui borde la France métropolitaine.**
@@ -31104,6 +36571,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q08
 
 `@err_CR_V06_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -31134,6 +36610,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quel fleuve traverse Paris ?**
@@ -31162,6 +36647,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q10
 
 `@err_CR_V06_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -31192,6 +36686,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quelle condition est nécessaire pour voter aux élections ?**
@@ -31220,6 +36723,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q12
 
 `@err_CR_V06_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -31250,6 +36762,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?**
@@ -31278,6 +36799,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q14
 
 `@err_CR_V06_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -31308,6 +36838,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quelle chaîne de montagnes est située entre la France et l'Espagne ?**
@@ -31336,6 +36875,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q16
 
 `@err_CR_V06_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -31366,6 +36914,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Qu'est-ce que la Marseillaise ?**
@@ -31394,6 +36951,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q18
 
 `@err_CR_V06_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -31424,6 +36990,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Qu'est-ce que le droit de grève ?**
@@ -31452,6 +37027,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q20
 
 `@err_CR_V06_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -31482,6 +37066,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quel État a quitté l'Union européenne en 2020 ?**
@@ -31510,6 +37103,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q22
 
 `@err_CR_V06_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -31540,6 +37142,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?**
@@ -31568,6 +37179,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q24
 
 `@err_CR_V06_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -31598,6 +37218,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **La liberté de circulation permet à toute personne de :**
@@ -31626,6 +37255,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q26
 
 `@err_CR_V06_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -31656,6 +37294,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V06_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **À quel âge commence l'instruction obligatoire des enfants ?**
@@ -31684,6 +37331,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V06_Q28
 
 `@err_CR_V06_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -31722,6 +37378,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CR_V06_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 On vous demande de nommer la liberté qui permet à une personne de croire en la religion de son choix, ou de n'en avoir aucune.
@@ -31752,6 +37417,15 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 ## EXAM_CR_V06_Q30
 
 `@err_CR_V06_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -31784,6 +37458,15 @@ Pendant votre préparation à l'examen civique, le formateur vous demande de com
 
 `@err_CR_V06_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le principe de laïcité pour les habitants de France.
@@ -31814,6 +37497,15 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 ## EXAM_CR_V06_Q32
 
 `@err_CR_V06_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -31846,6 +37538,15 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 
 `@err_CR_V06_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas divorcer en France sans l'accord de sa famille ou d'une autorité religieuse.
@@ -31876,6 +37577,15 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 ## EXAM_CR_V06_Q34
 
 `@err_CR_V06_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -31908,6 +37618,15 @@ Une personne récemment installée en France envisage de changer de religion, ma
 
 `@err_CR_V06_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
@@ -31938,6 +37657,15 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 ## EXAM_CR_V06_Q36
 
 `@err_CR_V06_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -31970,6 +37698,15 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 
 `@err_CR_V06_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peuvent voter aux élections.
@@ -32000,6 +37737,15 @@ Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peu
 ## EXAM_CR_V06_Q38
 
 `@err_CR_V06_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -32032,6 +37778,15 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@err_CR_V06_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
@@ -32063,6 +37818,15 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 `@err_CR_V06_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Lors d'un débat sur un fait divers grave, un participant pense que la peine de mort pourrait encore être appliquée en France dans certains cas exceptionnels.
@@ -32080,7 +37844,7 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V06_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V06_RESULT)
 
 ## EXAM_CR_V06_Q40_FAUX
 
@@ -32088,7 +37852,7 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V06_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V06_RESULT)
 
 ## EXAM_CR_V06_CORRIGE
 
@@ -32756,49 +38520,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -32808,49 +38572,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -32860,49 +38624,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -32957,6 +38721,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 7`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Une personne a-t-elle le droit de ne pas croire en une religion ?**
@@ -32985,6 +38758,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q02
 
 `@err_CR_V07_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -33015,6 +38797,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Quelle est la devise de la France ?**
@@ -33043,6 +38834,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q04
 
 `@err_CR_V07_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -33073,6 +38873,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Qu'est-ce que la France d'outre-mer ?**
@@ -33101,6 +38910,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q06
 
 `@err_CR_V07_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -33131,6 +38949,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Combien de communes environ existe-t-il en France ?**
@@ -33159,6 +38986,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q08
 
 `@err_CR_V07_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -33189,6 +39025,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quel monument parisien est l'un des symboles de la France ?**
@@ -33217,6 +39062,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q10
 
 `@err_CR_V07_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -33247,6 +39101,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quel fleuve traverse Paris ?**
@@ -33275,6 +39138,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q12
 
 `@err_CR_V07_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -33305,6 +39177,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Que dit l'article 1er de la Constitution française ?**
@@ -33333,6 +39214,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q14
 
 `@err_CR_V07_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -33363,6 +39253,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Que prévoit la Charte de l'environnement ?**
@@ -33391,6 +39290,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q16
 
 `@err_CR_V07_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -33421,6 +39329,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ?**
@@ -33449,6 +39366,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q18
 
 `@err_CR_V07_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -33479,6 +39405,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Pour combien de temps sont élus les sénateurs ?**
@@ -33507,6 +39442,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q20
 
 `@err_CR_V07_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -33537,6 +39481,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Qui était Marguerite Yourcenar ?**
@@ -33565,6 +39518,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q22
 
 `@err_CR_V07_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -33595,6 +39557,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Durant le mandat de quel président la peine de mort a-t-elle été abolie ?**
@@ -33623,6 +39594,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q24
 
 `@err_CR_V07_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -33653,6 +39633,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Est-il toujours possible de divorcer ?**
@@ -33681,6 +39670,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q26
 
 `@err_CR_V07_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -33711,6 +39709,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V07_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l'environnement ?**
@@ -33739,6 +39746,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V07_Q28
 
 `@err_CR_V07_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -33777,6 +39793,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CR_V07_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un homme vous explique que, dans son pays d'origine, il pouvait répudier son épouse simplement en le déclarant devant témoins. Il vous demande si cette pratique est reconnue une fois installé en France.
@@ -33807,6 +39832,15 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 ## EXAM_CR_V07_Q30
 
 `@err_CR_V07_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -33839,6 +39873,15 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 
 `@err_CR_V07_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille pour recourir à une IVG en France.
@@ -33869,6 +39912,15 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 ## EXAM_CR_V07_Q32
 
 `@err_CR_V07_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -33901,6 +39953,15 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 
 `@err_CR_V07_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation de handicap, en affirmant que c'est « juste de l'humour », protégé selon lui par la liberté d'expression.
@@ -33931,6 +39992,15 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 ## EXAM_CR_V07_Q34
 
 `@err_CR_V07_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -33963,6 +40033,15 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 
 `@err_CR_V07_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionnés, puisqu'il s'agit selon lui simplement de son opinion personnelle.
@@ -33993,6 +40072,15 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 ## EXAM_CR_V07_Q36
 
 `@err_CR_V07_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -34025,6 +40113,15 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 
 `@err_CR_V07_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicalement assistée) pour avoir un enfant, et se demande à quelle liberté fondamentale ce droit se rattache.
@@ -34055,6 +40152,15 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 ## EXAM_CR_V07_Q38
 
 `@err_CR_V07_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -34087,6 +40193,15 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 
 `@err_CR_V07_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolument tout ce qu'elle pense sur les autres, sans aucune limite, car « la liberté d'expression le permet ».
@@ -34118,6 +40233,15 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 
 `@err_CR_V07_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Lors d'un débat sur un fait divers grave, un participant pense que la peine de mort pourrait encore être appliquée en France dans certains cas exceptionnels.
@@ -34135,7 +40259,7 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V07_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V07_RESULT)
 
 ## EXAM_CR_V07_Q40_FAUX
 
@@ -34143,7 +40267,7 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V07_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V07_RESULT)
 
 ## EXAM_CR_V07_CORRIGE
 
@@ -34811,49 +40935,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -34863,49 +40987,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -34915,49 +41039,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -35010,6 +41134,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 8`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Qu'est-ce que la liberté ?**
@@ -35038,6 +41171,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q02
 
 `@err_CR_V08_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -35068,6 +41210,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Qu'est-ce que l'Hôtel de Matignon ?**
@@ -35096,6 +41247,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q04
 
 `@err_CR_V08_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -35126,6 +41286,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Le Parlement est composé :**
@@ -35154,6 +41323,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q06
 
 `@err_CR_V08_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -35184,6 +41362,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quel droit est garanti par la laïcité ?**
@@ -35212,6 +41399,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q08
 
 `@err_CR_V08_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -35242,6 +41438,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **En quelle année Napoléon Ier est-il devenu empereur ?**
@@ -35270,6 +41475,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q10
 
 `@err_CR_V08_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -35300,6 +41514,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **En quelle année a commencé la Première Guerre mondiale ?**
@@ -35328,6 +41551,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q12
 
 `@err_CR_V08_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -35358,6 +41590,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Quel est le rôle du Gouvernement ?**
@@ -35386,6 +41627,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q14
 
 `@err_CR_V08_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -35416,6 +41666,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quel peintre est français ?**
@@ -35444,6 +41703,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q16
 
 `@err_CR_V08_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -35474,6 +41742,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Combien de personnes parlent français dans le monde ?**
@@ -35502,6 +41779,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q18
 
 `@err_CR_V08_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -35532,6 +41818,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans son contrat de travail :**
@@ -35560,6 +41855,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q20
 
 `@err_CR_V08_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -35590,6 +41894,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Pour quel motif peut-on limiter la liberté d'expression ?**
@@ -35618,6 +41931,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q22
 
 `@err_CR_V08_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -35648,6 +41970,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Qui était une écrivaine française célèbre ?**
@@ -35676,6 +42007,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q24
 
 `@err_CR_V08_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -35706,6 +42046,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Quel est un exemple d'assistance à personne en danger ?**
@@ -35734,6 +42083,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q26
 
 `@err_CR_V08_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -35764,6 +42122,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V08_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **À quelle liberté la PMA fait-elle référence ?**
@@ -35792,6 +42159,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V08_Q28
 
 `@err_CR_V08_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -35830,6 +42206,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CR_V08_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respectueuse de l'environnement au quotidien.
@@ -35860,6 +42245,15 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 ## EXAM_CR_V08_Q30
 
 `@err_CR_V08_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -35892,6 +42286,15 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 
 `@err_CR_V08_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre enfant fasse du sport avec des élèves de l'autre sexe. Vous envisagez de demander une dispense pour ce motif.
@@ -35922,6 +42325,15 @@ Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre e
 ## EXAM_CR_V08_Q32
 
 `@err_CR_V08_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -35954,6 +42366,15 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 
 `@err_CR_V08_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'un examen blanc, on vous demande de définir précisément ce que représente la laïcité, au-delà de la simple idée de neutralité.
@@ -35984,6 +42405,15 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 ## EXAM_CR_V08_Q34
 
 `@err_CR_V08_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -36016,6 +42446,15 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 
 `@err_CR_V08_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en connaître la signification exacte.
@@ -36046,6 +42485,15 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 ## EXAM_CR_V08_Q36
 
 `@err_CR_V08_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -36078,6 +42526,15 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 
 `@err_CR_V08_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami confond la Constitution avec un simple règlement intérieur de mairie et vous demande ce qu'elle contient réellement.
@@ -36108,6 +42565,15 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 ## EXAM_CR_V08_Q38
 
 `@err_CR_V08_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -36140,6 +42606,15 @@ Lors d'une manifestation, certains participants brûlent un drapeau français de
 
 `@err_CR_V08_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
@@ -36171,6 +42646,15 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_CR_V08_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
@@ -36188,7 +42672,7 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V08_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V08_RESULT)
 
 ## EXAM_CR_V08_Q40_FAUX
 
@@ -36196,7 +42680,7 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V08_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V08_RESULT)
 
 ## EXAM_CR_V08_CORRIGE
 
@@ -36864,43 +43348,43 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH03 == 2`
@@ -36910,43 +43394,43 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH03 == 1`
@@ -36956,43 +43440,43 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH03 == 0`
@@ -37044,6 +43528,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q01 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **De quelle couleur est le drapeau européen ?**
@@ -37072,6 +43565,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q02
 
 `@err_CR_V09_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -37102,6 +43604,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Pourquoi le principe de laïcité doit-il être respecté à l'école ?**
@@ -37130,6 +43641,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q04
 
 `@err_CR_V09_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -37160,6 +43680,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quand peut-on visiter gratuitement des lieux culturels en France ?**
@@ -37188,6 +43717,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q06
 
 `@err_CR_V09_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -37218,6 +43756,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?**
@@ -37246,6 +43793,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q08
 
 `@err_CR_V09_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -37276,6 +43832,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Lequel de ces pays partage des frontières terrestres avec la France ?**
@@ -37304,6 +43869,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q10
 
 `@err_CR_V09_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -37334,6 +43908,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ?**
@@ -37362,6 +43945,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q12
 
 `@err_CR_V09_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -37392,6 +43984,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **À l'école, un enfant en situation de handicap :**
@@ -37420,6 +44021,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q14
 
 `@err_CR_V09_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -37450,6 +44060,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quel était le surnom de Louis XIV ?**
@@ -37478,6 +44097,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q16
 
 `@err_CR_V09_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -37508,6 +44136,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **À quel âge commence l'instruction obligatoire des enfants ?**
@@ -37536,6 +44173,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q18
 
 `@err_CR_V09_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -37566,6 +44212,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Qui peut demander à avorter ?**
@@ -37594,6 +44249,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q20
 
 `@err_CR_V09_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -37624,6 +44288,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Que représente la laïcité ?**
@@ -37652,6 +44325,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q22
 
 `@err_CR_V09_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -37682,6 +44364,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Qui était une écrivaine française célèbre ?**
@@ -37710,6 +44401,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q24
 
 `@err_CR_V09_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -37740,6 +44440,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Qu'est-ce que la Constitution ?**
@@ -37768,6 +44477,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q26
 
 `@err_CR_V09_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -37798,6 +44516,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V09_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Lequel de ces symboles est un symbole officiel de la République française ?**
@@ -37826,6 +44553,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V09_Q28
 
 `@err_CR_V09_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -37866,6 +44602,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@exam_variant = 9`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami pense qu'une simple loi votée par le Parlement est aussi difficile à modifier que le texte juridique le plus important du pays.
@@ -37896,6 +44641,15 @@ Un ami pense qu'une simple loi votée par le Parlement est aussi difficile à mo
 ## EXAM_CR_V09_Q30
 
 `@err_CR_V09_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -37928,6 +44682,15 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 
 `@err_CR_V09_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un voisin souhaite créer une association de quartier pour organiser des événements, mais craint de devoir demander une autorisation spéciale à la préfecture pour cela.
@@ -37958,6 +44721,15 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 ## EXAM_CR_V09_Q32
 
 `@err_CR_V09_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -37990,6 +44762,15 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 
 `@err_CR_V09_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un ami confond la Constitution avec un simple règlement intérieur de mairie et vous demande ce qu'elle contient réellement.
@@ -38020,6 +44801,15 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 ## EXAM_CR_V09_Q34
 
 `@err_CR_V09_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -38052,6 +44842,15 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 
 `@err_CR_V09_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en connaître la signification exacte.
@@ -38082,6 +44881,15 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 ## EXAM_CR_V09_Q36
 
 `@err_CR_V09_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -38114,6 +44922,15 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 
 `@err_CR_V09_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami pense que la liberté de circulation lui permet de camper où il veut en France, y compris sur un terrain privé, du moment qu'il ne dérange personne.
@@ -38144,6 +44961,15 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 ## EXAM_CR_V09_Q38
 
 `@err_CR_V09_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -38176,6 +45002,15 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 `@err_CR_V09_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle et un travail. Il vous demande un exemple concret de participation à la vie citoyenne et démocratique de la France.
@@ -38207,6 +45042,15 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 
 `@err_CR_V09_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux visible et vous demande ce que signifie la « neutralité de l'État ».
@@ -38224,7 +45068,7 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 `@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V09_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V09_RESULT)
 
 ## EXAM_CR_V09_Q40_FAUX
 
@@ -38232,7 +45076,7 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 `@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V09_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V09_RESULT)
 
 ## EXAM_CR_V09_CORRIGE
 
@@ -38900,46 +45744,46 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH04 == 2`
@@ -38949,46 +45793,46 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH04 == 1`
@@ -38998,46 +45842,46 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH04 == 0`
@@ -39090,6 +45934,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 10`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?**
@@ -39118,6 +45971,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q02
 
 `@err_CR_V10_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -39148,6 +46010,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Qu'est-ce que la liberté ?**
@@ -39176,6 +46047,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q04
 
 `@err_CR_V10_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -39206,6 +46086,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Qu'est-ce que l'Hôtel de Matignon ?**
@@ -39234,6 +46123,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q06
 
 `@err_CR_V10_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -39264,6 +46162,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?**
@@ -39292,6 +46199,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q08
 
 `@err_CR_V10_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -39322,6 +46238,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?**
@@ -39350,6 +46275,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q10
 
 `@err_CR_V10_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -39380,6 +46314,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **De quand date l'appel à la résistance du général de Gaulle ?**
@@ -39408,6 +46351,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q12
 
 `@err_CR_V10_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -39438,6 +46390,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Quelle fête est française ?**
@@ -39466,6 +46427,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q14
 
 `@err_CR_V10_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -39496,6 +46466,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quel est le rôle du Premier ministre ?**
@@ -39524,6 +46503,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q16
 
 `@err_CR_V10_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -39554,6 +46542,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Combien de députés composent l'Assemblée nationale ?**
@@ -39582,6 +46579,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q18
 
 `@err_CR_V10_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -39612,6 +46618,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Quel pays a une frontière terrestre avec la France métropolitaine ?**
@@ -39640,6 +46655,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q20
 
 `@err_CR_V10_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -39670,6 +46694,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Qui était Auguste Renoir ?**
@@ -39698,6 +46731,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q22
 
 `@err_CR_V10_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -39728,6 +46770,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ?**
@@ -39756,6 +46807,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q24
 
 `@err_CR_V10_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -39786,6 +46846,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Qui veille au maintien de l'ordre public ?**
@@ -39814,6 +46883,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q26
 
 `@err_CR_V10_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -39844,6 +46922,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_CR_V10_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Quelle est la place de la langue française dans la République ?**
@@ -39872,6 +46959,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_CR_V10_Q28
 
 `@err_CR_V10_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -39910,6 +47006,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_CR_V10_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Vous préparez un exposé sur les symboles de la République et cherchez un site officiel fiable pour illustrer votre travail.
@@ -39940,6 +47045,15 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 ## EXAM_CR_V10_Q30
 
 `@err_CR_V10_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -39972,6 +47086,15 @@ Un usager demande à être reçu avant tout le monde au guichet de la mairie, en
 
 `@err_CR_V10_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir une image représentant un symbole officiel de la République française.
@@ -40002,6 +47125,15 @@ Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir 
 ## EXAM_CR_V10_Q32
 
 `@err_CR_V10_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -40034,6 +47166,15 @@ Un chef d'entreprise vous confie qu'il préfère ne pas embaucher de femmes dans
 
 `@err_CR_V10_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas divorcer en France sans l'accord de sa famille ou d'une autorité religieuse.
@@ -40064,6 +47205,15 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 ## EXAM_CR_V10_Q34
 
 `@err_CR_V10_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -40096,6 +47246,15 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 
 `@err_CR_V10_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparation des Églises et de l'État en France, et vous demande de retrouver l'année de son adoption.
@@ -40126,6 +47285,15 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 ## EXAM_CR_V10_Q36
 
 `@err_CR_V10_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -40158,6 +47326,15 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 `@err_CR_V10_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du gendarme parce qu'il n'est pas d'accord avec le contrôle.
@@ -40188,6 +47365,15 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 ## EXAM_CR_V10_Q38
 
 `@err_CR_V10_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -40220,6 +47406,15 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 
 `@err_CR_V10_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 On vous demande de définir en une phrase ce qu'est la Constitution, pour un exposé de préparation civique.
@@ -40251,6 +47446,15 @@ On vous demande de définir en une phrase ce qu'est la Constitution, pour un exp
 
 `@err_CR_V10_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alcool, estimant que cela relève selon lui de sa liberté personnelle.
@@ -40268,7 +47472,7 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_CR_V10_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V10_RESULT)
 
 ## EXAM_CR_V10_Q40_FAUX
 
@@ -40276,7 +47480,7 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_CR_V10_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_CR_V10_RESULT)
 
 ## EXAM_CR_V10_CORRIGE
 
@@ -40944,43 +48148,43 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2`
@@ -40990,43 +48194,43 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1`
@@ -41036,43 +48240,43 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0`
@@ -41126,6 +48330,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q01 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Une personne déclare ne croire en aucun dieu. On peut dire :**
@@ -41154,6 +48367,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q02
 
 `@err_NAT_V01_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -41184,6 +48406,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **À l'école, il est interdit aux parents de :**
@@ -41212,6 +48443,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q04
 
 `@err_NAT_V01_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -41242,6 +48482,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quelle ville française est un port maritime ?**
@@ -41270,6 +48519,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q06
 
 `@err_NAT_V01_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -41300,6 +48558,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?**
@@ -41328,6 +48595,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q08
 
 `@err_NAT_V01_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -41358,6 +48634,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?**
@@ -41386,6 +48671,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q10
 
 `@err_NAT_V01_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -41416,6 +48710,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Combien de personnes parlent français dans le monde ?**
@@ -41444,6 +48747,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q12
 
 `@err_NAT_V01_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -41474,6 +48786,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Quel pays a une frontière terrestre avec la France métropolitaine ?**
@@ -41502,6 +48823,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q14
 
 `@err_NAT_V01_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -41532,6 +48862,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quelles sont les affaires traitées par le conseil de prud'hommes ?**
@@ -41560,6 +48899,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q16
 
 `@err_NAT_V01_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -41590,6 +48938,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quelle est l'une des conditions pour passer l'examen du permis de conduire ?**
@@ -41618,6 +48975,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q18
 
 `@err_NAT_V01_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -41648,6 +49014,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Qui vote les lois en France ?**
@@ -41676,6 +49051,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q20
 
 `@err_NAT_V01_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -41706,6 +49090,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quels sont les trois pouvoirs de la République française ?**
@@ -41734,6 +49127,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q22
 
 `@err_NAT_V01_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -41764,6 +49166,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Qui juge et sanctionne les auteurs d'infractions ?**
@@ -41792,6 +49203,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q24
 
 `@err_NAT_V01_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -41822,6 +49242,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**
@@ -41850,6 +49279,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q26
 
 `@err_NAT_V01_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -41880,6 +49318,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V01_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Que signifie être libre, en France ?**
@@ -41908,6 +49355,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V01_Q28
 
 `@err_NAT_V01_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -41948,6 +49404,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@exam_variant = 1`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un collègue originaire d'une région où l'on parle une langue régionale vous affirme que chaque région de France est libre de choisir sa propre langue officielle.
@@ -41978,6 +49443,15 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 ## EXAM_NAT_V01_Q30
 
 `@err_NAT_V01_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -42010,6 +49484,15 @@ Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre e
 
 `@err_NAT_V01_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
@@ -42040,6 +49523,15 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 ## EXAM_NAT_V01_Q32
 
 `@err_NAT_V01_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -42072,6 +49564,15 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 
 `@err_NAT_V01_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Dans le même exercice, vous devez maintenant identifier laquelle de ces infractions constitue un délit.
@@ -42102,6 +49603,15 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 ## EXAM_NAT_V01_Q34
 
 `@err_NAT_V01_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -42134,6 +49644,15 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V01_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respectueuse de l'environnement au quotidien.
@@ -42164,6 +49683,15 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 ## EXAM_NAT_V01_Q36
 
 `@err_NAT_V01_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -42196,6 +49724,15 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 `@err_NAT_V01_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami confond les différentes catégories d'infractions prévues par le droit français.
@@ -42226,6 +49763,15 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 ## EXAM_NAT_V01_Q38
 
 `@err_NAT_V01_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -42258,6 +49804,15 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 
 `@err_NAT_V01_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, car Internet ne serait selon lui soumis à aucune loi.
@@ -42289,6 +49844,15 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 
 `@err_NAT_V01_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami se demande si un agent de la CAF a le droit de traiter les usagers différemment selon ses propres convictions personnelles.
@@ -42306,7 +49870,7 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 `@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V01_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V01_RESULT)
 
 ## EXAM_NAT_V01_Q40_FAUX
 
@@ -42314,7 +49878,7 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 
 `@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V01_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V01_RESULT)
 
 ## EXAM_NAT_V01_CORRIGE
 
@@ -42982,52 +50546,52 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -43037,52 +50601,52 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -43092,52 +50656,52 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -43191,6 +50755,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 2`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Que fête-t-on le 8 mai ?**
@@ -43219,6 +50792,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q02
 
 `@err_NAT_V02_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -43249,6 +50831,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Citez un symbole qui représente officiellement la République française.**
@@ -43277,6 +50868,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q04
 
 `@err_NAT_V02_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -43307,6 +50907,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quel était le surnom de Louis XIV ?**
@@ -43335,6 +50944,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q06
 
 `@err_NAT_V02_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -43365,6 +50983,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans son contrat de travail :**
@@ -43393,6 +51020,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q08
 
 `@err_NAT_V02_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -43423,6 +51059,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Qui dirige l'action du Gouvernement au quotidien ?**
@@ -43451,6 +51096,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q10
 
 `@err_NAT_V02_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -43481,6 +51135,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Que porte Marianne sur la tête ?**
@@ -43509,6 +51172,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q12
 
 `@err_NAT_V02_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -43539,6 +51211,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Sur quel document peut-on voir Marianne ?**
@@ -43567,6 +51248,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q14
 
 `@err_NAT_V02_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -43597,6 +51287,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quel est le rôle du Conseil constitutionnel ?**
@@ -43625,6 +51324,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q16
 
 `@err_NAT_V02_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -43655,6 +51363,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?**
@@ -43683,6 +51400,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q18
 
 `@err_NAT_V02_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -43713,6 +51439,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Quelle ville française fait partie des 10 plus grandes métropoles du pays ?**
@@ -43741,6 +51476,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q20
 
 `@err_NAT_V02_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -43771,6 +51515,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Qui était Marguerite Yourcenar ?**
@@ -43799,6 +51552,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q22
 
 `@err_NAT_V02_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -43829,6 +51591,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Qu'est-ce que la citoyenneté numérique ?**
@@ -43857,6 +51628,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q24
 
 `@err_NAT_V02_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -43887,6 +51667,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Lequel de ces personnages a un lien avec la République française ?**
@@ -43915,6 +51704,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q26
 
 `@err_NAT_V02_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -43945,6 +51743,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V02_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Une personne peut-elle changer librement de religion en France ?**
@@ -43973,6 +51780,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V02_Q28
 
 `@err_NAT_V02_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -44011,6 +51827,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_NAT_V02_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Une amie vous demande si une femme a le droit de recourir à un avortement en France.
@@ -44041,6 +51866,15 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 ## EXAM_NAT_V02_Q30
 
 `@err_NAT_V02_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -44073,6 +51907,15 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_NAT_V02_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Une personne récemment installée en France envisage de changer de religion, mais craint que cela ne soit interdit par la loi française.
@@ -44103,6 +51946,15 @@ Une personne récemment installée en France envisage de changer de religion, ma
 ## EXAM_NAT_V02_Q32
 
 `@err_NAT_V02_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -44135,6 +51987,15 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 `@err_NAT_V02_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respectueuse de l'environnement au quotidien.
@@ -44165,6 +52026,15 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 ## EXAM_NAT_V02_Q34
 
 `@err_NAT_V02_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -44197,6 +52067,15 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 
 `@err_NAT_V02_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux visible et vous demande ce que signifie la « neutralité de l'État ».
@@ -44227,6 +52106,15 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 ## EXAM_NAT_V02_Q36
 
 `@err_NAT_V02_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -44259,6 +52147,15 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_NAT_V02_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation de handicap, en affirmant que c'est « juste de l'humour », protégé selon lui par la liberté d'expression.
@@ -44289,6 +52186,15 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 ## EXAM_NAT_V02_Q38
 
 `@err_NAT_V02_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -44321,6 +52227,15 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 
 `@err_NAT_V02_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alcool, estimant que cela relève selon lui de sa liberté personnelle.
@@ -44352,6 +52267,15 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 
 `@err_NAT_V02_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionnés, puisqu'il s'agit selon lui simplement de son opinion personnelle.
@@ -44369,7 +52293,7 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V02_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V02_RESULT)
 
 ## EXAM_NAT_V02_Q40_FAUX
 
@@ -44377,7 +52301,7 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V02_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V02_RESULT)
 
 ## EXAM_NAT_V02_CORRIGE
 
@@ -45045,46 +52969,46 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 >= 3`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH01 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -45094,46 +53018,46 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 2`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH01 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -45143,46 +53067,46 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH01 == 1`
-- [L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+1. [📘 L’État de droit et la séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH01 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -45236,6 +53160,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 3`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Qui était une écrivaine française célèbre ?**
@@ -45264,6 +53197,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q02
 
 `@err_NAT_V03_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -45294,6 +53236,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Quel pays a été colonisé par la France ?**
@@ -45322,6 +53273,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q04
 
 `@err_NAT_V03_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -45352,6 +53312,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?**
@@ -45380,6 +53349,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q06
 
 `@err_NAT_V03_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -45410,6 +53388,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quel pays a quitté l'Union européenne (Brexit) ?**
@@ -45438,6 +53425,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q08
 
 `@err_NAT_V03_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -45468,6 +53464,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Où faut-il déclarer la naissance d'un enfant ?**
@@ -45496,6 +53501,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q10
 
 `@err_NAT_V03_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -45526,6 +53540,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quelle mer se situe entre la France et l'Angleterre ?**
@@ -45554,6 +53577,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q12
 
 `@err_NAT_V03_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -45584,6 +53616,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Où siège officiellement le Parlement européen ?**
@@ -45612,6 +53653,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q14
 
 `@err_NAT_V03_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -45642,6 +53692,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quel est le rôle du Défenseur des droits ?**
@@ -45670,6 +53729,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q16
 
 `@err_NAT_V03_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -45700,6 +53768,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Qui est élu lors des élections législatives ?**
@@ -45728,6 +53805,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q18
 
 `@err_NAT_V03_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -45758,6 +53844,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Une personne peut-elle changer librement de religion en France ?**
@@ -45786,6 +53881,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q20
 
 `@err_NAT_V03_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -45816,6 +53920,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Pourquoi la liberté d'expression peut-elle être limitée par la loi ?**
@@ -45844,6 +53957,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q22
 
 `@err_NAT_V03_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -45874,6 +53996,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Quel est l'âge de la majorité ?**
@@ -45902,6 +54033,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q24
 
 `@err_NAT_V03_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -45932,6 +54072,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Quel était le surnom de Louis XIV ?**
@@ -45960,6 +54109,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q26
 
 `@err_NAT_V03_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -45990,6 +54148,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V03_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **De quand date l'appel à la résistance du général de Gaulle ?**
@@ -46018,6 +54185,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V03_Q28
 
 `@err_NAT_V03_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -46056,6 +54232,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_NAT_V03_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
@@ -46086,6 +54271,15 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 ## EXAM_NAT_V03_Q30
 
 `@err_NAT_V03_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -46118,6 +54312,15 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 
 `@err_NAT_V03_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Une amie vous demande si une femme a le droit de recourir à un avortement en France.
@@ -46148,6 +54351,15 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 ## EXAM_NAT_V03_Q32
 
 `@err_NAT_V03_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -46180,6 +54392,15 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_NAT_V03_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marseillaise. Vous hésitez sur un mot des paroles : « Aux armes [...] ! Formez vos bataillons. »
@@ -46210,6 +54431,15 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 ## EXAM_NAT_V03_Q34
 
 `@err_NAT_V03_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -46242,6 +54472,15 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 
 `@err_NAT_V03_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Pendant votre préparation à l'examen civique, le formateur vous demande de compléter de mémoire l'article 1er de la Constitution française.
@@ -46272,6 +54511,15 @@ Pendant votre préparation à l'examen civique, le formateur vous demande de com
 ## EXAM_NAT_V03_Q36
 
 `@err_NAT_V03_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -46304,6 +54552,15 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 
 `@err_NAT_V03_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionnés, puisqu'il s'agit selon lui simplement de son opinion personnelle.
@@ -46334,6 +54591,15 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 ## EXAM_NAT_V03_Q38
 
 `@err_NAT_V03_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -46366,6 +54632,15 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 
 `@err_NAT_V03_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
@@ -46397,6 +54672,15 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V03_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lui, en dehors des jours de collecte prévus.
@@ -46414,7 +54698,7 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V03_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V03_RESULT)
 
 ## EXAM_NAT_V03_Q40_FAUX
 
@@ -46422,7 +54706,7 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V03_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V03_RESULT)
 
 ## EXAM_NAT_V03_CORRIGE
 
@@ -47090,46 +55374,46 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -47139,46 +55423,46 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -47188,46 +55472,46 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -47282,6 +55566,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 4`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Citez un symbole qui représente officiellement la République française.**
@@ -47310,6 +55603,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q02
 
 `@err_NAT_V04_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -47340,6 +55642,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Où peut-on voir la devise de la République ?**
@@ -47368,6 +55679,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q04
 
 `@err_NAT_V04_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -47398,6 +55718,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quand peut-on visiter gratuitement des lieux culturels en France ?**
@@ -47426,6 +55755,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q06
 
 `@err_NAT_V04_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -47456,6 +55794,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Comment demander une carte nationale d'identité ?**
@@ -47484,6 +55831,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q08
 
 `@err_NAT_V04_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -47514,6 +55870,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quel traité a créé officiellement l'Union européenne ?**
@@ -47542,6 +55907,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q10
 
 `@err_NAT_V04_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -47572,6 +55946,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Citez une mer ou un océan qui borde la France métropolitaine.**
@@ -47600,6 +55983,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q12
 
 `@err_NAT_V04_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -47630,6 +56022,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Lequel de ces personnages a un lien avec la République française ?**
@@ -47658,6 +56059,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q14
 
 `@err_NAT_V04_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -47688,6 +56098,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Quelle est la devise de la République française ?**
@@ -47716,6 +56135,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q16
 
 `@err_NAT_V04_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -47746,6 +56174,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?**
@@ -47774,6 +56211,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q18
 
 `@err_NAT_V04_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -47804,6 +56250,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Quelle chaîne de montagnes est située entre la France et l'Espagne ?**
@@ -47832,6 +56287,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q20
 
 `@err_NAT_V04_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -47862,6 +56326,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Comment les députés sont-ils désignés ?**
@@ -47890,6 +56363,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q22
 
 `@err_NAT_V04_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -47920,6 +56402,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Quel numéro d'urgence permet d'appeler la police ?**
@@ -47948,6 +56439,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q24
 
 `@err_NAT_V04_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -47978,6 +56478,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Qui est élu lors des élections législatives ?**
@@ -48006,6 +56515,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q26
 
 `@err_NAT_V04_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -48036,6 +56554,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V04_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Que commémore la fête nationale ?**
@@ -48064,6 +56591,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V04_Q28
 
 `@err_NAT_V04_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -48102,6 +56638,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_NAT_V04_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicalement assistée) pour avoir un enfant, et se demande à quelle liberté fondamentale ce droit se rattache.
@@ -48132,6 +56677,15 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 ## EXAM_NAT_V04_Q30
 
 `@err_NAT_V04_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -48164,6 +56718,15 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 
 `@err_NAT_V04_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Lors d'un débat sur un fait divers grave, un participant pense que la peine de mort pourrait encore être appliquée en France dans certains cas exceptionnels.
@@ -48194,6 +56757,15 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 ## EXAM_NAT_V04_Q32
 
 `@err_NAT_V04_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -48226,6 +56798,15 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 
 `@err_NAT_V04_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
@@ -48256,6 +56837,15 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 ## EXAM_NAT_V04_Q34
 
 `@err_NAT_V04_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -48288,6 +56878,15 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 
 `@err_NAT_V04_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne sert qu'à désencombrer sa poubelle.
@@ -48318,6 +56917,15 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 ## EXAM_NAT_V04_Q36
 
 `@err_NAT_V04_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -48350,6 +56958,15 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 `@err_NAT_V04_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Une amie vous demande si une femme a le droit de recourir à un avortement en France.
@@ -48380,6 +56997,15 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 ## EXAM_NAT_V04_Q38
 
 `@err_NAT_V04_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -48412,6 +57038,15 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 
 `@err_NAT_V04_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un collègue originaire d'une région où l'on parle une langue régionale vous affirme que chaque région de France est libre de choisir sa propre langue officielle.
@@ -48443,6 +57078,15 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_NAT_V04_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux visible et vous demande ce que signifie la « neutralité de l'État ».
@@ -48460,7 +57104,7 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 `@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V04_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V04_RESULT)
 
 ## EXAM_NAT_V04_Q40_FAUX
 
@@ -48468,7 +57112,7 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 
 `@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V04_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V04_RESULT)
 
 ## EXAM_NAT_V04_CORRIGE
 
@@ -49136,49 +57780,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2`
@@ -49188,49 +57832,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1`
@@ -49240,49 +57884,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0`
@@ -49335,6 +57979,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 5`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Lequel de ces personnages a un lien avec la République française ?**
@@ -49363,6 +58016,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q02
 
 `@err_NAT_V05_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -49393,6 +58055,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **À l'école, un enfant en situation de handicap :**
@@ -49421,6 +58092,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q04
 
 `@err_NAT_V05_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -49451,6 +58131,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Sur quel document peut-on voir Marianne ?**
@@ -49479,6 +58168,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q06
 
 `@err_NAT_V05_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -49509,6 +58207,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?**
@@ -49537,6 +58244,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q08
 
 `@err_NAT_V05_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -49567,6 +58283,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Où siège la Banque centrale européenne (BCE) ?**
@@ -49595,6 +58320,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q10
 
 `@err_NAT_V05_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -49625,6 +58359,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quelle est la première étape de la construction européenne en 1951 ?**
@@ -49653,6 +58396,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q12
 
 `@err_NAT_V05_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -49683,6 +58435,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Qu'est-ce que l'école maternelle ?**
@@ -49711,6 +58472,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q14
 
 `@err_NAT_V05_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -49741,6 +58511,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Ne pas respecter le Code de la route constitue :**
@@ -49769,6 +58548,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q16
 
 `@err_NAT_V05_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -49799,6 +58587,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Qui est élu lors des élections législatives ?**
@@ -49827,6 +58624,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q18
 
 `@err_NAT_V05_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -49857,6 +58663,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **En quelle année a commencé la Première Guerre mondiale ?**
@@ -49885,6 +58700,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q20
 
 `@err_NAT_V05_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -49915,6 +58739,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Où a eu lieu le débarquement en 1944 ?**
@@ -49943,6 +58776,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q22
 
 `@err_NAT_V05_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -49973,6 +58815,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Quel est l'un des premiers devoirs de tout citoyen ?**
@@ -50001,6 +58852,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q24
 
 `@err_NAT_V05_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -50031,6 +58891,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Que dit l'article 1er de la Constitution à propos de la France ?**
@@ -50059,6 +58928,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q26
 
 `@err_NAT_V05_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -50089,6 +58967,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V05_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Quel est le dernier pays à avoir rejoint l'Union européenne ?**
@@ -50117,6 +59004,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V05_Q28
 
 `@err_NAT_V05_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -50155,6 +59051,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_NAT_V05_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Une collègue vous demande si elle peut pratiquer sa religion librement en France, en dehors de son domicile.
@@ -50185,6 +59090,15 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 ## EXAM_NAT_V05_Q30
 
 `@err_NAT_V05_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -50217,6 +59131,15 @@ Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe
 
 `@err_NAT_V05_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le principe de laïcité pour les habitants de France.
@@ -50247,6 +59170,15 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 ## EXAM_NAT_V05_Q32
 
 `@err_NAT_V05_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -50279,6 +59211,15 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 `@err_NAT_V05_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'un examen blanc, on vous demande de définir précisément ce que représente la laïcité, au-delà de la simple idée de neutralité.
@@ -50309,6 +59250,15 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 ## EXAM_NAT_V05_Q34
 
 `@err_NAT_V05_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -50341,6 +59291,15 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_NAT_V05_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du gendarme parce qu'il n'est pas d'accord avec le contrôle.
@@ -50371,6 +59330,15 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 ## EXAM_NAT_V05_Q36
 
 `@err_NAT_V05_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -50403,6 +59371,15 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 
 `@err_NAT_V05_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
@@ -50433,6 +59410,15 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 ## EXAM_NAT_V05_Q38
 
 `@err_NAT_V05_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -50465,6 +59451,15 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 `@err_NAT_V05_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Des salariés de votre entreprise cessent le travail collectivement pour protester contre leurs conditions de travail. Un collègue vous dit que c'est illégal.
@@ -50496,6 +59491,15 @@ Des salariés de votre entreprise cessent le travail collectivement pour protest
 
 `@err_NAT_V05_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant qu'il n'a pas obtenu la nationalité française.
@@ -50513,7 +59517,7 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V05_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V05_RESULT)
 
 ## EXAM_NAT_V05_Q40_FAUX
 
@@ -50521,7 +59525,7 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V05_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V05_RESULT)
 
 ## EXAM_NAT_V05_CORRIGE
 
@@ -51189,43 +60193,43 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 >= 3`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH02 == 2 || @errchap_T5_CH04 == 2`
@@ -51235,43 +60239,43 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 2`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH02 == 1 || @errchap_T5_CH04 == 1`
@@ -51281,43 +60285,43 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH02 == 1`
-- [La santé](SCR_REV_T5_CH02_ACC)
+1. [📘 La santé](SCR_REV_T5_CH02_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH02 == 0 && @errchap_T5_CH04 == 0`
@@ -51370,6 +60374,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q01 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Quel pays a une frontière terrestre avec la France métropolitaine ?**
@@ -51398,6 +60411,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q02
 
 `@err_NAT_V06_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -51428,6 +60450,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Quel est le rôle du maire ?**
@@ -51456,6 +60487,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q04
 
 `@err_NAT_V06_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -51486,6 +60526,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**
@@ -51514,6 +60563,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q06
 
 `@err_NAT_V06_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -51544,6 +60602,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **La privation des droits civiques est réservée aux infractions les plus graves. Laquelle de ces situations peut être concernée ?**
@@ -51572,6 +60639,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q08
 
 `@err_NAT_V06_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -51602,6 +60678,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Où peut-on déposer un lave-vaisselle cassé ?**
@@ -51630,6 +60715,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q10
 
 `@err_NAT_V06_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -51660,6 +60754,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **En 1944, qu'est-ce qui a changé pour les femmes ?**
@@ -51688,6 +60791,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q12
 
 `@err_NAT_V06_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -51718,6 +60830,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Selon la Constitution, la France est une République...**
@@ -51746,6 +60867,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q14
 
 `@err_NAT_V06_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -51776,6 +60906,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Où peut-on voir la devise de la République ?**
@@ -51804,6 +60943,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q16
 
 `@err_NAT_V06_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -51834,6 +60982,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quelles sont les affaires traitées par le conseil de prud'hommes ?**
@@ -51862,6 +61019,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q18
 
 `@err_NAT_V06_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -51892,6 +61058,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Qu'est-ce que la laïcité ?**
@@ -51920,6 +61095,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q20
 
 `@err_NAT_V06_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -51950,6 +61134,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Que garantit le principe de laïcité ?**
@@ -51978,6 +61171,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q22
 
 `@err_NAT_V06_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -52008,6 +61210,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Une personne déclare ne croire en aucun dieu. On peut dire :**
@@ -52036,6 +61247,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q24
 
 `@err_NAT_V06_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -52066,6 +61286,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Quel est l'un des premiers devoirs de tout citoyen ?**
@@ -52094,6 +61323,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q26
 
 `@err_NAT_V06_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -52124,6 +61362,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V06_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Citez une condition nécessaire pour voter à l'élection présidentielle.**
@@ -52152,6 +61399,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V06_Q28
 
 `@err_NAT_V06_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -52192,6 +61448,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@exam_variant = 6`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 On vous demande de définir en une phrase ce qu'est la Constitution, pour un exposé de préparation civique.
@@ -52222,6 +61487,15 @@ On vous demande de définir en une phrase ce qu'est la Constitution, pour un exp
 ## EXAM_NAT_V06_Q30
 
 `@err_NAT_V06_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -52254,6 +61528,15 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 
 `@err_NAT_V06_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un ami affirme que certaines personnes auraient moins de droits que d'autres, selon leur origine ou leur religion.
@@ -52284,6 +61567,15 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 ## EXAM_NAT_V06_Q32
 
 `@err_NAT_V06_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -52316,6 +61608,15 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 
 `@err_NAT_V06_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un ami confond ses droits et ses obligations et vous demande laquelle de ces propositions constitue une véritable obligation légale.
@@ -52346,6 +61647,15 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 ## EXAM_NAT_V06_Q34
 
 `@err_NAT_V06_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -52378,6 +61688,15 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 
 `@err_NAT_V06_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Vous préparez un exposé sur les symboles de la République et cherchez un site officiel fiable pour illustrer votre travail.
@@ -52408,6 +61727,15 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 ## EXAM_NAT_V06_Q36
 
 `@err_NAT_V06_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -52440,6 +61768,15 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 `@err_NAT_V06_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
@@ -52470,6 +61807,15 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 ## EXAM_NAT_V06_Q38
 
 `@err_NAT_V06_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -52502,6 +61848,15 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 
 `@err_NAT_V06_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réellement de faire en France, pensant que cela veut dire « choisir ses propres règles ».
@@ -52533,6 +61888,15 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 
 `@err_NAT_V06_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Vous êtes témoin d'un accident de la route et une personne se trouve blessée au sol.
@@ -52550,7 +61914,7 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V06_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V06_RESULT)
 
 ## EXAM_NAT_V06_Q40_FAUX
 
@@ -52558,7 +61922,7 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 
 `@errchap_T3_CH02 = calc(@errchap_T3_CH02 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V06_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V06_RESULT)
 
 ## EXAM_NAT_V06_CORRIGE
 
@@ -53226,49 +62590,49 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -53278,49 +62642,49 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -53330,49 +62694,49 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -53423,6 +62787,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 7`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **En quelle année Napoléon Ier est-il devenu empereur ?**
@@ -53451,6 +62824,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q02
 
 `@err_NAT_V07_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -53481,6 +62863,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Combien de personnes parlent français dans le monde ?**
@@ -53509,6 +62900,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q04
 
 `@err_NAT_V07_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -53539,6 +62939,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?**
@@ -53567,6 +62976,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q06
 
 `@err_NAT_V07_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -53597,6 +63015,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quel musée est situé à Paris ?**
@@ -53625,6 +63052,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q08
 
 `@err_NAT_V07_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -53655,6 +63091,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quel monument parisien est l'un des symboles de la France ?**
@@ -53683,6 +63128,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q10
 
 `@err_NAT_V07_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -53713,6 +63167,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Qu'est-ce que le droit de grève ?**
@@ -53741,6 +63204,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q12
 
 `@err_NAT_V07_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -53771,6 +63243,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Dans une entreprise, le droit syndical permet :**
@@ -53799,6 +63280,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q14
 
 `@err_NAT_V07_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -53829,6 +63319,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Que garantit la liberté de la presse ?**
@@ -53857,6 +63356,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q16
 
 `@err_NAT_V07_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -53887,6 +63395,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quelles sont les conditions pour toucher les allocations chômage ?**
@@ -53915,6 +63432,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q18
 
 `@err_NAT_V07_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -53945,6 +63471,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Qui était un célèbre musicien français ?**
@@ -53973,6 +63508,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q20
 
 `@err_NAT_V07_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -54003,6 +63547,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quelle collectivité territoriale a la compétence des collèges publics ?**
@@ -54031,6 +63584,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q22
 
 `@err_NAT_V07_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -54061,6 +63623,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Comment la Constitution peut-elle être révisée ?**
@@ -54089,6 +63660,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q24
 
 `@err_NAT_V07_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -54119,6 +63699,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?**
@@ -54147,6 +63736,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q26
 
 `@err_NAT_V07_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -54177,6 +63775,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V07_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Lequel de ces actes porte gravement atteinte à la dignité humaine ?**
@@ -54205,6 +63812,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V07_Q28
 
 `@err_NAT_V07_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -54243,6 +63859,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_NAT_V07_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionnés, puisqu'il s'agit selon lui simplement de son opinion personnelle.
@@ -54273,6 +63898,15 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 ## EXAM_NAT_V07_Q30
 
 `@err_NAT_V07_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -54305,6 +63939,15 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 
 `@err_NAT_V07_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, car Internet ne serait selon lui soumis à aucune loi.
@@ -54335,6 +63978,15 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 ## EXAM_NAT_V07_Q32
 
 `@err_NAT_V07_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -54367,6 +64019,15 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 
 `@err_NAT_V07_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 On vous demande de nommer la liberté qui permet à une personne de croire en la religion de son choix, ou de n'en avoir aucune.
@@ -54397,6 +64058,15 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 ## EXAM_NAT_V07_Q34
 
 `@err_NAT_V07_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -54429,6 +64099,15 @@ Vous montrez à un ami une enveloppe affranchie et lui faites remarquer le visag
 
 `@err_NAT_V07_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un enseignant vous présente la Charte de la laïcité affichée dans les établissements scolaires et vous demande ce qu'elle interdit précisément.
@@ -54459,6 +64138,15 @@ Un enseignant vous présente la Charte de la laïcité affichée dans les établ
 ## EXAM_NAT_V07_Q36
 
 `@err_NAT_V07_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -54491,6 +64179,15 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 `@err_NAT_V07_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
@@ -54521,6 +64218,15 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 ## EXAM_NAT_V07_Q38
 
 `@err_NAT_V07_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -54553,6 +64259,15 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 
 `@err_NAT_V07_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe religieux et se demande si cette règle s'applique aussi à lui, en tant qu'usager.
@@ -54584,6 +64299,15 @@ Dans une préfecture, un usager remarque qu'un agent public ne porte aucun signe
 
 `@err_NAT_V07_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en connaître la signification exacte.
@@ -54601,7 +64325,7 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V07_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V07_RESULT)
 
 ## EXAM_NAT_V07_Q40_FAUX
 
@@ -54609,7 +64333,7 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V07_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V07_RESULT)
 
 ## EXAM_NAT_V07_CORRIGE
 
@@ -55277,37 +65001,37 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH03 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2`
@@ -55317,37 +65041,37 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH03 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1`
@@ -55357,37 +65081,37 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH03 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0`
@@ -55443,6 +65167,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 8`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Quelle institution française doit rester neutre en matière de religion ?**
@@ -55471,6 +65204,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q02
 
 `@err_NAT_V08_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -55501,6 +65243,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Quelle est l'une des conditions pour passer l'examen du permis de conduire ?**
@@ -55529,6 +65280,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q04
 
 `@err_NAT_V08_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -55559,6 +65319,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **A-t-on le droit de ne pas respecter une loi que l'on juge injuste ?**
@@ -55587,6 +65356,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q06
 
 `@err_NAT_V08_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -55617,6 +65395,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Quel roi de France a été exécuté pendant la Révolution française ?**
@@ -55645,6 +65432,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q08
 
 `@err_NAT_V08_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -55675,6 +65471,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **En quoi consiste le devoir de solidarité du citoyen ?**
@@ -55703,6 +65508,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q10
 
 `@err_NAT_V08_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -55733,6 +65547,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Peut-on brûler publiquement un drapeau français ?**
@@ -55761,6 +65584,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q12
 
 `@err_NAT_V08_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -55791,6 +65623,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Qui peut manger à la cantine scolaire ?**
@@ -55819,6 +65660,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q14
 
 `@err_NAT_V08_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -55849,6 +65699,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Durant le mandat de quel président la peine de mort a-t-elle été abolie ?**
@@ -55877,6 +65736,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q16
 
 `@err_NAT_V08_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -55907,6 +65775,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?**
@@ -55935,6 +65812,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q18
 
 `@err_NAT_V08_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -55965,6 +65851,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Citez une condition pour être candidat aux élections municipales.**
@@ -55993,6 +65888,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q20
 
 `@err_NAT_V08_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -56023,6 +65927,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Quelle ville française est un port maritime ?**
@@ -56051,6 +65964,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q22
 
 `@err_NAT_V08_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -56081,6 +66003,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **À quoi sert un titre de séjour ?**
@@ -56109,6 +66040,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q24
 
 `@err_NAT_V08_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -56139,6 +66079,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?**
@@ -56167,6 +66116,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q26
 
 `@err_NAT_V08_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -56197,6 +66155,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V08_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »**
@@ -56225,6 +66192,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V08_Q28
 
 `@err_NAT_V08_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -56263,6 +66239,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_NAT_V08_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que « personne ne regarde, donc ce n'est pas grave ».
@@ -56293,6 +66278,15 @@ Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que �
 ## EXAM_NAT_V08_Q30
 
 `@err_NAT_V08_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -56325,6 +66319,15 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 
 `@err_NAT_V08_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Une amie vous demande si une femme a le droit de recourir à un avortement en France.
@@ -56355,6 +66358,15 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 ## EXAM_NAT_V08_Q32
 
 `@err_NAT_V08_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -56387,6 +66399,15 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 
 `@err_NAT_V08_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peuvent voter aux élections.
@@ -56417,6 +66438,15 @@ Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peu
 ## EXAM_NAT_V08_Q34
 
 `@err_NAT_V08_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -56449,6 +66479,15 @@ Un voisin dépose régulièrement ses encombrants sur le trottoir devant chez lu
 
 `@err_NAT_V08_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un ami pense que la liberté de la presse permet aux journalistes de publier n'importe quelle information, sans aucune limite.
@@ -56479,6 +66518,15 @@ Un ami pense que la liberté de la presse permet aux journalistes de publier n'i
 ## EXAM_NAT_V08_Q36
 
 `@err_NAT_V08_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -56511,6 +66559,15 @@ Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir 
 
 `@err_NAT_V08_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un ami sans religion craint de rencontrer des difficultés administratives en France parce qu'il ne pratique aucun culte.
@@ -56541,6 +66598,15 @@ Un ami sans religion craint de rencontrer des difficultés administratives en Fr
 ## EXAM_NAT_V08_Q38
 
 `@err_NAT_V08_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -56573,6 +66639,15 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 
 `@err_NAT_V08_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
@@ -56604,6 +66679,15 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@err_NAT_V08_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami affirme que certaines personnes auraient moins de droits que d'autres, selon leur origine ou leur religion.
@@ -56621,7 +66705,7 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 `@exam_t3 = calc(@exam_t3+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V08_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V08_RESULT)
 
 ## EXAM_NAT_V08_Q40_FAUX
 
@@ -56629,7 +66713,7 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 `@errchap_T3_CH01 = calc(@errchap_T3_CH01 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V08_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V08_RESULT)
 
 ## EXAM_NAT_V08_CORRIGE
 
@@ -57297,52 +67381,52 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 >= 3`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH02 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -57352,52 +67436,52 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 2`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH02 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -57407,52 +67491,52 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH02 == 1`
-- [La devise de la République française](SCR_REV_T1_CH02_ACC)
+1. [📘 La devise de la République française](SCR_REV_T1_CH02_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH02 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
@@ -57506,6 +67590,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 9`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Que porte Marianne sur la tête ?**
@@ -57534,6 +67627,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q02
 
 `@err_NAT_V09_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -57564,6 +67666,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Quel est le rôle du maire ?**
@@ -57592,6 +67703,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q04
 
 `@err_NAT_V09_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -57622,6 +67742,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?**
@@ -57650,6 +67779,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q06
 
 `@err_NAT_V09_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -57680,6 +67818,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Que dit la loi de 1905 ?**
@@ -57708,6 +67855,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q08
 
 `@err_NAT_V09_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -57738,6 +67894,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **Quelle ville française est un port maritime ?**
@@ -57766,6 +67931,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q10
 
 `@err_NAT_V09_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -57796,6 +67970,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quel monument parisien est l'un des symboles de la France ?**
@@ -57824,6 +68007,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q12
 
 `@err_NAT_V09_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -57854,6 +68046,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Que signifie être libre, en France ?**
@@ -57882,6 +68083,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q14
 
 `@err_NAT_V09_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -57912,6 +68122,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?**
@@ -57940,6 +68159,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q16
 
 `@err_NAT_V09_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -57970,6 +68198,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **De quand date l'appel à la résistance du général de Gaulle ?**
@@ -57998,6 +68235,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q18
 
 `@err_NAT_V09_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -58028,6 +68274,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **En cas de vacance de la présidence, qui assure provisoirement les fonctions de Président de la République ?**
@@ -58056,6 +68311,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q20
 
 `@err_NAT_V09_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -58086,6 +68350,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Pour un citoyen tiré au sort, être juré à la cour d'assises est :**
@@ -58114,6 +68387,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q22
 
 `@err_NAT_V09_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -58144,6 +68426,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?**
@@ -58172,6 +68463,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q24
 
 `@err_NAT_V09_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -58202,6 +68502,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **En quelle année l'euro est-elle devenue la monnaie utilisée en France ?**
@@ -58230,6 +68539,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q26
 
 `@err_NAT_V09_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -58260,6 +68578,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V09_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Quel numéro d'urgence permet d'appeler la police ?**
@@ -58288,6 +68615,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V09_Q28
 
 `@err_NAT_V09_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -58326,6 +68662,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_NAT_V09_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que « personne ne regarde, donc ce n'est pas grave ».
@@ -58356,6 +68701,15 @@ Dans la rue, un ami jette son mégot de cigarette par terre en vous disant que �
 ## EXAM_NAT_V09_Q30
 
 `@err_NAT_V09_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -58388,6 +68742,15 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 
 `@err_NAT_V09_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle et un travail. Il vous demande un exemple concret de participation à la vie citoyenne et démocratique de la France.
@@ -58418,6 +68781,15 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 ## EXAM_NAT_V09_Q32
 
 `@err_NAT_V09_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -58450,6 +68822,15 @@ Une amie vous demande si une femme a le droit de recourir à un avortement en Fr
 
 `@err_NAT_V09_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Un ami confond les différentes catégories d'infractions prévues par le droit français.
@@ -58480,6 +68861,15 @@ Un ami confond les différentes catégories d'infractions prévues par le droit 
 ## EXAM_NAT_V09_Q34
 
 `@err_NAT_V09_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -58512,6 +68902,15 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 
 `@err_NAT_V09_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un ami pense que la liberté de circulation lui permet de camper où il veut en France, y compris sur un terrain privé, du moment qu'il ne dérange personne.
@@ -58542,6 +68941,15 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 ## EXAM_NAT_V09_Q36
 
 `@err_NAT_V09_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -58574,6 +68982,15 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 
 `@err_NAT_V09_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un enseignant vous présente la Charte de la laïcité affichée dans les établissements scolaires et vous demande ce qu'elle interdit précisément.
@@ -58604,6 +69021,15 @@ Un enseignant vous présente la Charte de la laïcité affichée dans les établ
 ## EXAM_NAT_V09_Q38
 
 `@err_NAT_V09_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -58636,6 +69062,15 @@ Un ami s'étonne que l'État puisse imposer des règles limitant certaines liber
 
 `@err_NAT_V09_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Une personne récemment installée en France envisage de changer de religion, mais craint que cela ne soit interdit par la loi française.
@@ -58667,6 +69102,15 @@ Une personne récemment installée en France envisage de changer de religion, ma
 
 `@err_NAT_V09_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
@@ -58684,7 +69128,7 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 `@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V09_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V09_RESULT)
 
 ## EXAM_NAT_V09_Q40_FAUX
 
@@ -58692,7 +69136,7 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 
 `@errchap_T1_CH03 = calc(@errchap_T1_CH03 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V09_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V09_RESULT)
 
 ## EXAM_NAT_V09_CORRIGE
 
@@ -59360,46 +69804,46 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 >= 3`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 >= 3`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T1_CH05 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH01 == 2 || @errchap_T5_CH04 == 2`
@@ -59409,46 +69853,46 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 2`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 2`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T1_CH05 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH01 == 1 || @errchap_T5_CH04 == 1`
@@ -59458,46 +69902,46 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T1_CH05 == 1`
-- [La langue de la République](SCR_REV_T1_CH05_ACC)
+1. [📘 La langue de la République](SCR_REV_T1_CH05_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH01 == 1`
-- [Les démarches administratives](SCR_REV_T5_CH01_ACC)
+1. [📘 Les démarches administratives](SCR_REV_T5_CH01_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T1_CH05 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH01 == 0 && @errchap_T5_CH04 == 0`
@@ -59550,6 +69994,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@exam_variant = 10`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/?start=1"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 1 sur 40
 
 **Quel régime politique a été mis en place pendant la Révolution française en 1792 ?**
@@ -59578,6 +70031,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q02
 
 `@err_NAT_V10_Q02 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 2 sur 40
 
@@ -59608,6 +70070,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q03 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 3 sur 40
 
 **Où a eu lieu le débarquement en 1944 ?**
@@ -59636,6 +70107,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q04
 
 `@err_NAT_V10_Q04 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 4 sur 40
 
@@ -59666,6 +70146,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q05 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 5 sur 40
 
 **Selon le principe de laïcité, que signifie la neutralité de l'État ?**
@@ -59694,6 +70183,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q06
 
 `@err_NAT_V10_Q06 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 6 sur 40
 
@@ -59724,6 +70222,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q07 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 7 sur 40
 
 **Tous les citoyens français ont-ils obligatoirement la même religion ?**
@@ -59752,6 +70259,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q08
 
 `@err_NAT_V10_Q08 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 8 sur 40
 
@@ -59782,6 +70298,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q09 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 9 sur 40
 
 **En quelle année l'euro est-elle devenue la monnaie utilisée en France ?**
@@ -59810,6 +70335,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q10
 
 `@err_NAT_V10_Q10 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 10 sur 40
 
@@ -59840,6 +70374,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q11 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 11 sur 40
 
 **Quand peut-on visiter gratuitement des lieux culturels en France ?**
@@ -59868,6 +70411,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q12
 
 `@err_NAT_V10_Q12 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 12 sur 40
 
@@ -59898,6 +70450,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q13 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 13 sur 40
 
 **Quel pays a une frontière terrestre avec la France métropolitaine ?**
@@ -59926,6 +70487,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q14
 
 `@err_NAT_V10_Q14 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 14 sur 40
 
@@ -59956,6 +70526,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q15 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 15 sur 40
 
 **Sur quel document peut-on voir Marianne ?**
@@ -59984,6 +70563,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q16
 
 `@err_NAT_V10_Q16 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 16 sur 40
 
@@ -60014,6 +70602,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q17 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 17 sur 40
 
 **Quel est l'objectif du droit de grève ?**
@@ -60042,6 +70639,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q18
 
 `@err_NAT_V10_Q18 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 18 sur 40
 
@@ -60072,6 +70678,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q19 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 19 sur 40
 
 **Quel est l'âge de la majorité ?**
@@ -60100,6 +70715,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q20
 
 `@err_NAT_V10_Q20 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 20 sur 40
 
@@ -60130,6 +70754,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q21 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 21 sur 40
 
 **Qui était Auguste Rodin ?**
@@ -60158,6 +70791,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q22
 
 `@err_NAT_V10_Q22 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 22 sur 40
 
@@ -60188,6 +70830,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q23 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 23 sur 40
 
 **La liberté d'association est :**
@@ -60216,6 +70867,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q24
 
 `@err_NAT_V10_Q24 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 24 sur 40
 
@@ -60246,6 +70906,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q25 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 25 sur 40
 
 **Quelle collectivité territoriale a la compétence des collèges publics ?**
@@ -60274,6 +70943,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q26
 
 `@err_NAT_V10_Q26 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 26 sur 40
 
@@ -60304,6 +70982,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 
 `@err_NAT_V10_Q27 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 27 sur 40
 
 **Dans une entreprise, le droit syndical permet :**
@@ -60332,6 +71019,15 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 ## EXAM_NAT_V10_Q28
 
 `@err_NAT_V10_Q28 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 28 sur 40
 
@@ -60370,6 +71066,15 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 
 `@err_NAT_V10_Q29 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 29 sur 40
 
 Un ami pense que la liberté de la presse permet aux journalistes de publier n'importe quelle information, sans aucune limite.
@@ -60400,6 +71105,15 @@ Un ami pense que la liberté de la presse permet aux journalistes de publier n'i
 ## EXAM_NAT_V10_Q30
 
 `@err_NAT_V10_Q30 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 30 sur 40
 
@@ -60432,6 +71146,15 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 
 `@err_NAT_V10_Q31 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 31 sur 40
 
 Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pense qu'elle sert uniquement à interdire les religions.
@@ -60462,6 +71185,15 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 ## EXAM_NAT_V10_Q32
 
 `@err_NAT_V10_Q32 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 32 sur 40
 
@@ -60494,6 +71226,15 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 
 `@err_NAT_V10_Q33 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 33 sur 40
 
 Lors d'une manifestation, certains participants brûlent un drapeau français devant les caméras, pensant que la liberté de manifester le permet.
@@ -60524,6 +71265,15 @@ Lors d'une manifestation, certains participants brûlent un drapeau français de
 ## EXAM_NAT_V10_Q34
 
 `@err_NAT_V10_Q34 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 34 sur 40
 
@@ -60556,6 +71306,15 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 
 `@err_NAT_V10_Q35 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 35 sur 40
 
 Un ami confond plusieurs symboles français et affirme que la Marseillaise est simplement une chanson de variété populaire.
@@ -60586,6 +71345,15 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 ## EXAM_NAT_V10_Q36
 
 `@err_NAT_V10_Q36 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 36 sur 40
 
@@ -60618,6 +71386,15 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 
 `@err_NAT_V10_Q37 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 37 sur 40
 
 Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux visible et vous demande ce que signifie la « neutralité de l'État ».
@@ -60648,6 +71425,15 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 ## EXAM_NAT_V10_Q38
 
 `@err_NAT_V10_Q38 = 0`
+
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
 
 ### Question 38 sur 40
 
@@ -60680,6 +71466,15 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 
 `@err_NAT_V10_Q39 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 39 sur 40
 
 Lors d'un cours de droit civique, on vous présente plusieurs infractions et vous devez identifier celle qui constitue un crime.
@@ -60711,6 +71506,15 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 
 `@err_NAT_V10_Q40 = 0`
 
+<iframe
+  src="https://codeurfou-sys.github.io/chatbot_civique2/minuteur-examen/"
+  title="Minuteur de l’examen blanc"
+  width="100%"
+  height="94"
+  loading="eager"
+  style="border:0; border-radius:14px; background:#ffffff;"
+></iframe>
+
 ### Question 40 sur 40
 
 Un ami se demande si un agent de la CAF a le droit de traiter les usagers différemment selon ses propres convictions personnelles.
@@ -60728,7 +71532,7 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 `@exam_t1 = calc(@exam_t1+1)`
 `@exam_situations = calc(@exam_situations+1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V10_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V10_RESULT)
 
 ## EXAM_NAT_V10_Q40_FAUX
 
@@ -60736,7 +71540,7 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 
 `@errchap_T1_CH04 = calc(@errchap_T1_CH04 + 1)`
 
-1. [➡️ Question suivante](EXAM_NAT_V10_RESULT)
+1. [📊 Accéder à mes résultats](EXAM_NAT_V10_RESULT)
 
 ## EXAM_NAT_V10_CORRIGE
 
@@ -61404,43 +72208,43 @@ Plusieurs erreurs ont été identifiées. Reprenez en priorité :
 
 `endif`
 `if @errchap_T1_CH01 >= 3`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 >= 3`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 >= 3`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 >= 3`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 >= 3`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 >= 3`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 >= 3`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 >= 3`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 >= 3`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 >= 3`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 >= 3`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 >= 3`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 >= 3`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 2 || @errchap_T1_CH03 == 2 || @errchap_T1_CH04 == 2 || @errchap_T2_CH02 == 2 || @errchap_T2_CH03 == 2 || @errchap_T2_CH04 == 2 || @errchap_T3_CH01 == 2 || @errchap_T3_CH02 == 2 || @errchap_T4_CH01 == 2 || @errchap_T4_CH02 == 2 || @errchap_T4_CH03 == 2 || @errchap_T5_CH03 == 2 || @errchap_T5_CH04 == 2`
@@ -61450,43 +72254,43 @@ Ces chapitres méritent une révision ciblée :
 
 `endif`
 `if @errchap_T1_CH01 == 2`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 2`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 2`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 2`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 2`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 2`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 2`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 2`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 2`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 2`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 2`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 2`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 2`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 1 || @errchap_T1_CH03 == 1 || @errchap_T1_CH04 == 1 || @errchap_T2_CH02 == 1 || @errchap_T2_CH03 == 1 || @errchap_T2_CH04 == 1 || @errchap_T3_CH01 == 1 || @errchap_T3_CH02 == 1 || @errchap_T4_CH01 == 1 || @errchap_T4_CH02 == 1 || @errchap_T4_CH03 == 1 || @errchap_T5_CH03 == 1 || @errchap_T5_CH04 == 1`
@@ -61496,43 +72300,43 @@ Une erreur ponctuelle a été repérée. Vérifiez :
 
 `endif`
 `if @errchap_T1_CH01 == 1`
-- [Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
+1. [📘 Les principes et valeurs de la République](SCR_REV_T1_CH01_ACC)
 `endif`
 `if @errchap_T1_CH03 == 1`
-- [Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+1. [📘 Les symboles de la République française](SCR_REV_T1_CH03_ACC)
 `endif`
 `if @errchap_T1_CH04 == 1`
-- [La laïcité](SCR_REV_T1_CH04_ACC)
+1. [📘 La laïcité](SCR_REV_T1_CH04_ACC)
 `endif`
 `if @errchap_T2_CH02 == 1`
-- [La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
+1. [📘 La démocratie et le droit de vote](SCR_REV_T2_CH02_ACC)
 `endif`
 `if @errchap_T2_CH03 == 1`
-- [L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
+1. [📘 L’organisation et les institutions de la République](SCR_REV_T2_CH03_ACC)
 `endif`
 `if @errchap_T2_CH04 == 1`
-- [Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [📘 Les institutions européennes](SCR_REV_T2_CH04_ACC)
 `endif`
 `if @errchap_T3_CH01 == 1`
-- [Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+1. [📘 Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
 `endif`
 `if @errchap_T3_CH02 == 1`
-- [Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [📘 Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 `endif`
 `if @errchap_T4_CH01 == 1`
-- [L’histoire de France](SCR_REV_T4_CH01_ACC)
+1. [📘 L’histoire de France](SCR_REV_T4_CH01_ACC)
 `endif`
 `if @errchap_T4_CH02 == 1`
-- [Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
+1. [📘 Les territoires et la géographie de la France](SCR_REV_T4_CH02_ACC)
 `endif`
 `if @errchap_T4_CH03 == 1`
-- [Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
+1. [📘 Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 `endif`
 `if @errchap_T5_CH03 == 1`
-- [L’emploi](SCR_REV_T5_CH03_ACC)
+1. [📘 L’emploi](SCR_REV_T5_CH03_ACC)
 `endif`
 `if @errchap_T5_CH04 == 1`
-- [La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
+1. [📘 La parentalité et l’éducation](SCR_REV_T5_CH04_ACC)
 `endif`
 
 `if @errchap_T1_CH01 == 0 && @errchap_T1_CH03 == 0 && @errchap_T1_CH04 == 0 && @errchap_T2_CH02 == 0 && @errchap_T2_CH03 == 0 && @errchap_T2_CH04 == 0 && @errchap_T3_CH01 == 0 && @errchap_T3_CH02 == 0 && @errchap_T4_CH01 == 0 && @errchap_T4_CH02 == 0 && @errchap_T4_CH03 == 0 && @errchap_T5_CH03 == 0 && @errchap_T5_CH04 == 0`
