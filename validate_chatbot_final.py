@@ -53,8 +53,45 @@ if "❓ Poser une question" in Path("modules/05_preparer_examen.md").read_text(e
 if text.count('<ul class="messageOptions">') < 24:
     errors.append("Les boutons externes d'inscription du module 07 sont incomplets")
 
+revision_text = Path("modules/03_revisions.md").read_text(encoding="utf-8")
+revision_results = re.findall(
+    r"(?ms)^## (SCR_REV_[A-Z0-9_]+_VERIF_Q\d+_RESULT)\s*$\n(.*?)(?=^## |\Z)",
+    revision_text,
+)
+if len(revision_results) != 62:
+    errors.append(f"Nombre inattendu d'écrans de correction : {len(revision_results)} au lieu de 62")
+if '("" + @' in revision_text:
+    errors.append("Conversion JavaScript non compatible encore présente dans les révisions")
+for screen_id, body in revision_results:
+    if body.count("`if ") != 3 or body.count("`endif`") != 3:
+        errors.append(f"Trois niveaux de feedback non garantis dans {screen_id}")
+    for condition in re.findall(r"(?m)^`if (.+)`$", body):
+        depth = 0
+        in_string = False
+        escaped = False
+        for char in condition:
+            if char == '"' and not escaped:
+                in_string = not in_string
+            elif not in_string and char == "(":
+                depth += 1
+            elif not in_string and char == ")":
+                depth -= 1
+                if depth < 0:
+                    break
+            escaped = char == "\\" and not escaped
+        if depth != 0 or in_string:
+            errors.append(f"Condition déséquilibrée dans {screen_id}")
+
+faq_text = Path("modules/09_faq.md").read_text(encoding="utf-8")
+if faq_text.count(":::info 💬 Réponse claire") != 71:
+    errors.append("Les 71 réponses de la FAQ ne sont pas toutes mises en valeur")
+if "### Reponse markdown" in faq_text:
+    errors.append("Un ancien intertitre technique subsiste dans la FAQ")
+
 if errors:
     raise SystemExit("\n".join(errors))
 
 print(f"OK — {len(screen_ids)} écrans, {len(targets)} liens, aucun doublon, aucune destination manquante.")
 print(f"Accès ‘Poser une question’ hors examen blanc : {text.count('❓ Poser une question')} occurrences.")
+print(f"Révisions : {len(revision_results)} corrections contrôlées avec 3 niveaux de feedback.")
+print("FAQ : 71 réponses encadrées et navigation illustrée.")

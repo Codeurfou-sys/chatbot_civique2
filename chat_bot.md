@@ -144650,7 +144650,7 @@ Qui possède la souveraineté nationale en France ?
 
 > `@rep_t1_ch1_q1`
 
-`if ((("" + @rep_t1_ch1_q1).toLowerCase().includes("peuple")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("citoyen"))) && ((("" + @rep_t1_ch1_q1).toLowerCase().includes("population")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("nation")))`
+`if ((@rep_t1_ch1_q1.toLowerCase().includes("peuple")) || (@rep_t1_ch1_q1.toLowerCase().includes("citoyen"))) && ((@rep_t1_ch1_q1.toLowerCase().includes("population")) || (@rep_t1_ch1_q1.toLowerCase().includes("nation")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -144660,7 +144660,7 @@ Le peuple.
 1. [➡️ Question suivante](SCR_REV_T1_CH01_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t1_ch1_q1).toLowerCase().includes("peuple")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("citoyen"))) && ((("" + @rep_t1_ch1_q1).toLowerCase().includes("population")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("nation")))) && ((("" + @rep_t1_ch1_q1).toLowerCase().includes("peuple")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("citoyen")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("population")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("nation")))`
+`if !(((@rep_t1_ch1_q1.toLowerCase().includes("peuple")) || (@rep_t1_ch1_q1.toLowerCase().includes("citoyen"))) && ((@rep_t1_ch1_q1.toLowerCase().includes("population")) || (@rep_t1_ch1_q1.toLowerCase().includes("nation")))) && ((@rep_t1_ch1_q1.toLowerCase().includes("peuple")) || (@rep_t1_ch1_q1.toLowerCase().includes("citoyen")) || (@rep_t1_ch1_q1.toLowerCase().includes("population")) || (@rep_t1_ch1_q1.toLowerCase().includes("nation")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -144674,7 +144674,7 @@ Le peuple.
 3. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch1_q1).toLowerCase().includes("peuple")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("citoyen")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("population")) || (("" + @rep_t1_ch1_q1).toLowerCase().includes("nation")))`
+`if !((@rep_t1_ch1_q1.toLowerCase().includes("peuple")) || (@rep_t1_ch1_q1.toLowerCase().includes("citoyen")) || (@rep_t1_ch1_q1.toLowerCase().includes("population")) || (@rep_t1_ch1_q1.toLowerCase().includes("nation")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -144710,7 +144710,7 @@ Par quels moyens le peuple exerce-t-il la souveraineté nationale ?
 
 > `@rep_t1_ch1_q2`
 
-`if ((("" + @rep_t1_ch1_q2).toLowerCase().includes("représentants")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("representant")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("représentant")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("élus")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("elu"))) && ((("" + @rep_t1_ch1_q2).toLowerCase().includes("député")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("depute")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("référendum")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("referendum")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("vote direct")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("consultation populaire")))`
+`if ((@rep_t1_ch1_q2.toLowerCase().includes("représentants")) || (@rep_t1_ch1_q2.toLowerCase().includes("representant")) || (@rep_t1_ch1_q2.toLowerCase().includes("représentant")) || (@rep_t1_ch1_q2.toLowerCase().includes("élus")) || (@rep_t1_ch1_q2.toLowerCase().includes("elu"))) && ((@rep_t1_ch1_q2.toLowerCase().includes("député")) || (@rep_t1_ch1_q2.toLowerCase().includes("depute")) || (@rep_t1_ch1_q2.toLowerCase().includes("référendum")) || (@rep_t1_ch1_q2.toLowerCase().includes("referendum")) || (@rep_t1_ch1_q2.toLowerCase().includes("vote direct")) || (@rep_t1_ch1_q2.toLowerCase().includes("consultation populaire")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -144720,7 +144720,7 @@ Par ses représentants et par la voie du référendum.
 1. [➡️ Question suivante](SCR_REV_T1_CH01_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t1_ch1_q2).toLowerCase().includes("représentants")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("representant")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("représentant")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("élus")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("elu"))) && ((("" + @rep_t1_ch1_q2).toLowerCase().includes("député")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("depute")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("référendum")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("referendum")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("vote direct")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("consultation populaire")))) && ((("" + @rep_t1_ch1_q2).toLowerCase().includes("représentants")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("representant")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("représentant")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("élus")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("elu")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("député")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("depute")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("référendum")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("referendum")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("vote direct")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("consultation populaire")))`
+`if !(((@rep_t1_ch1_q2.toLowerCase().includes("représentants")) || (@rep_t1_ch1_q2.toLowerCase().includes("representant")) || (@rep_t1_ch1_q2.toLowerCase().includes("représentant")) || (@rep_t1_ch1_q2.toLowerCase().includes("élus")) || (@rep_t1_ch1_q2.toLowerCase().includes("elu"))) && ((@rep_t1_ch1_q2.toLowerCase().includes("député")) || (@rep_t1_ch1_q2.toLowerCase().includes("depute")) || (@rep_t1_ch1_q2.toLowerCase().includes("référendum")) || (@rep_t1_ch1_q2.toLowerCase().includes("referendum")) || (@rep_t1_ch1_q2.toLowerCase().includes("vote direct")) || (@rep_t1_ch1_q2.toLowerCase().includes("consultation populaire")))) && ((@rep_t1_ch1_q2.toLowerCase().includes("représentants")) || (@rep_t1_ch1_q2.toLowerCase().includes("representant")) || (@rep_t1_ch1_q2.toLowerCase().includes("représentant")) || (@rep_t1_ch1_q2.toLowerCase().includes("élus")) || (@rep_t1_ch1_q2.toLowerCase().includes("elu")) || (@rep_t1_ch1_q2.toLowerCase().includes("député")) || (@rep_t1_ch1_q2.toLowerCase().includes("depute")) || (@rep_t1_ch1_q2.toLowerCase().includes("référendum")) || (@rep_t1_ch1_q2.toLowerCase().includes("referendum")) || (@rep_t1_ch1_q2.toLowerCase().includes("vote direct")) || (@rep_t1_ch1_q2.toLowerCase().includes("consultation populaire")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -144734,7 +144734,7 @@ Par ses représentants et par la voie du référendum.
 3. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch1_q2).toLowerCase().includes("représentants")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("representant")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("représentant")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("élus")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("elu")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("député")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("depute")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("référendum")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("referendum")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("vote direct")) || (("" + @rep_t1_ch1_q2).toLowerCase().includes("consultation populaire")))`
+`if !((@rep_t1_ch1_q2.toLowerCase().includes("représentants")) || (@rep_t1_ch1_q2.toLowerCase().includes("representant")) || (@rep_t1_ch1_q2.toLowerCase().includes("représentant")) || (@rep_t1_ch1_q2.toLowerCase().includes("élus")) || (@rep_t1_ch1_q2.toLowerCase().includes("elu")) || (@rep_t1_ch1_q2.toLowerCase().includes("député")) || (@rep_t1_ch1_q2.toLowerCase().includes("depute")) || (@rep_t1_ch1_q2.toLowerCase().includes("référendum")) || (@rep_t1_ch1_q2.toLowerCase().includes("referendum")) || (@rep_t1_ch1_q2.toLowerCase().includes("vote direct")) || (@rep_t1_ch1_q2.toLowerCase().includes("consultation populaire")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -144772,7 +144772,7 @@ Complète la phrase :
 
 > `@rep_t1_ch1_q3`
 
-`if ((("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisible")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("une et indivisible")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisibilité")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisibilite")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laïque")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laïcité"))) && ((("" + @rep_t1_ch1_q3).toLowerCase().includes("laicite")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("démocratique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("democratique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("démocratie")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("democratie")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("sociale")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("social")))`
+`if ((@rep_t1_ch1_q3.toLowerCase().includes("indivisible")) || (@rep_t1_ch1_q3.toLowerCase().includes("une et indivisible")) || (@rep_t1_ch1_q3.toLowerCase().includes("indivisibilité")) || (@rep_t1_ch1_q3.toLowerCase().includes("indivisibilite")) || (@rep_t1_ch1_q3.toLowerCase().includes("laïque")) || (@rep_t1_ch1_q3.toLowerCase().includes("laique")) || (@rep_t1_ch1_q3.toLowerCase().includes("laïcité"))) && ((@rep_t1_ch1_q3.toLowerCase().includes("laicite")) || (@rep_t1_ch1_q3.toLowerCase().includes("démocratique")) || (@rep_t1_ch1_q3.toLowerCase().includes("democratique")) || (@rep_t1_ch1_q3.toLowerCase().includes("démocratie")) || (@rep_t1_ch1_q3.toLowerCase().includes("democratie")) || (@rep_t1_ch1_q3.toLowerCase().includes("sociale")) || (@rep_t1_ch1_q3.toLowerCase().includes("social")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -144782,7 +144782,7 @@ Indivisible, laïque, démocratique et sociale.
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH01_FIN)
 `endif`
 
-`if !(((("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisible")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("une et indivisible")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisibilité")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisibilite")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laïque")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laïcité"))) && ((("" + @rep_t1_ch1_q3).toLowerCase().includes("laicite")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("démocratique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("democratique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("démocratie")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("democratie")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("sociale")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("social")))) && ((("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisible")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("une et indivisible")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisibilité")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisibilite")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laïque")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laïcité")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laicite")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("démocratique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("democratique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("démocratie")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("democratie")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("sociale")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("social")))`
+`if !(((@rep_t1_ch1_q3.toLowerCase().includes("indivisible")) || (@rep_t1_ch1_q3.toLowerCase().includes("une et indivisible")) || (@rep_t1_ch1_q3.toLowerCase().includes("indivisibilité")) || (@rep_t1_ch1_q3.toLowerCase().includes("indivisibilite")) || (@rep_t1_ch1_q3.toLowerCase().includes("laïque")) || (@rep_t1_ch1_q3.toLowerCase().includes("laique")) || (@rep_t1_ch1_q3.toLowerCase().includes("laïcité"))) && ((@rep_t1_ch1_q3.toLowerCase().includes("laicite")) || (@rep_t1_ch1_q3.toLowerCase().includes("démocratique")) || (@rep_t1_ch1_q3.toLowerCase().includes("democratique")) || (@rep_t1_ch1_q3.toLowerCase().includes("démocratie")) || (@rep_t1_ch1_q3.toLowerCase().includes("democratie")) || (@rep_t1_ch1_q3.toLowerCase().includes("sociale")) || (@rep_t1_ch1_q3.toLowerCase().includes("social")))) && ((@rep_t1_ch1_q3.toLowerCase().includes("indivisible")) || (@rep_t1_ch1_q3.toLowerCase().includes("une et indivisible")) || (@rep_t1_ch1_q3.toLowerCase().includes("indivisibilité")) || (@rep_t1_ch1_q3.toLowerCase().includes("indivisibilite")) || (@rep_t1_ch1_q3.toLowerCase().includes("laïque")) || (@rep_t1_ch1_q3.toLowerCase().includes("laique")) || (@rep_t1_ch1_q3.toLowerCase().includes("laïcité")) || (@rep_t1_ch1_q3.toLowerCase().includes("laicite")) || (@rep_t1_ch1_q3.toLowerCase().includes("démocratique")) || (@rep_t1_ch1_q3.toLowerCase().includes("democratique")) || (@rep_t1_ch1_q3.toLowerCase().includes("démocratie")) || (@rep_t1_ch1_q3.toLowerCase().includes("democratie")) || (@rep_t1_ch1_q3.toLowerCase().includes("sociale")) || (@rep_t1_ch1_q3.toLowerCase().includes("social")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -144796,7 +144796,7 @@ Indivisible, laïque, démocratique et sociale.
 3. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisible")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("une et indivisible")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisibilité")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("indivisibilite")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laïque")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laïcité")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("laicite")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("démocratique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("democratique")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("démocratie")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("democratie")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("sociale")) || (("" + @rep_t1_ch1_q3).toLowerCase().includes("social")))`
+`if !((@rep_t1_ch1_q3.toLowerCase().includes("indivisible")) || (@rep_t1_ch1_q3.toLowerCase().includes("une et indivisible")) || (@rep_t1_ch1_q3.toLowerCase().includes("indivisibilité")) || (@rep_t1_ch1_q3.toLowerCase().includes("indivisibilite")) || (@rep_t1_ch1_q3.toLowerCase().includes("laïque")) || (@rep_t1_ch1_q3.toLowerCase().includes("laique")) || (@rep_t1_ch1_q3.toLowerCase().includes("laïcité")) || (@rep_t1_ch1_q3.toLowerCase().includes("laicite")) || (@rep_t1_ch1_q3.toLowerCase().includes("démocratique")) || (@rep_t1_ch1_q3.toLowerCase().includes("democratique")) || (@rep_t1_ch1_q3.toLowerCase().includes("démocratie")) || (@rep_t1_ch1_q3.toLowerCase().includes("democratie")) || (@rep_t1_ch1_q3.toLowerCase().includes("sociale")) || (@rep_t1_ch1_q3.toLowerCase().includes("social")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -145177,7 +145177,7 @@ Quelle est la devise officielle de la République française ?
 
 > `@rep_t1_ch2_q1`
 
-`if ((("" + @rep_t1_ch2_q1).toLowerCase().includes("liberté")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("liberte")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("libre")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égalité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("egalite")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égaux"))) && ((("" + @rep_t1_ch2_q1).toLowerCase().includes("egaux")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égal")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternite")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternel")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("solidarité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("solidarite")))`
+`if ((@rep_t1_ch2_q1.toLowerCase().includes("liberté")) || (@rep_t1_ch2_q1.toLowerCase().includes("liberte")) || (@rep_t1_ch2_q1.toLowerCase().includes("libre")) || (@rep_t1_ch2_q1.toLowerCase().includes("égalité")) || (@rep_t1_ch2_q1.toLowerCase().includes("egalite")) || (@rep_t1_ch2_q1.toLowerCase().includes("égaux"))) && ((@rep_t1_ch2_q1.toLowerCase().includes("egaux")) || (@rep_t1_ch2_q1.toLowerCase().includes("égal")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternité")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternite")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternel")) || (@rep_t1_ch2_q1.toLowerCase().includes("solidarité")) || (@rep_t1_ch2_q1.toLowerCase().includes("solidarite")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -145187,7 +145187,7 @@ Liberté, égalité, fraternité
 1. [➡️ Question suivante](SCR_REV_T1_CH02_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t1_ch2_q1).toLowerCase().includes("liberté")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("liberte")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("libre")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égalité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("egalite")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égaux"))) && ((("" + @rep_t1_ch2_q1).toLowerCase().includes("egaux")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égal")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternite")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternel")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("solidarité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("solidarite")))) && ((("" + @rep_t1_ch2_q1).toLowerCase().includes("liberté")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("liberte")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("libre")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égalité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("egalite")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égaux")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("egaux")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égal")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternite")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternel")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("solidarité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("solidarite")))`
+`if !(((@rep_t1_ch2_q1.toLowerCase().includes("liberté")) || (@rep_t1_ch2_q1.toLowerCase().includes("liberte")) || (@rep_t1_ch2_q1.toLowerCase().includes("libre")) || (@rep_t1_ch2_q1.toLowerCase().includes("égalité")) || (@rep_t1_ch2_q1.toLowerCase().includes("egalite")) || (@rep_t1_ch2_q1.toLowerCase().includes("égaux"))) && ((@rep_t1_ch2_q1.toLowerCase().includes("egaux")) || (@rep_t1_ch2_q1.toLowerCase().includes("égal")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternité")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternite")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternel")) || (@rep_t1_ch2_q1.toLowerCase().includes("solidarité")) || (@rep_t1_ch2_q1.toLowerCase().includes("solidarite")))) && ((@rep_t1_ch2_q1.toLowerCase().includes("liberté")) || (@rep_t1_ch2_q1.toLowerCase().includes("liberte")) || (@rep_t1_ch2_q1.toLowerCase().includes("libre")) || (@rep_t1_ch2_q1.toLowerCase().includes("égalité")) || (@rep_t1_ch2_q1.toLowerCase().includes("egalite")) || (@rep_t1_ch2_q1.toLowerCase().includes("égaux")) || (@rep_t1_ch2_q1.toLowerCase().includes("egaux")) || (@rep_t1_ch2_q1.toLowerCase().includes("égal")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternité")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternite")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternel")) || (@rep_t1_ch2_q1.toLowerCase().includes("solidarité")) || (@rep_t1_ch2_q1.toLowerCase().includes("solidarite")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -145201,7 +145201,7 @@ Liberté, égalité, fraternité
 3. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch2_q1).toLowerCase().includes("liberté")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("liberte")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("libre")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égalité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("egalite")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égaux")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("egaux")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("égal")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternite")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("fraternel")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("solidarité")) || (("" + @rep_t1_ch2_q1).toLowerCase().includes("solidarite")))`
+`if !((@rep_t1_ch2_q1.toLowerCase().includes("liberté")) || (@rep_t1_ch2_q1.toLowerCase().includes("liberte")) || (@rep_t1_ch2_q1.toLowerCase().includes("libre")) || (@rep_t1_ch2_q1.toLowerCase().includes("égalité")) || (@rep_t1_ch2_q1.toLowerCase().includes("egalite")) || (@rep_t1_ch2_q1.toLowerCase().includes("égaux")) || (@rep_t1_ch2_q1.toLowerCase().includes("egaux")) || (@rep_t1_ch2_q1.toLowerCase().includes("égal")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternité")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternite")) || (@rep_t1_ch2_q1.toLowerCase().includes("fraternel")) || (@rep_t1_ch2_q1.toLowerCase().includes("solidarité")) || (@rep_t1_ch2_q1.toLowerCase().includes("solidarite")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -145237,7 +145237,7 @@ Que signifie l'égalité devant la loi ?
 
 > `@rep_t1_ch2_q2`
 
-`if ((("" + @rep_t1_ch2_q2).toLowerCase().includes("loi")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("règle")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("regle")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("légalité")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("legalite")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("même"))) && ((("" + @rep_t1_ch2_q2).toLowerCase().includes("meme")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("identique")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("tous")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("chacun")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("toutes les personnes")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("tout le monde")))`
+`if ((@rep_t1_ch2_q2.toLowerCase().includes("loi")) || (@rep_t1_ch2_q2.toLowerCase().includes("règle")) || (@rep_t1_ch2_q2.toLowerCase().includes("regle")) || (@rep_t1_ch2_q2.toLowerCase().includes("légalité")) || (@rep_t1_ch2_q2.toLowerCase().includes("legalite")) || (@rep_t1_ch2_q2.toLowerCase().includes("même"))) && ((@rep_t1_ch2_q2.toLowerCase().includes("meme")) || (@rep_t1_ch2_q2.toLowerCase().includes("identique")) || (@rep_t1_ch2_q2.toLowerCase().includes("tous")) || (@rep_t1_ch2_q2.toLowerCase().includes("chacun")) || (@rep_t1_ch2_q2.toLowerCase().includes("toutes les personnes")) || (@rep_t1_ch2_q2.toLowerCase().includes("tout le monde")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -145247,7 +145247,7 @@ L'égalité devant la loi signifie que **la loi est la même pour tous.**
 1. [➡️ Question suivante](SCR_REV_T1_CH02_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t1_ch2_q2).toLowerCase().includes("loi")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("règle")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("regle")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("légalité")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("legalite")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("même"))) && ((("" + @rep_t1_ch2_q2).toLowerCase().includes("meme")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("identique")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("tous")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("chacun")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("toutes les personnes")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("tout le monde")))) && ((("" + @rep_t1_ch2_q2).toLowerCase().includes("loi")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("règle")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("regle")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("légalité")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("legalite")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("même")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("meme")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("identique")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("tous")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("chacun")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("toutes les personnes")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("tout le monde")))`
+`if !(((@rep_t1_ch2_q2.toLowerCase().includes("loi")) || (@rep_t1_ch2_q2.toLowerCase().includes("règle")) || (@rep_t1_ch2_q2.toLowerCase().includes("regle")) || (@rep_t1_ch2_q2.toLowerCase().includes("légalité")) || (@rep_t1_ch2_q2.toLowerCase().includes("legalite")) || (@rep_t1_ch2_q2.toLowerCase().includes("même"))) && ((@rep_t1_ch2_q2.toLowerCase().includes("meme")) || (@rep_t1_ch2_q2.toLowerCase().includes("identique")) || (@rep_t1_ch2_q2.toLowerCase().includes("tous")) || (@rep_t1_ch2_q2.toLowerCase().includes("chacun")) || (@rep_t1_ch2_q2.toLowerCase().includes("toutes les personnes")) || (@rep_t1_ch2_q2.toLowerCase().includes("tout le monde")))) && ((@rep_t1_ch2_q2.toLowerCase().includes("loi")) || (@rep_t1_ch2_q2.toLowerCase().includes("règle")) || (@rep_t1_ch2_q2.toLowerCase().includes("regle")) || (@rep_t1_ch2_q2.toLowerCase().includes("légalité")) || (@rep_t1_ch2_q2.toLowerCase().includes("legalite")) || (@rep_t1_ch2_q2.toLowerCase().includes("même")) || (@rep_t1_ch2_q2.toLowerCase().includes("meme")) || (@rep_t1_ch2_q2.toLowerCase().includes("identique")) || (@rep_t1_ch2_q2.toLowerCase().includes("tous")) || (@rep_t1_ch2_q2.toLowerCase().includes("chacun")) || (@rep_t1_ch2_q2.toLowerCase().includes("toutes les personnes")) || (@rep_t1_ch2_q2.toLowerCase().includes("tout le monde")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -145261,7 +145261,7 @@ L'égalité devant la loi signifie que **la loi est la même pour tous.**
 3. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch2_q2).toLowerCase().includes("loi")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("règle")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("regle")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("légalité")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("legalite")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("même")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("meme")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("identique")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("tous")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("chacun")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("toutes les personnes")) || (("" + @rep_t1_ch2_q2).toLowerCase().includes("tout le monde")))`
+`if !((@rep_t1_ch2_q2.toLowerCase().includes("loi")) || (@rep_t1_ch2_q2.toLowerCase().includes("règle")) || (@rep_t1_ch2_q2.toLowerCase().includes("regle")) || (@rep_t1_ch2_q2.toLowerCase().includes("légalité")) || (@rep_t1_ch2_q2.toLowerCase().includes("legalite")) || (@rep_t1_ch2_q2.toLowerCase().includes("même")) || (@rep_t1_ch2_q2.toLowerCase().includes("meme")) || (@rep_t1_ch2_q2.toLowerCase().includes("identique")) || (@rep_t1_ch2_q2.toLowerCase().includes("tous")) || (@rep_t1_ch2_q2.toLowerCase().includes("chacun")) || (@rep_t1_ch2_q2.toLowerCase().includes("toutes les personnes")) || (@rep_t1_ch2_q2.toLowerCase().includes("tout le monde")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -145297,7 +145297,7 @@ Que signifie le principe d'égalité dans la devise républicaine ?
 
 > `@rep_t1_ch2_q3`
 
-`if ((("" + @rep_t1_ch2_q3).toLowerCase().includes("même loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("mêmes lois")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("loi identique")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("égalité devant la loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("egale devant la loi"))) && ((("" + @rep_t1_ch2_q3).toLowerCase().includes("tous")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("toutes")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("chacun")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("chaque personne")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("sans discrimination")))`
+`if ((@rep_t1_ch2_q3.toLowerCase().includes("même loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("mêmes lois")) || (@rep_t1_ch2_q3.toLowerCase().includes("loi identique")) || (@rep_t1_ch2_q3.toLowerCase().includes("égalité devant la loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("egale devant la loi"))) && ((@rep_t1_ch2_q3.toLowerCase().includes("tous")) || (@rep_t1_ch2_q3.toLowerCase().includes("toutes")) || (@rep_t1_ch2_q3.toLowerCase().includes("chacun")) || (@rep_t1_ch2_q3.toLowerCase().includes("chaque personne")) || (@rep_t1_ch2_q3.toLowerCase().includes("sans discrimination")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -145307,7 +145307,7 @@ La loi doit s'appliquer de la même manière à toutes les personnes, sans discr
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH02_FIN)
 `endif`
 
-`if !(((("" + @rep_t1_ch2_q3).toLowerCase().includes("même loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("mêmes lois")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("loi identique")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("égalité devant la loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("egale devant la loi"))) && ((("" + @rep_t1_ch2_q3).toLowerCase().includes("tous")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("toutes")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("chacun")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("chaque personne")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("sans discrimination")))) && ((("" + @rep_t1_ch2_q3).toLowerCase().includes("même loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("mêmes lois")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("loi identique")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("égalité devant la loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("egale devant la loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("tous")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("toutes")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("chacun")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("chaque personne")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("sans discrimination")))`
+`if !(((@rep_t1_ch2_q3.toLowerCase().includes("même loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("mêmes lois")) || (@rep_t1_ch2_q3.toLowerCase().includes("loi identique")) || (@rep_t1_ch2_q3.toLowerCase().includes("égalité devant la loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("egale devant la loi"))) && ((@rep_t1_ch2_q3.toLowerCase().includes("tous")) || (@rep_t1_ch2_q3.toLowerCase().includes("toutes")) || (@rep_t1_ch2_q3.toLowerCase().includes("chacun")) || (@rep_t1_ch2_q3.toLowerCase().includes("chaque personne")) || (@rep_t1_ch2_q3.toLowerCase().includes("sans discrimination")))) && ((@rep_t1_ch2_q3.toLowerCase().includes("même loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("mêmes lois")) || (@rep_t1_ch2_q3.toLowerCase().includes("loi identique")) || (@rep_t1_ch2_q3.toLowerCase().includes("égalité devant la loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("egale devant la loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("tous")) || (@rep_t1_ch2_q3.toLowerCase().includes("toutes")) || (@rep_t1_ch2_q3.toLowerCase().includes("chacun")) || (@rep_t1_ch2_q3.toLowerCase().includes("chaque personne")) || (@rep_t1_ch2_q3.toLowerCase().includes("sans discrimination")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -145321,7 +145321,7 @@ La loi doit s'appliquer de la même manière à toutes les personnes, sans discr
 3. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch2_q3).toLowerCase().includes("même loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("mêmes lois")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("loi identique")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("égalité devant la loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("egale devant la loi")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("tous")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("toutes")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("chacun")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("chaque personne")) || (("" + @rep_t1_ch2_q3).toLowerCase().includes("sans discrimination")))`
+`if !((@rep_t1_ch2_q3.toLowerCase().includes("même loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("mêmes lois")) || (@rep_t1_ch2_q3.toLowerCase().includes("loi identique")) || (@rep_t1_ch2_q3.toLowerCase().includes("égalité devant la loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("egale devant la loi")) || (@rep_t1_ch2_q3.toLowerCase().includes("tous")) || (@rep_t1_ch2_q3.toLowerCase().includes("toutes")) || (@rep_t1_ch2_q3.toLowerCase().includes("chacun")) || (@rep_t1_ch2_q3.toLowerCase().includes("chaque personne")) || (@rep_t1_ch2_q3.toLowerCase().includes("sans discrimination")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -145691,7 +145691,7 @@ Quelles sont les couleurs du drapeau français ?
 
 > `@rep_t1_ch3_q1`
 
-`if ((("" + @rep_t1_ch3_q1).toLowerCase().includes("bleu"))) && ((("" + @rep_t1_ch3_q1).toLowerCase().includes("blanc")) || (("" + @rep_t1_ch3_q1).toLowerCase().includes("rouge")))`
+`if ((@rep_t1_ch3_q1.toLowerCase().includes("bleu"))) && ((@rep_t1_ch3_q1.toLowerCase().includes("blanc")) || (@rep_t1_ch3_q1.toLowerCase().includes("rouge")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -145701,7 +145701,7 @@ Bleu, blanc et rouge.
 1. [➡️ Question suivante](SCR_REV_T1_CH03_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t1_ch3_q1).toLowerCase().includes("bleu"))) && ((("" + @rep_t1_ch3_q1).toLowerCase().includes("blanc")) || (("" + @rep_t1_ch3_q1).toLowerCase().includes("rouge")))) && ((("" + @rep_t1_ch3_q1).toLowerCase().includes("bleu")) || (("" + @rep_t1_ch3_q1).toLowerCase().includes("blanc")) || (("" + @rep_t1_ch3_q1).toLowerCase().includes("rouge")))`
+`if !(((@rep_t1_ch3_q1.toLowerCase().includes("bleu"))) && ((@rep_t1_ch3_q1.toLowerCase().includes("blanc")) || (@rep_t1_ch3_q1.toLowerCase().includes("rouge")))) && ((@rep_t1_ch3_q1.toLowerCase().includes("bleu")) || (@rep_t1_ch3_q1.toLowerCase().includes("blanc")) || (@rep_t1_ch3_q1.toLowerCase().includes("rouge")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -145715,7 +145715,7 @@ Bleu, blanc et rouge.
 3. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch3_q1).toLowerCase().includes("bleu")) || (("" + @rep_t1_ch3_q1).toLowerCase().includes("blanc")) || (("" + @rep_t1_ch3_q1).toLowerCase().includes("rouge")))`
+`if !((@rep_t1_ch3_q1.toLowerCase().includes("bleu")) || (@rep_t1_ch3_q1.toLowerCase().includes("blanc")) || (@rep_t1_ch3_q1.toLowerCase().includes("rouge")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -145751,7 +145751,7 @@ Qu'est-ce que la Marseillaise ?
 
 > `@rep_t1_ch3_q2`
 
-`if ((("" + @rep_t1_ch3_q2).toLowerCase().includes("hymne national")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("chant patriotique"))) && ((("" + @rep_t1_ch3_q2).toLowerCase().includes("hymne")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("chant national")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("marseillaise")))`
+`if ((@rep_t1_ch3_q2.toLowerCase().includes("hymne national")) || (@rep_t1_ch3_q2.toLowerCase().includes("chant patriotique"))) && ((@rep_t1_ch3_q2.toLowerCase().includes("hymne")) || (@rep_t1_ch3_q2.toLowerCase().includes("chant national")) || (@rep_t1_ch3_q2.toLowerCase().includes("marseillaise")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -145761,7 +145761,7 @@ La Marseillaise est l'hymne national français.
 1. [➡️ Question suivante](SCR_REV_T1_CH03_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t1_ch3_q2).toLowerCase().includes("hymne national")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("chant patriotique"))) && ((("" + @rep_t1_ch3_q2).toLowerCase().includes("hymne")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("chant national")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("marseillaise")))) && ((("" + @rep_t1_ch3_q2).toLowerCase().includes("hymne national")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("chant patriotique")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("hymne")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("chant national")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("marseillaise")))`
+`if !(((@rep_t1_ch3_q2.toLowerCase().includes("hymne national")) || (@rep_t1_ch3_q2.toLowerCase().includes("chant patriotique"))) && ((@rep_t1_ch3_q2.toLowerCase().includes("hymne")) || (@rep_t1_ch3_q2.toLowerCase().includes("chant national")) || (@rep_t1_ch3_q2.toLowerCase().includes("marseillaise")))) && ((@rep_t1_ch3_q2.toLowerCase().includes("hymne national")) || (@rep_t1_ch3_q2.toLowerCase().includes("chant patriotique")) || (@rep_t1_ch3_q2.toLowerCase().includes("hymne")) || (@rep_t1_ch3_q2.toLowerCase().includes("chant national")) || (@rep_t1_ch3_q2.toLowerCase().includes("marseillaise")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -145775,7 +145775,7 @@ La Marseillaise est l'hymne national français.
 3. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch3_q2).toLowerCase().includes("hymne national")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("chant patriotique")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("hymne")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("chant national")) || (("" + @rep_t1_ch3_q2).toLowerCase().includes("marseillaise")))`
+`if !((@rep_t1_ch3_q2.toLowerCase().includes("hymne national")) || (@rep_t1_ch3_q2.toLowerCase().includes("chant patriotique")) || (@rep_t1_ch3_q2.toLowerCase().includes("hymne")) || (@rep_t1_ch3_q2.toLowerCase().includes("chant national")) || (@rep_t1_ch3_q2.toLowerCase().includes("marseillaise")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -145811,7 +145811,7 @@ Pourquoi célèbre-t-on le 14 juillet ?
 
 > `@rep_t1_ch3_q3`
 
-`if ((("" + @rep_t1_ch3_q3).toLowerCase().includes("bastille")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("14 juillet")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("1789")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("révolution"))) && ((("" + @rep_t1_ch3_q3).toLowerCase().includes("revolution")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("fête nationale")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("fete nationale")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("jour national")))`
+`if ((@rep_t1_ch3_q3.toLowerCase().includes("bastille")) || (@rep_t1_ch3_q3.toLowerCase().includes("14 juillet")) || (@rep_t1_ch3_q3.toLowerCase().includes("1789")) || (@rep_t1_ch3_q3.toLowerCase().includes("révolution"))) && ((@rep_t1_ch3_q3.toLowerCase().includes("revolution")) || (@rep_t1_ch3_q3.toLowerCase().includes("fête nationale")) || (@rep_t1_ch3_q3.toLowerCase().includes("fete nationale")) || (@rep_t1_ch3_q3.toLowerCase().includes("jour national")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -145821,7 +145821,7 @@ Le 14 juillet est la fête nationale française. Il commémore notamment la pris
 1. [➡️ Question suivante](SCR_REV_T1_CH03_VERIF_Q04)
 `endif`
 
-`if !(((("" + @rep_t1_ch3_q3).toLowerCase().includes("bastille")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("14 juillet")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("1789")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("révolution"))) && ((("" + @rep_t1_ch3_q3).toLowerCase().includes("revolution")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("fête nationale")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("fete nationale")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("jour national")))) && ((("" + @rep_t1_ch3_q3).toLowerCase().includes("bastille")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("14 juillet")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("1789")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("révolution")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("revolution")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("fête nationale")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("fete nationale")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("jour national")))`
+`if !(((@rep_t1_ch3_q3.toLowerCase().includes("bastille")) || (@rep_t1_ch3_q3.toLowerCase().includes("14 juillet")) || (@rep_t1_ch3_q3.toLowerCase().includes("1789")) || (@rep_t1_ch3_q3.toLowerCase().includes("révolution"))) && ((@rep_t1_ch3_q3.toLowerCase().includes("revolution")) || (@rep_t1_ch3_q3.toLowerCase().includes("fête nationale")) || (@rep_t1_ch3_q3.toLowerCase().includes("fete nationale")) || (@rep_t1_ch3_q3.toLowerCase().includes("jour national")))) && ((@rep_t1_ch3_q3.toLowerCase().includes("bastille")) || (@rep_t1_ch3_q3.toLowerCase().includes("14 juillet")) || (@rep_t1_ch3_q3.toLowerCase().includes("1789")) || (@rep_t1_ch3_q3.toLowerCase().includes("révolution")) || (@rep_t1_ch3_q3.toLowerCase().includes("revolution")) || (@rep_t1_ch3_q3.toLowerCase().includes("fête nationale")) || (@rep_t1_ch3_q3.toLowerCase().includes("fete nationale")) || (@rep_t1_ch3_q3.toLowerCase().includes("jour national")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -145835,7 +145835,7 @@ Le 14 juillet est la fête nationale française. Il commémore notamment la pris
 3. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch3_q3).toLowerCase().includes("bastille")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("14 juillet")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("1789")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("révolution")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("revolution")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("fête nationale")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("fete nationale")) || (("" + @rep_t1_ch3_q3).toLowerCase().includes("jour national")))`
+`if !((@rep_t1_ch3_q3.toLowerCase().includes("bastille")) || (@rep_t1_ch3_q3.toLowerCase().includes("14 juillet")) || (@rep_t1_ch3_q3.toLowerCase().includes("1789")) || (@rep_t1_ch3_q3.toLowerCase().includes("révolution")) || (@rep_t1_ch3_q3.toLowerCase().includes("revolution")) || (@rep_t1_ch3_q3.toLowerCase().includes("fête nationale")) || (@rep_t1_ch3_q3.toLowerCase().includes("fete nationale")) || (@rep_t1_ch3_q3.toLowerCase().includes("jour national")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -145871,7 +145871,7 @@ Le coq est-il un symbole officiel de la République ?
 
 > `@rep_t1_ch3_q4`
 
-`if ((("" + @rep_t1_ch3_q4).toLowerCase().includes("non")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("faux"))) && ((("" + @rep_t1_ch3_q4).toLowerCase().includes("pas du tout")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("ce n'est pas")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("ce n’est pas")))`
+`if ((@rep_t1_ch3_q4.toLowerCase().includes("non")) || (@rep_t1_ch3_q4.toLowerCase().includes("faux"))) && ((@rep_t1_ch3_q4.toLowerCase().includes("pas du tout")) || (@rep_t1_ch3_q4.toLowerCase().includes("ce n'est pas")) || (@rep_t1_ch3_q4.toLowerCase().includes("ce n’est pas")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -145881,7 +145881,7 @@ Non. Le coq est un emblème traditionnel, mais il n'est pas un symbole officiel 
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH03_FIN)
 `endif`
 
-`if !(((("" + @rep_t1_ch3_q4).toLowerCase().includes("non")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("faux"))) && ((("" + @rep_t1_ch3_q4).toLowerCase().includes("pas du tout")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("ce n'est pas")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("ce n’est pas")))) && ((("" + @rep_t1_ch3_q4).toLowerCase().includes("non")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("faux")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("pas du tout")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("ce n'est pas")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("ce n’est pas")))`
+`if !(((@rep_t1_ch3_q4.toLowerCase().includes("non")) || (@rep_t1_ch3_q4.toLowerCase().includes("faux"))) && ((@rep_t1_ch3_q4.toLowerCase().includes("pas du tout")) || (@rep_t1_ch3_q4.toLowerCase().includes("ce n'est pas")) || (@rep_t1_ch3_q4.toLowerCase().includes("ce n’est pas")))) && ((@rep_t1_ch3_q4.toLowerCase().includes("non")) || (@rep_t1_ch3_q4.toLowerCase().includes("faux")) || (@rep_t1_ch3_q4.toLowerCase().includes("pas du tout")) || (@rep_t1_ch3_q4.toLowerCase().includes("ce n'est pas")) || (@rep_t1_ch3_q4.toLowerCase().includes("ce n’est pas")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -145895,7 +145895,7 @@ Non. Le coq est un emblème traditionnel, mais il n'est pas un symbole officiel 
 3. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch3_q4).toLowerCase().includes("non")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("faux")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("pas du tout")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("ce n'est pas")) || (("" + @rep_t1_ch3_q4).toLowerCase().includes("ce n’est pas")))`
+`if !((@rep_t1_ch3_q4.toLowerCase().includes("non")) || (@rep_t1_ch3_q4.toLowerCase().includes("faux")) || (@rep_t1_ch3_q4.toLowerCase().includes("pas du tout")) || (@rep_t1_ch3_q4.toLowerCase().includes("ce n'est pas")) || (@rep_t1_ch3_q4.toLowerCase().includes("ce n’est pas")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -146278,7 +146278,7 @@ Quelle est la grande loi adoptée en 1905 ?
 
 > `@rep_t1_ch4_q1`
 
-`if ((("" + @rep_t1_ch4_q1).toLowerCase().includes("séparation")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("separation")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("séparer"))) && ((("" + @rep_t1_ch4_q1).toLowerCase().includes("separer")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("églises et de l'état")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("eglises et de l'etat")))`
+`if ((@rep_t1_ch4_q1.toLowerCase().includes("séparation")) || (@rep_t1_ch4_q1.toLowerCase().includes("separation")) || (@rep_t1_ch4_q1.toLowerCase().includes("séparer"))) && ((@rep_t1_ch4_q1.toLowerCase().includes("separer")) || (@rep_t1_ch4_q1.toLowerCase().includes("églises et de l'état")) || (@rep_t1_ch4_q1.toLowerCase().includes("eglises et de l'etat")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -146288,7 +146288,7 @@ La séparation des Églises et de l'État.
 1. [➡️ Question suivante](SCR_REV_T1_CH04_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t1_ch4_q1).toLowerCase().includes("séparation")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("separation")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("séparer"))) && ((("" + @rep_t1_ch4_q1).toLowerCase().includes("separer")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("églises et de l'état")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("eglises et de l'etat")))) && ((("" + @rep_t1_ch4_q1).toLowerCase().includes("séparation")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("separation")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("séparer")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("separer")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("églises et de l'état")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("eglises et de l'etat")))`
+`if !(((@rep_t1_ch4_q1.toLowerCase().includes("séparation")) || (@rep_t1_ch4_q1.toLowerCase().includes("separation")) || (@rep_t1_ch4_q1.toLowerCase().includes("séparer"))) && ((@rep_t1_ch4_q1.toLowerCase().includes("separer")) || (@rep_t1_ch4_q1.toLowerCase().includes("églises et de l'état")) || (@rep_t1_ch4_q1.toLowerCase().includes("eglises et de l'etat")))) && ((@rep_t1_ch4_q1.toLowerCase().includes("séparation")) || (@rep_t1_ch4_q1.toLowerCase().includes("separation")) || (@rep_t1_ch4_q1.toLowerCase().includes("séparer")) || (@rep_t1_ch4_q1.toLowerCase().includes("separer")) || (@rep_t1_ch4_q1.toLowerCase().includes("églises et de l'état")) || (@rep_t1_ch4_q1.toLowerCase().includes("eglises et de l'etat")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -146302,7 +146302,7 @@ La séparation des Églises et de l'État.
 3. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch4_q1).toLowerCase().includes("séparation")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("separation")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("séparer")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("separer")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("églises et de l'état")) || (("" + @rep_t1_ch4_q1).toLowerCase().includes("eglises et de l'etat")))`
+`if !((@rep_t1_ch4_q1.toLowerCase().includes("séparation")) || (@rep_t1_ch4_q1.toLowerCase().includes("separation")) || (@rep_t1_ch4_q1.toLowerCase().includes("séparer")) || (@rep_t1_ch4_q1.toLowerCase().includes("separer")) || (@rep_t1_ch4_q1.toLowerCase().includes("églises et de l'état")) || (@rep_t1_ch4_q1.toLowerCase().includes("eglises et de l'etat")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -146338,7 +146338,7 @@ Qui est soumis à l'obligation de neutralité dans les services publics ?
 
 > `@rep_t1_ch4_q2`
 
-`if ((("" + @rep_t1_ch4_q2).toLowerCase().includes("agent")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("fonctionnaire")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("personnel")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("employé")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("employe"))) && ((("" + @rep_t1_ch4_q2).toLowerCase().includes("contractuel")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("public")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("service de l'état")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("service de l'etat")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("administration")))`
+`if ((@rep_t1_ch4_q2.toLowerCase().includes("agent")) || (@rep_t1_ch4_q2.toLowerCase().includes("fonctionnaire")) || (@rep_t1_ch4_q2.toLowerCase().includes("personnel")) || (@rep_t1_ch4_q2.toLowerCase().includes("employé")) || (@rep_t1_ch4_q2.toLowerCase().includes("employe"))) && ((@rep_t1_ch4_q2.toLowerCase().includes("contractuel")) || (@rep_t1_ch4_q2.toLowerCase().includes("public")) || (@rep_t1_ch4_q2.toLowerCase().includes("service de l'état")) || (@rep_t1_ch4_q2.toLowerCase().includes("service de l'etat")) || (@rep_t1_ch4_q2.toLowerCase().includes("administration")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -146348,7 +146348,7 @@ L'obligation de neutralité dans les services publics s'impose à tous les agent
 1. [➡️ Question suivante](SCR_REV_T1_CH04_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t1_ch4_q2).toLowerCase().includes("agent")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("fonctionnaire")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("personnel")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("employé")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("employe"))) && ((("" + @rep_t1_ch4_q2).toLowerCase().includes("contractuel")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("public")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("service de l'état")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("service de l'etat")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("administration")))) && ((("" + @rep_t1_ch4_q2).toLowerCase().includes("agent")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("fonctionnaire")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("personnel")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("employé")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("employe")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("contractuel")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("public")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("service de l'état")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("service de l'etat")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("administration")))`
+`if !(((@rep_t1_ch4_q2.toLowerCase().includes("agent")) || (@rep_t1_ch4_q2.toLowerCase().includes("fonctionnaire")) || (@rep_t1_ch4_q2.toLowerCase().includes("personnel")) || (@rep_t1_ch4_q2.toLowerCase().includes("employé")) || (@rep_t1_ch4_q2.toLowerCase().includes("employe"))) && ((@rep_t1_ch4_q2.toLowerCase().includes("contractuel")) || (@rep_t1_ch4_q2.toLowerCase().includes("public")) || (@rep_t1_ch4_q2.toLowerCase().includes("service de l'état")) || (@rep_t1_ch4_q2.toLowerCase().includes("service de l'etat")) || (@rep_t1_ch4_q2.toLowerCase().includes("administration")))) && ((@rep_t1_ch4_q2.toLowerCase().includes("agent")) || (@rep_t1_ch4_q2.toLowerCase().includes("fonctionnaire")) || (@rep_t1_ch4_q2.toLowerCase().includes("personnel")) || (@rep_t1_ch4_q2.toLowerCase().includes("employé")) || (@rep_t1_ch4_q2.toLowerCase().includes("employe")) || (@rep_t1_ch4_q2.toLowerCase().includes("contractuel")) || (@rep_t1_ch4_q2.toLowerCase().includes("public")) || (@rep_t1_ch4_q2.toLowerCase().includes("service de l'état")) || (@rep_t1_ch4_q2.toLowerCase().includes("service de l'etat")) || (@rep_t1_ch4_q2.toLowerCase().includes("administration")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -146362,7 +146362,7 @@ L'obligation de neutralité dans les services publics s'impose à tous les agent
 3. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch4_q2).toLowerCase().includes("agent")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("fonctionnaire")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("personnel")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("employé")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("employe")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("contractuel")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("public")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("service de l'état")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("service de l'etat")) || (("" + @rep_t1_ch4_q2).toLowerCase().includes("administration")))`
+`if !((@rep_t1_ch4_q2.toLowerCase().includes("agent")) || (@rep_t1_ch4_q2.toLowerCase().includes("fonctionnaire")) || (@rep_t1_ch4_q2.toLowerCase().includes("personnel")) || (@rep_t1_ch4_q2.toLowerCase().includes("employé")) || (@rep_t1_ch4_q2.toLowerCase().includes("employe")) || (@rep_t1_ch4_q2.toLowerCase().includes("contractuel")) || (@rep_t1_ch4_q2.toLowerCase().includes("public")) || (@rep_t1_ch4_q2.toLowerCase().includes("service de l'état")) || (@rep_t1_ch4_q2.toLowerCase().includes("service de l'etat")) || (@rep_t1_ch4_q2.toLowerCase().includes("administration")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -146398,7 +146398,7 @@ Le blasphème est-il interdit en France ?
 
 > `@rep_t1_ch4_q3`
 
-`if ((("" + @rep_t1_ch4_q3).toLowerCase().includes("non")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("faux"))) && ((("" + @rep_t1_ch4_q3).toLowerCase().includes("pas du tout")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("ce n'est pas")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("ce n’est pas")))`
+`if ((@rep_t1_ch4_q3.toLowerCase().includes("non")) || (@rep_t1_ch4_q3.toLowerCase().includes("faux"))) && ((@rep_t1_ch4_q3.toLowerCase().includes("pas du tout")) || (@rep_t1_ch4_q3.toLowerCase().includes("ce n'est pas")) || (@rep_t1_ch4_q3.toLowerCase().includes("ce n’est pas")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -146408,7 +146408,7 @@ En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun déli
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH04_FIN)
 `endif`
 
-`if !(((("" + @rep_t1_ch4_q3).toLowerCase().includes("non")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("faux"))) && ((("" + @rep_t1_ch4_q3).toLowerCase().includes("pas du tout")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("ce n'est pas")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("ce n’est pas")))) && ((("" + @rep_t1_ch4_q3).toLowerCase().includes("non")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("faux")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("pas du tout")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("ce n'est pas")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("ce n’est pas")))`
+`if !(((@rep_t1_ch4_q3.toLowerCase().includes("non")) || (@rep_t1_ch4_q3.toLowerCase().includes("faux"))) && ((@rep_t1_ch4_q3.toLowerCase().includes("pas du tout")) || (@rep_t1_ch4_q3.toLowerCase().includes("ce n'est pas")) || (@rep_t1_ch4_q3.toLowerCase().includes("ce n’est pas")))) && ((@rep_t1_ch4_q3.toLowerCase().includes("non")) || (@rep_t1_ch4_q3.toLowerCase().includes("faux")) || (@rep_t1_ch4_q3.toLowerCase().includes("pas du tout")) || (@rep_t1_ch4_q3.toLowerCase().includes("ce n'est pas")) || (@rep_t1_ch4_q3.toLowerCase().includes("ce n’est pas")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -146422,7 +146422,7 @@ En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun déli
 3. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch4_q3).toLowerCase().includes("non")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("faux")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("pas du tout")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("ce n'est pas")) || (("" + @rep_t1_ch4_q3).toLowerCase().includes("ce n’est pas")))`
+`if !((@rep_t1_ch4_q3.toLowerCase().includes("non")) || (@rep_t1_ch4_q3.toLowerCase().includes("faux")) || (@rep_t1_ch4_q3.toLowerCase().includes("pas du tout")) || (@rep_t1_ch4_q3.toLowerCase().includes("ce n'est pas")) || (@rep_t1_ch4_q3.toLowerCase().includes("ce n’est pas")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -146686,7 +146686,7 @@ Quelle est la langue officielle de la République française ?
 
 > `@rep_t1_ch5_q1`
 
-`if ((("" + @rep_t1_ch5_q1).toLowerCase().includes("français"))) && ((("" + @rep_t1_ch5_q1).toLowerCase().includes("francais")))`
+`if ((@rep_t1_ch5_q1.toLowerCase().includes("français"))) && ((@rep_t1_ch5_q1.toLowerCase().includes("francais")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -146696,7 +146696,7 @@ Le français est la langue officielle de la France depuis 1992.
 1. [➡️ Question suivante](SCR_REV_T1_CH05_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t1_ch5_q1).toLowerCase().includes("français"))) && ((("" + @rep_t1_ch5_q1).toLowerCase().includes("francais")))) && ((("" + @rep_t1_ch5_q1).toLowerCase().includes("français")) || (("" + @rep_t1_ch5_q1).toLowerCase().includes("francais")))`
+`if !(((@rep_t1_ch5_q1.toLowerCase().includes("français"))) && ((@rep_t1_ch5_q1.toLowerCase().includes("francais")))) && ((@rep_t1_ch5_q1.toLowerCase().includes("français")) || (@rep_t1_ch5_q1.toLowerCase().includes("francais")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -146710,7 +146710,7 @@ Le français est la langue officielle de la France depuis 1992.
 3. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch5_q1).toLowerCase().includes("français")) || (("" + @rep_t1_ch5_q1).toLowerCase().includes("francais")))`
+`if !((@rep_t1_ch5_q1.toLowerCase().includes("français")) || (@rep_t1_ch5_q1.toLowerCase().includes("francais")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -146746,7 +146746,7 @@ Dans quel texte la langue française est-elle officialisée ?
 
 > `@rep_t1_ch5_q2`
 
-`if ((("" + @rep_t1_ch5_q2).toLowerCase().includes("constitution"))) && ((("" + @rep_t1_ch5_q2).toLowerCase().includes("article 2")) || (("" + @rep_t1_ch5_q2).toLowerCase().includes("texte constitutionnel")))`
+`if ((@rep_t1_ch5_q2.toLowerCase().includes("constitution"))) && ((@rep_t1_ch5_q2.toLowerCase().includes("article 2")) || (@rep_t1_ch5_q2.toLowerCase().includes("texte constitutionnel")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -146756,7 +146756,7 @@ L'article 2 de la Constitution a officialisé le français comme langue de la R�
 1. [➡️ Question suivante](SCR_REV_T1_CH05_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t1_ch5_q2).toLowerCase().includes("constitution"))) && ((("" + @rep_t1_ch5_q2).toLowerCase().includes("article 2")) || (("" + @rep_t1_ch5_q2).toLowerCase().includes("texte constitutionnel")))) && ((("" + @rep_t1_ch5_q2).toLowerCase().includes("constitution")) || (("" + @rep_t1_ch5_q2).toLowerCase().includes("article 2")) || (("" + @rep_t1_ch5_q2).toLowerCase().includes("texte constitutionnel")))`
+`if !(((@rep_t1_ch5_q2.toLowerCase().includes("constitution"))) && ((@rep_t1_ch5_q2.toLowerCase().includes("article 2")) || (@rep_t1_ch5_q2.toLowerCase().includes("texte constitutionnel")))) && ((@rep_t1_ch5_q2.toLowerCase().includes("constitution")) || (@rep_t1_ch5_q2.toLowerCase().includes("article 2")) || (@rep_t1_ch5_q2.toLowerCase().includes("texte constitutionnel")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -146770,7 +146770,7 @@ L'article 2 de la Constitution a officialisé le français comme langue de la R�
 3. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch5_q2).toLowerCase().includes("constitution")) || (("" + @rep_t1_ch5_q2).toLowerCase().includes("article 2")) || (("" + @rep_t1_ch5_q2).toLowerCase().includes("texte constitutionnel")))`
+`if !((@rep_t1_ch5_q2.toLowerCase().includes("constitution")) || (@rep_t1_ch5_q2.toLowerCase().includes("article 2")) || (@rep_t1_ch5_q2.toLowerCase().includes("texte constitutionnel")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -146806,7 +146806,7 @@ Peut-on parler une autre langue dans sa vie privée ?
 
 > `@rep_t1_ch5_q3`
 
-`if ((("" + @rep_t1_ch5_q3).toLowerCase().includes("oui")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("exact"))) && ((("" + @rep_t1_ch5_q3).toLowerCase().includes("tout à fait")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("tout a fait")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("affirmatif")))`
+`if ((@rep_t1_ch5_q3.toLowerCase().includes("oui")) || (@rep_t1_ch5_q3.toLowerCase().includes("exact"))) && ((@rep_t1_ch5_q3.toLowerCase().includes("tout à fait")) || (@rep_t1_ch5_q3.toLowerCase().includes("tout a fait")) || (@rep_t1_ch5_q3.toLowerCase().includes("affirmatif")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -146816,7 +146816,7 @@ La France n'interdit pas de parler une autre langue sur son territoire et dans s
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH05_FIN)
 `endif`
 
-`if !(((("" + @rep_t1_ch5_q3).toLowerCase().includes("oui")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("exact"))) && ((("" + @rep_t1_ch5_q3).toLowerCase().includes("tout à fait")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("tout a fait")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("affirmatif")))) && ((("" + @rep_t1_ch5_q3).toLowerCase().includes("oui")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("exact")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("tout à fait")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("tout a fait")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("affirmatif")))`
+`if !(((@rep_t1_ch5_q3.toLowerCase().includes("oui")) || (@rep_t1_ch5_q3.toLowerCase().includes("exact"))) && ((@rep_t1_ch5_q3.toLowerCase().includes("tout à fait")) || (@rep_t1_ch5_q3.toLowerCase().includes("tout a fait")) || (@rep_t1_ch5_q3.toLowerCase().includes("affirmatif")))) && ((@rep_t1_ch5_q3.toLowerCase().includes("oui")) || (@rep_t1_ch5_q3.toLowerCase().includes("exact")) || (@rep_t1_ch5_q3.toLowerCase().includes("tout à fait")) || (@rep_t1_ch5_q3.toLowerCase().includes("tout a fait")) || (@rep_t1_ch5_q3.toLowerCase().includes("affirmatif")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -146830,7 +146830,7 @@ La France n'interdit pas de parler une autre langue sur son territoire et dans s
 3. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch5_q3).toLowerCase().includes("oui")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("exact")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("tout à fait")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("tout a fait")) || (("" + @rep_t1_ch5_q3).toLowerCase().includes("affirmatif")))`
+`if !((@rep_t1_ch5_q3.toLowerCase().includes("oui")) || (@rep_t1_ch5_q3.toLowerCase().includes("exact")) || (@rep_t1_ch5_q3.toLowerCase().includes("tout à fait")) || (@rep_t1_ch5_q3.toLowerCase().includes("tout a fait")) || (@rep_t1_ch5_q3.toLowerCase().includes("affirmatif")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -147107,7 +147107,7 @@ Citez trois des sept principes contenus dans le contrat.
 
 > `@rep_t1_ch6_q1`
 
-`if ((("" + @rep_t1_ch6_q1).toLowerCase().includes("liberté personnelle")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("liberte personnelle")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("expression")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("conscience")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("égalité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("egalite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("femmes")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("hommes")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("dignité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("dignite"))) && ((("" + @rep_t1_ch6_q1).toLowerCase().includes("devise")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("symbole")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("drapeau")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("marianne")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("hymne")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("intégrité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("integrite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("territorial")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laïcité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laicite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laique")))`
+`if ((@rep_t1_ch6_q1.toLowerCase().includes("liberté personnelle")) || (@rep_t1_ch6_q1.toLowerCase().includes("liberte personnelle")) || (@rep_t1_ch6_q1.toLowerCase().includes("expression")) || (@rep_t1_ch6_q1.toLowerCase().includes("conscience")) || (@rep_t1_ch6_q1.toLowerCase().includes("égalité")) || (@rep_t1_ch6_q1.toLowerCase().includes("egalite")) || (@rep_t1_ch6_q1.toLowerCase().includes("femmes")) || (@rep_t1_ch6_q1.toLowerCase().includes("hommes")) || (@rep_t1_ch6_q1.toLowerCase().includes("dignité")) || (@rep_t1_ch6_q1.toLowerCase().includes("dignite"))) && ((@rep_t1_ch6_q1.toLowerCase().includes("devise")) || (@rep_t1_ch6_q1.toLowerCase().includes("symbole")) || (@rep_t1_ch6_q1.toLowerCase().includes("drapeau")) || (@rep_t1_ch6_q1.toLowerCase().includes("marianne")) || (@rep_t1_ch6_q1.toLowerCase().includes("hymne")) || (@rep_t1_ch6_q1.toLowerCase().includes("intégrité")) || (@rep_t1_ch6_q1.toLowerCase().includes("integrite")) || (@rep_t1_ch6_q1.toLowerCase().includes("territorial")) || (@rep_t1_ch6_q1.toLowerCase().includes("laïcité")) || (@rep_t1_ch6_q1.toLowerCase().includes("laicite")) || (@rep_t1_ch6_q1.toLowerCase().includes("laique")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -147117,7 +147117,7 @@ Il fallait citer au moins trois principes parmi : la liberté personnelle ; la l
 1. [➡️ Question suivante](SCR_REV_T1_CH06_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t1_ch6_q1).toLowerCase().includes("liberté personnelle")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("liberte personnelle")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("expression")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("conscience")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("égalité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("egalite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("femmes")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("hommes")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("dignité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("dignite"))) && ((("" + @rep_t1_ch6_q1).toLowerCase().includes("devise")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("symbole")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("drapeau")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("marianne")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("hymne")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("intégrité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("integrite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("territorial")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laïcité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laicite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laique")))) && ((("" + @rep_t1_ch6_q1).toLowerCase().includes("liberté personnelle")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("liberte personnelle")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("expression")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("conscience")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("égalité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("egalite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("femmes")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("hommes")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("dignité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("dignite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("devise")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("symbole")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("drapeau")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("marianne")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("hymne")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("intégrité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("integrite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("territorial")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laïcité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laicite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laique")))`
+`if !(((@rep_t1_ch6_q1.toLowerCase().includes("liberté personnelle")) || (@rep_t1_ch6_q1.toLowerCase().includes("liberte personnelle")) || (@rep_t1_ch6_q1.toLowerCase().includes("expression")) || (@rep_t1_ch6_q1.toLowerCase().includes("conscience")) || (@rep_t1_ch6_q1.toLowerCase().includes("égalité")) || (@rep_t1_ch6_q1.toLowerCase().includes("egalite")) || (@rep_t1_ch6_q1.toLowerCase().includes("femmes")) || (@rep_t1_ch6_q1.toLowerCase().includes("hommes")) || (@rep_t1_ch6_q1.toLowerCase().includes("dignité")) || (@rep_t1_ch6_q1.toLowerCase().includes("dignite"))) && ((@rep_t1_ch6_q1.toLowerCase().includes("devise")) || (@rep_t1_ch6_q1.toLowerCase().includes("symbole")) || (@rep_t1_ch6_q1.toLowerCase().includes("drapeau")) || (@rep_t1_ch6_q1.toLowerCase().includes("marianne")) || (@rep_t1_ch6_q1.toLowerCase().includes("hymne")) || (@rep_t1_ch6_q1.toLowerCase().includes("intégrité")) || (@rep_t1_ch6_q1.toLowerCase().includes("integrite")) || (@rep_t1_ch6_q1.toLowerCase().includes("territorial")) || (@rep_t1_ch6_q1.toLowerCase().includes("laïcité")) || (@rep_t1_ch6_q1.toLowerCase().includes("laicite")) || (@rep_t1_ch6_q1.toLowerCase().includes("laique")))) && ((@rep_t1_ch6_q1.toLowerCase().includes("liberté personnelle")) || (@rep_t1_ch6_q1.toLowerCase().includes("liberte personnelle")) || (@rep_t1_ch6_q1.toLowerCase().includes("expression")) || (@rep_t1_ch6_q1.toLowerCase().includes("conscience")) || (@rep_t1_ch6_q1.toLowerCase().includes("égalité")) || (@rep_t1_ch6_q1.toLowerCase().includes("egalite")) || (@rep_t1_ch6_q1.toLowerCase().includes("femmes")) || (@rep_t1_ch6_q1.toLowerCase().includes("hommes")) || (@rep_t1_ch6_q1.toLowerCase().includes("dignité")) || (@rep_t1_ch6_q1.toLowerCase().includes("dignite")) || (@rep_t1_ch6_q1.toLowerCase().includes("devise")) || (@rep_t1_ch6_q1.toLowerCase().includes("symbole")) || (@rep_t1_ch6_q1.toLowerCase().includes("drapeau")) || (@rep_t1_ch6_q1.toLowerCase().includes("marianne")) || (@rep_t1_ch6_q1.toLowerCase().includes("hymne")) || (@rep_t1_ch6_q1.toLowerCase().includes("intégrité")) || (@rep_t1_ch6_q1.toLowerCase().includes("integrite")) || (@rep_t1_ch6_q1.toLowerCase().includes("territorial")) || (@rep_t1_ch6_q1.toLowerCase().includes("laïcité")) || (@rep_t1_ch6_q1.toLowerCase().includes("laicite")) || (@rep_t1_ch6_q1.toLowerCase().includes("laique")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -147131,7 +147131,7 @@ Il fallait citer au moins trois principes parmi : la liberté personnelle ; la l
 3. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch6_q1).toLowerCase().includes("liberté personnelle")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("liberte personnelle")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("expression")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("conscience")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("égalité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("egalite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("femmes")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("hommes")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("dignité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("dignite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("devise")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("symbole")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("drapeau")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("marianne")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("hymne")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("intégrité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("integrite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("territorial")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laïcité")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laicite")) || (("" + @rep_t1_ch6_q1).toLowerCase().includes("laique")))`
+`if !((@rep_t1_ch6_q1.toLowerCase().includes("liberté personnelle")) || (@rep_t1_ch6_q1.toLowerCase().includes("liberte personnelle")) || (@rep_t1_ch6_q1.toLowerCase().includes("expression")) || (@rep_t1_ch6_q1.toLowerCase().includes("conscience")) || (@rep_t1_ch6_q1.toLowerCase().includes("égalité")) || (@rep_t1_ch6_q1.toLowerCase().includes("egalite")) || (@rep_t1_ch6_q1.toLowerCase().includes("femmes")) || (@rep_t1_ch6_q1.toLowerCase().includes("hommes")) || (@rep_t1_ch6_q1.toLowerCase().includes("dignité")) || (@rep_t1_ch6_q1.toLowerCase().includes("dignite")) || (@rep_t1_ch6_q1.toLowerCase().includes("devise")) || (@rep_t1_ch6_q1.toLowerCase().includes("symbole")) || (@rep_t1_ch6_q1.toLowerCase().includes("drapeau")) || (@rep_t1_ch6_q1.toLowerCase().includes("marianne")) || (@rep_t1_ch6_q1.toLowerCase().includes("hymne")) || (@rep_t1_ch6_q1.toLowerCase().includes("intégrité")) || (@rep_t1_ch6_q1.toLowerCase().includes("integrite")) || (@rep_t1_ch6_q1.toLowerCase().includes("territorial")) || (@rep_t1_ch6_q1.toLowerCase().includes("laïcité")) || (@rep_t1_ch6_q1.toLowerCase().includes("laicite")) || (@rep_t1_ch6_q1.toLowerCase().includes("laique")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -147167,7 +147167,7 @@ Que peut-il se passer si une personne refuse de signer ce contrat ?
 
 > `@rep_t1_ch6_q2`
 
-`if ((("" + @rep_t1_ch6_q2).toLowerCase().includes("refus")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("refuser")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejet")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejeté")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejete")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("retrait"))) && ((("" + @rep_t1_ch6_q2).toLowerCase().includes("retirer")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("suppression")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("séjour")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("sejour")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("titre")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("carte")))`
+`if ((@rep_t1_ch6_q2.toLowerCase().includes("refus")) || (@rep_t1_ch6_q2.toLowerCase().includes("refuser")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejet")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejeté")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejete")) || (@rep_t1_ch6_q2.toLowerCase().includes("retrait"))) && ((@rep_t1_ch6_q2.toLowerCase().includes("retirer")) || (@rep_t1_ch6_q2.toLowerCase().includes("suppression")) || (@rep_t1_ch6_q2.toLowerCase().includes("séjour")) || (@rep_t1_ch6_q2.toLowerCase().includes("sejour")) || (@rep_t1_ch6_q2.toLowerCase().includes("titre")) || (@rep_t1_ch6_q2.toLowerCase().includes("carte")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -147177,7 +147177,7 @@ Le refus de signer le contrat peut entraîner le refus de délivrance ou le retr
 1. [➡️ Question suivante](SCR_REV_T1_CH06_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t1_ch6_q2).toLowerCase().includes("refus")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("refuser")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejet")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejeté")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejete")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("retrait"))) && ((("" + @rep_t1_ch6_q2).toLowerCase().includes("retirer")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("suppression")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("séjour")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("sejour")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("titre")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("carte")))) && ((("" + @rep_t1_ch6_q2).toLowerCase().includes("refus")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("refuser")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejet")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejeté")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejete")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("retrait")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("retirer")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("suppression")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("séjour")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("sejour")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("titre")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("carte")))`
+`if !(((@rep_t1_ch6_q2.toLowerCase().includes("refus")) || (@rep_t1_ch6_q2.toLowerCase().includes("refuser")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejet")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejeté")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejete")) || (@rep_t1_ch6_q2.toLowerCase().includes("retrait"))) && ((@rep_t1_ch6_q2.toLowerCase().includes("retirer")) || (@rep_t1_ch6_q2.toLowerCase().includes("suppression")) || (@rep_t1_ch6_q2.toLowerCase().includes("séjour")) || (@rep_t1_ch6_q2.toLowerCase().includes("sejour")) || (@rep_t1_ch6_q2.toLowerCase().includes("titre")) || (@rep_t1_ch6_q2.toLowerCase().includes("carte")))) && ((@rep_t1_ch6_q2.toLowerCase().includes("refus")) || (@rep_t1_ch6_q2.toLowerCase().includes("refuser")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejet")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejeté")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejete")) || (@rep_t1_ch6_q2.toLowerCase().includes("retrait")) || (@rep_t1_ch6_q2.toLowerCase().includes("retirer")) || (@rep_t1_ch6_q2.toLowerCase().includes("suppression")) || (@rep_t1_ch6_q2.toLowerCase().includes("séjour")) || (@rep_t1_ch6_q2.toLowerCase().includes("sejour")) || (@rep_t1_ch6_q2.toLowerCase().includes("titre")) || (@rep_t1_ch6_q2.toLowerCase().includes("carte")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -147191,7 +147191,7 @@ Le refus de signer le contrat peut entraîner le refus de délivrance ou le retr
 3. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch6_q2).toLowerCase().includes("refus")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("refuser")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejet")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejeté")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("rejete")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("retrait")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("retirer")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("suppression")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("séjour")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("sejour")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("titre")) || (("" + @rep_t1_ch6_q2).toLowerCase().includes("carte")))`
+`if !((@rep_t1_ch6_q2.toLowerCase().includes("refus")) || (@rep_t1_ch6_q2.toLowerCase().includes("refuser")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejet")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejeté")) || (@rep_t1_ch6_q2.toLowerCase().includes("rejete")) || (@rep_t1_ch6_q2.toLowerCase().includes("retrait")) || (@rep_t1_ch6_q2.toLowerCase().includes("retirer")) || (@rep_t1_ch6_q2.toLowerCase().includes("suppression")) || (@rep_t1_ch6_q2.toLowerCase().includes("séjour")) || (@rep_t1_ch6_q2.toLowerCase().includes("sejour")) || (@rep_t1_ch6_q2.toLowerCase().includes("titre")) || (@rep_t1_ch6_q2.toLowerCase().includes("carte")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -147227,7 +147227,7 @@ Le refus de signer le contrat peut entraîner le refus de délivrance ou le retr
 
 > `@rep_t1_ch6_q3`
 
-`if ((("" + @rep_t1_ch6_q3).toLowerCase().includes("engagement")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("s'engager")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("respecter"))) && ((("" + @rep_t1_ch6_q3).toLowerCase().includes("principe")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("valeur")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("république")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("republique")))`
+`if ((@rep_t1_ch6_q3.toLowerCase().includes("engagement")) || (@rep_t1_ch6_q3.toLowerCase().includes("s'engager")) || (@rep_t1_ch6_q3.toLowerCase().includes("respecter"))) && ((@rep_t1_ch6_q3.toLowerCase().includes("principe")) || (@rep_t1_ch6_q3.toLowerCase().includes("valeur")) || (@rep_t1_ch6_q3.toLowerCase().includes("république")) || (@rep_t1_ch6_q3.toLowerCase().includes("republique")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -147237,7 +147237,7 @@ Il formalise l'engagement de respecter les principes et les valeurs de la Répub
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH06_FIN)
 `endif`
 
-`if !(((("" + @rep_t1_ch6_q3).toLowerCase().includes("engagement")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("s'engager")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("respecter"))) && ((("" + @rep_t1_ch6_q3).toLowerCase().includes("principe")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("valeur")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("république")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("republique")))) && ((("" + @rep_t1_ch6_q3).toLowerCase().includes("engagement")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("s'engager")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("respecter")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("principe")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("valeur")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("république")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("republique")))`
+`if !(((@rep_t1_ch6_q3.toLowerCase().includes("engagement")) || (@rep_t1_ch6_q3.toLowerCase().includes("s'engager")) || (@rep_t1_ch6_q3.toLowerCase().includes("respecter"))) && ((@rep_t1_ch6_q3.toLowerCase().includes("principe")) || (@rep_t1_ch6_q3.toLowerCase().includes("valeur")) || (@rep_t1_ch6_q3.toLowerCase().includes("république")) || (@rep_t1_ch6_q3.toLowerCase().includes("republique")))) && ((@rep_t1_ch6_q3.toLowerCase().includes("engagement")) || (@rep_t1_ch6_q3.toLowerCase().includes("s'engager")) || (@rep_t1_ch6_q3.toLowerCase().includes("respecter")) || (@rep_t1_ch6_q3.toLowerCase().includes("principe")) || (@rep_t1_ch6_q3.toLowerCase().includes("valeur")) || (@rep_t1_ch6_q3.toLowerCase().includes("république")) || (@rep_t1_ch6_q3.toLowerCase().includes("republique")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -147251,7 +147251,7 @@ Il formalise l'engagement de respecter les principes et les valeurs de la Répub
 3. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
 `endif`
 
-`if !((("" + @rep_t1_ch6_q3).toLowerCase().includes("engagement")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("s'engager")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("respecter")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("principe")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("valeur")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("république")) || (("" + @rep_t1_ch6_q3).toLowerCase().includes("republique")))`
+`if !((@rep_t1_ch6_q3.toLowerCase().includes("engagement")) || (@rep_t1_ch6_q3.toLowerCase().includes("s'engager")) || (@rep_t1_ch6_q3.toLowerCase().includes("respecter")) || (@rep_t1_ch6_q3.toLowerCase().includes("principe")) || (@rep_t1_ch6_q3.toLowerCase().includes("valeur")) || (@rep_t1_ch6_q3.toLowerCase().includes("république")) || (@rep_t1_ch6_q3.toLowerCase().includes("republique")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -147569,7 +147569,7 @@ Quels sont les trois pouvoirs qui permettent de garantir l'équilibre de la dém
 
 > `@rep_t2_ch1_q1`
 
-`if ((("" + @rep_t2_ch1_q1).toLowerCase().includes("législatif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("legislatif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("faire les lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("vote des lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("exécutif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("executif"))) && ((("" + @rep_t2_ch1_q1).toLowerCase().includes("appliquer les lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("gouvernement")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("judiciaire")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("justice")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("juge")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("tribunal")))`
+`if ((@rep_t2_ch1_q1.toLowerCase().includes("législatif")) || (@rep_t2_ch1_q1.toLowerCase().includes("legislatif")) || (@rep_t2_ch1_q1.toLowerCase().includes("faire les lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("vote des lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("exécutif")) || (@rep_t2_ch1_q1.toLowerCase().includes("executif"))) && ((@rep_t2_ch1_q1.toLowerCase().includes("appliquer les lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("gouvernement")) || (@rep_t2_ch1_q1.toLowerCase().includes("judiciaire")) || (@rep_t2_ch1_q1.toLowerCase().includes("justice")) || (@rep_t2_ch1_q1.toLowerCase().includes("juge")) || (@rep_t2_ch1_q1.toLowerCase().includes("tribunal")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -147583,7 +147583,7 @@ Les trois pouvoirs sont :
 1. [➡️ Question suivante](SCR_REV_T2_CH01_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t2_ch1_q1).toLowerCase().includes("législatif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("legislatif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("faire les lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("vote des lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("exécutif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("executif"))) && ((("" + @rep_t2_ch1_q1).toLowerCase().includes("appliquer les lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("gouvernement")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("judiciaire")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("justice")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("juge")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("tribunal")))) && ((("" + @rep_t2_ch1_q1).toLowerCase().includes("législatif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("legislatif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("faire les lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("vote des lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("exécutif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("executif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("appliquer les lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("gouvernement")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("judiciaire")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("justice")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("juge")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("tribunal")))`
+`if !(((@rep_t2_ch1_q1.toLowerCase().includes("législatif")) || (@rep_t2_ch1_q1.toLowerCase().includes("legislatif")) || (@rep_t2_ch1_q1.toLowerCase().includes("faire les lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("vote des lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("exécutif")) || (@rep_t2_ch1_q1.toLowerCase().includes("executif"))) && ((@rep_t2_ch1_q1.toLowerCase().includes("appliquer les lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("gouvernement")) || (@rep_t2_ch1_q1.toLowerCase().includes("judiciaire")) || (@rep_t2_ch1_q1.toLowerCase().includes("justice")) || (@rep_t2_ch1_q1.toLowerCase().includes("juge")) || (@rep_t2_ch1_q1.toLowerCase().includes("tribunal")))) && ((@rep_t2_ch1_q1.toLowerCase().includes("législatif")) || (@rep_t2_ch1_q1.toLowerCase().includes("legislatif")) || (@rep_t2_ch1_q1.toLowerCase().includes("faire les lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("vote des lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("exécutif")) || (@rep_t2_ch1_q1.toLowerCase().includes("executif")) || (@rep_t2_ch1_q1.toLowerCase().includes("appliquer les lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("gouvernement")) || (@rep_t2_ch1_q1.toLowerCase().includes("judiciaire")) || (@rep_t2_ch1_q1.toLowerCase().includes("justice")) || (@rep_t2_ch1_q1.toLowerCase().includes("juge")) || (@rep_t2_ch1_q1.toLowerCase().includes("tribunal")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -147601,7 +147601,7 @@ Les trois pouvoirs sont :
 3. [📖 Revoir le cours](SCR_REV_T2_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch1_q1).toLowerCase().includes("législatif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("legislatif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("faire les lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("vote des lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("exécutif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("executif")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("appliquer les lois")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("gouvernement")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("judiciaire")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("justice")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("juge")) || (("" + @rep_t2_ch1_q1).toLowerCase().includes("tribunal")))`
+`if !((@rep_t2_ch1_q1.toLowerCase().includes("législatif")) || (@rep_t2_ch1_q1.toLowerCase().includes("legislatif")) || (@rep_t2_ch1_q1.toLowerCase().includes("faire les lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("vote des lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("exécutif")) || (@rep_t2_ch1_q1.toLowerCase().includes("executif")) || (@rep_t2_ch1_q1.toLowerCase().includes("appliquer les lois")) || (@rep_t2_ch1_q1.toLowerCase().includes("gouvernement")) || (@rep_t2_ch1_q1.toLowerCase().includes("judiciaire")) || (@rep_t2_ch1_q1.toLowerCase().includes("justice")) || (@rep_t2_ch1_q1.toLowerCase().includes("juge")) || (@rep_t2_ch1_q1.toLowerCase().includes("tribunal")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -147641,7 +147641,7 @@ Quels sont les trois pouvoirs séparés dans une démocratie ?
 
 > `@rep_t2_ch1_q2`
 
-`if ((("" + @rep_t2_ch1_q2).toLowerCase().includes("législatif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("legislatif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("faire les lois"))) && ((("" + @rep_t2_ch1_q2).toLowerCase().includes("exécutif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("executif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("appliquer les lois"))) && ((("" + @rep_t2_ch1_q2).toLowerCase().includes("judiciaire")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("justice")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("juger")))`
+`if ((@rep_t2_ch1_q2.toLowerCase().includes("législatif")) || (@rep_t2_ch1_q2.toLowerCase().includes("legislatif")) || (@rep_t2_ch1_q2.toLowerCase().includes("faire les lois"))) && ((@rep_t2_ch1_q2.toLowerCase().includes("exécutif")) || (@rep_t2_ch1_q2.toLowerCase().includes("executif")) || (@rep_t2_ch1_q2.toLowerCase().includes("appliquer les lois"))) && ((@rep_t2_ch1_q2.toLowerCase().includes("judiciaire")) || (@rep_t2_ch1_q2.toLowerCase().includes("justice")) || (@rep_t2_ch1_q2.toLowerCase().includes("juger")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -147651,7 +147651,7 @@ Les pouvoirs législatif, exécutif et judiciaire.
 1. [➡️ Question suivante](SCR_REV_T2_CH01_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t2_ch1_q2).toLowerCase().includes("législatif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("legislatif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("faire les lois"))) && ((("" + @rep_t2_ch1_q2).toLowerCase().includes("exécutif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("executif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("appliquer les lois"))) && ((("" + @rep_t2_ch1_q2).toLowerCase().includes("judiciaire")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("justice")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("juger")))) && ((("" + @rep_t2_ch1_q2).toLowerCase().includes("législatif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("legislatif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("faire les lois")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("exécutif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("executif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("appliquer les lois")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("judiciaire")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("justice")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("juger")))`
+`if !(((@rep_t2_ch1_q2.toLowerCase().includes("législatif")) || (@rep_t2_ch1_q2.toLowerCase().includes("legislatif")) || (@rep_t2_ch1_q2.toLowerCase().includes("faire les lois"))) && ((@rep_t2_ch1_q2.toLowerCase().includes("exécutif")) || (@rep_t2_ch1_q2.toLowerCase().includes("executif")) || (@rep_t2_ch1_q2.toLowerCase().includes("appliquer les lois"))) && ((@rep_t2_ch1_q2.toLowerCase().includes("judiciaire")) || (@rep_t2_ch1_q2.toLowerCase().includes("justice")) || (@rep_t2_ch1_q2.toLowerCase().includes("juger")))) && ((@rep_t2_ch1_q2.toLowerCase().includes("législatif")) || (@rep_t2_ch1_q2.toLowerCase().includes("legislatif")) || (@rep_t2_ch1_q2.toLowerCase().includes("faire les lois")) || (@rep_t2_ch1_q2.toLowerCase().includes("exécutif")) || (@rep_t2_ch1_q2.toLowerCase().includes("executif")) || (@rep_t2_ch1_q2.toLowerCase().includes("appliquer les lois")) || (@rep_t2_ch1_q2.toLowerCase().includes("judiciaire")) || (@rep_t2_ch1_q2.toLowerCase().includes("justice")) || (@rep_t2_ch1_q2.toLowerCase().includes("juger")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -147665,7 +147665,7 @@ Les pouvoirs législatif, exécutif et judiciaire.
 3. [📖 Revoir le cours](SCR_REV_T2_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch1_q2).toLowerCase().includes("législatif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("legislatif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("faire les lois")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("exécutif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("executif")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("appliquer les lois")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("judiciaire")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("justice")) || (("" + @rep_t2_ch1_q2).toLowerCase().includes("juger")))`
+`if !((@rep_t2_ch1_q2.toLowerCase().includes("législatif")) || (@rep_t2_ch1_q2.toLowerCase().includes("legislatif")) || (@rep_t2_ch1_q2.toLowerCase().includes("faire les lois")) || (@rep_t2_ch1_q2.toLowerCase().includes("exécutif")) || (@rep_t2_ch1_q2.toLowerCase().includes("executif")) || (@rep_t2_ch1_q2.toLowerCase().includes("appliquer les lois")) || (@rep_t2_ch1_q2.toLowerCase().includes("judiciaire")) || (@rep_t2_ch1_q2.toLowerCase().includes("justice")) || (@rep_t2_ch1_q2.toLowerCase().includes("juger")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -147701,7 +147701,7 @@ Pourquoi la justice doit-elle être indépendante ?
 
 > `@rep_t2_ch1_q3`
 
-`if ((("" + @rep_t2_ch1_q3).toLowerCase().includes("indépend")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("independ")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("sans pression")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("autonome"))) && ((("" + @rep_t2_ch1_q3).toLowerCase().includes("impartial")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("neutre")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("équitable")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("equitable")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("juger")))`
+`if ((@rep_t2_ch1_q3.toLowerCase().includes("indépend")) || (@rep_t2_ch1_q3.toLowerCase().includes("independ")) || (@rep_t2_ch1_q3.toLowerCase().includes("sans pression")) || (@rep_t2_ch1_q3.toLowerCase().includes("autonome"))) && ((@rep_t2_ch1_q3.toLowerCase().includes("impartial")) || (@rep_t2_ch1_q3.toLowerCase().includes("neutre")) || (@rep_t2_ch1_q3.toLowerCase().includes("équitable")) || (@rep_t2_ch1_q3.toLowerCase().includes("equitable")) || (@rep_t2_ch1_q3.toLowerCase().includes("juger")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -147711,7 +147711,7 @@ Elle doit juger impartialement, sans pression du pouvoir politique.
 1. [✅ Terminer le chapitre](SCR_REV_T2_CH01_FIN)
 `endif`
 
-`if !(((("" + @rep_t2_ch1_q3).toLowerCase().includes("indépend")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("independ")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("sans pression")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("autonome"))) && ((("" + @rep_t2_ch1_q3).toLowerCase().includes("impartial")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("neutre")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("équitable")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("equitable")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("juger")))) && ((("" + @rep_t2_ch1_q3).toLowerCase().includes("indépend")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("independ")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("sans pression")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("autonome")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("impartial")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("neutre")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("équitable")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("equitable")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("juger")))`
+`if !(((@rep_t2_ch1_q3.toLowerCase().includes("indépend")) || (@rep_t2_ch1_q3.toLowerCase().includes("independ")) || (@rep_t2_ch1_q3.toLowerCase().includes("sans pression")) || (@rep_t2_ch1_q3.toLowerCase().includes("autonome"))) && ((@rep_t2_ch1_q3.toLowerCase().includes("impartial")) || (@rep_t2_ch1_q3.toLowerCase().includes("neutre")) || (@rep_t2_ch1_q3.toLowerCase().includes("équitable")) || (@rep_t2_ch1_q3.toLowerCase().includes("equitable")) || (@rep_t2_ch1_q3.toLowerCase().includes("juger")))) && ((@rep_t2_ch1_q3.toLowerCase().includes("indépend")) || (@rep_t2_ch1_q3.toLowerCase().includes("independ")) || (@rep_t2_ch1_q3.toLowerCase().includes("sans pression")) || (@rep_t2_ch1_q3.toLowerCase().includes("autonome")) || (@rep_t2_ch1_q3.toLowerCase().includes("impartial")) || (@rep_t2_ch1_q3.toLowerCase().includes("neutre")) || (@rep_t2_ch1_q3.toLowerCase().includes("équitable")) || (@rep_t2_ch1_q3.toLowerCase().includes("equitable")) || (@rep_t2_ch1_q3.toLowerCase().includes("juger")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -147725,7 +147725,7 @@ Elle doit juger impartialement, sans pression du pouvoir politique.
 3. [📖 Revoir le cours](SCR_REV_T2_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch1_q3).toLowerCase().includes("indépend")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("independ")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("sans pression")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("autonome")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("impartial")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("neutre")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("équitable")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("equitable")) || (("" + @rep_t2_ch1_q3).toLowerCase().includes("juger")))`
+`if !((@rep_t2_ch1_q3.toLowerCase().includes("indépend")) || (@rep_t2_ch1_q3.toLowerCase().includes("independ")) || (@rep_t2_ch1_q3.toLowerCase().includes("sans pression")) || (@rep_t2_ch1_q3.toLowerCase().includes("autonome")) || (@rep_t2_ch1_q3.toLowerCase().includes("impartial")) || (@rep_t2_ch1_q3.toLowerCase().includes("neutre")) || (@rep_t2_ch1_q3.toLowerCase().includes("équitable")) || (@rep_t2_ch1_q3.toLowerCase().includes("equitable")) || (@rep_t2_ch1_q3.toLowerCase().includes("juger")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -148122,7 +148122,7 @@ Quelles sont les quatre conditions principales pour pouvoir voter en France ?
 
 > `@rep_t2_ch2_q1`
 
-`if ((("" + @rep_t2_ch2_q1).toLowerCase().includes("18")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("être majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("etre majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("français")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("francais")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("nationalité française")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("nationalite francaise"))) && ((("" + @rep_t2_ch2_q1).toLowerCase().includes("liste électorale")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("liste electorale")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("inscrit")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("inscription")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("droits civils")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("droits civiques")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("pas être privé")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("ne pas être privé")))`
+`if ((@rep_t2_ch2_q1.toLowerCase().includes("18")) || (@rep_t2_ch2_q1.toLowerCase().includes("majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("être majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("etre majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("français")) || (@rep_t2_ch2_q1.toLowerCase().includes("francais")) || (@rep_t2_ch2_q1.toLowerCase().includes("nationalité française")) || (@rep_t2_ch2_q1.toLowerCase().includes("nationalite francaise"))) && ((@rep_t2_ch2_q1.toLowerCase().includes("liste électorale")) || (@rep_t2_ch2_q1.toLowerCase().includes("liste electorale")) || (@rep_t2_ch2_q1.toLowerCase().includes("inscrit")) || (@rep_t2_ch2_q1.toLowerCase().includes("inscription")) || (@rep_t2_ch2_q1.toLowerCase().includes("droits civils")) || (@rep_t2_ch2_q1.toLowerCase().includes("droits civiques")) || (@rep_t2_ch2_q1.toLowerCase().includes("pas être privé")) || (@rep_t2_ch2_q1.toLowerCase().includes("ne pas être privé")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -148132,7 +148132,7 @@ Il faut avoir au moins 18 ans, avoir la nationalité française, être inscrit s
 1. [➡️ Question suivante](SCR_REV_T2_CH02_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t2_ch2_q1).toLowerCase().includes("18")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("être majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("etre majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("français")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("francais")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("nationalité française")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("nationalite francaise"))) && ((("" + @rep_t2_ch2_q1).toLowerCase().includes("liste électorale")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("liste electorale")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("inscrit")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("inscription")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("droits civils")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("droits civiques")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("pas être privé")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("ne pas être privé")))) && ((("" + @rep_t2_ch2_q1).toLowerCase().includes("18")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("être majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("etre majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("français")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("francais")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("nationalité française")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("nationalite francaise")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("liste électorale")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("liste electorale")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("inscrit")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("inscription")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("droits civils")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("droits civiques")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("pas être privé")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("ne pas être privé")))`
+`if !(((@rep_t2_ch2_q1.toLowerCase().includes("18")) || (@rep_t2_ch2_q1.toLowerCase().includes("majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("être majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("etre majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("français")) || (@rep_t2_ch2_q1.toLowerCase().includes("francais")) || (@rep_t2_ch2_q1.toLowerCase().includes("nationalité française")) || (@rep_t2_ch2_q1.toLowerCase().includes("nationalite francaise"))) && ((@rep_t2_ch2_q1.toLowerCase().includes("liste électorale")) || (@rep_t2_ch2_q1.toLowerCase().includes("liste electorale")) || (@rep_t2_ch2_q1.toLowerCase().includes("inscrit")) || (@rep_t2_ch2_q1.toLowerCase().includes("inscription")) || (@rep_t2_ch2_q1.toLowerCase().includes("droits civils")) || (@rep_t2_ch2_q1.toLowerCase().includes("droits civiques")) || (@rep_t2_ch2_q1.toLowerCase().includes("pas être privé")) || (@rep_t2_ch2_q1.toLowerCase().includes("ne pas être privé")))) && ((@rep_t2_ch2_q1.toLowerCase().includes("18")) || (@rep_t2_ch2_q1.toLowerCase().includes("majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("être majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("etre majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("français")) || (@rep_t2_ch2_q1.toLowerCase().includes("francais")) || (@rep_t2_ch2_q1.toLowerCase().includes("nationalité française")) || (@rep_t2_ch2_q1.toLowerCase().includes("nationalite francaise")) || (@rep_t2_ch2_q1.toLowerCase().includes("liste électorale")) || (@rep_t2_ch2_q1.toLowerCase().includes("liste electorale")) || (@rep_t2_ch2_q1.toLowerCase().includes("inscrit")) || (@rep_t2_ch2_q1.toLowerCase().includes("inscription")) || (@rep_t2_ch2_q1.toLowerCase().includes("droits civils")) || (@rep_t2_ch2_q1.toLowerCase().includes("droits civiques")) || (@rep_t2_ch2_q1.toLowerCase().includes("pas être privé")) || (@rep_t2_ch2_q1.toLowerCase().includes("ne pas être privé")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -148146,7 +148146,7 @@ Il faut avoir au moins 18 ans, avoir la nationalité française, être inscrit s
 3. [📖 Revoir le cours](SCR_REV_T2_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch2_q1).toLowerCase().includes("18")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("être majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("etre majeur")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("français")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("francais")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("nationalité française")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("nationalite francaise")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("liste électorale")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("liste electorale")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("inscrit")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("inscription")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("droits civils")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("droits civiques")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("pas être privé")) || (("" + @rep_t2_ch2_q1).toLowerCase().includes("ne pas être privé")))`
+`if !((@rep_t2_ch2_q1.toLowerCase().includes("18")) || (@rep_t2_ch2_q1.toLowerCase().includes("majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("être majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("etre majeur")) || (@rep_t2_ch2_q1.toLowerCase().includes("français")) || (@rep_t2_ch2_q1.toLowerCase().includes("francais")) || (@rep_t2_ch2_q1.toLowerCase().includes("nationalité française")) || (@rep_t2_ch2_q1.toLowerCase().includes("nationalite francaise")) || (@rep_t2_ch2_q1.toLowerCase().includes("liste électorale")) || (@rep_t2_ch2_q1.toLowerCase().includes("liste electorale")) || (@rep_t2_ch2_q1.toLowerCase().includes("inscrit")) || (@rep_t2_ch2_q1.toLowerCase().includes("inscription")) || (@rep_t2_ch2_q1.toLowerCase().includes("droits civils")) || (@rep_t2_ch2_q1.toLowerCase().includes("droits civiques")) || (@rep_t2_ch2_q1.toLowerCase().includes("pas être privé")) || (@rep_t2_ch2_q1.toLowerCase().includes("ne pas être privé")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -148182,7 +148182,7 @@ Quelles conditions principales faut-il remplir pour voter en France ?
 
 > `@rep_t2_ch2_q2`
 
-`if ((("" + @rep_t2_ch2_q2).toLowerCase().includes("18")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("être majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("etre majeur"))) && ((("" + @rep_t2_ch2_q2).toLowerCase().includes("français")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("francais")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("nationalité française")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("nationalite francaise"))) && ((("" + @rep_t2_ch2_q2).toLowerCase().includes("inscrit")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("liste électorale")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("liste electorale")))`
+`if ((@rep_t2_ch2_q2.toLowerCase().includes("18")) || (@rep_t2_ch2_q2.toLowerCase().includes("majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("être majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("etre majeur"))) && ((@rep_t2_ch2_q2.toLowerCase().includes("français")) || (@rep_t2_ch2_q2.toLowerCase().includes("francais")) || (@rep_t2_ch2_q2.toLowerCase().includes("nationalité française")) || (@rep_t2_ch2_q2.toLowerCase().includes("nationalite francaise"))) && ((@rep_t2_ch2_q2.toLowerCase().includes("inscrit")) || (@rep_t2_ch2_q2.toLowerCase().includes("liste électorale")) || (@rep_t2_ch2_q2.toLowerCase().includes("liste electorale")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -148192,7 +148192,7 @@ Il faut notamment avoir 18 ans, être français, jouir de ses droits civils et p
 1. [➡️ Question suivante](SCR_REV_T2_CH02_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t2_ch2_q2).toLowerCase().includes("18")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("être majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("etre majeur"))) && ((("" + @rep_t2_ch2_q2).toLowerCase().includes("français")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("francais")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("nationalité française")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("nationalite francaise"))) && ((("" + @rep_t2_ch2_q2).toLowerCase().includes("inscrit")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("liste électorale")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("liste electorale")))) && ((("" + @rep_t2_ch2_q2).toLowerCase().includes("18")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("être majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("etre majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("français")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("francais")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("nationalité française")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("nationalite francaise")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("inscrit")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("liste électorale")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("liste electorale")))`
+`if !(((@rep_t2_ch2_q2.toLowerCase().includes("18")) || (@rep_t2_ch2_q2.toLowerCase().includes("majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("être majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("etre majeur"))) && ((@rep_t2_ch2_q2.toLowerCase().includes("français")) || (@rep_t2_ch2_q2.toLowerCase().includes("francais")) || (@rep_t2_ch2_q2.toLowerCase().includes("nationalité française")) || (@rep_t2_ch2_q2.toLowerCase().includes("nationalite francaise"))) && ((@rep_t2_ch2_q2.toLowerCase().includes("inscrit")) || (@rep_t2_ch2_q2.toLowerCase().includes("liste électorale")) || (@rep_t2_ch2_q2.toLowerCase().includes("liste electorale")))) && ((@rep_t2_ch2_q2.toLowerCase().includes("18")) || (@rep_t2_ch2_q2.toLowerCase().includes("majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("être majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("etre majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("français")) || (@rep_t2_ch2_q2.toLowerCase().includes("francais")) || (@rep_t2_ch2_q2.toLowerCase().includes("nationalité française")) || (@rep_t2_ch2_q2.toLowerCase().includes("nationalite francaise")) || (@rep_t2_ch2_q2.toLowerCase().includes("inscrit")) || (@rep_t2_ch2_q2.toLowerCase().includes("liste électorale")) || (@rep_t2_ch2_q2.toLowerCase().includes("liste electorale")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -148206,7 +148206,7 @@ Il faut notamment avoir 18 ans, être français, jouir de ses droits civils et p
 3. [📖 Revoir le cours](SCR_REV_T2_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch2_q2).toLowerCase().includes("18")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("être majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("etre majeur")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("français")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("francais")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("nationalité française")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("nationalite francaise")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("inscrit")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("liste électorale")) || (("" + @rep_t2_ch2_q2).toLowerCase().includes("liste electorale")))`
+`if !((@rep_t2_ch2_q2.toLowerCase().includes("18")) || (@rep_t2_ch2_q2.toLowerCase().includes("majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("être majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("etre majeur")) || (@rep_t2_ch2_q2.toLowerCase().includes("français")) || (@rep_t2_ch2_q2.toLowerCase().includes("francais")) || (@rep_t2_ch2_q2.toLowerCase().includes("nationalité française")) || (@rep_t2_ch2_q2.toLowerCase().includes("nationalite francaise")) || (@rep_t2_ch2_q2.toLowerCase().includes("inscrit")) || (@rep_t2_ch2_q2.toLowerCase().includes("liste électorale")) || (@rep_t2_ch2_q2.toLowerCase().includes("liste electorale")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -148242,7 +148242,7 @@ Pourquoi le vote est-il secret ?
 
 > `@rep_t2_ch2_q3`
 
-`if ((("" + @rep_t2_ch2_q3).toLowerCase().includes("libre")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("liberté")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("liberte")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("choisir"))) && ((("" + @rep_t2_ch2_q3).toLowerCase().includes("sans pression")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("sans influence")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("secret")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("protéger")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("proteger")))`
+`if ((@rep_t2_ch2_q3.toLowerCase().includes("libre")) || (@rep_t2_ch2_q3.toLowerCase().includes("liberté")) || (@rep_t2_ch2_q3.toLowerCase().includes("liberte")) || (@rep_t2_ch2_q3.toLowerCase().includes("choisir"))) && ((@rep_t2_ch2_q3.toLowerCase().includes("sans pression")) || (@rep_t2_ch2_q3.toLowerCase().includes("sans influence")) || (@rep_t2_ch2_q3.toLowerCase().includes("secret")) || (@rep_t2_ch2_q3.toLowerCase().includes("protéger")) || (@rep_t2_ch2_q3.toLowerCase().includes("proteger")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -148252,7 +148252,7 @@ Le secret du vote permet à chacun de choisir librement, sans pression.
 1. [✅ Terminer le chapitre](SCR_REV_T2_CH02_FIN)
 `endif`
 
-`if !(((("" + @rep_t2_ch2_q3).toLowerCase().includes("libre")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("liberté")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("liberte")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("choisir"))) && ((("" + @rep_t2_ch2_q3).toLowerCase().includes("sans pression")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("sans influence")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("secret")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("protéger")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("proteger")))) && ((("" + @rep_t2_ch2_q3).toLowerCase().includes("libre")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("liberté")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("liberte")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("choisir")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("sans pression")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("sans influence")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("secret")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("protéger")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("proteger")))`
+`if !(((@rep_t2_ch2_q3.toLowerCase().includes("libre")) || (@rep_t2_ch2_q3.toLowerCase().includes("liberté")) || (@rep_t2_ch2_q3.toLowerCase().includes("liberte")) || (@rep_t2_ch2_q3.toLowerCase().includes("choisir"))) && ((@rep_t2_ch2_q3.toLowerCase().includes("sans pression")) || (@rep_t2_ch2_q3.toLowerCase().includes("sans influence")) || (@rep_t2_ch2_q3.toLowerCase().includes("secret")) || (@rep_t2_ch2_q3.toLowerCase().includes("protéger")) || (@rep_t2_ch2_q3.toLowerCase().includes("proteger")))) && ((@rep_t2_ch2_q3.toLowerCase().includes("libre")) || (@rep_t2_ch2_q3.toLowerCase().includes("liberté")) || (@rep_t2_ch2_q3.toLowerCase().includes("liberte")) || (@rep_t2_ch2_q3.toLowerCase().includes("choisir")) || (@rep_t2_ch2_q3.toLowerCase().includes("sans pression")) || (@rep_t2_ch2_q3.toLowerCase().includes("sans influence")) || (@rep_t2_ch2_q3.toLowerCase().includes("secret")) || (@rep_t2_ch2_q3.toLowerCase().includes("protéger")) || (@rep_t2_ch2_q3.toLowerCase().includes("proteger")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -148266,7 +148266,7 @@ Le secret du vote permet à chacun de choisir librement, sans pression.
 3. [📖 Revoir le cours](SCR_REV_T2_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch2_q3).toLowerCase().includes("libre")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("liberté")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("liberte")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("choisir")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("sans pression")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("sans influence")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("secret")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("protéger")) || (("" + @rep_t2_ch2_q3).toLowerCase().includes("proteger")))`
+`if !((@rep_t2_ch2_q3.toLowerCase().includes("libre")) || (@rep_t2_ch2_q3.toLowerCase().includes("liberté")) || (@rep_t2_ch2_q3.toLowerCase().includes("liberte")) || (@rep_t2_ch2_q3.toLowerCase().includes("choisir")) || (@rep_t2_ch2_q3.toLowerCase().includes("sans pression")) || (@rep_t2_ch2_q3.toLowerCase().includes("sans influence")) || (@rep_t2_ch2_q3.toLowerCase().includes("secret")) || (@rep_t2_ch2_q3.toLowerCase().includes("protéger")) || (@rep_t2_ch2_q3.toLowerCase().includes("proteger")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -148680,7 +148680,7 @@ Quels sont les trois principaux niveaux de collectivités territoriales en Franc
 
 > `@rep_t2_ch3_q1`
 
-`if ((("" + @rep_t2_ch3_q1).toLowerCase().includes("commune")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("municipalité")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("municipalite")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("ville")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("département")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("departement"))) && ((("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil départemental")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil departemental")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("région")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("region")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil régional")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil regional")))`
+`if ((@rep_t2_ch3_q1.toLowerCase().includes("commune")) || (@rep_t2_ch3_q1.toLowerCase().includes("municipalité")) || (@rep_t2_ch3_q1.toLowerCase().includes("municipalite")) || (@rep_t2_ch3_q1.toLowerCase().includes("ville")) || (@rep_t2_ch3_q1.toLowerCase().includes("département")) || (@rep_t2_ch3_q1.toLowerCase().includes("departement"))) && ((@rep_t2_ch3_q1.toLowerCase().includes("conseil départemental")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil departemental")) || (@rep_t2_ch3_q1.toLowerCase().includes("région")) || (@rep_t2_ch3_q1.toLowerCase().includes("region")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil régional")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil regional")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -148694,7 +148694,7 @@ Les trois niveaux sont :
 1. [➡️ Question suivante](SCR_REV_T2_CH03_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t2_ch3_q1).toLowerCase().includes("commune")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("municipalité")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("municipalite")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("ville")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("département")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("departement"))) && ((("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil départemental")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil departemental")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("région")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("region")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil régional")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil regional")))) && ((("" + @rep_t2_ch3_q1).toLowerCase().includes("commune")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("municipalité")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("municipalite")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("ville")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("département")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("departement")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil départemental")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil departemental")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("région")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("region")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil régional")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil regional")))`
+`if !(((@rep_t2_ch3_q1.toLowerCase().includes("commune")) || (@rep_t2_ch3_q1.toLowerCase().includes("municipalité")) || (@rep_t2_ch3_q1.toLowerCase().includes("municipalite")) || (@rep_t2_ch3_q1.toLowerCase().includes("ville")) || (@rep_t2_ch3_q1.toLowerCase().includes("département")) || (@rep_t2_ch3_q1.toLowerCase().includes("departement"))) && ((@rep_t2_ch3_q1.toLowerCase().includes("conseil départemental")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil departemental")) || (@rep_t2_ch3_q1.toLowerCase().includes("région")) || (@rep_t2_ch3_q1.toLowerCase().includes("region")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil régional")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil regional")))) && ((@rep_t2_ch3_q1.toLowerCase().includes("commune")) || (@rep_t2_ch3_q1.toLowerCase().includes("municipalité")) || (@rep_t2_ch3_q1.toLowerCase().includes("municipalite")) || (@rep_t2_ch3_q1.toLowerCase().includes("ville")) || (@rep_t2_ch3_q1.toLowerCase().includes("département")) || (@rep_t2_ch3_q1.toLowerCase().includes("departement")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil départemental")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil departemental")) || (@rep_t2_ch3_q1.toLowerCase().includes("région")) || (@rep_t2_ch3_q1.toLowerCase().includes("region")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil régional")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil regional")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -148712,7 +148712,7 @@ Les trois niveaux sont :
 3. [📖 Revoir le cours](SCR_REV_T2_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch3_q1).toLowerCase().includes("commune")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("municipalité")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("municipalite")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("ville")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("département")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("departement")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil départemental")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil departemental")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("région")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("region")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil régional")) || (("" + @rep_t2_ch3_q1).toLowerCase().includes("conseil regional")))`
+`if !((@rep_t2_ch3_q1.toLowerCase().includes("commune")) || (@rep_t2_ch3_q1.toLowerCase().includes("municipalité")) || (@rep_t2_ch3_q1.toLowerCase().includes("municipalite")) || (@rep_t2_ch3_q1.toLowerCase().includes("ville")) || (@rep_t2_ch3_q1.toLowerCase().includes("département")) || (@rep_t2_ch3_q1.toLowerCase().includes("departement")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil départemental")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil departemental")) || (@rep_t2_ch3_q1.toLowerCase().includes("région")) || (@rep_t2_ch3_q1.toLowerCase().includes("region")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil régional")) || (@rep_t2_ch3_q1.toLowerCase().includes("conseil regional")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -148752,7 +148752,7 @@ Quel est le rôle principal d'une commune ?
 
 > `@rep_t2_ch3_q2`
 
-`if ((("" + @rep_t2_ch3_q2).toLowerCase().includes("service")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("école")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("ecole")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("état civil")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("etat civil")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("déchet")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("dechet")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("local"))) && ((("" + @rep_t2_ch3_q2).toLowerCase().includes("maire")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("conseil municipal")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("commune")))`
+`if ((@rep_t2_ch3_q2.toLowerCase().includes("service")) || (@rep_t2_ch3_q2.toLowerCase().includes("école")) || (@rep_t2_ch3_q2.toLowerCase().includes("ecole")) || (@rep_t2_ch3_q2.toLowerCase().includes("état civil")) || (@rep_t2_ch3_q2.toLowerCase().includes("etat civil")) || (@rep_t2_ch3_q2.toLowerCase().includes("déchet")) || (@rep_t2_ch3_q2.toLowerCase().includes("dechet")) || (@rep_t2_ch3_q2.toLowerCase().includes("local"))) && ((@rep_t2_ch3_q2.toLowerCase().includes("maire")) || (@rep_t2_ch3_q2.toLowerCase().includes("conseil municipal")) || (@rep_t2_ch3_q2.toLowerCase().includes("commune")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -148762,7 +148762,7 @@ La commune gère des services publics locaux proches des habitants, sous l'autor
 1. [➡️ Question suivante](SCR_REV_T2_CH03_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t2_ch3_q2).toLowerCase().includes("service")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("école")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("ecole")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("état civil")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("etat civil")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("déchet")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("dechet")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("local"))) && ((("" + @rep_t2_ch3_q2).toLowerCase().includes("maire")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("conseil municipal")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("commune")))) && ((("" + @rep_t2_ch3_q2).toLowerCase().includes("service")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("école")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("ecole")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("état civil")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("etat civil")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("déchet")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("dechet")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("local")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("maire")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("conseil municipal")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("commune")))`
+`if !(((@rep_t2_ch3_q2.toLowerCase().includes("service")) || (@rep_t2_ch3_q2.toLowerCase().includes("école")) || (@rep_t2_ch3_q2.toLowerCase().includes("ecole")) || (@rep_t2_ch3_q2.toLowerCase().includes("état civil")) || (@rep_t2_ch3_q2.toLowerCase().includes("etat civil")) || (@rep_t2_ch3_q2.toLowerCase().includes("déchet")) || (@rep_t2_ch3_q2.toLowerCase().includes("dechet")) || (@rep_t2_ch3_q2.toLowerCase().includes("local"))) && ((@rep_t2_ch3_q2.toLowerCase().includes("maire")) || (@rep_t2_ch3_q2.toLowerCase().includes("conseil municipal")) || (@rep_t2_ch3_q2.toLowerCase().includes("commune")))) && ((@rep_t2_ch3_q2.toLowerCase().includes("service")) || (@rep_t2_ch3_q2.toLowerCase().includes("école")) || (@rep_t2_ch3_q2.toLowerCase().includes("ecole")) || (@rep_t2_ch3_q2.toLowerCase().includes("état civil")) || (@rep_t2_ch3_q2.toLowerCase().includes("etat civil")) || (@rep_t2_ch3_q2.toLowerCase().includes("déchet")) || (@rep_t2_ch3_q2.toLowerCase().includes("dechet")) || (@rep_t2_ch3_q2.toLowerCase().includes("local")) || (@rep_t2_ch3_q2.toLowerCase().includes("maire")) || (@rep_t2_ch3_q2.toLowerCase().includes("conseil municipal")) || (@rep_t2_ch3_q2.toLowerCase().includes("commune")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -148776,7 +148776,7 @@ La commune gère des services publics locaux proches des habitants, sous l'autor
 3. [📖 Revoir le cours](SCR_REV_T2_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch3_q2).toLowerCase().includes("service")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("école")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("ecole")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("état civil")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("etat civil")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("déchet")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("dechet")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("local")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("maire")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("conseil municipal")) || (("" + @rep_t2_ch3_q2).toLowerCase().includes("commune")))`
+`if !((@rep_t2_ch3_q2.toLowerCase().includes("service")) || (@rep_t2_ch3_q2.toLowerCase().includes("école")) || (@rep_t2_ch3_q2.toLowerCase().includes("ecole")) || (@rep_t2_ch3_q2.toLowerCase().includes("état civil")) || (@rep_t2_ch3_q2.toLowerCase().includes("etat civil")) || (@rep_t2_ch3_q2.toLowerCase().includes("déchet")) || (@rep_t2_ch3_q2.toLowerCase().includes("dechet")) || (@rep_t2_ch3_q2.toLowerCase().includes("local")) || (@rep_t2_ch3_q2.toLowerCase().includes("maire")) || (@rep_t2_ch3_q2.toLowerCase().includes("conseil municipal")) || (@rep_t2_ch3_q2.toLowerCase().includes("commune")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -148812,7 +148812,7 @@ La commune gère des services publics locaux proches des habitants, sous l'autor
 
 > `@rep_t2_ch3_q3`
 
-`if ((("" + @rep_t2_ch3_q3).toLowerCase().includes("département")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("departement")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("collège")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("college")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("solidarité")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("solidarite"))) && ((("" + @rep_t2_ch3_q3).toLowerCase().includes("région")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("region")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("lycée")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("lycee")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("transport")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("développement économique")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("developpement economique")))`
+`if ((@rep_t2_ch3_q3.toLowerCase().includes("département")) || (@rep_t2_ch3_q3.toLowerCase().includes("departement")) || (@rep_t2_ch3_q3.toLowerCase().includes("collège")) || (@rep_t2_ch3_q3.toLowerCase().includes("college")) || (@rep_t2_ch3_q3.toLowerCase().includes("solidarité")) || (@rep_t2_ch3_q3.toLowerCase().includes("solidarite"))) && ((@rep_t2_ch3_q3.toLowerCase().includes("région")) || (@rep_t2_ch3_q3.toLowerCase().includes("region")) || (@rep_t2_ch3_q3.toLowerCase().includes("lycée")) || (@rep_t2_ch3_q3.toLowerCase().includes("lycee")) || (@rep_t2_ch3_q3.toLowerCase().includes("transport")) || (@rep_t2_ch3_q3.toLowerCase().includes("développement économique")) || (@rep_t2_ch3_q3.toLowerCase().includes("developpement economique")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -148822,7 +148822,7 @@ Les départements agissent notamment dans la solidarité et les collèges ; les 
 1. [✅ Terminer le chapitre](SCR_REV_T2_CH03_FIN)
 `endif`
 
-`if !(((("" + @rep_t2_ch3_q3).toLowerCase().includes("département")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("departement")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("collège")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("college")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("solidarité")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("solidarite"))) && ((("" + @rep_t2_ch3_q3).toLowerCase().includes("région")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("region")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("lycée")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("lycee")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("transport")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("développement économique")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("developpement economique")))) && ((("" + @rep_t2_ch3_q3).toLowerCase().includes("département")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("departement")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("collège")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("college")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("solidarité")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("solidarite")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("région")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("region")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("lycée")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("lycee")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("transport")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("développement économique")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("developpement economique")))`
+`if !(((@rep_t2_ch3_q3.toLowerCase().includes("département")) || (@rep_t2_ch3_q3.toLowerCase().includes("departement")) || (@rep_t2_ch3_q3.toLowerCase().includes("collège")) || (@rep_t2_ch3_q3.toLowerCase().includes("college")) || (@rep_t2_ch3_q3.toLowerCase().includes("solidarité")) || (@rep_t2_ch3_q3.toLowerCase().includes("solidarite"))) && ((@rep_t2_ch3_q3.toLowerCase().includes("région")) || (@rep_t2_ch3_q3.toLowerCase().includes("region")) || (@rep_t2_ch3_q3.toLowerCase().includes("lycée")) || (@rep_t2_ch3_q3.toLowerCase().includes("lycee")) || (@rep_t2_ch3_q3.toLowerCase().includes("transport")) || (@rep_t2_ch3_q3.toLowerCase().includes("développement économique")) || (@rep_t2_ch3_q3.toLowerCase().includes("developpement economique")))) && ((@rep_t2_ch3_q3.toLowerCase().includes("département")) || (@rep_t2_ch3_q3.toLowerCase().includes("departement")) || (@rep_t2_ch3_q3.toLowerCase().includes("collège")) || (@rep_t2_ch3_q3.toLowerCase().includes("college")) || (@rep_t2_ch3_q3.toLowerCase().includes("solidarité")) || (@rep_t2_ch3_q3.toLowerCase().includes("solidarite")) || (@rep_t2_ch3_q3.toLowerCase().includes("région")) || (@rep_t2_ch3_q3.toLowerCase().includes("region")) || (@rep_t2_ch3_q3.toLowerCase().includes("lycée")) || (@rep_t2_ch3_q3.toLowerCase().includes("lycee")) || (@rep_t2_ch3_q3.toLowerCase().includes("transport")) || (@rep_t2_ch3_q3.toLowerCase().includes("développement économique")) || (@rep_t2_ch3_q3.toLowerCase().includes("developpement economique")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -148836,7 +148836,7 @@ Les départements agissent notamment dans la solidarité et les collèges ; les 
 3. [📖 Revoir le cours](SCR_REV_T2_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch3_q3).toLowerCase().includes("département")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("departement")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("collège")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("college")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("solidarité")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("solidarite")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("région")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("region")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("lycée")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("lycee")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("transport")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("développement économique")) || (("" + @rep_t2_ch3_q3).toLowerCase().includes("developpement economique")))`
+`if !((@rep_t2_ch3_q3.toLowerCase().includes("département")) || (@rep_t2_ch3_q3.toLowerCase().includes("departement")) || (@rep_t2_ch3_q3.toLowerCase().includes("collège")) || (@rep_t2_ch3_q3.toLowerCase().includes("college")) || (@rep_t2_ch3_q3.toLowerCase().includes("solidarité")) || (@rep_t2_ch3_q3.toLowerCase().includes("solidarite")) || (@rep_t2_ch3_q3.toLowerCase().includes("région")) || (@rep_t2_ch3_q3.toLowerCase().includes("region")) || (@rep_t2_ch3_q3.toLowerCase().includes("lycée")) || (@rep_t2_ch3_q3.toLowerCase().includes("lycee")) || (@rep_t2_ch3_q3.toLowerCase().includes("transport")) || (@rep_t2_ch3_q3.toLowerCase().includes("développement économique")) || (@rep_t2_ch3_q3.toLowerCase().includes("developpement economique")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -149221,7 +149221,7 @@ Quelle institution européenne est élue directement par les citoyens européens
 
 > `@rep_t2_ch4_q1`
 
-`if ((("" + @rep_t2_ch4_q1).toLowerCase().includes("parlement")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("députés européens")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("deputes europeens")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("eurodéputé")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("eurodepute"))) && ((("" + @rep_t2_ch4_q1).toLowerCase().includes("européen")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("europeen")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("union européenne")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("union europeenne")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("ue")))`
+`if ((@rep_t2_ch4_q1.toLowerCase().includes("parlement")) || (@rep_t2_ch4_q1.toLowerCase().includes("députés européens")) || (@rep_t2_ch4_q1.toLowerCase().includes("deputes europeens")) || (@rep_t2_ch4_q1.toLowerCase().includes("eurodéputé")) || (@rep_t2_ch4_q1.toLowerCase().includes("eurodepute"))) && ((@rep_t2_ch4_q1.toLowerCase().includes("européen")) || (@rep_t2_ch4_q1.toLowerCase().includes("europeen")) || (@rep_t2_ch4_q1.toLowerCase().includes("union européenne")) || (@rep_t2_ch4_q1.toLowerCase().includes("union europeenne")) || (@rep_t2_ch4_q1.toLowerCase().includes("ue")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -149231,7 +149231,7 @@ Le Parlement européen.
 1. [➡️ Question suivante](SCR_REV_T2_CH04_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t2_ch4_q1).toLowerCase().includes("parlement")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("députés européens")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("deputes europeens")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("eurodéputé")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("eurodepute"))) && ((("" + @rep_t2_ch4_q1).toLowerCase().includes("européen")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("europeen")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("union européenne")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("union europeenne")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("ue")))) && ((("" + @rep_t2_ch4_q1).toLowerCase().includes("parlement")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("députés européens")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("deputes europeens")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("eurodéputé")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("eurodepute")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("européen")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("europeen")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("union européenne")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("union europeenne")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("ue")))`
+`if !(((@rep_t2_ch4_q1.toLowerCase().includes("parlement")) || (@rep_t2_ch4_q1.toLowerCase().includes("députés européens")) || (@rep_t2_ch4_q1.toLowerCase().includes("deputes europeens")) || (@rep_t2_ch4_q1.toLowerCase().includes("eurodéputé")) || (@rep_t2_ch4_q1.toLowerCase().includes("eurodepute"))) && ((@rep_t2_ch4_q1.toLowerCase().includes("européen")) || (@rep_t2_ch4_q1.toLowerCase().includes("europeen")) || (@rep_t2_ch4_q1.toLowerCase().includes("union européenne")) || (@rep_t2_ch4_q1.toLowerCase().includes("union europeenne")) || (@rep_t2_ch4_q1.toLowerCase().includes("ue")))) && ((@rep_t2_ch4_q1.toLowerCase().includes("parlement")) || (@rep_t2_ch4_q1.toLowerCase().includes("députés européens")) || (@rep_t2_ch4_q1.toLowerCase().includes("deputes europeens")) || (@rep_t2_ch4_q1.toLowerCase().includes("eurodéputé")) || (@rep_t2_ch4_q1.toLowerCase().includes("eurodepute")) || (@rep_t2_ch4_q1.toLowerCase().includes("européen")) || (@rep_t2_ch4_q1.toLowerCase().includes("europeen")) || (@rep_t2_ch4_q1.toLowerCase().includes("union européenne")) || (@rep_t2_ch4_q1.toLowerCase().includes("union europeenne")) || (@rep_t2_ch4_q1.toLowerCase().includes("ue")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -149245,7 +149245,7 @@ Le Parlement européen.
 3. [📖 Revoir le cours](SCR_REV_T2_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch4_q1).toLowerCase().includes("parlement")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("députés européens")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("deputes europeens")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("eurodéputé")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("eurodepute")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("européen")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("europeen")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("union européenne")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("union europeenne")) || (("" + @rep_t2_ch4_q1).toLowerCase().includes("ue")))`
+`if !((@rep_t2_ch4_q1.toLowerCase().includes("parlement")) || (@rep_t2_ch4_q1.toLowerCase().includes("députés européens")) || (@rep_t2_ch4_q1.toLowerCase().includes("deputes europeens")) || (@rep_t2_ch4_q1.toLowerCase().includes("eurodéputé")) || (@rep_t2_ch4_q1.toLowerCase().includes("eurodepute")) || (@rep_t2_ch4_q1.toLowerCase().includes("européen")) || (@rep_t2_ch4_q1.toLowerCase().includes("europeen")) || (@rep_t2_ch4_q1.toLowerCase().includes("union européenne")) || (@rep_t2_ch4_q1.toLowerCase().includes("union europeenne")) || (@rep_t2_ch4_q1.toLowerCase().includes("ue")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -149281,7 +149281,7 @@ Quel est le rôle du Parlement européen ?
 
 > `@rep_t2_ch4_q2`
 
-`if ((("" + @rep_t2_ch4_q2).toLowerCase().includes("vote")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("loi")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("texte")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("législation")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("legislation"))) && ((("" + @rep_t2_ch4_q2).toLowerCase().includes("européen")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("europeen")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("union européenne")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("union europeenne")))`
+`if ((@rep_t2_ch4_q2.toLowerCase().includes("vote")) || (@rep_t2_ch4_q2.toLowerCase().includes("loi")) || (@rep_t2_ch4_q2.toLowerCase().includes("texte")) || (@rep_t2_ch4_q2.toLowerCase().includes("législation")) || (@rep_t2_ch4_q2.toLowerCase().includes("legislation"))) && ((@rep_t2_ch4_q2.toLowerCase().includes("européen")) || (@rep_t2_ch4_q2.toLowerCase().includes("europeen")) || (@rep_t2_ch4_q2.toLowerCase().includes("union européenne")) || (@rep_t2_ch4_q2.toLowerCase().includes("union europeenne")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -149291,7 +149291,7 @@ Le Parlement européen vote les textes européens avec le Conseil de l'Union eur
 1. [➡️ Question suivante](SCR_REV_T2_CH04_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t2_ch4_q2).toLowerCase().includes("vote")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("loi")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("texte")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("législation")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("legislation"))) && ((("" + @rep_t2_ch4_q2).toLowerCase().includes("européen")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("europeen")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("union européenne")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("union europeenne")))) && ((("" + @rep_t2_ch4_q2).toLowerCase().includes("vote")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("loi")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("texte")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("législation")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("legislation")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("européen")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("europeen")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("union européenne")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("union europeenne")))`
+`if !(((@rep_t2_ch4_q2.toLowerCase().includes("vote")) || (@rep_t2_ch4_q2.toLowerCase().includes("loi")) || (@rep_t2_ch4_q2.toLowerCase().includes("texte")) || (@rep_t2_ch4_q2.toLowerCase().includes("législation")) || (@rep_t2_ch4_q2.toLowerCase().includes("legislation"))) && ((@rep_t2_ch4_q2.toLowerCase().includes("européen")) || (@rep_t2_ch4_q2.toLowerCase().includes("europeen")) || (@rep_t2_ch4_q2.toLowerCase().includes("union européenne")) || (@rep_t2_ch4_q2.toLowerCase().includes("union europeenne")))) && ((@rep_t2_ch4_q2.toLowerCase().includes("vote")) || (@rep_t2_ch4_q2.toLowerCase().includes("loi")) || (@rep_t2_ch4_q2.toLowerCase().includes("texte")) || (@rep_t2_ch4_q2.toLowerCase().includes("législation")) || (@rep_t2_ch4_q2.toLowerCase().includes("legislation")) || (@rep_t2_ch4_q2.toLowerCase().includes("européen")) || (@rep_t2_ch4_q2.toLowerCase().includes("europeen")) || (@rep_t2_ch4_q2.toLowerCase().includes("union européenne")) || (@rep_t2_ch4_q2.toLowerCase().includes("union europeenne")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -149305,7 +149305,7 @@ Le Parlement européen vote les textes européens avec le Conseil de l'Union eur
 3. [📖 Revoir le cours](SCR_REV_T2_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch4_q2).toLowerCase().includes("vote")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("loi")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("texte")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("législation")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("legislation")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("européen")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("europeen")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("union européenne")) || (("" + @rep_t2_ch4_q2).toLowerCase().includes("union europeenne")))`
+`if !((@rep_t2_ch4_q2.toLowerCase().includes("vote")) || (@rep_t2_ch4_q2.toLowerCase().includes("loi")) || (@rep_t2_ch4_q2.toLowerCase().includes("texte")) || (@rep_t2_ch4_q2.toLowerCase().includes("législation")) || (@rep_t2_ch4_q2.toLowerCase().includes("legislation")) || (@rep_t2_ch4_q2.toLowerCase().includes("européen")) || (@rep_t2_ch4_q2.toLowerCase().includes("europeen")) || (@rep_t2_ch4_q2.toLowerCase().includes("union européenne")) || (@rep_t2_ch4_q2.toLowerCase().includes("union europeenne")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -149341,7 +149341,7 @@ Quel est le rôle de la Commission européenne ?
 
 > `@rep_t2_ch4_q3`
 
-`if ((("" + @rep_t2_ch4_q3).toLowerCase().includes("propose")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("proposition")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("prépare")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("prepare"))) && ((("" + @rep_t2_ch4_q3).toLowerCase().includes("texte")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("loi")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("droit européen")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("droit europeen")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("règle")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("regle")))`
+`if ((@rep_t2_ch4_q3.toLowerCase().includes("propose")) || (@rep_t2_ch4_q3.toLowerCase().includes("proposition")) || (@rep_t2_ch4_q3.toLowerCase().includes("prépare")) || (@rep_t2_ch4_q3.toLowerCase().includes("prepare"))) && ((@rep_t2_ch4_q3.toLowerCase().includes("texte")) || (@rep_t2_ch4_q3.toLowerCase().includes("loi")) || (@rep_t2_ch4_q3.toLowerCase().includes("droit européen")) || (@rep_t2_ch4_q3.toLowerCase().includes("droit europeen")) || (@rep_t2_ch4_q3.toLowerCase().includes("règle")) || (@rep_t2_ch4_q3.toLowerCase().includes("regle")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -149351,7 +149351,7 @@ La Commission propose des textes européens et veille à l'application du droit 
 1. [✅ Terminer le chapitre](SCR_REV_T2_CH04_FIN)
 `endif`
 
-`if !(((("" + @rep_t2_ch4_q3).toLowerCase().includes("propose")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("proposition")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("prépare")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("prepare"))) && ((("" + @rep_t2_ch4_q3).toLowerCase().includes("texte")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("loi")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("droit européen")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("droit europeen")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("règle")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("regle")))) && ((("" + @rep_t2_ch4_q3).toLowerCase().includes("propose")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("proposition")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("prépare")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("prepare")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("texte")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("loi")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("droit européen")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("droit europeen")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("règle")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("regle")))`
+`if !(((@rep_t2_ch4_q3.toLowerCase().includes("propose")) || (@rep_t2_ch4_q3.toLowerCase().includes("proposition")) || (@rep_t2_ch4_q3.toLowerCase().includes("prépare")) || (@rep_t2_ch4_q3.toLowerCase().includes("prepare"))) && ((@rep_t2_ch4_q3.toLowerCase().includes("texte")) || (@rep_t2_ch4_q3.toLowerCase().includes("loi")) || (@rep_t2_ch4_q3.toLowerCase().includes("droit européen")) || (@rep_t2_ch4_q3.toLowerCase().includes("droit europeen")) || (@rep_t2_ch4_q3.toLowerCase().includes("règle")) || (@rep_t2_ch4_q3.toLowerCase().includes("regle")))) && ((@rep_t2_ch4_q3.toLowerCase().includes("propose")) || (@rep_t2_ch4_q3.toLowerCase().includes("proposition")) || (@rep_t2_ch4_q3.toLowerCase().includes("prépare")) || (@rep_t2_ch4_q3.toLowerCase().includes("prepare")) || (@rep_t2_ch4_q3.toLowerCase().includes("texte")) || (@rep_t2_ch4_q3.toLowerCase().includes("loi")) || (@rep_t2_ch4_q3.toLowerCase().includes("droit européen")) || (@rep_t2_ch4_q3.toLowerCase().includes("droit europeen")) || (@rep_t2_ch4_q3.toLowerCase().includes("règle")) || (@rep_t2_ch4_q3.toLowerCase().includes("regle")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -149365,7 +149365,7 @@ La Commission propose des textes européens et veille à l'application du droit 
 3. [📖 Revoir le cours](SCR_REV_T2_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t2_ch4_q3).toLowerCase().includes("propose")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("proposition")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("prépare")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("prepare")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("texte")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("loi")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("droit européen")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("droit europeen")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("règle")) || (("" + @rep_t2_ch4_q3).toLowerCase().includes("regle")))`
+`if !((@rep_t2_ch4_q3.toLowerCase().includes("propose")) || (@rep_t2_ch4_q3.toLowerCase().includes("proposition")) || (@rep_t2_ch4_q3.toLowerCase().includes("prépare")) || (@rep_t2_ch4_q3.toLowerCase().includes("prepare")) || (@rep_t2_ch4_q3.toLowerCase().includes("texte")) || (@rep_t2_ch4_q3.toLowerCase().includes("loi")) || (@rep_t2_ch4_q3.toLowerCase().includes("droit européen")) || (@rep_t2_ch4_q3.toLowerCase().includes("droit europeen")) || (@rep_t2_ch4_q3.toLowerCase().includes("règle")) || (@rep_t2_ch4_q3.toLowerCase().includes("regle")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -149675,7 +149675,7 @@ Quels sont les trois principaux textes qui protègent les droits fondamentaux en
 
 > `@rep_t3_ch1_q1`
 
-`if ((("" + @rep_t3_ch1_q1).toLowerCase().includes("constitution")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("déclaration")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("declaration")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("ddhc"))) && ((("" + @rep_t3_ch1_q1).toLowerCase().includes("droits de l’homme")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("droits de l'homme")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("charte")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("environnement")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("environnementale")))`
+`if ((@rep_t3_ch1_q1.toLowerCase().includes("constitution")) || (@rep_t3_ch1_q1.toLowerCase().includes("déclaration")) || (@rep_t3_ch1_q1.toLowerCase().includes("declaration")) || (@rep_t3_ch1_q1.toLowerCase().includes("ddhc"))) && ((@rep_t3_ch1_q1.toLowerCase().includes("droits de l’homme")) || (@rep_t3_ch1_q1.toLowerCase().includes("droits de l'homme")) || (@rep_t3_ch1_q1.toLowerCase().includes("charte")) || (@rep_t3_ch1_q1.toLowerCase().includes("environnement")) || (@rep_t3_ch1_q1.toLowerCase().includes("environnementale")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -149685,7 +149685,7 @@ Les trois textes attendus sont la Constitution, la Déclaration des droits de l�
 1. [➡️ Question suivante](SCR_REV_T3_CH01_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t3_ch1_q1).toLowerCase().includes("constitution")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("déclaration")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("declaration")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("ddhc"))) && ((("" + @rep_t3_ch1_q1).toLowerCase().includes("droits de l’homme")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("droits de l'homme")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("charte")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("environnement")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("environnementale")))) && ((("" + @rep_t3_ch1_q1).toLowerCase().includes("constitution")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("déclaration")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("declaration")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("ddhc")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("droits de l’homme")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("droits de l'homme")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("charte")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("environnement")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("environnementale")))`
+`if !(((@rep_t3_ch1_q1.toLowerCase().includes("constitution")) || (@rep_t3_ch1_q1.toLowerCase().includes("déclaration")) || (@rep_t3_ch1_q1.toLowerCase().includes("declaration")) || (@rep_t3_ch1_q1.toLowerCase().includes("ddhc"))) && ((@rep_t3_ch1_q1.toLowerCase().includes("droits de l’homme")) || (@rep_t3_ch1_q1.toLowerCase().includes("droits de l'homme")) || (@rep_t3_ch1_q1.toLowerCase().includes("charte")) || (@rep_t3_ch1_q1.toLowerCase().includes("environnement")) || (@rep_t3_ch1_q1.toLowerCase().includes("environnementale")))) && ((@rep_t3_ch1_q1.toLowerCase().includes("constitution")) || (@rep_t3_ch1_q1.toLowerCase().includes("déclaration")) || (@rep_t3_ch1_q1.toLowerCase().includes("declaration")) || (@rep_t3_ch1_q1.toLowerCase().includes("ddhc")) || (@rep_t3_ch1_q1.toLowerCase().includes("droits de l’homme")) || (@rep_t3_ch1_q1.toLowerCase().includes("droits de l'homme")) || (@rep_t3_ch1_q1.toLowerCase().includes("charte")) || (@rep_t3_ch1_q1.toLowerCase().includes("environnement")) || (@rep_t3_ch1_q1.toLowerCase().includes("environnementale")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -149699,7 +149699,7 @@ Les trois textes attendus sont la Constitution, la Déclaration des droits de l�
 3. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t3_ch1_q1).toLowerCase().includes("constitution")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("déclaration")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("declaration")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("ddhc")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("droits de l’homme")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("droits de l'homme")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("charte")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("environnement")) || (("" + @rep_t3_ch1_q1).toLowerCase().includes("environnementale")))`
+`if !((@rep_t3_ch1_q1.toLowerCase().includes("constitution")) || (@rep_t3_ch1_q1.toLowerCase().includes("déclaration")) || (@rep_t3_ch1_q1.toLowerCase().includes("declaration")) || (@rep_t3_ch1_q1.toLowerCase().includes("ddhc")) || (@rep_t3_ch1_q1.toLowerCase().includes("droits de l’homme")) || (@rep_t3_ch1_q1.toLowerCase().includes("droits de l'homme")) || (@rep_t3_ch1_q1.toLowerCase().includes("charte")) || (@rep_t3_ch1_q1.toLowerCase().includes("environnement")) || (@rep_t3_ch1_q1.toLowerCase().includes("environnementale")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -149735,7 +149735,7 @@ Citez deux droits fondamentaux reconnus en France.
 
 > `@rep_t3_ch1_q2`
 
-`if ((("" + @rep_t3_ch1_q2).toLowerCase().includes("liberté")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("liberte")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("sûreté")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("surete")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("éducation")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("education")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("vie privée")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("vie privee")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("droit"))) && ((("" + @rep_t3_ch1_q2).toLowerCase().includes("expression")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("sécurité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("securite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("école")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("privée")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("privee")))`
+`if ((@rep_t3_ch1_q2.toLowerCase().includes("liberté")) || (@rep_t3_ch1_q2.toLowerCase().includes("liberte")) || (@rep_t3_ch1_q2.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q2.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q2.toLowerCase().includes("sûreté")) || (@rep_t3_ch1_q2.toLowerCase().includes("surete")) || (@rep_t3_ch1_q2.toLowerCase().includes("éducation")) || (@rep_t3_ch1_q2.toLowerCase().includes("education")) || (@rep_t3_ch1_q2.toLowerCase().includes("vie privée")) || (@rep_t3_ch1_q2.toLowerCase().includes("vie privee")) || (@rep_t3_ch1_q2.toLowerCase().includes("droit"))) && ((@rep_t3_ch1_q2.toLowerCase().includes("expression")) || (@rep_t3_ch1_q2.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q2.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q2.toLowerCase().includes("sécurité")) || (@rep_t3_ch1_q2.toLowerCase().includes("securite")) || (@rep_t3_ch1_q2.toLowerCase().includes("école")) || (@rep_t3_ch1_q2.toLowerCase().includes("ecole")) || (@rep_t3_ch1_q2.toLowerCase().includes("privée")) || (@rep_t3_ch1_q2.toLowerCase().includes("privee")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -149745,7 +149745,7 @@ Par exemple : la liberté d'expression, l'égalité, le droit à la sûreté, le
 1. [➡️ Question suivante](SCR_REV_T3_CH01_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t3_ch1_q2).toLowerCase().includes("liberté")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("liberte")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("sûreté")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("surete")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("éducation")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("education")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("vie privée")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("vie privee")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("droit"))) && ((("" + @rep_t3_ch1_q2).toLowerCase().includes("expression")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("sécurité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("securite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("école")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("privée")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("privee")))) && ((("" + @rep_t3_ch1_q2).toLowerCase().includes("liberté")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("liberte")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("sûreté")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("surete")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("éducation")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("education")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("vie privée")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("vie privee")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("droit")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("expression")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("sécurité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("securite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("école")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("privée")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("privee")))`
+`if !(((@rep_t3_ch1_q2.toLowerCase().includes("liberté")) || (@rep_t3_ch1_q2.toLowerCase().includes("liberte")) || (@rep_t3_ch1_q2.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q2.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q2.toLowerCase().includes("sûreté")) || (@rep_t3_ch1_q2.toLowerCase().includes("surete")) || (@rep_t3_ch1_q2.toLowerCase().includes("éducation")) || (@rep_t3_ch1_q2.toLowerCase().includes("education")) || (@rep_t3_ch1_q2.toLowerCase().includes("vie privée")) || (@rep_t3_ch1_q2.toLowerCase().includes("vie privee")) || (@rep_t3_ch1_q2.toLowerCase().includes("droit"))) && ((@rep_t3_ch1_q2.toLowerCase().includes("expression")) || (@rep_t3_ch1_q2.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q2.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q2.toLowerCase().includes("sécurité")) || (@rep_t3_ch1_q2.toLowerCase().includes("securite")) || (@rep_t3_ch1_q2.toLowerCase().includes("école")) || (@rep_t3_ch1_q2.toLowerCase().includes("ecole")) || (@rep_t3_ch1_q2.toLowerCase().includes("privée")) || (@rep_t3_ch1_q2.toLowerCase().includes("privee")))) && ((@rep_t3_ch1_q2.toLowerCase().includes("liberté")) || (@rep_t3_ch1_q2.toLowerCase().includes("liberte")) || (@rep_t3_ch1_q2.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q2.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q2.toLowerCase().includes("sûreté")) || (@rep_t3_ch1_q2.toLowerCase().includes("surete")) || (@rep_t3_ch1_q2.toLowerCase().includes("éducation")) || (@rep_t3_ch1_q2.toLowerCase().includes("education")) || (@rep_t3_ch1_q2.toLowerCase().includes("vie privée")) || (@rep_t3_ch1_q2.toLowerCase().includes("vie privee")) || (@rep_t3_ch1_q2.toLowerCase().includes("droit")) || (@rep_t3_ch1_q2.toLowerCase().includes("expression")) || (@rep_t3_ch1_q2.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q2.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q2.toLowerCase().includes("sécurité")) || (@rep_t3_ch1_q2.toLowerCase().includes("securite")) || (@rep_t3_ch1_q2.toLowerCase().includes("école")) || (@rep_t3_ch1_q2.toLowerCase().includes("ecole")) || (@rep_t3_ch1_q2.toLowerCase().includes("privée")) || (@rep_t3_ch1_q2.toLowerCase().includes("privee")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -149759,7 +149759,7 @@ Par exemple : la liberté d'expression, l'égalité, le droit à la sûreté, le
 3. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t3_ch1_q2).toLowerCase().includes("liberté")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("liberte")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("sûreté")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("surete")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("éducation")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("education")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("vie privée")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("vie privee")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("droit")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("expression")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("sécurité")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("securite")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("école")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("privée")) || (("" + @rep_t3_ch1_q2).toLowerCase().includes("privee")))`
+`if !((@rep_t3_ch1_q2.toLowerCase().includes("liberté")) || (@rep_t3_ch1_q2.toLowerCase().includes("liberte")) || (@rep_t3_ch1_q2.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q2.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q2.toLowerCase().includes("sûreté")) || (@rep_t3_ch1_q2.toLowerCase().includes("surete")) || (@rep_t3_ch1_q2.toLowerCase().includes("éducation")) || (@rep_t3_ch1_q2.toLowerCase().includes("education")) || (@rep_t3_ch1_q2.toLowerCase().includes("vie privée")) || (@rep_t3_ch1_q2.toLowerCase().includes("vie privee")) || (@rep_t3_ch1_q2.toLowerCase().includes("droit")) || (@rep_t3_ch1_q2.toLowerCase().includes("expression")) || (@rep_t3_ch1_q2.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q2.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q2.toLowerCase().includes("sécurité")) || (@rep_t3_ch1_q2.toLowerCase().includes("securite")) || (@rep_t3_ch1_q2.toLowerCase().includes("école")) || (@rep_t3_ch1_q2.toLowerCase().includes("ecole")) || (@rep_t3_ch1_q2.toLowerCase().includes("privée")) || (@rep_t3_ch1_q2.toLowerCase().includes("privee")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -149795,7 +149795,7 @@ Que signifie l'égalité entre les femmes et les hommes ?
 
 > `@rep_t3_ch1_q3`
 
-`if ((("" + @rep_t3_ch1_q3).toLowerCase().includes("même droit")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("mêmes droits")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("egalite"))) && ((("" + @rep_t3_ch1_q3).toLowerCase().includes("sans discrimination")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("même traitement")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("meme traitement")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("également")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("egalement")))`
+`if ((@rep_t3_ch1_q3.toLowerCase().includes("même droit")) || (@rep_t3_ch1_q3.toLowerCase().includes("mêmes droits")) || (@rep_t3_ch1_q3.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q3.toLowerCase().includes("egalite"))) && ((@rep_t3_ch1_q3.toLowerCase().includes("sans discrimination")) || (@rep_t3_ch1_q3.toLowerCase().includes("même traitement")) || (@rep_t3_ch1_q3.toLowerCase().includes("meme traitement")) || (@rep_t3_ch1_q3.toLowerCase().includes("également")) || (@rep_t3_ch1_q3.toLowerCase().includes("egalement")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -149805,7 +149805,7 @@ Les femmes et les hommes ont les mêmes droits et doivent être traités sans di
 1. [✅ Terminer le chapitre](SCR_REV_T3_CH01_FIN)
 `endif`
 
-`if !(((("" + @rep_t3_ch1_q3).toLowerCase().includes("même droit")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("mêmes droits")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("egalite"))) && ((("" + @rep_t3_ch1_q3).toLowerCase().includes("sans discrimination")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("même traitement")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("meme traitement")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("également")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("egalement")))) && ((("" + @rep_t3_ch1_q3).toLowerCase().includes("même droit")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("mêmes droits")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("sans discrimination")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("même traitement")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("meme traitement")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("également")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("egalement")))`
+`if !(((@rep_t3_ch1_q3.toLowerCase().includes("même droit")) || (@rep_t3_ch1_q3.toLowerCase().includes("mêmes droits")) || (@rep_t3_ch1_q3.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q3.toLowerCase().includes("egalite"))) && ((@rep_t3_ch1_q3.toLowerCase().includes("sans discrimination")) || (@rep_t3_ch1_q3.toLowerCase().includes("même traitement")) || (@rep_t3_ch1_q3.toLowerCase().includes("meme traitement")) || (@rep_t3_ch1_q3.toLowerCase().includes("également")) || (@rep_t3_ch1_q3.toLowerCase().includes("egalement")))) && ((@rep_t3_ch1_q3.toLowerCase().includes("même droit")) || (@rep_t3_ch1_q3.toLowerCase().includes("mêmes droits")) || (@rep_t3_ch1_q3.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q3.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q3.toLowerCase().includes("sans discrimination")) || (@rep_t3_ch1_q3.toLowerCase().includes("même traitement")) || (@rep_t3_ch1_q3.toLowerCase().includes("meme traitement")) || (@rep_t3_ch1_q3.toLowerCase().includes("également")) || (@rep_t3_ch1_q3.toLowerCase().includes("egalement")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -149819,7 +149819,7 @@ Les femmes et les hommes ont les mêmes droits et doivent être traités sans di
 3. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t3_ch1_q3).toLowerCase().includes("même droit")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("mêmes droits")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("égalité")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("egalite")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("sans discrimination")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("même traitement")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("meme traitement")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("également")) || (("" + @rep_t3_ch1_q3).toLowerCase().includes("egalement")))`
+`if !((@rep_t3_ch1_q3.toLowerCase().includes("même droit")) || (@rep_t3_ch1_q3.toLowerCase().includes("mêmes droits")) || (@rep_t3_ch1_q3.toLowerCase().includes("égalité")) || (@rep_t3_ch1_q3.toLowerCase().includes("egalite")) || (@rep_t3_ch1_q3.toLowerCase().includes("sans discrimination")) || (@rep_t3_ch1_q3.toLowerCase().includes("même traitement")) || (@rep_t3_ch1_q3.toLowerCase().includes("meme traitement")) || (@rep_t3_ch1_q3.toLowerCase().includes("également")) || (@rep_t3_ch1_q3.toLowerCase().includes("egalement")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -150167,7 +150167,7 @@ Citez trois obligations que toute personne vivant en France doit respecter.
 
 > `@rep_t3_ch2_q1`
 
-`if ((("" + @rep_t3_ch2_q1).toLowerCase().includes("loi")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("règle")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("regle")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("respect")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("autre")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("personne")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("bien")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("impôt")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("impot")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("revenu"))) && ((("" + @rep_t3_ch2_q1).toLowerCase().includes("fiscal")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("environnement")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("nature")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("écologie")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("ecologie")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("secours")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("danger")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("violence")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("protéger")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("proteger")))`
+`if ((@rep_t3_ch2_q1.toLowerCase().includes("loi")) || (@rep_t3_ch2_q1.toLowerCase().includes("règle")) || (@rep_t3_ch2_q1.toLowerCase().includes("regle")) || (@rep_t3_ch2_q1.toLowerCase().includes("respect")) || (@rep_t3_ch2_q1.toLowerCase().includes("autre")) || (@rep_t3_ch2_q1.toLowerCase().includes("personne")) || (@rep_t3_ch2_q1.toLowerCase().includes("bien")) || (@rep_t3_ch2_q1.toLowerCase().includes("impôt")) || (@rep_t3_ch2_q1.toLowerCase().includes("impot")) || (@rep_t3_ch2_q1.toLowerCase().includes("revenu"))) && ((@rep_t3_ch2_q1.toLowerCase().includes("fiscal")) || (@rep_t3_ch2_q1.toLowerCase().includes("environnement")) || (@rep_t3_ch2_q1.toLowerCase().includes("nature")) || (@rep_t3_ch2_q1.toLowerCase().includes("écologie")) || (@rep_t3_ch2_q1.toLowerCase().includes("ecologie")) || (@rep_t3_ch2_q1.toLowerCase().includes("secours")) || (@rep_t3_ch2_q1.toLowerCase().includes("danger")) || (@rep_t3_ch2_q1.toLowerCase().includes("violence")) || (@rep_t3_ch2_q1.toLowerCase().includes("protéger")) || (@rep_t3_ch2_q1.toLowerCase().includes("proteger")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -150177,7 +150177,7 @@ Il fallait citer au moins trois obligations, par exemple : respecter les lois ; 
 1. [➡️ Question suivante](SCR_REV_T3_CH02_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t3_ch2_q1).toLowerCase().includes("loi")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("règle")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("regle")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("respect")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("autre")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("personne")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("bien")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("impôt")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("impot")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("revenu"))) && ((("" + @rep_t3_ch2_q1).toLowerCase().includes("fiscal")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("environnement")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("nature")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("écologie")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("ecologie")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("secours")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("danger")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("violence")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("protéger")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("proteger")))) && ((("" + @rep_t3_ch2_q1).toLowerCase().includes("loi")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("règle")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("regle")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("respect")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("autre")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("personne")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("bien")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("impôt")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("impot")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("revenu")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("fiscal")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("environnement")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("nature")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("écologie")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("ecologie")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("secours")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("danger")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("violence")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("protéger")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("proteger")))`
+`if !(((@rep_t3_ch2_q1.toLowerCase().includes("loi")) || (@rep_t3_ch2_q1.toLowerCase().includes("règle")) || (@rep_t3_ch2_q1.toLowerCase().includes("regle")) || (@rep_t3_ch2_q1.toLowerCase().includes("respect")) || (@rep_t3_ch2_q1.toLowerCase().includes("autre")) || (@rep_t3_ch2_q1.toLowerCase().includes("personne")) || (@rep_t3_ch2_q1.toLowerCase().includes("bien")) || (@rep_t3_ch2_q1.toLowerCase().includes("impôt")) || (@rep_t3_ch2_q1.toLowerCase().includes("impot")) || (@rep_t3_ch2_q1.toLowerCase().includes("revenu"))) && ((@rep_t3_ch2_q1.toLowerCase().includes("fiscal")) || (@rep_t3_ch2_q1.toLowerCase().includes("environnement")) || (@rep_t3_ch2_q1.toLowerCase().includes("nature")) || (@rep_t3_ch2_q1.toLowerCase().includes("écologie")) || (@rep_t3_ch2_q1.toLowerCase().includes("ecologie")) || (@rep_t3_ch2_q1.toLowerCase().includes("secours")) || (@rep_t3_ch2_q1.toLowerCase().includes("danger")) || (@rep_t3_ch2_q1.toLowerCase().includes("violence")) || (@rep_t3_ch2_q1.toLowerCase().includes("protéger")) || (@rep_t3_ch2_q1.toLowerCase().includes("proteger")))) && ((@rep_t3_ch2_q1.toLowerCase().includes("loi")) || (@rep_t3_ch2_q1.toLowerCase().includes("règle")) || (@rep_t3_ch2_q1.toLowerCase().includes("regle")) || (@rep_t3_ch2_q1.toLowerCase().includes("respect")) || (@rep_t3_ch2_q1.toLowerCase().includes("autre")) || (@rep_t3_ch2_q1.toLowerCase().includes("personne")) || (@rep_t3_ch2_q1.toLowerCase().includes("bien")) || (@rep_t3_ch2_q1.toLowerCase().includes("impôt")) || (@rep_t3_ch2_q1.toLowerCase().includes("impot")) || (@rep_t3_ch2_q1.toLowerCase().includes("revenu")) || (@rep_t3_ch2_q1.toLowerCase().includes("fiscal")) || (@rep_t3_ch2_q1.toLowerCase().includes("environnement")) || (@rep_t3_ch2_q1.toLowerCase().includes("nature")) || (@rep_t3_ch2_q1.toLowerCase().includes("écologie")) || (@rep_t3_ch2_q1.toLowerCase().includes("ecologie")) || (@rep_t3_ch2_q1.toLowerCase().includes("secours")) || (@rep_t3_ch2_q1.toLowerCase().includes("danger")) || (@rep_t3_ch2_q1.toLowerCase().includes("violence")) || (@rep_t3_ch2_q1.toLowerCase().includes("protéger")) || (@rep_t3_ch2_q1.toLowerCase().includes("proteger")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -150191,7 +150191,7 @@ Il fallait citer au moins trois obligations, par exemple : respecter les lois ; 
 3. [📖 Revoir le cours](SCR_REV_T3_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t3_ch2_q1).toLowerCase().includes("loi")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("règle")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("regle")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("respect")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("autre")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("personne")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("bien")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("impôt")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("impot")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("revenu")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("fiscal")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("environnement")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("nature")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("écologie")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("ecologie")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("secours")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("danger")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("violence")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("protéger")) || (("" + @rep_t3_ch2_q1).toLowerCase().includes("proteger")))`
+`if !((@rep_t3_ch2_q1.toLowerCase().includes("loi")) || (@rep_t3_ch2_q1.toLowerCase().includes("règle")) || (@rep_t3_ch2_q1.toLowerCase().includes("regle")) || (@rep_t3_ch2_q1.toLowerCase().includes("respect")) || (@rep_t3_ch2_q1.toLowerCase().includes("autre")) || (@rep_t3_ch2_q1.toLowerCase().includes("personne")) || (@rep_t3_ch2_q1.toLowerCase().includes("bien")) || (@rep_t3_ch2_q1.toLowerCase().includes("impôt")) || (@rep_t3_ch2_q1.toLowerCase().includes("impot")) || (@rep_t3_ch2_q1.toLowerCase().includes("revenu")) || (@rep_t3_ch2_q1.toLowerCase().includes("fiscal")) || (@rep_t3_ch2_q1.toLowerCase().includes("environnement")) || (@rep_t3_ch2_q1.toLowerCase().includes("nature")) || (@rep_t3_ch2_q1.toLowerCase().includes("écologie")) || (@rep_t3_ch2_q1.toLowerCase().includes("ecologie")) || (@rep_t3_ch2_q1.toLowerCase().includes("secours")) || (@rep_t3_ch2_q1.toLowerCase().includes("danger")) || (@rep_t3_ch2_q1.toLowerCase().includes("violence")) || (@rep_t3_ch2_q1.toLowerCase().includes("protéger")) || (@rep_t3_ch2_q1.toLowerCase().includes("proteger")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -150227,7 +150227,7 @@ Pourquoi faut-il payer des impôts ?
 
 > `@rep_t3_ch2_q2`
 
-`if ((("" + @rep_t3_ch2_q2).toLowerCase().includes("financ")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("payer")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("contribu"))) && ((("" + @rep_t3_ch2_q2).toLowerCase().includes("service public")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("école")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("hôpital")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("hopital")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("justice")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("collectivité")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("collectivite")))`
+`if ((@rep_t3_ch2_q2.toLowerCase().includes("financ")) || (@rep_t3_ch2_q2.toLowerCase().includes("payer")) || (@rep_t3_ch2_q2.toLowerCase().includes("contribu"))) && ((@rep_t3_ch2_q2.toLowerCase().includes("service public")) || (@rep_t3_ch2_q2.toLowerCase().includes("école")) || (@rep_t3_ch2_q2.toLowerCase().includes("ecole")) || (@rep_t3_ch2_q2.toLowerCase().includes("hôpital")) || (@rep_t3_ch2_q2.toLowerCase().includes("hopital")) || (@rep_t3_ch2_q2.toLowerCase().includes("justice")) || (@rep_t3_ch2_q2.toLowerCase().includes("collectivité")) || (@rep_t3_ch2_q2.toLowerCase().includes("collectivite")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -150237,7 +150237,7 @@ Les impôts financent les services publics et les dépenses utiles à la collect
 1. [➡️ Question suivante](SCR_REV_T3_CH02_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t3_ch2_q2).toLowerCase().includes("financ")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("payer")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("contribu"))) && ((("" + @rep_t3_ch2_q2).toLowerCase().includes("service public")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("école")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("hôpital")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("hopital")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("justice")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("collectivité")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("collectivite")))) && ((("" + @rep_t3_ch2_q2).toLowerCase().includes("financ")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("payer")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("contribu")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("service public")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("école")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("hôpital")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("hopital")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("justice")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("collectivité")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("collectivite")))`
+`if !(((@rep_t3_ch2_q2.toLowerCase().includes("financ")) || (@rep_t3_ch2_q2.toLowerCase().includes("payer")) || (@rep_t3_ch2_q2.toLowerCase().includes("contribu"))) && ((@rep_t3_ch2_q2.toLowerCase().includes("service public")) || (@rep_t3_ch2_q2.toLowerCase().includes("école")) || (@rep_t3_ch2_q2.toLowerCase().includes("ecole")) || (@rep_t3_ch2_q2.toLowerCase().includes("hôpital")) || (@rep_t3_ch2_q2.toLowerCase().includes("hopital")) || (@rep_t3_ch2_q2.toLowerCase().includes("justice")) || (@rep_t3_ch2_q2.toLowerCase().includes("collectivité")) || (@rep_t3_ch2_q2.toLowerCase().includes("collectivite")))) && ((@rep_t3_ch2_q2.toLowerCase().includes("financ")) || (@rep_t3_ch2_q2.toLowerCase().includes("payer")) || (@rep_t3_ch2_q2.toLowerCase().includes("contribu")) || (@rep_t3_ch2_q2.toLowerCase().includes("service public")) || (@rep_t3_ch2_q2.toLowerCase().includes("école")) || (@rep_t3_ch2_q2.toLowerCase().includes("ecole")) || (@rep_t3_ch2_q2.toLowerCase().includes("hôpital")) || (@rep_t3_ch2_q2.toLowerCase().includes("hopital")) || (@rep_t3_ch2_q2.toLowerCase().includes("justice")) || (@rep_t3_ch2_q2.toLowerCase().includes("collectivité")) || (@rep_t3_ch2_q2.toLowerCase().includes("collectivite")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -150251,7 +150251,7 @@ Les impôts financent les services publics et les dépenses utiles à la collect
 3. [📖 Revoir le cours](SCR_REV_T3_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t3_ch2_q2).toLowerCase().includes("financ")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("payer")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("contribu")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("service public")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("école")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("hôpital")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("hopital")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("justice")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("collectivité")) || (("" + @rep_t3_ch2_q2).toLowerCase().includes("collectivite")))`
+`if !((@rep_t3_ch2_q2.toLowerCase().includes("financ")) || (@rep_t3_ch2_q2.toLowerCase().includes("payer")) || (@rep_t3_ch2_q2.toLowerCase().includes("contribu")) || (@rep_t3_ch2_q2.toLowerCase().includes("service public")) || (@rep_t3_ch2_q2.toLowerCase().includes("école")) || (@rep_t3_ch2_q2.toLowerCase().includes("ecole")) || (@rep_t3_ch2_q2.toLowerCase().includes("hôpital")) || (@rep_t3_ch2_q2.toLowerCase().includes("hopital")) || (@rep_t3_ch2_q2.toLowerCase().includes("justice")) || (@rep_t3_ch2_q2.toLowerCase().includes("collectivité")) || (@rep_t3_ch2_q2.toLowerCase().includes("collectivite")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -150287,7 +150287,7 @@ Quels devoirs les parents ont-ils concernant l'éducation de leurs enfants ?
 
 > `@rep_t3_ch2_q3`
 
-`if ((("" + @rep_t3_ch2_q3).toLowerCase().includes("instruction")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("éducation")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("education")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("école")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("scolar"))) && ((("" + @rep_t3_ch2_q3).toLowerCase().includes("assiduité")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("assiduite")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("présence")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("presence")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("obligatoire")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("veiller")))`
+`if ((@rep_t3_ch2_q3.toLowerCase().includes("instruction")) || (@rep_t3_ch2_q3.toLowerCase().includes("éducation")) || (@rep_t3_ch2_q3.toLowerCase().includes("education")) || (@rep_t3_ch2_q3.toLowerCase().includes("école")) || (@rep_t3_ch2_q3.toLowerCase().includes("ecole")) || (@rep_t3_ch2_q3.toLowerCase().includes("scolar"))) && ((@rep_t3_ch2_q3.toLowerCase().includes("assiduité")) || (@rep_t3_ch2_q3.toLowerCase().includes("assiduite")) || (@rep_t3_ch2_q3.toLowerCase().includes("présence")) || (@rep_t3_ch2_q3.toLowerCase().includes("presence")) || (@rep_t3_ch2_q3.toLowerCase().includes("obligatoire")) || (@rep_t3_ch2_q3.toLowerCase().includes("veiller")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -150297,7 +150297,7 @@ Ils doivent assurer leur instruction et veiller à leur assiduité scolaire.
 1. [✅ Terminer le chapitre](SCR_REV_T3_CH02_FIN)
 `endif`
 
-`if !(((("" + @rep_t3_ch2_q3).toLowerCase().includes("instruction")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("éducation")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("education")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("école")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("scolar"))) && ((("" + @rep_t3_ch2_q3).toLowerCase().includes("assiduité")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("assiduite")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("présence")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("presence")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("obligatoire")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("veiller")))) && ((("" + @rep_t3_ch2_q3).toLowerCase().includes("instruction")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("éducation")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("education")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("école")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("scolar")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("assiduité")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("assiduite")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("présence")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("presence")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("obligatoire")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("veiller")))`
+`if !(((@rep_t3_ch2_q3.toLowerCase().includes("instruction")) || (@rep_t3_ch2_q3.toLowerCase().includes("éducation")) || (@rep_t3_ch2_q3.toLowerCase().includes("education")) || (@rep_t3_ch2_q3.toLowerCase().includes("école")) || (@rep_t3_ch2_q3.toLowerCase().includes("ecole")) || (@rep_t3_ch2_q3.toLowerCase().includes("scolar"))) && ((@rep_t3_ch2_q3.toLowerCase().includes("assiduité")) || (@rep_t3_ch2_q3.toLowerCase().includes("assiduite")) || (@rep_t3_ch2_q3.toLowerCase().includes("présence")) || (@rep_t3_ch2_q3.toLowerCase().includes("presence")) || (@rep_t3_ch2_q3.toLowerCase().includes("obligatoire")) || (@rep_t3_ch2_q3.toLowerCase().includes("veiller")))) && ((@rep_t3_ch2_q3.toLowerCase().includes("instruction")) || (@rep_t3_ch2_q3.toLowerCase().includes("éducation")) || (@rep_t3_ch2_q3.toLowerCase().includes("education")) || (@rep_t3_ch2_q3.toLowerCase().includes("école")) || (@rep_t3_ch2_q3.toLowerCase().includes("ecole")) || (@rep_t3_ch2_q3.toLowerCase().includes("scolar")) || (@rep_t3_ch2_q3.toLowerCase().includes("assiduité")) || (@rep_t3_ch2_q3.toLowerCase().includes("assiduite")) || (@rep_t3_ch2_q3.toLowerCase().includes("présence")) || (@rep_t3_ch2_q3.toLowerCase().includes("presence")) || (@rep_t3_ch2_q3.toLowerCase().includes("obligatoire")) || (@rep_t3_ch2_q3.toLowerCase().includes("veiller")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -150311,7 +150311,7 @@ Ils doivent assurer leur instruction et veiller à leur assiduité scolaire.
 3. [📖 Revoir le cours](SCR_REV_T3_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t3_ch2_q3).toLowerCase().includes("instruction")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("éducation")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("education")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("école")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("ecole")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("scolar")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("assiduité")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("assiduite")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("présence")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("presence")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("obligatoire")) || (("" + @rep_t3_ch2_q3).toLowerCase().includes("veiller")))`
+`if !((@rep_t3_ch2_q3.toLowerCase().includes("instruction")) || (@rep_t3_ch2_q3.toLowerCase().includes("éducation")) || (@rep_t3_ch2_q3.toLowerCase().includes("education")) || (@rep_t3_ch2_q3.toLowerCase().includes("école")) || (@rep_t3_ch2_q3.toLowerCase().includes("ecole")) || (@rep_t3_ch2_q3.toLowerCase().includes("scolar")) || (@rep_t3_ch2_q3.toLowerCase().includes("assiduité")) || (@rep_t3_ch2_q3.toLowerCase().includes("assiduite")) || (@rep_t3_ch2_q3.toLowerCase().includes("présence")) || (@rep_t3_ch2_q3.toLowerCase().includes("presence")) || (@rep_t3_ch2_q3.toLowerCase().includes("obligatoire")) || (@rep_t3_ch2_q3.toLowerCase().includes("veiller")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -150546,7 +150546,7 @@ En quelle année débute la Révolution française ?
 
 > `@rep_t4_ch1_q1`
 
-`if (("" + @rep_t4_ch1_q1).trim() == "1789")`
+`if (@rep_t4_ch1_q1.trim() == "1789")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -150556,7 +150556,7 @@ La Révolution française débute en 1789.
 1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q02)
 `endif`
 
-`if (("" + @rep_t4_ch1_q1).trim() != "1789") && (("" + @rep_t4_ch1_q1).includes("1789"))`
+`if (@rep_t4_ch1_q1.trim() != "1789") && (@rep_t4_ch1_q1.includes("1789"))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -150570,7 +150570,7 @@ La Révolution française débute en 1789.
 3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
 `endif`
 
-`if !(("" + @rep_t4_ch1_q1).includes("1789"))`
+`if !(@rep_t4_ch1_q1.includes("1789"))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -150606,7 +150606,7 @@ En quelle année la loi de séparation des Églises et de l'État a-t-elle été
 
 > `@rep_t4_ch1_q2`
 
-`if (("" + @rep_t4_ch1_q2).trim() == "1905")`
+`if (@rep_t4_ch1_q2.trim() == "1905")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -150616,7 +150616,7 @@ La loi de séparation des Églises et de l'État a été adoptée en 1905.
 1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q03)
 `endif`
 
-`if (("" + @rep_t4_ch1_q2).trim() != "1905") && (("" + @rep_t4_ch1_q2).includes("1905"))`
+`if (@rep_t4_ch1_q2.trim() != "1905") && (@rep_t4_ch1_q2.includes("1905"))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -150630,7 +150630,7 @@ La loi de séparation des Églises et de l'État a été adoptée en 1905.
 3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
 `endif`
 
-`if !(("" + @rep_t4_ch1_q2).includes("1905"))`
+`if !(@rep_t4_ch1_q2.includes("1905"))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -150666,7 +150666,7 @@ Que se passe-t-il en 1958 dans l'histoire politique française ?
 
 > `@rep_t4_ch1_q3`
 
-`if ((("" + @rep_t4_ch1_q3).toLowerCase().includes("1958")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("cinquième république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("5e république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("ve république"))) && ((("" + @rep_t4_ch1_q3).toLowerCase().includes("constitution")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("republique")))`
+`if ((@rep_t4_ch1_q3.toLowerCase().includes("1958")) || (@rep_t4_ch1_q3.toLowerCase().includes("cinquième république")) || (@rep_t4_ch1_q3.toLowerCase().includes("5e république")) || (@rep_t4_ch1_q3.toLowerCase().includes("ve république"))) && ((@rep_t4_ch1_q3.toLowerCase().includes("constitution")) || (@rep_t4_ch1_q3.toLowerCase().includes("république")) || (@rep_t4_ch1_q3.toLowerCase().includes("republique")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -150676,7 +150676,7 @@ En 1958 naît la Ve République et sa Constitution est adoptée.
 1. [✅ Terminer le chapitre](SCR_REV_T4_CH01_FIN)
 `endif`
 
-`if !(((("" + @rep_t4_ch1_q3).toLowerCase().includes("1958")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("cinquième république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("5e république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("ve république"))) && ((("" + @rep_t4_ch1_q3).toLowerCase().includes("constitution")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("republique")))) && ((("" + @rep_t4_ch1_q3).toLowerCase().includes("1958")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("cinquième république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("5e république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("ve république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("constitution")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("republique")))`
+`if !(((@rep_t4_ch1_q3.toLowerCase().includes("1958")) || (@rep_t4_ch1_q3.toLowerCase().includes("cinquième république")) || (@rep_t4_ch1_q3.toLowerCase().includes("5e république")) || (@rep_t4_ch1_q3.toLowerCase().includes("ve république"))) && ((@rep_t4_ch1_q3.toLowerCase().includes("constitution")) || (@rep_t4_ch1_q3.toLowerCase().includes("république")) || (@rep_t4_ch1_q3.toLowerCase().includes("republique")))) && ((@rep_t4_ch1_q3.toLowerCase().includes("1958")) || (@rep_t4_ch1_q3.toLowerCase().includes("cinquième république")) || (@rep_t4_ch1_q3.toLowerCase().includes("5e république")) || (@rep_t4_ch1_q3.toLowerCase().includes("ve république")) || (@rep_t4_ch1_q3.toLowerCase().includes("constitution")) || (@rep_t4_ch1_q3.toLowerCase().includes("république")) || (@rep_t4_ch1_q3.toLowerCase().includes("republique")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -150690,7 +150690,7 @@ En 1958 naît la Ve République et sa Constitution est adoptée.
 3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t4_ch1_q3).toLowerCase().includes("1958")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("cinquième république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("5e république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("ve république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("constitution")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("république")) || (("" + @rep_t4_ch1_q3).toLowerCase().includes("republique")))`
+`if !((@rep_t4_ch1_q3.toLowerCase().includes("1958")) || (@rep_t4_ch1_q3.toLowerCase().includes("cinquième république")) || (@rep_t4_ch1_q3.toLowerCase().includes("5e république")) || (@rep_t4_ch1_q3.toLowerCase().includes("ve république")) || (@rep_t4_ch1_q3.toLowerCase().includes("constitution")) || (@rep_t4_ch1_q3.toLowerCase().includes("république")) || (@rep_t4_ch1_q3.toLowerCase().includes("republique")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -150901,7 +150901,7 @@ Quels sont les deux grands ensembles qui composent le territoire français ?
 
 > `@rep_t4_ch2_q1`
 
-`if ((("" + @rep_t4_ch2_q1).toLowerCase().includes("métropolitaine")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("metropolitaine")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("métropole")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("metropole")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("hexagone"))) && ((("" + @rep_t4_ch2_q1).toLowerCase().includes("outre-mer")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("outre mer")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("territoires ultramarins")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("territoire ultramarin")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("drom")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("com")))`
+`if ((@rep_t4_ch2_q1.toLowerCase().includes("métropolitaine")) || (@rep_t4_ch2_q1.toLowerCase().includes("metropolitaine")) || (@rep_t4_ch2_q1.toLowerCase().includes("métropole")) || (@rep_t4_ch2_q1.toLowerCase().includes("metropole")) || (@rep_t4_ch2_q1.toLowerCase().includes("hexagone"))) && ((@rep_t4_ch2_q1.toLowerCase().includes("outre-mer")) || (@rep_t4_ch2_q1.toLowerCase().includes("outre mer")) || (@rep_t4_ch2_q1.toLowerCase().includes("territoires ultramarins")) || (@rep_t4_ch2_q1.toLowerCase().includes("territoire ultramarin")) || (@rep_t4_ch2_q1.toLowerCase().includes("drom")) || (@rep_t4_ch2_q1.toLowerCase().includes("com")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -150911,7 +150911,7 @@ La France métropolitaine et les territoires d’Outre-mer.
 1. [➡️ Question suivante](SCR_REV_T4_CH02_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t4_ch2_q1).toLowerCase().includes("métropolitaine")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("metropolitaine")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("métropole")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("metropole")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("hexagone"))) && ((("" + @rep_t4_ch2_q1).toLowerCase().includes("outre-mer")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("outre mer")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("territoires ultramarins")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("territoire ultramarin")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("drom")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("com")))) && ((("" + @rep_t4_ch2_q1).toLowerCase().includes("métropolitaine")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("metropolitaine")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("métropole")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("metropole")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("hexagone")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("outre-mer")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("outre mer")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("territoires ultramarins")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("territoire ultramarin")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("drom")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("com")))`
+`if !(((@rep_t4_ch2_q1.toLowerCase().includes("métropolitaine")) || (@rep_t4_ch2_q1.toLowerCase().includes("metropolitaine")) || (@rep_t4_ch2_q1.toLowerCase().includes("métropole")) || (@rep_t4_ch2_q1.toLowerCase().includes("metropole")) || (@rep_t4_ch2_q1.toLowerCase().includes("hexagone"))) && ((@rep_t4_ch2_q1.toLowerCase().includes("outre-mer")) || (@rep_t4_ch2_q1.toLowerCase().includes("outre mer")) || (@rep_t4_ch2_q1.toLowerCase().includes("territoires ultramarins")) || (@rep_t4_ch2_q1.toLowerCase().includes("territoire ultramarin")) || (@rep_t4_ch2_q1.toLowerCase().includes("drom")) || (@rep_t4_ch2_q1.toLowerCase().includes("com")))) && ((@rep_t4_ch2_q1.toLowerCase().includes("métropolitaine")) || (@rep_t4_ch2_q1.toLowerCase().includes("metropolitaine")) || (@rep_t4_ch2_q1.toLowerCase().includes("métropole")) || (@rep_t4_ch2_q1.toLowerCase().includes("metropole")) || (@rep_t4_ch2_q1.toLowerCase().includes("hexagone")) || (@rep_t4_ch2_q1.toLowerCase().includes("outre-mer")) || (@rep_t4_ch2_q1.toLowerCase().includes("outre mer")) || (@rep_t4_ch2_q1.toLowerCase().includes("territoires ultramarins")) || (@rep_t4_ch2_q1.toLowerCase().includes("territoire ultramarin")) || (@rep_t4_ch2_q1.toLowerCase().includes("drom")) || (@rep_t4_ch2_q1.toLowerCase().includes("com")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -150925,7 +150925,7 @@ La France métropolitaine et les territoires d’Outre-mer.
 3. [📖 Revoir le cours](SCR_REV_T4_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t4_ch2_q1).toLowerCase().includes("métropolitaine")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("metropolitaine")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("métropole")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("metropole")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("hexagone")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("outre-mer")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("outre mer")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("territoires ultramarins")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("territoire ultramarin")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("drom")) || (("" + @rep_t4_ch2_q1).toLowerCase().includes("com")))`
+`if !((@rep_t4_ch2_q1.toLowerCase().includes("métropolitaine")) || (@rep_t4_ch2_q1.toLowerCase().includes("metropolitaine")) || (@rep_t4_ch2_q1.toLowerCase().includes("métropole")) || (@rep_t4_ch2_q1.toLowerCase().includes("metropole")) || (@rep_t4_ch2_q1.toLowerCase().includes("hexagone")) || (@rep_t4_ch2_q1.toLowerCase().includes("outre-mer")) || (@rep_t4_ch2_q1.toLowerCase().includes("outre mer")) || (@rep_t4_ch2_q1.toLowerCase().includes("territoires ultramarins")) || (@rep_t4_ch2_q1.toLowerCase().includes("territoire ultramarin")) || (@rep_t4_ch2_q1.toLowerCase().includes("drom")) || (@rep_t4_ch2_q1.toLowerCase().includes("com")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -150961,7 +150961,7 @@ Citez un grand fleuve français.
 
 > `@rep_t4_ch2_q2`
 
-`if ((("" + @rep_t4_ch2_q2).toLowerCase().includes("seine")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("loire")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("garonne")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhône")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhone")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhin")))`
+`if ((@rep_t4_ch2_q2.toLowerCase().includes("seine")) || (@rep_t4_ch2_q2.toLowerCase().includes("loire")) || (@rep_t4_ch2_q2.toLowerCase().includes("garonne")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhône")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhone")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhin")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -150971,7 +150971,7 @@ Par exemple : la Seine, la Loire, la Garonne, le Rhône ou le Rhin.
 1. [➡️ Question suivante](SCR_REV_T4_CH02_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t4_ch2_q2).toLowerCase().includes("seine")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("loire")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("garonne")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhône")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhone")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhin")))) && ((("" + @rep_t4_ch2_q2).toLowerCase().includes("seine")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("loire")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("garonne")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhône")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhone")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhin")))`
+`if !(((@rep_t4_ch2_q2.toLowerCase().includes("seine")) || (@rep_t4_ch2_q2.toLowerCase().includes("loire")) || (@rep_t4_ch2_q2.toLowerCase().includes("garonne")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhône")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhone")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhin")))) && ((@rep_t4_ch2_q2.toLowerCase().includes("seine")) || (@rep_t4_ch2_q2.toLowerCase().includes("loire")) || (@rep_t4_ch2_q2.toLowerCase().includes("garonne")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhône")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhone")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhin")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -150985,7 +150985,7 @@ Par exemple : la Seine, la Loire, la Garonne, le Rhône ou le Rhin.
 3. [📖 Revoir le cours](SCR_REV_T4_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t4_ch2_q2).toLowerCase().includes("seine")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("loire")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("garonne")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhône")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhone")) || (("" + @rep_t4_ch2_q2).toLowerCase().includes("rhin")))`
+`if !((@rep_t4_ch2_q2.toLowerCase().includes("seine")) || (@rep_t4_ch2_q2.toLowerCase().includes("loire")) || (@rep_t4_ch2_q2.toLowerCase().includes("garonne")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhône")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhone")) || (@rep_t4_ch2_q2.toLowerCase().includes("rhin")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -151021,7 +151021,7 @@ Où se trouvent les Alpes et les Pyrénées ?
 
 > `@rep_t4_ch2_q3`
 
-`if ((("" + @rep_t4_ch2_q3).toLowerCase().includes("alpes")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud-est")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud est"))) && ((("" + @rep_t4_ch2_q3).toLowerCase().includes("pyrénées")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("pyrenees")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud-ouest")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud ouest")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("espagne")))`
+`if ((@rep_t4_ch2_q3.toLowerCase().includes("alpes")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud-est")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud est"))) && ((@rep_t4_ch2_q3.toLowerCase().includes("pyrénées")) || (@rep_t4_ch2_q3.toLowerCase().includes("pyrenees")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud-ouest")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud ouest")) || (@rep_t4_ch2_q3.toLowerCase().includes("espagne")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -151031,7 +151031,7 @@ Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à 
 1. [✅ Terminer le chapitre](SCR_REV_T4_CH02_FIN)
 `endif`
 
-`if !(((("" + @rep_t4_ch2_q3).toLowerCase().includes("alpes")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud-est")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud est"))) && ((("" + @rep_t4_ch2_q3).toLowerCase().includes("pyrénées")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("pyrenees")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud-ouest")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud ouest")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("espagne")))) && ((("" + @rep_t4_ch2_q3).toLowerCase().includes("alpes")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud-est")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud est")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("pyrénées")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("pyrenees")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud-ouest")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud ouest")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("espagne")))`
+`if !(((@rep_t4_ch2_q3.toLowerCase().includes("alpes")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud-est")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud est"))) && ((@rep_t4_ch2_q3.toLowerCase().includes("pyrénées")) || (@rep_t4_ch2_q3.toLowerCase().includes("pyrenees")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud-ouest")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud ouest")) || (@rep_t4_ch2_q3.toLowerCase().includes("espagne")))) && ((@rep_t4_ch2_q3.toLowerCase().includes("alpes")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud-est")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud est")) || (@rep_t4_ch2_q3.toLowerCase().includes("pyrénées")) || (@rep_t4_ch2_q3.toLowerCase().includes("pyrenees")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud-ouest")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud ouest")) || (@rep_t4_ch2_q3.toLowerCase().includes("espagne")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -151045,7 +151045,7 @@ Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à 
 3. [📖 Revoir le cours](SCR_REV_T4_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t4_ch2_q3).toLowerCase().includes("alpes")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud-est")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud est")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("pyrénées")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("pyrenees")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud-ouest")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("sud ouest")) || (("" + @rep_t4_ch2_q3).toLowerCase().includes("espagne")))`
+`if !((@rep_t4_ch2_q3.toLowerCase().includes("alpes")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud-est")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud est")) || (@rep_t4_ch2_q3.toLowerCase().includes("pyrénées")) || (@rep_t4_ch2_q3.toLowerCase().includes("pyrenees")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud-ouest")) || (@rep_t4_ch2_q3.toLowerCase().includes("sud ouest")) || (@rep_t4_ch2_q3.toLowerCase().includes("espagne")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -151254,7 +151254,7 @@ Quels sont les principaux éléments qui composent le patrimoine culturel franç
 
 > `@rep_t4_ch3_q1`
 
-`if ((("" + @rep_t4_ch3_q1).toLowerCase().includes("monument")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("patrimoine bâti")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("patrimoine bati")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("édifice")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("edifice"))) && ((("" + @rep_t4_ch3_q1).toLowerCase().includes("œuvre")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("oeuvre")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("art")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("création artistique")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("creation artistique")))`
+`if ((@rep_t4_ch3_q1.toLowerCase().includes("monument")) || (@rep_t4_ch3_q1.toLowerCase().includes("patrimoine bâti")) || (@rep_t4_ch3_q1.toLowerCase().includes("patrimoine bati")) || (@rep_t4_ch3_q1.toLowerCase().includes("édifice")) || (@rep_t4_ch3_q1.toLowerCase().includes("edifice"))) && ((@rep_t4_ch3_q1.toLowerCase().includes("œuvre")) || (@rep_t4_ch3_q1.toLowerCase().includes("oeuvre")) || (@rep_t4_ch3_q1.toLowerCase().includes("art")) || (@rep_t4_ch3_q1.toLowerCase().includes("création artistique")) || (@rep_t4_ch3_q1.toLowerCase().includes("creation artistique")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -151264,7 +151264,7 @@ Les monuments, les œuvres artistiques, la langue française, les traditions, la
 1. [➡️ Question suivante](SCR_REV_T4_CH03_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t4_ch3_q1).toLowerCase().includes("monument")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("patrimoine bâti")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("patrimoine bati")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("édifice")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("edifice"))) && ((("" + @rep_t4_ch3_q1).toLowerCase().includes("œuvre")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("oeuvre")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("art")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("création artistique")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("creation artistique")))) && ((("" + @rep_t4_ch3_q1).toLowerCase().includes("monument")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("patrimoine bâti")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("patrimoine bati")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("édifice")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("edifice")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("œuvre")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("oeuvre")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("art")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("création artistique")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("creation artistique")))`
+`if !(((@rep_t4_ch3_q1.toLowerCase().includes("monument")) || (@rep_t4_ch3_q1.toLowerCase().includes("patrimoine bâti")) || (@rep_t4_ch3_q1.toLowerCase().includes("patrimoine bati")) || (@rep_t4_ch3_q1.toLowerCase().includes("édifice")) || (@rep_t4_ch3_q1.toLowerCase().includes("edifice"))) && ((@rep_t4_ch3_q1.toLowerCase().includes("œuvre")) || (@rep_t4_ch3_q1.toLowerCase().includes("oeuvre")) || (@rep_t4_ch3_q1.toLowerCase().includes("art")) || (@rep_t4_ch3_q1.toLowerCase().includes("création artistique")) || (@rep_t4_ch3_q1.toLowerCase().includes("creation artistique")))) && ((@rep_t4_ch3_q1.toLowerCase().includes("monument")) || (@rep_t4_ch3_q1.toLowerCase().includes("patrimoine bâti")) || (@rep_t4_ch3_q1.toLowerCase().includes("patrimoine bati")) || (@rep_t4_ch3_q1.toLowerCase().includes("édifice")) || (@rep_t4_ch3_q1.toLowerCase().includes("edifice")) || (@rep_t4_ch3_q1.toLowerCase().includes("œuvre")) || (@rep_t4_ch3_q1.toLowerCase().includes("oeuvre")) || (@rep_t4_ch3_q1.toLowerCase().includes("art")) || (@rep_t4_ch3_q1.toLowerCase().includes("création artistique")) || (@rep_t4_ch3_q1.toLowerCase().includes("creation artistique")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -151278,7 +151278,7 @@ Les monuments, les œuvres artistiques, la langue française, les traditions, la
 3. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t4_ch3_q1).toLowerCase().includes("monument")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("patrimoine bâti")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("patrimoine bati")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("édifice")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("edifice")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("œuvre")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("oeuvre")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("art")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("création artistique")) || (("" + @rep_t4_ch3_q1).toLowerCase().includes("creation artistique")))`
+`if !((@rep_t4_ch3_q1.toLowerCase().includes("monument")) || (@rep_t4_ch3_q1.toLowerCase().includes("patrimoine bâti")) || (@rep_t4_ch3_q1.toLowerCase().includes("patrimoine bati")) || (@rep_t4_ch3_q1.toLowerCase().includes("édifice")) || (@rep_t4_ch3_q1.toLowerCase().includes("edifice")) || (@rep_t4_ch3_q1.toLowerCase().includes("œuvre")) || (@rep_t4_ch3_q1.toLowerCase().includes("oeuvre")) || (@rep_t4_ch3_q1.toLowerCase().includes("art")) || (@rep_t4_ch3_q1.toLowerCase().includes("création artistique")) || (@rep_t4_ch3_q1.toLowerCase().includes("creation artistique")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -151314,7 +151314,7 @@ Citez deux éléments du patrimoine culturel français.
 
 > `@rep_t4_ch3_q2`
 
-`if ((("" + @rep_t4_ch3_q2).toLowerCase().includes("monument")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("musée")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("musee")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("œuvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("oeuvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("tradition")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("gastronomie")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("langue")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("littérature")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("litterature"))) && ((("" + @rep_t4_ch3_q2).toLowerCase().includes("tour eiffel")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("louvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("notre-dame")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("château")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("chateau")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("peinture")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cinéma")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cinema")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cuisine")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("français")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("francais")))`
+`if ((@rep_t4_ch3_q2.toLowerCase().includes("monument")) || (@rep_t4_ch3_q2.toLowerCase().includes("musée")) || (@rep_t4_ch3_q2.toLowerCase().includes("musee")) || (@rep_t4_ch3_q2.toLowerCase().includes("œuvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("oeuvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("tradition")) || (@rep_t4_ch3_q2.toLowerCase().includes("gastronomie")) || (@rep_t4_ch3_q2.toLowerCase().includes("langue")) || (@rep_t4_ch3_q2.toLowerCase().includes("littérature")) || (@rep_t4_ch3_q2.toLowerCase().includes("litterature"))) && ((@rep_t4_ch3_q2.toLowerCase().includes("tour eiffel")) || (@rep_t4_ch3_q2.toLowerCase().includes("louvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("notre-dame")) || (@rep_t4_ch3_q2.toLowerCase().includes("château")) || (@rep_t4_ch3_q2.toLowerCase().includes("chateau")) || (@rep_t4_ch3_q2.toLowerCase().includes("peinture")) || (@rep_t4_ch3_q2.toLowerCase().includes("cinéma")) || (@rep_t4_ch3_q2.toLowerCase().includes("cinema")) || (@rep_t4_ch3_q2.toLowerCase().includes("cuisine")) || (@rep_t4_ch3_q2.toLowerCase().includes("français")) || (@rep_t4_ch3_q2.toLowerCase().includes("francais")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -151324,7 +151324,7 @@ Par exemple : un monument, un musée, une œuvre, une tradition, la gastronomie 
 1. [➡️ Question suivante](SCR_REV_T4_CH03_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t4_ch3_q2).toLowerCase().includes("monument")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("musée")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("musee")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("œuvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("oeuvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("tradition")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("gastronomie")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("langue")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("littérature")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("litterature"))) && ((("" + @rep_t4_ch3_q2).toLowerCase().includes("tour eiffel")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("louvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("notre-dame")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("château")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("chateau")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("peinture")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cinéma")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cinema")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cuisine")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("français")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("francais")))) && ((("" + @rep_t4_ch3_q2).toLowerCase().includes("monument")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("musée")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("musee")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("œuvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("oeuvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("tradition")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("gastronomie")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("langue")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("littérature")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("litterature")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("tour eiffel")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("louvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("notre-dame")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("château")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("chateau")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("peinture")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cinéma")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cinema")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cuisine")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("français")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("francais")))`
+`if !(((@rep_t4_ch3_q2.toLowerCase().includes("monument")) || (@rep_t4_ch3_q2.toLowerCase().includes("musée")) || (@rep_t4_ch3_q2.toLowerCase().includes("musee")) || (@rep_t4_ch3_q2.toLowerCase().includes("œuvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("oeuvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("tradition")) || (@rep_t4_ch3_q2.toLowerCase().includes("gastronomie")) || (@rep_t4_ch3_q2.toLowerCase().includes("langue")) || (@rep_t4_ch3_q2.toLowerCase().includes("littérature")) || (@rep_t4_ch3_q2.toLowerCase().includes("litterature"))) && ((@rep_t4_ch3_q2.toLowerCase().includes("tour eiffel")) || (@rep_t4_ch3_q2.toLowerCase().includes("louvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("notre-dame")) || (@rep_t4_ch3_q2.toLowerCase().includes("château")) || (@rep_t4_ch3_q2.toLowerCase().includes("chateau")) || (@rep_t4_ch3_q2.toLowerCase().includes("peinture")) || (@rep_t4_ch3_q2.toLowerCase().includes("cinéma")) || (@rep_t4_ch3_q2.toLowerCase().includes("cinema")) || (@rep_t4_ch3_q2.toLowerCase().includes("cuisine")) || (@rep_t4_ch3_q2.toLowerCase().includes("français")) || (@rep_t4_ch3_q2.toLowerCase().includes("francais")))) && ((@rep_t4_ch3_q2.toLowerCase().includes("monument")) || (@rep_t4_ch3_q2.toLowerCase().includes("musée")) || (@rep_t4_ch3_q2.toLowerCase().includes("musee")) || (@rep_t4_ch3_q2.toLowerCase().includes("œuvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("oeuvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("tradition")) || (@rep_t4_ch3_q2.toLowerCase().includes("gastronomie")) || (@rep_t4_ch3_q2.toLowerCase().includes("langue")) || (@rep_t4_ch3_q2.toLowerCase().includes("littérature")) || (@rep_t4_ch3_q2.toLowerCase().includes("litterature")) || (@rep_t4_ch3_q2.toLowerCase().includes("tour eiffel")) || (@rep_t4_ch3_q2.toLowerCase().includes("louvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("notre-dame")) || (@rep_t4_ch3_q2.toLowerCase().includes("château")) || (@rep_t4_ch3_q2.toLowerCase().includes("chateau")) || (@rep_t4_ch3_q2.toLowerCase().includes("peinture")) || (@rep_t4_ch3_q2.toLowerCase().includes("cinéma")) || (@rep_t4_ch3_q2.toLowerCase().includes("cinema")) || (@rep_t4_ch3_q2.toLowerCase().includes("cuisine")) || (@rep_t4_ch3_q2.toLowerCase().includes("français")) || (@rep_t4_ch3_q2.toLowerCase().includes("francais")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -151338,7 +151338,7 @@ Par exemple : un monument, un musée, une œuvre, une tradition, la gastronomie 
 3. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t4_ch3_q2).toLowerCase().includes("monument")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("musée")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("musee")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("œuvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("oeuvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("tradition")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("gastronomie")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("langue")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("littérature")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("litterature")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("tour eiffel")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("louvre")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("notre-dame")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("château")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("chateau")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("peinture")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cinéma")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cinema")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("cuisine")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("français")) || (("" + @rep_t4_ch3_q2).toLowerCase().includes("francais")))`
+`if !((@rep_t4_ch3_q2.toLowerCase().includes("monument")) || (@rep_t4_ch3_q2.toLowerCase().includes("musée")) || (@rep_t4_ch3_q2.toLowerCase().includes("musee")) || (@rep_t4_ch3_q2.toLowerCase().includes("œuvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("oeuvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("tradition")) || (@rep_t4_ch3_q2.toLowerCase().includes("gastronomie")) || (@rep_t4_ch3_q2.toLowerCase().includes("langue")) || (@rep_t4_ch3_q2.toLowerCase().includes("littérature")) || (@rep_t4_ch3_q2.toLowerCase().includes("litterature")) || (@rep_t4_ch3_q2.toLowerCase().includes("tour eiffel")) || (@rep_t4_ch3_q2.toLowerCase().includes("louvre")) || (@rep_t4_ch3_q2.toLowerCase().includes("notre-dame")) || (@rep_t4_ch3_q2.toLowerCase().includes("château")) || (@rep_t4_ch3_q2.toLowerCase().includes("chateau")) || (@rep_t4_ch3_q2.toLowerCase().includes("peinture")) || (@rep_t4_ch3_q2.toLowerCase().includes("cinéma")) || (@rep_t4_ch3_q2.toLowerCase().includes("cinema")) || (@rep_t4_ch3_q2.toLowerCase().includes("cuisine")) || (@rep_t4_ch3_q2.toLowerCase().includes("français")) || (@rep_t4_ch3_q2.toLowerCase().includes("francais")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -151374,7 +151374,7 @@ Quel est le rôle de l'UNESCO pour le patrimoine ?
 
 > `@rep_t4_ch3_q3`
 
-`if ((("" + @rep_t4_ch3_q3).toLowerCase().includes("protèg")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("proteg")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("préserv")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("preserv")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("sauvegard"))) && ((("" + @rep_t4_ch3_q3).toLowerCase().includes("patrimoine")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("culturel")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("naturel")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("site")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("bien")))`
+`if ((@rep_t4_ch3_q3.toLowerCase().includes("protèg")) || (@rep_t4_ch3_q3.toLowerCase().includes("proteg")) || (@rep_t4_ch3_q3.toLowerCase().includes("préserv")) || (@rep_t4_ch3_q3.toLowerCase().includes("preserv")) || (@rep_t4_ch3_q3.toLowerCase().includes("sauvegard"))) && ((@rep_t4_ch3_q3.toLowerCase().includes("patrimoine")) || (@rep_t4_ch3_q3.toLowerCase().includes("culturel")) || (@rep_t4_ch3_q3.toLowerCase().includes("naturel")) || (@rep_t4_ch3_q3.toLowerCase().includes("site")) || (@rep_t4_ch3_q3.toLowerCase().includes("bien")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -151384,7 +151384,7 @@ L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'u
 1. [✅ Terminer le chapitre](SCR_REV_T4_CH03_FIN)
 `endif`
 
-`if !(((("" + @rep_t4_ch3_q3).toLowerCase().includes("protèg")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("proteg")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("préserv")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("preserv")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("sauvegard"))) && ((("" + @rep_t4_ch3_q3).toLowerCase().includes("patrimoine")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("culturel")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("naturel")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("site")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("bien")))) && ((("" + @rep_t4_ch3_q3).toLowerCase().includes("protèg")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("proteg")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("préserv")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("preserv")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("sauvegard")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("patrimoine")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("culturel")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("naturel")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("site")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("bien")))`
+`if !(((@rep_t4_ch3_q3.toLowerCase().includes("protèg")) || (@rep_t4_ch3_q3.toLowerCase().includes("proteg")) || (@rep_t4_ch3_q3.toLowerCase().includes("préserv")) || (@rep_t4_ch3_q3.toLowerCase().includes("preserv")) || (@rep_t4_ch3_q3.toLowerCase().includes("sauvegard"))) && ((@rep_t4_ch3_q3.toLowerCase().includes("patrimoine")) || (@rep_t4_ch3_q3.toLowerCase().includes("culturel")) || (@rep_t4_ch3_q3.toLowerCase().includes("naturel")) || (@rep_t4_ch3_q3.toLowerCase().includes("site")) || (@rep_t4_ch3_q3.toLowerCase().includes("bien")))) && ((@rep_t4_ch3_q3.toLowerCase().includes("protèg")) || (@rep_t4_ch3_q3.toLowerCase().includes("proteg")) || (@rep_t4_ch3_q3.toLowerCase().includes("préserv")) || (@rep_t4_ch3_q3.toLowerCase().includes("preserv")) || (@rep_t4_ch3_q3.toLowerCase().includes("sauvegard")) || (@rep_t4_ch3_q3.toLowerCase().includes("patrimoine")) || (@rep_t4_ch3_q3.toLowerCase().includes("culturel")) || (@rep_t4_ch3_q3.toLowerCase().includes("naturel")) || (@rep_t4_ch3_q3.toLowerCase().includes("site")) || (@rep_t4_ch3_q3.toLowerCase().includes("bien")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -151398,7 +151398,7 @@ L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'u
 3. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t4_ch3_q3).toLowerCase().includes("protèg")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("proteg")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("préserv")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("preserv")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("sauvegard")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("patrimoine")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("culturel")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("naturel")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("site")) || (("" + @rep_t4_ch3_q3).toLowerCase().includes("bien")))`
+`if !((@rep_t4_ch3_q3.toLowerCase().includes("protèg")) || (@rep_t4_ch3_q3.toLowerCase().includes("proteg")) || (@rep_t4_ch3_q3.toLowerCase().includes("préserv")) || (@rep_t4_ch3_q3.toLowerCase().includes("preserv")) || (@rep_t4_ch3_q3.toLowerCase().includes("sauvegard")) || (@rep_t4_ch3_q3.toLowerCase().includes("patrimoine")) || (@rep_t4_ch3_q3.toLowerCase().includes("culturel")) || (@rep_t4_ch3_q3.toLowerCase().includes("naturel")) || (@rep_t4_ch3_q3.toLowerCase().includes("site")) || (@rep_t4_ch3_q3.toLowerCase().includes("bien")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -151639,7 +151639,7 @@ Pourquoi est-il important d'avoir une domiciliation ?
 
 > `@rep_t5_ch1_q1`
 
-`if ((("" + @rep_t5_ch1_q1).toLowerCase().includes("adresse")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("domiciliation")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("domicile"))) && ((("" + @rep_t5_ch1_q1).toLowerCase().includes("courrier")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("lettre")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("correspondance"))) && ((("" + @rep_t5_ch1_q1).toLowerCase().includes("droit")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("aide")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("démarche")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("demarche")))`
+`if ((@rep_t5_ch1_q1.toLowerCase().includes("adresse")) || (@rep_t5_ch1_q1.toLowerCase().includes("domiciliation")) || (@rep_t5_ch1_q1.toLowerCase().includes("domicile"))) && ((@rep_t5_ch1_q1.toLowerCase().includes("courrier")) || (@rep_t5_ch1_q1.toLowerCase().includes("lettre")) || (@rep_t5_ch1_q1.toLowerCase().includes("correspondance"))) && ((@rep_t5_ch1_q1.toLowerCase().includes("droit")) || (@rep_t5_ch1_q1.toLowerCase().includes("aide")) || (@rep_t5_ch1_q1.toLowerCase().includes("démarche")) || (@rep_t5_ch1_q1.toLowerCase().includes("demarche")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -151649,7 +151649,7 @@ La domiciliation donne une adresse administrative pour recevoir son courrier et 
 1. [➡️ Question suivante](SCR_REV_T5_CH01_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t5_ch1_q1).toLowerCase().includes("adresse")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("domiciliation")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("domicile"))) && ((("" + @rep_t5_ch1_q1).toLowerCase().includes("courrier")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("lettre")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("correspondance"))) && ((("" + @rep_t5_ch1_q1).toLowerCase().includes("droit")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("aide")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("démarche")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("demarche")))) && ((("" + @rep_t5_ch1_q1).toLowerCase().includes("adresse")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("domiciliation")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("domicile")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("courrier")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("lettre")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("correspondance")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("droit")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("aide")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("démarche")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("demarche")))`
+`if !(((@rep_t5_ch1_q1.toLowerCase().includes("adresse")) || (@rep_t5_ch1_q1.toLowerCase().includes("domiciliation")) || (@rep_t5_ch1_q1.toLowerCase().includes("domicile"))) && ((@rep_t5_ch1_q1.toLowerCase().includes("courrier")) || (@rep_t5_ch1_q1.toLowerCase().includes("lettre")) || (@rep_t5_ch1_q1.toLowerCase().includes("correspondance"))) && ((@rep_t5_ch1_q1.toLowerCase().includes("droit")) || (@rep_t5_ch1_q1.toLowerCase().includes("aide")) || (@rep_t5_ch1_q1.toLowerCase().includes("démarche")) || (@rep_t5_ch1_q1.toLowerCase().includes("demarche")))) && ((@rep_t5_ch1_q1.toLowerCase().includes("adresse")) || (@rep_t5_ch1_q1.toLowerCase().includes("domiciliation")) || (@rep_t5_ch1_q1.toLowerCase().includes("domicile")) || (@rep_t5_ch1_q1.toLowerCase().includes("courrier")) || (@rep_t5_ch1_q1.toLowerCase().includes("lettre")) || (@rep_t5_ch1_q1.toLowerCase().includes("correspondance")) || (@rep_t5_ch1_q1.toLowerCase().includes("droit")) || (@rep_t5_ch1_q1.toLowerCase().includes("aide")) || (@rep_t5_ch1_q1.toLowerCase().includes("démarche")) || (@rep_t5_ch1_q1.toLowerCase().includes("demarche")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -151663,7 +151663,7 @@ La domiciliation donne une adresse administrative pour recevoir son courrier et 
 3. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch1_q1).toLowerCase().includes("adresse")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("domiciliation")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("domicile")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("courrier")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("lettre")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("correspondance")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("droit")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("aide")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("démarche")) || (("" + @rep_t5_ch1_q1).toLowerCase().includes("demarche")))`
+`if !((@rep_t5_ch1_q1.toLowerCase().includes("adresse")) || (@rep_t5_ch1_q1.toLowerCase().includes("domiciliation")) || (@rep_t5_ch1_q1.toLowerCase().includes("domicile")) || (@rep_t5_ch1_q1.toLowerCase().includes("courrier")) || (@rep_t5_ch1_q1.toLowerCase().includes("lettre")) || (@rep_t5_ch1_q1.toLowerCase().includes("correspondance")) || (@rep_t5_ch1_q1.toLowerCase().includes("droit")) || (@rep_t5_ch1_q1.toLowerCase().includes("aide")) || (@rep_t5_ch1_q1.toLowerCase().includes("démarche")) || (@rep_t5_ch1_q1.toLowerCase().includes("demarche")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -151699,7 +151699,7 @@ Quels documents sont généralement nécessaires pour ouvrir un compte bancaire 
 
 > `@rep_t5_ch1_q2`
 
-`if ((("" + @rep_t5_ch1_q2).toLowerCase().includes("identité")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("identite")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("passeport")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("titre de séjour")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("titre de sejour"))) && ((("" + @rep_t5_ch1_q2).toLowerCase().includes("domicile")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("adresse")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("justificatif")))`
+`if ((@rep_t5_ch1_q2.toLowerCase().includes("identité")) || (@rep_t5_ch1_q2.toLowerCase().includes("identite")) || (@rep_t5_ch1_q2.toLowerCase().includes("passeport")) || (@rep_t5_ch1_q2.toLowerCase().includes("titre de séjour")) || (@rep_t5_ch1_q2.toLowerCase().includes("titre de sejour"))) && ((@rep_t5_ch1_q2.toLowerCase().includes("domicile")) || (@rep_t5_ch1_q2.toLowerCase().includes("adresse")) || (@rep_t5_ch1_q2.toLowerCase().includes("justificatif")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -151709,7 +151709,7 @@ Une pièce d'identité et un justificatif de domicile sont généralement demand
 1. [➡️ Question suivante](SCR_REV_T5_CH01_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t5_ch1_q2).toLowerCase().includes("identité")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("identite")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("passeport")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("titre de séjour")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("titre de sejour"))) && ((("" + @rep_t5_ch1_q2).toLowerCase().includes("domicile")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("adresse")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("justificatif")))) && ((("" + @rep_t5_ch1_q2).toLowerCase().includes("identité")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("identite")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("passeport")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("titre de séjour")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("titre de sejour")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("domicile")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("adresse")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("justificatif")))`
+`if !(((@rep_t5_ch1_q2.toLowerCase().includes("identité")) || (@rep_t5_ch1_q2.toLowerCase().includes("identite")) || (@rep_t5_ch1_q2.toLowerCase().includes("passeport")) || (@rep_t5_ch1_q2.toLowerCase().includes("titre de séjour")) || (@rep_t5_ch1_q2.toLowerCase().includes("titre de sejour"))) && ((@rep_t5_ch1_q2.toLowerCase().includes("domicile")) || (@rep_t5_ch1_q2.toLowerCase().includes("adresse")) || (@rep_t5_ch1_q2.toLowerCase().includes("justificatif")))) && ((@rep_t5_ch1_q2.toLowerCase().includes("identité")) || (@rep_t5_ch1_q2.toLowerCase().includes("identite")) || (@rep_t5_ch1_q2.toLowerCase().includes("passeport")) || (@rep_t5_ch1_q2.toLowerCase().includes("titre de séjour")) || (@rep_t5_ch1_q2.toLowerCase().includes("titre de sejour")) || (@rep_t5_ch1_q2.toLowerCase().includes("domicile")) || (@rep_t5_ch1_q2.toLowerCase().includes("adresse")) || (@rep_t5_ch1_q2.toLowerCase().includes("justificatif")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -151723,7 +151723,7 @@ Une pièce d'identité et un justificatif de domicile sont généralement demand
 3. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch1_q2).toLowerCase().includes("identité")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("identite")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("passeport")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("titre de séjour")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("titre de sejour")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("domicile")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("adresse")) || (("" + @rep_t5_ch1_q2).toLowerCase().includes("justificatif")))`
+`if !((@rep_t5_ch1_q2.toLowerCase().includes("identité")) || (@rep_t5_ch1_q2.toLowerCase().includes("identite")) || (@rep_t5_ch1_q2.toLowerCase().includes("passeport")) || (@rep_t5_ch1_q2.toLowerCase().includes("titre de séjour")) || (@rep_t5_ch1_q2.toLowerCase().includes("titre de sejour")) || (@rep_t5_ch1_q2.toLowerCase().includes("domicile")) || (@rep_t5_ch1_q2.toLowerCase().includes("adresse")) || (@rep_t5_ch1_q2.toLowerCase().includes("justificatif")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -151759,7 +151759,7 @@ Une pièce d'identité et un justificatif de domicile sont généralement demand
 
 > `@rep_t5_ch1_q3`
 
-`if ((("" + @rep_t5_ch1_q3).toLowerCase().includes("titre de séjour")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("titre de sejour")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("document")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("autorisation"))) && ((("" + @rep_t5_ch1_q3).toLowerCase().includes("habiter en france")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("vivre en france")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("résider")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("resider")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("séjourner")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("sejourner"))) && ((("" + @rep_t5_ch1_q3).toLowerCase().includes("légal")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("legal")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("régulier")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("regulier")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("de manière légale")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("de maniere legale")))`
+`if ((@rep_t5_ch1_q3.toLowerCase().includes("titre de séjour")) || (@rep_t5_ch1_q3.toLowerCase().includes("titre de sejour")) || (@rep_t5_ch1_q3.toLowerCase().includes("document")) || (@rep_t5_ch1_q3.toLowerCase().includes("autorisation"))) && ((@rep_t5_ch1_q3.toLowerCase().includes("habiter en france")) || (@rep_t5_ch1_q3.toLowerCase().includes("vivre en france")) || (@rep_t5_ch1_q3.toLowerCase().includes("résider")) || (@rep_t5_ch1_q3.toLowerCase().includes("resider")) || (@rep_t5_ch1_q3.toLowerCase().includes("séjourner")) || (@rep_t5_ch1_q3.toLowerCase().includes("sejourner"))) && ((@rep_t5_ch1_q3.toLowerCase().includes("légal")) || (@rep_t5_ch1_q3.toLowerCase().includes("legal")) || (@rep_t5_ch1_q3.toLowerCase().includes("régulier")) || (@rep_t5_ch1_q3.toLowerCase().includes("regulier")) || (@rep_t5_ch1_q3.toLowerCase().includes("de manière légale")) || (@rep_t5_ch1_q3.toLowerCase().includes("de maniere legale")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -151769,7 +151769,7 @@ Il permet à une personne étrangère d'habiter ou de vivre légalement en Franc
 1. [➡️ Question suivante](SCR_REV_T5_CH01_VERIF_Q04)
 `endif`
 
-`if !(((("" + @rep_t5_ch1_q3).toLowerCase().includes("titre de séjour")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("titre de sejour")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("document")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("autorisation"))) && ((("" + @rep_t5_ch1_q3).toLowerCase().includes("habiter en france")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("vivre en france")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("résider")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("resider")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("séjourner")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("sejourner"))) && ((("" + @rep_t5_ch1_q3).toLowerCase().includes("légal")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("legal")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("régulier")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("regulier")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("de manière légale")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("de maniere legale")))) && ((("" + @rep_t5_ch1_q3).toLowerCase().includes("titre de séjour")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("titre de sejour")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("document")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("autorisation")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("habiter en france")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("vivre en france")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("résider")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("resider")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("séjourner")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("sejourner")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("légal")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("legal")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("régulier")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("regulier")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("de manière légale")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("de maniere legale")))`
+`if !(((@rep_t5_ch1_q3.toLowerCase().includes("titre de séjour")) || (@rep_t5_ch1_q3.toLowerCase().includes("titre de sejour")) || (@rep_t5_ch1_q3.toLowerCase().includes("document")) || (@rep_t5_ch1_q3.toLowerCase().includes("autorisation"))) && ((@rep_t5_ch1_q3.toLowerCase().includes("habiter en france")) || (@rep_t5_ch1_q3.toLowerCase().includes("vivre en france")) || (@rep_t5_ch1_q3.toLowerCase().includes("résider")) || (@rep_t5_ch1_q3.toLowerCase().includes("resider")) || (@rep_t5_ch1_q3.toLowerCase().includes("séjourner")) || (@rep_t5_ch1_q3.toLowerCase().includes("sejourner"))) && ((@rep_t5_ch1_q3.toLowerCase().includes("légal")) || (@rep_t5_ch1_q3.toLowerCase().includes("legal")) || (@rep_t5_ch1_q3.toLowerCase().includes("régulier")) || (@rep_t5_ch1_q3.toLowerCase().includes("regulier")) || (@rep_t5_ch1_q3.toLowerCase().includes("de manière légale")) || (@rep_t5_ch1_q3.toLowerCase().includes("de maniere legale")))) && ((@rep_t5_ch1_q3.toLowerCase().includes("titre de séjour")) || (@rep_t5_ch1_q3.toLowerCase().includes("titre de sejour")) || (@rep_t5_ch1_q3.toLowerCase().includes("document")) || (@rep_t5_ch1_q3.toLowerCase().includes("autorisation")) || (@rep_t5_ch1_q3.toLowerCase().includes("habiter en france")) || (@rep_t5_ch1_q3.toLowerCase().includes("vivre en france")) || (@rep_t5_ch1_q3.toLowerCase().includes("résider")) || (@rep_t5_ch1_q3.toLowerCase().includes("resider")) || (@rep_t5_ch1_q3.toLowerCase().includes("séjourner")) || (@rep_t5_ch1_q3.toLowerCase().includes("sejourner")) || (@rep_t5_ch1_q3.toLowerCase().includes("légal")) || (@rep_t5_ch1_q3.toLowerCase().includes("legal")) || (@rep_t5_ch1_q3.toLowerCase().includes("régulier")) || (@rep_t5_ch1_q3.toLowerCase().includes("regulier")) || (@rep_t5_ch1_q3.toLowerCase().includes("de manière légale")) || (@rep_t5_ch1_q3.toLowerCase().includes("de maniere legale")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -151783,7 +151783,7 @@ Il permet à une personne étrangère d'habiter ou de vivre légalement en Franc
 3. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch1_q3).toLowerCase().includes("titre de séjour")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("titre de sejour")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("document")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("autorisation")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("habiter en france")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("vivre en france")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("résider")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("resider")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("séjourner")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("sejourner")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("légal")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("legal")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("régulier")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("regulier")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("de manière légale")) || (("" + @rep_t5_ch1_q3).toLowerCase().includes("de maniere legale")))`
+`if !((@rep_t5_ch1_q3.toLowerCase().includes("titre de séjour")) || (@rep_t5_ch1_q3.toLowerCase().includes("titre de sejour")) || (@rep_t5_ch1_q3.toLowerCase().includes("document")) || (@rep_t5_ch1_q3.toLowerCase().includes("autorisation")) || (@rep_t5_ch1_q3.toLowerCase().includes("habiter en france")) || (@rep_t5_ch1_q3.toLowerCase().includes("vivre en france")) || (@rep_t5_ch1_q3.toLowerCase().includes("résider")) || (@rep_t5_ch1_q3.toLowerCase().includes("resider")) || (@rep_t5_ch1_q3.toLowerCase().includes("séjourner")) || (@rep_t5_ch1_q3.toLowerCase().includes("sejourner")) || (@rep_t5_ch1_q3.toLowerCase().includes("légal")) || (@rep_t5_ch1_q3.toLowerCase().includes("legal")) || (@rep_t5_ch1_q3.toLowerCase().includes("régulier")) || (@rep_t5_ch1_q3.toLowerCase().includes("regulier")) || (@rep_t5_ch1_q3.toLowerCase().includes("de manière légale")) || (@rep_t5_ch1_q3.toLowerCase().includes("de maniere legale")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -151819,7 +151819,7 @@ Il permet à une personne étrangère d'habiter ou de vivre légalement en Franc
 
 > `@rep_t5_ch1_q4`
 
-`if ((("" + @rep_t5_ch1_q4).toLowerCase().includes("état")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("etat")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("constat")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("décrit")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("decrit"))) && ((("" + @rep_t5_ch1_q4).toLowerCase().includes("entrée")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("entree")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("arrivée")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("arrivee"))) && ((("" + @rep_t5_ch1_q4).toLowerCase().includes("sortie")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("départ")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("depart")))`
+`if ((@rep_t5_ch1_q4.toLowerCase().includes("état")) || (@rep_t5_ch1_q4.toLowerCase().includes("etat")) || (@rep_t5_ch1_q4.toLowerCase().includes("constat")) || (@rep_t5_ch1_q4.toLowerCase().includes("décrit")) || (@rep_t5_ch1_q4.toLowerCase().includes("decrit"))) && ((@rep_t5_ch1_q4.toLowerCase().includes("entrée")) || (@rep_t5_ch1_q4.toLowerCase().includes("entree")) || (@rep_t5_ch1_q4.toLowerCase().includes("arrivée")) || (@rep_t5_ch1_q4.toLowerCase().includes("arrivee"))) && ((@rep_t5_ch1_q4.toLowerCase().includes("sortie")) || (@rep_t5_ch1_q4.toLowerCase().includes("départ")) || (@rep_t5_ch1_q4.toLowerCase().includes("depart")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -151829,7 +151829,7 @@ Il décrit l'état du logement à l'entrée et à la sortie afin de limiter les 
 1. [✅ Terminer le chapitre](SCR_REV_T5_CH01_FIN)
 `endif`
 
-`if !(((("" + @rep_t5_ch1_q4).toLowerCase().includes("état")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("etat")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("constat")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("décrit")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("decrit"))) && ((("" + @rep_t5_ch1_q4).toLowerCase().includes("entrée")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("entree")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("arrivée")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("arrivee"))) && ((("" + @rep_t5_ch1_q4).toLowerCase().includes("sortie")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("départ")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("depart")))) && ((("" + @rep_t5_ch1_q4).toLowerCase().includes("état")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("etat")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("constat")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("décrit")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("decrit")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("entrée")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("entree")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("arrivée")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("arrivee")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("sortie")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("départ")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("depart")))`
+`if !(((@rep_t5_ch1_q4.toLowerCase().includes("état")) || (@rep_t5_ch1_q4.toLowerCase().includes("etat")) || (@rep_t5_ch1_q4.toLowerCase().includes("constat")) || (@rep_t5_ch1_q4.toLowerCase().includes("décrit")) || (@rep_t5_ch1_q4.toLowerCase().includes("decrit"))) && ((@rep_t5_ch1_q4.toLowerCase().includes("entrée")) || (@rep_t5_ch1_q4.toLowerCase().includes("entree")) || (@rep_t5_ch1_q4.toLowerCase().includes("arrivée")) || (@rep_t5_ch1_q4.toLowerCase().includes("arrivee"))) && ((@rep_t5_ch1_q4.toLowerCase().includes("sortie")) || (@rep_t5_ch1_q4.toLowerCase().includes("départ")) || (@rep_t5_ch1_q4.toLowerCase().includes("depart")))) && ((@rep_t5_ch1_q4.toLowerCase().includes("état")) || (@rep_t5_ch1_q4.toLowerCase().includes("etat")) || (@rep_t5_ch1_q4.toLowerCase().includes("constat")) || (@rep_t5_ch1_q4.toLowerCase().includes("décrit")) || (@rep_t5_ch1_q4.toLowerCase().includes("decrit")) || (@rep_t5_ch1_q4.toLowerCase().includes("entrée")) || (@rep_t5_ch1_q4.toLowerCase().includes("entree")) || (@rep_t5_ch1_q4.toLowerCase().includes("arrivée")) || (@rep_t5_ch1_q4.toLowerCase().includes("arrivee")) || (@rep_t5_ch1_q4.toLowerCase().includes("sortie")) || (@rep_t5_ch1_q4.toLowerCase().includes("départ")) || (@rep_t5_ch1_q4.toLowerCase().includes("depart")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -151843,7 +151843,7 @@ Il décrit l'état du logement à l'entrée et à la sortie afin de limiter les 
 3. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch1_q4).toLowerCase().includes("état")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("etat")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("constat")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("décrit")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("decrit")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("entrée")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("entree")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("arrivée")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("arrivee")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("sortie")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("départ")) || (("" + @rep_t5_ch1_q4).toLowerCase().includes("depart")))`
+`if !((@rep_t5_ch1_q4.toLowerCase().includes("état")) || (@rep_t5_ch1_q4.toLowerCase().includes("etat")) || (@rep_t5_ch1_q4.toLowerCase().includes("constat")) || (@rep_t5_ch1_q4.toLowerCase().includes("décrit")) || (@rep_t5_ch1_q4.toLowerCase().includes("decrit")) || (@rep_t5_ch1_q4.toLowerCase().includes("entrée")) || (@rep_t5_ch1_q4.toLowerCase().includes("entree")) || (@rep_t5_ch1_q4.toLowerCase().includes("arrivée")) || (@rep_t5_ch1_q4.toLowerCase().includes("arrivee")) || (@rep_t5_ch1_q4.toLowerCase().includes("sortie")) || (@rep_t5_ch1_q4.toLowerCase().includes("départ")) || (@rep_t5_ch1_q4.toLowerCase().includes("depart")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152066,7 +152066,7 @@ Quel est le rôle du médecin traitant ?
 
 > `@rep_t5_ch2_q1`
 
-`if ((("" + @rep_t5_ch2_q1).toLowerCase().includes("suivi")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("soigne")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("médecin")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("medecin"))) && ((("" + @rep_t5_ch2_q1).toLowerCase().includes("orient")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("spécialiste")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("specialiste")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("coordonne")))`
+`if ((@rep_t5_ch2_q1.toLowerCase().includes("suivi")) || (@rep_t5_ch2_q1.toLowerCase().includes("soigne")) || (@rep_t5_ch2_q1.toLowerCase().includes("médecin")) || (@rep_t5_ch2_q1.toLowerCase().includes("medecin"))) && ((@rep_t5_ch2_q1.toLowerCase().includes("orient")) || (@rep_t5_ch2_q1.toLowerCase().includes("spécialiste")) || (@rep_t5_ch2_q1.toLowerCase().includes("specialiste")) || (@rep_t5_ch2_q1.toLowerCase().includes("coordonne")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -152076,7 +152076,7 @@ Il assure le suivi médical habituel et oriente si nécessaire vers un spéciali
 1. [➡️ Question suivante](SCR_REV_T5_CH02_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t5_ch2_q1).toLowerCase().includes("suivi")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("soigne")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("médecin")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("medecin"))) && ((("" + @rep_t5_ch2_q1).toLowerCase().includes("orient")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("spécialiste")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("specialiste")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("coordonne")))) && ((("" + @rep_t5_ch2_q1).toLowerCase().includes("suivi")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("soigne")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("médecin")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("medecin")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("orient")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("spécialiste")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("specialiste")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("coordonne")))`
+`if !(((@rep_t5_ch2_q1.toLowerCase().includes("suivi")) || (@rep_t5_ch2_q1.toLowerCase().includes("soigne")) || (@rep_t5_ch2_q1.toLowerCase().includes("médecin")) || (@rep_t5_ch2_q1.toLowerCase().includes("medecin"))) && ((@rep_t5_ch2_q1.toLowerCase().includes("orient")) || (@rep_t5_ch2_q1.toLowerCase().includes("spécialiste")) || (@rep_t5_ch2_q1.toLowerCase().includes("specialiste")) || (@rep_t5_ch2_q1.toLowerCase().includes("coordonne")))) && ((@rep_t5_ch2_q1.toLowerCase().includes("suivi")) || (@rep_t5_ch2_q1.toLowerCase().includes("soigne")) || (@rep_t5_ch2_q1.toLowerCase().includes("médecin")) || (@rep_t5_ch2_q1.toLowerCase().includes("medecin")) || (@rep_t5_ch2_q1.toLowerCase().includes("orient")) || (@rep_t5_ch2_q1.toLowerCase().includes("spécialiste")) || (@rep_t5_ch2_q1.toLowerCase().includes("specialiste")) || (@rep_t5_ch2_q1.toLowerCase().includes("coordonne")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -152090,7 +152090,7 @@ Il assure le suivi médical habituel et oriente si nécessaire vers un spéciali
 3. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch2_q1).toLowerCase().includes("suivi")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("soigne")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("médecin")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("medecin")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("orient")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("spécialiste")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("specialiste")) || (("" + @rep_t5_ch2_q1).toLowerCase().includes("coordonne")))`
+`if !((@rep_t5_ch2_q1.toLowerCase().includes("suivi")) || (@rep_t5_ch2_q1.toLowerCase().includes("soigne")) || (@rep_t5_ch2_q1.toLowerCase().includes("médecin")) || (@rep_t5_ch2_q1.toLowerCase().includes("medecin")) || (@rep_t5_ch2_q1.toLowerCase().includes("orient")) || (@rep_t5_ch2_q1.toLowerCase().includes("spécialiste")) || (@rep_t5_ch2_q1.toLowerCase().includes("specialiste")) || (@rep_t5_ch2_q1.toLowerCase().includes("coordonne")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152126,7 +152126,7 @@ Il assure le suivi médical habituel et oriente si nécessaire vers un spéciali
 
 > `@rep_t5_ch2_q2`
 
-`if ((("" + @rep_t5_ch2_q2).toLowerCase().includes("assurance maladie")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("sécurité sociale")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("securite sociale")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("information"))) && ((("" + @rep_t5_ch2_q2).toLowerCase().includes("rembours")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("prise en charge"))) && ((("" + @rep_t5_ch2_q2).toLowerCase().includes("soin")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("consultation")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("médicament")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("medicament")))`
+`if ((@rep_t5_ch2_q2.toLowerCase().includes("assurance maladie")) || (@rep_t5_ch2_q2.toLowerCase().includes("sécurité sociale")) || (@rep_t5_ch2_q2.toLowerCase().includes("securite sociale")) || (@rep_t5_ch2_q2.toLowerCase().includes("information"))) && ((@rep_t5_ch2_q2.toLowerCase().includes("rembours")) || (@rep_t5_ch2_q2.toLowerCase().includes("prise en charge"))) && ((@rep_t5_ch2_q2.toLowerCase().includes("soin")) || (@rep_t5_ch2_q2.toLowerCase().includes("consultation")) || (@rep_t5_ch2_q2.toLowerCase().includes("médicament")) || (@rep_t5_ch2_q2.toLowerCase().includes("medicament")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -152136,7 +152136,7 @@ Elle transmet les informations utiles à l'Assurance Maladie et facilite le remb
 1. [➡️ Question suivante](SCR_REV_T5_CH02_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t5_ch2_q2).toLowerCase().includes("assurance maladie")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("sécurité sociale")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("securite sociale")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("information"))) && ((("" + @rep_t5_ch2_q2).toLowerCase().includes("rembours")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("prise en charge"))) && ((("" + @rep_t5_ch2_q2).toLowerCase().includes("soin")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("consultation")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("médicament")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("medicament")))) && ((("" + @rep_t5_ch2_q2).toLowerCase().includes("assurance maladie")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("sécurité sociale")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("securite sociale")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("information")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("rembours")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("prise en charge")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("soin")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("consultation")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("médicament")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("medicament")))`
+`if !(((@rep_t5_ch2_q2.toLowerCase().includes("assurance maladie")) || (@rep_t5_ch2_q2.toLowerCase().includes("sécurité sociale")) || (@rep_t5_ch2_q2.toLowerCase().includes("securite sociale")) || (@rep_t5_ch2_q2.toLowerCase().includes("information"))) && ((@rep_t5_ch2_q2.toLowerCase().includes("rembours")) || (@rep_t5_ch2_q2.toLowerCase().includes("prise en charge"))) && ((@rep_t5_ch2_q2.toLowerCase().includes("soin")) || (@rep_t5_ch2_q2.toLowerCase().includes("consultation")) || (@rep_t5_ch2_q2.toLowerCase().includes("médicament")) || (@rep_t5_ch2_q2.toLowerCase().includes("medicament")))) && ((@rep_t5_ch2_q2.toLowerCase().includes("assurance maladie")) || (@rep_t5_ch2_q2.toLowerCase().includes("sécurité sociale")) || (@rep_t5_ch2_q2.toLowerCase().includes("securite sociale")) || (@rep_t5_ch2_q2.toLowerCase().includes("information")) || (@rep_t5_ch2_q2.toLowerCase().includes("rembours")) || (@rep_t5_ch2_q2.toLowerCase().includes("prise en charge")) || (@rep_t5_ch2_q2.toLowerCase().includes("soin")) || (@rep_t5_ch2_q2.toLowerCase().includes("consultation")) || (@rep_t5_ch2_q2.toLowerCase().includes("médicament")) || (@rep_t5_ch2_q2.toLowerCase().includes("medicament")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -152150,7 +152150,7 @@ Elle transmet les informations utiles à l'Assurance Maladie et facilite le remb
 3. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch2_q2).toLowerCase().includes("assurance maladie")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("sécurité sociale")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("securite sociale")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("information")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("rembours")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("prise en charge")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("soin")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("consultation")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("médicament")) || (("" + @rep_t5_ch2_q2).toLowerCase().includes("medicament")))`
+`if !((@rep_t5_ch2_q2.toLowerCase().includes("assurance maladie")) || (@rep_t5_ch2_q2.toLowerCase().includes("sécurité sociale")) || (@rep_t5_ch2_q2.toLowerCase().includes("securite sociale")) || (@rep_t5_ch2_q2.toLowerCase().includes("information")) || (@rep_t5_ch2_q2.toLowerCase().includes("rembours")) || (@rep_t5_ch2_q2.toLowerCase().includes("prise en charge")) || (@rep_t5_ch2_q2.toLowerCase().includes("soin")) || (@rep_t5_ch2_q2.toLowerCase().includes("consultation")) || (@rep_t5_ch2_q2.toLowerCase().includes("médicament")) || (@rep_t5_ch2_q2.toLowerCase().includes("medicament")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152186,7 +152186,7 @@ Quel numéro appeler en cas d'urgence médicale grave ?
 
 > `@rep_t5_ch2_q3`
 
-`if (("" + @rep_t5_ch2_q3).trim() == "15") || (("" + @rep_t5_ch2_q3).trim() == "112")`
+`if (@rep_t5_ch2_q3.trim() == "15") || (@rep_t5_ch2_q3.trim() == "112")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -152196,7 +152196,7 @@ En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.
 1. [➡️ Question suivante](SCR_REV_T5_CH02_VERIF_Q04)
 `endif`
 
-`if !((("" + @rep_t5_ch2_q3).trim() == "15") || (("" + @rep_t5_ch2_q3).trim() == "112")) && ((("" + @rep_t5_ch2_q3).toLowerCase().includes("15")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("112")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("samu")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("urgence")))`
+`if !((@rep_t5_ch2_q3.trim() == "15") || (@rep_t5_ch2_q3.trim() == "112")) && ((@rep_t5_ch2_q3.toLowerCase().includes("15")) || (@rep_t5_ch2_q3.toLowerCase().includes("112")) || (@rep_t5_ch2_q3.toLowerCase().includes("samu")) || (@rep_t5_ch2_q3.toLowerCase().includes("urgence")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -152210,7 +152210,7 @@ En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.
 3. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch2_q3).toLowerCase().includes("15")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("112")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("samu")) || (("" + @rep_t5_ch2_q3).toLowerCase().includes("urgence")))`
+`if !((@rep_t5_ch2_q3.toLowerCase().includes("15")) || (@rep_t5_ch2_q3.toLowerCase().includes("112")) || (@rep_t5_ch2_q3.toLowerCase().includes("samu")) || (@rep_t5_ch2_q3.toLowerCase().includes("urgence")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152246,7 +152246,7 @@ Quelle différence y a-t-il entre l'Assurance Maladie et une mutuelle ?
 
 > `@rep_t5_ch2_q4`
 
-`if ((("" + @rep_t5_ch2_q4).toLowerCase().includes("assurance maladie")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("sécurité sociale")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("securite sociale"))) && ((("" + @rep_t5_ch2_q4).toLowerCase().includes("mutuelle")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complémentaire")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complementaire"))) && ((("" + @rep_t5_ch2_q4).toLowerCase().includes("complète")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complete")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("reste")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("rembours")))`
+`if ((@rep_t5_ch2_q4.toLowerCase().includes("assurance maladie")) || (@rep_t5_ch2_q4.toLowerCase().includes("sécurité sociale")) || (@rep_t5_ch2_q4.toLowerCase().includes("securite sociale"))) && ((@rep_t5_ch2_q4.toLowerCase().includes("mutuelle")) || (@rep_t5_ch2_q4.toLowerCase().includes("complémentaire")) || (@rep_t5_ch2_q4.toLowerCase().includes("complementaire"))) && ((@rep_t5_ch2_q4.toLowerCase().includes("complète")) || (@rep_t5_ch2_q4.toLowerCase().includes("complete")) || (@rep_t5_ch2_q4.toLowerCase().includes("reste")) || (@rep_t5_ch2_q4.toLowerCase().includes("rembours")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -152256,7 +152256,7 @@ L'Assurance Maladie rembourse une part des soins ; la mutuelle peut compléter c
 1. [✅ Terminer le chapitre](SCR_REV_T5_CH02_FIN)
 `endif`
 
-`if !(((("" + @rep_t5_ch2_q4).toLowerCase().includes("assurance maladie")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("sécurité sociale")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("securite sociale"))) && ((("" + @rep_t5_ch2_q4).toLowerCase().includes("mutuelle")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complémentaire")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complementaire"))) && ((("" + @rep_t5_ch2_q4).toLowerCase().includes("complète")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complete")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("reste")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("rembours")))) && ((("" + @rep_t5_ch2_q4).toLowerCase().includes("assurance maladie")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("sécurité sociale")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("securite sociale")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("mutuelle")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complémentaire")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complementaire")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complète")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complete")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("reste")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("rembours")))`
+`if !(((@rep_t5_ch2_q4.toLowerCase().includes("assurance maladie")) || (@rep_t5_ch2_q4.toLowerCase().includes("sécurité sociale")) || (@rep_t5_ch2_q4.toLowerCase().includes("securite sociale"))) && ((@rep_t5_ch2_q4.toLowerCase().includes("mutuelle")) || (@rep_t5_ch2_q4.toLowerCase().includes("complémentaire")) || (@rep_t5_ch2_q4.toLowerCase().includes("complementaire"))) && ((@rep_t5_ch2_q4.toLowerCase().includes("complète")) || (@rep_t5_ch2_q4.toLowerCase().includes("complete")) || (@rep_t5_ch2_q4.toLowerCase().includes("reste")) || (@rep_t5_ch2_q4.toLowerCase().includes("rembours")))) && ((@rep_t5_ch2_q4.toLowerCase().includes("assurance maladie")) || (@rep_t5_ch2_q4.toLowerCase().includes("sécurité sociale")) || (@rep_t5_ch2_q4.toLowerCase().includes("securite sociale")) || (@rep_t5_ch2_q4.toLowerCase().includes("mutuelle")) || (@rep_t5_ch2_q4.toLowerCase().includes("complémentaire")) || (@rep_t5_ch2_q4.toLowerCase().includes("complementaire")) || (@rep_t5_ch2_q4.toLowerCase().includes("complète")) || (@rep_t5_ch2_q4.toLowerCase().includes("complete")) || (@rep_t5_ch2_q4.toLowerCase().includes("reste")) || (@rep_t5_ch2_q4.toLowerCase().includes("rembours")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -152270,7 +152270,7 @@ L'Assurance Maladie rembourse une part des soins ; la mutuelle peut compléter c
 3. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch2_q4).toLowerCase().includes("assurance maladie")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("sécurité sociale")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("securite sociale")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("mutuelle")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complémentaire")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complementaire")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complète")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("complete")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("reste")) || (("" + @rep_t5_ch2_q4).toLowerCase().includes("rembours")))`
+`if !((@rep_t5_ch2_q4.toLowerCase().includes("assurance maladie")) || (@rep_t5_ch2_q4.toLowerCase().includes("sécurité sociale")) || (@rep_t5_ch2_q4.toLowerCase().includes("securite sociale")) || (@rep_t5_ch2_q4.toLowerCase().includes("mutuelle")) || (@rep_t5_ch2_q4.toLowerCase().includes("complémentaire")) || (@rep_t5_ch2_q4.toLowerCase().includes("complementaire")) || (@rep_t5_ch2_q4.toLowerCase().includes("complète")) || (@rep_t5_ch2_q4.toLowerCase().includes("complete")) || (@rep_t5_ch2_q4.toLowerCase().includes("reste")) || (@rep_t5_ch2_q4.toLowerCase().includes("rembours")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152502,7 +152502,7 @@ Quel est le rôle de France Travail ?
 
 > `@rep_t5_ch3_q1`
 
-`if ((("" + @rep_t5_ch3_q1).toLowerCase().includes("accompagn")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("aide")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("soutien")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("conseil"))) && ((("" + @rep_t5_ch3_q1).toLowerCase().includes("emploi")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("travail")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("insertion")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("recherche")))`
+`if ((@rep_t5_ch3_q1.toLowerCase().includes("accompagn")) || (@rep_t5_ch3_q1.toLowerCase().includes("aide")) || (@rep_t5_ch3_q1.toLowerCase().includes("soutien")) || (@rep_t5_ch3_q1.toLowerCase().includes("conseil"))) && ((@rep_t5_ch3_q1.toLowerCase().includes("emploi")) || (@rep_t5_ch3_q1.toLowerCase().includes("travail")) || (@rep_t5_ch3_q1.toLowerCase().includes("insertion")) || (@rep_t5_ch3_q1.toLowerCase().includes("recherche")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -152512,7 +152512,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi, leur orien
 1. [➡️ Question suivante](SCR_REV_T5_CH03_VERIF_Q02)
 `endif`
 
-`if !(((("" + @rep_t5_ch3_q1).toLowerCase().includes("accompagn")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("aide")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("soutien")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("conseil"))) && ((("" + @rep_t5_ch3_q1).toLowerCase().includes("emploi")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("travail")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("insertion")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("recherche")))) && ((("" + @rep_t5_ch3_q1).toLowerCase().includes("accompagn")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("aide")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("soutien")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("conseil")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("emploi")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("travail")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("insertion")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("recherche")))`
+`if !(((@rep_t5_ch3_q1.toLowerCase().includes("accompagn")) || (@rep_t5_ch3_q1.toLowerCase().includes("aide")) || (@rep_t5_ch3_q1.toLowerCase().includes("soutien")) || (@rep_t5_ch3_q1.toLowerCase().includes("conseil"))) && ((@rep_t5_ch3_q1.toLowerCase().includes("emploi")) || (@rep_t5_ch3_q1.toLowerCase().includes("travail")) || (@rep_t5_ch3_q1.toLowerCase().includes("insertion")) || (@rep_t5_ch3_q1.toLowerCase().includes("recherche")))) && ((@rep_t5_ch3_q1.toLowerCase().includes("accompagn")) || (@rep_t5_ch3_q1.toLowerCase().includes("aide")) || (@rep_t5_ch3_q1.toLowerCase().includes("soutien")) || (@rep_t5_ch3_q1.toLowerCase().includes("conseil")) || (@rep_t5_ch3_q1.toLowerCase().includes("emploi")) || (@rep_t5_ch3_q1.toLowerCase().includes("travail")) || (@rep_t5_ch3_q1.toLowerCase().includes("insertion")) || (@rep_t5_ch3_q1.toLowerCase().includes("recherche")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -152526,7 +152526,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi, leur orien
 3. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch3_q1).toLowerCase().includes("accompagn")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("aide")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("soutien")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("conseil")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("emploi")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("travail")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("insertion")) || (("" + @rep_t5_ch3_q1).toLowerCase().includes("recherche")))`
+`if !((@rep_t5_ch3_q1.toLowerCase().includes("accompagn")) || (@rep_t5_ch3_q1.toLowerCase().includes("aide")) || (@rep_t5_ch3_q1.toLowerCase().includes("soutien")) || (@rep_t5_ch3_q1.toLowerCase().includes("conseil")) || (@rep_t5_ch3_q1.toLowerCase().includes("emploi")) || (@rep_t5_ch3_q1.toLowerCase().includes("travail")) || (@rep_t5_ch3_q1.toLowerCase().includes("insertion")) || (@rep_t5_ch3_q1.toLowerCase().includes("recherche")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152562,7 +152562,7 @@ Quels éléments essentiels figurent sur un bulletin de salaire ?
 
 > `@rep_t5_ch3_q2`
 
-`if ((("" + @rep_t5_ch3_q2).toLowerCase().includes("bulletin de salaire")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("fiche de paie")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("fiche de paye"))) && ((("" + @rep_t5_ch3_q2).toLowerCase().includes("brut")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("salaire brut"))) && ((("" + @rep_t5_ch3_q2).toLowerCase().includes("net")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("salaire net"))) && ((("" + @rep_t5_ch3_q2).toLowerCase().includes("cotisation")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("prélèvement")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("prelevement")))`
+`if ((@rep_t5_ch3_q2.toLowerCase().includes("bulletin de salaire")) || (@rep_t5_ch3_q2.toLowerCase().includes("fiche de paie")) || (@rep_t5_ch3_q2.toLowerCase().includes("fiche de paye"))) && ((@rep_t5_ch3_q2.toLowerCase().includes("brut")) || (@rep_t5_ch3_q2.toLowerCase().includes("salaire brut"))) && ((@rep_t5_ch3_q2.toLowerCase().includes("net")) || (@rep_t5_ch3_q2.toLowerCase().includes("salaire net"))) && ((@rep_t5_ch3_q2.toLowerCase().includes("cotisation")) || (@rep_t5_ch3_q2.toLowerCase().includes("prélèvement")) || (@rep_t5_ch3_q2.toLowerCase().includes("prelevement")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -152572,7 +152572,7 @@ Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisatio
 1. [➡️ Question suivante](SCR_REV_T5_CH03_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t5_ch3_q2).toLowerCase().includes("bulletin de salaire")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("fiche de paie")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("fiche de paye"))) && ((("" + @rep_t5_ch3_q2).toLowerCase().includes("brut")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("salaire brut"))) && ((("" + @rep_t5_ch3_q2).toLowerCase().includes("net")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("salaire net"))) && ((("" + @rep_t5_ch3_q2).toLowerCase().includes("cotisation")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("prélèvement")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("prelevement")))) && ((("" + @rep_t5_ch3_q2).toLowerCase().includes("bulletin de salaire")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("fiche de paie")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("fiche de paye")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("brut")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("salaire brut")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("net")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("salaire net")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("cotisation")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("prélèvement")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("prelevement")))`
+`if !(((@rep_t5_ch3_q2.toLowerCase().includes("bulletin de salaire")) || (@rep_t5_ch3_q2.toLowerCase().includes("fiche de paie")) || (@rep_t5_ch3_q2.toLowerCase().includes("fiche de paye"))) && ((@rep_t5_ch3_q2.toLowerCase().includes("brut")) || (@rep_t5_ch3_q2.toLowerCase().includes("salaire brut"))) && ((@rep_t5_ch3_q2.toLowerCase().includes("net")) || (@rep_t5_ch3_q2.toLowerCase().includes("salaire net"))) && ((@rep_t5_ch3_q2.toLowerCase().includes("cotisation")) || (@rep_t5_ch3_q2.toLowerCase().includes("prélèvement")) || (@rep_t5_ch3_q2.toLowerCase().includes("prelevement")))) && ((@rep_t5_ch3_q2.toLowerCase().includes("bulletin de salaire")) || (@rep_t5_ch3_q2.toLowerCase().includes("fiche de paie")) || (@rep_t5_ch3_q2.toLowerCase().includes("fiche de paye")) || (@rep_t5_ch3_q2.toLowerCase().includes("brut")) || (@rep_t5_ch3_q2.toLowerCase().includes("salaire brut")) || (@rep_t5_ch3_q2.toLowerCase().includes("net")) || (@rep_t5_ch3_q2.toLowerCase().includes("salaire net")) || (@rep_t5_ch3_q2.toLowerCase().includes("cotisation")) || (@rep_t5_ch3_q2.toLowerCase().includes("prélèvement")) || (@rep_t5_ch3_q2.toLowerCase().includes("prelevement")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -152586,7 +152586,7 @@ Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisatio
 3. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch3_q2).toLowerCase().includes("bulletin de salaire")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("fiche de paie")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("fiche de paye")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("brut")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("salaire brut")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("net")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("salaire net")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("cotisation")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("prélèvement")) || (("" + @rep_t5_ch3_q2).toLowerCase().includes("prelevement")))`
+`if !((@rep_t5_ch3_q2.toLowerCase().includes("bulletin de salaire")) || (@rep_t5_ch3_q2.toLowerCase().includes("fiche de paie")) || (@rep_t5_ch3_q2.toLowerCase().includes("fiche de paye")) || (@rep_t5_ch3_q2.toLowerCase().includes("brut")) || (@rep_t5_ch3_q2.toLowerCase().includes("salaire brut")) || (@rep_t5_ch3_q2.toLowerCase().includes("net")) || (@rep_t5_ch3_q2.toLowerCase().includes("salaire net")) || (@rep_t5_ch3_q2.toLowerCase().includes("cotisation")) || (@rep_t5_ch3_q2.toLowerCase().includes("prélèvement")) || (@rep_t5_ch3_q2.toLowerCase().includes("prelevement")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152622,7 +152622,7 @@ Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisatio
 
 > `@rep_t5_ch3_q3`
 
-`if ((("" + @rep_t5_ch3_q3).toLowerCase().includes("emploi")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("poste")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("mission")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("travail"))) && ((("" + @rep_t5_ch3_q3).toLowerCase().includes("salaire")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("rémunération")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("remuneration"))) && ((("" + @rep_t5_ch3_q3).toLowerCase().includes("durée")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("duree")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("horaire")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("temps"))) && ((("" + @rep_t5_ch3_q3).toLowerCase().includes("obligation")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("droit")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("condition")))`
+`if ((@rep_t5_ch3_q3.toLowerCase().includes("emploi")) || (@rep_t5_ch3_q3.toLowerCase().includes("poste")) || (@rep_t5_ch3_q3.toLowerCase().includes("mission")) || (@rep_t5_ch3_q3.toLowerCase().includes("travail"))) && ((@rep_t5_ch3_q3.toLowerCase().includes("salaire")) || (@rep_t5_ch3_q3.toLowerCase().includes("rémunération")) || (@rep_t5_ch3_q3.toLowerCase().includes("remuneration"))) && ((@rep_t5_ch3_q3.toLowerCase().includes("durée")) || (@rep_t5_ch3_q3.toLowerCase().includes("duree")) || (@rep_t5_ch3_q3.toLowerCase().includes("horaire")) || (@rep_t5_ch3_q3.toLowerCase().includes("temps"))) && ((@rep_t5_ch3_q3.toLowerCase().includes("obligation")) || (@rep_t5_ch3_q3.toLowerCase().includes("droit")) || (@rep_t5_ch3_q3.toLowerCase().includes("condition")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -152632,7 +152632,7 @@ Il précise l'emploi, la rémunération, la durée du travail et les obligations
 1. [➡️ Question suivante](SCR_REV_T5_CH03_VERIF_Q04)
 `endif`
 
-`if !(((("" + @rep_t5_ch3_q3).toLowerCase().includes("emploi")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("poste")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("mission")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("travail"))) && ((("" + @rep_t5_ch3_q3).toLowerCase().includes("salaire")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("rémunération")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("remuneration"))) && ((("" + @rep_t5_ch3_q3).toLowerCase().includes("durée")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("duree")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("horaire")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("temps"))) && ((("" + @rep_t5_ch3_q3).toLowerCase().includes("obligation")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("droit")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("condition")))) && ((("" + @rep_t5_ch3_q3).toLowerCase().includes("emploi")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("poste")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("mission")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("travail")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("salaire")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("rémunération")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("remuneration")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("durée")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("duree")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("horaire")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("temps")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("obligation")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("droit")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("condition")))`
+`if !(((@rep_t5_ch3_q3.toLowerCase().includes("emploi")) || (@rep_t5_ch3_q3.toLowerCase().includes("poste")) || (@rep_t5_ch3_q3.toLowerCase().includes("mission")) || (@rep_t5_ch3_q3.toLowerCase().includes("travail"))) && ((@rep_t5_ch3_q3.toLowerCase().includes("salaire")) || (@rep_t5_ch3_q3.toLowerCase().includes("rémunération")) || (@rep_t5_ch3_q3.toLowerCase().includes("remuneration"))) && ((@rep_t5_ch3_q3.toLowerCase().includes("durée")) || (@rep_t5_ch3_q3.toLowerCase().includes("duree")) || (@rep_t5_ch3_q3.toLowerCase().includes("horaire")) || (@rep_t5_ch3_q3.toLowerCase().includes("temps"))) && ((@rep_t5_ch3_q3.toLowerCase().includes("obligation")) || (@rep_t5_ch3_q3.toLowerCase().includes("droit")) || (@rep_t5_ch3_q3.toLowerCase().includes("condition")))) && ((@rep_t5_ch3_q3.toLowerCase().includes("emploi")) || (@rep_t5_ch3_q3.toLowerCase().includes("poste")) || (@rep_t5_ch3_q3.toLowerCase().includes("mission")) || (@rep_t5_ch3_q3.toLowerCase().includes("travail")) || (@rep_t5_ch3_q3.toLowerCase().includes("salaire")) || (@rep_t5_ch3_q3.toLowerCase().includes("rémunération")) || (@rep_t5_ch3_q3.toLowerCase().includes("remuneration")) || (@rep_t5_ch3_q3.toLowerCase().includes("durée")) || (@rep_t5_ch3_q3.toLowerCase().includes("duree")) || (@rep_t5_ch3_q3.toLowerCase().includes("horaire")) || (@rep_t5_ch3_q3.toLowerCase().includes("temps")) || (@rep_t5_ch3_q3.toLowerCase().includes("obligation")) || (@rep_t5_ch3_q3.toLowerCase().includes("droit")) || (@rep_t5_ch3_q3.toLowerCase().includes("condition")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -152646,7 +152646,7 @@ Il précise l'emploi, la rémunération, la durée du travail et les obligations
 3. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch3_q3).toLowerCase().includes("emploi")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("poste")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("mission")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("travail")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("salaire")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("rémunération")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("remuneration")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("durée")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("duree")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("horaire")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("temps")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("obligation")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("droit")) || (("" + @rep_t5_ch3_q3).toLowerCase().includes("condition")))`
+`if !((@rep_t5_ch3_q3.toLowerCase().includes("emploi")) || (@rep_t5_ch3_q3.toLowerCase().includes("poste")) || (@rep_t5_ch3_q3.toLowerCase().includes("mission")) || (@rep_t5_ch3_q3.toLowerCase().includes("travail")) || (@rep_t5_ch3_q3.toLowerCase().includes("salaire")) || (@rep_t5_ch3_q3.toLowerCase().includes("rémunération")) || (@rep_t5_ch3_q3.toLowerCase().includes("remuneration")) || (@rep_t5_ch3_q3.toLowerCase().includes("durée")) || (@rep_t5_ch3_q3.toLowerCase().includes("duree")) || (@rep_t5_ch3_q3.toLowerCase().includes("horaire")) || (@rep_t5_ch3_q3.toLowerCase().includes("temps")) || (@rep_t5_ch3_q3.toLowerCase().includes("obligation")) || (@rep_t5_ch3_q3.toLowerCase().includes("droit")) || (@rep_t5_ch3_q3.toLowerCase().includes("condition")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152682,7 +152682,7 @@ Que doit faire un salarié en cas d'absence pour maladie ?
 
 > `@rep_t5_ch3_q4`
 
-`if ((("" + @rep_t5_ch3_q4).toLowerCase().includes("prévenir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("prevenir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("informer")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("avertir"))) && ((("" + @rep_t5_ch3_q4).toLowerCase().includes("employeur")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("entreprise")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("responsable"))) && ((("" + @rep_t5_ch3_q4).toLowerCase().includes("arrêt de travail")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("arret de travail")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("justificatif")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("certificat")))`
+`if ((@rep_t5_ch3_q4.toLowerCase().includes("prévenir")) || (@rep_t5_ch3_q4.toLowerCase().includes("prevenir")) || (@rep_t5_ch3_q4.toLowerCase().includes("informer")) || (@rep_t5_ch3_q4.toLowerCase().includes("avertir"))) && ((@rep_t5_ch3_q4.toLowerCase().includes("employeur")) || (@rep_t5_ch3_q4.toLowerCase().includes("entreprise")) || (@rep_t5_ch3_q4.toLowerCase().includes("responsable"))) && ((@rep_t5_ch3_q4.toLowerCase().includes("arrêt de travail")) || (@rep_t5_ch3_q4.toLowerCase().includes("arret de travail")) || (@rep_t5_ch3_q4.toLowerCase().includes("justificatif")) || (@rep_t5_ch3_q4.toLowerCase().includes("certificat")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -152692,7 +152692,7 @@ Il doit prévenir rapidement son employeur et transmettre l'arrêt de travail da
 1. [✅ Terminer le chapitre](SCR_REV_T5_CH03_FIN)
 `endif`
 
-`if !(((("" + @rep_t5_ch3_q4).toLowerCase().includes("prévenir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("prevenir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("informer")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("avertir"))) && ((("" + @rep_t5_ch3_q4).toLowerCase().includes("employeur")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("entreprise")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("responsable"))) && ((("" + @rep_t5_ch3_q4).toLowerCase().includes("arrêt de travail")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("arret de travail")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("justificatif")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("certificat")))) && ((("" + @rep_t5_ch3_q4).toLowerCase().includes("prévenir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("prevenir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("informer")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("avertir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("employeur")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("entreprise")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("responsable")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("arrêt de travail")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("arret de travail")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("justificatif")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("certificat")))`
+`if !(((@rep_t5_ch3_q4.toLowerCase().includes("prévenir")) || (@rep_t5_ch3_q4.toLowerCase().includes("prevenir")) || (@rep_t5_ch3_q4.toLowerCase().includes("informer")) || (@rep_t5_ch3_q4.toLowerCase().includes("avertir"))) && ((@rep_t5_ch3_q4.toLowerCase().includes("employeur")) || (@rep_t5_ch3_q4.toLowerCase().includes("entreprise")) || (@rep_t5_ch3_q4.toLowerCase().includes("responsable"))) && ((@rep_t5_ch3_q4.toLowerCase().includes("arrêt de travail")) || (@rep_t5_ch3_q4.toLowerCase().includes("arret de travail")) || (@rep_t5_ch3_q4.toLowerCase().includes("justificatif")) || (@rep_t5_ch3_q4.toLowerCase().includes("certificat")))) && ((@rep_t5_ch3_q4.toLowerCase().includes("prévenir")) || (@rep_t5_ch3_q4.toLowerCase().includes("prevenir")) || (@rep_t5_ch3_q4.toLowerCase().includes("informer")) || (@rep_t5_ch3_q4.toLowerCase().includes("avertir")) || (@rep_t5_ch3_q4.toLowerCase().includes("employeur")) || (@rep_t5_ch3_q4.toLowerCase().includes("entreprise")) || (@rep_t5_ch3_q4.toLowerCase().includes("responsable")) || (@rep_t5_ch3_q4.toLowerCase().includes("arrêt de travail")) || (@rep_t5_ch3_q4.toLowerCase().includes("arret de travail")) || (@rep_t5_ch3_q4.toLowerCase().includes("justificatif")) || (@rep_t5_ch3_q4.toLowerCase().includes("certificat")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -152706,7 +152706,7 @@ Il doit prévenir rapidement son employeur et transmettre l'arrêt de travail da
 3. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch3_q4).toLowerCase().includes("prévenir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("prevenir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("informer")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("avertir")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("employeur")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("entreprise")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("responsable")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("arrêt de travail")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("arret de travail")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("justificatif")) || (("" + @rep_t5_ch3_q4).toLowerCase().includes("certificat")))`
+`if !((@rep_t5_ch3_q4.toLowerCase().includes("prévenir")) || (@rep_t5_ch3_q4.toLowerCase().includes("prevenir")) || (@rep_t5_ch3_q4.toLowerCase().includes("informer")) || (@rep_t5_ch3_q4.toLowerCase().includes("avertir")) || (@rep_t5_ch3_q4.toLowerCase().includes("employeur")) || (@rep_t5_ch3_q4.toLowerCase().includes("entreprise")) || (@rep_t5_ch3_q4.toLowerCase().includes("responsable")) || (@rep_t5_ch3_q4.toLowerCase().includes("arrêt de travail")) || (@rep_t5_ch3_q4.toLowerCase().includes("arret de travail")) || (@rep_t5_ch3_q4.toLowerCase().includes("justificatif")) || (@rep_t5_ch3_q4.toLowerCase().includes("certificat")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152933,7 +152933,7 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 > `@rep_t5_ch4_q1`
 
-`if (("" + @rep_t5_ch4_q1).trim() == "3")`
+`if (@rep_t5_ch4_q1.trim() == "3")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -152943,7 +152943,7 @@ L'instruction est obligatoire à partir de 3 ans.
 1. [➡️ Question suivante](SCR_REV_T5_CH04_VERIF_Q02)
 `endif`
 
-`if (("" + @rep_t5_ch4_q1).trim() != "3") && ((("" + @rep_t5_ch4_q1).toLowerCase().includes("3")) || (("" + @rep_t5_ch4_q1).toLowerCase().includes("trois")))`
+`if (@rep_t5_ch4_q1.trim() != "3") && ((@rep_t5_ch4_q1.toLowerCase().includes("3")) || (@rep_t5_ch4_q1.toLowerCase().includes("trois")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -152957,7 +152957,7 @@ L'instruction est obligatoire à partir de 3 ans.
 3. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch4_q1).toLowerCase().includes("3")) || (("" + @rep_t5_ch4_q1).toLowerCase().includes("trois")))`
+`if !((@rep_t5_ch4_q1.toLowerCase().includes("3")) || (@rep_t5_ch4_q1.toLowerCase().includes("trois")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -152993,7 +152993,7 @@ Quel est le rôle principal de l'école maternelle ?
 
 > `@rep_t5_ch4_q2`
 
-`if ((("" + @rep_t5_ch4_q2).toLowerCase().includes("langage")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("parler")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("vocabulaire"))) && ((("" + @rep_t5_ch4_q2).toLowerCase().includes("social")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("vivre ensemble")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("autres enfants"))) && ((("" + @rep_t5_ch4_q2).toLowerCase().includes("apprentissage")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("apprendre")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("autonomie")))`
+`if ((@rep_t5_ch4_q2.toLowerCase().includes("langage")) || (@rep_t5_ch4_q2.toLowerCase().includes("parler")) || (@rep_t5_ch4_q2.toLowerCase().includes("vocabulaire"))) && ((@rep_t5_ch4_q2.toLowerCase().includes("social")) || (@rep_t5_ch4_q2.toLowerCase().includes("vivre ensemble")) || (@rep_t5_ch4_q2.toLowerCase().includes("autres enfants"))) && ((@rep_t5_ch4_q2.toLowerCase().includes("apprentissage")) || (@rep_t5_ch4_q2.toLowerCase().includes("apprendre")) || (@rep_t5_ch4_q2.toLowerCase().includes("autonomie")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -153003,7 +153003,7 @@ L'école maternelle développe le langage, la socialisation et les premiers appr
 1. [➡️ Question suivante](SCR_REV_T5_CH04_VERIF_Q03)
 `endif`
 
-`if !(((("" + @rep_t5_ch4_q2).toLowerCase().includes("langage")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("parler")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("vocabulaire"))) && ((("" + @rep_t5_ch4_q2).toLowerCase().includes("social")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("vivre ensemble")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("autres enfants"))) && ((("" + @rep_t5_ch4_q2).toLowerCase().includes("apprentissage")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("apprendre")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("autonomie")))) && ((("" + @rep_t5_ch4_q2).toLowerCase().includes("langage")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("parler")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("vocabulaire")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("social")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("vivre ensemble")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("autres enfants")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("apprentissage")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("apprendre")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("autonomie")))`
+`if !(((@rep_t5_ch4_q2.toLowerCase().includes("langage")) || (@rep_t5_ch4_q2.toLowerCase().includes("parler")) || (@rep_t5_ch4_q2.toLowerCase().includes("vocabulaire"))) && ((@rep_t5_ch4_q2.toLowerCase().includes("social")) || (@rep_t5_ch4_q2.toLowerCase().includes("vivre ensemble")) || (@rep_t5_ch4_q2.toLowerCase().includes("autres enfants"))) && ((@rep_t5_ch4_q2.toLowerCase().includes("apprentissage")) || (@rep_t5_ch4_q2.toLowerCase().includes("apprendre")) || (@rep_t5_ch4_q2.toLowerCase().includes("autonomie")))) && ((@rep_t5_ch4_q2.toLowerCase().includes("langage")) || (@rep_t5_ch4_q2.toLowerCase().includes("parler")) || (@rep_t5_ch4_q2.toLowerCase().includes("vocabulaire")) || (@rep_t5_ch4_q2.toLowerCase().includes("social")) || (@rep_t5_ch4_q2.toLowerCase().includes("vivre ensemble")) || (@rep_t5_ch4_q2.toLowerCase().includes("autres enfants")) || (@rep_t5_ch4_q2.toLowerCase().includes("apprentissage")) || (@rep_t5_ch4_q2.toLowerCase().includes("apprendre")) || (@rep_t5_ch4_q2.toLowerCase().includes("autonomie")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -153017,7 +153017,7 @@ L'école maternelle développe le langage, la socialisation et les premiers appr
 3. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch4_q2).toLowerCase().includes("langage")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("parler")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("vocabulaire")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("social")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("vivre ensemble")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("autres enfants")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("apprentissage")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("apprendre")) || (("" + @rep_t5_ch4_q2).toLowerCase().includes("autonomie")))`
+`if !((@rep_t5_ch4_q2.toLowerCase().includes("langage")) || (@rep_t5_ch4_q2.toLowerCase().includes("parler")) || (@rep_t5_ch4_q2.toLowerCase().includes("vocabulaire")) || (@rep_t5_ch4_q2.toLowerCase().includes("social")) || (@rep_t5_ch4_q2.toLowerCase().includes("vivre ensemble")) || (@rep_t5_ch4_q2.toLowerCase().includes("autres enfants")) || (@rep_t5_ch4_q2.toLowerCase().includes("apprentissage")) || (@rep_t5_ch4_q2.toLowerCase().includes("apprendre")) || (@rep_t5_ch4_q2.toLowerCase().includes("autonomie")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -153053,7 +153053,7 @@ Que doivent faire les parents en cas d'absence de leur enfant ?
 
 > `@rep_t5_ch4_q3`
 
-`if ((("" + @rep_t5_ch4_q3).toLowerCase().includes("prévenir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("prevenir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("informer")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("avertir"))) && ((("" + @rep_t5_ch4_q3).toLowerCase().includes("école")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("ecole")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("établissement")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("etablissement"))) && ((("" + @rep_t5_ch4_q3).toLowerCase().includes("justifier")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("justificatif")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("motif")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("expliquer")))`
+`if ((@rep_t5_ch4_q3.toLowerCase().includes("prévenir")) || (@rep_t5_ch4_q3.toLowerCase().includes("prevenir")) || (@rep_t5_ch4_q3.toLowerCase().includes("informer")) || (@rep_t5_ch4_q3.toLowerCase().includes("avertir"))) && ((@rep_t5_ch4_q3.toLowerCase().includes("école")) || (@rep_t5_ch4_q3.toLowerCase().includes("ecole")) || (@rep_t5_ch4_q3.toLowerCase().includes("établissement")) || (@rep_t5_ch4_q3.toLowerCase().includes("etablissement"))) && ((@rep_t5_ch4_q3.toLowerCase().includes("justifier")) || (@rep_t5_ch4_q3.toLowerCase().includes("justificatif")) || (@rep_t5_ch4_q3.toLowerCase().includes("motif")) || (@rep_t5_ch4_q3.toLowerCase().includes("expliquer")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -153063,7 +153063,7 @@ Ils doivent prévenir l'établissement et justifier l'absence.
 1. [➡️ Question suivante](SCR_REV_T5_CH04_VERIF_Q04)
 `endif`
 
-`if !(((("" + @rep_t5_ch4_q3).toLowerCase().includes("prévenir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("prevenir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("informer")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("avertir"))) && ((("" + @rep_t5_ch4_q3).toLowerCase().includes("école")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("ecole")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("établissement")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("etablissement"))) && ((("" + @rep_t5_ch4_q3).toLowerCase().includes("justifier")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("justificatif")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("motif")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("expliquer")))) && ((("" + @rep_t5_ch4_q3).toLowerCase().includes("prévenir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("prevenir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("informer")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("avertir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("école")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("ecole")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("établissement")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("etablissement")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("justifier")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("justificatif")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("motif")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("expliquer")))`
+`if !(((@rep_t5_ch4_q3.toLowerCase().includes("prévenir")) || (@rep_t5_ch4_q3.toLowerCase().includes("prevenir")) || (@rep_t5_ch4_q3.toLowerCase().includes("informer")) || (@rep_t5_ch4_q3.toLowerCase().includes("avertir"))) && ((@rep_t5_ch4_q3.toLowerCase().includes("école")) || (@rep_t5_ch4_q3.toLowerCase().includes("ecole")) || (@rep_t5_ch4_q3.toLowerCase().includes("établissement")) || (@rep_t5_ch4_q3.toLowerCase().includes("etablissement"))) && ((@rep_t5_ch4_q3.toLowerCase().includes("justifier")) || (@rep_t5_ch4_q3.toLowerCase().includes("justificatif")) || (@rep_t5_ch4_q3.toLowerCase().includes("motif")) || (@rep_t5_ch4_q3.toLowerCase().includes("expliquer")))) && ((@rep_t5_ch4_q3.toLowerCase().includes("prévenir")) || (@rep_t5_ch4_q3.toLowerCase().includes("prevenir")) || (@rep_t5_ch4_q3.toLowerCase().includes("informer")) || (@rep_t5_ch4_q3.toLowerCase().includes("avertir")) || (@rep_t5_ch4_q3.toLowerCase().includes("école")) || (@rep_t5_ch4_q3.toLowerCase().includes("ecole")) || (@rep_t5_ch4_q3.toLowerCase().includes("établissement")) || (@rep_t5_ch4_q3.toLowerCase().includes("etablissement")) || (@rep_t5_ch4_q3.toLowerCase().includes("justifier")) || (@rep_t5_ch4_q3.toLowerCase().includes("justificatif")) || (@rep_t5_ch4_q3.toLowerCase().includes("motif")) || (@rep_t5_ch4_q3.toLowerCase().includes("expliquer")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -153077,7 +153077,7 @@ Ils doivent prévenir l'établissement et justifier l'absence.
 3. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch4_q3).toLowerCase().includes("prévenir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("prevenir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("informer")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("avertir")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("école")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("ecole")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("établissement")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("etablissement")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("justifier")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("justificatif")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("motif")) || (("" + @rep_t5_ch4_q3).toLowerCase().includes("expliquer")))`
+`if !((@rep_t5_ch4_q3.toLowerCase().includes("prévenir")) || (@rep_t5_ch4_q3.toLowerCase().includes("prevenir")) || (@rep_t5_ch4_q3.toLowerCase().includes("informer")) || (@rep_t5_ch4_q3.toLowerCase().includes("avertir")) || (@rep_t5_ch4_q3.toLowerCase().includes("école")) || (@rep_t5_ch4_q3.toLowerCase().includes("ecole")) || (@rep_t5_ch4_q3.toLowerCase().includes("établissement")) || (@rep_t5_ch4_q3.toLowerCase().includes("etablissement")) || (@rep_t5_ch4_q3.toLowerCase().includes("justifier")) || (@rep_t5_ch4_q3.toLowerCase().includes("justificatif")) || (@rep_t5_ch4_q3.toLowerCase().includes("motif")) || (@rep_t5_ch4_q3.toLowerCase().includes("expliquer")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -153113,7 +153113,7 @@ Que signifie l'autorité parentale ?
 
 > `@rep_t5_ch4_q4`
 
-`if ((("" + @rep_t5_ch4_q4).toLowerCase().includes("protéger")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("proteger")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("sécurité")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("securite"))) && ((("" + @rep_t5_ch4_q4).toLowerCase().includes("éducation")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("education")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("élever")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("elever"))) && ((("" + @rep_t5_ch4_q4).toLowerCase().includes("intérêt")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("interet")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("décision")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("decision")))`
+`if ((@rep_t5_ch4_q4.toLowerCase().includes("protéger")) || (@rep_t5_ch4_q4.toLowerCase().includes("proteger")) || (@rep_t5_ch4_q4.toLowerCase().includes("sécurité")) || (@rep_t5_ch4_q4.toLowerCase().includes("securite"))) && ((@rep_t5_ch4_q4.toLowerCase().includes("éducation")) || (@rep_t5_ch4_q4.toLowerCase().includes("education")) || (@rep_t5_ch4_q4.toLowerCase().includes("élever")) || (@rep_t5_ch4_q4.toLowerCase().includes("elever"))) && ((@rep_t5_ch4_q4.toLowerCase().includes("intérêt")) || (@rep_t5_ch4_q4.toLowerCase().includes("interet")) || (@rep_t5_ch4_q4.toLowerCase().includes("décision")) || (@rep_t5_ch4_q4.toLowerCase().includes("decision")))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -153123,7 +153123,7 @@ Les parents doivent protéger l'enfant, assurer son éducation et prendre les d�
 1. [✅ Terminer le chapitre](SCR_REV_T5_CH04_FIN)
 `endif`
 
-`if !(((("" + @rep_t5_ch4_q4).toLowerCase().includes("protéger")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("proteger")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("sécurité")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("securite"))) && ((("" + @rep_t5_ch4_q4).toLowerCase().includes("éducation")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("education")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("élever")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("elever"))) && ((("" + @rep_t5_ch4_q4).toLowerCase().includes("intérêt")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("interet")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("décision")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("decision")))) && ((("" + @rep_t5_ch4_q4).toLowerCase().includes("protéger")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("proteger")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("sécurité")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("securite")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("éducation")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("education")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("élever")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("elever")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("intérêt")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("interet")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("décision")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("decision")))`
+`if !(((@rep_t5_ch4_q4.toLowerCase().includes("protéger")) || (@rep_t5_ch4_q4.toLowerCase().includes("proteger")) || (@rep_t5_ch4_q4.toLowerCase().includes("sécurité")) || (@rep_t5_ch4_q4.toLowerCase().includes("securite"))) && ((@rep_t5_ch4_q4.toLowerCase().includes("éducation")) || (@rep_t5_ch4_q4.toLowerCase().includes("education")) || (@rep_t5_ch4_q4.toLowerCase().includes("élever")) || (@rep_t5_ch4_q4.toLowerCase().includes("elever"))) && ((@rep_t5_ch4_q4.toLowerCase().includes("intérêt")) || (@rep_t5_ch4_q4.toLowerCase().includes("interet")) || (@rep_t5_ch4_q4.toLowerCase().includes("décision")) || (@rep_t5_ch4_q4.toLowerCase().includes("decision")))) && ((@rep_t5_ch4_q4.toLowerCase().includes("protéger")) || (@rep_t5_ch4_q4.toLowerCase().includes("proteger")) || (@rep_t5_ch4_q4.toLowerCase().includes("sécurité")) || (@rep_t5_ch4_q4.toLowerCase().includes("securite")) || (@rep_t5_ch4_q4.toLowerCase().includes("éducation")) || (@rep_t5_ch4_q4.toLowerCase().includes("education")) || (@rep_t5_ch4_q4.toLowerCase().includes("élever")) || (@rep_t5_ch4_q4.toLowerCase().includes("elever")) || (@rep_t5_ch4_q4.toLowerCase().includes("intérêt")) || (@rep_t5_ch4_q4.toLowerCase().includes("interet")) || (@rep_t5_ch4_q4.toLowerCase().includes("décision")) || (@rep_t5_ch4_q4.toLowerCase().includes("decision")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -153137,7 +153137,7 @@ Les parents doivent protéger l'enfant, assurer son éducation et prendre les d�
 3. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
 `endif`
 
-`if !((("" + @rep_t5_ch4_q4).toLowerCase().includes("protéger")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("proteger")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("sécurité")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("securite")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("éducation")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("education")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("élever")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("elever")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("intérêt")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("interet")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("décision")) || (("" + @rep_t5_ch4_q4).toLowerCase().includes("decision")))`
+`if !((@rep_t5_ch4_q4.toLowerCase().includes("protéger")) || (@rep_t5_ch4_q4.toLowerCase().includes("proteger")) || (@rep_t5_ch4_q4.toLowerCase().includes("sécurité")) || (@rep_t5_ch4_q4.toLowerCase().includes("securite")) || (@rep_t5_ch4_q4.toLowerCase().includes("éducation")) || (@rep_t5_ch4_q4.toLowerCase().includes("education")) || (@rep_t5_ch4_q4.toLowerCase().includes("élever")) || (@rep_t5_ch4_q4.toLowerCase().includes("elever")) || (@rep_t5_ch4_q4.toLowerCase().includes("intérêt")) || (@rep_t5_ch4_q4.toLowerCase().includes("interet")) || (@rep_t5_ch4_q4.toLowerCase().includes("décision")) || (@rep_t5_ch4_q4.toLowerCase().includes("decision")))`
 :::danger 🔴 Mauvaise réponse
 Votre réponse ne contient aucun des mots-clés attendus.
 
@@ -410238,9 +410238,11 @@ Ne récitez pas un texte appris par cœur et n’inventez pas une réponse. Une 
 
 ## SCR_FAQ_CATEGORIES
 
-### Parcourir la FAQ
+### 🗂️ Choisissez un thème
 
-<!-- Liste dynamique : LISTE_CATEGORIES. Les choix sont générés depuis 99_NAVIGATION. -->
+:::info 🧭 Trouvez rapidement votre réponse
+Choisissez le thème qui correspond à votre question. Chaque fiche apporte une réponse simple, puis vous permet de poursuivre dans la même catégorie.
+:::
 
 1. [📘 Examen civique](SCR_FAQ_EXAMEN_MENU)
 2. [📝 Inscription, prix et organisation](SCR_FAQ_INSCRIPTION_MENU)
@@ -410249,25 +410251,25 @@ Ne récitez pas un texte appris par cœur et n’inventez pas une réponse. Une 
 5. [👤 Entretien de naturalisation](SCR_FAQ_ENTRETIEN_MENU)
 6. [💻 NovaFrate](SCR_FAQ_NOVAFRATE_MENU)
 7. [ℹ️ Conseils de réussite](SCR_FAQ_CONSEILS_MENU)
-8. [Retour à la FAQ](SCR_FAQ_MENU)
-9. [Retour au menu principal](MENU_PRINCIPAL)
+8. [↩️ Retour à la FAQ](SCR_FAQ_MENU)
+9. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_MENU
 
-### FAQ du Coach
+### ❔ FAQ du Coach civique
 
 :::info ⌨️ Conseil de navigation
 Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
 :::
 
-Recherchez une question ou parcourez les catégories de la FAQ.
+Une question sur l’examen, l’inscription ou votre préparation ? Choisissez le chemin le plus rapide pour obtenir une réponse claire.
 
 1. [🔎 Rechercher une question](SCR_FAQ_SEARCH)
-2. [Parcourir par catégorie](SCR_FAQ_CATEGORIES)
+2. [🗂️ Parcourir par thème](SCR_FAQ_CATEGORIES)
 3. [⭐ Questions fréquentes](SCR_FAQ_POPULAR)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Écran d’entrée -->
 
@@ -410275,9 +410277,11 @@ Recherchez une question ou parcourez les catégories de la FAQ.
 
 ## SCR_FAQ_POPULAR
 
-### Questions les plus fréquentes
+### ⭐ Les questions les plus fréquentes
 
-<!-- Liste dynamique : LISTE_POPULAR. Les choix sont générés depuis 99_NAVIGATION. -->
+:::success 🚀 Accès rapide
+Sélectionnez une question fréquemment posée pour afficher immédiatement la réponse.
+:::
 
 1. [Qu'est-ce que l'examen civique ?](SCR_FAQ_001)
 2. [Combien de questions comporte l'examen civique ?](SCR_FAQ_004)
@@ -410291,8 +410295,8 @@ Recherchez une question ou parcourez les catégories de la FAQ.
 10. [Les questions proposées sur NovaFrate sont-elles officielles ?](SCR_FAQ_053)
 11. [Que vais-je trouver sur NovaFrate ?](SCR_FAQ_054)
 12. [Comment bien préparer l'examen civique ?](SCR_FAQ_063)
-13. [Retour à la FAQ](SCR_FAQ_MENU)
-14. [Retour au menu principal](MENU_PRINCIPAL)
+13. [↩️ Retour à la FAQ](SCR_FAQ_MENU)
+14. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Sélection éditoriale -->
 
@@ -410327,22 +410331,21 @@ La recherche est maintenant assurée par l’assistant « Poser une question » 
 
 Aucune réponse exacte n’a été trouvée. Consultez le glossaire, les révisions ou les conseils de réussite.
 
-1. [Nouvelle recherche](SCR_FAQ_SEARCH)
-2. [Consulter le glossaire](SCR_GLO_MENU)
-3. [Consulter les révisions](SCR_REV_MENU)
-4. [Voir les conseils de réussite](SCR_CONS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+2. [📖 Consulter le glossaire](SCR_GLO_MENU)
+3. [📚 Consulter les révisions](SCR_REV_MENU)
+4. [💡 Voir les conseils de réussite](SCR_CONS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
 ## SCR_FAQ_063
 
-### Comment bien préparer l'examen civique ?
+### 🎯 Comment bien préparer l'examen civique ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=1; {faq_id}=FAQ-063 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Conseils de réussite
 Une bonne préparation repose avant tout sur la régularité.
 
 Nous vous conseillons de :
@@ -410353,11 +410356,12 @@ Nous vous conseillons de :
 - réaliser plusieurs examens blancs avant le jour de l'épreuve.
 
 Le Coach pédagogique adapte vos révisions en fonction de vos résultats.
+:::
 
-1. [Question suivante](SCR_FAQ_064)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_CONSEILS_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [➡️ Question suivante](SCR_FAQ_064)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_CONSEILS_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410365,23 +410369,23 @@ Le Coach pédagogique adapte vos révisions en fonction de vos résultats.
 
 ## SCR_FAQ_064
 
-### Combien de temps faut-il réviser ?
+### 🎯 Combien de temps faut-il réviser ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=2; {faq_id}=FAQ-064 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Conseils de réussite
 Il n'existe pas de durée idéale.
 
 Cela dépend de votre niveau de départ et de vos connaissances.
 
 Quelques séances régulières de 15 à 30 minutes sont généralement plus efficaces qu'une longue révision réalisée la veille de l'examen.
+:::
 
-1. [Question précédente](SCR_FAQ_063)
-2. [Question suivante](SCR_FAQ_065)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_CONSEILS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_063)
+2. [➡️ Question suivante](SCR_FAQ_065)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_CONSEILS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410389,12 +410393,11 @@ Quelques séances régulières de 15 à 30 minutes sont généralement plus effi
 
 ## SCR_FAQ_065
 
-### Dois-je apprendre toutes les réponses par cœur ?
+### 🎯 Dois-je apprendre toutes les réponses par cœur ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=3; {faq_id}=FAQ-065 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Conseils de réussite
 Non.
 
 L'objectif est de comprendre les notions.
@@ -410402,12 +410405,13 @@ L'objectif est de comprendre les notions.
 Les questions peuvent être formulées différemment le jour de l'examen.
 
 Une bonne compréhension vous permettra de répondre correctement même si la formulation change.
+:::
 
-1. [Question précédente](SCR_FAQ_064)
-2. [Question suivante](SCR_FAQ_066)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_CONSEILS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_064)
+2. [➡️ Question suivante](SCR_FAQ_066)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_CONSEILS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410415,12 +410419,11 @@ Une bonne compréhension vous permettra de répondre correctement même si la fo
 
 ## SCR_FAQ_066
 
-### Comment retenir les dates importantes ?
+### 🎯 Comment retenir les dates importantes ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=4; {faq_id}=FAQ-066 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Conseils de réussite
 Il est conseillé d'associer chaque date à un événement important.
 
 Par exemple :
@@ -410430,12 +410433,13 @@ Par exemple :
 - 1958 → Constitution de la Ve République
 
 Le Coach propose des rappels réguliers afin de faciliter la mémorisation.
+:::
 
-1. [Question précédente](SCR_FAQ_065)
-2. [Question suivante](SCR_FAQ_067)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_CONSEILS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_065)
+2. [➡️ Question suivante](SCR_FAQ_067)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_CONSEILS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410443,12 +410447,11 @@ Le Coach propose des rappels réguliers afin de faciliter la mémorisation.
 
 ## SCR_FAQ_067
 
-### Que faire si je me trompe souvent sur un même thème ?
+### 🎯 Que faire si je me trompe souvent sur un même thème ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=5; {faq_id}=FAQ-067 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Conseils de réussite
 Il est préférable de retravailler le thème concerné avant de poursuivre vos révisions.
 
 Le Coach pédagogique identifie automatiquement vos difficultés et peut vous proposer :
@@ -410456,12 +410459,13 @@ Le Coach pédagogique identifie automatiquement vos difficultés et peut vous pr
 - de revoir le cours ;
 - de consulter le glossaire ;
 - de refaire des questions similaires.
+:::
 
-1. [Question précédente](SCR_FAQ_066)
-2. [Question suivante](SCR_FAQ_068)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_CONSEILS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_066)
+2. [➡️ Question suivante](SCR_FAQ_068)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_CONSEILS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410469,12 +410473,11 @@ Le Coach pédagogique identifie automatiquement vos difficultés et peut vous pr
 
 ## SCR_FAQ_068
 
-### Comment répondre aux questions ouvertes ?
+### 🎯 Comment répondre aux questions ouvertes ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=6; {faq_id}=FAQ-068 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Conseils de réussite
 Prenez le temps de lire attentivement la question.
 
 Répondez avec des mots simples et précis.
@@ -410482,12 +410485,13 @@ Répondez avec des mots simples et précis.
 Lorsque plusieurs éléments sont attendus, essayez de tous les citer.
 
 Le Coach vous indique toujours les éléments essentiels attendus dans la réponse.
+:::
 
-1. [Question précédente](SCR_FAQ_067)
-2. [Question suivante](SCR_FAQ_069)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_CONSEILS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_067)
+2. [➡️ Question suivante](SCR_FAQ_069)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_CONSEILS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410495,23 +410499,23 @@ Le Coach vous indique toujours les éléments essentiels attendus dans la répon
 
 ## SCR_FAQ_069
 
-### Que faire si je ne connais pas une réponse ?
+### 🎯 Que faire si je ne connais pas une réponse ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=7; {faq_id}=FAQ-069 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Conseils de réussite
 Ne cherchez pas à mémoriser immédiatement la bonne réponse.
 
 Prenez le temps de comprendre l'explication proposée par le Coach.
 
 Il vous reposera ensuite une question similaire afin de vérifier que la notion est acquise.
+:::
 
-1. [Question précédente](SCR_FAQ_068)
-2. [Question suivante](SCR_FAQ_070)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_CONSEILS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_068)
+2. [➡️ Question suivante](SCR_FAQ_070)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_CONSEILS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410520,6 +410524,10 @@ Il vous reposera ensuite une question similaire afin de vérifier que la notion 
 ## SCR_FAQ_CONSEILS_MENU
 
 ### ℹ️ Conseils de réussite
+
+:::info 🧭 Dans ce thème
+Méthodes de révision, mémorisation, stress et préparation.
+:::
 
 <!-- Variables : {categorie}=CONSEILS -->
 
@@ -410534,9 +410542,9 @@ Il vous reposera ensuite une question similaire afin de vérifier que la notion 
 7. [Que faire si je ne connais pas une réponse ?](SCR_FAQ_069)
 8. [Comment gérer le stress avant l'examen ?](SCR_FAQ_070)
 9. [Comment savoir si je suis prêt pour l'examen ?](SCR_FAQ_071)
-10. [Rechercher dans la FAQ](SCR_FAQ_SEARCH)
-11. [Retour aux catégories](SCR_FAQ_CATEGORIES)
-12. [Retour au menu principal](MENU_PRINCIPAL)
+10. [🔎 Rechercher dans la FAQ](SCR_FAQ_SEARCH)
+11. [🗂️ Retour aux thèmes](SCR_FAQ_CATEGORIES)
+12. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Réviser efficacement, mémoriser, gérer le stress et savoir si l’on est prêt. -->
 
@@ -410544,12 +410552,11 @@ Il vous reposera ensuite une question similaire afin de vérifier que la notion 
 
 ## SCR_FAQ_070
 
-### Comment gérer le stress avant l'examen ?
+### 🎯 Comment gérer le stress avant l'examen ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=8; {faq_id}=FAQ-070 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Conseils de réussite
 Le stress est normal.
 
 Une bonne préparation permet de gagner en confiance.
@@ -410562,12 +410569,13 @@ Avant l'examen :
 - répondez calmement.
 
 Le Coach vous aide à vous entraîner dans des conditions proches de l'examen afin de réduire le stress le jour J.
+:::
 
-1. [Question précédente](SCR_FAQ_069)
-2. [Question suivante](SCR_FAQ_071)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_CONSEILS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_069)
+2. [➡️ Question suivante](SCR_FAQ_071)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_CONSEILS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410575,20 +410583,20 @@ Le Coach vous aide à vous entraîner dans des conditions proches de l'examen af
 
 ## SCR_FAQ_071
 
-### Comment savoir si je suis prêt pour l'examen ?
+### 🎯 Comment savoir si je suis prêt pour l'examen ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=9; {faq_id}=FAQ-071 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Conseils de réussite
 Lorsque vous obtenez régulièrement de bons résultats aux entraînements et aux examens blancs, vous êtes probablement prêt à passer l'examen.
 
 Le Coach suit votre progression et vous indique les thèmes qu'il est encore conseillé de revoir.
+:::
 
-1. [Question précédente](SCR_FAQ_070)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_CONSEILS_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_070)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_CONSEILS_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410596,12 +410604,11 @@ Le Coach suit votre progression et vous indique les thèmes qu'il est encore con
 
 ## SCR_FAQ_029
 
-### Qu'est-ce que l'OFII ?
+### 🏛️ Qu'est-ce que l'OFII ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=1; {faq_id}=FAQ-029 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · OFII et formation civique
 L'OFII (Office français de l'immigration et de l'intégration) est un établissement public chargé d'accompagner les personnes étrangères dans leur parcours d'intégration en France.
 
 Il intervient notamment dans :
@@ -410610,11 +410617,12 @@ Il intervient notamment dans :
 - le Contrat d'Intégration Républicaine (CIR) ;
 - les formations civiques ;
 - les formations linguistiques lorsque cela est nécessaire.
+:::
 
-1. [Question suivante](SCR_FAQ_030)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_OFII_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [➡️ Question suivante](SCR_FAQ_030)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_OFII_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410622,12 +410630,11 @@ Il intervient notamment dans :
 
 ## SCR_FAQ_030
 
-### Qu'est-ce que la formation civique de l'OFII ?
+### 🏛️ Qu'est-ce que la formation civique de l'OFII ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=2; {faq_id}=FAQ-030 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · OFII et formation civique
 La formation civique est une formation de 4 jours obligatoire dans le cadre du Contrat d'Intégration Républicaine (CIR).
 
 Elle permet de découvrir :
@@ -410638,12 +410645,13 @@ Elle permet de découvrir :
 - les principales règles de la vie en société.
 
 Cette formation favorise l'intégration des nouveaux arrivants et prépare à l'examen civique, mais ne le remplace pas.
+:::
 
-1. [Question précédente](SCR_FAQ_029)
-2. [Question suivante](SCR_FAQ_031)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_OFII_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_029)
+2. [➡️ Question suivante](SCR_FAQ_031)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_OFII_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410651,19 +410659,19 @@ Cette formation favorise l'intégration des nouveaux arrivants et prépare à l'
 
 ## SCR_FAQ_031
 
-### Combien de temps dure la formation civique ?
+### 🏛️ Combien de temps dure la formation civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=3; {faq_id}=FAQ-031 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · OFII et formation civique
 La formation civique de l'OFII dure 4 jours (soit 24 heures au total). Elle se déroule généralement sur 4 journées consécutives ou réparties sur plusieurs semaines.
+:::
 
-1. [Question précédente](SCR_FAQ_030)
-2. [Question suivante](SCR_FAQ_032)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_OFII_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_030)
+2. [➡️ Question suivante](SCR_FAQ_032)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_OFII_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410671,12 +410679,11 @@ La formation civique de l'OFII dure 4 jours (soit 24 heures au total). Elle se d
 
 ## SCR_FAQ_032
 
-### Qu'est-ce que le Contrat d'Intégration Républicaine (CIR) ?
+### 🏛️ Qu'est-ce que le Contrat d'Intégration Républicaine (CIR) ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=4; {faq_id}=FAQ-032 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · OFII et formation civique
 Le Contrat d'Intégration Républicaine (CIR) est un engagement entre l'État français et les primo-arrivants
 
 Il prévoit notamment :
@@ -410686,12 +410693,13 @@ Il prévoit notamment :
 - et, lorsque cela est nécessaire, une formation en langue française.
 
 L'objectif est de favoriser une bonne intégration dans la société française. Le CIR est obligatoire pour obtenir une carte de séjour pluriannuelle.
+:::
 
-1. [Question précédente](SCR_FAQ_031)
-2. [Question suivante](SCR_FAQ_033)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_OFII_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_031)
+2. [➡️ Question suivante](SCR_FAQ_033)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_OFII_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410700,6 +410708,10 @@ L'objectif est de favoriser une bonne intégration dans la société française.
 ## SCR_FAQ_OFII_MENU
 
 ### 🏛️ OFII et formation civique
+
+:::info 🧭 Dans ce thème
+Formation civique, parcours OFII et différences avec l’examen.
+:::
 
 <!-- Variables : {categorie}=OFII -->
 
@@ -410713,9 +410725,9 @@ L'objectif est de favoriser une bonne intégration dans la société française.
 6. [La formation civique suffit-elle pour réussir l'examen civique ?](SCR_FAQ_034)
 7. [L'OFII organise-t-il l'examen civique ?](SCR_FAQ_035)
 8. [Que se passe-t-il après la formation civique ?](SCR_FAQ_036)
-9. [Rechercher dans la FAQ](SCR_FAQ_SEARCH)
-10. [Retour aux catégories](SCR_FAQ_CATEGORIES)
-11. [Retour au menu principal](MENU_PRINCIPAL)
+9. [🔎 Rechercher dans la FAQ](SCR_FAQ_SEARCH)
+10. [🗂️ Retour aux thèmes](SCR_FAQ_CATEGORIES)
+11. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Distinguer l’OFII, le CIR, la formation civique et l’examen. -->
 
@@ -410723,12 +410735,11 @@ L'objectif est de favoriser une bonne intégration dans la société française.
 
 ## SCR_FAQ_033
 
-### Quelle est la différence entre la formation civique et l'examen civique ?
+### 🏛️ Quelle est la différence entre la formation civique et l'examen civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=5; {faq_id}=FAQ-033 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · OFII et formation civique
 La formation civique et l'examen civique sont deux dispositifs différents.
 
 La **formation civique** est une formation de 4 jours permettant d'acquérir les connaissances nécessaires sur la France et les valeurs de la République. Elle est gratuite et obligatoire pour les signataires du contrat d'intégration Républicaine (CIR). 
@@ -410736,12 +410747,13 @@ La **formation civique** est une formation de 4 jours permettant d'acquérir les
 L'**examen civique** permet ensuite de vérifier que ces connaissances sont acquises. Le test est payant et comprend 40 questions. 
 
 La formation prépare donc à l'examen, mais ne le remplace pas.
+:::
 
-1. [Question précédente](SCR_FAQ_032)
-2. [Question suivante](SCR_FAQ_034)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_OFII_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_032)
+2. [➡️ Question suivante](SCR_FAQ_034)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_OFII_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410749,23 +410761,23 @@ La formation prépare donc à l'examen, mais ne le remplace pas.
 
 ## SCR_FAQ_034
 
-### La formation civique suffit-elle pour réussir l'examen civique ?
+### 🏛️ La formation civique suffit-elle pour réussir l'examen civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=6; {faq_id}=FAQ-034 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · OFII et formation civique
 La formation civique constitue une excellente base, mais elle ne couvre pas toujours l'ensemble des connaissances évaluées lors de l'examen.
 
 Pour augmenter vos chances de réussite, il est conseillé de compléter cette formation par un entraînement régulier avec des questions similaires à celles de l'examen.
 
 Le Coach pédagogique est conçu pour vous accompagner dans cette préparation.
+:::
 
-1. [Question précédente](SCR_FAQ_033)
-2. [Question suivante](SCR_FAQ_035)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_OFII_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_033)
+2. [➡️ Question suivante](SCR_FAQ_035)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_OFII_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410773,12 +410785,11 @@ Le Coach pédagogique est conçu pour vous accompagner dans cette préparation.
 
 ## SCR_FAQ_035
 
-### L'OFII organise-t-il l'examen civique ?
+### 🏛️ L'OFII organise-t-il l'examen civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=7; {faq_id}=FAQ-035 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · OFII et formation civique
 Non.
 
 L'OFII organise la formation civique dans le cadre du Contrat d'Intégration Républicaine.
@@ -410786,12 +410797,13 @@ L'OFII organise la formation civique dans le cadre du Contrat d'Intégration Ré
 L'examen civique est organisé par des centres agréés selon les modalités prévues par la réglementation.
 
 Si vous souhaitez passer l'examen, utilisez la rubrique **« Passer mon examen »** du Coach ou consultez le site de **FRATE Formation** pour trouver un centre et vous inscrire.
+:::
 
-1. [Question précédente](SCR_FAQ_034)
-2. [Question suivante](SCR_FAQ_036)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_OFII_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_034)
+2. [➡️ Question suivante](SCR_FAQ_036)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_OFII_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410799,22 +410811,22 @@ Si vous souhaitez passer l'examen, utilisez la rubrique **« Passer mon examen �
 
 ## SCR_FAQ_036
 
-### Que se passe-t-il après la formation civique ?
+### 🏛️ Que se passe-t-il après la formation civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=8; {faq_id}=FAQ-036 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · OFII et formation civique
 À l'issue de la formation, vous poursuivez votre parcours administratif selon votre situation.
 
 Si votre démarche nécessite la réussite de l'examen civique, vous devrez vous inscrire auprès d'un centre agréé afin de passer l'épreuve.
 
 Le Coach pédagogique peut ensuite vous accompagner dans vos révisions jusqu'au jour de l'examen.
+:::
 
-1. [Question précédente](SCR_FAQ_035)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_OFII_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_035)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_OFII_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410822,20 +410834,20 @@ Le Coach pédagogique peut ensuite vous accompagner dans vos révisions jusqu'au
 
 ## SCR_FAQ_037
 
-### Qu'est-ce que l'entretien de naturalisation ?
+### 👤 Qu'est-ce que l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=1; {faq_id}=FAQ-037 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 L'entretien de naturalisation est un rendez-vous organisé par l'administration afin de vérifier que vous remplissez les conditions pour devenir français.
 
 L'agent échange avec vous sur votre parcours, votre intégration, votre connaissance de la langue française ainsi que des valeurs et des principes de la République. Il dure généralement entre 15 et 30 minutes.
+:::
 
-1. [Question suivante](SCR_FAQ_038)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [➡️ Question suivante](SCR_FAQ_038)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410843,12 +410855,11 @@ L'agent échange avec vous sur votre parcours, votre intégration, votre connais
 
 ## SCR_FAQ_038
 
-### Quelles questions sont posées pendant l'entretien de naturalisation ?
+### 👤 Quelles questions sont posées pendant l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=2; {faq_id}=FAQ-038 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Les questions peuvent porter notamment sur :
 
 - votre parcours personnel et professionnel en France ;
@@ -410860,12 +410871,13 @@ Les questions peuvent porter notamment sur :
 - l'histoire, la culture et la société françaises.
 
 Le contenu peut varier d'un entretien à l'autre.
+:::
 
-1. [Question précédente](SCR_FAQ_037)
-2. [Question suivante](SCR_FAQ_039)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_037)
+2. [➡️ Question suivante](SCR_FAQ_039)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410873,23 +410885,23 @@ Le contenu peut varier d'un entretien à l'autre.
 
 ## SCR_FAQ_039
 
-### Comment répondre à la question : "Pourquoi souhaitez-vous devenir français ?"
+### 👤 Comment répondre à la question : "Pourquoi souhaitez-vous devenir français ?"
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=3; {faq_id}=FAQ-039 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Il n'existe pas de réponse unique.
 
 L'important est de répondre de manière personnelle, sincère et cohérente avec votre parcours.
 
 Expliquez ce qui motive votre demande (intégration, projet de vie, attachement à la France, etc.) sans chercher à réciter une réponse apprise par cœur. Evitez les réponses trop génériques comme "mes enfants sont nés ici alors je souhaite devenir français".
+:::
 
-1. [Question précédente](SCR_FAQ_038)
-2. [Question suivante](SCR_FAQ_040)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_038)
+2. [➡️ Question suivante](SCR_FAQ_040)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410897,21 +410909,21 @@ Expliquez ce qui motive votre demande (intégration, projet de vie, attachement 
 
 ## SCR_FAQ_040
 
-### Combien de temps dure l'entretien de naturalisation ?
+### 👤 Combien de temps dure l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=4; {faq_id}=FAQ-040 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 La durée peut varier selon les situations.
 
 En général, un entretien dure entre **15 et 30 minutes**, mais il peut être plus court ou plus long selon votre dossier et les questions complémentaires posées par l'agent. Si vous avez une parfaite maîtrise de la langue française alors l'entretien peut être court. Dans tous les cas ne vous inquiétez pas du temps passé en entretien, celui-ci n'est pas un indicateur de réussite !
+:::
 
-1. [Question précédente](SCR_FAQ_039)
-2. [Question suivante](SCR_FAQ_041)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_039)
+2. [➡️ Question suivante](SCR_FAQ_041)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410919,23 +410931,23 @@ En général, un entretien dure entre **15 et 30 minutes**, mais il peut être p
 
 ## SCR_FAQ_041
 
-### Quelle est la différence entre l'entretien de naturalisation et l'examen civique ?
+### 👤 Quelle est la différence entre l'entretien de naturalisation et l'examen civique ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=5; {faq_id}=FAQ-041 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 L'examen civique évalue vos connaissances à l'aide d'un QCM (40 questions).
 
 L'entretien de naturalisation permet à un agent d'échanger directement avec vous afin d'apprécier votre intégration, votre niveau de français et votre connaissance des valeurs de la République.
 
 Les deux sont complémentaires mais répondent à des objectifs différents.L'examen teste vos connaissances, alors que l'entretien teste votre assimilation à la culture française.
+:::
 
-1. [Question précédente](SCR_FAQ_040)
-2. [Question suivante](SCR_FAQ_042)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_040)
+2. [➡️ Question suivante](SCR_FAQ_042)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410944,6 +410956,10 @@ Les deux sont complémentaires mais répondent à des objectifs différents.L'ex
 ## SCR_FAQ_ENTRETIEN_MENU
 
 ### 👤 Entretien de naturalisation
+
+:::info 🧭 Dans ce thème
+Déroulement et préparation de l’entretien de naturalisation.
+:::
 
 <!-- Variables : {categorie}=ENTRETIEN -->
 
@@ -410965,9 +410981,9 @@ Les deux sont complémentaires mais répondent à des objectifs différents.L'ex
 14. [Puis-je préparer les réponses à l'avance ?](SCR_FAQ_050)
 15. [Que faire si je suis stressé le jour de l'entretien ?](SCR_FAQ_051)
 16. [Faut-il apprendre des réponses par cœur pour réussir l'entretien ?](SCR_FAQ_052)
-17. [Rechercher dans la FAQ](SCR_FAQ_SEARCH)
-18. [Retour aux catégories](SCR_FAQ_CATEGORIES)
-19. [Retour au menu principal](MENU_PRINCIPAL)
+17. [🔎 Rechercher dans la FAQ](SCR_FAQ_SEARCH)
+18. [🗂️ Retour aux thèmes](SCR_FAQ_CATEGORIES)
+19. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Préparer les questions, les documents, l’attitude et le stress. -->
 
@@ -410975,19 +410991,19 @@ Les deux sont complémentaires mais répondent à des objectifs différents.L'ex
 
 ## SCR_FAQ_042
 
-### L'examen civique est-il obligatoire pour obtenir la naturalisation ?
+### 👤 L'examen civique est-il obligatoire pour obtenir la naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=6; {faq_id}=FAQ-042 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Oui, l'examen civique fait partie des étapes à prévoir pour une demande de naturalisation, sauf cas de dispense prévus par les textes applicables. Il ne remplace pas l'entretien d'assimilation : l'examen vérifie vos connaissances par QCM, tandis que l'entretien évalue votre parcours, votre intégration et votre expression orale.
+:::
 
-1. [Question précédente](SCR_FAQ_041)
-2. [Question suivante](SCR_FAQ_043)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_041)
+2. [➡️ Question suivante](SCR_FAQ_043)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -410995,12 +411011,11 @@ Oui, l'examen civique fait partie des étapes à prévoir pour une demande de na
 
 ## SCR_FAQ_043
 
-### Comment bien préparer son entretien de naturalisation ?
+### 👤 Comment bien préparer son entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=7; {faq_id}=FAQ-043 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Pour préparer votre entretien, il est conseillé de :
 
 - connaître les valeurs de la République ;
@@ -411013,12 +411028,13 @@ Pour préparer votre entretien, il est conseillé de :
 - répondre naturellement aux questions, sans réciter un texte appris par cœur.
 
 Le Coach pédagogique vous aide à travailler chacun de ces points progressivement.
+:::
 
-1. [Question précédente](SCR_FAQ_042)
-2. [Question suivante](SCR_FAQ_044)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_042)
+2. [➡️ Question suivante](SCR_FAQ_044)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411026,23 +411042,23 @@ Le Coach pédagogique vous aide à travailler chacun de ces points progressiveme
 
 ## SCR_FAQ_044
 
-### Dois-je parler parfaitement français pour réussir l'entretien de naturalisation ?
+### 👤 Dois-je parler parfaitement français pour réussir l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=8; {faq_id}=FAQ-044 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Non.
 
 L'objectif n'est pas de parler parfaitement français, mais de démontrer que vous possédez le niveau de langue exigé par la réglementation et que vous êtes capable de comprendre les questions et d'y répondre de manière claire.
 
 N'hésitez pas à demander à l'agent de reformuler une question si vous ne l'avez pas comprise.
+:::
 
-1. [Question précédente](SCR_FAQ_043)
-2. [Question suivante](SCR_FAQ_045)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_043)
+2. [➡️ Question suivante](SCR_FAQ_045)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411050,23 +411066,23 @@ N'hésitez pas à demander à l'agent de reformuler une question si vous ne l'av
 
 ## SCR_FAQ_045
 
-### Puis-je demander à l'agent de répéter ou de reformuler une question ?
+### 👤 Puis-je demander à l'agent de répéter ou de reformuler une question ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=9; {faq_id}=FAQ-045 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Oui.
 
 Si vous ne comprenez pas une question, vous pouvez demander poliment à l'agent de la répéter ou de la reformuler.
 
 Il est préférable de demander une explication plutôt que de répondre au hasard.
+:::
 
-1. [Question précédente](SCR_FAQ_044)
-2. [Question suivante](SCR_FAQ_046)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_044)
+2. [➡️ Question suivante](SCR_FAQ_046)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411074,12 +411090,11 @@ Il est préférable de demander une explication plutôt que de répondre au hasa
 
 ## SCR_FAQ_046
 
-### Quels documents dois-je apporter le jour de l'entretien ?
+### 👤 Quels documents dois-je apporter le jour de l'entretien ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=10; {faq_id}=FAQ-046 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Vous devez apporter les documents demandés dans votre convocation.
 
 Selon votre situation, il peut s'agir notamment :
@@ -411090,12 +411105,13 @@ Selon votre situation, il peut s'agir notamment :
 - et des autres justificatifs demandés par l'administration.
 
 Vérifiez toujours votre convocation avant le rendez-vous.
+:::
 
-1. [Question précédente](SCR_FAQ_045)
-2. [Question suivante](SCR_FAQ_047)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_045)
+2. [➡️ Question suivante](SCR_FAQ_047)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411103,23 +411119,23 @@ Vérifiez toujours votre convocation avant le rendez-vous.
 
 ## SCR_FAQ_047
 
-### Comment dois-je m'habiller pour l'entretien de naturalisation ?
+### 👤 Comment dois-je m'habiller pour l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=11; {faq_id}=FAQ-047 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Il n'existe pas de tenue obligatoire.
 
 Une tenue propre, soignée et adaptée à un entretien administratif est recommandée.
 
 L'essentiel est de vous présenter avec sérieux et de rester naturel.
+:::
 
-1. [Question précédente](SCR_FAQ_046)
-2. [Question suivante](SCR_FAQ_048)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_046)
+2. [➡️ Question suivante](SCR_FAQ_048)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411127,23 +411143,23 @@ L'essentiel est de vous présenter avec sérieux et de rester naturel.
 
 ## SCR_FAQ_048
 
-### Que faire si je ne comprends pas une question pendant l'entretien ?
+### 👤 Que faire si je ne comprends pas une question pendant l'entretien ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=12; {faq_id}=FAQ-048 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Ne répondez pas au hasard.
 
 Demandez calmement à l'agent de répéter ou de reformuler la question.
 
 L'entretien est un échange. Il est préférable de demander une précision plutôt que de donner une réponse incorrecte.
+:::
 
-1. [Question précédente](SCR_FAQ_047)
-2. [Question suivante](SCR_FAQ_049)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_047)
+2. [➡️ Question suivante](SCR_FAQ_049)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411151,23 +411167,23 @@ L'entretien est un échange. Il est préférable de demander une précision plut
 
 ## SCR_FAQ_049
 
-### L'entretien de naturalisation est-il éliminatoire ?
+### 👤 L'entretien de naturalisation est-il éliminatoire ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=13; {faq_id}=FAQ-049 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 L'entretien constitue une étape importante de la procédure de naturalisation.
 
 Il permet notamment d'évaluer votre niveau de français, votre connaissance des valeurs de la République et votre intégration dans la société française.
 
 L'administration prend ensuite sa décision en tenant compte de l'ensemble de votre dossier, et non de l'entretien uniquement.
+:::
 
-1. [Question précédente](SCR_FAQ_048)
-2. [Question suivante](SCR_FAQ_050)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_048)
+2. [➡️ Question suivante](SCR_FAQ_050)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411175,23 +411191,23 @@ L'administration prend ensuite sa décision en tenant compte de l'ensemble de vo
 
 ## SCR_FAQ_050
 
-### Puis-je préparer les réponses à l'avance ?
+### 👤 Puis-je préparer les réponses à l'avance ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=14; {faq_id}=FAQ-050 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Oui, mais il est déconseillé d'apprendre des réponses par cœur.
 
 L'agent recherche avant tout des réponses personnelles, cohérentes et sincères.
 
 Le Coach pédagogique vous aide à comprendre les notions et à vous entraîner à répondre naturellement.
+:::
 
-1. [Question précédente](SCR_FAQ_049)
-2. [Question suivante](SCR_FAQ_051)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_049)
+2. [➡️ Question suivante](SCR_FAQ_051)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411199,23 +411215,23 @@ Le Coach pédagogique vous aide à comprendre les notions et à vous entraîner 
 
 ## SCR_FAQ_051
 
-### Que faire si je suis stressé le jour de l'entretien ?
+### 👤 Que faire si je suis stressé le jour de l'entretien ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=15; {faq_id}=FAQ-051 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Le stress est normal.
 
 Prenez le temps d'écouter les questions, répondez calmement et n'hésitez pas à demander qu'une question soit répétée si nécessaire.
 
 Une bonne préparation est le meilleur moyen de gagner en confiance.
+:::
 
-1. [Question précédente](SCR_FAQ_050)
-2. [Question suivante](SCR_FAQ_052)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_050)
+2. [➡️ Question suivante](SCR_FAQ_052)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411223,22 +411239,22 @@ Une bonne préparation est le meilleur moyen de gagner en confiance.
 
 ## SCR_FAQ_052
 
-### Faut-il apprendre des réponses par cœur pour réussir l'entretien ?
+### 👤 Faut-il apprendre des réponses par cœur pour réussir l'entretien ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=16; {faq_id}=FAQ-052 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Entretien de naturalisation
 Non.
 
 L'entretien de naturalisation n'est pas un exercice de récitation.
 
 L'agent cherche avant tout à vérifier que vous comprenez les valeurs de la République, que vous êtes intégré dans la société française et que vous êtes capable de répondre avec vos propres mots.
+:::
 
-1. [Question précédente](SCR_FAQ_051)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_ENTRETIEN_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_051)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_ENTRETIEN_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411247,6 +411263,10 @@ L'agent cherche avant tout à vérifier que vous comprenez les valeurs de la Ré
 ## SCR_FAQ_NOVAFRATE_MENU
 
 ### 💻 NovaFrate
+
+:::info 🧭 Dans ce thème
+Utilisation de NovaFrate et contenus proposés sur la plateforme.
+:::
 
 <!-- Variables : {categorie}=NOVAFRATE -->
 
@@ -411262,9 +411282,9 @@ L'agent cherche avant tout à vérifier que vous comprenez les valeurs de la Ré
 8. [Le Coach pédagogique peut-il vraiment m'aider à réussir ?](SCR_FAQ_060)
 9. [Comment contacter le support de FRATE Formation ?](SCR_FAQ_061)
 10. [Je n'ai pas trouvé la réponse à ma question. Que puis-je faire ?](SCR_FAQ_062)
-11. [Rechercher dans la FAQ](SCR_FAQ_SEARCH)
-12. [Retour aux catégories](SCR_FAQ_CATEGORIES)
-13. [Retour au menu principal](MENU_PRINCIPAL)
+11. [🔎 Rechercher dans la FAQ](SCR_FAQ_SEARCH)
+12. [🗂️ Retour aux thèmes](SCR_FAQ_CATEGORIES)
+13. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Utiliser la plateforme, le Coach, les accès et le support. -->
 
@@ -411272,12 +411292,11 @@ L'agent cherche avant tout à vérifier que vous comprenez les valeurs de la Ré
 
 ## SCR_FAQ_053
 
-### Les questions proposées sur NovaFrate sont-elles officielles ?
+### 💻 Les questions proposées sur NovaFrate sont-elles officielles ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=1; {faq_id}=FAQ-053 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 Oui.
 
 Les contenus proposés sur NovaFrate sont élaborés à partir des référentiels officiels de l'examen civique publiés par les autorités françaises.
@@ -411290,11 +411309,12 @@ Vous retrouverez :
 - des explications pédagogiques pour mieux comprendre les notions.
 
 L'objectif est de vous préparer efficacement aux différentes mentions de l'examen civique.
+:::
 
-1. [Question suivante](SCR_FAQ_054)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [➡️ Question suivante](SCR_FAQ_054)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411302,12 +411322,11 @@ L'objectif est de vous préparer efficacement aux différentes mentions de l'exa
 
 ## SCR_FAQ_054
 
-### Que vais-je trouver sur NovaFrate ?
+### 💻 Que vais-je trouver sur NovaFrate ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=2; {faq_id}=FAQ-054 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 NovaFrate est une plateforme de préparation à l'examen civique.
 
 Vous y trouverez notamment :
@@ -411321,12 +411340,13 @@ Vous y trouverez notamment :
 - un suivi de votre progression.
 
 La plateforme est conçue pour vous accompagner jusqu'au jour de votre examen.
+:::
 
-1. [Question précédente](SCR_FAQ_053)
-2. [Question suivante](SCR_FAQ_055)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_053)
+2. [➡️ Question suivante](SCR_FAQ_055)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411334,21 +411354,21 @@ La plateforme est conçue pour vous accompagner jusqu'au jour de votre examen.
 
 ## SCR_FAQ_055
 
-### Quand vais-je recevoir mes accès à NovaFrate ?
+### 💻 Quand vais-je recevoir mes accès à NovaFrate ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=3; {faq_id}=FAQ-055 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 Après validation de votre inscription à l'examen auprès de FRATE Formation, vos identifiants NovaFrate sont généralement envoyés dans un délai de **24 heures ouvrées**.
 
 Pensez également à vérifier votre dossier « Courriers indésirables » ou « Spam » si vous ne recevez pas votre e-mail.
+:::
 
-1. [Question précédente](SCR_FAQ_054)
-2. [Question suivante](SCR_FAQ_056)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_054)
+2. [➡️ Question suivante](SCR_FAQ_056)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411356,21 +411376,21 @@ Pensez également à vérifier votre dossier « Courriers indésirables » ou «
 
 ## SCR_FAQ_056
 
-### Comment accéder à NovaFrate ?
+### 💻 Comment accéder à NovaFrate ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=4; {faq_id}=FAQ-056 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 Dès réception de vos identifiants, il vous suffit de vous connecter à la plateforme NovaFrate avec les informations qui vous ont été communiquées par e-mail.
 
 En cas de difficulté de connexion, vous pouvez contacter le support de FRATE Formation.
+:::
 
-1. [Question précédente](SCR_FAQ_055)
-2. [Question suivante](SCR_FAQ_057)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_055)
+2. [➡️ Question suivante](SCR_FAQ_057)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411378,23 +411398,23 @@ En cas de difficulté de connexion, vous pouvez contacter le support de FRATE Fo
 
 ## SCR_FAQ_057
 
-### Combien de temps faut-il pour préparer l'examen civique ?
+### 💻 Combien de temps faut-il pour préparer l'examen civique ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=5; {faq_id}=FAQ-057 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 La durée de préparation dépend de votre niveau de départ.
 
 Une révision régulière, même de courte durée, est généralement plus efficace que de longues séances espacées.
 
 Le Coach pédagogique adapte progressivement les questions afin de vous aider à progresser à votre rythme.
+:::
 
-1. [Question précédente](SCR_FAQ_056)
-2. [Question suivante](SCR_FAQ_058)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_056)
+2. [➡️ Question suivante](SCR_FAQ_058)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411402,21 +411422,21 @@ Le Coach pédagogique adapte progressivement les questions afin de vous aider à
 
 ## SCR_FAQ_058
 
-### Le contenu est-il régulièrement mis à jour ?
+### 💻 Le contenu est-il régulièrement mis à jour ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=6; {faq_id}=FAQ-058 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 Oui.
 
 Les contenus pédagogiques sont mis à jour afin de rester conformes aux évolutions de la réglementation, des référentiels officiels et des modalités de l'examen civique.
+:::
 
-1. [Question précédente](SCR_FAQ_057)
-2. [Question suivante](SCR_FAQ_059)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_057)
+2. [➡️ Question suivante](SCR_FAQ_059)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411424,23 +411444,23 @@ Les contenus pédagogiques sont mis à jour afin de rester conformes aux évolut
 
 ## SCR_FAQ_059
 
-### Dois-je installer une application pour utiliser NovaFrate ?
+### 💻 Dois-je installer une application pour utiliser NovaFrate ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=7; {faq_id}=FAQ-059 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 Non.
 
 NovaFrate est accessible directement en ligne depuis un ordinateur, une tablette ou un smartphone disposant d'une connexion Internet.
 
 Aucune installation particulière n'est nécessaire.
+:::
 
-1. [Question précédente](SCR_FAQ_058)
-2. [Question suivante](SCR_FAQ_060)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_058)
+2. [➡️ Question suivante](SCR_FAQ_060)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411448,12 +411468,11 @@ Aucune installation particulière n'est nécessaire.
 
 ## SCR_FAQ_060
 
-### Le Coach pédagogique peut-il vraiment m'aider à réussir ?
+### 💻 Le Coach pédagogique peut-il vraiment m'aider à réussir ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=8; {faq_id}=FAQ-060 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 Le Coach pédagogique a été conçu pour vous accompagner tout au long de votre préparation.
 
 Il vous aide à :
@@ -411464,12 +411483,13 @@ Il vous aide à :
 - vous entraîner dans des conditions proches de l'examen.
 
 Son objectif est de rendre vos révisions plus simples, plus efficaces et plus personnalisées.
+:::
 
-1. [Question précédente](SCR_FAQ_059)
-2. [Question suivante](SCR_FAQ_061)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_059)
+2. [➡️ Question suivante](SCR_FAQ_061)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411477,23 +411497,23 @@ Son objectif est de rendre vos révisions plus simples, plus efficaces et plus p
 
 ## SCR_FAQ_061
 
-### Comment contacter le support de FRATE Formation ?
+### 💻 Comment contacter le support de FRATE Formation ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=9; {faq_id}=FAQ-061 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 Si vous avez une question concernant votre inscription, votre accès à NovaFrate ou le déroulement de votre préparation, vous pouvez utiliser le formulaire de contact disponible sur le site de FRATE Formation.
 
 L'équipe vous répondra dans les meilleurs délais.
 
 👉 Rendez-vous sur la page **Examen civique** puis dans la rubrique **« Un problème ? Des questions ? Contactez-nous ! »** pour accéder au formulaire de contact.
+:::
 
-1. [Question précédente](SCR_FAQ_060)
-2. [Question suivante](SCR_FAQ_062)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_060)
+2. [➡️ Question suivante](SCR_FAQ_062)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411501,12 +411521,11 @@ L'équipe vous répondra dans les meilleurs délais.
 
 ## SCR_FAQ_062
 
-### Je n'ai pas trouvé la réponse à ma question. Que puis-je faire ?
+### 💻 Je n'ai pas trouvé la réponse à ma question. Que puis-je faire ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=10; {faq_id}=FAQ-062 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · NovaFrate
 Si votre question ne figure pas dans cette FAQ :
 
 - utilisez le Coach conversationnel de NovaFrate ;
@@ -411514,11 +411533,12 @@ Si votre question ne figure pas dans cette FAQ :
 - ou contactez directement l'équipe de FRATE Formation via le formulaire de contact.
 
 Nous vous accompagnerons pour trouver la réponse la plus adaptée à votre situation.
+:::
 
-1. [Question précédente](SCR_FAQ_061)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_NOVAFRATE_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_061)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_NOVAFRATE_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411526,20 +411546,20 @@ Nous vous accompagnerons pour trouver la réponse la plus adaptée à votre situ
 
 ## SCR_FAQ_025
 
-### Quel score faut-il obtenir pour réussir l'examen ?
+### 📊 Quel score faut-il obtenir pour réussir l'examen ?
 
 <!-- Variables : {categorie}=RESULTATS; {ordre}=1; {faq_id}=FAQ-025 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Résultats
 Le score minimum à obtenir est de 32 bonnes réponses sur 40 (soit 80 % de réussite). Il n'y pas de repassage possible, en cas de score non atteint, il faut repasser l'examen. 
 
 Le Coach vous aide à identifier les thèmes à renforcer.
+:::
 
-1. [Question suivante](SCR_FAQ_026)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_RESULTATS_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [➡️ Question suivante](SCR_FAQ_026)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_RESULTATS_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411547,19 +411567,19 @@ Le Coach vous aide à identifier les thèmes à renforcer.
 
 ## SCR_FAQ_026
 
-### Que se passe-t-il si j'échoue à l'examen ?
+### 📊 Que se passe-t-il si j'échoue à l'examen ?
 
 <!-- Variables : {categorie}=RESULTATS; {ordre}=2; {faq_id}=FAQ-026 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Résultats
 Pas de panique, cela n'annule pas votre demande de visa. Mais vous devez : (1) Vous réinscrire à une nouvelle session, (2) Repayer les frais d'inscription, (3) Attendre la prochaine date disponible. C'est pourquoi il est plus économique de bien se préparer dès la première fois.
+:::
 
-1. [Question précédente](SCR_FAQ_025)
-2. [Question suivante](SCR_FAQ_027)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_RESULTATS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_025)
+2. [➡️ Question suivante](SCR_FAQ_027)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_RESULTATS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411567,19 +411587,19 @@ Pas de panique, cela n'annule pas votre demande de visa. Mais vous devez : (1) V
 
 ## SCR_FAQ_027
 
-### L'attestation de réussite a-t-elle une date de fin de validité ?
+### 📊 L'attestation de réussite a-t-elle une date de fin de validité ?
 
 <!-- Variables : {categorie}=RESULTATS; {ordre}=3; {faq_id}=FAQ-027 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Résultats
 Non. Une fois l'examen réussi, cela est définitif. Vous pourrez réutiliser votre attestation pour effectuer d'autres démarches administratives.
+:::
 
-1. [Question précédente](SCR_FAQ_026)
-2. [Question suivante](SCR_FAQ_028)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_RESULTATS_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_026)
+2. [➡️ Question suivante](SCR_FAQ_028)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_RESULTATS_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411589,6 +411609,10 @@ Non. Une fois l'examen réussi, cela est définitif. Vous pourrez réutiliser vo
 
 ### 📊 Résultats
 
+:::info 🧭 Dans ce thème
+Scores, résultats, attestations et possibilités après l’épreuve.
+:::
+
 <!-- Variables : {categorie}=RESULTATS -->
 
 <!-- Liste dynamique : LISTE_RESULTATS. Les choix sont générés depuis 99_NAVIGATION. -->
@@ -411597,9 +411621,9 @@ Non. Une fois l'examen réussi, cela est définitif. Vous pourrez réutiliser vo
 2. [Que se passe-t-il si j'échoue à l'examen ?](SCR_FAQ_026)
 3. [L'attestation de réussite a-t-elle une date de fin de validité ?](SCR_FAQ_027)
 4. [Quand reçoit-on les résultats ?](SCR_FAQ_028)
-5. [Rechercher dans la FAQ](SCR_FAQ_SEARCH)
-6. [Retour aux catégories](SCR_FAQ_CATEGORIES)
-7. [Retour au menu principal](MENU_PRINCIPAL)
+5. [🔎 Rechercher dans la FAQ](SCR_FAQ_SEARCH)
+6. [🗂️ Retour aux thèmes](SCR_FAQ_CATEGORIES)
+7. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Comprendre le score, l’échec, les délais et l’attestation. -->
 
@@ -411607,18 +411631,18 @@ Non. Une fois l'examen réussi, cela est définitif. Vous pourrez réutiliser vo
 
 ## SCR_FAQ_028
 
-### Quand reçoit-on les résultats ?
+### 📊 Quand reçoit-on les résultats ?
 
 <!-- Variables : {categorie}=RESULTATS; {ordre}=4; {faq_id}=FAQ-028 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Résultats
 Généralement, vous obtenez le résultat sous 48 h de la part de Frate Formation. L'attestation vous sera envoyé quelques jours après la passation de l'examen.
+:::
 
-1. [Question précédente](SCR_FAQ_027)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_RESULTATS_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_027)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_RESULTATS_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411626,12 +411650,11 @@ Généralement, vous obtenez le résultat sous 48 h de la part de Frate Formatio
 
 ## SCR_FAQ_001
 
-### Qu'est-ce que l'examen civique ?
+### 📘 Qu'est-ce que l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=1; {faq_id}=FAQ-001 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 L'examen civique est un test obligatoire pour obtenir certains titres de séjour (carte de séjour pluriannuelle ou carte de résident) mais aussi la nationalité française (naturalisation). Il 
 permet d'évaluer vos connaissances sur les valeurs de la République, les institutions françaises, les droits et devoirs, l'histoire, la géographie, la culture française ainsi que la vie en société.
 
@@ -411640,11 +411663,12 @@ Le contenu varie selon que vous préparez :
 - La carte de séjour ;
 - La carte de résident ;
 - Ou La Naturalisation.
+:::
 
-1. [Question suivante](SCR_FAQ_002)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [➡️ Question suivante](SCR_FAQ_002)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411653,6 +411677,10 @@ Le contenu varie selon que vous préparez :
 ## SCR_FAQ_EXAMEN_MENU
 
 ### 📘 Examen civique
+
+:::info 🧭 Dans ce thème
+Format, thèmes, niveaux et règles de l’examen.
+:::
 
 <!-- Variables : {categorie}=EXAMEN -->
 
@@ -411673,9 +411701,9 @@ Le contenu varie selon que vous préparez :
 13. [Existe-t-il des questions pièges dans cet examen ?](SCR_FAQ_013)
 14. [Qui peut être dispensé de passer l'examen civique ?](SCR_FAQ_014)
 15. [Peut-on repasser l'examen si on échoue ?](SCR_FAQ_015)
-16. [Rechercher dans la FAQ](SCR_FAQ_SEARCH)
-17. [Retour aux catégories](SCR_FAQ_CATEGORIES)
-18. [Retour au menu principal](MENU_PRINCIPAL)
+16. [🔎 Rechercher dans la FAQ](SCR_FAQ_SEARCH)
+17. [🗂️ Retour aux thèmes](SCR_FAQ_CATEGORIES)
+18. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Comprendre le format, les thèmes, les niveaux et les règles de l’examen. -->
 
@@ -411683,19 +411711,19 @@ Le contenu varie selon que vous préparez :
 
 ## SCR_FAQ_002
 
-### Qui est concerné par l'examen civique ?
+### 📘 Qui est concerné par l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=2; {faq_id}=FAQ-002 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 L'examen civique concerne toutes les personnes réalisant une première demande de carte de résident, de carte de séjour pluriannuelle ou une demande de naturalisation. Il vise à vérifier vos connaissances concernant la France (fonctionnement des institutions, droits et devoirs du citoyen français, histoire et géographie de la France, culture française...)
+:::
 
-1. [Question précédente](SCR_FAQ_001)
-2. [Question suivante](SCR_FAQ_003)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_001)
+2. [➡️ Question suivante](SCR_FAQ_003)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411703,12 +411731,11 @@ L'examen civique concerne toutes les personnes réalisant une première demande 
 
 ## SCR_FAQ_003
 
-### Quelles sont les thématiques officielles de l'examen civique ?
+### 📘 Quelles sont les thématiques officielles de l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=3; {faq_id}=FAQ-003 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 Les questions portent sur cinq grandes thématiques :
 
 - Les valeurs et principes de la République française ;
@@ -411718,12 +411745,13 @@ Les questions portent sur cinq grandes thématiques :
 - La vie dans la société française.
 
 Ces thèmes correspondent au référentiel officiel publié par les autorités françaises.
+:::
 
-1. [Question précédente](SCR_FAQ_002)
-2. [Question suivante](SCR_FAQ_004)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_002)
+2. [➡️ Question suivante](SCR_FAQ_004)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411731,19 +411759,19 @@ Ces thèmes correspondent au référentiel officiel publié par les autorités f
 
 ## SCR_FAQ_004
 
-### Combien de questions comporte l'examen civique ?
+### 📘 Combien de questions comporte l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=4; {faq_id}=FAQ-004 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 L'examen comporte 40 questions QCM : 28 questions de connaissances et 12 mises en situation. Vous avez 45 minutes pour répondre. Vous devez obtenir 32 bonnes réponses sur 40 pour valider le test.
+:::
 
-1. [Question précédente](SCR_FAQ_003)
-2. [Question suivante](SCR_FAQ_005)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_003)
+2. [➡️ Question suivante](SCR_FAQ_005)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411751,19 +411779,19 @@ L'examen comporte 40 questions QCM : 28 questions de connaissances et 12 mises e
 
 ## SCR_FAQ_005
 
-### Quelles sont les diffénces entre les examens Carte de séjour, Carte de résident et Naturalisation ?
+### 📘 Quelles sont les diffénces entre les examens Carte de séjour, Carte de résident et Naturalisation ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=5; {faq_id}=FAQ-005 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 Les trois examens civiques ont des niveaux de difficulté différents : CSP (Carte de Séjour Pluriannuelle, 4 ans) est le plus accessible avec 191 questions officielles. CR (Carte de Résident, 10 ans) est plus exigeant avec 209 questions. NAT (Naturalisation) est le plus difficile avec 258 questions approfondies sur l'histoire et les institutions. Dans tous les cas, 40 questions sont tirées au sort le jour J et le nombre de bonnes réponses à donner reste le même (32/40).
+:::
 
-1. [Question précédente](SCR_FAQ_004)
-2. [Question suivante](SCR_FAQ_006)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_004)
+2. [➡️ Question suivante](SCR_FAQ_006)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411771,19 +411799,19 @@ Les trois examens civiques ont des niveaux de difficulté différents : CSP (Car
 
 ## SCR_FAQ_006
 
-### A quoi correspond l'examen civique pour la naturalisation ?
+### 📘 A quoi correspond l'examen civique pour la naturalisation ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=6; {faq_id}=FAQ-006 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 L'examen civique pour la naturalisation est le test officiel demandé lorsque l'on souhaite demander la nationalité française. Il permet d'évaluer la connaissance des valeurs de la République, les droits et devoirs du citoyen français, de connaître l'histoire de la France et sa géograhie. La banque de questions pour la **naturalisation** compte 258 questions officielles, avec un format de 40 QCM en 45 minutes et un seuil de réussite établi à 80%.
+:::
 
-1. [Question précédente](SCR_FAQ_005)
-2. [Question suivante](SCR_FAQ_007)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_005)
+2. [➡️ Question suivante](SCR_FAQ_007)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411791,19 +411819,19 @@ L'examen civique pour la naturalisation est le test officiel demandé lorsque l'
 
 ## SCR_FAQ_007
 
-### A quoi correspond l'examen civique pour la carte de résident ?
+### 📘 A quoi correspond l'examen civique pour la carte de résident ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=7; {faq_id}=FAQ-007 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 L'examen civique pour la carte de résident est le test officiel demandé lorsque l'on effectue une première demande de carte de résident. Comme pour la naturalisation ,ce test permet d'évaluer la connaissance des valeurs de la République et des institutions, les droits et les devoirs du citoyen français, la culture française. La banque de questions pour la **carte résident** compte 209 questions officielles, avec un format de 40 QCM en 45 minutes et un seuil de réussite établi à 80%.
+:::
 
-1. [Question précédente](SCR_FAQ_006)
-2. [Question suivante](SCR_FAQ_008)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_006)
+2. [➡️ Question suivante](SCR_FAQ_008)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411811,19 +411839,19 @@ L'examen civique pour la carte de résident est le test officiel demandé lorsqu
 
 ## SCR_FAQ_008
 
-### A quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?
+### 📘 A quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=8; {faq_id}=FAQ-008 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 L'examen civique pour la carte de séjour pluriannuelle est le test officiel demandé lorsqu'on effectue une première demande de carte de séjour pluriannuelle. Comme pour la carte de résident et la demande de naturalisation, ce test va porter sur 5 grandes thématiques qui permettront d'évaluer les connaissances de la France et de son fonctionnement. La banque de questions CSP compte 191 questions officielles, avec un format de 40 QCM en 45 minutes et un seuil de réussite établi à 80%.
+:::
 
-1. [Question précédente](SCR_FAQ_007)
-2. [Question suivante](SCR_FAQ_009)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_007)
+2. [➡️ Question suivante](SCR_FAQ_009)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411831,19 +411859,19 @@ L'examen civique pour la carte de séjour pluriannuelle est le test officiel dem
 
 ## SCR_FAQ_009
 
-### Quel score doit-on obtenir pour réussir l'examen civique ?
+### 📘 Quel score doit-on obtenir pour réussir l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=9; {faq_id}=FAQ-009 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 Pour réussir l'examen civique, vous devez obtenir 80 % de bonnes réponses soit 32 réponses sur 40. Si vous avez obtenu 31/40 alors c'est un échec.
+:::
 
-1. [Question précédente](SCR_FAQ_008)
-2. [Question suivante](SCR_FAQ_010)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_008)
+2. [➡️ Question suivante](SCR_FAQ_010)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411851,19 +411879,19 @@ Pour réussir l'examen civique, vous devez obtenir 80 % de bonnes réponses soit
 
 ## SCR_FAQ_010
 
-### Que se passe-t-il si on triche à l'examen ?
+### 📘 Que se passe-t-il si on triche à l'examen ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=10; {faq_id}=FAQ-010 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 La fraude à l'examen civique a de lourdes conséquences : vous serez immédiatement exclu de la session en cours et votre tentative sera invalidée. De plus vous serez interdit de repasser l'examen pendant 2 ans. Cette interdiction peut également avoir un impact sur votre dossier administratif auprès de la préfecture.
+:::
 
-1. [Question précédente](SCR_FAQ_009)
-2. [Question suivante](SCR_FAQ_011)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_009)
+2. [➡️ Question suivante](SCR_FAQ_011)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411871,19 +411899,19 @@ La fraude à l'examen civique a de lourdes conséquences : vous serez immédiate
 
 ## SCR_FAQ_011
 
-### L'examen est-il difficile ?
+### 📘 L'examen est-il difficile ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=11; {faq_id}=FAQ-011 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 Cela dépend du type d'examen que vous passez. Le niveau pour la carte de séjour pluriannuelle est accessible, il demande du bon sens et une connaissance de base des cinq grandes thématiques (principes et valeurs de la République, Droits et devoirs...). Le niveau pour la carte de résident est plus difficile et nécessite d'apprendre des dates historiques et le fonctionnement des institutions. Enfin le niveau pour la naturalisation est le plux exigeant des trois. Les questions sont plus approfondies sur l'histoire, la culture ou encore les institutions françaises.
+:::
 
-1. [Question précédente](SCR_FAQ_010)
-2. [Question suivante](SCR_FAQ_012)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_010)
+2. [➡️ Question suivante](SCR_FAQ_012)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411891,19 +411919,19 @@ Cela dépend du type d'examen que vous passez. Le niveau pour la carte de séjou
 
 ## SCR_FAQ_012
 
-### Quel est le niveau de français requis pour passer l'examen ?
+### 📘 Quel est le niveau de français requis pour passer l'examen ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=12; {faq_id}=FAQ-012 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 L'examen se déroule uniquement en français, sans traduction disponible. Les questions sont formulées simplement (niveau A2/B1). Les questions sont des QCM aussi bien pour les 28 questions de connaissances générales que les 12 mises en situation.
+:::
 
-1. [Question précédente](SCR_FAQ_011)
-2. [Question suivante](SCR_FAQ_013)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_011)
+2. [➡️ Question suivante](SCR_FAQ_013)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411911,21 +411939,21 @@ L'examen se déroule uniquement en français, sans traduction disponible. Les qu
 
 ## SCR_FAQ_013
 
-### Existe-t-il des questions pièges dans cet examen ?
+### 📘 Existe-t-il des questions pièges dans cet examen ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=13; {faq_id}=FAQ-013 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 Oui, notamment pour les "mises en situation" qui vous poussent à raisonner et à évaluer votre compréhension d'une situation en fonction des connaissances que vous avez acqusise. Exemple : Une entreprise refuse de recruter une personne en situation d'handicap. Quelle valeur républicaine n'est pas respectée ? 
 
 Conseil : Lisez bien les mots comme "toujours", "jamais" ou "interdit" qui vous donneront des indices pour répondre.
+:::
 
-1. [Question précédente](SCR_FAQ_012)
-2. [Question suivante](SCR_FAQ_014)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_012)
+2. [➡️ Question suivante](SCR_FAQ_014)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411933,19 +411961,19 @@ Conseil : Lisez bien les mots comme "toujours", "jamais" ou "interdit" qui vous 
 
 ## SCR_FAQ_014
 
-### Qui peut être dispensé de passer l'examen civique ?
+### 📘 Qui peut être dispensé de passer l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=14; {faq_id}=FAQ-014 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 Les dispenses dépendent du titre demandé — il n'existe pas de liste universelle. Pour la CSP : Passeport Talent (hors CIR), protection subsidiaire et apatrides (et familles), 65 ans ou plus, dispense médicale. Pour la carte de résident longue durée-UE, certains de ces statuts peuvent être concernés par l'examen. Pour la naturalisation, seule la dispense médicale est officiellement documentée ; la dispense à 65 ans n'y est pas explicitement confirmée. Vérifiez toujours la fiche Service-Public correspondant à votre démarche exacte. Les renouvellements de titre ne nécessitent pas l'examen.
+:::
 
-1. [Question précédente](SCR_FAQ_013)
-2. [Question suivante](SCR_FAQ_015)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_013)
+2. [➡️ Question suivante](SCR_FAQ_015)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411953,18 +411981,18 @@ Les dispenses dépendent du titre demandé — il n'existe pas de liste universe
 
 ## SCR_FAQ_015
 
-### Peut-on repasser l'examen si on échoue ?
+### 📘 Peut-on repasser l'examen si on échoue ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=15; {faq_id}=FAQ-015 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 Oui, il n'existe aucune limite de tentatives. Si vous échouez, vous pouvez retenter votre chance immédiatement (en repyant toute fois les frais d'examen). Rappel : en cas de fraude, vous serez interdit de le repasser pendant 2 ans.
+:::
 
-1. [Question précédente](SCR_FAQ_014)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_EXAMEN_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_014)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_EXAMEN_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411972,23 +412000,23 @@ Oui, il n'existe aucune limite de tentatives. Si vous échouez, vous pouvez rete
 
 ## SCR_FAQ_016
 
-### Faut-il passer l'examen avant ou après avoir déposé sa demande ?
+### 📘 Faut-il passer l'examen avant ou après avoir déposé sa demande ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=1; {faq_id}=FAQ-016 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 Dans la plupart des démarches concernées, l'examen civique doit être réussi **avant** le dépôt de votre dossier. L'attestation de réussite est ensuite jointe à votre demande, selon les modalités prévues par l'administration.
 
 👉 Pour vous inscrire facilement, vous pouvez :
 
 - vous rendre dans la rubrique **« Passer mon examen »** du Coach ;
 - ou consulter la page d'inscription de puis choisir votre région et compléter le formulaire d'inscription.
+:::
 
-1. [Question suivante](SCR_FAQ_017)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_INSCRIPTION_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [➡️ Question suivante](SCR_FAQ_017)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_INSCRIPTION_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -411996,12 +412024,11 @@ Dans la plupart des démarches concernées, l'examen civique doit être réussi 
 
 ## SCR_FAQ_017
 
-### Où puis-je passer l'examen civique ?
+### 📘 Où puis-je passer l'examen civique ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=2; {faq_id}=FAQ-017 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Examen civique
 L'examen se passe dans un **centre agréé** par l'Etat. Frate Formation est organisme agréé. 
 
 Pour trouver une session près de chez vous :
@@ -412010,12 +412037,13 @@ Pour trouver une session près de chez vous :
 - ou consultez et choisissez votre région.
 
 Vous y trouverez les centres disponibles ainsi que les prochaines dates d'examen.
+:::
 
-1. [Question précédente](SCR_FAQ_016)
-2. [Question suivante](SCR_FAQ_018)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_INSCRIPTION_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_016)
+2. [➡️ Question suivante](SCR_FAQ_018)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_INSCRIPTION_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -412024,6 +412052,10 @@ Vous y trouverez les centres disponibles ainsi que les prochaines dates d'examen
 ## SCR_FAQ_INSCRIPTION_MENU
 
 ### 📝 Inscription, prix et organisation
+
+:::info 🧭 Dans ce thème
+Centres, inscription, tarifs et organisation du jour J.
+:::
 
 <!-- Variables : {categorie}=INSCRIPTION -->
 
@@ -412038,9 +412070,9 @@ Vous y trouverez les centres disponibles ainsi que les prochaines dates d'examen
 7. [Puis-je changer de centre après mon inscription ?](SCR_FAQ_022)
 8. [Puis-je passer l'examen avec un récépissé expiré ?](SCR_FAQ_023)
 9. [Comment choisir le centre d'examen le plus proche de chez moi ?](SCR_FAQ_024)
-10. [Rechercher dans la FAQ](SCR_FAQ_SEARCH)
-11. [Retour aux catégories](SCR_FAQ_CATEGORIES)
-12. [Retour au menu principal](MENU_PRINCIPAL)
+10. [🔎 Rechercher dans la FAQ](SCR_FAQ_SEARCH)
+11. [🗂️ Retour aux thèmes](SCR_FAQ_CATEGORIES)
+12. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Trouver un centre, s’inscrire, connaître le tarif et préparer le jour J. -->
 
@@ -412048,12 +412080,11 @@ Vous y trouverez les centres disponibles ainsi que les prochaines dates d'examen
 
 ## SCR_FAQ_018
 
-### Comment s'inscrire à l'examen civique ?
+### 📝 Comment s'inscrire à l'examen civique ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=3; {faq_id}=FAQ-018 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Inscription et organisation
 L'inscription est simple.
 
 1. Choisissez la mention correspondant à votre démarche :
@@ -412069,12 +412100,13 @@ L'inscription est simple.
 
 - la rubrique **« Passer mon examen »** du Coach ;
 - ou le site officiel de.
+:::
 
-1. [Question précédente](SCR_FAQ_017)
-2. [Question suivante](SCR_FAQ_019)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_INSCRIPTION_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_017)
+2. [➡️ Question suivante](SCR_FAQ_019)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_INSCRIPTION_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -412082,21 +412114,21 @@ L'inscription est simple.
 
 ## SCR_FAQ_019
 
-### Combien coûte l'examen civique ?
+### 📝 Combien coûte l'examen civique ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=4; {faq_id}=FAQ-019 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Inscription et organisation
 Les frais d'inscription sont fixés par chaque centre agréé et peuvent varier.
 
 Le tarif applicable est de 75 € vous sera demandé au moment de votre inscription auprès du centre choisi.. Ce montant est à payer en ligne lors de la réservation. Il n'est pas remboursable si vous changez d'avis ou si vous ratez l'examen.
+:::
 
-1. [Question précédente](SCR_FAQ_018)
-2. [Question suivante](SCR_FAQ_020)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_INSCRIPTION_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_018)
+2. [➡️ Question suivante](SCR_FAQ_020)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_INSCRIPTION_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -412104,12 +412136,11 @@ Le tarif applicable est de 75 € vous sera demandé au moment de votre inscript
 
 ## SCR_FAQ_020
 
-### Puis-je m'inscrire directement auprès de la préfecture ?
+### 📝 Puis-je m'inscrire directement auprès de la préfecture ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=5; {faq_id}=FAQ-020 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Inscription et organisation
 Non.
 
 L'inscription à l'examen ne s'effectue pas auprès de la préfecture.
@@ -412120,12 +412151,13 @@ Le moyen le plus simple est de :
 
 - utiliser la rubrique **« Passer mon examen »** du Coach ;
 - ou consulter.
+:::
 
-1. [Question précédente](SCR_FAQ_019)
-2. [Question suivante](SCR_FAQ_021)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_INSCRIPTION_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_019)
+2. [➡️ Question suivante](SCR_FAQ_021)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_INSCRIPTION_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -412133,12 +412165,11 @@ Le moyen le plus simple est de :
 
 ## SCR_FAQ_021
 
-### Quels documents dois-je apporter le jour de l'examen ?
+### 📝 Quels documents dois-je apporter le jour de l'examen ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=6; {faq_id}=FAQ-021 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Inscription et organisation
 Le jour de l'examen, pensez à apporter :
 
 - votre convocation imprimée ;
@@ -412146,12 +412177,13 @@ Le jour de l'examen, pensez à apporter :
 - tout autre document mentionné dans votre convocation.
 
 Vérifiez toujours les consignes communiquées par votre centre avant votre déplacement.
+:::
 
-1. [Question précédente](SCR_FAQ_020)
-2. [Question suivante](SCR_FAQ_022)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_INSCRIPTION_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_020)
+2. [➡️ Question suivante](SCR_FAQ_022)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_INSCRIPTION_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -412159,21 +412191,21 @@ Vérifiez toujours les consignes communiquées par votre centre avant votre dép
 
 ## SCR_FAQ_022
 
-### Puis-je changer de centre après mon inscription ?
+### 📝 Puis-je changer de centre après mon inscription ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=7; {faq_id}=FAQ-022 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Inscription et organisation
 Les conditions de modification ou de report dépendent du centre d'examen.
 
 Si vous souhaitez modifier votre inscription, contactez rapidement votre centre afin de connaître les possibilités qui s'offrent à vous.
+:::
 
-1. [Question précédente](SCR_FAQ_021)
-2. [Question suivante](SCR_FAQ_023)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_INSCRIPTION_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_021)
+2. [➡️ Question suivante](SCR_FAQ_023)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_INSCRIPTION_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -412181,21 +412213,21 @@ Si vous souhaitez modifier votre inscription, contactez rapidement votre centre 
 
 ## SCR_FAQ_023
 
-### Puis-je passer l'examen avec un récépissé expiré ?
+### 📝 Puis-je passer l'examen avec un récépissé expiré ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=8; {faq_id}=FAQ-023 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Inscription et organisation
 Les documents acceptés pour vérifier votre identité sont définis par le centre d'examen.
 
 En cas de doute sur la validité de vos documents, contactez votre centre avant le jour de l'épreuve afin d'éviter tout déplacement inutile.
+:::
 
-1. [Question précédente](SCR_FAQ_022)
-2. [Question suivante](SCR_FAQ_024)
-3. [Nouvelle recherche](SCR_FAQ_SEARCH)
-4. [Retour à la catégorie](SCR_FAQ_INSCRIPTION_MENU)
-5. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_022)
+2. [➡️ Question suivante](SCR_FAQ_024)
+3. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+4. [🗂️ Retour au thème](SCR_FAQ_INSCRIPTION_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
@@ -412203,20 +412235,20 @@ En cas de doute sur la validité de vos documents, contactez votre centre avant 
 
 ## SCR_FAQ_024
 
-### Comment choisir le centre d'examen le plus proche de chez moi ?
+### 📝 Comment choisir le centre d'examen le plus proche de chez moi ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=9; {faq_id}=FAQ-024 -->
 
-### Reponse markdown
-
+:::info 💬 Réponse claire · Inscription et organisation
 Depuis la rubrique **« Passer mon examen »**, le Coach vous oriente vers les centres disponibles.
 
 Vous pouvez également consulter la page de, sélectionner votre région puis choisir le centre qui vous convient.
+:::
 
-1. [Question précédente](SCR_FAQ_023)
-2. [Nouvelle recherche](SCR_FAQ_SEARCH)
-3. [Retour à la catégorie](SCR_FAQ_INSCRIPTION_MENU)
-4. [Retour au menu principal](MENU_PRINCIPAL)
+1. [⬅️ Question précédente](SCR_FAQ_023)
+2. [🔎 Nouvelle recherche](SCR_FAQ_SEARCH)
+3. [🗂️ Retour au thème](SCR_FAQ_INSCRIPTION_MENU)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
