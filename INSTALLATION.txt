@@ -1,4 +1,4 @@
-CHATBOT CIVIQUE V2 — CORRECTIFS V5
+CHATBOT CIVIQUE V2 — CORRECTIFS V7
 
 1. Copiez tout le contenu de ce dossier à la racine du dépôt Chatbot_civique2.
 2. Acceptez le remplacement des fichiers existants.
@@ -19,3 +19,8 @@ les conditions utilisent désormais uniquement la syntaxe sécurisée reconnue
 par ChatMD et conservent les feedbacks vert, orange et rouge. Elle modernise
 également la FAQ avec des thèmes illustrés, des réponses encadrées et des
 boutons de navigation harmonisés.
+
+La V7 corrige la tolérance excessive de !Next pour les nombres. Les réponses
+1789, 1905, 15/112 et 3/trois sont maintenant enregistrées avec @INPUT puis
+comparées par égalité stricte, sans fonction de chaîne incompatible. Ainsi,
+1790, 1788 et 17890 sont refusés pour la question dont la réponse est 1789.

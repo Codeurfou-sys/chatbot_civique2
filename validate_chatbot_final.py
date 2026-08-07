@@ -62,7 +62,32 @@ if len(revision_results) != 62:
     errors.append(f"Nombre inattendu d'écrans de correction : {len(revision_results)} au lieu de 62")
 if '("" + @' in revision_text:
     errors.append("Conversion JavaScript non compatible encore présente dans les révisions")
+strict_numeric_conditions = {
+    "SCR_REV_T4_CH01_VERIF_Q01_RESULT": (
+        '@rep_t4_ch1_q1 == "1789"',
+        '@rep_t4_ch1_q1 != "1789"',
+    ),
+    "SCR_REV_T4_CH01_VERIF_Q02_RESULT": (
+        '@rep_t4_ch1_q2 == "1905"',
+        '@rep_t4_ch1_q2 != "1905"',
+    ),
+    "SCR_REV_T5_CH02_VERIF_Q03_RESULT": (
+        '@rep_t5_ch2_q3 == "15" || @rep_t5_ch2_q3 == "112"',
+        '@rep_t5_ch2_q3 != "15" && @rep_t5_ch2_q3 != "112"',
+    ),
+    "SCR_REV_T5_CH04_VERIF_Q01_RESULT": (
+        '@rep_t5_ch4_q1 == "3" || @rep_t5_ch4_q1 == "trois" || @rep_t5_ch4_q1 == "Trois"',
+        '@rep_t5_ch4_q1 != "3" && @rep_t5_ch4_q1 != "trois" && @rep_t5_ch4_q1 != "Trois"',
+    ),
+}
 for screen_id, body in revision_results:
+    if screen_id in strict_numeric_conditions:
+        conditions = re.findall(r"(?m)^`if (.+)`$", body)
+        if conditions != list(strict_numeric_conditions[screen_id]):
+            errors.append(f"Comparaison numérique stricte incorrecte dans {screen_id}")
+        if "!Next:" in body or re.search(r"(?m)^-\s+(1789|1905|15|112|3|trois)\s*$", body):
+            errors.append(f"Ancien déclencheur tolérant encore présent dans {screen_id}")
+        continue
     if body.count("`if ") != 3 or body.count("`endif`") != 3:
         errors.append(f"Trois niveaux de feedback non garantis dans {screen_id}")
     for condition in re.findall(r"(?m)^`if (.+)`$", body):
@@ -93,5 +118,8 @@ if errors:
 
 print(f"OK — {len(screen_ids)} écrans, {len(targets)} liens, aucun doublon, aucune destination manquante.")
 print(f"Accès ‘Poser une question’ hors examen blanc : {text.count('❓ Poser une question')} occurrences.")
-print(f"Révisions : {len(revision_results)} corrections contrôlées avec 3 niveaux de feedback.")
+print(
+    f"Révisions : {len(revision_results)} corrections contrôlées, dont "
+    f"{len(strict_numeric_conditions)} réponses numériques comparées strictement."
+)
 print("FAQ : 71 réponses encadrées et navigation illustrée.")

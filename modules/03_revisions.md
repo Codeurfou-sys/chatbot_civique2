@@ -6222,7 +6222,7 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 En quelle année débute la Révolution française ?
 
-Écrivez votre réponse puis cliquez sur **Envoyer**.
+Écrivez uniquement l'année, puis cliquez sur **Envoyer**.
 
 `@rep_t4_ch1_q1 = @INPUT : SCR_REV_T4_CH01_VERIF_Q01_RESULT`
 
@@ -6231,11 +6231,9 @@ En quelle année débute la Révolution française ?
 ## SCR_REV_T4_CH01_VERIF_Q01_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 1/3
 
-> `@rep_t4_ch1_q1`
+`if @rep_t4_ch1_q1 == "1789"`
 
-`if (@rep_t4_ch1_q1.trim() == "1789")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -6245,32 +6243,18 @@ La Révolution française débute en 1789.
 1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q02)
 `endif`
 
-`if (@rep_t4_ch1_q1.trim() != "1789") && (@rep_t4_ch1_q1.includes("1789"))`
-:::warning 🟠 Réponse partielle
-Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
+`if @rep_t4_ch1_q1 != "1789"`
 
-**Réponse attendue :**
-
-La Révolution française débute en 1789.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q02)
-2. [🔁 Répondre à nouveau](SCR_REV_T4_CH01_VERIF_Q01)
-3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
-`endif`
-
-`if !(@rep_t4_ch1_q1.includes("1789"))`
 :::danger 🔴 Mauvaise réponse
-Votre réponse ne contient aucun des mots-clés attendus.
+La réponse saisie n'est pas la date exacte attendue.
 
-**Réponse attendue :**
+**Réponse attendue : 1789**
 
 La Révolution française débute en 1789.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q02)
-2. [🔁 Répondre à nouveau](SCR_REV_T4_CH01_VERIF_Q01)
-3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
+1. [🔁 Répondre à nouveau](SCR_REV_T4_CH01_VERIF_Q01)
+2. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
 `endif`
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
@@ -6282,7 +6266,7 @@ La Révolution française débute en 1789.
 
 En quelle année la loi de séparation des Églises et de l'État a-t-elle été adoptée ?
 
-Écrivez votre réponse puis cliquez sur **Envoyer**.
+Écrivez uniquement l'année, puis cliquez sur **Envoyer**.
 
 `@rep_t4_ch1_q2 = @INPUT : SCR_REV_T4_CH01_VERIF_Q02_RESULT`
 
@@ -6291,11 +6275,9 @@ En quelle année la loi de séparation des Églises et de l'État a-t-elle été
 ## SCR_REV_T4_CH01_VERIF_Q02_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 2/3
 
-> `@rep_t4_ch1_q2`
+`if @rep_t4_ch1_q2 == "1905"`
 
-`if (@rep_t4_ch1_q2.trim() == "1905")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -6305,32 +6287,18 @@ La loi de séparation des Églises et de l'État a été adoptée en 1905.
 1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q03)
 `endif`
 
-`if (@rep_t4_ch1_q2.trim() != "1905") && (@rep_t4_ch1_q2.includes("1905"))`
-:::warning 🟠 Réponse partielle
-Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
+`if @rep_t4_ch1_q2 != "1905"`
 
-**Réponse attendue :**
-
-La loi de séparation des Églises et de l'État a été adoptée en 1905.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q03)
-2. [🔁 Répondre à nouveau](SCR_REV_T4_CH01_VERIF_Q02)
-3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
-`endif`
-
-`if !(@rep_t4_ch1_q2.includes("1905"))`
 :::danger 🔴 Mauvaise réponse
-Votre réponse ne contient aucun des mots-clés attendus.
+La réponse saisie n'est pas la date exacte attendue.
 
-**Réponse attendue :**
+**Réponse attendue : 1905**
 
 La loi de séparation des Églises et de l'État a été adoptée en 1905.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T4_CH01_VERIF_Q03)
-2. [🔁 Répondre à nouveau](SCR_REV_T4_CH01_VERIF_Q02)
-3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
+1. [🔁 Répondre à nouveau](SCR_REV_T4_CH01_VERIF_Q02)
+2. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
 `endif`
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
@@ -7862,7 +7830,7 @@ Elle transmet les informations utiles à l'Assurance Maladie et facilite le remb
 
 Quel numéro appeler en cas d'urgence médicale grave ?
 
-Écrivez votre réponse puis cliquez sur **Envoyer**.
+Écrivez uniquement le numéro, puis cliquez sur **Envoyer**.
 
 `@rep_t5_ch2_q3 = @INPUT : SCR_REV_T5_CH02_VERIF_Q03_RESULT`
 
@@ -7871,11 +7839,9 @@ Quel numéro appeler en cas d'urgence médicale grave ?
 ## SCR_REV_T5_CH02_VERIF_Q03_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 3/4
 
-> `@rep_t5_ch2_q3`
+`if @rep_t5_ch2_q3 == "15" || @rep_t5_ch2_q3 == "112"`
 
-`if (@rep_t5_ch2_q3.trim() == "15") || (@rep_t5_ch2_q3.trim() == "112")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -7885,32 +7851,18 @@ En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.
 1. [➡️ Question suivante](SCR_REV_T5_CH02_VERIF_Q04)
 `endif`
 
-`if !((@rep_t5_ch2_q3.trim() == "15") || (@rep_t5_ch2_q3.trim() == "112")) && ((@rep_t5_ch2_q3.toLowerCase().includes("15")) || (@rep_t5_ch2_q3.toLowerCase().includes("112")) || (@rep_t5_ch2_q3.toLowerCase().includes("samu")) || (@rep_t5_ch2_q3.toLowerCase().includes("urgence")))`
-:::warning 🟠 Réponse partielle
-Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
+`if @rep_t5_ch2_q3 != "15" && @rep_t5_ch2_q3 != "112"`
 
-**Réponse attendue :**
-
-En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T5_CH02_VERIF_Q04)
-2. [🔁 Répondre à nouveau](SCR_REV_T5_CH02_VERIF_Q03)
-3. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
-`endif`
-
-`if !((@rep_t5_ch2_q3.toLowerCase().includes("15")) || (@rep_t5_ch2_q3.toLowerCase().includes("112")) || (@rep_t5_ch2_q3.toLowerCase().includes("samu")) || (@rep_t5_ch2_q3.toLowerCase().includes("urgence")))`
 :::danger 🔴 Mauvaise réponse
-Votre réponse ne contient aucun des mots-clés attendus.
+Le numéro saisi n'est pas l'un des deux numéros attendus.
 
-**Réponse attendue :**
+**Réponses attendues : 15 ou 112**
 
 En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T5_CH02_VERIF_Q04)
-2. [🔁 Répondre à nouveau](SCR_REV_T5_CH02_VERIF_Q03)
-3. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
+1. [🔁 Répondre à nouveau](SCR_REV_T5_CH02_VERIF_Q03)
+2. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
 `endif`
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
@@ -8609,7 +8561,7 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 À partir de quel âge l'instruction est-elle obligatoire en France ?
 
-Écrivez votre réponse puis cliquez sur **Envoyer**.
+Écrivez uniquement l'âge, puis cliquez sur **Envoyer**.
 
 `@rep_t5_ch4_q1 = @INPUT : SCR_REV_T5_CH04_VERIF_Q01_RESULT`
 
@@ -8618,11 +8570,9 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 ## SCR_REV_T5_CH04_VERIF_Q01_RESULT
 
 !Keyboard: false
-### Votre réponse — Question 1/4
 
-> `@rep_t5_ch4_q1`
+`if @rep_t5_ch4_q1 == "3" || @rep_t5_ch4_q1 == "trois" || @rep_t5_ch4_q1 == "Trois"`
 
-`if (@rep_t5_ch4_q1.trim() == "3")`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -8632,32 +8582,18 @@ L'instruction est obligatoire à partir de 3 ans.
 1. [➡️ Question suivante](SCR_REV_T5_CH04_VERIF_Q02)
 `endif`
 
-`if (@rep_t5_ch4_q1.trim() != "3") && ((@rep_t5_ch4_q1.toLowerCase().includes("3")) || (@rep_t5_ch4_q1.toLowerCase().includes("trois")))`
-:::warning 🟠 Réponse partielle
-Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
+`if @rep_t5_ch4_q1 != "3" && @rep_t5_ch4_q1 != "trois" && @rep_t5_ch4_q1 != "Trois"`
 
-**Réponse attendue :**
-
-L'instruction est obligatoire à partir de 3 ans.
-:::
-
-1. [➡️ Question suivante](SCR_REV_T5_CH04_VERIF_Q02)
-2. [🔁 Répondre à nouveau](SCR_REV_T5_CH04_VERIF_Q01)
-3. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
-`endif`
-
-`if !((@rep_t5_ch4_q1.toLowerCase().includes("3")) || (@rep_t5_ch4_q1.toLowerCase().includes("trois")))`
 :::danger 🔴 Mauvaise réponse
-Votre réponse ne contient aucun des mots-clés attendus.
+L'âge saisi n'est pas la réponse exacte attendue.
 
-**Réponse attendue :**
+**Réponse attendue : 3 ans**
 
 L'instruction est obligatoire à partir de 3 ans.
 :::
 
-1. [➡️ Question suivante](SCR_REV_T5_CH04_VERIF_Q02)
-2. [🔁 Répondre à nouveau](SCR_REV_T5_CH04_VERIF_Q01)
-3. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
+1. [🔁 Répondre à nouveau](SCR_REV_T5_CH04_VERIF_Q01)
+2. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
 `endif`
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
