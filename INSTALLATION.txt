@@ -1,4 +1,4 @@
-CHATBOT CIVIQUE V2 — CORRECTIFS V3
+CHATBOT CIVIQUE V2 — CORRECTIFS V4
 
 1. Copiez tout le contenu de ce dossier à la racine du dépôt Chatbot_civique2.
 2. Acceptez le remplacement des fichiers existants.
@@ -9,5 +9,7 @@ CHATBOT CIVIQUE V2 — CORRECTIFS V3
 Cette livraison corrige le bilan sans score précédent, les réponses numériques
 des révisions, l'introduction et la navigation de l'examen blanc, le module
 Conseils, les boutons d'inscription du module 07 et les intitulés de la FAQ.
+La V4 complète la rubrique « Mémoriser efficacement » avec le cours sur le
+fonctionnement de la mémoire et six techniques d'apprentissage progressives.
 Le post-traitement du module 07 conserve les boutons d'inscription après les
 actualisations automatiques quotidiennes.
