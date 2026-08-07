@@ -39,19 +39,22 @@ jobs:
             --output-dir exports_chatmd \
             --force
 
+      - name: Appliquer la présentation validée au module 07
+        run: python postprocess_module07.py exports_chatmd/modules/07_passer_examen.md
+
       - name: Contrôler le module publié
         run: python validate_passer_examen.py exports_chatmd/modules/07_passer_examen.md
 
-      - name: Actualiser les fichiers utilisés par ChatMD
+      - name: Actualiser uniquement le module 07 dans le chatbot V2
         run: |
-          cp exports_chatmd/chat_bot.md chat_bot.md
           cp exports_chatmd/modules/07_passer_examen.md modules/07_passer_examen.md
+          python sync_module07_into_chatbot.py chat_bot.md modules/07_passer_examen.md
 
       - name: Publier uniquement si les fichiers ont changé
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add exports_chatmd chat_bot.md modules/07_passer_examen.md
+          git add exports_chatmd modules/07_passer_examen.md chat_bot.md
           if git diff --cached --quiet; then
             echo "Aucune modification à publier."
           else

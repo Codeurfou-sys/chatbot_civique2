@@ -1,23 +1,13 @@
-VERSION PROPRE ET OPÉRATIONNELLE DU CHATBOT CIVIQUE
+INSTALLATION DU CHATBOT CIVIQUE V2
 
-1. Décompressez l'archive hors du dépôt GitHub.
-2. Copiez tout son contenu à la racine de votre dépôt Chatbot_civique2.
-3. Acceptez le remplacement des fichiers existants.
-4. Double-cliquez sur NETTOYER_ANCIENS_FICHIERS.bat depuis la racine du dépôt.
-   Le script supprime uniquement les doublons et anciennes versions recensés.
-   Il ne touche pas au dossier caché .git.
-5. Dans GitHub Desktop, vérifiez les suppressions et modifications affichées.
-6. Faites un commit, puis Push origin.
-7. Relancez l'action Actualiser les sessions d'examen.
-8. Attendez le redéploiement GitHub Pages.
+1. Décompressez ce paquet hors du dépôt GitHub.
+2. Copiez tout son contenu à la racine du dossier Chatbot_civique2.
+3. Acceptez le remplacement de chat_bot.md et des fichiers du dossier modules.
+4. Le fichier .github/workflows/update-examens.yml remplace l'ancien workflow.
+5. Dans GitHub Desktop, créez un commit : "Intégration du Chatbot Civique V2 complet".
+6. Cliquez sur Push origin.
+7. Testez le fichier complet dans ChatMD avec son URL raw GitHub.
 
-Adresses de test :
-https://codeurfou-sys.github.io/chatbot_civique2/
-https://codeurfou-sys.github.io/chatbot_civique2/recherche-centres/
-
-La base web des communes est désormais :
-recherche-centres/data/communes_france.json
-
-Elle n'utilise pas Git LFS. L'ancien communes_france.csv est supprimé par le
-script de nettoyage. Le fichier recherche-centres.html n'est pas nécessaire :
-recherche-centres/index.html joue ce rôle.
+IMPORTANT
+Le workflow a été sécurisé : l'actualisation quotidienne des sessions ne
+remplace plus l'ensemble du chatbot. Elle actualise uniquement le module 07.

@@ -1,15 +1,14 @@
 <!-- Module généré automatiquement : Accueil -->
-<!-- Date : 2026-08-03T12:39:32+02:00 -->
+<!-- Date : 2026-08-03T15:02:29+00:00 -->
 
 ## SCR_ACC_AIDE
 
 ### Comment utiliser le Coach ?
 
-Choisissez une rubrique selon votre besoin. Utilisez les boutons de retour pour changer d’activité. Pour une demande précise, écrivez votre question dans « Pose-moi une question ».
+Choisissez une rubrique selon votre besoin. Utilisez les boutons de retour pour changer d’activité.
 
 1. [À propos du Coach](SCR_ACC_APROPOS)
-2. [Poser une question](SCR_QL_INPUT)
-3. [Retour au menu principal](MENU_PRINCIPAL)
+2. [Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_ACC_RESTART
 
