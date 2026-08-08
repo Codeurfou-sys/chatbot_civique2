@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T07:42:07+00:00",
+  "generated_at": "2026-08-08T04:30:17+00:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -49,7 +49,7 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "sessions_futures": 3,
       "ecran_centre": "SCR_PASS_CITY_VICHY",
-      "requete_ban": "Vichy 03",
+      "requete_ban": "Vichy 03200",
       "actif": "Oui",
       "_row": 50
     },
@@ -688,18 +688,6 @@
       "_row": 104
     },
     {
-      "id_session": "SES_BESANCON_20260909_A4F081B0",
-      "code_centre": "BESANCON",
-      "region": "Franche-Comté",
-      "ville": "Besançon",
-      "date_session": "2026-09-09",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 105
-    },
-    {
       "id_session": "SES_BESANCON_20260930_16FB75CA",
       "code_centre": "BESANCON",
       "region": "Franche-Comté",
@@ -709,7 +697,7 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 106
+      "_row": 105
     },
     {
       "id_session": "SES_BESANCON_20261016_BE08191D",
@@ -717,6 +705,18 @@
       "region": "Franche-Comté",
       "ville": "Besançon",
       "date_session": "2026-10-16",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 106
+    },
+    {
+      "id_session": "SES_BESANCON_20261029_ADE5DDFA",
+      "code_centre": "BESANCON",
+      "region": "Franche-Comté",
+      "ville": "Besançon",
+      "date_session": "2026-10-29",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
