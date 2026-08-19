@@ -410012,7 +410012,7 @@ Vous avez obtenu **`@score` / 10**.
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-18T03:59:58+00:00 -->
+<!-- Date : 2026-08-19T04:01:09+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -410335,7 +410335,6 @@ Vous avez obtenu **`@score` / 10**.
 
 #### 📅 Prochaines sessions disponibles
 
-- 18 août 2026
 - 13 octobre 2026
 - 15 décembre 2026
 
