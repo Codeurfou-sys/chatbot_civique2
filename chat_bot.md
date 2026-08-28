@@ -7,19 +7,26 @@ plugins: readcsv
 avatar: https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/Mascotte1.png
 avatarCercle: true
 style: |
-  /* Cible le bloc global du message pour remplacer tout le fond bleu */
-  .bot, .bot-message, .message, div[role="article"], #chat > div {
+  /* 1. Applique le dégradé sur TOUTE la zone de chat */
+  html, body, #chat, main, .chat-container {
       background: linear-gradient(135deg, #fdf0f2 0%, #f7d6dc 100%) !important;
-      color: #2c3e50 !important;
-      border-radius: 12px !important;
   }
 
-  /* Ajuste la couleur du texte et des titres pour qu'ils restent bien lisibles */
-  .bot *, .bot-message *, .message * {
+  /* 2. Rend la bulle de message transparente pour éviter l'effet "carte" */
+  .bot, .bot-message, .message, div[role="article"] {
+      background: transparent !important;
+      box-shadow: none !important;
+      border: none !important;
+      color: #2c3e50 !important;
+      padding: 0 !important;
+  }
+
+  /* 3. Ajuste la couleur des textes et titres */
+  body, #chat *, .message * {
       color: #2c3e50 !important;
   }
 
-  /* Rendu des boutons de choix plus harmonieux sur fond rouge clair */
+  /* 4. Style des boutons de choix */
   button, .button, a.btn {
       background-color: #ffffff !important;
       color: #a61c3c !important;
