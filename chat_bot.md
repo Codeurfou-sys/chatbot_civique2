@@ -410012,49 +410012,7 @@ Vous avez obtenu **`@score` / 10**.
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-07T10:09:29+02:00 -->
-
-## SCR_PASS_MENU
-
-### 🏛️ Passer mon examen civique
-
-:::info ⌨️ Conseil de navigation
-Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
-:::
-
-:::success 🧭 Votre parcours pratique
-Retrouvez les réponses à vos questions, choisissez un centre et accédez au formulaire d'inscription.
-:::
-
-1. [❓ Questions sur l’examen](SCR_PASS_INFO_MENU)
-2. [📍 Trouver une session d’examen](SCR_PASS_SEARCH_MENU)
-3. [📝 M’inscrire à un examen](SCR_PASS_REGIONS)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
-
-<!-- Écran d’entrée -->
-
-1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
-
-## SCR_PASS_SEARCH_MENU
-
-### 📍 Trouver une session d’examen
-
-Choisissez la recherche la plus adaptée à votre besoin.
-
-:::info 🗺️ Par région
-Consultez directement les centres et les prochaines sessions disponibles dans une région FRATE.
-:::
-
-1. [🗺️ Rechercher par région](SCR_PASS_REGIONS)
-
-:::success 🧭 Près de chez moi
-Indiquez une commune ou un code postal pour afficher automatiquement les trois centres les plus proches.
-:::
-
-2. [🧭 Rechercher un centre proche de chez moi](SCR_PASS_INPUT_COMMUNE)
-3. [↩️ Retour au module](SCR_PASS_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+<!-- Date : 2026-08-27T14:15:40+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -410144,9 +410102,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 #### 📅 Prochaines sessions disponibles
 
-- 9 septembre 2026
 - 30 septembre 2026
 - 16 octobre 2026
+- 29 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -410377,7 +410335,6 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 #### 📅 Prochaines sessions disponibles
 
-- 18 août 2026
 - 13 octobre 2026
 - 15 décembre 2026
 
@@ -410430,6 +410387,7 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 #### 📅 Prochaines sessions disponibles
 
 - 17 septembre 2026
+- 16 octobre 2026
 - 17 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
@@ -410480,9 +410438,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 #### 📅 Prochaines sessions disponibles
 
-- 2 septembre 2026
 - 23 septembre 2026
 - 7 octobre 2026
+- 28 octobre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -410609,9 +410567,9 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 #### 📅 Prochaines sessions disponibles
 
-- 16 septembre 2026
 - 30 septembre 2026
 - 21 octobre 2026
+- 4 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -410891,6 +410849,48 @@ Sélectionnez une région pour consulter ses centres et leurs prochaines dates d
 6. [🏔️ Rhône-Alpes](SCR_PASS_REGION_RHONE_ALPES)
 7. [🧭 Rechercher un centre proche de chez moi](SCR_PASS_INPUT_COMMUNE)
 8. [↩️ Retour au module](SCR_PASS_MENU)
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
+## SCR_PASS_MENU
+
+### 🏛️ Passer mon examen civique
+
+:::info ⌨️ Conseil de navigation
+Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
+:::
+
+:::success 🧭 Votre parcours pratique
+Retrouvez les réponses à vos questions, choisissez un centre et accédez au formulaire d'inscription.
+:::
+
+1. [❓ Questions sur l’examen](SCR_PASS_INFO_MENU)
+2. [📍 Trouver une session d’examen](SCR_PASS_SEARCH_MENU)
+3. [📝 M’inscrire à un examen](SCR_PASS_REGIONS)
+4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+<!-- Écran d’entrée -->
+
+1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
+## SCR_PASS_SEARCH_MENU
+
+### 📍 Trouver une session d’examen
+
+Choisissez la recherche la plus adaptée à votre besoin.
+
+:::info 🗺️ Par région
+Consultez directement les centres et les prochaines sessions disponibles dans une région FRATE.
+:::
+
+1. [🗺️ Rechercher par région](SCR_PASS_REGIONS)
+
+:::success 🧭 Près de chez moi
+Indiquez une commune ou un code postal pour afficher automatiquement les trois centres les plus proches.
+:::
+
+2. [🧭 Rechercher un centre proche de chez moi](SCR_PASS_INPUT_COMMUNE)
+3. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
