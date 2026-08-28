@@ -5,14 +5,13 @@ contenuDynamique: true
 variablesDynamiques: true
 plugins: readcsv
 avatar: https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/Mascotte1.png
-avatarCercle: true
 style: |
   /* 1. Applique le dégradé sur TOUTE la zone de chat */
   html, body, #chat, main, .chat-container {
       background: linear-gradient(135deg, #fdf0f2 0%, #f7d6dc 100%) !important;
   }
 
-  /* 2. Rend la bulle de message transparente pour éviter l'effet "carte" */
+  /* 2. Rend la bulle de message transparente */
   .bot, .bot-message, .message, div[role="article"] {
       background: transparent !important;
       box-shadow: none !important;
@@ -21,12 +20,12 @@ style: |
       padding: 0 !important;
   }
 
-  /* 3. Ajuste la couleur des textes et titres */
+  /* 3. Couleurs du texte */
   body, #chat *, .message * {
       color: #2c3e50 !important;
   }
 
-  /* 4. Style des boutons de choix */
+  /* 4. Boutons */
   button, .button, a.btn {
       background-color: #ffffff !important;
       color: #a61c3c !important;
@@ -39,26 +38,25 @@ style: |
       color: #ffffff !important;
   }
 
-  /* --- Ajustement spécifique pour la mascotte --- */
-
-  /* 1. Force l'affichage complet et désactive le recadrage circulaire */
-  .bot-message img[src*="Mascotte1.png"], 
-  .message img[src*="Mascotte1.png"],
-  .avatar-container img, 
-  #chat .bot img {
-      border-radius: 0 !important; /* Désactive le cercle */
-      object-fit: contain !important; /* Empêche la déformation et le recadrage */
-      width: auto !important; /* Laisse l'image prendre sa largeur naturelle */
-      max-width: 50px !important; /* Limite la largeur max */
-      height: auto !important; /* Ajuste la hauteur proportionnellement */
-      overflow: visible !important; /* S'assure que rien n'est masqué */
+  /* 5. DÉBLOCAGE COMPLET DE LA MASCOTTE (Image + Conteneur Parent) */
+  .avatar, [class*="avatar"], .bot-avatar, .user-avatar {
+      border-radius: 0 !important;
+      background: transparent !important;
+      overflow: visible !important;
+      width: auto !important;
+      height: auto !important;
+      max-width: none !important;
+      max-height: none !important;
   }
 
-  /* 2. Ajuste l'alignement vertical */
-  .bot-message img[src*="Mascotte1.png"],
-  .message img[src*="Mascotte1.png"] {
-      vertical-align: middle !important;
-      margin-right: 8px !important; /* Espace avec le texte */
+  .avatar img, [class*="avatar"] img, img[src*="Mascotte1.png"] {
+      border-radius: 0 !important;
+      object-fit: contain !important;
+      width: auto !important;
+      height: 48px !important; /* Ajuste la hauteur visible de la mascotte */
+      max-width: none !important;
+      max-height: none !important;
+      display: inline-block !important;
   }
 ---
 
