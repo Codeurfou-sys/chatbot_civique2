@@ -4,7 +4,7 @@ obfuscate: true
 contenuDynamique: true
 variablesDynamiques: true
 plugins: readcsv
-avatar: https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/Mascotte1.png
+avatar: https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/mascotteredim.png
 style: |
   /* 1. Applique le dégradé sur TOUTE la zone de chat */
   html, body, #chat, main, .chat-container {
@@ -25,7 +25,7 @@ style: |
       color: #2c3e50 !important;
   }
 
-  /* 4. Boutons */
+  /* 4. Style des boutons */
   button, .button, a.btn {
       background-color: #ffffff !important;
       color: #a61c3c !important;
@@ -38,25 +38,11 @@ style: |
       color: #ffffff !important;
   }
 
-  /* 5. DÉBLOCAGE COMPLET DE LA MASCOTTE (Image + Conteneur Parent) */
-  .avatar, [class*="avatar"], .bot-avatar, .user-avatar {
-      border-radius: 0 !important;
+  /* 5. Supprime les bordures et fonds gris sur l'avatar */
+  .avatar, [class*="avatar"], figure {
       background: transparent !important;
-      overflow: visible !important;
-      width: auto !important;
-      height: auto !important;
-      max-width: none !important;
-      max-height: none !important;
-  }
-
-  .avatar img, [class*="avatar"] img, img[src*="Mascotte1.png"] {
-      border-radius: 0 !important;
-      object-fit: contain !important;
-      width: auto !important;
-      height: 48px !important; /* Ajuste la hauteur visible de la mascotte */
-      max-width: none !important;
-      max-height: none !important;
-      display: inline-block !important;
+      border: none !important;
+      box-shadow: none !important;
   }
 ---
 
