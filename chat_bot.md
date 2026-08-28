@@ -38,6 +38,28 @@ style: |
       background-color: #a61c3c !important;
       color: #ffffff !important;
   }
+
+  /* --- Ajustement spécifique pour la mascotte --- */
+
+  /* 1. Force l'affichage complet et désactive le recadrage circulaire */
+  .bot-message img[src*="Mascotte1.png"], 
+  .message img[src*="Mascotte1.png"],
+  .avatar-container img, 
+  #chat .bot img {
+      border-radius: 0 !important; /* Désactive le cercle */
+      object-fit: contain !important; /* Empêche la déformation et le recadrage */
+      width: auto !important; /* Laisse l'image prendre sa largeur naturelle */
+      max-width: 50px !important; /* Limite la largeur max */
+      height: auto !important; /* Ajuste la hauteur proportionnellement */
+      overflow: visible !important; /* S'assure que rien n'est masqué */
+  }
+
+  /* 2. Ajuste l'alignement vertical */
+  .bot-message img[src*="Mascotte1.png"],
+  .message img[src*="Mascotte1.png"] {
+      vertical-align: middle !important;
+      margin-right: 8px !important; /* Espace avec le texte */
+  }
 ---
 
 # Coach Civique NovaFrate
