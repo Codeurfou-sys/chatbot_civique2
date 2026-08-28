@@ -4,7 +4,7 @@ obfuscate: true
 contenuDynamique: true
 variablesDynamiques: true
 plugins: readcsv
-avatar: https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/mascotteredim.png
+avatar: https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/Mascotteredim.png
 style: |
   /* 1. Applique le dégradé sur TOUTE la zone de chat */
   html, body, #chat, main, .chat-container {
