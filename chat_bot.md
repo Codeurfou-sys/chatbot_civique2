@@ -7,20 +7,35 @@ plugins: readcsv
 avatar: https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/Mascotte1.png
 avatarCercle: true
 style: |
-  /* Couleur de fond personnalisée pour le message du bot */
-  .bot-message, .message {
-      background-color: #A61C3C !important;
-      color: #ffffff !important;
+  /* Cible le bloc global du message pour remplacer tout le fond bleu */
+  .bot, .bot-message, .message, div[role="article"], #chat > div {
+      background: linear-gradient(135deg, #fdf0f2 0%, #f7d6dc 100%) !important;
+      color: #2c3e50 !important;
+      border-radius: 12px !important;
   }
-  /* Couleur des liens à l'intérieur du message si besoin */
-  .bot-message a, .message a {
-      color: #ffd700 !important;
+
+  /* Ajuste la couleur du texte et des titres pour qu'ils restent bien lisibles */
+  .bot *, .bot-message *, .message * {
+      color: #2c3e50 !important;
+  }
+
+  /* Rendu des boutons de choix plus harmonieux sur fond rouge clair */
+  button, .button, a.btn {
+      background-color: #ffffff !important;
+      color: #a61c3c !important;
+      border: 1px solid #e2b1b9 !important;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05) !important;
+  }
+
+  button:hover, .button:hover, a.btn:hover {
+      background-color: #a61c3c !important;
+      color: #ffffff !important;
   }
 ---
 
 # Coach Civique NovaFrate
 
-👋 **Bonjour je m'appelle CiviCoach !**
+**Bonjour je m'appelle CiviCoach !**
 
 Je suis votre coach assistant virtuel IA, je vais vous accompagner pour préparer sereinement l’examen civique.
 
