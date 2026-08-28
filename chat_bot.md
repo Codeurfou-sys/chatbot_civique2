@@ -4,10 +4,23 @@ obfuscate: true
 contenuDynamique: true
 variablesDynamiques: true
 plugins: readcsv
+avatar: https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/Mascotte1.png
+avatarCercle: true
+style: |
+  /* Couleur de fond personnalisée pour le message du bot */
+  .bot-message, .message {
+      background-color: #A61C3C !important;
+      color: #ffffff !important;
+  }
+  /* Couleur des liens à l'intérieur du message si besoin */
+  .bot-message a, .message a {
+      color: #ffd700 !important;
+  }
 ---
 
 # Coach Civique NovaFrate
-👋 **Bonjour je m'appelle CiviCoach  !**
+
+👋 **Bonjour je m'appelle CiviCoach !**
 
 Je suis votre coach assistant virtuel IA, je vais vous accompagner pour préparer sereinement l’examen civique.
 
