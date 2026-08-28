@@ -6,10 +6,10 @@ variablesDynamiques: true
 plugins: readcsv
 ---
 
-# Coach Civique NovaFrate — Chatbot V2
-👋 **Bonjour et bienvenue dans le Coach Civique NovaFrate !**
+# Coach Civique NovaFrate
+👋 **Bonjour je m'appelle CiviCoach  !**
 
-Je suis votre **Coach Civique**, votre compagnon pédagogique pour préparer sereinement l’examen civique.
+Je suis votre coach assistant virtuel IA, je vais vous accompagner pour préparer sereinement l’examen civique.
 
 Ensemble, nous allons avancer étape par étape pour :
 
@@ -93,7 +93,7 @@ Vos réponses de cette session seront réinitialisées. Souhaitez-vous continuer
 
 ### À propos du Coach Civique
 
-Le Coach Civique est un assistant pédagogique déterministe construit à partir de ressources validées. Il vous oriente, explique et propose des activités, mais ne remplace pas les informations officielles ni les consignes de votre centre d’examen.
+Civicoach est un assistant pédagogique IA construit à partir de ressources validées. Il vous oriente, explique et propose des activités, mais ne remplace pas les informations officielles ni les consignes de votre centre d’examen.
 
 1. [Retour à l’aide](SCR_ACC_AIDE)
 2. [Retour au menu principal](MENU_PRINCIPAL)
