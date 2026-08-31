@@ -14,14 +14,6 @@ function normalize(value) {
   return value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
 }
 
-function parseCsv(text) {
-  const lines = text.trim().split(/\r?\n/);
-  return lines.slice(1).map((line) => {
-    const [code_postal, code_insee, commune, latitude, longitude] = line.split(",");
-    return { code_postal, code_insee, commune, latitude: Number(latitude), longitude: Number(longitude) };
-  }).filter((row) => row.code_postal && Number.isFinite(row.latitude) && Number.isFinite(row.longitude));
-}
-
 function haversine(a, b) {
   const rad = (degrees) => degrees * Math.PI / 180;
   const dLat = rad(b.latitude - a.latitude);
@@ -92,7 +84,7 @@ function showResults(commune) {
     const sessionItems = (centre.sessions || []).length
       ? centre.sessions.map((date) => `<li>${formatDate(date)}</li>`).join("")
       : "<li>Consultez le formulaire pour les prochaines dates.</li>";
-    article.innerHTML = `<span class="rank">Choix ${index + 1}</span><div class="city">${centre.ville}</div><p class="meta">${centre.departement} · ${centre.region}<br><strong>${Math.round(centre.distance)} km</strong> à vol d’oiseau</p><div><strong>Prochaines sessions</strong><ul class="sessions">${sessionItems}</ul></div><a class="button" href="${centre.lien_forms}" target="_blank" rel="noopener">Voir les sessions et s’inscrire</a>`;
+    article.innerHTML = `<span class="rank">Choix ${index + 1}</span><div class="city">${centre.ville}</div><p class="meta">${centre.departement} · ${centre.region}<br><strong>${Math.round(centre.distance)} km</strong> à vol d’oiseau</p><div><strong>Prochaines sessions</strong><ul class="sessions">${sessionItems}</ul></div><a class="button" href="${centre.lien_forms}" target="_blank" rel="noopener">📝 S’inscrire à une session</a>`;
     cards.append(article);
   });
   locationSummary.textContent = `Résultats calculés depuis ${commune.commune} (${commune.code_postal}).`;
@@ -104,18 +96,15 @@ function showResults(commune) {
 
 async function init() {
   try {
-    let communesResponse = await fetch("data/communes_france.csv");
-    if (!communesResponse.ok) {
-      communesResponse = await fetch("../communes_france.csv");
-    }
+    const communesResponse = await fetch("data/communes_france.json", { cache: "force-cache" });
     const centresResponse = await fetch("data/centres_frate.json", { cache: "no-store" });
     if (!communesResponse.ok || !centresResponse.ok) throw new Error("Données indisponibles");
-    state.communes = parseCsv(await communesResponse.text());
+    state.communes = (await communesResponse.json()).communes || [];
     state.centres = (await centresResponse.json()).centres || [];
     try {
       const [sessionsResponse, geocodesResponse] = await Promise.all([
-        fetch("../exports_chatmd/data/sessions.json", { cache: "no-store" }),
-        fetch("../exports_chatmd/data/centres_geocodes.json", { cache: "no-store" })
+        fetch("data/sessions.json", { cache: "no-store" }),
+        fetch("data/centres_geocodes.json", { cache: "no-store" })
       ]);
       if (sessionsResponse.ok && geocodesResponse.ok) {
         const live = buildLiveCentres(await sessionsResponse.json(), await geocodesResponse.json());
