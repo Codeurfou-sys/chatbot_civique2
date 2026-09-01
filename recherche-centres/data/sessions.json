@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T14:15:40+00:00",
+  "generated_at": "2026-09-01T08:42:18+00:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -724,18 +724,6 @@
       "_row": 107
     },
     {
-      "id_session": "SES_LONS_LE_SAUNIER_20260909_CE9E36FE",
-      "code_centre": "LONS_LE_SAUNIER",
-      "region": "Franche-Comté",
-      "ville": "Lons-le-Saunier",
-      "date_session": "2026-09-09",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 108
-    },
-    {
       "id_session": "SES_LONS_LE_SAUNIER_20261008_C4903329",
       "code_centre": "LONS_LE_SAUNIER",
       "region": "Franche-Comté",
@@ -745,7 +733,7 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 109
+      "_row": 108
     },
     {
       "id_session": "SES_LONS_LE_SAUNIER_20261113_E7CA221E",
@@ -757,19 +745,19 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 110
+      "_row": 109
     },
     {
-      "id_session": "SES_MONTBELIARD_20260902_F3EF27A0",
-      "code_centre": "MONTBELIARD",
+      "id_session": "SES_LONS_LE_SAUNIER_20261216_DF8DB0FF",
+      "code_centre": "LONS_LE_SAUNIER",
       "region": "Franche-Comté",
-      "ville": "Montbéliard",
-      "date_session": "2026-09-02",
+      "ville": "Lons-le-Saunier",
+      "date_session": "2026-12-16",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 111
+      "_row": 110
     },
     {
       "id_session": "SES_MONTBELIARD_20261007_DE88C0BC",
@@ -781,7 +769,7 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 112
+      "_row": 111
     },
     {
       "id_session": "SES_MONTBELIARD_20261104_96DB837B",
@@ -789,6 +777,18 @@
       "region": "Franche-Comté",
       "ville": "Montbéliard",
       "date_session": "2026-11-04",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 112
+    },
+    {
+      "id_session": "SES_MONTBELIARD_20261202_3B6A76D3",
+      "code_centre": "MONTBELIARD",
+      "region": "Franche-Comté",
+      "ville": "Montbéliard",
+      "date_session": "2026-12-02",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
@@ -820,18 +820,6 @@
       "_row": 115
     },
     {
-      "id_session": "SES_MULHOUSE_20260907_5FBAF104",
-      "code_centre": "MULHOUSE",
-      "region": "Grand Est",
-      "ville": "Mulhouse",
-      "date_session": "2026-09-07",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 116
-    },
-    {
       "id_session": "SES_MULHOUSE_20260921_A1035EAD",
       "code_centre": "MULHOUSE",
       "region": "Grand Est",
@@ -841,7 +829,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 117
+      "_row": 116
     },
     {
       "id_session": "SES_MULHOUSE_20261008_AA9B47E2",
@@ -849,6 +837,18 @@
       "region": "Grand Est",
       "ville": "Mulhouse",
       "date_session": "2026-10-08",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 117
+    },
+    {
+      "id_session": "SES_MULHOUSE_20261023_5BA6546E",
+      "code_centre": "MULHOUSE",
+      "region": "Grand Est",
+      "ville": "Mulhouse",
+      "date_session": "2026-10-23",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
