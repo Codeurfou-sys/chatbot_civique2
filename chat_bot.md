@@ -410053,7 +410053,7 @@ Vous avez obtenu **`@score` / 10**.
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-09-12T07:57:22+00:00 -->
+<!-- Date : 2026-09-13T08:21:35+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
