@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:39:17+00:00",
+  "generated_at": "2026-09-17T08:42:11+00:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -784,18 +784,6 @@
       "_row": 112
     },
     {
-      "id_session": "SES_MULHOUSE_20260921_A1035EAD",
-      "code_centre": "MULHOUSE",
-      "region": "Grand Est",
-      "ville": "Mulhouse",
-      "date_session": "2026-09-21",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 113
-    },
-    {
       "id_session": "SES_MULHOUSE_20261008_AA9B47E2",
       "code_centre": "MULHOUSE",
       "region": "Grand Est",
@@ -805,7 +793,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 114
+      "_row": 113
     },
     {
       "id_session": "SES_MULHOUSE_20261023_5BA6546E",
@@ -813,6 +801,18 @@
       "region": "Grand Est",
       "ville": "Mulhouse",
       "date_session": "2026-10-23",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 114
+    },
+    {
+      "id_session": "SES_MULHOUSE_20261105_D654CAEB",
+      "code_centre": "MULHOUSE",
+      "region": "Grand Est",
+      "ville": "Mulhouse",
+      "date_session": "2026-11-05",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",

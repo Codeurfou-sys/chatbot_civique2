@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-09-16T08:39:16+00:00 -->
+<!-- Date : 2026-09-17T08:42:11+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -346,9 +346,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 21 septembre 2026
 - 8 octobre 2026
 - 23 octobre 2026
+- 5 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
