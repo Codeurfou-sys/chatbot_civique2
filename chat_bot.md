@@ -410053,7 +410053,7 @@ Vous avez obtenu **`@score` / 10**.
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-09-23T08:38:07+00:00 -->
+<!-- Date : 2026-09-24T08:30:42+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -410169,9 +410169,9 @@ Vous avez obtenu **`@score` / 10**.
 
 #### 📅 Prochaines sessions disponibles
 
-- 25 septembre 2026
 - 23 octobre 2026
 - 20 novembre 2026
+- 17 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -410245,9 +410245,9 @@ Vous avez obtenu **`@score` / 10**.
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 septembre 2026
 - 7 octobre 2026
 - 21 octobre 2026
+- 4 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -410297,9 +410297,9 @@ Vous avez obtenu **`@score` / 10**.
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 septembre 2026
 - 21 octobre 2026
 - 25 novembre 2026
+- 9 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -410503,7 +410503,6 @@ Vous avez obtenu **`@score` / 10**.
 
 #### 📅 Prochaines sessions disponibles
 
-- 24 septembre 2026
 - 22 octobre 2026
 - 26 novembre 2026
 
@@ -410579,9 +410578,9 @@ Vous avez obtenu **`@score` / 10**.
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
 - 22 octobre 2026
 - 6 novembre 2026
+- 27 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -410605,9 +410604,9 @@ Vous avez obtenu **`@score` / 10**.
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
 - 21 octobre 2026
 - 4 novembre 2026
+- 25 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -410631,9 +410630,9 @@ Vous avez obtenu **`@score` / 10**.
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 septembre 2026
 - 21 octobre 2026
 - 18 novembre 2026
+- 9 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
