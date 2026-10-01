@@ -70,7 +70,7 @@ CHAPTER_KEYWORD_MAP = {
         ("devoir", 2), ("infraction", 2), ("justice", 2), ("citoyenneté", 2)],
     4: [("histoire", 1), ("géograph", 2), ("culture", 3), ("patrimoine", 3)],
     5: [("santé", 2), ("protection sociale", 2), ("emploi", 3), ("travail", 3),
-        ("famil", 4), ("école", 4), ("parent", 4), ("logement", 1), ("société", 1)],
+        ("famil", 4), ("école", 4), ("éducation", 4), ("parent", 4), ("logement", 1), ("société", 1)],
 }
 
 # Configuration propre à chaque examen : fichiers sources et nom de la
@@ -79,16 +79,16 @@ EXAM_CONFIGS = {
     "CSP": dict(
         questions_file="BANQUE_OFFICIELLE_CSP.xlsx",
         questions_sheet="Banque_CSP_191",
-        situations_file="MISES_EN_SITUATION_CSP_BANQUE_COMPLETE.xlsx",
-        situations_sheet="MS_CSP_T1",
+        situations_file="MISES_EN_SITUATION_CSP.xlsx",
+        situations_sheet="MS_CSP",
         chapter_col="Chapitre",
     ),
     "CR": dict(
-        questions_file="BANQUE_OFFICIELLE_CARTE_RESIDENT_NOVAFRATE_V3.xlsx",
+        questions_file="BANQUE_OFFICIELLE_NOVAFRATE_V2_CARTE_RESIDENT.xlsx",
         questions_sheet="Banque_CR",
         situations_file="MISES_EN_SITUATION_CR_BANQUE_COMPLETE_204.xlsx",
         situations_sheet="Banque_MS_204",
-        chapter_col="ID_Chapitre",
+        chapter_col="Chapitre",
     ),
     "NAT": dict(
         questions_file="BANQUE_OFFICIELLE_NATURALISATION.xlsx",
@@ -144,8 +144,8 @@ def distribute(rows: list[dict[str, object]], per_variant: dict[int, int]) -> li
         selected: list[dict[str, object]] = []
         for theme, count in per_variant.items():
             pool = by_theme.get(theme, [])
-            if not pool:
-                continue
+            if len(pool) < count:
+                raise ValueError(f"Thématique {theme}: {len(pool)} lignes pour {count} questions demandées")
             for _ in range(count):
                 selected.append(pool[offsets[theme] % len(pool)])
                 offsets[theme] += 1
@@ -256,7 +256,7 @@ def recommendations() -> str:
     ]
     levels = [(">= 3", "🔴 Priorité forte", "Plusieurs erreurs ont été identifiées. Reprenez en priorité :"),
               ("== 2", "🟠 Priorité moyenne", "Ces chapitres méritent une révision ciblée :"),
-              ("== 1", "🟡 Priorité faible", "Une erreur ponctuelle a été repérée. Vérifiez :")]
+              ("== 1", "🟡 Priorité faible", "Une erreur ponctuelle a été repérée. Consultez le ou les chapitres :")]
     for operator, title, intro in levels:
         condition = " || ".join(f"@errchap_{key} {operator}" for key in keys)
         parts.extend([f"`if {condition}`", f"#### {title}", "", intro, "", "`endif`"])
@@ -290,11 +290,19 @@ def integrate(exam: str, module_path: Path, sources_dir: Path, dry_run: bool = F
     for row in situations:
         source = by_id.get(clean(row["ID question source"]))
         if source is None:
-            skipped += 1
-            continue
+            raise ValueError(f"Mise en situation {row['ID']} : question source introuvable")
         merged = {**source, **row, "N° thématique": source["N° thématique"], chapter_col: source.get(chapter_col)}
         situation_rows.append(merged)
 
+    for bank in (questions, situation_rows):
+        ids = [clean(row['ID']) for row in bank]
+        if len(set(ids)) != len(ids) or not all(ids):
+            raise ValueError(f"{exam}: identifiants absents ou dupliqués")
+        for row in bank:
+            if clean(row['Bonne réponse']).upper() not in ('A', 'B', 'C', 'D'):
+                raise ValueError(f"{exam}: bonne réponse invalide pour {row['ID']}")
+            if any(not clean(row[f'Réponse {letter}']) for letter in 'ABCD'):
+                raise ValueError(f"{exam}: proposition manquante pour {row['ID']}")
     knowledge_variants = distribute(questions, KNOWLEDGE_PER_VARIANT)
     situation_variants = distribute(situation_rows, SITUATIONS_PER_VARIANT)
 
@@ -370,7 +378,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--exam", required=True, choices=["CSP", "CR", "NAT", "TOUS"])
     parser.add_argument("--module", default="modules/05_preparer_examen.md")
-    parser.add_argument("--sources-dir", default=".", help="Dossier contenant les fichiers BANQUE_OFFICIELLE_*.xlsx")
+    parser.add_argument("--sources-dir", default="sources", help="Dossier contenant les fichiers BANQUE_OFFICIELLE_*.xlsx")
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args()
 

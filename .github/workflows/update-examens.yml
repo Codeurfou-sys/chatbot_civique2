@@ -53,9 +53,9 @@ jobs:
           cp .build_chatmd/export/data/centres_geocodes.json recherche-centres/data/centres_geocodes.json
           python scripts/sync_module_into_chatbot.py chat_bot.md modules/07_passer_examen.md
 
-      - name: Contrôler le chatbot complet et les banques Naturalisation
+      - name: Contrôler le chatbot complet et les banques d’examens
         run: |
-          python scripts/validate_naturalisation.py
+          python scripts/validate_banques_examens.py
           python scripts/validate_chatbot_final.py
 
       - name: Publier uniquement si les fichiers ont changé

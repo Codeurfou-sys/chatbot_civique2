@@ -25,21 +25,13 @@ Adresse d’ouverture dans ChatMD :
 - `recherche-centres/` : recherche géographique et données des centres ;
 - `.github/workflows/` : actualisation quotidienne des sessions FRATE.
 
-## Naturalisation
+## Banques Excel et génération
 
-La banque officielle de 251 questions alimente les 280 emplacements des dix
-examens blancs : chaque question est utilisée au moins une fois. La banque de
-251 mises en situation alimente 120 scénarios, soit les douze
-emplacements prévus dans chacune des dix séries.
-
-Pour régénérer ces séries après modification d’une banque :
-
-```bash
-python scripts/integrer_banques_naturalisation.py
-python scripts/sync_module_into_chatbot.py chat_bot.md modules/05_preparer_examen.md
-python scripts/validate_naturalisation.py
-python scripts/validate_chatbot_final.py
-```
+Les six banques CSP, Carte de résident et Naturalisation sont dans `sources/`.
+Consulter `ACTUALISER_BANQUES.md` pour les commandes de mise à jour.
+Les examens et entraînements CSP/NAT ont été synchronisés avec les fichiers
+présents ; les parcours Carte de résident sont conservés.
+ChatMD lit `chat_bot.md`, après génération depuis les Excel.
 
 ## Publication
 
