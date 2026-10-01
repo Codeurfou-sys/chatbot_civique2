@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-31T09:48:52+00:00 -->
+<!-- Date : 2026-10-01T10:12:16+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 
@@ -11,9 +11,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 18 septembre 2026
 - 16 octobre 2026
 - 27 novembre 2026
+- 11 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -37,9 +37,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
 - 28 octobre 2026
 - 25 novembre 2026
+- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -63,9 +63,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 16 septembre 2026
 - 16 octobre 2026
 - 18 novembre 2026
+- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -89,9 +89,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
 - 16 octobre 2026
 - 29 octobre 2026
+- 4 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -115,9 +115,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 25 septembre 2026
 - 23 octobre 2026
 - 20 novembre 2026
+- 17 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -141,9 +141,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 22 septembre 2026
 - 6 octobre 2026
 - 10 novembre 2026
+- 8 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -167,7 +167,6 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 9 septembre 2026
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
@@ -192,9 +191,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 9 septembre 2026
-- 23 septembre 2026
 - 7 octobre 2026
+- 21 octobre 2026
+- 4 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -218,9 +217,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 7 septembre 2026
 - 12 octobre 2026
 - 9 novembre 2026
+- 7 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -244,9 +243,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 septembre 2026
 - 21 octobre 2026
 - 25 novembre 2026
+- 9 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -270,9 +269,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 9 septembre 2026
 - 8 octobre 2026
 - 13 novembre 2026
+- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -296,9 +295,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 2 septembre 2026
 - 7 octobre 2026
 - 4 novembre 2026
+- 2 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -347,9 +346,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 7 septembre 2026
-- 21 septembre 2026
 - 8 octobre 2026
+- 23 octobre 2026
+- 5 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -373,7 +372,6 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 17 septembre 2026
 - 16 octobre 2026
 - 17 novembre 2026
 
@@ -399,9 +397,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 15 septembre 2026
 - 13 octobre 2026
 - 17 novembre 2026
+- 15 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -425,9 +423,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 septembre 2026
-- 7 octobre 2026
 - 28 octobre 2026
+- 18 novembre 2026
+- 2 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -451,7 +449,6 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 24 septembre 2026
 - 22 octobre 2026
 - 26 novembre 2026
 
@@ -477,7 +474,6 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 16 septembre 2026
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
@@ -502,9 +498,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 22 septembre 2026
 - 20 octobre 2026
 - 17 novembre 2026
+- 15 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -528,9 +524,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 9 septembre 2026
-- 30 septembre 2026
 - 22 octobre 2026
+- 6 novembre 2026
+- 27 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -554,9 +550,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
 - 21 octobre 2026
 - 4 novembre 2026
+- 25 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -580,9 +576,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 septembre 2026
 - 21 octobre 2026
 - 18 novembre 2026
+- 9 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -606,9 +602,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
 - 28 octobre 2026
 - 18 novembre 2026
+- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
