@@ -1,0 +1,3055 @@
+{
+  "notions": [
+    {
+      "id": "SCR_QL_GLO0001",
+      "title": "Abstention",
+      "aliases": [
+        "abstention",
+        "ne pas voter",
+        "abstentions"
+      ],
+      "answer": "L’**abstention** consiste à ne pas participer à une élection. Elle est différente du vote blanc.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0001"
+    },
+    {
+      "id": "SCR_QL_GLO0002",
+      "title": "Alpes",
+      "aliases": [
+        "alpes"
+      ],
+      "answer": "Massif montagneux situé à l'est de la France.\n\n**À retenir :** Le Mont Blanc est le plus haut sommet d'Europe occidentale.\n\n**Voir aussi :** Pyrénées.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0002"
+    },
+    {
+      "id": "SCR_QL_GLO0003",
+      "title": "APL",
+      "aliases": [
+        "apl",
+        "aide au logement"
+      ],
+      "answer": "Aide personnalisée au logement versée sous certaines conditions.\n\n**À retenir :** Elle permet de réduire le montant du loyer.\n\n**Voir aussi :** CAF.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0003"
+    },
+    {
+      "id": "SCR_QL_GLO0004",
+      "title": "Assemblée nationale",
+      "aliases": [
+        "assemblee nationale",
+        "assemblee",
+        "assemble nationale",
+        "assemblee national",
+        "assemblee des deputes"
+      ],
+      "answer": "L’**Assemblée nationale** est l’une des deux parties du Parlement. Les **députés** y discutent et votent les lois.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0004"
+    },
+    {
+      "id": "SCR_QL_GLO0005",
+      "title": "Assistance à personne en danger",
+      "aliases": [
+        "assistance a personne en danger"
+      ],
+      "answer": "Obligation d'aider une personne en danger ou d'alerter les secours lorsqu'il est possible de le faire sans risque.\n\n**À retenir :** Ne pas porter assistance peut être puni par la loi.\n\n**Voir aussi :** Secours.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0005"
+    },
+    {
+      "id": "SCR_QL_GLO0006",
+      "title": "Assurance maladie",
+      "aliases": [
+        "assurance maladie",
+        "securite sociale",
+        "secu"
+      ],
+      "answer": "Système de protection sociale qui rembourse tout ou partie des dépenses de santé.\n\n**À retenir :** Toute personne résidant régulièrement en France peut bénéficier d'une couverture maladie selon sa situation.\n\n**Voir aussi :** Carte Vitale; CPAM; Médecin traitant.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0006"
+    },
+    {
+      "id": "SCR_QL_GLO0007",
+      "title": "Bail",
+      "aliases": [
+        "bail",
+        "logement",
+        "baux",
+        "contrat de location"
+      ],
+      "answer": "Un **bail** est un contrat entre le propriétaire d’un logement et la personne qui le loue. Il précise les conditions de la location.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0007"
+    },
+    {
+      "id": "SCR_QL_GLO0008",
+      "title": "Bretagne",
+      "aliases": [
+        "bretagne",
+        "rennes",
+        "bretagnes"
+      ],
+      "answer": "Région située à l'ouest de la France métropolitaine.\n\n**À retenir :** La Bretagne est connue pour son littoral, sa culture bretonne, ses ports de pêche, ses phares et ses spécialités culinaires comme les crêpes et le kouign-amann.\n\n**Voir aussi :** Rennes; Région.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0008"
+    },
+    {
+      "id": "SCR_QL_GLO0009",
+      "title": "CAF",
+      "aliases": [
+        "caf"
+      ],
+      "answer": "La **CAF**, ou Caisse d’allocations familiales, verse certaines aides selon la situation des personnes et des familles.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0009"
+    },
+    {
+      "id": "SCR_QL_GLO0010",
+      "title": "Carte de résident",
+      "aliases": [
+        "carte de resident",
+        "carte de residant",
+        "resident",
+        "residant"
+      ],
+      "answer": "La **carte de résident** est un titre de séjour valable dix ans. Les conditions et les démarches dépendent de la situation de la personne.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0010"
+    },
+    {
+      "id": "SCR_QL_GLO0011",
+      "title": "Carte Vitale",
+      "aliases": [
+        "carte vitale",
+        "carte vital"
+      ],
+      "answer": "La **carte Vitale** sert à transmettre les informations nécessaires au remboursement des soins par l’Assurance maladie.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0011"
+    },
+    {
+      "id": "SCR_QL_GLO0012",
+      "title": "CDD",
+      "aliases": [
+        "cdd",
+        "contrat a duree determinee"
+      ],
+      "answer": "Un **CDD** est un contrat de travail prévu pour une durée déterminée. Il a une fin prévue selon les conditions du contrat.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0012"
+    },
+    {
+      "id": "SCR_QL_GLO0013",
+      "title": "CDI",
+      "aliases": [
+        "cdi",
+        "contrat a duree indeterminee"
+      ],
+      "answer": "Un **CDI** est un contrat de travail sans date de fin prévue à l’avance.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0013"
+    },
+    {
+      "id": "SCR_QL_GLO0014",
+      "title": "Celtes",
+      "aliases": [
+        "celtes"
+      ],
+      "answer": "Peuples installés en Gaule avant la conquête romaine.\n\n**À retenir :** Les Gaulois étaient des peuples celtes.\n\n**Voir aussi :** Gaule.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0014"
+    },
+    {
+      "id": "SCR_QL_GLO0015",
+      "title": "Charlemagne",
+      "aliases": [
+        "charlemagne",
+        "moyen age",
+        "charlemagnes"
+      ],
+      "answer": "Empereur d'Occident couronné en l'an 800.\n\n**À retenir :** Il a contribué au développement de l'éducation et de l'organisation de son empire.\n\n**Voir aussi :** Moyen Âge.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0015"
+    },
+    {
+      "id": "SCR_QL_GLO0016",
+      "title": "Charte de l'environnement",
+      "aliases": [
+        "charte de l environnement"
+      ],
+      "answer": "Texte à valeur constitutionnelle qui reconnaît le droit à un environnement équilibré.\n\n**À retenir :** La protection de l'environnement est un principe constitutionnel.\n\n**Voir aussi :** Environnement.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0016"
+    },
+    {
+      "id": "SCR_QL_GLO0017",
+      "title": "Château de Versailles",
+      "aliases": [
+        "chateau de versailles",
+        "louis xiv"
+      ],
+      "answer": "Ancienne résidence des rois de France située près de Paris.\n\n**À retenir :** Il est célèbre pour son architecture et ses jardins.\n\n**Voir aussi :** Louis XIV.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0017"
+    },
+    {
+      "id": "SCR_QL_GLO0018",
+      "title": "Cinquième République",
+      "aliases": [
+        "cinquieme republique"
+      ],
+      "answer": "Régime politique actuel de la France, instauré en 1958.\n\n**À retenir :** La Constitution de 1958 est toujours en vigueur.\n\n**Voir aussi :** Constitution.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0018"
+    },
+    {
+      "id": "SCR_QL_GLO0019",
+      "title": "Citoyen",
+      "aliases": [
+        "citoyen",
+        "droit de vote",
+        "nationalite",
+        "citoyenne",
+        "citoyens",
+        "citoyennes"
+      ],
+      "answer": "Un **citoyen** est une personne qui possède des droits civiques et des devoirs envers la société. Le vote est un exemple de droit civique.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0019"
+    },
+    {
+      "id": "SCR_QL_GLO0020",
+      "title": "Citoyenneté",
+      "aliases": [
+        "citoyennete",
+        "nationalite",
+        "citoyennetes"
+      ],
+      "answer": "Lien juridique entre une personne et un État, donnant des droits mais aussi des devoirs.\n\n**À retenir :** Tous les résidents ne sont pas citoyens français.\n\n**Attention à ne pas confondre :** Citoyenneté ≠ résidence.\n\n**Voir aussi :** Nationalité.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0020"
+    },
+    {
+      "id": "SCR_QL_GLO0021",
+      "title": "Clovis",
+      "aliases": [
+        "clovis"
+      ],
+      "answer": "Premier roi des Francs à s'être converti au christianisme.\n\n**À retenir :** Son règne marque le début de la dynastie mérovingienne.\n\n**Voir aussi :** Charlemagne.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0021"
+    },
+    {
+      "id": "SCR_QL_GLO0022",
+      "title": "Collège",
+      "aliases": [
+        "college",
+        "colleges"
+      ],
+      "answer": "Établissement accueillant les élèves après l'école primaire.\n\n**À retenir :** Le collège est obligatoire.\n\n**Voir aussi :** Lycée.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0022"
+    },
+    {
+      "id": "SCR_QL_GLO0023",
+      "title": "Commission européenne",
+      "aliases": [
+        "commission europeenne"
+      ],
+      "answer": "Institution chargée de proposer les lois européennes et de veiller à leur application.\n\n**À retenir :** Elle défend l'intérêt général de l'Union européenne.\n\n**Voir aussi :** Union européenne.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0023"
+    },
+    {
+      "id": "SCR_QL_GLO0024",
+      "title": "Commune",
+      "aliases": [
+        "commune",
+        "communes"
+      ],
+      "answer": "Une **commune** est une ville ou un village avec son administration locale. Le maire et le conseil municipal s’occupent des affaires de la commune.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0024"
+    },
+    {
+      "id": "SCR_QL_GLO0025",
+      "title": "Conseil constitutionnel",
+      "aliases": [
+        "conseil constitutionnel"
+      ],
+      "answer": "Le Conseil constitutionnel vérifie que les lois respectent la Constitution.\n\n**À retenir :** Il protège la Constitution.\n\n**Voir aussi :** Constitution.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0025"
+    },
+    {
+      "id": "SCR_QL_GLO0026",
+      "title": "Conseil de l'Union européenne",
+      "aliases": [
+        "conseil de l union europeenne",
+        "conseil de l ue"
+      ],
+      "answer": "Institution où siègent les ministres des États membres.\n\n**À retenir :** Il participe au vote des lois européennes.\n\n**Voir aussi :** Commission européenne.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0026"
+    },
+    {
+      "id": "SCR_QL_GLO0027",
+      "title": "Conseil départemental",
+      "aliases": [
+        "conseil departemental"
+      ],
+      "answer": "Assemblée qui administre le département.\n\n**À retenir :** Ses membres sont les conseillers départementaux.\n\n**Voir aussi :** Département.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0027"
+    },
+    {
+      "id": "SCR_QL_GLO0028",
+      "title": "Conseil européen",
+      "aliases": [
+        "conseil europeen"
+      ],
+      "answer": "Réunion des chefs d'État ou de gouvernement des pays membres.\n\n**À retenir :** Il fixe les grandes orientations politiques de l'Union européenne.\n\n**Voir aussi :** Union européenne.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0028"
+    },
+    {
+      "id": "SCR_QL_GLO0029",
+      "title": "Conseil municipal",
+      "aliases": [
+        "conseil municipal"
+      ],
+      "answer": "Assemblée élue qui administre la commune.\n\n**À retenir :** Les conseillers municipaux élisent le maire.\n\n**Voir aussi :** Maire.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0029"
+    },
+    {
+      "id": "SCR_QL_GLO0030",
+      "title": "Conseil régional",
+      "aliases": [
+        "conseil regional"
+      ],
+      "answer": "Assemblée qui administre la région.\n\n**À retenir :** Ses membres sont les conseillers régionaux.\n\n**Voir aussi :** Région.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0030"
+    },
+    {
+      "id": "SCR_QL_GLO0031",
+      "title": "Consentement",
+      "aliases": [
+        "consentement",
+        "violence sexuelle",
+        "consantement",
+        "accord libre",
+        "consentements"
+      ],
+      "answer": "Le **consentement** est un accord donné librement, sans pression. Une personne doit pouvoir accepter ou refuser.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0031"
+    },
+    {
+      "id": "SCR_QL_GLO0032",
+      "title": "Constitution",
+      "aliases": [
+        "constitution",
+        "constitucion",
+        "constitusion",
+        "constitutions"
+      ],
+      "answer": "La **Constitution** est le texte qui fixe les grandes règles de fonctionnement du pays. Elle organise les institutions et protège des droits fondamentaux.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0032"
+    },
+    {
+      "id": "SCR_QL_GLO0033",
+      "title": "Contrat d'engagement à respecter les principes de la République",
+      "aliases": [
+        "contrat d engagement a respecter les principes de la republique",
+        "valeurs de la republique"
+      ],
+      "answer": "Engagement consistant à respecter les valeurs et les principes de la République française.\n\n**À retenir :** Le respect des principes républicains est attendu dans certains parcours administratifs.\n\n**Voir aussi :** République; Laïcité; Valeurs de la République.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0033"
+    },
+    {
+      "id": "SCR_QL_GLO0034",
+      "title": "Contrat de travail",
+      "aliases": [
+        "contrat de travail",
+        "contrats de travail"
+      ],
+      "answer": "Le **contrat de travail** fixe les conditions de travail entre un employeur et un salarié.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0034"
+    },
+    {
+      "id": "SCR_QL_GLO0035",
+      "title": "Contravention",
+      "aliases": [
+        "contravention",
+        "contraventions"
+      ],
+      "answer": "Infraction la moins grave.\n\n**À retenir :** Elle est généralement punie d'une amende.\n\n**Voir aussi :** Délit; Crime.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0035"
+    },
+    {
+      "id": "SCR_QL_GLO0036",
+      "title": "CPAM",
+      "aliases": [
+        "cpam"
+      ],
+      "answer": "La Caisse primaire d'assurance maladie gère l'Assurance maladie dans chaque département.\n\n**À retenir :** Elle accompagne les assurés dans leurs démarches de santé.\n\n**Voir aussi :** Carte Vitale; Assurance maladie.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0036"
+    },
+    {
+      "id": "SCR_QL_GLO0037",
+      "title": "Crime",
+      "aliases": [
+        "crime",
+        "crimes"
+      ],
+      "answer": "Infraction la plus grave prévue par la loi.\n\n**À retenir :** Les crimes sont jugés par une cour d'assises.\n\n**Voir aussi :** Délit.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0037"
+    },
+    {
+      "id": "SCR_QL_GLO0038",
+      "title": "Déclaration des droits de l'homme et du citoyen",
+      "aliases": [
+        "declaration des droits de l homme et du citoyen"
+      ],
+      "answer": "Texte adopté en 1789 qui affirme les droits et libertés fondamentaux.\n\n**À retenir :** C'est l'un des textes fondateurs de la République française.\n\n**Voir aussi :** Constitution.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0038"
+    },
+    {
+      "id": "SCR_QL_GLO0039",
+      "title": "Délit",
+      "aliases": [
+        "delit",
+        "delits"
+      ],
+      "answer": "Infraction plus grave qu'une contravention.\n\n**À retenir :** Il peut être puni d'une peine de prison.\n\n**Voir aussi :** Crime.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0039"
+    },
+    {
+      "id": "SCR_QL_GLO0040",
+      "title": "Démocratie",
+      "aliases": [
+        "democratie",
+        "democracie",
+        "democratique",
+        "democraties"
+      ],
+      "answer": "Dans une **démocratie**, le peuple participe aux décisions, notamment en choisissant ses représentants par le vote.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0040"
+    },
+    {
+      "id": "SCR_QL_GLO0041",
+      "title": "Département",
+      "aliases": [
+        "departement",
+        "departements"
+      ],
+      "answer": "Le département est une collectivité territoriale située entre la région et la commune.\n\n**À retenir :** La France compte 101 départements.\n\n**Voir aussi :** Région; Commune.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0041"
+    },
+    {
+      "id": "SCR_QL_GLO0042",
+      "title": "Député",
+      "aliases": [
+        "depute",
+        "deputes",
+        "deputee"
+      ],
+      "answer": "Un **député** est un représentant élu qui siège à l’Assemblée nationale. Il participe au vote des lois.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0042"
+    },
+    {
+      "id": "SCR_QL_GLO0043",
+      "title": "Député européen",
+      "aliases": [
+        "depute europeen",
+        "deputes europeens",
+        "eurodepute"
+      ],
+      "answer": "Représentant élu des citoyens au Parlement européen.\n\n**À retenir :** Les députés européens sont élus tous les cinq ans.\n\n**Voir aussi :** Parlement européen.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0043"
+    },
+    {
+      "id": "SCR_QL_GLO0044",
+      "title": "Devise de la République",
+      "aliases": [
+        "devise de la republique",
+        "devise",
+        "liberte egalite fraternite"
+      ],
+      "answer": "La devise de la République française est **« Liberté, Égalité, Fraternité »**. Elle exprime trois valeurs communes.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0044"
+    },
+    {
+      "id": "SCR_QL_GLO0045",
+      "title": "Dignité humaine",
+      "aliases": [
+        "dignite humaine",
+        "dignite"
+      ],
+      "answer": "La **dignité humaine** signifie que toute personne mérite le respect. On ne doit pas humilier une personne ni la traiter comme un objet.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0045"
+    },
+    {
+      "id": "SCR_QL_GLO0046",
+      "title": "Drapeau français",
+      "aliases": [
+        "drapeau francais",
+        "drapeau",
+        "drapeau tricolore",
+        "bleu blanc rouge"
+      ],
+      "answer": "Le **drapeau français** comporte trois couleurs : bleu, blanc et rouge.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0046"
+    },
+    {
+      "id": "SCR_QL_GLO0047",
+      "title": "Droits fondamentaux",
+      "aliases": [
+        "droits fondamentaux",
+        "droit fondamental",
+        "droits humains",
+        "droits de l homme"
+      ],
+      "answer": "Ensemble des droits et libertés reconnus à toute personne et garantis par la Constitution et les textes fondamentaux.\n\n**À retenir :** Ils protègent la dignité, la liberté et l'égalité de chacun.\n\n**Voir aussi :** Constitution; Liberté; Égalité.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0047"
+    },
+    {
+      "id": "SCR_QL_GLO0048",
+      "title": "École",
+      "aliases": [
+        "ecole",
+        "ecoles"
+      ],
+      "answer": "Établissement où les enfants reçoivent un enseignement.\n\n**À retenir :** L'instruction est obligatoire de 3 à 16 ans.\n\n**Voir aussi :** Collège; Lycée.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0048"
+    },
+    {
+      "id": "SCR_QL_GLO0049",
+      "title": "Égalité",
+      "aliases": [
+        "egalite",
+        "egalites",
+        "egalite devant la loi"
+      ],
+      "answer": "L’**égalité** signifie que chacun a les mêmes droits devant la loi. Une personne ne doit pas être traitée moins bien en raison, par exemple, de son origine ou de sa religion.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0049"
+    },
+    {
+      "id": "SCR_QL_GLO0050",
+      "title": "Élection",
+      "aliases": [
+        "election",
+        "elections",
+        "electeur"
+      ],
+      "answer": "Procédure permettant aux citoyens de choisir leurs représentants.\n\n**À retenir :** Les élections sont au cœur de la démocratie.\n\n**Voir aussi :** Suffrage universel.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0050"
+    },
+    {
+      "id": "SCR_QL_GLO0051",
+      "title": "Employeur",
+      "aliases": [
+        "employeur",
+        "patron",
+        "employeurs"
+      ],
+      "answer": "L’**employeur** est la personne ou l’organisation qui embauche un salarié et lui verse un salaire.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0051"
+    },
+    {
+      "id": "SCR_QL_GLO0052",
+      "title": "Environnement",
+      "aliases": [
+        "environnement",
+        "proteger la nature",
+        "environnements"
+      ],
+      "answer": "Ensemble des éléments naturels que chacun doit protéger.\n\n**À retenir :** La protection de l'environnement est une responsabilité collective.\n\n**Voir aussi :** Charte de l'environnement.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0052"
+    },
+    {
+      "id": "SCR_QL_GLO0053",
+      "title": "Espace Schengen",
+      "aliases": [
+        "espace schengen"
+      ],
+      "answer": "Espace dans lequel les contrôles aux frontières intérieures sont supprimés entre les États participants.\n\n**À retenir :** La France fait partie de l'espace Schengen.\n\n**Voir aussi :** Union européenne.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0053"
+    },
+    {
+      "id": "SCR_QL_GLO0054",
+      "title": "État",
+      "aliases": [
+        "etat"
+      ],
+      "answer": "L'État est l'organisation politique qui exerce son autorité sur le territoire français et garantit le respect des lois.\n\n**À retenir :** L'État assure les services publics et protège les citoyens.\n\n**Voir aussi :** République; Gouvernement; Préfet.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0054"
+    },
+    {
+      "id": "SCR_QL_GLO0055",
+      "title": "Euro",
+      "aliases": [
+        "euro"
+      ],
+      "answer": "Monnaie utilisée par plusieurs pays de l'Union européenne.\n\n**À retenir :** L'euro est la monnaie officielle de la France.\n\n**Voir aussi :** Union européenne.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0055"
+    },
+    {
+      "id": "SCR_QL_GLO0056",
+      "title": "Fête de la Musique",
+      "aliases": [
+        "fete de la musique",
+        "culture"
+      ],
+      "answer": "Manifestation culturelle organisée chaque année le 21 juin.\n\n**À retenir :** Elle permet à tous de partager la musique gratuitement.\n\n**Voir aussi :** Culture.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0056"
+    },
+    {
+      "id": "SCR_QL_GLO0057",
+      "title": "Fête nationale",
+      "aliases": [
+        "fete nationale",
+        "14 juillet",
+        "quatorze juillet"
+      ],
+      "answer": "La fête nationale française est célébrée chaque année le 14 juillet.\n\n**À retenir :** Elle commémore la prise de la Bastille et la Fête de la Fédération.\n\n**Voir aussi :** République.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0057"
+    },
+    {
+      "id": "SCR_QL_GLO0058",
+      "title": "France métropolitaine",
+      "aliases": [
+        "france metropolitaine",
+        "metropole",
+        "metropolitaine"
+      ],
+      "answer": "Partie du territoire français située en Europe.\n\n**À retenir :** Elle est composée de 13 régions.\n\n**Voir aussi :** Outre-mer.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0058"
+    },
+    {
+      "id": "SCR_QL_GLO0059",
+      "title": "France Services",
+      "aliases": [
+        "france services",
+        "maison france services"
+      ],
+      "answer": "**France Services** est un lieu où l’on peut être accompagné pour réaliser des démarches administratives.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0059"
+    },
+    {
+      "id": "SCR_QL_GLO0060",
+      "title": "France Travail",
+      "aliases": [
+        "france travail",
+        "formation",
+        "emploi",
+        "pole emploi"
+      ],
+      "answer": "**France Travail** accompagne les personnes qui cherchent un emploi, notamment dans leurs recherches et leurs démarches.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0060"
+    },
+    {
+      "id": "SCR_QL_GLO0061",
+      "title": "Francophonie",
+      "aliases": [
+        "francophonie",
+        "langue francaise",
+        "francophonies"
+      ],
+      "answer": "Ensemble des personnes et des pays qui utilisent la langue française.\n\n**À retenir :** Le français est parlé sur les cinq continents.\n\n**Voir aussi :** Langue française.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0061"
+    },
+    {
+      "id": "SCR_QL_GLO0062",
+      "title": "Fraternité",
+      "aliases": [
+        "fraternite",
+        "solidarite",
+        "entraide",
+        "fraternites"
+      ],
+      "answer": "La **fraternité** signifie vivre ensemble avec respect et solidarité. Aider une personne en difficulté est un exemple de solidarité.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0062"
+    },
+    {
+      "id": "SCR_QL_GLO0063",
+      "title": "Gastronomie française",
+      "aliases": [
+        "gastronomie francaise"
+      ],
+      "answer": "Ensemble des traditions culinaires françaises.\n\n**À retenir :** Le repas gastronomique des Français est inscrit au patrimoine culturel immatériel de l'UNESCO.\n\n**Voir aussi :** UNESCO.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0063"
+    },
+    {
+      "id": "SCR_QL_GLO0064",
+      "title": "Gaule",
+      "aliases": [
+        "gaule",
+        "jules cesar",
+        "gaules"
+      ],
+      "answer": "Nom donné au territoire de la France actuelle avant la conquête romaine.\n\n**À retenir :** La Gaule était peuplée de peuples celtes.\n\n**Voir aussi :** Celtes; Vercingétorix; Jules César.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0064"
+    },
+    {
+      "id": "SCR_QL_GLO0065",
+      "title": "Gendarmerie",
+      "aliases": [
+        "gendarmerie",
+        "gendarmes",
+        "gendarmeries"
+      ],
+      "answer": "Force militaire chargée de missions de sécurité publique.\n\n**À retenir :** Elle intervient principalement en zone rurale.\n\n**Voir aussi :** Police.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0065"
+    },
+    {
+      "id": "SCR_QL_GLO0066",
+      "title": "Gouvernement",
+      "aliases": [
+        "gouvernement",
+        "gouv",
+        "gouvernements",
+        "gouvernment",
+        "gouvernemant",
+        "gouvernemen",
+        "equipe des ministres"
+      ],
+      "answer": "Le **gouvernement** est l’équipe qui dirige l’action du pays au quotidien. En France, il est composé du **Premier ministre et des ministres**. Il prépare des projets de loi et fait appliquer les lois. **Le Parlement vote les lois : ce n’est pas le même rôle.**",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0066"
+    },
+    {
+      "id": "SCR_QL_GLO0067",
+      "title": "Guadeloupe",
+      "aliases": [
+        "guadeloupe",
+        "guadeloupes"
+      ],
+      "answer": "Département et région d'outre-mer situé dans les Caraïbes.\n\n**À retenir :** Elle est connue pour ses plages, son volcan de la Soufrière et sa biodiversité.\n\n**Voir aussi :** Outre-mer.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0067"
+    },
+    {
+      "id": "SCR_QL_GLO0068",
+      "title": "Guyane",
+      "aliases": [
+        "guyane",
+        "guyanes"
+      ],
+      "answer": "Département et région d'outre-mer situé en Amérique du Sud.\n\n**À retenir :** La Guyane accueille le Centre spatial guyanais de Kourou et possède une vaste forêt amazonienne.\n\n**Voir aussi :** Outre-mer.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0068"
+    },
+    {
+      "id": "SCR_QL_GLO0069",
+      "title": "Harcèlement",
+      "aliases": [
+        "harcelement",
+        "harcelement moral",
+        "harcelement au travail",
+        "harcelements"
+      ],
+      "answer": "Violences ou comportements répétés ayant pour effet de dégrader les conditions de vie d'une personne.\n\n**À retenir :** Le harcèlement est puni par la loi.\n\n**Voir aussi :** Harcèlement scolaire.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0069"
+    },
+    {
+      "id": "SCR_QL_GLO0070",
+      "title": "Harcèlement scolaire",
+      "aliases": [
+        "harcelement scolaire",
+        "harcelement a l ecole"
+      ],
+      "answer": "Violences répétées subies par un élève de la part d'autres élèves.\n\n**À retenir :** Il s'agit d'un délit.\n\n**Voir aussi :** Violence.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0070"
+    },
+    {
+      "id": "SCR_QL_GLO0071",
+      "title": "Hôpital",
+      "aliases": [
+        "hopital",
+        "hopitals"
+      ],
+      "answer": "Établissement de santé où sont assurés les soins médicaux et chirurgicaux.\n\n**À retenir :** Les hôpitaux publics accueillent tous les patients.\n\n**Voir aussi :** Urgences.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0071"
+    },
+    {
+      "id": "SCR_QL_GLO0072",
+      "title": "Île-de-France",
+      "aliases": [
+        "ile de france",
+        "paris"
+      ],
+      "answer": "Région où se situe Paris, capitale de la France.\n\n**À retenir :** Elle est la région la plus peuplée du pays et concentre de nombreuses institutions nationales.\n\n**Voir aussi :** Paris.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0072"
+    },
+    {
+      "id": "SCR_QL_GLO0073",
+      "title": "Impôt",
+      "aliases": [
+        "impot",
+        "services publics",
+        "impots",
+        "taxes"
+      ],
+      "answer": "L’**impôt** est une somme payée pour financer les dépenses publiques, par exemple les écoles et les services publics.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0073"
+    },
+    {
+      "id": "SCR_QL_GLO0074",
+      "title": "Infraction",
+      "aliases": [
+        "infraction",
+        "infractions"
+      ],
+      "answer": "Acte interdit par la loi.\n\n**À retenir :** Une infraction peut être sanctionnée.\n\n**Voir aussi :** Contravention; Délit; Crime.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0074"
+    },
+    {
+      "id": "SCR_QL_GLO0075",
+      "title": "Intégrité de la personne",
+      "aliases": [
+        "integrite de la personne",
+        "integrite"
+      ],
+      "answer": "Droit de chacun à la protection de son corps et de son esprit.\n\n**À retenir :** Toute atteinte injustifiée à l'intégrité est interdite.\n\n**Voir aussi :** Dignité humaine.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0075"
+    },
+    {
+      "id": "SCR_QL_GLO0076",
+      "title": "Journées européennes du patrimoine",
+      "aliases": [
+        "journees europeennes du patrimoine"
+      ],
+      "answer": "Événement annuel permettant de découvrir gratuitement de nombreux lieux patrimoniaux.\n\n**À retenir :** Elles ont lieu chaque année en septembre.\n\n**Voir aussi :** Patrimoine.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0076"
+    },
+    {
+      "id": "SCR_QL_GLO0077",
+      "title": "Justice",
+      "aliases": [
+        "justice",
+        "tribunal",
+        "tribunaux",
+        "justices"
+      ],
+      "answer": "La **justice** fait respecter les règles, règle les conflits et sanctionne les infractions. Elle protège aussi les droits des personnes.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0077"
+    },
+    {
+      "id": "SCR_QL_GLO0078",
+      "title": "La Marseillaise",
+      "aliases": [
+        "la marseillaise",
+        "marseillaise",
+        "hymne national",
+        "hymne de la france"
+      ],
+      "answer": "**La Marseillaise** est l’hymne national de la France.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0078"
+    },
+    {
+      "id": "SCR_QL_GLO0079",
+      "title": "La Réunion",
+      "aliases": [
+        "la reunion"
+      ],
+      "answer": "Département et région d'outre-mer situé dans l'océan Indien.\n\n**À retenir :** L'île est connue pour ses cirques, son volcan actif et ses paysages naturels.\n\n**Voir aussi :** Outre-mer.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0079"
+    },
+    {
+      "id": "SCR_QL_GLO0080",
+      "title": "Laïcité",
+      "aliases": [
+        "laicite",
+        "laicitee",
+        "laique",
+        "laic",
+        "separation des eglises et de l etat",
+        "laicites"
+      ],
+      "answer": "La **laïcité** permet à chacun de croire, de ne pas croire ou de changer de religion. L’État reste neutre à l’égard des religions. Chacun doit respecter la liberté des autres.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0080"
+    },
+    {
+      "id": "SCR_QL_GLO0081",
+      "title": "Langue de la République",
+      "aliases": [
+        "langue de la republique"
+      ],
+      "answer": "Le français est la langue officielle de la République française.\n\n**À retenir :** Le français est utilisé dans les administrations, les écoles et les services publics.\n\n**Voir aussi :** République.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0081"
+    },
+    {
+      "id": "SCR_QL_GLO0082",
+      "title": "Liberté",
+      "aliases": [
+        "liberte",
+        "liberte d expression",
+        "libertes"
+      ],
+      "answer": "La **liberté** permet de faire des choix et de s’exprimer. Elle s’exerce dans le respect de la loi et des droits des autres.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0082"
+    },
+    {
+      "id": "SCR_QL_GLO0083",
+      "title": "Liberté de conscience",
+      "aliases": [
+        "liberte de conscience",
+        "choisir sa religion",
+        "liberte religieuse"
+      ],
+      "answer": "La **liberté de conscience** permet à chacun de choisir ses convictions : croire, ne pas croire ou changer de religion.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0083"
+    },
+    {
+      "id": "SCR_QL_GLO0084",
+      "title": "Locataire",
+      "aliases": [
+        "locataire",
+        "locataires"
+      ],
+      "answer": "Le **locataire** est la personne qui loue un logement et paie un loyer au propriétaire.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0084"
+    },
+    {
+      "id": "SCR_QL_GLO0085",
+      "title": "Loi",
+      "aliases": [
+        "loi"
+      ],
+      "answer": "Une **loi** est une règle votée par le Parlement. Elle fixe ce qui est autorisé, obligatoire ou interdit.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0085"
+    },
+    {
+      "id": "SCR_QL_GLO0086",
+      "title": "Lycée",
+      "aliases": [
+        "lycee",
+        "baccalaureat",
+        "lycees"
+      ],
+      "answer": "Établissement préparant les élèves au baccalauréat ou à une formation professionnelle.\n\n**À retenir :** Il existe des lycées généraux, technologiques et professionnels.\n\n**Voir aussi :** Baccalauréat.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0086"
+    },
+    {
+      "id": "SCR_QL_GLO0087",
+      "title": "Maire",
+      "aliases": [
+        "maire",
+        "maires"
+      ],
+      "answer": "Le **maire** dirige la commune avec le conseil municipal. Il intervient dans les affaires locales.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0087"
+    },
+    {
+      "id": "SCR_QL_GLO0088",
+      "title": "Mairie",
+      "aliases": [
+        "mairie",
+        "hotel de ville",
+        "mairies"
+      ],
+      "answer": "La **mairie** est le lieu où travaillent les services de la commune. On peut y faire certaines démarches administratives.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0088"
+    },
+    {
+      "id": "SCR_QL_GLO0089",
+      "title": "Marianne",
+      "aliases": [
+        "marianne",
+        "mariannes"
+      ],
+      "answer": "Marianne est la représentation symbolique de la République française.\n\n**À retenir :** Elle symbolise la liberté et la République.\n\n**Voir aussi :** République.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0089"
+    },
+    {
+      "id": "SCR_QL_GLO0090",
+      "title": "Martinique",
+      "aliases": [
+        "martinique",
+        "martiniques"
+      ],
+      "answer": "Département et région d'outre-mer situé dans les Caraïbes.\n\n**À retenir :** La Martinique est célèbre pour la montagne Pelée et son patrimoine culturel.\n\n**Voir aussi :** Outre-mer.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0090"
+    },
+    {
+      "id": "SCR_QL_GLO0091",
+      "title": "Mayotte",
+      "aliases": [
+        "mayotte",
+        "mayottes"
+      ],
+      "answer": "Département et région d'outre-mer situé dans l'océan Indien.\n\n**À retenir :** Mayotte est le département le plus récent de la République française.\n\n**Voir aussi :** Outre-mer.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0091"
+    },
+    {
+      "id": "SCR_QL_GLO0092",
+      "title": "Médecin traitant",
+      "aliases": [
+        "medecin traitant",
+        "docteur traitant"
+      ],
+      "answer": "Médecin choisi par le patient pour assurer son suivi médical.\n\n**À retenir :** Le déclarer permet un meilleur remboursement des soins.\n\n**Voir aussi :** Assurance maladie.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0092"
+    },
+    {
+      "id": "SCR_QL_GLO0093",
+      "title": "Ministre",
+      "aliases": [
+        "ministre",
+        "ministres",
+        "minister",
+        "minstre"
+      ],
+      "answer": "Un **ministre** fait partie du Gouvernement. Il s’occupe d’un domaine, comme l’éducation, la santé ou la justice.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0093"
+    },
+    {
+      "id": "SCR_QL_GLO0094",
+      "title": "Mont-Saint-Michel",
+      "aliases": [
+        "mont saint michel"
+      ],
+      "answer": "Îlot rocheux situé en Normandie sur lequel est construite une abbaye.\n\n**À retenir :** Il est inscrit au patrimoine mondial de l'UNESCO.\n\n**Voir aussi :** UNESCO.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0094"
+    },
+    {
+      "id": "SCR_QL_GLO0095",
+      "title": "Musée du Louvre",
+      "aliases": [
+        "musee du louvre",
+        "paris"
+      ],
+      "answer": "Plus grand musée d'art de France situé à Paris.\n\n**À retenir :** Il abrite notamment la Joconde.\n\n**Voir aussi :** Paris.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0095"
+    },
+    {
+      "id": "SCR_QL_GLO0096",
+      "title": "Mutilations sexuelles féminines",
+      "aliases": [
+        "mutilations sexuelles feminines"
+      ],
+      "answer": "Interventions consistant à retirer partiellement ou totalement les organes génitaux féminins sans raison médicale.\n\n**À retenir :** Elles sont interdites et sévèrement punies en France.\n\n**Voir aussi :** Violence.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0096"
+    },
+    {
+      "id": "SCR_QL_GLO0097",
+      "title": "Naturalisation",
+      "aliases": [
+        "naturalisation",
+        "nationalite francaise",
+        "devenir francais",
+        "devenir francaise",
+        "naturalisations"
+      ],
+      "answer": "La **naturalisation** est une procédure qui permet de devenir français sous certaines conditions. Les démarches sont expliquées dans les rubriques du chatbot.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0097"
+    },
+    {
+      "id": "SCR_QL_GLO0098",
+      "title": "Neutralité",
+      "aliases": [
+        "neutralite",
+        "neutralite du service public",
+        "neutralites"
+      ],
+      "answer": "La **neutralité** signifie ne pas favoriser une opinion politique ou une religion dans l’exercice d’un service public.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0098"
+    },
+    {
+      "id": "SCR_QL_GLO0099",
+      "title": "Ordre public",
+      "aliases": [
+        "ordre public",
+        "ordre publique"
+      ],
+      "answer": "L’**ordre public** protège notamment la sécurité et la tranquillité de tous. Il permet de vivre ensemble dans un cadre commun.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0099"
+    },
+    {
+      "id": "SCR_QL_GLO0100",
+      "title": "Outre-mer",
+      "aliases": [
+        "outre mer",
+        "outremer",
+        "dom tom"
+      ],
+      "answer": "L’**outre-mer** désigne les territoires français situés en dehors de la France métropolitaine.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0100"
+    },
+    {
+      "id": "SCR_QL_GLO0101",
+      "title": "Parlement",
+      "aliases": [
+        "parlement",
+        "parlements",
+        "parlemant"
+      ],
+      "answer": "Le **Parlement** est l’ensemble des représentants qui discutent et **votent les lois**. En France, il comprend l’**Assemblée nationale** et le **Sénat**. Le Gouvernement prépare des projets de loi ; le Parlement les examine et les vote.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0101"
+    },
+    {
+      "id": "SCR_QL_GLO0102",
+      "title": "Parlement européen",
+      "aliases": [
+        "parlement europeen",
+        "parlement europeenne"
+      ],
+      "answer": "Institution européenne composée de députés élus par les citoyens des États membres.\n\n**À retenir :** Il participe à l'adoption des lois européennes.\n\n**Voir aussi :** Député européen.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0102"
+    },
+    {
+      "id": "SCR_QL_GLO0103",
+      "title": "Patrimoine",
+      "aliases": [
+        "patrimoine",
+        "heritage culturel",
+        "patrimoines"
+      ],
+      "answer": "Le **patrimoine** est l’ensemble des lieux, des objets et des traditions transmis par les générations précédentes. Un monument historique en fait partie.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0103"
+    },
+    {
+      "id": "SCR_QL_GLO0104",
+      "title": "Police",
+      "aliases": [
+        "police",
+        "policier",
+        "policiers",
+        "polices"
+      ],
+      "answer": "Force civile chargée de protéger les personnes et de faire respecter la loi.\n\n**À retenir :** Elle intervient principalement dans les villes.\n\n**Voir aussi :** Gendarmerie.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0104"
+    },
+    {
+      "id": "SCR_QL_GLO0105",
+      "title": "Préfecture",
+      "aliases": [
+        "prefecture",
+        "prefectures"
+      ],
+      "answer": "Administration représentant l'État dans un département.\n\n**À retenir :** Elle traite notamment certaines démarches liées au séjour des étrangers.\n\n**Voir aussi :** Préfet.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0105"
+    },
+    {
+      "id": "SCR_QL_GLO0106",
+      "title": "Préfet",
+      "aliases": [
+        "prefet",
+        "prefets"
+      ],
+      "answer": "Le préfet représente l'État dans un département ou une région.\n\n**À retenir :** Il est nommé par le Gouvernement.\n\n**Attention à ne pas confondre :** Le préfet n'est pas élu.\n\n**Voir aussi :** État; Maire.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0106"
+    },
+    {
+      "id": "SCR_QL_GLO0107",
+      "title": "Premier ministre",
+      "aliases": [
+        "premier ministre",
+        "premier minister",
+        "premier minstre",
+        "premiers ministres",
+        "chef du gouvernement"
+      ],
+      "answer": "Le **Premier ministre** dirige l’action du Gouvernement. Il travaille avec les ministres pour organiser et mettre en œuvre la politique du pays.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0107"
+    },
+    {
+      "id": "SCR_QL_GLO0108",
+      "title": "Première Guerre mondiale",
+      "aliases": [
+        "premiere guerre mondiale",
+        "1ere guerre mondiale",
+        "1914 1918"
+      ],
+      "answer": "Conflit mondial de 1914 à 1918.\n\n**À retenir :** La France fait partie des pays vainqueurs.\n\n**Voir aussi :** Seconde Guerre mondiale.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0108"
+    },
+    {
+      "id": "SCR_QL_GLO0109",
+      "title": "Président de la République",
+      "aliases": [
+        "president de la republique",
+        "president",
+        "presidente"
+      ],
+      "answer": "Le Président de la République est le chef de l'État.\n\n**À retenir :** Il est élu au suffrage universel direct pour cinq ans.\n\n**Attention à ne pas confondre :** Le Président est le chef de l'État.\nLe Premier ministre dirige l'action du Gouvernement.\n\n**Voir aussi :** Gouvernement; Premier ministre.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0109"
+    },
+    {
+      "id": "SCR_QL_GLO0110",
+      "title": "Présomption d'innocence",
+      "aliases": [
+        "presomption d innocence",
+        "presomption innocence",
+        "innocent avant jugement"
+      ],
+      "answer": "La **présomption d’innocence** signifie qu’une personne est considérée comme innocente tant que sa culpabilité n’a pas été établie par la justice.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0110"
+    },
+    {
+      "id": "SCR_QL_GLO0111",
+      "title": "Procuration",
+      "aliases": [
+        "procuration",
+        "voter a ma place",
+        "procurations"
+      ],
+      "answer": "Une **procuration** permet de confier son vote à une autre personne lorsqu’on ne peut pas voter soi-même.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0111"
+    },
+    {
+      "id": "SCR_QL_GLO0112",
+      "title": "Propriétaire",
+      "aliases": [
+        "proprietaire",
+        "proprietaires"
+      ],
+      "answer": "Personne qui possède un logement.\n\n**À retenir :** Le propriétaire peut louer son logement.\n\n**Voir aussi :** Bail.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0112"
+    },
+    {
+      "id": "SCR_QL_GLO0113",
+      "title": "Prostitution",
+      "aliases": [
+        "prostitution",
+        "prostitutions"
+      ],
+      "answer": "Échange d'un acte sexuel contre une rémunération.\n\n**À retenir :** Le proxénétisme et le recours à la prostitution sont encadrés par la loi.\n\n**Voir aussi :** Traite des êtres humains.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0113"
+    },
+    {
+      "id": "SCR_QL_GLO0114",
+      "title": "Provence-Alpes-Côte d'Azur",
+      "aliases": [
+        "provence alpes cote d azur",
+        "marseille",
+        "nice"
+      ],
+      "answer": "Région située dans le sud-est de la France.\n\n**À retenir :** Elle est réputée pour la Méditerranée, les Alpes, Marseille, Nice et la lavande.\n\n**Voir aussi :** Marseille; Nice.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0114"
+    },
+    {
+      "id": "SCR_QL_GLO0115",
+      "title": "Pyrénées",
+      "aliases": [
+        "pyrenees"
+      ],
+      "answer": "Chaîne de montagnes séparant la France et l'Espagne.\n\n**À retenir :** Elles forment une frontière naturelle.\n\n**Voir aussi :** Alpes.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0115"
+    },
+    {
+      "id": "SCR_QL_GLO0116",
+      "title": "Référendum",
+      "aliases": [
+        "referendum",
+        "referendums"
+      ],
+      "answer": "Un **référendum** est un vote où les citoyens répondent directement à une question, généralement par oui ou non.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0116"
+    },
+    {
+      "id": "SCR_QL_GLO0117",
+      "title": "Région",
+      "aliases": [
+        "region",
+        "regions"
+      ],
+      "answer": "La région est une collectivité territoriale regroupant plusieurs départements.\n\n**À retenir :** La France compte 18 régions.\n\n**Voir aussi :** Département.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0117"
+    },
+    {
+      "id": "SCR_QL_GLO0118",
+      "title": "République",
+      "aliases": [
+        "republique",
+        "republic",
+        "republicain",
+        "republiques"
+      ],
+      "answer": "Organisation politique dans laquelle le pouvoir appartient au peuple et s'exerce conformément à la Constitution.\n\n**À retenir :** La France est une République indivisible, laïque, démocratique et sociale.\n\n**Attention à ne pas confondre :** République ≠ démocratie.\nLa République est une forme d'organisation de l'État.\nLa démocratie est une manière d'exercer le pouvoir.\n\n**Voir aussi :** Constitution; Démocratie; Souveraineté nationale.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0118"
+    },
+    {
+      "id": "SCR_QL_GLO0119",
+      "title": "Révolution française",
+      "aliases": [
+        "revolution francaise",
+        "revolution",
+        "1789"
+      ],
+      "answer": "Période commencée en 1789 qui met fin à la monarchie absolue et fonde de nouveaux principes politiques.\n\n**À retenir :** Elle marque la naissance des valeurs républicaines modernes.\n\n**Voir aussi :** Déclaration des droits de l'homme et du citoyen.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0119"
+    },
+    {
+      "id": "SCR_QL_GLO0120",
+      "title": "Salaire",
+      "aliases": [
+        "salaire",
+        "salaires",
+        "remuneration"
+      ],
+      "answer": "Somme versée par l'employeur en contrepartie du travail effectué.\n\n**À retenir :** Le salaire est indiqué sur la fiche de paie.\n\n**Voir aussi :** Employeur.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0120"
+    },
+    {
+      "id": "SCR_QL_GLO0121",
+      "title": "Seconde Guerre mondiale",
+      "aliases": [
+        "seconde guerre mondiale",
+        "deuxieme guerre mondiale",
+        "2eme guerre mondiale",
+        "1939 1945"
+      ],
+      "answer": "Conflit mondial de 1939 à 1945.\n\n**À retenir :** La Résistance a joué un rôle important dans la libération de la France.\n\n**Voir aussi :** Résistance.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0121"
+    },
+    {
+      "id": "SCR_QL_GLO0122",
+      "title": "Seine",
+      "aliases": [
+        "seine",
+        "seines"
+      ],
+      "answer": "Fleuve qui traverse notamment Paris avant de se jeter dans la Manche.\n\n**À retenir :** La Seine est l'un des principaux fleuves français.\n\n**Voir aussi :** Loire; Rhône.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0122"
+    },
+    {
+      "id": "SCR_QL_GLO0123",
+      "title": "Sénat",
+      "aliases": [
+        "senat",
+        "senas",
+        "senats"
+      ],
+      "answer": "Le **Sénat** est l’autre partie du Parlement, avec l’Assemblée nationale. Les **sénateurs** y examinent et votent les lois.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0123"
+    },
+    {
+      "id": "SCR_QL_GLO0124",
+      "title": "Sénateur",
+      "aliases": [
+        "senateur",
+        "senateurs"
+      ],
+      "answer": "Le sénateur siège au Sénat.\n\n**À retenir :** Il participe au vote des lois.\n\n**Voir aussi :** Sénat.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0124"
+    },
+    {
+      "id": "SCR_QL_GLO0125",
+      "title": "Service public",
+      "aliases": [
+        "service public",
+        "services publics"
+      ],
+      "answer": "Un **service public** répond à un besoin d’intérêt général. L’école publique est un exemple de service public.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0125"
+    },
+    {
+      "id": "SCR_QL_GLO0126",
+      "title": "Souveraineté nationale",
+      "aliases": [
+        "souverainete nationale"
+      ],
+      "answer": "Principe selon lequel le pouvoir appartient au peuple.\n\n**À retenir :** Le peuple exerce sa souveraineté par ses représentants élus et par référendum.\n\n**Attention à ne pas confondre :** La souveraineté appartient au peuple et non au Président de la République.\n\n**Voir aussi :** République; Référendum; Citoyen.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0126"
+    },
+    {
+      "id": "SCR_QL_GLO0127",
+      "title": "Suffrage universel",
+      "aliases": [
+        "suffrage universel",
+        "suffrage"
+      ],
+      "answer": "Mode d'élection dans lequel tous les citoyens remplissant les conditions peuvent voter.\n\n**À retenir :** En France, le vote est universel, égal et secret.\n\n**Voir aussi :** Vote.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0127"
+    },
+    {
+      "id": "SCR_QL_GLO0128",
+      "title": "Sûreté",
+      "aliases": [
+        "surete",
+        "suretes"
+      ],
+      "answer": "Droit d'être protégé contre les arrestations arbitraires et de bénéficier d'un procès équitable.\n\n**À retenir :** La justice protège les libertés individuelles.\n\n**Voir aussi :** Présomption d'innocence; Justice.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0128"
+    },
+    {
+      "id": "SCR_QL_GLO0129",
+      "title": "Titre de séjour",
+      "aliases": [
+        "titre de sejour",
+        "titres de sejour",
+        "carte de sejour"
+      ],
+      "answer": "Un **titre de séjour** est un document qui autorise une personne étrangère à séjourner en France selon les conditions du titre.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0129"
+    },
+    {
+      "id": "SCR_QL_GLO0130",
+      "title": "Tour Eiffel",
+      "aliases": [
+        "tour eiffel",
+        "paris"
+      ],
+      "answer": "Monument emblématique situé à Paris, construit pour l'Exposition universelle de 1889.\n\n**À retenir :** Elle est l'un des symboles les plus connus de la France.\n\n**Voir aussi :** Paris.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0130"
+    },
+    {
+      "id": "SCR_QL_GLO0131",
+      "title": "Traite des êtres humains",
+      "aliases": [
+        "traite des etres humains"
+      ],
+      "answer": "Exploitation d'une personne par la contrainte, la menace ou la tromperie.\n\n**À retenir :** La traite des êtres humains est un crime.\n\n**Voir aussi :** Esclavage.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0131"
+    },
+    {
+      "id": "SCR_QL_GLO0132",
+      "title": "UNESCO",
+      "aliases": [
+        "unesco",
+        "unescos"
+      ],
+      "answer": "Organisation des Nations unies chargée notamment de protéger le patrimoine mondial.\n\n**À retenir :** Plusieurs sites français sont inscrits au patrimoine mondial de l'UNESCO.\n\n**Voir aussi :** Patrimoine.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0132"
+    },
+    {
+      "id": "SCR_QL_GLO0133",
+      "title": "Union européenne",
+      "aliases": [
+        "union europeenne",
+        "union europeen",
+        "ue",
+        "union europeene"
+      ],
+      "answer": "Organisation regroupant plusieurs États européens qui coopèrent dans de nombreux domaines.\n\n**À retenir :** La France est membre de l'Union européenne.\n\n**Voir aussi :** Parlement européen; Euro.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0133"
+    },
+    {
+      "id": "SCR_QL_GLO0134",
+      "title": "Urgences",
+      "aliases": [
+        "urgences"
+      ],
+      "answer": "Situation nécessitant une prise en charge médicale immédiate.\n\n**À retenir :** En cas d'urgence médicale, composez le 15.\n\n**Voir aussi :** SAMU; Hôpital.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0134"
+    },
+    {
+      "id": "SCR_QL_GLO0135",
+      "title": "Vercingétorix",
+      "aliases": [
+        "vercingetorix",
+        "jules cesar",
+        "vercingetorixs"
+      ],
+      "answer": "Chef gaulois qui s'est opposé à Jules César.\n\n**À retenir :** Il est devenu un symbole de la résistance gauloise.\n\n**Voir aussi :** Gaule; Jules César.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0135"
+    },
+    {
+      "id": "SCR_QL_GLO0136",
+      "title": "Violence",
+      "aliases": [
+        "violence",
+        "violences"
+      ],
+      "answer": "Acte portant atteinte à une personne, physiquement, psychologiquement, sexuellement ou économiquement.\n\n**À retenir :** Toutes les formes de violence sont interdites.\n\n**Voir aussi :** Consentement.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0136"
+    },
+    {
+      "id": "SCR_QL_GLO0137",
+      "title": "Vote",
+      "aliases": [
+        "vote",
+        "voter",
+        "votes"
+      ],
+      "answer": "Action qui consiste à choisir un candidat ou répondre à une question lors d'un référendum.\n\n**À retenir :** Le vote est un droit civique.\n\n**Voir aussi :** Élection.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0137"
+    },
+    {
+      "id": "SCR_QL_SIMPLE_DISCRIMINATION",
+      "title": "Discrimination",
+      "aliases": [
+        "discrimination",
+        "discriminations",
+        "discriminer",
+        "discrimine",
+        "racisme",
+        "raciste"
+      ],
+      "answer": "Une **discrimination** consiste à traiter une personne moins bien pour un motif interdit, par exemple son origine ou sa religion. Le principe d’égalité protège les personnes contre ces traitements.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/03_revisions.md"
+    },
+    {
+      "id": "SCR_QL_SIMPLE_DEVOIR",
+      "title": "Devoir civique",
+      "aliases": [
+        "devoir civique",
+        "devoirs civiques",
+        "devoirs",
+        "obligation civique"
+      ],
+      "answer": "Un **devoir** est une obligation à respecter pour vivre ensemble. Respecter la loi et les droits des autres en sont des exemples.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/03_revisions.md"
+    },
+    {
+      "id": "SCR_QL_SIMPLE_POUVOIRS",
+      "title": "Séparation des pouvoirs",
+      "aliases": [
+        "separation des pouvoirs"
+      ],
+      "answer": "La **séparation des pouvoirs** distingue trois fonctions : faire les lois, les appliquer et rendre la justice. Elles ne doivent pas toutes être concentrées dans les mêmes mains.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/03_revisions.md"
+    },
+    {
+      "id": "SCR_QL_GLO0197",
+      "title": "Abolition",
+      "aliases": [
+        "Abolition",
+        "abolition"
+      ],
+      "answer": "Suppression officielle d’une règle, d’une pratique ou d’une peine, par exemple l’abolition de l’esclavage ou de la peine de mort.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0197"
+    },
+    {
+      "id": "SCR_QL_GLO0172",
+      "title": "Agents publics",
+      "aliases": [
+        "Agents publics",
+        "agents publics"
+      ],
+      "answer": "Personnes qui travaillent pour une administration ou un service public. Elles doivent respecter notamment la neutralité et l’égalité de traitement.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0172"
+    },
+    {
+      "id": "SCR_QL_GLO0178",
+      "title": "Amende",
+      "aliases": [
+        "Amende",
+        "amende"
+      ],
+      "answer": "Somme d’argent qu’une personne doit payer lorsqu’une sanction pécuniaire est prononcée à son encontre.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0178"
+    },
+    {
+      "id": "SCR_QL_GLO0192",
+      "title": "Armistice",
+      "aliases": [
+        "Armistice",
+        "armistice"
+      ],
+      "answer": "Accord qui suspend les combats entre des forces en guerre. Il ne signifie pas nécessairement la fin définitive de la guerre.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0192"
+    },
+    {
+      "id": "SCR_QL_GLO0170",
+      "title": "Autorité parentale",
+      "aliases": [
+        "Autorité parentale",
+        "autorite parentale"
+      ],
+      "answer": "Ensemble des droits et des devoirs des parents pour protéger, éduquer et accompagner leur enfant dans son intérêt.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0170"
+    },
+    {
+      "id": "SCR_QL_GLO0181",
+      "title": "Avocat",
+      "aliases": [
+        "Avocat",
+        "avocat"
+      ],
+      "answer": "Professionnel du droit qui conseille une personne, défend ses intérêts et peut la représenter devant la justice.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0181"
+    },
+    {
+      "id": "SCR_QL_GLO0145",
+      "title": "Bénévolat",
+      "aliases": [
+        "Bénévolat",
+        "benevolat"
+      ],
+      "answer": "Activité réalisée librement sans rémunération, par exemple pour aider une association.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0145"
+    },
+    {
+      "id": "SCR_QL_GLO0205",
+      "title": "CECA",
+      "aliases": [
+        "CECA",
+        "ceca"
+      ],
+      "answer": "Communauté européenne du charbon et de l’acier : projet de coopération européen qui a précédé l’Union européenne.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0205"
+    },
+    {
+      "id": "SCR_QL_GLO0164",
+      "title": "Chef de l’État",
+      "aliases": [
+        "Chef de l’État",
+        "chef de l'etat"
+      ],
+      "answer": "Personne qui représente l’État au plus haut niveau. En France, le chef de l’État est le président de la République.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0164"
+    },
+    {
+      "id": "SCR_QL_GLO0165",
+      "title": "Collectivités territoriales",
+      "aliases": [
+        "Collectivités territoriales",
+        "collectivites territoriales"
+      ],
+      "answer": "Structures qui gèrent des affaires locales grâce à des élus, par exemple les communes, les départements et les régions.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0165"
+    },
+    {
+      "id": "SCR_QL_GLO0198",
+      "title": "Colonisation",
+      "aliases": [
+        "Colonisation",
+        "colonisation"
+      ],
+      "answer": "Prise de contrôle d’un territoire et de sa population par une puissance extérieure.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0198"
+    },
+    {
+      "id": "SCR_QL_GLO0141",
+      "title": "Cotisations sociales",
+      "aliases": [
+        "Cotisations sociales",
+        "cotisations sociales",
+        "cotisation",
+        "cotisations",
+        "contributions sociales"
+      ],
+      "answer": "Sommes versées par les salariés et les employeurs pour financer la protection sociale, notamment la maladie et la retraite.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0141"
+    },
+    {
+      "id": "SCR_QL_GLO0183",
+      "title": "Cour d’assises",
+      "aliases": [
+        "Cour d’assises",
+        "cour d'assises",
+        "cour d assises"
+      ],
+      "answer": "Juridiction qui juge certains crimes avec des magistrats et un jury de citoyens.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0183"
+    },
+    {
+      "id": "SCR_QL_GLO0188",
+      "title": "Déchèterie",
+      "aliases": [
+        "Déchèterie",
+        "decheterie"
+      ],
+      "answer": "Lieu où l’on dépose certains déchets qui ne doivent pas être mis dans les poubelles ordinaires.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0188"
+    },
+    {
+      "id": "SCR_QL_GLO0186",
+      "title": "Déchets",
+      "aliases": [
+        "Déchets",
+        "dechets"
+      ],
+      "answer": "Objets ou matières dont on se débarrasse. Il faut respecter les règles de collecte, de tri et de traitement.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0186"
+    },
+    {
+      "id": "SCR_QL_GLO0209",
+      "title": "Devoir",
+      "aliases": [
+        "Devoir",
+        "devoir"
+      ],
+      "answer": "Obligation à respecter pour vivre dans la société, notamment respecter la loi et les droits d’autrui.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0209"
+    },
+    {
+      "id": "SCR_QL_GLO0168",
+      "title": "Divorce",
+      "aliases": [
+        "Divorce",
+        "divorce"
+      ],
+      "answer": "Fin d’un mariage prononcée ou constatée selon une procédure légale.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0168"
+    },
+    {
+      "id": "SCR_QL_GLO0177",
+      "title": "Droits civiques",
+      "aliases": [
+        "Droits civiques",
+        "droits civiques"
+      ],
+      "answer": "Droits qui permettent de participer à la vie citoyenne, notamment le droit de vote, selon les conditions prévues par la loi.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0177"
+    },
+    {
+      "id": "SCR_QL_GLO0204",
+      "title": "DROM",
+      "aliases": [
+        "DROM",
+        "drom"
+      ],
+      "answer": "Départements et régions d’outre-mer : territoires français ayant ce statut administratif.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0204"
+    },
+    {
+      "id": "SCR_QL_GLO0160",
+      "title": "Élections européennes",
+      "aliases": [
+        "Élections européennes",
+        "elections europeennes"
+      ],
+      "answer": "Élections par lesquelles les citoyens de l’Union européenne choisissent leurs députés au Parlement européen.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0160"
+    },
+    {
+      "id": "SCR_QL_GLO0159",
+      "title": "Élections municipales",
+      "aliases": [
+        "Élections municipales",
+        "elections municipales"
+      ],
+      "answer": "Élections qui permettent de choisir les conseillers municipaux. Ceux-ci élisent ensuite le maire.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0159"
+    },
+    {
+      "id": "SCR_QL_GLO0157",
+      "title": "Éligibilité",
+      "aliases": [
+        "Éligibilité",
+        "eligibilite"
+      ],
+      "answer": "Possibilité de se présenter à une élection lorsque les conditions prévues par la loi sont remplies.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0157"
+    },
+    {
+      "id": "SCR_QL_GLO0143",
+      "title": "Entreprise",
+      "aliases": [
+        "Entreprise",
+        "entreprise"
+      ],
+      "answer": "Organisation qui produit des biens ou fournit des services. Elle peut employer des salariés.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0143"
+    },
+    {
+      "id": "SCR_QL_GLO0196",
+      "title": "Esclavage",
+      "aliases": [
+        "Esclavage",
+        "esclavage"
+      ],
+      "answer": "Situation dans laquelle des personnes sont privées de leur liberté et traitées comme la propriété d’autrui.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0196"
+    },
+    {
+      "id": "SCR_QL_GLO0166",
+      "title": "État civil",
+      "aliases": [
+        "État civil",
+        "etat civil"
+      ],
+      "answer": "Enregistrement officiel des événements importants de la vie d’une personne, notamment sa naissance, son mariage et son décès.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0166"
+    },
+    {
+      "id": "SCR_QL_GLO0202",
+      "title": "Fleuve",
+      "aliases": [
+        "Fleuve",
+        "fleuve"
+      ],
+      "answer": "Cours d’eau qui se jette dans la mer ou dans l’océan.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0202"
+    },
+    {
+      "id": "SCR_QL_GLO0195",
+      "title": "Génocide",
+      "aliases": [
+        "Génocide",
+        "genocide"
+      ],
+      "answer": "Actes commis avec l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0195"
+    },
+    {
+      "id": "SCR_QL_GLO0146",
+      "title": "Grève",
+      "aliases": [
+        "Grève",
+        "greve"
+      ],
+      "answer": "Arrêt collectif du travail destiné à défendre des revendications professionnelles. Ce droit s’exerce dans un cadre légal.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0146"
+    },
+    {
+      "id": "SCR_QL_GLO0147",
+      "title": "Handicap",
+      "aliases": [
+        "Handicap",
+        "handicap"
+      ],
+      "answer": "Limitation d’activité ou difficulté de participation à la vie sociale liée notamment à une altération physique, sensorielle ou mentale.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0147"
+    },
+    {
+      "id": "SCR_QL_GLO0200",
+      "title": "Impressionnisme",
+      "aliases": [
+        "Impressionnisme",
+        "impressionnisme"
+      ],
+      "answer": "Courant artistique du XIXe siècle qui représente notamment les impressions de lumière et de couleur.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0200"
+    },
+    {
+      "id": "SCR_QL_GLO0171",
+      "title": "Instruction obligatoire",
+      "aliases": [
+        "Instruction obligatoire",
+        "instruction obligatoire"
+      ],
+      "answer": "Obligation de donner à chaque enfant une instruction. Elle peut être assurée à l’école ou, sous conditions, dans la famille.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0171"
+    },
+    {
+      "id": "SCR_QL_GLO0173",
+      "title": "Intérêt général",
+      "aliases": [
+        "Intérêt général",
+        "interet general"
+      ],
+      "answer": "Ce qui sert le bien commun, au-delà des intérêts particuliers d’une personne ou d’un groupe.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0173"
+    },
+    {
+      "id": "SCR_QL_GLO0185",
+      "title": "IVG",
+      "aliases": [
+        "IVG"
+      ],
+      "answer": "Interruption volontaire de grossesse : démarche permettant de mettre fin à une grossesse dans le cadre prévu par la loi.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0185"
+    },
+    {
+      "id": "SCR_QL_GLO0207",
+      "title": "Journée de l’Europe",
+      "aliases": [
+        "Journée de l’Europe",
+        "journee de l'europe"
+      ],
+      "answer": "Journée célébrée le 9 mai pour rappeler le projet de coopération européenne et la déclaration de Robert Schuman.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0207"
+    },
+    {
+      "id": "SCR_QL_GLO0180",
+      "title": "Juge",
+      "aliases": [
+        "Juge",
+        "juge"
+      ],
+      "answer": "Professionnel de la justice qui applique la loi et rend des décisions pour trancher des litiges ou juger des infractions.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0180"
+    },
+    {
+      "id": "SCR_QL_GLO0182",
+      "title": "Juré",
+      "aliases": [
+        "Juré",
+        "jure"
+      ],
+      "answer": "Citoyen appelé à participer à un jury et à juger certaines affaires aux côtés de magistrats.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0182"
+    },
+    {
+      "id": "SCR_QL_GLO0158",
+      "title": "Listes électorales",
+      "aliases": [
+        "Listes électorales",
+        "listes electorales"
+      ],
+      "answer": "Listes des personnes inscrites pour voter dans une commune ou dans une circonscription.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0158"
+    },
+    {
+      "id": "SCR_QL_GLO0201",
+      "title": "Littérature",
+      "aliases": [
+        "Littérature",
+        "litterature"
+      ],
+      "answer": "Ensemble des œuvres écrites, comme les romans, la poésie ou le théâtre.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0201"
+    },
+    {
+      "id": "SCR_QL_GLO0208",
+      "title": "Majorité",
+      "aliases": [
+        "Majorité",
+        "majorite"
+      ],
+      "answer": "Âge à partir duquel une personne devient juridiquement adulte. Le mot désigne aussi le plus grand nombre de voix dans un vote.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0208"
+    },
+    {
+      "id": "SCR_QL_GLO0154",
+      "title": "Mandat",
+      "aliases": [
+        "Mandat",
+        "mandat"
+      ],
+      "answer": "Mission confiée à une personne, notamment à un élu, pour une durée déterminée.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0154"
+    },
+    {
+      "id": "SCR_QL_GLO0203",
+      "title": "Méditerranée",
+      "aliases": [
+        "Méditerranée",
+        "mediterranee"
+      ],
+      "answer": "Mer située au sud de la France, entre l’Europe, l’Afrique du Nord et le Proche-Orient.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0203"
+    },
+    {
+      "id": "SCR_QL_GLO0199",
+      "title": "Monarchie",
+      "aliases": [
+        "Monarchie",
+        "monarchie"
+      ],
+      "answer": "Régime politique dans lequel le chef de l’État est un roi ou une reine.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0199"
+    },
+    {
+      "id": "SCR_QL_GLO0148",
+      "title": "Mutuelle",
+      "aliases": [
+        "Mutuelle",
+        "mutuelle"
+      ],
+      "answer": "Organisme de complémentaire santé qui peut prendre en charge une partie des dépenses restant après le remboursement de l’Assurance maladie.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0148"
+    },
+    {
+      "id": "SCR_QL_GLO0167",
+      "title": "Naissance",
+      "aliases": [
+        "Naissance",
+        "naissance"
+      ],
+      "answer": "Venue au monde d’un enfant. Elle doit être déclarée à l’état civil dans les conditions prévues par la loi.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0167"
+    },
+    {
+      "id": "SCR_QL_GLO0176",
+      "title": "Opinion",
+      "aliases": [
+        "Opinion",
+        "opinion"
+      ],
+      "answer": "Idée ou point de vue personnel sur un sujet. La liberté d’opinion est protégée, dans le respect de la loi et des droits d’autrui.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0176"
+    },
+    {
+      "id": "SCR_QL_GLO0156",
+      "title": "Parti politique",
+      "aliases": [
+        "Parti politique",
+        "parti politique"
+      ],
+      "answer": "Organisation qui rassemble des personnes autour d’idées politiques et participe à la vie démocratique, notamment aux élections.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0156"
+    },
+    {
+      "id": "SCR_QL_GLO0184",
+      "title": "Peine de mort",
+      "aliases": [
+        "Peine de mort",
+        "peine de mort"
+      ],
+      "answer": "Sanction qui consiste à exécuter une personne condamnée. Elle a été abolie en France en 1981.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0184"
+    },
+    {
+      "id": "SCR_QL_GLO0179",
+      "title": "Plainte",
+      "aliases": [
+        "Plainte",
+        "plainte"
+      ],
+      "answer": "Démarche par laquelle une personne signale aux autorités une infraction dont elle estime être victime.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0179"
+    },
+    {
+      "id": "SCR_QL_GLO0169",
+      "title": "Polygamie",
+      "aliases": [
+        "Polygamie",
+        "polygamie"
+      ],
+      "answer": "Situation dans laquelle une personne est mariée à plusieurs conjoints en même temps. Elle est interdite en France.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0169"
+    },
+    {
+      "id": "SCR_QL_GLO0161",
+      "title": "Pouvoir exécutif",
+      "aliases": [
+        "Pouvoir exécutif",
+        "pouvoir executif"
+      ],
+      "answer": "Pouvoir chargé de conduire la politique et de faire appliquer les lois. En France, il est exercé par le président de la République et le Gouvernement.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0161"
+    },
+    {
+      "id": "SCR_QL_GLO0163",
+      "title": "Pouvoir judiciaire",
+      "aliases": [
+        "Pouvoir judiciaire",
+        "pouvoir judiciaire"
+      ],
+      "answer": "Fonction de la justice qui tranche les litiges et sanctionne les infractions selon la loi, en toute indépendance.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0163"
+    },
+    {
+      "id": "SCR_QL_GLO0162",
+      "title": "Pouvoir législatif",
+      "aliases": [
+        "Pouvoir législatif",
+        "pouvoir legislatif"
+      ],
+      "answer": "Pouvoir qui discute et vote les lois. En France, il est exercé par le Parlement.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0162"
+    },
+    {
+      "id": "SCR_QL_GLO0149",
+      "title": "Prévention",
+      "aliases": [
+        "Prévention",
+        "prevention"
+      ],
+      "answer": "Actions destinées à éviter un risque ou à limiter ses conséquences, par exemple la vaccination ou le dépistage.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0149"
+    },
+    {
+      "id": "SCR_QL_GLO0150",
+      "title": "Protection sociale",
+      "aliases": [
+        "Protection sociale",
+        "protection sociale"
+      ],
+      "answer": "Ensemble des dispositifs qui aident les personnes face à certains risques de la vie, comme la maladie, la vieillesse ou la perte d’emploi.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0150"
+    },
+    {
+      "id": "SCR_QL_GLO0155",
+      "title": "Quinquennat",
+      "aliases": [
+        "Quinquennat",
+        "quinquennat"
+      ],
+      "answer": "Mandat de cinq ans. Le mandat du président de la République française est un quinquennat.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0155"
+    },
+    {
+      "id": "SCR_QL_GLO0187",
+      "title": "Recyclage",
+      "aliases": [
+        "Recyclage",
+        "recyclage"
+      ],
+      "answer": "Transformation de déchets pour réutiliser leurs matériaux et réduire le gaspillage des ressources.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0187"
+    },
+    {
+      "id": "SCR_QL_GLO0175",
+      "title": "Religion",
+      "aliases": [
+        "Religion",
+        "religion"
+      ],
+      "answer": "Ensemble de croyances et de pratiques liées à une foi. Chacun est libre de croire, de changer de religion ou de ne pas croire.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0175"
+    },
+    {
+      "id": "SCR_QL_GLO0191",
+      "title": "Réseaux sociaux",
+      "aliases": [
+        "Réseaux sociaux",
+        "reseaux sociaux"
+      ],
+      "answer": "Services en ligne permettant de publier et d’échanger des contenus. Les règles de droit et le respect d’autrui s’y appliquent aussi.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0191"
+    },
+    {
+      "id": "SCR_QL_GLO0193",
+      "title": "Résistance",
+      "aliases": [
+        "Résistance",
+        "resistance"
+      ],
+      "answer": "Actions menées contre l’occupation et les régimes oppressifs ; en France, le terme renvoie notamment à la lutte contre l’occupation nazie pendant la Seconde Guerre mondiale.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0193"
+    },
+    {
+      "id": "SCR_QL_GLO0174",
+      "title": "Respect",
+      "aliases": [
+        "Respect",
+        "respect"
+      ],
+      "answer": "Attitude qui consiste à reconnaître la dignité et les droits d’autrui, même lorsque ses opinions diffèrent des nôtres.",
+      "course": "SCR_REV_T1_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0174"
+    },
+    {
+      "id": "SCR_QL_GLO0139",
+      "title": "Salaire brut",
+      "aliases": [
+        "Salaire brut",
+        "salaire brut"
+      ],
+      "answer": "Rémunération avant le prélèvement des cotisations sociales à la charge du salarié.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0139"
+    },
+    {
+      "id": "SCR_QL_GLO0140",
+      "title": "Salaire net",
+      "aliases": [
+        "Salaire net",
+        "salaire net"
+      ],
+      "answer": "Rémunération après déduction des cotisations salariales ; le montant versé peut aussi tenir compte du prélèvement de l’impôt.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0140"
+    },
+    {
+      "id": "SCR_QL_GLO0142",
+      "title": "Salarié",
+      "aliases": [
+        "Salarié",
+        "salarie"
+      ],
+      "answer": "Personne qui travaille pour un employeur dans le cadre d’un contrat de travail et reçoit un salaire.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0142"
+    },
+    {
+      "id": "SCR_QL_GLO0153",
+      "title": "SAMU",
+      "aliases": [
+        "SAMU",
+        "samu"
+      ],
+      "answer": "Service d’aide médicale urgente : il organise la réponse médicale aux urgences et oriente vers les soins adaptés.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0153"
+    },
+    {
+      "id": "SCR_QL_GLO0152",
+      "title": "Secours",
+      "aliases": [
+        "Secours",
+        "secours"
+      ],
+      "answer": "Aide apportée à une personne en danger ou en difficulté ; elle peut nécessiter de prévenir les services d’urgence.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0152"
+    },
+    {
+      "id": "SCR_QL_GLO0190",
+      "title": "Sécurité routière",
+      "aliases": [
+        "Sécurité routière",
+        "securite routiere"
+      ],
+      "answer": "Ensemble des règles et des comportements qui limitent les accidents sur la route et protègent tous les usagers.",
+      "course": "SCR_REV_T3_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0190"
+    },
+    {
+      "id": "SCR_QL_GLO0194",
+      "title": "Shoah",
+      "aliases": [
+        "Shoah",
+        "shoah"
+      ],
+      "answer": "Génocide des Juifs d’Europe perpétré par les nazis et leurs complices pendant la Seconde Guerre mondiale.",
+      "course": "SCR_REV_T4_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0194"
+    },
+    {
+      "id": "SCR_QL_GLO0138",
+      "title": "SMIC",
+      "aliases": [
+        "SMIC",
+        "smic",
+        "smik",
+        "salaire minimum",
+        "salaire minimum interprofessionnel de croissance"
+      ],
+      "answer": "Salaire minimum légal : un employeur doit respecter ce minimum pour rémunérer le travail de son salarié.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0138"
+    },
+    {
+      "id": "SCR_QL_GLO0206",
+      "title": "Traité de Maastricht",
+      "aliases": [
+        "Traité de Maastricht",
+        "traite de maastricht",
+        "maastricht"
+      ],
+      "answer": "Traité signé en 1992 qui a créé l’Union européenne et renforcé la coopération entre ses États membres.",
+      "course": "SCR_REV_T2_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0206"
+    },
+    {
+      "id": "SCR_QL_GLO0144",
+      "title": "Travail dissimulé",
+      "aliases": [
+        "Travail dissimulé",
+        "travail dissimule"
+      ],
+      "answer": "Travail ou activité qui n’est pas déclaré comme la loi l’exige. Cela prive notamment le salarié de certaines protections.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0144"
+    },
+    {
+      "id": "SCR_QL_GLO0189",
+      "title": "Tri des déchets",
+      "aliases": [
+        "Tri des déchets",
+        "tri des dechets",
+        "tri des dechets"
+      ],
+      "answer": "Séparation des déchets selon leur nature pour permettre leur collecte et leur traitement adaptés.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0189"
+    },
+    {
+      "id": "SCR_QL_GLO0151",
+      "title": "Urgence",
+      "aliases": [
+        "Urgence",
+        "urgence"
+      ],
+      "answer": "Situation qui nécessite une intervention rapide, notamment lorsqu’une vie ou la sécurité d’une personne est en danger.",
+      "course": "SCR_REV_T5_MENU",
+      "source": "modules/04_glossaire.md#SCR_GLO_0151"
+    }
+  ],
+  "intents": [
+    {
+      "id": "GOUVERNEMENT_PARLEMENT",
+      "groups": [
+        [
+          "gouvernement",
+          "gouv"
+        ],
+        [
+          "parlement",
+          "assemblee",
+          "senat"
+        ],
+        [
+          "difference",
+          "distinguer",
+          "confonds",
+          "confondre",
+          "meme chose"
+        ]
+      ],
+      "answer": "Le **Gouvernement** prépare des projets de loi et fait appliquer les lois. Le **Parlement**, composé de l’Assemblée nationale et du Sénat, discute et vote les lois. **À retenir : le Gouvernement propose et applique ; le Parlement vote.**",
+      "links": [
+        [
+          "📘 Comprendre le Gouvernement",
+          "SCR_QL_GLO0066"
+        ],
+        [
+          "📘 Comprendre le Parlement",
+          "SCR_QL_GLO0101"
+        ],
+        [
+          "📚 Revoir les institutions",
+          "SCR_REV_T2_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "MEMOIRE",
+      "groups": [
+        [
+          "memoriser",
+          "memorisation",
+          "retenir",
+          "retient",
+          "retiennent",
+          "memoire",
+          "j oublie",
+          "oublier",
+          "oubli",
+          "apprendre par coeur",
+          "se souvenir",
+          "me souvenir"
+        ]
+      ],
+      "answer": "Pour mieux retenir, commencez par **comprendre la notion**, reformulez-la avec vos mots, puis testez-vous sans regarder le cours. Révisez à nouveau sur plusieurs séances. La rubrique **Mémoriser efficacement** vous guide étape par étape.",
+      "links": [
+        [
+          "🧠 Mémoriser efficacement",
+          "SCR_CONS_MEMOIRE_MENU"
+        ],
+        [
+          "🔁 Réviser plusieurs fois",
+          "SCR_CONS_MEMOIRE_04"
+        ]
+      ]
+    },
+    {
+      "id": "MEMOIRE_PROGRESSION",
+      "groups": [
+        [
+          "ameliorer",
+          "progresser",
+          "apprendre",
+          "assimiler"
+        ],
+        [
+          "connaissances",
+          "notions",
+          "dates",
+          "retiens",
+          "retention"
+        ]
+      ],
+      "answer": "Pour progresser dans vos connaissances, alternez une courte révision, une reformulation avec vos mots et quelques questions. Consultez les méthodes de mémorisation, puis choisissez un thème à travailler.",
+      "links": [
+        [
+          "🧠 Mémoriser efficacement",
+          "SCR_CONS_MEMOIRE_MENU"
+        ],
+        [
+          "📚 Choisir une thématique",
+          "SCR_REV_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "SITUATIONS",
+      "groups": [
+        [
+          "mise en situation",
+          "mises en situation",
+          "cas pratique",
+          "cas pratiques",
+          "scenario",
+          "scenarios"
+        ]
+      ],
+      "answer": "Une **mise en situation** vous demande d’appliquer un principe civique à un cas concret. Repérez ce que l’on cherche à vérifier, identifiez la règle et lisez toutes les réponses. La méthode **RÈGLE** vous aide à choisir une réponse adaptée.",
+      "links": [
+        [
+          "🎭 Réussir les mises en situation",
+          "SCR_CONS_SITUATIONS_MENU"
+        ],
+        [
+          "🎯 Choisir un examen pour m’entraîner",
+          "SCR_ENT_THEME_EXAM"
+        ]
+      ]
+    },
+    {
+      "id": "EXAMEN_BLANC",
+      "groups": [
+        [
+          "examen blanc",
+          "examens blancs",
+          "test blanc",
+          "simulation examen",
+          "simulation de l examen"
+        ]
+      ],
+      "answer": "Un **examen blanc** vous permet de vous entraîner au format de l’épreuve. Choisissez votre examen dans la rubrique correspondante.",
+      "links": [
+        [
+          "🎯 Passer un examen blanc",
+          "SCR_PREP_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "QUESTIONS_OFFICIELLES",
+      "groups": [
+        [
+          "questions officielles",
+          "question officielle",
+          "banque de questions",
+          "banques officielles"
+        ]
+      ],
+      "answer": "Les questions officielles sont accessibles dans **Entraînement par examen**. Choisissez votre examen, puis **Questions officielles** et la thématique souhaitée.",
+      "links": [
+        [
+          "📘 Choisir mon examen",
+          "SCR_ENT_THEME_EXAM"
+        ],
+        [
+          "✅ Réussir les QCM",
+          "SCR_CONS_QCM_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "QCM_METHODE",
+      "groups": [
+        [
+          "qcm",
+          "bonne reponse",
+          "bonnes reponses",
+          "choisir une reponse",
+          "choisir la reponse"
+        ],
+        [
+          "methode",
+          "comment",
+          "conseil",
+          "hesite",
+          "hesitation",
+          "reussir"
+        ]
+      ],
+      "answer": "Lisez la question et les quatre réponses. Repérez les mots-clés, éliminez les propositions qui ne répondent pas à la question et justifiez votre choix. Vous trouverez une méthode dans **Réussir les QCM**.",
+      "links": [
+        [
+          "✅ Réussir les QCM",
+          "SCR_CONS_QCM_MENU"
+        ],
+        [
+          "⚠️ Éviter les erreurs fréquentes",
+          "SCR_CONS_ERREURS_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "ERREURS",
+      "groups": [
+        [
+          "erreurs",
+          "erreur",
+          "me trompe",
+          "meme faute"
+        ],
+        [
+          "comprendre",
+          "pourquoi",
+          "eviter",
+          "corriger",
+          "toujours",
+          "souvent"
+        ]
+      ],
+      "answer": "Relisez la correction et notez la règle que vous aviez oubliée. Revenez sur ce thème avant de refaire un entraînement. Un carnet d’erreurs vous aide à repérer les points à retravailler.",
+      "links": [
+        [
+          "⚠️ Éviter les erreurs fréquentes",
+          "SCR_CONS_ERREURS_MENU"
+        ],
+        [
+          "📚 Choisir mes révisions",
+          "SCR_REV_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "PARCOURS",
+      "groups": [
+        [
+          "organiser",
+          "planning",
+          "programme de revision",
+          "plan de revision",
+          "par ou commencer",
+          "combien de temps reviser",
+          "rythme de revision"
+        ]
+      ],
+      "answer": "Prévoyez des séances courtes et régulières. Alternez révision, entraînement et correction. La rubrique **Construire mon parcours de révision** vous aide à organiser votre préparation.",
+      "links": [
+        [
+          "📅 Construire mon parcours",
+          "SCR_CONS_PARCOURS_MENU"
+        ],
+        [
+          "🌟 Bien démarrer",
+          "SCR_CONS_GUIDE_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "MNEMO",
+      "groups": [
+        [
+          "mnemotechnique",
+          "mnemonique",
+          "astuce memoire",
+          "moyen mnemotechnique"
+        ]
+      ],
+      "answer": "Un moyen mnémotechnique est une astuce pour retrouver une information, par exemple une association d’idées. Comprenez d’abord la notion, puis choisissez une astuce qui a du sens pour vous.",
+      "links": [
+        [
+          "🧩 Utiliser des moyens mnémotechniques",
+          "SCR_CONS_MNEMO_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "INSCRIPTION",
+      "groups": [
+        [
+          "inscrire",
+          "inscription",
+          "inscriptions",
+          "reserver une session",
+          "prochaine session",
+          "prochaines dates",
+          "centre d examen",
+          "centre examen",
+          "ou passer l examen"
+        ]
+      ],
+      "answer": "Pour les démarches d’inscription et les sessions disponibles, ouvrez **S’inscrire à l’examen civique**. Vous pourrez consulter les centres et les modalités.",
+      "links": [
+        [
+          "🗓️ S’inscrire à l’examen civique",
+          "SCR_PASS_MENU"
+        ],
+        [
+          "📍 Trouver une session",
+          "SCR_PASS_REGIONS"
+        ]
+      ]
+    },
+    {
+      "id": "PRIX",
+      "groups": [
+        [
+          "prix de l examen",
+          "tarif examen",
+          "tarif de l examen",
+          "cout de l examen",
+          "combien coute",
+          "payer l examen"
+        ]
+      ],
+      "answer": "Les informations sur le coût de l’examen sont présentées dans la FAQ. Consultez la rubrique dédiée avant votre inscription.",
+      "links": [
+        [
+          "💶 Consulter les informations sur le prix",
+          "SCR_FAQ_019"
+        ],
+        [
+          "🗓️ S’inscrire à l’examen civique",
+          "SCR_PASS_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "FORMAT",
+      "groups": [
+        [
+          "combien de questions",
+          "duree de l examen",
+          "duree examen",
+          "combien de temps dure",
+          "format de l examen",
+          "comment se passe l examen"
+        ]
+      ],
+      "answer": "Pour connaître le nombre de questions, la durée et le déroulement, consultez la fiche sur le **format de l’examen**.",
+      "links": [
+        [
+          "⏱️ Comprendre le format de l’examen",
+          "SCR_FAQ_004"
+        ],
+        [
+          "🎯 Passer un examen blanc",
+          "SCR_PREP_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "SEUIL",
+      "groups": [
+        [
+          "score pour reussir",
+          "score necessaire",
+          "combien de bonnes reponses",
+          "32 sur 40",
+          "32 40",
+          "80 pour cent",
+          "note minimum",
+          "note minimale"
+        ]
+      ],
+      "answer": "La FAQ explique le score nécessaire pour réussir l’examen. Les objectifs proposés dans les entraînements servent à guider votre progression.",
+      "links": [
+        [
+          "📊 Consulter le score de réussite",
+          "SCR_FAQ_009"
+        ]
+      ]
+    },
+    {
+      "id": "ECHEC",
+      "groups": [
+        [
+          "echoue",
+          "echec",
+          "repasser l examen",
+          "repasser examen",
+          "rate mon examen",
+          "rate l examen"
+        ]
+      ],
+      "answer": "Après un échec, consultez les informations sur une nouvelle passation et reprenez les thèmes qui vous ont posé problème.",
+      "links": [
+        [
+          "📋 Que faire après un échec ?",
+          "SCR_FAQ_026"
+        ],
+        [
+          "⚠️ Éviter les erreurs fréquentes",
+          "SCR_CONS_ERREURS_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "STRESS",
+      "groups": [
+        [
+          "stress",
+          "stresse",
+          "angoisse",
+          "panique",
+          "peur de l examen",
+          "peur examen",
+          "inquiet"
+        ]
+      ],
+      "answer": "Avant un examen blanc, entraînez-vous dans un cadre calme, avec une séance préparée à l’avance. Pour l’épreuve, consultez les conseils de la FAQ et les modalités de passation.",
+      "links": [
+        [
+          "💡 Consulter les conseils",
+          "SCR_CONS_MENU"
+        ],
+        [
+          "❔ Consulter la FAQ",
+          "SCR_FAQ_MENU"
+        ],
+        [
+          "🎯 Passer un examen blanc",
+          "SCR_PREP_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "BILAN",
+      "groups": [
+        [
+          "bilan",
+          "points faibles",
+          "mon niveau",
+          "suis je pret",
+          "suis je prete"
+        ]
+      ],
+      "answer": "Le **bilan** vous aide à repérer les thèmes à travailler. Vous pourrez ensuite choisir vos révisions et vos entraînements.",
+      "links": [
+        [
+          "🧭 Faire mon bilan",
+          "SCR_BIL_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "REVISION_T1",
+      "groups": [
+        [
+          "reviser",
+          "revision",
+          "cours sur",
+          "cours de",
+          "fiche sur",
+          "fiche de"
+        ],
+        [
+          "principes et valeurs",
+          "valeurs de la republique",
+          "laicite",
+          "liberte",
+          "egalite",
+          "fraternite"
+        ]
+      ],
+      "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+      "links": [
+        [
+          "📚 Ouvrir cette thématique",
+          "SCR_REV_T1_MENU"
+        ],
+        [
+          "🎯 Choisir un entraînement",
+          "SCR_ENT_THEME_EXAM"
+        ]
+      ]
+    },
+    {
+      "id": "REVISION_T2",
+      "groups": [
+        [
+          "reviser",
+          "revision",
+          "cours sur",
+          "cours de",
+          "fiche sur",
+          "fiche de"
+        ],
+        [
+          "institutions",
+          "gouvernement",
+          "parlement",
+          "politique"
+        ]
+      ],
+      "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+      "links": [
+        [
+          "📚 Ouvrir cette thématique",
+          "SCR_REV_T2_MENU"
+        ],
+        [
+          "🎯 Choisir un entraînement",
+          "SCR_ENT_THEME_EXAM"
+        ]
+      ]
+    },
+    {
+      "id": "REVISION_T3",
+      "groups": [
+        [
+          "reviser",
+          "revision",
+          "cours sur",
+          "cours de",
+          "fiche sur",
+          "fiche de"
+        ],
+        [
+          "droits et devoirs",
+          "droits",
+          "devoirs"
+        ]
+      ],
+      "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+      "links": [
+        [
+          "📚 Ouvrir cette thématique",
+          "SCR_REV_T3_MENU"
+        ],
+        [
+          "🎯 Choisir un entraînement",
+          "SCR_ENT_THEME_EXAM"
+        ]
+      ]
+    },
+    {
+      "id": "REVISION_T4",
+      "groups": [
+        [
+          "reviser",
+          "revision",
+          "cours sur",
+          "cours de",
+          "fiche sur",
+          "fiche de"
+        ],
+        [
+          "histoire",
+          "geographie",
+          "culture",
+          "dates"
+        ]
+      ],
+      "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+      "links": [
+        [
+          "📚 Ouvrir cette thématique",
+          "SCR_REV_T4_MENU"
+        ],
+        [
+          "🎯 Choisir un entraînement",
+          "SCR_ENT_THEME_EXAM"
+        ]
+      ]
+    },
+    {
+      "id": "REVISION_T5",
+      "groups": [
+        [
+          "reviser",
+          "revision",
+          "cours sur",
+          "cours de",
+          "fiche sur",
+          "fiche de"
+        ],
+        [
+          "vie quotidienne",
+          "vie en societe",
+          "societe francaise"
+        ]
+      ],
+      "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+      "links": [
+        [
+          "📚 Ouvrir cette thématique",
+          "SCR_REV_T5_MENU"
+        ],
+        [
+          "🎯 Choisir un entraînement",
+          "SCR_ENT_THEME_EXAM"
+        ]
+      ]
+    },
+    {
+      "id": "ENTRAINEMENT",
+      "groups": [
+        [
+          "entrainer",
+          "entrainement",
+          "entrainements",
+          "quiz"
+        ]
+      ],
+      "answer": "Choisissez votre examen pour travailler les questions officielles ou les mises en situation. Vous pouvez aussi réaliser un entraînement complet par niveau.",
+      "links": [
+        [
+          "🎯 M’entraîner",
+          "SCR_ENT_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "CONSEILS",
+      "groups": [
+        [
+          "conseil",
+          "conseils",
+          "mieux reussir",
+          "ameliorer mes resultats",
+          "progresser"
+        ]
+      ],
+      "answer": "Choisissez une méthode adaptée à votre besoin : mémoriser, répondre aux QCM, analyser les mises en situation ou organiser vos révisions.",
+      "links": [
+        [
+          "💡 Consulter les conseils",
+          "SCR_CONS_MENU"
+        ]
+      ]
+    },
+    {
+      "id": "REVISIONS",
+      "groups": [
+        [
+          "reviser",
+          "revision",
+          "revisions",
+          "cours"
+        ]
+      ],
+      "answer": "Choisissez une thématique de révision. Vous pourrez ensuite passer aux questions et aux mises en situation de votre examen.",
+      "links": [
+        [
+          "📚 Commencer mes révisions",
+          "SCR_REV_MENU"
+        ]
+      ]
+    }
+  ]
+}

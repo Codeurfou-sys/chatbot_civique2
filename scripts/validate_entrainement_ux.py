@@ -29,5 +29,6 @@ for item in manifest:
 for p in Path('modules').glob('*.md'):
  if p.name in ('start.md','00_accueil_complements.md'):continue
  for id,body in g.split(p.read_text()).items():
+  if 'civicoach-route' in body:continue
   assert ']('+'MENU_PRINCIPAL'+')' in body,(p.name,id)
 print('OK — 480 séries, répartitions 10+5 et 2/thématique, scores et retours sur chaque écran.')

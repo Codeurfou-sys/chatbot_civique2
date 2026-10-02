@@ -4,13 +4,13 @@ MENUS={'02_bilan.md':'SCR_BIL_MENU','03_revisions.md':'SCR_REV_MENU','04_glossai
 def update(text,menu):
  def amend(match):
   id,body=match.group(1),match.group(2)
-  if id=='MENU_PRINCIPAL':return match.group(0)
+  if id=='MENU_PRINCIPAL' or 'civicoach-route' in body:return match.group(0)
   target=menu
   if menu=='SCR_REV_MENU':
    theme=re.search(r'SCR_REV_T(\d)',id)
    if theme and id!=f'SCR_REV_T{theme[1]}_MENU':target=f'SCR_REV_T{theme[1]}_MENU'
   if menu=='SCR_ENT_MENU':return match.group(0)
-  if id!=target and not re.search(r'\]\('+re.escape(target)+r'\)',body):body+='\n1. [↩️ Retour au menu du module]('+target+')\n'
+  if id!=target and not re.search(r'\]\('+re.escape(target)+r'\)',body):body+='\n1. [↩️ '+('Retour au choix des bilans' if menu=='SCR_BIL_MENU' else 'Retour au menu du module')+']('+target+')\n'
   if not re.search(r'\]\(MENU_PRINCIPAL\)',body):body+='\n1. [🏠 Menu principal](MENU_PRINCIPAL)\n'
   return '## '+id+'\n'+body+'\n'
  return re.sub(r'(?ms)^## (\w+)\s*$\n(.*?)(?=^## |\Z)',amend,text)

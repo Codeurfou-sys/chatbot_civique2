@@ -77,3 +77,17 @@ Vérifier dans ChatMD : résultats faibles, moyens, élevés et parfaits ; conse
 Publier le contenu du ZIP complet, y compris `assets/icons/`, pour que les nouvelles icônes soient disponibles. Après régénération : `python scripts/ameliorer_presentation.py`.
 
 Les 480 séries, les conseils pour tous les scores, la compilation et la navigation ont passé les contrôles locaux. Vérifier le rendu ChatMD après publication.
+
+
+## Version 5 — personnalisation et interconnexion
+
+- « Vous avez atteint le rôle de… » et appréciations concrètes propres au thème et au score.
+- Remplacement des drapeaux « FR » dans les choix de thèmes par le livre pour les questions et le masque pour les situations.
+- Style de `Envoyer` séparé de celui des choix : hauteur et texte alignés, sans dépassement dû au padding global.
+- Questions libres : 140 notions, 25 intentions, 363 alias, réponses directes, synonymes et fautes courantes.
+- Normalisation compatible avec ChatMD et boutons filtrés sur une réponse stable.
+- Liens vers les conseils de mémorisation et de mises en situation, les révisions ciblées et l’examen blanc.
+
+Contrôles : 447 formulations, 480 séries, toutes les destinations internes, sources et scores ; reconnaissance des 140 notions et visibilité des boutons vérifiées avec le moteur de calcul et de rendu dynamique de ChatMD. Le rendu CSS de la barre de saisie devra être confirmé dans ChatMD après publication.
+
+Publier le ZIP complet ; il contient le Markdown, les sources de génération, la base de réponses et les icônes. Pour un changement ponctuel, le Markdown seul met à jour la présentation et les réponses si les icônes de la version précédente sont déjà publiées.

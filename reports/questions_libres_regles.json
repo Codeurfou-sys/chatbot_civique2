@@ -1,0 +1,4947 @@
+[
+  {
+    "id": "INTENT_GOUVERNEMENT_PARLEMENT",
+    "groups": [
+      [
+        "gouvernement",
+        "gouv"
+      ],
+      [
+        "parlement",
+        "assemblee",
+        "senat"
+      ],
+      [
+        "difference",
+        "distinguer",
+        "confonds",
+        "confondre",
+        "meme chose"
+      ]
+    ],
+    "answer": "Le **Gouvernement** prépare des projets de loi et fait appliquer les lois. Le **Parlement**, composé de l’Assemblée nationale et du Sénat, discute et vote les lois. **À retenir : le Gouvernement propose et applique ; le Parlement vote.**",
+    "links": [
+      [
+        "📘 Comprendre le Gouvernement",
+        "SCR_QL_GLO0066"
+      ],
+      [
+        "📘 Comprendre le Parlement",
+        "SCR_QL_GLO0101"
+      ],
+      [
+        "📚 Revoir les institutions",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_MEMOIRE",
+    "groups": [
+      [
+        "memoriser",
+        "memorisation",
+        "retenir",
+        "retient",
+        "retiennent",
+        "memoire",
+        "j oublie",
+        "oublier",
+        "oubli",
+        "apprendre par coeur",
+        "se souvenir",
+        "me souvenir"
+      ]
+    ],
+    "answer": "Pour mieux retenir, commencez par **comprendre la notion**, reformulez-la avec vos mots, puis testez-vous sans regarder le cours. Révisez à nouveau sur plusieurs séances. La rubrique **Mémoriser efficacement** vous guide étape par étape.",
+    "links": [
+      [
+        "🧠 Mémoriser efficacement",
+        "SCR_CONS_MEMOIRE_MENU"
+      ],
+      [
+        "🔁 Réviser plusieurs fois",
+        "SCR_CONS_MEMOIRE_04"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_MEMOIRE_PROGRESSION",
+    "groups": [
+      [
+        "ameliorer",
+        "progresser",
+        "apprendre",
+        "assimiler"
+      ],
+      [
+        "connaissances",
+        "notions",
+        "dates",
+        "retiens",
+        "retention"
+      ]
+    ],
+    "answer": "Pour progresser dans vos connaissances, alternez une courte révision, une reformulation avec vos mots et quelques questions. Consultez les méthodes de mémorisation, puis choisissez un thème à travailler.",
+    "links": [
+      [
+        "🧠 Mémoriser efficacement",
+        "SCR_CONS_MEMOIRE_MENU"
+      ],
+      [
+        "📚 Choisir une thématique",
+        "SCR_REV_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_SITUATIONS",
+    "groups": [
+      [
+        "mise en situation",
+        "mises en situation",
+        "cas pratique",
+        "cas pratiques",
+        "scenario",
+        "scenarios"
+      ]
+    ],
+    "answer": "Une **mise en situation** vous demande d’appliquer un principe civique à un cas concret. Repérez ce que l’on cherche à vérifier, identifiez la règle et lisez toutes les réponses. La méthode **RÈGLE** vous aide à choisir une réponse adaptée.",
+    "links": [
+      [
+        "🎭 Réussir les mises en situation",
+        "SCR_CONS_SITUATIONS_MENU"
+      ],
+      [
+        "🎯 Choisir un examen pour m’entraîner",
+        "SCR_ENT_THEME_EXAM"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_EXAMEN_BLANC",
+    "groups": [
+      [
+        "examen blanc",
+        "examens blancs",
+        "test blanc",
+        "simulation examen",
+        "simulation de l examen"
+      ]
+    ],
+    "answer": "Un **examen blanc** vous permet de vous entraîner au format de l’épreuve. Choisissez votre examen dans la rubrique correspondante.",
+    "links": [
+      [
+        "🎯 Passer un examen blanc",
+        "SCR_PREP_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_QUESTIONS_OFFICIELLES",
+    "groups": [
+      [
+        "questions officielles",
+        "question officielle",
+        "banque de questions",
+        "banques officielles"
+      ]
+    ],
+    "answer": "Les questions officielles sont accessibles dans **Entraînement par examen**. Choisissez votre examen, puis **Questions officielles** et la thématique souhaitée.",
+    "links": [
+      [
+        "📘 Choisir mon examen",
+        "SCR_ENT_THEME_EXAM"
+      ],
+      [
+        "✅ Réussir les QCM",
+        "SCR_CONS_QCM_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_QCM_METHODE",
+    "groups": [
+      [
+        "qcm",
+        "bonne reponse",
+        "bonnes reponses",
+        "choisir une reponse",
+        "choisir la reponse"
+      ],
+      [
+        "methode",
+        "comment",
+        "conseil",
+        "hesite",
+        "hesitation",
+        "reussir"
+      ]
+    ],
+    "answer": "Lisez la question et les quatre réponses. Repérez les mots-clés, éliminez les propositions qui ne répondent pas à la question et justifiez votre choix. Vous trouverez une méthode dans **Réussir les QCM**.",
+    "links": [
+      [
+        "✅ Réussir les QCM",
+        "SCR_CONS_QCM_MENU"
+      ],
+      [
+        "⚠️ Éviter les erreurs fréquentes",
+        "SCR_CONS_ERREURS_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_ERREURS",
+    "groups": [
+      [
+        "erreurs",
+        "erreur",
+        "me trompe",
+        "meme faute"
+      ],
+      [
+        "comprendre",
+        "pourquoi",
+        "eviter",
+        "corriger",
+        "toujours",
+        "souvent"
+      ]
+    ],
+    "answer": "Relisez la correction et notez la règle que vous aviez oubliée. Revenez sur ce thème avant de refaire un entraînement. Un carnet d’erreurs vous aide à repérer les points à retravailler.",
+    "links": [
+      [
+        "⚠️ Éviter les erreurs fréquentes",
+        "SCR_CONS_ERREURS_MENU"
+      ],
+      [
+        "📚 Choisir mes révisions",
+        "SCR_REV_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_PARCOURS",
+    "groups": [
+      [
+        "organiser",
+        "planning",
+        "programme de revision",
+        "plan de revision",
+        "par ou commencer",
+        "combien de temps reviser",
+        "rythme de revision"
+      ]
+    ],
+    "answer": "Prévoyez des séances courtes et régulières. Alternez révision, entraînement et correction. La rubrique **Construire mon parcours de révision** vous aide à organiser votre préparation.",
+    "links": [
+      [
+        "📅 Construire mon parcours",
+        "SCR_CONS_PARCOURS_MENU"
+      ],
+      [
+        "🌟 Bien démarrer",
+        "SCR_CONS_GUIDE_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_MNEMO",
+    "groups": [
+      [
+        "mnemotechnique",
+        "mnemonique",
+        "astuce memoire",
+        "moyen mnemotechnique"
+      ]
+    ],
+    "answer": "Un moyen mnémotechnique est une astuce pour retrouver une information, par exemple une association d’idées. Comprenez d’abord la notion, puis choisissez une astuce qui a du sens pour vous.",
+    "links": [
+      [
+        "🧩 Utiliser des moyens mnémotechniques",
+        "SCR_CONS_MNEMO_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_INSCRIPTION",
+    "groups": [
+      [
+        "inscrire",
+        "inscription",
+        "inscriptions",
+        "reserver une session",
+        "prochaine session",
+        "prochaines dates",
+        "centre d examen",
+        "centre examen",
+        "ou passer l examen"
+      ]
+    ],
+    "answer": "Pour les démarches d’inscription et les sessions disponibles, ouvrez **S’inscrire à l’examen civique**. Vous pourrez consulter les centres et les modalités.",
+    "links": [
+      [
+        "🗓️ S’inscrire à l’examen civique",
+        "SCR_PASS_MENU"
+      ],
+      [
+        "📍 Trouver une session",
+        "SCR_PASS_REGIONS"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_PRIX",
+    "groups": [
+      [
+        "prix de l examen",
+        "tarif examen",
+        "tarif de l examen",
+        "cout de l examen",
+        "combien coute",
+        "payer l examen"
+      ]
+    ],
+    "answer": "Les informations sur le coût de l’examen sont présentées dans la FAQ. Consultez la rubrique dédiée avant votre inscription.",
+    "links": [
+      [
+        "💶 Consulter les informations sur le prix",
+        "SCR_FAQ_019"
+      ],
+      [
+        "🗓️ S’inscrire à l’examen civique",
+        "SCR_PASS_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_FORMAT",
+    "groups": [
+      [
+        "combien de questions",
+        "duree de l examen",
+        "duree examen",
+        "combien de temps dure",
+        "format de l examen",
+        "comment se passe l examen"
+      ]
+    ],
+    "answer": "Pour connaître le nombre de questions, la durée et le déroulement, consultez la fiche sur le **format de l’examen**.",
+    "links": [
+      [
+        "⏱️ Comprendre le format de l’examen",
+        "SCR_FAQ_004"
+      ],
+      [
+        "🎯 Passer un examen blanc",
+        "SCR_PREP_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_SEUIL",
+    "groups": [
+      [
+        "score pour reussir",
+        "score necessaire",
+        "combien de bonnes reponses",
+        "32 sur 40",
+        "32 40",
+        "80 pour cent",
+        "note minimum",
+        "note minimale"
+      ]
+    ],
+    "answer": "La FAQ explique le score nécessaire pour réussir l’examen. Les objectifs proposés dans les entraînements servent à guider votre progression.",
+    "links": [
+      [
+        "📊 Consulter le score de réussite",
+        "SCR_FAQ_009"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_ECHEC",
+    "groups": [
+      [
+        "echoue",
+        "echec",
+        "repasser l examen",
+        "repasser examen",
+        "rate mon examen",
+        "rate l examen"
+      ]
+    ],
+    "answer": "Après un échec, consultez les informations sur une nouvelle passation et reprenez les thèmes qui vous ont posé problème.",
+    "links": [
+      [
+        "📋 Que faire après un échec ?",
+        "SCR_FAQ_026"
+      ],
+      [
+        "⚠️ Éviter les erreurs fréquentes",
+        "SCR_CONS_ERREURS_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_STRESS",
+    "groups": [
+      [
+        "stress",
+        "stresse",
+        "angoisse",
+        "panique",
+        "peur de l examen",
+        "peur examen",
+        "inquiet"
+      ]
+    ],
+    "answer": "Avant un examen blanc, entraînez-vous dans un cadre calme, avec une séance préparée à l’avance. Pour l’épreuve, consultez les conseils de la FAQ et les modalités de passation.",
+    "links": [
+      [
+        "💡 Consulter les conseils",
+        "SCR_CONS_MENU"
+      ],
+      [
+        "❔ Consulter la FAQ",
+        "SCR_FAQ_MENU"
+      ],
+      [
+        "🎯 Passer un examen blanc",
+        "SCR_PREP_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_BILAN",
+    "groups": [
+      [
+        "bilan",
+        "points faibles",
+        "mon niveau",
+        "suis je pret",
+        "suis je prete"
+      ]
+    ],
+    "answer": "Le **bilan** vous aide à repérer les thèmes à travailler. Vous pourrez ensuite choisir vos révisions et vos entraînements.",
+    "links": [
+      [
+        "🧭 Faire mon bilan",
+        "SCR_BIL_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_REVISION_T1",
+    "groups": [
+      [
+        "reviser",
+        "revision",
+        "cours sur",
+        "cours de",
+        "fiche sur",
+        "fiche de"
+      ],
+      [
+        "principes et valeurs",
+        "valeurs de la republique",
+        "laicite",
+        "liberte",
+        "egalite",
+        "fraternite"
+      ]
+    ],
+    "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+    "links": [
+      [
+        "📚 Ouvrir cette thématique",
+        "SCR_REV_T1_MENU"
+      ],
+      [
+        "🎯 Choisir un entraînement",
+        "SCR_ENT_THEME_EXAM"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_REVISION_T2",
+    "groups": [
+      [
+        "reviser",
+        "revision",
+        "cours sur",
+        "cours de",
+        "fiche sur",
+        "fiche de"
+      ],
+      [
+        "institutions",
+        "gouvernement",
+        "parlement",
+        "politique"
+      ]
+    ],
+    "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+    "links": [
+      [
+        "📚 Ouvrir cette thématique",
+        "SCR_REV_T2_MENU"
+      ],
+      [
+        "🎯 Choisir un entraînement",
+        "SCR_ENT_THEME_EXAM"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_REVISION_T3",
+    "groups": [
+      [
+        "reviser",
+        "revision",
+        "cours sur",
+        "cours de",
+        "fiche sur",
+        "fiche de"
+      ],
+      [
+        "droits et devoirs",
+        "droits",
+        "devoirs"
+      ]
+    ],
+    "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+    "links": [
+      [
+        "📚 Ouvrir cette thématique",
+        "SCR_REV_T3_MENU"
+      ],
+      [
+        "🎯 Choisir un entraînement",
+        "SCR_ENT_THEME_EXAM"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_REVISION_T4",
+    "groups": [
+      [
+        "reviser",
+        "revision",
+        "cours sur",
+        "cours de",
+        "fiche sur",
+        "fiche de"
+      ],
+      [
+        "histoire",
+        "geographie",
+        "culture",
+        "dates"
+      ]
+    ],
+    "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+    "links": [
+      [
+        "📚 Ouvrir cette thématique",
+        "SCR_REV_T4_MENU"
+      ],
+      [
+        "🎯 Choisir un entraînement",
+        "SCR_ENT_THEME_EXAM"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_REVISION_T5",
+    "groups": [
+      [
+        "reviser",
+        "revision",
+        "cours sur",
+        "cours de",
+        "fiche sur",
+        "fiche de"
+      ],
+      [
+        "vie quotidienne",
+        "vie en societe",
+        "societe francaise"
+      ]
+    ],
+    "answer": "Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.",
+    "links": [
+      [
+        "📚 Ouvrir cette thématique",
+        "SCR_REV_T5_MENU"
+      ],
+      [
+        "🎯 Choisir un entraînement",
+        "SCR_ENT_THEME_EXAM"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_ENTRAINEMENT",
+    "groups": [
+      [
+        "entrainer",
+        "entrainement",
+        "entrainements",
+        "quiz"
+      ]
+    ],
+    "answer": "Choisissez votre examen pour travailler les questions officielles ou les mises en situation. Vous pouvez aussi réaliser un entraînement complet par niveau.",
+    "links": [
+      [
+        "🎯 M’entraîner",
+        "SCR_ENT_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0033",
+    "groups": [
+      [
+        "contrat d engagement a respecter les principes de la republique",
+        "valeurs de la republique"
+      ]
+    ],
+    "answer": "### 📘 Contrat d'engagement à respecter les principes de la République\n\nEngagement consistant à respecter les valeurs et les principes de la République française.\n\n**À retenir :** Le respect des principes républicains est attendu dans certains parcours administratifs.\n\n**Voir aussi :** République; Laïcité; Valeurs de la République.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0033"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0038",
+    "groups": [
+      [
+        "declaration des droits de l homme et du citoyen"
+      ]
+    ],
+    "answer": "### 📘 Déclaration des droits de l'homme et du citoyen\n\nTexte adopté en 1789 qui affirme les droits et libertés fondamentaux.\n\n**À retenir :** C'est l'un des textes fondateurs de la République française.\n\n**Voir aussi :** Constitution.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0038"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0076",
+    "groups": [
+      [
+        "journees europeennes du patrimoine"
+      ]
+    ],
+    "answer": "### 📘 Journées européennes du patrimoine\n\nÉvénement annuel permettant de découvrir gratuitement de nombreux lieux patrimoniaux.\n\n**À retenir :** Elles ont lieu chaque année en septembre.\n\n**Voir aussi :** Patrimoine.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0076"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0005",
+    "groups": [
+      [
+        "assistance a personne en danger"
+      ]
+    ],
+    "answer": "### 📘 Assistance à personne en danger\n\nObligation d'aider une personne en danger ou d'alerter les secours lorsqu'il est possible de le faire sans risque.\n\n**À retenir :** Ne pas porter assistance peut être puni par la loi.\n\n**Voir aussi :** Secours.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0005"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0096",
+    "groups": [
+      [
+        "mutilations sexuelles feminines"
+      ]
+    ],
+    "answer": "### 📘 Mutilations sexuelles féminines\n\nInterventions consistant à retirer partiellement ou totalement les organes génitaux féminins sans raison médicale.\n\n**À retenir :** Elles sont interdites et sévèrement punies en France.\n\n**Voir aussi :** Violence.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0096"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0026",
+    "groups": [
+      [
+        "conseil de l union europeenne",
+        "conseil de l ue"
+      ]
+    ],
+    "answer": "### 📘 Conseil de l'Union européenne\n\nInstitution où siègent les ministres des États membres.\n\n**À retenir :** Il participe au vote des lois européennes.\n\n**Voir aussi :** Commission européenne.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0026"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0165",
+    "groups": [
+      [
+        "Collectivités territoriales",
+        "collectivites territoriales"
+      ]
+    ],
+    "answer": "### 📘 Collectivités territoriales\n\nStructures qui gèrent des affaires locales grâce à des élus, par exemple les communes, les départements et les régions.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0165"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0109",
+    "groups": [
+      [
+        "president de la republique",
+        "president",
+        "presidente"
+      ]
+    ],
+    "answer": "### 📘 Président de la République\n\nLe Président de la République est le chef de l'État.\n\n**À retenir :** Il est élu au suffrage universel direct pour cinq ans.\n\n**Attention à ne pas confondre :** Le Président est le chef de l'État.\nLe Premier ministre dirige l'action du Gouvernement.\n\n**Voir aussi :** Gouvernement; Premier ministre.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0109"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0114",
+    "groups": [
+      [
+        "provence alpes cote d azur",
+        "marseille",
+        "nice"
+      ]
+    ],
+    "answer": "### 📘 Provence-Alpes-Côte d'Azur\n\nRégion située dans le sud-est de la France.\n\n**À retenir :** Elle est réputée pour la Méditerranée, les Alpes, Marseille, Nice et la lavande.\n\n**Voir aussi :** Marseille; Nice.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0114"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0016",
+    "groups": [
+      [
+        "charte de l environnement"
+      ]
+    ],
+    "answer": "### 📘 Charte de l'environnement\n\nTexte à valeur constitutionnelle qui reconnaît le droit à un environnement équilibré.\n\n**À retenir :** La protection de l'environnement est un principe constitutionnel.\n\n**Voir aussi :** Environnement.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0016"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0075",
+    "groups": [
+      [
+        "integrite de la personne",
+        "integrite"
+      ]
+    ],
+    "answer": "### 📘 Intégrité de la personne\n\nDroit de chacun à la protection de son corps et de son esprit.\n\n**À retenir :** Toute atteinte injustifiée à l'intégrité est interdite.\n\n**Voir aussi :** Dignité humaine.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0075"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0108",
+    "groups": [
+      [
+        "premiere guerre mondiale",
+        "1ere guerre mondiale",
+        "1914 1918"
+      ]
+    ],
+    "answer": "### 📘 Première Guerre mondiale\n\nConflit mondial de 1914 à 1918.\n\n**À retenir :** La France fait partie des pays vainqueurs.\n\n**Voir aussi :** Seconde Guerre mondiale.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0108"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0131",
+    "groups": [
+      [
+        "traite des etres humains"
+      ]
+    ],
+    "answer": "### 📘 Traite des êtres humains\n\nExploitation d'une personne par la contrainte, la menace ou la tromperie.\n\n**À retenir :** La traite des êtres humains est un crime.\n\n**Voir aussi :** Esclavage.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0131"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0044",
+    "groups": [
+      [
+        "devise de la republique",
+        "devise",
+        "liberte egalite fraternite"
+      ]
+    ],
+    "answer": "### 📘 Devise de la République\n\nLa devise de la République française est **« Liberté, Égalité, Fraternité »**. Elle exprime trois valeurs communes.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0044"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0121",
+    "groups": [
+      [
+        "seconde guerre mondiale",
+        "deuxieme guerre mondiale",
+        "2eme guerre mondiale",
+        "1939 1945"
+      ]
+    ],
+    "answer": "### 📘 Seconde Guerre mondiale\n\nConflit mondial de 1939 à 1945.\n\n**À retenir :** La Résistance a joué un rôle important dans la libération de la France.\n\n**Voir aussi :** Résistance.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0121"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0025",
+    "groups": [
+      [
+        "conseil constitutionnel"
+      ]
+    ],
+    "answer": "### 📘 Conseil constitutionnel\n\nLe Conseil constitutionnel vérifie que les lois respectent la Constitution.\n\n**À retenir :** Il protège la Constitution.\n\n**Voir aussi :** Constitution.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0025"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0081",
+    "groups": [
+      [
+        "langue de la republique"
+      ]
+    ],
+    "answer": "### 📘 Langue de la République\n\nLe français est la langue officielle de la République française.\n\n**À retenir :** Le français est utilisé dans les administrations, les écoles et les services publics.\n\n**Voir aussi :** République.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0081"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0110",
+    "groups": [
+      [
+        "presomption d innocence",
+        "presomption innocence",
+        "innocent avant jugement"
+      ]
+    ],
+    "answer": "### 📘 Présomption d'innocence\n\nLa **présomption d’innocence** signifie qu’une personne est considérée comme innocente tant que sa culpabilité n’a pas été établie par la justice.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0110"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_SIMPLE_POUVOIRS",
+    "groups": [
+      [
+        "separation des pouvoirs"
+      ]
+    ],
+    "answer": "### 📘 Séparation des pouvoirs\n\nLa **séparation des pouvoirs** distingue trois fonctions : faire les lois, les appliquer et rendre la justice. Elles ne doivent pas toutes être concentrées dans les mêmes mains.",
+    "links": [
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0171",
+    "groups": [
+      [
+        "Instruction obligatoire",
+        "instruction obligatoire"
+      ]
+    ],
+    "answer": "### 📘 Instruction obligatoire\n\nObligation de donner à chaque enfant une instruction. Elle peut être assurée à l’école ou, sous conditions, dans la famille.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0171"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0126",
+    "groups": [
+      [
+        "souverainete nationale"
+      ]
+    ],
+    "answer": "### 📘 Souveraineté nationale\n\nPrincipe selon lequel le pouvoir appartient au peuple.\n\n**À retenir :** Le peuple exerce sa souveraineté par ses représentants élus et par référendum.\n\n**Attention à ne pas confondre :** La souveraineté appartient au peuple et non au Président de la République.\n\n**Voir aussi :** République; Référendum; Citoyen.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0126"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0017",
+    "groups": [
+      [
+        "chateau de versailles",
+        "louis xiv"
+      ]
+    ],
+    "answer": "### 📘 Château de Versailles\n\nAncienne résidence des rois de France située près de Paris.\n\n**À retenir :** Il est célèbre pour son architecture et ses jardins.\n\n**Voir aussi :** Louis XIV.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0017"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0023",
+    "groups": [
+      [
+        "commission europeenne"
+      ]
+    ],
+    "answer": "### 📘 Commission européenne\n\nInstitution chargée de proposer les lois européennes et de veiller à leur application.\n\n**À retenir :** Elle défend l'intérêt général de l'Union européenne.\n\n**Voir aussi :** Union européenne.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0023"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0027",
+    "groups": [
+      [
+        "conseil departemental"
+      ]
+    ],
+    "answer": "### 📘 Conseil départemental\n\nAssemblée qui administre le département.\n\n**À retenir :** Ses membres sont les conseillers départementaux.\n\n**Voir aussi :** Département.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0027"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0058",
+    "groups": [
+      [
+        "france metropolitaine",
+        "metropole",
+        "metropolitaine"
+      ]
+    ],
+    "answer": "### 📘 France métropolitaine\n\nPartie du territoire français située en Europe.\n\n**À retenir :** Elle est composée de 13 régions.\n\n**Voir aussi :** Outre-mer.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0058"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0063",
+    "groups": [
+      [
+        "gastronomie francaise"
+      ]
+    ],
+    "answer": "### 📘 Gastronomie française\n\nEnsemble des traditions culinaires françaises.\n\n**À retenir :** Le repas gastronomique des Français est inscrit au patrimoine culturel immatériel de l'UNESCO.\n\n**Voir aussi :** UNESCO.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0063"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0083",
+    "groups": [
+      [
+        "liberte de conscience",
+        "choisir sa religion",
+        "liberte religieuse"
+      ]
+    ],
+    "answer": "### 📘 Liberté de conscience\n\nLa **liberté de conscience** permet à chacun de choisir ses convictions : croire, ne pas croire ou changer de religion.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0083"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0160",
+    "groups": [
+      [
+        "Élections européennes",
+        "elections europeennes"
+      ]
+    ],
+    "answer": "### 📘 Élections européennes\n\nÉlections par lesquelles les citoyens de l’Union européenne choisissent leurs députés au Parlement européen.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0160"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0159",
+    "groups": [
+      [
+        "Élections municipales",
+        "elections municipales"
+      ]
+    ],
+    "answer": "### 📘 Élections municipales\n\nÉlections qui permettent de choisir les conseillers municipaux. Ceux-ci élisent ensuite le maire.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0159"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0141",
+    "groups": [
+      [
+        "Cotisations sociales",
+        "cotisations sociales",
+        "cotisation",
+        "cotisations",
+        "contributions sociales"
+      ]
+    ],
+    "answer": "### 📘 Cotisations sociales\n\nSommes versées par les salariés et les employeurs pour financer la protection sociale, notamment la maladie et la retraite.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0141"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0070",
+    "groups": [
+      [
+        "harcelement scolaire",
+        "harcelement a l ecole"
+      ]
+    ],
+    "answer": "### 📘 Harcèlement scolaire\n\nViolences répétées subies par un élève de la part d'autres élèves.\n\n**À retenir :** Il s'agit d'un délit.\n\n**Voir aussi :** Violence.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0070"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0018",
+    "groups": [
+      [
+        "cinquieme republique"
+      ]
+    ],
+    "answer": "### 📘 Cinquième République\n\nRégime politique actuel de la France, instauré en 1958.\n\n**À retenir :** La Constitution de 1958 est toujours en vigueur.\n\n**Voir aussi :** Constitution.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0018"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0119",
+    "groups": [
+      [
+        "revolution francaise",
+        "revolution",
+        "1789"
+      ]
+    ],
+    "answer": "### 📘 Révolution française\n\nPériode commencée en 1789 qui met fin à la monarchie absolue et fonde de nouveaux principes politiques.\n\n**À retenir :** Elle marque la naissance des valeurs républicaines modernes.\n\n**Voir aussi :** Déclaration des droits de l'homme et du citoyen.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0119"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0206",
+    "groups": [
+      [
+        "Traité de Maastricht",
+        "traite de maastricht",
+        "maastricht"
+      ]
+    ],
+    "answer": "### 📘 Traité de Maastricht\n\nTraité signé en 1992 qui a créé l’Union européenne et renforcé la coopération entre ses États membres.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0206"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0004",
+    "groups": [
+      [
+        "assemblee nationale",
+        "assemblee",
+        "assemble nationale",
+        "assemblee national",
+        "assemblee des deputes"
+      ]
+    ],
+    "answer": "### 📘 Assemblée nationale\n\nL’**Assemblée nationale** est l’une des deux parties du Parlement. Les **députés** y discutent et votent les lois.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0004"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0047",
+    "groups": [
+      [
+        "droits fondamentaux",
+        "droit fondamental",
+        "droits humains",
+        "droits de l homme"
+      ]
+    ],
+    "answer": "### 📘 Droits fondamentaux\n\nEnsemble des droits et libertés reconnus à toute personne et garantis par la Constitution et les textes fondamentaux.\n\n**À retenir :** Ils protègent la dignité, la liberté et l'égalité de chacun.\n\n**Voir aussi :** Constitution; Liberté; Égalité.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0047"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0207",
+    "groups": [
+      [
+        "Journée de l’Europe",
+        "journee de l'europe"
+      ]
+    ],
+    "answer": "### 📘 Journée de l’Europe\n\nJournée célébrée le 9 mai pour rappeler le projet de coopération européenne et la déclaration de Robert Schuman.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0207"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0102",
+    "groups": [
+      [
+        "parlement europeen",
+        "parlement europeenne"
+      ]
+    ],
+    "answer": "### 📘 Parlement européen\n\nInstitution européenne composée de députés élus par les citoyens des États membres.\n\n**À retenir :** Il participe à l'adoption des lois européennes.\n\n**Voir aussi :** Député européen.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0102"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0034",
+    "groups": [
+      [
+        "contrat de travail",
+        "contrats de travail"
+      ]
+    ],
+    "answer": "### 📘 Contrat de travail\n\nLe **contrat de travail** fixe les conditions de travail entre un employeur et un salarié.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0034"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0056",
+    "groups": [
+      [
+        "fete de la musique",
+        "culture"
+      ]
+    ],
+    "answer": "### 📘 Fête de la Musique\n\nManifestation culturelle organisée chaque année le 21 juin.\n\n**À retenir :** Elle permet à tous de partager la musique gratuitement.\n\n**Voir aussi :** Culture.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0056"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0127",
+    "groups": [
+      [
+        "suffrage universel",
+        "suffrage"
+      ]
+    ],
+    "answer": "### 📘 Suffrage universel\n\nMode d'élection dans lequel tous les citoyens remplissant les conditions peuvent voter.\n\n**À retenir :** En France, le vote est universel, égal et secret.\n\n**Voir aussi :** Vote.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0127"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0170",
+    "groups": [
+      [
+        "Autorité parentale",
+        "autorite parentale"
+      ]
+    ],
+    "answer": "### 📘 Autorité parentale\n\nEnsemble des droits et des devoirs des parents pour protéger, éduquer et accompagner leur enfant dans son intérêt.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0170"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0158",
+    "groups": [
+      [
+        "Listes électorales",
+        "listes electorales"
+      ]
+    ],
+    "answer": "### 📘 Listes électorales\n\nListes des personnes inscrites pour voter dans une commune ou dans une circonscription.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0158"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0163",
+    "groups": [
+      [
+        "Pouvoir judiciaire",
+        "pouvoir judiciaire"
+      ]
+    ],
+    "answer": "### 📘 Pouvoir judiciaire\n\nFonction de la justice qui tranche les litiges et sanctionne les infractions selon la loi, en toute indépendance.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0163"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0162",
+    "groups": [
+      [
+        "Pouvoir législatif",
+        "pouvoir legislatif"
+      ]
+    ],
+    "answer": "### 📘 Pouvoir législatif\n\nPouvoir qui discute et vote les lois. En France, il est exercé par le Parlement.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0162"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0150",
+    "groups": [
+      [
+        "Protection sociale",
+        "protection sociale"
+      ]
+    ],
+    "answer": "### 📘 Protection sociale\n\nEnsemble des dispositifs qui aident les personnes face à certains risques de la vie, comme la maladie, la vieillesse ou la perte d’emploi.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0150"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0006",
+    "groups": [
+      [
+        "assurance maladie",
+        "securite sociale",
+        "secu"
+      ]
+    ],
+    "answer": "### 📘 Assurance maladie\n\nSystème de protection sociale qui rembourse tout ou partie des dépenses de santé.\n\n**À retenir :** Toute personne résidant régulièrement en France peut bénéficier d'une couverture maladie selon sa situation.\n\n**Voir aussi :** Carte Vitale; CPAM; Médecin traitant.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0006"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0010",
+    "groups": [
+      [
+        "carte de resident",
+        "carte de residant",
+        "resident",
+        "residant"
+      ]
+    ],
+    "answer": "### 📘 Carte de résident\n\nLa **carte de résident** est un titre de séjour valable dix ans. Les conditions et les démarches dépendent de la situation de la personne.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0010"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0029",
+    "groups": [
+      [
+        "conseil municipal"
+      ]
+    ],
+    "answer": "### 📘 Conseil municipal\n\nAssemblée élue qui administre la commune.\n\n**À retenir :** Les conseillers municipaux élisent le maire.\n\n**Voir aussi :** Maire.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0029"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0094",
+    "groups": [
+      [
+        "mont saint michel"
+      ]
+    ],
+    "answer": "### 📘 Mont-Saint-Michel\n\nÎlot rocheux situé en Normandie sur lequel est construite une abbaye.\n\n**À retenir :** Il est inscrit au patrimoine mondial de l'UNESCO.\n\n**Voir aussi :** UNESCO.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0094"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0190",
+    "groups": [
+      [
+        "Sécurité routière",
+        "securite routiere"
+      ]
+    ],
+    "answer": "### 📘 Sécurité routière\n\nEnsemble des règles et des comportements qui limitent les accidents sur la route et protègent tous les usagers.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0190"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0144",
+    "groups": [
+      [
+        "Travail dissimulé",
+        "travail dissimule"
+      ]
+    ],
+    "answer": "### 📘 Travail dissimulé\n\nTravail ou activité qui n’est pas déclaré comme la loi l’exige. Cela prive notamment le salarié de certaines protections.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0144"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0107",
+    "groups": [
+      [
+        "premier ministre",
+        "premier minister",
+        "premier minstre",
+        "premiers ministres",
+        "chef du gouvernement"
+      ]
+    ],
+    "answer": "### 📘 Premier ministre\n\nLe **Premier ministre** dirige l’action du Gouvernement. Il travaille avec les ministres pour organiser et mettre en œuvre la politique du pays.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0107"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0046",
+    "groups": [
+      [
+        "drapeau francais",
+        "drapeau",
+        "drapeau tricolore",
+        "bleu blanc rouge"
+      ]
+    ],
+    "answer": "### 📘 Drapeau français\n\nLe **drapeau français** comporte trois couleurs : bleu, blanc et rouge.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0046"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0028",
+    "groups": [
+      [
+        "conseil europeen"
+      ]
+    ],
+    "answer": "### 📘 Conseil européen\n\nRéunion des chefs d'État ou de gouvernement des pays membres.\n\n**À retenir :** Il fixe les grandes orientations politiques de l'Union européenne.\n\n**Voir aussi :** Union européenne.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0028"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0030",
+    "groups": [
+      [
+        "conseil regional"
+      ]
+    ],
+    "answer": "### 📘 Conseil régional\n\nAssemblée qui administre la région.\n\n**À retenir :** Ses membres sont les conseillers régionaux.\n\n**Voir aussi :** Région.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0030"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0092",
+    "groups": [
+      [
+        "medecin traitant",
+        "docteur traitant"
+      ]
+    ],
+    "answer": "### 📘 Médecin traitant\n\nMédecin choisi par le patient pour assurer son suivi médical.\n\n**À retenir :** Le déclarer permet un meilleur remboursement des soins.\n\n**Voir aussi :** Assurance maladie.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0092"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0133",
+    "groups": [
+      [
+        "union europeenne",
+        "union europeen",
+        "ue",
+        "union europeene"
+      ]
+    ],
+    "answer": "### 📘 Union européenne\n\nOrganisation regroupant plusieurs États européens qui coopèrent dans de nombreux domaines.\n\n**À retenir :** La France est membre de l'Union européenne.\n\n**Voir aussi :** Parlement européen; Euro.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0133"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0161",
+    "groups": [
+      [
+        "Pouvoir exécutif",
+        "pouvoir executif"
+      ]
+    ],
+    "answer": "### 📘 Pouvoir exécutif\n\nPouvoir chargé de conduire la politique et de faire appliquer les lois. En France, il est exercé par le président de la République et le Gouvernement.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0161"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0059",
+    "groups": [
+      [
+        "france services",
+        "maison france services"
+      ]
+    ],
+    "answer": "### 📘 France Services\n\n**France Services** est un lieu où l’on peut être accompagné pour réaliser des démarches administratives.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0059"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0078",
+    "groups": [
+      [
+        "la marseillaise",
+        "marseillaise",
+        "hymne national",
+        "hymne de la france"
+      ]
+    ],
+    "answer": "### 📘 La Marseillaise\n\n**La Marseillaise** est l’hymne national de la France.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0078"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0043",
+    "groups": [
+      [
+        "depute europeen",
+        "deputes europeens",
+        "eurodepute"
+      ]
+    ],
+    "answer": "### 📘 Député européen\n\nReprésentant élu des citoyens au Parlement européen.\n\n**À retenir :** Les députés européens sont élus tous les cinq ans.\n\n**Voir aussi :** Parlement européen.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0043"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0129",
+    "groups": [
+      [
+        "titre de sejour",
+        "titres de sejour",
+        "carte de sejour"
+      ]
+    ],
+    "answer": "### 📘 Titre de séjour\n\nUn **titre de séjour** est un document qui autorise une personne étrangère à séjourner en France selon les conditions du titre.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0129"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0045",
+    "groups": [
+      [
+        "dignite humaine",
+        "dignite"
+      ]
+    ],
+    "answer": "### 📘 Dignité humaine\n\nLa **dignité humaine** signifie que toute personne mérite le respect. On ne doit pas humilier une personne ni la traiter comme un objet.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0045"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0053",
+    "groups": [
+      [
+        "espace schengen"
+      ]
+    ],
+    "answer": "### 📘 Espace Schengen\n\nEspace dans lequel les contrôles aux frontières intérieures sont supprimés entre les États participants.\n\n**À retenir :** La France fait partie de l'espace Schengen.\n\n**Voir aussi :** Union européenne.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0053"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0095",
+    "groups": [
+      [
+        "musee du louvre",
+        "paris"
+      ]
+    ],
+    "answer": "### 📘 Musée du Louvre\n\nPlus grand musée d'art de France situé à Paris.\n\n**À retenir :** Il abrite notamment la Joconde.\n\n**Voir aussi :** Paris.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0095"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0177",
+    "groups": [
+      [
+        "Droits civiques",
+        "droits civiques"
+      ]
+    ],
+    "answer": "### 📘 Droits civiques\n\nDroits qui permettent de participer à la vie citoyenne, notamment le droit de vote, selon les conditions prévues par la loi.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0177"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0200",
+    "groups": [
+      [
+        "Impressionnisme",
+        "impressionnisme"
+      ]
+    ],
+    "answer": "### 📘 Impressionnisme\n\nCourant artistique du XIXe siècle qui représente notamment les impressions de lumière et de couleur.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0200"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0173",
+    "groups": [
+      [
+        "Intérêt général",
+        "interet general"
+      ]
+    ],
+    "answer": "### 📘 Intérêt général\n\nCe qui sert le bien commun, au-delà des intérêts particuliers d’une personne ou d’un groupe.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0173"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0156",
+    "groups": [
+      [
+        "Parti politique",
+        "parti politique"
+      ]
+    ],
+    "answer": "### 📘 Parti politique\n\nOrganisation qui rassemble des personnes autour d’idées politiques et participe à la vie démocratique, notamment aux élections.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0156"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0191",
+    "groups": [
+      [
+        "Réseaux sociaux",
+        "reseaux sociaux"
+      ]
+    ],
+    "answer": "### 📘 Réseaux sociaux\n\nServices en ligne permettant de publier et d’échanger des contenus. Les règles de droit et le respect d’autrui s’y appliquent aussi.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0191"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0189",
+    "groups": [
+      [
+        "Tri des déchets",
+        "tri des dechets",
+        "tri des dechets"
+      ]
+    ],
+    "answer": "### 📘 Tri des déchets\n\nSéparation des déchets selon leur nature pour permettre leur collecte et leur traitement adaptés.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0189"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0097",
+    "groups": [
+      [
+        "naturalisation",
+        "nationalite francaise",
+        "devenir francais",
+        "devenir francaise",
+        "naturalisations"
+      ]
+    ],
+    "answer": "### 📘 Naturalisation\n\nLa **naturalisation** est une procédure qui permet de devenir français sous certaines conditions. Les démarches sont expliquées dans les rubriques du chatbot.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0097"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_SIMPLE_DEVOIR",
+    "groups": [
+      [
+        "devoir civique",
+        "devoirs civiques",
+        "devoirs",
+        "obligation civique"
+      ]
+    ],
+    "answer": "### 📘 Devoir civique\n\nUn **devoir** est une obligation à respecter pour vivre ensemble. Respecter la loi et les droits des autres en sont des exemples.",
+    "links": [
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0057",
+    "groups": [
+      [
+        "fete nationale",
+        "14 juillet",
+        "quatorze juillet"
+      ]
+    ],
+    "answer": "### 📘 Fête nationale\n\nLa fête nationale française est célébrée chaque année le 14 juillet.\n\n**À retenir :** Elle commémore la prise de la Bastille et la Fête de la Fédération.\n\n**Voir aussi :** République.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0057"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0125",
+    "groups": [
+      [
+        "service public",
+        "services publics"
+      ]
+    ],
+    "answer": "### 📘 Service public\n\nUn **service public** répond à un besoin d’intérêt général. L’école publique est un exemple de service public.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0125"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_SIMPLE_DISCRIMINATION",
+    "groups": [
+      [
+        "discrimination",
+        "discriminations",
+        "discriminer",
+        "discrimine",
+        "racisme",
+        "raciste"
+      ]
+    ],
+    "answer": "### 📘 Discrimination\n\nUne **discrimination** consiste à traiter une personne moins bien pour un motif interdit, par exemple son origine ou sa religion. Le principe d’égalité protège les personnes contre ces traitements.",
+    "links": [
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0060",
+    "groups": [
+      [
+        "france travail",
+        "formation",
+        "emploi",
+        "pole emploi"
+      ]
+    ],
+    "answer": "### 📘 France Travail\n\n**France Travail** accompagne les personnes qui cherchent un emploi, notamment dans leurs recherches et leurs démarches.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0060"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0172",
+    "groups": [
+      [
+        "Agents publics",
+        "agents publics"
+      ]
+    ],
+    "answer": "### 📘 Agents publics\n\nPersonnes qui travaillent pour une administration ou un service public. Elles doivent respecter notamment la neutralité et l’égalité de traitement.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0172"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0164",
+    "groups": [
+      [
+        "Chef de l’État",
+        "chef de l'etat"
+      ]
+    ],
+    "answer": "### 📘 Chef de l’État\n\nPersonne qui représente l’État au plus haut niveau. En France, le chef de l’État est le président de la République.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0164"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0183",
+    "groups": [
+      [
+        "Cour d’assises",
+        "cour d'assises",
+        "cour d assises"
+      ]
+    ],
+    "answer": "### 📘 Cour d’assises\n\nJuridiction qui juge certains crimes avec des magistrats et un jury de citoyens.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0183"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0052",
+    "groups": [
+      [
+        "environnement",
+        "proteger la nature",
+        "environnements"
+      ]
+    ],
+    "answer": "### 📘 Environnement\n\nEnsemble des éléments naturels que chacun doit protéger.\n\n**À retenir :** La protection de l'environnement est une responsabilité collective.\n\n**Voir aussi :** Charte de l'environnement.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0052"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0035",
+    "groups": [
+      [
+        "contravention",
+        "contraventions"
+      ]
+    ],
+    "answer": "### 📘 Contravention\n\nInfraction la moins grave.\n\n**À retenir :** Elle est généralement punie d'une amende.\n\n**Voir aussi :** Délit; Crime.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0035"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0135",
+    "groups": [
+      [
+        "vercingetorix",
+        "jules cesar",
+        "vercingetorixs"
+      ]
+    ],
+    "answer": "### 📘 Vercingétorix\n\nChef gaulois qui s'est opposé à Jules César.\n\n**À retenir :** Il est devenu un symbole de la résistance gauloise.\n\n**Voir aussi :** Gaule; Jules César.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0135"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0072",
+    "groups": [
+      [
+        "ile de france",
+        "paris"
+      ]
+    ],
+    "answer": "### 📘 Île-de-France\n\nRégion où se situe Paris, capitale de la France.\n\n**À retenir :** Elle est la région la plus peuplée du pays et concentre de nombreuses institutions nationales.\n\n**Voir aussi :** Paris.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0072"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0184",
+    "groups": [
+      [
+        "Peine de mort",
+        "peine de mort"
+      ]
+    ],
+    "answer": "### 📘 Peine de mort\n\nSanction qui consiste à exécuter une personne condamnée. Elle a été abolie en France en 1981.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0184"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0066",
+    "groups": [
+      [
+        "gouvernement",
+        "gouv",
+        "gouvernements",
+        "gouvernment",
+        "gouvernemant",
+        "gouvernemen",
+        "equipe des ministres"
+      ]
+    ],
+    "answer": "### 📘 Gouvernement\n\nLe **gouvernement** est l’équipe qui dirige l’action du pays au quotidien. En France, il est composé du **Premier ministre et des ministres**. Il prépare des projets de loi et fait appliquer les lois. **Le Parlement vote les lois : ce n’est pas le même rôle.**",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0066"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0031",
+    "groups": [
+      [
+        "consentement",
+        "violence sexuelle",
+        "consantement",
+        "accord libre",
+        "consentements"
+      ]
+    ],
+    "answer": "### 📘 Consentement\n\nLe **consentement** est un accord donné librement, sans pression. Une personne doit pouvoir accepter ou refuser.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0031"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0061",
+    "groups": [
+      [
+        "francophonie",
+        "langue francaise",
+        "francophonies"
+      ]
+    ],
+    "answer": "### 📘 Francophonie\n\nEnsemble des personnes et des pays qui utilisent la langue française.\n\n**À retenir :** Le français est parlé sur les cinq continents.\n\n**Voir aussi :** Langue française.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0061"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0099",
+    "groups": [
+      [
+        "ordre public",
+        "ordre publique"
+      ]
+    ],
+    "answer": "### 📘 Ordre public\n\nL’**ordre public** protège notamment la sécurité et la tranquillité de tous. Il permet de vivre ensemble dans un cadre commun.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0099"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0032",
+    "groups": [
+      [
+        "constitution",
+        "constitucion",
+        "constitusion",
+        "constitutions"
+      ]
+    ],
+    "answer": "### 📘 Constitution\n\nLa **Constitution** est le texte qui fixe les grandes règles de fonctionnement du pays. Elle organise les institutions et protège des droits fondamentaux.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0032"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0112",
+    "groups": [
+      [
+        "proprietaire",
+        "proprietaires"
+      ]
+    ],
+    "answer": "### 📘 Propriétaire\n\nPersonne qui possède un logement.\n\n**À retenir :** Le propriétaire peut louer son logement.\n\n**Voir aussi :** Bail.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0112"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0113",
+    "groups": [
+      [
+        "prostitution",
+        "prostitutions"
+      ]
+    ],
+    "answer": "### 📘 Prostitution\n\nÉchange d'un acte sexuel contre une rémunération.\n\n**À retenir :** Le proxénétisme et le recours à la prostitution sont encadrés par la loi.\n\n**Voir aussi :** Traite des êtres humains.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0113"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0011",
+    "groups": [
+      [
+        "carte vitale",
+        "carte vital"
+      ]
+    ],
+    "answer": "### 📘 Carte Vitale\n\nLa **carte Vitale** sert à transmettre les informations nécessaires au remboursement des soins par l’Assurance maladie.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0011"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0198",
+    "groups": [
+      [
+        "Colonisation",
+        "colonisation"
+      ]
+    ],
+    "answer": "### 📘 Colonisation\n\nPrise de contrôle d’un territoire et de sa population par une puissance extérieure.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0198"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0203",
+    "groups": [
+      [
+        "Méditerranée",
+        "mediterranee"
+      ]
+    ],
+    "answer": "### 📘 Méditerranée\n\nMer située au sud de la France, entre l’Europe, l’Afrique du Nord et le Proche-Orient.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0203"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0139",
+    "groups": [
+      [
+        "Salaire brut",
+        "salaire brut"
+      ]
+    ],
+    "answer": "### 📘 Salaire brut\n\nRémunération avant le prélèvement des cotisations sociales à la charge du salarié.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0139"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0069",
+    "groups": [
+      [
+        "harcelement",
+        "harcelement moral",
+        "harcelement au travail",
+        "harcelements"
+      ]
+    ],
+    "answer": "### 📘 Harcèlement\n\nViolences ou comportements répétés ayant pour effet de dégrader les conditions de vie d'une personne.\n\n**À retenir :** Le harcèlement est puni par la loi.\n\n**Voir aussi :** Harcèlement scolaire.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0069"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0111",
+    "groups": [
+      [
+        "procuration",
+        "voter a ma place",
+        "procurations"
+      ]
+    ],
+    "answer": "### 📘 Procuration\n\nUne **procuration** permet de confier son vote à une autre personne lorsqu’on ne peut pas voter soi-même.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0111"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0015",
+    "groups": [
+      [
+        "charlemagne",
+        "moyen age",
+        "charlemagnes"
+      ]
+    ],
+    "answer": "### 📘 Charlemagne\n\nEmpereur d'Occident couronné en l'an 800.\n\n**À retenir :** Il a contribué au développement de l'éducation et de l'organisation de son empire.\n\n**Voir aussi :** Moyen Âge.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0015"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0020",
+    "groups": [
+      [
+        "citoyennete",
+        "nationalite",
+        "citoyennetes"
+      ]
+    ],
+    "answer": "### 📘 Citoyenneté\n\nLien juridique entre une personne et un État, donnant des droits mais aussi des devoirs.\n\n**À retenir :** Tous les résidents ne sont pas citoyens français.\n\n**Attention à ne pas confondre :** Citoyenneté ≠ résidence.\n\n**Voir aussi :** Nationalité.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0020"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0041",
+    "groups": [
+      [
+        "departement",
+        "departements"
+      ]
+    ],
+    "answer": "### 📘 Département\n\nLe département est une collectivité territoriale située entre la région et la commune.\n\n**À retenir :** La France compte 101 départements.\n\n**Voir aussi :** Région; Commune.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0041"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0065",
+    "groups": [
+      [
+        "gendarmerie",
+        "gendarmes",
+        "gendarmeries"
+      ]
+    ],
+    "answer": "### 📘 Gendarmerie\n\nForce militaire chargée de missions de sécurité publique.\n\n**À retenir :** Elle intervient principalement en zone rurale.\n\n**Voir aussi :** Police.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0065"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0130",
+    "groups": [
+      [
+        "tour eiffel",
+        "paris"
+      ]
+    ],
+    "answer": "### 📘 Tour Eiffel\n\nMonument emblématique situé à Paris, construit pour l'Exposition universelle de 1889.\n\n**À retenir :** Elle est l'un des symboles les plus connus de la France.\n\n**Voir aussi :** Paris.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0130"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0157",
+    "groups": [
+      [
+        "Éligibilité",
+        "eligibilite"
+      ]
+    ],
+    "answer": "### 📘 Éligibilité\n\nPossibilité de se présenter à une élection lorsque les conditions prévues par la loi sont remplies.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0157"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0201",
+    "groups": [
+      [
+        "Littérature",
+        "litterature"
+      ]
+    ],
+    "answer": "### 📘 Littérature\n\nEnsemble des œuvres écrites, comme les romans, la poésie ou le théâtre.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0201"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0155",
+    "groups": [
+      [
+        "Quinquennat",
+        "quinquennat"
+      ]
+    ],
+    "answer": "### 📘 Quinquennat\n\nMandat de cinq ans. Le mandat du président de la République française est un quinquennat.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0155"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0140",
+    "groups": [
+      [
+        "Salaire net",
+        "salaire net"
+      ]
+    ],
+    "answer": "### 📘 Salaire net\n\nRémunération après déduction des cotisations salariales ; le montant versé peut aussi tenir compte du prélèvement de l’impôt.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0140"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0098",
+    "groups": [
+      [
+        "neutralite",
+        "neutralite du service public",
+        "neutralites"
+      ]
+    ],
+    "answer": "### 📘 Neutralité\n\nLa **neutralité** signifie ne pas favoriser une opinion politique ou une religion dans l’exercice d’un service public.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0098"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0103",
+    "groups": [
+      [
+        "patrimoine",
+        "heritage culturel",
+        "patrimoines"
+      ]
+    ],
+    "answer": "### 📘 Patrimoine\n\nLe **patrimoine** est l’ensemble des lieux, des objets et des traditions transmis par les générations précédentes. Un monument historique en fait partie.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0103"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0001",
+    "groups": [
+      [
+        "abstention",
+        "ne pas voter",
+        "abstentions"
+      ]
+    ],
+    "answer": "### 📘 Abstention\n\nL’**abstention** consiste à ne pas participer à une élection. Elle est différente du vote blanc.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0001"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0040",
+    "groups": [
+      [
+        "democratie",
+        "democracie",
+        "democratique",
+        "democraties"
+      ]
+    ],
+    "answer": "### 📘 Démocratie\n\nDans une **démocratie**, le peuple participe aux décisions, notamment en choisissant ses représentants par le vote.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0040"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0062",
+    "groups": [
+      [
+        "fraternite",
+        "solidarite",
+        "entraide",
+        "fraternites"
+      ]
+    ],
+    "answer": "### 📘 Fraternité\n\nLa **fraternité** signifie vivre ensemble avec respect et solidarité. Aider une personne en difficulté est un exemple de solidarité.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0062"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0067",
+    "groups": [
+      [
+        "guadeloupe",
+        "guadeloupes"
+      ]
+    ],
+    "answer": "### 📘 Guadeloupe\n\nDépartement et région d'outre-mer situé dans les Caraïbes.\n\n**À retenir :** Elle est connue pour ses plages, son volcan de la Soufrière et sa biodiversité.\n\n**Voir aussi :** Outre-mer.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0067"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0074",
+    "groups": [
+      [
+        "infraction",
+        "infractions"
+      ]
+    ],
+    "answer": "### 📘 Infraction\n\nActe interdit par la loi.\n\n**À retenir :** Une infraction peut être sanctionnée.\n\n**Voir aussi :** Contravention; Délit; Crime.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0074"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0090",
+    "groups": [
+      [
+        "martinique",
+        "martiniques"
+      ]
+    ],
+    "answer": "### 📘 Martinique\n\nDépartement et région d'outre-mer situé dans les Caraïbes.\n\n**À retenir :** La Martinique est célèbre pour la montagne Pelée et son patrimoine culturel.\n\n**Voir aussi :** Outre-mer.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0090"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0105",
+    "groups": [
+      [
+        "prefecture",
+        "prefectures"
+      ]
+    ],
+    "answer": "### 📘 Préfecture\n\nAdministration représentant l'État dans un département.\n\n**À retenir :** Elle traite notamment certaines démarches liées au séjour des étrangers.\n\n**Voir aussi :** Préfet.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0105"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0116",
+    "groups": [
+      [
+        "referendum",
+        "referendums"
+      ]
+    ],
+    "answer": "### 📘 Référendum\n\nUn **référendum** est un vote où les citoyens répondent directement à une question, généralement par oui ou non.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0116"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0118",
+    "groups": [
+      [
+        "republique",
+        "republic",
+        "republicain",
+        "republiques"
+      ]
+    ],
+    "answer": "### 📘 République\n\nOrganisation politique dans laquelle le pouvoir appartient au peuple et s'exerce conformément à la Constitution.\n\n**À retenir :** La France est une République indivisible, laïque, démocratique et sociale.\n\n**Attention à ne pas confondre :** République ≠ démocratie.\nLa République est une forme d'organisation de l'État.\nLa démocratie est une manière d'exercer le pouvoir.\n\n**Voir aussi :** Constitution; Démocratie; Souveraineté nationale.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0118"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0079",
+    "groups": [
+      [
+        "la reunion"
+      ]
+    ],
+    "answer": "### 📘 La Réunion\n\nDépartement et région d'outre-mer situé dans l'océan Indien.\n\n**À retenir :** L'île est connue pour ses cirques, son volcan actif et ses paysages naturels.\n\n**Voir aussi :** Outre-mer.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0079"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0188",
+    "groups": [
+      [
+        "Déchèterie",
+        "decheterie"
+      ]
+    ],
+    "answer": "### 📘 Déchèterie\n\nLieu où l’on dépose certains déchets qui ne doivent pas être mis dans les poubelles ordinaires.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0188"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0143",
+    "groups": [
+      [
+        "Entreprise",
+        "entreprise"
+      ]
+    ],
+    "answer": "### 📘 Entreprise\n\nOrganisation qui produit des biens ou fournit des services. Elle peut employer des salariés.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0143"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0166",
+    "groups": [
+      [
+        "État civil",
+        "etat civil"
+      ]
+    ],
+    "answer": "### 📘 État civil\n\nEnregistrement officiel des événements importants de la vie d’une personne, notamment sa naissance, son mariage et son décès.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0166"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0149",
+    "groups": [
+      [
+        "Prévention",
+        "prevention"
+      ]
+    ],
+    "answer": "### 📘 Prévention\n\nActions destinées à éviter un risque ou à limiter ses conséquences, par exemple la vaccination ou le dépistage.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0149"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0193",
+    "groups": [
+      [
+        "Résistance",
+        "resistance"
+      ]
+    ],
+    "answer": "### 📘 Résistance\n\nActions menées contre l’occupation et les régimes oppressifs ; en France, le terme renvoie notamment à la lutte contre l’occupation nazie pendant la Seconde Guerre mondiale.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0193"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0051",
+    "groups": [
+      [
+        "employeur",
+        "patron",
+        "employeurs"
+      ]
+    ],
+    "answer": "### 📘 Employeur\n\nL’**employeur** est la personne ou l’organisation qui embauche un salarié et lui verse un salaire.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0051"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0084",
+    "groups": [
+      [
+        "locataire",
+        "locataires"
+      ]
+    ],
+    "answer": "### 📘 Locataire\n\nLe **locataire** est la personne qui loue un logement et paie un loyer au propriétaire.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0084"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0101",
+    "groups": [
+      [
+        "parlement",
+        "parlements",
+        "parlemant"
+      ]
+    ],
+    "answer": "### 📘 Parlement\n\nLe **Parlement** est l’ensemble des représentants qui discutent et **votent les lois**. En France, il comprend l’**Assemblée nationale** et le **Sénat**. Le Gouvernement prépare des projets de loi ; le Parlement les examine et les vote.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0101"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0100",
+    "groups": [
+      [
+        "outre mer",
+        "outremer",
+        "dom tom"
+      ]
+    ],
+    "answer": "### 📘 Outre-mer\n\nL’**outre-mer** désigne les territoires français situés en dehors de la France métropolitaine.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0100"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0197",
+    "groups": [
+      [
+        "Abolition",
+        "abolition"
+      ]
+    ],
+    "answer": "### 📘 Abolition\n\nSuppression officielle d’une règle, d’une pratique ou d’une peine, par exemple l’abolition de l’esclavage ou de la peine de mort.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0197"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0192",
+    "groups": [
+      [
+        "Armistice",
+        "armistice"
+      ]
+    ],
+    "answer": "### 📘 Armistice\n\nAccord qui suspend les combats entre des forces en guerre. Il ne signifie pas nécessairement la fin définitive de la guerre.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0192"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0145",
+    "groups": [
+      [
+        "Bénévolat",
+        "benevolat"
+      ]
+    ],
+    "answer": "### 📘 Bénévolat\n\nActivité réalisée librement sans rémunération, par exemple pour aider une association.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0145"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0196",
+    "groups": [
+      [
+        "Esclavage",
+        "esclavage"
+      ]
+    ],
+    "answer": "### 📘 Esclavage\n\nSituation dans laquelle des personnes sont privées de leur liberté et traitées comme la propriété d’autrui.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0196"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0199",
+    "groups": [
+      [
+        "Monarchie",
+        "monarchie"
+      ]
+    ],
+    "answer": "### 📘 Monarchie\n\nRégime politique dans lequel le chef de l’État est un roi ou une reine.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0199"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0167",
+    "groups": [
+      [
+        "Naissance",
+        "naissance"
+      ]
+    ],
+    "answer": "### 📘 Naissance\n\nVenue au monde d’un enfant. Elle doit être déclarée à l’état civil dans les conditions prévues par la loi.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0167"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0169",
+    "groups": [
+      [
+        "Polygamie",
+        "polygamie"
+      ]
+    ],
+    "answer": "### 📘 Polygamie\n\nSituation dans laquelle une personne est mariée à plusieurs conjoints en même temps. Elle est interdite en France.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0169"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0187",
+    "groups": [
+      [
+        "Recyclage",
+        "recyclage"
+      ]
+    ],
+    "answer": "### 📘 Recyclage\n\nTransformation de déchets pour réutiliser leurs matériaux et réduire le gaspillage des ressources.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0187"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0008",
+    "groups": [
+      [
+        "bretagne",
+        "rennes",
+        "bretagnes"
+      ]
+    ],
+    "answer": "### 📘 Bretagne\n\nRégion située à l'ouest de la France métropolitaine.\n\n**À retenir :** La Bretagne est connue pour son littoral, sa culture bretonne, ses ports de pêche, ses phares et ses spécialités culinaires comme les crêpes et le kouign-amann.\n\n**Voir aussi :** Rennes; Région.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0008"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0050",
+    "groups": [
+      [
+        "election",
+        "elections",
+        "electeur"
+      ]
+    ],
+    "answer": "### 📘 Élection\n\nProcédure permettant aux citoyens de choisir leurs représentants.\n\n**À retenir :** Les élections sont au cœur de la démocratie.\n\n**Voir aussi :** Suffrage universel.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0050"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0089",
+    "groups": [
+      [
+        "marianne",
+        "mariannes"
+      ]
+    ],
+    "answer": "### 📘 Marianne\n\nMarianne est la représentation symbolique de la République française.\n\n**À retenir :** Elle symbolise la liberté et la République.\n\n**Voir aussi :** République.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0089"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0093",
+    "groups": [
+      [
+        "ministre",
+        "ministres",
+        "minister",
+        "minstre"
+      ]
+    ],
+    "answer": "### 📘 Ministre\n\nUn **ministre** fait partie du Gouvernement. Il s’occupe d’un domaine, comme l’éducation, la santé ou la justice.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0093"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0124",
+    "groups": [
+      [
+        "senateur",
+        "senateurs"
+      ]
+    ],
+    "answer": "### 📘 Sénateur\n\nLe sénateur siège au Sénat.\n\n**À retenir :** Il participe au vote des lois.\n\n**Voir aussi :** Sénat.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0124"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0136",
+    "groups": [
+      [
+        "violence",
+        "violences"
+      ]
+    ],
+    "answer": "### 📘 Violence\n\nActe portant atteinte à une personne, physiquement, psychologiquement, sexuellement ou économiquement.\n\n**À retenir :** Toutes les formes de violence sont interdites.\n\n**Voir aussi :** Consentement.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0136"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0115",
+    "groups": [
+      [
+        "pyrenees"
+      ]
+    ],
+    "answer": "### 📘 Pyrénées\n\nChaîne de montagnes séparant la France et l'Espagne.\n\n**À retenir :** Elles forment une frontière naturelle.\n\n**Voir aussi :** Alpes.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0115"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0134",
+    "groups": [
+      [
+        "urgences"
+      ]
+    ],
+    "answer": "### 📘 Urgences\n\nSituation nécessitant une prise en charge médicale immédiate.\n\n**À retenir :** En cas d'urgence médicale, composez le 15.\n\n**Voir aussi :** SAMU; Hôpital.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0134"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0195",
+    "groups": [
+      [
+        "Génocide",
+        "genocide"
+      ]
+    ],
+    "answer": "### 📘 Génocide\n\nActes commis avec l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0195"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0147",
+    "groups": [
+      [
+        "Handicap",
+        "handicap"
+      ]
+    ],
+    "answer": "### 📘 Handicap\n\nLimitation d’activité ou difficulté de participation à la vie sociale liée notamment à une altération physique, sensorielle ou mentale.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0147"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0208",
+    "groups": [
+      [
+        "Majorité",
+        "majorite"
+      ]
+    ],
+    "answer": "### 📘 Majorité\n\nÂge à partir duquel une personne devient juridiquement adulte. Le mot désigne aussi le plus grand nombre de voix dans un vote.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0208"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0148",
+    "groups": [
+      [
+        "Mutuelle",
+        "mutuelle"
+      ]
+    ],
+    "answer": "### 📘 Mutuelle\n\nOrganisme de complémentaire santé qui peut prendre en charge une partie des dépenses restant après le remboursement de l’Assurance maladie.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0148"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0175",
+    "groups": [
+      [
+        "Religion",
+        "religion"
+      ]
+    ],
+    "answer": "### 📘 Religion\n\nEnsemble de croyances et de pratiques liées à une foi. Chacun est libre de croire, de changer de religion ou de ne pas croire.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0175"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0080",
+    "groups": [
+      [
+        "laicite",
+        "laicitee",
+        "laique",
+        "laic",
+        "separation des eglises et de l etat",
+        "laicites"
+      ]
+    ],
+    "answer": "### 📘 Laïcité\n\nLa **laïcité** permet à chacun de croire, de ne pas croire ou de changer de religion. L’État reste neutre à l’égard des religions. Chacun doit respecter la liberté des autres.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0080"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0049",
+    "groups": [
+      [
+        "egalite",
+        "egalites",
+        "egalite devant la loi"
+      ]
+    ],
+    "answer": "### 📘 Égalité\n\nL’**égalité** signifie que chacun a les mêmes droits devant la loi. Une personne ne doit pas être traitée moins bien en raison, par exemple, de son origine ou de sa religion.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0049"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0082",
+    "groups": [
+      [
+        "liberte",
+        "liberte d expression",
+        "libertes"
+      ]
+    ],
+    "answer": "### 📘 Liberté\n\nLa **liberté** permet de faire des choix et de s’exprimer. Elle s’exerce dans le respect de la loi et des droits des autres.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0082"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0019",
+    "groups": [
+      [
+        "citoyen",
+        "droit de vote",
+        "nationalite",
+        "citoyenne",
+        "citoyens",
+        "citoyennes"
+      ]
+    ],
+    "answer": "### 📘 Citoyen\n\nUn **citoyen** est une personne qui possède des droits civiques et des devoirs envers la société. Le vote est un exemple de droit civique.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0019"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0120",
+    "groups": [
+      [
+        "salaire",
+        "salaires",
+        "remuneration"
+      ]
+    ],
+    "answer": "### 📘 Salaire\n\nSomme versée par l'employeur en contrepartie du travail effectué.\n\n**À retenir :** Le salaire est indiqué sur la fiche de paie.\n\n**Voir aussi :** Employeur.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0120"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0077",
+    "groups": [
+      [
+        "justice",
+        "tribunal",
+        "tribunaux",
+        "justices"
+      ]
+    ],
+    "answer": "### 📘 Justice\n\nLa **justice** fait respecter les règles, règle les conflits et sanctionne les infractions. Elle protège aussi les droits des personnes.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0077"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0022",
+    "groups": [
+      [
+        "college",
+        "colleges"
+      ]
+    ],
+    "answer": "### 📘 Collège\n\nÉtablissement accueillant les élèves après l'école primaire.\n\n**À retenir :** Le collège est obligatoire.\n\n**Voir aussi :** Lycée.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0022"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0024",
+    "groups": [
+      [
+        "commune",
+        "communes"
+      ]
+    ],
+    "answer": "### 📘 Commune\n\nUne **commune** est une ville ou un village avec son administration locale. Le maire et le conseil municipal s’occupent des affaires de la commune.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0024"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0071",
+    "groups": [
+      [
+        "hopital",
+        "hopitals"
+      ]
+    ],
+    "answer": "### 📘 Hôpital\n\nÉtablissement de santé où sont assurés les soins médicaux et chirurgicaux.\n\n**À retenir :** Les hôpitaux publics accueillent tous les patients.\n\n**Voir aussi :** Urgences.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0071"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0091",
+    "groups": [
+      [
+        "mayotte",
+        "mayottes"
+      ]
+    ],
+    "answer": "### 📘 Mayotte\n\nDépartement et région d'outre-mer situé dans l'océan Indien.\n\n**À retenir :** Mayotte est le département le plus récent de la République française.\n\n**Voir aussi :** Outre-mer.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0091"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0186",
+    "groups": [
+      [
+        "Déchets",
+        "dechets"
+      ]
+    ],
+    "answer": "### 📘 Déchets\n\nObjets ou matières dont on se débarrasse. Il faut respecter les règles de collecte, de tri et de traitement.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0186"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0168",
+    "groups": [
+      [
+        "Divorce",
+        "divorce"
+      ]
+    ],
+    "answer": "### 📘 Divorce\n\nFin d’un mariage prononcée ou constatée selon une procédure légale.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0168"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0176",
+    "groups": [
+      [
+        "Opinion",
+        "opinion"
+      ]
+    ],
+    "answer": "### 📘 Opinion\n\nIdée ou point de vue personnel sur un sujet. La liberté d’opinion est protégée, dans le respect de la loi et des droits d’autrui.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0176"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0179",
+    "groups": [
+      [
+        "Plainte",
+        "plainte"
+      ]
+    ],
+    "answer": "### 📘 Plainte\n\nDémarche par laquelle une personne signale aux autorités une infraction dont elle estime être victime.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0179"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0174",
+    "groups": [
+      [
+        "Respect",
+        "respect"
+      ]
+    ],
+    "answer": "### 📘 Respect\n\nAttitude qui consiste à reconnaître la dignité et les droits d’autrui, même lorsque ses opinions diffèrent des nôtres.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0174"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T1_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0142",
+    "groups": [
+      [
+        "Salarié",
+        "salarie"
+      ]
+    ],
+    "answer": "### 📘 Salarié\n\nPersonne qui travaille pour un employeur dans le cadre d’un contrat de travail et reçoit un salaire.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0142"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0152",
+    "groups": [
+      [
+        "Secours",
+        "secours"
+      ]
+    ],
+    "answer": "### 📘 Secours\n\nAide apportée à une personne en danger ou en difficulté ; elle peut nécessiter de prévenir les services d’urgence.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0152"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0151",
+    "groups": [
+      [
+        "Urgence",
+        "urgence"
+      ]
+    ],
+    "answer": "### 📘 Urgence\n\nSituation qui nécessite une intervention rapide, notamment lorsqu’une vie ou la sécurité d’une personne est en danger.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0151"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0088",
+    "groups": [
+      [
+        "mairie",
+        "hotel de ville",
+        "mairies"
+      ]
+    ],
+    "answer": "### 📘 Mairie\n\nLa **mairie** est le lieu où travaillent les services de la commune. On peut y faire certaines démarches administratives.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0088"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0104",
+    "groups": [
+      [
+        "police",
+        "policier",
+        "policiers",
+        "polices"
+      ]
+    ],
+    "answer": "### 📘 Police\n\nForce civile chargée de protéger les personnes et de faire respecter la loi.\n\n**À retenir :** Elle intervient principalement dans les villes.\n\n**Voir aussi :** Gendarmerie.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0104"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0042",
+    "groups": [
+      [
+        "depute",
+        "deputes",
+        "deputee"
+      ]
+    ],
+    "answer": "### 📘 Député\n\nUn **député** est un représentant élu qui siège à l’Assemblée nationale. Il participe au vote des lois.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0042"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0068",
+    "groups": [
+      [
+        "guyane",
+        "guyanes"
+      ]
+    ],
+    "answer": "### 📘 Guyane\n\nDépartement et région d'outre-mer situé en Amérique du Sud.\n\n**À retenir :** La Guyane accueille le Centre spatial guyanais de Kourou et possède une vaste forêt amazonienne.\n\n**Voir aussi :** Outre-mer.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0068"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0106",
+    "groups": [
+      [
+        "prefet",
+        "prefets"
+      ]
+    ],
+    "answer": "### 📘 Préfet\n\nLe préfet représente l'État dans un département ou une région.\n\n**À retenir :** Il est nommé par le Gouvernement.\n\n**Attention à ne pas confondre :** Le préfet n'est pas élu.\n\n**Voir aussi :** État; Maire.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0106"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0117",
+    "groups": [
+      [
+        "region",
+        "regions"
+      ]
+    ],
+    "answer": "### 📘 Région\n\nLa région est une collectivité territoriale regroupant plusieurs départements.\n\n**À retenir :** La France compte 18 régions.\n\n**Voir aussi :** Département.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0117"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0128",
+    "groups": [
+      [
+        "surete",
+        "suretes"
+      ]
+    ],
+    "answer": "### 📘 Sûreté\n\nDroit d'être protégé contre les arrestations arbitraires et de bénéficier d'un procès équitable.\n\n**À retenir :** La justice protège les libertés individuelles.\n\n**Voir aussi :** Présomption d'innocence; Justice.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0128"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0132",
+    "groups": [
+      [
+        "unesco",
+        "unescos"
+      ]
+    ],
+    "answer": "### 📘 UNESCO\n\nOrganisation des Nations unies chargée notamment de protéger le patrimoine mondial.\n\n**À retenir :** Plusieurs sites français sont inscrits au patrimoine mondial de l'UNESCO.\n\n**Voir aussi :** Patrimoine.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0132"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0014",
+    "groups": [
+      [
+        "celtes"
+      ]
+    ],
+    "answer": "### 📘 Celtes\n\nPeuples installés en Gaule avant la conquête romaine.\n\n**À retenir :** Les Gaulois étaient des peuples celtes.\n\n**Voir aussi :** Gaule.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0014"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0021",
+    "groups": [
+      [
+        "clovis"
+      ]
+    ],
+    "answer": "### 📘 Clovis\n\nPremier roi des Francs à s'être converti au christianisme.\n\n**À retenir :** Son règne marque le début de la dynastie mérovingienne.\n\n**Voir aussi :** Charlemagne.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0021"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0178",
+    "groups": [
+      [
+        "Amende",
+        "amende"
+      ]
+    ],
+    "answer": "### 📘 Amende\n\nSomme d’argent qu’une personne doit payer lorsqu’une sanction pécuniaire est prononcée à son encontre.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0178"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0181",
+    "groups": [
+      [
+        "Avocat",
+        "avocat"
+      ]
+    ],
+    "answer": "### 📘 Avocat\n\nProfessionnel du droit qui conseille une personne, défend ses intérêts et peut la représenter devant la justice.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0181"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0209",
+    "groups": [
+      [
+        "Devoir",
+        "devoir"
+      ]
+    ],
+    "answer": "### 📘 Devoir\n\nObligation à respecter pour vivre dans la société, notamment respecter la loi et les droits d’autrui.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0209"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0202",
+    "groups": [
+      [
+        "Fleuve",
+        "fleuve"
+      ]
+    ],
+    "answer": "### 📘 Fleuve\n\nCours d’eau qui se jette dans la mer ou dans l’océan.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0202"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0154",
+    "groups": [
+      [
+        "Mandat",
+        "mandat"
+      ]
+    ],
+    "answer": "### 📘 Mandat\n\nMission confiée à une personne, notamment à un élu, pour une durée déterminée.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0154"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0073",
+    "groups": [
+      [
+        "impot",
+        "services publics",
+        "impots",
+        "taxes"
+      ]
+    ],
+    "answer": "### 📘 Impôt\n\nL’**impôt** est une somme payée pour financer les dépenses publiques, par exemple les écoles et les services publics.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0073"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0086",
+    "groups": [
+      [
+        "lycee",
+        "baccalaureat",
+        "lycees"
+      ]
+    ],
+    "answer": "### 📘 Lycée\n\nÉtablissement préparant les élèves au baccalauréat ou à une formation professionnelle.\n\n**À retenir :** Il existe des lycées généraux, technologiques et professionnels.\n\n**Voir aussi :** Baccalauréat.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0086"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0064",
+    "groups": [
+      [
+        "gaule",
+        "jules cesar",
+        "gaules"
+      ]
+    ],
+    "answer": "### 📘 Gaule\n\nNom donné au territoire de la France actuelle avant la conquête romaine.\n\n**À retenir :** La Gaule était peuplée de peuples celtes.\n\n**Voir aussi :** Celtes; Vercingétorix; Jules César.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0064"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0037",
+    "groups": [
+      [
+        "crime",
+        "crimes"
+      ]
+    ],
+    "answer": "### 📘 Crime\n\nInfraction la plus grave prévue par la loi.\n\n**À retenir :** Les crimes sont jugés par une cour d'assises.\n\n**Voir aussi :** Délit.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0037"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0039",
+    "groups": [
+      [
+        "delit",
+        "delits"
+      ]
+    ],
+    "answer": "### 📘 Délit\n\nInfraction plus grave qu'une contravention.\n\n**À retenir :** Il peut être puni d'une peine de prison.\n\n**Voir aussi :** Crime.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0039"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0048",
+    "groups": [
+      [
+        "ecole",
+        "ecoles"
+      ]
+    ],
+    "answer": "### 📘 École\n\nÉtablissement où les enfants reçoivent un enseignement.\n\n**À retenir :** L'instruction est obligatoire de 3 à 16 ans.\n\n**Voir aussi :** Collège; Lycée.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0048"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0087",
+    "groups": [
+      [
+        "maire",
+        "maires"
+      ]
+    ],
+    "answer": "### 📘 Maire\n\nLe **maire** dirige la commune avec le conseil municipal. Il intervient dans les affaires locales.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0087"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0122",
+    "groups": [
+      [
+        "seine",
+        "seines"
+      ]
+    ],
+    "answer": "### 📘 Seine\n\nFleuve qui traverse notamment Paris avant de se jeter dans la Manche.\n\n**À retenir :** La Seine est l'un des principaux fleuves français.\n\n**Voir aussi :** Loire; Rhône.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0122"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0123",
+    "groups": [
+      [
+        "senat",
+        "senas",
+        "senats"
+      ]
+    ],
+    "answer": "### 📘 Sénat\n\nLe **Sénat** est l’autre partie du Parlement, avec l’Assemblée nationale. Les **sénateurs** y examinent et votent les lois.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0123"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0002",
+    "groups": [
+      [
+        "alpes"
+      ]
+    ],
+    "answer": "### 📘 Alpes\n\nMassif montagneux situé à l'est de la France.\n\n**À retenir :** Le Mont Blanc est le plus haut sommet d'Europe occidentale.\n\n**Voir aussi :** Pyrénées.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0002"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0146",
+    "groups": [
+      [
+        "Grève",
+        "greve"
+      ]
+    ],
+    "answer": "### 📘 Grève\n\nArrêt collectif du travail destiné à défendre des revendications professionnelles. Ce droit s’exerce dans un cadre légal.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0146"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0194",
+    "groups": [
+      [
+        "Shoah",
+        "shoah"
+      ]
+    ],
+    "answer": "### 📘 Shoah\n\nGénocide des Juifs d’Europe perpétré par les nazis et leurs complices pendant la Seconde Guerre mondiale.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0194"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0138",
+    "groups": [
+      [
+        "SMIC",
+        "smic",
+        "smik",
+        "salaire minimum",
+        "salaire minimum interprofessionnel de croissance"
+      ]
+    ],
+    "answer": "### 📘 SMIC\n\nSalaire minimum légal : un employeur doit respecter ce minimum pour rémunérer le travail de son salarié.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0138"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0007",
+    "groups": [
+      [
+        "bail",
+        "logement",
+        "baux",
+        "contrat de location"
+      ]
+    ],
+    "answer": "### 📘 Bail\n\nUn **bail** est un contrat entre le propriétaire d’un logement et la personne qui le loue. Il précise les conditions de la location.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0007"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0137",
+    "groups": [
+      [
+        "vote",
+        "voter",
+        "votes"
+      ]
+    ],
+    "answer": "### 📘 Vote\n\nAction qui consiste à choisir un candidat ou répondre à une question lors d'un référendum.\n\n**À retenir :** Le vote est un droit civique.\n\n**Voir aussi :** Élection.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0137"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0036",
+    "groups": [
+      [
+        "cpam"
+      ]
+    ],
+    "answer": "### 📘 CPAM\n\nLa Caisse primaire d'assurance maladie gère l'Assurance maladie dans chaque département.\n\n**À retenir :** Elle accompagne les assurés dans leurs démarches de santé.\n\n**Voir aussi :** Carte Vitale; Assurance maladie.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0036"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0054",
+    "groups": [
+      [
+        "etat"
+      ]
+    ],
+    "answer": "### 📘 État\n\nL'État est l'organisation politique qui exerce son autorité sur le territoire français et garantit le respect des lois.\n\n**À retenir :** L'État assure les services publics et protège les citoyens.\n\n**Voir aussi :** République; Gouvernement; Préfet.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0054"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0055",
+    "groups": [
+      [
+        "euro"
+      ]
+    ],
+    "answer": "### 📘 Euro\n\nMonnaie utilisée par plusieurs pays de l'Union européenne.\n\n**À retenir :** L'euro est la monnaie officielle de la France.\n\n**Voir aussi :** Union européenne.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0055"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0205",
+    "groups": [
+      [
+        "CECA",
+        "ceca"
+      ]
+    ],
+    "answer": "### 📘 CECA\n\nCommunauté européenne du charbon et de l’acier : projet de coopération européen qui a précédé l’Union européenne.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0205"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0204",
+    "groups": [
+      [
+        "DROM",
+        "drom"
+      ]
+    ],
+    "answer": "### 📘 DROM\n\nDépartements et régions d’outre-mer : territoires français ayant ce statut administratif.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0204"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T4_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0180",
+    "groups": [
+      [
+        "Juge",
+        "juge"
+      ]
+    ],
+    "answer": "### 📘 Juge\n\nProfessionnel de la justice qui applique la loi et rend des décisions pour trancher des litiges ou juger des infractions.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0180"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T2_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0182",
+    "groups": [
+      [
+        "Juré",
+        "jure"
+      ]
+    ],
+    "answer": "### 📘 Juré\n\nCitoyen appelé à participer à un jury et à juger certaines affaires aux côtés de magistrats.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0182"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0153",
+    "groups": [
+      [
+        "SAMU",
+        "samu"
+      ]
+    ],
+    "answer": "### 📘 SAMU\n\nService d’aide médicale urgente : il organise la réponse médicale aux urgences et oriente vers les soins adaptés.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0153"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0013",
+    "groups": [
+      [
+        "cdi",
+        "contrat a duree indeterminee"
+      ]
+    ],
+    "answer": "### 📘 CDI\n\nUn **CDI** est un contrat de travail sans date de fin prévue à l’avance.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0013"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0012",
+    "groups": [
+      [
+        "cdd",
+        "contrat a duree determinee"
+      ]
+    ],
+    "answer": "### 📘 CDD\n\nUn **CDD** est un contrat de travail prévu pour une durée déterminée. Il a une fin prévue selon les conditions du contrat.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0012"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0003",
+    "groups": [
+      [
+        "apl",
+        "aide au logement"
+      ]
+    ],
+    "answer": "### 📘 APL\n\nAide personnalisée au logement versée sous certaines conditions.\n\n**À retenir :** Elle permet de réduire le montant du loyer.\n\n**Voir aussi :** CAF.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0003"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0009",
+    "groups": [
+      [
+        "caf"
+      ]
+    ],
+    "answer": "### 📘 CAF\n\nLa **CAF**, ou Caisse d’allocations familiales, verse certaines aides selon la situation des personnes et des familles.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0009"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T5_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0085",
+    "groups": [
+      [
+        "loi"
+      ]
+    ],
+    "answer": "### 📘 Loi\n\nUne **loi** est une règle votée par le Parlement. Elle fixe ce qui est autorisé, obligatoire ou interdit.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0085"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "SCR_QL_GLO0185",
+    "groups": [
+      [
+        "IVG"
+      ]
+    ],
+    "answer": "### 📘 IVG\n\nInterruption volontaire de grossesse : démarche permettant de mettre fin à une grossesse dans le cadre prévu par la loi.",
+    "links": [
+      [
+        "📖 Voir la fiche du glossaire",
+        "SCR_GLO_0185"
+      ],
+      [
+        "📚 Approfondir cette thématique",
+        "SCR_REV_T3_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_CONSEILS",
+    "groups": [
+      [
+        "conseil",
+        "conseils",
+        "mieux reussir",
+        "ameliorer mes resultats",
+        "progresser"
+      ]
+    ],
+    "answer": "Choisissez une méthode adaptée à votre besoin : mémoriser, répondre aux QCM, analyser les mises en situation ou organiser vos révisions.",
+    "links": [
+      [
+        "💡 Consulter les conseils",
+        "SCR_CONS_MENU"
+      ]
+    ]
+  },
+  {
+    "id": "INTENT_REVISIONS",
+    "groups": [
+      [
+        "reviser",
+        "revision",
+        "revisions",
+        "cours"
+      ]
+    ],
+    "answer": "Choisissez une thématique de révision. Vous pourrez ensuite passer aux questions et aux mises en situation de votre examen.",
+    "links": [
+      [
+        "📚 Commencer mes révisions",
+        "SCR_REV_MENU"
+      ]
+    ]
+  }
+]

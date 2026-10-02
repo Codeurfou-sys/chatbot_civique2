@@ -52,7 +52,7 @@ def generate():
       explanation=m.clean(r['Feedback pédagogique'] if sit else r['Explication pédagogique'])
       add(id+'_'+suffix,vars+('### ✅ Bonne réponse' if suffix=='VRAI' else '### ❌ Réponse incorrecte')+f'\n\n**Réponse correcte : {correct} — {m.clean(r["Réponse "+correct])}**\n\n{explanation}\n\n'+link('➡️ Question suivante' if num<n else '📊 Voir mes résultats',nxt),parent)
     counts=Counter(int(r['N° thématique']) for r,s in rows);nq=sum(not s for r,s in rows);ns=n-nq
-    body=f'### 📊 Vos résultats\n\n**Score : `@score` / {n}**\n\n`@ent_pct = calc(round(@score/{n}*1000)/10)`\n\n'
+    body=f'### 📊 Vos résultats\n\n**Score : `@score` / {n}**\n\n`@ent_pct = calc(Math.round(@score/{n}*1000)/10)`\n\n'
     # Barres pré-calculées : une seule s'affiche selon le score réel.
     visual='### 📈 Votre réussite\n\n'
     for score in range(n+1):

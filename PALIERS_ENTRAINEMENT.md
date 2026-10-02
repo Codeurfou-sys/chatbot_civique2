@@ -1,6 +1,6 @@
-# Paliers ludiques des entraînements
+# Rôles de progression dans les entraînements
 
-Les paliers sont affichés dans les séries de 10 questions sur une seule thématique. Les séries toutes thématiques et les séries complètes proposent des conseils ciblés par thème sans attribuer un palier sur seulement deux ou trois réponses.
+Dans les séries de 10 questions d’une seule thématique, le résultat affiche « Vous avez atteint le rôle de… », suivi d’une appréciation centrée sur la thématique et d’une méthode pour progresser.
 
 | Thématique | 0–1/10 | 2–3/10 | 4–5/10 | 6–7/10 | 8–9/10 | 10/10 |
 |---|---|---|---|---|---|---|
@@ -12,47 +12,47 @@ Les paliers sont affichés dans les séries de 10 questions sur une seule théma
 
 ## Principes et valeurs
 
-- **🕯️ Éclaireur des valeurs** : Votre lanterne est allumée : il reste à éclairer les valeurs derrière chaque situation.
-- **🧭 Explorateur des principes** : Vous avancez avec votre boussole : entraînez-vous à reconnaître la valeur qui donne la bonne direction.
-- **🤝 Artisan du respect** : Votre atelier prend forme : assemblez les principes et les bons réflexes pour que chacun trouve sa place.
-- **🕊️ Ambassadeur du vivre-ensemble** : Vous savez ouvrir le dialogue : quelques repères supplémentaires vous aideront à défendre votre choix.
-- **⚖️ Gardien des valeurs** : Vous veillez sur les valeurs communes : vérifiez les derniers détails pour ne rien laisser passer.
-- **🌟 Porte-parole des valeurs** : Vous avez trouvé les mots et les principes justes sur cette série : faites-les vivre dans de nouveaux exemples.
+- **🕯️ Éclaireur des valeurs** : Vous commencez à identifier les valeurs de la République. Reprenez la liberté, l’égalité, la fraternité et la laïcité à partir d’exemples concrets.
+- **🧭 Explorateur des principes** : Vous avez reconnu certaines valeurs dans cette série. Entraînez-vous maintenant à distinguer une opinion personnelle d’un principe commun.
+- **🤝 Artisan du respect** : Vous disposez de premiers repères sur les valeurs. Pour chaque choix, expliquez comment il respecte la liberté, l’égalité ou la laïcité.
+- **🕊️ Ambassadeur du vivre-ensemble** : Vous reconnaissez plusieurs principes dans cette série. Travaillez les situations où deux réponses semblent proches, en identifiant la valeur à respecter.
+- **⚖️ Gardien des valeurs** : Vous avez bien identifié les valeurs dans la plupart des situations. Analysez les dernières erreurs pour préciser votre raisonnement.
+- **🌟 Porte-parole des valeurs** : Vous avez identifié les valeurs attendues dans toutes les réponses de cette série. Vérifiez ces acquis avec de nouvelles situations.
 
 ## Institutions et système politique
 
-- **🗺️ Explorateur de la cité** : Vous entrez dans la cité : commencez par repérer les institutions et leurs missions.
-- **🏛️ Visiteur des institutions** : Les portes des institutions s’ouvrent : découvrez qui fait quoi derrière chacune d’elles.
-- **🧩 Décrypteur des pouvoirs** : Les pièces du puzzle se rassemblent : reliez chaque pouvoir à l’institution qui l’exerce.
-- **🗳️ Observateur de la démocratie** : Vous suivez le fonctionnement démocratique : affinez vos repères sur les décisions et les représentants.
-- **📜 Guide des institutions** : Vous connaissez les couloirs des institutions : quelques détours méritent encore une visite.
-- **🌟 Ambassadeur de la démocratie** : Vous avez bien décodé les institutions sur cette série : explorez maintenant de nouvelles questions.
+- **🗺️ Explorateur de la cité** : Vous découvrez les rôles des institutions. Commencez par distinguer le Gouvernement, le Parlement et le président de la République.
+- **🏛️ Visiteur des institutions** : Vous avez identifié certaines institutions. Associez chacune d’elles à une action : proposer une loi, la voter ou l’appliquer.
+- **🧩 Décrypteur des pouvoirs** : Vos repères institutionnels se développent. Distinguez les pouvoirs exécutif, législatif et judiciaire à partir des corrections.
+- **🗳️ Observateur de la démocratie** : Vous comprenez plusieurs rôles institutionnels dans cette série. Précisez qui décide au niveau communal, national et européen.
+- **📜 Guide des institutions** : Vous avez bien distingué la plupart des institutions. Reprenez les fonctions ou les niveaux de décision qui ont entraîné une erreur.
+- **🌟 Ambassadeur de la démocratie** : Vous avez correctement identifié les institutions sur cette série. Confirmez votre compréhension sur de nouveaux exemples.
 
 ## Droits et devoirs
 
-- **🔎 Chercheur de repères** : Votre enquête commence : cherchez le droit et le devoir cachés dans chaque situation.
-- **📖 Lecteur des règles** : Vous ouvrez le livre des règles : reliez chaque principe à un exemple concret.
-- **⚖️ Apprenti défenseur des droits** : Votre argumentaire se construit : vérifiez comment les droits et les obligations s’articulent.
-- **🤝 Médiateur du quotidien** : Vous trouvez des solutions équilibrées : prenez encore le temps de vérifier la règle applicable.
-- **🛡️ Gardien des droits et devoirs** : Vous veillez au respect des droits : consolidez les quelques points qui vous ont échappé.
-- **🌟 Ambassadeur de la citoyenneté** : Votre boussole citoyenne a bien fonctionné sur cette série : testez-la sur de nouveaux cas.
+- **🔎 Chercheur de repères** : Vous commencez à repérer les droits et les devoirs. Reprenez un droit et une obligation dans chaque correction.
+- **📖 Lecteur des règles** : Vous avez reconnu certaines règles. Distinguez ce qui est autorisé, obligatoire et interdit dans les exemples proposés.
+- **⚖️ Apprenti défenseur des droits** : Vous avez des repères sur les droits et les obligations. Reliez chaque règle à la protection des personnes ou au respect de la loi.
+- **🤝 Médiateur du quotidien** : Vous avez identifié plusieurs réponses adaptées dans cette série. Vérifiez quel droit protège la personne et quel devoir guide l’action.
+- **🛡️ Gardien des droits et devoirs** : Vous avez bien appliqué les règles dans la plupart des cas. Analysez les erreurs pour distinguer les réponses proches.
+- **🌟 Ambassadeur de la citoyenneté** : Vous avez respecté les droits et les devoirs dans tous les choix de cette série. Confirmez ce résultat dans d’autres situations.
 
 ## Histoire, géographie et culture
 
-- **🎨 Explorateur des traces du passé** : Les traces du passé vous intriguent : commencez à relier les indices pour raconter leur histoire.
-- **🏺 Archéologue en herbe** : Vous avez sorti le pinceau de l’archéologue : dépoussiérez les dates, les lieux et les personnages.
-- **📜 Gardien des chroniques** : Vos chroniques prennent forme : rangez les événements dans le bon ordre et situez-les sur la carte.
-- **🧭 Voyageur des siècles** : Vous voyagez d’une époque à l’autre : quelques escales vous aideront à mieux comprendre les liens entre les événements.
-- **🏛️ Guide du patrimoine** : Vous pouvez déjà guider la visite : révisez les derniers détails pour enrichir votre récit.
-- **🌟 Passeur d’histoire et de culture** : Vous avez relié les lieux, les événements et la culture sur cette série : ouvrez un nouveau chapitre.
+- **🎨 Explorateur des traces du passé** : Vous commencez à relier les repères historiques, géographiques et culturels. Classez les événements rencontrés et situez les lieux cités.
+- **🏺 Archéologue en herbe** : Vous avez identifié certains repères. Associez chaque personnage à son époque et chaque lieu à sa position sur une carte.
+- **📜 Gardien des chroniques** : Vos repères prennent forme. Construisez une courte frise chronologique et notez les éléments culturels rencontrés dans les corrections.
+- **🧭 Voyageur des siècles** : Vous avez relié plusieurs événements et lieux dans cette série. Travaillez les liens entre une date, un événement et son contexte.
+- **🏛️ Guide du patrimoine** : Vous avez bien reconnu la plupart des repères. Revoyez les dates, les lieux ou les éléments du patrimoine qui vous ont fait hésiter.
+- **🌟 Passeur d’histoire et de culture** : Vous avez correctement mobilisé les repères historiques, géographiques et culturels de cette série. Vérifiez-les avec de nouvelles questions.
 
 ## Vivre dans la société française
 
-- **🚪 Explorateur du quotidien** : Vous ouvrez la porte du quotidien : découvrez les bons interlocuteurs et les démarches utiles.
-- **🗺️ Chercheur de bonnes adresses** : Votre carnet d’adresses se remplit : apprenez à choisir le bon service selon le besoin.
-- **🤝 Voisin solidaire** : Vous avez le réflexe d’aider : complétez vos repères pour proposer une réponse adaptée.
-- **🧰 Guide des démarches** : Votre boîte à outils s’enrichit : vérifiez les démarches et les règles avant de conseiller quelqu’un.
-- **🌍 Acteur du vivre-ensemble** : Vous savez agir avec les autres : consolidez les quelques situations qui vous font encore hésiter.
-- **🌟 Ambassadeur de la vie en société** : Vous avez trouvé les bons réflexes sur cette série : mettez-les à l’épreuve dans de nouveaux exemples.
+- **🚪 Explorateur du quotidien** : Vous découvrez les repères de la vie quotidienne. Identifiez les services utiles pour la santé, l’école, le logement et le travail.
+- **🗺️ Chercheur de bonnes adresses** : Vous avez reconnu certains interlocuteurs. Pour chaque besoin, cherchez le service ou la démarche adaptée.
+- **🤝 Voisin solidaire** : Vos repères du quotidien se développent. Distinguez le rôle des services publics et les obligations de chacun.
+- **🧰 Guide des démarches** : Vous avez identifié plusieurs démarches adaptées dans cette série. Vérifiez l’interlocuteur et les règles avant de choisir une réponse.
+- **🌍 Acteur du vivre-ensemble** : Vous avez trouvé la plupart des bons réflexes du quotidien. Reprenez les démarches ou les situations qui vous ont fait hésiter.
+- **🌟 Ambassadeur de la vie en société** : Vous avez choisi les réponses adaptées dans toutes les situations de cette série. Confirmez ces réflexes sur de nouveaux exemples.
 
-Les objectifs proposés sont 6/10, puis 8/10 à deux reprises sur des séries différentes, puis 10/10. Ce sont des conseils : le chatbot ne conserve pas un historique des tentatives.
+Les objectifs proposés restent 6/10, puis 8/10 à deux reprises sur des séries différentes, puis 10/10. Le chatbot propose ces objectifs sans conserver l’historique des tentatives.

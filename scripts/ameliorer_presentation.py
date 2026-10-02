@@ -17,7 +17,10 @@ def presentation(text):
     return m[1]+'['+pictogram(asset,'')+' '+clean+']('+target+')'
   if target=='SCR_PASS_REGION_GRAND_EST':return m[1]+'['+pictogram('cigogne','')+' Grand Est]('+target+')'
   if target=='SCR_PASS_REGION_AUVERGNE':return m[1]+'[🌋 Auvergne]('+target+')'
-  if '<img ' in label or (label and ord(label[0])>8000):return m[0]
+  if re.fullmatch(r'SCR_ENT_(CSP|CR|NAT)_T[1-5]_(Q|MIS)_LAUNCH',target):
+   for title in ['Principes et valeurs','Institutions et système politique','Droits et devoirs','Histoire, géographie et culture','Vivre dans la société française']:
+    if title in label:return m[1]+'['+('📘' if '_Q_LAUNCH' in target else '🎭')+' '+label[label.index(title):]+']('+target+')'
+  if '<span ' in label or '<img ' in label or (label and ord(label[0])>8000):return m[0]
   if target.startswith(('ENT_','EXAM_','BIL_')) and target.endswith(('_VRAI','_FAUX')):symbol='🔘'
   elif 'RETOUR' in target or label.lower().startswith('retour'):symbol='↩️'
   elif 'MIS' in target:symbol='🎭'
@@ -40,7 +43,7 @@ def main():
   /* Présentation NovaFrate : boutons, cartes et accessibilité clavier */
   .messageOptions { padding-left: 0 !important; display: flex; flex-direction: column; align-items: flex-start; gap: 10px; }
   .messageOptions li { list-style: none; margin: 0 !important; }
-  .messageOptions a, button, .button, a.btn {
+  .messageOptions a, .button, a.btn {
     display: inline-block; background: #fff !important; border: 1px solid #d8a9b4 !important;
     border-radius: 14px !important; padding: 12px 18px !important; line-height: 1.45;
     box-shadow: 0 3px 10px rgba(100,30,50,.08) !important; text-decoration: none !important;
@@ -48,6 +51,23 @@ def main():
   }
   .messageOptions a:hover { background: #fff5f7 !important; box-shadow: 0 5px 14px rgba(100,30,50,.16) !important; }
   .messageOptions a:focus-visible, button:focus-visible { outline: 3px solid #a61c3c !important; outline-offset: 3px; }
+  /* Le bouton d'envoi garde sa propre géométrie, distincte des choix. */
+  #controls { align-items: flex-start !important; flex-direction: row !important;
+    gap: 10px !important; box-sizing: border-box; padding-left: 10px !important; padding-right: 10px !important; }
+  #input-container { box-sizing: border-box; min-height: 42px; min-width: 0; flex: 1 1 auto; width: auto !important; }
+  #send-button {
+    box-sizing: border-box !important; display: inline-flex !important;
+    align-items: center !important; justify-content: center !important;
+    height: 42px !important; min-height: 42px !important; padding: 0 14px !important;
+    line-height: 1.2 !important; margin: 0 !important; flex: 0 0 auto;
+    white-space: nowrap; border-radius: 12px !important;
+  }
+  .message:has(.civicoach-route) { display: none !important; }
+  .glo-keyboard { display: grid; grid-template-columns: repeat(7, minmax(30px, 1fr)); gap: 8px; max-width: 400px; margin: 14px 0; }
+  .glo-key { display: inline-flex; align-items: center; justify-content: center; min-height: 40px; border: 1px solid #a61c3c; border-radius: 8px; background: #fff; text-decoration: none; font-weight: bold; }
+  .glo-key.disabled { color: #7b7b7b; background: #eee; border-color: #ddd; }
+  .glo-key:focus-visible { outline: 3px solid #a61c3c; outline-offset: 3px; }
+  .deadline-orange { display: inline-block; width: 14px; height: 14px; background: #c65d00; border-radius: 50%; vertical-align: middle; margin-right: 5px; }
   .civic-icon { vertical-align: middle; object-fit: contain; margin-right: 5px; }
   #chat h3 { margin-top: 24px; margin-bottom: 14px; line-height: 1.4; }
   #chat p { line-height: 1.65; }

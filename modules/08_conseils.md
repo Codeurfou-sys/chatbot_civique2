@@ -22,6 +22,12 @@ Choisissez le conseil qui correspond à votre besoin du moment. Chaque rubrique 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 
+
+
+
+
+
+
 ## SCR_CONS_GUIDE_MENU
 ### 🌟 Bien démarrer
 
@@ -48,6 +54,12 @@ Une préparation efficace repose sur trois habitudes :
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
+
+
+
+
+
 
 
 ## SCR_CONS_PARCOURS_MENU
@@ -79,6 +91,12 @@ Priorisez les thèmes faibles repérés dans votre bilan. Faites des séries cou
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
+
+
+
+
 ## SCR_CONS_MEMOIRE_MENU
 ### 🧠 Mémoriser efficacement
 
@@ -107,6 +125,12 @@ Suivez les étapes dans l’ordre. Chaque partie contient une explication courte
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
+
+
+
+
 ## SCR_CONS_MEMOIRE_01
 ### 🧠 Les secrets de la mémoire
 
@@ -130,6 +154,12 @@ Oublier ne signifie pas que vous avez une mauvaise mémoire. Chaque fois que vou
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+
+
+
 
 ## SCR_CONS_MEMOIRE_02
 ### 🌫️ Pourquoi oublie-t-on ?
@@ -160,6 +190,12 @@ L’objectif n’est pas de tout apprendre en une seule fois, mais de **consolid
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
+
+
+
+
 ## SCR_CONS_MEMOIRE_03
 ### 💡 Secret n°1 : comprendre avant de mémoriser
 
@@ -187,6 +223,12 @@ Après avoir lu une notion, fermez le cours et expliquez-la avec vos propres mot
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+
+
+
 
 ## SCR_CONS_MEMOIRE_04
 ### 🔁 Secret n°2 : réviser plusieurs fois
@@ -216,6 +258,12 @@ Notez la prochaine date de révision dans votre téléphone ou votre agenda. Que
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+
+
+
 
 ## SCR_CONS_MEMOIRE_05
 ### 🎯 Secret n°3 : se tester régulièrement
@@ -247,6 +295,12 @@ Après une erreur :
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
+
+
+
+
 ## SCR_CONS_MEMOIRE_06
 ### 🔗 Secret n°4 : faire des liens
 
@@ -275,6 +329,12 @@ Au lieu de retenir seulement « 1789 », vous retenez un ensemble logique.
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+
+
+
 
 ## SCR_CONS_MEMOIRE_07
 ### ⏱️ Secret n°5 : apprendre par petites séances
@@ -305,6 +365,12 @@ Faites ensuite une courte pause avant de commencer une nouvelle séance.
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
+
+
+
+
 ## SCR_CONS_MEMOIRE_08
 ### 😴 Secret n°6 : dormir pour consolider
 
@@ -328,6 +394,12 @@ Le sommeil ne remplace pas les révisions : il aide votre cerveau à stabiliser 
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+
+
+
 
 ## SCR_CONS_MEMOIRE_09
 ### 📌 La méthode complète à retenir
@@ -361,6 +433,12 @@ La mémoire n’est pas une question de chance : elle s’améliore grâce à un
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
+
+
+
+
 ## SCR_CONS_MNEMO_MENU
 ### 🧩 Utiliser des moyens mnémotechniques
 
@@ -386,6 +464,12 @@ Associez une date à une scène, une institution à un lieu ou une liste à une 
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+
+
+
 
 ## SCR_CONS_QCM_MENU
 ### ✅ Réussir les QCM
@@ -415,6 +499,12 @@ Vous disposez d’un peu plus d’une minute par question. Si vous hésitez, res
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
+
+
+
+
 ## SCR_CONS_SITUATIONS_MENU
 ### 🎭 Réussir les mises en situation
 
@@ -441,6 +531,12 @@ Si une situation concerne une discrimination, demandez-vous quelle réponse prot
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
+
+
+
+
 ## SCR_CONS_ERREURS_MENU
 ### ⚠️ Éviter les erreurs fréquentes
 
@@ -465,6 +561,12 @@ Une erreur corrigée vous indique exactement ce que vous devez retravailler. L�
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+
+
+
 
 ## SCR_CONS_ENTRETIEN_MENU
 ### 👤 Préparer l’entretien de naturalisation
@@ -493,4 +595,10 @@ Ne récitez pas un texte appris par cœur et n’inventez pas une réponse. Une 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+
+
+
 

@@ -1,10 +1,7 @@
 ## MENU_PRINCIPAL
 
-### 🇫🇷 Coach Civique NovaFrate
+### C’est CiviCoach, je suis de retour, que souhaitez-vous faire ?
 
-👋 Vous êtes de retour sur le menu principal.
-
-### Que souhaitez-vous faire ?
 
 1. [🧭 Faire mon bilan](SCR_BIL_MENU)
 2. [📚 Commencer mes révisions](SCR_REV_MENU)

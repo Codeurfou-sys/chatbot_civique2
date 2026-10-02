@@ -38,6 +38,8 @@ required = {
 absent = sorted(required - set(screen_ids))
 
 errors = []
+if "Poser une question" in Path("modules/02_bilan.md").read_text():
+    errors.append("Les bilans ne doivent pas proposer Poser une question")
 if duplicates:
     errors.append(f"Identifiants en double : {duplicates[:20]}")
 if missing:
@@ -46,7 +48,7 @@ if absent:
     errors.append(f"Écrans essentiels absents : {absent}")
 if "@{screen_id_faq}" in text:
     errors.append("Ancienne destination dynamique non résolue dans la FAQ")
-if text.count("❓ Poser une question") < 18000:
+if text.count("❓ Poser une question") < 17000:
     errors.append("Accès global aux questions libres incomplet hors examen blanc")
 if "❓ Poser une question" in Path("modules/05_preparer_examen.md").read_text(encoding="utf-8"):
     errors.append("Le bouton Poser une question doit être absent de l'examen blanc")

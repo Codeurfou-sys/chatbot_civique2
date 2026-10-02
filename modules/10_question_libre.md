@@ -1,5 +1,4 @@
-<!-- Module Question libre — version autonome et déterministe -->
-<!-- Les réponses proviennent exclusivement du glossaire et des modules validés. -->
+<!-- Module Question libre — réponses validées et intentions, sans IA générative -->
 
 ## SCR_QL_MENU
 ### Posez votre question
@@ -18,7 +17,9 @@ Je peux vous donner une explication simple et rapide sur une notion du programme
 1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
 
+
 ## SCR_QL_RESET
+`@qlReponse = undefined`
 `@qlQuestion = undefined`
 `@qlNormalisee = undefined`
 `@qlTrouvee = undefined`
@@ -32,1496 +33,4162 @@ Je peux vous donner une explication simple et rapide sur une notion du programme
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
 ## SCR_QL_INPUT
 ### Que souhaitez-vous savoir ?
 
-Écrivez une question courte, par exemple : « Peux-tu expliquer la laïcité ? », « Combien faut-il de bonnes réponses ? » ou « Comment mieux mémoriser ? ».
+Écrivez votre question avec vos mots, par exemple : « Je ne comprends pas ce qu’est le gouvernement », « Comment mieux retenir les connaissances ? » ou « Comment réussir les mises en situation ? ».
 
 `@qlQuestion = @INPUT : Écrivez votre question`
 
 `if @qlQuestion`
-`@qlNormalisee = calc(@qlQuestion.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim())`
+`@qlNormalisee = calc(" "+normalizeText(@qlQuestion).replaceAll("œ","oe").replaceAll("æ","ae").replaceAll("«"," ").replaceAll("»"," ").replaceAll("’"," ").replaceAll("'"," ").replaceAll("-"," ").replaceAll("."," ").replaceAll("?"," ").replaceAll(","," ").replaceAll("!"," ").replaceAll(":"," ").replaceAll(";"," ").replaceAll("/"," ").replaceAll("("," ").replaceAll(")"," ").replaceAll("["," ").replaceAll("]"," ").replaceAll("\n"," ").replaceAll("\r"," ").replaceAll("\t"," ").replaceAll(" "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").trim()+" ")`
 `@qlTrouvee = false`
+`@qlReponse = undefined`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("contrat d engagement a respecter les principes de la republique"))`
-J’ai trouvé une notion correspondant à votre question : **Contrat d'engagement à respecter les principes de la République**.
+<!-- Réponse : INTENT_GOUVERNEMENT_PARLEMENT -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" gouvernement ") || @qlNormalisee.includes(" gouv ")) && (@qlNormalisee.includes(" parlement ") || @qlNormalisee.includes(" assemblee ") || @qlNormalisee.includes(" senat ")) && (@qlNormalisee.includes(" difference ") || @qlNormalisee.includes(" distinguer ") || @qlNormalisee.includes(" confonds ") || @qlNormalisee.includes(" confondre ") || @qlNormalisee.includes(" meme chose ")))`
+Le **Gouvernement** prépare des projets de loi et fait appliquer les lois. Le **Parlement**, composé de l’Assemblée nationale et du Sénat, discute et vote les lois. **À retenir : le Gouvernement propose et applique ; le Parlement vote.**
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0033)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_GOUVERNEMENT_PARLEMENT`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("declaration des droits de l homme et du citoyen"))`
-J’ai trouvé une notion correspondant à votre question : **Déclaration des droits de l'homme et du citoyen**.
+<!-- Réponse : INTENT_MEMOIRE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" memoriser ") || @qlNormalisee.includes(" memorisation ") || @qlNormalisee.includes(" retenir ") || @qlNormalisee.includes(" retient ") || @qlNormalisee.includes(" retiennent ") || @qlNormalisee.includes(" memoire ") || @qlNormalisee.includes(" j oublie ") || @qlNormalisee.includes(" oublier ") || @qlNormalisee.includes(" oubli ") || @qlNormalisee.includes(" apprendre par coeur ") || @qlNormalisee.includes(" se souvenir ") || @qlNormalisee.includes(" me souvenir ")))`
+Pour mieux retenir, commencez par **comprendre la notion**, reformulez-la avec vos mots, puis testez-vous sans regarder le cours. Révisez à nouveau sur plusieurs séances. La rubrique **Mémoriser efficacement** vous guide étape par étape.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0038)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_MEMOIRE`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("journees europeennes du patrimoine"))`
-J’ai trouvé une notion correspondant à votre question : **Journées européennes du patrimoine**.
+<!-- Réponse : INTENT_MEMOIRE_PROGRESSION -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" ameliorer ") || @qlNormalisee.includes(" progresser ") || @qlNormalisee.includes(" apprendre ") || @qlNormalisee.includes(" assimiler ")) && (@qlNormalisee.includes(" connaissances ") || @qlNormalisee.includes(" notions ") || @qlNormalisee.includes(" dates ") || @qlNormalisee.includes(" retiens ") || @qlNormalisee.includes(" retention ")))`
+Pour progresser dans vos connaissances, alternez une courte révision, une reformulation avec vos mots et quelques questions. Consultez les méthodes de mémorisation, puis choisissez un thème à travailler.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0076)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_MEMOIRE_PROGRESSION`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("assistance a personne en danger"))`
-J’ai trouvé une notion correspondant à votre question : **Assistance à personne en danger**.
+<!-- Réponse : INTENT_SITUATIONS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" mise en situation ") || @qlNormalisee.includes(" mises en situation ") || @qlNormalisee.includes(" cas pratique ") || @qlNormalisee.includes(" cas pratiques ") || @qlNormalisee.includes(" scenario ") || @qlNormalisee.includes(" scenarios ")))`
+Une **mise en situation** vous demande d’appliquer un principe civique à un cas concret. Repérez ce que l’on cherche à vérifier, identifiez la règle et lisez toutes les réponses. La méthode **RÈGLE** vous aide à choisir une réponse adaptée.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0005)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_SITUATIONS`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("mutilations sexuelles feminines"))`
-J’ai trouvé une notion correspondant à votre question : **Mutilations sexuelles féminines**.
+<!-- Réponse : INTENT_EXAMEN_BLANC -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" examen blanc ") || @qlNormalisee.includes(" examens blancs ") || @qlNormalisee.includes(" test blanc ") || @qlNormalisee.includes(" simulation examen ") || @qlNormalisee.includes(" simulation de l examen ")))`
+Un **examen blanc** vous permet de vous entraîner au format de l’épreuve. Choisissez votre examen dans la rubrique correspondante.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0096)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_EXAMEN_BLANC`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("conseil de l union europeenne"))`
-J’ai trouvé une notion correspondant à votre question : **Conseil de l'Union européenne**.
+<!-- Réponse : INTENT_QUESTIONS_OFFICIELLES -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" questions officielles ") || @qlNormalisee.includes(" question officielle ") || @qlNormalisee.includes(" banque de questions ") || @qlNormalisee.includes(" banques officielles ")))`
+Les questions officielles sont accessibles dans **Entraînement par examen**. Choisissez votre examen, puis **Questions officielles** et la thématique souhaitée.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0026)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_QUESTIONS_OFFICIELLES`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("president de la republique"))`
-J’ai trouvé une notion correspondant à votre question : **Président de la République**.
+<!-- Réponse : INTENT_QCM_METHODE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" qcm ") || @qlNormalisee.includes(" bonne reponse ") || @qlNormalisee.includes(" bonnes reponses ") || @qlNormalisee.includes(" choisir une reponse ") || @qlNormalisee.includes(" choisir la reponse ")) && (@qlNormalisee.includes(" methode ") || @qlNormalisee.includes(" comment ") || @qlNormalisee.includes(" conseil ") || @qlNormalisee.includes(" hesite ") || @qlNormalisee.includes(" hesitation ") || @qlNormalisee.includes(" reussir ")))`
+Lisez la question et les quatre réponses. Repérez les mots-clés, éliminez les propositions qui ne répondent pas à la question et justifiez votre choix. Vous trouverez une méthode dans **Réussir les QCM**.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0109)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_QCM_METHODE`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("provence alpes cote d azur"))`
-J’ai trouvé une notion correspondant à votre question : **Provence-Alpes-Côte d'Azur**.
+<!-- Réponse : INTENT_ERREURS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" erreurs ") || @qlNormalisee.includes(" erreur ") || @qlNormalisee.includes(" me trompe ") || @qlNormalisee.includes(" meme faute ")) && (@qlNormalisee.includes(" comprendre ") || @qlNormalisee.includes(" pourquoi ") || @qlNormalisee.includes(" eviter ") || @qlNormalisee.includes(" corriger ") || @qlNormalisee.includes(" toujours ") || @qlNormalisee.includes(" souvent ")))`
+Relisez la correction et notez la règle que vous aviez oubliée. Revenez sur ce thème avant de refaire un entraînement. Un carnet d’erreurs vous aide à repérer les points à retravailler.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0114)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_ERREURS`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("charte de l environnement"))`
-J’ai trouvé une notion correspondant à votre question : **Charte de l'environnement**.
+<!-- Réponse : INTENT_PARCOURS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" organiser ") || @qlNormalisee.includes(" planning ") || @qlNormalisee.includes(" programme de revision ") || @qlNormalisee.includes(" plan de revision ") || @qlNormalisee.includes(" par ou commencer ") || @qlNormalisee.includes(" combien de temps reviser ") || @qlNormalisee.includes(" rythme de revision ")))`
+Prévoyez des séances courtes et régulières. Alternez révision, entraînement et correction. La rubrique **Construire mon parcours de révision** vous aide à organiser votre préparation.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0016)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_PARCOURS`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("integrite de la personne"))`
-J’ai trouvé une notion correspondant à votre question : **Intégrité de la personne**.
+<!-- Réponse : INTENT_MNEMO -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" mnemotechnique ") || @qlNormalisee.includes(" mnemonique ") || @qlNormalisee.includes(" astuce memoire ") || @qlNormalisee.includes(" moyen mnemotechnique ")))`
+Un moyen mnémotechnique est une astuce pour retrouver une information, par exemple une association d’idées. Comprenez d’abord la notion, puis choisissez une astuce qui a du sens pour vous.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0075)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_MNEMO`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("premiere guerre mondiale"))`
-J’ai trouvé une notion correspondant à votre question : **Première Guerre mondiale**.
+<!-- Réponse : INTENT_INSCRIPTION -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" inscrire ") || @qlNormalisee.includes(" inscription ") || @qlNormalisee.includes(" inscriptions ") || @qlNormalisee.includes(" reserver une session ") || @qlNormalisee.includes(" prochaine session ") || @qlNormalisee.includes(" prochaines dates ") || @qlNormalisee.includes(" centre d examen ") || @qlNormalisee.includes(" centre examen ") || @qlNormalisee.includes(" ou passer l examen ")))`
+Pour les démarches d’inscription et les sessions disponibles, ouvrez **S’inscrire à l’examen civique**. Vous pourrez consulter les centres et les modalités.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0108)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_INSCRIPTION`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("traite des etres humains"))`
-J’ai trouvé une notion correspondant à votre question : **Traite des êtres humains**.
+<!-- Réponse : INTENT_PRIX -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" prix de l examen ") || @qlNormalisee.includes(" tarif examen ") || @qlNormalisee.includes(" tarif de l examen ") || @qlNormalisee.includes(" cout de l examen ") || @qlNormalisee.includes(" combien coute ") || @qlNormalisee.includes(" payer l examen ")))`
+Les informations sur le coût de l’examen sont présentées dans la FAQ. Consultez la rubrique dédiée avant votre inscription.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0131)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_PRIX`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("conseil constitutionnel"))`
-J’ai trouvé une notion correspondant à votre question : **Conseil constitutionnel**.
+<!-- Réponse : INTENT_FORMAT -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" combien de questions ") || @qlNormalisee.includes(" duree de l examen ") || @qlNormalisee.includes(" duree examen ") || @qlNormalisee.includes(" combien de temps dure ") || @qlNormalisee.includes(" format de l examen ") || @qlNormalisee.includes(" comment se passe l examen ")))`
+Pour connaître le nombre de questions, la durée et le déroulement, consultez la fiche sur le **format de l’examen**.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0025)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_FORMAT`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("devise de la republique"))`
-J’ai trouvé une notion correspondant à votre question : **Devise de la République**.
+<!-- Réponse : INTENT_SEUIL -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" score pour reussir ") || @qlNormalisee.includes(" score necessaire ") || @qlNormalisee.includes(" combien de bonnes reponses ") || @qlNormalisee.includes(" 32 sur 40 ") || @qlNormalisee.includes(" 32 40 ") || @qlNormalisee.includes(" 80 pour cent ") || @qlNormalisee.includes(" note minimum ") || @qlNormalisee.includes(" note minimale ")))`
+La FAQ explique le score nécessaire pour réussir l’examen. Les objectifs proposés dans les entraînements servent à guider votre progression.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0044)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_SEUIL`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("langue de la republique"))`
-J’ai trouvé une notion correspondant à votre question : **Langue de la République**.
+<!-- Réponse : INTENT_ECHEC -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" echoue ") || @qlNormalisee.includes(" echec ") || @qlNormalisee.includes(" repasser l examen ") || @qlNormalisee.includes(" repasser examen ") || @qlNormalisee.includes(" rate mon examen ") || @qlNormalisee.includes(" rate l examen ")))`
+Après un échec, consultez les informations sur une nouvelle passation et reprenez les thèmes qui vous ont posé problème.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0081)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_ECHEC`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("presomption d innocence"))`
-J’ai trouvé une notion correspondant à votre question : **Présomption d'innocence**.
+<!-- Réponse : INTENT_STRESS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" stress ") || @qlNormalisee.includes(" stresse ") || @qlNormalisee.includes(" angoisse ") || @qlNormalisee.includes(" panique ") || @qlNormalisee.includes(" peur de l examen ") || @qlNormalisee.includes(" peur examen ") || @qlNormalisee.includes(" inquiet ")))`
+Avant un examen blanc, entraînez-vous dans un cadre calme, avec une séance préparée à l’avance. Pour l’épreuve, consultez les conseils de la FAQ et les modalités de passation.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0110)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_STRESS`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("seconde guerre mondiale"))`
-J’ai trouvé une notion correspondant à votre question : **Seconde Guerre mondiale**.
+<!-- Réponse : INTENT_BILAN -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" bilan ") || @qlNormalisee.includes(" points faibles ") || @qlNormalisee.includes(" mon niveau ") || @qlNormalisee.includes(" suis je pret ") || @qlNormalisee.includes(" suis je prete ")))`
+Le **bilan** vous aide à repérer les thèmes à travailler. Vous pourrez ensuite choisir vos révisions et vos entraînements.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0121)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_BILAN`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("souverainete nationale"))`
-J’ai trouvé une notion correspondant à votre question : **Souveraineté nationale**.
+<!-- Réponse : INTENT_REVISION_T1 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" reviser ") || @qlNormalisee.includes(" revision ") || @qlNormalisee.includes(" cours sur ") || @qlNormalisee.includes(" cours de ") || @qlNormalisee.includes(" fiche sur ") || @qlNormalisee.includes(" fiche de ")) && (@qlNormalisee.includes(" principes et valeurs ") || @qlNormalisee.includes(" valeurs de la republique ") || @qlNormalisee.includes(" laicite ") || @qlNormalisee.includes(" liberte ") || @qlNormalisee.includes(" egalite ") || @qlNormalisee.includes(" fraternite ")))`
+Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0126)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_REVISION_T1`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("chateau de versailles"))`
-J’ai trouvé une notion correspondant à votre question : **Château de Versailles**.
+<!-- Réponse : INTENT_REVISION_T2 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" reviser ") || @qlNormalisee.includes(" revision ") || @qlNormalisee.includes(" cours sur ") || @qlNormalisee.includes(" cours de ") || @qlNormalisee.includes(" fiche sur ") || @qlNormalisee.includes(" fiche de ")) && (@qlNormalisee.includes(" institutions ") || @qlNormalisee.includes(" gouvernement ") || @qlNormalisee.includes(" parlement ") || @qlNormalisee.includes(" politique ")))`
+Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0017)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_REVISION_T2`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("commission europeenne"))`
-J’ai trouvé une notion correspondant à votre question : **Commission européenne**.
+<!-- Réponse : INTENT_REVISION_T3 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" reviser ") || @qlNormalisee.includes(" revision ") || @qlNormalisee.includes(" cours sur ") || @qlNormalisee.includes(" cours de ") || @qlNormalisee.includes(" fiche sur ") || @qlNormalisee.includes(" fiche de ")) && (@qlNormalisee.includes(" droits et devoirs ") || @qlNormalisee.includes(" droits ") || @qlNormalisee.includes(" devoirs ")))`
+Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0023)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_REVISION_T3`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("conseil departemental"))`
-J’ai trouvé une notion correspondant à votre question : **Conseil départemental**.
+<!-- Réponse : INTENT_REVISION_T4 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" reviser ") || @qlNormalisee.includes(" revision ") || @qlNormalisee.includes(" cours sur ") || @qlNormalisee.includes(" cours de ") || @qlNormalisee.includes(" fiche sur ") || @qlNormalisee.includes(" fiche de ")) && (@qlNormalisee.includes(" histoire ") || @qlNormalisee.includes(" geographie ") || @qlNormalisee.includes(" culture ") || @qlNormalisee.includes(" dates ")))`
+Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0027)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_REVISION_T4`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("france metropolitaine"))`
-J’ai trouvé une notion correspondant à votre question : **France métropolitaine**.
+<!-- Réponse : INTENT_REVISION_T5 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" reviser ") || @qlNormalisee.includes(" revision ") || @qlNormalisee.includes(" cours sur ") || @qlNormalisee.includes(" cours de ") || @qlNormalisee.includes(" fiche sur ") || @qlNormalisee.includes(" fiche de ")) && (@qlNormalisee.includes(" vie quotidienne ") || @qlNormalisee.includes(" vie en societe ") || @qlNormalisee.includes(" societe francaise ")))`
+Vous pouvez revoir cette thématique, puis vérifier votre compréhension dans un entraînement. Prenez le temps de lire les corrections.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0058)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_REVISION_T5`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("gastronomie francaise"))`
-J’ai trouvé une notion correspondant à votre question : **Gastronomie française**.
+<!-- Réponse : INTENT_ENTRAINEMENT -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" entrainer ") || @qlNormalisee.includes(" entrainement ") || @qlNormalisee.includes(" entrainements ") || @qlNormalisee.includes(" quiz ")))`
+Choisissez votre examen pour travailler les questions officielles ou les mises en situation. Vous pouvez aussi réaliser un entraînement complet par niveau.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0063)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = INTENT_ENTRAINEMENT`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("liberte de conscience"))`
-J’ai trouvé une notion correspondant à votre question : **Liberté de conscience**.
+<!-- Réponse : SCR_QL_GLO0033 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" contrat d engagement a respecter les principes de la republique ") || @qlNormalisee.includes(" valeurs de la republique ")))`
+### 📘 Contrat d'engagement à respecter les principes de la République
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0083)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Engagement consistant à respecter les valeurs et les principes de la République française.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("cinquieme republique"))`
-J’ai trouvé une notion correspondant à votre question : **Cinquième République**.
+**À retenir :** Le respect des principes républicains est attendu dans certains parcours administratifs.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0018)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** République; Laïcité; Valeurs de la République.
+
+`@qlReponse = SCR_QL_GLO0033`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("harcelement scolaire"))`
-J’ai trouvé une notion correspondant à votre question : **Harcèlement scolaire**.
+<!-- Réponse : SCR_QL_GLO0038 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" declaration des droits de l homme et du citoyen ")))`
+### 📘 Déclaration des droits de l'homme et du citoyen
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0070)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Texte adopté en 1789 qui affirme les droits et libertés fondamentaux.
+
+**À retenir :** C'est l'un des textes fondateurs de la République française.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("revolution francaise"))`
-J’ai trouvé une notion correspondant à votre question : **Révolution française**.
+**Voir aussi :** Constitution.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0119)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0038`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("assemblee nationale"))`
-J’ai trouvé une notion correspondant à votre question : **Assemblée nationale**.
+<!-- Réponse : SCR_QL_GLO0076 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" journees europeennes du patrimoine ")))`
+### 📘 Journées européennes du patrimoine
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0004)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Événement annuel permettant de découvrir gratuitement de nombreux lieux patrimoniaux.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("droits fondamentaux"))`
-J’ai trouvé une notion correspondant à votre question : **Droits fondamentaux**.
+**À retenir :** Elles ont lieu chaque année en septembre.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0047)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Patrimoine.
+
+`@qlReponse = SCR_QL_GLO0076`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("contrat de travail"))`
-J’ai trouvé une notion correspondant à votre question : **Contrat de travail**.
+<!-- Réponse : SCR_QL_GLO0005 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" assistance a personne en danger ")))`
+### 📘 Assistance à personne en danger
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0034)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Obligation d'aider une personne en danger ou d'alerter les secours lorsqu'il est possible de le faire sans risque.
+
+**À retenir :** Ne pas porter assistance peut être puni par la loi.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("fete de la musique"))`
-J’ai trouvé une notion correspondant à votre question : **Fête de la Musique**.
+**Voir aussi :** Secours.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0056)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0005`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("parlement europeen"))`
-J’ai trouvé une notion correspondant à votre question : **Parlement européen**.
+<!-- Réponse : SCR_QL_GLO0096 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" mutilations sexuelles feminines ")))`
+### 📘 Mutilations sexuelles féminines
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0102)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Interventions consistant à retirer partiellement ou totalement les organes génitaux féminins sans raison médicale.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("suffrage universel"))`
-J’ai trouvé une notion correspondant à votre question : **Suffrage universel**.
+**À retenir :** Elles sont interdites et sévèrement punies en France.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0127)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Violence.
+
+`@qlReponse = SCR_QL_GLO0096`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("assurance maladie"))`
-J’ai trouvé une notion correspondant à votre question : **Assurance maladie**.
+<!-- Réponse : SCR_QL_GLO0026 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" conseil de l union europeenne ") || @qlNormalisee.includes(" conseil de l ue ")))`
+### 📘 Conseil de l'Union européenne
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0006)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Institution où siègent les ministres des États membres.
+
+**À retenir :** Il participe au vote des lois européennes.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("carte de resident"))`
-J’ai trouvé une notion correspondant à votre question : **Carte de résident**.
+**Voir aussi :** Commission européenne.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0010)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0026`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("conseil municipal"))`
-J’ai trouvé une notion correspondant à votre question : **Conseil municipal**.
+<!-- Réponse : SCR_QL_GLO0165 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" collectivites territoriales ") || @qlNormalisee.includes(" collectivites territoriales ")))`
+### 📘 Collectivités territoriales
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0029)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Structures qui gèrent des affaires locales grâce à des élus, par exemple les communes, les départements et les régions.
+
+`@qlReponse = SCR_QL_GLO0165`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("mont saint michel"))`
-J’ai trouvé une notion correspondant à votre question : **Mont-Saint-Michel**.
+<!-- Réponse : SCR_QL_GLO0109 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" president de la republique ") || @qlNormalisee.includes(" president ") || @qlNormalisee.includes(" presidente ")))`
+### 📘 Président de la République
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0094)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Le Président de la République est le chef de l'État.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("conseil europeen"))`
-J’ai trouvé une notion correspondant à votre question : **Conseil européen**.
+**À retenir :** Il est élu au suffrage universel direct pour cinq ans.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0028)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+**Attention à ne pas confondre :** Le Président est le chef de l'État.
+Le Premier ministre dirige l'action du Gouvernement.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("conseil regional"))`
-J’ai trouvé une notion correspondant à votre question : **Conseil régional**.
+**Voir aussi :** Gouvernement; Premier ministre.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0030)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0109`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("drapeau francais"))`
-J’ai trouvé une notion correspondant à votre question : **Drapeau français**.
+<!-- Réponse : SCR_QL_GLO0114 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" provence alpes cote d azur ") || @qlNormalisee.includes(" marseille ") || @qlNormalisee.includes(" nice ")))`
+### 📘 Provence-Alpes-Côte d'Azur
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0046)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Région située dans le sud-est de la France.
+
+**À retenir :** Elle est réputée pour la Méditerranée, les Alpes, Marseille, Nice et la lavande.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("medecin traitant"))`
-J’ai trouvé une notion correspondant à votre question : **Médecin traitant**.
+**Voir aussi :** Marseille; Nice.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0092)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0114`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("premier ministre"))`
-J’ai trouvé une notion correspondant à votre question : **Premier ministre**.
+<!-- Réponse : SCR_QL_GLO0016 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" charte de l environnement ")))`
+### 📘 Charte de l'environnement
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0107)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Texte à valeur constitutionnelle qui reconnaît le droit à un environnement équilibré.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("union europeenne"))`
-J’ai trouvé une notion correspondant à votre question : **Union européenne**.
+**À retenir :** La protection de l'environnement est un principe constitutionnel.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0133)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Environnement.
+
+`@qlReponse = SCR_QL_GLO0016`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("depute europeen"))`
-J’ai trouvé une notion correspondant à votre question : **Député européen**.
+<!-- Réponse : SCR_QL_GLO0075 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" integrite de la personne ") || @qlNormalisee.includes(" integrite ")))`
+### 📘 Intégrité de la personne
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0043)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Droit de chacun à la protection de son corps et de son esprit.
+
+**À retenir :** Toute atteinte injustifiée à l'intégrité est interdite.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("dignite humaine"))`
-J’ai trouvé une notion correspondant à votre question : **Dignité humaine**.
+**Voir aussi :** Dignité humaine.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0045)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0075`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("espace schengen"))`
-J’ai trouvé une notion correspondant à votre question : **Espace Schengen**.
+<!-- Réponse : SCR_QL_GLO0108 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" premiere guerre mondiale ") || @qlNormalisee.includes(" 1ere guerre mondiale ") || @qlNormalisee.includes(" 1914 1918 ")))`
+### 📘 Première Guerre mondiale
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0053)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Conflit mondial de 1914 à 1918.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("france services"))`
-J’ai trouvé une notion correspondant à votre question : **France Services**.
+**À retenir :** La France fait partie des pays vainqueurs.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0059)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Seconde Guerre mondiale.
+
+`@qlReponse = SCR_QL_GLO0108`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("la marseillaise"))`
-J’ai trouvé une notion correspondant à votre question : **La Marseillaise**.
+<!-- Réponse : SCR_QL_GLO0131 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" traite des etres humains ")))`
+### 📘 Traite des êtres humains
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0078)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Exploitation d'une personne par la contrainte, la menace ou la tromperie.
+
+**À retenir :** La traite des êtres humains est un crime.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("musee du louvre"))`
-J’ai trouvé une notion correspondant à votre question : **Musée du Louvre**.
+**Voir aussi :** Esclavage.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0095)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0131`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("titre de sejour"))`
-J’ai trouvé une notion correspondant à votre question : **Titre de séjour**.
+<!-- Réponse : SCR_QL_GLO0044 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" devise de la republique ") || @qlNormalisee.includes(" devise ") || @qlNormalisee.includes(" liberte egalite fraternite ")))`
+### 📘 Devise de la République
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0129)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+La devise de la République française est **« Liberté, Égalité, Fraternité »**. Elle exprime trois valeurs communes.
+
+`@qlReponse = SCR_QL_GLO0044`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("fete nationale"))`
-J’ai trouvé une notion correspondant à votre question : **Fête nationale**.
+<!-- Réponse : SCR_QL_GLO0121 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" seconde guerre mondiale ") || @qlNormalisee.includes(" deuxieme guerre mondiale ") || @qlNormalisee.includes(" 2eme guerre mondiale ") || @qlNormalisee.includes(" 1939 1945 ")))`
+### 📘 Seconde Guerre mondiale
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0057)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Conflit mondial de 1939 à 1945.
+
+**À retenir :** La Résistance a joué un rôle important dans la libération de la France.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("france travail"))`
-J’ai trouvé une notion correspondant à votre question : **France Travail**.
+**Voir aussi :** Résistance.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0060)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0121`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("naturalisation"))`
-J’ai trouvé une notion correspondant à votre question : **Naturalisation**.
+<!-- Réponse : SCR_QL_GLO0025 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" conseil constitutionnel ")))`
+### 📘 Conseil constitutionnel
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0097)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Le Conseil constitutionnel vérifie que les lois respectent la Constitution.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("service public"))`
-J’ai trouvé une notion correspondant à votre question : **Service public**.
+**À retenir :** Il protège la Constitution.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0125)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Constitution.
+
+`@qlReponse = SCR_QL_GLO0025`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("contravention"))`
-J’ai trouvé une notion correspondant à votre question : **Contravention**.
+<!-- Réponse : SCR_QL_GLO0081 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" langue de la republique ")))`
+### 📘 Langue de la République
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0035)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Le français est la langue officielle de la République française.
+
+**À retenir :** Le français est utilisé dans les administrations, les écoles et les services publics.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("environnement"))`
-J’ai trouvé une notion correspondant à votre question : **Environnement**.
+**Voir aussi :** République.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0052)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0081`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("ile de france"))`
-J’ai trouvé une notion correspondant à votre question : **Île-de-France**.
+<!-- Réponse : SCR_QL_GLO0110 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" presomption d innocence ") || @qlNormalisee.includes(" presomption innocence ") || @qlNormalisee.includes(" innocent avant jugement ")))`
+### 📘 Présomption d'innocence
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0072)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+La **présomption d’innocence** signifie qu’une personne est considérée comme innocente tant que sa culpabilité n’a pas été établie par la justice.
+
+`@qlReponse = SCR_QL_GLO0110`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_SIMPLE_POUVOIRS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" separation des pouvoirs ")))`
+### 📘 Séparation des pouvoirs
 
-`if !@qlTrouvee && (@qlNormalisee.includes("vercingetorix"))`
-J’ai trouvé une notion correspondant à votre question : **Vercingétorix**.
+La **séparation des pouvoirs** distingue trois fonctions : faire les lois, les appliquer et rendre la justice. Elles ne doivent pas toutes être concentrées dans les mêmes mains.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0135)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_SIMPLE_POUVOIRS`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("carte vitale"))`
-J’ai trouvé une notion correspondant à votre question : **Carte Vitale**.
+<!-- Réponse : SCR_QL_GLO0171 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" instruction obligatoire ") || @qlNormalisee.includes(" instruction obligatoire ")))`
+### 📘 Instruction obligatoire
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0011)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Obligation de donner à chaque enfant une instruction. Elle peut être assurée à l’école ou, sous conditions, dans la famille.
+
+`@qlReponse = SCR_QL_GLO0171`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("consentement"))`
-J’ai trouvé une notion correspondant à votre question : **Consentement**.
+<!-- Réponse : SCR_QL_GLO0126 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" souverainete nationale ")))`
+### 📘 Souveraineté nationale
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0031)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Principe selon lequel le pouvoir appartient au peuple.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("constitution"))`
-J’ai trouvé une notion correspondant à votre question : **Constitution**.
+**À retenir :** Le peuple exerce sa souveraineté par ses représentants élus et par référendum.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0032)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+**Attention à ne pas confondre :** La souveraineté appartient au peuple et non au Président de la République.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("francophonie"))`
-J’ai trouvé une notion correspondant à votre question : **Francophonie**.
+**Voir aussi :** République; Référendum; Citoyen.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0061)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0126`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("gouvernement"))`
-J’ai trouvé une notion correspondant à votre question : **Gouvernement**.
+<!-- Réponse : SCR_QL_GLO0017 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" chateau de versailles ") || @qlNormalisee.includes(" louis xiv ")))`
+### 📘 Château de Versailles
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0066)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-`@qlTrouvee = true`
-`endif`
+Ancienne résidence des rois de France située près de Paris.
+
+**À retenir :** Il est célèbre pour son architecture et ses jardins.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("ordre public"))`
-J’ai trouvé une notion correspondant à votre question : **Ordre public**.
+**Voir aussi :** Louis XIV.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0099)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0017`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0023 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" commission europeenne ")))`
+### 📘 Commission européenne
+
+Institution chargée de proposer les lois européennes et de veiller à leur application.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("proprietaire"))`
-J’ai trouvé une notion correspondant à votre question : **Propriétaire**.
+**À retenir :** Elle défend l'intérêt général de l'Union européenne.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0112)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Union européenne.
+
+`@qlReponse = SCR_QL_GLO0023`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0027 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" conseil departemental ")))`
+### 📘 Conseil départemental
+
+Assemblée qui administre le département.
+
+**À retenir :** Ses membres sont les conseillers départementaux.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("prostitution"))`
-J’ai trouvé une notion correspondant à votre question : **Prostitution**.
+**Voir aussi :** Département.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0113)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0027`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("charlemagne"))`
-J’ai trouvé une notion correspondant à votre question : **Charlemagne**.
+<!-- Réponse : SCR_QL_GLO0058 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" france metropolitaine ") || @qlNormalisee.includes(" metropole ") || @qlNormalisee.includes(" metropolitaine ")))`
+### 📘 France métropolitaine
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0015)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Partie du territoire français située en Europe.
+
+**À retenir :** Elle est composée de 13 régions.
+
+**Voir aussi :** Outre-mer.
+
+`@qlReponse = SCR_QL_GLO0058`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0063 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" gastronomie francaise ")))`
+### 📘 Gastronomie française
 
-`if !@qlTrouvee && (@qlNormalisee.includes("citoyennete"))`
-J’ai trouvé une notion correspondant à votre question : **Citoyenneté**.
+Ensemble des traditions culinaires françaises.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0020)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**À retenir :** Le repas gastronomique des Français est inscrit au patrimoine culturel immatériel de l'UNESCO.
+
+**Voir aussi :** UNESCO.
+
+`@qlReponse = SCR_QL_GLO0063`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("departement"))`
-J’ai trouvé une notion correspondant à votre question : **Département**.
+<!-- Réponse : SCR_QL_GLO0083 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" liberte de conscience ") || @qlNormalisee.includes(" choisir sa religion ") || @qlNormalisee.includes(" liberte religieuse ")))`
+### 📘 Liberté de conscience
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0041)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+La **liberté de conscience** permet à chacun de choisir ses convictions : croire, ne pas croire ou changer de religion.
+
+`@qlReponse = SCR_QL_GLO0083`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0160 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" elections europeennes ") || @qlNormalisee.includes(" elections europeennes ")))`
+### 📘 Élections européennes
 
-`if !@qlTrouvee && (@qlNormalisee.includes("gendarmerie"))`
-J’ai trouvé une notion correspondant à votre question : **Gendarmerie**.
+Élections par lesquelles les citoyens de l’Union européenne choisissent leurs députés au Parlement européen.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0065)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0160`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("harcelement"))`
-J’ai trouvé une notion correspondant à votre question : **Harcèlement**.
+<!-- Réponse : SCR_QL_GLO0159 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" elections municipales ") || @qlNormalisee.includes(" elections municipales ")))`
+### 📘 Élections municipales
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0069)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Élections qui permettent de choisir les conseillers municipaux. Ceux-ci élisent ensuite le maire.
+
+`@qlReponse = SCR_QL_GLO0159`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0141 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" cotisations sociales ") || @qlNormalisee.includes(" cotisations sociales ") || @qlNormalisee.includes(" cotisation ") || @qlNormalisee.includes(" cotisations ") || @qlNormalisee.includes(" contributions sociales ")))`
+### 📘 Cotisations sociales
 
-`if !@qlTrouvee && (@qlNormalisee.includes("procuration"))`
-J’ai trouvé une notion correspondant à votre question : **Procuration**.
+Sommes versées par les salariés et les employeurs pour financer la protection sociale, notamment la maladie et la retraite.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0111)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0141`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0070 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" harcelement scolaire ") || @qlNormalisee.includes(" harcelement a l ecole ")))`
+### 📘 Harcèlement scolaire
+
+Violences répétées subies par un élève de la part d'autres élèves.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("tour eiffel"))`
-J’ai trouvé une notion correspondant à votre question : **Tour Eiffel**.
+**À retenir :** Il s'agit d'un délit.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0130)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Violence.
+
+`@qlReponse = SCR_QL_GLO0070`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0018 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" cinquieme republique ")))`
+### 📘 Cinquième République
+
+Régime politique actuel de la France, instauré en 1958.
+
+**À retenir :** La Constitution de 1958 est toujours en vigueur.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("abstention"))`
-J’ai trouvé une notion correspondant à votre question : **Abstention**.
+**Voir aussi :** Constitution.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0001)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0018`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("democratie"))`
-J’ai trouvé une notion correspondant à votre question : **Démocratie**.
+<!-- Réponse : SCR_QL_GLO0119 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" revolution francaise ") || @qlNormalisee.includes(" revolution ") || @qlNormalisee.includes(" 1789 ")))`
+### 📘 Révolution française
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0040)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Période commencée en 1789 qui met fin à la monarchie absolue et fonde de nouveaux principes politiques.
+
+**À retenir :** Elle marque la naissance des valeurs républicaines modernes.
+
+**Voir aussi :** Déclaration des droits de l'homme et du citoyen.
+
+`@qlReponse = SCR_QL_GLO0119`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0206 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" traite de maastricht ") || @qlNormalisee.includes(" traite de maastricht ") || @qlNormalisee.includes(" maastricht ")))`
+### 📘 Traité de Maastricht
 
-`if !@qlTrouvee && (@qlNormalisee.includes("fraternite"))`
-J’ai trouvé une notion correspondant à votre question : **Fraternité**.
+Traité signé en 1992 qui a créé l’Union européenne et renforcé la coopération entre ses États membres.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0062)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0206`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("guadeloupe"))`
-J’ai trouvé une notion correspondant à votre question : **Guadeloupe**.
+<!-- Réponse : SCR_QL_GLO0004 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" assemblee nationale ") || @qlNormalisee.includes(" assemblee ") || @qlNormalisee.includes(" assemble nationale ") || @qlNormalisee.includes(" assemblee national ") || @qlNormalisee.includes(" assemblee des deputes ")))`
+### 📘 Assemblée nationale
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0067)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+L’**Assemblée nationale** est l’une des deux parties du Parlement. Les **députés** y discutent et votent les lois.
+
+`@qlReponse = SCR_QL_GLO0004`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0047 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" droits fondamentaux ") || @qlNormalisee.includes(" droit fondamental ") || @qlNormalisee.includes(" droits humains ") || @qlNormalisee.includes(" droits de l homme ")))`
+### 📘 Droits fondamentaux
+
+Ensemble des droits et libertés reconnus à toute personne et garantis par la Constitution et les textes fondamentaux.
+
+**À retenir :** Ils protègent la dignité, la liberté et l'égalité de chacun.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("infraction"))`
-J’ai trouvé une notion correspondant à votre question : **Infraction**.
+**Voir aussi :** Constitution; Liberté; Égalité.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0074)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0047`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("la reunion"))`
-J’ai trouvé une notion correspondant à votre question : **La Réunion**.
+<!-- Réponse : SCR_QL_GLO0207 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" journee de l europe ") || @qlNormalisee.includes(" journee de l europe ")))`
+### 📘 Journée de l’Europe
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0079)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Journée célébrée le 9 mai pour rappeler le projet de coopération européenne et la déclaration de Robert Schuman.
+
+`@qlReponse = SCR_QL_GLO0207`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0102 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" parlement europeen ") || @qlNormalisee.includes(" parlement europeenne ")))`
+### 📘 Parlement européen
+
+Institution européenne composée de députés élus par les citoyens des États membres.
+
+**À retenir :** Il participe à l'adoption des lois européennes.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("martinique"))`
-J’ai trouvé une notion correspondant à votre question : **Martinique**.
+**Voir aussi :** Député européen.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0090)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0102`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("neutralite"))`
-J’ai trouvé une notion correspondant à votre question : **Neutralité**.
+<!-- Réponse : SCR_QL_GLO0034 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" contrat de travail ") || @qlNormalisee.includes(" contrats de travail ")))`
+### 📘 Contrat de travail
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0098)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Le **contrat de travail** fixe les conditions de travail entre un employeur et un salarié.
+
+`@qlReponse = SCR_QL_GLO0034`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0056 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" fete de la musique ") || @qlNormalisee.includes(" culture ")))`
+### 📘 Fête de la Musique
+
+Manifestation culturelle organisée chaque année le 21 juin.
+
+**À retenir :** Elle permet à tous de partager la musique gratuitement.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("patrimoine"))`
-J’ai trouvé une notion correspondant à votre question : **Patrimoine**.
+**Voir aussi :** Culture.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0103)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0056`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("prefecture"))`
-J’ai trouvé une notion correspondant à votre question : **Préfecture**.
+<!-- Réponse : SCR_QL_GLO0127 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" suffrage universel ") || @qlNormalisee.includes(" suffrage ")))`
+### 📘 Suffrage universel
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0105)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Mode d'élection dans lequel tous les citoyens remplissant les conditions peuvent voter.
+
+**À retenir :** En France, le vote est universel, égal et secret.
+
+**Voir aussi :** Vote.
+
+`@qlReponse = SCR_QL_GLO0127`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0170 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" autorite parentale ") || @qlNormalisee.includes(" autorite parentale ")))`
+### 📘 Autorité parentale
 
-`if !@qlTrouvee && (@qlNormalisee.includes("referendum"))`
-J’ai trouvé une notion correspondant à votre question : **Référendum**.
+Ensemble des droits et des devoirs des parents pour protéger, éduquer et accompagner leur enfant dans son intérêt.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0116)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0170`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("republique"))`
-J’ai trouvé une notion correspondant à votre question : **République**.
+<!-- Réponse : SCR_QL_GLO0158 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" listes electorales ") || @qlNormalisee.includes(" listes electorales ")))`
+### 📘 Listes électorales
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0118)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Listes des personnes inscrites pour voter dans une commune ou dans une circonscription.
+
+`@qlReponse = SCR_QL_GLO0158`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0163 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" pouvoir judiciaire ") || @qlNormalisee.includes(" pouvoir judiciaire ")))`
+### 📘 Pouvoir judiciaire
 
-`if !@qlTrouvee && (@qlNormalisee.includes("employeur"))`
-J’ai trouvé une notion correspondant à votre question : **Employeur**.
+Fonction de la justice qui tranche les litiges et sanctionne les infractions selon la loi, en toute indépendance.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0051)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0163`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("locataire"))`
-J’ai trouvé une notion correspondant à votre question : **Locataire**.
+<!-- Réponse : SCR_QL_GLO0162 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" pouvoir legislatif ") || @qlNormalisee.includes(" pouvoir legislatif ")))`
+### 📘 Pouvoir législatif
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0084)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Pouvoir qui discute et vote les lois. En France, il est exercé par le Parlement.
+
+`@qlReponse = SCR_QL_GLO0162`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0150 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" protection sociale ") || @qlNormalisee.includes(" protection sociale ")))`
+### 📘 Protection sociale
 
-`if !@qlTrouvee && (@qlNormalisee.includes("outre mer"))`
-J’ai trouvé une notion correspondant à votre question : **Outre-mer**.
+Ensemble des dispositifs qui aident les personnes face à certains risques de la vie, comme la maladie, la vieillesse ou la perte d’emploi.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0100)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0150`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("parlement"))`
-J’ai trouvé une notion correspondant à votre question : **Parlement**.
+<!-- Réponse : SCR_QL_GLO0006 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" assurance maladie ") || @qlNormalisee.includes(" securite sociale ") || @qlNormalisee.includes(" secu ")))`
+### 📘 Assurance maladie
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0101)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Système de protection sociale qui rembourse tout ou partie des dépenses de santé.
+
+**À retenir :** Toute personne résidant régulièrement en France peut bénéficier d'une couverture maladie selon sa situation.
+
+**Voir aussi :** Carte Vitale; CPAM; Médecin traitant.
+
+`@qlReponse = SCR_QL_GLO0006`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0010 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" carte de resident ") || @qlNormalisee.includes(" carte de residant ") || @qlNormalisee.includes(" resident ") || @qlNormalisee.includes(" residant ")))`
+### 📘 Carte de résident
 
-`if !@qlTrouvee && (@qlNormalisee.includes("bretagne"))`
-J’ai trouvé une notion correspondant à votre question : **Bretagne**.
+La **carte de résident** est un titre de séjour valable dix ans. Les conditions et les démarches dépendent de la situation de la personne.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0008)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0010`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("election"))`
-J’ai trouvé une notion correspondant à votre question : **Élection**.
+<!-- Réponse : SCR_QL_GLO0029 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" conseil municipal ")))`
+### 📘 Conseil municipal
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0050)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Assemblée élue qui administre la commune.
+
+**À retenir :** Les conseillers municipaux élisent le maire.
+
+**Voir aussi :** Maire.
+
+`@qlReponse = SCR_QL_GLO0029`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0094 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" mont saint michel ")))`
+### 📘 Mont-Saint-Michel
 
-`if !@qlTrouvee && (@qlNormalisee.includes("marianne"))`
-J’ai trouvé une notion correspondant à votre question : **Marianne**.
+Îlot rocheux situé en Normandie sur lequel est construite une abbaye.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0089)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**À retenir :** Il est inscrit au patrimoine mondial de l'UNESCO.
+
+**Voir aussi :** UNESCO.
+
+`@qlReponse = SCR_QL_GLO0094`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("ministre"))`
-J’ai trouvé une notion correspondant à votre question : **Ministre**.
+<!-- Réponse : SCR_QL_GLO0190 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" securite routiere ") || @qlNormalisee.includes(" securite routiere ")))`
+### 📘 Sécurité routière
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0093)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Ensemble des règles et des comportements qui limitent les accidents sur la route et protègent tous les usagers.
+
+`@qlReponse = SCR_QL_GLO0190`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0144 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" travail dissimule ") || @qlNormalisee.includes(" travail dissimule ")))`
+### 📘 Travail dissimulé
 
-`if !@qlTrouvee && (@qlNormalisee.includes("pyrenees"))`
-J’ai trouvé une notion correspondant à votre question : **Pyrénées**.
+Travail ou activité qui n’est pas déclaré comme la loi l’exige. Cela prive notamment le salarié de certaines protections.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0115)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0144`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("senateur"))`
-J’ai trouvé une notion correspondant à votre question : **Sénateur**.
+<!-- Réponse : SCR_QL_GLO0107 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" premier ministre ") || @qlNormalisee.includes(" premier minister ") || @qlNormalisee.includes(" premier minstre ") || @qlNormalisee.includes(" premiers ministres ") || @qlNormalisee.includes(" chef du gouvernement ")))`
+### 📘 Premier ministre
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0124)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Le **Premier ministre** dirige l’action du Gouvernement. Il travaille avec les ministres pour organiser et mettre en œuvre la politique du pays.
+
+`@qlReponse = SCR_QL_GLO0107`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0046 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" drapeau francais ") || @qlNormalisee.includes(" drapeau ") || @qlNormalisee.includes(" drapeau tricolore ") || @qlNormalisee.includes(" bleu blanc rouge ")))`
+### 📘 Drapeau français
 
-`if !@qlTrouvee && (@qlNormalisee.includes("urgences"))`
-J’ai trouvé une notion correspondant à votre question : **Urgences**.
+Le **drapeau français** comporte trois couleurs : bleu, blanc et rouge.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0134)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0046`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0028 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" conseil europeen ")))`
+### 📘 Conseil européen
+
+Réunion des chefs d'État ou de gouvernement des pays membres.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("violence"))`
-J’ai trouvé une notion correspondant à votre question : **Violence**.
+**À retenir :** Il fixe les grandes orientations politiques de l'Union européenne.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0136)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Union européenne.
+
+`@qlReponse = SCR_QL_GLO0028`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0030 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" conseil regional ")))`
+### 📘 Conseil régional
+
+Assemblée qui administre la région.
+
+**À retenir :** Ses membres sont les conseillers régionaux.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("citoyen"))`
-J’ai trouvé une notion correspondant à votre question : **Citoyen**.
+**Voir aussi :** Région.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0019)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0030`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("college"))`
-J’ai trouvé une notion correspondant à votre question : **Collège**.
+<!-- Réponse : SCR_QL_GLO0092 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" medecin traitant ") || @qlNormalisee.includes(" docteur traitant ")))`
+### 📘 Médecin traitant
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0022)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Médecin choisi par le patient pour assurer son suivi médical.
+
+**À retenir :** Le déclarer permet un meilleur remboursement des soins.
+
+**Voir aussi :** Assurance maladie.
+
+`@qlReponse = SCR_QL_GLO0092`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0133 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" union europeenne ") || @qlNormalisee.includes(" union europeen ") || @qlNormalisee.includes(" ue ") || @qlNormalisee.includes(" union europeene ")))`
+### 📘 Union européenne
 
-`if !@qlTrouvee && (@qlNormalisee.includes("commune"))`
-J’ai trouvé une notion correspondant à votre question : **Commune**.
+Organisation regroupant plusieurs États européens qui coopèrent dans de nombreux domaines.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0024)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**À retenir :** La France est membre de l'Union européenne.
+
+**Voir aussi :** Parlement européen; Euro.
+
+`@qlReponse = SCR_QL_GLO0133`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("egalite"))`
-J’ai trouvé une notion correspondant à votre question : **Égalité**.
+<!-- Réponse : SCR_QL_GLO0161 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" pouvoir executif ") || @qlNormalisee.includes(" pouvoir executif ")))`
+### 📘 Pouvoir exécutif
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0049)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Pouvoir chargé de conduire la politique et de faire appliquer les lois. En France, il est exercé par le président de la République et le Gouvernement.
+
+`@qlReponse = SCR_QL_GLO0161`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0059 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" france services ") || @qlNormalisee.includes(" maison france services ")))`
+### 📘 France Services
 
-`if !@qlTrouvee && (@qlNormalisee.includes("hopital"))`
-J’ai trouvé une notion correspondant à votre question : **Hôpital**.
+**France Services** est un lieu où l’on peut être accompagné pour réaliser des démarches administratives.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0071)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0059`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("justice"))`
-J’ai trouvé une notion correspondant à votre question : **Justice**.
+<!-- Réponse : SCR_QL_GLO0078 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" la marseillaise ") || @qlNormalisee.includes(" marseillaise ") || @qlNormalisee.includes(" hymne national ") || @qlNormalisee.includes(" hymne de la france ")))`
+### 📘 La Marseillaise
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0077)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**La Marseillaise** est l’hymne national de la France.
+
+`@qlReponse = SCR_QL_GLO0078`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0043 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" depute europeen ") || @qlNormalisee.includes(" deputes europeens ") || @qlNormalisee.includes(" eurodepute ")))`
+### 📘 Député européen
+
+Représentant élu des citoyens au Parlement européen.
+
+**À retenir :** Les députés européens sont élus tous les cinq ans.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("laicite"))`
-La **laïcité** signifie que l’État reste neutre envers les religions. Chacun est libre de croire, de ne pas croire ou de changer de religion, dans le respect de la loi. La laïcité n’interdit donc pas les religions : elle protège la liberté de conscience.
+**Voir aussi :** Parlement européen.
 
-1. [➡️ Voir la fiche mémo sur la laïcité](SCR_QL_GLO0080)
-2. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-3. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0043`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("liberte"))`
-J’ai trouvé une notion correspondant à votre question : **Liberté**.
+<!-- Réponse : SCR_QL_GLO0129 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" titre de sejour ") || @qlNormalisee.includes(" titres de sejour ") || @qlNormalisee.includes(" carte de sejour ")))`
+### 📘 Titre de séjour
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0082)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Un **titre de séjour** est un document qui autorise une personne étrangère à séjourner en France selon les conditions du titre.
+
+`@qlReponse = SCR_QL_GLO0129`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0045 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" dignite humaine ") || @qlNormalisee.includes(" dignite ")))`
+### 📘 Dignité humaine
 
-`if !@qlTrouvee && (@qlNormalisee.includes("mayotte"))`
-J’ai trouvé une notion correspondant à votre question : **Mayotte**.
+La **dignité humaine** signifie que toute personne mérite le respect. On ne doit pas humilier une personne ni la traiter comme un objet.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0091)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0045`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0053 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" espace schengen ")))`
+### 📘 Espace Schengen
+
+Espace dans lequel les contrôles aux frontières intérieures sont supprimés entre les États participants.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("salaire"))`
-J’ai trouvé une notion correspondant à votre question : **Salaire**.
+**À retenir :** La France fait partie de l'espace Schengen.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0120)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Union européenne.
+
+`@qlReponse = SCR_QL_GLO0053`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0095 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" musee du louvre ") || @qlNormalisee.includes(" paris ")))`
+### 📘 Musée du Louvre
+
+Plus grand musée d'art de France situé à Paris.
+
+**À retenir :** Il abrite notamment la Joconde.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("celtes"))`
-J’ai trouvé une notion correspondant à votre question : **Celtes**.
+**Voir aussi :** Paris.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0014)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0095`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("clovis"))`
-J’ai trouvé une notion correspondant à votre question : **Clovis**.
+<!-- Réponse : SCR_QL_GLO0177 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" droits civiques ") || @qlNormalisee.includes(" droits civiques ")))`
+### 📘 Droits civiques
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0021)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Droits qui permettent de participer à la vie citoyenne, notamment le droit de vote, selon les conditions prévues par la loi.
+
+`@qlReponse = SCR_QL_GLO0177`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0200 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" impressionnisme ") || @qlNormalisee.includes(" impressionnisme ")))`
+### 📘 Impressionnisme
 
-`if !@qlTrouvee && (@qlNormalisee.includes("depute"))`
-J’ai trouvé une notion correspondant à votre question : **Député**.
+Courant artistique du XIXe siècle qui représente notamment les impressions de lumière et de couleur.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0042)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0200`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("guyane"))`
-J’ai trouvé une notion correspondant à votre question : **Guyane**.
+<!-- Réponse : SCR_QL_GLO0173 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" interet general ") || @qlNormalisee.includes(" interet general ")))`
+### 📘 Intérêt général
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0068)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Ce qui sert le bien commun, au-delà des intérêts particuliers d’une personne ou d’un groupe.
+
+`@qlReponse = SCR_QL_GLO0173`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0156 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" parti politique ") || @qlNormalisee.includes(" parti politique ")))`
+### 📘 Parti politique
 
-`if !@qlTrouvee && (@qlNormalisee.includes("mairie"))`
-J’ai trouvé une notion correspondant à votre question : **Mairie**.
+Organisation qui rassemble des personnes autour d’idées politiques et participe à la vie démocratique, notamment aux élections.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0088)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0156`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("police"))`
-J’ai trouvé une notion correspondant à votre question : **Police**.
+<!-- Réponse : SCR_QL_GLO0191 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" reseaux sociaux ") || @qlNormalisee.includes(" reseaux sociaux ")))`
+### 📘 Réseaux sociaux
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0104)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Services en ligne permettant de publier et d’échanger des contenus. Les règles de droit et le respect d’autrui s’y appliquent aussi.
+
+`@qlReponse = SCR_QL_GLO0191`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0189 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" tri des dechets ") || @qlNormalisee.includes(" tri des dechets ") || @qlNormalisee.includes(" tri des dechets ")))`
+### 📘 Tri des déchets
 
-`if !@qlTrouvee && (@qlNormalisee.includes("prefet"))`
-J’ai trouvé une notion correspondant à votre question : **Préfet**.
+Séparation des déchets selon leur nature pour permettre leur collecte et leur traitement adaptés.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0106)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0189`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("region"))`
-J’ai trouvé une notion correspondant à votre question : **Région**.
+<!-- Réponse : SCR_QL_GLO0097 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" naturalisation ") || @qlNormalisee.includes(" nationalite francaise ") || @qlNormalisee.includes(" devenir francais ") || @qlNormalisee.includes(" devenir francaise ") || @qlNormalisee.includes(" naturalisations ")))`
+### 📘 Naturalisation
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0117)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+La **naturalisation** est une procédure qui permet de devenir français sous certaines conditions. Les démarches sont expliquées dans les rubriques du chatbot.
+
+`@qlReponse = SCR_QL_GLO0097`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_SIMPLE_DEVOIR -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" devoir civique ") || @qlNormalisee.includes(" devoirs civiques ") || @qlNormalisee.includes(" devoirs ") || @qlNormalisee.includes(" obligation civique ")))`
+### 📘 Devoir civique
 
-`if !@qlTrouvee && (@qlNormalisee.includes("surete"))`
-J’ai trouvé une notion correspondant à votre question : **Sûreté**.
+Un **devoir** est une obligation à respecter pour vivre ensemble. Respecter la loi et les droits des autres en sont des exemples.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0128)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_SIMPLE_DEVOIR`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("unesco"))`
-J’ai trouvé une notion correspondant à votre question : **UNESCO**.
+<!-- Réponse : SCR_QL_GLO0057 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" fete nationale ") || @qlNormalisee.includes(" 14 juillet ") || @qlNormalisee.includes(" quatorze juillet ")))`
+### 📘 Fête nationale
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0132)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+La fête nationale française est célébrée chaque année le 14 juillet.
+
+**À retenir :** Elle commémore la prise de la Bastille et la Fête de la Fédération.
+
+**Voir aussi :** République.
+
+`@qlReponse = SCR_QL_GLO0057`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0125 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" service public ") || @qlNormalisee.includes(" services publics ")))`
+### 📘 Service public
 
-`if !@qlTrouvee && (@qlNormalisee.includes("alpes"))`
-J’ai trouvé une notion correspondant à votre question : **Alpes**.
+Un **service public** répond à un besoin d’intérêt général. L’école publique est un exemple de service public.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0002)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0125`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("crime"))`
-J’ai trouvé une notion correspondant à votre question : **Crime**.
+<!-- Réponse : SCR_QL_SIMPLE_DISCRIMINATION -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" discrimination ") || @qlNormalisee.includes(" discriminations ") || @qlNormalisee.includes(" discriminer ") || @qlNormalisee.includes(" discrimine ") || @qlNormalisee.includes(" racisme ") || @qlNormalisee.includes(" raciste ")))`
+### 📘 Discrimination
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0037)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Une **discrimination** consiste à traiter une personne moins bien pour un motif interdit, par exemple son origine ou sa religion. Le principe d’égalité protège les personnes contre ces traitements.
+
+`@qlReponse = SCR_QL_SIMPLE_DISCRIMINATION`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0060 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" france travail ") || @qlNormalisee.includes(" formation ") || @qlNormalisee.includes(" emploi ") || @qlNormalisee.includes(" pole emploi ")))`
+### 📘 France Travail
 
-`if !@qlTrouvee && (@qlNormalisee.includes("delit"))`
-J’ai trouvé une notion correspondant à votre question : **Délit**.
+**France Travail** accompagne les personnes qui cherchent un emploi, notamment dans leurs recherches et leurs démarches.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0039)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0060`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("ecole"))`
-J’ai trouvé une notion correspondant à votre question : **École**.
+<!-- Réponse : SCR_QL_GLO0172 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" agents publics ") || @qlNormalisee.includes(" agents publics ")))`
+### 📘 Agents publics
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0048)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Personnes qui travaillent pour une administration ou un service public. Elles doivent respecter notamment la neutralité et l’égalité de traitement.
+
+`@qlReponse = SCR_QL_GLO0172`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0164 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" chef de l etat ") || @qlNormalisee.includes(" chef de l etat ")))`
+### 📘 Chef de l’État
 
-`if !@qlTrouvee && (@qlNormalisee.includes("gaule"))`
-J’ai trouvé une notion correspondant à votre question : **Gaule**.
+Personne qui représente l’État au plus haut niveau. En France, le chef de l’État est le président de la République.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0064)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0164`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("impot"))`
-J’ai trouvé une notion correspondant à votre question : **Impôt**.
+<!-- Réponse : SCR_QL_GLO0183 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" cour d assises ") || @qlNormalisee.includes(" cour d assises ") || @qlNormalisee.includes(" cour d assises ")))`
+### 📘 Cour d’assises
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0073)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Juridiction qui juge certains crimes avec des magistrats et un jury de citoyens.
+
+`@qlReponse = SCR_QL_GLO0183`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0052 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" environnement ") || @qlNormalisee.includes(" proteger la nature ") || @qlNormalisee.includes(" environnements ")))`
+### 📘 Environnement
+
+Ensemble des éléments naturels que chacun doit protéger.
+
+**À retenir :** La protection de l'environnement est une responsabilité collective.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("lycee"))`
-J’ai trouvé une notion correspondant à votre question : **Lycée**.
+**Voir aussi :** Charte de l'environnement.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0086)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0052`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("maire"))`
-J’ai trouvé une notion correspondant à votre question : **Maire**.
+<!-- Réponse : SCR_QL_GLO0035 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" contravention ") || @qlNormalisee.includes(" contraventions ")))`
+### 📘 Contravention
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0087)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Infraction la moins grave.
+
+**À retenir :** Elle est généralement punie d'une amende.
+
+**Voir aussi :** Délit; Crime.
+
+`@qlReponse = SCR_QL_GLO0035`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0135 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" vercingetorix ") || @qlNormalisee.includes(" jules cesar ") || @qlNormalisee.includes(" vercingetorixs ")))`
+### 📘 Vercingétorix
 
-`if !@qlTrouvee && (@qlNormalisee.includes("seine"))`
-J’ai trouvé une notion correspondant à votre question : **Seine**.
+Chef gaulois qui s'est opposé à Jules César.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0122)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**À retenir :** Il est devenu un symbole de la résistance gauloise.
+
+**Voir aussi :** Gaule; Jules César.
+
+`@qlReponse = SCR_QL_GLO0135`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0072 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" ile de france ") || @qlNormalisee.includes(" paris ")))`
+### 📘 Île-de-France
+
+Région où se situe Paris, capitale de la France.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("senat"))`
-J’ai trouvé une notion correspondant à votre question : **Sénat**.
+**À retenir :** Elle est la région la plus peuplée du pays et concentre de nombreuses institutions nationales.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0123)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Paris.
+
+`@qlReponse = SCR_QL_GLO0072`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0184 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" peine de mort ") || @qlNormalisee.includes(" peine de mort ")))`
+### 📘 Peine de mort
 
-`if !@qlTrouvee && (@qlNormalisee.includes("bail"))`
-J’ai trouvé une notion correspondant à votre question : **Bail**.
+Sanction qui consiste à exécuter une personne condamnée. Elle a été abolie en France en 1981.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0007)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0184`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("cpam"))`
-J’ai trouvé une notion correspondant à votre question : **CPAM**.
+<!-- Réponse : SCR_QL_GLO0066 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" gouvernement ") || @qlNormalisee.includes(" gouv ") || @qlNormalisee.includes(" gouvernements ") || @qlNormalisee.includes(" gouvernment ") || @qlNormalisee.includes(" gouvernemant ") || @qlNormalisee.includes(" gouvernemen ") || @qlNormalisee.includes(" equipe des ministres ")))`
+### 📘 Gouvernement
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0036)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Le **gouvernement** est l’équipe qui dirige l’action du pays au quotidien. En France, il est composé du **Premier ministre et des ministres**. Il prépare des projets de loi et fait appliquer les lois. **Le Parlement vote les lois : ce n’est pas le même rôle.**
+
+`@qlReponse = SCR_QL_GLO0066`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0031 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" consentement ") || @qlNormalisee.includes(" violence sexuelle ") || @qlNormalisee.includes(" consantement ") || @qlNormalisee.includes(" accord libre ") || @qlNormalisee.includes(" consentements ")))`
+### 📘 Consentement
 
-`if !@qlTrouvee && (@qlNormalisee.includes("etat"))`
-J’ai trouvé une notion correspondant à votre question : **État**.
+Le **consentement** est un accord donné librement, sans pression. Une personne doit pouvoir accepter ou refuser.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0054)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0031`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("euro"))`
-J’ai trouvé une notion correspondant à votre question : **Euro**.
+<!-- Réponse : SCR_QL_GLO0061 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" francophonie ") || @qlNormalisee.includes(" langue francaise ") || @qlNormalisee.includes(" francophonies ")))`
+### 📘 Francophonie
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0055)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Ensemble des personnes et des pays qui utilisent la langue française.
+
+**À retenir :** Le français est parlé sur les cinq continents.
+
+**Voir aussi :** Langue française.
+
+`@qlReponse = SCR_QL_GLO0061`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0099 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" ordre public ") || @qlNormalisee.includes(" ordre publique ")))`
+### 📘 Ordre public
 
-`if !@qlTrouvee && (@qlNormalisee.includes("vote"))`
-J’ai trouvé une notion correspondant à votre question : **Vote**.
+L’**ordre public** protège notamment la sécurité et la tranquillité de tous. Il permet de vivre ensemble dans un cadre commun.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0137)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0099`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("apl"))`
-J’ai trouvé une notion correspondant à votre question : **APL**.
+<!-- Réponse : SCR_QL_GLO0032 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" constitution ") || @qlNormalisee.includes(" constitucion ") || @qlNormalisee.includes(" constitusion ") || @qlNormalisee.includes(" constitutions ")))`
+### 📘 Constitution
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0003)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+La **Constitution** est le texte qui fixe les grandes règles de fonctionnement du pays. Elle organise les institutions et protège des droits fondamentaux.
+
+`@qlReponse = SCR_QL_GLO0032`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0112 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" proprietaire ") || @qlNormalisee.includes(" proprietaires ")))`
+### 📘 Propriétaire
+
+Personne qui possède un logement.
+
+**À retenir :** Le propriétaire peut louer son logement.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("caf"))`
-J’ai trouvé une notion correspondant à votre question : **CAF**.
+**Voir aussi :** Bail.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0009)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0112`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("cdd"))`
-J’ai trouvé une notion correspondant à votre question : **CDD**.
+<!-- Réponse : SCR_QL_GLO0113 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" prostitution ") || @qlNormalisee.includes(" prostitutions ")))`
+### 📘 Prostitution
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0012)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Échange d'un acte sexuel contre une rémunération.
+
+**À retenir :** Le proxénétisme et le recours à la prostitution sont encadrés par la loi.
+
+**Voir aussi :** Traite des êtres humains.
+
+`@qlReponse = SCR_QL_GLO0113`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0011 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" carte vitale ") || @qlNormalisee.includes(" carte vital ")))`
+### 📘 Carte Vitale
 
-`if !@qlTrouvee && (@qlNormalisee.includes("cdi"))`
-J’ai trouvé une notion correspondant à votre question : **CDI**.
+La **carte Vitale** sert à transmettre les informations nécessaires au remboursement des soins par l’Assurance maladie.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0013)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0011`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("loi"))`
-J’ai trouvé une notion correspondant à votre question : **Loi**.
+<!-- Réponse : SCR_QL_GLO0198 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" colonisation ") || @qlNormalisee.includes(" colonisation ")))`
+### 📘 Colonisation
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0085)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Prise de contrôle d’un territoire et de sa population par une puissance extérieure.
+
+`@qlReponse = SCR_QL_GLO0198`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0203 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" mediterranee ") || @qlNormalisee.includes(" mediterranee ")))`
+### 📘 Méditerranée
 
-`if !@qlTrouvee && (@qlNormalisee.includes("valeurs de la republique"))`
-J’ai trouvé une notion correspondant à votre question : **Contrat d'engagement à respecter les principes de la République**.
+Mer située au sud de la France, entre l’Europe, l’Afrique du Nord et le Proche-Orient.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0033)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0203`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("secours"))`
-J’ai trouvé une notion correspondant à votre question : **Assistance à personne en danger**.
+<!-- Réponse : SCR_QL_GLO0139 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" salaire brut ") || @qlNormalisee.includes(" salaire brut ")))`
+### 📘 Salaire brut
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0005)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Rémunération avant le prélèvement des cotisations sociales à la charge du salarié.
+
+`@qlReponse = SCR_QL_GLO0139`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0069 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" harcelement ") || @qlNormalisee.includes(" harcelement moral ") || @qlNormalisee.includes(" harcelement au travail ") || @qlNormalisee.includes(" harcelements ")))`
+### 📘 Harcèlement
 
-`if !@qlTrouvee && (@qlNormalisee.includes("marseille") || @qlNormalisee.includes("nice"))`
-J’ai trouvé une notion correspondant à votre question : **Provence-Alpes-Côte d'Azur**.
+Violences ou comportements répétés ayant pour effet de dégrader les conditions de vie d'une personne.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0114)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**À retenir :** Le harcèlement est puni par la loi.
+
+**Voir aussi :** Harcèlement scolaire.
+
+`@qlReponse = SCR_QL_GLO0069`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("esclavage"))`
-J’ai trouvé une notion correspondant à votre question : **Traite des êtres humains**.
+<!-- Réponse : SCR_QL_GLO0111 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" procuration ") || @qlNormalisee.includes(" voter a ma place ") || @qlNormalisee.includes(" procurations ")))`
+### 📘 Procuration
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0131)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Une **procuration** permet de confier son vote à une autre personne lorsqu’on ne peut pas voter soi-même.
+
+`@qlReponse = SCR_QL_GLO0111`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0015 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" charlemagne ") || @qlNormalisee.includes(" moyen age ") || @qlNormalisee.includes(" charlemagnes ")))`
+### 📘 Charlemagne
 
-`if !@qlTrouvee && (@qlNormalisee.includes("resistance"))`
-J’ai trouvé une notion correspondant à votre question : **Seconde Guerre mondiale**.
+Empereur d'Occident couronné en l'an 800.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0121)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**À retenir :** Il a contribué au développement de l'éducation et de l'organisation de son empire.
+
+**Voir aussi :** Moyen Âge.
+
+`@qlReponse = SCR_QL_GLO0015`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0020 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" citoyennete ") || @qlNormalisee.includes(" nationalite ") || @qlNormalisee.includes(" citoyennetes ")))`
+### 📘 Citoyenneté
+
+Lien juridique entre une personne et un État, donnant des droits mais aussi des devoirs.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("louis xiv"))`
-J’ai trouvé une notion correspondant à votre question : **Château de Versailles**.
+**À retenir :** Tous les résidents ne sont pas citoyens français.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0017)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Attention à ne pas confondre :** Citoyenneté ≠ résidence.
+
+**Voir aussi :** Nationalité.
+
+`@qlReponse = SCR_QL_GLO0020`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0041 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" departement ") || @qlNormalisee.includes(" departements ")))`
+### 📘 Département
+
+Le département est une collectivité territoriale située entre la région et la commune.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("culture"))`
-J’ai trouvé une notion correspondant à votre question : **Fête de la Musique**.
+**À retenir :** La France compte 101 départements.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0056)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Région; Commune.
+
+`@qlReponse = SCR_QL_GLO0041`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0065 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" gendarmerie ") || @qlNormalisee.includes(" gendarmes ") || @qlNormalisee.includes(" gendarmeries ")))`
+### 📘 Gendarmerie
+
+Force militaire chargée de missions de sécurité publique.
+
+**À retenir :** Elle intervient principalement en zone rurale.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("services publics"))`
-J’ai trouvé une notion correspondant à votre question : **France Services**.
+**Voir aussi :** Police.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0059)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0065`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("paris"))`
-J’ai trouvé une notion correspondant à votre question : **Musée du Louvre**.
+<!-- Réponse : SCR_QL_GLO0130 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" tour eiffel ") || @qlNormalisee.includes(" paris ")))`
+### 📘 Tour Eiffel
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0095)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Monument emblématique situé à Paris, construit pour l'Exposition universelle de 1889.
+
+**À retenir :** Elle est l'un des symboles les plus connus de la France.
+
+**Voir aussi :** Paris.
+
+`@qlReponse = SCR_QL_GLO0130`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0157 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" eligibilite ") || @qlNormalisee.includes(" eligibilite ")))`
+### 📘 Éligibilité
 
-`if !@qlTrouvee && (@qlNormalisee.includes("formation") || @qlNormalisee.includes("emploi"))`
-J’ai trouvé une notion correspondant à votre question : **France Travail**.
+Possibilité de se présenter à une élection lorsque les conditions prévues par la loi sont remplies.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0060)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0157`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("nationalite francaise"))`
-J’ai trouvé une notion correspondant à votre question : **Naturalisation**.
+<!-- Réponse : SCR_QL_GLO0201 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" litterature ") || @qlNormalisee.includes(" litterature ")))`
+### 📘 Littérature
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0097)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Ensemble des œuvres écrites, comme les romans, la poésie ou le théâtre.
+
+`@qlReponse = SCR_QL_GLO0201`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0155 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" quinquennat ") || @qlNormalisee.includes(" quinquennat ")))`
+### 📘 Quinquennat
 
-`if !@qlTrouvee && (@qlNormalisee.includes("paris"))`
-J’ai trouvé une notion correspondant à votre question : **Île-de-France**.
+Mandat de cinq ans. Le mandat du président de la République française est un quinquennat.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0072)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0155`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("jules cesar"))`
-J’ai trouvé une notion correspondant à votre question : **Vercingétorix**.
+<!-- Réponse : SCR_QL_GLO0140 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" salaire net ") || @qlNormalisee.includes(" salaire net ")))`
+### 📘 Salaire net
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0135)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Rémunération après déduction des cotisations salariales ; le montant versé peut aussi tenir compte du prélèvement de l’impôt.
+
+`@qlReponse = SCR_QL_GLO0140`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0098 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" neutralite ") || @qlNormalisee.includes(" neutralite du service public ") || @qlNormalisee.includes(" neutralites ")))`
+### 📘 Neutralité
 
-`if !@qlTrouvee && (@qlNormalisee.includes("violence sexuelle"))`
-J’ai trouvé une notion correspondant à votre question : **Consentement**.
+La **neutralité** signifie ne pas favoriser une opinion politique ou une religion dans l’exercice d’un service public.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0031)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0098`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("langue francaise"))`
-J’ai trouvé une notion correspondant à votre question : **Francophonie**.
+<!-- Réponse : SCR_QL_GLO0103 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" patrimoine ") || @qlNormalisee.includes(" heritage culturel ") || @qlNormalisee.includes(" patrimoines ")))`
+### 📘 Patrimoine
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0061)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Le **patrimoine** est l’ensemble des lieux, des objets et des traditions transmis par les générations précédentes. Un monument historique en fait partie.
+
+`@qlReponse = SCR_QL_GLO0103`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0001 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" abstention ") || @qlNormalisee.includes(" ne pas voter ") || @qlNormalisee.includes(" abstentions ")))`
+### 📘 Abstention
 
-`if !@qlTrouvee && (@qlNormalisee.includes("moyen age"))`
-J’ai trouvé une notion correspondant à votre question : **Charlemagne**.
+L’**abstention** consiste à ne pas participer à une élection. Elle est différente du vote blanc.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0015)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0001`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("nationalite"))`
-J’ai trouvé une notion correspondant à votre question : **Citoyenneté**.
+<!-- Réponse : SCR_QL_GLO0040 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" democratie ") || @qlNormalisee.includes(" democracie ") || @qlNormalisee.includes(" democratique ") || @qlNormalisee.includes(" democraties ")))`
+### 📘 Démocratie
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0020)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Dans une **démocratie**, le peuple participe aux décisions, notamment en choisissant ses représentants par le vote.
+
+`@qlReponse = SCR_QL_GLO0040`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0062 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" fraternite ") || @qlNormalisee.includes(" solidarite ") || @qlNormalisee.includes(" entraide ") || @qlNormalisee.includes(" fraternites ")))`
+### 📘 Fraternité
 
-`if !@qlTrouvee && (@qlNormalisee.includes("paris"))`
-J’ai trouvé une notion correspondant à votre question : **Tour Eiffel**.
+La **fraternité** signifie vivre ensemble avec respect et solidarité. Aider une personne en difficulté est un exemple de solidarité.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0130)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0062`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("solidarite"))`
-J’ai trouvé une notion correspondant à votre question : **Fraternité**.
+<!-- Réponse : SCR_QL_GLO0067 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" guadeloupe ") || @qlNormalisee.includes(" guadeloupes ")))`
+### 📘 Guadeloupe
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0062)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Département et région d'outre-mer situé dans les Caraïbes.
+
+**À retenir :** Elle est connue pour ses plages, son volcan de la Soufrière et sa biodiversité.
+
+**Voir aussi :** Outre-mer.
+
+`@qlReponse = SCR_QL_GLO0067`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0074 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" infraction ") || @qlNormalisee.includes(" infractions ")))`
+### 📘 Infraction
 
-`if !@qlTrouvee && (@qlNormalisee.includes("salarie"))`
-J’ai trouvé une notion correspondant à votre question : **Employeur**.
+Acte interdit par la loi.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0051)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**À retenir :** Une infraction peut être sanctionnée.
+
+**Voir aussi :** Contravention; Délit; Crime.
+
+`@qlReponse = SCR_QL_GLO0074`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0090 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" martinique ") || @qlNormalisee.includes(" martiniques ")))`
+### 📘 Martinique
+
+Département et région d'outre-mer situé dans les Caraïbes.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("rennes"))`
-J’ai trouvé une notion correspondant à votre question : **Bretagne**.
+**À retenir :** La Martinique est célèbre pour la montagne Pelée et son patrimoine culturel.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0008)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Outre-mer.
+
+`@qlReponse = SCR_QL_GLO0090`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0105 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" prefecture ") || @qlNormalisee.includes(" prefectures ")))`
+### 📘 Préfecture
+
+Administration représentant l'État dans un département.
+
+**À retenir :** Elle traite notamment certaines démarches liées au séjour des étrangers.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("samu"))`
-J’ai trouvé une notion correspondant à votre question : **Urgences**.
+**Voir aussi :** Préfet.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0134)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0105`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("droit de vote") || @qlNormalisee.includes("nationalite"))`
-J’ai trouvé une notion correspondant à votre question : **Citoyen**.
+<!-- Réponse : SCR_QL_GLO0116 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" referendum ") || @qlNormalisee.includes(" referendums ")))`
+### 📘 Référendum
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0019)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Un **référendum** est un vote où les citoyens répondent directement à une question, généralement par oui ou non.
+
+`@qlReponse = SCR_QL_GLO0116`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0118 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" republique ") || @qlNormalisee.includes(" republic ") || @qlNormalisee.includes(" republicain ") || @qlNormalisee.includes(" republiques ")))`
+### 📘 République
+
+Organisation politique dans laquelle le pouvoir appartient au peuple et s'exerce conformément à la Constitution.
+
+**À retenir :** La France est une République indivisible, laïque, démocratique et sociale.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("discrimination"))`
-J’ai trouvé une notion correspondant à votre question : **Égalité**.
+**Attention à ne pas confondre :** République ≠ démocratie.
+La République est une forme d'organisation de l'État.
+La démocratie est une manière d'exercer le pouvoir.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0049)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+**Voir aussi :** Constitution; Démocratie; Souveraineté nationale.
+
+`@qlReponse = SCR_QL_GLO0118`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0079 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" la reunion ")))`
+### 📘 La Réunion
+
+Département et région d'outre-mer situé dans l'océan Indien.
+
+**À retenir :** L'île est connue pour ses cirques, son volcan actif et ses paysages naturels.
 
-`if !@qlTrouvee && (@qlNormalisee.includes("tribunal"))`
-J’ai trouvé une notion correspondant à votre question : **Justice**.
+**Voir aussi :** Outre-mer.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0077)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0079`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("liberte d expression"))`
-J’ai trouvé une notion correspondant à votre question : **Liberté**.
+<!-- Réponse : SCR_QL_GLO0188 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" decheterie ") || @qlNormalisee.includes(" decheterie ")))`
+### 📘 Déchèterie
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0082)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Lieu où l’on dépose certains déchets qui ne doivent pas être mis dans les poubelles ordinaires.
+
+`@qlReponse = SCR_QL_GLO0188`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0143 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" entreprise ") || @qlNormalisee.includes(" entreprise ")))`
+### 📘 Entreprise
 
-`if !@qlTrouvee && (@qlNormalisee.includes("jules cesar"))`
-J’ai trouvé une notion correspondant à votre question : **Gaule**.
+Organisation qui produit des biens ou fournit des services. Elle peut employer des salariés.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0064)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0143`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("services publics"))`
-J’ai trouvé une notion correspondant à votre question : **Impôt**.
+<!-- Réponse : SCR_QL_GLO0166 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" etat civil ") || @qlNormalisee.includes(" etat civil ")))`
+### 📘 État civil
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0073)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Enregistrement officiel des événements importants de la vie d’une personne, notamment sa naissance, son mariage et son décès.
+
+`@qlReponse = SCR_QL_GLO0166`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0149 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" prevention ") || @qlNormalisee.includes(" prevention ")))`
+### 📘 Prévention
 
-`if !@qlTrouvee && (@qlNormalisee.includes("baccalaureat"))`
-J’ai trouvé une notion correspondant à votre question : **Lycée**.
+Actions destinées à éviter un risque ou à limiter ses conséquences, par exemple la vaccination ou le dépistage.
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0086)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0149`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("loire"))`
-La **Loire** est le plus long fleuve qui coule entièrement en France. Elle traverse notamment Orléans, Tours et Nantes avant de se jeter dans l’océan Atlantique.
+<!-- Réponse : SCR_QL_GLO0193 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" resistance ") || @qlNormalisee.includes(" resistance ")))`
+### 📘 Résistance
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Actions menées contre l’occupation et les régimes oppressifs ; en France, le terme renvoie notamment à la lutte contre l’occupation nazie pendant la Seconde Guerre mondiale.
+
+`@qlReponse = SCR_QL_GLO0193`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0051 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" employeur ") || @qlNormalisee.includes(" patron ") || @qlNormalisee.includes(" employeurs ")))`
+### 📘 Employeur
 
-`if !@qlTrouvee && (@qlNormalisee.includes("rhone"))`
-Le **Rhône** prend sa source en Suisse, traverse notamment Lyon et se jette dans la mer Méditerranée.
+L’**employeur** est la personne ou l’organisation qui embauche un salarié et lui verse un salaire.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0051`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("logement"))`
-J’ai trouvé une notion correspondant à votre question : **Bail**.
+<!-- Réponse : SCR_QL_GLO0084 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" locataire ") || @qlNormalisee.includes(" locataires ")))`
+### 📘 Locataire
 
-1. [➡️ Afficher l’explication](SCR_QL_GLO0007)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Le **locataire** est la personne qui loue un logement et paie un loyer au propriétaire.
+
+`@qlReponse = SCR_QL_GLO0084`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0101 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" parlement ") || @qlNormalisee.includes(" parlements ") || @qlNormalisee.includes(" parlemant ")))`
+### 📘 Parlement
 
-`if !@qlTrouvee && (@qlNormalisee.includes("prix") || @qlNormalisee.includes("cout") || @qlNormalisee.includes("tarif") || @qlNormalisee.includes("payer"))`
-Votre demande concerne **le prix de l’examen**.
+Le **Parlement** est l’ensemble des représentants qui discutent et **votent les lois**. En France, il comprend l’**Assemblée nationale** et le **Sénat**. Le Gouvernement prépare des projets de loi ; le Parlement les examine et les vote.
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_FAQ_019)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0101`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("combien de questions") || @qlNormalisee.includes("duree examen") || @qlNormalisee.includes("format examen") || @qlNormalisee.includes("40 questions"))`
-Votre demande concerne **le format de l’examen**.
+<!-- Réponse : SCR_QL_GLO0100 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" outre mer ") || @qlNormalisee.includes(" outremer ") || @qlNormalisee.includes(" dom tom ")))`
+### 📘 Outre-mer
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_FAQ_004)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+L’**outre-mer** désigne les territoires français situés en dehors de la France métropolitaine.
+
+`@qlReponse = SCR_QL_GLO0100`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0197 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" abolition ") || @qlNormalisee.includes(" abolition ")))`
+### 📘 Abolition
 
-`if !@qlTrouvee && (@qlNormalisee.includes("score") || @qlNormalisee.includes("bonnes reponses") || @qlNormalisee.includes("32 sur 40") || @qlNormalisee.includes("80 pour cent") || @qlNormalisee.includes("reussir examen"))`
-Votre demande concerne **le score nécessaire pour réussir**.
+Suppression officielle d’une règle, d’une pratique ou d’une peine, par exemple l’abolition de l’esclavage ou de la peine de mort.
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_FAQ_009)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0197`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("echec") || @qlNormalisee.includes("echoue") || @qlNormalisee.includes("rate examen") || @qlNormalisee.includes("repasser examen"))`
-Votre demande concerne **ce qu’il faut faire après un échec**.
+<!-- Réponse : SCR_QL_GLO0192 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" armistice ") || @qlNormalisee.includes(" armistice ")))`
+### 📘 Armistice
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_FAQ_026)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Accord qui suspend les combats entre des forces en guerre. Il ne signifie pas nécessairement la fin définitive de la guerre.
+
+`@qlReponse = SCR_QL_GLO0192`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0145 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" benevolat ") || @qlNormalisee.includes(" benevolat ")))`
+### 📘 Bénévolat
 
-`if !@qlTrouvee && (@qlNormalisee.includes("inscription") || @qlNormalisee.includes("m inscrire") || @qlNormalisee.includes("formulaire examen"))`
-Votre demande concerne **l’inscription et les prochaines sessions**.
+Activité réalisée librement sans rémunération, par exemple pour aider une association.
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_PASS_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0145`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("m entrainer") || @qlNormalisee.includes("entrainement") || @qlNormalisee.includes("quiz") || @qlNormalisee.includes("qcm"))`
-Votre demande concerne **les entraînements**.
+<!-- Réponse : SCR_QL_GLO0196 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" esclavage ") || @qlNormalisee.includes(" esclavage ")))`
+### 📘 Esclavage
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_ENT_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Situation dans laquelle des personnes sont privées de leur liberté et traitées comme la propriété d’autrui.
+
+`@qlReponse = SCR_QL_GLO0196`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0199 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" monarchie ") || @qlNormalisee.includes(" monarchie ")))`
+### 📘 Monarchie
 
-`if !@qlTrouvee && (@qlNormalisee.includes("examen blanc") || @qlNormalisee.includes("simulation examen"))`
-Votre demande concerne **les examens blancs**.
+Régime politique dans lequel le chef de l’État est un roi ou une reine.
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_PREP_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0199`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("memoriser") || @qlNormalisee.includes("retenir") || @qlNormalisee.includes("j oublie") || @qlNormalisee.includes("memoire"))`
-Votre demande concerne **les méthodes de mémorisation**.
+<!-- Réponse : SCR_QL_GLO0167 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" naissance ") || @qlNormalisee.includes(" naissance ")))`
+### 📘 Naissance
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_CONS_MEMOIRE_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Venue au monde d’un enfant. Elle doit être déclarée à l’état civil dans les conditions prévues par la loi.
+
+`@qlReponse = SCR_QL_GLO0167`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("stress") || @qlNormalisee.includes("angoisse") || @qlNormalisee.includes("peur examen") || @qlNormalisee.includes("inquiet"))`
-Votre demande concerne **la gestion du stress**.
+<!-- Réponse : SCR_QL_GLO0169 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" polygamie ") || @qlNormalisee.includes(" polygamie ")))`
+### 📘 Polygamie
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_CONS_ENTRETIEN_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Situation dans laquelle une personne est mariée à plusieurs conjoints en même temps. Elle est interdite en France.
+
+`@qlReponse = SCR_QL_GLO0169`
 `@qlTrouvee = true`
 `endif`
+
+<!-- Réponse : SCR_QL_GLO0187 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" recyclage ") || @qlNormalisee.includes(" recyclage ")))`
+### 📘 Recyclage
 
-`if !@qlTrouvee && (@qlNormalisee.includes("bilan") || @qlNormalisee.includes("progression") || @qlNormalisee.includes("suis je pret") || @qlNormalisee.includes("points faibles"))`
-Votre demande concerne **le bilan de progression**.
+Transformation de déchets pour réutiliser leurs matériaux et réduire le gaspillage des ressources.
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_BIL_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+`@qlReponse = SCR_QL_GLO0187`
 `@qlTrouvee = true`
 `endif`
 
-`if !@qlTrouvee && (@qlNormalisee.includes("reviser") || @qlNormalisee.includes("revision") || @qlNormalisee.includes("cours"))`
-Votre demande concerne **les cours de révision**.
+<!-- Réponse : SCR_QL_GLO0008 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" bretagne ") || @qlNormalisee.includes(" rennes ") || @qlNormalisee.includes(" bretagnes ")))`
+### 📘 Bretagne
 
-1. [➡️ Ouvrir la rubrique adaptée](SCR_REV_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
+Région située à l'ouest de la France métropolitaine.
+
+**À retenir :** La Bretagne est connue pour son littoral, sa culture bretonne, ses ports de pêche, ses phares et ses spécialités culinaires comme les crêpes et le kouign-amann.
+
+**Voir aussi :** Rennes; Région.
+
+`@qlReponse = SCR_QL_GLO0008`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0050 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" election ") || @qlNormalisee.includes(" elections ") || @qlNormalisee.includes(" electeur ")))`
+### 📘 Élection
+
+Procédure permettant aux citoyens de choisir leurs représentants.
+
+**À retenir :** Les élections sont au cœur de la démocratie.
+
+**Voir aussi :** Suffrage universel.
+
+`@qlReponse = SCR_QL_GLO0050`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0089 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" marianne ") || @qlNormalisee.includes(" mariannes ")))`
+### 📘 Marianne
+
+Marianne est la représentation symbolique de la République française.
+
+**À retenir :** Elle symbolise la liberté et la République.
+
+**Voir aussi :** République.
+
+`@qlReponse = SCR_QL_GLO0089`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0093 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" ministre ") || @qlNormalisee.includes(" ministres ") || @qlNormalisee.includes(" minister ") || @qlNormalisee.includes(" minstre ")))`
+### 📘 Ministre
+
+Un **ministre** fait partie du Gouvernement. Il s’occupe d’un domaine, comme l’éducation, la santé ou la justice.
+
+`@qlReponse = SCR_QL_GLO0093`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0124 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" senateur ") || @qlNormalisee.includes(" senateurs ")))`
+### 📘 Sénateur
+
+Le sénateur siège au Sénat.
+
+**À retenir :** Il participe au vote des lois.
+
+**Voir aussi :** Sénat.
+
+`@qlReponse = SCR_QL_GLO0124`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0136 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" violence ") || @qlNormalisee.includes(" violences ")))`
+### 📘 Violence
+
+Acte portant atteinte à une personne, physiquement, psychologiquement, sexuellement ou économiquement.
+
+**À retenir :** Toutes les formes de violence sont interdites.
+
+**Voir aussi :** Consentement.
+
+`@qlReponse = SCR_QL_GLO0136`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0115 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" pyrenees ")))`
+### 📘 Pyrénées
+
+Chaîne de montagnes séparant la France et l'Espagne.
+
+**À retenir :** Elles forment une frontière naturelle.
+
+**Voir aussi :** Alpes.
+
+`@qlReponse = SCR_QL_GLO0115`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0134 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" urgences ")))`
+### 📘 Urgences
+
+Situation nécessitant une prise en charge médicale immédiate.
+
+**À retenir :** En cas d'urgence médicale, composez le 15.
+
+**Voir aussi :** SAMU; Hôpital.
+
+`@qlReponse = SCR_QL_GLO0134`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0195 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" genocide ") || @qlNormalisee.includes(" genocide ")))`
+### 📘 Génocide
+
+Actes commis avec l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux.
+
+`@qlReponse = SCR_QL_GLO0195`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0147 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" handicap ") || @qlNormalisee.includes(" handicap ")))`
+### 📘 Handicap
+
+Limitation d’activité ou difficulté de participation à la vie sociale liée notamment à une altération physique, sensorielle ou mentale.
+
+`@qlReponse = SCR_QL_GLO0147`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0208 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" majorite ") || @qlNormalisee.includes(" majorite ")))`
+### 📘 Majorité
+
+Âge à partir duquel une personne devient juridiquement adulte. Le mot désigne aussi le plus grand nombre de voix dans un vote.
+
+`@qlReponse = SCR_QL_GLO0208`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0148 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" mutuelle ") || @qlNormalisee.includes(" mutuelle ")))`
+### 📘 Mutuelle
+
+Organisme de complémentaire santé qui peut prendre en charge une partie des dépenses restant après le remboursement de l’Assurance maladie.
+
+`@qlReponse = SCR_QL_GLO0148`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0175 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" religion ") || @qlNormalisee.includes(" religion ")))`
+### 📘 Religion
+
+Ensemble de croyances et de pratiques liées à une foi. Chacun est libre de croire, de changer de religion ou de ne pas croire.
+
+`@qlReponse = SCR_QL_GLO0175`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0080 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" laicite ") || @qlNormalisee.includes(" laicitee ") || @qlNormalisee.includes(" laique ") || @qlNormalisee.includes(" laic ") || @qlNormalisee.includes(" separation des eglises et de l etat ") || @qlNormalisee.includes(" laicites ")))`
+### 📘 Laïcité
+
+La **laïcité** permet à chacun de croire, de ne pas croire ou de changer de religion. L’État reste neutre à l’égard des religions. Chacun doit respecter la liberté des autres.
+
+`@qlReponse = SCR_QL_GLO0080`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0049 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" egalite ") || @qlNormalisee.includes(" egalites ") || @qlNormalisee.includes(" egalite devant la loi ")))`
+### 📘 Égalité
+
+L’**égalité** signifie que chacun a les mêmes droits devant la loi. Une personne ne doit pas être traitée moins bien en raison, par exemple, de son origine ou de sa religion.
+
+`@qlReponse = SCR_QL_GLO0049`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0082 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" liberte ") || @qlNormalisee.includes(" liberte d expression ") || @qlNormalisee.includes(" libertes ")))`
+### 📘 Liberté
+
+La **liberté** permet de faire des choix et de s’exprimer. Elle s’exerce dans le respect de la loi et des droits des autres.
+
+`@qlReponse = SCR_QL_GLO0082`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0019 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" citoyen ") || @qlNormalisee.includes(" droit de vote ") || @qlNormalisee.includes(" nationalite ") || @qlNormalisee.includes(" citoyenne ") || @qlNormalisee.includes(" citoyens ") || @qlNormalisee.includes(" citoyennes ")))`
+### 📘 Citoyen
+
+Un **citoyen** est une personne qui possède des droits civiques et des devoirs envers la société. Le vote est un exemple de droit civique.
+
+`@qlReponse = SCR_QL_GLO0019`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0120 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" salaire ") || @qlNormalisee.includes(" salaires ") || @qlNormalisee.includes(" remuneration ")))`
+### 📘 Salaire
+
+Somme versée par l'employeur en contrepartie du travail effectué.
+
+**À retenir :** Le salaire est indiqué sur la fiche de paie.
+
+**Voir aussi :** Employeur.
+
+`@qlReponse = SCR_QL_GLO0120`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0077 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" justice ") || @qlNormalisee.includes(" tribunal ") || @qlNormalisee.includes(" tribunaux ") || @qlNormalisee.includes(" justices ")))`
+### 📘 Justice
+
+La **justice** fait respecter les règles, règle les conflits et sanctionne les infractions. Elle protège aussi les droits des personnes.
+
+`@qlReponse = SCR_QL_GLO0077`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0022 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" college ") || @qlNormalisee.includes(" colleges ")))`
+### 📘 Collège
+
+Établissement accueillant les élèves après l'école primaire.
+
+**À retenir :** Le collège est obligatoire.
+
+**Voir aussi :** Lycée.
+
+`@qlReponse = SCR_QL_GLO0022`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0024 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" commune ") || @qlNormalisee.includes(" communes ")))`
+### 📘 Commune
+
+Une **commune** est une ville ou un village avec son administration locale. Le maire et le conseil municipal s’occupent des affaires de la commune.
+
+`@qlReponse = SCR_QL_GLO0024`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0071 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" hopital ") || @qlNormalisee.includes(" hopitals ")))`
+### 📘 Hôpital
+
+Établissement de santé où sont assurés les soins médicaux et chirurgicaux.
+
+**À retenir :** Les hôpitaux publics accueillent tous les patients.
+
+**Voir aussi :** Urgences.
+
+`@qlReponse = SCR_QL_GLO0071`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0091 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" mayotte ") || @qlNormalisee.includes(" mayottes ")))`
+### 📘 Mayotte
+
+Département et région d'outre-mer situé dans l'océan Indien.
+
+**À retenir :** Mayotte est le département le plus récent de la République française.
+
+**Voir aussi :** Outre-mer.
+
+`@qlReponse = SCR_QL_GLO0091`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0186 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" dechets ") || @qlNormalisee.includes(" dechets ")))`
+### 📘 Déchets
+
+Objets ou matières dont on se débarrasse. Il faut respecter les règles de collecte, de tri et de traitement.
+
+`@qlReponse = SCR_QL_GLO0186`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0168 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" divorce ") || @qlNormalisee.includes(" divorce ")))`
+### 📘 Divorce
+
+Fin d’un mariage prononcée ou constatée selon une procédure légale.
+
+`@qlReponse = SCR_QL_GLO0168`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0176 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" opinion ") || @qlNormalisee.includes(" opinion ")))`
+### 📘 Opinion
+
+Idée ou point de vue personnel sur un sujet. La liberté d’opinion est protégée, dans le respect de la loi et des droits d’autrui.
+
+`@qlReponse = SCR_QL_GLO0176`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0179 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" plainte ") || @qlNormalisee.includes(" plainte ")))`
+### 📘 Plainte
+
+Démarche par laquelle une personne signale aux autorités une infraction dont elle estime être victime.
+
+`@qlReponse = SCR_QL_GLO0179`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0174 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" respect ") || @qlNormalisee.includes(" respect ")))`
+### 📘 Respect
+
+Attitude qui consiste à reconnaître la dignité et les droits d’autrui, même lorsque ses opinions diffèrent des nôtres.
+
+`@qlReponse = SCR_QL_GLO0174`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0142 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" salarie ") || @qlNormalisee.includes(" salarie ")))`
+### 📘 Salarié
+
+Personne qui travaille pour un employeur dans le cadre d’un contrat de travail et reçoit un salaire.
+
+`@qlReponse = SCR_QL_GLO0142`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0152 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" secours ") || @qlNormalisee.includes(" secours ")))`
+### 📘 Secours
+
+Aide apportée à une personne en danger ou en difficulté ; elle peut nécessiter de prévenir les services d’urgence.
+
+`@qlReponse = SCR_QL_GLO0152`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0151 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" urgence ") || @qlNormalisee.includes(" urgence ")))`
+### 📘 Urgence
+
+Situation qui nécessite une intervention rapide, notamment lorsqu’une vie ou la sécurité d’une personne est en danger.
+
+`@qlReponse = SCR_QL_GLO0151`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0088 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" mairie ") || @qlNormalisee.includes(" hotel de ville ") || @qlNormalisee.includes(" mairies ")))`
+### 📘 Mairie
+
+La **mairie** est le lieu où travaillent les services de la commune. On peut y faire certaines démarches administratives.
+
+`@qlReponse = SCR_QL_GLO0088`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0104 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" police ") || @qlNormalisee.includes(" policier ") || @qlNormalisee.includes(" policiers ") || @qlNormalisee.includes(" polices ")))`
+### 📘 Police
+
+Force civile chargée de protéger les personnes et de faire respecter la loi.
+
+**À retenir :** Elle intervient principalement dans les villes.
+
+**Voir aussi :** Gendarmerie.
+
+`@qlReponse = SCR_QL_GLO0104`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0042 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" depute ") || @qlNormalisee.includes(" deputes ") || @qlNormalisee.includes(" deputee ")))`
+### 📘 Député
+
+Un **député** est un représentant élu qui siège à l’Assemblée nationale. Il participe au vote des lois.
+
+`@qlReponse = SCR_QL_GLO0042`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0068 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" guyane ") || @qlNormalisee.includes(" guyanes ")))`
+### 📘 Guyane
+
+Département et région d'outre-mer situé en Amérique du Sud.
+
+**À retenir :** La Guyane accueille le Centre spatial guyanais de Kourou et possède une vaste forêt amazonienne.
+
+**Voir aussi :** Outre-mer.
+
+`@qlReponse = SCR_QL_GLO0068`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0106 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" prefet ") || @qlNormalisee.includes(" prefets ")))`
+### 📘 Préfet
+
+Le préfet représente l'État dans un département ou une région.
+
+**À retenir :** Il est nommé par le Gouvernement.
+
+**Attention à ne pas confondre :** Le préfet n'est pas élu.
+
+**Voir aussi :** État; Maire.
+
+`@qlReponse = SCR_QL_GLO0106`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0117 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" region ") || @qlNormalisee.includes(" regions ")))`
+### 📘 Région
+
+La région est une collectivité territoriale regroupant plusieurs départements.
+
+**À retenir :** La France compte 18 régions.
+
+**Voir aussi :** Département.
+
+`@qlReponse = SCR_QL_GLO0117`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0128 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" surete ") || @qlNormalisee.includes(" suretes ")))`
+### 📘 Sûreté
+
+Droit d'être protégé contre les arrestations arbitraires et de bénéficier d'un procès équitable.
+
+**À retenir :** La justice protège les libertés individuelles.
+
+**Voir aussi :** Présomption d'innocence; Justice.
+
+`@qlReponse = SCR_QL_GLO0128`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0132 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" unesco ") || @qlNormalisee.includes(" unescos ")))`
+### 📘 UNESCO
+
+Organisation des Nations unies chargée notamment de protéger le patrimoine mondial.
+
+**À retenir :** Plusieurs sites français sont inscrits au patrimoine mondial de l'UNESCO.
+
+**Voir aussi :** Patrimoine.
+
+`@qlReponse = SCR_QL_GLO0132`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0014 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" celtes ")))`
+### 📘 Celtes
+
+Peuples installés en Gaule avant la conquête romaine.
+
+**À retenir :** Les Gaulois étaient des peuples celtes.
+
+**Voir aussi :** Gaule.
+
+`@qlReponse = SCR_QL_GLO0014`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0021 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" clovis ")))`
+### 📘 Clovis
+
+Premier roi des Francs à s'être converti au christianisme.
+
+**À retenir :** Son règne marque le début de la dynastie mérovingienne.
+
+**Voir aussi :** Charlemagne.
+
+`@qlReponse = SCR_QL_GLO0021`
 `@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0178 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" amende ") || @qlNormalisee.includes(" amende ")))`
+### 📘 Amende
+
+Somme d’argent qu’une personne doit payer lorsqu’une sanction pécuniaire est prononcée à son encontre.
+
+`@qlReponse = SCR_QL_GLO0178`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0181 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" avocat ") || @qlNormalisee.includes(" avocat ")))`
+### 📘 Avocat
+
+Professionnel du droit qui conseille une personne, défend ses intérêts et peut la représenter devant la justice.
+
+`@qlReponse = SCR_QL_GLO0181`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0209 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" devoir ") || @qlNormalisee.includes(" devoir ")))`
+### 📘 Devoir
+
+Obligation à respecter pour vivre dans la société, notamment respecter la loi et les droits d’autrui.
+
+`@qlReponse = SCR_QL_GLO0209`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0202 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" fleuve ") || @qlNormalisee.includes(" fleuve ")))`
+### 📘 Fleuve
+
+Cours d’eau qui se jette dans la mer ou dans l’océan.
+
+`@qlReponse = SCR_QL_GLO0202`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0154 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" mandat ") || @qlNormalisee.includes(" mandat ")))`
+### 📘 Mandat
+
+Mission confiée à une personne, notamment à un élu, pour une durée déterminée.
+
+`@qlReponse = SCR_QL_GLO0154`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0073 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" impot ") || @qlNormalisee.includes(" services publics ") || @qlNormalisee.includes(" impots ") || @qlNormalisee.includes(" taxes ")))`
+### 📘 Impôt
+
+L’**impôt** est une somme payée pour financer les dépenses publiques, par exemple les écoles et les services publics.
+
+`@qlReponse = SCR_QL_GLO0073`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0086 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" lycee ") || @qlNormalisee.includes(" baccalaureat ") || @qlNormalisee.includes(" lycees ")))`
+### 📘 Lycée
+
+Établissement préparant les élèves au baccalauréat ou à une formation professionnelle.
+
+**À retenir :** Il existe des lycées généraux, technologiques et professionnels.
+
+**Voir aussi :** Baccalauréat.
+
+`@qlReponse = SCR_QL_GLO0086`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0064 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" gaule ") || @qlNormalisee.includes(" jules cesar ") || @qlNormalisee.includes(" gaules ")))`
+### 📘 Gaule
+
+Nom donné au territoire de la France actuelle avant la conquête romaine.
+
+**À retenir :** La Gaule était peuplée de peuples celtes.
+
+**Voir aussi :** Celtes; Vercingétorix; Jules César.
+
+`@qlReponse = SCR_QL_GLO0064`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0037 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" crime ") || @qlNormalisee.includes(" crimes ")))`
+### 📘 Crime
+
+Infraction la plus grave prévue par la loi.
+
+**À retenir :** Les crimes sont jugés par une cour d'assises.
+
+**Voir aussi :** Délit.
+
+`@qlReponse = SCR_QL_GLO0037`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0039 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" delit ") || @qlNormalisee.includes(" delits ")))`
+### 📘 Délit
+
+Infraction plus grave qu'une contravention.
+
+**À retenir :** Il peut être puni d'une peine de prison.
+
+**Voir aussi :** Crime.
+
+`@qlReponse = SCR_QL_GLO0039`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0048 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" ecole ") || @qlNormalisee.includes(" ecoles ")))`
+### 📘 École
+
+Établissement où les enfants reçoivent un enseignement.
+
+**À retenir :** L'instruction est obligatoire de 3 à 16 ans.
+
+**Voir aussi :** Collège; Lycée.
+
+`@qlReponse = SCR_QL_GLO0048`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0087 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" maire ") || @qlNormalisee.includes(" maires ")))`
+### 📘 Maire
+
+Le **maire** dirige la commune avec le conseil municipal. Il intervient dans les affaires locales.
+
+`@qlReponse = SCR_QL_GLO0087`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0122 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" seine ") || @qlNormalisee.includes(" seines ")))`
+### 📘 Seine
+
+Fleuve qui traverse notamment Paris avant de se jeter dans la Manche.
+
+**À retenir :** La Seine est l'un des principaux fleuves français.
+
+**Voir aussi :** Loire; Rhône.
+
+`@qlReponse = SCR_QL_GLO0122`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0123 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" senat ") || @qlNormalisee.includes(" senas ") || @qlNormalisee.includes(" senats ")))`
+### 📘 Sénat
+
+Le **Sénat** est l’autre partie du Parlement, avec l’Assemblée nationale. Les **sénateurs** y examinent et votent les lois.
+
+`@qlReponse = SCR_QL_GLO0123`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0002 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" alpes ")))`
+### 📘 Alpes
+
+Massif montagneux situé à l'est de la France.
+
+**À retenir :** Le Mont Blanc est le plus haut sommet d'Europe occidentale.
+
+**Voir aussi :** Pyrénées.
+
+`@qlReponse = SCR_QL_GLO0002`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0146 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" greve ") || @qlNormalisee.includes(" greve ")))`
+### 📘 Grève
+
+Arrêt collectif du travail destiné à défendre des revendications professionnelles. Ce droit s’exerce dans un cadre légal.
+
+`@qlReponse = SCR_QL_GLO0146`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0194 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" shoah ") || @qlNormalisee.includes(" shoah ")))`
+### 📘 Shoah
+
+Génocide des Juifs d’Europe perpétré par les nazis et leurs complices pendant la Seconde Guerre mondiale.
+
+`@qlReponse = SCR_QL_GLO0194`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0138 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" smic ") || @qlNormalisee.includes(" smic ") || @qlNormalisee.includes(" smik ") || @qlNormalisee.includes(" salaire minimum ") || @qlNormalisee.includes(" salaire minimum interprofessionnel de croissance ")))`
+### 📘 SMIC
+
+Salaire minimum légal : un employeur doit respecter ce minimum pour rémunérer le travail de son salarié.
+
+`@qlReponse = SCR_QL_GLO0138`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0007 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" bail ") || @qlNormalisee.includes(" logement ") || @qlNormalisee.includes(" baux ") || @qlNormalisee.includes(" contrat de location ")))`
+### 📘 Bail
+
+Un **bail** est un contrat entre le propriétaire d’un logement et la personne qui le loue. Il précise les conditions de la location.
+
+`@qlReponse = SCR_QL_GLO0007`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0137 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" vote ") || @qlNormalisee.includes(" voter ") || @qlNormalisee.includes(" votes ")))`
+### 📘 Vote
+
+Action qui consiste à choisir un candidat ou répondre à une question lors d'un référendum.
+
+**À retenir :** Le vote est un droit civique.
+
+**Voir aussi :** Élection.
+
+`@qlReponse = SCR_QL_GLO0137`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0036 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" cpam ")))`
+### 📘 CPAM
+
+La Caisse primaire d'assurance maladie gère l'Assurance maladie dans chaque département.
+
+**À retenir :** Elle accompagne les assurés dans leurs démarches de santé.
+
+**Voir aussi :** Carte Vitale; Assurance maladie.
+
+`@qlReponse = SCR_QL_GLO0036`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0054 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" etat ")))`
+### 📘 État
+
+L'État est l'organisation politique qui exerce son autorité sur le territoire français et garantit le respect des lois.
+
+**À retenir :** L'État assure les services publics et protège les citoyens.
+
+**Voir aussi :** République; Gouvernement; Préfet.
+
+`@qlReponse = SCR_QL_GLO0054`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0055 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" euro ")))`
+### 📘 Euro
+
+Monnaie utilisée par plusieurs pays de l'Union européenne.
+
+**À retenir :** L'euro est la monnaie officielle de la France.
+
+**Voir aussi :** Union européenne.
+
+`@qlReponse = SCR_QL_GLO0055`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0205 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" ceca ") || @qlNormalisee.includes(" ceca ")))`
+### 📘 CECA
+
+Communauté européenne du charbon et de l’acier : projet de coopération européen qui a précédé l’Union européenne.
+
+`@qlReponse = SCR_QL_GLO0205`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0204 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" drom ") || @qlNormalisee.includes(" drom ")))`
+### 📘 DROM
+
+Départements et régions d’outre-mer : territoires français ayant ce statut administratif.
+
+`@qlReponse = SCR_QL_GLO0204`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0180 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" juge ") || @qlNormalisee.includes(" juge ")))`
+### 📘 Juge
+
+Professionnel de la justice qui applique la loi et rend des décisions pour trancher des litiges ou juger des infractions.
+
+`@qlReponse = SCR_QL_GLO0180`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0182 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" jure ") || @qlNormalisee.includes(" jure ")))`
+### 📘 Juré
+
+Citoyen appelé à participer à un jury et à juger certaines affaires aux côtés de magistrats.
+
+`@qlReponse = SCR_QL_GLO0182`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0153 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" samu ") || @qlNormalisee.includes(" samu ")))`
+### 📘 SAMU
+
+Service d’aide médicale urgente : il organise la réponse médicale aux urgences et oriente vers les soins adaptés.
+
+`@qlReponse = SCR_QL_GLO0153`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0013 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" cdi ") || @qlNormalisee.includes(" contrat a duree indeterminee ")))`
+### 📘 CDI
+
+Un **CDI** est un contrat de travail sans date de fin prévue à l’avance.
+
+`@qlReponse = SCR_QL_GLO0013`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0012 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" cdd ") || @qlNormalisee.includes(" contrat a duree determinee ")))`
+### 📘 CDD
+
+Un **CDD** est un contrat de travail prévu pour une durée déterminée. Il a une fin prévue selon les conditions du contrat.
+
+`@qlReponse = SCR_QL_GLO0012`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0003 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" apl ") || @qlNormalisee.includes(" aide au logement ")))`
+### 📘 APL
+
+Aide personnalisée au logement versée sous certaines conditions.
+
+**À retenir :** Elle permet de réduire le montant du loyer.
+
+**Voir aussi :** CAF.
+
+`@qlReponse = SCR_QL_GLO0003`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0009 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" caf ")))`
+### 📘 CAF
+
+La **CAF**, ou Caisse d’allocations familiales, verse certaines aides selon la situation des personnes et des familles.
+
+`@qlReponse = SCR_QL_GLO0009`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0085 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" loi ")))`
+### 📘 Loi
+
+Une **loi** est une règle votée par le Parlement. Elle fixe ce qui est autorisé, obligatoire ou interdit.
+
+`@qlReponse = SCR_QL_GLO0085`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : SCR_QL_GLO0185 -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" ivg ")))`
+### 📘 IVG
+
+Interruption volontaire de grossesse : démarche permettant de mettre fin à une grossesse dans le cadre prévu par la loi.
+
+`@qlReponse = SCR_QL_GLO0185`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_CONSEILS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" conseil ") || @qlNormalisee.includes(" conseils ") || @qlNormalisee.includes(" mieux reussir ") || @qlNormalisee.includes(" ameliorer mes resultats ") || @qlNormalisee.includes(" progresser ")))`
+Choisissez une méthode adaptée à votre besoin : mémoriser, répondre aux QCM, analyser les mises en situation ou organiser vos révisions.
+
+`@qlReponse = INTENT_CONSEILS`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_REVISIONS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" reviser ") || @qlNormalisee.includes(" revision ") || @qlNormalisee.includes(" revisions ") || @qlNormalisee.includes(" cours ")))`
+Choisissez une thématique de révision. Vous pourrez ensuite passer aux questions et aux mises en situation de votre examen.
+
+`@qlReponse = INTENT_REVISIONS`
+`@qlTrouvee = true`
+`endif`
+
+`if @qlReponse == "INTENT_GOUVERNEMENT_PARLEMENT"`
+1. [📘 Comprendre le Gouvernement](SCR_QL_GLO0066)
+1. [📘 Comprendre le Parlement](SCR_QL_GLO0101)
+1. [📚 Revoir les institutions](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_MEMOIRE"`
+1. [🧠 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+1. [🔁 Réviser plusieurs fois](SCR_CONS_MEMOIRE_04)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_MEMOIRE_PROGRESSION"`
+1. [🧠 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+1. [📚 Choisir une thématique](SCR_REV_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_SITUATIONS"`
+1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
+1. [🎯 Choisir un examen pour m’entraîner](SCR_ENT_THEME_EXAM)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_EXAMEN_BLANC"`
+1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_QUESTIONS_OFFICIELLES"`
+1. [📘 Choisir mon examen](SCR_ENT_THEME_EXAM)
+1. [✅ Réussir les QCM](SCR_CONS_QCM_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_QCM_METHODE"`
+1. [✅ Réussir les QCM](SCR_CONS_QCM_MENU)
+1. [⚠️ Éviter les erreurs fréquentes](SCR_CONS_ERREURS_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_ERREURS"`
+1. [⚠️ Éviter les erreurs fréquentes](SCR_CONS_ERREURS_MENU)
+1. [📚 Choisir mes révisions](SCR_REV_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_PARCOURS"`
+1. [📅 Construire mon parcours](SCR_CONS_PARCOURS_MENU)
+1. [🌟 Bien démarrer](SCR_CONS_GUIDE_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_MNEMO"`
+1. [🧩 Utiliser des moyens mnémotechniques](SCR_CONS_MNEMO_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_INSCRIPTION"`
+1. [🗓️ S’inscrire à l’examen civique](SCR_PASS_MENU)
+1. [📍 Trouver une session](SCR_PASS_REGIONS)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_PRIX"`
+1. [💶 Consulter les informations sur le prix](SCR_FAQ_019)
+1. [🗓️ S’inscrire à l’examen civique](SCR_PASS_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FORMAT"`
+1. [⏱️ Comprendre le format de l’examen](SCR_FAQ_004)
+1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_SEUIL"`
+1. [📊 Consulter le score de réussite](SCR_FAQ_009)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_ECHEC"`
+1. [📋 Que faire après un échec ?](SCR_FAQ_026)
+1. [⚠️ Éviter les erreurs fréquentes](SCR_CONS_ERREURS_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_STRESS"`
+1. [💡 Consulter les conseils](SCR_CONS_MENU)
+1. [❔ Consulter la FAQ](SCR_FAQ_MENU)
+1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_BILAN"`
+1. [🧭 Faire mon bilan](SCR_BIL_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_REVISION_T1"`
+1. [📚 Ouvrir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Choisir un entraînement](SCR_ENT_THEME_EXAM)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_REVISION_T2"`
+1. [📚 Ouvrir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Choisir un entraînement](SCR_ENT_THEME_EXAM)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_REVISION_T3"`
+1. [📚 Ouvrir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Choisir un entraînement](SCR_ENT_THEME_EXAM)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_REVISION_T4"`
+1. [📚 Ouvrir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Choisir un entraînement](SCR_ENT_THEME_EXAM)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_REVISION_T5"`
+1. [📚 Ouvrir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Choisir un entraînement](SCR_ENT_THEME_EXAM)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_ENTRAINEMENT"`
+1. [🎯 M’entraîner](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0033"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0033)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0038"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0038)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0076"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0076)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0005"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0005)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0096"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0096)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0026"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0026)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0165"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0165)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0109"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0109)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0114"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0114)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0016"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0016)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0075"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0075)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0108"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0108)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0131"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0131)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0044"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0044)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0121"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0121)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0025"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0025)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0081"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0081)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0110"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0110)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_SIMPLE_POUVOIRS"`
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0171"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0171)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0126"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0126)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0017"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0017)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0023"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0023)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0027"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0027)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0058"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0058)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0063"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0063)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0083"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0083)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0160"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0160)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0159"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0159)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0141"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0141)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0070"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0070)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0018"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0018)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0119"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0119)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0206"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0206)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0004"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0004)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0047"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0047)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0207"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0207)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0102"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0102)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0034"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0034)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0056"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0056)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0127"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0127)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0170"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0170)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0158"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0158)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0163"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0163)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0162"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0162)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0150"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0150)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0006"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0006)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0010"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0010)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0029"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0029)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0094"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0094)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0190"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0190)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0144"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0144)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0107"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0107)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0046"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0046)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0028"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0028)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0030"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0030)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0092"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0092)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0133"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0133)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0161"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0161)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0059"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0059)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0078"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0078)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0043"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0043)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0129"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0129)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0045"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0045)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0053"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0053)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0095"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0095)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0177"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0177)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0200"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0200)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0173"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0173)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0156"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0156)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0191"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0191)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0189"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0189)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0097"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0097)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_SIMPLE_DEVOIR"`
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0057"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0057)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0125"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0125)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_SIMPLE_DISCRIMINATION"`
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0060"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0060)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0172"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0172)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0164"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0164)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0183"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0183)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0052"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0052)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0035"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0035)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0135"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0135)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0072"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0072)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0184"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0184)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0066"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0066)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0031"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0031)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0061"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0061)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0099"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0099)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0032"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0032)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0112"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0112)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0113"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0113)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0011"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0011)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0198"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0198)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0203"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0203)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0139"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0139)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0069"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0069)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0111"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0111)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0015"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0015)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0020"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0020)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0041"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0041)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0065"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0065)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0130"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0130)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0157"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0157)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0201"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0201)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0155"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0155)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0140"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0140)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0098"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0098)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0103"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0103)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0001"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0001)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0040"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0040)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0062"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0062)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0067"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0067)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0074"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0074)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0090"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0090)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0105"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0105)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0116"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0116)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0118"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0118)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0079"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0079)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0188"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0188)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0143"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0143)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0166"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0166)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0149"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0149)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0193"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0193)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0051"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0051)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0084"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0084)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0101"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0101)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0100"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0100)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0197"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0197)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0192"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0192)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0145"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0145)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0196"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0196)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0199"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0199)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0167"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0167)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0169"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0169)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0187"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0187)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0008"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0008)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0050"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0050)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0089"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0089)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0093"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0093)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0124"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0124)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0136"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0136)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0115"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0115)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0134"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0134)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0195"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0195)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0147"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0147)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0208"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0208)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0148"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0148)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0175"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0175)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0080"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0080)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0049"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0049)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0082"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0082)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0019"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0019)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0120"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0120)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0077"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0077)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0022"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0022)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0024"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0024)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0071"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0071)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0091"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0091)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0186"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0186)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0168"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0168)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0176"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0176)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0179"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0179)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0174"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0174)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0142"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0142)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0152"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0152)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0151"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0151)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0088"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0088)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0104"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0104)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0042"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0042)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0068"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0068)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0106"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0106)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0117"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0117)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0128"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0128)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0132"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0132)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0014"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0014)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0021"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0021)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0178"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0178)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0181"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0181)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0209"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0209)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0202"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0202)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0154"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0154)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0073"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0073)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0086"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0086)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0064"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0064)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0037"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0037)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0039"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0039)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0048"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0048)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0087"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0087)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0122"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0122)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0123"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0123)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0002"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0002)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0146"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0146)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0194"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0194)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0138"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0138)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0007"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0007)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0137"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0137)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0036"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0036)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0054"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0054)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0055"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0055)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0205"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0205)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0204"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0204)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0180"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0180)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0182"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0182)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0153"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0153)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0013"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0013)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0012"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0012)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0003"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0003)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0009"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0009)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0085"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0085)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "SCR_QL_GLO0185"`
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0185)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_CONSEILS"`
+1. [💡 Consulter les conseils](SCR_CONS_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_REVISIONS"`
+1. [📚 Commencer mes révisions](SCR_REV_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
 `endif`
 
 `if !@qlTrouvee`
-### Je n’ai pas trouvé de réponse précise
+### Précisons votre demande
 
-Essayez une phrase plus courte en indiquant le mot principal, ou choisissez une recherche guidée.
+Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mot à expliquer ou le type d’aide souhaité, par exemple « Explique le Parlement » ou « Comment mieux mémoriser ? ».
 
-1. [➡️ Reformuler ma question](SCR_QL_RESET)
-2. [➡️ Chercher une notion par thème](SCR_QL_THEMES)
-3. [➡️ Consulter la FAQ](SCR_FAQ_MENU)
-4. [➡️ Voir les cours](SCR_REV_MENU)
-5. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [❓ Reformuler ma question](SCR_QL_RESET)
+1. [📚 Chercher une notion par thème](SCR_QL_THEMES)
+1. [💡 Choisir un conseil](SCR_CONS_MENU)
+1. [❔ Consulter la FAQ](SCR_FAQ_MENU)
 `endif`
 `endif`
 
 `if !@qlQuestion`
-Vous pouvez écrire votre question dans la barre de saisie ci-dessus.
+Écrivez votre question dans la barre de saisie, puis cliquez sur **Envoyer** ou appuyez sur **Entrée**.
 `endif`
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
+
 
 ## SCR_QL_EXAMPLES
-### Exemples de demandes reconnues
+### Exemples de questions reconnues
 
-- « Que signifie laïcité ? »
-- « Explique-moi le rôle du Parlement. »
-- « Combien faut-il de bonnes réponses ? »
-- « Comment mieux mémoriser les dates ? »
+- « Je ne comprends pas ce qu’est le gouvernement. »
+- « Quelle est la différence entre le Gouvernement et le Parlement ? »
+- « Comment puis-je mieux retenir les dates ? »
+- « Comment réussir les mises en situation ? »
+- « Je veux réviser les droits et les devoirs. »
 - « Où puis-je m’inscrire à l’examen ? »
 
-1. [➡️ Poser ma question](SCR_QL_RESET)
-2. [↩️ Retour au module](SCR_QL_MENU)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
-
-
+1. [❓ Poser ma question](SCR_QL_RESET)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
 
 ## SCR_QL_THEMES
 ### Chercher une notion par thème
@@ -1537,6 +4204,8 @@ Vous pouvez écrire votre question dans la barre de saisie ci-dessus.
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 ## SCR_QL_THEME_T1
 ### Principes et valeurs de la République
@@ -1568,6 +4237,8 @@ Vous pouvez écrire votre question dans la barre de saisie ci-dessus.
 1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 ## SCR_QL_THEME_T2
 ### Institutions et système politique
@@ -1616,6 +4287,8 @@ Vous pouvez écrire votre question dans la barre de saisie ci-dessus.
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
 ## SCR_QL_THEME_T3
 ### Droits et devoirs
 
@@ -1656,6 +4329,8 @@ Vous pouvez écrire votre question dans la barre de saisie ci-dessus.
 1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 ## SCR_QL_THEME_T4
 ### Histoire, géographie et culture
@@ -1702,6 +4377,8 @@ Vous pouvez écrire votre question dans la barre de saisie ci-dessus.
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
 ## SCR_QL_THEME_T5
 ### Vivre dans la société française
 
@@ -1742,27 +4419,25 @@ Vous pouvez écrire votre question dans la barre de saisie ci-dessus.
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+
 ## SCR_QL_GLO0001
-### Abstention
+### 📘 Abstention
 
-Fait de ne pas participer à une élection.
+L’**abstention** consiste à ne pas participer à une élection. Elle est différente du vote blanc.
 
-**À retenir :** L'abstention est différente du vote blanc.
-
-**Voir aussi :** Vote.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0001)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0002
-### Alpes
+### 📘 Alpes
 
 Massif montagneux situé à l'est de la France.
 
@@ -1770,18 +4445,18 @@ Massif montagneux situé à l'est de la France.
 
 **Voir aussi :** Pyrénées.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0002)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0003
-### APL
+### 📘 APL
 
 Aide personnalisée au logement versée sous certaines conditions.
 
@@ -1789,37 +4464,33 @@ Aide personnalisée au logement versée sous certaines conditions.
 
 **Voir aussi :** CAF.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0003)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0004
-### Assemblée nationale
+### 📘 Assemblée nationale
 
-L'Assemblée nationale est composée des députés.
+L’**Assemblée nationale** est l’une des deux parties du Parlement. Les **députés** y discutent et votent les lois.
 
-**À retenir :** Les députés sont élus directement par les citoyens.
-
-**Voir aussi :** Député; Parlement.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0004)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0005
-### Assistance à personne en danger
+### 📘 Assistance à personne en danger
 
 Obligation d'aider une personne en danger ou d'alerter les secours lorsqu'il est possible de le faire sans risque.
 
@@ -1827,18 +4498,18 @@ Obligation d'aider une personne en danger ou d'alerter les secours lorsqu'il est
 
 **Voir aussi :** Secours.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0005)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0006
-### Assurance maladie
+### 📘 Assurance maladie
 
 Système de protection sociale qui rembourse tout ou partie des dépenses de santé.
 
@@ -1846,37 +4517,33 @@ Système de protection sociale qui rembourse tout ou partie des dépenses de san
 
 **Voir aussi :** Carte Vitale; CPAM; Médecin traitant.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0006)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0007
-### Bail
+### 📘 Bail
 
-Contrat de location entre un propriétaire et un locataire.
+Un **bail** est un contrat entre le propriétaire d’un logement et la personne qui le loue. Il précise les conditions de la location.
 
-**À retenir :** Le bail fixe les droits et obligations de chacun.
-
-**Voir aussi :** Logement.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0007)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0008
-### Bretagne
+### 📘 Bretagne
 
 Région située à l'ouest de la France métropolitaine.
 
@@ -1884,117 +4551,93 @@ Région située à l'ouest de la France métropolitaine.
 
 **Voir aussi :** Rennes; Région.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0008)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0009
-### CAF
+### 📘 CAF
 
-La Caisse d'allocations familiales verse différentes aides aux familles et aux personnes selon leur situation.
+La **CAF**, ou Caisse d’allocations familiales, verse certaines aides selon la situation des personnes et des familles.
 
-**À retenir :** La CAF peut aider au paiement du logement.
-
-**Voir aussi :** APL.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0009)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0010
-### Carte de résident
+### 📘 Carte de résident
 
-Titre de séjour permettant de résider durablement en France.
+La **carte de résident** est un titre de séjour valable dix ans. Les conditions et les démarches dépendent de la situation de la personne.
 
-**À retenir :** Sa durée de validité est généralement de dix ans.
-
-**Voir aussi :** Titre de séjour.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0010)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0011
-### Carte Vitale
+### 📘 Carte Vitale
 
-Carte personnelle permettant de justifier ses droits à l'Assurance maladie.
+La **carte Vitale** sert à transmettre les informations nécessaires au remboursement des soins par l’Assurance maladie.
 
-**À retenir :** Elle facilite le remboursement des soins.
-
-**Voir aussi :** Assurance maladie; CPAM.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0011)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0012
-### CDD
+### 📘 CDD
 
-Contrat à durée déterminée.
+Un **CDD** est un contrat de travail prévu pour une durée déterminée. Il a une fin prévue selon les conditions du contrat.
 
-**À retenir :** Il prévoit une date de fin.
-
-**Attention à ne pas confondre :** CDD ≠ CDI.
-
-**Voir aussi :** Contrat de travail; CDI.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0012)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0013
-### CDI
+### 📘 CDI
 
-Contrat à durée indéterminée.
+Un **CDI** est un contrat de travail sans date de fin prévue à l’avance.
 
-**À retenir :** Il ne prévoit pas de date de fin.
-
-**Attention à ne pas confondre :** CDI ≠ CDD.
-
-**Voir aussi :** Contrat de travail; CDD.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0013)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0014
-### Celtes
+### 📘 Celtes
 
 Peuples installés en Gaule avant la conquête romaine.
 
@@ -2002,18 +4645,18 @@ Peuples installés en Gaule avant la conquête romaine.
 
 **Voir aussi :** Gaule.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0014)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0015
-### Charlemagne
+### 📘 Charlemagne
 
 Empereur d'Occident couronné en l'an 800.
 
@@ -2021,18 +4664,18 @@ Empereur d'Occident couronné en l'an 800.
 
 **Voir aussi :** Moyen Âge.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0015)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0016
-### Charte de l'environnement
+### 📘 Charte de l'environnement
 
 Texte à valeur constitutionnelle qui reconnaît le droit à un environnement équilibré.
 
@@ -2040,18 +4683,18 @@ Texte à valeur constitutionnelle qui reconnaît le droit à un environnement é
 
 **Voir aussi :** Environnement.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0016)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0017
-### Château de Versailles
+### 📘 Château de Versailles
 
 Ancienne résidence des rois de France située près de Paris.
 
@@ -2059,18 +4702,18 @@ Ancienne résidence des rois de France située près de Paris.
 
 **Voir aussi :** Louis XIV.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0017)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0018
-### Cinquième République
+### 📘 Cinquième République
 
 Régime politique actuel de la France, instauré en 1958.
 
@@ -2078,37 +4721,33 @@ Régime politique actuel de la France, instauré en 1958.
 
 **Voir aussi :** Constitution.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0018)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0019
-### Citoyen
+### 📘 Citoyen
 
-Personne possédant la nationalité française et bénéficiant des droits civiques et politiques.
+Un **citoyen** est une personne qui possède des droits civiques et des devoirs envers la société. Le vote est un exemple de droit civique.
 
-**À retenir :** Le citoyen participe à la vie démocratique.
-
-**Voir aussi :** Nationalité; Droit de vote.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0019)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0020
-### Citoyenneté
+### 📘 Citoyenneté
 
 Lien juridique entre une personne et un État, donnant des droits mais aussi des devoirs.
 
@@ -2118,18 +4757,18 @@ Lien juridique entre une personne et un État, donnant des droits mais aussi des
 
 **Voir aussi :** Nationalité.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0020)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0021
-### Clovis
+### 📘 Clovis
 
 Premier roi des Francs à s'être converti au christianisme.
 
@@ -2137,18 +4776,18 @@ Premier roi des Francs à s'être converti au christianisme.
 
 **Voir aussi :** Charlemagne.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0021)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0022
-### Collège
+### 📘 Collège
 
 Établissement accueillant les élèves après l'école primaire.
 
@@ -2156,18 +4795,18 @@ Premier roi des Francs à s'être converti au christianisme.
 
 **Voir aussi :** Lycée.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0022)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0023
-### Commission européenne
+### 📘 Commission européenne
 
 Institution chargée de proposer les lois européennes et de veiller à leur application.
 
@@ -2175,37 +4814,33 @@ Institution chargée de proposer les lois européennes et de veiller à leur app
 
 **Voir aussi :** Union européenne.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0023)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0024
-### Commune
+### 📘 Commune
 
-La commune est la plus petite collectivité territoriale.
+Une **commune** est une ville ou un village avec son administration locale. Le maire et le conseil municipal s’occupent des affaires de la commune.
 
-**À retenir :** Elle est administrée par un maire.
-
-**Voir aussi :** Maire.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0024)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0025
-### Conseil constitutionnel
+### 📘 Conseil constitutionnel
 
 Le Conseil constitutionnel vérifie que les lois respectent la Constitution.
 
@@ -2213,18 +4848,18 @@ Le Conseil constitutionnel vérifie que les lois respectent la Constitution.
 
 **Voir aussi :** Constitution.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0025)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0026
-### Conseil de l'Union européenne
+### 📘 Conseil de l'Union européenne
 
 Institution où siègent les ministres des États membres.
 
@@ -2232,18 +4867,18 @@ Institution où siègent les ministres des États membres.
 
 **Voir aussi :** Commission européenne.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0026)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0027
-### Conseil départemental
+### 📘 Conseil départemental
 
 Assemblée qui administre le département.
 
@@ -2251,18 +4886,18 @@ Assemblée qui administre le département.
 
 **Voir aussi :** Département.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0027)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0028
-### Conseil européen
+### 📘 Conseil européen
 
 Réunion des chefs d'État ou de gouvernement des pays membres.
 
@@ -2270,18 +4905,18 @@ Réunion des chefs d'État ou de gouvernement des pays membres.
 
 **Voir aussi :** Union européenne.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0028)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0029
-### Conseil municipal
+### 📘 Conseil municipal
 
 Assemblée élue qui administre la commune.
 
@@ -2289,18 +4924,18 @@ Assemblée élue qui administre la commune.
 
 **Voir aussi :** Maire.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0029)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0030
-### Conseil régional
+### 📘 Conseil régional
 
 Assemblée qui administre la région.
 
@@ -2308,56 +4943,48 @@ Assemblée qui administre la région.
 
 **Voir aussi :** Région.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0030)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0031
-### Consentement
+### 📘 Consentement
 
-Accord libre et volontaire donné par une personne.
+Le **consentement** est un accord donné librement, sans pression. Une personne doit pouvoir accepter ou refuser.
 
-**À retenir :** Sans consentement, un acte peut constituer une infraction.
-
-**Voir aussi :** Violence sexuelle.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0031)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0032
-### Constitution
+### 📘 Constitution
 
-Texte fondamental qui organise les institutions françaises et garantit les droits et libertés.
+La **Constitution** est le texte qui fixe les grandes règles de fonctionnement du pays. Elle organise les institutions et protège des droits fondamentaux.
 
-**À retenir :** Toutes les lois doivent respecter la Constitution.
-
-**Voir aussi :** République; Loi.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0032)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0033
-### Contrat d'engagement à respecter les principes de la République
+### 📘 Contrat d'engagement à respecter les principes de la République
 
 Engagement consistant à respecter les valeurs et les principes de la République française.
 
@@ -2365,37 +4992,33 @@ Engagement consistant à respecter les valeurs et les principes de la Républiqu
 
 **Voir aussi :** République; Laïcité; Valeurs de la République.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0033)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0034
-### Contrat de travail
+### 📘 Contrat de travail
 
-Accord entre un employeur et un salarié définissant les conditions de travail.
+Le **contrat de travail** fixe les conditions de travail entre un employeur et un salarié.
 
-**À retenir :** Le contrat précise les droits et les obligations de chacun.
-
-**Voir aussi :** CDI; CDD.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0034)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0035
-### Contravention
+### 📘 Contravention
 
 Infraction la moins grave.
 
@@ -2403,18 +5026,18 @@ Infraction la moins grave.
 
 **Voir aussi :** Délit; Crime.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0035)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0036
-### CPAM
+### 📘 CPAM
 
 La Caisse primaire d'assurance maladie gère l'Assurance maladie dans chaque département.
 
@@ -2422,18 +5045,18 @@ La Caisse primaire d'assurance maladie gère l'Assurance maladie dans chaque dé
 
 **Voir aussi :** Carte Vitale; Assurance maladie.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0036)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0037
-### Crime
+### 📘 Crime
 
 Infraction la plus grave prévue par la loi.
 
@@ -2441,18 +5064,18 @@ Infraction la plus grave prévue par la loi.
 
 **Voir aussi :** Délit.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0037)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0038
-### Déclaration des droits de l'homme et du citoyen
+### 📘 Déclaration des droits de l'homme et du citoyen
 
 Texte adopté en 1789 qui affirme les droits et libertés fondamentaux.
 
@@ -2460,18 +5083,18 @@ Texte adopté en 1789 qui affirme les droits et libertés fondamentaux.
 
 **Voir aussi :** Constitution.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0038)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0039
-### Délit
+### 📘 Délit
 
 Infraction plus grave qu'une contravention.
 
@@ -2479,39 +5102,33 @@ Infraction plus grave qu'une contravention.
 
 **Voir aussi :** Crime.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0039)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0040
-### Démocratie
+### 📘 Démocratie
 
-Régime politique dans lequel les citoyens participent à la vie publique par le vote ou le référendum.
+Dans une **démocratie**, le peuple participe aux décisions, notamment en choisissant ses représentants par le vote.
 
-**À retenir :** La démocratie permet au peuple de participer aux décisions publiques.
-
-**Attention à ne pas confondre :** Démocratie ≠ République.
-
-**Voir aussi :** République; Élection.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0040)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0041
-### Département
+### 📘 Département
 
 Le département est une collectivité territoriale située entre la région et la commune.
 
@@ -2519,37 +5136,33 @@ Le département est une collectivité territoriale située entre la région et l
 
 **Voir aussi :** Région; Commune.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0041)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0042
-### Député
+### 📘 Député
 
-Le député représente les citoyens à l'Assemblée nationale.
+Un **député** est un représentant élu qui siège à l’Assemblée nationale. Il participe au vote des lois.
 
-**À retenir :** Il vote les lois.
-
-**Voir aussi :** Assemblée nationale.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0042)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0043
-### Député européen
+### 📘 Député européen
 
 Représentant élu des citoyens au Parlement européen.
 
@@ -2557,76 +5170,63 @@ Représentant élu des citoyens au Parlement européen.
 
 **Voir aussi :** Parlement européen.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0043)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0044
-### Devise de la République
+### 📘 Devise de la République
 
-La devise officielle de la République française est :
-Liberté, Égalité, Fraternité.
+La devise de la République française est **« Liberté, Égalité, Fraternité »**. Elle exprime trois valeurs communes.
 
-**À retenir :** Elle représente les trois valeurs fondamentales de la République.
-
-**Voir aussi :** Liberté; Égalité; Fraternité.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0044)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0045
-### Dignité humaine
+### 📘 Dignité humaine
 
-Principe selon lequel chaque personne doit être respectée et ne jamais être traitée comme un objet.
+La **dignité humaine** signifie que toute personne mérite le respect. On ne doit pas humilier une personne ni la traiter comme un objet.
 
-**À retenir :** La dignité humaine est protégée par la loi.
-
-**Voir aussi :** Droits fondamentaux.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0045)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0046
-### Drapeau français
+### 📘 Drapeau français
 
-Le drapeau national est composé de trois bandes verticales bleue, blanche et rouge.
+Le **drapeau français** comporte trois couleurs : bleu, blanc et rouge.
 
-**À retenir :** Il est l'un des symboles officiels de la République.
-
-**Voir aussi :** La Marseillaise.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0046)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0047
-### Droits fondamentaux
+### 📘 Droits fondamentaux
 
 Ensemble des droits et libertés reconnus à toute personne et garantis par la Constitution et les textes fondamentaux.
 
@@ -2634,18 +5234,18 @@ Ensemble des droits et libertés reconnus à toute personne et garantis par la C
 
 **Voir aussi :** Constitution; Liberté; Égalité.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0047)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0048
-### École
+### 📘 École
 
 Établissement où les enfants reçoivent un enseignement.
 
@@ -2653,41 +5253,33 @@ Ensemble des droits et libertés reconnus à toute personne et garantis par la C
 
 **Voir aussi :** Collège; Lycée.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0048)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0049
-### Égalité
+### 📘 Égalité
 
-Principe selon lequel toutes les personnes disposent des mêmes droits devant la loi.
+L’**égalité** signifie que chacun a les mêmes droits devant la loi. Une personne ne doit pas être traitée moins bien en raison, par exemple, de son origine ou de sa religion.
 
-Principe selon lequel toutes les personnes bénéficient des mêmes droits devant la loi.
-
-**À retenir :** La loi est la même pour tous.
-
-Aucune discrimination n'est autorisée.
-
-**Voir aussi :** Liberté; Discrimination.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0049)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0050
-### Élection
+### 📘 Élection
 
 Procédure permettant aux citoyens de choisir leurs représentants.
 
@@ -2695,37 +5287,33 @@ Procédure permettant aux citoyens de choisir leurs représentants.
 
 **Voir aussi :** Suffrage universel.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0050)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0051
-### Employeur
+### 📘 Employeur
 
-Personne ou entreprise qui embauche un salarié.
+L’**employeur** est la personne ou l’organisation qui embauche un salarié et lui verse un salaire.
 
-**À retenir :** L'employeur doit respecter le Code du travail.
-
-**Voir aussi :** Salarié.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0051)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0052
-### Environnement
+### 📘 Environnement
 
 Ensemble des éléments naturels que chacun doit protéger.
 
@@ -2733,18 +5321,18 @@ Ensemble des éléments naturels que chacun doit protéger.
 
 **Voir aussi :** Charte de l'environnement.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0052)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0053
-### Espace Schengen
+### 📘 Espace Schengen
 
 Espace dans lequel les contrôles aux frontières intérieures sont supprimés entre les États participants.
 
@@ -2752,18 +5340,18 @@ Espace dans lequel les contrôles aux frontières intérieures sont supprimés e
 
 **Voir aussi :** Union européenne.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0053)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0054
-### État
+### 📘 État
 
 L'État est l'organisation politique qui exerce son autorité sur le territoire français et garantit le respect des lois.
 
@@ -2771,18 +5359,18 @@ L'État est l'organisation politique qui exerce son autorité sur le territoire 
 
 **Voir aussi :** République; Gouvernement; Préfet.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0054)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0055
-### Euro
+### 📘 Euro
 
 Monnaie utilisée par plusieurs pays de l'Union européenne.
 
@@ -2790,18 +5378,18 @@ Monnaie utilisée par plusieurs pays de l'Union européenne.
 
 **Voir aussi :** Union européenne.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0055)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0056
-### Fête de la Musique
+### 📘 Fête de la Musique
 
 Manifestation culturelle organisée chaque année le 21 juin.
 
@@ -2809,18 +5397,18 @@ Manifestation culturelle organisée chaque année le 21 juin.
 
 **Voir aussi :** Culture.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0056)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0057
-### Fête nationale
+### 📘 Fête nationale
 
 La fête nationale française est célébrée chaque année le 14 juillet.
 
@@ -2828,18 +5416,18 @@ La fête nationale française est célébrée chaque année le 14 juillet.
 
 **Voir aussi :** République.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0057)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0058
-### France métropolitaine
+### 📘 France métropolitaine
 
 Partie du territoire français située en Europe.
 
@@ -2847,56 +5435,48 @@ Partie du territoire français située en Europe.
 
 **Voir aussi :** Outre-mer.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0058)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0059
-### France Services
+### 📘 France Services
 
-Réseau de guichets de proximité permettant d'effectuer de nombreuses démarches administratives.
+**France Services** est un lieu où l’on peut être accompagné pour réaliser des démarches administratives.
 
-**À retenir :** France Services accompagne les usagers gratuitement.
-
-**Voir aussi :** Services publics.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0059)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0060
-### France Travail
+### 📘 France Travail
 
-Établissement public qui accompagne les personnes dans leur recherche d'emploi.
+**France Travail** accompagne les personnes qui cherchent un emploi, notamment dans leurs recherches et leurs démarches.
 
-**À retenir :** France Travail remplace Pôle emploi.
-
-**Voir aussi :** Emploi; Formation.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0060)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0061
-### Francophonie
+### 📘 Francophonie
 
 Ensemble des personnes et des pays qui utilisent la langue française.
 
@@ -2904,37 +5484,33 @@ Ensemble des personnes et des pays qui utilisent la langue française.
 
 **Voir aussi :** Langue française.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0061)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0062
-### Fraternité
+### 📘 Fraternité
 
-Valeur qui encourage la solidarité, l'entraide et le respect entre les personnes.
+La **fraternité** signifie vivre ensemble avec respect et solidarité. Aider une personne en difficulté est un exemple de solidarité.
 
-**À retenir :** La fraternité favorise le vivre ensemble.
-
-**Voir aussi :** Solidarité.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0062)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0063
-### Gastronomie française
+### 📘 Gastronomie française
 
 Ensemble des traditions culinaires françaises.
 
@@ -2942,18 +5518,18 @@ Ensemble des traditions culinaires françaises.
 
 **Voir aussi :** UNESCO.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0063)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0064
-### Gaule
+### 📘 Gaule
 
 Nom donné au territoire de la France actuelle avant la conquête romaine.
 
@@ -2961,18 +5537,18 @@ Nom donné au territoire de la France actuelle avant la conquête romaine.
 
 **Voir aussi :** Celtes; Vercingétorix; Jules César.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0064)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0065
-### Gendarmerie
+### 📘 Gendarmerie
 
 Force militaire chargée de missions de sécurité publique.
 
@@ -2980,41 +5556,33 @@ Force militaire chargée de missions de sécurité publique.
 
 **Voir aussi :** Police.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0065)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0066
-### Gouvernement
+### 📘 Gouvernement
 
-Le Gouvernement conduit la politique de la Nation.
-Il est composé du Premier ministre et des ministres.
+Le **gouvernement** est l’équipe qui dirige l’action du pays au quotidien. En France, il est composé du **Premier ministre et des ministres**. Il prépare des projets de loi et fait appliquer les lois. **Le Parlement vote les lois : ce n’est pas le même rôle.**
 
-**À retenir :** Il prépare les projets de loi et applique les lois.
-
-**Attention à ne pas confondre :** Le Gouvernement propose les lois.
-Le Parlement les vote.
-
-**Voir aussi :** Premier ministre; Parlement.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0066)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0067
-### Guadeloupe
+### 📘 Guadeloupe
 
 Département et région d'outre-mer situé dans les Caraïbes.
 
@@ -3022,18 +5590,18 @@ Département et région d'outre-mer situé dans les Caraïbes.
 
 **Voir aussi :** Outre-mer.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0067)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0068
-### Guyane
+### 📘 Guyane
 
 Département et région d'outre-mer situé en Amérique du Sud.
 
@@ -3041,18 +5609,18 @@ Département et région d'outre-mer situé en Amérique du Sud.
 
 **Voir aussi :** Outre-mer.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0068)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0069
-### Harcèlement
+### 📘 Harcèlement
 
 Violences ou comportements répétés ayant pour effet de dégrader les conditions de vie d'une personne.
 
@@ -3060,18 +5628,18 @@ Violences ou comportements répétés ayant pour effet de dégrader les conditio
 
 **Voir aussi :** Harcèlement scolaire.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0069)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0070
-### Harcèlement scolaire
+### 📘 Harcèlement scolaire
 
 Violences répétées subies par un élève de la part d'autres élèves.
 
@@ -3079,18 +5647,18 @@ Violences répétées subies par un élève de la part d'autres élèves.
 
 **Voir aussi :** Violence.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0070)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0071
-### Hôpital
+### 📘 Hôpital
 
 Établissement de santé où sont assurés les soins médicaux et chirurgicaux.
 
@@ -3098,18 +5666,18 @@ Violences répétées subies par un élève de la part d'autres élèves.
 
 **Voir aussi :** Urgences.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0071)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0072
-### Île-de-France
+### 📘 Île-de-France
 
 Région où se situe Paris, capitale de la France.
 
@@ -3117,37 +5685,33 @@ Région où se situe Paris, capitale de la France.
 
 **Voir aussi :** Paris.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0072)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0073
-### Impôt
+### 📘 Impôt
 
-Somme versée à l'État ou aux collectivités pour financer les services publics.
+L’**impôt** est une somme payée pour financer les dépenses publiques, par exemple les écoles et les services publics.
 
-**À retenir :** Le paiement des impôts est une obligation.
-
-**Voir aussi :** Services publics.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0073)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0074
-### Infraction
+### 📘 Infraction
 
 Acte interdit par la loi.
 
@@ -3155,18 +5719,18 @@ Acte interdit par la loi.
 
 **Voir aussi :** Contravention; Délit; Crime.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0074)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0075
-### Intégrité de la personne
+### 📘 Intégrité de la personne
 
 Droit de chacun à la protection de son corps et de son esprit.
 
@@ -3174,18 +5738,18 @@ Droit de chacun à la protection de son corps et de son esprit.
 
 **Voir aussi :** Dignité humaine.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0075)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0076
-### Journées européennes du patrimoine
+### 📘 Journées européennes du patrimoine
 
 Événement annuel permettant de découvrir gratuitement de nombreux lieux patrimoniaux.
 
@@ -3193,56 +5757,48 @@ Droit de chacun à la protection de son corps et de son esprit.
 
 **Voir aussi :** Patrimoine.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0076)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0077
-### Justice
+### 📘 Justice
 
-La justice règle les conflits et sanctionne les infractions.
+La **justice** fait respecter les règles, règle les conflits et sanctionne les infractions. Elle protège aussi les droits des personnes.
 
-**À retenir :** Elle est indépendante.
-
-**Voir aussi :** Tribunal.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0077)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0078
-### La Marseillaise
+### 📘 La Marseillaise
 
-La Marseillaise est l'hymne national français.
+**La Marseillaise** est l’hymne national de la France.
 
-**À retenir :** Elle est chantée lors des cérémonies officielles.
-
-**Voir aussi :** Drapeau français.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0078)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0079
-### La Réunion
+### 📘 La Réunion
 
 Département et région d'outre-mer situé dans l'océan Indien.
 
@@ -3250,40 +5806,33 @@ Département et région d'outre-mer situé dans l'océan Indien.
 
 **Voir aussi :** Outre-mer.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0079)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0080
-### Laïcité
+### 📘 Laïcité
 
-Principe garantissant la liberté de conscience, la neutralité de l'État et le respect de toutes les convictions.
+La **laïcité** permet à chacun de croire, de ne pas croire ou de changer de religion. L’État reste neutre à l’égard des religions. Chacun doit respecter la liberté des autres.
 
-**À retenir :** La République respecte toutes les croyances et garantit la liberté de religion ou de ne pas avoir de religion.
-
-**Attention à ne pas confondre :** La laïcité n'interdit pas les religions.
-Elle garantit leur libre exercice dans le respect de la loi.
-
-**Voir aussi :** Neutralité; Liberté de conscience.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0080)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0081
-### Langue de la République
+### 📘 Langue de la République
 
 Le français est la langue officielle de la République française.
 
@@ -3291,102 +5840,78 @@ Le français est la langue officielle de la République française.
 
 **Voir aussi :** République.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0081)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0082
-### Liberté
+### 📘 Liberté
 
-Valeur qui permet à chacun de penser, de s'exprimer et d'agir dans le respect de la loi et des autres.
+La **liberté** permet de faire des choix et de s’exprimer. Elle s’exerce dans le respect de la loi et des droits des autres.
 
-Droit reconnu à chacun de penser, de s'exprimer et d'agir dans le respect de la loi.
-
-**À retenir :** La liberté s'exerce dans le respect des droits d'autrui.
-
-La liberté est un droit fondamental.
-
-**Attention à ne pas confondre :** Liberté ≠ absence de règles.
-
-La liberté ne permet pas de porter atteinte aux droits des autres.
-
-**Voir aussi :** Égalité; Fraternité; Liberté d'expression.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0082)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0083
-### Liberté de conscience
+### 📘 Liberté de conscience
 
-Droit de choisir librement ses convictions religieuses, philosophiques ou de ne pas en avoir.
+La **liberté de conscience** permet à chacun de choisir ses convictions : croire, ne pas croire ou changer de religion.
 
-**À retenir :** Cette liberté est protégée par la République.
-
-**Voir aussi :** Laïcité.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0083)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0084
-### Locataire
+### 📘 Locataire
 
-Personne qui loue un logement.
+Le **locataire** est la personne qui loue un logement et paie un loyer au propriétaire.
 
-**À retenir :** Le locataire doit payer son loyer et entretenir le logement.
-
-**Voir aussi :** Bail.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0084)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0085
-### Loi
+### 📘 Loi
 
-Règle votée par le Parlement qui s'impose à tous.
+Une **loi** est une règle votée par le Parlement. Elle fixe ce qui est autorisé, obligatoire ou interdit.
 
-**À retenir :** Toute personne vivant en France doit respecter la loi.
-
-**Voir aussi :** Parlement.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0085)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0086
-### Lycée
+### 📘 Lycée
 
 Établissement préparant les élèves au baccalauréat ou à une formation professionnelle.
 
@@ -3394,59 +5919,48 @@ Règle votée par le Parlement qui s'impose à tous.
 
 **Voir aussi :** Baccalauréat.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0086)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0087
-### Maire
+### 📘 Maire
 
-Le maire dirige une commune.
+Le **maire** dirige la commune avec le conseil municipal. Il intervient dans les affaires locales.
 
-**À retenir :** Il est élu par le conseil municipal.
-
-**Attention à ne pas confondre :** Le maire dirige une commune.
-Le préfet représente l'État.
-
-**Voir aussi :** Commune; Préfet.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0087)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0088
-### Mairie
+### 📘 Mairie
 
-Administration de la commune dirigée par le maire.
+La **mairie** est le lieu où travaillent les services de la commune. On peut y faire certaines démarches administratives.
 
-**À retenir :** De nombreuses démarches administratives y sont réalisées.
-
-**Voir aussi :** Commune; Maire.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0088)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0089
-### Marianne
+### 📘 Marianne
 
 Marianne est la représentation symbolique de la République française.
 
@@ -3454,18 +5968,18 @@ Marianne est la représentation symbolique de la République française.
 
 **Voir aussi :** République.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0089)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0090
-### Martinique
+### 📘 Martinique
 
 Département et région d'outre-mer situé dans les Caraïbes.
 
@@ -3473,18 +5987,18 @@ Département et région d'outre-mer situé dans les Caraïbes.
 
 **Voir aussi :** Outre-mer.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0090)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0091
-### Mayotte
+### 📘 Mayotte
 
 Département et région d'outre-mer situé dans l'océan Indien.
 
@@ -3492,18 +6006,18 @@ Département et région d'outre-mer situé dans l'océan Indien.
 
 **Voir aussi :** Outre-mer.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0091)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0092
-### Médecin traitant
+### 📘 Médecin traitant
 
 Médecin choisi par le patient pour assurer son suivi médical.
 
@@ -3511,38 +6025,33 @@ Médecin choisi par le patient pour assurer son suivi médical.
 
 **Voir aussi :** Assurance maladie.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0092)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0093
-### Ministre
+### 📘 Ministre
 
-Un ministre est membre du Gouvernement.
-Il est responsable d'un domaine particulier (éducation, santé, intérieur...).
+Un **ministre** fait partie du Gouvernement. Il s’occupe d’un domaine, comme l’éducation, la santé ou la justice.
 
-**À retenir :** Chaque ministre dirige un ministère.
-
-**Voir aussi :** Gouvernement.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0093)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0094
-### Mont-Saint-Michel
+### 📘 Mont-Saint-Michel
 
 Îlot rocheux situé en Normandie sur lequel est construite une abbaye.
 
@@ -3550,18 +6059,18 @@ Il est responsable d'un domaine particulier (éducation, santé, intérieur...).
 
 **Voir aussi :** UNESCO.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0094)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0095
-### Musée du Louvre
+### 📘 Musée du Louvre
 
 Plus grand musée d'art de France situé à Paris.
 
@@ -3569,18 +6078,18 @@ Plus grand musée d'art de France situé à Paris.
 
 **Voir aussi :** Paris.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0095)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0096
-### Mutilations sexuelles féminines
+### 📘 Mutilations sexuelles féminines
 
 Interventions consistant à retirer partiellement ou totalement les organes génitaux féminins sans raison médicale.
 
@@ -3588,113 +6097,93 @@ Interventions consistant à retirer partiellement ou totalement les organes gén
 
 **Voir aussi :** Violence.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0096)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0097
-### Naturalisation
+### 📘 Naturalisation
 
-Procédure permettant à un étranger d'acquérir la nationalité française sous certaines conditions.
+La **naturalisation** est une procédure qui permet de devenir français sous certaines conditions. Les démarches sont expliquées dans les rubriques du chatbot.
 
-**À retenir :** La naturalisation n'est pas automatique.
-
-**Voir aussi :** Nationalité française.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0097)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0098
-### Neutralité
+### 📘 Neutralité
 
-Obligation pour les services publics de traiter chacun de manière égale sans favoriser une religion ou une conviction.
+La **neutralité** signifie ne pas favoriser une opinion politique ou une religion dans l’exercice d’un service public.
 
-**À retenir :** La neutralité concerne principalement les institutions et les agents publics.
-
-**Voir aussi :** Laïcité.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0098)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0099
-### Ordre public
+### 📘 Ordre public
 
-Ensemble des règles garantissant la sécurité, la tranquillité et la salubrité publiques.
+L’**ordre public** protège notamment la sécurité et la tranquillité de tous. Il permet de vivre ensemble dans un cadre commun.
 
-**À retenir :** L'ordre public permet le bon fonctionnement de la société.
-
-**Voir aussi :** Police; Gendarmerie.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0099)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0100
-### Outre-mer
+### 📘 Outre-mer
 
-Ensemble des territoires français situés hors du continent européen.
+L’**outre-mer** désigne les territoires français situés en dehors de la France métropolitaine.
 
-**À retenir :** Ils font pleinement partie de la République française.
-
-**Voir aussi :** Guyane; Guadeloupe; Martinique; La Réunion; Mayotte.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0100)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0101
-### Parlement
+### 📘 Parlement
 
-Le Parlement vote les lois et contrôle l'action du Gouvernement.
+Le **Parlement** est l’ensemble des représentants qui discutent et **votent les lois**. En France, il comprend l’**Assemblée nationale** et le **Sénat**. Le Gouvernement prépare des projets de loi ; le Parlement les examine et les vote.
 
-**À retenir :** Il comprend deux assemblées.
-
-**Voir aussi :** Assemblée nationale; Sénat.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0101)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0102
-### Parlement européen
+### 📘 Parlement européen
 
 Institution européenne composée de députés élus par les citoyens des États membres.
 
@@ -3702,37 +6191,33 @@ Institution européenne composée de députés élus par les citoyens des États
 
 **Voir aussi :** Député européen.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0102)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0103
-### Patrimoine
+### 📘 Patrimoine
 
-Ensemble des biens culturels, historiques et naturels transmis de génération en génération.
+Le **patrimoine** est l’ensemble des lieux, des objets et des traditions transmis par les générations précédentes. Un monument historique en fait partie.
 
-**À retenir :** Le patrimoine est protégé et valorisé.
-
-**Voir aussi :** UNESCO.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0103)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0104
-### Police
+### 📘 Police
 
 Force civile chargée de protéger les personnes et de faire respecter la loi.
 
@@ -3740,18 +6225,18 @@ Force civile chargée de protéger les personnes et de faire respecter la loi.
 
 **Voir aussi :** Gendarmerie.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0104)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0105
-### Préfecture
+### 📘 Préfecture
 
 Administration représentant l'État dans un département.
 
@@ -3759,18 +6244,18 @@ Administration représentant l'État dans un département.
 
 **Voir aussi :** Préfet.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0105)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0106
-### Préfet
+### 📘 Préfet
 
 Le préfet représente l'État dans un département ou une région.
 
@@ -3780,40 +6265,33 @@ Le préfet représente l'État dans un département ou une région.
 
 **Voir aussi :** État; Maire.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0106)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0107
-### Premier ministre
+### 📘 Premier ministre
 
-Le Premier ministre dirige l'action du Gouvernement.
+Le **Premier ministre** dirige l’action du Gouvernement. Il travaille avec les ministres pour organiser et mettre en œuvre la politique du pays.
 
-**À retenir :** Il coordonne le travail des ministres.
-
-**Attention à ne pas confondre :** Le Président dirige l'État.
-Le Premier ministre dirige le Gouvernement.
-
-**Voir aussi :** Gouvernement.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0107)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0108
-### Première Guerre mondiale
+### 📘 Première Guerre mondiale
 
 Conflit mondial de 1914 à 1918.
 
@@ -3821,18 +6299,18 @@ Conflit mondial de 1914 à 1918.
 
 **Voir aussi :** Seconde Guerre mondiale.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0108)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0109
-### Président de la République
+### 📘 Président de la République
 
 Le Président de la République est le chef de l'État.
 
@@ -3843,56 +6321,48 @@ Le Premier ministre dirige l'action du Gouvernement.
 
 **Voir aussi :** Gouvernement; Premier ministre.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0109)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0110
-### Présomption d'innocence
+### 📘 Présomption d'innocence
 
-Toute personne est considérée innocente tant qu'elle n'a pas été reconnue coupable par un tribunal.
+La **présomption d’innocence** signifie qu’une personne est considérée comme innocente tant que sa culpabilité n’a pas été établie par la justice.
 
-**À retenir :** La culpabilité doit être prouvée.
-
-**Voir aussi :** Justice.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0110)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0111
-### Procuration
+### 📘 Procuration
 
-Autorisation donnée à une autre personne pour voter à sa place.
+Une **procuration** permet de confier son vote à une autre personne lorsqu’on ne peut pas voter soi-même.
 
-**À retenir :** Elle permet de voter en cas d'absence.
-
-**Voir aussi :** Vote.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0111)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0112
-### Propriétaire
+### 📘 Propriétaire
 
 Personne qui possède un logement.
 
@@ -3900,18 +6370,18 @@ Personne qui possède un logement.
 
 **Voir aussi :** Bail.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0112)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0113
-### Prostitution
+### 📘 Prostitution
 
 Échange d'un acte sexuel contre une rémunération.
 
@@ -3919,18 +6389,18 @@ Personne qui possède un logement.
 
 **Voir aussi :** Traite des êtres humains.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0113)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0114
-### Provence-Alpes-Côte d'Azur
+### 📘 Provence-Alpes-Côte d'Azur
 
 Région située dans le sud-est de la France.
 
@@ -3938,18 +6408,18 @@ Région située dans le sud-est de la France.
 
 **Voir aussi :** Marseille; Nice.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0114)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0115
-### Pyrénées
+### 📘 Pyrénées
 
 Chaîne de montagnes séparant la France et l'Espagne.
 
@@ -3957,37 +6427,33 @@ Chaîne de montagnes séparant la France et l'Espagne.
 
 **Voir aussi :** Alpes.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0115)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0116
-### Référendum
+### 📘 Référendum
 
-Consultation permettant au peuple de répondre directement à une question.
+Un **référendum** est un vote où les citoyens répondent directement à une question, généralement par oui ou non.
 
-**À retenir :** Les citoyens répondent généralement par "Oui" ou "Non".
-
-**Voir aussi :** Souveraineté nationale.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0116)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0117
-### Région
+### 📘 Région
 
 La région est une collectivité territoriale regroupant plusieurs départements.
 
@@ -3995,18 +6461,18 @@ La région est une collectivité territoriale regroupant plusieurs départements
 
 **Voir aussi :** Département.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0117)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0118
-### République
+### 📘 République
 
 Organisation politique dans laquelle le pouvoir appartient au peuple et s'exerce conformément à la Constitution.
 
@@ -4018,18 +6484,18 @@ La démocratie est une manière d'exercer le pouvoir.
 
 **Voir aussi :** Constitution; Démocratie; Souveraineté nationale.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0118)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0119
-### Révolution française
+### 📘 Révolution française
 
 Période commencée en 1789 qui met fin à la monarchie absolue et fonde de nouveaux principes politiques.
 
@@ -4037,18 +6503,18 @@ Période commencée en 1789 qui met fin à la monarchie absolue et fonde de nouv
 
 **Voir aussi :** Déclaration des droits de l'homme et du citoyen.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0119)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0120
-### Salaire
+### 📘 Salaire
 
 Somme versée par l'employeur en contrepartie du travail effectué.
 
@@ -4056,18 +6522,18 @@ Somme versée par l'employeur en contrepartie du travail effectué.
 
 **Voir aussi :** Employeur.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0120)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0121
-### Seconde Guerre mondiale
+### 📘 Seconde Guerre mondiale
 
 Conflit mondial de 1939 à 1945.
 
@@ -4075,18 +6541,18 @@ Conflit mondial de 1939 à 1945.
 
 **Voir aussi :** Résistance.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0121)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0122
-### Seine
+### 📘 Seine
 
 Fleuve qui traverse notamment Paris avant de se jeter dans la Manche.
 
@@ -4094,39 +6560,33 @@ Fleuve qui traverse notamment Paris avant de se jeter dans la Manche.
 
 **Voir aussi :** Loire; Rhône.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0122)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0123
-### Sénat
+### 📘 Sénat
 
-Le Sénat est la seconde assemblée du Parlement.
+Le **Sénat** est l’autre partie du Parlement, avec l’Assemblée nationale. Les **sénateurs** y examinent et votent les lois.
 
-**À retenir :** Les sénateurs représentent les collectivités territoriales.
-
-**Attention à ne pas confondre :** Assemblée nationale ≠ Sénat.
-
-**Voir aussi :** Sénateur; Parlement.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0123)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0124
-### Sénateur
+### 📘 Sénateur
 
 Le sénateur siège au Sénat.
 
@@ -4134,37 +6594,33 @@ Le sénateur siège au Sénat.
 
 **Voir aussi :** Sénat.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0124)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0125
-### Service public
+### 📘 Service public
 
-Service assuré par une administration pour répondre aux besoins de la population.
+Un **service public** répond à un besoin d’intérêt général. L’école publique est un exemple de service public.
 
-**À retenir :** Les services publics garantissent l'égalité d'accès pour tous.
-
-**Voir aussi :** Mairie; Préfecture.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0125)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0126
-### Souveraineté nationale
+### 📘 Souveraineté nationale
 
 Principe selon lequel le pouvoir appartient au peuple.
 
@@ -4174,18 +6630,18 @@ Principe selon lequel le pouvoir appartient au peuple.
 
 **Voir aussi :** République; Référendum; Citoyen.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T1_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0126)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0127
-### Suffrage universel
+### 📘 Suffrage universel
 
 Mode d'élection dans lequel tous les citoyens remplissant les conditions peuvent voter.
 
@@ -4193,18 +6649,18 @@ Mode d'élection dans lequel tous les citoyens remplissant les conditions peuven
 
 **Voir aussi :** Vote.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0127)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0128
-### Sûreté
+### 📘 Sûreté
 
 Droit d'être protégé contre les arrestations arbitraires et de bénéficier d'un procès équitable.
 
@@ -4212,37 +6668,33 @@ Droit d'être protégé contre les arrestations arbitraires et de bénéficier d
 
 **Voir aussi :** Présomption d'innocence; Justice.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0128)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0129
-### Titre de séjour
+### 📘 Titre de séjour
 
-Document autorisant un ressortissant étranger à séjourner en France pendant une durée déterminée.
+Un **titre de séjour** est un document qui autorise une personne étrangère à séjourner en France selon les conditions du titre.
 
-**À retenir :** Il doit être renouvelé avant sa date d'expiration.
-
-**Voir aussi :** Préfecture.
-
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0129)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0130
-### Tour Eiffel
+### 📘 Tour Eiffel
 
 Monument emblématique situé à Paris, construit pour l'Exposition universelle de 1889.
 
@@ -4250,18 +6702,18 @@ Monument emblématique situé à Paris, construit pour l'Exposition universelle 
 
 **Voir aussi :** Paris.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0130)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0131
-### Traite des êtres humains
+### 📘 Traite des êtres humains
 
 Exploitation d'une personne par la contrainte, la menace ou la tromperie.
 
@@ -4269,18 +6721,18 @@ Exploitation d'une personne par la contrainte, la menace ou la tromperie.
 
 **Voir aussi :** Esclavage.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0131)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0132
-### UNESCO
+### 📘 UNESCO
 
 Organisation des Nations unies chargée notamment de protéger le patrimoine mondial.
 
@@ -4288,18 +6740,18 @@ Organisation des Nations unies chargée notamment de protéger le patrimoine mon
 
 **Voir aussi :** Patrimoine.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0132)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0133
-### Union européenne
+### 📘 Union européenne
 
 Organisation regroupant plusieurs États européens qui coopèrent dans de nombreux domaines.
 
@@ -4307,18 +6759,18 @@ Organisation regroupant plusieurs États européens qui coopèrent dans de nombr
 
 **Voir aussi :** Parlement européen; Euro.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0133)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0134
-### Urgences
+### 📘 Urgences
 
 Situation nécessitant une prise en charge médicale immédiate.
 
@@ -4326,18 +6778,18 @@ Situation nécessitant une prise en charge médicale immédiate.
 
 **Voir aussi :** SAMU; Hôpital.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T5_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0134)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0135
-### Vercingétorix
+### 📘 Vercingétorix
 
 Chef gaulois qui s'est opposé à Jules César.
 
@@ -4345,18 +6797,18 @@ Chef gaulois qui s'est opposé à Jules César.
 
 **Voir aussi :** Gaule; Jules César.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T4_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0135)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0136
-### Violence
+### 📘 Violence
 
 Acte portant atteinte à une personne, physiquement, psychologiquement, sexuellement ou économiquement.
 
@@ -4364,18 +6816,18 @@ Acte portant atteinte à une personne, physiquement, psychologiquement, sexuelle
 
 **Voir aussi :** Consentement.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T3_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0136)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_GLO0137
-### Vote
+### 📘 Vote
 
 Action qui consiste à choisir un candidat ou répondre à une question lors d'un référendum.
 
@@ -4383,15 +6835,15 @@ Action qui consiste à choisir un candidat ou répondre à une question lors d'u
 
 **Voir aussi :** Élection.
 
-1. [➡️ Approfondir dans le cours](SCR_REV_T2_MENU)
-2. [➡️ Poser une autre question](SCR_QL_RESET)
-3. [➡️ Reprendre un entraînement](SCR_ENT_MENU)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0137)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 ## SCR_QL_RETOUR
 ### ↩️ Reprendre mon activité
@@ -4427,4 +6879,1127 @@ Choisissez le parcours que vous souhaitez reprendre.
 3. [❓ Poser une autre question](SCR_QL_RESET)
 
 1. [↩️ Retour au menu du module](SCR_QL_MENU)
+
+
+
+## SCR_QL_SIMPLE_DISCRIMINATION
+### 📘 Discrimination
+
+Une **discrimination** consiste à traiter une personne moins bien pour un motif interdit, par exemple son origine ou sa religion. Le principe d’égalité protège les personnes contre ces traitements.
+
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_SIMPLE_DEVOIR
+### 📘 Devoir civique
+
+Un **devoir** est une obligation à respecter pour vivre ensemble. Respecter la loi et les droits des autres en sont des exemples.
+
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_SIMPLE_POUVOIRS
+### 📘 Séparation des pouvoirs
+
+La **séparation des pouvoirs** distingue trois fonctions : faire les lois, les appliquer et rendre la justice. Elles ne doivent pas toutes être concentrées dans les mêmes mains.
+
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0197
+### 📘 Abolition
+
+Suppression officielle d’une règle, d’une pratique ou d’une peine, par exemple l’abolition de l’esclavage ou de la peine de mort.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0197)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0172
+### 📘 Agents publics
+
+Personnes qui travaillent pour une administration ou un service public. Elles doivent respecter notamment la neutralité et l’égalité de traitement.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0172)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0178
+### 📘 Amende
+
+Somme d’argent qu’une personne doit payer lorsqu’une sanction pécuniaire est prononcée à son encontre.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0178)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0192
+### 📘 Armistice
+
+Accord qui suspend les combats entre des forces en guerre. Il ne signifie pas nécessairement la fin définitive de la guerre.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0192)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0170
+### 📘 Autorité parentale
+
+Ensemble des droits et des devoirs des parents pour protéger, éduquer et accompagner leur enfant dans son intérêt.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0170)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0181
+### 📘 Avocat
+
+Professionnel du droit qui conseille une personne, défend ses intérêts et peut la représenter devant la justice.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0181)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0145
+### 📘 Bénévolat
+
+Activité réalisée librement sans rémunération, par exemple pour aider une association.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0145)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0205
+### 📘 CECA
+
+Communauté européenne du charbon et de l’acier : projet de coopération européen qui a précédé l’Union européenne.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0205)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0164
+### 📘 Chef de l’État
+
+Personne qui représente l’État au plus haut niveau. En France, le chef de l’État est le président de la République.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0164)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0165
+### 📘 Collectivités territoriales
+
+Structures qui gèrent des affaires locales grâce à des élus, par exemple les communes, les départements et les régions.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0165)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0198
+### 📘 Colonisation
+
+Prise de contrôle d’un territoire et de sa population par une puissance extérieure.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0198)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0141
+### 📘 Cotisations sociales
+
+Sommes versées par les salariés et les employeurs pour financer la protection sociale, notamment la maladie et la retraite.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0141)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0183
+### 📘 Cour d’assises
+
+Juridiction qui juge certains crimes avec des magistrats et un jury de citoyens.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0183)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0188
+### 📘 Déchèterie
+
+Lieu où l’on dépose certains déchets qui ne doivent pas être mis dans les poubelles ordinaires.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0188)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0186
+### 📘 Déchets
+
+Objets ou matières dont on se débarrasse. Il faut respecter les règles de collecte, de tri et de traitement.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0186)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0209
+### 📘 Devoir
+
+Obligation à respecter pour vivre dans la société, notamment respecter la loi et les droits d’autrui.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0209)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0168
+### 📘 Divorce
+
+Fin d’un mariage prononcée ou constatée selon une procédure légale.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0168)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0177
+### 📘 Droits civiques
+
+Droits qui permettent de participer à la vie citoyenne, notamment le droit de vote, selon les conditions prévues par la loi.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0177)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0204
+### 📘 DROM
+
+Départements et régions d’outre-mer : territoires français ayant ce statut administratif.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0204)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0160
+### 📘 Élections européennes
+
+Élections par lesquelles les citoyens de l’Union européenne choisissent leurs députés au Parlement européen.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0160)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0159
+### 📘 Élections municipales
+
+Élections qui permettent de choisir les conseillers municipaux. Ceux-ci élisent ensuite le maire.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0159)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0157
+### 📘 Éligibilité
+
+Possibilité de se présenter à une élection lorsque les conditions prévues par la loi sont remplies.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0157)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0143
+### 📘 Entreprise
+
+Organisation qui produit des biens ou fournit des services. Elle peut employer des salariés.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0143)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0196
+### 📘 Esclavage
+
+Situation dans laquelle des personnes sont privées de leur liberté et traitées comme la propriété d’autrui.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0196)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0166
+### 📘 État civil
+
+Enregistrement officiel des événements importants de la vie d’une personne, notamment sa naissance, son mariage et son décès.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0166)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0202
+### 📘 Fleuve
+
+Cours d’eau qui se jette dans la mer ou dans l’océan.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0202)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0195
+### 📘 Génocide
+
+Actes commis avec l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0195)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0146
+### 📘 Grève
+
+Arrêt collectif du travail destiné à défendre des revendications professionnelles. Ce droit s’exerce dans un cadre légal.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0146)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0147
+### 📘 Handicap
+
+Limitation d’activité ou difficulté de participation à la vie sociale liée notamment à une altération physique, sensorielle ou mentale.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0147)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0200
+### 📘 Impressionnisme
+
+Courant artistique du XIXe siècle qui représente notamment les impressions de lumière et de couleur.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0200)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0171
+### 📘 Instruction obligatoire
+
+Obligation de donner à chaque enfant une instruction. Elle peut être assurée à l’école ou, sous conditions, dans la famille.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0171)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0173
+### 📘 Intérêt général
+
+Ce qui sert le bien commun, au-delà des intérêts particuliers d’une personne ou d’un groupe.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0173)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0185
+### 📘 IVG
+
+Interruption volontaire de grossesse : démarche permettant de mettre fin à une grossesse dans le cadre prévu par la loi.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0185)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0207
+### 📘 Journée de l’Europe
+
+Journée célébrée le 9 mai pour rappeler le projet de coopération européenne et la déclaration de Robert Schuman.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0207)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0180
+### 📘 Juge
+
+Professionnel de la justice qui applique la loi et rend des décisions pour trancher des litiges ou juger des infractions.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0180)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0182
+### 📘 Juré
+
+Citoyen appelé à participer à un jury et à juger certaines affaires aux côtés de magistrats.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0182)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0158
+### 📘 Listes électorales
+
+Listes des personnes inscrites pour voter dans une commune ou dans une circonscription.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0158)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0201
+### 📘 Littérature
+
+Ensemble des œuvres écrites, comme les romans, la poésie ou le théâtre.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0201)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0208
+### 📘 Majorité
+
+Âge à partir duquel une personne devient juridiquement adulte. Le mot désigne aussi le plus grand nombre de voix dans un vote.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0208)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0154
+### 📘 Mandat
+
+Mission confiée à une personne, notamment à un élu, pour une durée déterminée.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0154)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0203
+### 📘 Méditerranée
+
+Mer située au sud de la France, entre l’Europe, l’Afrique du Nord et le Proche-Orient.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0203)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0199
+### 📘 Monarchie
+
+Régime politique dans lequel le chef de l’État est un roi ou une reine.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0199)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0148
+### 📘 Mutuelle
+
+Organisme de complémentaire santé qui peut prendre en charge une partie des dépenses restant après le remboursement de l’Assurance maladie.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0148)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0167
+### 📘 Naissance
+
+Venue au monde d’un enfant. Elle doit être déclarée à l’état civil dans les conditions prévues par la loi.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0167)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0176
+### 📘 Opinion
+
+Idée ou point de vue personnel sur un sujet. La liberté d’opinion est protégée, dans le respect de la loi et des droits d’autrui.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0176)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0156
+### 📘 Parti politique
+
+Organisation qui rassemble des personnes autour d’idées politiques et participe à la vie démocratique, notamment aux élections.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0156)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0184
+### 📘 Peine de mort
+
+Sanction qui consiste à exécuter une personne condamnée. Elle a été abolie en France en 1981.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0184)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0179
+### 📘 Plainte
+
+Démarche par laquelle une personne signale aux autorités une infraction dont elle estime être victime.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0179)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0169
+### 📘 Polygamie
+
+Situation dans laquelle une personne est mariée à plusieurs conjoints en même temps. Elle est interdite en France.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0169)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0161
+### 📘 Pouvoir exécutif
+
+Pouvoir chargé de conduire la politique et de faire appliquer les lois. En France, il est exercé par le président de la République et le Gouvernement.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0161)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0163
+### 📘 Pouvoir judiciaire
+
+Fonction de la justice qui tranche les litiges et sanctionne les infractions selon la loi, en toute indépendance.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0163)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0162
+### 📘 Pouvoir législatif
+
+Pouvoir qui discute et vote les lois. En France, il est exercé par le Parlement.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0162)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0149
+### 📘 Prévention
+
+Actions destinées à éviter un risque ou à limiter ses conséquences, par exemple la vaccination ou le dépistage.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0149)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0150
+### 📘 Protection sociale
+
+Ensemble des dispositifs qui aident les personnes face à certains risques de la vie, comme la maladie, la vieillesse ou la perte d’emploi.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0150)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0155
+### 📘 Quinquennat
+
+Mandat de cinq ans. Le mandat du président de la République française est un quinquennat.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0155)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0187
+### 📘 Recyclage
+
+Transformation de déchets pour réutiliser leurs matériaux et réduire le gaspillage des ressources.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0187)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0175
+### 📘 Religion
+
+Ensemble de croyances et de pratiques liées à une foi. Chacun est libre de croire, de changer de religion ou de ne pas croire.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0175)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0191
+### 📘 Réseaux sociaux
+
+Services en ligne permettant de publier et d’échanger des contenus. Les règles de droit et le respect d’autrui s’y appliquent aussi.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0191)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0193
+### 📘 Résistance
+
+Actions menées contre l’occupation et les régimes oppressifs ; en France, le terme renvoie notamment à la lutte contre l’occupation nazie pendant la Seconde Guerre mondiale.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0193)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0174
+### 📘 Respect
+
+Attitude qui consiste à reconnaître la dignité et les droits d’autrui, même lorsque ses opinions diffèrent des nôtres.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0174)
+1. [📚 Approfondir cette thématique](SCR_REV_T1_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0139
+### 📘 Salaire brut
+
+Rémunération avant le prélèvement des cotisations sociales à la charge du salarié.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0139)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0140
+### 📘 Salaire net
+
+Rémunération après déduction des cotisations salariales ; le montant versé peut aussi tenir compte du prélèvement de l’impôt.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0140)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0142
+### 📘 Salarié
+
+Personne qui travaille pour un employeur dans le cadre d’un contrat de travail et reçoit un salaire.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0142)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0153
+### 📘 SAMU
+
+Service d’aide médicale urgente : il organise la réponse médicale aux urgences et oriente vers les soins adaptés.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0153)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0152
+### 📘 Secours
+
+Aide apportée à une personne en danger ou en difficulté ; elle peut nécessiter de prévenir les services d’urgence.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0152)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0190
+### 📘 Sécurité routière
+
+Ensemble des règles et des comportements qui limitent les accidents sur la route et protègent tous les usagers.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0190)
+1. [📚 Approfondir cette thématique](SCR_REV_T3_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0194
+### 📘 Shoah
+
+Génocide des Juifs d’Europe perpétré par les nazis et leurs complices pendant la Seconde Guerre mondiale.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0194)
+1. [📚 Approfondir cette thématique](SCR_REV_T4_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0138
+### 📘 SMIC
+
+Salaire minimum légal : un employeur doit respecter ce minimum pour rémunérer le travail de son salarié.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0138)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0206
+### 📘 Traité de Maastricht
+
+Traité signé en 1992 qui a créé l’Union européenne et renforcé la coopération entre ses États membres.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0206)
+1. [📚 Approfondir cette thématique](SCR_REV_T2_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0144
+### 📘 Travail dissimulé
+
+Travail ou activité qui n’est pas déclaré comme la loi l’exige. Cela prive notamment le salarié de certaines protections.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0144)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0189
+### 📘 Tri des déchets
+
+Séparation des déchets selon leur nature pour permettre leur collecte et leur traitement adaptés.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0189)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+## SCR_QL_GLO0151
+### 📘 Urgence
+
+Situation qui nécessite une intervention rapide, notamment lorsqu’une vie ou la sécurité d’une personne est en danger.
+
+1. [📖 Voir la fiche du glossaire](SCR_GLO_0151)
+1. [📚 Approfondir cette thématique](SCR_REV_T5_MENU)
+1. [🎯 Reprendre un entraînement](SCR_ENT_MENU)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
+1. [↩️ Retour aux questions](SCR_QL_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
 
