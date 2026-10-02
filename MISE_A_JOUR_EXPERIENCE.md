@@ -62,3 +62,18 @@ Après toute régénération, lancer `python scripts/ameliorer_presentation.py` 
 Installation : remplacer les fichiers du dépôt avec le contenu du ZIP, puis Commit et Push. Pour une mise à jour ponctuelle de l’affichage uniquement, renommer le Markdown livré en `chat_bot.md` et remplacer le fichier à la racine.
 
 Vérifier dans ChatMD : résultats faibles, moyens, élevés et parfaits ; conseils et barre ; menu principal ; inscription ; boutons sur mobile. Les contrôles locaux des sources, des scores et de la navigation ont passé. Le rendu ChatMD après déploiement reste à vérifier.
+
+
+## Version 4 — retours après essais ChatMD
+
+- Boutons en colonne sur tous les écrans.
+- Cigogne pour Grand Est, volcan pour Auvergne.
+- Pictogrammes de documents dessinés en SVG : séjour pluriannuel bleu, résident vert, naturalisation rose. Les couleurs servent à distinguer les parcours dans l’interface.
+- Suppression des sous-scores redondants des résultats d’entraînement.
+- Remplacement de « Construire les bases » par un défi concret adapté au score et aux thèmes.
+- 30 paliers ludiques avec récit court pour les entraînements par thématique ; tous les textes figurent dans `PALIERS_ENTRAINEMENT.md`.
+- Objectifs 6/10, puis 8/10 sur deux séries, puis 10/10 ; adaptation proportionnelle aux séries de 15 questions.
+
+Publier le contenu du ZIP complet, y compris `assets/icons/`, pour que les nouvelles icônes soient disponibles. Après régénération : `python scripts/ameliorer_presentation.py`.
+
+Les 480 séries, les conseils pour tous les scores, la compilation et la navigation ont passé les contrôles locaux. Vérifier le rendu ChatMD après publication.
