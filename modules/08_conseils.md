@@ -1,7 +1,6 @@
 <!-- Module Conseils réorganisé — version finale -->
 
 ## SCR_CONS_MENU
-
 ### 💡 Conseils pour réussir
 
 :::info ⌨️ Conseil de navigation
@@ -22,8 +21,8 @@ Choisissez le conseil qui correspond à votre besoin du moment. Chaque rubrique 
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
-## SCR_CONS_GUIDE_MENU
 
+## SCR_CONS_GUIDE_MENU
 ### 🌟 Bien démarrer
 
 :::success 🎯 Votre première étape
@@ -50,8 +49,8 @@ Une préparation efficace repose sur trois habitudes :
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
-## SCR_CONS_PARCOURS_MENU
 
+## SCR_CONS_PARCOURS_MENU
 ### 📅 Construire mon parcours de révision
 
 Choisissez un rythme réaliste selon le temps qui vous sépare de l’examen.
@@ -77,8 +76,10 @@ Priorisez les thèmes faibles repérés dans votre bilan. Faites des séries cou
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_MENU
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_MENU
 ### 🧠 Mémoriser efficacement
 
 Découvrez comment votre cerveau apprend et appliquez six techniques simples pour retenir durablement les connaissances de l’examen civique.
@@ -103,8 +104,10 @@ Suivez les étapes dans l’ordre. Chaque partie contient une explication courte
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_01
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_01
 ### 🧠 Les secrets de la mémoire
 
 Votre cerveau ne fonctionne pas comme un appareil qui enregistre tout immédiatement. Une information doit passer par plusieurs étapes avant d’être retenue durablement.
@@ -125,8 +128,10 @@ Oublier ne signifie pas que vous avez une mauvaise mémoire. Chaque fois que vou
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_01](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_02
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_02
 ### 🌫️ Pourquoi oublie-t-on ?
 
 Le cerveau reçoit beaucoup d’informations chaque jour. Il oublie rapidement celles qui ne sont pas comprises, utilisées ou revues.
@@ -150,8 +155,12 @@ L’objectif n’est pas de tout apprendre en une seule fois, mais de **consolid
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_02](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_03
 
+1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_03
 ### 💡 Secret n°1 : comprendre avant de mémoriser
 
 Apprendre une phrase sans la comprendre fonctionne rarement sur le long terme. Lorsque vous comprenez une notion, votre cerveau la relie à ce que vous connaissez déjà.
@@ -174,8 +183,12 @@ Après avoir lu une notion, fermez le cours et expliquez-la avec vos propres mot
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_03](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_04
 
+1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_04
 ### 🔁 Secret n°2 : réviser plusieurs fois
 
 Une seule lecture ne suffit généralement pas. Le cerveau retient mieux lorsqu’il retrouve régulièrement la même notion : c’est la **répétition espacée**.
@@ -199,8 +212,12 @@ Notez la prochaine date de révision dans votre téléphone ou votre agenda. Que
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_04](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_05
 
+1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_05
 ### 🎯 Secret n°3 : se tester régulièrement
 
 Relire donne parfois l’impression de connaître. Essayer de répondre sans regarder permet de vérifier ce que vous savez réellement : c’est le **rappel actif**.
@@ -225,8 +242,12 @@ Après une erreur :
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_05](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_06
 
+1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_06
 ### 🔗 Secret n°4 : faire des liens
 
 Une information isolée est difficile à retrouver. Une information reliée à une date, une image, une cause ou une conséquence laisse davantage de chemins dans la mémoire.
@@ -250,8 +271,12 @@ Au lieu de retenir seulement « 1789 », vous retenez un ensemble logique.
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_06](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_07
 
+1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_07
 ### ⏱️ Secret n°5 : apprendre par petites séances
 
 L’attention diminue lorsque vous travaillez trop longtemps sans pause. Plusieurs séances courtes et régulières sont souvent plus efficaces qu’une seule longue séance.
@@ -275,8 +300,12 @@ Faites ensuite une courte pause avant de commencer une nouvelle séance.
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_07](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_08
 
+1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_08
 ### 😴 Secret n°6 : dormir pour consolider
 
 Le sommeil joue un rôle essentiel dans la mémorisation. Pendant que vous dormez, votre cerveau consolide une partie des connaissances apprises dans la journée.
@@ -295,8 +324,12 @@ Le sommeil ne remplace pas les révisions : il aide votre cerveau à stabiliser 
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_08](SCR_QL_RESET)
 
-## SCR_CONS_MEMOIRE_09
 
+1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MEMOIRE_09
 ### 📌 La méthode complète à retenir
 
 Pour mémoriser durablement :
@@ -325,8 +358,10 @@ La mémoire n’est pas une question de chance : elle s’améliore grâce à un
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_09](SCR_QL_RESET)
 
-## SCR_CONS_MNEMO_MENU
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_MNEMO_MENU
 ### 🧩 Utiliser des moyens mnémotechniques
 
 Un moyen mnémotechnique doit être court, personnel et facile à retrouver.
@@ -349,8 +384,10 @@ Associez une date à une scène, une institution à un lieu ou une liste à une 
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
-## SCR_CONS_QCM_MENU
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_QCM_MENU
 ### ✅ Réussir les QCM
 
 #### Avant de répondre
@@ -375,8 +412,10 @@ Vous disposez d’un peu plus d’une minute par question. Si vous hésitez, res
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
-## SCR_CONS_SITUATIONS_MENU
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_SITUATIONS_MENU
 ### 🎭 Réussir les mises en situation
 
 Les mises en situation vérifient votre capacité à appliquer une règle civique à un cas concret.
@@ -399,8 +438,10 @@ Si une situation concerne une discrimination, demandez-vous quelle réponse prot
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
-## SCR_CONS_ERREURS_MENU
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_ERREURS_MENU
 ### ⚠️ Éviter les erreurs fréquentes
 
 | Erreur fréquente | Bon réflexe |
@@ -422,8 +463,10 @@ Une erreur corrigée vous indique exactement ce que vous devez retravailler. L�
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
 
-## SCR_CONS_ENTRETIEN_MENU
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_CONS_ENTRETIEN_MENU
 ### 👤 Préparer l’entretien de naturalisation
 
 L’entretien de naturalisation est distinct de l’examen civique. Il permet notamment d’échanger sur votre parcours, votre intégration et votre compréhension des valeurs de la République.
@@ -448,3 +491,6 @@ Ne récitez pas un texte appris par cœur et n’inventez pas une réponse. Une 
 4. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+

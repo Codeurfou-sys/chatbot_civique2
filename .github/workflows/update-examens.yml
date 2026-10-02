@@ -41,7 +41,9 @@ jobs:
             --force
 
       - name: Appliquer la présentation validée au module 07
-        run: python scripts/postprocess_module07.py .build_chatmd/export/modules/07_passer_examen.md
+        run: |
+          python scripts/postprocess_module07.py .build_chatmd/export/modules/07_passer_examen.md
+          python scripts/ajouter_retours.py --module .build_chatmd/export/modules/07_passer_examen.md
 
       - name: Contrôler le module publié
         run: python scripts/validate_passer_examen.py .build_chatmd/export/modules/07_passer_examen.md

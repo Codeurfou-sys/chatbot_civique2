@@ -1,8 +1,7 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-10-01T10:12:16+00:00 -->
+<!-- Date : 2026-08-31T09:48:52+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
-
 ### 📍 Annecy (74)
 
 <!-- Variables : {centre}=Annecy; {region}=Rhône-Alpes; {lien_forms} -->
@@ -11,9 +10,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 18 septembre 2026
 - 16 octobre 2026
 - 27 novembre 2026
-- 11 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -27,8 +26,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_ANNEMASSE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_ANNEMASSE
 ### 📍 Annemasse (74)
 
 <!-- Variables : {centre}=Annemasse; {region}=Rhône-Alpes; {lien_forms} -->
@@ -37,9 +38,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 30 septembre 2026
 - 28 octobre 2026
 - 25 novembre 2026
-- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -53,8 +54,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_AUXERRE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_AUXERRE
 ### 📍 Auxerre (89)
 
 <!-- Variables : {centre}=Auxerre; {region}=Bourgogne; {lien_forms} -->
@@ -63,9 +66,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 16 septembre 2026
 - 16 octobre 2026
 - 18 novembre 2026
-- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -79,8 +82,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_BESANCON
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_BESANCON
 ### 📍 Besançon (25)
 
 <!-- Variables : {centre}=Besançon; {region}=Franche-Comté; {lien_forms} -->
@@ -89,9 +94,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 30 septembre 2026
 - 16 octobre 2026
 - 29 octobre 2026
-- 4 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -105,8 +110,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_BOURG_EN_BRESSE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_BOURG_EN_BRESSE
 ### 📍 Bourg-en-Bresse (01)
 
 <!-- Variables : {centre}=Bourg-en-Bresse; {region}=Rhône-Alpes; {lien_forms} -->
@@ -115,9 +122,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 25 septembre 2026
 - 23 octobre 2026
 - 20 novembre 2026
-- 17 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -131,8 +138,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_BOURGES
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_BOURGES
 ### 📍 Bourges (18)
 
 <!-- Variables : {centre}=Bourges; {region}=Cher; {lien_forms} -->
@@ -141,9 +150,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 22 septembre 2026
 - 6 octobre 2026
 - 10 novembre 2026
-- 8 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -157,8 +166,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_CHAUMONT
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_CHAUMONT
 ### 📍 Chaumont (52)
 
 <!-- Variables : {centre}=Chaumont; {region}=Grand Est; {lien_forms} -->
@@ -167,6 +178,7 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 9 septembre 2026
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
@@ -181,8 +193,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_CLERMONT_FERRAND
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_CLERMONT_FERRAND
 ### 📍 Clermont-Ferrand (63)
 
 <!-- Variables : {centre}=Clermont-Ferrand; {region}=Auvergne; {lien_forms} -->
@@ -191,9 +205,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 9 septembre 2026
+- 23 septembre 2026
 - 7 octobre 2026
-- 21 octobre 2026
-- 4 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -207,8 +221,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_DIJON
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_DIJON
 ### Dijon (21)
 
 <!-- Variables : {centre}=Dijon; {region}=Bourgogne; {lien_forms} -->
@@ -217,9 +233,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 7 septembre 2026
 - 12 octobre 2026
 - 9 novembre 2026
-- 7 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -233,8 +249,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_LE_PUY_EN_VELAY
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_LE_PUY_EN_VELAY
 ### 📍 Le Puy-en-Velay (43)
 
 <!-- Variables : {centre}=Le Puy-en-Velay; {region}=Auvergne; {lien_forms} -->
@@ -243,9 +261,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 23 septembre 2026
 - 21 octobre 2026
 - 25 novembre 2026
-- 9 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -259,8 +277,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_LONS_LE_SAUNIER
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_LONS_LE_SAUNIER
 ### 📍 Lons-le-Saunier (39)
 
 <!-- Variables : {centre}=Lons-le-Saunier; {region}=Franche-Comté; {lien_forms} -->
@@ -269,9 +289,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 9 septembre 2026
 - 8 octobre 2026
 - 13 novembre 2026
-- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -285,8 +305,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_MONTBELIARD
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_MONTBELIARD
 ### 📍 Montbéliard (25)
 
 <!-- Variables : {centre}=Montbéliard; {region}=Franche-Comté; {lien_forms} -->
@@ -295,9 +317,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 2 septembre 2026
 - 7 octobre 2026
 - 4 novembre 2026
-- 2 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -311,8 +333,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_MONTCEAU_LES_MINES
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_MONTCEAU_LES_MINES
 ### 📍 Montceau-les-Mines (71)
 
 <!-- Variables : {centre}=Montceau-les-Mines; {region}=Bourgogne; {lien_forms} -->
@@ -336,8 +360,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_MULHOUSE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_MULHOUSE
 ### 📍 Mulhouse (68)
 
 <!-- Variables : {centre}=Mulhouse; {region}=Grand Est; {lien_forms} -->
@@ -346,9 +372,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 7 septembre 2026
+- 21 septembre 2026
 - 8 octobre 2026
-- 23 octobre 2026
-- 5 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -362,8 +388,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_MACON
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_MACON
 ### 📍 Mâcon (71)
 
 <!-- Variables : {centre}=Mâcon; {region}=Bourgogne; {lien_forms} -->
@@ -372,6 +400,7 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 17 septembre 2026
 - 16 octobre 2026
 - 17 novembre 2026
 
@@ -387,8 +416,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_NEVERS
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_NEVERS
 ### 📍 Nevers (58)
 
 <!-- Variables : {centre}=Nevers; {region}=Bourgogne; {lien_forms} -->
@@ -397,9 +428,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 15 septembre 2026
 - 13 octobre 2026
 - 17 novembre 2026
-- 15 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -413,8 +444,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_REIMS
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_REIMS
 ### 📍 Reims (51)
 
 <!-- Variables : {centre}=Reims; {region}=Grand Est; {lien_forms} -->
@@ -423,9 +456,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 23 septembre 2026
+- 7 octobre 2026
 - 28 octobre 2026
-- 18 novembre 2026
-- 2 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -439,8 +472,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_SAINT_DIE_DES_VOSGES
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_SAINT_DIE_DES_VOSGES
 ### 📍 Saint-Dié-des-Vosges (88)
 
 <!-- Variables : {centre}=Saint-Dié-des-Vosges; {region}=Grand Est; {lien_forms} -->
@@ -449,6 +484,7 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 24 septembre 2026
 - 22 octobre 2026
 - 26 novembre 2026
 
@@ -464,8 +500,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_SAINT_FLOUR
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_SAINT_FLOUR
 ### 📍 Saint-Flour (15)
 
 <!-- Variables : {centre}=Saint-Flour; {region}=Auvergne; {lien_forms} -->
@@ -474,6 +512,7 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 16 septembre 2026
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
@@ -488,8 +527,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_SENS
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_SENS
 ### 📍 Sens (89)
 
 <!-- Variables : {centre}=Sens; {region}=Bourgogne; {lien_forms} -->
@@ -498,9 +539,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 22 septembre 2026
 - 20 octobre 2026
 - 17 novembre 2026
-- 15 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -514,8 +555,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_STRASBOURG
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_STRASBOURG
 ### 📍 Strasbourg (67)
 
 <!-- Variables : {centre}=Strasbourg; {region}=Grand Est; {lien_forms} -->
@@ -524,9 +567,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 9 septembre 2026
+- 30 septembre 2026
 - 22 octobre 2026
-- 6 novembre 2026
-- 27 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -540,8 +583,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_TROYES
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_TROYES
 ### 📍 Troyes (10)
 
 <!-- Variables : {centre}=Troyes; {region}=Grand Est; {lien_forms} -->
@@ -550,9 +595,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 30 septembre 2026
 - 21 octobre 2026
 - 4 novembre 2026
-- 25 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -566,8 +611,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_VALSERHONE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_VALSERHONE
 ### 📍 Valserhône (01)
 
 <!-- Variables : {centre}=Valserhône; {region}=Rhône-Alpes; {lien_forms} -->
@@ -576,9 +623,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 23 septembre 2026
 - 21 octobre 2026
 - 18 novembre 2026
-- 9 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -592,8 +639,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_CITY_VICHY
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_CITY_VICHY
 ### 📍 Vichy (03)
 
 <!-- Variables : {centre}=Vichy; {region}=Auvergne; {lien_forms} -->
@@ -602,9 +651,9 @@
 
 #### 📅 Prochaines sessions disponibles
 
+- 30 septembre 2026
 - 28 octobre 2026
 - 18 novembre 2026
-- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -618,8 +667,10 @@
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INFO_MENU
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INFO_MENU
 ### ❓ Questions sur l’examen civique
 
 Choisissez votre question. Chaque réponse vous donne les repères essentiels et vous oriente vers la prochaine étape utile.
@@ -636,8 +687,10 @@ Choisissez votre question. Chaque réponse vous donne les repères essentiels et
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INFO_HELP
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INFO_HELP
 ### 🤖 Comment le chatbot peut-il m’aider ?
 
 Le chatbot vous accompagne à chaque étape de votre préparation :
@@ -657,8 +710,10 @@ Le chatbot vous accompagne à chaque étape de votre préparation :
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INFO_MATCH
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INFO_MATCH
 ### 🪪 Quel examen correspond à ma situation ?
 
 - **Carte de séjour pluriannuelle (CSP)** : pour une première demande de carte de séjour pluriannuelle.
@@ -676,8 +731,10 @@ Choisissez dans le chatbot le même parcours que celui indiqué pour votre déma
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INFO_FORMAT
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INFO_FORMAT
 ### ⏱️ Comment se présente l’examen ?
 
 L’épreuve comprend **40 questions à choix multiple** à réaliser en **45 minutes** :
@@ -700,8 +757,10 @@ Vous disposez en moyenne d’un peu plus d’une minute par question. Si vous h�
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INFO_REMEMBER
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INFO_REMEMBER
 ### ⭐ Les informations essentielles à retenir
 
 :::info 📝 Format
@@ -723,8 +782,10 @@ L’épreuve porte sur cinq thèmes civiques et associe connaissances et situati
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INFO_WHY
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INFO_WHY
 ### 🎯 Pourquoi un examen civique ?
 
 L’examen civique vérifie que vous connaissez les principaux repères nécessaires pour comprendre la République française et vivre en France : ses valeurs, ses institutions, les droits et devoirs, son histoire, sa géographie et la vie quotidienne.
@@ -740,8 +801,10 @@ Il ne s’agit pas seulement de mémoriser des dates ou des définitions. Vous d
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INFO_PREP
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INFO_PREP
 ### 🧠 Comment préparer l’examen ?
 
 Une préparation efficace alterne quatre activités :
@@ -764,8 +827,10 @@ Travaillez par séances courtes et régulières. Lorsque vous obtenez des résul
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INFO_CONCERNE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INFO_CONCERNE
 ### 👤 Suis-je concerné ?
 
 Vous êtes concerné si vous préparez l’une des démarches suivantes :
@@ -785,8 +850,10 @@ Votre situation administrative peut comporter des particularités. Vérifiez les
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INFO_THEMES
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INFO_THEMES
 ### 📚 Quelles sont les cinq thématiques ?
 
 Le programme est organisé autour de cinq grands thèmes :
@@ -808,8 +875,10 @@ Révisez un thème à la fois, puis vérifiez vos acquis avec un entraînement c
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_REGISTER
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_REGISTER
 ### S’inscrire à l’examen
 
 <!-- Variables : {centre}; {region}; {lien_forms} -->
@@ -818,8 +887,12 @@ Cliquez sur le lien Forms pour vous inscrire à une session dans la région choi
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_REGIONS
 
+1. [↩️ Retour au menu du module](SCR_PASS_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_REGIONS
 ### 🗺️ Choisir une région
 
 Sélectionnez une région pour consulter ses centres et leurs prochaines dates disponibles.
@@ -835,8 +908,10 @@ Sélectionnez une région pour consulter ses centres et leurs prochaines dates d
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_MENU
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_MENU
 ### 🏛️ Passer mon examen civique
 
 :::info ⌨️ Conseil de navigation
@@ -856,8 +931,8 @@ Retrouvez les réponses à vos questions, choisissez un centre et accédez au fo
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_SEARCH_MENU
 
+## SCR_PASS_SEARCH_MENU
 ### 📍 Trouver une session d’examen
 
 Choisissez la recherche la plus adaptée à votre besoin.
@@ -877,8 +952,10 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_INPUT_COMMUNE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_INPUT_COMMUNE
 ### 🧭 Centres proches de chez moi
 
 Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
@@ -901,8 +978,10 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_REGION_AUVERGNE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_REGION_AUVERGNE
 ### ⛰️ Auvergne
 
 <!-- Variables : {region}=Auvergne -->
@@ -918,8 +997,10 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_REGION_BOURGOGNE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_REGION_BOURGOGNE
 ### 🍇 Bourgogne
 
 <!-- Variables : {region}=Bourgogne -->
@@ -937,8 +1018,10 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_REGION_CHER
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_REGION_CHER
 ### 🌿 Cher
 
 <!-- Variables : {region}=Cher -->
@@ -951,8 +1034,10 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_REGION_FRANCHE_COMTE
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_REGION_FRANCHE_COMTE
 ### 🌲 Franche-Comté
 
 <!-- Variables : {region}=Franche-Comté -->
@@ -967,8 +1052,10 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_REGION_GRAND_EST
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_REGION_GRAND_EST
 ### 🏰 Grand Est
 
 <!-- Variables : {region}=Grand Est -->
@@ -986,8 +1073,10 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
-## SCR_PASS_REGION_RHONE_ALPES
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PASS_REGION_RHONE_ALPES
 ### 🏔️ Rhône-Alpes
 
 <!-- Variables : {region}=Rhône-Alpes -->
@@ -1002,3 +1091,6 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 6. [Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+

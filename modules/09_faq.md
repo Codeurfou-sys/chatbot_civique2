@@ -2,7 +2,6 @@
 <!-- Date : 2026-08-03T12:39:32+02:00 -->
 
 ## SCR_FAQ_CATEGORIES
-
 ### 🗂️ Choisissez un thème
 
 :::info 🧭 Trouvez rapidement votre réponse
@@ -21,8 +20,8 @@ Choisissez le thème qui correspond à votre question. Chaque fiche apporte une 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_MENU
 
+## SCR_FAQ_MENU
 ### ❔ FAQ du Coach civique
 
 :::info ⌨️ Conseil de navigation
@@ -40,8 +39,8 @@ Une question sur l’examen, l’inscription ou votre préparation ? Choisissez 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_POPULAR
 
+## SCR_FAQ_POPULAR
 ### ⭐ Les questions les plus fréquentes
 
 :::success 🚀 Accès rapide
@@ -67,8 +66,8 @@ Sélectionnez une question fréquemment posée pour afficher immédiatement la r
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_SEARCH
 
+## SCR_FAQ_SEARCH
 ### 🔎 Rechercher une réponse
 
 Écrivez une question courte ou un mot important. Le Coach cherchera dans les notions validées et dans les questions fréquentes.
@@ -79,8 +78,10 @@ Exemples : « Combien de réponses faut-il pour réussir ? », « Comment s’in
 2. [🗂️ Parcourir les catégories](SCR_FAQ_CATEGORIES)
 3. [↩️ Retour à la FAQ](SCR_FAQ_MENU)
 
-## SCR_FAQ_RESULT
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_FAQ_RESULT
 ### 🔎 Recherche dans les réponses validées
 
 La recherche est maintenant assurée par l’assistant « Poser une question » afin de reconnaître davantage de formulations.
@@ -88,8 +89,10 @@ La recherche est maintenant assurée par l’assistant « Poser une question » 
 1. [✍️ Écrire ma question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 2. [↩️ Retour à la FAQ](SCR_FAQ_MENU)
 
-## SCR_FAQ_NOT_FOUND
 
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_FAQ_NOT_FOUND
 ### Réponse non trouvée
 
 <!-- Variables : {requete_faq} -->
@@ -104,8 +107,10 @@ Aucune réponse exacte n’a été trouvée. Consultez le glossaire, les révisi
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_063
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_063
 ### 🎯 Comment bien préparer l'examen civique ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=1; {faq_id}=FAQ-063 -->
@@ -132,8 +137,10 @@ Le Coach pédagogique adapte vos révisions en fonction de vos résultats.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_064
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_064
 ### 🎯 Combien de temps faut-il réviser ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=2; {faq_id}=FAQ-064 -->
@@ -156,8 +163,10 @@ Quelques séances régulières de 15 à 30 minutes sont généralement plus effi
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_065
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_065
 ### 🎯 Dois-je apprendre toutes les réponses par cœur ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=3; {faq_id}=FAQ-065 -->
@@ -182,8 +191,10 @@ Une bonne compréhension vous permettra de répondre correctement même si la fo
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_066
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_066
 ### 🎯 Comment retenir les dates importantes ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=4; {faq_id}=FAQ-066 -->
@@ -210,8 +221,10 @@ Le Coach propose des rappels réguliers afin de faciliter la mémorisation.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_067
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_067
 ### 🎯 Que faire si je me trompe souvent sur un même thème ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=5; {faq_id}=FAQ-067 -->
@@ -236,8 +249,10 @@ Le Coach pédagogique identifie automatiquement vos difficultés et peut vous pr
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_068
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_068
 ### 🎯 Comment répondre aux questions ouvertes ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=6; {faq_id}=FAQ-068 -->
@@ -262,8 +277,10 @@ Le Coach vous indique toujours les éléments essentiels attendus dans la répon
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_069
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_069
 ### 🎯 Que faire si je ne connais pas une réponse ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=7; {faq_id}=FAQ-069 -->
@@ -286,8 +303,10 @@ Il vous reposera ensuite une question similaire afin de vérifier que la notion 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_CONSEILS_MENU
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_CONSEILS_MENU
 ### ℹ️ Conseils de réussite
 
 :::info 🧭 Dans ce thème
@@ -315,8 +334,10 @@ Méthodes de révision, mémorisation, stress et préparation.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_070
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_070
 ### 🎯 Comment gérer le stress avant l'examen ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=8; {faq_id}=FAQ-070 -->
@@ -346,8 +367,10 @@ Le Coach vous aide à vous entraîner dans des conditions proches de l'examen af
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_071
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_071
 ### 🎯 Comment savoir si je suis prêt pour l'examen ?
 
 <!-- Variables : {categorie}=CONSEILS; {ordre}=9; {faq_id}=FAQ-071 -->
@@ -367,8 +390,10 @@ Le Coach suit votre progression et vous indique les thèmes qu'il est encore con
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_029
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_029
 ### 🏛️ Qu'est-ce que l'OFII ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=1; {faq_id}=FAQ-029 -->
@@ -393,8 +418,10 @@ Il intervient notamment dans :
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_030
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_030
 ### 🏛️ Qu'est-ce que la formation civique de l'OFII ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=2; {faq_id}=FAQ-030 -->
@@ -422,8 +449,10 @@ Cette formation favorise l'intégration des nouveaux arrivants et prépare à l'
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_031
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_031
 ### 🏛️ Combien de temps dure la formation civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=3; {faq_id}=FAQ-031 -->
@@ -442,8 +471,10 @@ La formation civique de l'OFII dure 4 jours (soit 24 heures au total). Elle se d
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_032
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_032
 ### 🏛️ Qu'est-ce que le Contrat d'Intégration Républicaine (CIR) ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=4; {faq_id}=FAQ-032 -->
@@ -470,8 +501,10 @@ L'objectif est de favoriser une bonne intégration dans la société française.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_OFII_MENU
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_OFII_MENU
 ### 🏛️ OFII et formation civique
 
 :::info 🧭 Dans ce thème
@@ -498,8 +531,10 @@ Formation civique, parcours OFII et différences avec l’examen.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_033
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_033
 ### 🏛️ Quelle est la différence entre la formation civique et l'examen civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=5; {faq_id}=FAQ-033 -->
@@ -524,8 +559,10 @@ La formation prépare donc à l'examen, mais ne le remplace pas.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_034
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_034
 ### 🏛️ La formation civique suffit-elle pour réussir l'examen civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=6; {faq_id}=FAQ-034 -->
@@ -548,8 +585,10 @@ Le Coach pédagogique est conçu pour vous accompagner dans cette préparation.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_035
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_035
 ### 🏛️ L'OFII organise-t-il l'examen civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=7; {faq_id}=FAQ-035 -->
@@ -574,8 +613,10 @@ Si vous souhaitez passer l'examen, utilisez la rubrique **« Passer mon examen �
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_036
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_036
 ### 🏛️ Que se passe-t-il après la formation civique ?
 
 <!-- Variables : {categorie}=OFII; {ordre}=8; {faq_id}=FAQ-036 -->
@@ -597,8 +638,10 @@ Le Coach pédagogique peut ensuite vous accompagner dans vos révisions jusqu'au
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_037
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_037
 ### 👤 Qu'est-ce que l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=1; {faq_id}=FAQ-037 -->
@@ -618,8 +661,10 @@ L'agent échange avec vous sur votre parcours, votre intégration, votre connais
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_038
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_038
 ### 👤 Quelles questions sont posées pendant l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=2; {faq_id}=FAQ-038 -->
@@ -648,8 +693,10 @@ Le contenu peut varier d'un entretien à l'autre.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_039
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_039
 ### 👤 Comment répondre à la question : "Pourquoi souhaitez-vous devenir français ?"
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=3; {faq_id}=FAQ-039 -->
@@ -672,8 +719,10 @@ Expliquez ce qui motive votre demande (intégration, projet de vie, attachement 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_040
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_040
 ### 👤 Combien de temps dure l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=4; {faq_id}=FAQ-040 -->
@@ -694,8 +743,10 @@ En général, un entretien dure entre **15 et 30 minutes**, mais il peut être p
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_041
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_041
 ### 👤 Quelle est la différence entre l'entretien de naturalisation et l'examen civique ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=5; {faq_id}=FAQ-041 -->
@@ -718,8 +769,10 @@ Les deux sont complémentaires mais répondent à des objectifs différents.L'ex
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_ENTRETIEN_MENU
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_ENTRETIEN_MENU
 ### 👤 Entretien de naturalisation
 
 :::info 🧭 Dans ce thème
@@ -754,8 +807,10 @@ Déroulement et préparation de l’entretien de naturalisation.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_042
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_042
 ### 👤 L'examen civique est-il obligatoire pour obtenir la naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=6; {faq_id}=FAQ-042 -->
@@ -774,8 +829,10 @@ Oui, l'examen civique fait partie des étapes à prévoir pour une demande de na
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_043
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_043
 ### 👤 Comment bien préparer son entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=7; {faq_id}=FAQ-043 -->
@@ -805,8 +862,10 @@ Le Coach pédagogique vous aide à travailler chacun de ces points progressiveme
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_044
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_044
 ### 👤 Dois-je parler parfaitement français pour réussir l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=8; {faq_id}=FAQ-044 -->
@@ -829,8 +888,10 @@ N'hésitez pas à demander à l'agent de reformuler une question si vous ne l'av
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_045
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_045
 ### 👤 Puis-je demander à l'agent de répéter ou de reformuler une question ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=9; {faq_id}=FAQ-045 -->
@@ -853,8 +914,10 @@ Il est préférable de demander une explication plutôt que de répondre au hasa
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_046
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_046
 ### 👤 Quels documents dois-je apporter le jour de l'entretien ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=10; {faq_id}=FAQ-046 -->
@@ -882,8 +945,10 @@ Vérifiez toujours votre convocation avant le rendez-vous.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_047
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_047
 ### 👤 Comment dois-je m'habiller pour l'entretien de naturalisation ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=11; {faq_id}=FAQ-047 -->
@@ -906,8 +971,10 @@ L'essentiel est de vous présenter avec sérieux et de rester naturel.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_048
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_048
 ### 👤 Que faire si je ne comprends pas une question pendant l'entretien ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=12; {faq_id}=FAQ-048 -->
@@ -930,8 +997,10 @@ L'entretien est un échange. Il est préférable de demander une précision plut
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_049
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_049
 ### 👤 L'entretien de naturalisation est-il éliminatoire ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=13; {faq_id}=FAQ-049 -->
@@ -954,8 +1023,10 @@ L'administration prend ensuite sa décision en tenant compte de l'ensemble de vo
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_050
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_050
 ### 👤 Puis-je préparer les réponses à l'avance ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=14; {faq_id}=FAQ-050 -->
@@ -978,8 +1049,10 @@ Le Coach pédagogique vous aide à comprendre les notions et à vous entraîner 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_051
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_051
 ### 👤 Que faire si je suis stressé le jour de l'entretien ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=15; {faq_id}=FAQ-051 -->
@@ -1002,8 +1075,10 @@ Une bonne préparation est le meilleur moyen de gagner en confiance.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_052
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_052
 ### 👤 Faut-il apprendre des réponses par cœur pour réussir l'entretien ?
 
 <!-- Variables : {categorie}=ENTRETIEN; {ordre}=16; {faq_id}=FAQ-052 -->
@@ -1025,8 +1100,10 @@ L'agent cherche avant tout à vérifier que vous comprenez les valeurs de la Ré
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_NOVAFRATE_MENU
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_NOVAFRATE_MENU
 ### 💻 NovaFrate
 
 :::info 🧭 Dans ce thème
@@ -1055,8 +1132,10 @@ Utilisation de NovaFrate et contenus proposés sur la plateforme.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_053
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_053
 ### 💻 Les questions proposées sur NovaFrate sont-elles officielles ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=1; {faq_id}=FAQ-053 -->
@@ -1085,8 +1164,10 @@ L'objectif est de vous préparer efficacement aux différentes mentions de l'exa
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_054
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_054
 ### 💻 Que vais-je trouver sur NovaFrate ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=2; {faq_id}=FAQ-054 -->
@@ -1117,8 +1198,10 @@ La plateforme est conçue pour vous accompagner jusqu'au jour de votre examen.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_055
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_055
 ### 💻 Quand vais-je recevoir mes accès à NovaFrate ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=3; {faq_id}=FAQ-055 -->
@@ -1139,8 +1222,10 @@ Pensez également à vérifier votre dossier « Courriers indésirables » ou «
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_056
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_056
 ### 💻 Comment accéder à NovaFrate ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=4; {faq_id}=FAQ-056 -->
@@ -1161,8 +1246,10 @@ En cas de difficulté de connexion, vous pouvez contacter le support de FRATE Fo
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_057
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_057
 ### 💻 Combien de temps faut-il pour préparer l'examen civique ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=5; {faq_id}=FAQ-057 -->
@@ -1185,8 +1272,10 @@ Le Coach pédagogique adapte progressivement les questions afin de vous aider à
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_058
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_058
 ### 💻 Le contenu est-il régulièrement mis à jour ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=6; {faq_id}=FAQ-058 -->
@@ -1207,8 +1296,10 @@ Les contenus pédagogiques sont mis à jour afin de rester conformes aux évolut
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_059
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_059
 ### 💻 Dois-je installer une application pour utiliser NovaFrate ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=7; {faq_id}=FAQ-059 -->
@@ -1231,8 +1322,10 @@ Aucune installation particulière n'est nécessaire.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_060
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_060
 ### 💻 Le Coach pédagogique peut-il vraiment m'aider à réussir ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=8; {faq_id}=FAQ-060 -->
@@ -1260,8 +1353,10 @@ Son objectif est de rendre vos révisions plus simples, plus efficaces et plus p
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_061
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_061
 ### 💻 Comment contacter le support de FRATE Formation ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=9; {faq_id}=FAQ-061 -->
@@ -1284,8 +1379,10 @@ L'équipe vous répondra dans les meilleurs délais.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_062
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_062
 ### 💻 Je n'ai pas trouvé la réponse à ma question. Que puis-je faire ?
 
 <!-- Variables : {categorie}=NOVAFRATE; {ordre}=10; {faq_id}=FAQ-062 -->
@@ -1309,8 +1406,10 @@ Nous vous accompagnerons pour trouver la réponse la plus adaptée à votre situ
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_025
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_025
 ### 📊 Quel score faut-il obtenir pour réussir l'examen ?
 
 <!-- Variables : {categorie}=RESULTATS; {ordre}=1; {faq_id}=FAQ-025 -->
@@ -1330,8 +1429,10 @@ Le Coach vous aide à identifier les thèmes à renforcer.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_026
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_026
 ### 📊 Que se passe-t-il si j'échoue à l'examen ?
 
 <!-- Variables : {categorie}=RESULTATS; {ordre}=2; {faq_id}=FAQ-026 -->
@@ -1350,8 +1451,10 @@ Pas de panique, cela n'annule pas votre demande de visa. Mais vous devez : (1) V
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_027
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_027
 ### 📊 L'attestation de réussite a-t-elle une date de fin de validité ?
 
 <!-- Variables : {categorie}=RESULTATS; {ordre}=3; {faq_id}=FAQ-027 -->
@@ -1370,8 +1473,10 @@ Non. Une fois l'examen réussi, cela est définitif. Vous pourrez réutiliser vo
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_RESULTATS_MENU
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_RESULTATS_MENU
 ### 📊 Résultats
 
 :::info 🧭 Dans ce thème
@@ -1394,8 +1499,10 @@ Scores, résultats, attestations et possibilités après l’épreuve.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_028
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_028
 ### 📊 Quand reçoit-on les résultats ?
 
 <!-- Variables : {categorie}=RESULTATS; {ordre}=4; {faq_id}=FAQ-028 -->
@@ -1413,8 +1520,10 @@ Généralement, vous obtenez le résultat sous 48 h de la part de Frate Formatio
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_001
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_001
 ### 📘 Qu'est-ce que l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=1; {faq_id}=FAQ-001 -->
@@ -1439,8 +1548,10 @@ Le contenu varie selon que vous préparez :
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_EXAMEN_MENU
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_EXAMEN_MENU
 ### 📘 Examen civique
 
 :::info 🧭 Dans ce thème
@@ -1474,8 +1585,10 @@ Format, thèmes, niveaux et règles de l’examen.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_002
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_002
 ### 📘 Qui est concerné par l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=2; {faq_id}=FAQ-002 -->
@@ -1494,8 +1607,10 @@ L'examen civique concerne toutes les personnes réalisant une première demande 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_003
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_003
 ### 📘 Quelles sont les thématiques officielles de l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=3; {faq_id}=FAQ-003 -->
@@ -1522,8 +1637,10 @@ Ces thèmes correspondent au référentiel officiel publié par les autorités f
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_004
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_004
 ### 📘 Combien de questions comporte l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=4; {faq_id}=FAQ-004 -->
@@ -1542,8 +1659,10 @@ L'examen comporte 40 questions QCM : 28 questions de connaissances et 12 mises e
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_005
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_005
 ### 📘 Quelles sont les diffénces entre les examens Carte de séjour, Carte de résident et Naturalisation ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=5; {faq_id}=FAQ-005 -->
@@ -1562,8 +1681,10 @@ Les trois examens civiques ont des niveaux de difficulté différents : CSP (Car
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_006
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_006
 ### 📘 A quoi correspond l'examen civique pour la naturalisation ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=6; {faq_id}=FAQ-006 -->
@@ -1582,8 +1703,10 @@ L'examen civique pour la naturalisation est le test officiel demandé lorsque l'
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_007
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_007
 ### 📘 A quoi correspond l'examen civique pour la carte de résident ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=7; {faq_id}=FAQ-007 -->
@@ -1602,8 +1725,10 @@ L'examen civique pour la carte de résident est le test officiel demandé lorsqu
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_008
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_008
 ### 📘 A quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=8; {faq_id}=FAQ-008 -->
@@ -1622,8 +1747,10 @@ L'examen civique pour la carte de séjour pluriannuelle est le test officiel dem
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_009
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_009
 ### 📘 Quel score doit-on obtenir pour réussir l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=9; {faq_id}=FAQ-009 -->
@@ -1642,8 +1769,10 @@ Pour réussir l'examen civique, vous devez obtenir 80 % de bonnes réponses soit
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_010
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_010
 ### 📘 Que se passe-t-il si on triche à l'examen ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=10; {faq_id}=FAQ-010 -->
@@ -1662,8 +1791,10 @@ La fraude à l'examen civique a de lourdes conséquences : vous serez immédiate
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_011
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_011
 ### 📘 L'examen est-il difficile ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=11; {faq_id}=FAQ-011 -->
@@ -1682,8 +1813,10 @@ Cela dépend du type d'examen que vous passez. Le niveau pour la carte de séjou
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_012
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_012
 ### 📘 Quel est le niveau de français requis pour passer l'examen ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=12; {faq_id}=FAQ-012 -->
@@ -1702,8 +1835,10 @@ L'examen se déroule uniquement en français, sans traduction disponible. Les qu
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_013
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_013
 ### 📘 Existe-t-il des questions pièges dans cet examen ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=13; {faq_id}=FAQ-013 -->
@@ -1724,8 +1859,10 @@ Conseil : Lisez bien les mots comme "toujours", "jamais" ou "interdit" qui vous 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_014
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_014
 ### 📘 Qui peut être dispensé de passer l'examen civique ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=14; {faq_id}=FAQ-014 -->
@@ -1744,8 +1881,10 @@ Les dispenses dépendent du titre demandé — il n'existe pas de liste universe
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_015
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_015
 ### 📘 Peut-on repasser l'examen si on échoue ?
 
 <!-- Variables : {categorie}=EXAMEN; {ordre}=15; {faq_id}=FAQ-015 -->
@@ -1763,8 +1902,10 @@ Oui, il n'existe aucune limite de tentatives. Si vous échouez, vous pouvez rete
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_016
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_016
 ### 📘 Faut-il passer l'examen avant ou après avoir déposé sa demande ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=1; {faq_id}=FAQ-016 -->
@@ -1787,8 +1928,10 @@ Dans la plupart des démarches concernées, l'examen civique doit être réussi 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_017
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_017
 ### 📘 Où puis-je passer l'examen civique ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=2; {faq_id}=FAQ-017 -->
@@ -1814,8 +1957,10 @@ Vous y trouverez les centres disponibles ainsi que les prochaines dates d'examen
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_INSCRIPTION_MENU
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_INSCRIPTION_MENU
 ### 📝 Inscription, prix et organisation
 
 :::info 🧭 Dans ce thème
@@ -1843,8 +1988,10 @@ Centres, inscription, tarifs et organisation du jour J.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_018
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_018
 ### 📝 Comment s'inscrire à l'examen civique ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=3; {faq_id}=FAQ-018 -->
@@ -1877,8 +2024,10 @@ L'inscription est simple.
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_019
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_019
 ### 📝 Combien coûte l'examen civique ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=4; {faq_id}=FAQ-019 -->
@@ -1899,8 +2048,10 @@ Le tarif applicable est de 75 € vous sera demandé au moment de votre inscript
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_020
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_020
 ### 📝 Puis-je m'inscrire directement auprès de la préfecture ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=5; {faq_id}=FAQ-020 -->
@@ -1928,8 +2079,10 @@ Le moyen le plus simple est de :
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_021
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_021
 ### 📝 Quels documents dois-je apporter le jour de l'examen ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=6; {faq_id}=FAQ-021 -->
@@ -1954,8 +2107,10 @@ Vérifiez toujours les consignes communiquées par votre centre avant votre dép
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_022
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_022
 ### 📝 Puis-je changer de centre après mon inscription ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=7; {faq_id}=FAQ-022 -->
@@ -1976,8 +2131,10 @@ Si vous souhaitez modifier votre inscription, contactez rapidement votre centre 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_023
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_023
 ### 📝 Puis-je passer l'examen avec un récépissé expiré ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=8; {faq_id}=FAQ-023 -->
@@ -1998,8 +2155,10 @@ En cas de doute sur la validité de vos documents, contactez votre centre avant 
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
 
-## SCR_FAQ_024
 
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+
+## SCR_FAQ_024
 ### 📝 Comment choisir le centre d'examen le plus proche de chez moi ?
 
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=9; {faq_id}=FAQ-024 -->
@@ -2018,3 +2177,6 @@ Vous pouvez également consulter la page de, sélectionner votre région puis ch
 <!-- Source : FAQ_COACH_CIVIQUE.md -->
 
 1. [❓ Poser une question @qlOrigine=SCR_FAQ_MENU](SCR_QL_RESET)
+
+1. [↩️ Retour au menu du module](SCR_FAQ_MENU)
+

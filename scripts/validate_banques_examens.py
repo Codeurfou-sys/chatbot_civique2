@@ -32,7 +32,7 @@ for exam in ('CSP','NAT'):
                 assert f"[{m.link_text(row['Réponse '+letter])}]({ident}_{suffix})" in body,ident
             groups.setdefault(ident.rsplit('_Q',1)[0],[]).append(source.group(1))
         for group,ids in groups.items():
-            assert len(ids)==(40 if group.startswith('EXAM') else 10),(group,len(ids))
+            assert len(ids)==(40 if group.startswith('EXAM') else 15 if '_LVL_' in group else 10),(group,len(ids))
             assert len(ids)==len(set(ids)),f'Doublons: {group}'
         seen['examens' if pattern.startswith('EXAM') else 'entraînements']=len(groups)
     print(f'OK {exam}: {len(q)} questions, {len(ms)} situations; {seen}')

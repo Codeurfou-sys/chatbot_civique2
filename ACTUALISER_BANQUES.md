@@ -20,6 +20,7 @@ Depuis la racine du dépôt, avec Python et les dépendances requirements.txt :
 python synchroniser_banques_examens.py --exam CSP
 python synchroniser_banques_examens.py --exam NAT
 python synchroniser_entrainements.py
+python scripts/ajouter_retours.py
 python synchroniser_module_dans_chatbot.py chat_bot.md modules/05_preparer_examen.md
 python synchroniser_module_dans_chatbot.py chat_bot.md modules/06_entrainement.md
 python scripts/validate_banques_examens.py
@@ -40,7 +41,7 @@ les écrans CR ont été conservés. Le bilan et les révisions restent inchang�
 
 Les séries sont préparées à la génération et sélectionnées par ChatMD à leur
 lancement. Chaque examen blanc conserve 28 questions puis 12 situations.
-Chaque entraînement propose 10 questions sans doublon. Une série n'utilise
+Les entraînements par examen proposent 10 questions sans doublon ; les parcours par niveau en proposent 15. Une série n'utilise
 pas toute la banque. Les entraînements Naturalisation couvrent désormais
 les cinq thématiques, les situations et les quatre choix de niveau existants.
 L'actualisation quotidienne des sessions continue à ne remplacer que le module 07.

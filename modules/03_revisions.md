@@ -1,5 +1,4 @@
 ## SCR_REV_MENU
-
 ### 📚 Commencer mes révisions
 
 :::info ⌨️ Conseil de navigation
@@ -17,8 +16,8 @@ Choisissez une thématique, puis un chapitre. Chaque chapitre suit la même stru
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_MENU
 
+## SCR_REV_T1_MENU
 ### 🇫🇷 Principes et valeurs de la République
 
 Choisissez un chapitre à réviser.
@@ -34,8 +33,8 @@ Choisissez un chapitre à réviser.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_ACC
 
+## SCR_REV_T1_CH01_ACC
 ### 📘 Chapitre 1 — CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE FRANCAISE
 
 Dans ce chapitre, vous découvrirez :
@@ -53,9 +52,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T1_CH01_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - définir ce qu’est une République ;
@@ -68,8 +66,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_COURS
 
+## SCR_REV_T1_CH01_COURS
 ### 📖 Le cours — CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -220,8 +218,8 @@ L'accès aux soins et l'aide aux personnes en difficulté participent au princip
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_SYN
 
+## SCR_REV_T1_CH01_SYN
 ### ⭐ L’essentiel à retenir
 
 #### Les 5 points essentiels à retenir
@@ -243,8 +241,8 @@ L'accès aux soins et l'aide aux personnes en difficulté participent au princip
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_VIG
 
+## SCR_REV_T1_CH01_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -273,8 +271,8 @@ L'accès aux soins et l'aide aux personnes en difficulté participent au princip
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_GLO
 
+## SCR_REV_T1_CH01_GLO
 ### 📖 Notions utiles
 
 #### République
@@ -304,8 +302,8 @@ Vote direct des citoyens sur une question.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_VERIF
 
+## SCR_REV_T1_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -319,8 +317,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_VERIF_Q01
 
+## SCR_REV_T1_CH01_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -332,8 +330,12 @@ Qui possède la souveraineté nationale en France ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH01_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -379,8 +381,12 @@ Le peuple.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH01_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -392,8 +398,12 @@ Par quels moyens le peuple exerce-t-il la souveraineté nationale ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH01_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -439,8 +449,12 @@ Par ses représentants et par la voie du référendum.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH01_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -454,8 +468,12 @@ Complète la phrase :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH01_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -501,8 +519,12 @@ Indivisible, laïque, démocratique et sociale.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH01_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH01_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissances. 
@@ -513,8 +535,8 @@ Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_ACC
 
+## SCR_REV_T1_CH02_ACC
 ### 📘 Chapitre 2 — LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE
 
 Dans ce chapitre, vous découvrirez :
@@ -532,9 +554,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T1_CH02_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - citer la devise de la République dans le bon ordre ;
@@ -547,8 +568,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_COURS
 
+## SCR_REV_T1_CH02_COURS
 ### 📖 Le cours — LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -756,8 +777,8 @@ Aider une personne âgée à porter ses courses est un acte de fraternité.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_SYN
 
+## SCR_REV_T1_CH02_SYN
 ### ⭐ L’essentiel à retenir
 
 La devise officielle de la République est :
@@ -779,8 +800,8 @@ Elles garantissent :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_VIG
 
+## SCR_REV_T1_CH02_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -808,8 +829,8 @@ Elles garantissent :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_GLO
 
+## SCR_REV_T1_CH02_GLO
 ### 📖 Notions utiles
 
 **Devise** : phrase officielle représentant les valeurs de la République.
@@ -831,8 +852,8 @@ Elles garantissent :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_VERIF
 
+## SCR_REV_T1_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -846,8 +867,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_VERIF_Q01
 
+## SCR_REV_T1_CH02_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -859,8 +880,12 @@ Quelle est la devise officielle de la République française ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH02_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -906,8 +931,12 @@ Liberté, égalité, fraternité
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH02_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -919,8 +948,12 @@ Que signifie l'égalité devant la loi ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH02_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -966,8 +999,12 @@ L'égalité devant la loi signifie que **la loi est la même pour tous.**
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH02_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -979,8 +1016,12 @@ Que signifie le principe d'égalité dans la devise républicaine ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH02_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -1026,8 +1067,12 @@ La loi doit s'appliquer de la même manière à toutes les personnes, sans discr
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH02_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH02_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissances. 
@@ -1038,8 +1083,8 @@ Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_ACC
 
+## SCR_REV_T1_CH03_ACC
 ### 📘 Chapitre 3 — LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE
 
 Dans ce chapitre, vous découvrirez :
@@ -1057,9 +1102,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T1_CH03_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - reconnaître les principaux symboles de la République ;
@@ -1072,8 +1116,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_COURS
 
+## SCR_REV_T1_CH03_COURS
 ### 📖 Le cours — LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -1266,8 +1310,8 @@ Le coq figure sur le maillot de l'équipe de France de rugby.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_SYN
 
+## SCR_REV_T1_CH03_SYN
 ### ⭐ L’essentiel à retenir
 
 Les principaux symboles de la République sont :
@@ -1287,8 +1331,8 @@ Le coq est un symbole national, mais **pas un symbole officiel**.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VIG
 
+## SCR_REV_T1_CH03_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -1322,8 +1366,8 @@ Le coq est un symbole national, mais **pas un symbole officiel**.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_GLO
 
+## SCR_REV_T1_CH03_GLO
 ### 📖 Notions utiles
 
 **Symbole** : élément représentant une idée ou une valeur.
@@ -1345,8 +1389,8 @@ Le coq est un symbole national, mais **pas un symbole officiel**.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VERIF
 
+## SCR_REV_T1_CH03_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **4 questions**, l’une après l’autre.
@@ -1360,8 +1404,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VERIF_Q01
 
+## SCR_REV_T1_CH03_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/4
 
@@ -1373,8 +1417,12 @@ Quelles sont les couleurs du drapeau français ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH03_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/4
 
@@ -1420,8 +1468,12 @@ Bleu, blanc et rouge.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH03_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/4
 
@@ -1433,8 +1485,12 @@ Qu'est-ce que la Marseillaise ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH03_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/4
 
@@ -1480,8 +1536,12 @@ La Marseillaise est l'hymne national français.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH03_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/4
 
@@ -1493,8 +1553,12 @@ Pourquoi célèbre-t-on le 14 juillet ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH03_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/4
 
@@ -1540,8 +1604,12 @@ Le 14 juillet est la fête nationale française. Il commémore notamment la pris
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VERIF_Q04
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH03_VERIF_Q04
 !Keyboard: true
 ### 🧠 Question 4/4
 
@@ -1553,8 +1621,12 @@ Le coq est-il un symbole officiel de la République ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_VERIF_Q04_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH03_VERIF_Q04_RESULT
 !Keyboard: false
 ### Votre réponse — Question 4/4
 
@@ -1600,8 +1672,12 @@ Non. Le coq est un emblème traditionnel, mais il n'est pas un symbole officiel 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH03_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH03_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissances.
@@ -1612,8 +1688,8 @@ Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_ACC
 
+## SCR_REV_T1_CH04_ACC
 ### 📘 Chapitre 4 — LA LAÏCITÉ
 
 Dans ce chapitre, vous découvrirez :
@@ -1631,9 +1707,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T1_CH04_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - définir la laïcité et la liberté de conscience ;
@@ -1646,8 +1721,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_COURS
 
+## SCR_REV_T1_CH04_COURS
 ### 📖 Le cours — LA LAÏCITÉ
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -1854,8 +1929,8 @@ Un élève ne peut pas refuser un cours de sciences ou de sport pour un motif re
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_SYN
 
+## SCR_REV_T1_CH04_SYN
 ### ⭐ L’essentiel à retenir
 
 La laïcité garantit :
@@ -1874,8 +1949,8 @@ Elle permet à chacun de vivre ensemble dans le respect des lois de la Républiq
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_VIG
 
+## SCR_REV_T1_CH04_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -1909,8 +1984,8 @@ Elle permet à chacun de vivre ensemble dans le respect des lois de la Républiq
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_GLO
 
+## SCR_REV_T1_CH04_GLO
 ### 📖 Notions utiles
 
 **Laïcité** : principe garantissant la liberté de conscience et la neutralité de l'État.
@@ -1932,8 +2007,8 @@ Elle permet à chacun de vivre ensemble dans le respect des lois de la Républiq
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_VERIF
 
+## SCR_REV_T1_CH04_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -1947,8 +2022,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_VERIF_Q01
 
+## SCR_REV_T1_CH04_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -1960,8 +2035,12 @@ Quelle est la grande loi adoptée en 1905 ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH04_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -2007,8 +2086,12 @@ La séparation des Églises et de l'État.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH04_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -2020,8 +2103,12 @@ Qui est soumis à l'obligation de neutralité dans les services publics ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH04_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -2067,8 +2154,12 @@ L'obligation de neutralité dans les services publics s'impose à tous les agent
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH04_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -2080,8 +2171,12 @@ Le blasphème est-il interdit en France ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH04_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -2127,8 +2222,12 @@ En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun déli
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH04_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH04_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 4 et vous avez vérifié vos connaissances. 
@@ -2139,8 +2238,8 @@ Bravo ! Vous avez terminé le chapitre 4 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_ACC
 
+## SCR_REV_T1_CH05_ACC
 ### 📘 Chapitre 5 — LA LANGUE DE LA RÉPUBLIQUE
 
 Dans ce chapitre, vous découvrirez :
@@ -2158,9 +2257,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T1_CH05_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - identifier la langue officielle de la République ;
@@ -2173,8 +2271,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_COURS
 
+## SCR_REV_T1_CH05_COURS
 ### 📖 Le cours — LA LANGUE DE LA RÉPUBLIQUE
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -2268,8 +2366,8 @@ Mais une demande de naturalisation est toujours effectuée en français.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_SYN
 
+## SCR_REV_T1_CH05_SYN
 ### ⭐ L’essentiel à retenir
 
 L'article 2 de la Constitution précise :
@@ -2292,8 +2390,8 @@ Cette règle garantit l'égalité entre tous les citoyens.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_VIG
 
+## SCR_REV_T1_CH05_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -2321,8 +2419,8 @@ Cette règle garantit l'égalité entre tous les citoyens.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_GLO
 
+## SCR_REV_T1_CH05_GLO
 ### 📖 Notions utiles
 
 **Langue officielle** : langue utilisée par les institutions de l'État.
@@ -2340,8 +2438,8 @@ Cette règle garantit l'égalité entre tous les citoyens.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_VERIF
 
+## SCR_REV_T1_CH05_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -2355,8 +2453,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_VERIF_Q01
 
+## SCR_REV_T1_CH05_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -2368,8 +2466,12 @@ Quelle est la langue officielle de la République française ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH05_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -2415,8 +2517,12 @@ Le français est la langue officielle de la France depuis 1992.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH05_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -2428,8 +2534,12 @@ Dans quel texte la langue française est-elle officialisée ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH05_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -2475,8 +2585,12 @@ L'article 2 de la Constitution a officialisé le français comme langue de la R�
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH05_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -2488,8 +2602,12 @@ Peut-on parler une autre langue dans sa vie privée ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH05_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -2535,8 +2653,12 @@ La France n'interdit pas de parler une autre langue sur son territoire et dans s
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH05_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH05_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 5 et vous avez vérifié vos connaissances. 
@@ -2547,8 +2669,8 @@ Bravo ! Vous avez terminé le chapitre 5 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_ACC
 
+## SCR_REV_T1_CH06_ACC
 ### 📘 Chapitre 6 — LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE
 
 Dans ce chapitre, vous découvrirez :
@@ -2566,9 +2688,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T1_CH06_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - expliquer le rôle du contrat d’engagement ;
@@ -2581,8 +2702,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_COURS
 
+## SCR_REV_T1_CH06_COURS
 ### 📖 Le cours — LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -2685,8 +2806,8 @@ Une personne qui adopte un comportement contraire aux principes fondamentaux de 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_SYN
 
+## SCR_REV_T1_CH06_SYN
 ### ⭐ L’essentiel à retenir
 
 Le contrat d'engagement permet de rappeler que toute personne qui souhaite vivre durablement en France doit respecter les principes fondamentaux de la République.
@@ -2710,8 +2831,8 @@ Ces notions sont régulièrement évaluées lors de l'examen civique.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_VIG
 
+## SCR_REV_T1_CH06_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -2740,8 +2861,8 @@ Ces notions sont régulièrement évaluées lors de l'examen civique.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_GLO
 
+## SCR_REV_T1_CH06_GLO
 ### 📖 Notions utiles
 
 **Contrat d'engagement** : document officiel par lequel une personne s'engage à respecter les principes de la République.
@@ -2761,8 +2882,8 @@ Ces notions sont régulièrement évaluées lors de l'examen civique.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_VERIF
 
+## SCR_REV_T1_CH06_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -2776,8 +2897,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_VERIF_Q01
 
+## SCR_REV_T1_CH06_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -2789,8 +2910,12 @@ Citez trois des sept principes contenus dans le contrat.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH06_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -2836,8 +2961,12 @@ Il fallait citer au moins trois principes parmi : la liberté personnelle ; la l
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH06_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -2849,8 +2978,12 @@ Que peut-il se passer si une personne refuse de signer ce contrat ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH06_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -2896,8 +3029,12 @@ Le refus de signer le contrat peut entraîner le refus de délivrance ou le retr
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH06_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -2909,8 +3046,12 @@ Le refus de signer le contrat peut entraîner le refus de délivrance ou le retr
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH06_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -2956,8 +3097,12 @@ Il formalise l'engagement de respecter les principes et les valeurs de la Répub
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T1_CH06_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH06_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 6 et vous avez vérifié vos connaissances.
@@ -2968,8 +3113,8 @@ Bravo ! Vous avez terminé le chapitre 6 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_MENU
 
+## SCR_REV_T2_MENU
 ### 🏛️ Système institutionnel et politique
 
 Choisissez un chapitre à réviser.
@@ -2983,8 +3128,8 @@ Choisissez un chapitre à réviser.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_ACC
 
+## SCR_REV_T2_CH01_ACC
 ### 📘 Chapitre 1 — État de droit et séparation des pouvoirs
 
 Dans ce chapitre, vous découvrirez :
@@ -3002,9 +3147,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T2_CH01_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - définir un État de droit ;
@@ -3017,8 +3161,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_COURS
 
+## SCR_REV_T2_CH01_COURS
 ### 📖 Le cours — État de droit et séparation des pouvoirs
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -3145,8 +3289,8 @@ Chaque institution joue donc un rôle différent.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_SYN
 
+## SCR_REV_T2_CH01_SYN
 ### ⭐ L’essentiel à retenir
 
 La France est un État de droit car :
@@ -3170,8 +3314,8 @@ La séparation des pouvoirs repose sur trois pouvoirs :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_VIG
 
+## SCR_REV_T2_CH01_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -3205,8 +3349,8 @@ La séparation des pouvoirs repose sur trois pouvoirs :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_GLO
 
+## SCR_REV_T2_CH01_GLO
 ### 📖 Notions utiles
 
 - **État de droit :** État dans lequel tous, y compris les pouvoirs publics, doivent respecter la loi.
@@ -3223,8 +3367,8 @@ La séparation des pouvoirs repose sur trois pouvoirs :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_VERIF
 
+## SCR_REV_T2_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -3238,8 +3382,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_VERIF_Q01
 
+## SCR_REV_T2_CH01_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -3251,8 +3395,12 @@ Quels sont les trois pouvoirs qui permettent de garantir l'équilibre de la dém
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH01_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -3310,8 +3458,12 @@ Les trois pouvoirs sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH01_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -3323,8 +3475,12 @@ Quels sont les trois pouvoirs séparés dans une démocratie ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH01_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -3370,8 +3526,12 @@ Les pouvoirs législatif, exécutif et judiciaire.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH01_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -3383,8 +3543,12 @@ Pourquoi la justice doit-elle être indépendante ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH01_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -3430,8 +3594,12 @@ Elle doit juger impartialement, sans pression du pouvoir politique.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH01_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH01_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissances.
@@ -3442,8 +3610,8 @@ Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_ACC
 
+## SCR_REV_T2_CH02_ACC
 ### 📘 Chapitre 2 — Démocratie et droit de vote
 
 Dans ce chapitre, vous découvrirez :
@@ -3461,9 +3629,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T2_CH02_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - expliquer le fonctionnement d’une démocratie ;
@@ -3476,8 +3643,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_COURS
 
+## SCR_REV_T2_CH02_COURS
 ### 📖 Le cours — Démocratie et droit de vote
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -3696,8 +3863,8 @@ Un projet de loi sur la protection de l'environnement est présenté par le Gouv
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_SYN
 
+## SCR_REV_T2_CH02_SYN
 ### ⭐ L’essentiel à retenir
 
 La démocratie est un régime dans lequel :
@@ -3723,8 +3890,8 @@ Une loi est :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_VIG
 
+## SCR_REV_T2_CH02_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -3758,8 +3925,8 @@ Une loi est :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_GLO
 
+## SCR_REV_T2_CH02_GLO
 ### 📖 Notions utiles
 
 - **Démocratie :** Régime politique dans lequel le pouvoir appartient au peuple.
@@ -3776,8 +3943,8 @@ Une loi est :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_VERIF
 
+## SCR_REV_T2_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -3791,8 +3958,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_VERIF_Q01
 
+## SCR_REV_T2_CH02_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -3804,8 +3971,12 @@ Quelles sont les quatre conditions principales pour pouvoir voter en France ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH02_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -3851,8 +4022,12 @@ Il faut avoir au moins 18 ans, avoir la nationalité française, être inscrit s
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH02_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -3864,8 +4039,12 @@ Quelles conditions principales faut-il remplir pour voter en France ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH02_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -3911,8 +4090,12 @@ Il faut notamment avoir 18 ans, être français, jouir de ses droits civils et p
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH02_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -3924,8 +4107,12 @@ Pourquoi le vote est-il secret ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH02_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -3971,8 +4158,12 @@ Le secret du vote permet à chacun de choisir librement, sans pression.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH02_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH02_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissances. 
@@ -3983,8 +4174,8 @@ Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_ACC
 
+## SCR_REV_T2_CH03_ACC
 ### 📘 Chapitre 3 — Organisation de la République française
 
 Dans ce chapitre, vous découvrirez :
@@ -4002,9 +4193,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T2_CH03_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - distinguer l’État des collectivités territoriales ;
@@ -4017,8 +4207,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_COURS
 
+## SCR_REV_T2_CH03_COURS
 ### 📖 Le cours — Organisation de la République française
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -4250,8 +4440,8 @@ La région organise les trains express régionaux et participe à la constructio
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_SYN
 
+## SCR_REV_T2_CH03_SYN
 ### ⭐ L’essentiel à retenir
 
 La République française fonctionne avec plusieurs niveaux :
@@ -4275,8 +4465,8 @@ Les trois principaux niveaux territoriaux sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_VIG
 
+## SCR_REV_T2_CH03_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -4316,8 +4506,8 @@ Les trois principaux niveaux territoriaux sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_GLO
 
+## SCR_REV_T2_CH03_GLO
 ### 📖 Notions utiles
 
 - **Collectivité territoriale :** Autorité publique locale qui administre un territoire avec des élus et des compétences propres.
@@ -4334,8 +4524,8 @@ Les trois principaux niveaux territoriaux sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_VERIF
 
+## SCR_REV_T2_CH03_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -4349,8 +4539,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_VERIF_Q01
 
+## SCR_REV_T2_CH03_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -4362,8 +4552,12 @@ Quels sont les trois principaux niveaux de collectivités territoriales en Franc
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH03_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -4421,8 +4615,12 @@ Les trois niveaux sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH03_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -4434,8 +4632,12 @@ Quel est le rôle principal d'une commune ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH03_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -4481,8 +4683,12 @@ La commune gère des services publics locaux proches des habitants, sous l'autor
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH03_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -4494,8 +4700,12 @@ La commune gère des services publics locaux proches des habitants, sous l'autor
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH03_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -4541,8 +4751,12 @@ Les départements agissent notamment dans la solidarité et les collèges ; les 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH03_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH03_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissances.
@@ -4553,8 +4767,8 @@ Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_ACC
 
+## SCR_REV_T2_CH04_ACC
 ### 📘 Chapitre 4 — Les institutions européennes
 
 Dans ce chapitre, vous découvrirez :
@@ -4572,9 +4786,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T2_CH04_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - identifier les principales institutions de l’Union européenne ;
@@ -4587,8 +4800,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_COURS
 
+## SCR_REV_T2_CH04_COURS
 ### 📖 Le cours — Les institutions européennes
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -4795,8 +5008,8 @@ Les États membres doivent ensuite appliquer cette décision.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_SYN
 
+## SCR_REV_T2_CH04_SYN
 ### ⭐ L’essentiel à retenir
 
 L'Union européenne est une organisation composée de 27 États membres.
@@ -4822,8 +5035,8 @@ Les principales institutions à connaître :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_VIG
 
+## SCR_REV_T2_CH04_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -4857,8 +5070,8 @@ Les principales institutions à connaître :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_GLO
 
+## SCR_REV_T2_CH04_GLO
 ### 📖 Notions utiles
 
 - **Union européenne :** Union politique et économique composée de pays européens qui ont choisi d'agir ensemble dans plusieurs domaines.
@@ -4875,8 +5088,8 @@ Les principales institutions à connaître :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_VERIF
 
+## SCR_REV_T2_CH04_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -4890,8 +5103,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_VERIF_Q01
 
+## SCR_REV_T2_CH04_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -4903,8 +5116,12 @@ Quelle institution européenne est élue directement par les citoyens européens
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH04_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -4950,8 +5167,12 @@ Le Parlement européen.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH04_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -4963,8 +5184,12 @@ Quel est le rôle du Parlement européen ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH04_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -5010,8 +5235,12 @@ Le Parlement européen vote les textes européens avec le Conseil de l'Union eur
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH04_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -5023,8 +5252,12 @@ Quel est le rôle de la Commission européenne ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH04_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -5070,8 +5303,12 @@ La Commission propose des textes européens et veille à l'application du droit 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T2_CH04_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH04_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
@@ -5082,8 +5319,8 @@ Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_MENU
 
+## SCR_REV_T3_MENU
 ### ⚖️ Droits et devoirs
 
 Choisissez un chapitre à réviser.
@@ -5095,8 +5332,8 @@ Choisissez un chapitre à réviser.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_ACC
 
+## SCR_REV_T3_CH01_ACC
 ### 📘 Les droits fondamentaux
 
 Dans ce chapitre, vous découvrirez :
@@ -5114,9 +5351,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T3_CH01_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - définir un droit fondamental ;
@@ -5129,8 +5365,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_COURS
 
+## SCR_REV_T3_CH01_COURS
 ### 📖 Le cours — Les droits fondamentaux
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -5256,9 +5492,8 @@ La liberté d'expression est protégée par ces textes.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T3_CH01_SYN
-
-
 ### ⭐ L’essentiel à retenir
 
 - Les droits fondamentaux protègent la liberté, l’égalité, la sûreté et la dignité de chaque personne.
@@ -5275,9 +5510,8 @@ La liberté d'expression est protégée par ces textes.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T3_CH01_VIG
-
-
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -5311,8 +5545,8 @@ La liberté d'expression est protégée par ces textes.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_GLO
 
+## SCR_REV_T3_CH01_GLO
 ### 📖 Notions utiles
 
 - **Droit fondamental :** Droit essentiel reconnu et protégé par les textes juridiques.
@@ -5329,8 +5563,8 @@ La liberté d'expression est protégée par ces textes.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_VERIF
 
+## SCR_REV_T3_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -5344,8 +5578,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_VERIF_Q01
 
+## SCR_REV_T3_CH01_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -5357,8 +5591,12 @@ Quels sont les trois principaux textes qui protègent les droits fondamentaux en
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH01_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -5404,8 +5642,12 @@ Les trois textes attendus sont la Constitution, la Déclaration des droits de l�
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH01_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -5417,8 +5659,12 @@ Citez deux droits fondamentaux reconnus en France.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH01_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -5464,8 +5710,12 @@ Par exemple : la liberté d'expression, l'égalité, le droit à la sûreté, le
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH01_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -5477,8 +5727,12 @@ Que signifie l'égalité entre les femmes et les hommes ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH01_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -5524,8 +5778,12 @@ Les femmes et les hommes ont les mêmes droits et doivent être traités sans di
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH01_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH01_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
@@ -5536,8 +5794,8 @@ Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_ACC
 
+## SCR_REV_T3_CH02_ACC
 ### 📘 Chapitre 2 — Les obligations et les devoirs
 
 Dans ce chapitre, vous découvrirez :
@@ -5555,9 +5813,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T3_CH02_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - citer les principales obligations des personnes vivant en France ;
@@ -5571,8 +5828,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_COURS
 
+## SCR_REV_T3_CH02_COURS
 ### 📖 Le cours — Les obligations et les devoirs
 
 Prenez le temps de lire chaque partie. Les encadrés indiquent les notions essentielles, les exemples et les éléments attendus à l’examen.
@@ -5747,9 +6004,8 @@ Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T3_CH02_SYN
-
-
 ### ⭐ L’essentiel à retenir
 
 - Toute personne vivant en France doit respecter la loi, les autres personnes et les biens.
@@ -5767,9 +6023,8 @@ Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T3_CH02_VIG
-
-
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -5803,8 +6058,8 @@ Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_GLO
 
+## SCR_REV_T3_CH02_GLO
 ### 📖 Notions utiles
 
 - **Devoir :** Règle morale ou civique que chacun est tenu de respecter.
@@ -5821,8 +6076,8 @@ Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_VERIF
 
+## SCR_REV_T3_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -5836,8 +6091,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_VERIF_Q01
 
+## SCR_REV_T3_CH02_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -5849,8 +6104,12 @@ Citez trois obligations que toute personne vivant en France doit respecter.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH02_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -5896,8 +6155,12 @@ Il fallait citer au moins trois obligations, par exemple : respecter les lois ; 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH02_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -5909,8 +6172,12 @@ Pourquoi faut-il payer des impôts ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH02_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -5956,8 +6223,12 @@ Les impôts financent les services publics et les dépenses utiles à la collect
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH02_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -5969,8 +6240,12 @@ Quels devoirs les parents ont-ils concernant l'éducation de leurs enfants ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH02_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -6016,8 +6291,12 @@ Ils doivent assurer leur instruction et veiller à leur assiduité scolaire.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T3_CH02_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH02_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
@@ -6028,8 +6307,8 @@ Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_MENU
 
+## SCR_REV_T4_MENU
 ### 🗺️ Histoire, géographie et culture
 
 Choisissez un chapitre à réviser.
@@ -6042,8 +6321,8 @@ Choisissez un chapitre à réviser.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_ACC
 
+## SCR_REV_T4_CH01_ACC
 ### 📘 Chapitre 1 — Histoire de France
 
 Dans ce chapitre, vous découvrirez :
@@ -6061,9 +6340,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T4_CH01_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - reconnaître les grandes périodes de l’histoire de France ;
@@ -6076,8 +6354,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_COURS
 
+## SCR_REV_T4_CH01_COURS
 ### 📖 Le cours — Histoire de France 🕰️
 
 #### 🏰 De la monarchie à la République
@@ -6126,9 +6404,8 @@ Reliez chaque date à un mot : **1789–Révolution**, **1905–laïcité**, **1
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T4_CH01_SYN
-
-
 ### ⭐ L’essentiel à retenir
 
 - **1789** : début de la Révolution française et adoption de la Déclaration des droits de l’Homme et du citoyen.
@@ -6146,9 +6423,8 @@ Reliez chaque date à un mot : **1789–Révolution**, **1905–laïcité**, **1
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T4_CH01_VIG
-
-
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -6182,8 +6458,8 @@ Reliez chaque date à un mot : **1789–Révolution**, **1905–laïcité**, **1
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_GLO
 
+## SCR_REV_T4_CH01_GLO
 ### 📖 Notions utiles
 
 - **Ancien Régime :** Nom donné à l'organisation politique et sociale de la France avant la Révolution de 1789.
@@ -6200,8 +6476,8 @@ Reliez chaque date à un mot : **1789–Révolution**, **1905–laïcité**, **1
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_VERIF
 
+## SCR_REV_T4_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -6215,8 +6491,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_VERIF_Q01
 
+## SCR_REV_T4_CH01_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -6228,8 +6504,12 @@ En quelle année débute la Révolution française ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH01_VERIF_Q01_RESULT
 !Keyboard: false
 
 `if @rep_t4_ch1_q1 == "1789"`
@@ -6259,8 +6539,12 @@ La Révolution française débute en 1789.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH01_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -6272,8 +6556,12 @@ En quelle année la loi de séparation des Églises et de l'État a-t-elle été
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH01_VERIF_Q02_RESULT
 !Keyboard: false
 
 `if @rep_t4_ch1_q2 == "1905"`
@@ -6303,8 +6591,12 @@ La loi de séparation des Églises et de l'État a été adoptée en 1905.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH01_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -6316,8 +6608,12 @@ Que se passe-t-il en 1958 dans l'histoire politique française ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH01_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -6363,8 +6659,12 @@ En 1958 naît la Ve République et sa Constitution est adoptée.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH01_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH01_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissances.
@@ -6375,8 +6675,8 @@ Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_ACC
 
+## SCR_REV_T4_CH02_ACC
 ### 📘 Chapitre 2 — Territoires et géographie de la France
 
 Dans ce chapitre, vous découvrirez :
@@ -6394,9 +6694,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T4_CH02_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - situer la France métropolitaine et les territoires d’Outre-mer ;
@@ -6409,8 +6708,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_COURS
 
+## SCR_REV_T4_CH02_COURS
 ### 📖 Le cours — Territoires et géographie de la France 🗺️
 
 #### 📍 Situer la France
@@ -6464,8 +6763,8 @@ Les grandes villes concentrent habitants, emplois et services, tandis que les es
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_SYN
 
+## SCR_REV_T4_CH02_SYN
 ### ⭐ L’essentiel à retenir
 
 - La France possède un territoire métropolitain et des territoires d’Outre-mer.
@@ -6482,8 +6781,8 @@ Les grandes villes concentrent habitants, emplois et services, tandis que les es
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_VIG
 
+## SCR_REV_T4_CH02_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -6505,8 +6804,8 @@ Les grandes villes concentrent habitants, emplois et services, tandis que les es
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_GLO
 
+## SCR_REV_T4_CH02_GLO
 ### 📖 Notions utiles
 
 - **Métropole :** Partie du territoire français située en Europe.
@@ -6523,8 +6822,8 @@ Les grandes villes concentrent habitants, emplois et services, tandis que les es
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_VERIF
 
+## SCR_REV_T4_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -6538,8 +6837,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_VERIF_Q01
 
+## SCR_REV_T4_CH02_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -6551,8 +6850,12 @@ Quels sont les deux grands ensembles qui composent le territoire français ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH02_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -6598,8 +6901,12 @@ La France métropolitaine et les territoires d’Outre-mer.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH02_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -6611,8 +6918,12 @@ Citez un grand fleuve français.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH02_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -6658,8 +6969,12 @@ Par exemple : la Seine, la Loire, la Garonne, le Rhône ou le Rhin.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH02_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -6671,8 +6986,12 @@ Où se trouvent les Alpes et les Pyrénées ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH02_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -6718,8 +7037,12 @@ Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH02_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH02_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissances.
@@ -6730,8 +7053,8 @@ Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_ACC
 
+## SCR_REV_T4_CH03_ACC
 ### 📘 Chapitre 3 — Patrimoine et culture française
 
 Dans ce chapitre, vous découvrirez :
@@ -6749,9 +7072,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T4_CH03_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - définir le patrimoine culturel français ;
@@ -6764,8 +7086,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_COURS
 
+## SCR_REV_T4_CH03_COURS
 ### 📖 Le cours — Patrimoine et culture française 🎭
 
 #### 🏛️ Le patrimoine
@@ -6810,8 +7132,8 @@ L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres i
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_SYN
 
+## SCR_REV_T4_CH03_SYN
 ### ⭐ L’essentiel à retenir
 
 - La France possède une grande influence culturelle mondiale.
@@ -6829,8 +7151,8 @@ L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres i
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_VIG
 
+## SCR_REV_T4_CH03_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -6858,8 +7180,8 @@ L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres i
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_GLO
 
+## SCR_REV_T4_CH03_GLO
 ### 📖 Notions utiles
 
 - **Patrimoine :** Ensemble des biens matériels et immatériels transmis par les générations précédentes et jugés importants à préserver.
@@ -6876,8 +7198,8 @@ L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres i
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_VERIF
 
+## SCR_REV_T4_CH03_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **3 questions**, l’une après l’autre.
@@ -6891,8 +7213,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_VERIF_Q01
 
+## SCR_REV_T4_CH03_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/3
 
@@ -6904,8 +7226,12 @@ Quels sont les principaux éléments qui composent le patrimoine culturel franç
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH03_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/3
 
@@ -6951,8 +7277,12 @@ Les monuments, les œuvres artistiques, la langue française, les traditions, la
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH03_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/3
 
@@ -6964,8 +7294,12 @@ Citez deux éléments du patrimoine culturel français.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH03_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/3
 
@@ -7011,8 +7345,12 @@ Par exemple : un monument, un musée, une œuvre, une tradition, la gastronomie 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH03_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/3
 
@@ -7024,8 +7362,12 @@ Quel est le rôle de l'UNESCO pour le patrimoine ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH03_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/3
 
@@ -7071,8 +7413,12 @@ L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'u
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T4_CH03_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH03_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissances.
@@ -7083,8 +7429,8 @@ Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_MENU
 
+## SCR_REV_T5_MENU
 ### 🤝 Vivre dans la société française
 
 Choisissez un chapitre à réviser.
@@ -7098,8 +7444,8 @@ Choisissez un chapitre à réviser.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_ACC
 
+## SCR_REV_T5_CH01_ACC
 ### 📘 Chapitre 1 — Les démarches administratives 📄
 
 Dans ce chapitre, vous découvrirez :
@@ -7117,9 +7463,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T5_CH01_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - identifier les principales démarches administratives de la vie quotidienne ;
@@ -7132,8 +7477,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_COURS
 
+## SCR_REV_T5_CH01_COURS
 ### 📖 Le cours — Les démarches administratives 📄
 
 #### 🏠 Adresse et identité
@@ -7184,8 +7529,8 @@ La déclaration de revenus peut être nécessaire même lorsqu'une personne ne p
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_SYN
 
+## SCR_REV_T5_CH01_SYN
 ### ⭐ L’essentiel à retenir
 
 Pour vivre en France, il est important de savoir :
@@ -7205,8 +7550,8 @@ Pour vivre en France, il est important de savoir :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VIG
 
+## SCR_REV_T5_CH01_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -7240,8 +7585,8 @@ Pour vivre en France, il est important de savoir :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_GLO
 
+## SCR_REV_T5_CH01_GLO
 ### 📖 Notions utiles
 
 - **Domiciliation :** Adresse administrative permettant de recevoir du courrier et d'effectuer des démarches.
@@ -7261,8 +7606,8 @@ Pour vivre en France, il est important de savoir :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VERIF
 
+## SCR_REV_T5_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **4 questions**, l’une après l’autre.
@@ -7276,8 +7621,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VERIF_Q01
 
+## SCR_REV_T5_CH01_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/4
 
@@ -7289,8 +7634,12 @@ Pourquoi est-il important d'avoir une domiciliation ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH01_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/4
 
@@ -7336,8 +7685,12 @@ La domiciliation donne une adresse administrative pour recevoir son courrier et 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH01_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/4
 
@@ -7349,8 +7702,12 @@ Quels documents sont généralement nécessaires pour ouvrir un compte bancaire 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH01_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/4
 
@@ -7396,8 +7753,12 @@ Une pièce d'identité et un justificatif de domicile sont généralement demand
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH01_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/4
 
@@ -7409,8 +7770,12 @@ Une pièce d'identité et un justificatif de domicile sont généralement demand
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH01_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/4
 
@@ -7456,8 +7821,12 @@ Il permet à une personne étrangère d'habiter ou de vivre légalement en Franc
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VERIF_Q04
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH01_VERIF_Q04
 !Keyboard: true
 ### 🧠 Question 4/4
 
@@ -7469,8 +7838,12 @@ Il permet à une personne étrangère d'habiter ou de vivre légalement en Franc
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_VERIF_Q04_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH01_VERIF_Q04_RESULT
 !Keyboard: false
 ### Votre réponse — Question 4/4
 
@@ -7516,8 +7889,12 @@ Il décrit l'état du logement à l'entrée et à la sortie afin de limiter les 
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH01_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH01_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissances.
@@ -7528,8 +7905,8 @@ Bravo ! Vous avez terminé le chapitre 1 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_ACC
 
+## SCR_REV_T5_CH02_ACC
 ### 📘 Chapitre 2 — La santé 🩺
 
 Dans ce chapitre, vous découvrirez :
@@ -7547,9 +7924,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T5_CH02_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - expliquer l’organisation du système de santé français ;
@@ -7562,8 +7938,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_COURS
 
+## SCR_REV_T5_CH02_COURS
 ### 📖 Le cours — La santé 🩺
 
 #### 👩‍⚕️ 1. Le parcours de soins
@@ -7604,8 +7980,8 @@ Une personne met à jour ses vaccinations et participe au dépistage proposé po
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_SYN
 
+## SCR_REV_T5_CH02_SYN
 ### ⭐ L’essentiel à retenir
 
 Le système de santé français permet à chacun d'accéder aux soins.
@@ -7627,8 +8003,8 @@ Les notions essentielles à connaître sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VIG
 
+## SCR_REV_T5_CH02_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -7668,8 +8044,8 @@ Les notions essentielles à connaître sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_GLO
 
+## SCR_REV_T5_CH02_GLO
 ### 📖 Notions utiles
 
 - **Assurance Maladie :** Branche de la Sécurité sociale qui prend en charge une partie des dépenses de santé.
@@ -7688,8 +8064,8 @@ Les notions essentielles à connaître sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VERIF
 
+## SCR_REV_T5_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **4 questions**, l’une après l’autre.
@@ -7703,8 +8079,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VERIF_Q01
 
+## SCR_REV_T5_CH02_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/4
 
@@ -7716,8 +8092,12 @@ Quel est le rôle du médecin traitant ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH02_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/4
 
@@ -7763,8 +8143,12 @@ Il assure le suivi médical habituel et oriente si nécessaire vers un spéciali
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH02_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/4
 
@@ -7776,8 +8160,12 @@ Il assure le suivi médical habituel et oriente si nécessaire vers un spéciali
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH02_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/4
 
@@ -7823,8 +8211,12 @@ Elle transmet les informations utiles à l'Assurance Maladie et facilite le remb
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH02_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/4
 
@@ -7836,8 +8228,12 @@ Quel numéro appeler en cas d'urgence médicale grave ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH02_VERIF_Q03_RESULT
 !Keyboard: false
 
 `if @rep_t5_ch2_q3 == "15" || @rep_t5_ch2_q3 == "112"`
@@ -7867,8 +8263,12 @@ En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VERIF_Q04
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH02_VERIF_Q04
 !Keyboard: true
 ### 🧠 Question 4/4
 
@@ -7880,8 +8280,12 @@ Quelle différence y a-t-il entre l'Assurance Maladie et une mutuelle ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_VERIF_Q04_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH02_VERIF_Q04_RESULT
 !Keyboard: false
 ### Votre réponse — Question 4/4
 
@@ -7927,8 +8331,12 @@ L'Assurance Maladie rembourse une part des soins ; la mutuelle peut compléter c
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH02_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH02_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissances.
@@ -7939,8 +8347,8 @@ Bravo ! Vous avez terminé le chapitre 2 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_ACC
 
+## SCR_REV_T5_CH03_ACC
 ### 📘 Chapitre 3 — L'emploi 💼
 
 Dans ce chapitre, vous découvrirez :
@@ -7958,9 +8366,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T5_CH03_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - distinguer les principaux contrats de travail ;
@@ -7973,8 +8380,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_COURS
 
+## SCR_REV_T5_CH03_COURS
 ### 📖 Le cours — L'emploi 💼
 
 #### 🔎 1. Rechercher un emploi
@@ -8021,8 +8428,8 @@ Le salarié respecte les consignes et prévient l'employeur en cas d'absence ; l
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_SYN
 
+## SCR_REV_T5_CH03_SYN
 ### ⭐ L’essentiel à retenir
 
 Le monde du travail en France repose sur des règles qui protègent les salariés et les employeurs.
@@ -8046,8 +8453,8 @@ Les notions essentielles sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VIG
 
+## SCR_REV_T5_CH03_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -8087,8 +8494,8 @@ Les notions essentielles sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_GLO
 
+## SCR_REV_T5_CH03_GLO
 ### 📖 Notions utiles
 
 - **Salarié :** Personne qui travaille pour un employeur en échange d'une rémunération.
@@ -8108,8 +8515,8 @@ Les notions essentielles sont :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VERIF
 
+## SCR_REV_T5_CH03_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **4 questions**, l’une après l’autre.
@@ -8123,8 +8530,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VERIF_Q01
 
+## SCR_REV_T5_CH03_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/4
 
@@ -8136,8 +8543,12 @@ Quel est le rôle de France Travail ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH03_VERIF_Q01_RESULT
 !Keyboard: false
 ### Votre réponse — Question 1/4
 
@@ -8183,8 +8594,12 @@ France Travail accompagne les personnes dans leur recherche d'emploi, leur orien
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH03_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/4
 
@@ -8196,8 +8611,12 @@ Quels éléments essentiels figurent sur un bulletin de salaire ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH03_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/4
 
@@ -8243,8 +8662,12 @@ Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisatio
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH03_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/4
 
@@ -8256,8 +8679,12 @@ Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisatio
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH03_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/4
 
@@ -8303,8 +8730,12 @@ Il précise l'emploi, la rémunération, la durée du travail et les obligations
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VERIF_Q04
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH03_VERIF_Q04
 !Keyboard: true
 ### 🧠 Question 4/4
 
@@ -8316,8 +8747,12 @@ Que doit faire un salarié en cas d'absence pour maladie ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_VERIF_Q04_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH03_VERIF_Q04_RESULT
 !Keyboard: false
 ### Votre réponse — Question 4/4
 
@@ -8363,8 +8798,12 @@ Il doit prévenir rapidement son employeur et transmettre l'arrêt de travail da
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH03_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH03_FIN
 ### ✅ Chapitre terminé
 
 Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissances.
@@ -8375,8 +8814,8 @@ Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissance
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_ACC
 
+## SCR_REV_T5_CH04_ACC
 ### 📘 Chapitre 4 — La parentalité 👨‍👩‍👧
 
 Dans ce chapitre, vous découvrirez :
@@ -8394,9 +8833,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
+
 ## SCR_REV_T5_CH04_OBJ
-
-
 ### 🎯 À la fin de ce chapitre, vous serez capable de…
 
 - citer les droits fondamentaux de l’enfant ;
@@ -8409,8 +8847,8 @@ Dans ce chapitre, vous découvrirez :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_COURS
 
+## SCR_REV_T5_CH04_COURS
 ### 📖 Le cours — La parentalité 👨‍👩‍👧
 
 #### 🛡️ 1. L'autorité parentale
@@ -8457,8 +8895,8 @@ Les violences éducatives sont interdites. En cas de danger ou de risque de dang
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_SYN
 
+## SCR_REV_T5_CH04_SYN
 ### ⭐ L’essentiel à retenir
 
 En France :
@@ -8478,8 +8916,8 @@ En France :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VIG
 
+## SCR_REV_T5_CH04_VIG
 ### 🚨 Points de vigilance pour l’examen
 
 #### Erreur fréquente n°1
@@ -8519,8 +8957,8 @@ En France :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_GLO
 
+## SCR_REV_T5_CH04_GLO
 ### 📖 Notions utiles
 
 - **Autorité parentale :** Ensemble des droits et devoirs des parents exercés dans l'intérêt de l'enfant.
@@ -8539,8 +8977,8 @@ En France :
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VERIF
 
+## SCR_REV_T5_CH04_VERIF
 ### 🧠 Vérification des connaissances
 
 Vous allez répondre à **4 questions**, l’une après l’autre.
@@ -8554,8 +8992,8 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VERIF_Q01
 
+## SCR_REV_T5_CH04_VERIF_Q01
 !Keyboard: true
 ### 🧠 Question 1/4
 
@@ -8567,8 +9005,12 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VERIF_Q01_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH04_VERIF_Q01_RESULT
 !Keyboard: false
 
 `if @rep_t5_ch4_q1 == "3" || @rep_t5_ch4_q1 == "trois" || @rep_t5_ch4_q1 == "Trois"`
@@ -8598,8 +9040,12 @@ L'instruction est obligatoire à partir de 3 ans.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VERIF_Q02
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH04_VERIF_Q02
 !Keyboard: true
 ### 🧠 Question 2/4
 
@@ -8611,8 +9057,12 @@ Quel est le rôle principal de l'école maternelle ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VERIF_Q02_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH04_VERIF_Q02_RESULT
 !Keyboard: false
 ### Votre réponse — Question 2/4
 
@@ -8658,8 +9108,12 @@ L'école maternelle développe le langage, la socialisation et les premiers appr
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VERIF_Q03
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH04_VERIF_Q03
 !Keyboard: true
 ### 🧠 Question 3/4
 
@@ -8671,8 +9125,12 @@ Que doivent faire les parents en cas d'absence de leur enfant ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VERIF_Q03_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH04_VERIF_Q03_RESULT
 !Keyboard: false
 ### Votre réponse — Question 3/4
 
@@ -8718,8 +9176,12 @@ Ils doivent prévenir l'établissement et justifier l'absence.
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VERIF_Q04
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH04_VERIF_Q04
 !Keyboard: true
 ### 🧠 Question 4/4
 
@@ -8731,8 +9193,12 @@ Que signifie l'autorité parentale ?
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_VERIF_Q04_RESULT
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH04_VERIF_Q04_RESULT
 !Keyboard: false
 ### Votre réponse — Question 4/4
 
@@ -8778,8 +9244,12 @@ Les parents doivent protéger l'enfant, assurer son éducation et prendre les d�
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
-## SCR_REV_T5_CH04_FIN
 
+1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH04_FIN
 ### 🎉 Révisions terminées !
 
 Bravo ! Vous avez répondu aux questions de vérification du dernier chapitre et terminé la thématique **Vivre dans la société française**.
@@ -8791,3 +9261,4 @@ Vous savez maintenant révisé l'essentiel du programme "examen civique". Vous �
 3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
+
