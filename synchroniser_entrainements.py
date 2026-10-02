@@ -44,7 +44,7 @@ def generate():
     result=f'{base}_V{v:02d}_RESULT'
     for num,(r,sit) in enumerate(rows,1):
      id=f'{base}_V{v:02d}_Q{num:02d}';correct=m.clean(r['Bonne réponse']).upper();t=int(r['N° thématique']);question=m.clean(r['Question posée'] if sit else r['Question']);context=m.clean(r['Mise en situation'])+'\n\n' if sit else ''
-     add(id,f'### Question {num} sur {n}\n\n'+('### 🎭 Mises en situation\n\n' if num==11 else '')+f'<!-- Source {e.lower()} : {r["ID"]} -->\n\n{context}**{question}**\n\n'+'\n'.join(link(m.link_text(r['Réponse '+l]),id+('_VRAI' if l==correct else '_FAUX')) for l in 'ABCD'),parent)
+     add(id,f'### 📝 Question {num} sur {n}\n\n'+('🟪'*(num-1)+'⬜'*(n-num+1))+f' **{num-1}/{n} réponses données**\n\n'+('### 🎭 Mises en situation\n\n' if num==11 else '')+f'<!-- Source {e.lower()} : {r["ID"]} -->\n\n{context}**{question}**\n\n'+'\n'.join(link(m.link_text(r['Réponse '+l]),id+('_VRAI' if l==correct else '_FAUX')) for l in 'ABCD'),parent)
      nxt=f'{base}_V{v:02d}_Q{num+1:02d}' if num<n else result
      for suffix in ('VRAI','FAUX'):
       vars=f'`@score = calc(@score+1)`\n`@ent_t{t} = calc(@ent_t{t}+1)`\n`@ent_{"ms" if sit else "q"} = calc(@ent_{"ms" if sit else "q"}+1)`\n\n' if suffix=='VRAI' else ''
@@ -52,7 +52,23 @@ def generate():
       add(id+'_'+suffix,vars+('### ✅ Bonne réponse' if suffix=='VRAI' else '### ❌ Réponse incorrecte')+f'\n\n**Réponse correcte : {correct} — {m.clean(r["Réponse "+correct])}**\n\n{explanation}\n\n'+link('➡️ Question suivante' if num<n else '📊 Voir mes résultats',nxt),parent)
     counts=Counter(int(r['N° thématique']) for r,s in rows);nq=sum(not s for r,s in rows);ns=n-nq
     body=f'### 📊 Vos résultats\n\n**Score : `@score` / {n}**\n\n`@ent_pct = calc(round(@score/{n}*1000)/10)`\n\n**Réussite : `@ent_pct` %**\n\n'+(f'Questions officielles : **`@ent_q` / {nq}**\n\n' if nq else '')+(f'Mises en situation : **`@ent_ms` / {ns}**\n\n' if ns else '')+'### 🎯 Vos priorités de révision\n\n'
-    for t,count in counts.items():body+=f'`if @ent_t{t} < {count}`\n'+link('📘 Revoir : '+T[t],f'SCR_REV_T{t}_MENU')+'\n`endif`\n'
+    # Barres pré-calculées : une seule s'affiche selon le score réel.
+    visual='### 📈 Votre réussite\n\n'
+    for score in range(n+1):
+     filled=round(score/n*10);color='🟩' if score/n>=.8 else '🟨' if score/n>=.5 else '🟥'
+     visual+=f'`if @score == {score}`\n'+color*filled+'⬜'*(10-filled)+f' **{round(score/n*100)} %**\n`endif`\n'
+    advice='### 💡 Vos conseils personnalisés\n\n'
+    ranges=[(0,.5,'🌱 Construire les bases','Commencez par une thématique à la fois. Relisez la fiche de révision, puis faites une courte série de questions. Pour chaque erreur, expliquez avec vos mots pourquoi la bonne réponse est adaptée.'),(.5,.8,'🧩 Consolider vos acquis','Vous avez déjà des repères. Concentrez votre prochaine séance sur les thèmes indiqués ci-dessous. Relisez les corrections, puis refaites une série sur ces thèmes avant de passer à toutes les thématiques.'),(.8,1,'🚀 Affiner votre préparation','Vos connaissances sont solides sur cette série. Reprenez les quelques erreurs et vérifiez les mots qui ont guidé votre choix. Essayez ensuite une nouvelle série ou un niveau plus difficile.'),(1,1.01,'🏆 Entretenir vos acquis','Toutes vos réponses sont correctes sur cette série. Variez les thèmes et les situations pour vérifier vos acquis sur de nouveaux exemples, puis entraînez-vous avec un examen blanc.')]
+    for low,high,title,content in ranges:
+     advice+=f'`if @ent_pct >= {low*100:g} && @ent_pct < {high*100:g}`\n**{title}**\n\n{content}\n`endif`\n\n'
+    if ns:
+     advice+=f'`if @ent_ms < {ns}`\n🎭 **Pour les mises en situation :** repérez le principe civique en jeu, comparez les quatre réponses et justifiez votre choix avant de lire la correction.\n`endif`\n\n'
+    if nq:
+     advice+=f'`if @ent_q < {nq}`\n📘 **Pour les connaissances :** notez les notions oubliées et vérifiez-les dans les fiches de révision ou le glossaire.\n`endif`\n\n'
+    body=body.replace('### 🎯 Vos priorités de révision\n\n',visual+'\n'+advice+'### 🎯 Votre prochaine séance\n\n')
+    for t,count in counts.items():
+     body+=f'**{T[t]} : `@ent_t{t}` / {count}**\n\n'
+     body+=f'`if @ent_t{t} < {count}`\n📌 Reprenez cette thématique, puis refaites une série pour vérifier votre progression.\n'+link('📘 Revoir : '+T[t],f'SCR_REV_T{t}_MENU')+'\n`endif`\n'
     body+=f'\n`if @score == {n}`\n✅ Toutes vos réponses sont correctes.\n`endif`\n\n'+link('🔄 Nouvel entraînement',launch)
     add(result,body,parent);report.append(dict(exam=e,route=route,variant=v,level=level,questions=[dict(id=r['ID'],theme=int(r['N° thématique']),situation=s,difficulty=m.clean(r['Difficulté'])) for r,s in rows]))
  Path('modules/06_entrainement.md').write_text('\n\n'.join('## '+id+'\n\n'+text for id,text in b.items())+'\n');Path('reports').mkdir(exist_ok=True);Path('reports/entrainements_sources.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(len(report),'séries générées')

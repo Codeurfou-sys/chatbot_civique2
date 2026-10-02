@@ -30,20 +30,20 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_ALPHA_MENU
 ### 🔤 Parcourir par ordre alphabétique
 
-1. [A–C](SCR_GLO_ALPHA_AC)
-2. [D–F](SCR_GLO_ALPHA_DF)
-3. [G–L](SCR_GLO_ALPHA_GL)
-4. [M–P](SCR_GLO_ALPHA_MP)
-5. [Q–S](SCR_GLO_ALPHA_QS)
-6. [T–Z](SCR_GLO_ALPHA_TZ)
-7. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏡 A–C](SCR_GLO_ALPHA_AC)
+2. [🏡 D–F](SCR_GLO_ALPHA_DF)
+3. [🏡 G–L](SCR_GLO_ALPHA_GL)
+4. [🏡 M–P](SCR_GLO_ALPHA_MP)
+5. [🏡 Q–S](SCR_GLO_ALPHA_QS)
+6. [🏡 T–Z](SCR_GLO_ALPHA_TZ)
+7. [🏡 ↩️ Retour au glossaire](SCR_GLO_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
@@ -53,209 +53,209 @@ ChatMD recherchera automatiquement la fiche la plus proche, même en cas de peti
 ## SCR_GLO_ALPHA_AC
 ### Mots de A–C
 
-1. [Abstention](SCR_GLO_0001)
-2. [Alpes](SCR_GLO_0002)
-3. [APL](SCR_GLO_0003)
-4. [Assemblée nationale](SCR_GLO_0004)
-5. [Assistance à personne en danger](SCR_GLO_0005)
-6. [Assurance maladie](SCR_GLO_0006)
-7. [Bail](SCR_GLO_0007)
-8. [Bretagne](SCR_GLO_0008)
-9. [CAF](SCR_GLO_0009)
-10. [Carte de résident](SCR_GLO_0010)
-11. [Carte Vitale](SCR_GLO_0011)
-12. [CDD](SCR_GLO_0012)
-13. [CDI](SCR_GLO_0013)
-14. [Celtes](SCR_GLO_0014)
-15. [Charlemagne](SCR_GLO_0015)
-16. [Charte de l'environnement](SCR_GLO_0016)
-17. [Château de Versailles](SCR_GLO_0017)
-18. [Cinquième République](SCR_GLO_0018)
-19. [Citoyen](SCR_GLO_0019)
-20. [Citoyenneté](SCR_GLO_0020)
-21. [Clovis](SCR_GLO_0021)
-22. [Collège](SCR_GLO_0022)
-23. [Commission européenne](SCR_GLO_0023)
-24. [Commune](SCR_GLO_0024)
-25. [Conseil constitutionnel](SCR_GLO_0025)
-26. [Conseil de l'Union européenne](SCR_GLO_0026)
-27. [Conseil départemental](SCR_GLO_0027)
-28. [Conseil européen](SCR_GLO_0028)
-29. [Conseil municipal](SCR_GLO_0029)
-30. [Conseil régional](SCR_GLO_0030)
-31. [Consentement](SCR_GLO_0031)
-32. [Constitution](SCR_GLO_0032)
-33. [Contrat d'engagement à respecter les principes de la République](SCR_GLO_0033)
-34. [Contrat de travail](SCR_GLO_0034)
-35. [Contravention](SCR_GLO_0035)
-36. [CPAM](SCR_GLO_0036)
-37. [Crime](SCR_GLO_0037)
-38. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
+1. [🏡 Abstention](SCR_GLO_0001)
+2. [🏡 Alpes](SCR_GLO_0002)
+3. [🏡 APL](SCR_GLO_0003)
+4. [🏡 Assemblée nationale](SCR_GLO_0004)
+5. [🏡 Assistance à personne en danger](SCR_GLO_0005)
+6. [🏡 Assurance maladie](SCR_GLO_0006)
+7. [🏡 Bail](SCR_GLO_0007)
+8. [🏡 Bretagne](SCR_GLO_0008)
+9. [🏡 CAF](SCR_GLO_0009)
+10. [🏡 Carte de résident](SCR_GLO_0010)
+11. [🏡 Carte Vitale](SCR_GLO_0011)
+12. [🏡 CDD](SCR_GLO_0012)
+13. [🏡 CDI](SCR_GLO_0013)
+14. [🏡 Celtes](SCR_GLO_0014)
+15. [🏡 Charlemagne](SCR_GLO_0015)
+16. [🏡 Charte de l'environnement](SCR_GLO_0016)
+17. [🏡 Château de Versailles](SCR_GLO_0017)
+18. [🏡 Cinquième République](SCR_GLO_0018)
+19. [🏡 Citoyen](SCR_GLO_0019)
+20. [🏡 Citoyenneté](SCR_GLO_0020)
+21. [🏡 Clovis](SCR_GLO_0021)
+22. [🏡 Collège](SCR_GLO_0022)
+23. [🏡 Commission européenne](SCR_GLO_0023)
+24. [🏡 Commune](SCR_GLO_0024)
+25. [🏡 Conseil constitutionnel](SCR_GLO_0025)
+26. [🏡 Conseil de l'Union européenne](SCR_GLO_0026)
+27. [🏡 Conseil départemental](SCR_GLO_0027)
+28. [🏡 Conseil européen](SCR_GLO_0028)
+29. [🏡 Conseil municipal](SCR_GLO_0029)
+30. [🏡 Conseil régional](SCR_GLO_0030)
+31. [🏡 Consentement](SCR_GLO_0031)
+32. [🏡 Constitution](SCR_GLO_0032)
+33. [🏡 Contrat d'engagement à respecter les principes de la République](SCR_GLO_0033)
+34. [🏡 Contrat de travail](SCR_GLO_0034)
+35. [🏡 Contravention](SCR_GLO_0035)
+36. [🏡 CPAM](SCR_GLO_0036)
+37. [🏡 Crime](SCR_GLO_0037)
+38. [🏡 ↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_ALPHA_DF
 ### Mots de D–F
 
-1. [Déclaration des droits de l'homme et du citoyen](SCR_GLO_0038)
-2. [Délit](SCR_GLO_0039)
-3. [Démocratie](SCR_GLO_0040)
-4. [Département](SCR_GLO_0041)
-5. [Député](SCR_GLO_0042)
-6. [Député européen](SCR_GLO_0043)
-7. [Devise de la République](SCR_GLO_0044)
-8. [Dignité humaine](SCR_GLO_0045)
-9. [Drapeau français](SCR_GLO_0046)
-10. [Droits fondamentaux](SCR_GLO_0047)
-11. [École](SCR_GLO_0048)
-12. [Égalité](SCR_GLO_0049)
-13. [Élection](SCR_GLO_0050)
-14. [Employeur](SCR_GLO_0051)
-15. [Environnement](SCR_GLO_0052)
-16. [Espace Schengen](SCR_GLO_0053)
-17. [État](SCR_GLO_0054)
-18. [Euro](SCR_GLO_0055)
-19. [Fête de la Musique](SCR_GLO_0056)
-20. [Fête nationale](SCR_GLO_0057)
-21. [France métropolitaine](SCR_GLO_0058)
-22. [France Services](SCR_GLO_0059)
-23. [France Travail](SCR_GLO_0060)
-24. [Francophonie](SCR_GLO_0061)
-25. [Fraternité](SCR_GLO_0062)
-26. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
+1. [🏡 Déclaration des droits de l'homme et du citoyen](SCR_GLO_0038)
+2. [🏡 Délit](SCR_GLO_0039)
+3. [🏡 Démocratie](SCR_GLO_0040)
+4. [🏡 Département](SCR_GLO_0041)
+5. [🏡 Député](SCR_GLO_0042)
+6. [🏡 Député européen](SCR_GLO_0043)
+7. [🏡 Devise de la République](SCR_GLO_0044)
+8. [🏡 Dignité humaine](SCR_GLO_0045)
+9. [🏡 Drapeau français](SCR_GLO_0046)
+10. [🏡 Droits fondamentaux](SCR_GLO_0047)
+11. [🏡 École](SCR_GLO_0048)
+12. [🏡 Égalité](SCR_GLO_0049)
+13. [🏡 Élection](SCR_GLO_0050)
+14. [🏡 Employeur](SCR_GLO_0051)
+15. [🏡 Environnement](SCR_GLO_0052)
+16. [🏡 Espace Schengen](SCR_GLO_0053)
+17. [🏡 État](SCR_GLO_0054)
+18. [🏡 Euro](SCR_GLO_0055)
+19. [🏡 Fête de la Musique](SCR_GLO_0056)
+20. [🏡 Fête nationale](SCR_GLO_0057)
+21. [🏡 France métropolitaine](SCR_GLO_0058)
+22. [🏡 France Services](SCR_GLO_0059)
+23. [🏡 France Travail](SCR_GLO_0060)
+24. [🏡 Francophonie](SCR_GLO_0061)
+25. [🏡 Fraternité](SCR_GLO_0062)
+26. [🏡 ↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_ALPHA_GL
 ### Mots de G–L
 
-1. [Gastronomie française](SCR_GLO_0063)
-2. [Gaule](SCR_GLO_0064)
-3. [Gendarmerie](SCR_GLO_0065)
-4. [Gouvernement](SCR_GLO_0066)
-5. [Guadeloupe](SCR_GLO_0067)
-6. [Guyane](SCR_GLO_0068)
-7. [Harcèlement](SCR_GLO_0069)
-8. [Harcèlement scolaire](SCR_GLO_0070)
-9. [Hôpital](SCR_GLO_0071)
-10. [Île-de-France](SCR_GLO_0072)
-11. [Impôt](SCR_GLO_0073)
-12. [Infraction](SCR_GLO_0074)
-13. [Intégrité de la personne](SCR_GLO_0075)
-14. [Journées européennes du patrimoine](SCR_GLO_0076)
-15. [Justice](SCR_GLO_0077)
-16. [La Marseillaise](SCR_GLO_0078)
-17. [La Réunion](SCR_GLO_0079)
-18. [Laïcité](SCR_GLO_0080)
-19. [Langue de la République](SCR_GLO_0081)
-20. [Liberté](SCR_GLO_0082)
-21. [Liberté de conscience](SCR_GLO_0083)
-22. [Locataire](SCR_GLO_0084)
-23. [Loi](SCR_GLO_0085)
-24. [Lycée](SCR_GLO_0086)
-25. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
+1. [🏡 Gastronomie française](SCR_GLO_0063)
+2. [🏡 Gaule](SCR_GLO_0064)
+3. [🏡 Gendarmerie](SCR_GLO_0065)
+4. [🏡 Gouvernement](SCR_GLO_0066)
+5. [🏡 Guadeloupe](SCR_GLO_0067)
+6. [🏡 Guyane](SCR_GLO_0068)
+7. [🏡 Harcèlement](SCR_GLO_0069)
+8. [🏡 Harcèlement scolaire](SCR_GLO_0070)
+9. [🏡 Hôpital](SCR_GLO_0071)
+10. [🏡 Île-de-France](SCR_GLO_0072)
+11. [🏡 Impôt](SCR_GLO_0073)
+12. [🏡 Infraction](SCR_GLO_0074)
+13. [🏡 Intégrité de la personne](SCR_GLO_0075)
+14. [🏡 Journées européennes du patrimoine](SCR_GLO_0076)
+15. [🏡 Justice](SCR_GLO_0077)
+16. [🏡 La Marseillaise](SCR_GLO_0078)
+17. [🏡 La Réunion](SCR_GLO_0079)
+18. [🏡 Laïcité](SCR_GLO_0080)
+19. [🏡 Langue de la République](SCR_GLO_0081)
+20. [🏡 Liberté](SCR_GLO_0082)
+21. [🏡 Liberté de conscience](SCR_GLO_0083)
+22. [🏡 Locataire](SCR_GLO_0084)
+23. [🏡 Loi](SCR_GLO_0085)
+24. [🏡 Lycée](SCR_GLO_0086)
+25. [🏡 ↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_ALPHA_MP
 ### Mots de M–P
 
-1. [Maire](SCR_GLO_0087)
-2. [Mairie](SCR_GLO_0088)
-3. [Marianne](SCR_GLO_0089)
-4. [Martinique](SCR_GLO_0090)
-5. [Mayotte](SCR_GLO_0091)
-6. [Médecin traitant](SCR_GLO_0092)
-7. [Ministre](SCR_GLO_0093)
-8. [Mont-Saint-Michel](SCR_GLO_0094)
-9. [Musée du Louvre](SCR_GLO_0095)
-10. [Mutilations sexuelles féminines](SCR_GLO_0096)
-11. [Naturalisation](SCR_GLO_0097)
-12. [Neutralité](SCR_GLO_0098)
-13. [Ordre public](SCR_GLO_0099)
-14. [Outre-mer](SCR_GLO_0100)
-15. [Parlement](SCR_GLO_0101)
-16. [Parlement européen](SCR_GLO_0102)
-17. [Patrimoine](SCR_GLO_0103)
-18. [Police](SCR_GLO_0104)
-19. [Préfecture](SCR_GLO_0105)
-20. [Préfet](SCR_GLO_0106)
-21. [Premier ministre](SCR_GLO_0107)
-22. [Première Guerre mondiale](SCR_GLO_0108)
-23. [Président de la République](SCR_GLO_0109)
-24. [Présomption d'innocence](SCR_GLO_0110)
-25. [Procuration](SCR_GLO_0111)
-26. [Propriétaire](SCR_GLO_0112)
-27. [Prostitution](SCR_GLO_0113)
-28. [Provence-Alpes-Côte d'Azur](SCR_GLO_0114)
-29. [Pyrénées](SCR_GLO_0115)
-30. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
+1. [🏡 Maire](SCR_GLO_0087)
+2. [🏡 Mairie](SCR_GLO_0088)
+3. [🏡 Marianne](SCR_GLO_0089)
+4. [🏡 Martinique](SCR_GLO_0090)
+5. [🏡 Mayotte](SCR_GLO_0091)
+6. [🏡 Médecin traitant](SCR_GLO_0092)
+7. [🏡 Ministre](SCR_GLO_0093)
+8. [🏡 Mont-Saint-Michel](SCR_GLO_0094)
+9. [🏡 Musée du Louvre](SCR_GLO_0095)
+10. [🏡 Mutilations sexuelles féminines](SCR_GLO_0096)
+11. [🏡 Naturalisation](SCR_GLO_0097)
+12. [🏡 Neutralité](SCR_GLO_0098)
+13. [🏡 Ordre public](SCR_GLO_0099)
+14. [🏡 Outre-mer](SCR_GLO_0100)
+15. [🏡 Parlement](SCR_GLO_0101)
+16. [🏡 Parlement européen](SCR_GLO_0102)
+17. [🏡 Patrimoine](SCR_GLO_0103)
+18. [🏡 Police](SCR_GLO_0104)
+19. [🏡 Préfecture](SCR_GLO_0105)
+20. [🏡 Préfet](SCR_GLO_0106)
+21. [🏡 Premier ministre](SCR_GLO_0107)
+22. [🏡 Première Guerre mondiale](SCR_GLO_0108)
+23. [🏡 Président de la République](SCR_GLO_0109)
+24. [🏡 Présomption d'innocence](SCR_GLO_0110)
+25. [🏡 Procuration](SCR_GLO_0111)
+26. [🏡 Propriétaire](SCR_GLO_0112)
+27. [🏡 Prostitution](SCR_GLO_0113)
+28. [🏡 Provence-Alpes-Côte d'Azur](SCR_GLO_0114)
+29. [🏡 Pyrénées](SCR_GLO_0115)
+30. [🏡 ↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_ALPHA_QS
 ### Mots de Q–S
 
-1. [Référendum](SCR_GLO_0116)
-2. [Région](SCR_GLO_0117)
-3. [République](SCR_GLO_0118)
-4. [Révolution française](SCR_GLO_0119)
-5. [Salaire](SCR_GLO_0120)
-6. [Seconde Guerre mondiale](SCR_GLO_0121)
-7. [Seine](SCR_GLO_0122)
-8. [Sénat](SCR_GLO_0123)
-9. [Sénateur](SCR_GLO_0124)
-10. [Service public](SCR_GLO_0125)
-11. [Souveraineté nationale](SCR_GLO_0126)
-12. [Suffrage universel](SCR_GLO_0127)
-13. [Sûreté](SCR_GLO_0128)
-14. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
+1. [🏡 Référendum](SCR_GLO_0116)
+2. [🏡 Région](SCR_GLO_0117)
+3. [🏡 République](SCR_GLO_0118)
+4. [🏡 Révolution française](SCR_GLO_0119)
+5. [🏡 Salaire](SCR_GLO_0120)
+6. [🏡 Seconde Guerre mondiale](SCR_GLO_0121)
+7. [🏡 Seine](SCR_GLO_0122)
+8. [🏡 Sénat](SCR_GLO_0123)
+9. [🏡 Sénateur](SCR_GLO_0124)
+10. [🏡 Service public](SCR_GLO_0125)
+11. [🏡 Souveraineté nationale](SCR_GLO_0126)
+12. [🏡 Suffrage universel](SCR_GLO_0127)
+13. [🏡 Sûreté](SCR_GLO_0128)
+14. [🏡 ↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_ALPHA_TZ
 ### Mots de T–Z
 
-1. [Titre de séjour](SCR_GLO_0129)
-2. [Tour Eiffel](SCR_GLO_0130)
-3. [Traite des êtres humains](SCR_GLO_0131)
-4. [UNESCO](SCR_GLO_0132)
-5. [Union européenne](SCR_GLO_0133)
-6. [Urgences](SCR_GLO_0134)
-7. [Vercingétorix](SCR_GLO_0135)
-8. [Violence](SCR_GLO_0136)
-9. [Vote](SCR_GLO_0137)
-10. [↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
+1. [🏡 Titre de séjour](SCR_GLO_0129)
+2. [🏡 Tour Eiffel](SCR_GLO_0130)
+3. [🏡 Traite des êtres humains](SCR_GLO_0131)
+4. [🏡 UNESCO](SCR_GLO_0132)
+5. [🏡 Union européenne](SCR_GLO_0133)
+6. [🏡 Urgences](SCR_GLO_0134)
+7. [🏡 Vercingétorix](SCR_GLO_0135)
+8. [🏡 Violence](SCR_GLO_0136)
+9. [🏡 Vote](SCR_GLO_0137)
+10. [🏡 ↩️ Retour aux lettres](SCR_GLO_ALPHA_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -269,7 +269,7 @@ Choisissez une thématique pour découvrir les mots qui lui sont associés.
 3. [⚖️ Thème 3 : Droits et devoirs](SCR_GLO_THEME_T3)
 4. [🗺️ Thème 4 : Histoire, géographie et culture](SCR_GLO_THEME_T4)
 5. [🤝 Thème 5 : Vivre dans la société française](SCR_GLO_THEME_T5)
-6. [↩️ Retour au glossaire](SCR_GLO_MENU)
+6. [🏡 ↩️ Retour au glossaire](SCR_GLO_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
@@ -281,30 +281,30 @@ Choisissez une thématique pour découvrir les mots qui lui sont associés.
 
 Découvrez tous les mots associés au thème 1 : **« principes et valeurs de la république »**.
 
-1. [Citoyen](SCR_GLO_0019)
-2. [Constitution](SCR_GLO_0032)
-3. [Contrat d'engagement à respecter les principes de la République](SCR_GLO_0033)
-4. [Démocratie](SCR_GLO_0040)
-5. [Devise de la République](SCR_GLO_0044)
-6. [Drapeau français](SCR_GLO_0046)
-7. [Égalité](SCR_GLO_0049)
-8. [Fête nationale](SCR_GLO_0057)
-9. [Fraternité](SCR_GLO_0062)
-10. [La Marseillaise](SCR_GLO_0078)
-11. [Laïcité](SCR_GLO_0080)
-12. [Langue de la République](SCR_GLO_0081)
-13. [Liberté](SCR_GLO_0082)
-14. [Liberté de conscience](SCR_GLO_0083)
-15. [Marianne](SCR_GLO_0089)
-16. [Neutralité](SCR_GLO_0098)
-17. [République](SCR_GLO_0118)
-18. [Souveraineté nationale](SCR_GLO_0126)
-19. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
+1. [🏡 Citoyen](SCR_GLO_0019)
+2. [🏡 Constitution](SCR_GLO_0032)
+3. [🏡 Contrat d'engagement à respecter les principes de la République](SCR_GLO_0033)
+4. [🏡 Démocratie](SCR_GLO_0040)
+5. [🏡 Devise de la République](SCR_GLO_0044)
+6. [🏡 Drapeau français](SCR_GLO_0046)
+7. [🏡 Égalité](SCR_GLO_0049)
+8. [🏡 Fête nationale](SCR_GLO_0057)
+9. [🏡 Fraternité](SCR_GLO_0062)
+10. [🏡 La Marseillaise](SCR_GLO_0078)
+11. [🏡 Laïcité](SCR_GLO_0080)
+12. [🏡 Langue de la République](SCR_GLO_0081)
+13. [🏡 Liberté](SCR_GLO_0082)
+14. [🏡 Liberté de conscience](SCR_GLO_0083)
+15. [🏡 Marianne](SCR_GLO_0089)
+16. [🏡 Neutralité](SCR_GLO_0098)
+17. [🏡 République](SCR_GLO_0118)
+18. [🏡 Souveraineté nationale](SCR_GLO_0126)
+19. [🏡 ↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -313,46 +313,46 @@ Découvrez tous les mots associés au thème 1 : **« principes et valeurs de la
 
 Découvrez tous les mots associés au thème 2 : **« système institutionnel et politique »**.
 
-1. [Abstention](SCR_GLO_0001)
-2. [Assemblée nationale](SCR_GLO_0004)
-3. [Commission européenne](SCR_GLO_0023)
-4. [Commune](SCR_GLO_0024)
-5. [Conseil constitutionnel](SCR_GLO_0025)
-6. [Conseil de l'Union européenne](SCR_GLO_0026)
-7. [Conseil départemental](SCR_GLO_0027)
-8. [Conseil européen](SCR_GLO_0028)
-9. [Conseil municipal](SCR_GLO_0029)
-10. [Conseil régional](SCR_GLO_0030)
-11. [Département](SCR_GLO_0041)
-12. [Député](SCR_GLO_0042)
-13. [Député européen](SCR_GLO_0043)
-14. [Élection](SCR_GLO_0050)
-15. [Espace Schengen](SCR_GLO_0053)
-16. [État](SCR_GLO_0054)
-17. [Euro](SCR_GLO_0055)
-18. [Gouvernement](SCR_GLO_0066)
-19. [Justice](SCR_GLO_0077)
-20. [Maire](SCR_GLO_0087)
-21. [Ministre](SCR_GLO_0093)
-22. [Parlement](SCR_GLO_0101)
-23. [Parlement européen](SCR_GLO_0102)
-24. [Préfet](SCR_GLO_0106)
-25. [Premier ministre](SCR_GLO_0107)
-26. [Président de la République](SCR_GLO_0109)
-27. [Procuration](SCR_GLO_0111)
-28. [Référendum](SCR_GLO_0116)
-29. [Région](SCR_GLO_0117)
-30. [Sénat](SCR_GLO_0123)
-31. [Sénateur](SCR_GLO_0124)
-32. [Suffrage universel](SCR_GLO_0127)
-33. [Union européenne](SCR_GLO_0133)
-34. [Vote](SCR_GLO_0137)
-35. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
+1. [🏡 Abstention](SCR_GLO_0001)
+2. [🏡 Assemblée nationale](SCR_GLO_0004)
+3. [🏡 Commission européenne](SCR_GLO_0023)
+4. [🏡 Commune](SCR_GLO_0024)
+5. [🏡 Conseil constitutionnel](SCR_GLO_0025)
+6. [🏡 Conseil de l'Union européenne](SCR_GLO_0026)
+7. [🏡 Conseil départemental](SCR_GLO_0027)
+8. [🏡 Conseil européen](SCR_GLO_0028)
+9. [🏡 Conseil municipal](SCR_GLO_0029)
+10. [🏡 Conseil régional](SCR_GLO_0030)
+11. [🏡 Département](SCR_GLO_0041)
+12. [🏡 Député](SCR_GLO_0042)
+13. [🏡 Député européen](SCR_GLO_0043)
+14. [🏡 Élection](SCR_GLO_0050)
+15. [🏡 Espace Schengen](SCR_GLO_0053)
+16. [🏡 État](SCR_GLO_0054)
+17. [🏡 Euro](SCR_GLO_0055)
+18. [🏡 Gouvernement](SCR_GLO_0066)
+19. [🏡 Justice](SCR_GLO_0077)
+20. [🏡 Maire](SCR_GLO_0087)
+21. [🏡 Ministre](SCR_GLO_0093)
+22. [🏡 Parlement](SCR_GLO_0101)
+23. [🏡 Parlement européen](SCR_GLO_0102)
+24. [🏡 Préfet](SCR_GLO_0106)
+25. [🏡 Premier ministre](SCR_GLO_0107)
+26. [🏡 Président de la République](SCR_GLO_0109)
+27. [🏡 Procuration](SCR_GLO_0111)
+28. [🏡 Référendum](SCR_GLO_0116)
+29. [🏡 Région](SCR_GLO_0117)
+30. [🏡 Sénat](SCR_GLO_0123)
+31. [🏡 Sénateur](SCR_GLO_0124)
+32. [🏡 Suffrage universel](SCR_GLO_0127)
+33. [🏡 Union européenne](SCR_GLO_0133)
+34. [🏡 Vote](SCR_GLO_0137)
+35. [🏡 ↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -361,40 +361,40 @@ Découvrez tous les mots associés au thème 2 : **« système institutionnel et
 
 Découvrez tous les mots associés au thème 3 : **« droits et devoirs »**.
 
-1. [Assistance à personne en danger](SCR_GLO_0005)
-2. [Charte de l'environnement](SCR_GLO_0016)
-3. [Citoyenneté](SCR_GLO_0020)
-4. [Consentement](SCR_GLO_0031)
-5. [Contravention](SCR_GLO_0035)
-6. [Crime](SCR_GLO_0037)
-7. [Déclaration des droits de l'homme et du citoyen](SCR_GLO_0038)
-8. [Délit](SCR_GLO_0039)
-9. [Dignité humaine](SCR_GLO_0045)
-10. [Droits fondamentaux](SCR_GLO_0047)
-11. [Égalité](SCR_GLO_0049)
-12. [Environnement](SCR_GLO_0052)
-13. [Gendarmerie](SCR_GLO_0065)
-14. [Harcèlement](SCR_GLO_0069)
-15. [Harcèlement scolaire](SCR_GLO_0070)
-16. [Impôt](SCR_GLO_0073)
-17. [Infraction](SCR_GLO_0074)
-18. [Intégrité de la personne](SCR_GLO_0075)
-19. [Liberté](SCR_GLO_0082)
-20. [Loi](SCR_GLO_0085)
-21. [Mutilations sexuelles féminines](SCR_GLO_0096)
-22. [Ordre public](SCR_GLO_0099)
-23. [Police](SCR_GLO_0104)
-24. [Présomption d'innocence](SCR_GLO_0110)
-25. [Prostitution](SCR_GLO_0113)
-26. [Sûreté](SCR_GLO_0128)
-27. [Traite des êtres humains](SCR_GLO_0131)
-28. [Violence](SCR_GLO_0136)
-29. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
+1. [🏡 Assistance à personne en danger](SCR_GLO_0005)
+2. [🏡 Charte de l'environnement](SCR_GLO_0016)
+3. [🏡 Citoyenneté](SCR_GLO_0020)
+4. [🏡 Consentement](SCR_GLO_0031)
+5. [🏡 Contravention](SCR_GLO_0035)
+6. [🏡 Crime](SCR_GLO_0037)
+7. [🏡 Déclaration des droits de l'homme et du citoyen](SCR_GLO_0038)
+8. [🏡 Délit](SCR_GLO_0039)
+9. [🏡 Dignité humaine](SCR_GLO_0045)
+10. [🏡 Droits fondamentaux](SCR_GLO_0047)
+11. [🏡 Égalité](SCR_GLO_0049)
+12. [🏡 Environnement](SCR_GLO_0052)
+13. [🏡 Gendarmerie](SCR_GLO_0065)
+14. [🏡 Harcèlement](SCR_GLO_0069)
+15. [🏡 Harcèlement scolaire](SCR_GLO_0070)
+16. [🏡 Impôt](SCR_GLO_0073)
+17. [🏡 Infraction](SCR_GLO_0074)
+18. [🏡 Intégrité de la personne](SCR_GLO_0075)
+19. [🏡 Liberté](SCR_GLO_0082)
+20. [🏡 Loi](SCR_GLO_0085)
+21. [🏡 Mutilations sexuelles féminines](SCR_GLO_0096)
+22. [🏡 Ordre public](SCR_GLO_0099)
+23. [🏡 Police](SCR_GLO_0104)
+24. [🏡 Présomption d'innocence](SCR_GLO_0110)
+25. [🏡 Prostitution](SCR_GLO_0113)
+26. [🏡 Sûreté](SCR_GLO_0128)
+27. [🏡 Traite des êtres humains](SCR_GLO_0131)
+28. [🏡 Violence](SCR_GLO_0136)
+29. [🏡 ↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -403,44 +403,44 @@ Découvrez tous les mots associés au thème 3 : **« droits et devoirs »**.
 
 Découvrez tous les mots associés au thème 4 : **« histoire, géographie et culture »**.
 
-1. [Alpes](SCR_GLO_0002)
-2. [Bretagne](SCR_GLO_0008)
-3. [Celtes](SCR_GLO_0014)
-4. [Charlemagne](SCR_GLO_0015)
-5. [Château de Versailles](SCR_GLO_0017)
-6. [Cinquième République](SCR_GLO_0018)
-7. [Clovis](SCR_GLO_0021)
-8. [Fête de la Musique](SCR_GLO_0056)
-9. [France métropolitaine](SCR_GLO_0058)
-10. [Francophonie](SCR_GLO_0061)
-11. [Gastronomie française](SCR_GLO_0063)
-12. [Gaule](SCR_GLO_0064)
-13. [Guadeloupe](SCR_GLO_0067)
-14. [Guyane](SCR_GLO_0068)
-15. [Île-de-France](SCR_GLO_0072)
-16. [Journées européennes du patrimoine](SCR_GLO_0076)
-17. [La Réunion](SCR_GLO_0079)
-18. [Martinique](SCR_GLO_0090)
-19. [Mayotte](SCR_GLO_0091)
-20. [Mont-Saint-Michel](SCR_GLO_0094)
-21. [Musée du Louvre](SCR_GLO_0095)
-22. [Outre-mer](SCR_GLO_0100)
-23. [Patrimoine](SCR_GLO_0103)
-24. [Première Guerre mondiale](SCR_GLO_0108)
-25. [Provence-Alpes-Côte d'Azur](SCR_GLO_0114)
-26. [Pyrénées](SCR_GLO_0115)
-27. [Révolution française](SCR_GLO_0119)
-28. [Seconde Guerre mondiale](SCR_GLO_0121)
-29. [Seine](SCR_GLO_0122)
-30. [Tour Eiffel](SCR_GLO_0130)
-31. [UNESCO](SCR_GLO_0132)
-32. [Vercingétorix](SCR_GLO_0135)
-33. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
+1. [🏡 Alpes](SCR_GLO_0002)
+2. [🏡 Bretagne](SCR_GLO_0008)
+3. [🏡 Celtes](SCR_GLO_0014)
+4. [🏡 Charlemagne](SCR_GLO_0015)
+5. [🏡 Château de Versailles](SCR_GLO_0017)
+6. [🏡 Cinquième République](SCR_GLO_0018)
+7. [🏡 Clovis](SCR_GLO_0021)
+8. [🏡 Fête de la Musique](SCR_GLO_0056)
+9. [🏡 France métropolitaine](SCR_GLO_0058)
+10. [🏡 Francophonie](SCR_GLO_0061)
+11. [🏡 Gastronomie française](SCR_GLO_0063)
+12. [🏡 Gaule](SCR_GLO_0064)
+13. [🏡 Guadeloupe](SCR_GLO_0067)
+14. [🏡 Guyane](SCR_GLO_0068)
+15. [🏡 Île-de-France](SCR_GLO_0072)
+16. [🏡 Journées européennes du patrimoine](SCR_GLO_0076)
+17. [🏡 La Réunion](SCR_GLO_0079)
+18. [🏡 Martinique](SCR_GLO_0090)
+19. [🏡 Mayotte](SCR_GLO_0091)
+20. [🏡 Mont-Saint-Michel](SCR_GLO_0094)
+21. [🏡 Musée du Louvre](SCR_GLO_0095)
+22. [🏡 Outre-mer](SCR_GLO_0100)
+23. [🏡 Patrimoine](SCR_GLO_0103)
+24. [🏡 Première Guerre mondiale](SCR_GLO_0108)
+25. [🏡 Provence-Alpes-Côte d'Azur](SCR_GLO_0114)
+26. [🏡 Pyrénées](SCR_GLO_0115)
+27. [🏡 Révolution française](SCR_GLO_0119)
+28. [🏡 Seconde Guerre mondiale](SCR_GLO_0121)
+29. [🏡 Seine](SCR_GLO_0122)
+30. [🏡 Tour Eiffel](SCR_GLO_0130)
+31. [🏡 UNESCO](SCR_GLO_0132)
+32. [🏡 Vercingétorix](SCR_GLO_0135)
+33. [🏡 ↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -449,39 +449,39 @@ Découvrez tous les mots associés au thème 4 : **« histoire, géographie et c
 
 Découvrez tous les mots associés au thème 5 : **« vivre dans la société française »**.
 
-1. [APL](SCR_GLO_0003)
-2. [Assurance maladie](SCR_GLO_0006)
-3. [Bail](SCR_GLO_0007)
-4. [CAF](SCR_GLO_0009)
-5. [Carte de résident](SCR_GLO_0010)
-6. [Carte Vitale](SCR_GLO_0011)
-7. [CDD](SCR_GLO_0012)
-8. [CDI](SCR_GLO_0013)
-9. [Collège](SCR_GLO_0022)
-10. [Contrat de travail](SCR_GLO_0034)
-11. [CPAM](SCR_GLO_0036)
-12. [École](SCR_GLO_0048)
-13. [Employeur](SCR_GLO_0051)
-14. [France Services](SCR_GLO_0059)
-15. [France Travail](SCR_GLO_0060)
-16. [Hôpital](SCR_GLO_0071)
-17. [Locataire](SCR_GLO_0084)
-18. [Lycée](SCR_GLO_0086)
-19. [Mairie](SCR_GLO_0088)
-20. [Médecin traitant](SCR_GLO_0092)
-21. [Naturalisation](SCR_GLO_0097)
-22. [Préfecture](SCR_GLO_0105)
-23. [Propriétaire](SCR_GLO_0112)
-24. [Salaire](SCR_GLO_0120)
-25. [Service public](SCR_GLO_0125)
-26. [Titre de séjour](SCR_GLO_0129)
-27. [Urgences](SCR_GLO_0134)
-28. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
+1. [🏡 APL](SCR_GLO_0003)
+2. [🏡 Assurance maladie](SCR_GLO_0006)
+3. [🏡 Bail](SCR_GLO_0007)
+4. [🏡 CAF](SCR_GLO_0009)
+5. [🏡 Carte de résident](SCR_GLO_0010)
+6. [🏡 Carte Vitale](SCR_GLO_0011)
+7. [🏡 CDD](SCR_GLO_0012)
+8. [🏡 CDI](SCR_GLO_0013)
+9. [🏡 Collège](SCR_GLO_0022)
+10. [🏡 Contrat de travail](SCR_GLO_0034)
+11. [🏡 CPAM](SCR_GLO_0036)
+12. [🏡 École](SCR_GLO_0048)
+13. [🏡 Employeur](SCR_GLO_0051)
+14. [🏡 France Services](SCR_GLO_0059)
+15. [🏡 France Travail](SCR_GLO_0060)
+16. [🏡 Hôpital](SCR_GLO_0071)
+17. [🏡 Locataire](SCR_GLO_0084)
+18. [🏡 Lycée](SCR_GLO_0086)
+19. [🏡 Mairie](SCR_GLO_0088)
+20. [🏡 Médecin traitant](SCR_GLO_0092)
+21. [🏡 Naturalisation](SCR_GLO_0097)
+22. [🏡 Préfecture](SCR_GLO_0105)
+23. [🏡 Propriétaire](SCR_GLO_0112)
+24. [🏡 Salaire](SCR_GLO_0120)
+25. [🏡 Service public](SCR_GLO_0125)
+26. [🏡 Titre de séjour](SCR_GLO_0129)
+27. [🏡 Urgences](SCR_GLO_0134)
+28. [🏡 ↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_GLO_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -503,7 +503,7 @@ L'abstention est différente du vote blanc.
 
 🔗 **Voir aussi**
 
-1. [Vote](SCR_GLO_0137)
+1. [🏡 Vote](SCR_GLO_0137)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -532,7 +532,7 @@ Le Mont Blanc est le plus haut sommet d'Europe occidentale.
 
 🔗 **Voir aussi**
 
-1. [Pyrénées](SCR_GLO_0115)
+1. [🏡 Pyrénées](SCR_GLO_0115)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -561,7 +561,7 @@ Elle permet de réduire le montant du loyer.
 
 🔗 **Voir aussi**
 
-1. [CAF](SCR_GLO_0009)
+1. [🏡 CAF](SCR_GLO_0009)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -591,8 +591,8 @@ Les députés sont élus directement par les citoyens.
 
 🔗 **Voir aussi**
 
-1. [Député](SCR_GLO_0042)
-2. [Parlement](SCR_GLO_0101)
+1. [🏡 Député](SCR_GLO_0042)
+2. [🏡 Parlement](SCR_GLO_0101)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -647,9 +647,9 @@ Toute personne résidant régulièrement en France peut bénéficier d'une couve
 
 🔗 **Voir aussi**
 
-1. [Carte Vitale](SCR_GLO_0011)
-2. [CPAM](SCR_GLO_0036)
-3. [Médecin traitant](SCR_GLO_0092)
+1. [🏡 Carte Vitale](SCR_GLO_0011)
+2. [🏡 CPAM](SCR_GLO_0036)
+3. [🏡 Médecin traitant](SCR_GLO_0092)
 
 4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 5. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -703,7 +703,7 @@ La Bretagne est connue pour son littoral, sa culture bretonne, ses ports de pêc
 
 🔗 **Voir aussi**
 
-1. [Région](SCR_GLO_0117)
+1. [🏡 Région](SCR_GLO_0117)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -732,7 +732,7 @@ La CAF peut aider au paiement du logement.
 
 🔗 **Voir aussi**
 
-1. [APL](SCR_GLO_0003)
+1. [🏡 APL](SCR_GLO_0003)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -762,7 +762,7 @@ Sa durée de validité est généralement de dix ans.
 
 🔗 **Voir aussi**
 
-1. [Titre de séjour](SCR_GLO_0129)
+1. [🏡 Titre de séjour](SCR_GLO_0129)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -791,8 +791,8 @@ Elle facilite le remboursement des soins.
 
 🔗 **Voir aussi**
 
-1. [Assurance maladie](SCR_GLO_0006)
-2. [CPAM](SCR_GLO_0036)
+1. [🏡 Assurance maladie](SCR_GLO_0006)
+2. [🏡 CPAM](SCR_GLO_0036)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -825,8 +825,8 @@ CDD ≠ CDI.
 
 🔗 **Voir aussi**
 
-1. [Contrat de travail](SCR_GLO_0034)
-2. [CDI](SCR_GLO_0013)
+1. [🏡 Contrat de travail](SCR_GLO_0034)
+2. [🏡 CDI](SCR_GLO_0013)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -859,8 +859,8 @@ CDI ≠ CDD.
 
 🔗 **Voir aussi**
 
-1. [Contrat de travail](SCR_GLO_0034)
-2. [CDD](SCR_GLO_0012)
+1. [🏡 Contrat de travail](SCR_GLO_0034)
+2. [🏡 CDD](SCR_GLO_0012)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -889,7 +889,7 @@ Les Gaulois étaient des peuples celtes.
 
 🔗 **Voir aussi**
 
-1. [Gaule](SCR_GLO_0064)
+1. [🏡 Gaule](SCR_GLO_0064)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -943,7 +943,7 @@ La protection de l'environnement est un principe constitutionnel.
 
 🔗 **Voir aussi**
 
-1. [Environnement](SCR_GLO_0052)
+1. [🏡 Environnement](SCR_GLO_0052)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -999,7 +999,7 @@ La Constitution de 1958 est toujours en vigueur.
 
 🔗 **Voir aussi**
 
-1. [Constitution](SCR_GLO_0032)
+1. [🏡 Constitution](SCR_GLO_0032)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -1083,7 +1083,7 @@ Son règne marque le début de la dynastie mérovingienne.
 
 🔗 **Voir aussi**
 
-1. [Charlemagne](SCR_GLO_0015)
+1. [🏡 Charlemagne](SCR_GLO_0015)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -1113,7 +1113,7 @@ Le collège est obligatoire.
 
 🔗 **Voir aussi**
 
-1. [Lycée](SCR_GLO_0086)
+1. [🏡 Lycée](SCR_GLO_0086)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -1143,7 +1143,7 @@ Elle défend l'intérêt général de l'Union européenne.
 
 🔗 **Voir aussi**
 
-1. [Union européenne](SCR_GLO_0133)
+1. [🏡 Union européenne](SCR_GLO_0133)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1172,7 +1172,7 @@ Elle est administrée par un maire.
 
 🔗 **Voir aussi**
 
-1. [Maire](SCR_GLO_0087)
+1. [🏡 Maire](SCR_GLO_0087)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1201,7 +1201,7 @@ Il protège la Constitution.
 
 🔗 **Voir aussi**
 
-1. [Constitution](SCR_GLO_0032)
+1. [🏡 Constitution](SCR_GLO_0032)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1231,7 +1231,7 @@ Il participe au vote des lois européennes.
 
 🔗 **Voir aussi**
 
-1. [Commission européenne](SCR_GLO_0023)
+1. [🏡 Commission européenne](SCR_GLO_0023)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1261,7 +1261,7 @@ Ses membres sont les conseillers départementaux.
 
 🔗 **Voir aussi**
 
-1. [Département](SCR_GLO_0041)
+1. [🏡 Département](SCR_GLO_0041)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1291,7 +1291,7 @@ Il fixe les grandes orientations politiques de l'Union européenne.
 
 🔗 **Voir aussi**
 
-1. [Union européenne](SCR_GLO_0133)
+1. [🏡 Union européenne](SCR_GLO_0133)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1320,7 +1320,7 @@ Les conseillers municipaux élisent le maire.
 
 🔗 **Voir aussi**
 
-1. [Maire](SCR_GLO_0087)
+1. [🏡 Maire](SCR_GLO_0087)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1350,7 +1350,7 @@ Ses membres sont les conseillers régionaux.
 
 🔗 **Voir aussi**
 
-1. [Région](SCR_GLO_0117)
+1. [🏡 Région](SCR_GLO_0117)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1404,8 +1404,8 @@ Toutes les lois doivent respecter la Constitution.
 
 🔗 **Voir aussi**
 
-1. [République](SCR_GLO_0118)
-2. [Loi](SCR_GLO_0085)
+1. [🏡 République](SCR_GLO_0118)
+2. [🏡 Loi](SCR_GLO_0085)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -1435,8 +1435,8 @@ Le respect des principes républicains est attendu dans certains parcours admini
 
 🔗 **Voir aussi**
 
-1. [République](SCR_GLO_0118)
-2. [Laïcité](SCR_GLO_0080)
+1. [🏡 République](SCR_GLO_0118)
+2. [🏡 Laïcité](SCR_GLO_0080)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -1465,8 +1465,8 @@ Le contrat précise les droits et les obligations de chacun.
 
 🔗 **Voir aussi**
 
-1. [CDI](SCR_GLO_0013)
-2. [CDD](SCR_GLO_0012)
+1. [🏡 CDI](SCR_GLO_0013)
+2. [🏡 CDD](SCR_GLO_0012)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -1495,8 +1495,8 @@ Elle est généralement punie d'une amende.
 
 🔗 **Voir aussi**
 
-1. [Délit](SCR_GLO_0039)
-2. [Crime](SCR_GLO_0037)
+1. [🏡 Délit](SCR_GLO_0039)
+2. [🏡 Crime](SCR_GLO_0037)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -1525,8 +1525,8 @@ Elle accompagne les assurés dans leurs démarches de santé.
 
 🔗 **Voir aussi**
 
-1. [Carte Vitale](SCR_GLO_0011)
-2. [Assurance maladie](SCR_GLO_0006)
+1. [🏡 Carte Vitale](SCR_GLO_0011)
+2. [🏡 Assurance maladie](SCR_GLO_0006)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -1555,7 +1555,7 @@ Les crimes sont jugés par une cour d'assises.
 
 🔗 **Voir aussi**
 
-1. [Délit](SCR_GLO_0039)
+1. [🏡 Délit](SCR_GLO_0039)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -1585,7 +1585,7 @@ C'est l'un des textes fondateurs de la République française.
 
 🔗 **Voir aussi**
 
-1. [Constitution](SCR_GLO_0032)
+1. [🏡 Constitution](SCR_GLO_0032)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -1615,7 +1615,7 @@ Il peut être puni d'une peine de prison.
 
 🔗 **Voir aussi**
 
-1. [Crime](SCR_GLO_0037)
+1. [🏡 Crime](SCR_GLO_0037)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -1649,8 +1649,8 @@ Démocratie ≠ République.
 
 🔗 **Voir aussi**
 
-1. [République](SCR_GLO_0118)
-2. [Élection](SCR_GLO_0050)
+1. [🏡 République](SCR_GLO_0118)
+2. [🏡 Élection](SCR_GLO_0050)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -1680,8 +1680,8 @@ La France compte 101 départements.
 
 🔗 **Voir aussi**
 
-1. [Région](SCR_GLO_0117)
-2. [Commune](SCR_GLO_0024)
+1. [🏡 Région](SCR_GLO_0117)
+2. [🏡 Commune](SCR_GLO_0024)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1711,7 +1711,7 @@ Il vote les lois.
 
 🔗 **Voir aussi**
 
-1. [Assemblée nationale](SCR_GLO_0004)
+1. [🏡 Assemblée nationale](SCR_GLO_0004)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1741,7 +1741,7 @@ Les députés européens sont élus tous les cinq ans.
 
 🔗 **Voir aussi**
 
-1. [Parlement européen](SCR_GLO_0102)
+1. [🏡 Parlement européen](SCR_GLO_0102)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -1773,9 +1773,9 @@ Elle représente les trois valeurs fondamentales de la République.
 
 🔗 **Voir aussi**
 
-1. [Liberté](SCR_GLO_0082)
-2. [Égalité](SCR_GLO_0049)
-3. [Fraternité](SCR_GLO_0062)
+1. [🏡 Liberté](SCR_GLO_0082)
+2. [🏡 Égalité](SCR_GLO_0049)
+3. [🏡 Fraternité](SCR_GLO_0062)
 
 4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 5. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -1805,7 +1805,7 @@ La dignité humaine est protégée par la loi.
 
 🔗 **Voir aussi**
 
-1. [Droits fondamentaux](SCR_GLO_0047)
+1. [🏡 Droits fondamentaux](SCR_GLO_0047)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -1835,7 +1835,7 @@ Il est l'un des symboles officiels de la République.
 
 🔗 **Voir aussi**
 
-1. [La Marseillaise](SCR_GLO_0078)
+1. [🏡 La Marseillaise](SCR_GLO_0078)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -1864,9 +1864,9 @@ Ils protègent la dignité, la liberté et l'égalité de chacun.
 
 🔗 **Voir aussi**
 
-1. [Constitution](SCR_GLO_0032)
-2. [Liberté](SCR_GLO_0082)
-3. [Égalité](SCR_GLO_0049)
+1. [🏡 Constitution](SCR_GLO_0032)
+2. [🏡 Liberté](SCR_GLO_0082)
+3. [🏡 Égalité](SCR_GLO_0049)
 
 4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 5. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -1896,8 +1896,8 @@ L'instruction est obligatoire de 3 à 16 ans.
 
 🔗 **Voir aussi**
 
-1. [Collège](SCR_GLO_0022)
-2. [Lycée](SCR_GLO_0086)
+1. [🏡 Collège](SCR_GLO_0022)
+2. [🏡 Lycée](SCR_GLO_0086)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -1931,7 +1931,7 @@ Aucune discrimination n'est autorisée.
 
 🔗 **Voir aussi**
 
-1. [Liberté](SCR_GLO_0082)
+1. [🏡 Liberté](SCR_GLO_0082)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -1961,7 +1961,7 @@ Les élections sont au cœur de la démocratie.
 
 🔗 **Voir aussi**
 
-1. [Suffrage universel](SCR_GLO_0127)
+1. [🏡 Suffrage universel](SCR_GLO_0127)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -2015,7 +2015,7 @@ La protection de l'environnement est une responsabilité collective.
 
 🔗 **Voir aussi**
 
-1. [Charte de l'environnement](SCR_GLO_0016)
+1. [🏡 Charte de l'environnement](SCR_GLO_0016)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -2044,7 +2044,7 @@ La France fait partie de l'espace Schengen.
 
 🔗 **Voir aussi**
 
-1. [Union européenne](SCR_GLO_0133)
+1. [🏡 Union européenne](SCR_GLO_0133)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -2074,9 +2074,9 @@ L'État assure les services publics et protège les citoyens.
 
 🔗 **Voir aussi**
 
-1. [République](SCR_GLO_0118)
-2. [Gouvernement](SCR_GLO_0066)
-3. [Préfet](SCR_GLO_0106)
+1. [🏡 République](SCR_GLO_0118)
+2. [🏡 Gouvernement](SCR_GLO_0066)
+3. [🏡 Préfet](SCR_GLO_0106)
 
 4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 5. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -2105,7 +2105,7 @@ L'euro est la monnaie officielle de la France.
 
 🔗 **Voir aussi**
 
-1. [Union européenne](SCR_GLO_0133)
+1. [🏡 Union européenne](SCR_GLO_0133)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -2161,7 +2161,7 @@ Elle commémore la prise de la Bastille et la Fête de la Fédération.
 
 🔗 **Voir aussi**
 
-1. [République](SCR_GLO_0118)
+1. [🏡 République](SCR_GLO_0118)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -2191,7 +2191,7 @@ Elle est composée de 13 régions.
 
 🔗 **Voir aussi**
 
-1. [Outre-mer](SCR_GLO_0100)
+1. [🏡 Outre-mer](SCR_GLO_0100)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -2322,7 +2322,7 @@ Le repas gastronomique des Français est inscrit au patrimoine culturel immatér
 
 🔗 **Voir aussi**
 
-1. [UNESCO](SCR_GLO_0132)
+1. [🏡 UNESCO](SCR_GLO_0132)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -2351,8 +2351,8 @@ La Gaule était peuplée de peuples celtes.
 
 🔗 **Voir aussi**
 
-1. [Celtes](SCR_GLO_0014)
-2. [Vercingétorix](SCR_GLO_0135)
+1. [🏡 Celtes](SCR_GLO_0014)
+2. [🏡 Vercingétorix](SCR_GLO_0135)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -2381,7 +2381,7 @@ Elle intervient principalement en zone rurale.
 
 🔗 **Voir aussi**
 
-1. [Police](SCR_GLO_0104)
+1. [🏡 Police](SCR_GLO_0104)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -2418,8 +2418,8 @@ Le Parlement les vote.
 
 🔗 **Voir aussi**
 
-1. [Premier ministre](SCR_GLO_0107)
-2. [Parlement](SCR_GLO_0101)
+1. [🏡 Premier ministre](SCR_GLO_0107)
+2. [🏡 Parlement](SCR_GLO_0101)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -2448,7 +2448,7 @@ Elle est connue pour ses plages, son volcan de la Soufrière et sa biodiversité
 
 🔗 **Voir aussi**
 
-1. [Outre-mer](SCR_GLO_0100)
+1. [🏡 Outre-mer](SCR_GLO_0100)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -2477,7 +2477,7 @@ La Guyane accueille le Centre spatial guyanais de Kourou et possède une vaste f
 
 🔗 **Voir aussi**
 
-1. [Outre-mer](SCR_GLO_0100)
+1. [🏡 Outre-mer](SCR_GLO_0100)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -2507,7 +2507,7 @@ Le harcèlement est puni par la loi.
 
 🔗 **Voir aussi**
 
-1. [Harcèlement scolaire](SCR_GLO_0070)
+1. [🏡 Harcèlement scolaire](SCR_GLO_0070)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -2537,7 +2537,7 @@ Il s'agit d'un délit.
 
 🔗 **Voir aussi**
 
-1. [Violence](SCR_GLO_0136)
+1. [🏡 Violence](SCR_GLO_0136)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -2567,7 +2567,7 @@ Les hôpitaux publics accueillent tous les patients.
 
 🔗 **Voir aussi**
 
-1. [Urgences](SCR_GLO_0134)
+1. [🏡 Urgences](SCR_GLO_0134)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -2648,9 +2648,9 @@ Une infraction peut être sanctionnée.
 
 🔗 **Voir aussi**
 
-1. [Contravention](SCR_GLO_0035)
-2. [Délit](SCR_GLO_0039)
-3. [Crime](SCR_GLO_0037)
+1. [🏡 Contravention](SCR_GLO_0035)
+2. [🏡 Délit](SCR_GLO_0039)
+3. [🏡 Crime](SCR_GLO_0037)
 
 4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 5. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -2680,7 +2680,7 @@ Toute atteinte injustifiée à l'intégrité est interdite.
 
 🔗 **Voir aussi**
 
-1. [Dignité humaine](SCR_GLO_0045)
+1. [🏡 Dignité humaine](SCR_GLO_0045)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -2710,7 +2710,7 @@ Elles ont lieu chaque année en septembre.
 
 🔗 **Voir aussi**
 
-1. [Patrimoine](SCR_GLO_0103)
+1. [🏡 Patrimoine](SCR_GLO_0103)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -2761,7 +2761,7 @@ Elle est chantée lors des cérémonies officielles.
 
 🔗 **Voir aussi**
 
-1. [Drapeau français](SCR_GLO_0046)
+1. [🏡 Drapeau français](SCR_GLO_0046)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -2788,7 +2788,7 @@ L'île est connue pour ses cirques, son volcan actif et ses paysages naturels.
 
 🔗 **Voir aussi**
 
-1. [Outre-mer](SCR_GLO_0100)
+1. [🏡 Outre-mer](SCR_GLO_0100)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -2824,8 +2824,8 @@ Elle garantit leur libre exercice dans le respect de la loi.
 
 🔗 **Voir aussi**
 
-1. [Neutralité](SCR_GLO_0098)
-2. [Liberté de conscience](SCR_GLO_0083)
+1. [🏡 Neutralité](SCR_GLO_0098)
+2. [🏡 Liberté de conscience](SCR_GLO_0083)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -2855,7 +2855,7 @@ Le français est utilisé dans les administrations, les écoles et les services 
 
 🔗 **Voir aussi**
 
-1. [République](SCR_GLO_0118)
+1. [🏡 République](SCR_GLO_0118)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -2895,8 +2895,8 @@ La liberté ne permet pas de porter atteinte aux droits des autres.
 
 🔗 **Voir aussi**
 
-1. [Égalité](SCR_GLO_0049)
-2. [Fraternité](SCR_GLO_0062)
+1. [🏡 Égalité](SCR_GLO_0049)
+2. [🏡 Fraternité](SCR_GLO_0062)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -2926,7 +2926,7 @@ Cette liberté est protégée par la République.
 
 🔗 **Voir aussi**
 
-1. [Laïcité](SCR_GLO_0080)
+1. [🏡 Laïcité](SCR_GLO_0080)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -2955,7 +2955,7 @@ Le locataire doit payer son loyer et entretenir le logement.
 
 🔗 **Voir aussi**
 
-1. [Bail](SCR_GLO_0007)
+1. [🏡 Bail](SCR_GLO_0007)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -2984,7 +2984,7 @@ Toute personne vivant en France doit respecter la loi.
 
 🔗 **Voir aussi**
 
-1. [Parlement](SCR_GLO_0101)
+1. [🏡 Parlement](SCR_GLO_0101)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -3045,8 +3045,8 @@ Le préfet représente l'État.
 
 🔗 **Voir aussi**
 
-1. [Commune](SCR_GLO_0024)
-2. [Préfet](SCR_GLO_0106)
+1. [🏡 Commune](SCR_GLO_0024)
+2. [🏡 Préfet](SCR_GLO_0106)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3075,8 +3075,8 @@ De nombreuses démarches administratives y sont réalisées.
 
 🔗 **Voir aussi**
 
-1. [Commune](SCR_GLO_0024)
-2. [Maire](SCR_GLO_0087)
+1. [🏡 Commune](SCR_GLO_0024)
+2. [🏡 Maire](SCR_GLO_0087)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -3105,7 +3105,7 @@ Elle symbolise la liberté et la République.
 
 🔗 **Voir aussi**
 
-1. [République](SCR_GLO_0118)
+1. [🏡 République](SCR_GLO_0118)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -3134,7 +3134,7 @@ La Martinique est célèbre pour la montagne Pelée et son patrimoine culturel.
 
 🔗 **Voir aussi**
 
-1. [Outre-mer](SCR_GLO_0100)
+1. [🏡 Outre-mer](SCR_GLO_0100)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -3163,7 +3163,7 @@ Mayotte est le département le plus récent de la République française.
 
 🔗 **Voir aussi**
 
-1. [Outre-mer](SCR_GLO_0100)
+1. [🏡 Outre-mer](SCR_GLO_0100)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -3193,7 +3193,7 @@ Le déclarer permet un meilleur remboursement des soins.
 
 🔗 **Voir aussi**
 
-1. [Assurance maladie](SCR_GLO_0006)
+1. [🏡 Assurance maladie](SCR_GLO_0006)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -3224,7 +3224,7 @@ Chaque ministre dirige un ministère.
 
 🔗 **Voir aussi**
 
-1. [Gouvernement](SCR_GLO_0066)
+1. [🏡 Gouvernement](SCR_GLO_0066)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3253,7 +3253,7 @@ Il est inscrit au patrimoine mondial de l'UNESCO.
 
 🔗 **Voir aussi**
 
-1. [UNESCO](SCR_GLO_0132)
+1. [🏡 UNESCO](SCR_GLO_0132)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -3309,7 +3309,7 @@ Elles sont interdites et sévèrement punies en France.
 
 🔗 **Voir aussi**
 
-1. [Violence](SCR_GLO_0136)
+1. [🏡 Violence](SCR_GLO_0136)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -3364,7 +3364,7 @@ La neutralité concerne principalement les institutions et les agents publics.
 
 🔗 **Voir aussi**
 
-1. [Laïcité](SCR_GLO_0080)
+1. [🏡 Laïcité](SCR_GLO_0080)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -3393,8 +3393,8 @@ L'ordre public permet le bon fonctionnement de la société.
 
 🔗 **Voir aussi**
 
-1. [Police](SCR_GLO_0104)
-2. [Gendarmerie](SCR_GLO_0065)
+1. [🏡 Police](SCR_GLO_0104)
+2. [🏡 Gendarmerie](SCR_GLO_0065)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -3423,11 +3423,11 @@ Ils font pleinement partie de la République française.
 
 🔗 **Voir aussi**
 
-1. [Guyane](SCR_GLO_0068)
-2. [Guadeloupe](SCR_GLO_0067)
-3. [Martinique](SCR_GLO_0090)
-4. [La Réunion](SCR_GLO_0079)
-5. [Mayotte](SCR_GLO_0091)
+1. [🏡 Guyane](SCR_GLO_0068)
+2. [🏡 Guadeloupe](SCR_GLO_0067)
+3. [🏡 Martinique](SCR_GLO_0090)
+4. [🏡 La Réunion](SCR_GLO_0079)
+5. [🏡 Mayotte](SCR_GLO_0091)
 
 6. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 7. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -3456,8 +3456,8 @@ Il comprend deux assemblées.
 
 🔗 **Voir aussi**
 
-1. [Assemblée nationale](SCR_GLO_0004)
-2. [Sénat](SCR_GLO_0123)
+1. [🏡 Assemblée nationale](SCR_GLO_0004)
+2. [🏡 Sénat](SCR_GLO_0123)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3487,7 +3487,7 @@ Il participe à l'adoption des lois européennes.
 
 🔗 **Voir aussi**
 
-1. [Député européen](SCR_GLO_0043)
+1. [🏡 Député européen](SCR_GLO_0043)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3516,7 +3516,7 @@ Le patrimoine est protégé et valorisé.
 
 🔗 **Voir aussi**
 
-1. [UNESCO](SCR_GLO_0132)
+1. [🏡 UNESCO](SCR_GLO_0132)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -3545,7 +3545,7 @@ Elle intervient principalement dans les villes.
 
 🔗 **Voir aussi**
 
-1. [Gendarmerie](SCR_GLO_0065)
+1. [🏡 Gendarmerie](SCR_GLO_0065)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -3575,7 +3575,7 @@ Elle traite notamment certaines démarches liées au séjour des étrangers.
 
 🔗 **Voir aussi**
 
-1. [Préfet](SCR_GLO_0106)
+1. [🏡 Préfet](SCR_GLO_0106)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -3609,8 +3609,8 @@ Le préfet n'est pas élu.
 
 🔗 **Voir aussi**
 
-1. [État](SCR_GLO_0054)
-2. [Maire](SCR_GLO_0087)
+1. [🏡 État](SCR_GLO_0054)
+2. [🏡 Maire](SCR_GLO_0087)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3645,7 +3645,7 @@ Le Premier ministre dirige le Gouvernement.
 
 🔗 **Voir aussi**
 
-1. [Gouvernement](SCR_GLO_0066)
+1. [🏡 Gouvernement](SCR_GLO_0066)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3675,7 +3675,7 @@ La France fait partie des pays vainqueurs.
 
 🔗 **Voir aussi**
 
-1. [Seconde Guerre mondiale](SCR_GLO_0121)
+1. [🏡 Seconde Guerre mondiale](SCR_GLO_0121)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -3711,8 +3711,8 @@ Le Premier ministre dirige l'action du Gouvernement.
 
 🔗 **Voir aussi**
 
-1. [Gouvernement](SCR_GLO_0066)
-2. [Premier ministre](SCR_GLO_0107)
+1. [🏡 Gouvernement](SCR_GLO_0066)
+2. [🏡 Premier ministre](SCR_GLO_0107)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3742,7 +3742,7 @@ La culpabilité doit être prouvée.
 
 🔗 **Voir aussi**
 
-1. [Justice](SCR_GLO_0077)
+1. [🏡 Justice](SCR_GLO_0077)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -3771,7 +3771,7 @@ Elle permet de voter en cas d'absence.
 
 🔗 **Voir aussi**
 
-1. [Vote](SCR_GLO_0137)
+1. [🏡 Vote](SCR_GLO_0137)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3801,7 +3801,7 @@ Le propriétaire peut louer son logement.
 
 🔗 **Voir aussi**
 
-1. [Bail](SCR_GLO_0007)
+1. [🏡 Bail](SCR_GLO_0007)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -3830,7 +3830,7 @@ Le proxénétisme et le recours à la prostitution sont encadrés par la loi.
 
 🔗 **Voir aussi**
 
-1. [Traite des êtres humains](SCR_GLO_0131)
+1. [🏡 Traite des êtres humains](SCR_GLO_0131)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -3886,7 +3886,7 @@ Elles forment une frontière naturelle.
 
 🔗 **Voir aussi**
 
-1. [Alpes](SCR_GLO_0002)
+1. [🏡 Alpes](SCR_GLO_0002)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -3916,7 +3916,7 @@ Les citoyens répondent généralement par "Oui" ou "Non".
 
 🔗 **Voir aussi**
 
-1. [Souveraineté nationale](SCR_GLO_0126)
+1. [🏡 Souveraineté nationale](SCR_GLO_0126)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3946,7 +3946,7 @@ La France compte 18 régions.
 
 🔗 **Voir aussi**
 
-1. [Département](SCR_GLO_0041)
+1. [🏡 Département](SCR_GLO_0041)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -3984,9 +3984,9 @@ La démocratie est une manière d'exercer le pouvoir.
 
 🔗 **Voir aussi**
 
-1. [Constitution](SCR_GLO_0032)
-2. [Démocratie](SCR_GLO_0040)
-3. [Souveraineté nationale](SCR_GLO_0126)
+1. [🏡 Constitution](SCR_GLO_0032)
+2. [🏡 Démocratie](SCR_GLO_0040)
+3. [🏡 Souveraineté nationale](SCR_GLO_0126)
 
 4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 5. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -4016,7 +4016,7 @@ Elle marque la naissance des valeurs républicaines modernes.
 
 🔗 **Voir aussi**
 
-1. [Déclaration des droits de l'homme et du citoyen](SCR_GLO_0038)
+1. [🏡 Déclaration des droits de l'homme et du citoyen](SCR_GLO_0038)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -4045,7 +4045,7 @@ Le salaire est indiqué sur la fiche de paie.
 
 🔗 **Voir aussi**
 
-1. [Employeur](SCR_GLO_0051)
+1. [🏡 Employeur](SCR_GLO_0051)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -4129,8 +4129,8 @@ Assemblée nationale ≠ Sénat.
 
 🔗 **Voir aussi**
 
-1. [Sénateur](SCR_GLO_0124)
-2. [Parlement](SCR_GLO_0101)
+1. [🏡 Sénateur](SCR_GLO_0124)
+2. [🏡 Parlement](SCR_GLO_0101)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -4160,7 +4160,7 @@ Il participe au vote des lois.
 
 🔗 **Voir aussi**
 
-1. [Sénat](SCR_GLO_0123)
+1. [🏡 Sénat](SCR_GLO_0123)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -4189,8 +4189,8 @@ Les services publics garantissent l'égalité d'accès pour tous.
 
 🔗 **Voir aussi**
 
-1. [Mairie](SCR_GLO_0088)
-2. [Préfecture](SCR_GLO_0105)
+1. [🏡 Mairie](SCR_GLO_0088)
+2. [🏡 Préfecture](SCR_GLO_0105)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -4224,9 +4224,9 @@ La souveraineté appartient au peuple et non au Président de la République.
 
 🔗 **Voir aussi**
 
-1. [République](SCR_GLO_0118)
-2. [Référendum](SCR_GLO_0116)
-3. [Citoyen](SCR_GLO_0019)
+1. [🏡 République](SCR_GLO_0118)
+2. [🏡 Référendum](SCR_GLO_0116)
+3. [🏡 Citoyen](SCR_GLO_0019)
 
 4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 5. [📚 Retour au thème](SCR_GLO_THEME_T1)
@@ -4255,7 +4255,7 @@ En France, le vote est universel, égal et secret.
 
 🔗 **Voir aussi**
 
-1. [Vote](SCR_GLO_0137)
+1. [🏡 Vote](SCR_GLO_0137)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -4285,8 +4285,8 @@ La justice protège les libertés individuelles.
 
 🔗 **Voir aussi**
 
-1. [Présomption d'innocence](SCR_GLO_0110)
-2. [Justice](SCR_GLO_0077)
+1. [🏡 Présomption d'innocence](SCR_GLO_0110)
+2. [🏡 Justice](SCR_GLO_0077)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -4316,7 +4316,7 @@ Il doit être renouvelé avant sa date d'expiration.
 
 🔗 **Voir aussi**
 
-1. [Préfecture](SCR_GLO_0105)
+1. [🏡 Préfecture](SCR_GLO_0105)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -4396,7 +4396,7 @@ Plusieurs sites français sont inscrits au patrimoine mondial de l'UNESCO.
 
 🔗 **Voir aussi**
 
-1. [Patrimoine](SCR_GLO_0103)
+1. [🏡 Patrimoine](SCR_GLO_0103)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -4426,8 +4426,8 @@ La France est membre de l'Union européenne.
 
 🔗 **Voir aussi**
 
-1. [Parlement européen](SCR_GLO_0102)
-2. [Euro](SCR_GLO_0055)
+1. [🏡 Parlement européen](SCR_GLO_0102)
+2. [🏡 Euro](SCR_GLO_0055)
 
 3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 4. [📚 Retour au thème](SCR_GLO_THEME_T2)
@@ -4456,7 +4456,7 @@ En cas d'urgence médicale, composez le 15.
 
 🔗 **Voir aussi**
 
-1. [Hôpital](SCR_GLO_0071)
+1. [🏡 Hôpital](SCR_GLO_0071)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T5)
@@ -4486,7 +4486,7 @@ Il est devenu un symbole de la résistance gauloise.
 
 🔗 **Voir aussi**
 
-1. [Gaule](SCR_GLO_0064)
+1. [🏡 Gaule](SCR_GLO_0064)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T4)
@@ -4515,7 +4515,7 @@ Toutes les formes de violence sont interdites.
 
 🔗 **Voir aussi**
 
-1. [Consentement](SCR_GLO_0031)
+1. [🏡 Consentement](SCR_GLO_0031)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T3)
@@ -4544,7 +4544,7 @@ Le vote est un droit civique.
 
 🔗 **Voir aussi**
 
-1. [Élection](SCR_GLO_0050)
+1. [🏡 Élection](SCR_GLO_0050)
 
 2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
 3. [📚 Retour au thème](SCR_GLO_THEME_T2)

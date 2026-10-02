@@ -47,3 +47,18 @@ Tester les retours dans chaque module ; un parcours par thématique et un
 parcours toutes thématiques pour chaque examen ; une série par niveau ; les
 15 réponses, les corrections, les scores et le nouveau démarrage.
 Les contrôles fournis vérifient les fichiers ; ils ne remplacent pas ce test dans ChatMD.
+
+
+## Version 3 — conseils et présentation
+
+- Conseils adaptés au score : moins de 50 %, 50–79 %, 80–99 %, 100 %. Ces repères pédagogiques ne constituent pas un seuil officiel de réussite.
+- Recommandations par thématique, connaissances et mises en situation.
+- Barre de réussite et progression dans les séries d’entraînement.
+- Icônes dans les choix, boutons arrondis, focus clavier visible et affichage mobile.
+- Titres : « Passer un examen blanc » et « S’inscrire à l’examen civique ».
+
+Après toute régénération, lancer `python scripts/ameliorer_presentation.py` pour réappliquer les icônes, les intitulés et compiler les modules. Le workflow quotidien le fait automatiquement.
+
+Installation : remplacer les fichiers du dépôt avec le contenu du ZIP, puis Commit et Push. Pour une mise à jour ponctuelle de l’affichage uniquement, renommer le Markdown livré en `chat_bot.md` et remplacer le fichier à la racine.
+
+Vérifier dans ChatMD : résultats faibles, moyens, élevés et parfaits ; conseils et barre ; menu principal ; inscription ; boutons sur mobile. Les contrôles locaux des sources, des scores et de la navigation ont passé. Le rendu ChatMD après déploiement reste à vérifier.

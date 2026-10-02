@@ -54,6 +54,7 @@ jobs:
           cp .build_chatmd/export/data/sessions.json recherche-centres/data/sessions.json
           cp .build_chatmd/export/data/centres_geocodes.json recherche-centres/data/centres_geocodes.json
           python scripts/sync_module_into_chatbot.py chat_bot.md modules/07_passer_examen.md
+          python scripts/ameliorer_presentation.py
 
       - name: Contrôler le chatbot complet et les banques d’examens
         run: |

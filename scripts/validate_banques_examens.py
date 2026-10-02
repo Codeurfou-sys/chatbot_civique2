@@ -29,7 +29,7 @@ for exam in ('CSP','NAT'):
             if situation: assert m.clean(row['Mise en situation']) in body,ident
             for letter in 'ABCD':
                 suffix='VRAI' if letter==m.clean(row['Bonne réponse']).upper() else 'FAUX'
-                assert f"[{m.link_text(row['Réponse '+letter])}]({ident}_{suffix})" in body,ident
+                assert any(f"[{prefix}{m.link_text(row['Réponse '+letter])}]({ident}_{suffix})" in body for prefix in ("", "🔘 ")),ident
             groups.setdefault(ident.rsplit('_Q',1)[0],[]).append(source.group(1))
         for group,ids in groups.items():
             assert len(ids)==(40 if group.startswith('EXAM') else 15 if '_LVL_' in group else 10),(group,len(ids))

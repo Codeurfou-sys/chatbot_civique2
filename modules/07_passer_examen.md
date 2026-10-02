@@ -18,9 +18,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -46,9 +46,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -74,9 +74,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 5 session(s) future(s) dans la source -->
 
@@ -102,9 +102,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 9 session(s) future(s) dans la source -->
 
@@ -130,9 +130,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -158,9 +158,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_CHER)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_CHER)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -185,9 +185,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
 
@@ -213,9 +213,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 7 session(s) future(s) dans la source -->
 
@@ -241,9 +241,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 5 session(s) future(s) dans la source -->
 
@@ -269,9 +269,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -297,9 +297,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -325,9 +325,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -352,9 +352,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 3 session(s) future(s) dans la source -->
 
@@ -380,9 +380,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 7 session(s) future(s) dans la source -->
 
@@ -408,9 +408,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
 
@@ -436,9 +436,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -464,9 +464,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
 
@@ -492,9 +492,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 3 session(s) future(s) dans la source -->
 
@@ -519,9 +519,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
 
@@ -547,9 +547,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -575,9 +575,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
 
@@ -603,9 +603,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_GRAND_EST)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
 
@@ -631,9 +631,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -659,9 +659,9 @@
 <ul class="messageOptions">
   <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
-3. [Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
-4. [Retour au module](SCR_PASS_MENU)
+2. [🏡 Voir un autre centre de la région](SCR_PASS_REGION_AUVERGNE)
+3. [🏡 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
 
@@ -683,7 +683,7 @@ Choisissez votre question. Chaque réponse vous donne les repères essentiels et
 6. [🧠 Comment préparer l’examen ?](SCR_PASS_INFO_PREP)
 7. [🤖 Comment le chatbot peut-il m’aider ?](SCR_PASS_INFO_HELP)
 8. [⭐ Les informations essentielles à retenir](SCR_PASS_INFO_REMEMBER)
-9. [↩️ Retour au module](SCR_PASS_MENU)
+9. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -706,7 +706,7 @@ Le chatbot vous accompagne à chaque étape de votre préparation :
 2. [📚 Commencer mes révisions](SCR_REV_MENU)
 3. [🎯 M’entraîner](SCR_ENT_MENU)
 4. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
-5. [↩️ Retour au module](SCR_PASS_MENU)
+5. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -727,7 +727,7 @@ Choisissez dans le chatbot le même parcours que celui indiqué pour votre déma
 1. [⏱️ Voir le format de l’examen](SCR_PASS_INFO_FORMAT)
 2. [🧠 Commencer un bilan](SCR_BIL_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
-4. [↩️ Retour au module](SCR_PASS_MENU)
+4. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -753,7 +753,7 @@ Vous disposez en moyenne d’un peu plus d’une minute par question. Si vous h�
 1. [🏛️ Faire un examen blanc](SCR_PREP_MENU)
 2. [🧠 Voir comment me préparer](SCR_PASS_INFO_PREP)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
-4. [↩️ Retour au module](SCR_PASS_MENU)
+4. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -778,7 +778,7 @@ L’épreuve porte sur cinq thèmes civiques et associe connaissances et situati
 1. [🏛️ Faire un examen blanc](SCR_PREP_MENU)
 2. [📍 Trouver une session](SCR_PASS_SEARCH_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
-4. [↩️ Retour au module](SCR_PASS_MENU)
+4. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -797,7 +797,7 @@ Il ne s’agit pas seulement de mémoriser des dates ou des définitions. Vous d
 1. [🪪 Vérifier quel examen me concerne](SCR_PASS_INFO_MATCH)
 2. [📚 Découvrir les cinq thématiques](SCR_PASS_INFO_THEMES)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
-4. [↩️ Retour au module](SCR_PASS_MENU)
+4. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -823,7 +823,7 @@ Travaillez par séances courtes et régulières. Lorsque vous obtenez des résul
 3. [🎯 M’entraîner](SCR_ENT_MENU)
 4. [🏛️ Faire un examen blanc](SCR_PREP_MENU)
 5. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
-6. [↩️ Retour au module](SCR_PASS_MENU)
+6. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -846,7 +846,7 @@ Votre situation administrative peut comporter des particularités. Vérifiez les
 1. [🪪 Identifier l’examen correspondant à ma situation](SCR_PASS_INFO_MATCH)
 2. [📍 Trouver une session d’examen](SCR_PASS_SEARCH_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
-4. [↩️ Retour au module](SCR_PASS_MENU)
+4. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -871,7 +871,7 @@ Révisez un thème à la fois, puis vérifiez vos acquis avec un entraînement c
 1. [📚 Accéder aux révisions](SCR_REV_MENU)
 2. [🎯 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
-4. [↩️ Retour au module](SCR_PASS_MENU)
+4. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -888,7 +888,7 @@ Cliquez sur le lien Forms pour vous inscrire à une session dans la région choi
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_PASS_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_PASS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -904,7 +904,7 @@ Sélectionnez une région pour consulter ses centres et leurs prochaines dates d
 5. [🏰 Grand Est](SCR_PASS_REGION_GRAND_EST)
 6. [🏔️ Rhône-Alpes](SCR_PASS_REGION_RHONE_ALPES)
 7. [🧭 Rechercher un centre proche de chez moi](SCR_PASS_INPUT_COMMUNE)
-8. [↩️ Retour au module](SCR_PASS_MENU)
+8. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -912,7 +912,7 @@ Sélectionnez une région pour consulter ses centres et leurs prochaines dates d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_MENU
-### 🏛️ Passer mon examen civique
+### 🏛️ S’inscrire à l’examen civique
 
 :::info ⌨️ Conseil de navigation
 Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
@@ -948,7 +948,7 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 :::
 
 2. [🧭 Rechercher un centre proche de chez moi](SCR_PASS_INPUT_COMMUNE)
-3. [↩️ Retour au module](SCR_PASS_MENU)
+3. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -974,7 +974,7 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 :::
 
 1. [🗺️ Rechercher par région](SCR_PASS_REGIONS)
-2. [↩️ Retour au module](SCR_PASS_MENU)
+2. [🏡 ↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -988,12 +988,12 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 4 centres de la région -->
 
-1. [Clermont-Ferrand (63)](SCR_PASS_CITY_CLERMONT_FERRAND)
-2. [Le Puy-en-Velay (43)](SCR_PASS_CITY_LE_PUY_EN_VELAY)
-3. [Saint-Flour (15)](SCR_PASS_CITY_SAINT_FLOUR)
-4. [Vichy (03)](SCR_PASS_CITY_VICHY)
-5. [Choisir une autre région](SCR_PASS_REGIONS)
-6. [Retour au module](SCR_PASS_MENU)
+1. [🏡 Clermont-Ferrand (63)](SCR_PASS_CITY_CLERMONT_FERRAND)
+2. [🏡 Le Puy-en-Velay (43)](SCR_PASS_CITY_LE_PUY_EN_VELAY)
+3. [🟡 Saint-Flour (15)](SCR_PASS_CITY_SAINT_FLOUR)
+4. [🏡 Vichy (03)](SCR_PASS_CITY_VICHY)
+5. [🏡 Choisir une autre région](SCR_PASS_REGIONS)
+6. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -1007,14 +1007,14 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 6 centres de la région -->
 
-1. [Auxerre (89)](SCR_PASS_CITY_AUXERRE)
-2. [Dijon (21)](SCR_PASS_CITY_DIJON)
-3. [Mâcon (71)](SCR_PASS_CITY_MACON)
-4. [Montceau-les-Mines (71)](SCR_PASS_CITY_MONTCEAU_LES_MINES)
-5. [Nevers (58)](SCR_PASS_CITY_NEVERS)
-6. [Sens (89)](SCR_PASS_CITY_SENS)
-7. [Choisir une autre région](SCR_PASS_REGIONS)
-8. [Retour au module](SCR_PASS_MENU)
+1. [🏡 Auxerre (89)](SCR_PASS_CITY_AUXERRE)
+2. [🏡 Dijon (21)](SCR_PASS_CITY_DIJON)
+3. [🏡 Mâcon (71)](SCR_PASS_CITY_MACON)
+4. [🏡 Montceau-les-Mines (71)](SCR_PASS_CITY_MONTCEAU_LES_MINES)
+5. [🏡 Nevers (58)](SCR_PASS_CITY_NEVERS)
+6. [🏡 Sens (89)](SCR_PASS_CITY_SENS)
+7. [🏡 Choisir une autre région](SCR_PASS_REGIONS)
+8. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -1028,9 +1028,9 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 1 centres de la région -->
 
-1. [Bourges (18)](SCR_PASS_CITY_BOURGES)
-2. [Choisir une autre région](SCR_PASS_REGIONS)
-3. [Retour au module](SCR_PASS_MENU)
+1. [🏡 Bourges (18)](SCR_PASS_CITY_BOURGES)
+2. [🏡 Choisir une autre région](SCR_PASS_REGIONS)
+3. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -1044,11 +1044,11 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 3 centres de la région -->
 
-1. [Besançon (25)](SCR_PASS_CITY_BESANCON)
-2. [Lons-le-Saunier (39)](SCR_PASS_CITY_LONS_LE_SAUNIER)
-3. [Montbéliard (25)](SCR_PASS_CITY_MONTBELIARD)
-4. [Choisir une autre région](SCR_PASS_REGIONS)
-5. [Retour au module](SCR_PASS_MENU)
+1. [🏡 Besançon (25)](SCR_PASS_CITY_BESANCON)
+2. [🏡 Lons-le-Saunier (39)](SCR_PASS_CITY_LONS_LE_SAUNIER)
+3. [🏡 Montbéliard (25)](SCR_PASS_CITY_MONTBELIARD)
+4. [🏡 Choisir une autre région](SCR_PASS_REGIONS)
+5. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -1062,14 +1062,14 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 6 centres de la région -->
 
-1. [Chaumont (52)](SCR_PASS_CITY_CHAUMONT)
-2. [Mulhouse (68)](SCR_PASS_CITY_MULHOUSE)
-3. [Reims (51)](SCR_PASS_CITY_REIMS)
-4. [Saint-Dié-des-Vosges (88)](SCR_PASS_CITY_SAINT_DIE_DES_VOSGES)
-5. [Strasbourg (67)](SCR_PASS_CITY_STRASBOURG)
-6. [Troyes (10)](SCR_PASS_CITY_TROYES)
-7. [Choisir une autre région](SCR_PASS_REGIONS)
-8. [Retour au module](SCR_PASS_MENU)
+1. [🏡 Chaumont (52)](SCR_PASS_CITY_CHAUMONT)
+2. [🏡 Mulhouse (68)](SCR_PASS_CITY_MULHOUSE)
+3. [🏡 Reims (51)](SCR_PASS_CITY_REIMS)
+4. [🟡 Saint-Dié-des-Vosges (88)](SCR_PASS_CITY_SAINT_DIE_DES_VOSGES)
+5. [🏡 Strasbourg (67)](SCR_PASS_CITY_STRASBOURG)
+6. [🏡 Troyes (10)](SCR_PASS_CITY_TROYES)
+7. [🏡 Choisir une autre région](SCR_PASS_REGIONS)
+8. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
@@ -1083,12 +1083,12 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 4 centres de la région -->
 
-1. [Annemasse (74)](SCR_PASS_CITY_ANNEMASSE)
-2. [Annecy (74)](SCR_PASS_CITY_ANNECY)
-3. [Bourg-en-Bresse (01)](SCR_PASS_CITY_BOURG_EN_BRESSE)
-4. [Valserhône (01)](SCR_PASS_CITY_VALSERHONE)
-5. [Choisir une autre région](SCR_PASS_REGIONS)
-6. [Retour au module](SCR_PASS_MENU)
+1. [🏡 Annemasse (74)](SCR_PASS_CITY_ANNEMASSE)
+2. [🏡 Annecy (74)](SCR_PASS_CITY_ANNECY)
+3. [🏡 Bourg-en-Bresse (01)](SCR_PASS_CITY_BOURG_EN_BRESSE)
+4. [🏡 Valserhône (01)](SCR_PASS_CITY_VALSERHONE)
+5. [🏡 Choisir une autre région](SCR_PASS_REGIONS)
+6. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 

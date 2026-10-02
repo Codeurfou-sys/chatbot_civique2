@@ -22,12 +22,12 @@ Choisissez une thématique, puis un chapitre. Chaque chapitre suit la même stru
 
 Choisissez un chapitre à réviser.
 
-1. [1. Connaître et comprendre la République](SCR_REV_T1_CH01_ACC)
-2. [2. La devise de la République française](SCR_REV_T1_CH02_ACC)
-3. [3. Les symboles de la République française](SCR_REV_T1_CH03_ACC)
-4. [4. La laïcité](SCR_REV_T1_CH04_ACC)
-5. [5. La langue de la République](SCR_REV_T1_CH05_ACC)
-6. [6. Le contrat d'engagement à respecter les principes de la République](SCR_REV_T1_CH06_ACC)
+1. [🏡 1. Connaître et comprendre la République](SCR_REV_T1_CH01_ACC)
+2. [🏡 2. La devise de la République française](SCR_REV_T1_CH02_ACC)
+3. [🏡 3. Les symboles de la République française](SCR_REV_T1_CH03_ACC)
+4. [🏡 4. La laïcité](SCR_REV_T1_CH04_ACC)
+5. [🏡 5. La langue de la République](SCR_REV_T1_CH05_ACC)
+6. [🏡 6. Le contrat d'engagement à respecter les principes de la République](SCR_REV_T1_CH06_ACC)
 7. [📚 Retour aux thématiques](SCR_REV_MENU)
 8. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -310,7 +310,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T1_CH01_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T1_CH01_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -331,7 +331,7 @@ Qui possède la souveraineté nationale en France ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -382,7 +382,7 @@ Le peuple.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -399,7 +399,7 @@ Par quels moyens le peuple exerce-t-il la souveraineté nationale ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -450,7 +450,7 @@ Par ses représentants et par la voie du référendum.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -469,7 +469,7 @@ Complète la phrase :
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -520,7 +520,7 @@ Indivisible, laïque, démocratique et sociale.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -860,7 +860,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T1_CH02_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T1_CH02_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -881,7 +881,7 @@ Quelle est la devise officielle de la République française ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -932,7 +932,7 @@ Liberté, égalité, fraternité
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -949,7 +949,7 @@ Que signifie l'égalité devant la loi ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1000,7 +1000,7 @@ L'égalité devant la loi signifie que **la loi est la même pour tous.**
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1017,7 +1017,7 @@ Que signifie le principe d'égalité dans la devise républicaine ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1068,7 +1068,7 @@ La loi doit s'appliquer de la même manière à toutes les personnes, sans discr
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1397,7 +1397,7 @@ Vous allez répondre à **4 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T1_CH03_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T1_CH03_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -1418,7 +1418,7 @@ Quelles sont les couleurs du drapeau français ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1469,7 +1469,7 @@ Bleu, blanc et rouge.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1486,7 +1486,7 @@ Qu'est-ce que la Marseillaise ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1537,7 +1537,7 @@ La Marseillaise est l'hymne national français.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1554,7 +1554,7 @@ Pourquoi célèbre-t-on le 14 juillet ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1605,7 +1605,7 @@ Le 14 juillet est la fête nationale française. Il commémore notamment la pris
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1622,7 +1622,7 @@ Le coq est-il un symbole officiel de la République ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -1673,7 +1673,7 @@ Non. Le coq est un emblème traditionnel, mais il n'est pas un symbole officiel 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2015,7 +2015,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T1_CH04_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T1_CH04_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -2036,7 +2036,7 @@ Quelle est la grande loi adoptée en 1905 ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2087,7 +2087,7 @@ La séparation des Églises et de l'État.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2104,7 +2104,7 @@ Qui est soumis à l'obligation de neutralité dans les services publics ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2155,7 +2155,7 @@ L'obligation de neutralité dans les services publics s'impose à tous les agent
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2172,7 +2172,7 @@ Le blasphème est-il interdit en France ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2223,7 +2223,7 @@ En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun déli
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2446,7 +2446,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T1_CH05_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T1_CH05_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -2467,7 +2467,7 @@ Quelle est la langue officielle de la République française ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2518,7 +2518,7 @@ Le français est la langue officielle de la France depuis 1992.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2535,7 +2535,7 @@ Dans quel texte la langue française est-elle officialisée ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2586,7 +2586,7 @@ L'article 2 de la Constitution a officialisé le français comme langue de la R�
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2603,7 +2603,7 @@ Peut-on parler une autre langue dans sa vie privée ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2654,7 +2654,7 @@ La France n'interdit pas de parler une autre langue sur son territoire et dans s
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2890,7 +2890,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T1_CH06_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T1_CH06_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -2911,7 +2911,7 @@ Citez trois des sept principes contenus dans le contrat.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2962,7 +2962,7 @@ Il fallait citer au moins trois principes parmi : la liberté personnelle ; la l
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -2979,7 +2979,7 @@ Que peut-il se passer si une personne refuse de signer ce contrat ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3030,7 +3030,7 @@ Le refus de signer le contrat peut entraîner le refus de délivrance ou le retr
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3047,7 +3047,7 @@ Le refus de signer le contrat peut entraîner le refus de délivrance ou le retr
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3098,7 +3098,7 @@ Il formalise l'engagement de respecter les principes et les valeurs de la Répub
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T1_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T1_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3119,10 +3119,10 @@ Bravo ! Vous avez terminé le chapitre 6 et vous avez vérifié vos connaissance
 
 Choisissez un chapitre à réviser.
 
-1. [1. État de droit et séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
-2. [2. Démocratie et droit de vote](SCR_REV_T2_CH02_ACC)
-3. [3. Organisation de la République française](SCR_REV_T2_CH03_ACC)
-4. [4. Les institutions européennes](SCR_REV_T2_CH04_ACC)
+1. [🏡 1. État de droit et séparation des pouvoirs](SCR_REV_T2_CH01_ACC)
+2. [🏡 2. Démocratie et droit de vote](SCR_REV_T2_CH02_ACC)
+3. [🏡 3. Organisation de la République française](SCR_REV_T2_CH03_ACC)
+4. [🏡 4. Les institutions européennes](SCR_REV_T2_CH04_ACC)
 5. [📚 Retour aux thématiques](SCR_REV_MENU)
 6. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -3375,7 +3375,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T2_CH01_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T2_CH01_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T2_CH01_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -3396,7 +3396,7 @@ Quels sont les trois pouvoirs qui permettent de garantir l'équilibre de la dém
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3459,7 +3459,7 @@ Les trois pouvoirs sont :
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3476,7 +3476,7 @@ Quels sont les trois pouvoirs séparés dans une démocratie ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3527,7 +3527,7 @@ Les pouvoirs législatif, exécutif et judiciaire.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3544,7 +3544,7 @@ Pourquoi la justice doit-elle être indépendante ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3595,7 +3595,7 @@ Elle doit juger impartialement, sans pression du pouvoir politique.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -3951,7 +3951,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T2_CH02_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T2_CH02_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T2_CH02_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -3972,7 +3972,7 @@ Quelles sont les quatre conditions principales pour pouvoir voter en France ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4023,7 +4023,7 @@ Il faut avoir au moins 18 ans, avoir la nationalité française, être inscrit s
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4040,7 +4040,7 @@ Quelles conditions principales faut-il remplir pour voter en France ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4091,7 +4091,7 @@ Il faut notamment avoir 18 ans, être français, jouir de ses droits civils et p
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4108,7 +4108,7 @@ Pourquoi le vote est-il secret ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4159,7 +4159,7 @@ Le secret du vote permet à chacun de choisir librement, sans pression.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4532,7 +4532,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T2_CH03_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T2_CH03_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T2_CH03_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -4553,7 +4553,7 @@ Quels sont les trois principaux niveaux de collectivités territoriales en Franc
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4616,7 +4616,7 @@ Les trois niveaux sont :
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4633,7 +4633,7 @@ Quel est le rôle principal d'une commune ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4684,7 +4684,7 @@ La commune gère des services publics locaux proches des habitants, sous l'autor
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4701,7 +4701,7 @@ La commune gère des services publics locaux proches des habitants, sous l'autor
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -4752,7 +4752,7 @@ Les départements agissent notamment dans la solidarité et les collèges ; les 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5096,7 +5096,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T2_CH04_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T2_CH04_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T2_CH04_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -5117,7 +5117,7 @@ Quelle institution européenne est élue directement par les citoyens européens
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5168,7 +5168,7 @@ Le Parlement européen.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5185,7 +5185,7 @@ Quel est le rôle du Parlement européen ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5236,7 +5236,7 @@ Le Parlement européen vote les textes européens avec le Conseil de l'Union eur
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5253,7 +5253,7 @@ Quel est le rôle de la Commission européenne ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5304,7 +5304,7 @@ La Commission propose des textes européens et veille à l'application du droit 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T2_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T2_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5325,8 +5325,8 @@ Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
 
 Choisissez un chapitre à réviser.
 
-1. [1. Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
-2. [2. Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
+1. [🏡 1. Les droits fondamentaux](SCR_REV_T3_CH01_ACC)
+2. [🏡 2. Les obligations et les devoirs](SCR_REV_T3_CH02_ACC)
 3. [📚 Retour aux thématiques](SCR_REV_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -5571,7 +5571,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T3_CH01_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T3_CH01_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -5592,7 +5592,7 @@ Quels sont les trois principaux textes qui protègent les droits fondamentaux en
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5643,7 +5643,7 @@ Les trois textes attendus sont la Constitution, la Déclaration des droits de l�
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5660,7 +5660,7 @@ Citez deux droits fondamentaux reconnus en France.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5711,7 +5711,7 @@ Par exemple : la liberté d'expression, l'égalité, le droit à la sûreté, le
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5728,7 +5728,7 @@ Que signifie l'égalité entre les femmes et les hommes ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -5779,7 +5779,7 @@ Les femmes et les hommes ont les mêmes droits et doivent être traités sans di
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6084,7 +6084,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T3_CH02_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T3_CH02_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T3_CH02_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -6105,7 +6105,7 @@ Citez trois obligations que toute personne vivant en France doit respecter.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6156,7 +6156,7 @@ Il fallait citer au moins trois obligations, par exemple : respecter les lois ; 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6173,7 +6173,7 @@ Pourquoi faut-il payer des impôts ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6224,7 +6224,7 @@ Les impôts financent les services publics et les dépenses utiles à la collect
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6241,7 +6241,7 @@ Quels devoirs les parents ont-ils concernant l'éducation de leurs enfants ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6292,7 +6292,7 @@ Ils doivent assurer leur instruction et veiller à leur assiduité scolaire.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T3_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T3_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6313,9 +6313,9 @@ Bravo ! Vous avez terminé le chapitre et sa vérification des connaissances.
 
 Choisissez un chapitre à réviser.
 
-1. [1. Histoire de France](SCR_REV_T4_CH01_ACC)
-2. [2. Territoires et géographie de la France](SCR_REV_T4_CH02_ACC)
-3. [3. Patrimoine et culture française](SCR_REV_T4_CH03_ACC)
+1. [🏡 1. Histoire de France](SCR_REV_T4_CH01_ACC)
+2. [🏡 2. Territoires et géographie de la France](SCR_REV_T4_CH02_ACC)
+3. [🏡 3. Patrimoine et culture française](SCR_REV_T4_CH03_ACC)
 4. [📚 Retour aux thématiques](SCR_REV_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -6484,7 +6484,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T4_CH01_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T4_CH01_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -6505,7 +6505,7 @@ En quelle année débute la Révolution française ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6540,7 +6540,7 @@ La Révolution française débute en 1789.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6557,7 +6557,7 @@ En quelle année la loi de séparation des Églises et de l'État a-t-elle été
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6592,7 +6592,7 @@ La loi de séparation des Églises et de l'État a été adoptée en 1905.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6609,7 +6609,7 @@ Que se passe-t-il en 1958 dans l'histoire politique française ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6660,7 +6660,7 @@ En 1958 naît la Ve République et sa Constitution est adoptée.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6830,7 +6830,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T4_CH02_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T4_CH02_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T4_CH02_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -6851,7 +6851,7 @@ Quels sont les deux grands ensembles qui composent le territoire français ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6902,7 +6902,7 @@ La France métropolitaine et les territoires d’Outre-mer.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6919,7 +6919,7 @@ Citez un grand fleuve français.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6970,7 +6970,7 @@ Par exemple : la Seine, la Loire, la Garonne, le Rhône ou le Rhin.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -6987,7 +6987,7 @@ Où se trouvent les Alpes et les Pyrénées ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7038,7 +7038,7 @@ Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7206,7 +7206,7 @@ Vous allez répondre à **3 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T4_CH03_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T4_CH03_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -7227,7 +7227,7 @@ Quels sont les principaux éléments qui composent le patrimoine culturel franç
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7278,7 +7278,7 @@ Les monuments, les œuvres artistiques, la langue française, les traditions, la
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7295,7 +7295,7 @@ Citez deux éléments du patrimoine culturel français.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7346,7 +7346,7 @@ Par exemple : un monument, un musée, une œuvre, une tradition, la gastronomie 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7363,7 +7363,7 @@ Quel est le rôle de l'UNESCO pour le patrimoine ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7414,7 +7414,7 @@ L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'u
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T4_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T4_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7435,10 +7435,10 @@ Bravo ! Vous avez terminé le chapitre 3 et vous avez vérifié vos connaissance
 
 Choisissez un chapitre à réviser.
 
-1. [1. Les démarches administratives](SCR_REV_T5_CH01_ACC)
-2. [2. La santé](SCR_REV_T5_CH02_ACC)
-3. [3. L'emploi](SCR_REV_T5_CH03_ACC)
-4. [4. La parentalité](SCR_REV_T5_CH04_ACC)
+1. [🏡 1. Les démarches administratives](SCR_REV_T5_CH01_ACC)
+2. [🏡 2. La santé](SCR_REV_T5_CH02_ACC)
+3. [🏡 3. L'emploi](SCR_REV_T5_CH03_ACC)
+4. [🏡 4. La parentalité](SCR_REV_T5_CH04_ACC)
 5. [📚 Retour aux thématiques](SCR_REV_MENU)
 6. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -7614,7 +7614,7 @@ Vous allez répondre à **4 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T5_CH01_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T5_CH01_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -7635,7 +7635,7 @@ Pourquoi est-il important d'avoir une domiciliation ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7686,7 +7686,7 @@ La domiciliation donne une adresse administrative pour recevoir son courrier et 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7703,7 +7703,7 @@ Quels documents sont généralement nécessaires pour ouvrir un compte bancaire 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7754,7 +7754,7 @@ Une pièce d'identité et un justificatif de domicile sont généralement demand
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7771,7 +7771,7 @@ Une pièce d'identité et un justificatif de domicile sont généralement demand
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7822,7 +7822,7 @@ Il permet à une personne étrangère d'habiter ou de vivre légalement en Franc
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7839,7 +7839,7 @@ Il permet à une personne étrangère d'habiter ou de vivre légalement en Franc
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -7890,7 +7890,7 @@ Il décrit l'état du logement à l'entrée et à la sortie afin de limiter les 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8072,7 +8072,7 @@ Vous allez répondre à **4 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T5_CH02_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T5_CH02_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -8093,7 +8093,7 @@ Quel est le rôle du médecin traitant ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8144,7 +8144,7 @@ Il assure le suivi médical habituel et oriente si nécessaire vers un spéciali
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8161,7 +8161,7 @@ Il assure le suivi médical habituel et oriente si nécessaire vers un spéciali
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8212,7 +8212,7 @@ Elle transmet les informations utiles à l'Assurance Maladie et facilite le remb
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8229,7 +8229,7 @@ Quel numéro appeler en cas d'urgence médicale grave ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8264,7 +8264,7 @@ En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8281,7 +8281,7 @@ Quelle différence y a-t-il entre l'Assurance Maladie et une mutuelle ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8332,7 +8332,7 @@ L'Assurance Maladie rembourse une part des soins ; la mutuelle peut compléter c
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8523,7 +8523,7 @@ Vous allez répondre à **4 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T5_CH03_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T5_CH03_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -8544,7 +8544,7 @@ Quel est le rôle de France Travail ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8595,7 +8595,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi, leur orien
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8612,7 +8612,7 @@ Quels éléments essentiels figurent sur un bulletin de salaire ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8663,7 +8663,7 @@ Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisatio
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8680,7 +8680,7 @@ Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisatio
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8731,7 +8731,7 @@ Il précise l'emploi, la rémunération, la durée du travail et les obligations
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8748,7 +8748,7 @@ Que doit faire un salarié en cas d'absence pour maladie ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8799,7 +8799,7 @@ Il doit prévenir rapidement son employeur et transmettre l'arrêt de travail da
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -8985,7 +8985,7 @@ Vous allez répondre à **4 questions**, l’une après l’autre.
 
 Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
 
-1. [Commencer](SCR_REV_T5_CH04_VERIF_Q01)
+1. [🏡 Commencer](SCR_REV_T5_CH04_VERIF_Q01)
 2. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
@@ -9006,7 +9006,7 @@ Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresse
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -9041,7 +9041,7 @@ L'instruction est obligatoire à partir de 3 ans.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -9058,7 +9058,7 @@ Quel est le rôle principal de l'école maternelle ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -9109,7 +9109,7 @@ L'école maternelle développe le langage, la socialisation et les premiers appr
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -9126,7 +9126,7 @@ Que doivent faire les parents en cas d'absence de leur enfant ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -9177,7 +9177,7 @@ Ils doivent prévenir l'établissement et justifier l'absence.
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -9194,7 +9194,7 @@ Que signifie l'autorité parentale ?
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -9245,7 +9245,7 @@ Les parents doivent protéger l'enfant, assurer son éducation et prendre les d�
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
 
 
-1. [↩️ Retour au menu du module](SCR_REV_T5_MENU)
+1. [🏡 ↩️ Retour au menu du module](SCR_REV_T5_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
