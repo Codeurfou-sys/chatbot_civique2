@@ -488496,7 +488496,7 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-08-31T09:48:52+00:00 -->
+<!-- Date : 2026-10-04T09:51:31+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
@@ -488507,16 +488507,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 18 septembre 2026
 - 16 octobre 2026
 - 27 novembre 2026
+- 11 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -488525,14 +488525,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_ANNEMASSE
 ### 📍 Annemasse (74)
@@ -488543,16 +488535,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
 - 28 octobre 2026
 - 25 novembre 2026
+- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -488561,14 +488553,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_AUXERRE
 ### 📍 Auxerre (89)
@@ -488579,16 +488563,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 16 septembre 2026
 - 16 octobre 2026
 - 18 novembre 2026
+- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 5 session(s) future(s) dans la source -->
@@ -488597,14 +488581,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_BESANCON
 ### 📍 Besançon (25)
@@ -488615,16 +488591,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
-- 16 octobre 2026
 - 29 octobre 2026
+- 4 novembre 2026
+- 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 9 session(s) future(s) dans la source -->
@@ -488633,14 +488609,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_BOURG_EN_BRESSE
 ### 📍 Bourg-en-Bresse (01)
@@ -488651,16 +488619,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 25 septembre 2026
 - 23 octobre 2026
 - 20 novembre 2026
+- 17 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -488669,14 +488637,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_BOURGES
 ### 📍 Bourges (18)
@@ -488687,16 +488647,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 22 septembre 2026
 - 6 octobre 2026
 - 10 novembre 2026
+- 8 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUM09TTktYSFJMSUc4T0lUMUdSRDA5Ukw2RSQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_CHER)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_CHER)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -488705,14 +488665,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_CHAUMONT
 ### 📍 Chaumont (52)
@@ -488723,7 +488675,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 9 septembre 2026
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
@@ -488731,7 +488682,7 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/cigogne.svg" alt="" width="30" height="24"> Grand Est](SCR_PASS_REGION_GRAND_EST)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
@@ -488740,14 +488691,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_CLERMONT_FERRAND
 ### 📍 Clermont-Ferrand (63)
@@ -488758,16 +488701,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 9 septembre 2026
-- 23 septembre 2026
-- 7 octobre 2026
+- 21 octobre 2026
+- 4 novembre 2026
+- 25 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [🌋 Auvergne](SCR_PASS_REGION_AUVERGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 7 session(s) future(s) dans la source -->
@@ -488776,14 +488719,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_DIJON
 ### Dijon (21)
@@ -488794,16 +488729,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 7 septembre 2026
 - 12 octobre 2026
 - 9 novembre 2026
+- 7 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 5 session(s) future(s) dans la source -->
@@ -488812,14 +488747,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_LE_PUY_EN_VELAY
 ### 📍 Le Puy-en-Velay (43)
@@ -488830,16 +488757,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 septembre 2026
 - 21 octobre 2026
 - 25 novembre 2026
+- 9 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [🌋 Auvergne](SCR_PASS_REGION_AUVERGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -488848,14 +488775,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_LONS_LE_SAUNIER
 ### 📍 Lons-le-Saunier (39)
@@ -488866,16 +488785,15 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 9 septembre 2026
-- 8 octobre 2026
 - 13 novembre 2026
+- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -488884,14 +488802,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_MONTBELIARD
 ### 📍 Montbéliard (25)
@@ -488902,16 +488812,15 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 2 septembre 2026
-- 7 octobre 2026
 - 4 novembre 2026
+- 2 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_FRANCHE_COMTE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -488920,14 +488829,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_MONTCEAU_LES_MINES
 ### 📍 Montceau-les-Mines (71)
@@ -488945,8 +488846,8 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 3 session(s) future(s) dans la source -->
@@ -488955,14 +488856,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_MULHOUSE
 ### 📍 Mulhouse (68)
@@ -488973,16 +488866,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 7 septembre 2026
-- 21 septembre 2026
-- 8 octobre 2026
+- 23 octobre 2026
+- 5 novembre 2026
+- 19 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/cigogne.svg" alt="" width="30" height="24"> Grand Est](SCR_PASS_REGION_GRAND_EST)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 7 session(s) future(s) dans la source -->
@@ -488991,14 +488884,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_MACON
 ### 📍 Mâcon (71)
@@ -489009,7 +488894,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 17 septembre 2026
 - 16 octobre 2026
 - 17 novembre 2026
 
@@ -489017,8 +488901,8 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
@@ -489027,14 +488911,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_NEVERS
 ### 📍 Nevers (58)
@@ -489045,16 +488921,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 15 septembre 2026
 - 13 octobre 2026
 - 17 novembre 2026
+- 15 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -489063,14 +488939,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_REIMS
 ### 📍 Reims (51)
@@ -489081,16 +488949,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 septembre 2026
-- 7 octobre 2026
 - 28 octobre 2026
+- 18 novembre 2026
+- 2 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/cigogne.svg" alt="" width="30" height="24"> Grand Est](SCR_PASS_REGION_GRAND_EST)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
@@ -489099,14 +488967,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_SAINT_DIE_DES_VOSGES
 ### 📍 Saint-Dié-des-Vosges (88)
@@ -489117,7 +488977,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 24 septembre 2026
 - 22 octobre 2026
 - 26 novembre 2026
 
@@ -489126,7 +488985,7 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/cigogne.svg" alt="" width="30" height="24"> Grand Est](SCR_PASS_REGION_GRAND_EST)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 3 session(s) future(s) dans la source -->
@@ -489135,14 +488994,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_SAINT_FLOUR
 ### 📍 Saint-Flour (15)
@@ -489153,7 +489004,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 16 septembre 2026
 - 18 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
@@ -489161,7 +489011,7 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
   <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [🌋 Auvergne](SCR_PASS_REGION_AUVERGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 2 session(s) future(s) dans la source -->
@@ -489170,14 +489020,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_SENS
 ### 📍 Sens (89)
@@ -489188,16 +489030,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 22 septembre 2026
 - 20 octobre 2026
 - 17 novembre 2026
+- 15 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_BOURGOGNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -489206,14 +489048,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_STRASBOURG
 ### 📍 Strasbourg (67)
@@ -489224,16 +489058,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 9 septembre 2026
-- 30 septembre 2026
 - 22 octobre 2026
+- 6 novembre 2026
+- 27 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/cigogne.svg" alt="" width="30" height="24"> Grand Est](SCR_PASS_REGION_GRAND_EST)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
@@ -489242,14 +489076,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_TROYES
 ### 📍 Troyes (10)
@@ -489260,16 +489086,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
 - 21 octobre 2026
 - 4 novembre 2026
+- 25 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/cigogne.svg" alt="" width="30" height="24"> Grand Est](SCR_PASS_REGION_GRAND_EST)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 6 session(s) future(s) dans la source -->
@@ -489278,14 +489104,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_VALSERHONE
 ### 📍 Valserhône (01)
@@ -489296,16 +489114,15 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 23 septembre 2026
-- 21 octobre 2026
 - 18 novembre 2026
+- 9 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMFVWWUZUWDBIV1FOT0xTTU5LTUdKVVlPQiQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
-2. [➡️ Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+2. [📍 Voir un autre centre de la région](SCR_PASS_REGION_RHONE_ALPES)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -489314,14 +489131,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_CITY_VICHY
 ### 📍 Vichy (03)
@@ -489332,16 +489141,16 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 #### 📅 Prochaines sessions disponibles
 
-- 30 septembre 2026
 - 28 octobre 2026
 - 18 novembre 2026
+- 16 décembre 2026
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
   <li><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl" target="_blank" rel="noopener noreferrer">📝 S’inscrire à une session</a></li>
 </ul>
 2. [🌋 Auvergne](SCR_PASS_REGION_AUVERGNE)
-3. [➡️ Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
+3. [📍 Trouver les centres proches de moi](SCR_PASS_INPUT_COMMUNE)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
 <!-- 4 session(s) future(s) dans la source -->
@@ -489350,14 +489159,6 @@ Pour la série de 10 questions sur ce thème : visez **6/10**, puis **8/10 à de
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_INFO_MENU
 ### ❓ Questions sur l’examen civique
@@ -489378,14 +489179,6 @@ Choisissez votre question. Chaque réponse vous donne les repères essentiels et
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_INFO_HELP
 ### 🤖 Comment le chatbot peut-il m’aider ?
@@ -489410,14 +489203,6 @@ Le chatbot vous accompagne à chaque étape de votre préparation :
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_PASS_INFO_MATCH
 ### 🪪 Quel examen correspond à ma situation ?
 
@@ -489438,14 +489223,6 @@ Choisissez dans le chatbot le même parcours que celui indiqué pour votre déma
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_INFO_FORMAT
 ### ⏱️ Comment se présente l’examen ?
@@ -489473,14 +489250,6 @@ Vous disposez en moyenne d’un peu plus d’une minute par question. Si vous h�
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_PASS_INFO_REMEMBER
 ### ⭐ Les informations essentielles à retenir
 
@@ -489506,14 +489275,6 @@ L’épreuve porte sur cinq thèmes civiques et associe connaissances et situati
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_PASS_INFO_WHY
 ### 🎯 Pourquoi un examen civique ?
 
@@ -489532,14 +489293,6 @@ Il ne s’agit pas seulement de mémoriser des dates ou des définitions. Vous d
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_INFO_PREP
 ### 🧠 Comment préparer l’examen ?
@@ -489567,14 +489320,6 @@ Travaillez par séances courtes et régulières. Lorsque vous obtenez des résul
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_PASS_INFO_CONCERNE
 ### 👤 Suis-je concerné ?
 
@@ -489597,14 +489342,6 @@ Votre situation administrative peut comporter des particularités. Vérifiez les
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_INFO_THEMES
 ### 📚 Quelles sont les cinq thématiques ?
@@ -489631,14 +489368,6 @@ Révisez un thème à la fois, puis vérifiez vos acquis avec un entraînement c
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_PASS_REGISTER
 ### S’inscrire à l’examen
 
@@ -489652,14 +489381,6 @@ Cliquez sur le lien Forms pour vous inscrire à une session dans la région choi
 1. [↩️ Retour au menu du module](SCR_PASS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_REGIONS
 ### 🗺️ Choisir une région
@@ -489680,14 +489401,6 @@ Sélectionnez une région pour consulter ses centres et leurs prochaines dates d
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_PASS_MENU
 ### 🏛️ S’inscrire à l’examen civique
 
@@ -489707,14 +489420,6 @@ Retrouvez les réponses à vos questions, choisissez un centre et accédez au fo
 <!-- Écran d’entrée -->
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
-
-
-
-
-
-
-
-
 
 
 ## SCR_PASS_SEARCH_MENU
@@ -489739,14 +489444,6 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_INPUT_COMMUNE
 ### 🧭 Centres proches de chez moi
@@ -489774,14 +489471,6 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_PASS_REGION_AUVERGNE
 ### ⛰️ Auvergne
 
@@ -489789,25 +489478,17 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 4 centres de la région -->
 
-1. [➡️ Clermont-Ferrand (63)](SCR_PASS_CITY_CLERMONT_FERRAND)
-2. [➡️ Le Puy-en-Velay (43)](SCR_PASS_CITY_LE_PUY_EN_VELAY)
+1. [📍 Clermont-Ferrand (63)](SCR_PASS_CITY_CLERMONT_FERRAND)
+2. [📍 Le Puy-en-Velay (43)](SCR_PASS_CITY_LE_PUY_EN_VELAY)
 3. [🟡 Saint-Flour (15)](SCR_PASS_CITY_SAINT_FLOUR)
-4. [➡️ Vichy (03)](SCR_PASS_CITY_VICHY)
-5. [➡️ Choisir une autre région](SCR_PASS_REGIONS)
+4. [📍 Vichy (03)](SCR_PASS_CITY_VICHY)
+5. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 6. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_REGION_BOURGOGNE
 ### 🍇 Bourgogne
@@ -489816,27 +489497,19 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 6 centres de la région -->
 
-1. [➡️ Auxerre (89)](SCR_PASS_CITY_AUXERRE)
-2. [➡️ Dijon (21)](SCR_PASS_CITY_DIJON)
-3. [➡️ Mâcon (71)](SCR_PASS_CITY_MACON)
-4. [➡️ Montceau-les-Mines (71)](SCR_PASS_CITY_MONTCEAU_LES_MINES)
-5. [➡️ Nevers (58)](SCR_PASS_CITY_NEVERS)
-6. [➡️ Sens (89)](SCR_PASS_CITY_SENS)
-7. [➡️ Choisir une autre région](SCR_PASS_REGIONS)
+1. [📍 Auxerre (89)](SCR_PASS_CITY_AUXERRE)
+2. [📍 Dijon (21)](SCR_PASS_CITY_DIJON)
+3. [📍 Mâcon (71)](SCR_PASS_CITY_MACON)
+4. [📍 Montceau-les-Mines (71)](SCR_PASS_CITY_MONTCEAU_LES_MINES)
+5. [📍 Nevers (58)](SCR_PASS_CITY_NEVERS)
+6. [📍 Sens (89)](SCR_PASS_CITY_SENS)
+7. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 8. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_REGION_CHER
 ### 🌿 Cher
@@ -489845,22 +489518,14 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 1 centres de la région -->
 
-1. [➡️ Bourges (18)](SCR_PASS_CITY_BOURGES)
-2. [➡️ Choisir une autre région](SCR_PASS_REGIONS)
+1. [📍 Bourges (18)](SCR_PASS_CITY_BOURGES)
+2. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 3. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_REGION_FRANCHE_COMTE
 ### 🌲 Franche-Comté
@@ -489869,24 +489534,16 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 3 centres de la région -->
 
-1. [➡️ Besançon (25)](SCR_PASS_CITY_BESANCON)
-2. [➡️ Lons-le-Saunier (39)](SCR_PASS_CITY_LONS_LE_SAUNIER)
-3. [➡️ Montbéliard (25)](SCR_PASS_CITY_MONTBELIARD)
-4. [➡️ Choisir une autre région](SCR_PASS_REGIONS)
+1. [📍 Besançon (25)](SCR_PASS_CITY_BESANCON)
+2. [📍 Lons-le-Saunier (39)](SCR_PASS_CITY_LONS_LE_SAUNIER)
+3. [📍 Montbéliard (25)](SCR_PASS_CITY_MONTBELIARD)
+4. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 5. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_REGION_GRAND_EST
 ### 🏰 Grand Est
@@ -489895,27 +489552,19 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 6 centres de la région -->
 
-1. [➡️ Chaumont (52)](SCR_PASS_CITY_CHAUMONT)
-2. [➡️ Mulhouse (68)](SCR_PASS_CITY_MULHOUSE)
-3. [➡️ Reims (51)](SCR_PASS_CITY_REIMS)
+1. [📍 Chaumont (52)](SCR_PASS_CITY_CHAUMONT)
+2. [📍 Mulhouse (68)](SCR_PASS_CITY_MULHOUSE)
+3. [📍 Reims (51)](SCR_PASS_CITY_REIMS)
 4. [🟡 Saint-Dié-des-Vosges (88)](SCR_PASS_CITY_SAINT_DIE_DES_VOSGES)
-5. [➡️ Strasbourg (67)](SCR_PASS_CITY_STRASBOURG)
-6. [➡️ Troyes (10)](SCR_PASS_CITY_TROYES)
-7. [➡️ Choisir une autre région](SCR_PASS_REGIONS)
+5. [📍 Strasbourg (67)](SCR_PASS_CITY_STRASBOURG)
+6. [📚 Troyes (10)](SCR_PASS_CITY_TROYES)
+7. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 8. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_PASS_REGION_RHONE_ALPES
 ### 🏔️ Rhône-Alpes
@@ -489924,11 +489573,11 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 <!-- Règle métier : Afficher les 4 centres de la région -->
 
-1. [➡️ Annemasse (74)](SCR_PASS_CITY_ANNEMASSE)
-2. [➡️ Annecy (74)](SCR_PASS_CITY_ANNECY)
-3. [➡️ Bourg-en-Bresse (01)](SCR_PASS_CITY_BOURG_EN_BRESSE)
-4. [➡️ Valserhône (01)](SCR_PASS_CITY_VALSERHONE)
-5. [➡️ Choisir une autre région](SCR_PASS_REGIONS)
+1. [📍 Annemasse (74)](SCR_PASS_CITY_ANNEMASSE)
+2. [📍 Annecy (74)](SCR_PASS_CITY_ANNECY)
+3. [📍 Bourg-en-Bresse (01)](SCR_PASS_CITY_BOURG_EN_BRESSE)
+4. [📍 Valserhône (01)](SCR_PASS_CITY_VALSERHONE)
+5. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 6. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
