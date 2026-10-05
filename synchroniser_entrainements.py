@@ -32,7 +32,7 @@ def generate():
      s=str(r['Difficulté']).lower();return abs((0 if 'facile' in s else 1 if 'interm' in s else 2)-target)
     pool.sort(key=rank)
    assert len(pool)>=n,(e,t,n,len(pool));return pool[:n]
-  routes=[(f'T{t}_{k}',k,t,None) for k in ('Q','MIS') for t in T]+[(f'ALL_{k}',k,None,None) for k in ('Q','MIS')]+[(f'LVL_{l}','MIX',None,l) for l in L]
+  routes=[(f'T{t}_Q_DIF','Q',t,'DIF') for t in T]+[(f'T{t}_{k}',k,t,None) for k in ('Q','MIS') for t in T]+[(f'ALL_{k}',k,None,None) for k in ('Q','MIS')]+[(f'LVL_{l}','MIX',None,l) for l in L]
   for route,typ,theme,level in routes:
    base=f'ENT_{e}_{route}';launch=f'SCR_ENT_{e}_{route}_LAUNCH';start=launch+'_START';n=15 if typ=='MIX' else 10;parent='SCR_ENT_LEVEL_'+e if typ=='MIX' else f'SCR_ENT_{e}_{typ}_MENU'
    add(launch,f'### {label} — '+(L[level] if level else T.get(theme,'Toutes les thématiques'))+f'\n\nVous allez répondre à **{n} questions**, avec une correction après chaque réponse.\n\n'+(W+'\n\n' if typ!='Q' else '')+link('▶️ Démarrer l’entraînement',start),parent)
@@ -40,7 +40,7 @@ def generate():
    for v in range(1,11):
     rng=random.Random(f'{e}/{route}/{v}')
     if typ=='MIX':rows=[(r,False) for t in T for r in pick(q,t,2,level,rng)]+[(r,True) for t in T for r in pick(ms,t,1,level,rng)]
-    else:rows=[(r,typ=='MIS') for t in ([theme] if theme else T) for r in pick(ms if typ=='MIS' else q,t,10 if theme else 2,None,rng)]
+    else:rows=[(r,typ=='MIS') for t in ([theme] if theme else T) for r in pick(ms if typ=='MIS' else q,t,10 if theme else 2,level,rng)]
     assert len({r['ID'] for r,s in rows})==n
     result=f'{base}_V{v:02d}_RESULT'
     for num,(r,sit) in enumerate(rows,1):

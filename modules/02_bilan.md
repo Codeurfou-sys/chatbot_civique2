@@ -532,91 +532,98 @@ Prenez le temps de lire chaque proposition. Une seule réponse est attendue par 
 `@parcoursT5 = calc(@score_t5)`
 `@parcoursRun = calc(@bilRun)`
 `endif`
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
+
 ### 📊 Votre bilan est terminé
 
-**Votre score : `@score`/25**
+**Votre score : `@bilanViewScore`/25**
 
-`if @score == 0`
+`if @bilanViewScore == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/25 · 0 %</span></div>
 `endif`
-`if @score == 1`
+`if @bilanViewScore == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1"><span style="width:4%"></span></div><span class="civi-progress-label">1/25 · 4 %</span></div>
 `endif`
-`if @score == 2`
+`if @bilanViewScore == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="2"><span style="width:8%"></span></div><span class="civi-progress-label">2/25 · 8 %</span></div>
 `endif`
-`if @score == 3`
+`if @bilanViewScore == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="3"><span style="width:12%"></span></div><span class="civi-progress-label">3/25 · 12 %</span></div>
 `endif`
-`if @score == 4`
+`if @bilanViewScore == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="4"><span style="width:16%"></span></div><span class="civi-progress-label">4/25 · 16 %</span></div>
 `endif`
-`if @score == 5`
+`if @bilanViewScore == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="5"><span style="width:20%"></span></div><span class="civi-progress-label">5/25 · 20 %</span></div>
 `endif`
-`if @score == 6`
+`if @bilanViewScore == 6`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="6"><span style="width:24%"></span></div><span class="civi-progress-label">6/25 · 24 %</span></div>
 `endif`
-`if @score == 7`
+`if @bilanViewScore == 7`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="7"><span style="width:28%"></span></div><span class="civi-progress-label">7/25 · 28 %</span></div>
 `endif`
-`if @score == 8`
+`if @bilanViewScore == 8`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="8"><span style="width:32%"></span></div><span class="civi-progress-label">8/25 · 32 %</span></div>
 `endif`
-`if @score == 9`
+`if @bilanViewScore == 9`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="9"><span style="width:36%"></span></div><span class="civi-progress-label">9/25 · 36 %</span></div>
 `endif`
-`if @score == 10`
+`if @bilanViewScore == 10`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="10"><span style="width:40%"></span></div><span class="civi-progress-label">10/25 · 40 %</span></div>
 `endif`
-`if @score == 11`
+`if @bilanViewScore == 11`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="11"><span style="width:44%"></span></div><span class="civi-progress-label">11/25 · 44 %</span></div>
 `endif`
-`if @score == 12`
+`if @bilanViewScore == 12`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="12"><span style="width:48%"></span></div><span class="civi-progress-label">12/25 · 48 %</span></div>
 `endif`
-`if @score == 13`
+`if @bilanViewScore == 13`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="13"><span style="width:52%"></span></div><span class="civi-progress-label">13/25 · 52 %</span></div>
 `endif`
-`if @score == 14`
+`if @bilanViewScore == 14`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="14"><span style="width:56%"></span></div><span class="civi-progress-label">14/25 · 56 %</span></div>
 `endif`
-`if @score == 15`
+`if @bilanViewScore == 15`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="15"><span style="width:60%"></span></div><span class="civi-progress-label">15/25 · 60 %</span></div>
 `endif`
-`if @score == 16`
+`if @bilanViewScore == 16`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="16"><span style="width:64%"></span></div><span class="civi-progress-label">16/25 · 64 %</span></div>
 `endif`
-`if @score == 17`
+`if @bilanViewScore == 17`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="17"><span style="width:68%"></span></div><span class="civi-progress-label">17/25 · 68 %</span></div>
 `endif`
-`if @score == 18`
+`if @bilanViewScore == 18`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="18"><span style="width:72%"></span></div><span class="civi-progress-label">18/25 · 72 %</span></div>
 `endif`
-`if @score == 19`
+`if @bilanViewScore == 19`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="19"><span style="width:76%"></span></div><span class="civi-progress-label">19/25 · 76 %</span></div>
 `endif`
-`if @score == 20`
+`if @bilanViewScore == 20`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="20"><span style="width:80%"></span></div><span class="civi-progress-label">20/25 · 80 %</span></div>
 `endif`
-`if @score == 21`
+`if @bilanViewScore == 21`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="21"><span style="width:84%"></span></div><span class="civi-progress-label">21/25 · 84 %</span></div>
 `endif`
-`if @score == 22`
+`if @bilanViewScore == 22`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="22"><span style="width:88%"></span></div><span class="civi-progress-label">22/25 · 88 %</span></div>
 `endif`
-`if @score == 23`
+`if @bilanViewScore == 23`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="23"><span style="width:92%"></span></div><span class="civi-progress-label">23/25 · 92 %</span></div>
 `endif`
-`if @score == 24`
+`if @bilanViewScore == 24`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="24"><span style="width:96%"></span></div><span class="civi-progress-label">24/25 · 96 %</span></div>
 `endif`
-`if @score == 25`
+`if @bilanViewScore == 25`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="25"><span style="width:100%"></span></div><span class="civi-progress-label">25/25 · 100 %</span></div>
 `endif`
 
 `if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
-`@evolution = calc(@score-@score_precedent)`
+`@evolution = calc(@bilanViewScore-@score_precedent)`
 Votre score précédent était de **`@score_precedent`/25**.
 `if @evolution > 0`
 📈 Vous avez gagné **`@evolution` point(s)**. Votre travail porte ses fruits.
@@ -632,15 +639,15 @@ Cette série met en évidence des notions à consolider. Comparez vos erreurs av
 Notez ce nouveau score : il servira de référence pour votre prochain bilan.
 `endif`
 
-`if @score <= 9`
+`if @bilanViewScore <= 9`
 Vous avez identifié vos premières connaissances. Commencez par les thématiques classées en priorité très haute et avancez par petites séances régulières.
 `endif`
 
-`if @score >= 10 && @score <= 19`
+`if @bilanViewScore >= 10 && @bilanViewScore <= 19`
 Vous disposez déjà de plusieurs acquis. Travaillez d’abord les notions fragiles, puis vérifiez votre progression avec un nouvel entraînement.
 `endif`
 
-`if @score >= 20`
+`if @bilanViewScore >= 20`
 Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos dernières erreurs et poursuivez avec des questions plus difficiles.
 `endif`
 
@@ -649,105 +656,111 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CSP_DEC_V01_THEMES
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 📚 Vos résultats par thématique
 
 #### Principes et valeurs de la République
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Institutions et système politique
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Droits et devoirs
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Histoire, géographie et culture
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Vivre dans la société française
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
@@ -757,262 +770,229 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CSP_DEC_V01_RECO
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 💡 Vos conseils personnalisés
 
 Les thématiques sont présentées du score le plus faible au plus élevé.
 
-1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les libertés, l’égalité, la fraternité et la laïcité : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par le rôle du président, du Gouvernement, du Parlement et des collectivités : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les droits fondamentaux et les obligations de chacun : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les repères historiques, les territoires et le patrimoine : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les démarches, la santé, le travail et l’éducation : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les libertés, l’égalité, la fraternité et la laïcité, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez le rôle du président, du Gouvernement, du Parlement et des collectivités, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les droits fondamentaux et les obligations de chacun, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les repères historiques, les territoires et le patrimoine, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les démarches, la santé, le travail et l’éducation, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les libertés, l’égalité, la fraternité et la laïcité et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les droits fondamentaux et les obligations de chacun et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les repères historiques, les territoires et le patrimoine et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les démarches, la santé, le travail et l’éducation et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les libertés, l’égalité, la fraternité et la laïcité : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez le rôle du président, du Gouvernement, du Parlement et des collectivités : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les droits fondamentaux et les obligations de chacun : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les repères historiques, les territoires et le patrimoine : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les démarches, la santé, le travail et l’éducation : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les libertés, l’égalité, la fraternité et la laïcité. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les droits fondamentaux et les obligations de chacun. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les repères historiques, les territoires et le patrimoine. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les démarches, la santé, le travail et l’éducation. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les libertés, l’égalité, la fraternité et la laïcité. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les droits fondamentaux et les obligations de chacun. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les repères historiques, les territoires et le patrimoine. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les démarches, la santé, le travail et l’éducation. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-1. [💡 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+
+
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
 1. [📊 Revoir mes résultats](BIL_CSP_DEC_V01_RESULT)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -1030,91 +1010,98 @@ Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfai
 `@parcoursT5 = calc(@score_t5)`
 `@parcoursRun = calc(@bilRun)`
 `endif`
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
+
 ### 📊 Votre bilan est terminé
 
-**Votre score : `@score`/25**
+**Votre score : `@bilanViewScore`/25**
 
-`if @score == 0`
+`if @bilanViewScore == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/25 · 0 %</span></div>
 `endif`
-`if @score == 1`
+`if @bilanViewScore == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1"><span style="width:4%"></span></div><span class="civi-progress-label">1/25 · 4 %</span></div>
 `endif`
-`if @score == 2`
+`if @bilanViewScore == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="2"><span style="width:8%"></span></div><span class="civi-progress-label">2/25 · 8 %</span></div>
 `endif`
-`if @score == 3`
+`if @bilanViewScore == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="3"><span style="width:12%"></span></div><span class="civi-progress-label">3/25 · 12 %</span></div>
 `endif`
-`if @score == 4`
+`if @bilanViewScore == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="4"><span style="width:16%"></span></div><span class="civi-progress-label">4/25 · 16 %</span></div>
 `endif`
-`if @score == 5`
+`if @bilanViewScore == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="5"><span style="width:20%"></span></div><span class="civi-progress-label">5/25 · 20 %</span></div>
 `endif`
-`if @score == 6`
+`if @bilanViewScore == 6`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="6"><span style="width:24%"></span></div><span class="civi-progress-label">6/25 · 24 %</span></div>
 `endif`
-`if @score == 7`
+`if @bilanViewScore == 7`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="7"><span style="width:28%"></span></div><span class="civi-progress-label">7/25 · 28 %</span></div>
 `endif`
-`if @score == 8`
+`if @bilanViewScore == 8`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="8"><span style="width:32%"></span></div><span class="civi-progress-label">8/25 · 32 %</span></div>
 `endif`
-`if @score == 9`
+`if @bilanViewScore == 9`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="9"><span style="width:36%"></span></div><span class="civi-progress-label">9/25 · 36 %</span></div>
 `endif`
-`if @score == 10`
+`if @bilanViewScore == 10`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="10"><span style="width:40%"></span></div><span class="civi-progress-label">10/25 · 40 %</span></div>
 `endif`
-`if @score == 11`
+`if @bilanViewScore == 11`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="11"><span style="width:44%"></span></div><span class="civi-progress-label">11/25 · 44 %</span></div>
 `endif`
-`if @score == 12`
+`if @bilanViewScore == 12`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="12"><span style="width:48%"></span></div><span class="civi-progress-label">12/25 · 48 %</span></div>
 `endif`
-`if @score == 13`
+`if @bilanViewScore == 13`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="13"><span style="width:52%"></span></div><span class="civi-progress-label">13/25 · 52 %</span></div>
 `endif`
-`if @score == 14`
+`if @bilanViewScore == 14`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="14"><span style="width:56%"></span></div><span class="civi-progress-label">14/25 · 56 %</span></div>
 `endif`
-`if @score == 15`
+`if @bilanViewScore == 15`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="15"><span style="width:60%"></span></div><span class="civi-progress-label">15/25 · 60 %</span></div>
 `endif`
-`if @score == 16`
+`if @bilanViewScore == 16`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="16"><span style="width:64%"></span></div><span class="civi-progress-label">16/25 · 64 %</span></div>
 `endif`
-`if @score == 17`
+`if @bilanViewScore == 17`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="17"><span style="width:68%"></span></div><span class="civi-progress-label">17/25 · 68 %</span></div>
 `endif`
-`if @score == 18`
+`if @bilanViewScore == 18`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="18"><span style="width:72%"></span></div><span class="civi-progress-label">18/25 · 72 %</span></div>
 `endif`
-`if @score == 19`
+`if @bilanViewScore == 19`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="19"><span style="width:76%"></span></div><span class="civi-progress-label">19/25 · 76 %</span></div>
 `endif`
-`if @score == 20`
+`if @bilanViewScore == 20`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="20"><span style="width:80%"></span></div><span class="civi-progress-label">20/25 · 80 %</span></div>
 `endif`
-`if @score == 21`
+`if @bilanViewScore == 21`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="21"><span style="width:84%"></span></div><span class="civi-progress-label">21/25 · 84 %</span></div>
 `endif`
-`if @score == 22`
+`if @bilanViewScore == 22`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="22"><span style="width:88%"></span></div><span class="civi-progress-label">22/25 · 88 %</span></div>
 `endif`
-`if @score == 23`
+`if @bilanViewScore == 23`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="23"><span style="width:92%"></span></div><span class="civi-progress-label">23/25 · 92 %</span></div>
 `endif`
-`if @score == 24`
+`if @bilanViewScore == 24`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="24"><span style="width:96%"></span></div><span class="civi-progress-label">24/25 · 96 %</span></div>
 `endif`
-`if @score == 25`
+`if @bilanViewScore == 25`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="25"><span style="width:100%"></span></div><span class="civi-progress-label">25/25 · 100 %</span></div>
 `endif`
 
 `if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
-`@evolution = calc(@score-@score_precedent)`
+`@evolution = calc(@bilanViewScore-@score_precedent)`
 Votre score précédent était de **`@score_precedent`/25**.
 `if @evolution > 0`
 📈 Vous avez gagné **`@evolution` point(s)**. Votre travail porte ses fruits.
@@ -1130,15 +1117,15 @@ Cette série met en évidence des notions à consolider. Comparez vos erreurs av
 Notez ce nouveau score : il servira de référence pour votre prochain bilan.
 `endif`
 
-`if @score <= 9`
+`if @bilanViewScore <= 9`
 Vous avez identifié vos premières connaissances. Commencez par les thématiques classées en priorité très haute et avancez par petites séances régulières.
 `endif`
 
-`if @score >= 10 && @score <= 19`
+`if @bilanViewScore >= 10 && @bilanViewScore <= 19`
 Vous disposez déjà de plusieurs acquis. Travaillez d’abord les notions fragiles, puis vérifiez votre progression avec un nouvel entraînement.
 `endif`
 
-`if @score >= 20`
+`if @bilanViewScore >= 20`
 Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos dernières erreurs et poursuivez avec des questions plus difficiles.
 `endif`
 
@@ -1147,105 +1134,111 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CSP_EQ_V01_THEMES
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 📚 Vos résultats par thématique
 
 #### Principes et valeurs de la République
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Institutions et système politique
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Droits et devoirs
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Histoire, géographie et culture
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Vivre dans la société française
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
@@ -1255,262 +1248,229 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CSP_EQ_V01_RECO
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 💡 Vos conseils personnalisés
 
 Les thématiques sont présentées du score le plus faible au plus élevé.
 
-1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les libertés, l’égalité, la fraternité et la laïcité : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par le rôle du président, du Gouvernement, du Parlement et des collectivités : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les droits fondamentaux et les obligations de chacun : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les repères historiques, les territoires et le patrimoine : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les démarches, la santé, le travail et l’éducation : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les libertés, l’égalité, la fraternité et la laïcité, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez le rôle du président, du Gouvernement, du Parlement et des collectivités, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les droits fondamentaux et les obligations de chacun, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les repères historiques, les territoires et le patrimoine, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les démarches, la santé, le travail et l’éducation, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les libertés, l’égalité, la fraternité et la laïcité et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les droits fondamentaux et les obligations de chacun et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les repères historiques, les territoires et le patrimoine et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les démarches, la santé, le travail et l’éducation et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les libertés, l’égalité, la fraternité et la laïcité : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez le rôle du président, du Gouvernement, du Parlement et des collectivités : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les droits fondamentaux et les obligations de chacun : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les repères historiques, les territoires et le patrimoine : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les démarches, la santé, le travail et l’éducation : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les libertés, l’égalité, la fraternité et la laïcité. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les droits fondamentaux et les obligations de chacun. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les repères historiques, les territoires et le patrimoine. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les démarches, la santé, le travail et l’éducation. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les libertés, l’égalité, la fraternité et la laïcité. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les droits fondamentaux et les obligations de chacun. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les repères historiques, les territoires et le patrimoine. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les démarches, la santé, le travail et l’éducation. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-1. [💡 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+
+
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
 1. [📊 Revoir mes résultats](BIL_CSP_EQ_V01_RESULT)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -1528,91 +1488,98 @@ Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfai
 `@parcoursT5 = calc(@score_t5)`
 `@parcoursRun = calc(@bilRun)`
 `endif`
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
+
 ### 📊 Votre bilan est terminé
 
-**Votre score : `@score`/25**
+**Votre score : `@bilanViewScore`/25**
 
-`if @score == 0`
+`if @bilanViewScore == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/25 · 0 %</span></div>
 `endif`
-`if @score == 1`
+`if @bilanViewScore == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1"><span style="width:4%"></span></div><span class="civi-progress-label">1/25 · 4 %</span></div>
 `endif`
-`if @score == 2`
+`if @bilanViewScore == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="2"><span style="width:8%"></span></div><span class="civi-progress-label">2/25 · 8 %</span></div>
 `endif`
-`if @score == 3`
+`if @bilanViewScore == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="3"><span style="width:12%"></span></div><span class="civi-progress-label">3/25 · 12 %</span></div>
 `endif`
-`if @score == 4`
+`if @bilanViewScore == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="4"><span style="width:16%"></span></div><span class="civi-progress-label">4/25 · 16 %</span></div>
 `endif`
-`if @score == 5`
+`if @bilanViewScore == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="5"><span style="width:20%"></span></div><span class="civi-progress-label">5/25 · 20 %</span></div>
 `endif`
-`if @score == 6`
+`if @bilanViewScore == 6`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="6"><span style="width:24%"></span></div><span class="civi-progress-label">6/25 · 24 %</span></div>
 `endif`
-`if @score == 7`
+`if @bilanViewScore == 7`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="7"><span style="width:28%"></span></div><span class="civi-progress-label">7/25 · 28 %</span></div>
 `endif`
-`if @score == 8`
+`if @bilanViewScore == 8`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="8"><span style="width:32%"></span></div><span class="civi-progress-label">8/25 · 32 %</span></div>
 `endif`
-`if @score == 9`
+`if @bilanViewScore == 9`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="9"><span style="width:36%"></span></div><span class="civi-progress-label">9/25 · 36 %</span></div>
 `endif`
-`if @score == 10`
+`if @bilanViewScore == 10`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="10"><span style="width:40%"></span></div><span class="civi-progress-label">10/25 · 40 %</span></div>
 `endif`
-`if @score == 11`
+`if @bilanViewScore == 11`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="11"><span style="width:44%"></span></div><span class="civi-progress-label">11/25 · 44 %</span></div>
 `endif`
-`if @score == 12`
+`if @bilanViewScore == 12`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="12"><span style="width:48%"></span></div><span class="civi-progress-label">12/25 · 48 %</span></div>
 `endif`
-`if @score == 13`
+`if @bilanViewScore == 13`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="13"><span style="width:52%"></span></div><span class="civi-progress-label">13/25 · 52 %</span></div>
 `endif`
-`if @score == 14`
+`if @bilanViewScore == 14`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="14"><span style="width:56%"></span></div><span class="civi-progress-label">14/25 · 56 %</span></div>
 `endif`
-`if @score == 15`
+`if @bilanViewScore == 15`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="15"><span style="width:60%"></span></div><span class="civi-progress-label">15/25 · 60 %</span></div>
 `endif`
-`if @score == 16`
+`if @bilanViewScore == 16`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="16"><span style="width:64%"></span></div><span class="civi-progress-label">16/25 · 64 %</span></div>
 `endif`
-`if @score == 17`
+`if @bilanViewScore == 17`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="17"><span style="width:68%"></span></div><span class="civi-progress-label">17/25 · 68 %</span></div>
 `endif`
-`if @score == 18`
+`if @bilanViewScore == 18`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="18"><span style="width:72%"></span></div><span class="civi-progress-label">18/25 · 72 %</span></div>
 `endif`
-`if @score == 19`
+`if @bilanViewScore == 19`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="19"><span style="width:76%"></span></div><span class="civi-progress-label">19/25 · 76 %</span></div>
 `endif`
-`if @score == 20`
+`if @bilanViewScore == 20`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="20"><span style="width:80%"></span></div><span class="civi-progress-label">20/25 · 80 %</span></div>
 `endif`
-`if @score == 21`
+`if @bilanViewScore == 21`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="21"><span style="width:84%"></span></div><span class="civi-progress-label">21/25 · 84 %</span></div>
 `endif`
-`if @score == 22`
+`if @bilanViewScore == 22`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="22"><span style="width:88%"></span></div><span class="civi-progress-label">22/25 · 88 %</span></div>
 `endif`
-`if @score == 23`
+`if @bilanViewScore == 23`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="23"><span style="width:92%"></span></div><span class="civi-progress-label">23/25 · 92 %</span></div>
 `endif`
-`if @score == 24`
+`if @bilanViewScore == 24`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="24"><span style="width:96%"></span></div><span class="civi-progress-label">24/25 · 96 %</span></div>
 `endif`
-`if @score == 25`
+`if @bilanViewScore == 25`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="25"><span style="width:100%"></span></div><span class="civi-progress-label">25/25 · 100 %</span></div>
 `endif`
 
 `if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
-`@evolution = calc(@score-@score_precedent)`
+`@evolution = calc(@bilanViewScore-@score_precedent)`
 Votre score précédent était de **`@score_precedent`/25**.
 `if @evolution > 0`
 📈 Vous avez gagné **`@evolution` point(s)**. Votre travail porte ses fruits.
@@ -1628,15 +1595,15 @@ Cette série met en évidence des notions à consolider. Comparez vos erreurs av
 Notez ce nouveau score : il servira de référence pour votre prochain bilan.
 `endif`
 
-`if @score <= 9`
+`if @bilanViewScore <= 9`
 Vous avez identifié vos premières connaissances. Commencez par les thématiques classées en priorité très haute et avancez par petites séances régulières.
 `endif`
 
-`if @score >= 10 && @score <= 19`
+`if @bilanViewScore >= 10 && @bilanViewScore <= 19`
 Vous disposez déjà de plusieurs acquis. Travaillez d’abord les notions fragiles, puis vérifiez votre progression avec un nouvel entraînement.
 `endif`
 
-`if @score >= 20`
+`if @bilanViewScore >= 20`
 Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos dernières erreurs et poursuivez avec des questions plus difficiles.
 `endif`
 
@@ -1645,105 +1612,111 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CSP_INT_V01_THEMES
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 📚 Vos résultats par thématique
 
 #### Principes et valeurs de la République
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Institutions et système politique
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Droits et devoirs
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Histoire, géographie et culture
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Vivre dans la société française
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
@@ -1753,262 +1726,229 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CSP_INT_V01_RECO
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 💡 Vos conseils personnalisés
 
 Les thématiques sont présentées du score le plus faible au plus élevé.
 
-1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les libertés, l’égalité, la fraternité et la laïcité : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par le rôle du président, du Gouvernement, du Parlement et des collectivités : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les droits fondamentaux et les obligations de chacun : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les repères historiques, les territoires et le patrimoine : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les démarches, la santé, le travail et l’éducation : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les libertés, l’égalité, la fraternité et la laïcité, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez le rôle du président, du Gouvernement, du Parlement et des collectivités, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les droits fondamentaux et les obligations de chacun, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les repères historiques, les territoires et le patrimoine, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les démarches, la santé, le travail et l’éducation, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les libertés, l’égalité, la fraternité et la laïcité et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les droits fondamentaux et les obligations de chacun et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les repères historiques, les territoires et le patrimoine et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les démarches, la santé, le travail et l’éducation et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les libertés, l’égalité, la fraternité et la laïcité : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez le rôle du président, du Gouvernement, du Parlement et des collectivités : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les droits fondamentaux et les obligations de chacun : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les repères historiques, les territoires et le patrimoine : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les démarches, la santé, le travail et l’éducation : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les libertés, l’égalité, la fraternité et la laïcité. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les droits fondamentaux et les obligations de chacun. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les repères historiques, les territoires et le patrimoine. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les démarches, la santé, le travail et l’éducation. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les libertés, l’égalité, la fraternité et la laïcité. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les droits fondamentaux et les obligations de chacun. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les repères historiques, les territoires et le patrimoine. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les démarches, la santé, le travail et l’éducation. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-1. [💡 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+
+
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
 1. [📊 Revoir mes résultats](BIL_CSP_INT_V01_RESULT)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -2026,91 +1966,98 @@ Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfai
 `@parcoursT5 = calc(@score_t5)`
 `@parcoursRun = calc(@bilRun)`
 `endif`
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
+
 ### 📊 Votre bilan est terminé
 
-**Votre score : `@score`/25**
+**Votre score : `@bilanViewScore`/25**
 
-`if @score == 0`
+`if @bilanViewScore == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/25 · 0 %</span></div>
 `endif`
-`if @score == 1`
+`if @bilanViewScore == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1"><span style="width:4%"></span></div><span class="civi-progress-label">1/25 · 4 %</span></div>
 `endif`
-`if @score == 2`
+`if @bilanViewScore == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="2"><span style="width:8%"></span></div><span class="civi-progress-label">2/25 · 8 %</span></div>
 `endif`
-`if @score == 3`
+`if @bilanViewScore == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="3"><span style="width:12%"></span></div><span class="civi-progress-label">3/25 · 12 %</span></div>
 `endif`
-`if @score == 4`
+`if @bilanViewScore == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="4"><span style="width:16%"></span></div><span class="civi-progress-label">4/25 · 16 %</span></div>
 `endif`
-`if @score == 5`
+`if @bilanViewScore == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="5"><span style="width:20%"></span></div><span class="civi-progress-label">5/25 · 20 %</span></div>
 `endif`
-`if @score == 6`
+`if @bilanViewScore == 6`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="6"><span style="width:24%"></span></div><span class="civi-progress-label">6/25 · 24 %</span></div>
 `endif`
-`if @score == 7`
+`if @bilanViewScore == 7`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="7"><span style="width:28%"></span></div><span class="civi-progress-label">7/25 · 28 %</span></div>
 `endif`
-`if @score == 8`
+`if @bilanViewScore == 8`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="8"><span style="width:32%"></span></div><span class="civi-progress-label">8/25 · 32 %</span></div>
 `endif`
-`if @score == 9`
+`if @bilanViewScore == 9`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="9"><span style="width:36%"></span></div><span class="civi-progress-label">9/25 · 36 %</span></div>
 `endif`
-`if @score == 10`
+`if @bilanViewScore == 10`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="10"><span style="width:40%"></span></div><span class="civi-progress-label">10/25 · 40 %</span></div>
 `endif`
-`if @score == 11`
+`if @bilanViewScore == 11`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="11"><span style="width:44%"></span></div><span class="civi-progress-label">11/25 · 44 %</span></div>
 `endif`
-`if @score == 12`
+`if @bilanViewScore == 12`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="12"><span style="width:48%"></span></div><span class="civi-progress-label">12/25 · 48 %</span></div>
 `endif`
-`if @score == 13`
+`if @bilanViewScore == 13`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="13"><span style="width:52%"></span></div><span class="civi-progress-label">13/25 · 52 %</span></div>
 `endif`
-`if @score == 14`
+`if @bilanViewScore == 14`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="14"><span style="width:56%"></span></div><span class="civi-progress-label">14/25 · 56 %</span></div>
 `endif`
-`if @score == 15`
+`if @bilanViewScore == 15`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="15"><span style="width:60%"></span></div><span class="civi-progress-label">15/25 · 60 %</span></div>
 `endif`
-`if @score == 16`
+`if @bilanViewScore == 16`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="16"><span style="width:64%"></span></div><span class="civi-progress-label">16/25 · 64 %</span></div>
 `endif`
-`if @score == 17`
+`if @bilanViewScore == 17`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="17"><span style="width:68%"></span></div><span class="civi-progress-label">17/25 · 68 %</span></div>
 `endif`
-`if @score == 18`
+`if @bilanViewScore == 18`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="18"><span style="width:72%"></span></div><span class="civi-progress-label">18/25 · 72 %</span></div>
 `endif`
-`if @score == 19`
+`if @bilanViewScore == 19`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="19"><span style="width:76%"></span></div><span class="civi-progress-label">19/25 · 76 %</span></div>
 `endif`
-`if @score == 20`
+`if @bilanViewScore == 20`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="20"><span style="width:80%"></span></div><span class="civi-progress-label">20/25 · 80 %</span></div>
 `endif`
-`if @score == 21`
+`if @bilanViewScore == 21`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="21"><span style="width:84%"></span></div><span class="civi-progress-label">21/25 · 84 %</span></div>
 `endif`
-`if @score == 22`
+`if @bilanViewScore == 22`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="22"><span style="width:88%"></span></div><span class="civi-progress-label">22/25 · 88 %</span></div>
 `endif`
-`if @score == 23`
+`if @bilanViewScore == 23`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="23"><span style="width:92%"></span></div><span class="civi-progress-label">23/25 · 92 %</span></div>
 `endif`
-`if @score == 24`
+`if @bilanViewScore == 24`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="24"><span style="width:96%"></span></div><span class="civi-progress-label">24/25 · 96 %</span></div>
 `endif`
-`if @score == 25`
+`if @bilanViewScore == 25`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="25"><span style="width:100%"></span></div><span class="civi-progress-label">25/25 · 100 %</span></div>
 `endif`
 
 `if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
-`@evolution = calc(@score-@score_precedent)`
+`@evolution = calc(@bilanViewScore-@score_precedent)`
 Votre score précédent était de **`@score_precedent`/25**.
 `if @evolution > 0`
 📈 Vous avez gagné **`@evolution` point(s)**. Votre travail porte ses fruits.
@@ -2126,15 +2073,15 @@ Cette série met en évidence des notions à consolider. Comparez vos erreurs av
 Notez ce nouveau score : il servira de référence pour votre prochain bilan.
 `endif`
 
-`if @score <= 9`
+`if @bilanViewScore <= 9`
 Vous avez identifié vos premières connaissances. Commencez par les thématiques classées en priorité très haute et avancez par petites séances régulières.
 `endif`
 
-`if @score >= 10 && @score <= 19`
+`if @bilanViewScore >= 10 && @bilanViewScore <= 19`
 Vous disposez déjà de plusieurs acquis. Travaillez d’abord les notions fragiles, puis vérifiez votre progression avec un nouvel entraînement.
 `endif`
 
-`if @score >= 20`
+`if @bilanViewScore >= 20`
 Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos dernières erreurs et poursuivez avec des questions plus difficiles.
 `endif`
 
@@ -2143,105 +2090,111 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CR_DEC_V01_THEMES
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 📚 Vos résultats par thématique
 
 #### Principes et valeurs de la République
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Institutions et système politique
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Droits et devoirs
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Histoire, géographie et culture
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Vivre dans la société française
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
@@ -2251,262 +2204,229 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CR_DEC_V01_RECO
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 💡 Vos conseils personnalisés
 
 Les thématiques sont présentées du score le plus faible au plus élevé.
 
-1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les libertés, l’égalité, la fraternité et la laïcité : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par le rôle du président, du Gouvernement, du Parlement et des collectivités : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les droits fondamentaux et les obligations de chacun : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les repères historiques, les territoires et le patrimoine : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les démarches, la santé, le travail et l’éducation : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les libertés, l’égalité, la fraternité et la laïcité, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez le rôle du président, du Gouvernement, du Parlement et des collectivités, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les droits fondamentaux et les obligations de chacun, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les repères historiques, les territoires et le patrimoine, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les démarches, la santé, le travail et l’éducation, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les libertés, l’égalité, la fraternité et la laïcité et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les droits fondamentaux et les obligations de chacun et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les repères historiques, les territoires et le patrimoine et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les démarches, la santé, le travail et l’éducation et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les libertés, l’égalité, la fraternité et la laïcité : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez le rôle du président, du Gouvernement, du Parlement et des collectivités : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les droits fondamentaux et les obligations de chacun : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les repères historiques, les territoires et le patrimoine : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les démarches, la santé, le travail et l’éducation : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les libertés, l’égalité, la fraternité et la laïcité. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les droits fondamentaux et les obligations de chacun. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les repères historiques, les territoires et le patrimoine. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les démarches, la santé, le travail et l’éducation. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les libertés, l’égalité, la fraternité et la laïcité. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les droits fondamentaux et les obligations de chacun. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les repères historiques, les territoires et le patrimoine. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les démarches, la santé, le travail et l’éducation. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-1. [💡 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+
+
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
 1. [📊 Revoir mes résultats](BIL_CR_DEC_V01_RESULT)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -2524,91 +2444,98 @@ Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfai
 `@parcoursT5 = calc(@score_t5)`
 `@parcoursRun = calc(@bilRun)`
 `endif`
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
+
 ### 📊 Votre bilan est terminé
 
-**Votre score : `@score`/25**
+**Votre score : `@bilanViewScore`/25**
 
-`if @score == 0`
+`if @bilanViewScore == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/25 · 0 %</span></div>
 `endif`
-`if @score == 1`
+`if @bilanViewScore == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1"><span style="width:4%"></span></div><span class="civi-progress-label">1/25 · 4 %</span></div>
 `endif`
-`if @score == 2`
+`if @bilanViewScore == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="2"><span style="width:8%"></span></div><span class="civi-progress-label">2/25 · 8 %</span></div>
 `endif`
-`if @score == 3`
+`if @bilanViewScore == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="3"><span style="width:12%"></span></div><span class="civi-progress-label">3/25 · 12 %</span></div>
 `endif`
-`if @score == 4`
+`if @bilanViewScore == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="4"><span style="width:16%"></span></div><span class="civi-progress-label">4/25 · 16 %</span></div>
 `endif`
-`if @score == 5`
+`if @bilanViewScore == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="5"><span style="width:20%"></span></div><span class="civi-progress-label">5/25 · 20 %</span></div>
 `endif`
-`if @score == 6`
+`if @bilanViewScore == 6`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="6"><span style="width:24%"></span></div><span class="civi-progress-label">6/25 · 24 %</span></div>
 `endif`
-`if @score == 7`
+`if @bilanViewScore == 7`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="7"><span style="width:28%"></span></div><span class="civi-progress-label">7/25 · 28 %</span></div>
 `endif`
-`if @score == 8`
+`if @bilanViewScore == 8`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="8"><span style="width:32%"></span></div><span class="civi-progress-label">8/25 · 32 %</span></div>
 `endif`
-`if @score == 9`
+`if @bilanViewScore == 9`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="9"><span style="width:36%"></span></div><span class="civi-progress-label">9/25 · 36 %</span></div>
 `endif`
-`if @score == 10`
+`if @bilanViewScore == 10`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="10"><span style="width:40%"></span></div><span class="civi-progress-label">10/25 · 40 %</span></div>
 `endif`
-`if @score == 11`
+`if @bilanViewScore == 11`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="11"><span style="width:44%"></span></div><span class="civi-progress-label">11/25 · 44 %</span></div>
 `endif`
-`if @score == 12`
+`if @bilanViewScore == 12`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="12"><span style="width:48%"></span></div><span class="civi-progress-label">12/25 · 48 %</span></div>
 `endif`
-`if @score == 13`
+`if @bilanViewScore == 13`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="13"><span style="width:52%"></span></div><span class="civi-progress-label">13/25 · 52 %</span></div>
 `endif`
-`if @score == 14`
+`if @bilanViewScore == 14`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="14"><span style="width:56%"></span></div><span class="civi-progress-label">14/25 · 56 %</span></div>
 `endif`
-`if @score == 15`
+`if @bilanViewScore == 15`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="15"><span style="width:60%"></span></div><span class="civi-progress-label">15/25 · 60 %</span></div>
 `endif`
-`if @score == 16`
+`if @bilanViewScore == 16`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="16"><span style="width:64%"></span></div><span class="civi-progress-label">16/25 · 64 %</span></div>
 `endif`
-`if @score == 17`
+`if @bilanViewScore == 17`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="17"><span style="width:68%"></span></div><span class="civi-progress-label">17/25 · 68 %</span></div>
 `endif`
-`if @score == 18`
+`if @bilanViewScore == 18`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="18"><span style="width:72%"></span></div><span class="civi-progress-label">18/25 · 72 %</span></div>
 `endif`
-`if @score == 19`
+`if @bilanViewScore == 19`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="19"><span style="width:76%"></span></div><span class="civi-progress-label">19/25 · 76 %</span></div>
 `endif`
-`if @score == 20`
+`if @bilanViewScore == 20`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="20"><span style="width:80%"></span></div><span class="civi-progress-label">20/25 · 80 %</span></div>
 `endif`
-`if @score == 21`
+`if @bilanViewScore == 21`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="21"><span style="width:84%"></span></div><span class="civi-progress-label">21/25 · 84 %</span></div>
 `endif`
-`if @score == 22`
+`if @bilanViewScore == 22`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="22"><span style="width:88%"></span></div><span class="civi-progress-label">22/25 · 88 %</span></div>
 `endif`
-`if @score == 23`
+`if @bilanViewScore == 23`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="23"><span style="width:92%"></span></div><span class="civi-progress-label">23/25 · 92 %</span></div>
 `endif`
-`if @score == 24`
+`if @bilanViewScore == 24`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="24"><span style="width:96%"></span></div><span class="civi-progress-label">24/25 · 96 %</span></div>
 `endif`
-`if @score == 25`
+`if @bilanViewScore == 25`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="25"><span style="width:100%"></span></div><span class="civi-progress-label">25/25 · 100 %</span></div>
 `endif`
 
 `if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
-`@evolution = calc(@score-@score_precedent)`
+`@evolution = calc(@bilanViewScore-@score_precedent)`
 Votre score précédent était de **`@score_precedent`/25**.
 `if @evolution > 0`
 📈 Vous avez gagné **`@evolution` point(s)**. Votre travail porte ses fruits.
@@ -2624,15 +2551,15 @@ Cette série met en évidence des notions à consolider. Comparez vos erreurs av
 Notez ce nouveau score : il servira de référence pour votre prochain bilan.
 `endif`
 
-`if @score <= 9`
+`if @bilanViewScore <= 9`
 Vous avez identifié vos premières connaissances. Commencez par les thématiques classées en priorité très haute et avancez par petites séances régulières.
 `endif`
 
-`if @score >= 10 && @score <= 19`
+`if @bilanViewScore >= 10 && @bilanViewScore <= 19`
 Vous disposez déjà de plusieurs acquis. Travaillez d’abord les notions fragiles, puis vérifiez votre progression avec un nouvel entraînement.
 `endif`
 
-`if @score >= 20`
+`if @bilanViewScore >= 20`
 Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos dernières erreurs et poursuivez avec des questions plus difficiles.
 `endif`
 
@@ -2641,105 +2568,111 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CR_EQ_V01_THEMES
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 📚 Vos résultats par thématique
 
 #### Principes et valeurs de la République
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Institutions et système politique
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Droits et devoirs
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Histoire, géographie et culture
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Vivre dans la société française
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
@@ -2749,262 +2682,229 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CR_EQ_V01_RECO
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 💡 Vos conseils personnalisés
 
 Les thématiques sont présentées du score le plus faible au plus élevé.
 
-1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les libertés, l’égalité, la fraternité et la laïcité : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par le rôle du président, du Gouvernement, du Parlement et des collectivités : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les droits fondamentaux et les obligations de chacun : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les repères historiques, les territoires et le patrimoine : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les démarches, la santé, le travail et l’éducation : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les libertés, l’égalité, la fraternité et la laïcité, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez le rôle du président, du Gouvernement, du Parlement et des collectivités, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les droits fondamentaux et les obligations de chacun, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les repères historiques, les territoires et le patrimoine, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les démarches, la santé, le travail et l’éducation, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les libertés, l’égalité, la fraternité et la laïcité et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les droits fondamentaux et les obligations de chacun et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les repères historiques, les territoires et le patrimoine et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les démarches, la santé, le travail et l’éducation et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les libertés, l’égalité, la fraternité et la laïcité : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez le rôle du président, du Gouvernement, du Parlement et des collectivités : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les droits fondamentaux et les obligations de chacun : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les repères historiques, les territoires et le patrimoine : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les démarches, la santé, le travail et l’éducation : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les libertés, l’égalité, la fraternité et la laïcité. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les droits fondamentaux et les obligations de chacun. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les repères historiques, les territoires et le patrimoine. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les démarches, la santé, le travail et l’éducation. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les libertés, l’égalité, la fraternité et la laïcité. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les droits fondamentaux et les obligations de chacun. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les repères historiques, les territoires et le patrimoine. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les démarches, la santé, le travail et l’éducation. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-1. [💡 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+
+
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
 1. [📊 Revoir mes résultats](BIL_CR_EQ_V01_RESULT)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -3022,91 +2922,98 @@ Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfai
 `@parcoursT5 = calc(@score_t5)`
 `@parcoursRun = calc(@bilRun)`
 `endif`
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
+
 ### 📊 Votre bilan est terminé
 
-**Votre score : `@score`/25**
+**Votre score : `@bilanViewScore`/25**
 
-`if @score == 0`
+`if @bilanViewScore == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/25 · 0 %</span></div>
 `endif`
-`if @score == 1`
+`if @bilanViewScore == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1"><span style="width:4%"></span></div><span class="civi-progress-label">1/25 · 4 %</span></div>
 `endif`
-`if @score == 2`
+`if @bilanViewScore == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="2"><span style="width:8%"></span></div><span class="civi-progress-label">2/25 · 8 %</span></div>
 `endif`
-`if @score == 3`
+`if @bilanViewScore == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="3"><span style="width:12%"></span></div><span class="civi-progress-label">3/25 · 12 %</span></div>
 `endif`
-`if @score == 4`
+`if @bilanViewScore == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="4"><span style="width:16%"></span></div><span class="civi-progress-label">4/25 · 16 %</span></div>
 `endif`
-`if @score == 5`
+`if @bilanViewScore == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="5"><span style="width:20%"></span></div><span class="civi-progress-label">5/25 · 20 %</span></div>
 `endif`
-`if @score == 6`
+`if @bilanViewScore == 6`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="6"><span style="width:24%"></span></div><span class="civi-progress-label">6/25 · 24 %</span></div>
 `endif`
-`if @score == 7`
+`if @bilanViewScore == 7`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="7"><span style="width:28%"></span></div><span class="civi-progress-label">7/25 · 28 %</span></div>
 `endif`
-`if @score == 8`
+`if @bilanViewScore == 8`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="8"><span style="width:32%"></span></div><span class="civi-progress-label">8/25 · 32 %</span></div>
 `endif`
-`if @score == 9`
+`if @bilanViewScore == 9`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="9"><span style="width:36%"></span></div><span class="civi-progress-label">9/25 · 36 %</span></div>
 `endif`
-`if @score == 10`
+`if @bilanViewScore == 10`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="10"><span style="width:40%"></span></div><span class="civi-progress-label">10/25 · 40 %</span></div>
 `endif`
-`if @score == 11`
+`if @bilanViewScore == 11`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="11"><span style="width:44%"></span></div><span class="civi-progress-label">11/25 · 44 %</span></div>
 `endif`
-`if @score == 12`
+`if @bilanViewScore == 12`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="12"><span style="width:48%"></span></div><span class="civi-progress-label">12/25 · 48 %</span></div>
 `endif`
-`if @score == 13`
+`if @bilanViewScore == 13`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="13"><span style="width:52%"></span></div><span class="civi-progress-label">13/25 · 52 %</span></div>
 `endif`
-`if @score == 14`
+`if @bilanViewScore == 14`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="14"><span style="width:56%"></span></div><span class="civi-progress-label">14/25 · 56 %</span></div>
 `endif`
-`if @score == 15`
+`if @bilanViewScore == 15`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="15"><span style="width:60%"></span></div><span class="civi-progress-label">15/25 · 60 %</span></div>
 `endif`
-`if @score == 16`
+`if @bilanViewScore == 16`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="16"><span style="width:64%"></span></div><span class="civi-progress-label">16/25 · 64 %</span></div>
 `endif`
-`if @score == 17`
+`if @bilanViewScore == 17`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="17"><span style="width:68%"></span></div><span class="civi-progress-label">17/25 · 68 %</span></div>
 `endif`
-`if @score == 18`
+`if @bilanViewScore == 18`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="18"><span style="width:72%"></span></div><span class="civi-progress-label">18/25 · 72 %</span></div>
 `endif`
-`if @score == 19`
+`if @bilanViewScore == 19`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="19"><span style="width:76%"></span></div><span class="civi-progress-label">19/25 · 76 %</span></div>
 `endif`
-`if @score == 20`
+`if @bilanViewScore == 20`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="20"><span style="width:80%"></span></div><span class="civi-progress-label">20/25 · 80 %</span></div>
 `endif`
-`if @score == 21`
+`if @bilanViewScore == 21`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="21"><span style="width:84%"></span></div><span class="civi-progress-label">21/25 · 84 %</span></div>
 `endif`
-`if @score == 22`
+`if @bilanViewScore == 22`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="22"><span style="width:88%"></span></div><span class="civi-progress-label">22/25 · 88 %</span></div>
 `endif`
-`if @score == 23`
+`if @bilanViewScore == 23`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="23"><span style="width:92%"></span></div><span class="civi-progress-label">23/25 · 92 %</span></div>
 `endif`
-`if @score == 24`
+`if @bilanViewScore == 24`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="24"><span style="width:96%"></span></div><span class="civi-progress-label">24/25 · 96 %</span></div>
 `endif`
-`if @score == 25`
+`if @bilanViewScore == 25`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="25"><span style="width:100%"></span></div><span class="civi-progress-label">25/25 · 100 %</span></div>
 `endif`
 
 `if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
-`@evolution = calc(@score-@score_precedent)`
+`@evolution = calc(@bilanViewScore-@score_precedent)`
 Votre score précédent était de **`@score_precedent`/25**.
 `if @evolution > 0`
 📈 Vous avez gagné **`@evolution` point(s)**. Votre travail porte ses fruits.
@@ -3122,15 +3029,15 @@ Cette série met en évidence des notions à consolider. Comparez vos erreurs av
 Notez ce nouveau score : il servira de référence pour votre prochain bilan.
 `endif`
 
-`if @score <= 9`
+`if @bilanViewScore <= 9`
 Vous avez identifié vos premières connaissances. Commencez par les thématiques classées en priorité très haute et avancez par petites séances régulières.
 `endif`
 
-`if @score >= 10 && @score <= 19`
+`if @bilanViewScore >= 10 && @bilanViewScore <= 19`
 Vous disposez déjà de plusieurs acquis. Travaillez d’abord les notions fragiles, puis vérifiez votre progression avec un nouvel entraînement.
 `endif`
 
-`if @score >= 20`
+`if @bilanViewScore >= 20`
 Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos dernières erreurs et poursuivez avec des questions plus difficiles.
 `endif`
 
@@ -3139,105 +3046,111 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CR_INT_V01_THEMES
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 📚 Vos résultats par thématique
 
 #### Principes et valeurs de la République
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Institutions et système politique
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Droits et devoirs
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Histoire, géographie et culture
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Vivre dans la société française
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
@@ -3247,262 +3160,229 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_CR_INT_V01_RECO
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 💡 Vos conseils personnalisés
 
 Les thématiques sont présentées du score le plus faible au plus élevé.
 
-1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les libertés, l’égalité, la fraternité et la laïcité : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par le rôle du président, du Gouvernement, du Parlement et des collectivités : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les droits fondamentaux et les obligations de chacun : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les repères historiques, les territoires et le patrimoine : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les démarches, la santé, le travail et l’éducation : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les libertés, l’égalité, la fraternité et la laïcité, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez le rôle du président, du Gouvernement, du Parlement et des collectivités, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les droits fondamentaux et les obligations de chacun, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les repères historiques, les territoires et le patrimoine, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les démarches, la santé, le travail et l’éducation, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les libertés, l’égalité, la fraternité et la laïcité et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les droits fondamentaux et les obligations de chacun et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les repères historiques, les territoires et le patrimoine et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les démarches, la santé, le travail et l’éducation et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les libertés, l’égalité, la fraternité et la laïcité : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez le rôle du président, du Gouvernement, du Parlement et des collectivités : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les droits fondamentaux et les obligations de chacun : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les repères historiques, les territoires et le patrimoine : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les démarches, la santé, le travail et l’éducation : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les libertés, l’égalité, la fraternité et la laïcité. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les droits fondamentaux et les obligations de chacun. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les repères historiques, les territoires et le patrimoine. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les démarches, la santé, le travail et l’éducation. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les libertés, l’égalité, la fraternité et la laïcité. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les droits fondamentaux et les obligations de chacun. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les repères historiques, les territoires et le patrimoine. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les démarches, la santé, le travail et l’éducation. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-1. [💡 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+
+
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
 1. [📊 Revoir mes résultats](BIL_CR_INT_V01_RESULT)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -3520,91 +3400,98 @@ Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfai
 `@parcoursT5 = calc(@score_t5)`
 `@parcoursRun = calc(@bilRun)`
 `endif`
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
+
 ### 📊 Votre bilan est terminé
 
-**Votre score : `@score`/25**
+**Votre score : `@bilanViewScore`/25**
 
-`if @score == 0`
+`if @bilanViewScore == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/25 · 0 %</span></div>
 `endif`
-`if @score == 1`
+`if @bilanViewScore == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1"><span style="width:4%"></span></div><span class="civi-progress-label">1/25 · 4 %</span></div>
 `endif`
-`if @score == 2`
+`if @bilanViewScore == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="2"><span style="width:8%"></span></div><span class="civi-progress-label">2/25 · 8 %</span></div>
 `endif`
-`if @score == 3`
+`if @bilanViewScore == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="3"><span style="width:12%"></span></div><span class="civi-progress-label">3/25 · 12 %</span></div>
 `endif`
-`if @score == 4`
+`if @bilanViewScore == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="4"><span style="width:16%"></span></div><span class="civi-progress-label">4/25 · 16 %</span></div>
 `endif`
-`if @score == 5`
+`if @bilanViewScore == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="5"><span style="width:20%"></span></div><span class="civi-progress-label">5/25 · 20 %</span></div>
 `endif`
-`if @score == 6`
+`if @bilanViewScore == 6`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="6"><span style="width:24%"></span></div><span class="civi-progress-label">6/25 · 24 %</span></div>
 `endif`
-`if @score == 7`
+`if @bilanViewScore == 7`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="7"><span style="width:28%"></span></div><span class="civi-progress-label">7/25 · 28 %</span></div>
 `endif`
-`if @score == 8`
+`if @bilanViewScore == 8`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="8"><span style="width:32%"></span></div><span class="civi-progress-label">8/25 · 32 %</span></div>
 `endif`
-`if @score == 9`
+`if @bilanViewScore == 9`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="9"><span style="width:36%"></span></div><span class="civi-progress-label">9/25 · 36 %</span></div>
 `endif`
-`if @score == 10`
+`if @bilanViewScore == 10`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="10"><span style="width:40%"></span></div><span class="civi-progress-label">10/25 · 40 %</span></div>
 `endif`
-`if @score == 11`
+`if @bilanViewScore == 11`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="11"><span style="width:44%"></span></div><span class="civi-progress-label">11/25 · 44 %</span></div>
 `endif`
-`if @score == 12`
+`if @bilanViewScore == 12`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="12"><span style="width:48%"></span></div><span class="civi-progress-label">12/25 · 48 %</span></div>
 `endif`
-`if @score == 13`
+`if @bilanViewScore == 13`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="13"><span style="width:52%"></span></div><span class="civi-progress-label">13/25 · 52 %</span></div>
 `endif`
-`if @score == 14`
+`if @bilanViewScore == 14`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="14"><span style="width:56%"></span></div><span class="civi-progress-label">14/25 · 56 %</span></div>
 `endif`
-`if @score == 15`
+`if @bilanViewScore == 15`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="15"><span style="width:60%"></span></div><span class="civi-progress-label">15/25 · 60 %</span></div>
 `endif`
-`if @score == 16`
+`if @bilanViewScore == 16`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="16"><span style="width:64%"></span></div><span class="civi-progress-label">16/25 · 64 %</span></div>
 `endif`
-`if @score == 17`
+`if @bilanViewScore == 17`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="17"><span style="width:68%"></span></div><span class="civi-progress-label">17/25 · 68 %</span></div>
 `endif`
-`if @score == 18`
+`if @bilanViewScore == 18`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="18"><span style="width:72%"></span></div><span class="civi-progress-label">18/25 · 72 %</span></div>
 `endif`
-`if @score == 19`
+`if @bilanViewScore == 19`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="19"><span style="width:76%"></span></div><span class="civi-progress-label">19/25 · 76 %</span></div>
 `endif`
-`if @score == 20`
+`if @bilanViewScore == 20`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="20"><span style="width:80%"></span></div><span class="civi-progress-label">20/25 · 80 %</span></div>
 `endif`
-`if @score == 21`
+`if @bilanViewScore == 21`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="21"><span style="width:84%"></span></div><span class="civi-progress-label">21/25 · 84 %</span></div>
 `endif`
-`if @score == 22`
+`if @bilanViewScore == 22`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="22"><span style="width:88%"></span></div><span class="civi-progress-label">22/25 · 88 %</span></div>
 `endif`
-`if @score == 23`
+`if @bilanViewScore == 23`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="23"><span style="width:92%"></span></div><span class="civi-progress-label">23/25 · 92 %</span></div>
 `endif`
-`if @score == 24`
+`if @bilanViewScore == 24`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="24"><span style="width:96%"></span></div><span class="civi-progress-label">24/25 · 96 %</span></div>
 `endif`
-`if @score == 25`
+`if @bilanViewScore == 25`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="25"><span style="width:100%"></span></div><span class="civi-progress-label">25/25 · 100 %</span></div>
 `endif`
 
 `if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
-`@evolution = calc(@score-@score_precedent)`
+`@evolution = calc(@bilanViewScore-@score_precedent)`
 Votre score précédent était de **`@score_precedent`/25**.
 `if @evolution > 0`
 📈 Vous avez gagné **`@evolution` point(s)**. Votre travail porte ses fruits.
@@ -3620,15 +3507,15 @@ Cette série met en évidence des notions à consolider. Comparez vos erreurs av
 Notez ce nouveau score : il servira de référence pour votre prochain bilan.
 `endif`
 
-`if @score <= 9`
+`if @bilanViewScore <= 9`
 Vous avez identifié vos premières connaissances. Commencez par les thématiques classées en priorité très haute et avancez par petites séances régulières.
 `endif`
 
-`if @score >= 10 && @score <= 19`
+`if @bilanViewScore >= 10 && @bilanViewScore <= 19`
 Vous disposez déjà de plusieurs acquis. Travaillez d’abord les notions fragiles, puis vérifiez votre progression avec un nouvel entraînement.
 `endif`
 
-`if @score >= 20`
+`if @bilanViewScore >= 20`
 Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos dernières erreurs et poursuivez avec des questions plus difficiles.
 `endif`
 
@@ -3637,105 +3524,111 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_NAT_DEC_V01_THEMES
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 📚 Vos résultats par thématique
 
 #### Principes et valeurs de la République
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Institutions et système politique
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Droits et devoirs
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Histoire, géographie et culture
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Vivre dans la société française
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
@@ -3745,262 +3638,229 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_NAT_DEC_V01_RECO
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 💡 Vos conseils personnalisés
 
 Les thématiques sont présentées du score le plus faible au plus élevé.
 
-1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les libertés, l’égalité, la fraternité et la laïcité : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par le rôle du président, du Gouvernement, du Parlement et des collectivités : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les droits fondamentaux et les obligations de chacun : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les repères historiques, les territoires et le patrimoine : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les démarches, la santé, le travail et l’éducation : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les libertés, l’égalité, la fraternité et la laïcité, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez le rôle du président, du Gouvernement, du Parlement et des collectivités, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les droits fondamentaux et les obligations de chacun, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les repères historiques, les territoires et le patrimoine, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les démarches, la santé, le travail et l’éducation, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les libertés, l’égalité, la fraternité et la laïcité et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les droits fondamentaux et les obligations de chacun et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les repères historiques, les territoires et le patrimoine et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les démarches, la santé, le travail et l’éducation et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les libertés, l’égalité, la fraternité et la laïcité : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez le rôle du président, du Gouvernement, du Parlement et des collectivités : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les droits fondamentaux et les obligations de chacun : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les repères historiques, les territoires et le patrimoine : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les démarches, la santé, le travail et l’éducation : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les libertés, l’égalité, la fraternité et la laïcité. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les droits fondamentaux et les obligations de chacun. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les repères historiques, les territoires et le patrimoine. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les démarches, la santé, le travail et l’éducation. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les libertés, l’égalité, la fraternité et la laïcité. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les droits fondamentaux et les obligations de chacun. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les repères historiques, les territoires et le patrimoine. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les démarches, la santé, le travail et l’éducation. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-1. [💡 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+
+
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
 1. [📊 Revoir mes résultats](BIL_NAT_DEC_V01_RESULT)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -4018,91 +3878,98 @@ Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfai
 `@parcoursT5 = calc(@score_t5)`
 `@parcoursRun = calc(@bilRun)`
 `endif`
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
+
 ### 📊 Votre bilan est terminé
 
-**Votre score : `@score`/25**
+**Votre score : `@bilanViewScore`/25**
 
-`if @score == 0`
+`if @bilanViewScore == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/25 · 0 %</span></div>
 `endif`
-`if @score == 1`
+`if @bilanViewScore == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1"><span style="width:4%"></span></div><span class="civi-progress-label">1/25 · 4 %</span></div>
 `endif`
-`if @score == 2`
+`if @bilanViewScore == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="2"><span style="width:8%"></span></div><span class="civi-progress-label">2/25 · 8 %</span></div>
 `endif`
-`if @score == 3`
+`if @bilanViewScore == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="3"><span style="width:12%"></span></div><span class="civi-progress-label">3/25 · 12 %</span></div>
 `endif`
-`if @score == 4`
+`if @bilanViewScore == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="4"><span style="width:16%"></span></div><span class="civi-progress-label">4/25 · 16 %</span></div>
 `endif`
-`if @score == 5`
+`if @bilanViewScore == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="5"><span style="width:20%"></span></div><span class="civi-progress-label">5/25 · 20 %</span></div>
 `endif`
-`if @score == 6`
+`if @bilanViewScore == 6`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="6"><span style="width:24%"></span></div><span class="civi-progress-label">6/25 · 24 %</span></div>
 `endif`
-`if @score == 7`
+`if @bilanViewScore == 7`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="7"><span style="width:28%"></span></div><span class="civi-progress-label">7/25 · 28 %</span></div>
 `endif`
-`if @score == 8`
+`if @bilanViewScore == 8`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="8"><span style="width:32%"></span></div><span class="civi-progress-label">8/25 · 32 %</span></div>
 `endif`
-`if @score == 9`
+`if @bilanViewScore == 9`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="9"><span style="width:36%"></span></div><span class="civi-progress-label">9/25 · 36 %</span></div>
 `endif`
-`if @score == 10`
+`if @bilanViewScore == 10`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="10"><span style="width:40%"></span></div><span class="civi-progress-label">10/25 · 40 %</span></div>
 `endif`
-`if @score == 11`
+`if @bilanViewScore == 11`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="11"><span style="width:44%"></span></div><span class="civi-progress-label">11/25 · 44 %</span></div>
 `endif`
-`if @score == 12`
+`if @bilanViewScore == 12`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="12"><span style="width:48%"></span></div><span class="civi-progress-label">12/25 · 48 %</span></div>
 `endif`
-`if @score == 13`
+`if @bilanViewScore == 13`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="13"><span style="width:52%"></span></div><span class="civi-progress-label">13/25 · 52 %</span></div>
 `endif`
-`if @score == 14`
+`if @bilanViewScore == 14`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="14"><span style="width:56%"></span></div><span class="civi-progress-label">14/25 · 56 %</span></div>
 `endif`
-`if @score == 15`
+`if @bilanViewScore == 15`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="15"><span style="width:60%"></span></div><span class="civi-progress-label">15/25 · 60 %</span></div>
 `endif`
-`if @score == 16`
+`if @bilanViewScore == 16`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="16"><span style="width:64%"></span></div><span class="civi-progress-label">16/25 · 64 %</span></div>
 `endif`
-`if @score == 17`
+`if @bilanViewScore == 17`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="17"><span style="width:68%"></span></div><span class="civi-progress-label">17/25 · 68 %</span></div>
 `endif`
-`if @score == 18`
+`if @bilanViewScore == 18`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="18"><span style="width:72%"></span></div><span class="civi-progress-label">18/25 · 72 %</span></div>
 `endif`
-`if @score == 19`
+`if @bilanViewScore == 19`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="19"><span style="width:76%"></span></div><span class="civi-progress-label">19/25 · 76 %</span></div>
 `endif`
-`if @score == 20`
+`if @bilanViewScore == 20`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="20"><span style="width:80%"></span></div><span class="civi-progress-label">20/25 · 80 %</span></div>
 `endif`
-`if @score == 21`
+`if @bilanViewScore == 21`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="21"><span style="width:84%"></span></div><span class="civi-progress-label">21/25 · 84 %</span></div>
 `endif`
-`if @score == 22`
+`if @bilanViewScore == 22`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="22"><span style="width:88%"></span></div><span class="civi-progress-label">22/25 · 88 %</span></div>
 `endif`
-`if @score == 23`
+`if @bilanViewScore == 23`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="23"><span style="width:92%"></span></div><span class="civi-progress-label">23/25 · 92 %</span></div>
 `endif`
-`if @score == 24`
+`if @bilanViewScore == 24`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="24"><span style="width:96%"></span></div><span class="civi-progress-label">24/25 · 96 %</span></div>
 `endif`
-`if @score == 25`
+`if @bilanViewScore == 25`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="25"><span style="width:100%"></span></div><span class="civi-progress-label">25/25 · 100 %</span></div>
 `endif`
 
 `if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
-`@evolution = calc(@score-@score_precedent)`
+`@evolution = calc(@bilanViewScore-@score_precedent)`
 Votre score précédent était de **`@score_precedent`/25**.
 `if @evolution > 0`
 📈 Vous avez gagné **`@evolution` point(s)**. Votre travail porte ses fruits.
@@ -4118,15 +3985,15 @@ Cette série met en évidence des notions à consolider. Comparez vos erreurs av
 Notez ce nouveau score : il servira de référence pour votre prochain bilan.
 `endif`
 
-`if @score <= 9`
+`if @bilanViewScore <= 9`
 Vous avez identifié vos premières connaissances. Commencez par les thématiques classées en priorité très haute et avancez par petites séances régulières.
 `endif`
 
-`if @score >= 10 && @score <= 19`
+`if @bilanViewScore >= 10 && @bilanViewScore <= 19`
 Vous disposez déjà de plusieurs acquis. Travaillez d’abord les notions fragiles, puis vérifiez votre progression avec un nouvel entraînement.
 `endif`
 
-`if @score >= 20`
+`if @bilanViewScore >= 20`
 Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos dernières erreurs et poursuivez avec des questions plus difficiles.
 `endif`
 
@@ -4135,105 +4002,111 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_NAT_EQ_V01_THEMES
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 📚 Vos résultats par thématique
 
 #### Principes et valeurs de la République
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Institutions et système politique
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Droits et devoirs
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Histoire, géographie et culture
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Vivre dans la société française
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
@@ -4243,262 +4116,229 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_NAT_EQ_V01_RECO
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 💡 Vos conseils personnalisés
 
 Les thématiques sont présentées du score le plus faible au plus élevé.
 
-1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les libertés, l’égalité, la fraternité et la laïcité : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par le rôle du président, du Gouvernement, du Parlement et des collectivités : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les droits fondamentaux et les obligations de chacun : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les repères historiques, les territoires et le patrimoine : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les démarches, la santé, le travail et l’éducation : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les libertés, l’égalité, la fraternité et la laïcité, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez le rôle du président, du Gouvernement, du Parlement et des collectivités, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les droits fondamentaux et les obligations de chacun, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les repères historiques, les territoires et le patrimoine, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les démarches, la santé, le travail et l’éducation, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les libertés, l’égalité, la fraternité et la laïcité et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les droits fondamentaux et les obligations de chacun et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les repères historiques, les territoires et le patrimoine et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les démarches, la santé, le travail et l’éducation et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les libertés, l’égalité, la fraternité et la laïcité : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez le rôle du président, du Gouvernement, du Parlement et des collectivités : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les droits fondamentaux et les obligations de chacun : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les repères historiques, les territoires et le patrimoine : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les démarches, la santé, le travail et l’éducation : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les libertés, l’égalité, la fraternité et la laïcité. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les droits fondamentaux et les obligations de chacun. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les repères historiques, les territoires et le patrimoine. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les démarches, la santé, le travail et l’éducation. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les libertés, l’égalité, la fraternité et la laïcité. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les droits fondamentaux et les obligations de chacun. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les repères historiques, les territoires et le patrimoine. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les démarches, la santé, le travail et l’éducation. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-1. [💡 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+
+
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
 1. [📊 Revoir mes résultats](BIL_NAT_EQ_V01_RESULT)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -4516,91 +4356,98 @@ Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfai
 `@parcoursT5 = calc(@score_t5)`
 `@parcoursRun = calc(@bilRun)`
 `endif`
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
+
 ### 📊 Votre bilan est terminé
 
-**Votre score : `@score`/25**
+**Votre score : `@bilanViewScore`/25**
 
-`if @score == 0`
+`if @bilanViewScore == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/25 · 0 %</span></div>
 `endif`
-`if @score == 1`
+`if @bilanViewScore == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="1"><span style="width:4%"></span></div><span class="civi-progress-label">1/25 · 4 %</span></div>
 `endif`
-`if @score == 2`
+`if @bilanViewScore == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="2"><span style="width:8%"></span></div><span class="civi-progress-label">2/25 · 8 %</span></div>
 `endif`
-`if @score == 3`
+`if @bilanViewScore == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="3"><span style="width:12%"></span></div><span class="civi-progress-label">3/25 · 12 %</span></div>
 `endif`
-`if @score == 4`
+`if @bilanViewScore == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="4"><span style="width:16%"></span></div><span class="civi-progress-label">4/25 · 16 %</span></div>
 `endif`
-`if @score == 5`
+`if @bilanViewScore == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="5"><span style="width:20%"></span></div><span class="civi-progress-label">5/25 · 20 %</span></div>
 `endif`
-`if @score == 6`
+`if @bilanViewScore == 6`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="6"><span style="width:24%"></span></div><span class="civi-progress-label">6/25 · 24 %</span></div>
 `endif`
-`if @score == 7`
+`if @bilanViewScore == 7`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="7"><span style="width:28%"></span></div><span class="civi-progress-label">7/25 · 28 %</span></div>
 `endif`
-`if @score == 8`
+`if @bilanViewScore == 8`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="8"><span style="width:32%"></span></div><span class="civi-progress-label">8/25 · 32 %</span></div>
 `endif`
-`if @score == 9`
+`if @bilanViewScore == 9`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="9"><span style="width:36%"></span></div><span class="civi-progress-label">9/25 · 36 %</span></div>
 `endif`
-`if @score == 10`
+`if @bilanViewScore == 10`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="10"><span style="width:40%"></span></div><span class="civi-progress-label">10/25 · 40 %</span></div>
 `endif`
-`if @score == 11`
+`if @bilanViewScore == 11`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="11"><span style="width:44%"></span></div><span class="civi-progress-label">11/25 · 44 %</span></div>
 `endif`
-`if @score == 12`
+`if @bilanViewScore == 12`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="12"><span style="width:48%"></span></div><span class="civi-progress-label">12/25 · 48 %</span></div>
 `endif`
-`if @score == 13`
+`if @bilanViewScore == 13`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="13"><span style="width:52%"></span></div><span class="civi-progress-label">13/25 · 52 %</span></div>
 `endif`
-`if @score == 14`
+`if @bilanViewScore == 14`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="14"><span style="width:56%"></span></div><span class="civi-progress-label">14/25 · 56 %</span></div>
 `endif`
-`if @score == 15`
+`if @bilanViewScore == 15`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="15"><span style="width:60%"></span></div><span class="civi-progress-label">15/25 · 60 %</span></div>
 `endif`
-`if @score == 16`
+`if @bilanViewScore == 16`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="16"><span style="width:64%"></span></div><span class="civi-progress-label">16/25 · 64 %</span></div>
 `endif`
-`if @score == 17`
+`if @bilanViewScore == 17`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="17"><span style="width:68%"></span></div><span class="civi-progress-label">17/25 · 68 %</span></div>
 `endif`
-`if @score == 18`
+`if @bilanViewScore == 18`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="18"><span style="width:72%"></span></div><span class="civi-progress-label">18/25 · 72 %</span></div>
 `endif`
-`if @score == 19`
+`if @bilanViewScore == 19`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="19"><span style="width:76%"></span></div><span class="civi-progress-label">19/25 · 76 %</span></div>
 `endif`
-`if @score == 20`
+`if @bilanViewScore == 20`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="20"><span style="width:80%"></span></div><span class="civi-progress-label">20/25 · 80 %</span></div>
 `endif`
-`if @score == 21`
+`if @bilanViewScore == 21`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="21"><span style="width:84%"></span></div><span class="civi-progress-label">21/25 · 84 %</span></div>
 `endif`
-`if @score == 22`
+`if @bilanViewScore == 22`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="22"><span style="width:88%"></span></div><span class="civi-progress-label">22/25 · 88 %</span></div>
 `endif`
-`if @score == 23`
+`if @bilanViewScore == 23`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="23"><span style="width:92%"></span></div><span class="civi-progress-label">23/25 · 92 %</span></div>
 `endif`
-`if @score == 24`
+`if @bilanViewScore == 24`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="24"><span style="width:96%"></span></div><span class="civi-progress-label">24/25 · 96 %</span></div>
 `endif`
-`if @score == 25`
+`if @bilanViewScore == 25`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="25" aria-valuenow="25"><span style="width:100%"></span></div><span class="civi-progress-label">25/25 · 100 %</span></div>
 `endif`
 
 `if @mode_bilan == "PROG" && @score_precedent != "" && @score_precedent != "NON_RETENU_PROG" && @score_precedent != "NON_RETENU_INIT"`
-`@evolution = calc(@score-@score_precedent)`
+`@evolution = calc(@bilanViewScore-@score_precedent)`
 Votre score précédent était de **`@score_precedent`/25**.
 `if @evolution > 0`
 📈 Vous avez gagné **`@evolution` point(s)**. Votre travail porte ses fruits.
@@ -4616,15 +4463,15 @@ Cette série met en évidence des notions à consolider. Comparez vos erreurs av
 Notez ce nouveau score : il servira de référence pour votre prochain bilan.
 `endif`
 
-`if @score <= 9`
+`if @bilanViewScore <= 9`
 Vous avez identifié vos premières connaissances. Commencez par les thématiques classées en priorité très haute et avancez par petites séances régulières.
 `endif`
 
-`if @score >= 10 && @score <= 19`
+`if @bilanViewScore >= 10 && @bilanViewScore <= 19`
 Vous disposez déjà de plusieurs acquis. Travaillez d’abord les notions fragiles, puis vérifiez votre progression avec un nouvel entraînement.
 `endif`
 
-`if @score >= 20`
+`if @bilanViewScore >= 20`
 Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos dernières erreurs et poursuivez avec des questions plus difficiles.
 `endif`
 
@@ -4633,105 +4480,111 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_NAT_INT_V01_THEMES
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 📚 Vos résultats par thématique
 
 #### Principes et valeurs de la République
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Institutions et système politique
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Droits et devoirs
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Histoire, géographie et culture
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
 #### Vivre dans la société française
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0"><span style="width:0%"></span></div><span class="civi-progress-label">0/5 · 0 %</span></div>
 `endif`
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="1"><span style="width:20%"></span></div><span class="civi-progress-label">1/5 · 20 %</span></div>
 `endif`
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="2"><span style="width:40%"></span></div><span class="civi-progress-label">2/5 · 40 %</span></div>
 `endif`
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="3"><span style="width:60%"></span></div><span class="civi-progress-label">3/5 · 60 %</span></div>
 `endif`
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="4"><span style="width:80%"></span></div><span class="civi-progress-label">4/5 · 80 %</span></div>
 `endif`
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 <div class="civi-progress-row"><div class="civi-progress-track" role="progressbar" aria-label="Progression" aria-valuemin="0" aria-valuemax="5" aria-valuenow="5"><span style="width:100%"></span></div><span class="civi-progress-label">5/5 · 100 %</span></div>
 `endif`
 
@@ -4741,262 +4594,229 @@ Vous avez obtenu au moins 80 % de bonnes réponses dans ce bilan. Consolidez vos
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_NAT_INT_V01_RECO
+`@bilanViewT1 = calc(@parcoursDisponible ? @parcoursT1 : @score_t1)`
+`@bilanViewT2 = calc(@parcoursDisponible ? @parcoursT2 : @score_t2)`
+`@bilanViewT3 = calc(@parcoursDisponible ? @parcoursT3 : @score_t3)`
+`@bilanViewT4 = calc(@parcoursDisponible ? @parcoursT4 : @score_t4)`
+`@bilanViewT5 = calc(@parcoursDisponible ? @parcoursT5 : @score_t5)`
+`@bilanViewScore = calc(@parcoursDisponible ? @parcoursScore : @score)`
 ### 💡 Vos conseils personnalisés
 
 Les thématiques sont présentées du score le plus faible au plus élevé.
 
-1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
-`if @score_t1 == 0`
+`if @bilanViewT1 == 0`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les libertés, l’égalité, la fraternité et la laïcité : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 0`
+`if @bilanViewT2 == 0`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par le rôle du président, du Gouvernement, du Parlement et des collectivités : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 0`
+`if @bilanViewT3 == 0`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les droits fondamentaux et les obligations de chacun : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 0`
+`if @bilanViewT4 == 0`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les repères historiques, les territoires et le patrimoine : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 0`
+`if @bilanViewT5 == 0`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 0/5.**
 
 Vous découvrez cette thématique. Commencez par les démarches, la santé, le travail et l’éducation : lisez une courte partie du cours, puis expliquez une notion avec vos mots.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 1`
+`if @bilanViewT1 == 1`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les libertés, l’égalité, la fraternité et la laïcité, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 1`
+`if @bilanViewT2 == 1`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez le rôle du président, du Gouvernement, du Parlement et des collectivités, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 1`
+`if @bilanViewT3 == 1`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les droits fondamentaux et les obligations de chacun, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 1`
+`if @bilanViewT4 == 1`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les repères historiques, les territoires et le patrimoine, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 1`
+`if @bilanViewT5 == 1`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 1/5.**
 
 Vous avez reconnu un premier repère. Reprenez les démarches, la santé, le travail et l’éducation, en reliant chaque notion à un exemple concret.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 2`
+`if @bilanViewT1 == 2`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les libertés, l’égalité, la fraternité et la laïcité et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 2`
+`if @bilanViewT2 == 2`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 2`
+`if @bilanViewT3 == 2`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les droits fondamentaux et les obligations de chacun et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 2`
+`if @bilanViewT4 == 2`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les repères historiques, les territoires et le patrimoine et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 2`
+`if @bilanViewT5 == 2`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 2/5.**
 
 Vous avez déjà quelques acquis. Pour progresser, travaillez les démarches, la santé, le travail et l’éducation et notez les différences entre les notions que vous confondez.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 3`
+`if @bilanViewT1 == 3`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les libertés, l’égalité, la fraternité et la laïcité : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
 `endif`
 
-`if @score_t2 == 3`
+`if @bilanViewT2 == 3`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez le rôle du président, du Gouvernement, du Parlement et des collectivités : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
 `endif`
 
-`if @score_t3 == 3`
+`if @bilanViewT3 == 3`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les droits fondamentaux et les obligations de chacun : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
 `endif`
 
-`if @score_t4 == 3`
+`if @bilanViewT4 == 3`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les repères historiques, les territoires et le patrimoine : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
 `endif`
 
-`if @score_t5 == 3`
+`if @bilanViewT5 == 3`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 3/5.**
 
 Vous avez compris une bonne partie de cette thématique. Consolidez les démarches, la santé, le travail et l’éducation : relisez les corrections des deux réponses manquées et testez-vous à nouveau.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
 `endif`
 
-`if @score_t1 == 4`
+`if @bilanViewT1 == 4`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les libertés, l’égalité, la fraternité et la laïcité. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T1_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t2 == 4`
+`if @bilanViewT2 == 4`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T2_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t3 == 4`
+`if @bilanViewT3 == 4`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les droits fondamentaux et les obligations de chacun. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T3_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t4 == 4`
+`if @bilanViewT4 == 4`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les repères historiques, les territoires et le patrimoine. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T4_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t5 == 4`
+`if @bilanViewT5 == 4`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 4/5.**
 
 Vous maîtrisez largement cette thématique. Revoyez la notion liée à votre réponse manquée concernant les démarches, la santé, le travail et l’éducation. Entraînez-vous ensuite aux mises en situation pour appliquer ces acquis.
-1. [📖 Relire cette thématique](SCR_REV_T5_MENU)
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
 `endif`
 
-`if @score_t1 == 5`
+`if @bilanViewT1 == 5`
 #### 🇫🇷 Principes et valeurs de la République
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les libertés, l’égalité, la fraternité et la laïcité. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t2 == 5`
+`if @bilanViewT2 == 5`
 #### 🏛️ Institutions et système politique
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t3 == 5`
+`if @bilanViewT3 == 5`
 #### ⚖️ Droits et devoirs
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les droits fondamentaux et les obligations de chacun. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t4 == 5`
+`if @bilanViewT4 == 5`
 #### 🗺️ Histoire, géographie et culture
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les repères historiques, les territoires et le patrimoine. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-`if @score_t5 == 5`
+`if @bilanViewT5 == 5`
 #### 🤝 Vivre dans la société française
 **Votre résultat : 5/5.**
 
 Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfait : félicitations !** Vous avez bien mobilisé vos connaissances sur les démarches, la santé, le travail et l’éducation. Si vous ne l’avez pas encore fait, passez un examen blanc chronométré pour tester vos connaissances dans les conditions de l’examen.
-1. [🎭 Réussir les mises en situation](SCR_CONS_SITUATIONS_MENU)
-1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
 `endif`
 
-1. [💡 Mémoriser efficacement](SCR_CONS_MEMOIRE_MENU)
+
+
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
 1. [📊 Revoir mes résultats](BIL_NAT_INT_V01_RESULT)
 1. [↩️ Retour au choix des bilans](SCR_BIL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)

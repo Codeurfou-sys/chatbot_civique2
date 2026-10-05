@@ -1279,7 +1279,7 @@ Format, thèmes, niveaux et règles de l’examen.
 2. [➡️ Qui est concerné par l'examen civique ?](SCR_FAQ_002)
 3. [➡️ Quelles sont les thématiques officielles de l'examen civique ?](SCR_FAQ_003)
 4. [➡️ Combien de questions comporte l'examen civique ?](SCR_FAQ_004)
-5. [📘 Carte de résident et Naturalisation ?](SCR_FAQ_005)
+5. [➡️ Carte de résident et Naturalisation ?](SCR_FAQ_005)
 6. [➡️ A quoi correspond l'examen civique pour la naturalisation ?](SCR_FAQ_006)
 7. [➡️ A quoi correspond l'examen civique pour la carte de résident ?](SCR_FAQ_007)
 8. [➡️ A quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?](SCR_FAQ_008)

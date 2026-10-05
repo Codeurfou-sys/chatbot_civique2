@@ -4,7 +4,7 @@ import json,sys,re
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 import synchroniser_entrainements as g
 import synchroniser_banques_examens as m
-manifest=json.loads(Path('reports/entrainements_sources.json').read_text());assert len(manifest)==480
+manifest=json.loads(Path('reports/entrainements_sources.json').read_text());assert len(manifest)==630
 b=g.split(Path('modules/06_entrainement.md').read_text())
 for item in manifest:
  rows=item['questions'];route=item['route'];e=item['exam'];v=item['variant']
@@ -31,4 +31,4 @@ for p in Path('modules').glob('*.md'):
  for id,body in g.split(p.read_text()).items():
   if 'civicoach-route' in body:continue
   assert ']('+'MENU_PRINCIPAL'+')' in body,(p.name,id)
-print('OK — 480 séries, répartitions 10+5 et 2/thématique, scores et retours sur chaque écran.')
+print('OK — 630 séries, répartitions 10+5 et 2/thématique, scores et retours sur chaque écran.')

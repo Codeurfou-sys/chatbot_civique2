@@ -18,7 +18,7 @@ for(const [q,expected] of [['Combien faut-il de points pour obtenir l’examen ?
 const bil=sections('modules/02_bilan.md');const reco=bil.BIL_CSP_EQ_V01_RECO;
 for(const score of [0,1,2,3,4,5]){
  const vars={score_t1:score,score_t2:score,score_t3:score,score_t4:score,score_t5:score};const out=ctx.render(parse(reco),vars);
- assert.strictEqual(out.includes('href="#SCR_CONS_SITUATIONS_MENU"'),score>=4);
+ assert.strictEqual(out.includes('href="#SCR_CONS_SITUATIONS_MENU"'),false);
  const links=[...out.matchAll(/href="#(.*?)"/g)].map(m=>m[1]);assert.strictEqual(links[0],'SCR_PARCOURS_MENU');
 }
 const cons=sections('modules/08_conseils.md');assert(cons.SCR_CONS_ENTRETIEN_MENU.includes('SCR_REV_T5_MENU'));assert(!cons.SCR_CONS_ENTRETIEN_MENU.includes('SCR_GLO_MENU'));assert(cons.SCR_CONS_MNEMO_MENU.includes('image-mentale-1905.png'));assert(!cons.SCR_CONS_MNEMO_MENU.includes('SCR_REV_T4_MENU'));

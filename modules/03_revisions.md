@@ -6656,6 +6656,9 @@ Les grandes villes concentrent habitants, emplois et services, tandis que les es
 
 1. [🗺️ Faire les deux activités sur carte](SCR_REV_GEO_EXERCICES)
 
+
+1. [🗺️ Répondre à deux questions sur carte](SCR_GEO_CONNAISSANCES)
+
 ## SCR_REV_T4_CH02_SYN
 ### ⭐ L’essentiel à retenir
 
@@ -9118,4 +9121,18 @@ Deux activités pour appliquer vos connaissances : choisissez le fleuve ou le ma
 
 1. [🗺️ Ouvrir les activités dans une nouvelle page](https://codeurfou-sys.github.io/chatbot_civique2/activites-geographie/)
 1. [📖 Retour au cours](SCR_REV_T4_CH02_COURS)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_GEO_CONNAISSANCES
+### 🗺️ Deux questions de connaissances sur carte
+Repérez un fleuve, puis un massif montagneux. Cliquez sur la zone qui correspond à la consigne ; au clavier, utilisez Tab puis Entrée. Chaque première réponse compte pour le score de cette activité, sur 2. La correction vous aide à situer le repère et à comprendre votre erreur.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-geographie/questions.html" title="Deux questions de géographie : fleuve et montagne" width="100%" height="830" loading="eager" style="border:0;border-radius:14px"></iframe>
+
+Ces deux questions pédagogiques complètent les banques de questions de l’examen. Leur score sur 2 est affiché dans la carte.
+
+[Ouvrir les deux questions sur carte](https://codeurfou-sys.github.io/chatbot_civique2/activites-geographie/questions.html)
+
+1. [↩️ Retour aux questions de connaissances](SCR_ENT_THEME_EXAM)
+1. [📖 Revenir au cours de géographie](SCR_REV_T4_CH02_COURS)
 1. [🏠 Menu principal](MENU_PRINCIPAL)

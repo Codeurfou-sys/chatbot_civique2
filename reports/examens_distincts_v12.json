@@ -1,0 +1,3302 @@
+[
+  {
+    "exam": "CSP",
+    "variant": 1,
+    "knowledge": [
+      "CSP-T1-001",
+      "CSP-T1-002",
+      "CSP-T1-003",
+      "CSP-T1-004",
+      "CSP-T2-001",
+      "CSP-T2-002",
+      "CSP-T2-003",
+      "CSP-T2-004",
+      "CSP-T2-005",
+      "CSP-T2-006",
+      "CSP-T3-001",
+      "CSP-T3-002",
+      "CSP-T3-003",
+      "CSP-T3-004",
+      "CSP-T4-001",
+      "CSP-T4-002",
+      "CSP-T4-003",
+      "CSP-T4-004",
+      "CSP-T4-005",
+      "CSP-T4-006",
+      "CSP-T4-007",
+      "CSP-T4-008",
+      "CSP-T4-009",
+      "CSP-T5-001",
+      "CSP-T5-002",
+      "CSP-T5-003",
+      "CSP-T5-004",
+      "CSP-T5-005"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T4-010",
+        "source": "CSP-T4-010",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-035",
+        "source": "CSP-T2-035",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T2-043",
+        "source": "CSP-T2-042",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T2-044",
+        "source": "CSP-T2-043",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T3-017",
+        "source": "CSP-T3-017",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T5-015",
+        "source": "CSP-T5-015",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T3-018",
+        "source": "CSP-T3-018",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T4-030",
+        "source": "CSP-T4-028",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T5-027",
+        "source": "CSP-T5-027",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T1-007",
+        "source": "CSP-T1-007",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T1-027",
+        "source": "CSP-T1-027",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T4-011",
+        "source": "CSP-T4-011",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T4-010",
+      "MS-CSP-T2-035",
+      "MS-CSP-T2-043",
+      "MS-CSP-T2-044",
+      "MS-CSP-T3-009",
+      "MS-CSP-T5-015",
+      "MS-CSP-T3-018",
+      "MS-CSP-T4-030",
+      "MS-CSP-T5-027",
+      "MS-CSP-T1-007",
+      "MS-CSP-T1-027",
+      "MS-CSP-T4-011"
+    ]
+  },
+  {
+    "exam": "CSP",
+    "variant": 2,
+    "knowledge": [
+      "CSP-T2-010",
+      "CSP-T2-011",
+      "CSP-T2-012",
+      "CSP-T3-005",
+      "CSP-T3-006",
+      "CSP-T3-007",
+      "CSP-T3-008",
+      "CSP-T4-010",
+      "CSP-T4-011",
+      "CSP-T4-012",
+      "CSP-T4-013",
+      "CSP-T4-014",
+      "CSP-T4-015",
+      "CSP-T4-016",
+      "CSP-T4-017",
+      "CSP-T4-018",
+      "CSP-T5-006",
+      "CSP-T5-007",
+      "CSP-T5-008",
+      "CSP-T5-009",
+      "CSP-T5-010",
+      "CSP-T1-005",
+      "CSP-T1-006",
+      "CSP-T1-007",
+      "CSP-T1-008",
+      "CSP-T2-007",
+      "CSP-T2-008",
+      "CSP-T2-009"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T4-023",
+        "source": "CSP-T4-022",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T1-033",
+        "source": "CSP-T1-033",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T1-016",
+        "source": "CSP-T1-016",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T5-018",
+        "source": "CSP-T5-018",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T3-015",
+        "source": "CSP-T3-015",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T2-027",
+        "source": "CSP-T2-027",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T3-022",
+        "source": "CSP-T3-022",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T4-037",
+        "source": "CSP-T4-035",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-001",
+        "source": "CSP-T2-001",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T4-005",
+        "source": "CSP-T4-005",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T5-013",
+        "source": "CSP-T5-013",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T2-004",
+        "source": "CSP-T2-004",
+        "theme": 2
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T4-023",
+      "MS-CSP-T1-033",
+      "MS-CSP-T1-016",
+      "MS-CSP-T5-018",
+      "MS-CSP-T3-015",
+      "MS-CSP-T2-027",
+      "MS-CSP-T3-022",
+      "MS-CSP-T4-037",
+      "MS-CSP-T2-001",
+      "MS-CSP-T4-005",
+      "MS-CSP-T5-013",
+      "MS-CSP-T2-004"
+    ]
+  },
+  {
+    "exam": "CSP",
+    "variant": 3,
+    "knowledge": [
+      "CSP-T4-019",
+      "CSP-T4-020",
+      "CSP-T4-021",
+      "CSP-T4-022",
+      "CSP-T4-023",
+      "CSP-T4-024",
+      "CSP-T4-025",
+      "CSP-T4-026",
+      "CSP-T4-027",
+      "CSP-T5-011",
+      "CSP-T5-012",
+      "CSP-T5-013",
+      "CSP-T5-014",
+      "CSP-T5-015",
+      "CSP-T1-009",
+      "CSP-T1-010",
+      "CSP-T1-011",
+      "CSP-T1-012",
+      "CSP-T2-013",
+      "CSP-T2-014",
+      "CSP-T2-015",
+      "CSP-T2-016",
+      "CSP-T2-017",
+      "CSP-T2-018",
+      "CSP-T3-009",
+      "CSP-T3-010",
+      "CSP-T3-011",
+      "CSP-T3-012"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T4-043",
+        "source": "CSP-T4-041",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T3-008",
+        "source": "CSP-T3-008",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T2-024",
+        "source": "CSP-T2-024",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T5-005",
+        "source": "CSP-T5-005",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T1-025",
+        "source": "CSP-T1-025",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T1-026",
+        "source": "CSP-T1-026",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T4-040",
+        "source": "CSP-T4-038",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T3-020",
+        "source": "CSP-T3-020",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T2-034",
+        "source": "CSP-T2-034",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T4-001",
+        "source": "CSP-T4-001",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-041",
+        "source": "CSP-T2-040",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T5-006",
+        "source": "CSP-T5-006",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T4-043",
+      "MS-CSP-T3-020",
+      "MS-CSP-T2-024",
+      "MS-CSP-T5-005",
+      "MS-CSP-T1-025",
+      "MS-CSP-T1-026",
+      "MS-CSP-T4-040",
+      "MS-CSP-T3-017",
+      "MS-CSP-T2-034",
+      "MS-CSP-T4-001",
+      "MS-CSP-T2-041",
+      "MS-CSP-T5-006"
+    ]
+  },
+  {
+    "exam": "CSP",
+    "variant": 4,
+    "knowledge": [
+      "CSP-T4-035",
+      "CSP-T4-036",
+      "CSP-T5-016",
+      "CSP-T5-017",
+      "CSP-T5-018",
+      "CSP-T5-019",
+      "CSP-T5-020",
+      "CSP-T1-013",
+      "CSP-T1-014",
+      "CSP-T1-015",
+      "CSP-T1-016",
+      "CSP-T2-019",
+      "CSP-T2-020",
+      "CSP-T2-021",
+      "CSP-T2-022",
+      "CSP-T2-023",
+      "CSP-T2-024",
+      "CSP-T3-013",
+      "CSP-T3-014",
+      "CSP-T3-015",
+      "CSP-T3-016",
+      "CSP-T4-028",
+      "CSP-T4-029",
+      "CSP-T4-030",
+      "CSP-T4-031",
+      "CSP-T4-032",
+      "CSP-T4-033",
+      "CSP-T4-034"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T2-045",
+        "source": "CSP-T2-044",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T5-009",
+        "source": "CSP-T5-009",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T1-029",
+        "source": "CSP-T1-029",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T2-030",
+        "source": "CSP-T2-030",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T5-023",
+        "source": "CSP-T5-023",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T2-017",
+        "source": "CSP-T2-017",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T1-022",
+        "source": "CSP-T1-022",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T4-019",
+        "source": "CSP-T4-018",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T4-016",
+        "source": "CSP-T4-015",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T3-027",
+        "source": "CSP-T3-027",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T3-001",
+        "source": "CSP-T3-001",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T4-047",
+        "source": "CSP-T4-045",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T2-045",
+      "MS-CSP-T5-009",
+      "MS-CSP-T1-029",
+      "MS-CSP-T2-030",
+      "MS-CSP-T5-023",
+      "MS-CSP-T2-017",
+      "MS-CSP-T1-022",
+      "MS-CSP-T4-019",
+      "MS-CSP-T4-016",
+      "MS-CSP-T3-027",
+      "MS-CSP-T3-001",
+      "MS-CSP-T4-047"
+    ]
+  },
+  {
+    "exam": "CSP",
+    "variant": 5,
+    "knowledge": [
+      "CSP-T1-017",
+      "CSP-T1-018",
+      "CSP-T1-019",
+      "CSP-T1-020",
+      "CSP-T2-025",
+      "CSP-T2-026",
+      "CSP-T2-027",
+      "CSP-T2-028",
+      "CSP-T2-029",
+      "CSP-T2-030",
+      "CSP-T3-017",
+      "CSP-T3-018",
+      "CSP-T3-019",
+      "CSP-T3-020",
+      "CSP-T4-037",
+      "CSP-T4-038",
+      "CSP-T4-039",
+      "CSP-T4-040",
+      "CSP-T4-041",
+      "CSP-T4-042",
+      "CSP-T4-043",
+      "CSP-T4-044",
+      "CSP-T4-045",
+      "CSP-T5-021",
+      "CSP-T5-022",
+      "CSP-T5-023",
+      "CSP-T5-024",
+      "CSP-T5-025"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T4-007",
+        "source": "CSP-T4-007",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-006",
+        "source": "CSP-T2-006",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T5-008",
+        "source": "CSP-T5-008",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T2-008",
+        "source": "CSP-T2-008",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T4-029",
+        "source": "CSP-T4-027",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T1-003",
+        "source": "CSP-T1-003",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T2-016",
+        "source": "CSP-T2-016",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T3-029",
+        "source": "CSP-T3-029",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T5-017",
+        "source": "CSP-T5-017",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T3-028",
+        "source": "CSP-T3-028",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T1-006",
+        "source": "CSP-T1-006",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T4-002",
+        "source": "CSP-T4-002",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T4-007",
+      "MS-CSP-T2-006",
+      "MS-CSP-T5-008",
+      "MS-CSP-T2-008",
+      "MS-CSP-T4-029",
+      "MS-CSP-T1-003",
+      "MS-CSP-T2-016",
+      "MS-CSP-T3-029",
+      "MS-CSP-T5-017",
+      "MS-CSP-T3-028",
+      "MS-CSP-T1-006",
+      "MS-CSP-T4-002"
+    ]
+  },
+  {
+    "exam": "CSP",
+    "variant": 6,
+    "knowledge": [
+      "CSP-T2-034",
+      "CSP-T2-035",
+      "CSP-T2-036",
+      "CSP-T3-021",
+      "CSP-T3-022",
+      "CSP-T3-023",
+      "CSP-T3-024",
+      "CSP-T4-046",
+      "CSP-T4-047",
+      "CSP-T4-001",
+      "CSP-T4-002",
+      "CSP-T4-003",
+      "CSP-T4-004",
+      "CSP-T4-005",
+      "CSP-T4-006",
+      "CSP-T4-007",
+      "CSP-T5-026",
+      "CSP-T5-027",
+      "CSP-T5-028",
+      "CSP-T5-029",
+      "CSP-T5-030",
+      "CSP-T1-021",
+      "CSP-T1-022",
+      "CSP-T1-023",
+      "CSP-T1-024",
+      "CSP-T2-031",
+      "CSP-T2-032",
+      "CSP-T2-033"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T3-010",
+        "source": "CSP-T3-010",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T5-007",
+        "source": "CSP-T5-007",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T3-026",
+        "source": "CSP-T3-026",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T5-002",
+        "source": "CSP-T5-002",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T4-042",
+        "source": "CSP-T4-040",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-014",
+        "source": "CSP-T2-014",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T2-019",
+        "source": "CSP-T2-019",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T2-018",
+        "source": "CSP-T2-018",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T1-004",
+        "source": "CSP-T1-004",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T1-015",
+        "source": "CSP-T1-015",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T4-022",
+        "source": "CSP-T4-021",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T4-045",
+        "source": "CSP-T4-043",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T3-010",
+      "MS-CSP-T5-007",
+      "MS-CSP-T3-026",
+      "MS-CSP-T5-002",
+      "MS-CSP-T4-042",
+      "MS-CSP-T2-014",
+      "MS-CSP-T2-019",
+      "MS-CSP-T2-018",
+      "MS-CSP-T1-004",
+      "MS-CSP-T1-015",
+      "MS-CSP-T4-022",
+      "MS-CSP-T4-045"
+    ]
+  },
+  {
+    "exam": "CSP",
+    "variant": 7,
+    "knowledge": [
+      "CSP-T4-008",
+      "CSP-T4-009",
+      "CSP-T4-010",
+      "CSP-T4-011",
+      "CSP-T4-012",
+      "CSP-T4-013",
+      "CSP-T4-014",
+      "CSP-T4-015",
+      "CSP-T4-016",
+      "CSP-T5-001",
+      "CSP-T5-002",
+      "CSP-T5-003",
+      "CSP-T5-004",
+      "CSP-T5-005",
+      "CSP-T1-025",
+      "CSP-T1-026",
+      "CSP-T1-027",
+      "CSP-T1-028",
+      "CSP-T2-037",
+      "CSP-T2-038",
+      "CSP-T2-039",
+      "CSP-T2-040",
+      "CSP-T2-041",
+      "CSP-T2-042",
+      "CSP-T3-025",
+      "CSP-T3-026",
+      "CSP-T3-027",
+      "CSP-T3-028"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T4-033",
+        "source": "CSP-T4-031",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T4-036",
+        "source": "CSP-T4-034",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-028",
+        "source": "CSP-T2-028",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T1-036",
+        "source": "CSP-T1-036",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T1-030",
+        "source": "CSP-T1-030",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T5-021",
+        "source": "CSP-T5-021",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T2-012",
+        "source": "CSP-T2-012",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T5-011",
+        "source": "CSP-T5-011",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T4-020",
+        "source": "CSP-T4-019",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T3-013",
+        "source": "CSP-T3-013",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T2-010",
+        "source": "CSP-T2-010",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T3-030",
+        "source": "CSP-T3-030",
+        "theme": 3
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T4-033",
+      "MS-CSP-T4-036",
+      "MS-CSP-T2-028",
+      "MS-CSP-T1-036",
+      "MS-CSP-T1-030",
+      "MS-CSP-T5-021",
+      "MS-CSP-T2-012",
+      "MS-CSP-T5-011",
+      "MS-CSP-T4-020",
+      "MS-CSP-T3-013",
+      "MS-CSP-T2-010",
+      "MS-CSP-T3-030"
+    ]
+  },
+  {
+    "exam": "CSP",
+    "variant": 8,
+    "knowledge": [
+      "CSP-T4-024",
+      "CSP-T4-025",
+      "CSP-T5-006",
+      "CSP-T5-007",
+      "CSP-T5-008",
+      "CSP-T5-009",
+      "CSP-T5-010",
+      "CSP-T1-029",
+      "CSP-T1-030",
+      "CSP-T1-031",
+      "CSP-T1-032",
+      "CSP-T2-043",
+      "CSP-T2-044",
+      "CSP-T2-045",
+      "CSP-T2-001",
+      "CSP-T2-002",
+      "CSP-T2-003",
+      "CSP-T3-029",
+      "CSP-T3-030",
+      "CSP-T3-001",
+      "CSP-T3-002",
+      "CSP-T4-017",
+      "CSP-T4-018",
+      "CSP-T4-019",
+      "CSP-T4-020",
+      "CSP-T4-021",
+      "CSP-T4-022",
+      "CSP-T4-023"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T1-013",
+        "source": "CSP-T1-013",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T1-018",
+        "source": "CSP-T1-018",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T4-038",
+        "source": "CSP-T4-036",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-005",
+        "source": "CSP-T2-005",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T5-001",
+        "source": "CSP-T5-001",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T3-021",
+        "source": "CSP-T3-021",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T5-025",
+        "source": "CSP-T5-025",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T4-017",
+        "source": "CSP-T4-016",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-020",
+        "source": "CSP-T2-020",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T3-019",
+        "source": "CSP-T3-019",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T2-033",
+        "source": "CSP-T2-033",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T4-015",
+        "source": "CSP-T4-014",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T1-013",
+      "MS-CSP-T1-018",
+      "MS-CSP-T4-038",
+      "MS-CSP-T2-005",
+      "MS-CSP-T5-001",
+      "MS-CSP-T3-021",
+      "MS-CSP-T5-025",
+      "MS-CSP-T4-017",
+      "MS-CSP-T2-020",
+      "MS-CSP-T3-019",
+      "MS-CSP-T2-033",
+      "MS-CSP-T4-015"
+    ]
+  },
+  {
+    "exam": "CSP",
+    "variant": 9,
+    "knowledge": [
+      "CSP-T1-033",
+      "CSP-T1-034",
+      "CSP-T1-035",
+      "CSP-T1-036",
+      "CSP-T2-004",
+      "CSP-T2-005",
+      "CSP-T2-006",
+      "CSP-T2-007",
+      "CSP-T2-008",
+      "CSP-T2-009",
+      "CSP-T3-003",
+      "CSP-T3-004",
+      "CSP-T3-005",
+      "CSP-T3-006",
+      "CSP-T4-026",
+      "CSP-T4-027",
+      "CSP-T4-028",
+      "CSP-T4-029",
+      "CSP-T4-030",
+      "CSP-T4-031",
+      "CSP-T4-032",
+      "CSP-T4-033",
+      "CSP-T4-034",
+      "CSP-T5-011",
+      "CSP-T5-012",
+      "CSP-T5-013",
+      "CSP-T5-014",
+      "CSP-T5-015"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T4-044",
+        "source": "CSP-T4-042",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T5-030",
+        "source": "CSP-T5-029",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T1-001",
+        "source": "CSP-T1-001",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T1-011",
+        "source": "CSP-T1-011",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T5-004",
+        "source": "CSP-T5-004",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T2-042",
+        "source": "CSP-T2-041",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T2-029",
+        "source": "CSP-T2-029",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T4-008",
+        "source": "CSP-T4-008",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T3-024",
+        "source": "CSP-T3-024",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T3-011",
+        "source": "CSP-T3-011",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T4-039",
+        "source": "CSP-T4-037",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-032",
+        "source": "CSP-T2-032",
+        "theme": 2
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T4-044",
+      "MS-CSP-T5-030",
+      "MS-CSP-T1-001",
+      "MS-CSP-T1-011",
+      "MS-CSP-T5-004",
+      "MS-CSP-T2-042",
+      "MS-CSP-T2-029",
+      "MS-CSP-T4-008",
+      "MS-CSP-T3-024",
+      "MS-CSP-T3-011",
+      "MS-CSP-T4-039",
+      "MS-CSP-T2-032"
+    ]
+  },
+  {
+    "exam": "CSP",
+    "variant": 10,
+    "knowledge": [
+      "CSP-T2-013",
+      "CSP-T2-014",
+      "CSP-T2-015",
+      "CSP-T3-007",
+      "CSP-T3-008",
+      "CSP-T3-009",
+      "CSP-T3-010",
+      "CSP-T4-035",
+      "CSP-T4-036",
+      "CSP-T4-037",
+      "CSP-T4-038",
+      "CSP-T4-039",
+      "CSP-T4-040",
+      "CSP-T4-041",
+      "CSP-T4-042",
+      "CSP-T4-043",
+      "CSP-T5-016",
+      "CSP-T5-017",
+      "CSP-T5-018",
+      "CSP-T5-019",
+      "CSP-T5-020",
+      "CSP-T1-037",
+      "CSP-T1-001",
+      "CSP-T1-002",
+      "CSP-T1-003",
+      "CSP-T2-010",
+      "CSP-T2-011",
+      "CSP-T2-012"
+    ],
+    "situations": [
+      {
+        "id": "MS-CSP-T4-031",
+        "source": "CSP-T4-029",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T5-010",
+        "source": "CSP-T5-010",
+        "theme": 5
+      },
+      {
+        "id": "MS-CSP-T2-021",
+        "source": "CSP-T2-021",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T3-016",
+        "source": "CSP-T3-016",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T4-003",
+        "source": "CSP-T4-003",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T2-037",
+        "source": "CSP-T2-036",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T4-013",
+        "source": "CSP-T4-013",
+        "theme": 4
+      },
+      {
+        "id": "MS-CSP-T1-017",
+        "source": "CSP-T1-017",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T3-014",
+        "source": "CSP-T3-014",
+        "theme": 3
+      },
+      {
+        "id": "MS-CSP-T1-023",
+        "source": "CSP-T1-023",
+        "theme": 1
+      },
+      {
+        "id": "MS-CSP-T2-026",
+        "source": "CSP-T2-026",
+        "theme": 2
+      },
+      {
+        "id": "MS-CSP-T5-014",
+        "source": "CSP-T5-014",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-CSP-T4-031",
+      "MS-CSP-T5-010",
+      "MS-CSP-T2-021",
+      "MS-CSP-T3-016",
+      "MS-CSP-T4-003",
+      "MS-CSP-T2-037",
+      "MS-CSP-T4-013",
+      "MS-CSP-T1-017",
+      "MS-CSP-T3-014",
+      "MS-CSP-T1-023",
+      "MS-CSP-T2-026",
+      "MS-CSP-T5-014"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 1,
+    "knowledge": [
+      "CR-T1-001",
+      "CR-T1-002",
+      "CR-T1-003",
+      "CR-T1-004",
+      "CR-T2-001",
+      "CR-T2-002",
+      "CR-T2-003",
+      "CR-T2-004",
+      "CR-T2-005",
+      "CR-T2-006",
+      "CR-T3-001",
+      "CR-T3-002",
+      "CR-T3-003",
+      "CR-T3-004",
+      "CR-T4-001",
+      "CR-T4-002",
+      "CR-T4-003",
+      "CR-T4-004",
+      "CR-T4-005",
+      "CR-T4-006",
+      "CR-T4-007",
+      "CR-T4-008",
+      "CR-T4-009",
+      "CR-T5-001",
+      "CR-T5-002",
+      "CR-T5-003",
+      "CR-T5-004",
+      "CR-T5-005"
+    ],
+    "situations": [
+      {
+        "id": "MS-T3-038",
+        "source": "CR-T3-038",
+        "theme": 3
+      },
+      {
+        "id": "MS-T2-029",
+        "source": "CR-T2-029",
+        "theme": 2
+      },
+      {
+        "id": "MS-T5-032",
+        "source": "CR-T5-032",
+        "theme": 5
+      },
+      {
+        "id": "MS-T4-016",
+        "source": "CR-T4-016",
+        "theme": 4
+      },
+      {
+        "id": "MS-T4-039",
+        "source": "CR-T4-044",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-039",
+        "source": "CR-T2-039",
+        "theme": 2
+      },
+      {
+        "id": "MS-T2-043",
+        "source": "CR-T2-043",
+        "theme": 2
+      },
+      {
+        "id": "MS-T1-018",
+        "source": "CR-T1-018",
+        "theme": 1
+      },
+      {
+        "id": "MS-T5-019",
+        "source": "CR-T5-019",
+        "theme": 5
+      },
+      {
+        "id": "MS-T3-012",
+        "source": "CR-T3-012",
+        "theme": 3
+      },
+      {
+        "id": "MS-T4-042",
+        "source": "CR-T4-047",
+        "theme": 4
+      },
+      {
+        "id": "MS-T1-038",
+        "source": "CR-T1-038",
+        "theme": 1
+      }
+    ],
+    "previous_situations": [
+      "MS-T3-038",
+      "MS-T2-029",
+      "MS-T5-032",
+      "MS-T4-016",
+      "MS-T4-039",
+      "MS-T2-039",
+      "MS-T2-043",
+      "MS-T1-018",
+      "MS-T5-019",
+      "MS-T3-012",
+      "MS-T4-042",
+      "MS-T1-038"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 2,
+    "knowledge": [
+      "CR-T2-010",
+      "CR-T2-011",
+      "CR-T2-012",
+      "CR-T3-005",
+      "CR-T3-006",
+      "CR-T3-007",
+      "CR-T3-008",
+      "CR-T4-010",
+      "CR-T4-011",
+      "CR-T4-012",
+      "CR-T4-013",
+      "CR-T4-014",
+      "CR-T4-015",
+      "CR-T4-016",
+      "CR-T4-017",
+      "CR-T4-018",
+      "CR-T5-006",
+      "CR-T5-007",
+      "CR-T5-008",
+      "CR-T5-009",
+      "CR-T5-010",
+      "CR-T1-005",
+      "CR-T1-006",
+      "CR-T1-007",
+      "CR-T1-008",
+      "CR-T2-007",
+      "CR-T2-008",
+      "CR-T2-009"
+    ],
+    "situations": [
+      {
+        "id": "MS-T5-028",
+        "source": "CR-T5-028",
+        "theme": 5
+      },
+      {
+        "id": "MS-T3-011",
+        "source": "CR-T3-011",
+        "theme": 3
+      },
+      {
+        "id": "MS-T3-025",
+        "source": "CR-T3-025",
+        "theme": 3
+      },
+      {
+        "id": "MS-T2-038",
+        "source": "CR-T2-038",
+        "theme": 2
+      },
+      {
+        "id": "MS-T1-023",
+        "source": "CR-T1-023",
+        "theme": 1
+      },
+      {
+        "id": "MS-T4-002",
+        "source": "CR-T4-002",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-023",
+        "source": "CR-T2-023",
+        "theme": 2
+      },
+      {
+        "id": "MS-T4-038",
+        "source": "CR-T4-043",
+        "theme": 4
+      },
+      {
+        "id": "MS-T1-015",
+        "source": "CR-T1-015",
+        "theme": 1
+      },
+      {
+        "id": "MS-T2-042",
+        "source": "CR-T2-042",
+        "theme": 2
+      },
+      {
+        "id": "MS-T5-027",
+        "source": "CR-T5-027",
+        "theme": 5
+      },
+      {
+        "id": "MS-T4-025",
+        "source": "CR-T4-025",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-T5-028",
+      "MS-T3-011",
+      "MS-T3-025",
+      "MS-T2-038",
+      "MS-T1-023",
+      "MS-T4-002",
+      "MS-T2-023",
+      "MS-T4-038",
+      "MS-T1-015",
+      "MS-T2-042",
+      "MS-T5-027",
+      "MS-T4-025"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 3,
+    "knowledge": [
+      "CR-T4-019",
+      "CR-T4-020",
+      "CR-T4-021",
+      "CR-T4-022",
+      "CR-T4-023",
+      "CR-T4-024",
+      "CR-T4-025",
+      "CR-T4-026",
+      "CR-T4-027",
+      "CR-T5-011",
+      "CR-T5-012",
+      "CR-T5-013",
+      "CR-T5-014",
+      "CR-T5-015",
+      "CR-T1-009",
+      "CR-T1-010",
+      "CR-T1-011",
+      "CR-T1-012",
+      "CR-T2-013",
+      "CR-T2-014",
+      "CR-T2-015",
+      "CR-T2-016",
+      "CR-T2-017",
+      "CR-T2-018",
+      "CR-T3-009",
+      "CR-T3-010",
+      "CR-T3-011",
+      "CR-T3-012"
+    ],
+    "situations": [
+      {
+        "id": "MS-T4-017",
+        "source": "CR-T4-017",
+        "theme": 4
+      },
+      {
+        "id": "MS-T1-035",
+        "source": "CR-T1-035",
+        "theme": 1
+      },
+      {
+        "id": "MS-T3-005",
+        "source": "CR-T3-005",
+        "theme": 3
+      },
+      {
+        "id": "MS-T5-001",
+        "source": "CR-T5-001",
+        "theme": 5
+      },
+      {
+        "id": "MS-T3-026",
+        "source": "CR-T3-026",
+        "theme": 3
+      },
+      {
+        "id": "MS-T4-014",
+        "source": "CR-T4-014",
+        "theme": 4
+      },
+      {
+        "id": "MS-T1-020",
+        "source": "CR-T1-020",
+        "theme": 1
+      },
+      {
+        "id": "MS-T2-033",
+        "source": "CR-T2-033",
+        "theme": 2
+      },
+      {
+        "id": "MS-T4-036",
+        "source": "CR-T4-041",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-027",
+        "source": "CR-T2-027",
+        "theme": 2
+      },
+      {
+        "id": "MS-T2-020",
+        "source": "CR-T2-020",
+        "theme": 2
+      },
+      {
+        "id": "MS-T5-020",
+        "source": "CR-T5-020",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-T4-017",
+      "MS-T1-035",
+      "MS-T3-005",
+      "MS-T5-001",
+      "MS-T3-026",
+      "MS-T4-014",
+      "MS-T1-020",
+      "MS-T2-033",
+      "MS-T4-036",
+      "MS-T2-027",
+      "MS-T2-020",
+      "MS-T5-020"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 4,
+    "knowledge": [
+      "CR-T4-040",
+      "CR-T4-041",
+      "CR-T5-016",
+      "CR-T5-017",
+      "CR-T5-018",
+      "CR-T5-019",
+      "CR-T5-020",
+      "CR-T1-013",
+      "CR-T1-014",
+      "CR-T1-015",
+      "CR-T1-016",
+      "CR-T2-019",
+      "CR-T2-020",
+      "CR-T2-021",
+      "CR-T2-022",
+      "CR-T2-023",
+      "CR-T2-024",
+      "CR-T3-013",
+      "CR-T3-014",
+      "CR-T3-015",
+      "CR-T3-016",
+      "CR-T4-028",
+      "CR-T4-029",
+      "CR-T4-030",
+      "CR-T4-036",
+      "CR-T4-037",
+      "CR-T4-038",
+      "CR-T4-039"
+    ],
+    "situations": [
+      {
+        "id": "MS-T5-031",
+        "source": "CR-T5-031",
+        "theme": 5
+      },
+      {
+        "id": "MS-T1-011",
+        "source": "CR-T1-011",
+        "theme": 1
+      },
+      {
+        "id": "MS-T4-013",
+        "source": "CR-T4-013",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-006",
+        "source": "CR-T2-006",
+        "theme": 2
+      },
+      {
+        "id": "MS-T3-021",
+        "source": "CR-T3-021",
+        "theme": 3
+      },
+      {
+        "id": "MS-T5-012",
+        "source": "CR-T5-012",
+        "theme": 5
+      },
+      {
+        "id": "MS-T1-037",
+        "source": "CR-T1-037",
+        "theme": 1
+      },
+      {
+        "id": "MS-T3-006",
+        "source": "CR-T3-006",
+        "theme": 3
+      },
+      {
+        "id": "MS-T4-037",
+        "source": "CR-T4-042",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-002",
+        "source": "CR-T2-002",
+        "theme": 2
+      },
+      {
+        "id": "MS-T4-012",
+        "source": "CR-T4-012",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-032",
+        "source": "CR-T2-032",
+        "theme": 2
+      }
+    ],
+    "previous_situations": [
+      "MS-T5-031",
+      "MS-T1-011",
+      "MS-T4-013",
+      "MS-T2-002",
+      "MS-T3-021",
+      "MS-T5-012",
+      "MS-T1-037",
+      "MS-T3-006",
+      "MS-T4-037",
+      "MS-T2-032",
+      "MS-T4-012",
+      "MS-T2-008"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 5,
+    "knowledge": [
+      "CR-T1-017",
+      "CR-T1-018",
+      "CR-T1-019",
+      "CR-T1-020",
+      "CR-T2-025",
+      "CR-T2-026",
+      "CR-T2-027",
+      "CR-T2-028",
+      "CR-T2-029",
+      "CR-T2-030",
+      "CR-T3-017",
+      "CR-T3-018",
+      "CR-T3-019",
+      "CR-T3-020",
+      "CR-T4-042",
+      "CR-T4-043",
+      "CR-T4-044",
+      "CR-T4-045",
+      "CR-T4-046",
+      "CR-T4-047",
+      "CR-T4-048",
+      "CR-T4-049",
+      "CR-T4-050",
+      "CR-T5-021",
+      "CR-T5-022",
+      "CR-T5-023",
+      "CR-T5-024",
+      "CR-T5-025"
+    ],
+    "situations": [
+      {
+        "id": "MS-T5-003",
+        "source": "CR-T5-003",
+        "theme": 5
+      },
+      {
+        "id": "MS-T4-010",
+        "source": "CR-T4-010",
+        "theme": 4
+      },
+      {
+        "id": "MS-T1-025",
+        "source": "CR-T1-025",
+        "theme": 1
+      },
+      {
+        "id": "MS-T4-034",
+        "source": "CR-T4-039",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-049",
+        "source": "CR-T2-049",
+        "theme": 2
+      },
+      {
+        "id": "MS-T5-018",
+        "source": "CR-T5-018",
+        "theme": 5
+      },
+      {
+        "id": "MS-T2-017",
+        "source": "CR-T2-017",
+        "theme": 2
+      },
+      {
+        "id": "MS-T3-001",
+        "source": "CR-T3-001",
+        "theme": 3
+      },
+      {
+        "id": "MS-T2-041",
+        "source": "CR-T2-041",
+        "theme": 2
+      },
+      {
+        "id": "MS-T1-021",
+        "source": "CR-T1-021",
+        "theme": 1
+      },
+      {
+        "id": "MS-T3-035",
+        "source": "CR-T3-035",
+        "theme": 3
+      },
+      {
+        "id": "MS-T4-031",
+        "source": "CR-T4-036",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-T5-003",
+      "MS-T4-010",
+      "MS-T1-025",
+      "MS-T4-034",
+      "MS-T2-049",
+      "MS-T5-018",
+      "MS-T2-017",
+      "MS-T3-001",
+      "MS-T2-041",
+      "MS-T1-021",
+      "MS-T3-035",
+      "MS-T4-031"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 6,
+    "knowledge": [
+      "CR-T2-034",
+      "CR-T2-035",
+      "CR-T2-036",
+      "CR-T3-021",
+      "CR-T3-022",
+      "CR-T3-023",
+      "CR-T3-024",
+      "CR-T4-001",
+      "CR-T4-002",
+      "CR-T4-003",
+      "CR-T4-004",
+      "CR-T4-005",
+      "CR-T4-006",
+      "CR-T4-007",
+      "CR-T4-008",
+      "CR-T4-009",
+      "CR-T5-026",
+      "CR-T5-027",
+      "CR-T5-028",
+      "CR-T5-029",
+      "CR-T5-030",
+      "CR-T1-021",
+      "CR-T1-022",
+      "CR-T1-023",
+      "CR-T1-024",
+      "CR-T2-031",
+      "CR-T2-032",
+      "CR-T2-033"
+    ],
+    "situations": [
+      {
+        "id": "MS-T1-010",
+        "source": "CR-T1-010",
+        "theme": 1
+      },
+      {
+        "id": "MS-T3-037",
+        "source": "CR-T3-037",
+        "theme": 3
+      },
+      {
+        "id": "MS-T4-028",
+        "source": "CR-T4-028",
+        "theme": 4
+      },
+      {
+        "id": "MS-T5-015",
+        "source": "CR-T5-015",
+        "theme": 5
+      },
+      {
+        "id": "MS-T2-048",
+        "source": "CR-T2-048",
+        "theme": 2
+      },
+      {
+        "id": "MS-T1-032",
+        "source": "CR-T1-032",
+        "theme": 1
+      },
+      {
+        "id": "MS-T4-023",
+        "source": "CR-T4-023",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-009",
+        "source": "CR-T2-009",
+        "theme": 2
+      },
+      {
+        "id": "MS-T5-013",
+        "source": "CR-T5-013",
+        "theme": 5
+      },
+      {
+        "id": "MS-T4-044",
+        "source": "CR-T4-049",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-003",
+        "source": "CR-T2-003",
+        "theme": 2
+      },
+      {
+        "id": "MS-T3-032",
+        "source": "CR-T3-032",
+        "theme": 3
+      }
+    ],
+    "previous_situations": [
+      "MS-T1-010",
+      "MS-T3-037",
+      "MS-T4-028",
+      "MS-T5-015",
+      "MS-T2-006",
+      "MS-T1-032",
+      "MS-T4-023",
+      "MS-T2-009",
+      "MS-T5-013",
+      "MS-T4-044",
+      "MS-T2-048",
+      "MS-T3-032"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 7,
+    "knowledge": [
+      "CR-T4-010",
+      "CR-T4-011",
+      "CR-T4-012",
+      "CR-T4-013",
+      "CR-T4-014",
+      "CR-T4-015",
+      "CR-T4-016",
+      "CR-T4-017",
+      "CR-T4-018",
+      "CR-T5-031",
+      "CR-T5-032",
+      "CR-T5-001",
+      "CR-T5-002",
+      "CR-T5-003",
+      "CR-T1-025",
+      "CR-T1-026",
+      "CR-T1-027",
+      "CR-T1-028",
+      "CR-T2-037",
+      "CR-T2-038",
+      "CR-T2-039",
+      "CR-T2-040",
+      "CR-T2-041",
+      "CR-T2-042",
+      "CR-T3-025",
+      "CR-T3-026",
+      "CR-T3-027",
+      "CR-T3-028"
+    ],
+    "situations": [
+      {
+        "id": "MS-T4-019",
+        "source": "CR-T4-019",
+        "theme": 4
+      },
+      {
+        "id": "MS-T5-014",
+        "source": "CR-T5-014",
+        "theme": 5
+      },
+      {
+        "id": "MS-T2-014",
+        "source": "CR-T2-014",
+        "theme": 2
+      },
+      {
+        "id": "MS-T4-001",
+        "source": "CR-T4-001",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-021",
+        "source": "CR-T2-021",
+        "theme": 2
+      },
+      {
+        "id": "MS-T3-018",
+        "source": "CR-T3-018",
+        "theme": 3
+      },
+      {
+        "id": "MS-T1-002",
+        "source": "CR-T1-002",
+        "theme": 1
+      },
+      {
+        "id": "MS-T1-007",
+        "source": "CR-T1-007",
+        "theme": 1
+      },
+      {
+        "id": "MS-T3-034",
+        "source": "CR-T3-034",
+        "theme": 3
+      },
+      {
+        "id": "MS-T4-024",
+        "source": "CR-T4-024",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-026",
+        "source": "CR-T2-026",
+        "theme": 2
+      },
+      {
+        "id": "MS-T5-021",
+        "source": "CR-T5-021",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-T4-019",
+      "MS-T5-014",
+      "MS-T2-014",
+      "MS-T4-001",
+      "MS-T2-021",
+      "MS-T3-018",
+      "MS-T1-002",
+      "MS-T1-007",
+      "MS-T3-019",
+      "MS-T4-024",
+      "MS-T2-026",
+      "MS-T5-021"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 8,
+    "knowledge": [
+      "CR-T4-026",
+      "CR-T4-027",
+      "CR-T5-004",
+      "CR-T5-005",
+      "CR-T5-006",
+      "CR-T5-007",
+      "CR-T5-008",
+      "CR-T1-029",
+      "CR-T1-030",
+      "CR-T1-031",
+      "CR-T1-032",
+      "CR-T2-043",
+      "CR-T2-044",
+      "CR-T2-045",
+      "CR-T2-046",
+      "CR-T2-047",
+      "CR-T2-048",
+      "CR-T3-029",
+      "CR-T3-030",
+      "CR-T3-031",
+      "CR-T3-032",
+      "CR-T4-019",
+      "CR-T4-020",
+      "CR-T4-021",
+      "CR-T4-022",
+      "CR-T4-023",
+      "CR-T4-024",
+      "CR-T4-025"
+    ],
+    "situations": [
+      {
+        "id": "MS-T1-009",
+        "source": "CR-T1-009",
+        "theme": 1
+      },
+      {
+        "id": "MS-T4-007",
+        "source": "CR-T4-007",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-012",
+        "source": "CR-T2-012",
+        "theme": 2
+      },
+      {
+        "id": "MS-T4-009",
+        "source": "CR-T4-009",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-011",
+        "source": "CR-T2-011",
+        "theme": 2
+      },
+      {
+        "id": "MS-T1-027",
+        "source": "CR-T1-027",
+        "theme": 1
+      },
+      {
+        "id": "MS-T5-011",
+        "source": "CR-T5-011",
+        "theme": 5
+      },
+      {
+        "id": "MS-T5-009",
+        "source": "CR-T5-009",
+        "theme": 5
+      },
+      {
+        "id": "MS-T3-007",
+        "source": "CR-T3-007",
+        "theme": 3
+      },
+      {
+        "id": "MS-T4-045",
+        "source": "CR-T4-050",
+        "theme": 4
+      },
+      {
+        "id": "MS-T2-025",
+        "source": "CR-T2-025",
+        "theme": 2
+      },
+      {
+        "id": "MS-T3-004",
+        "source": "CR-T3-004",
+        "theme": 3
+      }
+    ],
+    "previous_situations": [
+      "MS-T1-009",
+      "MS-T4-007",
+      "MS-T2-012",
+      "MS-T4-009",
+      "MS-T2-011",
+      "MS-T1-027",
+      "MS-T5-011",
+      "MS-T5-009",
+      "MS-T3-007",
+      "MS-T4-045",
+      "MS-T2-025",
+      "MS-T3-004"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 9,
+    "knowledge": [
+      "CR-T1-033",
+      "CR-T1-034",
+      "CR-T1-035",
+      "CR-T1-036",
+      "CR-T2-049",
+      "CR-T2-050",
+      "CR-T2-001",
+      "CR-T2-002",
+      "CR-T2-003",
+      "CR-T2-004",
+      "CR-T3-033",
+      "CR-T3-034",
+      "CR-T3-035",
+      "CR-T3-036",
+      "CR-T4-028",
+      "CR-T4-029",
+      "CR-T4-030",
+      "CR-T4-036",
+      "CR-T4-037",
+      "CR-T4-038",
+      "CR-T4-039",
+      "CR-T4-040",
+      "CR-T4-041",
+      "CR-T5-009",
+      "CR-T5-010",
+      "CR-T5-011",
+      "CR-T5-012",
+      "CR-T5-013"
+    ],
+    "situations": [
+      {
+        "id": "MS-T2-031",
+        "source": "CR-T2-031",
+        "theme": 2
+      },
+      {
+        "id": "MS-T4-008",
+        "source": "CR-T4-008",
+        "theme": 4
+      },
+      {
+        "id": "MS-T5-008",
+        "source": "CR-T5-008",
+        "theme": 5
+      },
+      {
+        "id": "MS-T5-023",
+        "source": "CR-T5-023",
+        "theme": 5
+      },
+      {
+        "id": "MS-T1-030",
+        "source": "CR-T1-030",
+        "theme": 1
+      },
+      {
+        "id": "MS-T2-007",
+        "source": "CR-T2-007",
+        "theme": 2
+      },
+      {
+        "id": "MS-T2-037",
+        "source": "CR-T2-037",
+        "theme": 2
+      },
+      {
+        "id": "MS-T4-041",
+        "source": "CR-T4-046",
+        "theme": 4
+      },
+      {
+        "id": "MS-T3-003",
+        "source": "CR-T3-003",
+        "theme": 3
+      },
+      {
+        "id": "MS-T3-030",
+        "source": "CR-T3-030",
+        "theme": 3
+      },
+      {
+        "id": "MS-T1-016",
+        "source": "CR-T1-016",
+        "theme": 1
+      },
+      {
+        "id": "MS-T4-006",
+        "source": "CR-T4-006",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-T2-031",
+      "MS-T4-008",
+      "MS-T5-008",
+      "MS-T5-023",
+      "MS-T1-030",
+      "MS-T2-007",
+      "MS-T2-037",
+      "MS-T4-041",
+      "MS-T3-003",
+      "MS-T3-030",
+      "MS-T1-016",
+      "MS-T4-006"
+    ]
+  },
+  {
+    "exam": "CR",
+    "variant": 10,
+    "knowledge": [
+      "CR-T2-008",
+      "CR-T2-009",
+      "CR-T2-010",
+      "CR-T3-037",
+      "CR-T3-038",
+      "CR-T3-001",
+      "CR-T3-002",
+      "CR-T4-042",
+      "CR-T4-043",
+      "CR-T4-044",
+      "CR-T4-045",
+      "CR-T4-046",
+      "CR-T4-047",
+      "CR-T4-048",
+      "CR-T4-049",
+      "CR-T4-050",
+      "CR-T5-014",
+      "CR-T5-015",
+      "CR-T5-016",
+      "CR-T5-017",
+      "CR-T5-018",
+      "CR-T1-037",
+      "CR-T1-038",
+      "CR-T1-039",
+      "CR-T1-001",
+      "CR-T2-005",
+      "CR-T2-006",
+      "CR-T2-007"
+    ],
+    "situations": [
+      {
+        "id": "MS-T4-021",
+        "source": "CR-T4-021",
+        "theme": 4
+      },
+      {
+        "id": "MS-T3-036",
+        "source": "CR-T3-036",
+        "theme": 3
+      },
+      {
+        "id": "MS-T4-026",
+        "source": "CR-T4-026",
+        "theme": 4
+      },
+      {
+        "id": "MS-T1-005",
+        "source": "CR-T1-005",
+        "theme": 1
+      },
+      {
+        "id": "MS-T1-012",
+        "source": "CR-T1-012",
+        "theme": 1
+      },
+      {
+        "id": "MS-T5-006",
+        "source": "CR-T5-006",
+        "theme": 5
+      },
+      {
+        "id": "MS-T4-003",
+        "source": "CR-T4-003",
+        "theme": 4
+      },
+      {
+        "id": "MS-T3-016",
+        "source": "CR-T3-016",
+        "theme": 3
+      },
+      {
+        "id": "MS-T2-004",
+        "source": "CR-T2-004",
+        "theme": 2
+      },
+      {
+        "id": "MS-T2-018",
+        "source": "CR-T2-018",
+        "theme": 2
+      },
+      {
+        "id": "MS-T2-022",
+        "source": "CR-T2-022",
+        "theme": 2
+      },
+      {
+        "id": "MS-T5-030",
+        "source": "CR-T5-030",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-T4-021",
+      "MS-T3-036",
+      "MS-T4-026",
+      "MS-T1-005",
+      "MS-T1-012",
+      "MS-T5-006",
+      "MS-T4-003",
+      "MS-T3-016",
+      "MS-T2-004",
+      "MS-T2-018",
+      "MS-T2-022",
+      "MS-T5-030"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 1,
+    "knowledge": [
+      "NAT-T1-001",
+      "NAT-T1-002",
+      "NAT-T1-003",
+      "NAT-T1-004",
+      "NAT-T2-001",
+      "NAT-T2-002",
+      "NAT-T2-003",
+      "NAT-T2-004",
+      "NAT-T2-005",
+      "NAT-T2-006",
+      "NAT-T3-001",
+      "NAT-T3-002",
+      "NAT-T3-003",
+      "NAT-T3-004",
+      "NAT-T4-001",
+      "NAT-T4-002",
+      "NAT-T4-003",
+      "NAT-T4-004",
+      "NAT-T4-005",
+      "NAT-T4-006",
+      "NAT-T4-007",
+      "NAT-T4-008",
+      "NAT-T4-009",
+      "NAT-T5-001",
+      "NAT-T5-002",
+      "NAT-T5-003",
+      "NAT-T5-004",
+      "NAT-T5-005"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T4-020",
+        "source": "NAT-T4-020",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T4-067",
+        "source": "NAT-T4-067",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T1-037",
+        "source": "NAT-T1-037",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T5-035",
+        "source": "NAT-T5-035",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T3-007",
+        "source": "NAT-T3-007",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T3-010",
+        "source": "NAT-T3-010",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T4-068",
+        "source": "NAT-T4-068",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T1-014",
+        "source": "NAT-T1-014",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T2-021",
+        "source": "NAT-T2-021",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T2-023",
+        "source": "NAT-T2-023",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T2-028",
+        "source": "NAT-T2-028",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T5-006",
+        "source": "NAT-T5-006",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T4-020",
+      "MS-NAT-T4-067",
+      "MS-NAT-T1-037",
+      "MS-NAT-T5-035",
+      "MS-NAT-T3-007",
+      "MS-NAT-T3-010",
+      "MS-NAT-T4-068",
+      "MS-NAT-T1-014",
+      "MS-NAT-T2-021",
+      "MS-NAT-T2-023",
+      "MS-NAT-T2-028",
+      "MS-NAT-T5-006"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 2,
+    "knowledge": [
+      "NAT-T2-010",
+      "NAT-T2-011",
+      "NAT-T2-012",
+      "NAT-T3-005",
+      "NAT-T3-006",
+      "NAT-T3-007",
+      "NAT-T3-008",
+      "NAT-T4-010",
+      "NAT-T4-011",
+      "NAT-T4-012",
+      "NAT-T4-013",
+      "NAT-T4-014",
+      "NAT-T4-015",
+      "NAT-T4-016",
+      "NAT-T4-017",
+      "NAT-T4-018",
+      "NAT-T5-006",
+      "NAT-T5-007",
+      "NAT-T5-008",
+      "NAT-T5-009",
+      "NAT-T5-010",
+      "NAT-T1-005",
+      "NAT-T1-006",
+      "NAT-T1-007",
+      "NAT-T1-008",
+      "NAT-T2-007",
+      "NAT-T2-008",
+      "NAT-T2-009"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T1-019",
+        "source": "NAT-T1-019",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T2-047",
+        "source": "NAT-T2-047",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T4-064",
+        "source": "NAT-T4-064",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T2-053",
+        "source": "NAT-T2-053",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T3-013",
+        "source": "NAT-T3-013",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T5-004",
+        "source": "NAT-T5-004",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T4-028",
+        "source": "NAT-T4-028",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T2-045",
+        "source": "NAT-T2-045",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T4-059",
+        "source": "NAT-T4-059",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T3-009",
+        "source": "NAT-T3-009",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T1-031",
+        "source": "NAT-T1-031",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T5-015",
+        "source": "NAT-T5-015",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T1-019",
+      "MS-NAT-T2-047",
+      "MS-NAT-T4-064",
+      "MS-NAT-T2-053",
+      "MS-NAT-T3-013",
+      "MS-NAT-T5-004",
+      "MS-NAT-T4-028",
+      "MS-NAT-T2-045",
+      "MS-NAT-T4-059",
+      "MS-NAT-T3-009",
+      "MS-NAT-T1-031",
+      "MS-NAT-T5-015"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 3,
+    "knowledge": [
+      "NAT-T4-019",
+      "NAT-T4-020",
+      "NAT-T4-021",
+      "NAT-T4-022",
+      "NAT-T4-023",
+      "NAT-T4-024",
+      "NAT-T4-025",
+      "NAT-T4-026",
+      "NAT-T4-027",
+      "NAT-T5-011",
+      "NAT-T5-012",
+      "NAT-T5-013",
+      "NAT-T5-014",
+      "NAT-T5-015",
+      "NAT-T1-009",
+      "NAT-T1-010",
+      "NAT-T1-011",
+      "NAT-T1-012",
+      "NAT-T2-013",
+      "NAT-T2-014",
+      "NAT-T2-015",
+      "NAT-T2-016",
+      "NAT-T2-017",
+      "NAT-T2-018",
+      "NAT-T3-009",
+      "NAT-T3-010",
+      "NAT-T3-011",
+      "NAT-T3-012"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T5-036",
+        "source": "NAT-T5-036",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T3-027",
+        "source": "NAT-T3-027",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T4-038",
+        "source": "NAT-T4-038",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T2-005",
+        "source": "NAT-T2-005",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T1-003",
+        "source": "NAT-T1-003",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T4-031",
+        "source": "NAT-T4-031",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T2-009",
+        "source": "NAT-T2-009",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T2-008",
+        "source": "NAT-T2-008",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T1-036",
+        "source": "NAT-T1-036",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T4-063",
+        "source": "NAT-T4-063",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T3-030",
+        "source": "NAT-T3-030",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T5-002",
+        "source": "NAT-T5-002",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T5-036",
+      "MS-NAT-T3-027",
+      "MS-NAT-T4-038",
+      "MS-NAT-T2-005",
+      "MS-NAT-T1-003",
+      "MS-NAT-T4-031",
+      "MS-NAT-T2-009",
+      "MS-NAT-T2-008",
+      "MS-NAT-T1-036",
+      "MS-NAT-T4-063",
+      "MS-NAT-T3-030",
+      "MS-NAT-T5-002"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 4,
+    "knowledge": [
+      "NAT-T4-035",
+      "NAT-T4-036",
+      "NAT-T5-016",
+      "NAT-T5-017",
+      "NAT-T5-018",
+      "NAT-T5-019",
+      "NAT-T5-020",
+      "NAT-T1-013",
+      "NAT-T1-014",
+      "NAT-T1-015",
+      "NAT-T1-016",
+      "NAT-T2-019",
+      "NAT-T2-020",
+      "NAT-T2-021",
+      "NAT-T2-022",
+      "NAT-T2-023",
+      "NAT-T2-024",
+      "NAT-T3-013",
+      "NAT-T3-014",
+      "NAT-T3-015",
+      "NAT-T3-016",
+      "NAT-T4-028",
+      "NAT-T4-029",
+      "NAT-T4-030",
+      "NAT-T4-031",
+      "NAT-T4-032",
+      "NAT-T4-033",
+      "NAT-T4-034"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T4-019",
+        "source": "NAT-T4-019",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T2-014",
+        "source": "NAT-T2-014",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T1-002",
+        "source": "NAT-T1-002",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T2-054",
+        "source": "NAT-T2-054",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T2-010",
+        "source": "NAT-T2-010",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T1-026",
+        "source": "NAT-T1-026",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T3-029",
+        "source": "NAT-T3-029",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T4-049",
+        "source": "NAT-T4-049",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T5-026",
+        "source": "NAT-T5-026",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T4-022",
+        "source": "NAT-T4-022",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T3-034",
+        "source": "NAT-T3-034",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T5-041",
+        "source": "NAT-T5-041",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T4-019",
+      "MS-NAT-T2-014",
+      "MS-NAT-T1-002",
+      "MS-NAT-T2-054",
+      "MS-NAT-T2-010",
+      "MS-NAT-T1-026",
+      "MS-NAT-T3-029",
+      "MS-NAT-T4-049",
+      "MS-NAT-T5-026",
+      "MS-NAT-T4-022",
+      "MS-NAT-T3-034",
+      "MS-NAT-T5-041"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 5,
+    "knowledge": [
+      "NAT-T1-017",
+      "NAT-T1-018",
+      "NAT-T1-019",
+      "NAT-T1-020",
+      "NAT-T2-025",
+      "NAT-T2-026",
+      "NAT-T2-027",
+      "NAT-T2-028",
+      "NAT-T2-029",
+      "NAT-T2-030",
+      "NAT-T3-017",
+      "NAT-T3-018",
+      "NAT-T3-019",
+      "NAT-T3-020",
+      "NAT-T4-037",
+      "NAT-T4-038",
+      "NAT-T4-039",
+      "NAT-T4-040",
+      "NAT-T4-041",
+      "NAT-T4-042",
+      "NAT-T4-043",
+      "NAT-T4-044",
+      "NAT-T4-045",
+      "NAT-T5-021",
+      "NAT-T5-022",
+      "NAT-T5-023",
+      "NAT-T5-024",
+      "NAT-T5-025"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T2-015",
+        "source": "NAT-T2-015",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T3-024",
+        "source": "NAT-T3-024",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T1-001",
+        "source": "NAT-T1-001",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T5-027",
+        "source": "NAT-T5-027",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T3-031",
+        "source": "NAT-T3-031",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T2-022",
+        "source": "NAT-T2-022",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T4-018",
+        "source": "NAT-T4-018",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T4-002",
+        "source": "NAT-T4-002",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T1-034",
+        "source": "NAT-T1-034",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T5-040",
+        "source": "NAT-T5-040",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T2-048",
+        "source": "NAT-T2-048",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T4-054",
+        "source": "NAT-T4-054",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T2-015",
+      "MS-NAT-T3-024",
+      "MS-NAT-T1-001",
+      "MS-NAT-T5-027",
+      "MS-NAT-T3-031",
+      "MS-NAT-T2-022",
+      "MS-NAT-T4-018",
+      "MS-NAT-T4-002",
+      "MS-NAT-T1-034",
+      "MS-NAT-T5-040",
+      "MS-NAT-T2-048",
+      "MS-NAT-T4-054"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 6,
+    "knowledge": [
+      "NAT-T2-034",
+      "NAT-T2-035",
+      "NAT-T2-036",
+      "NAT-T3-021",
+      "NAT-T3-022",
+      "NAT-T3-023",
+      "NAT-T3-024",
+      "NAT-T4-046",
+      "NAT-T4-047",
+      "NAT-T4-048",
+      "NAT-T4-049",
+      "NAT-T4-050",
+      "NAT-T4-051",
+      "NAT-T4-052",
+      "NAT-T4-053",
+      "NAT-T4-054",
+      "NAT-T5-026",
+      "NAT-T5-027",
+      "NAT-T5-028",
+      "NAT-T5-029",
+      "NAT-T5-030",
+      "NAT-T1-021",
+      "NAT-T1-022",
+      "NAT-T1-023",
+      "NAT-T1-024",
+      "NAT-T2-031",
+      "NAT-T2-032",
+      "NAT-T2-033"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T2-051",
+        "source": "NAT-T2-051",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T2-040",
+        "source": "NAT-T2-040",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T1-015",
+        "source": "NAT-T1-015",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T5-005",
+        "source": "NAT-T5-005",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T1-008",
+        "source": "NAT-T1-008",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T4-040",
+        "source": "NAT-T4-040",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T2-007",
+        "source": "NAT-T2-007",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T5-032",
+        "source": "NAT-T5-032",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T3-032",
+        "source": "NAT-T3-032",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T4-013",
+        "source": "NAT-T4-013",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T4-074",
+        "source": "NAT-T4-074",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T3-002",
+        "source": "NAT-T3-002",
+        "theme": 3
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T2-051",
+      "MS-NAT-T2-040",
+      "MS-NAT-T1-015",
+      "MS-NAT-T5-005",
+      "MS-NAT-T1-008",
+      "MS-NAT-T4-040",
+      "MS-NAT-T2-007",
+      "MS-NAT-T5-032",
+      "MS-NAT-T3-032",
+      "MS-NAT-T4-013",
+      "MS-NAT-T4-074",
+      "MS-NAT-T3-002"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 7,
+    "knowledge": [
+      "NAT-T4-055",
+      "NAT-T4-056",
+      "NAT-T4-057",
+      "NAT-T4-058",
+      "NAT-T4-059",
+      "NAT-T4-060",
+      "NAT-T4-061",
+      "NAT-T4-062",
+      "NAT-T4-063",
+      "NAT-T5-031",
+      "NAT-T5-032",
+      "NAT-T5-033",
+      "NAT-T5-034",
+      "NAT-T5-035",
+      "NAT-T1-025",
+      "NAT-T1-026",
+      "NAT-T1-027",
+      "NAT-T1-028",
+      "NAT-T2-037",
+      "NAT-T2-038",
+      "NAT-T2-039",
+      "NAT-T2-040",
+      "NAT-T2-041",
+      "NAT-T2-042",
+      "NAT-T3-025",
+      "NAT-T3-026",
+      "NAT-T3-027",
+      "NAT-T3-028"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T1-029",
+        "source": "NAT-T1-029",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T4-024",
+        "source": "NAT-T4-024",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T2-036",
+        "source": "NAT-T2-036",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T5-024",
+        "source": "NAT-T5-024",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T4-007",
+        "source": "NAT-T4-007",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T2-012",
+        "source": "NAT-T2-012",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T3-035",
+        "source": "NAT-T3-035",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T3-021",
+        "source": "NAT-T3-021",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T4-004",
+        "source": "NAT-T4-004",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T1-020",
+        "source": "NAT-T1-020",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T5-042",
+        "source": "NAT-T5-042",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T2-013",
+        "source": "NAT-T2-013",
+        "theme": 2
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T1-029",
+      "MS-NAT-T4-024",
+      "MS-NAT-T2-036",
+      "MS-NAT-T5-024",
+      "MS-NAT-T4-007",
+      "MS-NAT-T2-012",
+      "MS-NAT-T3-035",
+      "MS-NAT-T3-021",
+      "MS-NAT-T4-004",
+      "MS-NAT-T1-020",
+      "MS-NAT-T5-042",
+      "MS-NAT-T2-013"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 8,
+    "knowledge": [
+      "NAT-T4-071",
+      "NAT-T4-072",
+      "NAT-T5-036",
+      "NAT-T5-037",
+      "NAT-T5-038",
+      "NAT-T5-039",
+      "NAT-T5-040",
+      "NAT-T1-029",
+      "NAT-T1-030",
+      "NAT-T1-031",
+      "NAT-T1-032",
+      "NAT-T2-043",
+      "NAT-T2-044",
+      "NAT-T2-045",
+      "NAT-T2-046",
+      "NAT-T2-047",
+      "NAT-T2-048",
+      "NAT-T3-029",
+      "NAT-T3-030",
+      "NAT-T3-031",
+      "NAT-T3-032",
+      "NAT-T4-064",
+      "NAT-T4-065",
+      "NAT-T4-066",
+      "NAT-T4-067",
+      "NAT-T4-068",
+      "NAT-T4-069",
+      "NAT-T4-070"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T5-021",
+        "source": "NAT-T5-021",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T3-017",
+        "source": "NAT-T3-017",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T1-022",
+        "source": "NAT-T1-022",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T2-050",
+        "source": "NAT-T2-050",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T4-052",
+        "source": "NAT-T4-052",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T3-015",
+        "source": "NAT-T3-015",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T4-034",
+        "source": "NAT-T4-034",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T2-039",
+        "source": "NAT-T2-039",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T1-017",
+        "source": "NAT-T1-017",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T2-034",
+        "source": "NAT-T2-034",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T4-050",
+        "source": "NAT-T4-050",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T5-009",
+        "source": "NAT-T5-009",
+        "theme": 5
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T5-021",
+      "MS-NAT-T3-017",
+      "MS-NAT-T1-022",
+      "MS-NAT-T2-050",
+      "MS-NAT-T4-052",
+      "MS-NAT-T3-026",
+      "MS-NAT-T4-034",
+      "MS-NAT-T2-039",
+      "MS-NAT-T1-017",
+      "MS-NAT-T2-034",
+      "MS-NAT-T4-050",
+      "MS-NAT-T5-009"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 9,
+    "knowledge": [
+      "NAT-T1-033",
+      "NAT-T1-034",
+      "NAT-T1-035",
+      "NAT-T1-036",
+      "NAT-T2-049",
+      "NAT-T2-050",
+      "NAT-T2-051",
+      "NAT-T2-052",
+      "NAT-T2-053",
+      "NAT-T2-054",
+      "NAT-T3-033",
+      "NAT-T3-034",
+      "NAT-T3-035",
+      "NAT-T3-036",
+      "NAT-T4-073",
+      "NAT-T4-074",
+      "NAT-T4-075",
+      "NAT-T4-076",
+      "NAT-T4-077",
+      "NAT-T4-078",
+      "NAT-T4-079",
+      "NAT-T4-080",
+      "NAT-T4-081",
+      "NAT-T5-041",
+      "NAT-T5-042",
+      "NAT-T5-043",
+      "NAT-T5-044",
+      "NAT-T5-001"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T3-012",
+        "source": "NAT-T3-012",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T2-041",
+        "source": "NAT-T2-041",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T2-003",
+        "source": "NAT-T2-003",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T5-022",
+        "source": "NAT-T5-022",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T1-005",
+        "source": "NAT-T1-005",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T2-029",
+        "source": "NAT-T2-029",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T5-033",
+        "source": "NAT-T5-033",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T3-001",
+        "source": "NAT-T3-001",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T1-024",
+        "source": "NAT-T1-024",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T4-045",
+        "source": "NAT-T4-045",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T4-066",
+        "source": "NAT-T4-066",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T4-046",
+        "source": "NAT-T4-046",
+        "theme": 4
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T3-001",
+      "MS-NAT-T2-041",
+      "MS-NAT-T2-003",
+      "MS-NAT-T5-022",
+      "MS-NAT-T1-005",
+      "MS-NAT-T2-029",
+      "MS-NAT-T5-033",
+      "MS-NAT-T3-015",
+      "MS-NAT-T1-024",
+      "MS-NAT-T4-045",
+      "MS-NAT-T4-066",
+      "MS-NAT-T4-046"
+    ]
+  },
+  {
+    "exam": "NAT",
+    "variant": 10,
+    "knowledge": [
+      "NAT-T2-003",
+      "NAT-T2-004",
+      "NAT-T2-005",
+      "NAT-T3-037",
+      "NAT-T3-038",
+      "NAT-T3-001",
+      "NAT-T3-002",
+      "NAT-T4-082",
+      "NAT-T4-001",
+      "NAT-T4-002",
+      "NAT-T4-003",
+      "NAT-T4-004",
+      "NAT-T4-005",
+      "NAT-T4-006",
+      "NAT-T4-007",
+      "NAT-T4-008",
+      "NAT-T5-002",
+      "NAT-T5-003",
+      "NAT-T5-004",
+      "NAT-T5-005",
+      "NAT-T5-006",
+      "NAT-T1-037",
+      "NAT-T1-038",
+      "NAT-T1-001",
+      "NAT-T1-002",
+      "NAT-T2-055",
+      "NAT-T2-001",
+      "NAT-T2-002"
+    ],
+    "situations": [
+      {
+        "id": "MS-NAT-T2-031",
+        "source": "NAT-T2-031",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T5-001",
+        "source": "NAT-T5-001",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T2-026",
+        "source": "NAT-T2-026",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T3-018",
+        "source": "NAT-T3-018",
+        "theme": 3
+      },
+      {
+        "id": "MS-NAT-T1-028",
+        "source": "NAT-T1-028",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T1-032",
+        "source": "NAT-T1-032",
+        "theme": 1
+      },
+      {
+        "id": "MS-NAT-T4-027",
+        "source": "NAT-T4-027",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T5-016",
+        "source": "NAT-T5-016",
+        "theme": 5
+      },
+      {
+        "id": "MS-NAT-T2-046",
+        "source": "NAT-T2-046",
+        "theme": 2
+      },
+      {
+        "id": "MS-NAT-T4-065",
+        "source": "NAT-T4-065",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T4-073",
+        "source": "NAT-T4-073",
+        "theme": 4
+      },
+      {
+        "id": "MS-NAT-T3-014",
+        "source": "NAT-T3-014",
+        "theme": 3
+      }
+    ],
+    "previous_situations": [
+      "MS-NAT-T2-031",
+      "MS-NAT-T5-001",
+      "MS-NAT-T2-026",
+      "MS-NAT-T3-018",
+      "MS-NAT-T1-028",
+      "MS-NAT-T1-032",
+      "MS-NAT-T4-027",
+      "MS-NAT-T5-016",
+      "MS-NAT-T2-046",
+      "MS-NAT-T4-065",
+      "MS-NAT-T4-073",
+      "MS-NAT-T3-014"
+    ]
+  }
+]

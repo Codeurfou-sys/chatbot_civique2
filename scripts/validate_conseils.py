@@ -29,11 +29,11 @@ for item in manifest:
   assert 'visez **6/10**' in body and '**8/10 à deux reprises**' in body
  if any(x['situation'] for x in item['questions']):
   assert 'Quel principe civique faut-il identifier ?' in body
-  assert '](SCR_CONS_SITUATIONS_MENU)' in body
+  assert '](SCR_ENT_PLAN_MENU)' in body
 published=Path('chat_bot.md').read_text()
 assert 'flex-direction: column; align-items: flex-start' in published
 for name in ['csp-v7','resident','naturalisation-v7','cigogne']:
  assert f'assets/icons/{name}.svg' in published
  assert Path(f'assets/icons/{name}.svg').exists()
 assert '[🌋 Auvergne](SCR_PASS_REGION_AUVERGNE)' in published
-print('OK — 480 résultats, tous les scores, objectifs progressifs, 30 paliers, icônes et boutons en colonne.')
+print('OK — 630 résultats, tous les scores, objectifs progressifs, 30 paliers, icônes et boutons en colonne.')

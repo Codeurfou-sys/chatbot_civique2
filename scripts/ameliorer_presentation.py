@@ -17,7 +17,7 @@ def presentation(text):
  def icon(m):
   label,target=m[2],m[3]
   if target.startswith(('ENT_','EXAM_','BIL_')) and target.endswith(('_VRAI','_FAUX')):
-   return m[0] if ((((((((label.startswith('🔘 ') or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) else m[1]+'[🔘 '+label+']('+target+')'
+   return m[0] if (((((((((label.startswith('🔘 ') or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) else m[1]+'[🔘 '+label+']('+target+')'
   for title,asset in [('Carte de séjour pluriannuelle','csp-v7'),('Carte de résident','resident'),('Naturalisation','naturalisation-v7')]:
    if title in label and not target.startswith(('SCR_GLO_', 'SCR_QL_', 'SCR_FAQ_')):
     # Préserver les variables éventuelles portées par le libellé.

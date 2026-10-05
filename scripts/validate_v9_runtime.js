@@ -15,7 +15,7 @@ const out=ctx.render(parse(reco),{score_t1:5,score_t2:4,score_t3:4,score_t4:5,sc
 assert(out.indexOf('Institutions et système politique')<out.indexOf('Principes et valeurs'));
 assert(out.indexOf('Droits et devoirs')<out.indexOf('Principes et valeurs'));assert(out.includes('score parfait'));assert(!out.includes('presque'));
 for(const score of [0,1,2,3,4,5]){
- const v=ctx.render(parse(par.SCR_PARCOURS_T4),{parcoursDisponible:true,parcoursT4:score,parcoursExam:'NAT'});const ns=[...v.matchAll(/Étape (\d)/g)].map(m=>+m[1]);assert.deepStrictEqual(ns,score<4?[1,2,3,4]:[1,2,3]);
+ const v=ctx.render(parse(par.SCR_PARCOURS_T4),{parcoursDisponible:true,parcoursT4:score,parcoursExam:'NAT'});const ns=[...v.matchAll(/Étape (\d)/g)].map(m=>+m[1]);assert.deepStrictEqual(ns,[1,2,3,4]);
 }
 const plans=ctx.render(parse(par.SCR_PARCOURS_MENU),{parcoursDisponible:true,parcoursT1:5,parcoursT2:4,parcoursT3:4,parcoursT4:5,parcoursT5:5});const ids=[...plans.matchAll(/href="#SCR_PARCOURS_T(\d)"/g)].map(m=>+m[1]);assert.deepStrictEqual(ids,[2,3,1,4,5]);
 let answers=0;

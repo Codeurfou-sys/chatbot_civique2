@@ -26,6 +26,9 @@ from collections import defaultdict
 from pathlib import Path
 import argparse
 import re
+import random
+import unicodedata
+from difflib import SequenceMatcher
 
 from openpyxl import load_workbook
 
@@ -151,6 +154,70 @@ def distribute(rows: list[dict[str, object]], per_variant: dict[int, int]) -> li
                 offsets[theme] += 1
         shift = (variant * 7) % max(len(selected), 1)
         variants.append(selected[shift:] + selected[:shift])
+    return variants
+
+
+def canonical(value: object) -> str:
+    value = unicodedata.normalize('NFKD', clean(value).lower())
+    value = ''.join(c for c in value if not unicodedata.combining(c))
+    return re.sub(r'[^a-z0-9]+', ' ', value).strip()
+
+
+def close_question(a: object, b: object) -> bool:
+    a, b = canonical(a), canonical(b)
+    if not a or not b:
+        return False
+    if a == b:
+        return True
+    if min(len(a), len(b)) >= 20 and (a in b or b in a):
+        return True
+    if SequenceMatcher(None, a, b).ratio() >= .80:
+        return True
+    stop = set('le la les un une des de du d l a au aux en et est sont quel quelle quels quelles que qui dans pour par sur il elle ce ces cette c son sa ses doit peut on vous votre faire'.split())
+    x, y = set(a.split())-stop, set(b.split())-stop
+    return len(x & y) >= 3 and len(x & y)/max(1, len(x | y)) >= .65
+
+
+def select_distinct_situations(situations, knowledge_variants, exam):
+    """No same source or near-identical knowledge item within a mock exam.
+
+    Selection fails explicitly rather than silently allowing a repetition.
+    The underlying questions remain verbatim from the user's banks.
+    """
+    used = defaultdict(int)
+    variants = []
+    for variant, knowledge in enumerate(knowledge_variants, 1):
+        ids = {clean(r['ID']) for r in knowledge}
+        questions = [r['Question'] for r in knowledge]
+        answers = {canonical(r['Réponse '+clean(r['Bonne réponse']).upper()]) for r in knowledge}
+        selected = []
+        chosen_sources, chosen_answers = set(), set()
+        rng = random.Random(f'distinct-mock/{exam}/{variant}')
+        for theme, count in SITUATIONS_PER_VARIANT.items():
+            pool = [r for r in situations if int(r['N° thématique']) == theme]
+            rng.shuffle(pool)
+            pool.sort(key=lambda r: used[clean(r['ID'])])
+            chosen = []
+            for row in pool:
+                answer = canonical(row['Réponse '+clean(row['Bonne réponse']).upper()])
+                source_answer = canonical(row.get('_source_correct_answer'))
+                source = clean(row['ID question source'])
+                if source in ids or source in chosen_sources or answer in answers or answer in chosen_answers or (source_answer and source_answer in answers):
+                    continue
+                if any(close_question(row['Question'], q) or close_question(row['Question posée'], q) for q in questions):
+                    continue
+                # A different ID can still represent the same knowledge item.
+                if any(close_question(row['Question'], other['Question']) for other in selected):
+                    continue
+                chosen.append(row); selected.append(row)
+                chosen_sources.add(source); chosen_answers.add(answer)
+                used[clean(row['ID'])] += 1
+                if len(chosen) == count:
+                    break
+            if len(chosen) != count:
+                raise ValueError(f'{exam} V{variant:02d}, thème {theme}: seulement {len(chosen)}/{count} situations suffisamment distinctes. Enrichir la banque au lieu de réintroduire un doublon.')
+        rng.shuffle(selected)
+        variants.append(selected)
     return variants
 
 
@@ -291,7 +358,8 @@ def integrate(exam: str, module_path: Path, sources_dir: Path, dry_run: bool = F
         source = by_id.get(clean(row["ID question source"]))
         if source is None:
             raise ValueError(f"Mise en situation {row['ID']} : question source introuvable")
-        merged = {**source, **row, "N° thématique": source["N° thématique"], chapter_col: source.get(chapter_col)}
+        merged = {**source, **row, "N° thématique": source["N° thématique"], chapter_col: source.get(chapter_col),
+                  '_source_correct_answer': source['Réponse '+clean(source['Bonne réponse']).upper()]}
         situation_rows.append(merged)
 
     for bank in (questions, situation_rows):
@@ -304,7 +372,7 @@ def integrate(exam: str, module_path: Path, sources_dir: Path, dry_run: bool = F
             if any(not clean(row[f'Réponse {letter}']) for letter in 'ABCD'):
                 raise ValueError(f"{exam}: proposition manquante pour {row['ID']}")
     knowledge_variants = distribute(questions, KNOWLEDGE_PER_VARIANT)
-    situation_variants = distribute(situation_rows, SITUATIONS_PER_VARIANT)
+    situation_variants = select_distinct_situations(situation_rows, knowledge_variants, exam)
 
     report = {
         "exam": exam,

@@ -28,12 +28,12 @@ for(const exam of ['CSP','CR','NAT'])for(const profile of ['DEC','EQ','INT'])for
   }
   assert.deepStrictEqual(counts,[5,5,5,5,5]);const result=ctx.render(parse(bil[next]),vars);assert.strictEqual(vars.parcoursScore,25);assert.strictEqual(vars.parcoursExam,exam);assert.strictEqual(vars.parcoursMode,run?'PROG':'INIT');for(let t=1;t<=5;t++)assert.strictEqual(vars['parcoursT'+t],5);
   vars.score=0;vars.score_t1=0;ctx.render(parse(bil[next]),vars);assert.strictEqual(vars.parcoursScore,25,'Parcours modifié en consultant un ancien résultat après entraînement');assert.strictEqual(vars.parcoursT1,5);
-  const plan=ctx.render(parse(parcours.SCR_PARCOURS_T1),vars);assert(plan.includes('SCR_ENT_'+exam+'_T1_Q_LAUNCH'));assert(plan.includes('SCR_ENT_'+exam+'_LVL_DIF_LAUNCH'));
+  const plan=ctx.render(parse(parcours.SCR_PARCOURS_T1),vars);assert(plan.includes('SCR_ENT_'+exam+'_T1_Q_DIF_LAUNCH'));assert(!plan.includes('SCR_ENT_'+exam+'_LVL_DIF_LAUNCH'));
   for(const k of keys)previous.add(k);simulations++;
  }
 }
 console.log('Moteur ChatMD :',simulations,'bilans de 25 questions, aucun doublon ni répétition entre premier bilan et progression ; difficulté, scores et parcours conservés.');
-const empty=ctx.render(parse(parcours.SCR_PARCOURS_MENU),{});assert(empty.includes('Vous n’avez pas encore terminé'));assert(!empty.includes('Votre parcours reprend'));
+const empty=ctx.render(parse(parcours.SCR_PARCOURS_MENU),{});assert(empty.includes('Terminez un bilan'));assert(!empty.includes('Votre parcours reprend'));
 const weak=ctx.render(parse(parcours.SCR_PARCOURS_FAIBLES),{parcoursDisponible:true,parcoursT1:1,parcoursT2:4,parcoursT3:3,parcoursT4:5,parcoursT5:2});for(const t of [1,3,5])assert(weak.includes('href="#SCR_PARCOURS_T'+t+'"'));for(const t of [2,4])assert(!weak.includes('href="#SCR_PARCOURS_T'+t+'"'));
 const glo=sections('modules/04_glossaire.md');assert(ctx.render(parse(glo.SCR_GLO_FILTER),{gloPrefix:''}).includes('Choisissez la première lettre'));assert(!ctx.render(parse(glo.SCR_GLO_FILTER),{gloPrefix:'a'}).includes('Choisissez la première lettre'));
 const ql=sections('modules/10_question_libre.md');for(const question of ['combien dois-je obtenir de points pour réussir mon examen ?','Combien de points faut-il pour valider ?','Quelle est la note minimale ?','Combien de bonnes réponses pour réussir ?','Quel est le score nécessaire ?']){const out=ctx.render(parse(ql.SCR_QL_ANSWER),{qlQuestion:question});assert(out.includes('32')&&out.includes('40')&&out.includes('80 %'),question);assert(!out.includes('Agents publics'),question);assert(!out.includes('Précisons votre demande'),question)}
