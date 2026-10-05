@@ -1,6 +1,3 @@
-<!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-10-04T09:51:31+00:00 -->
-
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
 
@@ -923,7 +920,6 @@ Retrouvez les réponses à vos questions, choisissez un centre et accédez au fo
 <!-- Écran d’entrée -->
 
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
-
 
 ## SCR_PASS_SEARCH_MENU
 ### 📍 Trouver une session d’examen

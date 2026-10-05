@@ -11,7 +11,7 @@ for exam in ['CSP','CR','NAT']:
   router=bil[f'BIL_DRAW_{exam}_T{theme}'];assert '@bilUseHistory' in router and 'Math.random()' in router
   assert f'@bilSeen_{exam}.includes' in router
  for r in rows:
-  q=r['screen'];assert r['question'] in bil[q];assert bil[q].count('[🔘 ')==4
+  q=r['screen'];assert r['question'] in bil[q];assert bil[q].count('class="qcm-letter"')==4
   for suffix in ['_VRAI','_FAUX']:
    body=bil[q+suffix];assert '@bilAnswerKeys.includes' in body;assert 'Question suivante' in body and 'Voir mes résultats' in body
   assert f'@score_t{r["theme"]} = calc(@score_t{r["theme"]}+1)' in bil[q+'_VRAI'];assert '@score = calc' not in bil[q+'_FAUX']

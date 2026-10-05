@@ -1,5 +1,4 @@
 ## MENU_PRINCIPAL
-
 ### C’est CiviCoach, je suis de retour, que souhaitez-vous faire ?
 
 

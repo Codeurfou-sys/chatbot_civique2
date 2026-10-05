@@ -602,7 +602,9 @@ Retrouvez des définitions simples des notions du programme.
 ### 🔤 Le filtre de CiviCoach
 
 `if @gloPrefix == undefined || @gloPrefix == ""`
+`if @gloPrefix == undefined || @gloPrefix == ""`
 Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement les mots qui commencent par les lettres choisies. Les lettres grisées ne correspondent à aucune suite possible. Vous pouvez revenir d’une lettre ou recommencer.
+`endif`
 `endif`
 
 `if @gloPrefix == undefined`
@@ -1699,7 +1701,7 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 ## SCR_GLO_SEARCH
 ### 🔍 Rechercher un mot
 
-Saisissez un mot ou une expression, même sans accents ou avec une petite faute de frappe. Je vous proposerai les fiches les plus proches. Pour une question complète, utilisez « Poser une question ».
+Saisissez un mot, même si vous n’êtes pas sûr de l’orthographe. Je vous proposerai les mots les plus proches que j’ai trouvés. Pour une question complète, utilisez « Poser une question ».
 
 `@gloQuery = @INPUT : SCR_GLO_SEARCH_RESULT`
 

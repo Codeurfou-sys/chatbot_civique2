@@ -11,6 +11,11 @@ assert all(len(STORIES[t])==6 for t in ROLES)
 for item in manifest:
  base=f'ENT_{item["exam"]}_{item["route"]}_V{item["variant"]:02d}'
  body=blocks[base+'_RESULT'];n=len(item['questions'])
+ if n==15:
+  assert '**Score total : `@score`/15.**' in body
+  assert '**Score : `@ent_ms`/5.**' in body
+  for t in range(1,6):assert f'@ent_k{t}' in body and f'@ent_m{t}' in body
+  continue
  assert 'Construire les bases' not in body and 'Mises en situation : **' not in body
  assert 'Vous avez atteint le rôle de' in body if item['route'].startswith('T') else 'Votre prochaine étape' in body
  assert 'Votre palier' not in body

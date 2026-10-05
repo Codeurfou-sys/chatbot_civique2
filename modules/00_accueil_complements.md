@@ -1,8 +1,4 @@
-<!-- Module généré automatiquement : Accueil -->
-<!-- Date : 2026-08-03T15:02:29+00:00 -->
-
 ## SCR_ACC_AIDE
-
 ### Comment utiliser le Coach ?
 
 Choisissez une rubrique selon votre besoin. Utilisez les boutons de retour pour changer d’activité.
@@ -14,7 +10,6 @@ Choisissez une rubrique selon votre besoin. Utilisez les boutons de retour pour 
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_ACC_RESTART
-
 ### Recommencer la conversation ?
 
 Vos réponses de cette session seront réinitialisées. Souhaitez-vous continuer ?
@@ -27,7 +22,6 @@ Vos réponses de cette session seront réinitialisées. Souhaitez-vous continuer
 1. [❓ Poser une question @qlOrigine=MENU_PRINCIPAL](SCR_QL_RESET)
 
 ## SCR_ACC_APROPOS
-
 ### À propos du Coach Civique
 
 Le Coach Civique est un assistant pédagogique déterministe construit à partir de ressources validées. Il vous oriente, explique et propose des activités, mais ne remplace pas les informations officielles ni les consignes de votre centre d’examen.

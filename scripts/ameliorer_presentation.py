@@ -9,15 +9,16 @@ def presentation(text):
  text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
  text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
  text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
  text=text.replace('[🏡 ', '[➡️ ').replace('[➡️ ℹ️ ', '[ℹ️ ')
  text=text.replace('[➡️ ↩️ ', '[↩️ ').replace('[➡️ ➡️ ', '[➡️ ')
  text=text.replace('Préparer mon examen','Passer un examen blanc').replace('Préparer un examen blanc','Passer un examen blanc').replace('préparer un examen blanc','passer un examen blanc').replace('Passer mon examen civique','S’inscrire à l’examen civique').replace('Passer mon examen','S’inscrire à l’examen civique')
  def icon(m):
   label,target=m[2],m[3]
   if target.startswith(('ENT_','EXAM_','BIL_')) and target.endswith(('_VRAI','_FAUX')):
-   return m[0] if label.startswith('🔘 ') else m[1]+'[🔘 '+label+']('+target+')'
+   return m[0] if (((((((label.startswith('🔘 ') or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) else m[1]+'[🔘 '+label+']('+target+')'
   for title,asset in [('Carte de séjour pluriannuelle','csp-v7'),('Carte de résident','resident'),('Naturalisation','naturalisation-v7')]:
-   if title in label and not target.startswith(('SCR_GLO_', 'SCR_QL_')):
+   if title in label and not target.startswith(('SCR_GLO_', 'SCR_QL_', 'SCR_FAQ_')):
     # Préserver les variables éventuelles portées par le libellé.
     clean=label[label.index(title):]
     return m[1]+'['+pictogram(asset,'')+' '+clean+']('+target+')'
@@ -25,7 +26,7 @@ def presentation(text):
   if target=='SCR_PASS_REGION_AUVERGNE':return m[1]+'[🌋 Auvergne]('+target+')'
   if re.fullmatch(r'SCR_ENT_(CSP|CR|NAT)_T[1-5]_(Q|MIS)_LAUNCH',target):
    for title in ['Principes et valeurs','Institutions et système politique','Droits et devoirs','Histoire, géographie et culture','Vivre dans la société française']:
-    if title in label and not target.startswith(('SCR_GLO_', 'SCR_QL_')):return m[1]+'['+('📘' if '_Q_LAUNCH' in target else '🎭')+' '+label[label.index(title):]+']('+target+')'
+    if title in label and not target.startswith(('SCR_GLO_', 'SCR_QL_', 'SCR_FAQ_')):return m[1]+'['+('📘' if '_Q_LAUNCH' in target else '🎭')+' '+label[label.index(title):]+']('+target+')'
   if '<span ' in label or '<img ' in label or (label and ord(label[0])>8000):return m[0]
   if target.startswith(('ENT_','EXAM_','BIL_')) and target.endswith(('_VRAI','_FAUX')):symbol='🔘'
   elif 'RETOUR' in target or label.lower().startswith('retour'):symbol='↩️'
@@ -90,6 +91,8 @@ def main():
   .civic-icon { vertical-align: middle; object-fit: contain; margin-right: 5px; }
   #chat h3 { margin-top: 24px; margin-bottom: 14px; line-height: 1.4; }
   #chat p { line-height: 1.65; }
+  .v9-progress { display:block; width:min(100%,360px); height:14px; accent-color:#b83a64; margin:7px 0 12px; }
+  .qcm-letter { display:inline-flex; align-items:center; justify-content:center; width:22px; height:22px; border-radius:50%; background:#777; color:#fff; font-weight:700; margin-right:7px; flex-shrink:0; }
   #chat .warning { background: #fff8e6; border-left: 4px solid #d99c20; padding: 16px; border-radius: 12px; }
   @media (max-width: 600px) { .messageOptions { flex-direction: column; } .messageOptions a { box-sizing: border-box; width: 100%; } }
 '''

@@ -64,20 +64,35 @@ Votre parcours reprend votre dernier bilan terminé dans cette session. Vous pou
 `if @parcoursT5 >= 3 && @parcoursT5 <= 3`
 1. [📚 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
 `endif`
-`if @parcoursT1 >= 4 && @parcoursT1 <= 5`
+`if @parcoursT1 == 4`
 1. [📚 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
 `endif`
-`if @parcoursT2 >= 4 && @parcoursT2 <= 5`
+`if @parcoursT2 == 4`
 1. [📚 Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
 `endif`
-`if @parcoursT3 >= 4 && @parcoursT3 <= 5`
+`if @parcoursT3 == 4`
 1. [📚 Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
 `endif`
-`if @parcoursT4 >= 4 && @parcoursT4 <= 5`
+`if @parcoursT4 == 4`
 1. [📚 Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
 `endif`
-`if @parcoursT5 >= 4 && @parcoursT5 <= 5`
+`if @parcoursT5 == 4`
 1. [📚 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
+`endif`
+`if @parcoursT1 == 5`
+1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
+`endif`
+`if @parcoursT2 == 5`
+1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
+`endif`
+`if @parcoursT3 == 5`
+1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
+`endif`
+`if @parcoursT4 == 5`
+1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
+`endif`
+`if @parcoursT5 == 5`
+1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
 `endif`
 `endif`
 
@@ -94,13 +109,18 @@ Terminez un bilan pour obtenir vos étapes personnalisées.
 `endif`
 `if @parcoursDisponible`
 **Votre résultat au dernier bilan : `@parcoursT1`/5.**
+`if @parcoursT1 == 5`
+Félicitations pour ce score parfait ! Vous pouvez maintenant vérifier ces acquis dans un examen blanc chronométré.
+1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
+`endif`
 
 `if @parcoursT1 < 4`
 #### Étape 1 — Réviser le cours
 Relisez les libertés, l’égalité, la fraternité et la laïcité. Notez les notions difficiles et reformulez-les avec vos propres mots.
 1. [📖 Réviser Principes et valeurs de la République](SCR_REV_T1_MENU)
 `endif`
-#### Étape 2 — Réaliser deux entraînements ciblés
+`@parEtape = calc(@parcoursT1 < 4 ? 2 : 1)`
+#### Étape `@parEtape` — Réaliser deux entraînements ciblés
 Commencez par les questions, puis entraînez votre raisonnement avec les mises en situation.
 `if @parcoursExam == "CSP"`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T1_Q_LAUNCH)
@@ -115,15 +135,18 @@ Commencez par les questions, puis entraînez votre raisonnement avec les mises e
 1. [🎭 Mises en situation de cette thématique](SCR_ENT_NAT_T1_MIS_LAUNCH)
 `endif`
 `if @parcoursT1 <= 2`
-#### Étape 3 — Atteindre votre objectif
+`@parEtape = calc(@parcoursT1 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Atteindre votre objectif
 Visez d’abord 6/10, puis 8/10 à deux reprises. Entre les essais, revoyez les erreurs.
 `endif`
 `if @parcoursT1 == 3`
-#### Étape 3 — Confirmer les progrès
+`@parEtape = calc(@parcoursT1 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Confirmer les progrès
 Visez 8/10 à deux reprises. Comparez les corrections et reprenez les notions encore fragiles.
 `endif`
 `if @parcoursT1 >= 4`
-#### Étape 3 — Approfondir
+`@parEtape = calc(@parcoursT1 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Approfondir
 Essayez un entraînement complet difficile et vérifiez que vos acquis restent solides.
 `if @parcoursExam == "CSP"`
 1. [🔴 Entraînement complet difficile](SCR_ENT_CSP_LVL_DIF_LAUNCH)
@@ -136,7 +159,8 @@ Essayez un entraînement complet difficile et vérifiez que vos acquis restent s
 `endif`
 `endif`
 
-#### Étape 4 — Mesurer votre évolution
+`@parEtape = calc(@parcoursT1 < 4 ? 4 : 3)`
+#### Étape `@parEtape` — Mesurer votre évolution
 Après avoir travaillé vos priorités, réalisez un bilan de progression.
 1. [📈 Faire mon bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
 `endif`
@@ -152,13 +176,18 @@ Terminez un bilan pour obtenir vos étapes personnalisées.
 `endif`
 `if @parcoursDisponible`
 **Votre résultat au dernier bilan : `@parcoursT2`/5.**
+`if @parcoursT2 == 5`
+Félicitations pour ce score parfait ! Vous pouvez maintenant vérifier ces acquis dans un examen blanc chronométré.
+1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
+`endif`
 
 `if @parcoursT2 < 4`
 #### Étape 1 — Réviser le cours
 Relisez le rôle du président, du Gouvernement, du Parlement et des collectivités. Notez les notions difficiles et reformulez-les avec vos propres mots.
 1. [📖 Réviser Institutions et système politique](SCR_REV_T2_MENU)
 `endif`
-#### Étape 2 — Réaliser deux entraînements ciblés
+`@parEtape = calc(@parcoursT2 < 4 ? 2 : 1)`
+#### Étape `@parEtape` — Réaliser deux entraînements ciblés
 Commencez par les questions, puis entraînez votre raisonnement avec les mises en situation.
 `if @parcoursExam == "CSP"`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T2_Q_LAUNCH)
@@ -173,15 +202,18 @@ Commencez par les questions, puis entraînez votre raisonnement avec les mises e
 1. [🎭 Mises en situation de cette thématique](SCR_ENT_NAT_T2_MIS_LAUNCH)
 `endif`
 `if @parcoursT2 <= 2`
-#### Étape 3 — Atteindre votre objectif
+`@parEtape = calc(@parcoursT2 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Atteindre votre objectif
 Visez d’abord 6/10, puis 8/10 à deux reprises. Entre les essais, revoyez les erreurs.
 `endif`
 `if @parcoursT2 == 3`
-#### Étape 3 — Confirmer les progrès
+`@parEtape = calc(@parcoursT2 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Confirmer les progrès
 Visez 8/10 à deux reprises. Comparez les corrections et reprenez les notions encore fragiles.
 `endif`
 `if @parcoursT2 >= 4`
-#### Étape 3 — Approfondir
+`@parEtape = calc(@parcoursT2 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Approfondir
 Essayez un entraînement complet difficile et vérifiez que vos acquis restent solides.
 `if @parcoursExam == "CSP"`
 1. [🔴 Entraînement complet difficile](SCR_ENT_CSP_LVL_DIF_LAUNCH)
@@ -194,7 +226,8 @@ Essayez un entraînement complet difficile et vérifiez que vos acquis restent s
 `endif`
 `endif`
 
-#### Étape 4 — Mesurer votre évolution
+`@parEtape = calc(@parcoursT2 < 4 ? 4 : 3)`
+#### Étape `@parEtape` — Mesurer votre évolution
 Après avoir travaillé vos priorités, réalisez un bilan de progression.
 1. [📈 Faire mon bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
 `endif`
@@ -210,13 +243,18 @@ Terminez un bilan pour obtenir vos étapes personnalisées.
 `endif`
 `if @parcoursDisponible`
 **Votre résultat au dernier bilan : `@parcoursT3`/5.**
+`if @parcoursT3 == 5`
+Félicitations pour ce score parfait ! Vous pouvez maintenant vérifier ces acquis dans un examen blanc chronométré.
+1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
+`endif`
 
 `if @parcoursT3 < 4`
 #### Étape 1 — Réviser le cours
 Relisez les droits fondamentaux et les obligations de chacun. Notez les notions difficiles et reformulez-les avec vos propres mots.
 1. [📖 Réviser Droits et devoirs](SCR_REV_T3_MENU)
 `endif`
-#### Étape 2 — Réaliser deux entraînements ciblés
+`@parEtape = calc(@parcoursT3 < 4 ? 2 : 1)`
+#### Étape `@parEtape` — Réaliser deux entraînements ciblés
 Commencez par les questions, puis entraînez votre raisonnement avec les mises en situation.
 `if @parcoursExam == "CSP"`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T3_Q_LAUNCH)
@@ -231,15 +269,18 @@ Commencez par les questions, puis entraînez votre raisonnement avec les mises e
 1. [🎭 Mises en situation de cette thématique](SCR_ENT_NAT_T3_MIS_LAUNCH)
 `endif`
 `if @parcoursT3 <= 2`
-#### Étape 3 — Atteindre votre objectif
+`@parEtape = calc(@parcoursT3 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Atteindre votre objectif
 Visez d’abord 6/10, puis 8/10 à deux reprises. Entre les essais, revoyez les erreurs.
 `endif`
 `if @parcoursT3 == 3`
-#### Étape 3 — Confirmer les progrès
+`@parEtape = calc(@parcoursT3 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Confirmer les progrès
 Visez 8/10 à deux reprises. Comparez les corrections et reprenez les notions encore fragiles.
 `endif`
 `if @parcoursT3 >= 4`
-#### Étape 3 — Approfondir
+`@parEtape = calc(@parcoursT3 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Approfondir
 Essayez un entraînement complet difficile et vérifiez que vos acquis restent solides.
 `if @parcoursExam == "CSP"`
 1. [🔴 Entraînement complet difficile](SCR_ENT_CSP_LVL_DIF_LAUNCH)
@@ -252,7 +293,8 @@ Essayez un entraînement complet difficile et vérifiez que vos acquis restent s
 `endif`
 `endif`
 
-#### Étape 4 — Mesurer votre évolution
+`@parEtape = calc(@parcoursT3 < 4 ? 4 : 3)`
+#### Étape `@parEtape` — Mesurer votre évolution
 Après avoir travaillé vos priorités, réalisez un bilan de progression.
 1. [📈 Faire mon bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
 `endif`
@@ -268,13 +310,18 @@ Terminez un bilan pour obtenir vos étapes personnalisées.
 `endif`
 `if @parcoursDisponible`
 **Votre résultat au dernier bilan : `@parcoursT4`/5.**
+`if @parcoursT4 == 5`
+Félicitations pour ce score parfait ! Vous pouvez maintenant vérifier ces acquis dans un examen blanc chronométré.
+1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
+`endif`
 
 `if @parcoursT4 < 4`
 #### Étape 1 — Réviser le cours
 Relisez les repères historiques, les territoires et le patrimoine. Notez les notions difficiles et reformulez-les avec vos propres mots.
 1. [📖 Réviser Histoire, géographie et culture](SCR_REV_T4_MENU)
 `endif`
-#### Étape 2 — Réaliser deux entraînements ciblés
+`@parEtape = calc(@parcoursT4 < 4 ? 2 : 1)`
+#### Étape `@parEtape` — Réaliser deux entraînements ciblés
 Commencez par les questions, puis entraînez votre raisonnement avec les mises en situation.
 `if @parcoursExam == "CSP"`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T4_Q_LAUNCH)
@@ -289,15 +336,18 @@ Commencez par les questions, puis entraînez votre raisonnement avec les mises e
 1. [🎭 Mises en situation de cette thématique](SCR_ENT_NAT_T4_MIS_LAUNCH)
 `endif`
 `if @parcoursT4 <= 2`
-#### Étape 3 — Atteindre votre objectif
+`@parEtape = calc(@parcoursT4 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Atteindre votre objectif
 Visez d’abord 6/10, puis 8/10 à deux reprises. Entre les essais, revoyez les erreurs.
 `endif`
 `if @parcoursT4 == 3`
-#### Étape 3 — Confirmer les progrès
+`@parEtape = calc(@parcoursT4 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Confirmer les progrès
 Visez 8/10 à deux reprises. Comparez les corrections et reprenez les notions encore fragiles.
 `endif`
 `if @parcoursT4 >= 4`
-#### Étape 3 — Approfondir
+`@parEtape = calc(@parcoursT4 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Approfondir
 Essayez un entraînement complet difficile et vérifiez que vos acquis restent solides.
 `if @parcoursExam == "CSP"`
 1. [🔴 Entraînement complet difficile](SCR_ENT_CSP_LVL_DIF_LAUNCH)
@@ -310,7 +360,8 @@ Essayez un entraînement complet difficile et vérifiez que vos acquis restent s
 `endif`
 `endif`
 
-#### Étape 4 — Mesurer votre évolution
+`@parEtape = calc(@parcoursT4 < 4 ? 4 : 3)`
+#### Étape `@parEtape` — Mesurer votre évolution
 Après avoir travaillé vos priorités, réalisez un bilan de progression.
 1. [📈 Faire mon bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
 `endif`
@@ -326,13 +377,18 @@ Terminez un bilan pour obtenir vos étapes personnalisées.
 `endif`
 `if @parcoursDisponible`
 **Votre résultat au dernier bilan : `@parcoursT5`/5.**
+`if @parcoursT5 == 5`
+Félicitations pour ce score parfait ! Vous pouvez maintenant vérifier ces acquis dans un examen blanc chronométré.
+1. [🎯 Passer un examen blanc](SCR_PREP_MENU)
+`endif`
 
 `if @parcoursT5 < 4`
 #### Étape 1 — Réviser le cours
 Relisez les démarches, la santé, le travail et l’éducation. Notez les notions difficiles et reformulez-les avec vos propres mots.
 1. [📖 Réviser Vivre dans la société française](SCR_REV_T5_MENU)
 `endif`
-#### Étape 2 — Réaliser deux entraînements ciblés
+`@parEtape = calc(@parcoursT5 < 4 ? 2 : 1)`
+#### Étape `@parEtape` — Réaliser deux entraînements ciblés
 Commencez par les questions, puis entraînez votre raisonnement avec les mises en situation.
 `if @parcoursExam == "CSP"`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T5_Q_LAUNCH)
@@ -347,15 +403,18 @@ Commencez par les questions, puis entraînez votre raisonnement avec les mises e
 1. [🎭 Mises en situation de cette thématique](SCR_ENT_NAT_T5_MIS_LAUNCH)
 `endif`
 `if @parcoursT5 <= 2`
-#### Étape 3 — Atteindre votre objectif
+`@parEtape = calc(@parcoursT5 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Atteindre votre objectif
 Visez d’abord 6/10, puis 8/10 à deux reprises. Entre les essais, revoyez les erreurs.
 `endif`
 `if @parcoursT5 == 3`
-#### Étape 3 — Confirmer les progrès
+`@parEtape = calc(@parcoursT5 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Confirmer les progrès
 Visez 8/10 à deux reprises. Comparez les corrections et reprenez les notions encore fragiles.
 `endif`
 `if @parcoursT5 >= 4`
-#### Étape 3 — Approfondir
+`@parEtape = calc(@parcoursT5 < 4 ? 3 : 2)`
+#### Étape `@parEtape` — Approfondir
 Essayez un entraînement complet difficile et vérifiez que vos acquis restent solides.
 `if @parcoursExam == "CSP"`
 1. [🔴 Entraînement complet difficile](SCR_ENT_CSP_LVL_DIF_LAUNCH)
@@ -368,7 +427,8 @@ Essayez un entraînement complet difficile et vérifiez que vos acquis restent s
 `endif`
 `endif`
 
-#### Étape 4 — Mesurer votre évolution
+`@parEtape = calc(@parcoursT5 < 4 ? 4 : 3)`
+#### Étape `@parEtape` — Mesurer votre évolution
 Après avoir travaillé vos priorités, réalisez un bilan de progression.
 1. [📈 Faire mon bilan de progression @mode_bilan=PROG](SCR_BIL_PROG_EXAMEN)
 `endif`

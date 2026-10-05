@@ -115,7 +115,7 @@ Oublier ne signifie pas que vous avez une mauvaise mémoire. Chaque fois que vou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_CONS_MEMOIRE_02
-### 🌫️ Pourquoi oublie-t-on ?
+### 🔎 Pourquoi oublie-t-on ?
 
 Le cerveau reçoit beaucoup d’informations chaque jour. Il oublie rapidement celles qui ne sont pas comprises, utilisées ou revues.
 
@@ -126,9 +126,16 @@ Pour conserver une connaissance, il faut donc :
 - l’utiliser dans des questions différentes ;
 - laisser du temps entre les révisions.
 
-:::info 📉 La courbe de l’oubli
+:::info 📉 La courbe de l’oubli — Hermann Ebbinghaus (1885)
 L’oubli est rapide après un premier apprentissage. Une courte révision au bon moment ralentit cet oubli. Les révisions suivantes peuvent ensuite être de plus en plus espacées.
 :::
+
+![Courbe pédagogique : les rappels espacés aident à retrouver les connaissances](https://codeurfou-sys.github.io/chatbot_civique2/assets/courbe-oubli-v9.svg)
+
+**Comment lire le schéma ?** Sans rappel, une partie des connaissances devient plus difficile à retrouver. À chaque révision active, essayez de répondre sans regarder le cours, puis vérifiez. Répétez après un délai plus long. Les courbes sont illustratives : elles ne prédisent pas votre mémoire personnelle.
+
+Source : [Murre et Dros, étude de réplication (2015)](https://doi.org/10.1371/journal.pone.0120644).
+
 
 L’objectif n’est pas de tout apprendre en une seule fois, mais de **consolider progressivement** vos connaissances.
 
@@ -409,7 +416,7 @@ Une erreur corrigée vous indique exactement ce que vous devez retravailler. L�
 :::
 
 1. [📚 Réviser mes points faibles](SCR_PARCOURS_FAIBLES)
-2. [🎯 Refaire un entraînement](SCR_ENT_MENU)
+2. [🎯 Faire un entraînement](SCR_ENT_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -433,22 +440,6 @@ L’entretien de naturalisation est distinct de l’examen civique. Il permet no
 Ne récitez pas un texte appris par cœur et n’inventez pas une réponse. Une réponse claire, sincère et comprise est préférable.
 :::
 
-1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
-1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
-1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
-1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
-1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
-1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
-1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
-1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
-1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
-1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
-1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
-1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
-1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
-1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
-1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
-1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
 1. [🇫🇷 Principes et valeurs de la République](SCR_REV_T1_MENU)
 1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
 1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)

@@ -495,7 +495,7 @@ L'OFII organise la formation civique dans le cadre du Contrat d'Intégration Ré
 
 L'examen civique est organisé par des centres agréés selon les modalités prévues par la réglementation.
 
-Si vous souhaitez passer l'examen, utilisez la rubrique **« S’inscrire à l’examen civique »** du Coach ou consultez le site de **FRATE Formation** pour trouver un centre et vous inscrire.
+Si vous souhaitez passer l'examen, utilisez la rubrique **« S’inscrire à l’examen civique »** du Coach ou consultez le site de **[FRATE Formation](https://frateformation.net/formation/examen-civique/)** pour trouver un centre et vous inscrire.
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_034)
@@ -972,7 +972,6 @@ Vous y trouverez notamment :
 - des examens blancs ;
 - des explications détaillées après chaque réponse ;
 - des ressources de révision ;
-- des fiches de synthèse ;
 - un suivi de votre progression.
 
 La plateforme est conçue pour vous accompagner jusqu'au jour de votre examen.
@@ -1249,8 +1248,7 @@ Généralement, vous obtenez le résultat sous 48 h de la part de Frate Formatio
 <!-- Variables : {categorie}=EXAMEN; {ordre}=1; {faq_id}=FAQ-001 -->
 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Examen civique
-L'examen civique est un test obligatoire pour obtenir certains titres de séjour (carte de séjour pluriannuelle ou carte de résident) mais aussi la nationalité française (naturalisation). Il 
-permet d'évaluer vos connaissances sur les valeurs de la République, les institutions françaises, les droits et devoirs, l'histoire, la géographie, la culture française ainsi que la vie en société.
+L'examen civique est un test obligatoire pour obtenir certains titres de séjour (carte de séjour pluriannuelle ou carte de résident) mais aussi la nationalité française (naturalisation). Il permet d'évaluer vos connaissances sur les valeurs de la République, les institutions françaises, les droits et devoirs, l'histoire, la géographie, la culture française ainsi que la vie en société.
 
 Le contenu varie selon que vous préparez :
 
@@ -1281,7 +1279,7 @@ Format, thèmes, niveaux et règles de l’examen.
 2. [➡️ Qui est concerné par l'examen civique ?](SCR_FAQ_002)
 3. [➡️ Quelles sont les thématiques officielles de l'examen civique ?](SCR_FAQ_003)
 4. [➡️ Combien de questions comporte l'examen civique ?](SCR_FAQ_004)
-5. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/resident.svg" alt="" width="30" height="24"> Carte de résident et Naturalisation ?](SCR_FAQ_005)
+5. [📘 Carte de résident et Naturalisation ?](SCR_FAQ_005)
 6. [➡️ A quoi correspond l'examen civique pour la naturalisation ?](SCR_FAQ_006)
 7. [➡️ A quoi correspond l'examen civique pour la carte de résident ?](SCR_FAQ_007)
 8. [➡️ A quoi correspond l'examen civique pour la carte de séjour pluriannuelle ?](SCR_FAQ_008)
@@ -1636,7 +1634,7 @@ L'inscription est simple.
 👉 Vous pouvez effectuer cette démarche directement depuis :
 
 - la rubrique **« S’inscrire à l’examen civique »** du Coach ;
-- ou le site officiel de.
+- ou le site officiel de [Frate Formation](https://frateformation.net/formation/examen-civique/).
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_017)
@@ -1653,9 +1651,7 @@ L'inscription est simple.
 <!-- Variables : {categorie}=INSCRIPTION; {ordre}=4; {faq_id}=FAQ-019 -->
 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Inscription et organisation
-Les frais d'inscription sont fixés par chaque centre agréé et peuvent varier.
-
-Le tarif applicable est de 80 € vous sera demandé au moment de votre inscription auprès du centre choisi.. Ce montant est à payer en ligne lors de la réservation. Il n'est pas remboursable si vous changez d'avis ou si vous ratez l'examen.
+Le tarif applicable est de **80 € chez Frate Formation**. Il vous sera demandé au moment de votre inscription. Le paiement s’effectue en ligne lors de la réservation. Ce montant n’est pas remboursable si vous changez d’avis ou si vous ne réussissez pas l’examen.
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_018)
@@ -1681,7 +1677,7 @@ Vous devez vous inscrire auprès d'un centre agréé.
 Le moyen le plus simple est de :
 
 - utiliser la rubrique **« S’inscrire à l’examen civique »** du Coach ;
-- ou consulter.
+- ou consulter [la page Examen civique de Frate Formation](https://frateformation.net/formation/examen-civique/).
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_019)
@@ -1761,7 +1757,7 @@ En cas de doute sur la validité de vos documents, contactez votre centre avant 
 :::info <span class="civi-faq-title">💬 Thématique :</span> Inscription et organisation
 Depuis la rubrique **« S’inscrire à l’examen civique »**, le Coach vous oriente vers les centres disponibles.
 
-Vous pouvez également consulter la page de, sélectionner votre région puis choisir le centre qui vous convient.
+Vous pouvez également consulter [la page Examen civique de Frate Formation](https://frateformation.net/formation/examen-civique/), sélectionner votre région puis choisir le centre qui vous convient.
 :::
 
 1. [⬅️ Question précédente](SCR_FAQ_023)
