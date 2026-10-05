@@ -52,11 +52,14 @@ function buildLiveCentres(sessionsDoc, geocodes) {
 
 function findCommunes(raw) {
   const value = raw.trim();
-  if (/^\d{5}$/.test(value)) return state.communes.filter((item) => item.code_postal === value);
+  if (/^\d{5}$/.test(value)) return state.communes.filter(item => item.code_postal === value);
   const needle = normalize(value);
   if (needle.length < 2) return [];
-  const exact = state.communes.filter((item) => normalize(item.commune) === needle);
-  return exact.length ? exact : state.communes.filter((item) => normalize(item.commune).startsWith(needle)).slice(0, 20);
+  const named = state.communes.filter(item => normalize(item.commune) === needle);
+  const candidates = named.length ? named : state.communes.filter(item => normalize(item.commune).startsWith(needle));
+  // Un nom exact prime toujours sur une commune dont le nom commence de la même façon.
+  // Plusieurs codes postaux d’une même ville ne créent pas plusieurs choix.
+  return [...new Map(candidates.map(item => [item.code_insee, item])).values()].slice(0, 30);
 }
 
 function showChoices(matches) {
@@ -66,7 +69,7 @@ function showChoices(matches) {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "choice";
-    button.textContent = `${commune.commune} (${commune.code_postal})`;
+    button.textContent = `${commune.commune} (${commune.code_postal}, département ${commune.departement || commune.code_postal.slice(0,2)})`;
     button.addEventListener("click", () => showResults(commune));
     choicesList.append(button);
   });
@@ -87,7 +90,7 @@ function showResults(commune) {
     article.innerHTML = `<span class="rank">Choix ${index + 1}</span><div class="city">${centre.ville}</div><p class="meta">${centre.departement} · ${centre.region}<br><strong>${Math.round(centre.distance)} km</strong> à vol d’oiseau</p><div><strong>Prochaines sessions</strong><ul class="sessions">${sessionItems}</ul></div><a class="button" href="${centre.lien_forms}" target="_blank" rel="noopener">📝 S’inscrire à une session</a>`;
     cards.append(article);
   });
-  locationSummary.textContent = `Résultats calculés depuis ${commune.commune} (${commune.code_postal}).`;
+  locationSummary.textContent = `Résultats calculés depuis ${commune.commune} (${commune.code_postal}, département ${commune.departement || commune.code_postal.slice(0,2)}).`;
   choices.classList.add("hidden");
   results.classList.remove("hidden");
   statusBox.textContent = "Recherche terminée.";
@@ -96,7 +99,7 @@ function showResults(commune) {
 
 async function init() {
   try {
-    const communesResponse = await fetch("data/communes_france.json", { cache: "force-cache" });
+    const communesResponse = await fetch("data/communes_france.json?v=8", { cache: "no-cache" });
     const centresResponse = await fetch("data/centres_frate.json", { cache: "no-store" });
     if (!communesResponse.ok || !centresResponse.ok) throw new Error("Données indisponibles");
     state.communes = (await communesResponse.json()).communes || [];

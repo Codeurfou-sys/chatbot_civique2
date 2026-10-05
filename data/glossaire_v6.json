@@ -79,6 +79,15 @@
     "theme": 2
   },
   {
+    "id": "SCR_GLO_0239",
+    "title": "Assiduité",
+    "theme": 5,
+    "aliases": [
+      "Assiduité"
+    ],
+    "definition": "Présence régulière et respect des horaires dans une activité, notamment à l’école ou en formation."
+  },
+  {
     "id": "SCR_GLO_0005",
     "title": "Assistance à personne en danger",
     "aliases": [
@@ -130,6 +139,15 @@
     "theme": 5
   },
   {
+    "id": "SCR_GLO_0229",
+    "title": "Bastille",
+    "theme": 4,
+    "aliases": [
+      "Bastille"
+    ],
+    "definition": "Ancienne forteresse et prison de Paris prise le 14 juillet 1789. Cet événement est un repère de la Révolution française."
+  },
+  {
     "id": "SCR_GLO_0145",
     "title": "Bénévolat",
     "aliases": [
@@ -137,6 +155,15 @@
     ],
     "definition": "Activité réalisée librement sans rémunération, par exemple pour aider une association.",
     "theme": 5
+  },
+  {
+    "id": "SCR_GLO_0219",
+    "title": "Bloc de constitutionnalité",
+    "theme": 2,
+    "aliases": [
+      "Bloc de constitutionnalité"
+    ],
+    "definition": "Ensemble des textes et principes de valeur constitutionnelle utilisés pour vérifier que les lois respectent la Constitution. Il comprend notamment la Constitution de 1958, la Déclaration de 1789 et la Charte de l’environnement."
   },
   {
     "id": "SCR_GLO_0008",
@@ -169,6 +196,18 @@
     ],
     "definition": "La **carte de résident** est un titre de séjour valable dix ans. Les conditions et les démarches dépendent de la situation de la personne.",
     "theme": 5
+  },
+  {
+    "id": "SCR_GLO_0212",
+    "title": "Carte de séjour pluriannuelle",
+    "theme": 3,
+    "aliases": [
+      "Carte de séjour pluriannuelle",
+      "carte pluriannuelle",
+      "titre pluriannuel",
+      "csp"
+    ],
+    "definition": "Titre de séjour permettant à une personne étrangère de rester en France pendant plusieurs années, selon sa situation et les conditions du titre."
   },
   {
     "id": "SCR_GLO_0011",
@@ -210,6 +249,15 @@
     "theme": 2
   },
   {
+    "id": "SCR_GLO_0233",
+    "title": "CEE",
+    "theme": 2,
+    "aliases": [
+      "CEE"
+    ],
+    "definition": "Communauté économique européenne, créée par le traité de Rome en 1957. Elle a précédé l’Union européenne."
+  },
+  {
     "id": "SCR_GLO_0014",
     "title": "Celtes",
     "aliases": [
@@ -228,6 +276,15 @@
     ],
     "definition": "Empereur d'Occident couronné en l'an 800.\n\n**À retenir :** Il a contribué au développement de l'éducation et de l'organisation de son empire.\n\n**Voir aussi :** Moyen Âge.",
     "theme": 4
+  },
+  {
+    "id": "SCR_GLO_0230",
+    "title": "Charles de Gaulle",
+    "theme": 4,
+    "aliases": [
+      "Charles de Gaulle"
+    ],
+    "definition": "Dirigeant de la France libre pendant la Seconde Guerre mondiale, puis premier président de la Ve République, instaurée en 1958."
   },
   {
     "id": "SCR_GLO_0016",
@@ -277,7 +334,7 @@
       "citoyens",
       "citoyennes"
     ],
-    "definition": "Un **citoyen** est une personne qui possède des droits civiques et des devoirs envers la société. Le vote est un exemple de droit civique.",
+    "definition": "Personne qui possède la nationalité d’un État et les droits et devoirs qui s’y rattachent. En France, le droit de vote dépend notamment de la nationalité, de l’âge et du type d’élection.",
     "theme": 1
   },
   {
@@ -297,7 +354,7 @@
     "aliases": [
       "clovis"
     ],
-    "definition": "Premier roi des Francs à s'être converti au christianisme.\n\n**À retenir :** Son règne marque le début de la dynastie mérovingienne.\n\n**Voir aussi :** Charlemagne.",
+    "definition": "Roi des Francs associé à la dynastie mérovingienne et à sa conversion au christianisme. Il a régné bien avant Charlemagne.",
     "theme": 4
   },
   {
@@ -403,6 +460,15 @@
     "theme": 2
   },
   {
+    "id": "SCR_GLO_0220",
+    "title": "Conseiller municipal",
+    "theme": 2,
+    "aliases": [
+      "Conseiller municipal"
+    ],
+    "definition": "Personne élue au conseil municipal pour participer aux décisions de la commune. Les conseillers municipaux élisent le maire."
+  },
+  {
     "id": "SCR_GLO_0031",
     "title": "Consentement",
     "aliases": [
@@ -456,6 +522,15 @@
     ],
     "definition": "Infraction la moins grave.\n\n**À retenir :** Elle est généralement punie d'une amende.\n\n**Voir aussi :** Délit; Crime.",
     "theme": 3
+  },
+  {
+    "id": "SCR_GLO_0218",
+    "title": "Coq gaulois",
+    "theme": 1,
+    "aliases": [
+      "Coq gaulois"
+    ],
+    "definition": "Animal utilisé comme symbole de la France, notamment dans le sport. Il ne remplace pas le drapeau tricolore."
   },
   {
     "id": "SCR_GLO_0141",
@@ -536,6 +611,15 @@
     "theme": 3
   },
   {
+    "id": "SCR_GLO_0242",
+    "title": "Demandeur d’emploi",
+    "theme": 5,
+    "aliases": [
+      "Demandeur d’emploi"
+    ],
+    "definition": "Personne qui recherche un travail et peut bénéficier d’un accompagnement adapté."
+  },
+  {
     "id": "SCR_GLO_0040",
     "title": "Démocratie",
     "aliases": [
@@ -578,6 +662,15 @@
     ],
     "definition": "Représentant élu des citoyens au Parlement européen.\n\n**À retenir :** Les députés européens sont élus tous les cinq ans.\n\n**Voir aussi :** Parlement européen.",
     "theme": 2
+  },
+  {
+    "id": "SCR_GLO_0217",
+    "title": "Devise",
+    "theme": 1,
+    "aliases": [
+      "Devise"
+    ],
+    "definition": "Formule qui exprime des valeurs communes. La devise de la République française est « Liberté, Égalité, Fraternité »."
   },
   {
     "id": "SCR_GLO_0044",
@@ -649,6 +742,15 @@
     "theme": 3
   },
   {
+    "id": "SCR_GLO_0225",
+    "title": "Droits de la défense",
+    "theme": 3,
+    "aliases": [
+      "Droits de la défense"
+    ],
+    "definition": "Garanties permettant à une personne de connaître ce qui lui est reproché, de se défendre et de bénéficier de l’aide d’un avocat."
+  },
+  {
     "id": "SCR_GLO_0047",
     "title": "Droits fondamentaux",
     "aliases": [
@@ -703,6 +805,15 @@
     "theme": 2
   },
   {
+    "id": "SCR_GLO_0221",
+    "title": "Élection présidentielle",
+    "theme": 2,
+    "aliases": [
+      "Élection présidentielle"
+    ],
+    "definition": "Vote permettant de choisir le président de la République française. Les citoyens français remplissant les conditions de vote y participent."
+  },
+  {
     "id": "SCR_GLO_0160",
     "title": "Élections européennes",
     "aliases": [
@@ -740,6 +851,15 @@
     ],
     "definition": "L’**employeur** est la personne ou l’organisation qui embauche un salarié et lui verse un salaire.",
     "theme": 5
+  },
+  {
+    "id": "SCR_GLO_0243",
+    "title": "Entrepreneuriat",
+    "theme": 5,
+    "aliases": [
+      "Entrepreneuriat"
+    ],
+    "definition": "Création et développement d’une activité ou d’une entreprise, dans le respect des obligations légales."
   },
   {
     "id": "SCR_GLO_0143",
@@ -1049,6 +1169,15 @@
     "theme": 4
   },
   {
+    "id": "SCR_GLO_0244",
+    "title": "Inclusion",
+    "theme": 5,
+    "aliases": [
+      "Inclusion"
+    ],
+    "definition": "Organisation de la société pour permettre à chacun de participer, notamment aux personnes en situation de handicap."
+  },
+  {
     "id": "SCR_GLO_0074",
     "title": "Infraction",
     "aliases": [
@@ -1096,6 +1225,15 @@
     "theme": 3
   },
   {
+    "id": "SCR_GLO_0238",
+    "title": "Jour férié",
+    "theme": 5,
+    "aliases": [
+      "Jour férié"
+    ],
+    "definition": "Jour lié à une fête ou à une commémoration. Un jour férié n’est pas toujours un jour sans travail : les règles dépendent de la situation."
+  },
+  {
     "id": "SCR_GLO_0207",
     "title": "Journée de l’Europe",
     "aliases": [
@@ -1121,6 +1259,15 @@
     ],
     "definition": "Professionnel de la justice qui applique la loi et rend des décisions pour trancher des litiges ou juger des infractions.",
     "theme": 2
+  },
+  {
+    "id": "SCR_GLO_0234",
+    "title": "Jules Ferry",
+    "theme": 4,
+    "aliases": [
+      "Jules Ferry"
+    ],
+    "definition": "Responsable politique associé aux lois de 1881 et 1882 rendant l’école primaire publique gratuite, puis l’instruction obligatoire et l’enseignement public laïque."
   },
   {
     "id": "SCR_GLO_0182",
@@ -1173,7 +1320,8 @@
       "laique",
       "laic",
       "separation des eglises et de l etat",
-      "laicites"
+      "laicites",
+      "laicité"
     ],
     "definition": "La **laïcité** permet à chacun de croire, de ne pas croire ou de changer de religion. L’État reste neutre à l’égard des religions. Chacun doit respecter la liberté des autres.",
     "theme": 1
@@ -1197,6 +1345,34 @@
     ],
     "definition": "La **liberté** permet de faire des choix et de s’exprimer. Elle s’exerce dans le respect de la loi et des droits des autres.",
     "theme": 1
+  },
+  {
+    "id": "SCR_GLO_0214",
+    "title": "Liberté d’association",
+    "theme": 1,
+    "aliases": [
+      "Liberté d’association"
+    ],
+    "definition": "Droit de se réunir avec d’autres personnes pour créer une association et mener un projet commun dans le respect de la loi."
+  },
+  {
+    "id": "SCR_GLO_0213",
+    "title": "Liberté d’expression",
+    "theme": 1,
+    "aliases": [
+      "Liberté d’expression",
+      "liberte expression"
+    ],
+    "definition": "Droit de communiquer ses idées et ses opinions, dans les limites prévues par la loi, notamment pour protéger les droits des autres."
+  },
+  {
+    "id": "SCR_GLO_0215",
+    "title": "Liberté de circulation",
+    "theme": 3,
+    "aliases": [
+      "Liberté de circulation"
+    ],
+    "definition": "Possibilité de se déplacer, dans les conditions prévues par la loi. Certaines restrictions peuvent protéger la sécurité ou les droits d’autrui."
   },
   {
     "id": "SCR_GLO_0083",
@@ -1245,6 +1421,24 @@
     ],
     "definition": "Une **loi** est une règle votée par le Parlement. Elle fixe ce qui est autorisé, obligatoire ou interdit.",
     "theme": 3
+  },
+  {
+    "id": "SCR_GLO_0236",
+    "title": "Loire",
+    "theme": 4,
+    "aliases": [
+      "Loire"
+    ],
+    "definition": "Plus long fleuve de France. Il se jette dans l’océan Atlantique."
+  },
+  {
+    "id": "SCR_GLO_0235",
+    "title": "Louis XVI",
+    "theme": 4,
+    "aliases": [
+      "Louis XVI"
+    ],
+    "definition": "Roi de France au début de la Révolution française. Il est exécuté en 1793."
   },
   {
     "id": "SCR_GLO_0086",
@@ -1358,6 +1552,15 @@
     "theme": 2
   },
   {
+    "id": "SCR_GLO_0216",
+    "title": "Mixité",
+    "theme": 1,
+    "aliases": [
+      "Mixité"
+    ],
+    "definition": "Présence et participation de femmes et d’hommes dans un même espace ou une même activité, avec les mêmes droits."
+  },
+  {
     "id": "SCR_GLO_0199",
     "title": "Monarchie",
     "aliases": [
@@ -1413,6 +1616,15 @@
     "theme": 5
   },
   {
+    "id": "SCR_GLO_0231",
+    "title": "Napoléon Bonaparte",
+    "theme": 4,
+    "aliases": [
+      "Napoléon Bonaparte"
+    ],
+    "definition": "Dirigeant français devenu empereur en 1804. Son époque est notamment associée au Code civil."
+  },
+  {
     "id": "SCR_GLO_0097",
     "title": "Naturalisation",
     "aliases": [
@@ -1420,7 +1632,9 @@
       "nationalite francaise",
       "devenir francais",
       "devenir francaise",
-      "naturalisations"
+      "naturalisations",
+      "nationalité française",
+      "devenir français"
     ],
     "definition": "La **naturalisation** est une procédure qui permet de devenir français sous certaines conditions. Les démarches sont expliquées dans les rubriques du chatbot.",
     "theme": 5
@@ -1473,7 +1687,8 @@
     "aliases": [
       "parlement",
       "parlements",
-      "parlemant"
+      "parlemant",
+      "parllement"
     ],
     "definition": "Le **Parlement** est l’ensemble des représentants qui discutent et **votent les lois**. En France, il comprend l’**Assemblée nationale** et le **Sénat**. Le Gouvernement prépare des projets de loi ; le Parlement les examine et les vote.",
     "theme": 2
@@ -1651,6 +1866,15 @@
     "theme": 5
   },
   {
+    "id": "SCR_GLO_0224",
+    "title": "Procès équitable",
+    "theme": 3,
+    "aliases": [
+      "Procès équitable"
+    ],
+    "definition": "Procès dans lequel chacun peut faire valoir ses arguments devant une juridiction indépendante et impartiale, avec le respect des droits de la défense."
+  },
+  {
     "id": "SCR_GLO_0111",
     "title": "Procuration",
     "aliases": [
@@ -1660,6 +1884,24 @@
     ],
     "definition": "Une **procuration** permet de confier son vote à une autre personne lorsqu’on ne peut pas voter soi-même.",
     "theme": 2
+  },
+  {
+    "id": "SCR_GLO_0222",
+    "title": "Projet de loi",
+    "theme": 2,
+    "aliases": [
+      "Projet de loi"
+    ],
+    "definition": "Texte de loi proposé par le Gouvernement et soumis au Parlement."
+  },
+  {
+    "id": "SCR_GLO_0223",
+    "title": "Proposition de loi",
+    "theme": 2,
+    "aliases": [
+      "Proposition de loi"
+    ],
+    "definition": "Texte de loi proposé par un député ou un sénateur."
   },
   {
     "id": "SCR_GLO_0112",
@@ -1678,7 +1920,7 @@
       "prostitution",
       "prostitutions"
     ],
-    "definition": "Échange d'un acte sexuel contre une rémunération.\n\n**À retenir :** Le proxénétisme et le recours à la prostitution sont encadrés par la loi.\n\n**Voir aussi :** Traite des êtres humains.",
+    "definition": "Échange d’un acte sexuel contre une rémunération. En France, l’achat d’un acte sexuel est interdit ; le proxénétisme est également puni par la loi.",
     "theme": 3
   },
   {
@@ -1797,6 +2039,24 @@
     "theme": 1
   },
   {
+    "id": "SCR_GLO_0227",
+    "title": "Responsabilité",
+    "theme": 3,
+    "aliases": [
+      "Responsabilité"
+    ],
+    "definition": "Obligation de répondre de ses actes et, selon les cas, de réparer les dommages causés ou d’accepter une sanction."
+  },
+  {
+    "id": "SCR_GLO_0228",
+    "title": "Révolution",
+    "theme": 4,
+    "aliases": [
+      "Révolution"
+    ],
+    "definition": "Changement profond et rapide de l’organisation politique ou sociale. La Révolution française commence en 1789."
+  },
+  {
     "id": "SCR_GLO_0119",
     "title": "Révolution française",
     "aliases": [
@@ -1806,6 +2066,15 @@
     ],
     "definition": "Période commencée en 1789 qui met fin à la monarchie absolue et fonde de nouveaux principes politiques.\n\n**À retenir :** Elle marque la naissance des valeurs républicaines modernes.\n\n**Voir aussi :** Déclaration des droits de l'homme et du citoyen.",
     "theme": 4
+  },
+  {
+    "id": "SCR_GLO_0237",
+    "title": "Rhône",
+    "theme": 4,
+    "aliases": [
+      "Rhône"
+    ],
+    "definition": "Fleuve qui traverse notamment Lyon et se jette dans la mer Méditerranée."
   },
   {
     "id": "SCR_GLO_0120",
@@ -1855,6 +2124,15 @@
     ],
     "definition": "Service d’aide médicale urgente : il organise la réponse médicale aux urgences et oriente vers les soins adaptés.",
     "theme": 5
+  },
+  {
+    "id": "SCR_GLO_0226",
+    "title": "Sanction",
+    "theme": 3,
+    "aliases": [
+      "Sanction"
+    ],
+    "definition": "Conséquence prévue lorsqu’une règle ou une loi n’est pas respectée. Sa nature dépend de la faute ou de l’infraction."
   },
   {
     "id": "SCR_GLO_0121",
@@ -1988,6 +2266,15 @@
     "theme": 3
   },
   {
+    "id": "SCR_GLO_0241",
+    "title": "Temps de travail",
+    "theme": 5,
+    "aliases": [
+      "Temps de travail"
+    ],
+    "definition": "Durée pendant laquelle un salarié exerce son activité professionnelle. Les règles dépendent notamment du contrat et de la loi."
+  },
+  {
     "id": "SCR_GLO_0129",
     "title": "Titre de séjour",
     "aliases": [
@@ -2019,13 +2306,22 @@
     "theme": 2
   },
   {
+    "id": "SCR_GLO_0232",
+    "title": "Traité de Rome",
+    "theme": 4,
+    "aliases": [
+      "Traité de Rome"
+    ],
+    "definition": "Traité signé en 1957 créant la Communauté économique européenne, une étape importante de la construction européenne."
+  },
+  {
     "id": "SCR_GLO_0131",
     "title": "Traite des êtres humains",
     "aliases": [
       "traite des etres humains",
       "esclavage"
     ],
-    "definition": "Exploitation d'une personne par la contrainte, la menace ou la tromperie.\n\n**À retenir :** La traite des êtres humains est un crime.\n\n**Voir aussi :** Esclavage.",
+    "definition": "Recrutement, transport ou accueil d’une personne pour l’exploiter, notamment par la contrainte ou la tromperie. C’est une infraction pénale grave.",
     "theme": 3
   },
   {
@@ -2055,7 +2351,7 @@
       "unesco",
       "unescos"
     ],
-    "definition": "Organisation des Nations unies chargée notamment de protéger le patrimoine mondial.\n\n**À retenir :** Plusieurs sites français sont inscrits au patrimoine mondial de l'UNESCO.\n\n**Voir aussi :** Patrimoine.",
+    "definition": "Organisation des Nations unies pour l’éducation, la science et la culture. Elle contribue notamment à la protection du patrimoine mondial. Le Mont-Saint-Michel et sa baie sont inscrits sur la Liste du patrimoine mondial.",
     "theme": 4
   },
   {
@@ -2088,6 +2384,15 @@
     ],
     "definition": "Situation nécessitant une prise en charge médicale immédiate.\n\n**À retenir :** En cas d'urgence médicale, composez le 15.\n\n**Voir aussi :** SAMU; Hôpital.",
     "theme": 5
+  },
+  {
+    "id": "SCR_GLO_0240",
+    "title": "Vaccination",
+    "theme": 5,
+    "aliases": [
+      "Vaccination"
+    ],
+    "definition": "Moyen de protéger une personne contre certaines maladies et de limiter leur transmission."
   },
   {
     "id": "SCR_GLO_0135",

@@ -9,7 +9,6 @@ Retrouvez des définitions simples des notions du programme.
 1. [📚 Parcourir par thème](SCR_GLO_THEME_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_ALPHA_MENU
 ### 🔠 Parcourir par ordre alphabétique
 
@@ -22,7 +21,6 @@ Retrouvez des définitions simples des notions du programme.
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_ALPHA_AC
 ### 🔠 A–C
 
@@ -34,21 +32,27 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 APL](SCR_GLO_0003)
 1. [📘 Armistice](SCR_GLO_0192)
 1. [📘 Assemblée nationale](SCR_GLO_0004)
+1. [📘 Assiduité](SCR_GLO_0239)
 1. [📘 Assistance à personne en danger](SCR_GLO_0005)
 1. [📘 Assurance maladie](SCR_GLO_0006)
 1. [📘 Autorité parentale](SCR_GLO_0170)
 1. [📘 Avocat](SCR_GLO_0181)
 1. [📘 Bail](SCR_GLO_0007)
+1. [📘 Bastille](SCR_GLO_0229)
 1. [📘 Bénévolat](SCR_GLO_0145)
+1. [📘 Bloc de constitutionnalité](SCR_GLO_0219)
 1. [📘 Bretagne](SCR_GLO_0008)
 1. [📘 CAF](SCR_GLO_0009)
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/resident.svg" alt="" width="30" height="24"> Carte de résident](SCR_GLO_0010)
+1. [📘 Carte de résident](SCR_GLO_0010)
+1. [📘 Carte de séjour pluriannuelle](SCR_GLO_0212)
 1. [📘 Carte Vitale](SCR_GLO_0011)
 1. [📘 CDD](SCR_GLO_0012)
 1. [📘 CDI](SCR_GLO_0013)
 1. [📘 CECA](SCR_GLO_0205)
+1. [📘 CEE](SCR_GLO_0233)
 1. [📘 Celtes](SCR_GLO_0014)
 1. [📘 Charlemagne](SCR_GLO_0015)
+1. [📘 Charles de Gaulle](SCR_GLO_0230)
 1. [📘 Charte de l'environnement](SCR_GLO_0016)
 1. [📘 Château de Versailles](SCR_GLO_0017)
 1. [📘 Chef de l’État](SCR_GLO_0164)
@@ -67,21 +71,19 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Conseil européen](SCR_GLO_0028)
 1. [📘 Conseil municipal](SCR_GLO_0029)
 1. [📘 Conseil régional](SCR_GLO_0030)
+1. [📘 Conseiller municipal](SCR_GLO_0220)
 1. [📘 Consentement](SCR_GLO_0031)
 1. [📘 Constitution](SCR_GLO_0032)
 1. [📘 Contrat d'engagement à respecter les principes de la République](SCR_GLO_0033)
 1. [📘 Contrat de travail](SCR_GLO_0034)
 1. [📘 Contravention](SCR_GLO_0035)
+1. [📘 Coq gaulois](SCR_GLO_0218)
 1. [📘 Cotisations sociales](SCR_GLO_0141)
 1. [📘 Cour d’assises](SCR_GLO_0183)
 1. [📘 CPAM](SCR_GLO_0036)
 1. [📘 Crime](SCR_GLO_0037)
 1. [↩️ Retour à l’alphabet](SCR_GLO_ALPHA_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
 
 ## SCR_GLO_ALPHA_DF
 ### 🔠 D–F
@@ -90,10 +92,12 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Déchets](SCR_GLO_0186)
 1. [📘 Déclaration des droits de l'homme et du citoyen](SCR_GLO_0038)
 1. [📘 Délit](SCR_GLO_0039)
+1. [📘 Demandeur d’emploi](SCR_GLO_0242)
 1. [📘 Démocratie](SCR_GLO_0040)
 1. [📘 Département](SCR_GLO_0041)
 1. [📘 Député](SCR_GLO_0042)
 1. [📘 Député européen](SCR_GLO_0043)
+1. [📘 Devise](SCR_GLO_0217)
 1. [📘 Devise de la République](SCR_GLO_0044)
 1. [📘 Devoir](SCR_GLO_0209)
 1. [📘 Dignité humaine](SCR_GLO_0045)
@@ -101,15 +105,18 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Divorce](SCR_GLO_0168)
 1. [📘 Drapeau français](SCR_GLO_0046)
 1. [📘 Droits civiques](SCR_GLO_0177)
+1. [📘 Droits de la défense](SCR_GLO_0225)
 1. [📘 Droits fondamentaux](SCR_GLO_0047)
 1. [📘 DROM](SCR_GLO_0204)
 1. [📘 École](SCR_GLO_0048)
 1. [📘 Égalité](SCR_GLO_0049)
 1. [📘 Élection](SCR_GLO_0050)
+1. [📘 Élection présidentielle](SCR_GLO_0221)
 1. [📘 Élections européennes](SCR_GLO_0160)
 1. [📘 Élections municipales](SCR_GLO_0159)
 1. [📘 Éligibilité](SCR_GLO_0157)
 1. [📘 Employeur](SCR_GLO_0051)
+1. [📘 Entrepreneuriat](SCR_GLO_0243)
 1. [📘 Entreprise](SCR_GLO_0143)
 1. [📘 Environnement](SCR_GLO_0052)
 1. [📘 Esclavage](SCR_GLO_0196)
@@ -127,10 +134,6 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Fraternité](SCR_GLO_0062)
 1. [↩️ Retour à l’alphabet](SCR_GLO_ALPHA_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
 
 ## SCR_GLO_ALPHA_GL
 ### 🔠 G–L
@@ -150,14 +153,17 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Île-de-France](SCR_GLO_0072)
 1. [📘 Impôt](SCR_GLO_0073)
 1. [📘 Impressionnisme](SCR_GLO_0200)
+1. [📘 Inclusion](SCR_GLO_0244)
 1. [📘 Infraction](SCR_GLO_0074)
 1. [📘 Instruction obligatoire](SCR_GLO_0171)
 1. [📘 Intégrité de la personne](SCR_GLO_0075)
 1. [📘 Intérêt général](SCR_GLO_0173)
 1. [📘 IVG](SCR_GLO_0185)
+1. [📘 Jour férié](SCR_GLO_0238)
 1. [📘 Journée de l’Europe](SCR_GLO_0207)
 1. [📘 Journées européennes du patrimoine](SCR_GLO_0076)
 1. [📘 Juge](SCR_GLO_0180)
+1. [📘 Jules Ferry](SCR_GLO_0234)
 1. [📘 Juré](SCR_GLO_0182)
 1. [📘 Justice](SCR_GLO_0077)
 1. [📘 La Marseillaise](SCR_GLO_0078)
@@ -165,18 +171,19 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Laïcité](SCR_GLO_0080)
 1. [📘 Langue de la République](SCR_GLO_0081)
 1. [📘 Liberté](SCR_GLO_0082)
+1. [📘 Liberté d’association](SCR_GLO_0214)
+1. [📘 Liberté d’expression](SCR_GLO_0213)
+1. [📘 Liberté de circulation](SCR_GLO_0215)
 1. [📘 Liberté de conscience](SCR_GLO_0083)
 1. [📘 Listes électorales](SCR_GLO_0158)
 1. [📘 Littérature](SCR_GLO_0201)
 1. [📘 Locataire](SCR_GLO_0084)
 1. [📘 Loi](SCR_GLO_0085)
+1. [📘 Loire](SCR_GLO_0236)
+1. [📘 Louis XVI](SCR_GLO_0235)
 1. [📘 Lycée](SCR_GLO_0086)
 1. [↩️ Retour à l’alphabet](SCR_GLO_ALPHA_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
 
 ## SCR_GLO_ALPHA_MP
 ### 🔠 M–P
@@ -191,13 +198,15 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Médecin traitant](SCR_GLO_0092)
 1. [📘 Méditerranée](SCR_GLO_0203)
 1. [📘 Ministre](SCR_GLO_0093)
+1. [📘 Mixité](SCR_GLO_0216)
 1. [📘 Monarchie](SCR_GLO_0199)
 1. [📘 Mont-Saint-Michel](SCR_GLO_0094)
 1. [📘 Musée du Louvre](SCR_GLO_0095)
 1. [📘 Mutilations sexuelles féminines](SCR_GLO_0096)
 1. [📘 Mutuelle](SCR_GLO_0148)
 1. [📘 Naissance](SCR_GLO_0167)
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
+1. [📘 Napoléon Bonaparte](SCR_GLO_0231)
+1. [📘 Naturalisation](SCR_GLO_0097)
 1. [📘 Neutralité](SCR_GLO_0098)
 1. [📘 Opinion](SCR_GLO_0176)
 1. [📘 Ordre public](SCR_GLO_0099)
@@ -220,7 +229,10 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Président de la République](SCR_GLO_0109)
 1. [📘 Présomption d'innocence](SCR_GLO_0110)
 1. [📘 Prévention](SCR_GLO_0149)
+1. [📘 Procès équitable](SCR_GLO_0224)
 1. [📘 Procuration](SCR_GLO_0111)
+1. [📘 Projet de loi](SCR_GLO_0222)
+1. [📘 Proposition de loi](SCR_GLO_0223)
 1. [📘 Propriétaire](SCR_GLO_0112)
 1. [📘 Prostitution](SCR_GLO_0113)
 1. [📘 Protection sociale](SCR_GLO_0150)
@@ -228,10 +240,6 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Pyrénées](SCR_GLO_0115)
 1. [↩️ Retour à l’alphabet](SCR_GLO_ALPHA_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
 
 ## SCR_GLO_ALPHA_QS
 ### 🔠 Q–S
@@ -245,12 +253,16 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Réseaux sociaux](SCR_GLO_0191)
 1. [📘 Résistance](SCR_GLO_0193)
 1. [📘 Respect](SCR_GLO_0174)
+1. [📘 Responsabilité](SCR_GLO_0227)
+1. [📘 Révolution](SCR_GLO_0228)
 1. [📘 Révolution française](SCR_GLO_0119)
+1. [📘 Rhône](SCR_GLO_0237)
 1. [📘 Salaire](SCR_GLO_0120)
 1. [📘 Salaire brut](SCR_GLO_0139)
 1. [📘 Salaire net](SCR_GLO_0140)
 1. [📘 Salarié](SCR_GLO_0142)
 1. [📘 SAMU](SCR_GLO_0153)
+1. [📘 Sanction](SCR_GLO_0226)
 1. [📘 Seconde Guerre mondiale](SCR_GLO_0121)
 1. [📘 Secours](SCR_GLO_0152)
 1. [📘 Sécurité routière](SCR_GLO_0190)
@@ -267,16 +279,14 @@ Retrouvez des définitions simples des notions du programme.
 1. [↩️ Retour à l’alphabet](SCR_GLO_ALPHA_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
-
 ## SCR_GLO_ALPHA_TZ
 ### 🔠 T–Z
 
+1. [📘 Temps de travail](SCR_GLO_0241)
 1. [📘 Titre de séjour](SCR_GLO_0129)
 1. [📘 Tour Eiffel](SCR_GLO_0130)
 1. [📘 Traité de Maastricht](SCR_GLO_0206)
+1. [📘 Traité de Rome](SCR_GLO_0232)
 1. [📘 Traite des êtres humains](SCR_GLO_0131)
 1. [📘 Travail dissimulé](SCR_GLO_0144)
 1. [📘 Tri des déchets](SCR_GLO_0189)
@@ -284,15 +294,12 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Union européenne](SCR_GLO_0133)
 1. [📘 Urgence](SCR_GLO_0151)
 1. [📘 Urgences](SCR_GLO_0134)
+1. [📘 Vaccination](SCR_GLO_0240)
 1. [📘 Vercingétorix](SCR_GLO_0135)
 1. [📘 Violence](SCR_GLO_0136)
 1. [📘 Vote](SCR_GLO_0137)
 1. [↩️ Retour à l’alphabet](SCR_GLO_ALPHA_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
 
 ## SCR_GLO_THEME_MENU
 ### 📚 Choisir une thématique
@@ -305,14 +312,15 @@ Retrouvez des définitions simples des notions du programme.
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_THEME_T1
 ### 📚 Principes et valeurs de la République
 
 1. [📘 Citoyen](SCR_GLO_0019)
 1. [📘 Constitution](SCR_GLO_0032)
 1. [📘 Contrat d'engagement à respecter les principes de la République](SCR_GLO_0033)
+1. [📘 Coq gaulois](SCR_GLO_0218)
 1. [📘 Démocratie](SCR_GLO_0040)
+1. [📘 Devise](SCR_GLO_0217)
 1. [📘 Devise de la République](SCR_GLO_0044)
 1. [📘 Drapeau français](SCR_GLO_0046)
 1. [📘 Égalité](SCR_GLO_0049)
@@ -323,8 +331,11 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Laïcité](SCR_GLO_0080)
 1. [📘 Langue de la République](SCR_GLO_0081)
 1. [📘 Liberté](SCR_GLO_0082)
+1. [📘 Liberté d’association](SCR_GLO_0214)
+1. [📘 Liberté d’expression](SCR_GLO_0213)
 1. [📘 Liberté de conscience](SCR_GLO_0083)
 1. [📘 Marianne](SCR_GLO_0089)
+1. [📘 Mixité](SCR_GLO_0216)
 1. [📘 Neutralité](SCR_GLO_0098)
 1. [📘 Opinion](SCR_GLO_0176)
 1. [📘 Religion](SCR_GLO_0175)
@@ -334,17 +345,15 @@ Retrouvez des définitions simples des notions du programme.
 1. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
-
 ## SCR_GLO_THEME_T2
 ### 📚 Institutions et système politique
 
 1. [📘 Abstention](SCR_GLO_0001)
 1. [📘 Agents publics](SCR_GLO_0172)
 1. [📘 Assemblée nationale](SCR_GLO_0004)
+1. [📘 Bloc de constitutionnalité](SCR_GLO_0219)
 1. [📘 CECA](SCR_GLO_0205)
+1. [📘 CEE](SCR_GLO_0233)
 1. [📘 Chef de l’État](SCR_GLO_0164)
 1. [📘 Collectivités territoriales](SCR_GLO_0165)
 1. [📘 Commission européenne](SCR_GLO_0023)
@@ -355,10 +364,12 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Conseil européen](SCR_GLO_0028)
 1. [📘 Conseil municipal](SCR_GLO_0029)
 1. [📘 Conseil régional](SCR_GLO_0030)
+1. [📘 Conseiller municipal](SCR_GLO_0220)
 1. [📘 Département](SCR_GLO_0041)
 1. [📘 Député](SCR_GLO_0042)
 1. [📘 Député européen](SCR_GLO_0043)
 1. [📘 Élection](SCR_GLO_0050)
+1. [📘 Élection présidentielle](SCR_GLO_0221)
 1. [📘 Élections européennes](SCR_GLO_0160)
 1. [📘 Élections municipales](SCR_GLO_0159)
 1. [📘 Éligibilité](SCR_GLO_0157)
@@ -383,6 +394,8 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Premier ministre](SCR_GLO_0107)
 1. [📘 Président de la République](SCR_GLO_0109)
 1. [📘 Procuration](SCR_GLO_0111)
+1. [📘 Projet de loi](SCR_GLO_0222)
+1. [📘 Proposition de loi](SCR_GLO_0223)
 1. [📘 Quinquennat](SCR_GLO_0155)
 1. [📘 Référendum](SCR_GLO_0116)
 1. [📘 Région](SCR_GLO_0117)
@@ -396,16 +409,13 @@ Retrouvez des définitions simples des notions du programme.
 1. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
-
 ## SCR_GLO_THEME_T3
 ### 📚 Droits et devoirs
 
 1. [📘 Amende](SCR_GLO_0178)
 1. [📘 Assistance à personne en danger](SCR_GLO_0005)
 1. [📘 Avocat](SCR_GLO_0181)
+1. [📘 Carte de séjour pluriannuelle](SCR_GLO_0212)
 1. [📘 Charte de l'environnement](SCR_GLO_0016)
 1. [📘 Citoyenneté](SCR_GLO_0020)
 1. [📘 Consentement](SCR_GLO_0031)
@@ -418,6 +428,7 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Dignité humaine](SCR_GLO_0045)
 1. [📘 Discrimination](SCR_GLO_0210)
 1. [📘 Droits civiques](SCR_GLO_0177)
+1. [📘 Droits de la défense](SCR_GLO_0225)
 1. [📘 Droits fondamentaux](SCR_GLO_0047)
 1. [📘 Environnement](SCR_GLO_0052)
 1. [📘 Gendarmerie](SCR_GLO_0065)
@@ -429,6 +440,7 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Intégrité de la personne](SCR_GLO_0075)
 1. [📘 IVG](SCR_GLO_0185)
 1. [📘 Juré](SCR_GLO_0182)
+1. [📘 Liberté de circulation](SCR_GLO_0215)
 1. [📘 Loi](SCR_GLO_0085)
 1. [📘 Majorité](SCR_GLO_0208)
 1. [📘 Mutilations sexuelles féminines](SCR_GLO_0096)
@@ -438,8 +450,11 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Police](SCR_GLO_0104)
 1. [📘 Polygamie](SCR_GLO_0169)
 1. [📘 Présomption d'innocence](SCR_GLO_0110)
+1. [📘 Procès équitable](SCR_GLO_0224)
 1. [📘 Prostitution](SCR_GLO_0113)
 1. [📘 Réseaux sociaux](SCR_GLO_0191)
+1. [📘 Responsabilité](SCR_GLO_0227)
+1. [📘 Sanction](SCR_GLO_0226)
 1. [📘 Sécurité routière](SCR_GLO_0190)
 1. [📘 Sûreté](SCR_GLO_0128)
 1. [📘 Traite des êtres humains](SCR_GLO_0131)
@@ -447,19 +462,17 @@ Retrouvez des définitions simples des notions du programme.
 1. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
-
 ## SCR_GLO_THEME_T4
 ### 📚 Histoire, géographie et culture
 
 1. [📘 Abolition](SCR_GLO_0197)
 1. [📘 Alpes](SCR_GLO_0002)
 1. [📘 Armistice](SCR_GLO_0192)
+1. [📘 Bastille](SCR_GLO_0229)
 1. [📘 Bretagne](SCR_GLO_0008)
 1. [📘 Celtes](SCR_GLO_0014)
 1. [📘 Charlemagne](SCR_GLO_0015)
+1. [📘 Charles de Gaulle](SCR_GLO_0230)
 1. [📘 Château de Versailles](SCR_GLO_0017)
 1. [📘 Cinquième République](SCR_GLO_0018)
 1. [📘 Clovis](SCR_GLO_0021)
@@ -478,44 +491,48 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Île-de-France](SCR_GLO_0072)
 1. [📘 Impressionnisme](SCR_GLO_0200)
 1. [📘 Journées européennes du patrimoine](SCR_GLO_0076)
+1. [📘 Jules Ferry](SCR_GLO_0234)
 1. [📘 La Réunion](SCR_GLO_0079)
 1. [📘 Littérature](SCR_GLO_0201)
+1. [📘 Loire](SCR_GLO_0236)
+1. [📘 Louis XVI](SCR_GLO_0235)
 1. [📘 Martinique](SCR_GLO_0090)
 1. [📘 Mayotte](SCR_GLO_0091)
 1. [📘 Méditerranée](SCR_GLO_0203)
 1. [📘 Monarchie](SCR_GLO_0199)
 1. [📘 Mont-Saint-Michel](SCR_GLO_0094)
 1. [📘 Musée du Louvre](SCR_GLO_0095)
+1. [📘 Napoléon Bonaparte](SCR_GLO_0231)
 1. [📘 Outre-mer](SCR_GLO_0100)
 1. [📘 Patrimoine](SCR_GLO_0103)
 1. [📘 Première Guerre mondiale](SCR_GLO_0108)
 1. [📘 Provence-Alpes-Côte d'Azur](SCR_GLO_0114)
 1. [📘 Pyrénées](SCR_GLO_0115)
 1. [📘 Résistance](SCR_GLO_0193)
+1. [📘 Révolution](SCR_GLO_0228)
 1. [📘 Révolution française](SCR_GLO_0119)
+1. [📘 Rhône](SCR_GLO_0237)
 1. [📘 Seconde Guerre mondiale](SCR_GLO_0121)
 1. [📘 Seine](SCR_GLO_0122)
 1. [📘 Shoah](SCR_GLO_0194)
 1. [📘 Tour Eiffel](SCR_GLO_0130)
+1. [📘 Traité de Rome](SCR_GLO_0232)
 1. [📘 UNESCO](SCR_GLO_0132)
 1. [📘 Vercingétorix](SCR_GLO_0135)
 1. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
-
 ## SCR_GLO_THEME_T5
 ### 📚 Vivre dans la société française
 
 1. [📘 APL](SCR_GLO_0003)
+1. [📘 Assiduité](SCR_GLO_0239)
 1. [📘 Assurance maladie](SCR_GLO_0006)
 1. [📘 Autorité parentale](SCR_GLO_0170)
 1. [📘 Bail](SCR_GLO_0007)
 1. [📘 Bénévolat](SCR_GLO_0145)
 1. [📘 CAF](SCR_GLO_0009)
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/resident.svg" alt="" width="30" height="24"> Carte de résident](SCR_GLO_0010)
+1. [📘 Carte de résident](SCR_GLO_0010)
 1. [📘 Carte Vitale](SCR_GLO_0011)
 1. [📘 CDD](SCR_GLO_0012)
 1. [📘 CDI](SCR_GLO_0013)
@@ -525,23 +542,27 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 CPAM](SCR_GLO_0036)
 1. [📘 Déchèterie](SCR_GLO_0188)
 1. [📘 Déchets](SCR_GLO_0186)
+1. [📘 Demandeur d’emploi](SCR_GLO_0242)
 1. [📘 Divorce](SCR_GLO_0168)
 1. [📘 École](SCR_GLO_0048)
 1. [📘 Employeur](SCR_GLO_0051)
+1. [📘 Entrepreneuriat](SCR_GLO_0243)
 1. [📘 Entreprise](SCR_GLO_0143)
 1. [📘 État civil](SCR_GLO_0166)
 1. [📘 France Services](SCR_GLO_0059)
 1. [📘 France Travail](SCR_GLO_0060)
 1. [📘 Handicap](SCR_GLO_0147)
 1. [📘 Hôpital](SCR_GLO_0071)
+1. [📘 Inclusion](SCR_GLO_0244)
 1. [📘 Instruction obligatoire](SCR_GLO_0171)
+1. [📘 Jour férié](SCR_GLO_0238)
 1. [📘 Locataire](SCR_GLO_0084)
 1. [📘 Lycée](SCR_GLO_0086)
 1. [📘 Mairie](SCR_GLO_0088)
 1. [📘 Médecin traitant](SCR_GLO_0092)
 1. [📘 Mutuelle](SCR_GLO_0148)
 1. [📘 Naissance](SCR_GLO_0167)
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
+1. [📘 Naturalisation](SCR_GLO_0097)
 1. [📘 Préfecture](SCR_GLO_0105)
 1. [📘 Prévention](SCR_GLO_0149)
 1. [📘 Propriétaire](SCR_GLO_0112)
@@ -555,17 +576,15 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Secours](SCR_GLO_0152)
 1. [📘 Service public](SCR_GLO_0125)
 1. [📘 SMIC](SCR_GLO_0138)
+1. [📘 Temps de travail](SCR_GLO_0241)
 1. [📘 Titre de séjour](SCR_GLO_0129)
 1. [📘 Travail dissimulé](SCR_GLO_0144)
 1. [📘 Tri des déchets](SCR_GLO_0189)
 1. [📘 Urgence](SCR_GLO_0151)
 1. [📘 Urgences](SCR_GLO_0134)
+1. [📘 Vaccination](SCR_GLO_0240)
 1. [↩️ Retour aux thèmes](SCR_GLO_THEME_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [↩️ Retour au menu du module](SCR_GLO_MENU)
-
 
 ## SCR_GLO_FILTER_RESET
 !Typewriter: false
@@ -582,7 +601,7 @@ Retrouvez des définitions simples des notions du programme.
 ## SCR_GLO_FILTER
 ### 🔤 Le filtre de CiviCoach
 
-`if @gloPrefix == "" || @gloPrefix == undefined`
+`if @gloPrefix == undefined || @gloPrefix == ""`
 Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement les mots qui commencent par les lettres choisies. Les lettres grisées ne correspondent à aucune suite possible. Vous pouvez revenir d’une lettre ou recommencer.
 `endif`
 
@@ -592,32 +611,32 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 
 **Début du mot :** `@gloPrefix`
 
-`@gloNextA = calc("abolition".startsWith(@gloPrefix+"a") || "abstention".startsWith(@gloPrefix+"a") || "agents publics".startsWith(@gloPrefix+"a") || "alpes".startsWith(@gloPrefix+"a") || "amende".startsWith(@gloPrefix+"a") || "apl".startsWith(@gloPrefix+"a") || "armistice".startsWith(@gloPrefix+"a") || "assemblee nationale".startsWith(@gloPrefix+"a") || "assistance a personne en danger".startsWith(@gloPrefix+"a") || "assurance maladie".startsWith(@gloPrefix+"a") || "autorite parentale".startsWith(@gloPrefix+"a") || "avocat".startsWith(@gloPrefix+"a") || "bail".startsWith(@gloPrefix+"a") || "benevolat".startsWith(@gloPrefix+"a") || "bretagne".startsWith(@gloPrefix+"a") || "caf".startsWith(@gloPrefix+"a") || "carte de resident".startsWith(@gloPrefix+"a") || "carte vitale".startsWith(@gloPrefix+"a") || "cdd".startsWith(@gloPrefix+"a") || "cdi".startsWith(@gloPrefix+"a") || "ceca".startsWith(@gloPrefix+"a") || "celtes".startsWith(@gloPrefix+"a") || "charlemagne".startsWith(@gloPrefix+"a") || "charte de l'environnement".startsWith(@gloPrefix+"a") || "chateau de versailles".startsWith(@gloPrefix+"a") || "chef de l'etat".startsWith(@gloPrefix+"a") || "cinquieme republique".startsWith(@gloPrefix+"a") || "citoyen".startsWith(@gloPrefix+"a") || "citoyennete".startsWith(@gloPrefix+"a") || "clovis".startsWith(@gloPrefix+"a") || "collectivites territoriales".startsWith(@gloPrefix+"a") || "college".startsWith(@gloPrefix+"a") || "colonisation".startsWith(@gloPrefix+"a") || "commission europeenne".startsWith(@gloPrefix+"a") || "commune".startsWith(@gloPrefix+"a") || "conseil constitutionnel".startsWith(@gloPrefix+"a") || "conseil de l'union europeenne".startsWith(@gloPrefix+"a") || "conseil departemental".startsWith(@gloPrefix+"a") || "conseil europeen".startsWith(@gloPrefix+"a") || "conseil municipal".startsWith(@gloPrefix+"a") || "conseil regional".startsWith(@gloPrefix+"a") || "consentement".startsWith(@gloPrefix+"a") || "constitution".startsWith(@gloPrefix+"a") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"a") || "contrat de travail".startsWith(@gloPrefix+"a") || "contravention".startsWith(@gloPrefix+"a") || "cotisations sociales".startsWith(@gloPrefix+"a") || "cour d'assises".startsWith(@gloPrefix+"a") || "cpam".startsWith(@gloPrefix+"a") || "crime".startsWith(@gloPrefix+"a") || "decheterie".startsWith(@gloPrefix+"a") || "dechets".startsWith(@gloPrefix+"a") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"a") || "delit".startsWith(@gloPrefix+"a") || "democratie".startsWith(@gloPrefix+"a") || "departement".startsWith(@gloPrefix+"a") || "depute".startsWith(@gloPrefix+"a") || "depute europeen".startsWith(@gloPrefix+"a") || "devise de la republique".startsWith(@gloPrefix+"a") || "devoir".startsWith(@gloPrefix+"a") || "dignite humaine".startsWith(@gloPrefix+"a") || "discrimination".startsWith(@gloPrefix+"a") || "divorce".startsWith(@gloPrefix+"a") || "drapeau francais".startsWith(@gloPrefix+"a") || "droits civiques".startsWith(@gloPrefix+"a") || "droits fondamentaux".startsWith(@gloPrefix+"a") || "drom".startsWith(@gloPrefix+"a") || "ecole".startsWith(@gloPrefix+"a") || "egalite".startsWith(@gloPrefix+"a") || "election".startsWith(@gloPrefix+"a") || "elections europeennes".startsWith(@gloPrefix+"a") || "elections municipales".startsWith(@gloPrefix+"a") || "eligibilite".startsWith(@gloPrefix+"a") || "employeur".startsWith(@gloPrefix+"a") || "entreprise".startsWith(@gloPrefix+"a") || "environnement".startsWith(@gloPrefix+"a") || "esclavage".startsWith(@gloPrefix+"a") || "espace schengen".startsWith(@gloPrefix+"a") || "etat".startsWith(@gloPrefix+"a") || "etat civil".startsWith(@gloPrefix+"a") || "euro".startsWith(@gloPrefix+"a") || "fete de la musique".startsWith(@gloPrefix+"a") || "fete nationale".startsWith(@gloPrefix+"a") || "fleuve".startsWith(@gloPrefix+"a") || "france metropolitaine".startsWith(@gloPrefix+"a") || "france services".startsWith(@gloPrefix+"a") || "france travail".startsWith(@gloPrefix+"a") || "francophonie".startsWith(@gloPrefix+"a") || "fraternite".startsWith(@gloPrefix+"a") || "gastronomie francaise".startsWith(@gloPrefix+"a") || "gaule".startsWith(@gloPrefix+"a") || "gendarmerie".startsWith(@gloPrefix+"a") || "genocide".startsWith(@gloPrefix+"a") || "gouvernement".startsWith(@gloPrefix+"a") || "greve".startsWith(@gloPrefix+"a") || "guadeloupe".startsWith(@gloPrefix+"a") || "guyane".startsWith(@gloPrefix+"a") || "handicap".startsWith(@gloPrefix+"a") || "harcelement".startsWith(@gloPrefix+"a") || "harcelement scolaire".startsWith(@gloPrefix+"a") || "hopital".startsWith(@gloPrefix+"a") || "ile-de-france".startsWith(@gloPrefix+"a") || "impot".startsWith(@gloPrefix+"a") || "impressionnisme".startsWith(@gloPrefix+"a") || "infraction".startsWith(@gloPrefix+"a") || "instruction obligatoire".startsWith(@gloPrefix+"a") || "integrite de la personne".startsWith(@gloPrefix+"a") || "interet general".startsWith(@gloPrefix+"a") || "ivg".startsWith(@gloPrefix+"a") || "journee de l'europe".startsWith(@gloPrefix+"a") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"a") || "juge".startsWith(@gloPrefix+"a") || "jure".startsWith(@gloPrefix+"a") || "justice".startsWith(@gloPrefix+"a") || "la marseillaise".startsWith(@gloPrefix+"a") || "la reunion".startsWith(@gloPrefix+"a") || "laicite".startsWith(@gloPrefix+"a") || "langue de la republique".startsWith(@gloPrefix+"a") || "liberte".startsWith(@gloPrefix+"a") || "liberte de conscience".startsWith(@gloPrefix+"a") || "listes electorales".startsWith(@gloPrefix+"a") || "litterature".startsWith(@gloPrefix+"a") || "locataire".startsWith(@gloPrefix+"a") || "loi".startsWith(@gloPrefix+"a") || "lycee".startsWith(@gloPrefix+"a") || "maire".startsWith(@gloPrefix+"a") || "mairie".startsWith(@gloPrefix+"a") || "majorite".startsWith(@gloPrefix+"a") || "mandat".startsWith(@gloPrefix+"a") || "marianne".startsWith(@gloPrefix+"a") || "martinique".startsWith(@gloPrefix+"a") || "mayotte".startsWith(@gloPrefix+"a") || "medecin traitant".startsWith(@gloPrefix+"a") || "mediterranee".startsWith(@gloPrefix+"a") || "ministre".startsWith(@gloPrefix+"a") || "monarchie".startsWith(@gloPrefix+"a") || "mont-saint-michel".startsWith(@gloPrefix+"a") || "musee du louvre".startsWith(@gloPrefix+"a") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"a") || "mutuelle".startsWith(@gloPrefix+"a") || "naissance".startsWith(@gloPrefix+"a") || "naturalisation".startsWith(@gloPrefix+"a") || "neutralite".startsWith(@gloPrefix+"a") || "opinion".startsWith(@gloPrefix+"a") || "ordre public".startsWith(@gloPrefix+"a") || "outre-mer".startsWith(@gloPrefix+"a") || "parlement".startsWith(@gloPrefix+"a") || "parlement europeen".startsWith(@gloPrefix+"a") || "parti politique".startsWith(@gloPrefix+"a") || "patrimoine".startsWith(@gloPrefix+"a") || "peine de mort".startsWith(@gloPrefix+"a") || "plainte".startsWith(@gloPrefix+"a") || "police".startsWith(@gloPrefix+"a") || "polygamie".startsWith(@gloPrefix+"a") || "pouvoir executif".startsWith(@gloPrefix+"a") || "pouvoir judiciaire".startsWith(@gloPrefix+"a") || "pouvoir legislatif".startsWith(@gloPrefix+"a") || "prefecture".startsWith(@gloPrefix+"a") || "prefet".startsWith(@gloPrefix+"a") || "premier ministre".startsWith(@gloPrefix+"a") || "premiere guerre mondiale".startsWith(@gloPrefix+"a") || "president de la republique".startsWith(@gloPrefix+"a") || "presomption d'innocence".startsWith(@gloPrefix+"a") || "prevention".startsWith(@gloPrefix+"a") || "procuration".startsWith(@gloPrefix+"a") || "proprietaire".startsWith(@gloPrefix+"a") || "prostitution".startsWith(@gloPrefix+"a") || "protection sociale".startsWith(@gloPrefix+"a") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"a") || "pyrenees".startsWith(@gloPrefix+"a") || "quinquennat".startsWith(@gloPrefix+"a") || "recyclage".startsWith(@gloPrefix+"a") || "referendum".startsWith(@gloPrefix+"a") || "region".startsWith(@gloPrefix+"a") || "religion".startsWith(@gloPrefix+"a") || "republique".startsWith(@gloPrefix+"a") || "reseaux sociaux".startsWith(@gloPrefix+"a") || "resistance".startsWith(@gloPrefix+"a") || "respect".startsWith(@gloPrefix+"a") || "revolution francaise".startsWith(@gloPrefix+"a") || "salaire".startsWith(@gloPrefix+"a") || "salaire brut".startsWith(@gloPrefix+"a") || "salaire net".startsWith(@gloPrefix+"a") || "salarie".startsWith(@gloPrefix+"a") || "samu".startsWith(@gloPrefix+"a") || "seconde guerre mondiale".startsWith(@gloPrefix+"a") || "secours".startsWith(@gloPrefix+"a") || "securite routiere".startsWith(@gloPrefix+"a") || "seine".startsWith(@gloPrefix+"a") || "senat".startsWith(@gloPrefix+"a") || "senateur".startsWith(@gloPrefix+"a") || "separation des pouvoirs".startsWith(@gloPrefix+"a") || "service public".startsWith(@gloPrefix+"a") || "shoah".startsWith(@gloPrefix+"a") || "smic".startsWith(@gloPrefix+"a") || "souverainete nationale".startsWith(@gloPrefix+"a") || "suffrage universel".startsWith(@gloPrefix+"a") || "surete".startsWith(@gloPrefix+"a") || "titre de sejour".startsWith(@gloPrefix+"a") || "tour eiffel".startsWith(@gloPrefix+"a") || "traite de maastricht".startsWith(@gloPrefix+"a") || "traite des etres humains".startsWith(@gloPrefix+"a") || "travail dissimule".startsWith(@gloPrefix+"a") || "tri des dechets".startsWith(@gloPrefix+"a") || "unesco".startsWith(@gloPrefix+"a") || "union europeenne".startsWith(@gloPrefix+"a") || "urgence".startsWith(@gloPrefix+"a") || "urgences".startsWith(@gloPrefix+"a") || "vercingetorix".startsWith(@gloPrefix+"a") || "violence".startsWith(@gloPrefix+"a") || "vote".startsWith(@gloPrefix+"a"))`
-`@gloNextB = calc("abolition".startsWith(@gloPrefix+"b") || "abstention".startsWith(@gloPrefix+"b") || "agents publics".startsWith(@gloPrefix+"b") || "alpes".startsWith(@gloPrefix+"b") || "amende".startsWith(@gloPrefix+"b") || "apl".startsWith(@gloPrefix+"b") || "armistice".startsWith(@gloPrefix+"b") || "assemblee nationale".startsWith(@gloPrefix+"b") || "assistance a personne en danger".startsWith(@gloPrefix+"b") || "assurance maladie".startsWith(@gloPrefix+"b") || "autorite parentale".startsWith(@gloPrefix+"b") || "avocat".startsWith(@gloPrefix+"b") || "bail".startsWith(@gloPrefix+"b") || "benevolat".startsWith(@gloPrefix+"b") || "bretagne".startsWith(@gloPrefix+"b") || "caf".startsWith(@gloPrefix+"b") || "carte de resident".startsWith(@gloPrefix+"b") || "carte vitale".startsWith(@gloPrefix+"b") || "cdd".startsWith(@gloPrefix+"b") || "cdi".startsWith(@gloPrefix+"b") || "ceca".startsWith(@gloPrefix+"b") || "celtes".startsWith(@gloPrefix+"b") || "charlemagne".startsWith(@gloPrefix+"b") || "charte de l'environnement".startsWith(@gloPrefix+"b") || "chateau de versailles".startsWith(@gloPrefix+"b") || "chef de l'etat".startsWith(@gloPrefix+"b") || "cinquieme republique".startsWith(@gloPrefix+"b") || "citoyen".startsWith(@gloPrefix+"b") || "citoyennete".startsWith(@gloPrefix+"b") || "clovis".startsWith(@gloPrefix+"b") || "collectivites territoriales".startsWith(@gloPrefix+"b") || "college".startsWith(@gloPrefix+"b") || "colonisation".startsWith(@gloPrefix+"b") || "commission europeenne".startsWith(@gloPrefix+"b") || "commune".startsWith(@gloPrefix+"b") || "conseil constitutionnel".startsWith(@gloPrefix+"b") || "conseil de l'union europeenne".startsWith(@gloPrefix+"b") || "conseil departemental".startsWith(@gloPrefix+"b") || "conseil europeen".startsWith(@gloPrefix+"b") || "conseil municipal".startsWith(@gloPrefix+"b") || "conseil regional".startsWith(@gloPrefix+"b") || "consentement".startsWith(@gloPrefix+"b") || "constitution".startsWith(@gloPrefix+"b") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"b") || "contrat de travail".startsWith(@gloPrefix+"b") || "contravention".startsWith(@gloPrefix+"b") || "cotisations sociales".startsWith(@gloPrefix+"b") || "cour d'assises".startsWith(@gloPrefix+"b") || "cpam".startsWith(@gloPrefix+"b") || "crime".startsWith(@gloPrefix+"b") || "decheterie".startsWith(@gloPrefix+"b") || "dechets".startsWith(@gloPrefix+"b") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"b") || "delit".startsWith(@gloPrefix+"b") || "democratie".startsWith(@gloPrefix+"b") || "departement".startsWith(@gloPrefix+"b") || "depute".startsWith(@gloPrefix+"b") || "depute europeen".startsWith(@gloPrefix+"b") || "devise de la republique".startsWith(@gloPrefix+"b") || "devoir".startsWith(@gloPrefix+"b") || "dignite humaine".startsWith(@gloPrefix+"b") || "discrimination".startsWith(@gloPrefix+"b") || "divorce".startsWith(@gloPrefix+"b") || "drapeau francais".startsWith(@gloPrefix+"b") || "droits civiques".startsWith(@gloPrefix+"b") || "droits fondamentaux".startsWith(@gloPrefix+"b") || "drom".startsWith(@gloPrefix+"b") || "ecole".startsWith(@gloPrefix+"b") || "egalite".startsWith(@gloPrefix+"b") || "election".startsWith(@gloPrefix+"b") || "elections europeennes".startsWith(@gloPrefix+"b") || "elections municipales".startsWith(@gloPrefix+"b") || "eligibilite".startsWith(@gloPrefix+"b") || "employeur".startsWith(@gloPrefix+"b") || "entreprise".startsWith(@gloPrefix+"b") || "environnement".startsWith(@gloPrefix+"b") || "esclavage".startsWith(@gloPrefix+"b") || "espace schengen".startsWith(@gloPrefix+"b") || "etat".startsWith(@gloPrefix+"b") || "etat civil".startsWith(@gloPrefix+"b") || "euro".startsWith(@gloPrefix+"b") || "fete de la musique".startsWith(@gloPrefix+"b") || "fete nationale".startsWith(@gloPrefix+"b") || "fleuve".startsWith(@gloPrefix+"b") || "france metropolitaine".startsWith(@gloPrefix+"b") || "france services".startsWith(@gloPrefix+"b") || "france travail".startsWith(@gloPrefix+"b") || "francophonie".startsWith(@gloPrefix+"b") || "fraternite".startsWith(@gloPrefix+"b") || "gastronomie francaise".startsWith(@gloPrefix+"b") || "gaule".startsWith(@gloPrefix+"b") || "gendarmerie".startsWith(@gloPrefix+"b") || "genocide".startsWith(@gloPrefix+"b") || "gouvernement".startsWith(@gloPrefix+"b") || "greve".startsWith(@gloPrefix+"b") || "guadeloupe".startsWith(@gloPrefix+"b") || "guyane".startsWith(@gloPrefix+"b") || "handicap".startsWith(@gloPrefix+"b") || "harcelement".startsWith(@gloPrefix+"b") || "harcelement scolaire".startsWith(@gloPrefix+"b") || "hopital".startsWith(@gloPrefix+"b") || "ile-de-france".startsWith(@gloPrefix+"b") || "impot".startsWith(@gloPrefix+"b") || "impressionnisme".startsWith(@gloPrefix+"b") || "infraction".startsWith(@gloPrefix+"b") || "instruction obligatoire".startsWith(@gloPrefix+"b") || "integrite de la personne".startsWith(@gloPrefix+"b") || "interet general".startsWith(@gloPrefix+"b") || "ivg".startsWith(@gloPrefix+"b") || "journee de l'europe".startsWith(@gloPrefix+"b") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"b") || "juge".startsWith(@gloPrefix+"b") || "jure".startsWith(@gloPrefix+"b") || "justice".startsWith(@gloPrefix+"b") || "la marseillaise".startsWith(@gloPrefix+"b") || "la reunion".startsWith(@gloPrefix+"b") || "laicite".startsWith(@gloPrefix+"b") || "langue de la republique".startsWith(@gloPrefix+"b") || "liberte".startsWith(@gloPrefix+"b") || "liberte de conscience".startsWith(@gloPrefix+"b") || "listes electorales".startsWith(@gloPrefix+"b") || "litterature".startsWith(@gloPrefix+"b") || "locataire".startsWith(@gloPrefix+"b") || "loi".startsWith(@gloPrefix+"b") || "lycee".startsWith(@gloPrefix+"b") || "maire".startsWith(@gloPrefix+"b") || "mairie".startsWith(@gloPrefix+"b") || "majorite".startsWith(@gloPrefix+"b") || "mandat".startsWith(@gloPrefix+"b") || "marianne".startsWith(@gloPrefix+"b") || "martinique".startsWith(@gloPrefix+"b") || "mayotte".startsWith(@gloPrefix+"b") || "medecin traitant".startsWith(@gloPrefix+"b") || "mediterranee".startsWith(@gloPrefix+"b") || "ministre".startsWith(@gloPrefix+"b") || "monarchie".startsWith(@gloPrefix+"b") || "mont-saint-michel".startsWith(@gloPrefix+"b") || "musee du louvre".startsWith(@gloPrefix+"b") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"b") || "mutuelle".startsWith(@gloPrefix+"b") || "naissance".startsWith(@gloPrefix+"b") || "naturalisation".startsWith(@gloPrefix+"b") || "neutralite".startsWith(@gloPrefix+"b") || "opinion".startsWith(@gloPrefix+"b") || "ordre public".startsWith(@gloPrefix+"b") || "outre-mer".startsWith(@gloPrefix+"b") || "parlement".startsWith(@gloPrefix+"b") || "parlement europeen".startsWith(@gloPrefix+"b") || "parti politique".startsWith(@gloPrefix+"b") || "patrimoine".startsWith(@gloPrefix+"b") || "peine de mort".startsWith(@gloPrefix+"b") || "plainte".startsWith(@gloPrefix+"b") || "police".startsWith(@gloPrefix+"b") || "polygamie".startsWith(@gloPrefix+"b") || "pouvoir executif".startsWith(@gloPrefix+"b") || "pouvoir judiciaire".startsWith(@gloPrefix+"b") || "pouvoir legislatif".startsWith(@gloPrefix+"b") || "prefecture".startsWith(@gloPrefix+"b") || "prefet".startsWith(@gloPrefix+"b") || "premier ministre".startsWith(@gloPrefix+"b") || "premiere guerre mondiale".startsWith(@gloPrefix+"b") || "president de la republique".startsWith(@gloPrefix+"b") || "presomption d'innocence".startsWith(@gloPrefix+"b") || "prevention".startsWith(@gloPrefix+"b") || "procuration".startsWith(@gloPrefix+"b") || "proprietaire".startsWith(@gloPrefix+"b") || "prostitution".startsWith(@gloPrefix+"b") || "protection sociale".startsWith(@gloPrefix+"b") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"b") || "pyrenees".startsWith(@gloPrefix+"b") || "quinquennat".startsWith(@gloPrefix+"b") || "recyclage".startsWith(@gloPrefix+"b") || "referendum".startsWith(@gloPrefix+"b") || "region".startsWith(@gloPrefix+"b") || "religion".startsWith(@gloPrefix+"b") || "republique".startsWith(@gloPrefix+"b") || "reseaux sociaux".startsWith(@gloPrefix+"b") || "resistance".startsWith(@gloPrefix+"b") || "respect".startsWith(@gloPrefix+"b") || "revolution francaise".startsWith(@gloPrefix+"b") || "salaire".startsWith(@gloPrefix+"b") || "salaire brut".startsWith(@gloPrefix+"b") || "salaire net".startsWith(@gloPrefix+"b") || "salarie".startsWith(@gloPrefix+"b") || "samu".startsWith(@gloPrefix+"b") || "seconde guerre mondiale".startsWith(@gloPrefix+"b") || "secours".startsWith(@gloPrefix+"b") || "securite routiere".startsWith(@gloPrefix+"b") || "seine".startsWith(@gloPrefix+"b") || "senat".startsWith(@gloPrefix+"b") || "senateur".startsWith(@gloPrefix+"b") || "separation des pouvoirs".startsWith(@gloPrefix+"b") || "service public".startsWith(@gloPrefix+"b") || "shoah".startsWith(@gloPrefix+"b") || "smic".startsWith(@gloPrefix+"b") || "souverainete nationale".startsWith(@gloPrefix+"b") || "suffrage universel".startsWith(@gloPrefix+"b") || "surete".startsWith(@gloPrefix+"b") || "titre de sejour".startsWith(@gloPrefix+"b") || "tour eiffel".startsWith(@gloPrefix+"b") || "traite de maastricht".startsWith(@gloPrefix+"b") || "traite des etres humains".startsWith(@gloPrefix+"b") || "travail dissimule".startsWith(@gloPrefix+"b") || "tri des dechets".startsWith(@gloPrefix+"b") || "unesco".startsWith(@gloPrefix+"b") || "union europeenne".startsWith(@gloPrefix+"b") || "urgence".startsWith(@gloPrefix+"b") || "urgences".startsWith(@gloPrefix+"b") || "vercingetorix".startsWith(@gloPrefix+"b") || "violence".startsWith(@gloPrefix+"b") || "vote".startsWith(@gloPrefix+"b"))`
-`@gloNextC = calc("abolition".startsWith(@gloPrefix+"c") || "abstention".startsWith(@gloPrefix+"c") || "agents publics".startsWith(@gloPrefix+"c") || "alpes".startsWith(@gloPrefix+"c") || "amende".startsWith(@gloPrefix+"c") || "apl".startsWith(@gloPrefix+"c") || "armistice".startsWith(@gloPrefix+"c") || "assemblee nationale".startsWith(@gloPrefix+"c") || "assistance a personne en danger".startsWith(@gloPrefix+"c") || "assurance maladie".startsWith(@gloPrefix+"c") || "autorite parentale".startsWith(@gloPrefix+"c") || "avocat".startsWith(@gloPrefix+"c") || "bail".startsWith(@gloPrefix+"c") || "benevolat".startsWith(@gloPrefix+"c") || "bretagne".startsWith(@gloPrefix+"c") || "caf".startsWith(@gloPrefix+"c") || "carte de resident".startsWith(@gloPrefix+"c") || "carte vitale".startsWith(@gloPrefix+"c") || "cdd".startsWith(@gloPrefix+"c") || "cdi".startsWith(@gloPrefix+"c") || "ceca".startsWith(@gloPrefix+"c") || "celtes".startsWith(@gloPrefix+"c") || "charlemagne".startsWith(@gloPrefix+"c") || "charte de l'environnement".startsWith(@gloPrefix+"c") || "chateau de versailles".startsWith(@gloPrefix+"c") || "chef de l'etat".startsWith(@gloPrefix+"c") || "cinquieme republique".startsWith(@gloPrefix+"c") || "citoyen".startsWith(@gloPrefix+"c") || "citoyennete".startsWith(@gloPrefix+"c") || "clovis".startsWith(@gloPrefix+"c") || "collectivites territoriales".startsWith(@gloPrefix+"c") || "college".startsWith(@gloPrefix+"c") || "colonisation".startsWith(@gloPrefix+"c") || "commission europeenne".startsWith(@gloPrefix+"c") || "commune".startsWith(@gloPrefix+"c") || "conseil constitutionnel".startsWith(@gloPrefix+"c") || "conseil de l'union europeenne".startsWith(@gloPrefix+"c") || "conseil departemental".startsWith(@gloPrefix+"c") || "conseil europeen".startsWith(@gloPrefix+"c") || "conseil municipal".startsWith(@gloPrefix+"c") || "conseil regional".startsWith(@gloPrefix+"c") || "consentement".startsWith(@gloPrefix+"c") || "constitution".startsWith(@gloPrefix+"c") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"c") || "contrat de travail".startsWith(@gloPrefix+"c") || "contravention".startsWith(@gloPrefix+"c") || "cotisations sociales".startsWith(@gloPrefix+"c") || "cour d'assises".startsWith(@gloPrefix+"c") || "cpam".startsWith(@gloPrefix+"c") || "crime".startsWith(@gloPrefix+"c") || "decheterie".startsWith(@gloPrefix+"c") || "dechets".startsWith(@gloPrefix+"c") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"c") || "delit".startsWith(@gloPrefix+"c") || "democratie".startsWith(@gloPrefix+"c") || "departement".startsWith(@gloPrefix+"c") || "depute".startsWith(@gloPrefix+"c") || "depute europeen".startsWith(@gloPrefix+"c") || "devise de la republique".startsWith(@gloPrefix+"c") || "devoir".startsWith(@gloPrefix+"c") || "dignite humaine".startsWith(@gloPrefix+"c") || "discrimination".startsWith(@gloPrefix+"c") || "divorce".startsWith(@gloPrefix+"c") || "drapeau francais".startsWith(@gloPrefix+"c") || "droits civiques".startsWith(@gloPrefix+"c") || "droits fondamentaux".startsWith(@gloPrefix+"c") || "drom".startsWith(@gloPrefix+"c") || "ecole".startsWith(@gloPrefix+"c") || "egalite".startsWith(@gloPrefix+"c") || "election".startsWith(@gloPrefix+"c") || "elections europeennes".startsWith(@gloPrefix+"c") || "elections municipales".startsWith(@gloPrefix+"c") || "eligibilite".startsWith(@gloPrefix+"c") || "employeur".startsWith(@gloPrefix+"c") || "entreprise".startsWith(@gloPrefix+"c") || "environnement".startsWith(@gloPrefix+"c") || "esclavage".startsWith(@gloPrefix+"c") || "espace schengen".startsWith(@gloPrefix+"c") || "etat".startsWith(@gloPrefix+"c") || "etat civil".startsWith(@gloPrefix+"c") || "euro".startsWith(@gloPrefix+"c") || "fete de la musique".startsWith(@gloPrefix+"c") || "fete nationale".startsWith(@gloPrefix+"c") || "fleuve".startsWith(@gloPrefix+"c") || "france metropolitaine".startsWith(@gloPrefix+"c") || "france services".startsWith(@gloPrefix+"c") || "france travail".startsWith(@gloPrefix+"c") || "francophonie".startsWith(@gloPrefix+"c") || "fraternite".startsWith(@gloPrefix+"c") || "gastronomie francaise".startsWith(@gloPrefix+"c") || "gaule".startsWith(@gloPrefix+"c") || "gendarmerie".startsWith(@gloPrefix+"c") || "genocide".startsWith(@gloPrefix+"c") || "gouvernement".startsWith(@gloPrefix+"c") || "greve".startsWith(@gloPrefix+"c") || "guadeloupe".startsWith(@gloPrefix+"c") || "guyane".startsWith(@gloPrefix+"c") || "handicap".startsWith(@gloPrefix+"c") || "harcelement".startsWith(@gloPrefix+"c") || "harcelement scolaire".startsWith(@gloPrefix+"c") || "hopital".startsWith(@gloPrefix+"c") || "ile-de-france".startsWith(@gloPrefix+"c") || "impot".startsWith(@gloPrefix+"c") || "impressionnisme".startsWith(@gloPrefix+"c") || "infraction".startsWith(@gloPrefix+"c") || "instruction obligatoire".startsWith(@gloPrefix+"c") || "integrite de la personne".startsWith(@gloPrefix+"c") || "interet general".startsWith(@gloPrefix+"c") || "ivg".startsWith(@gloPrefix+"c") || "journee de l'europe".startsWith(@gloPrefix+"c") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"c") || "juge".startsWith(@gloPrefix+"c") || "jure".startsWith(@gloPrefix+"c") || "justice".startsWith(@gloPrefix+"c") || "la marseillaise".startsWith(@gloPrefix+"c") || "la reunion".startsWith(@gloPrefix+"c") || "laicite".startsWith(@gloPrefix+"c") || "langue de la republique".startsWith(@gloPrefix+"c") || "liberte".startsWith(@gloPrefix+"c") || "liberte de conscience".startsWith(@gloPrefix+"c") || "listes electorales".startsWith(@gloPrefix+"c") || "litterature".startsWith(@gloPrefix+"c") || "locataire".startsWith(@gloPrefix+"c") || "loi".startsWith(@gloPrefix+"c") || "lycee".startsWith(@gloPrefix+"c") || "maire".startsWith(@gloPrefix+"c") || "mairie".startsWith(@gloPrefix+"c") || "majorite".startsWith(@gloPrefix+"c") || "mandat".startsWith(@gloPrefix+"c") || "marianne".startsWith(@gloPrefix+"c") || "martinique".startsWith(@gloPrefix+"c") || "mayotte".startsWith(@gloPrefix+"c") || "medecin traitant".startsWith(@gloPrefix+"c") || "mediterranee".startsWith(@gloPrefix+"c") || "ministre".startsWith(@gloPrefix+"c") || "monarchie".startsWith(@gloPrefix+"c") || "mont-saint-michel".startsWith(@gloPrefix+"c") || "musee du louvre".startsWith(@gloPrefix+"c") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"c") || "mutuelle".startsWith(@gloPrefix+"c") || "naissance".startsWith(@gloPrefix+"c") || "naturalisation".startsWith(@gloPrefix+"c") || "neutralite".startsWith(@gloPrefix+"c") || "opinion".startsWith(@gloPrefix+"c") || "ordre public".startsWith(@gloPrefix+"c") || "outre-mer".startsWith(@gloPrefix+"c") || "parlement".startsWith(@gloPrefix+"c") || "parlement europeen".startsWith(@gloPrefix+"c") || "parti politique".startsWith(@gloPrefix+"c") || "patrimoine".startsWith(@gloPrefix+"c") || "peine de mort".startsWith(@gloPrefix+"c") || "plainte".startsWith(@gloPrefix+"c") || "police".startsWith(@gloPrefix+"c") || "polygamie".startsWith(@gloPrefix+"c") || "pouvoir executif".startsWith(@gloPrefix+"c") || "pouvoir judiciaire".startsWith(@gloPrefix+"c") || "pouvoir legislatif".startsWith(@gloPrefix+"c") || "prefecture".startsWith(@gloPrefix+"c") || "prefet".startsWith(@gloPrefix+"c") || "premier ministre".startsWith(@gloPrefix+"c") || "premiere guerre mondiale".startsWith(@gloPrefix+"c") || "president de la republique".startsWith(@gloPrefix+"c") || "presomption d'innocence".startsWith(@gloPrefix+"c") || "prevention".startsWith(@gloPrefix+"c") || "procuration".startsWith(@gloPrefix+"c") || "proprietaire".startsWith(@gloPrefix+"c") || "prostitution".startsWith(@gloPrefix+"c") || "protection sociale".startsWith(@gloPrefix+"c") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"c") || "pyrenees".startsWith(@gloPrefix+"c") || "quinquennat".startsWith(@gloPrefix+"c") || "recyclage".startsWith(@gloPrefix+"c") || "referendum".startsWith(@gloPrefix+"c") || "region".startsWith(@gloPrefix+"c") || "religion".startsWith(@gloPrefix+"c") || "republique".startsWith(@gloPrefix+"c") || "reseaux sociaux".startsWith(@gloPrefix+"c") || "resistance".startsWith(@gloPrefix+"c") || "respect".startsWith(@gloPrefix+"c") || "revolution francaise".startsWith(@gloPrefix+"c") || "salaire".startsWith(@gloPrefix+"c") || "salaire brut".startsWith(@gloPrefix+"c") || "salaire net".startsWith(@gloPrefix+"c") || "salarie".startsWith(@gloPrefix+"c") || "samu".startsWith(@gloPrefix+"c") || "seconde guerre mondiale".startsWith(@gloPrefix+"c") || "secours".startsWith(@gloPrefix+"c") || "securite routiere".startsWith(@gloPrefix+"c") || "seine".startsWith(@gloPrefix+"c") || "senat".startsWith(@gloPrefix+"c") || "senateur".startsWith(@gloPrefix+"c") || "separation des pouvoirs".startsWith(@gloPrefix+"c") || "service public".startsWith(@gloPrefix+"c") || "shoah".startsWith(@gloPrefix+"c") || "smic".startsWith(@gloPrefix+"c") || "souverainete nationale".startsWith(@gloPrefix+"c") || "suffrage universel".startsWith(@gloPrefix+"c") || "surete".startsWith(@gloPrefix+"c") || "titre de sejour".startsWith(@gloPrefix+"c") || "tour eiffel".startsWith(@gloPrefix+"c") || "traite de maastricht".startsWith(@gloPrefix+"c") || "traite des etres humains".startsWith(@gloPrefix+"c") || "travail dissimule".startsWith(@gloPrefix+"c") || "tri des dechets".startsWith(@gloPrefix+"c") || "unesco".startsWith(@gloPrefix+"c") || "union europeenne".startsWith(@gloPrefix+"c") || "urgence".startsWith(@gloPrefix+"c") || "urgences".startsWith(@gloPrefix+"c") || "vercingetorix".startsWith(@gloPrefix+"c") || "violence".startsWith(@gloPrefix+"c") || "vote".startsWith(@gloPrefix+"c"))`
-`@gloNextD = calc("abolition".startsWith(@gloPrefix+"d") || "abstention".startsWith(@gloPrefix+"d") || "agents publics".startsWith(@gloPrefix+"d") || "alpes".startsWith(@gloPrefix+"d") || "amende".startsWith(@gloPrefix+"d") || "apl".startsWith(@gloPrefix+"d") || "armistice".startsWith(@gloPrefix+"d") || "assemblee nationale".startsWith(@gloPrefix+"d") || "assistance a personne en danger".startsWith(@gloPrefix+"d") || "assurance maladie".startsWith(@gloPrefix+"d") || "autorite parentale".startsWith(@gloPrefix+"d") || "avocat".startsWith(@gloPrefix+"d") || "bail".startsWith(@gloPrefix+"d") || "benevolat".startsWith(@gloPrefix+"d") || "bretagne".startsWith(@gloPrefix+"d") || "caf".startsWith(@gloPrefix+"d") || "carte de resident".startsWith(@gloPrefix+"d") || "carte vitale".startsWith(@gloPrefix+"d") || "cdd".startsWith(@gloPrefix+"d") || "cdi".startsWith(@gloPrefix+"d") || "ceca".startsWith(@gloPrefix+"d") || "celtes".startsWith(@gloPrefix+"d") || "charlemagne".startsWith(@gloPrefix+"d") || "charte de l'environnement".startsWith(@gloPrefix+"d") || "chateau de versailles".startsWith(@gloPrefix+"d") || "chef de l'etat".startsWith(@gloPrefix+"d") || "cinquieme republique".startsWith(@gloPrefix+"d") || "citoyen".startsWith(@gloPrefix+"d") || "citoyennete".startsWith(@gloPrefix+"d") || "clovis".startsWith(@gloPrefix+"d") || "collectivites territoriales".startsWith(@gloPrefix+"d") || "college".startsWith(@gloPrefix+"d") || "colonisation".startsWith(@gloPrefix+"d") || "commission europeenne".startsWith(@gloPrefix+"d") || "commune".startsWith(@gloPrefix+"d") || "conseil constitutionnel".startsWith(@gloPrefix+"d") || "conseil de l'union europeenne".startsWith(@gloPrefix+"d") || "conseil departemental".startsWith(@gloPrefix+"d") || "conseil europeen".startsWith(@gloPrefix+"d") || "conseil municipal".startsWith(@gloPrefix+"d") || "conseil regional".startsWith(@gloPrefix+"d") || "consentement".startsWith(@gloPrefix+"d") || "constitution".startsWith(@gloPrefix+"d") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"d") || "contrat de travail".startsWith(@gloPrefix+"d") || "contravention".startsWith(@gloPrefix+"d") || "cotisations sociales".startsWith(@gloPrefix+"d") || "cour d'assises".startsWith(@gloPrefix+"d") || "cpam".startsWith(@gloPrefix+"d") || "crime".startsWith(@gloPrefix+"d") || "decheterie".startsWith(@gloPrefix+"d") || "dechets".startsWith(@gloPrefix+"d") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"d") || "delit".startsWith(@gloPrefix+"d") || "democratie".startsWith(@gloPrefix+"d") || "departement".startsWith(@gloPrefix+"d") || "depute".startsWith(@gloPrefix+"d") || "depute europeen".startsWith(@gloPrefix+"d") || "devise de la republique".startsWith(@gloPrefix+"d") || "devoir".startsWith(@gloPrefix+"d") || "dignite humaine".startsWith(@gloPrefix+"d") || "discrimination".startsWith(@gloPrefix+"d") || "divorce".startsWith(@gloPrefix+"d") || "drapeau francais".startsWith(@gloPrefix+"d") || "droits civiques".startsWith(@gloPrefix+"d") || "droits fondamentaux".startsWith(@gloPrefix+"d") || "drom".startsWith(@gloPrefix+"d") || "ecole".startsWith(@gloPrefix+"d") || "egalite".startsWith(@gloPrefix+"d") || "election".startsWith(@gloPrefix+"d") || "elections europeennes".startsWith(@gloPrefix+"d") || "elections municipales".startsWith(@gloPrefix+"d") || "eligibilite".startsWith(@gloPrefix+"d") || "employeur".startsWith(@gloPrefix+"d") || "entreprise".startsWith(@gloPrefix+"d") || "environnement".startsWith(@gloPrefix+"d") || "esclavage".startsWith(@gloPrefix+"d") || "espace schengen".startsWith(@gloPrefix+"d") || "etat".startsWith(@gloPrefix+"d") || "etat civil".startsWith(@gloPrefix+"d") || "euro".startsWith(@gloPrefix+"d") || "fete de la musique".startsWith(@gloPrefix+"d") || "fete nationale".startsWith(@gloPrefix+"d") || "fleuve".startsWith(@gloPrefix+"d") || "france metropolitaine".startsWith(@gloPrefix+"d") || "france services".startsWith(@gloPrefix+"d") || "france travail".startsWith(@gloPrefix+"d") || "francophonie".startsWith(@gloPrefix+"d") || "fraternite".startsWith(@gloPrefix+"d") || "gastronomie francaise".startsWith(@gloPrefix+"d") || "gaule".startsWith(@gloPrefix+"d") || "gendarmerie".startsWith(@gloPrefix+"d") || "genocide".startsWith(@gloPrefix+"d") || "gouvernement".startsWith(@gloPrefix+"d") || "greve".startsWith(@gloPrefix+"d") || "guadeloupe".startsWith(@gloPrefix+"d") || "guyane".startsWith(@gloPrefix+"d") || "handicap".startsWith(@gloPrefix+"d") || "harcelement".startsWith(@gloPrefix+"d") || "harcelement scolaire".startsWith(@gloPrefix+"d") || "hopital".startsWith(@gloPrefix+"d") || "ile-de-france".startsWith(@gloPrefix+"d") || "impot".startsWith(@gloPrefix+"d") || "impressionnisme".startsWith(@gloPrefix+"d") || "infraction".startsWith(@gloPrefix+"d") || "instruction obligatoire".startsWith(@gloPrefix+"d") || "integrite de la personne".startsWith(@gloPrefix+"d") || "interet general".startsWith(@gloPrefix+"d") || "ivg".startsWith(@gloPrefix+"d") || "journee de l'europe".startsWith(@gloPrefix+"d") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"d") || "juge".startsWith(@gloPrefix+"d") || "jure".startsWith(@gloPrefix+"d") || "justice".startsWith(@gloPrefix+"d") || "la marseillaise".startsWith(@gloPrefix+"d") || "la reunion".startsWith(@gloPrefix+"d") || "laicite".startsWith(@gloPrefix+"d") || "langue de la republique".startsWith(@gloPrefix+"d") || "liberte".startsWith(@gloPrefix+"d") || "liberte de conscience".startsWith(@gloPrefix+"d") || "listes electorales".startsWith(@gloPrefix+"d") || "litterature".startsWith(@gloPrefix+"d") || "locataire".startsWith(@gloPrefix+"d") || "loi".startsWith(@gloPrefix+"d") || "lycee".startsWith(@gloPrefix+"d") || "maire".startsWith(@gloPrefix+"d") || "mairie".startsWith(@gloPrefix+"d") || "majorite".startsWith(@gloPrefix+"d") || "mandat".startsWith(@gloPrefix+"d") || "marianne".startsWith(@gloPrefix+"d") || "martinique".startsWith(@gloPrefix+"d") || "mayotte".startsWith(@gloPrefix+"d") || "medecin traitant".startsWith(@gloPrefix+"d") || "mediterranee".startsWith(@gloPrefix+"d") || "ministre".startsWith(@gloPrefix+"d") || "monarchie".startsWith(@gloPrefix+"d") || "mont-saint-michel".startsWith(@gloPrefix+"d") || "musee du louvre".startsWith(@gloPrefix+"d") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"d") || "mutuelle".startsWith(@gloPrefix+"d") || "naissance".startsWith(@gloPrefix+"d") || "naturalisation".startsWith(@gloPrefix+"d") || "neutralite".startsWith(@gloPrefix+"d") || "opinion".startsWith(@gloPrefix+"d") || "ordre public".startsWith(@gloPrefix+"d") || "outre-mer".startsWith(@gloPrefix+"d") || "parlement".startsWith(@gloPrefix+"d") || "parlement europeen".startsWith(@gloPrefix+"d") || "parti politique".startsWith(@gloPrefix+"d") || "patrimoine".startsWith(@gloPrefix+"d") || "peine de mort".startsWith(@gloPrefix+"d") || "plainte".startsWith(@gloPrefix+"d") || "police".startsWith(@gloPrefix+"d") || "polygamie".startsWith(@gloPrefix+"d") || "pouvoir executif".startsWith(@gloPrefix+"d") || "pouvoir judiciaire".startsWith(@gloPrefix+"d") || "pouvoir legislatif".startsWith(@gloPrefix+"d") || "prefecture".startsWith(@gloPrefix+"d") || "prefet".startsWith(@gloPrefix+"d") || "premier ministre".startsWith(@gloPrefix+"d") || "premiere guerre mondiale".startsWith(@gloPrefix+"d") || "president de la republique".startsWith(@gloPrefix+"d") || "presomption d'innocence".startsWith(@gloPrefix+"d") || "prevention".startsWith(@gloPrefix+"d") || "procuration".startsWith(@gloPrefix+"d") || "proprietaire".startsWith(@gloPrefix+"d") || "prostitution".startsWith(@gloPrefix+"d") || "protection sociale".startsWith(@gloPrefix+"d") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"d") || "pyrenees".startsWith(@gloPrefix+"d") || "quinquennat".startsWith(@gloPrefix+"d") || "recyclage".startsWith(@gloPrefix+"d") || "referendum".startsWith(@gloPrefix+"d") || "region".startsWith(@gloPrefix+"d") || "religion".startsWith(@gloPrefix+"d") || "republique".startsWith(@gloPrefix+"d") || "reseaux sociaux".startsWith(@gloPrefix+"d") || "resistance".startsWith(@gloPrefix+"d") || "respect".startsWith(@gloPrefix+"d") || "revolution francaise".startsWith(@gloPrefix+"d") || "salaire".startsWith(@gloPrefix+"d") || "salaire brut".startsWith(@gloPrefix+"d") || "salaire net".startsWith(@gloPrefix+"d") || "salarie".startsWith(@gloPrefix+"d") || "samu".startsWith(@gloPrefix+"d") || "seconde guerre mondiale".startsWith(@gloPrefix+"d") || "secours".startsWith(@gloPrefix+"d") || "securite routiere".startsWith(@gloPrefix+"d") || "seine".startsWith(@gloPrefix+"d") || "senat".startsWith(@gloPrefix+"d") || "senateur".startsWith(@gloPrefix+"d") || "separation des pouvoirs".startsWith(@gloPrefix+"d") || "service public".startsWith(@gloPrefix+"d") || "shoah".startsWith(@gloPrefix+"d") || "smic".startsWith(@gloPrefix+"d") || "souverainete nationale".startsWith(@gloPrefix+"d") || "suffrage universel".startsWith(@gloPrefix+"d") || "surete".startsWith(@gloPrefix+"d") || "titre de sejour".startsWith(@gloPrefix+"d") || "tour eiffel".startsWith(@gloPrefix+"d") || "traite de maastricht".startsWith(@gloPrefix+"d") || "traite des etres humains".startsWith(@gloPrefix+"d") || "travail dissimule".startsWith(@gloPrefix+"d") || "tri des dechets".startsWith(@gloPrefix+"d") || "unesco".startsWith(@gloPrefix+"d") || "union europeenne".startsWith(@gloPrefix+"d") || "urgence".startsWith(@gloPrefix+"d") || "urgences".startsWith(@gloPrefix+"d") || "vercingetorix".startsWith(@gloPrefix+"d") || "violence".startsWith(@gloPrefix+"d") || "vote".startsWith(@gloPrefix+"d"))`
-`@gloNextE = calc("abolition".startsWith(@gloPrefix+"e") || "abstention".startsWith(@gloPrefix+"e") || "agents publics".startsWith(@gloPrefix+"e") || "alpes".startsWith(@gloPrefix+"e") || "amende".startsWith(@gloPrefix+"e") || "apl".startsWith(@gloPrefix+"e") || "armistice".startsWith(@gloPrefix+"e") || "assemblee nationale".startsWith(@gloPrefix+"e") || "assistance a personne en danger".startsWith(@gloPrefix+"e") || "assurance maladie".startsWith(@gloPrefix+"e") || "autorite parentale".startsWith(@gloPrefix+"e") || "avocat".startsWith(@gloPrefix+"e") || "bail".startsWith(@gloPrefix+"e") || "benevolat".startsWith(@gloPrefix+"e") || "bretagne".startsWith(@gloPrefix+"e") || "caf".startsWith(@gloPrefix+"e") || "carte de resident".startsWith(@gloPrefix+"e") || "carte vitale".startsWith(@gloPrefix+"e") || "cdd".startsWith(@gloPrefix+"e") || "cdi".startsWith(@gloPrefix+"e") || "ceca".startsWith(@gloPrefix+"e") || "celtes".startsWith(@gloPrefix+"e") || "charlemagne".startsWith(@gloPrefix+"e") || "charte de l'environnement".startsWith(@gloPrefix+"e") || "chateau de versailles".startsWith(@gloPrefix+"e") || "chef de l'etat".startsWith(@gloPrefix+"e") || "cinquieme republique".startsWith(@gloPrefix+"e") || "citoyen".startsWith(@gloPrefix+"e") || "citoyennete".startsWith(@gloPrefix+"e") || "clovis".startsWith(@gloPrefix+"e") || "collectivites territoriales".startsWith(@gloPrefix+"e") || "college".startsWith(@gloPrefix+"e") || "colonisation".startsWith(@gloPrefix+"e") || "commission europeenne".startsWith(@gloPrefix+"e") || "commune".startsWith(@gloPrefix+"e") || "conseil constitutionnel".startsWith(@gloPrefix+"e") || "conseil de l'union europeenne".startsWith(@gloPrefix+"e") || "conseil departemental".startsWith(@gloPrefix+"e") || "conseil europeen".startsWith(@gloPrefix+"e") || "conseil municipal".startsWith(@gloPrefix+"e") || "conseil regional".startsWith(@gloPrefix+"e") || "consentement".startsWith(@gloPrefix+"e") || "constitution".startsWith(@gloPrefix+"e") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"e") || "contrat de travail".startsWith(@gloPrefix+"e") || "contravention".startsWith(@gloPrefix+"e") || "cotisations sociales".startsWith(@gloPrefix+"e") || "cour d'assises".startsWith(@gloPrefix+"e") || "cpam".startsWith(@gloPrefix+"e") || "crime".startsWith(@gloPrefix+"e") || "decheterie".startsWith(@gloPrefix+"e") || "dechets".startsWith(@gloPrefix+"e") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"e") || "delit".startsWith(@gloPrefix+"e") || "democratie".startsWith(@gloPrefix+"e") || "departement".startsWith(@gloPrefix+"e") || "depute".startsWith(@gloPrefix+"e") || "depute europeen".startsWith(@gloPrefix+"e") || "devise de la republique".startsWith(@gloPrefix+"e") || "devoir".startsWith(@gloPrefix+"e") || "dignite humaine".startsWith(@gloPrefix+"e") || "discrimination".startsWith(@gloPrefix+"e") || "divorce".startsWith(@gloPrefix+"e") || "drapeau francais".startsWith(@gloPrefix+"e") || "droits civiques".startsWith(@gloPrefix+"e") || "droits fondamentaux".startsWith(@gloPrefix+"e") || "drom".startsWith(@gloPrefix+"e") || "ecole".startsWith(@gloPrefix+"e") || "egalite".startsWith(@gloPrefix+"e") || "election".startsWith(@gloPrefix+"e") || "elections europeennes".startsWith(@gloPrefix+"e") || "elections municipales".startsWith(@gloPrefix+"e") || "eligibilite".startsWith(@gloPrefix+"e") || "employeur".startsWith(@gloPrefix+"e") || "entreprise".startsWith(@gloPrefix+"e") || "environnement".startsWith(@gloPrefix+"e") || "esclavage".startsWith(@gloPrefix+"e") || "espace schengen".startsWith(@gloPrefix+"e") || "etat".startsWith(@gloPrefix+"e") || "etat civil".startsWith(@gloPrefix+"e") || "euro".startsWith(@gloPrefix+"e") || "fete de la musique".startsWith(@gloPrefix+"e") || "fete nationale".startsWith(@gloPrefix+"e") || "fleuve".startsWith(@gloPrefix+"e") || "france metropolitaine".startsWith(@gloPrefix+"e") || "france services".startsWith(@gloPrefix+"e") || "france travail".startsWith(@gloPrefix+"e") || "francophonie".startsWith(@gloPrefix+"e") || "fraternite".startsWith(@gloPrefix+"e") || "gastronomie francaise".startsWith(@gloPrefix+"e") || "gaule".startsWith(@gloPrefix+"e") || "gendarmerie".startsWith(@gloPrefix+"e") || "genocide".startsWith(@gloPrefix+"e") || "gouvernement".startsWith(@gloPrefix+"e") || "greve".startsWith(@gloPrefix+"e") || "guadeloupe".startsWith(@gloPrefix+"e") || "guyane".startsWith(@gloPrefix+"e") || "handicap".startsWith(@gloPrefix+"e") || "harcelement".startsWith(@gloPrefix+"e") || "harcelement scolaire".startsWith(@gloPrefix+"e") || "hopital".startsWith(@gloPrefix+"e") || "ile-de-france".startsWith(@gloPrefix+"e") || "impot".startsWith(@gloPrefix+"e") || "impressionnisme".startsWith(@gloPrefix+"e") || "infraction".startsWith(@gloPrefix+"e") || "instruction obligatoire".startsWith(@gloPrefix+"e") || "integrite de la personne".startsWith(@gloPrefix+"e") || "interet general".startsWith(@gloPrefix+"e") || "ivg".startsWith(@gloPrefix+"e") || "journee de l'europe".startsWith(@gloPrefix+"e") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"e") || "juge".startsWith(@gloPrefix+"e") || "jure".startsWith(@gloPrefix+"e") || "justice".startsWith(@gloPrefix+"e") || "la marseillaise".startsWith(@gloPrefix+"e") || "la reunion".startsWith(@gloPrefix+"e") || "laicite".startsWith(@gloPrefix+"e") || "langue de la republique".startsWith(@gloPrefix+"e") || "liberte".startsWith(@gloPrefix+"e") || "liberte de conscience".startsWith(@gloPrefix+"e") || "listes electorales".startsWith(@gloPrefix+"e") || "litterature".startsWith(@gloPrefix+"e") || "locataire".startsWith(@gloPrefix+"e") || "loi".startsWith(@gloPrefix+"e") || "lycee".startsWith(@gloPrefix+"e") || "maire".startsWith(@gloPrefix+"e") || "mairie".startsWith(@gloPrefix+"e") || "majorite".startsWith(@gloPrefix+"e") || "mandat".startsWith(@gloPrefix+"e") || "marianne".startsWith(@gloPrefix+"e") || "martinique".startsWith(@gloPrefix+"e") || "mayotte".startsWith(@gloPrefix+"e") || "medecin traitant".startsWith(@gloPrefix+"e") || "mediterranee".startsWith(@gloPrefix+"e") || "ministre".startsWith(@gloPrefix+"e") || "monarchie".startsWith(@gloPrefix+"e") || "mont-saint-michel".startsWith(@gloPrefix+"e") || "musee du louvre".startsWith(@gloPrefix+"e") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"e") || "mutuelle".startsWith(@gloPrefix+"e") || "naissance".startsWith(@gloPrefix+"e") || "naturalisation".startsWith(@gloPrefix+"e") || "neutralite".startsWith(@gloPrefix+"e") || "opinion".startsWith(@gloPrefix+"e") || "ordre public".startsWith(@gloPrefix+"e") || "outre-mer".startsWith(@gloPrefix+"e") || "parlement".startsWith(@gloPrefix+"e") || "parlement europeen".startsWith(@gloPrefix+"e") || "parti politique".startsWith(@gloPrefix+"e") || "patrimoine".startsWith(@gloPrefix+"e") || "peine de mort".startsWith(@gloPrefix+"e") || "plainte".startsWith(@gloPrefix+"e") || "police".startsWith(@gloPrefix+"e") || "polygamie".startsWith(@gloPrefix+"e") || "pouvoir executif".startsWith(@gloPrefix+"e") || "pouvoir judiciaire".startsWith(@gloPrefix+"e") || "pouvoir legislatif".startsWith(@gloPrefix+"e") || "prefecture".startsWith(@gloPrefix+"e") || "prefet".startsWith(@gloPrefix+"e") || "premier ministre".startsWith(@gloPrefix+"e") || "premiere guerre mondiale".startsWith(@gloPrefix+"e") || "president de la republique".startsWith(@gloPrefix+"e") || "presomption d'innocence".startsWith(@gloPrefix+"e") || "prevention".startsWith(@gloPrefix+"e") || "procuration".startsWith(@gloPrefix+"e") || "proprietaire".startsWith(@gloPrefix+"e") || "prostitution".startsWith(@gloPrefix+"e") || "protection sociale".startsWith(@gloPrefix+"e") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"e") || "pyrenees".startsWith(@gloPrefix+"e") || "quinquennat".startsWith(@gloPrefix+"e") || "recyclage".startsWith(@gloPrefix+"e") || "referendum".startsWith(@gloPrefix+"e") || "region".startsWith(@gloPrefix+"e") || "religion".startsWith(@gloPrefix+"e") || "republique".startsWith(@gloPrefix+"e") || "reseaux sociaux".startsWith(@gloPrefix+"e") || "resistance".startsWith(@gloPrefix+"e") || "respect".startsWith(@gloPrefix+"e") || "revolution francaise".startsWith(@gloPrefix+"e") || "salaire".startsWith(@gloPrefix+"e") || "salaire brut".startsWith(@gloPrefix+"e") || "salaire net".startsWith(@gloPrefix+"e") || "salarie".startsWith(@gloPrefix+"e") || "samu".startsWith(@gloPrefix+"e") || "seconde guerre mondiale".startsWith(@gloPrefix+"e") || "secours".startsWith(@gloPrefix+"e") || "securite routiere".startsWith(@gloPrefix+"e") || "seine".startsWith(@gloPrefix+"e") || "senat".startsWith(@gloPrefix+"e") || "senateur".startsWith(@gloPrefix+"e") || "separation des pouvoirs".startsWith(@gloPrefix+"e") || "service public".startsWith(@gloPrefix+"e") || "shoah".startsWith(@gloPrefix+"e") || "smic".startsWith(@gloPrefix+"e") || "souverainete nationale".startsWith(@gloPrefix+"e") || "suffrage universel".startsWith(@gloPrefix+"e") || "surete".startsWith(@gloPrefix+"e") || "titre de sejour".startsWith(@gloPrefix+"e") || "tour eiffel".startsWith(@gloPrefix+"e") || "traite de maastricht".startsWith(@gloPrefix+"e") || "traite des etres humains".startsWith(@gloPrefix+"e") || "travail dissimule".startsWith(@gloPrefix+"e") || "tri des dechets".startsWith(@gloPrefix+"e") || "unesco".startsWith(@gloPrefix+"e") || "union europeenne".startsWith(@gloPrefix+"e") || "urgence".startsWith(@gloPrefix+"e") || "urgences".startsWith(@gloPrefix+"e") || "vercingetorix".startsWith(@gloPrefix+"e") || "violence".startsWith(@gloPrefix+"e") || "vote".startsWith(@gloPrefix+"e"))`
-`@gloNextF = calc("abolition".startsWith(@gloPrefix+"f") || "abstention".startsWith(@gloPrefix+"f") || "agents publics".startsWith(@gloPrefix+"f") || "alpes".startsWith(@gloPrefix+"f") || "amende".startsWith(@gloPrefix+"f") || "apl".startsWith(@gloPrefix+"f") || "armistice".startsWith(@gloPrefix+"f") || "assemblee nationale".startsWith(@gloPrefix+"f") || "assistance a personne en danger".startsWith(@gloPrefix+"f") || "assurance maladie".startsWith(@gloPrefix+"f") || "autorite parentale".startsWith(@gloPrefix+"f") || "avocat".startsWith(@gloPrefix+"f") || "bail".startsWith(@gloPrefix+"f") || "benevolat".startsWith(@gloPrefix+"f") || "bretagne".startsWith(@gloPrefix+"f") || "caf".startsWith(@gloPrefix+"f") || "carte de resident".startsWith(@gloPrefix+"f") || "carte vitale".startsWith(@gloPrefix+"f") || "cdd".startsWith(@gloPrefix+"f") || "cdi".startsWith(@gloPrefix+"f") || "ceca".startsWith(@gloPrefix+"f") || "celtes".startsWith(@gloPrefix+"f") || "charlemagne".startsWith(@gloPrefix+"f") || "charte de l'environnement".startsWith(@gloPrefix+"f") || "chateau de versailles".startsWith(@gloPrefix+"f") || "chef de l'etat".startsWith(@gloPrefix+"f") || "cinquieme republique".startsWith(@gloPrefix+"f") || "citoyen".startsWith(@gloPrefix+"f") || "citoyennete".startsWith(@gloPrefix+"f") || "clovis".startsWith(@gloPrefix+"f") || "collectivites territoriales".startsWith(@gloPrefix+"f") || "college".startsWith(@gloPrefix+"f") || "colonisation".startsWith(@gloPrefix+"f") || "commission europeenne".startsWith(@gloPrefix+"f") || "commune".startsWith(@gloPrefix+"f") || "conseil constitutionnel".startsWith(@gloPrefix+"f") || "conseil de l'union europeenne".startsWith(@gloPrefix+"f") || "conseil departemental".startsWith(@gloPrefix+"f") || "conseil europeen".startsWith(@gloPrefix+"f") || "conseil municipal".startsWith(@gloPrefix+"f") || "conseil regional".startsWith(@gloPrefix+"f") || "consentement".startsWith(@gloPrefix+"f") || "constitution".startsWith(@gloPrefix+"f") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"f") || "contrat de travail".startsWith(@gloPrefix+"f") || "contravention".startsWith(@gloPrefix+"f") || "cotisations sociales".startsWith(@gloPrefix+"f") || "cour d'assises".startsWith(@gloPrefix+"f") || "cpam".startsWith(@gloPrefix+"f") || "crime".startsWith(@gloPrefix+"f") || "decheterie".startsWith(@gloPrefix+"f") || "dechets".startsWith(@gloPrefix+"f") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"f") || "delit".startsWith(@gloPrefix+"f") || "democratie".startsWith(@gloPrefix+"f") || "departement".startsWith(@gloPrefix+"f") || "depute".startsWith(@gloPrefix+"f") || "depute europeen".startsWith(@gloPrefix+"f") || "devise de la republique".startsWith(@gloPrefix+"f") || "devoir".startsWith(@gloPrefix+"f") || "dignite humaine".startsWith(@gloPrefix+"f") || "discrimination".startsWith(@gloPrefix+"f") || "divorce".startsWith(@gloPrefix+"f") || "drapeau francais".startsWith(@gloPrefix+"f") || "droits civiques".startsWith(@gloPrefix+"f") || "droits fondamentaux".startsWith(@gloPrefix+"f") || "drom".startsWith(@gloPrefix+"f") || "ecole".startsWith(@gloPrefix+"f") || "egalite".startsWith(@gloPrefix+"f") || "election".startsWith(@gloPrefix+"f") || "elections europeennes".startsWith(@gloPrefix+"f") || "elections municipales".startsWith(@gloPrefix+"f") || "eligibilite".startsWith(@gloPrefix+"f") || "employeur".startsWith(@gloPrefix+"f") || "entreprise".startsWith(@gloPrefix+"f") || "environnement".startsWith(@gloPrefix+"f") || "esclavage".startsWith(@gloPrefix+"f") || "espace schengen".startsWith(@gloPrefix+"f") || "etat".startsWith(@gloPrefix+"f") || "etat civil".startsWith(@gloPrefix+"f") || "euro".startsWith(@gloPrefix+"f") || "fete de la musique".startsWith(@gloPrefix+"f") || "fete nationale".startsWith(@gloPrefix+"f") || "fleuve".startsWith(@gloPrefix+"f") || "france metropolitaine".startsWith(@gloPrefix+"f") || "france services".startsWith(@gloPrefix+"f") || "france travail".startsWith(@gloPrefix+"f") || "francophonie".startsWith(@gloPrefix+"f") || "fraternite".startsWith(@gloPrefix+"f") || "gastronomie francaise".startsWith(@gloPrefix+"f") || "gaule".startsWith(@gloPrefix+"f") || "gendarmerie".startsWith(@gloPrefix+"f") || "genocide".startsWith(@gloPrefix+"f") || "gouvernement".startsWith(@gloPrefix+"f") || "greve".startsWith(@gloPrefix+"f") || "guadeloupe".startsWith(@gloPrefix+"f") || "guyane".startsWith(@gloPrefix+"f") || "handicap".startsWith(@gloPrefix+"f") || "harcelement".startsWith(@gloPrefix+"f") || "harcelement scolaire".startsWith(@gloPrefix+"f") || "hopital".startsWith(@gloPrefix+"f") || "ile-de-france".startsWith(@gloPrefix+"f") || "impot".startsWith(@gloPrefix+"f") || "impressionnisme".startsWith(@gloPrefix+"f") || "infraction".startsWith(@gloPrefix+"f") || "instruction obligatoire".startsWith(@gloPrefix+"f") || "integrite de la personne".startsWith(@gloPrefix+"f") || "interet general".startsWith(@gloPrefix+"f") || "ivg".startsWith(@gloPrefix+"f") || "journee de l'europe".startsWith(@gloPrefix+"f") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"f") || "juge".startsWith(@gloPrefix+"f") || "jure".startsWith(@gloPrefix+"f") || "justice".startsWith(@gloPrefix+"f") || "la marseillaise".startsWith(@gloPrefix+"f") || "la reunion".startsWith(@gloPrefix+"f") || "laicite".startsWith(@gloPrefix+"f") || "langue de la republique".startsWith(@gloPrefix+"f") || "liberte".startsWith(@gloPrefix+"f") || "liberte de conscience".startsWith(@gloPrefix+"f") || "listes electorales".startsWith(@gloPrefix+"f") || "litterature".startsWith(@gloPrefix+"f") || "locataire".startsWith(@gloPrefix+"f") || "loi".startsWith(@gloPrefix+"f") || "lycee".startsWith(@gloPrefix+"f") || "maire".startsWith(@gloPrefix+"f") || "mairie".startsWith(@gloPrefix+"f") || "majorite".startsWith(@gloPrefix+"f") || "mandat".startsWith(@gloPrefix+"f") || "marianne".startsWith(@gloPrefix+"f") || "martinique".startsWith(@gloPrefix+"f") || "mayotte".startsWith(@gloPrefix+"f") || "medecin traitant".startsWith(@gloPrefix+"f") || "mediterranee".startsWith(@gloPrefix+"f") || "ministre".startsWith(@gloPrefix+"f") || "monarchie".startsWith(@gloPrefix+"f") || "mont-saint-michel".startsWith(@gloPrefix+"f") || "musee du louvre".startsWith(@gloPrefix+"f") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"f") || "mutuelle".startsWith(@gloPrefix+"f") || "naissance".startsWith(@gloPrefix+"f") || "naturalisation".startsWith(@gloPrefix+"f") || "neutralite".startsWith(@gloPrefix+"f") || "opinion".startsWith(@gloPrefix+"f") || "ordre public".startsWith(@gloPrefix+"f") || "outre-mer".startsWith(@gloPrefix+"f") || "parlement".startsWith(@gloPrefix+"f") || "parlement europeen".startsWith(@gloPrefix+"f") || "parti politique".startsWith(@gloPrefix+"f") || "patrimoine".startsWith(@gloPrefix+"f") || "peine de mort".startsWith(@gloPrefix+"f") || "plainte".startsWith(@gloPrefix+"f") || "police".startsWith(@gloPrefix+"f") || "polygamie".startsWith(@gloPrefix+"f") || "pouvoir executif".startsWith(@gloPrefix+"f") || "pouvoir judiciaire".startsWith(@gloPrefix+"f") || "pouvoir legislatif".startsWith(@gloPrefix+"f") || "prefecture".startsWith(@gloPrefix+"f") || "prefet".startsWith(@gloPrefix+"f") || "premier ministre".startsWith(@gloPrefix+"f") || "premiere guerre mondiale".startsWith(@gloPrefix+"f") || "president de la republique".startsWith(@gloPrefix+"f") || "presomption d'innocence".startsWith(@gloPrefix+"f") || "prevention".startsWith(@gloPrefix+"f") || "procuration".startsWith(@gloPrefix+"f") || "proprietaire".startsWith(@gloPrefix+"f") || "prostitution".startsWith(@gloPrefix+"f") || "protection sociale".startsWith(@gloPrefix+"f") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"f") || "pyrenees".startsWith(@gloPrefix+"f") || "quinquennat".startsWith(@gloPrefix+"f") || "recyclage".startsWith(@gloPrefix+"f") || "referendum".startsWith(@gloPrefix+"f") || "region".startsWith(@gloPrefix+"f") || "religion".startsWith(@gloPrefix+"f") || "republique".startsWith(@gloPrefix+"f") || "reseaux sociaux".startsWith(@gloPrefix+"f") || "resistance".startsWith(@gloPrefix+"f") || "respect".startsWith(@gloPrefix+"f") || "revolution francaise".startsWith(@gloPrefix+"f") || "salaire".startsWith(@gloPrefix+"f") || "salaire brut".startsWith(@gloPrefix+"f") || "salaire net".startsWith(@gloPrefix+"f") || "salarie".startsWith(@gloPrefix+"f") || "samu".startsWith(@gloPrefix+"f") || "seconde guerre mondiale".startsWith(@gloPrefix+"f") || "secours".startsWith(@gloPrefix+"f") || "securite routiere".startsWith(@gloPrefix+"f") || "seine".startsWith(@gloPrefix+"f") || "senat".startsWith(@gloPrefix+"f") || "senateur".startsWith(@gloPrefix+"f") || "separation des pouvoirs".startsWith(@gloPrefix+"f") || "service public".startsWith(@gloPrefix+"f") || "shoah".startsWith(@gloPrefix+"f") || "smic".startsWith(@gloPrefix+"f") || "souverainete nationale".startsWith(@gloPrefix+"f") || "suffrage universel".startsWith(@gloPrefix+"f") || "surete".startsWith(@gloPrefix+"f") || "titre de sejour".startsWith(@gloPrefix+"f") || "tour eiffel".startsWith(@gloPrefix+"f") || "traite de maastricht".startsWith(@gloPrefix+"f") || "traite des etres humains".startsWith(@gloPrefix+"f") || "travail dissimule".startsWith(@gloPrefix+"f") || "tri des dechets".startsWith(@gloPrefix+"f") || "unesco".startsWith(@gloPrefix+"f") || "union europeenne".startsWith(@gloPrefix+"f") || "urgence".startsWith(@gloPrefix+"f") || "urgences".startsWith(@gloPrefix+"f") || "vercingetorix".startsWith(@gloPrefix+"f") || "violence".startsWith(@gloPrefix+"f") || "vote".startsWith(@gloPrefix+"f"))`
-`@gloNextG = calc("abolition".startsWith(@gloPrefix+"g") || "abstention".startsWith(@gloPrefix+"g") || "agents publics".startsWith(@gloPrefix+"g") || "alpes".startsWith(@gloPrefix+"g") || "amende".startsWith(@gloPrefix+"g") || "apl".startsWith(@gloPrefix+"g") || "armistice".startsWith(@gloPrefix+"g") || "assemblee nationale".startsWith(@gloPrefix+"g") || "assistance a personne en danger".startsWith(@gloPrefix+"g") || "assurance maladie".startsWith(@gloPrefix+"g") || "autorite parentale".startsWith(@gloPrefix+"g") || "avocat".startsWith(@gloPrefix+"g") || "bail".startsWith(@gloPrefix+"g") || "benevolat".startsWith(@gloPrefix+"g") || "bretagne".startsWith(@gloPrefix+"g") || "caf".startsWith(@gloPrefix+"g") || "carte de resident".startsWith(@gloPrefix+"g") || "carte vitale".startsWith(@gloPrefix+"g") || "cdd".startsWith(@gloPrefix+"g") || "cdi".startsWith(@gloPrefix+"g") || "ceca".startsWith(@gloPrefix+"g") || "celtes".startsWith(@gloPrefix+"g") || "charlemagne".startsWith(@gloPrefix+"g") || "charte de l'environnement".startsWith(@gloPrefix+"g") || "chateau de versailles".startsWith(@gloPrefix+"g") || "chef de l'etat".startsWith(@gloPrefix+"g") || "cinquieme republique".startsWith(@gloPrefix+"g") || "citoyen".startsWith(@gloPrefix+"g") || "citoyennete".startsWith(@gloPrefix+"g") || "clovis".startsWith(@gloPrefix+"g") || "collectivites territoriales".startsWith(@gloPrefix+"g") || "college".startsWith(@gloPrefix+"g") || "colonisation".startsWith(@gloPrefix+"g") || "commission europeenne".startsWith(@gloPrefix+"g") || "commune".startsWith(@gloPrefix+"g") || "conseil constitutionnel".startsWith(@gloPrefix+"g") || "conseil de l'union europeenne".startsWith(@gloPrefix+"g") || "conseil departemental".startsWith(@gloPrefix+"g") || "conseil europeen".startsWith(@gloPrefix+"g") || "conseil municipal".startsWith(@gloPrefix+"g") || "conseil regional".startsWith(@gloPrefix+"g") || "consentement".startsWith(@gloPrefix+"g") || "constitution".startsWith(@gloPrefix+"g") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"g") || "contrat de travail".startsWith(@gloPrefix+"g") || "contravention".startsWith(@gloPrefix+"g") || "cotisations sociales".startsWith(@gloPrefix+"g") || "cour d'assises".startsWith(@gloPrefix+"g") || "cpam".startsWith(@gloPrefix+"g") || "crime".startsWith(@gloPrefix+"g") || "decheterie".startsWith(@gloPrefix+"g") || "dechets".startsWith(@gloPrefix+"g") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"g") || "delit".startsWith(@gloPrefix+"g") || "democratie".startsWith(@gloPrefix+"g") || "departement".startsWith(@gloPrefix+"g") || "depute".startsWith(@gloPrefix+"g") || "depute europeen".startsWith(@gloPrefix+"g") || "devise de la republique".startsWith(@gloPrefix+"g") || "devoir".startsWith(@gloPrefix+"g") || "dignite humaine".startsWith(@gloPrefix+"g") || "discrimination".startsWith(@gloPrefix+"g") || "divorce".startsWith(@gloPrefix+"g") || "drapeau francais".startsWith(@gloPrefix+"g") || "droits civiques".startsWith(@gloPrefix+"g") || "droits fondamentaux".startsWith(@gloPrefix+"g") || "drom".startsWith(@gloPrefix+"g") || "ecole".startsWith(@gloPrefix+"g") || "egalite".startsWith(@gloPrefix+"g") || "election".startsWith(@gloPrefix+"g") || "elections europeennes".startsWith(@gloPrefix+"g") || "elections municipales".startsWith(@gloPrefix+"g") || "eligibilite".startsWith(@gloPrefix+"g") || "employeur".startsWith(@gloPrefix+"g") || "entreprise".startsWith(@gloPrefix+"g") || "environnement".startsWith(@gloPrefix+"g") || "esclavage".startsWith(@gloPrefix+"g") || "espace schengen".startsWith(@gloPrefix+"g") || "etat".startsWith(@gloPrefix+"g") || "etat civil".startsWith(@gloPrefix+"g") || "euro".startsWith(@gloPrefix+"g") || "fete de la musique".startsWith(@gloPrefix+"g") || "fete nationale".startsWith(@gloPrefix+"g") || "fleuve".startsWith(@gloPrefix+"g") || "france metropolitaine".startsWith(@gloPrefix+"g") || "france services".startsWith(@gloPrefix+"g") || "france travail".startsWith(@gloPrefix+"g") || "francophonie".startsWith(@gloPrefix+"g") || "fraternite".startsWith(@gloPrefix+"g") || "gastronomie francaise".startsWith(@gloPrefix+"g") || "gaule".startsWith(@gloPrefix+"g") || "gendarmerie".startsWith(@gloPrefix+"g") || "genocide".startsWith(@gloPrefix+"g") || "gouvernement".startsWith(@gloPrefix+"g") || "greve".startsWith(@gloPrefix+"g") || "guadeloupe".startsWith(@gloPrefix+"g") || "guyane".startsWith(@gloPrefix+"g") || "handicap".startsWith(@gloPrefix+"g") || "harcelement".startsWith(@gloPrefix+"g") || "harcelement scolaire".startsWith(@gloPrefix+"g") || "hopital".startsWith(@gloPrefix+"g") || "ile-de-france".startsWith(@gloPrefix+"g") || "impot".startsWith(@gloPrefix+"g") || "impressionnisme".startsWith(@gloPrefix+"g") || "infraction".startsWith(@gloPrefix+"g") || "instruction obligatoire".startsWith(@gloPrefix+"g") || "integrite de la personne".startsWith(@gloPrefix+"g") || "interet general".startsWith(@gloPrefix+"g") || "ivg".startsWith(@gloPrefix+"g") || "journee de l'europe".startsWith(@gloPrefix+"g") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"g") || "juge".startsWith(@gloPrefix+"g") || "jure".startsWith(@gloPrefix+"g") || "justice".startsWith(@gloPrefix+"g") || "la marseillaise".startsWith(@gloPrefix+"g") || "la reunion".startsWith(@gloPrefix+"g") || "laicite".startsWith(@gloPrefix+"g") || "langue de la republique".startsWith(@gloPrefix+"g") || "liberte".startsWith(@gloPrefix+"g") || "liberte de conscience".startsWith(@gloPrefix+"g") || "listes electorales".startsWith(@gloPrefix+"g") || "litterature".startsWith(@gloPrefix+"g") || "locataire".startsWith(@gloPrefix+"g") || "loi".startsWith(@gloPrefix+"g") || "lycee".startsWith(@gloPrefix+"g") || "maire".startsWith(@gloPrefix+"g") || "mairie".startsWith(@gloPrefix+"g") || "majorite".startsWith(@gloPrefix+"g") || "mandat".startsWith(@gloPrefix+"g") || "marianne".startsWith(@gloPrefix+"g") || "martinique".startsWith(@gloPrefix+"g") || "mayotte".startsWith(@gloPrefix+"g") || "medecin traitant".startsWith(@gloPrefix+"g") || "mediterranee".startsWith(@gloPrefix+"g") || "ministre".startsWith(@gloPrefix+"g") || "monarchie".startsWith(@gloPrefix+"g") || "mont-saint-michel".startsWith(@gloPrefix+"g") || "musee du louvre".startsWith(@gloPrefix+"g") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"g") || "mutuelle".startsWith(@gloPrefix+"g") || "naissance".startsWith(@gloPrefix+"g") || "naturalisation".startsWith(@gloPrefix+"g") || "neutralite".startsWith(@gloPrefix+"g") || "opinion".startsWith(@gloPrefix+"g") || "ordre public".startsWith(@gloPrefix+"g") || "outre-mer".startsWith(@gloPrefix+"g") || "parlement".startsWith(@gloPrefix+"g") || "parlement europeen".startsWith(@gloPrefix+"g") || "parti politique".startsWith(@gloPrefix+"g") || "patrimoine".startsWith(@gloPrefix+"g") || "peine de mort".startsWith(@gloPrefix+"g") || "plainte".startsWith(@gloPrefix+"g") || "police".startsWith(@gloPrefix+"g") || "polygamie".startsWith(@gloPrefix+"g") || "pouvoir executif".startsWith(@gloPrefix+"g") || "pouvoir judiciaire".startsWith(@gloPrefix+"g") || "pouvoir legislatif".startsWith(@gloPrefix+"g") || "prefecture".startsWith(@gloPrefix+"g") || "prefet".startsWith(@gloPrefix+"g") || "premier ministre".startsWith(@gloPrefix+"g") || "premiere guerre mondiale".startsWith(@gloPrefix+"g") || "president de la republique".startsWith(@gloPrefix+"g") || "presomption d'innocence".startsWith(@gloPrefix+"g") || "prevention".startsWith(@gloPrefix+"g") || "procuration".startsWith(@gloPrefix+"g") || "proprietaire".startsWith(@gloPrefix+"g") || "prostitution".startsWith(@gloPrefix+"g") || "protection sociale".startsWith(@gloPrefix+"g") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"g") || "pyrenees".startsWith(@gloPrefix+"g") || "quinquennat".startsWith(@gloPrefix+"g") || "recyclage".startsWith(@gloPrefix+"g") || "referendum".startsWith(@gloPrefix+"g") || "region".startsWith(@gloPrefix+"g") || "religion".startsWith(@gloPrefix+"g") || "republique".startsWith(@gloPrefix+"g") || "reseaux sociaux".startsWith(@gloPrefix+"g") || "resistance".startsWith(@gloPrefix+"g") || "respect".startsWith(@gloPrefix+"g") || "revolution francaise".startsWith(@gloPrefix+"g") || "salaire".startsWith(@gloPrefix+"g") || "salaire brut".startsWith(@gloPrefix+"g") || "salaire net".startsWith(@gloPrefix+"g") || "salarie".startsWith(@gloPrefix+"g") || "samu".startsWith(@gloPrefix+"g") || "seconde guerre mondiale".startsWith(@gloPrefix+"g") || "secours".startsWith(@gloPrefix+"g") || "securite routiere".startsWith(@gloPrefix+"g") || "seine".startsWith(@gloPrefix+"g") || "senat".startsWith(@gloPrefix+"g") || "senateur".startsWith(@gloPrefix+"g") || "separation des pouvoirs".startsWith(@gloPrefix+"g") || "service public".startsWith(@gloPrefix+"g") || "shoah".startsWith(@gloPrefix+"g") || "smic".startsWith(@gloPrefix+"g") || "souverainete nationale".startsWith(@gloPrefix+"g") || "suffrage universel".startsWith(@gloPrefix+"g") || "surete".startsWith(@gloPrefix+"g") || "titre de sejour".startsWith(@gloPrefix+"g") || "tour eiffel".startsWith(@gloPrefix+"g") || "traite de maastricht".startsWith(@gloPrefix+"g") || "traite des etres humains".startsWith(@gloPrefix+"g") || "travail dissimule".startsWith(@gloPrefix+"g") || "tri des dechets".startsWith(@gloPrefix+"g") || "unesco".startsWith(@gloPrefix+"g") || "union europeenne".startsWith(@gloPrefix+"g") || "urgence".startsWith(@gloPrefix+"g") || "urgences".startsWith(@gloPrefix+"g") || "vercingetorix".startsWith(@gloPrefix+"g") || "violence".startsWith(@gloPrefix+"g") || "vote".startsWith(@gloPrefix+"g"))`
-`@gloNextH = calc("abolition".startsWith(@gloPrefix+"h") || "abstention".startsWith(@gloPrefix+"h") || "agents publics".startsWith(@gloPrefix+"h") || "alpes".startsWith(@gloPrefix+"h") || "amende".startsWith(@gloPrefix+"h") || "apl".startsWith(@gloPrefix+"h") || "armistice".startsWith(@gloPrefix+"h") || "assemblee nationale".startsWith(@gloPrefix+"h") || "assistance a personne en danger".startsWith(@gloPrefix+"h") || "assurance maladie".startsWith(@gloPrefix+"h") || "autorite parentale".startsWith(@gloPrefix+"h") || "avocat".startsWith(@gloPrefix+"h") || "bail".startsWith(@gloPrefix+"h") || "benevolat".startsWith(@gloPrefix+"h") || "bretagne".startsWith(@gloPrefix+"h") || "caf".startsWith(@gloPrefix+"h") || "carte de resident".startsWith(@gloPrefix+"h") || "carte vitale".startsWith(@gloPrefix+"h") || "cdd".startsWith(@gloPrefix+"h") || "cdi".startsWith(@gloPrefix+"h") || "ceca".startsWith(@gloPrefix+"h") || "celtes".startsWith(@gloPrefix+"h") || "charlemagne".startsWith(@gloPrefix+"h") || "charte de l'environnement".startsWith(@gloPrefix+"h") || "chateau de versailles".startsWith(@gloPrefix+"h") || "chef de l'etat".startsWith(@gloPrefix+"h") || "cinquieme republique".startsWith(@gloPrefix+"h") || "citoyen".startsWith(@gloPrefix+"h") || "citoyennete".startsWith(@gloPrefix+"h") || "clovis".startsWith(@gloPrefix+"h") || "collectivites territoriales".startsWith(@gloPrefix+"h") || "college".startsWith(@gloPrefix+"h") || "colonisation".startsWith(@gloPrefix+"h") || "commission europeenne".startsWith(@gloPrefix+"h") || "commune".startsWith(@gloPrefix+"h") || "conseil constitutionnel".startsWith(@gloPrefix+"h") || "conseil de l'union europeenne".startsWith(@gloPrefix+"h") || "conseil departemental".startsWith(@gloPrefix+"h") || "conseil europeen".startsWith(@gloPrefix+"h") || "conseil municipal".startsWith(@gloPrefix+"h") || "conseil regional".startsWith(@gloPrefix+"h") || "consentement".startsWith(@gloPrefix+"h") || "constitution".startsWith(@gloPrefix+"h") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"h") || "contrat de travail".startsWith(@gloPrefix+"h") || "contravention".startsWith(@gloPrefix+"h") || "cotisations sociales".startsWith(@gloPrefix+"h") || "cour d'assises".startsWith(@gloPrefix+"h") || "cpam".startsWith(@gloPrefix+"h") || "crime".startsWith(@gloPrefix+"h") || "decheterie".startsWith(@gloPrefix+"h") || "dechets".startsWith(@gloPrefix+"h") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"h") || "delit".startsWith(@gloPrefix+"h") || "democratie".startsWith(@gloPrefix+"h") || "departement".startsWith(@gloPrefix+"h") || "depute".startsWith(@gloPrefix+"h") || "depute europeen".startsWith(@gloPrefix+"h") || "devise de la republique".startsWith(@gloPrefix+"h") || "devoir".startsWith(@gloPrefix+"h") || "dignite humaine".startsWith(@gloPrefix+"h") || "discrimination".startsWith(@gloPrefix+"h") || "divorce".startsWith(@gloPrefix+"h") || "drapeau francais".startsWith(@gloPrefix+"h") || "droits civiques".startsWith(@gloPrefix+"h") || "droits fondamentaux".startsWith(@gloPrefix+"h") || "drom".startsWith(@gloPrefix+"h") || "ecole".startsWith(@gloPrefix+"h") || "egalite".startsWith(@gloPrefix+"h") || "election".startsWith(@gloPrefix+"h") || "elections europeennes".startsWith(@gloPrefix+"h") || "elections municipales".startsWith(@gloPrefix+"h") || "eligibilite".startsWith(@gloPrefix+"h") || "employeur".startsWith(@gloPrefix+"h") || "entreprise".startsWith(@gloPrefix+"h") || "environnement".startsWith(@gloPrefix+"h") || "esclavage".startsWith(@gloPrefix+"h") || "espace schengen".startsWith(@gloPrefix+"h") || "etat".startsWith(@gloPrefix+"h") || "etat civil".startsWith(@gloPrefix+"h") || "euro".startsWith(@gloPrefix+"h") || "fete de la musique".startsWith(@gloPrefix+"h") || "fete nationale".startsWith(@gloPrefix+"h") || "fleuve".startsWith(@gloPrefix+"h") || "france metropolitaine".startsWith(@gloPrefix+"h") || "france services".startsWith(@gloPrefix+"h") || "france travail".startsWith(@gloPrefix+"h") || "francophonie".startsWith(@gloPrefix+"h") || "fraternite".startsWith(@gloPrefix+"h") || "gastronomie francaise".startsWith(@gloPrefix+"h") || "gaule".startsWith(@gloPrefix+"h") || "gendarmerie".startsWith(@gloPrefix+"h") || "genocide".startsWith(@gloPrefix+"h") || "gouvernement".startsWith(@gloPrefix+"h") || "greve".startsWith(@gloPrefix+"h") || "guadeloupe".startsWith(@gloPrefix+"h") || "guyane".startsWith(@gloPrefix+"h") || "handicap".startsWith(@gloPrefix+"h") || "harcelement".startsWith(@gloPrefix+"h") || "harcelement scolaire".startsWith(@gloPrefix+"h") || "hopital".startsWith(@gloPrefix+"h") || "ile-de-france".startsWith(@gloPrefix+"h") || "impot".startsWith(@gloPrefix+"h") || "impressionnisme".startsWith(@gloPrefix+"h") || "infraction".startsWith(@gloPrefix+"h") || "instruction obligatoire".startsWith(@gloPrefix+"h") || "integrite de la personne".startsWith(@gloPrefix+"h") || "interet general".startsWith(@gloPrefix+"h") || "ivg".startsWith(@gloPrefix+"h") || "journee de l'europe".startsWith(@gloPrefix+"h") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"h") || "juge".startsWith(@gloPrefix+"h") || "jure".startsWith(@gloPrefix+"h") || "justice".startsWith(@gloPrefix+"h") || "la marseillaise".startsWith(@gloPrefix+"h") || "la reunion".startsWith(@gloPrefix+"h") || "laicite".startsWith(@gloPrefix+"h") || "langue de la republique".startsWith(@gloPrefix+"h") || "liberte".startsWith(@gloPrefix+"h") || "liberte de conscience".startsWith(@gloPrefix+"h") || "listes electorales".startsWith(@gloPrefix+"h") || "litterature".startsWith(@gloPrefix+"h") || "locataire".startsWith(@gloPrefix+"h") || "loi".startsWith(@gloPrefix+"h") || "lycee".startsWith(@gloPrefix+"h") || "maire".startsWith(@gloPrefix+"h") || "mairie".startsWith(@gloPrefix+"h") || "majorite".startsWith(@gloPrefix+"h") || "mandat".startsWith(@gloPrefix+"h") || "marianne".startsWith(@gloPrefix+"h") || "martinique".startsWith(@gloPrefix+"h") || "mayotte".startsWith(@gloPrefix+"h") || "medecin traitant".startsWith(@gloPrefix+"h") || "mediterranee".startsWith(@gloPrefix+"h") || "ministre".startsWith(@gloPrefix+"h") || "monarchie".startsWith(@gloPrefix+"h") || "mont-saint-michel".startsWith(@gloPrefix+"h") || "musee du louvre".startsWith(@gloPrefix+"h") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"h") || "mutuelle".startsWith(@gloPrefix+"h") || "naissance".startsWith(@gloPrefix+"h") || "naturalisation".startsWith(@gloPrefix+"h") || "neutralite".startsWith(@gloPrefix+"h") || "opinion".startsWith(@gloPrefix+"h") || "ordre public".startsWith(@gloPrefix+"h") || "outre-mer".startsWith(@gloPrefix+"h") || "parlement".startsWith(@gloPrefix+"h") || "parlement europeen".startsWith(@gloPrefix+"h") || "parti politique".startsWith(@gloPrefix+"h") || "patrimoine".startsWith(@gloPrefix+"h") || "peine de mort".startsWith(@gloPrefix+"h") || "plainte".startsWith(@gloPrefix+"h") || "police".startsWith(@gloPrefix+"h") || "polygamie".startsWith(@gloPrefix+"h") || "pouvoir executif".startsWith(@gloPrefix+"h") || "pouvoir judiciaire".startsWith(@gloPrefix+"h") || "pouvoir legislatif".startsWith(@gloPrefix+"h") || "prefecture".startsWith(@gloPrefix+"h") || "prefet".startsWith(@gloPrefix+"h") || "premier ministre".startsWith(@gloPrefix+"h") || "premiere guerre mondiale".startsWith(@gloPrefix+"h") || "president de la republique".startsWith(@gloPrefix+"h") || "presomption d'innocence".startsWith(@gloPrefix+"h") || "prevention".startsWith(@gloPrefix+"h") || "procuration".startsWith(@gloPrefix+"h") || "proprietaire".startsWith(@gloPrefix+"h") || "prostitution".startsWith(@gloPrefix+"h") || "protection sociale".startsWith(@gloPrefix+"h") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"h") || "pyrenees".startsWith(@gloPrefix+"h") || "quinquennat".startsWith(@gloPrefix+"h") || "recyclage".startsWith(@gloPrefix+"h") || "referendum".startsWith(@gloPrefix+"h") || "region".startsWith(@gloPrefix+"h") || "religion".startsWith(@gloPrefix+"h") || "republique".startsWith(@gloPrefix+"h") || "reseaux sociaux".startsWith(@gloPrefix+"h") || "resistance".startsWith(@gloPrefix+"h") || "respect".startsWith(@gloPrefix+"h") || "revolution francaise".startsWith(@gloPrefix+"h") || "salaire".startsWith(@gloPrefix+"h") || "salaire brut".startsWith(@gloPrefix+"h") || "salaire net".startsWith(@gloPrefix+"h") || "salarie".startsWith(@gloPrefix+"h") || "samu".startsWith(@gloPrefix+"h") || "seconde guerre mondiale".startsWith(@gloPrefix+"h") || "secours".startsWith(@gloPrefix+"h") || "securite routiere".startsWith(@gloPrefix+"h") || "seine".startsWith(@gloPrefix+"h") || "senat".startsWith(@gloPrefix+"h") || "senateur".startsWith(@gloPrefix+"h") || "separation des pouvoirs".startsWith(@gloPrefix+"h") || "service public".startsWith(@gloPrefix+"h") || "shoah".startsWith(@gloPrefix+"h") || "smic".startsWith(@gloPrefix+"h") || "souverainete nationale".startsWith(@gloPrefix+"h") || "suffrage universel".startsWith(@gloPrefix+"h") || "surete".startsWith(@gloPrefix+"h") || "titre de sejour".startsWith(@gloPrefix+"h") || "tour eiffel".startsWith(@gloPrefix+"h") || "traite de maastricht".startsWith(@gloPrefix+"h") || "traite des etres humains".startsWith(@gloPrefix+"h") || "travail dissimule".startsWith(@gloPrefix+"h") || "tri des dechets".startsWith(@gloPrefix+"h") || "unesco".startsWith(@gloPrefix+"h") || "union europeenne".startsWith(@gloPrefix+"h") || "urgence".startsWith(@gloPrefix+"h") || "urgences".startsWith(@gloPrefix+"h") || "vercingetorix".startsWith(@gloPrefix+"h") || "violence".startsWith(@gloPrefix+"h") || "vote".startsWith(@gloPrefix+"h"))`
-`@gloNextI = calc("abolition".startsWith(@gloPrefix+"i") || "abstention".startsWith(@gloPrefix+"i") || "agents publics".startsWith(@gloPrefix+"i") || "alpes".startsWith(@gloPrefix+"i") || "amende".startsWith(@gloPrefix+"i") || "apl".startsWith(@gloPrefix+"i") || "armistice".startsWith(@gloPrefix+"i") || "assemblee nationale".startsWith(@gloPrefix+"i") || "assistance a personne en danger".startsWith(@gloPrefix+"i") || "assurance maladie".startsWith(@gloPrefix+"i") || "autorite parentale".startsWith(@gloPrefix+"i") || "avocat".startsWith(@gloPrefix+"i") || "bail".startsWith(@gloPrefix+"i") || "benevolat".startsWith(@gloPrefix+"i") || "bretagne".startsWith(@gloPrefix+"i") || "caf".startsWith(@gloPrefix+"i") || "carte de resident".startsWith(@gloPrefix+"i") || "carte vitale".startsWith(@gloPrefix+"i") || "cdd".startsWith(@gloPrefix+"i") || "cdi".startsWith(@gloPrefix+"i") || "ceca".startsWith(@gloPrefix+"i") || "celtes".startsWith(@gloPrefix+"i") || "charlemagne".startsWith(@gloPrefix+"i") || "charte de l'environnement".startsWith(@gloPrefix+"i") || "chateau de versailles".startsWith(@gloPrefix+"i") || "chef de l'etat".startsWith(@gloPrefix+"i") || "cinquieme republique".startsWith(@gloPrefix+"i") || "citoyen".startsWith(@gloPrefix+"i") || "citoyennete".startsWith(@gloPrefix+"i") || "clovis".startsWith(@gloPrefix+"i") || "collectivites territoriales".startsWith(@gloPrefix+"i") || "college".startsWith(@gloPrefix+"i") || "colonisation".startsWith(@gloPrefix+"i") || "commission europeenne".startsWith(@gloPrefix+"i") || "commune".startsWith(@gloPrefix+"i") || "conseil constitutionnel".startsWith(@gloPrefix+"i") || "conseil de l'union europeenne".startsWith(@gloPrefix+"i") || "conseil departemental".startsWith(@gloPrefix+"i") || "conseil europeen".startsWith(@gloPrefix+"i") || "conseil municipal".startsWith(@gloPrefix+"i") || "conseil regional".startsWith(@gloPrefix+"i") || "consentement".startsWith(@gloPrefix+"i") || "constitution".startsWith(@gloPrefix+"i") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"i") || "contrat de travail".startsWith(@gloPrefix+"i") || "contravention".startsWith(@gloPrefix+"i") || "cotisations sociales".startsWith(@gloPrefix+"i") || "cour d'assises".startsWith(@gloPrefix+"i") || "cpam".startsWith(@gloPrefix+"i") || "crime".startsWith(@gloPrefix+"i") || "decheterie".startsWith(@gloPrefix+"i") || "dechets".startsWith(@gloPrefix+"i") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"i") || "delit".startsWith(@gloPrefix+"i") || "democratie".startsWith(@gloPrefix+"i") || "departement".startsWith(@gloPrefix+"i") || "depute".startsWith(@gloPrefix+"i") || "depute europeen".startsWith(@gloPrefix+"i") || "devise de la republique".startsWith(@gloPrefix+"i") || "devoir".startsWith(@gloPrefix+"i") || "dignite humaine".startsWith(@gloPrefix+"i") || "discrimination".startsWith(@gloPrefix+"i") || "divorce".startsWith(@gloPrefix+"i") || "drapeau francais".startsWith(@gloPrefix+"i") || "droits civiques".startsWith(@gloPrefix+"i") || "droits fondamentaux".startsWith(@gloPrefix+"i") || "drom".startsWith(@gloPrefix+"i") || "ecole".startsWith(@gloPrefix+"i") || "egalite".startsWith(@gloPrefix+"i") || "election".startsWith(@gloPrefix+"i") || "elections europeennes".startsWith(@gloPrefix+"i") || "elections municipales".startsWith(@gloPrefix+"i") || "eligibilite".startsWith(@gloPrefix+"i") || "employeur".startsWith(@gloPrefix+"i") || "entreprise".startsWith(@gloPrefix+"i") || "environnement".startsWith(@gloPrefix+"i") || "esclavage".startsWith(@gloPrefix+"i") || "espace schengen".startsWith(@gloPrefix+"i") || "etat".startsWith(@gloPrefix+"i") || "etat civil".startsWith(@gloPrefix+"i") || "euro".startsWith(@gloPrefix+"i") || "fete de la musique".startsWith(@gloPrefix+"i") || "fete nationale".startsWith(@gloPrefix+"i") || "fleuve".startsWith(@gloPrefix+"i") || "france metropolitaine".startsWith(@gloPrefix+"i") || "france services".startsWith(@gloPrefix+"i") || "france travail".startsWith(@gloPrefix+"i") || "francophonie".startsWith(@gloPrefix+"i") || "fraternite".startsWith(@gloPrefix+"i") || "gastronomie francaise".startsWith(@gloPrefix+"i") || "gaule".startsWith(@gloPrefix+"i") || "gendarmerie".startsWith(@gloPrefix+"i") || "genocide".startsWith(@gloPrefix+"i") || "gouvernement".startsWith(@gloPrefix+"i") || "greve".startsWith(@gloPrefix+"i") || "guadeloupe".startsWith(@gloPrefix+"i") || "guyane".startsWith(@gloPrefix+"i") || "handicap".startsWith(@gloPrefix+"i") || "harcelement".startsWith(@gloPrefix+"i") || "harcelement scolaire".startsWith(@gloPrefix+"i") || "hopital".startsWith(@gloPrefix+"i") || "ile-de-france".startsWith(@gloPrefix+"i") || "impot".startsWith(@gloPrefix+"i") || "impressionnisme".startsWith(@gloPrefix+"i") || "infraction".startsWith(@gloPrefix+"i") || "instruction obligatoire".startsWith(@gloPrefix+"i") || "integrite de la personne".startsWith(@gloPrefix+"i") || "interet general".startsWith(@gloPrefix+"i") || "ivg".startsWith(@gloPrefix+"i") || "journee de l'europe".startsWith(@gloPrefix+"i") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"i") || "juge".startsWith(@gloPrefix+"i") || "jure".startsWith(@gloPrefix+"i") || "justice".startsWith(@gloPrefix+"i") || "la marseillaise".startsWith(@gloPrefix+"i") || "la reunion".startsWith(@gloPrefix+"i") || "laicite".startsWith(@gloPrefix+"i") || "langue de la republique".startsWith(@gloPrefix+"i") || "liberte".startsWith(@gloPrefix+"i") || "liberte de conscience".startsWith(@gloPrefix+"i") || "listes electorales".startsWith(@gloPrefix+"i") || "litterature".startsWith(@gloPrefix+"i") || "locataire".startsWith(@gloPrefix+"i") || "loi".startsWith(@gloPrefix+"i") || "lycee".startsWith(@gloPrefix+"i") || "maire".startsWith(@gloPrefix+"i") || "mairie".startsWith(@gloPrefix+"i") || "majorite".startsWith(@gloPrefix+"i") || "mandat".startsWith(@gloPrefix+"i") || "marianne".startsWith(@gloPrefix+"i") || "martinique".startsWith(@gloPrefix+"i") || "mayotte".startsWith(@gloPrefix+"i") || "medecin traitant".startsWith(@gloPrefix+"i") || "mediterranee".startsWith(@gloPrefix+"i") || "ministre".startsWith(@gloPrefix+"i") || "monarchie".startsWith(@gloPrefix+"i") || "mont-saint-michel".startsWith(@gloPrefix+"i") || "musee du louvre".startsWith(@gloPrefix+"i") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"i") || "mutuelle".startsWith(@gloPrefix+"i") || "naissance".startsWith(@gloPrefix+"i") || "naturalisation".startsWith(@gloPrefix+"i") || "neutralite".startsWith(@gloPrefix+"i") || "opinion".startsWith(@gloPrefix+"i") || "ordre public".startsWith(@gloPrefix+"i") || "outre-mer".startsWith(@gloPrefix+"i") || "parlement".startsWith(@gloPrefix+"i") || "parlement europeen".startsWith(@gloPrefix+"i") || "parti politique".startsWith(@gloPrefix+"i") || "patrimoine".startsWith(@gloPrefix+"i") || "peine de mort".startsWith(@gloPrefix+"i") || "plainte".startsWith(@gloPrefix+"i") || "police".startsWith(@gloPrefix+"i") || "polygamie".startsWith(@gloPrefix+"i") || "pouvoir executif".startsWith(@gloPrefix+"i") || "pouvoir judiciaire".startsWith(@gloPrefix+"i") || "pouvoir legislatif".startsWith(@gloPrefix+"i") || "prefecture".startsWith(@gloPrefix+"i") || "prefet".startsWith(@gloPrefix+"i") || "premier ministre".startsWith(@gloPrefix+"i") || "premiere guerre mondiale".startsWith(@gloPrefix+"i") || "president de la republique".startsWith(@gloPrefix+"i") || "presomption d'innocence".startsWith(@gloPrefix+"i") || "prevention".startsWith(@gloPrefix+"i") || "procuration".startsWith(@gloPrefix+"i") || "proprietaire".startsWith(@gloPrefix+"i") || "prostitution".startsWith(@gloPrefix+"i") || "protection sociale".startsWith(@gloPrefix+"i") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"i") || "pyrenees".startsWith(@gloPrefix+"i") || "quinquennat".startsWith(@gloPrefix+"i") || "recyclage".startsWith(@gloPrefix+"i") || "referendum".startsWith(@gloPrefix+"i") || "region".startsWith(@gloPrefix+"i") || "religion".startsWith(@gloPrefix+"i") || "republique".startsWith(@gloPrefix+"i") || "reseaux sociaux".startsWith(@gloPrefix+"i") || "resistance".startsWith(@gloPrefix+"i") || "respect".startsWith(@gloPrefix+"i") || "revolution francaise".startsWith(@gloPrefix+"i") || "salaire".startsWith(@gloPrefix+"i") || "salaire brut".startsWith(@gloPrefix+"i") || "salaire net".startsWith(@gloPrefix+"i") || "salarie".startsWith(@gloPrefix+"i") || "samu".startsWith(@gloPrefix+"i") || "seconde guerre mondiale".startsWith(@gloPrefix+"i") || "secours".startsWith(@gloPrefix+"i") || "securite routiere".startsWith(@gloPrefix+"i") || "seine".startsWith(@gloPrefix+"i") || "senat".startsWith(@gloPrefix+"i") || "senateur".startsWith(@gloPrefix+"i") || "separation des pouvoirs".startsWith(@gloPrefix+"i") || "service public".startsWith(@gloPrefix+"i") || "shoah".startsWith(@gloPrefix+"i") || "smic".startsWith(@gloPrefix+"i") || "souverainete nationale".startsWith(@gloPrefix+"i") || "suffrage universel".startsWith(@gloPrefix+"i") || "surete".startsWith(@gloPrefix+"i") || "titre de sejour".startsWith(@gloPrefix+"i") || "tour eiffel".startsWith(@gloPrefix+"i") || "traite de maastricht".startsWith(@gloPrefix+"i") || "traite des etres humains".startsWith(@gloPrefix+"i") || "travail dissimule".startsWith(@gloPrefix+"i") || "tri des dechets".startsWith(@gloPrefix+"i") || "unesco".startsWith(@gloPrefix+"i") || "union europeenne".startsWith(@gloPrefix+"i") || "urgence".startsWith(@gloPrefix+"i") || "urgences".startsWith(@gloPrefix+"i") || "vercingetorix".startsWith(@gloPrefix+"i") || "violence".startsWith(@gloPrefix+"i") || "vote".startsWith(@gloPrefix+"i"))`
-`@gloNextJ = calc("abolition".startsWith(@gloPrefix+"j") || "abstention".startsWith(@gloPrefix+"j") || "agents publics".startsWith(@gloPrefix+"j") || "alpes".startsWith(@gloPrefix+"j") || "amende".startsWith(@gloPrefix+"j") || "apl".startsWith(@gloPrefix+"j") || "armistice".startsWith(@gloPrefix+"j") || "assemblee nationale".startsWith(@gloPrefix+"j") || "assistance a personne en danger".startsWith(@gloPrefix+"j") || "assurance maladie".startsWith(@gloPrefix+"j") || "autorite parentale".startsWith(@gloPrefix+"j") || "avocat".startsWith(@gloPrefix+"j") || "bail".startsWith(@gloPrefix+"j") || "benevolat".startsWith(@gloPrefix+"j") || "bretagne".startsWith(@gloPrefix+"j") || "caf".startsWith(@gloPrefix+"j") || "carte de resident".startsWith(@gloPrefix+"j") || "carte vitale".startsWith(@gloPrefix+"j") || "cdd".startsWith(@gloPrefix+"j") || "cdi".startsWith(@gloPrefix+"j") || "ceca".startsWith(@gloPrefix+"j") || "celtes".startsWith(@gloPrefix+"j") || "charlemagne".startsWith(@gloPrefix+"j") || "charte de l'environnement".startsWith(@gloPrefix+"j") || "chateau de versailles".startsWith(@gloPrefix+"j") || "chef de l'etat".startsWith(@gloPrefix+"j") || "cinquieme republique".startsWith(@gloPrefix+"j") || "citoyen".startsWith(@gloPrefix+"j") || "citoyennete".startsWith(@gloPrefix+"j") || "clovis".startsWith(@gloPrefix+"j") || "collectivites territoriales".startsWith(@gloPrefix+"j") || "college".startsWith(@gloPrefix+"j") || "colonisation".startsWith(@gloPrefix+"j") || "commission europeenne".startsWith(@gloPrefix+"j") || "commune".startsWith(@gloPrefix+"j") || "conseil constitutionnel".startsWith(@gloPrefix+"j") || "conseil de l'union europeenne".startsWith(@gloPrefix+"j") || "conseil departemental".startsWith(@gloPrefix+"j") || "conseil europeen".startsWith(@gloPrefix+"j") || "conseil municipal".startsWith(@gloPrefix+"j") || "conseil regional".startsWith(@gloPrefix+"j") || "consentement".startsWith(@gloPrefix+"j") || "constitution".startsWith(@gloPrefix+"j") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"j") || "contrat de travail".startsWith(@gloPrefix+"j") || "contravention".startsWith(@gloPrefix+"j") || "cotisations sociales".startsWith(@gloPrefix+"j") || "cour d'assises".startsWith(@gloPrefix+"j") || "cpam".startsWith(@gloPrefix+"j") || "crime".startsWith(@gloPrefix+"j") || "decheterie".startsWith(@gloPrefix+"j") || "dechets".startsWith(@gloPrefix+"j") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"j") || "delit".startsWith(@gloPrefix+"j") || "democratie".startsWith(@gloPrefix+"j") || "departement".startsWith(@gloPrefix+"j") || "depute".startsWith(@gloPrefix+"j") || "depute europeen".startsWith(@gloPrefix+"j") || "devise de la republique".startsWith(@gloPrefix+"j") || "devoir".startsWith(@gloPrefix+"j") || "dignite humaine".startsWith(@gloPrefix+"j") || "discrimination".startsWith(@gloPrefix+"j") || "divorce".startsWith(@gloPrefix+"j") || "drapeau francais".startsWith(@gloPrefix+"j") || "droits civiques".startsWith(@gloPrefix+"j") || "droits fondamentaux".startsWith(@gloPrefix+"j") || "drom".startsWith(@gloPrefix+"j") || "ecole".startsWith(@gloPrefix+"j") || "egalite".startsWith(@gloPrefix+"j") || "election".startsWith(@gloPrefix+"j") || "elections europeennes".startsWith(@gloPrefix+"j") || "elections municipales".startsWith(@gloPrefix+"j") || "eligibilite".startsWith(@gloPrefix+"j") || "employeur".startsWith(@gloPrefix+"j") || "entreprise".startsWith(@gloPrefix+"j") || "environnement".startsWith(@gloPrefix+"j") || "esclavage".startsWith(@gloPrefix+"j") || "espace schengen".startsWith(@gloPrefix+"j") || "etat".startsWith(@gloPrefix+"j") || "etat civil".startsWith(@gloPrefix+"j") || "euro".startsWith(@gloPrefix+"j") || "fete de la musique".startsWith(@gloPrefix+"j") || "fete nationale".startsWith(@gloPrefix+"j") || "fleuve".startsWith(@gloPrefix+"j") || "france metropolitaine".startsWith(@gloPrefix+"j") || "france services".startsWith(@gloPrefix+"j") || "france travail".startsWith(@gloPrefix+"j") || "francophonie".startsWith(@gloPrefix+"j") || "fraternite".startsWith(@gloPrefix+"j") || "gastronomie francaise".startsWith(@gloPrefix+"j") || "gaule".startsWith(@gloPrefix+"j") || "gendarmerie".startsWith(@gloPrefix+"j") || "genocide".startsWith(@gloPrefix+"j") || "gouvernement".startsWith(@gloPrefix+"j") || "greve".startsWith(@gloPrefix+"j") || "guadeloupe".startsWith(@gloPrefix+"j") || "guyane".startsWith(@gloPrefix+"j") || "handicap".startsWith(@gloPrefix+"j") || "harcelement".startsWith(@gloPrefix+"j") || "harcelement scolaire".startsWith(@gloPrefix+"j") || "hopital".startsWith(@gloPrefix+"j") || "ile-de-france".startsWith(@gloPrefix+"j") || "impot".startsWith(@gloPrefix+"j") || "impressionnisme".startsWith(@gloPrefix+"j") || "infraction".startsWith(@gloPrefix+"j") || "instruction obligatoire".startsWith(@gloPrefix+"j") || "integrite de la personne".startsWith(@gloPrefix+"j") || "interet general".startsWith(@gloPrefix+"j") || "ivg".startsWith(@gloPrefix+"j") || "journee de l'europe".startsWith(@gloPrefix+"j") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"j") || "juge".startsWith(@gloPrefix+"j") || "jure".startsWith(@gloPrefix+"j") || "justice".startsWith(@gloPrefix+"j") || "la marseillaise".startsWith(@gloPrefix+"j") || "la reunion".startsWith(@gloPrefix+"j") || "laicite".startsWith(@gloPrefix+"j") || "langue de la republique".startsWith(@gloPrefix+"j") || "liberte".startsWith(@gloPrefix+"j") || "liberte de conscience".startsWith(@gloPrefix+"j") || "listes electorales".startsWith(@gloPrefix+"j") || "litterature".startsWith(@gloPrefix+"j") || "locataire".startsWith(@gloPrefix+"j") || "loi".startsWith(@gloPrefix+"j") || "lycee".startsWith(@gloPrefix+"j") || "maire".startsWith(@gloPrefix+"j") || "mairie".startsWith(@gloPrefix+"j") || "majorite".startsWith(@gloPrefix+"j") || "mandat".startsWith(@gloPrefix+"j") || "marianne".startsWith(@gloPrefix+"j") || "martinique".startsWith(@gloPrefix+"j") || "mayotte".startsWith(@gloPrefix+"j") || "medecin traitant".startsWith(@gloPrefix+"j") || "mediterranee".startsWith(@gloPrefix+"j") || "ministre".startsWith(@gloPrefix+"j") || "monarchie".startsWith(@gloPrefix+"j") || "mont-saint-michel".startsWith(@gloPrefix+"j") || "musee du louvre".startsWith(@gloPrefix+"j") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"j") || "mutuelle".startsWith(@gloPrefix+"j") || "naissance".startsWith(@gloPrefix+"j") || "naturalisation".startsWith(@gloPrefix+"j") || "neutralite".startsWith(@gloPrefix+"j") || "opinion".startsWith(@gloPrefix+"j") || "ordre public".startsWith(@gloPrefix+"j") || "outre-mer".startsWith(@gloPrefix+"j") || "parlement".startsWith(@gloPrefix+"j") || "parlement europeen".startsWith(@gloPrefix+"j") || "parti politique".startsWith(@gloPrefix+"j") || "patrimoine".startsWith(@gloPrefix+"j") || "peine de mort".startsWith(@gloPrefix+"j") || "plainte".startsWith(@gloPrefix+"j") || "police".startsWith(@gloPrefix+"j") || "polygamie".startsWith(@gloPrefix+"j") || "pouvoir executif".startsWith(@gloPrefix+"j") || "pouvoir judiciaire".startsWith(@gloPrefix+"j") || "pouvoir legislatif".startsWith(@gloPrefix+"j") || "prefecture".startsWith(@gloPrefix+"j") || "prefet".startsWith(@gloPrefix+"j") || "premier ministre".startsWith(@gloPrefix+"j") || "premiere guerre mondiale".startsWith(@gloPrefix+"j") || "president de la republique".startsWith(@gloPrefix+"j") || "presomption d'innocence".startsWith(@gloPrefix+"j") || "prevention".startsWith(@gloPrefix+"j") || "procuration".startsWith(@gloPrefix+"j") || "proprietaire".startsWith(@gloPrefix+"j") || "prostitution".startsWith(@gloPrefix+"j") || "protection sociale".startsWith(@gloPrefix+"j") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"j") || "pyrenees".startsWith(@gloPrefix+"j") || "quinquennat".startsWith(@gloPrefix+"j") || "recyclage".startsWith(@gloPrefix+"j") || "referendum".startsWith(@gloPrefix+"j") || "region".startsWith(@gloPrefix+"j") || "religion".startsWith(@gloPrefix+"j") || "republique".startsWith(@gloPrefix+"j") || "reseaux sociaux".startsWith(@gloPrefix+"j") || "resistance".startsWith(@gloPrefix+"j") || "respect".startsWith(@gloPrefix+"j") || "revolution francaise".startsWith(@gloPrefix+"j") || "salaire".startsWith(@gloPrefix+"j") || "salaire brut".startsWith(@gloPrefix+"j") || "salaire net".startsWith(@gloPrefix+"j") || "salarie".startsWith(@gloPrefix+"j") || "samu".startsWith(@gloPrefix+"j") || "seconde guerre mondiale".startsWith(@gloPrefix+"j") || "secours".startsWith(@gloPrefix+"j") || "securite routiere".startsWith(@gloPrefix+"j") || "seine".startsWith(@gloPrefix+"j") || "senat".startsWith(@gloPrefix+"j") || "senateur".startsWith(@gloPrefix+"j") || "separation des pouvoirs".startsWith(@gloPrefix+"j") || "service public".startsWith(@gloPrefix+"j") || "shoah".startsWith(@gloPrefix+"j") || "smic".startsWith(@gloPrefix+"j") || "souverainete nationale".startsWith(@gloPrefix+"j") || "suffrage universel".startsWith(@gloPrefix+"j") || "surete".startsWith(@gloPrefix+"j") || "titre de sejour".startsWith(@gloPrefix+"j") || "tour eiffel".startsWith(@gloPrefix+"j") || "traite de maastricht".startsWith(@gloPrefix+"j") || "traite des etres humains".startsWith(@gloPrefix+"j") || "travail dissimule".startsWith(@gloPrefix+"j") || "tri des dechets".startsWith(@gloPrefix+"j") || "unesco".startsWith(@gloPrefix+"j") || "union europeenne".startsWith(@gloPrefix+"j") || "urgence".startsWith(@gloPrefix+"j") || "urgences".startsWith(@gloPrefix+"j") || "vercingetorix".startsWith(@gloPrefix+"j") || "violence".startsWith(@gloPrefix+"j") || "vote".startsWith(@gloPrefix+"j"))`
-`@gloNextK = calc("abolition".startsWith(@gloPrefix+"k") || "abstention".startsWith(@gloPrefix+"k") || "agents publics".startsWith(@gloPrefix+"k") || "alpes".startsWith(@gloPrefix+"k") || "amende".startsWith(@gloPrefix+"k") || "apl".startsWith(@gloPrefix+"k") || "armistice".startsWith(@gloPrefix+"k") || "assemblee nationale".startsWith(@gloPrefix+"k") || "assistance a personne en danger".startsWith(@gloPrefix+"k") || "assurance maladie".startsWith(@gloPrefix+"k") || "autorite parentale".startsWith(@gloPrefix+"k") || "avocat".startsWith(@gloPrefix+"k") || "bail".startsWith(@gloPrefix+"k") || "benevolat".startsWith(@gloPrefix+"k") || "bretagne".startsWith(@gloPrefix+"k") || "caf".startsWith(@gloPrefix+"k") || "carte de resident".startsWith(@gloPrefix+"k") || "carte vitale".startsWith(@gloPrefix+"k") || "cdd".startsWith(@gloPrefix+"k") || "cdi".startsWith(@gloPrefix+"k") || "ceca".startsWith(@gloPrefix+"k") || "celtes".startsWith(@gloPrefix+"k") || "charlemagne".startsWith(@gloPrefix+"k") || "charte de l'environnement".startsWith(@gloPrefix+"k") || "chateau de versailles".startsWith(@gloPrefix+"k") || "chef de l'etat".startsWith(@gloPrefix+"k") || "cinquieme republique".startsWith(@gloPrefix+"k") || "citoyen".startsWith(@gloPrefix+"k") || "citoyennete".startsWith(@gloPrefix+"k") || "clovis".startsWith(@gloPrefix+"k") || "collectivites territoriales".startsWith(@gloPrefix+"k") || "college".startsWith(@gloPrefix+"k") || "colonisation".startsWith(@gloPrefix+"k") || "commission europeenne".startsWith(@gloPrefix+"k") || "commune".startsWith(@gloPrefix+"k") || "conseil constitutionnel".startsWith(@gloPrefix+"k") || "conseil de l'union europeenne".startsWith(@gloPrefix+"k") || "conseil departemental".startsWith(@gloPrefix+"k") || "conseil europeen".startsWith(@gloPrefix+"k") || "conseil municipal".startsWith(@gloPrefix+"k") || "conseil regional".startsWith(@gloPrefix+"k") || "consentement".startsWith(@gloPrefix+"k") || "constitution".startsWith(@gloPrefix+"k") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"k") || "contrat de travail".startsWith(@gloPrefix+"k") || "contravention".startsWith(@gloPrefix+"k") || "cotisations sociales".startsWith(@gloPrefix+"k") || "cour d'assises".startsWith(@gloPrefix+"k") || "cpam".startsWith(@gloPrefix+"k") || "crime".startsWith(@gloPrefix+"k") || "decheterie".startsWith(@gloPrefix+"k") || "dechets".startsWith(@gloPrefix+"k") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"k") || "delit".startsWith(@gloPrefix+"k") || "democratie".startsWith(@gloPrefix+"k") || "departement".startsWith(@gloPrefix+"k") || "depute".startsWith(@gloPrefix+"k") || "depute europeen".startsWith(@gloPrefix+"k") || "devise de la republique".startsWith(@gloPrefix+"k") || "devoir".startsWith(@gloPrefix+"k") || "dignite humaine".startsWith(@gloPrefix+"k") || "discrimination".startsWith(@gloPrefix+"k") || "divorce".startsWith(@gloPrefix+"k") || "drapeau francais".startsWith(@gloPrefix+"k") || "droits civiques".startsWith(@gloPrefix+"k") || "droits fondamentaux".startsWith(@gloPrefix+"k") || "drom".startsWith(@gloPrefix+"k") || "ecole".startsWith(@gloPrefix+"k") || "egalite".startsWith(@gloPrefix+"k") || "election".startsWith(@gloPrefix+"k") || "elections europeennes".startsWith(@gloPrefix+"k") || "elections municipales".startsWith(@gloPrefix+"k") || "eligibilite".startsWith(@gloPrefix+"k") || "employeur".startsWith(@gloPrefix+"k") || "entreprise".startsWith(@gloPrefix+"k") || "environnement".startsWith(@gloPrefix+"k") || "esclavage".startsWith(@gloPrefix+"k") || "espace schengen".startsWith(@gloPrefix+"k") || "etat".startsWith(@gloPrefix+"k") || "etat civil".startsWith(@gloPrefix+"k") || "euro".startsWith(@gloPrefix+"k") || "fete de la musique".startsWith(@gloPrefix+"k") || "fete nationale".startsWith(@gloPrefix+"k") || "fleuve".startsWith(@gloPrefix+"k") || "france metropolitaine".startsWith(@gloPrefix+"k") || "france services".startsWith(@gloPrefix+"k") || "france travail".startsWith(@gloPrefix+"k") || "francophonie".startsWith(@gloPrefix+"k") || "fraternite".startsWith(@gloPrefix+"k") || "gastronomie francaise".startsWith(@gloPrefix+"k") || "gaule".startsWith(@gloPrefix+"k") || "gendarmerie".startsWith(@gloPrefix+"k") || "genocide".startsWith(@gloPrefix+"k") || "gouvernement".startsWith(@gloPrefix+"k") || "greve".startsWith(@gloPrefix+"k") || "guadeloupe".startsWith(@gloPrefix+"k") || "guyane".startsWith(@gloPrefix+"k") || "handicap".startsWith(@gloPrefix+"k") || "harcelement".startsWith(@gloPrefix+"k") || "harcelement scolaire".startsWith(@gloPrefix+"k") || "hopital".startsWith(@gloPrefix+"k") || "ile-de-france".startsWith(@gloPrefix+"k") || "impot".startsWith(@gloPrefix+"k") || "impressionnisme".startsWith(@gloPrefix+"k") || "infraction".startsWith(@gloPrefix+"k") || "instruction obligatoire".startsWith(@gloPrefix+"k") || "integrite de la personne".startsWith(@gloPrefix+"k") || "interet general".startsWith(@gloPrefix+"k") || "ivg".startsWith(@gloPrefix+"k") || "journee de l'europe".startsWith(@gloPrefix+"k") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"k") || "juge".startsWith(@gloPrefix+"k") || "jure".startsWith(@gloPrefix+"k") || "justice".startsWith(@gloPrefix+"k") || "la marseillaise".startsWith(@gloPrefix+"k") || "la reunion".startsWith(@gloPrefix+"k") || "laicite".startsWith(@gloPrefix+"k") || "langue de la republique".startsWith(@gloPrefix+"k") || "liberte".startsWith(@gloPrefix+"k") || "liberte de conscience".startsWith(@gloPrefix+"k") || "listes electorales".startsWith(@gloPrefix+"k") || "litterature".startsWith(@gloPrefix+"k") || "locataire".startsWith(@gloPrefix+"k") || "loi".startsWith(@gloPrefix+"k") || "lycee".startsWith(@gloPrefix+"k") || "maire".startsWith(@gloPrefix+"k") || "mairie".startsWith(@gloPrefix+"k") || "majorite".startsWith(@gloPrefix+"k") || "mandat".startsWith(@gloPrefix+"k") || "marianne".startsWith(@gloPrefix+"k") || "martinique".startsWith(@gloPrefix+"k") || "mayotte".startsWith(@gloPrefix+"k") || "medecin traitant".startsWith(@gloPrefix+"k") || "mediterranee".startsWith(@gloPrefix+"k") || "ministre".startsWith(@gloPrefix+"k") || "monarchie".startsWith(@gloPrefix+"k") || "mont-saint-michel".startsWith(@gloPrefix+"k") || "musee du louvre".startsWith(@gloPrefix+"k") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"k") || "mutuelle".startsWith(@gloPrefix+"k") || "naissance".startsWith(@gloPrefix+"k") || "naturalisation".startsWith(@gloPrefix+"k") || "neutralite".startsWith(@gloPrefix+"k") || "opinion".startsWith(@gloPrefix+"k") || "ordre public".startsWith(@gloPrefix+"k") || "outre-mer".startsWith(@gloPrefix+"k") || "parlement".startsWith(@gloPrefix+"k") || "parlement europeen".startsWith(@gloPrefix+"k") || "parti politique".startsWith(@gloPrefix+"k") || "patrimoine".startsWith(@gloPrefix+"k") || "peine de mort".startsWith(@gloPrefix+"k") || "plainte".startsWith(@gloPrefix+"k") || "police".startsWith(@gloPrefix+"k") || "polygamie".startsWith(@gloPrefix+"k") || "pouvoir executif".startsWith(@gloPrefix+"k") || "pouvoir judiciaire".startsWith(@gloPrefix+"k") || "pouvoir legislatif".startsWith(@gloPrefix+"k") || "prefecture".startsWith(@gloPrefix+"k") || "prefet".startsWith(@gloPrefix+"k") || "premier ministre".startsWith(@gloPrefix+"k") || "premiere guerre mondiale".startsWith(@gloPrefix+"k") || "president de la republique".startsWith(@gloPrefix+"k") || "presomption d'innocence".startsWith(@gloPrefix+"k") || "prevention".startsWith(@gloPrefix+"k") || "procuration".startsWith(@gloPrefix+"k") || "proprietaire".startsWith(@gloPrefix+"k") || "prostitution".startsWith(@gloPrefix+"k") || "protection sociale".startsWith(@gloPrefix+"k") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"k") || "pyrenees".startsWith(@gloPrefix+"k") || "quinquennat".startsWith(@gloPrefix+"k") || "recyclage".startsWith(@gloPrefix+"k") || "referendum".startsWith(@gloPrefix+"k") || "region".startsWith(@gloPrefix+"k") || "religion".startsWith(@gloPrefix+"k") || "republique".startsWith(@gloPrefix+"k") || "reseaux sociaux".startsWith(@gloPrefix+"k") || "resistance".startsWith(@gloPrefix+"k") || "respect".startsWith(@gloPrefix+"k") || "revolution francaise".startsWith(@gloPrefix+"k") || "salaire".startsWith(@gloPrefix+"k") || "salaire brut".startsWith(@gloPrefix+"k") || "salaire net".startsWith(@gloPrefix+"k") || "salarie".startsWith(@gloPrefix+"k") || "samu".startsWith(@gloPrefix+"k") || "seconde guerre mondiale".startsWith(@gloPrefix+"k") || "secours".startsWith(@gloPrefix+"k") || "securite routiere".startsWith(@gloPrefix+"k") || "seine".startsWith(@gloPrefix+"k") || "senat".startsWith(@gloPrefix+"k") || "senateur".startsWith(@gloPrefix+"k") || "separation des pouvoirs".startsWith(@gloPrefix+"k") || "service public".startsWith(@gloPrefix+"k") || "shoah".startsWith(@gloPrefix+"k") || "smic".startsWith(@gloPrefix+"k") || "souverainete nationale".startsWith(@gloPrefix+"k") || "suffrage universel".startsWith(@gloPrefix+"k") || "surete".startsWith(@gloPrefix+"k") || "titre de sejour".startsWith(@gloPrefix+"k") || "tour eiffel".startsWith(@gloPrefix+"k") || "traite de maastricht".startsWith(@gloPrefix+"k") || "traite des etres humains".startsWith(@gloPrefix+"k") || "travail dissimule".startsWith(@gloPrefix+"k") || "tri des dechets".startsWith(@gloPrefix+"k") || "unesco".startsWith(@gloPrefix+"k") || "union europeenne".startsWith(@gloPrefix+"k") || "urgence".startsWith(@gloPrefix+"k") || "urgences".startsWith(@gloPrefix+"k") || "vercingetorix".startsWith(@gloPrefix+"k") || "violence".startsWith(@gloPrefix+"k") || "vote".startsWith(@gloPrefix+"k"))`
-`@gloNextL = calc("abolition".startsWith(@gloPrefix+"l") || "abstention".startsWith(@gloPrefix+"l") || "agents publics".startsWith(@gloPrefix+"l") || "alpes".startsWith(@gloPrefix+"l") || "amende".startsWith(@gloPrefix+"l") || "apl".startsWith(@gloPrefix+"l") || "armistice".startsWith(@gloPrefix+"l") || "assemblee nationale".startsWith(@gloPrefix+"l") || "assistance a personne en danger".startsWith(@gloPrefix+"l") || "assurance maladie".startsWith(@gloPrefix+"l") || "autorite parentale".startsWith(@gloPrefix+"l") || "avocat".startsWith(@gloPrefix+"l") || "bail".startsWith(@gloPrefix+"l") || "benevolat".startsWith(@gloPrefix+"l") || "bretagne".startsWith(@gloPrefix+"l") || "caf".startsWith(@gloPrefix+"l") || "carte de resident".startsWith(@gloPrefix+"l") || "carte vitale".startsWith(@gloPrefix+"l") || "cdd".startsWith(@gloPrefix+"l") || "cdi".startsWith(@gloPrefix+"l") || "ceca".startsWith(@gloPrefix+"l") || "celtes".startsWith(@gloPrefix+"l") || "charlemagne".startsWith(@gloPrefix+"l") || "charte de l'environnement".startsWith(@gloPrefix+"l") || "chateau de versailles".startsWith(@gloPrefix+"l") || "chef de l'etat".startsWith(@gloPrefix+"l") || "cinquieme republique".startsWith(@gloPrefix+"l") || "citoyen".startsWith(@gloPrefix+"l") || "citoyennete".startsWith(@gloPrefix+"l") || "clovis".startsWith(@gloPrefix+"l") || "collectivites territoriales".startsWith(@gloPrefix+"l") || "college".startsWith(@gloPrefix+"l") || "colonisation".startsWith(@gloPrefix+"l") || "commission europeenne".startsWith(@gloPrefix+"l") || "commune".startsWith(@gloPrefix+"l") || "conseil constitutionnel".startsWith(@gloPrefix+"l") || "conseil de l'union europeenne".startsWith(@gloPrefix+"l") || "conseil departemental".startsWith(@gloPrefix+"l") || "conseil europeen".startsWith(@gloPrefix+"l") || "conseil municipal".startsWith(@gloPrefix+"l") || "conseil regional".startsWith(@gloPrefix+"l") || "consentement".startsWith(@gloPrefix+"l") || "constitution".startsWith(@gloPrefix+"l") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"l") || "contrat de travail".startsWith(@gloPrefix+"l") || "contravention".startsWith(@gloPrefix+"l") || "cotisations sociales".startsWith(@gloPrefix+"l") || "cour d'assises".startsWith(@gloPrefix+"l") || "cpam".startsWith(@gloPrefix+"l") || "crime".startsWith(@gloPrefix+"l") || "decheterie".startsWith(@gloPrefix+"l") || "dechets".startsWith(@gloPrefix+"l") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"l") || "delit".startsWith(@gloPrefix+"l") || "democratie".startsWith(@gloPrefix+"l") || "departement".startsWith(@gloPrefix+"l") || "depute".startsWith(@gloPrefix+"l") || "depute europeen".startsWith(@gloPrefix+"l") || "devise de la republique".startsWith(@gloPrefix+"l") || "devoir".startsWith(@gloPrefix+"l") || "dignite humaine".startsWith(@gloPrefix+"l") || "discrimination".startsWith(@gloPrefix+"l") || "divorce".startsWith(@gloPrefix+"l") || "drapeau francais".startsWith(@gloPrefix+"l") || "droits civiques".startsWith(@gloPrefix+"l") || "droits fondamentaux".startsWith(@gloPrefix+"l") || "drom".startsWith(@gloPrefix+"l") || "ecole".startsWith(@gloPrefix+"l") || "egalite".startsWith(@gloPrefix+"l") || "election".startsWith(@gloPrefix+"l") || "elections europeennes".startsWith(@gloPrefix+"l") || "elections municipales".startsWith(@gloPrefix+"l") || "eligibilite".startsWith(@gloPrefix+"l") || "employeur".startsWith(@gloPrefix+"l") || "entreprise".startsWith(@gloPrefix+"l") || "environnement".startsWith(@gloPrefix+"l") || "esclavage".startsWith(@gloPrefix+"l") || "espace schengen".startsWith(@gloPrefix+"l") || "etat".startsWith(@gloPrefix+"l") || "etat civil".startsWith(@gloPrefix+"l") || "euro".startsWith(@gloPrefix+"l") || "fete de la musique".startsWith(@gloPrefix+"l") || "fete nationale".startsWith(@gloPrefix+"l") || "fleuve".startsWith(@gloPrefix+"l") || "france metropolitaine".startsWith(@gloPrefix+"l") || "france services".startsWith(@gloPrefix+"l") || "france travail".startsWith(@gloPrefix+"l") || "francophonie".startsWith(@gloPrefix+"l") || "fraternite".startsWith(@gloPrefix+"l") || "gastronomie francaise".startsWith(@gloPrefix+"l") || "gaule".startsWith(@gloPrefix+"l") || "gendarmerie".startsWith(@gloPrefix+"l") || "genocide".startsWith(@gloPrefix+"l") || "gouvernement".startsWith(@gloPrefix+"l") || "greve".startsWith(@gloPrefix+"l") || "guadeloupe".startsWith(@gloPrefix+"l") || "guyane".startsWith(@gloPrefix+"l") || "handicap".startsWith(@gloPrefix+"l") || "harcelement".startsWith(@gloPrefix+"l") || "harcelement scolaire".startsWith(@gloPrefix+"l") || "hopital".startsWith(@gloPrefix+"l") || "ile-de-france".startsWith(@gloPrefix+"l") || "impot".startsWith(@gloPrefix+"l") || "impressionnisme".startsWith(@gloPrefix+"l") || "infraction".startsWith(@gloPrefix+"l") || "instruction obligatoire".startsWith(@gloPrefix+"l") || "integrite de la personne".startsWith(@gloPrefix+"l") || "interet general".startsWith(@gloPrefix+"l") || "ivg".startsWith(@gloPrefix+"l") || "journee de l'europe".startsWith(@gloPrefix+"l") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"l") || "juge".startsWith(@gloPrefix+"l") || "jure".startsWith(@gloPrefix+"l") || "justice".startsWith(@gloPrefix+"l") || "la marseillaise".startsWith(@gloPrefix+"l") || "la reunion".startsWith(@gloPrefix+"l") || "laicite".startsWith(@gloPrefix+"l") || "langue de la republique".startsWith(@gloPrefix+"l") || "liberte".startsWith(@gloPrefix+"l") || "liberte de conscience".startsWith(@gloPrefix+"l") || "listes electorales".startsWith(@gloPrefix+"l") || "litterature".startsWith(@gloPrefix+"l") || "locataire".startsWith(@gloPrefix+"l") || "loi".startsWith(@gloPrefix+"l") || "lycee".startsWith(@gloPrefix+"l") || "maire".startsWith(@gloPrefix+"l") || "mairie".startsWith(@gloPrefix+"l") || "majorite".startsWith(@gloPrefix+"l") || "mandat".startsWith(@gloPrefix+"l") || "marianne".startsWith(@gloPrefix+"l") || "martinique".startsWith(@gloPrefix+"l") || "mayotte".startsWith(@gloPrefix+"l") || "medecin traitant".startsWith(@gloPrefix+"l") || "mediterranee".startsWith(@gloPrefix+"l") || "ministre".startsWith(@gloPrefix+"l") || "monarchie".startsWith(@gloPrefix+"l") || "mont-saint-michel".startsWith(@gloPrefix+"l") || "musee du louvre".startsWith(@gloPrefix+"l") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"l") || "mutuelle".startsWith(@gloPrefix+"l") || "naissance".startsWith(@gloPrefix+"l") || "naturalisation".startsWith(@gloPrefix+"l") || "neutralite".startsWith(@gloPrefix+"l") || "opinion".startsWith(@gloPrefix+"l") || "ordre public".startsWith(@gloPrefix+"l") || "outre-mer".startsWith(@gloPrefix+"l") || "parlement".startsWith(@gloPrefix+"l") || "parlement europeen".startsWith(@gloPrefix+"l") || "parti politique".startsWith(@gloPrefix+"l") || "patrimoine".startsWith(@gloPrefix+"l") || "peine de mort".startsWith(@gloPrefix+"l") || "plainte".startsWith(@gloPrefix+"l") || "police".startsWith(@gloPrefix+"l") || "polygamie".startsWith(@gloPrefix+"l") || "pouvoir executif".startsWith(@gloPrefix+"l") || "pouvoir judiciaire".startsWith(@gloPrefix+"l") || "pouvoir legislatif".startsWith(@gloPrefix+"l") || "prefecture".startsWith(@gloPrefix+"l") || "prefet".startsWith(@gloPrefix+"l") || "premier ministre".startsWith(@gloPrefix+"l") || "premiere guerre mondiale".startsWith(@gloPrefix+"l") || "president de la republique".startsWith(@gloPrefix+"l") || "presomption d'innocence".startsWith(@gloPrefix+"l") || "prevention".startsWith(@gloPrefix+"l") || "procuration".startsWith(@gloPrefix+"l") || "proprietaire".startsWith(@gloPrefix+"l") || "prostitution".startsWith(@gloPrefix+"l") || "protection sociale".startsWith(@gloPrefix+"l") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"l") || "pyrenees".startsWith(@gloPrefix+"l") || "quinquennat".startsWith(@gloPrefix+"l") || "recyclage".startsWith(@gloPrefix+"l") || "referendum".startsWith(@gloPrefix+"l") || "region".startsWith(@gloPrefix+"l") || "religion".startsWith(@gloPrefix+"l") || "republique".startsWith(@gloPrefix+"l") || "reseaux sociaux".startsWith(@gloPrefix+"l") || "resistance".startsWith(@gloPrefix+"l") || "respect".startsWith(@gloPrefix+"l") || "revolution francaise".startsWith(@gloPrefix+"l") || "salaire".startsWith(@gloPrefix+"l") || "salaire brut".startsWith(@gloPrefix+"l") || "salaire net".startsWith(@gloPrefix+"l") || "salarie".startsWith(@gloPrefix+"l") || "samu".startsWith(@gloPrefix+"l") || "seconde guerre mondiale".startsWith(@gloPrefix+"l") || "secours".startsWith(@gloPrefix+"l") || "securite routiere".startsWith(@gloPrefix+"l") || "seine".startsWith(@gloPrefix+"l") || "senat".startsWith(@gloPrefix+"l") || "senateur".startsWith(@gloPrefix+"l") || "separation des pouvoirs".startsWith(@gloPrefix+"l") || "service public".startsWith(@gloPrefix+"l") || "shoah".startsWith(@gloPrefix+"l") || "smic".startsWith(@gloPrefix+"l") || "souverainete nationale".startsWith(@gloPrefix+"l") || "suffrage universel".startsWith(@gloPrefix+"l") || "surete".startsWith(@gloPrefix+"l") || "titre de sejour".startsWith(@gloPrefix+"l") || "tour eiffel".startsWith(@gloPrefix+"l") || "traite de maastricht".startsWith(@gloPrefix+"l") || "traite des etres humains".startsWith(@gloPrefix+"l") || "travail dissimule".startsWith(@gloPrefix+"l") || "tri des dechets".startsWith(@gloPrefix+"l") || "unesco".startsWith(@gloPrefix+"l") || "union europeenne".startsWith(@gloPrefix+"l") || "urgence".startsWith(@gloPrefix+"l") || "urgences".startsWith(@gloPrefix+"l") || "vercingetorix".startsWith(@gloPrefix+"l") || "violence".startsWith(@gloPrefix+"l") || "vote".startsWith(@gloPrefix+"l"))`
-`@gloNextM = calc("abolition".startsWith(@gloPrefix+"m") || "abstention".startsWith(@gloPrefix+"m") || "agents publics".startsWith(@gloPrefix+"m") || "alpes".startsWith(@gloPrefix+"m") || "amende".startsWith(@gloPrefix+"m") || "apl".startsWith(@gloPrefix+"m") || "armistice".startsWith(@gloPrefix+"m") || "assemblee nationale".startsWith(@gloPrefix+"m") || "assistance a personne en danger".startsWith(@gloPrefix+"m") || "assurance maladie".startsWith(@gloPrefix+"m") || "autorite parentale".startsWith(@gloPrefix+"m") || "avocat".startsWith(@gloPrefix+"m") || "bail".startsWith(@gloPrefix+"m") || "benevolat".startsWith(@gloPrefix+"m") || "bretagne".startsWith(@gloPrefix+"m") || "caf".startsWith(@gloPrefix+"m") || "carte de resident".startsWith(@gloPrefix+"m") || "carte vitale".startsWith(@gloPrefix+"m") || "cdd".startsWith(@gloPrefix+"m") || "cdi".startsWith(@gloPrefix+"m") || "ceca".startsWith(@gloPrefix+"m") || "celtes".startsWith(@gloPrefix+"m") || "charlemagne".startsWith(@gloPrefix+"m") || "charte de l'environnement".startsWith(@gloPrefix+"m") || "chateau de versailles".startsWith(@gloPrefix+"m") || "chef de l'etat".startsWith(@gloPrefix+"m") || "cinquieme republique".startsWith(@gloPrefix+"m") || "citoyen".startsWith(@gloPrefix+"m") || "citoyennete".startsWith(@gloPrefix+"m") || "clovis".startsWith(@gloPrefix+"m") || "collectivites territoriales".startsWith(@gloPrefix+"m") || "college".startsWith(@gloPrefix+"m") || "colonisation".startsWith(@gloPrefix+"m") || "commission europeenne".startsWith(@gloPrefix+"m") || "commune".startsWith(@gloPrefix+"m") || "conseil constitutionnel".startsWith(@gloPrefix+"m") || "conseil de l'union europeenne".startsWith(@gloPrefix+"m") || "conseil departemental".startsWith(@gloPrefix+"m") || "conseil europeen".startsWith(@gloPrefix+"m") || "conseil municipal".startsWith(@gloPrefix+"m") || "conseil regional".startsWith(@gloPrefix+"m") || "consentement".startsWith(@gloPrefix+"m") || "constitution".startsWith(@gloPrefix+"m") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"m") || "contrat de travail".startsWith(@gloPrefix+"m") || "contravention".startsWith(@gloPrefix+"m") || "cotisations sociales".startsWith(@gloPrefix+"m") || "cour d'assises".startsWith(@gloPrefix+"m") || "cpam".startsWith(@gloPrefix+"m") || "crime".startsWith(@gloPrefix+"m") || "decheterie".startsWith(@gloPrefix+"m") || "dechets".startsWith(@gloPrefix+"m") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"m") || "delit".startsWith(@gloPrefix+"m") || "democratie".startsWith(@gloPrefix+"m") || "departement".startsWith(@gloPrefix+"m") || "depute".startsWith(@gloPrefix+"m") || "depute europeen".startsWith(@gloPrefix+"m") || "devise de la republique".startsWith(@gloPrefix+"m") || "devoir".startsWith(@gloPrefix+"m") || "dignite humaine".startsWith(@gloPrefix+"m") || "discrimination".startsWith(@gloPrefix+"m") || "divorce".startsWith(@gloPrefix+"m") || "drapeau francais".startsWith(@gloPrefix+"m") || "droits civiques".startsWith(@gloPrefix+"m") || "droits fondamentaux".startsWith(@gloPrefix+"m") || "drom".startsWith(@gloPrefix+"m") || "ecole".startsWith(@gloPrefix+"m") || "egalite".startsWith(@gloPrefix+"m") || "election".startsWith(@gloPrefix+"m") || "elections europeennes".startsWith(@gloPrefix+"m") || "elections municipales".startsWith(@gloPrefix+"m") || "eligibilite".startsWith(@gloPrefix+"m") || "employeur".startsWith(@gloPrefix+"m") || "entreprise".startsWith(@gloPrefix+"m") || "environnement".startsWith(@gloPrefix+"m") || "esclavage".startsWith(@gloPrefix+"m") || "espace schengen".startsWith(@gloPrefix+"m") || "etat".startsWith(@gloPrefix+"m") || "etat civil".startsWith(@gloPrefix+"m") || "euro".startsWith(@gloPrefix+"m") || "fete de la musique".startsWith(@gloPrefix+"m") || "fete nationale".startsWith(@gloPrefix+"m") || "fleuve".startsWith(@gloPrefix+"m") || "france metropolitaine".startsWith(@gloPrefix+"m") || "france services".startsWith(@gloPrefix+"m") || "france travail".startsWith(@gloPrefix+"m") || "francophonie".startsWith(@gloPrefix+"m") || "fraternite".startsWith(@gloPrefix+"m") || "gastronomie francaise".startsWith(@gloPrefix+"m") || "gaule".startsWith(@gloPrefix+"m") || "gendarmerie".startsWith(@gloPrefix+"m") || "genocide".startsWith(@gloPrefix+"m") || "gouvernement".startsWith(@gloPrefix+"m") || "greve".startsWith(@gloPrefix+"m") || "guadeloupe".startsWith(@gloPrefix+"m") || "guyane".startsWith(@gloPrefix+"m") || "handicap".startsWith(@gloPrefix+"m") || "harcelement".startsWith(@gloPrefix+"m") || "harcelement scolaire".startsWith(@gloPrefix+"m") || "hopital".startsWith(@gloPrefix+"m") || "ile-de-france".startsWith(@gloPrefix+"m") || "impot".startsWith(@gloPrefix+"m") || "impressionnisme".startsWith(@gloPrefix+"m") || "infraction".startsWith(@gloPrefix+"m") || "instruction obligatoire".startsWith(@gloPrefix+"m") || "integrite de la personne".startsWith(@gloPrefix+"m") || "interet general".startsWith(@gloPrefix+"m") || "ivg".startsWith(@gloPrefix+"m") || "journee de l'europe".startsWith(@gloPrefix+"m") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"m") || "juge".startsWith(@gloPrefix+"m") || "jure".startsWith(@gloPrefix+"m") || "justice".startsWith(@gloPrefix+"m") || "la marseillaise".startsWith(@gloPrefix+"m") || "la reunion".startsWith(@gloPrefix+"m") || "laicite".startsWith(@gloPrefix+"m") || "langue de la republique".startsWith(@gloPrefix+"m") || "liberte".startsWith(@gloPrefix+"m") || "liberte de conscience".startsWith(@gloPrefix+"m") || "listes electorales".startsWith(@gloPrefix+"m") || "litterature".startsWith(@gloPrefix+"m") || "locataire".startsWith(@gloPrefix+"m") || "loi".startsWith(@gloPrefix+"m") || "lycee".startsWith(@gloPrefix+"m") || "maire".startsWith(@gloPrefix+"m") || "mairie".startsWith(@gloPrefix+"m") || "majorite".startsWith(@gloPrefix+"m") || "mandat".startsWith(@gloPrefix+"m") || "marianne".startsWith(@gloPrefix+"m") || "martinique".startsWith(@gloPrefix+"m") || "mayotte".startsWith(@gloPrefix+"m") || "medecin traitant".startsWith(@gloPrefix+"m") || "mediterranee".startsWith(@gloPrefix+"m") || "ministre".startsWith(@gloPrefix+"m") || "monarchie".startsWith(@gloPrefix+"m") || "mont-saint-michel".startsWith(@gloPrefix+"m") || "musee du louvre".startsWith(@gloPrefix+"m") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"m") || "mutuelle".startsWith(@gloPrefix+"m") || "naissance".startsWith(@gloPrefix+"m") || "naturalisation".startsWith(@gloPrefix+"m") || "neutralite".startsWith(@gloPrefix+"m") || "opinion".startsWith(@gloPrefix+"m") || "ordre public".startsWith(@gloPrefix+"m") || "outre-mer".startsWith(@gloPrefix+"m") || "parlement".startsWith(@gloPrefix+"m") || "parlement europeen".startsWith(@gloPrefix+"m") || "parti politique".startsWith(@gloPrefix+"m") || "patrimoine".startsWith(@gloPrefix+"m") || "peine de mort".startsWith(@gloPrefix+"m") || "plainte".startsWith(@gloPrefix+"m") || "police".startsWith(@gloPrefix+"m") || "polygamie".startsWith(@gloPrefix+"m") || "pouvoir executif".startsWith(@gloPrefix+"m") || "pouvoir judiciaire".startsWith(@gloPrefix+"m") || "pouvoir legislatif".startsWith(@gloPrefix+"m") || "prefecture".startsWith(@gloPrefix+"m") || "prefet".startsWith(@gloPrefix+"m") || "premier ministre".startsWith(@gloPrefix+"m") || "premiere guerre mondiale".startsWith(@gloPrefix+"m") || "president de la republique".startsWith(@gloPrefix+"m") || "presomption d'innocence".startsWith(@gloPrefix+"m") || "prevention".startsWith(@gloPrefix+"m") || "procuration".startsWith(@gloPrefix+"m") || "proprietaire".startsWith(@gloPrefix+"m") || "prostitution".startsWith(@gloPrefix+"m") || "protection sociale".startsWith(@gloPrefix+"m") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"m") || "pyrenees".startsWith(@gloPrefix+"m") || "quinquennat".startsWith(@gloPrefix+"m") || "recyclage".startsWith(@gloPrefix+"m") || "referendum".startsWith(@gloPrefix+"m") || "region".startsWith(@gloPrefix+"m") || "religion".startsWith(@gloPrefix+"m") || "republique".startsWith(@gloPrefix+"m") || "reseaux sociaux".startsWith(@gloPrefix+"m") || "resistance".startsWith(@gloPrefix+"m") || "respect".startsWith(@gloPrefix+"m") || "revolution francaise".startsWith(@gloPrefix+"m") || "salaire".startsWith(@gloPrefix+"m") || "salaire brut".startsWith(@gloPrefix+"m") || "salaire net".startsWith(@gloPrefix+"m") || "salarie".startsWith(@gloPrefix+"m") || "samu".startsWith(@gloPrefix+"m") || "seconde guerre mondiale".startsWith(@gloPrefix+"m") || "secours".startsWith(@gloPrefix+"m") || "securite routiere".startsWith(@gloPrefix+"m") || "seine".startsWith(@gloPrefix+"m") || "senat".startsWith(@gloPrefix+"m") || "senateur".startsWith(@gloPrefix+"m") || "separation des pouvoirs".startsWith(@gloPrefix+"m") || "service public".startsWith(@gloPrefix+"m") || "shoah".startsWith(@gloPrefix+"m") || "smic".startsWith(@gloPrefix+"m") || "souverainete nationale".startsWith(@gloPrefix+"m") || "suffrage universel".startsWith(@gloPrefix+"m") || "surete".startsWith(@gloPrefix+"m") || "titre de sejour".startsWith(@gloPrefix+"m") || "tour eiffel".startsWith(@gloPrefix+"m") || "traite de maastricht".startsWith(@gloPrefix+"m") || "traite des etres humains".startsWith(@gloPrefix+"m") || "travail dissimule".startsWith(@gloPrefix+"m") || "tri des dechets".startsWith(@gloPrefix+"m") || "unesco".startsWith(@gloPrefix+"m") || "union europeenne".startsWith(@gloPrefix+"m") || "urgence".startsWith(@gloPrefix+"m") || "urgences".startsWith(@gloPrefix+"m") || "vercingetorix".startsWith(@gloPrefix+"m") || "violence".startsWith(@gloPrefix+"m") || "vote".startsWith(@gloPrefix+"m"))`
-`@gloNextN = calc("abolition".startsWith(@gloPrefix+"n") || "abstention".startsWith(@gloPrefix+"n") || "agents publics".startsWith(@gloPrefix+"n") || "alpes".startsWith(@gloPrefix+"n") || "amende".startsWith(@gloPrefix+"n") || "apl".startsWith(@gloPrefix+"n") || "armistice".startsWith(@gloPrefix+"n") || "assemblee nationale".startsWith(@gloPrefix+"n") || "assistance a personne en danger".startsWith(@gloPrefix+"n") || "assurance maladie".startsWith(@gloPrefix+"n") || "autorite parentale".startsWith(@gloPrefix+"n") || "avocat".startsWith(@gloPrefix+"n") || "bail".startsWith(@gloPrefix+"n") || "benevolat".startsWith(@gloPrefix+"n") || "bretagne".startsWith(@gloPrefix+"n") || "caf".startsWith(@gloPrefix+"n") || "carte de resident".startsWith(@gloPrefix+"n") || "carte vitale".startsWith(@gloPrefix+"n") || "cdd".startsWith(@gloPrefix+"n") || "cdi".startsWith(@gloPrefix+"n") || "ceca".startsWith(@gloPrefix+"n") || "celtes".startsWith(@gloPrefix+"n") || "charlemagne".startsWith(@gloPrefix+"n") || "charte de l'environnement".startsWith(@gloPrefix+"n") || "chateau de versailles".startsWith(@gloPrefix+"n") || "chef de l'etat".startsWith(@gloPrefix+"n") || "cinquieme republique".startsWith(@gloPrefix+"n") || "citoyen".startsWith(@gloPrefix+"n") || "citoyennete".startsWith(@gloPrefix+"n") || "clovis".startsWith(@gloPrefix+"n") || "collectivites territoriales".startsWith(@gloPrefix+"n") || "college".startsWith(@gloPrefix+"n") || "colonisation".startsWith(@gloPrefix+"n") || "commission europeenne".startsWith(@gloPrefix+"n") || "commune".startsWith(@gloPrefix+"n") || "conseil constitutionnel".startsWith(@gloPrefix+"n") || "conseil de l'union europeenne".startsWith(@gloPrefix+"n") || "conseil departemental".startsWith(@gloPrefix+"n") || "conseil europeen".startsWith(@gloPrefix+"n") || "conseil municipal".startsWith(@gloPrefix+"n") || "conseil regional".startsWith(@gloPrefix+"n") || "consentement".startsWith(@gloPrefix+"n") || "constitution".startsWith(@gloPrefix+"n") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"n") || "contrat de travail".startsWith(@gloPrefix+"n") || "contravention".startsWith(@gloPrefix+"n") || "cotisations sociales".startsWith(@gloPrefix+"n") || "cour d'assises".startsWith(@gloPrefix+"n") || "cpam".startsWith(@gloPrefix+"n") || "crime".startsWith(@gloPrefix+"n") || "decheterie".startsWith(@gloPrefix+"n") || "dechets".startsWith(@gloPrefix+"n") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"n") || "delit".startsWith(@gloPrefix+"n") || "democratie".startsWith(@gloPrefix+"n") || "departement".startsWith(@gloPrefix+"n") || "depute".startsWith(@gloPrefix+"n") || "depute europeen".startsWith(@gloPrefix+"n") || "devise de la republique".startsWith(@gloPrefix+"n") || "devoir".startsWith(@gloPrefix+"n") || "dignite humaine".startsWith(@gloPrefix+"n") || "discrimination".startsWith(@gloPrefix+"n") || "divorce".startsWith(@gloPrefix+"n") || "drapeau francais".startsWith(@gloPrefix+"n") || "droits civiques".startsWith(@gloPrefix+"n") || "droits fondamentaux".startsWith(@gloPrefix+"n") || "drom".startsWith(@gloPrefix+"n") || "ecole".startsWith(@gloPrefix+"n") || "egalite".startsWith(@gloPrefix+"n") || "election".startsWith(@gloPrefix+"n") || "elections europeennes".startsWith(@gloPrefix+"n") || "elections municipales".startsWith(@gloPrefix+"n") || "eligibilite".startsWith(@gloPrefix+"n") || "employeur".startsWith(@gloPrefix+"n") || "entreprise".startsWith(@gloPrefix+"n") || "environnement".startsWith(@gloPrefix+"n") || "esclavage".startsWith(@gloPrefix+"n") || "espace schengen".startsWith(@gloPrefix+"n") || "etat".startsWith(@gloPrefix+"n") || "etat civil".startsWith(@gloPrefix+"n") || "euro".startsWith(@gloPrefix+"n") || "fete de la musique".startsWith(@gloPrefix+"n") || "fete nationale".startsWith(@gloPrefix+"n") || "fleuve".startsWith(@gloPrefix+"n") || "france metropolitaine".startsWith(@gloPrefix+"n") || "france services".startsWith(@gloPrefix+"n") || "france travail".startsWith(@gloPrefix+"n") || "francophonie".startsWith(@gloPrefix+"n") || "fraternite".startsWith(@gloPrefix+"n") || "gastronomie francaise".startsWith(@gloPrefix+"n") || "gaule".startsWith(@gloPrefix+"n") || "gendarmerie".startsWith(@gloPrefix+"n") || "genocide".startsWith(@gloPrefix+"n") || "gouvernement".startsWith(@gloPrefix+"n") || "greve".startsWith(@gloPrefix+"n") || "guadeloupe".startsWith(@gloPrefix+"n") || "guyane".startsWith(@gloPrefix+"n") || "handicap".startsWith(@gloPrefix+"n") || "harcelement".startsWith(@gloPrefix+"n") || "harcelement scolaire".startsWith(@gloPrefix+"n") || "hopital".startsWith(@gloPrefix+"n") || "ile-de-france".startsWith(@gloPrefix+"n") || "impot".startsWith(@gloPrefix+"n") || "impressionnisme".startsWith(@gloPrefix+"n") || "infraction".startsWith(@gloPrefix+"n") || "instruction obligatoire".startsWith(@gloPrefix+"n") || "integrite de la personne".startsWith(@gloPrefix+"n") || "interet general".startsWith(@gloPrefix+"n") || "ivg".startsWith(@gloPrefix+"n") || "journee de l'europe".startsWith(@gloPrefix+"n") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"n") || "juge".startsWith(@gloPrefix+"n") || "jure".startsWith(@gloPrefix+"n") || "justice".startsWith(@gloPrefix+"n") || "la marseillaise".startsWith(@gloPrefix+"n") || "la reunion".startsWith(@gloPrefix+"n") || "laicite".startsWith(@gloPrefix+"n") || "langue de la republique".startsWith(@gloPrefix+"n") || "liberte".startsWith(@gloPrefix+"n") || "liberte de conscience".startsWith(@gloPrefix+"n") || "listes electorales".startsWith(@gloPrefix+"n") || "litterature".startsWith(@gloPrefix+"n") || "locataire".startsWith(@gloPrefix+"n") || "loi".startsWith(@gloPrefix+"n") || "lycee".startsWith(@gloPrefix+"n") || "maire".startsWith(@gloPrefix+"n") || "mairie".startsWith(@gloPrefix+"n") || "majorite".startsWith(@gloPrefix+"n") || "mandat".startsWith(@gloPrefix+"n") || "marianne".startsWith(@gloPrefix+"n") || "martinique".startsWith(@gloPrefix+"n") || "mayotte".startsWith(@gloPrefix+"n") || "medecin traitant".startsWith(@gloPrefix+"n") || "mediterranee".startsWith(@gloPrefix+"n") || "ministre".startsWith(@gloPrefix+"n") || "monarchie".startsWith(@gloPrefix+"n") || "mont-saint-michel".startsWith(@gloPrefix+"n") || "musee du louvre".startsWith(@gloPrefix+"n") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"n") || "mutuelle".startsWith(@gloPrefix+"n") || "naissance".startsWith(@gloPrefix+"n") || "naturalisation".startsWith(@gloPrefix+"n") || "neutralite".startsWith(@gloPrefix+"n") || "opinion".startsWith(@gloPrefix+"n") || "ordre public".startsWith(@gloPrefix+"n") || "outre-mer".startsWith(@gloPrefix+"n") || "parlement".startsWith(@gloPrefix+"n") || "parlement europeen".startsWith(@gloPrefix+"n") || "parti politique".startsWith(@gloPrefix+"n") || "patrimoine".startsWith(@gloPrefix+"n") || "peine de mort".startsWith(@gloPrefix+"n") || "plainte".startsWith(@gloPrefix+"n") || "police".startsWith(@gloPrefix+"n") || "polygamie".startsWith(@gloPrefix+"n") || "pouvoir executif".startsWith(@gloPrefix+"n") || "pouvoir judiciaire".startsWith(@gloPrefix+"n") || "pouvoir legislatif".startsWith(@gloPrefix+"n") || "prefecture".startsWith(@gloPrefix+"n") || "prefet".startsWith(@gloPrefix+"n") || "premier ministre".startsWith(@gloPrefix+"n") || "premiere guerre mondiale".startsWith(@gloPrefix+"n") || "president de la republique".startsWith(@gloPrefix+"n") || "presomption d'innocence".startsWith(@gloPrefix+"n") || "prevention".startsWith(@gloPrefix+"n") || "procuration".startsWith(@gloPrefix+"n") || "proprietaire".startsWith(@gloPrefix+"n") || "prostitution".startsWith(@gloPrefix+"n") || "protection sociale".startsWith(@gloPrefix+"n") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"n") || "pyrenees".startsWith(@gloPrefix+"n") || "quinquennat".startsWith(@gloPrefix+"n") || "recyclage".startsWith(@gloPrefix+"n") || "referendum".startsWith(@gloPrefix+"n") || "region".startsWith(@gloPrefix+"n") || "religion".startsWith(@gloPrefix+"n") || "republique".startsWith(@gloPrefix+"n") || "reseaux sociaux".startsWith(@gloPrefix+"n") || "resistance".startsWith(@gloPrefix+"n") || "respect".startsWith(@gloPrefix+"n") || "revolution francaise".startsWith(@gloPrefix+"n") || "salaire".startsWith(@gloPrefix+"n") || "salaire brut".startsWith(@gloPrefix+"n") || "salaire net".startsWith(@gloPrefix+"n") || "salarie".startsWith(@gloPrefix+"n") || "samu".startsWith(@gloPrefix+"n") || "seconde guerre mondiale".startsWith(@gloPrefix+"n") || "secours".startsWith(@gloPrefix+"n") || "securite routiere".startsWith(@gloPrefix+"n") || "seine".startsWith(@gloPrefix+"n") || "senat".startsWith(@gloPrefix+"n") || "senateur".startsWith(@gloPrefix+"n") || "separation des pouvoirs".startsWith(@gloPrefix+"n") || "service public".startsWith(@gloPrefix+"n") || "shoah".startsWith(@gloPrefix+"n") || "smic".startsWith(@gloPrefix+"n") || "souverainete nationale".startsWith(@gloPrefix+"n") || "suffrage universel".startsWith(@gloPrefix+"n") || "surete".startsWith(@gloPrefix+"n") || "titre de sejour".startsWith(@gloPrefix+"n") || "tour eiffel".startsWith(@gloPrefix+"n") || "traite de maastricht".startsWith(@gloPrefix+"n") || "traite des etres humains".startsWith(@gloPrefix+"n") || "travail dissimule".startsWith(@gloPrefix+"n") || "tri des dechets".startsWith(@gloPrefix+"n") || "unesco".startsWith(@gloPrefix+"n") || "union europeenne".startsWith(@gloPrefix+"n") || "urgence".startsWith(@gloPrefix+"n") || "urgences".startsWith(@gloPrefix+"n") || "vercingetorix".startsWith(@gloPrefix+"n") || "violence".startsWith(@gloPrefix+"n") || "vote".startsWith(@gloPrefix+"n"))`
-`@gloNextO = calc("abolition".startsWith(@gloPrefix+"o") || "abstention".startsWith(@gloPrefix+"o") || "agents publics".startsWith(@gloPrefix+"o") || "alpes".startsWith(@gloPrefix+"o") || "amende".startsWith(@gloPrefix+"o") || "apl".startsWith(@gloPrefix+"o") || "armistice".startsWith(@gloPrefix+"o") || "assemblee nationale".startsWith(@gloPrefix+"o") || "assistance a personne en danger".startsWith(@gloPrefix+"o") || "assurance maladie".startsWith(@gloPrefix+"o") || "autorite parentale".startsWith(@gloPrefix+"o") || "avocat".startsWith(@gloPrefix+"o") || "bail".startsWith(@gloPrefix+"o") || "benevolat".startsWith(@gloPrefix+"o") || "bretagne".startsWith(@gloPrefix+"o") || "caf".startsWith(@gloPrefix+"o") || "carte de resident".startsWith(@gloPrefix+"o") || "carte vitale".startsWith(@gloPrefix+"o") || "cdd".startsWith(@gloPrefix+"o") || "cdi".startsWith(@gloPrefix+"o") || "ceca".startsWith(@gloPrefix+"o") || "celtes".startsWith(@gloPrefix+"o") || "charlemagne".startsWith(@gloPrefix+"o") || "charte de l'environnement".startsWith(@gloPrefix+"o") || "chateau de versailles".startsWith(@gloPrefix+"o") || "chef de l'etat".startsWith(@gloPrefix+"o") || "cinquieme republique".startsWith(@gloPrefix+"o") || "citoyen".startsWith(@gloPrefix+"o") || "citoyennete".startsWith(@gloPrefix+"o") || "clovis".startsWith(@gloPrefix+"o") || "collectivites territoriales".startsWith(@gloPrefix+"o") || "college".startsWith(@gloPrefix+"o") || "colonisation".startsWith(@gloPrefix+"o") || "commission europeenne".startsWith(@gloPrefix+"o") || "commune".startsWith(@gloPrefix+"o") || "conseil constitutionnel".startsWith(@gloPrefix+"o") || "conseil de l'union europeenne".startsWith(@gloPrefix+"o") || "conseil departemental".startsWith(@gloPrefix+"o") || "conseil europeen".startsWith(@gloPrefix+"o") || "conseil municipal".startsWith(@gloPrefix+"o") || "conseil regional".startsWith(@gloPrefix+"o") || "consentement".startsWith(@gloPrefix+"o") || "constitution".startsWith(@gloPrefix+"o") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"o") || "contrat de travail".startsWith(@gloPrefix+"o") || "contravention".startsWith(@gloPrefix+"o") || "cotisations sociales".startsWith(@gloPrefix+"o") || "cour d'assises".startsWith(@gloPrefix+"o") || "cpam".startsWith(@gloPrefix+"o") || "crime".startsWith(@gloPrefix+"o") || "decheterie".startsWith(@gloPrefix+"o") || "dechets".startsWith(@gloPrefix+"o") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"o") || "delit".startsWith(@gloPrefix+"o") || "democratie".startsWith(@gloPrefix+"o") || "departement".startsWith(@gloPrefix+"o") || "depute".startsWith(@gloPrefix+"o") || "depute europeen".startsWith(@gloPrefix+"o") || "devise de la republique".startsWith(@gloPrefix+"o") || "devoir".startsWith(@gloPrefix+"o") || "dignite humaine".startsWith(@gloPrefix+"o") || "discrimination".startsWith(@gloPrefix+"o") || "divorce".startsWith(@gloPrefix+"o") || "drapeau francais".startsWith(@gloPrefix+"o") || "droits civiques".startsWith(@gloPrefix+"o") || "droits fondamentaux".startsWith(@gloPrefix+"o") || "drom".startsWith(@gloPrefix+"o") || "ecole".startsWith(@gloPrefix+"o") || "egalite".startsWith(@gloPrefix+"o") || "election".startsWith(@gloPrefix+"o") || "elections europeennes".startsWith(@gloPrefix+"o") || "elections municipales".startsWith(@gloPrefix+"o") || "eligibilite".startsWith(@gloPrefix+"o") || "employeur".startsWith(@gloPrefix+"o") || "entreprise".startsWith(@gloPrefix+"o") || "environnement".startsWith(@gloPrefix+"o") || "esclavage".startsWith(@gloPrefix+"o") || "espace schengen".startsWith(@gloPrefix+"o") || "etat".startsWith(@gloPrefix+"o") || "etat civil".startsWith(@gloPrefix+"o") || "euro".startsWith(@gloPrefix+"o") || "fete de la musique".startsWith(@gloPrefix+"o") || "fete nationale".startsWith(@gloPrefix+"o") || "fleuve".startsWith(@gloPrefix+"o") || "france metropolitaine".startsWith(@gloPrefix+"o") || "france services".startsWith(@gloPrefix+"o") || "france travail".startsWith(@gloPrefix+"o") || "francophonie".startsWith(@gloPrefix+"o") || "fraternite".startsWith(@gloPrefix+"o") || "gastronomie francaise".startsWith(@gloPrefix+"o") || "gaule".startsWith(@gloPrefix+"o") || "gendarmerie".startsWith(@gloPrefix+"o") || "genocide".startsWith(@gloPrefix+"o") || "gouvernement".startsWith(@gloPrefix+"o") || "greve".startsWith(@gloPrefix+"o") || "guadeloupe".startsWith(@gloPrefix+"o") || "guyane".startsWith(@gloPrefix+"o") || "handicap".startsWith(@gloPrefix+"o") || "harcelement".startsWith(@gloPrefix+"o") || "harcelement scolaire".startsWith(@gloPrefix+"o") || "hopital".startsWith(@gloPrefix+"o") || "ile-de-france".startsWith(@gloPrefix+"o") || "impot".startsWith(@gloPrefix+"o") || "impressionnisme".startsWith(@gloPrefix+"o") || "infraction".startsWith(@gloPrefix+"o") || "instruction obligatoire".startsWith(@gloPrefix+"o") || "integrite de la personne".startsWith(@gloPrefix+"o") || "interet general".startsWith(@gloPrefix+"o") || "ivg".startsWith(@gloPrefix+"o") || "journee de l'europe".startsWith(@gloPrefix+"o") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"o") || "juge".startsWith(@gloPrefix+"o") || "jure".startsWith(@gloPrefix+"o") || "justice".startsWith(@gloPrefix+"o") || "la marseillaise".startsWith(@gloPrefix+"o") || "la reunion".startsWith(@gloPrefix+"o") || "laicite".startsWith(@gloPrefix+"o") || "langue de la republique".startsWith(@gloPrefix+"o") || "liberte".startsWith(@gloPrefix+"o") || "liberte de conscience".startsWith(@gloPrefix+"o") || "listes electorales".startsWith(@gloPrefix+"o") || "litterature".startsWith(@gloPrefix+"o") || "locataire".startsWith(@gloPrefix+"o") || "loi".startsWith(@gloPrefix+"o") || "lycee".startsWith(@gloPrefix+"o") || "maire".startsWith(@gloPrefix+"o") || "mairie".startsWith(@gloPrefix+"o") || "majorite".startsWith(@gloPrefix+"o") || "mandat".startsWith(@gloPrefix+"o") || "marianne".startsWith(@gloPrefix+"o") || "martinique".startsWith(@gloPrefix+"o") || "mayotte".startsWith(@gloPrefix+"o") || "medecin traitant".startsWith(@gloPrefix+"o") || "mediterranee".startsWith(@gloPrefix+"o") || "ministre".startsWith(@gloPrefix+"o") || "monarchie".startsWith(@gloPrefix+"o") || "mont-saint-michel".startsWith(@gloPrefix+"o") || "musee du louvre".startsWith(@gloPrefix+"o") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"o") || "mutuelle".startsWith(@gloPrefix+"o") || "naissance".startsWith(@gloPrefix+"o") || "naturalisation".startsWith(@gloPrefix+"o") || "neutralite".startsWith(@gloPrefix+"o") || "opinion".startsWith(@gloPrefix+"o") || "ordre public".startsWith(@gloPrefix+"o") || "outre-mer".startsWith(@gloPrefix+"o") || "parlement".startsWith(@gloPrefix+"o") || "parlement europeen".startsWith(@gloPrefix+"o") || "parti politique".startsWith(@gloPrefix+"o") || "patrimoine".startsWith(@gloPrefix+"o") || "peine de mort".startsWith(@gloPrefix+"o") || "plainte".startsWith(@gloPrefix+"o") || "police".startsWith(@gloPrefix+"o") || "polygamie".startsWith(@gloPrefix+"o") || "pouvoir executif".startsWith(@gloPrefix+"o") || "pouvoir judiciaire".startsWith(@gloPrefix+"o") || "pouvoir legislatif".startsWith(@gloPrefix+"o") || "prefecture".startsWith(@gloPrefix+"o") || "prefet".startsWith(@gloPrefix+"o") || "premier ministre".startsWith(@gloPrefix+"o") || "premiere guerre mondiale".startsWith(@gloPrefix+"o") || "president de la republique".startsWith(@gloPrefix+"o") || "presomption d'innocence".startsWith(@gloPrefix+"o") || "prevention".startsWith(@gloPrefix+"o") || "procuration".startsWith(@gloPrefix+"o") || "proprietaire".startsWith(@gloPrefix+"o") || "prostitution".startsWith(@gloPrefix+"o") || "protection sociale".startsWith(@gloPrefix+"o") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"o") || "pyrenees".startsWith(@gloPrefix+"o") || "quinquennat".startsWith(@gloPrefix+"o") || "recyclage".startsWith(@gloPrefix+"o") || "referendum".startsWith(@gloPrefix+"o") || "region".startsWith(@gloPrefix+"o") || "religion".startsWith(@gloPrefix+"o") || "republique".startsWith(@gloPrefix+"o") || "reseaux sociaux".startsWith(@gloPrefix+"o") || "resistance".startsWith(@gloPrefix+"o") || "respect".startsWith(@gloPrefix+"o") || "revolution francaise".startsWith(@gloPrefix+"o") || "salaire".startsWith(@gloPrefix+"o") || "salaire brut".startsWith(@gloPrefix+"o") || "salaire net".startsWith(@gloPrefix+"o") || "salarie".startsWith(@gloPrefix+"o") || "samu".startsWith(@gloPrefix+"o") || "seconde guerre mondiale".startsWith(@gloPrefix+"o") || "secours".startsWith(@gloPrefix+"o") || "securite routiere".startsWith(@gloPrefix+"o") || "seine".startsWith(@gloPrefix+"o") || "senat".startsWith(@gloPrefix+"o") || "senateur".startsWith(@gloPrefix+"o") || "separation des pouvoirs".startsWith(@gloPrefix+"o") || "service public".startsWith(@gloPrefix+"o") || "shoah".startsWith(@gloPrefix+"o") || "smic".startsWith(@gloPrefix+"o") || "souverainete nationale".startsWith(@gloPrefix+"o") || "suffrage universel".startsWith(@gloPrefix+"o") || "surete".startsWith(@gloPrefix+"o") || "titre de sejour".startsWith(@gloPrefix+"o") || "tour eiffel".startsWith(@gloPrefix+"o") || "traite de maastricht".startsWith(@gloPrefix+"o") || "traite des etres humains".startsWith(@gloPrefix+"o") || "travail dissimule".startsWith(@gloPrefix+"o") || "tri des dechets".startsWith(@gloPrefix+"o") || "unesco".startsWith(@gloPrefix+"o") || "union europeenne".startsWith(@gloPrefix+"o") || "urgence".startsWith(@gloPrefix+"o") || "urgences".startsWith(@gloPrefix+"o") || "vercingetorix".startsWith(@gloPrefix+"o") || "violence".startsWith(@gloPrefix+"o") || "vote".startsWith(@gloPrefix+"o"))`
-`@gloNextP = calc("abolition".startsWith(@gloPrefix+"p") || "abstention".startsWith(@gloPrefix+"p") || "agents publics".startsWith(@gloPrefix+"p") || "alpes".startsWith(@gloPrefix+"p") || "amende".startsWith(@gloPrefix+"p") || "apl".startsWith(@gloPrefix+"p") || "armistice".startsWith(@gloPrefix+"p") || "assemblee nationale".startsWith(@gloPrefix+"p") || "assistance a personne en danger".startsWith(@gloPrefix+"p") || "assurance maladie".startsWith(@gloPrefix+"p") || "autorite parentale".startsWith(@gloPrefix+"p") || "avocat".startsWith(@gloPrefix+"p") || "bail".startsWith(@gloPrefix+"p") || "benevolat".startsWith(@gloPrefix+"p") || "bretagne".startsWith(@gloPrefix+"p") || "caf".startsWith(@gloPrefix+"p") || "carte de resident".startsWith(@gloPrefix+"p") || "carte vitale".startsWith(@gloPrefix+"p") || "cdd".startsWith(@gloPrefix+"p") || "cdi".startsWith(@gloPrefix+"p") || "ceca".startsWith(@gloPrefix+"p") || "celtes".startsWith(@gloPrefix+"p") || "charlemagne".startsWith(@gloPrefix+"p") || "charte de l'environnement".startsWith(@gloPrefix+"p") || "chateau de versailles".startsWith(@gloPrefix+"p") || "chef de l'etat".startsWith(@gloPrefix+"p") || "cinquieme republique".startsWith(@gloPrefix+"p") || "citoyen".startsWith(@gloPrefix+"p") || "citoyennete".startsWith(@gloPrefix+"p") || "clovis".startsWith(@gloPrefix+"p") || "collectivites territoriales".startsWith(@gloPrefix+"p") || "college".startsWith(@gloPrefix+"p") || "colonisation".startsWith(@gloPrefix+"p") || "commission europeenne".startsWith(@gloPrefix+"p") || "commune".startsWith(@gloPrefix+"p") || "conseil constitutionnel".startsWith(@gloPrefix+"p") || "conseil de l'union europeenne".startsWith(@gloPrefix+"p") || "conseil departemental".startsWith(@gloPrefix+"p") || "conseil europeen".startsWith(@gloPrefix+"p") || "conseil municipal".startsWith(@gloPrefix+"p") || "conseil regional".startsWith(@gloPrefix+"p") || "consentement".startsWith(@gloPrefix+"p") || "constitution".startsWith(@gloPrefix+"p") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"p") || "contrat de travail".startsWith(@gloPrefix+"p") || "contravention".startsWith(@gloPrefix+"p") || "cotisations sociales".startsWith(@gloPrefix+"p") || "cour d'assises".startsWith(@gloPrefix+"p") || "cpam".startsWith(@gloPrefix+"p") || "crime".startsWith(@gloPrefix+"p") || "decheterie".startsWith(@gloPrefix+"p") || "dechets".startsWith(@gloPrefix+"p") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"p") || "delit".startsWith(@gloPrefix+"p") || "democratie".startsWith(@gloPrefix+"p") || "departement".startsWith(@gloPrefix+"p") || "depute".startsWith(@gloPrefix+"p") || "depute europeen".startsWith(@gloPrefix+"p") || "devise de la republique".startsWith(@gloPrefix+"p") || "devoir".startsWith(@gloPrefix+"p") || "dignite humaine".startsWith(@gloPrefix+"p") || "discrimination".startsWith(@gloPrefix+"p") || "divorce".startsWith(@gloPrefix+"p") || "drapeau francais".startsWith(@gloPrefix+"p") || "droits civiques".startsWith(@gloPrefix+"p") || "droits fondamentaux".startsWith(@gloPrefix+"p") || "drom".startsWith(@gloPrefix+"p") || "ecole".startsWith(@gloPrefix+"p") || "egalite".startsWith(@gloPrefix+"p") || "election".startsWith(@gloPrefix+"p") || "elections europeennes".startsWith(@gloPrefix+"p") || "elections municipales".startsWith(@gloPrefix+"p") || "eligibilite".startsWith(@gloPrefix+"p") || "employeur".startsWith(@gloPrefix+"p") || "entreprise".startsWith(@gloPrefix+"p") || "environnement".startsWith(@gloPrefix+"p") || "esclavage".startsWith(@gloPrefix+"p") || "espace schengen".startsWith(@gloPrefix+"p") || "etat".startsWith(@gloPrefix+"p") || "etat civil".startsWith(@gloPrefix+"p") || "euro".startsWith(@gloPrefix+"p") || "fete de la musique".startsWith(@gloPrefix+"p") || "fete nationale".startsWith(@gloPrefix+"p") || "fleuve".startsWith(@gloPrefix+"p") || "france metropolitaine".startsWith(@gloPrefix+"p") || "france services".startsWith(@gloPrefix+"p") || "france travail".startsWith(@gloPrefix+"p") || "francophonie".startsWith(@gloPrefix+"p") || "fraternite".startsWith(@gloPrefix+"p") || "gastronomie francaise".startsWith(@gloPrefix+"p") || "gaule".startsWith(@gloPrefix+"p") || "gendarmerie".startsWith(@gloPrefix+"p") || "genocide".startsWith(@gloPrefix+"p") || "gouvernement".startsWith(@gloPrefix+"p") || "greve".startsWith(@gloPrefix+"p") || "guadeloupe".startsWith(@gloPrefix+"p") || "guyane".startsWith(@gloPrefix+"p") || "handicap".startsWith(@gloPrefix+"p") || "harcelement".startsWith(@gloPrefix+"p") || "harcelement scolaire".startsWith(@gloPrefix+"p") || "hopital".startsWith(@gloPrefix+"p") || "ile-de-france".startsWith(@gloPrefix+"p") || "impot".startsWith(@gloPrefix+"p") || "impressionnisme".startsWith(@gloPrefix+"p") || "infraction".startsWith(@gloPrefix+"p") || "instruction obligatoire".startsWith(@gloPrefix+"p") || "integrite de la personne".startsWith(@gloPrefix+"p") || "interet general".startsWith(@gloPrefix+"p") || "ivg".startsWith(@gloPrefix+"p") || "journee de l'europe".startsWith(@gloPrefix+"p") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"p") || "juge".startsWith(@gloPrefix+"p") || "jure".startsWith(@gloPrefix+"p") || "justice".startsWith(@gloPrefix+"p") || "la marseillaise".startsWith(@gloPrefix+"p") || "la reunion".startsWith(@gloPrefix+"p") || "laicite".startsWith(@gloPrefix+"p") || "langue de la republique".startsWith(@gloPrefix+"p") || "liberte".startsWith(@gloPrefix+"p") || "liberte de conscience".startsWith(@gloPrefix+"p") || "listes electorales".startsWith(@gloPrefix+"p") || "litterature".startsWith(@gloPrefix+"p") || "locataire".startsWith(@gloPrefix+"p") || "loi".startsWith(@gloPrefix+"p") || "lycee".startsWith(@gloPrefix+"p") || "maire".startsWith(@gloPrefix+"p") || "mairie".startsWith(@gloPrefix+"p") || "majorite".startsWith(@gloPrefix+"p") || "mandat".startsWith(@gloPrefix+"p") || "marianne".startsWith(@gloPrefix+"p") || "martinique".startsWith(@gloPrefix+"p") || "mayotte".startsWith(@gloPrefix+"p") || "medecin traitant".startsWith(@gloPrefix+"p") || "mediterranee".startsWith(@gloPrefix+"p") || "ministre".startsWith(@gloPrefix+"p") || "monarchie".startsWith(@gloPrefix+"p") || "mont-saint-michel".startsWith(@gloPrefix+"p") || "musee du louvre".startsWith(@gloPrefix+"p") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"p") || "mutuelle".startsWith(@gloPrefix+"p") || "naissance".startsWith(@gloPrefix+"p") || "naturalisation".startsWith(@gloPrefix+"p") || "neutralite".startsWith(@gloPrefix+"p") || "opinion".startsWith(@gloPrefix+"p") || "ordre public".startsWith(@gloPrefix+"p") || "outre-mer".startsWith(@gloPrefix+"p") || "parlement".startsWith(@gloPrefix+"p") || "parlement europeen".startsWith(@gloPrefix+"p") || "parti politique".startsWith(@gloPrefix+"p") || "patrimoine".startsWith(@gloPrefix+"p") || "peine de mort".startsWith(@gloPrefix+"p") || "plainte".startsWith(@gloPrefix+"p") || "police".startsWith(@gloPrefix+"p") || "polygamie".startsWith(@gloPrefix+"p") || "pouvoir executif".startsWith(@gloPrefix+"p") || "pouvoir judiciaire".startsWith(@gloPrefix+"p") || "pouvoir legislatif".startsWith(@gloPrefix+"p") || "prefecture".startsWith(@gloPrefix+"p") || "prefet".startsWith(@gloPrefix+"p") || "premier ministre".startsWith(@gloPrefix+"p") || "premiere guerre mondiale".startsWith(@gloPrefix+"p") || "president de la republique".startsWith(@gloPrefix+"p") || "presomption d'innocence".startsWith(@gloPrefix+"p") || "prevention".startsWith(@gloPrefix+"p") || "procuration".startsWith(@gloPrefix+"p") || "proprietaire".startsWith(@gloPrefix+"p") || "prostitution".startsWith(@gloPrefix+"p") || "protection sociale".startsWith(@gloPrefix+"p") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"p") || "pyrenees".startsWith(@gloPrefix+"p") || "quinquennat".startsWith(@gloPrefix+"p") || "recyclage".startsWith(@gloPrefix+"p") || "referendum".startsWith(@gloPrefix+"p") || "region".startsWith(@gloPrefix+"p") || "religion".startsWith(@gloPrefix+"p") || "republique".startsWith(@gloPrefix+"p") || "reseaux sociaux".startsWith(@gloPrefix+"p") || "resistance".startsWith(@gloPrefix+"p") || "respect".startsWith(@gloPrefix+"p") || "revolution francaise".startsWith(@gloPrefix+"p") || "salaire".startsWith(@gloPrefix+"p") || "salaire brut".startsWith(@gloPrefix+"p") || "salaire net".startsWith(@gloPrefix+"p") || "salarie".startsWith(@gloPrefix+"p") || "samu".startsWith(@gloPrefix+"p") || "seconde guerre mondiale".startsWith(@gloPrefix+"p") || "secours".startsWith(@gloPrefix+"p") || "securite routiere".startsWith(@gloPrefix+"p") || "seine".startsWith(@gloPrefix+"p") || "senat".startsWith(@gloPrefix+"p") || "senateur".startsWith(@gloPrefix+"p") || "separation des pouvoirs".startsWith(@gloPrefix+"p") || "service public".startsWith(@gloPrefix+"p") || "shoah".startsWith(@gloPrefix+"p") || "smic".startsWith(@gloPrefix+"p") || "souverainete nationale".startsWith(@gloPrefix+"p") || "suffrage universel".startsWith(@gloPrefix+"p") || "surete".startsWith(@gloPrefix+"p") || "titre de sejour".startsWith(@gloPrefix+"p") || "tour eiffel".startsWith(@gloPrefix+"p") || "traite de maastricht".startsWith(@gloPrefix+"p") || "traite des etres humains".startsWith(@gloPrefix+"p") || "travail dissimule".startsWith(@gloPrefix+"p") || "tri des dechets".startsWith(@gloPrefix+"p") || "unesco".startsWith(@gloPrefix+"p") || "union europeenne".startsWith(@gloPrefix+"p") || "urgence".startsWith(@gloPrefix+"p") || "urgences".startsWith(@gloPrefix+"p") || "vercingetorix".startsWith(@gloPrefix+"p") || "violence".startsWith(@gloPrefix+"p") || "vote".startsWith(@gloPrefix+"p"))`
-`@gloNextQ = calc("abolition".startsWith(@gloPrefix+"q") || "abstention".startsWith(@gloPrefix+"q") || "agents publics".startsWith(@gloPrefix+"q") || "alpes".startsWith(@gloPrefix+"q") || "amende".startsWith(@gloPrefix+"q") || "apl".startsWith(@gloPrefix+"q") || "armistice".startsWith(@gloPrefix+"q") || "assemblee nationale".startsWith(@gloPrefix+"q") || "assistance a personne en danger".startsWith(@gloPrefix+"q") || "assurance maladie".startsWith(@gloPrefix+"q") || "autorite parentale".startsWith(@gloPrefix+"q") || "avocat".startsWith(@gloPrefix+"q") || "bail".startsWith(@gloPrefix+"q") || "benevolat".startsWith(@gloPrefix+"q") || "bretagne".startsWith(@gloPrefix+"q") || "caf".startsWith(@gloPrefix+"q") || "carte de resident".startsWith(@gloPrefix+"q") || "carte vitale".startsWith(@gloPrefix+"q") || "cdd".startsWith(@gloPrefix+"q") || "cdi".startsWith(@gloPrefix+"q") || "ceca".startsWith(@gloPrefix+"q") || "celtes".startsWith(@gloPrefix+"q") || "charlemagne".startsWith(@gloPrefix+"q") || "charte de l'environnement".startsWith(@gloPrefix+"q") || "chateau de versailles".startsWith(@gloPrefix+"q") || "chef de l'etat".startsWith(@gloPrefix+"q") || "cinquieme republique".startsWith(@gloPrefix+"q") || "citoyen".startsWith(@gloPrefix+"q") || "citoyennete".startsWith(@gloPrefix+"q") || "clovis".startsWith(@gloPrefix+"q") || "collectivites territoriales".startsWith(@gloPrefix+"q") || "college".startsWith(@gloPrefix+"q") || "colonisation".startsWith(@gloPrefix+"q") || "commission europeenne".startsWith(@gloPrefix+"q") || "commune".startsWith(@gloPrefix+"q") || "conseil constitutionnel".startsWith(@gloPrefix+"q") || "conseil de l'union europeenne".startsWith(@gloPrefix+"q") || "conseil departemental".startsWith(@gloPrefix+"q") || "conseil europeen".startsWith(@gloPrefix+"q") || "conseil municipal".startsWith(@gloPrefix+"q") || "conseil regional".startsWith(@gloPrefix+"q") || "consentement".startsWith(@gloPrefix+"q") || "constitution".startsWith(@gloPrefix+"q") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"q") || "contrat de travail".startsWith(@gloPrefix+"q") || "contravention".startsWith(@gloPrefix+"q") || "cotisations sociales".startsWith(@gloPrefix+"q") || "cour d'assises".startsWith(@gloPrefix+"q") || "cpam".startsWith(@gloPrefix+"q") || "crime".startsWith(@gloPrefix+"q") || "decheterie".startsWith(@gloPrefix+"q") || "dechets".startsWith(@gloPrefix+"q") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"q") || "delit".startsWith(@gloPrefix+"q") || "democratie".startsWith(@gloPrefix+"q") || "departement".startsWith(@gloPrefix+"q") || "depute".startsWith(@gloPrefix+"q") || "depute europeen".startsWith(@gloPrefix+"q") || "devise de la republique".startsWith(@gloPrefix+"q") || "devoir".startsWith(@gloPrefix+"q") || "dignite humaine".startsWith(@gloPrefix+"q") || "discrimination".startsWith(@gloPrefix+"q") || "divorce".startsWith(@gloPrefix+"q") || "drapeau francais".startsWith(@gloPrefix+"q") || "droits civiques".startsWith(@gloPrefix+"q") || "droits fondamentaux".startsWith(@gloPrefix+"q") || "drom".startsWith(@gloPrefix+"q") || "ecole".startsWith(@gloPrefix+"q") || "egalite".startsWith(@gloPrefix+"q") || "election".startsWith(@gloPrefix+"q") || "elections europeennes".startsWith(@gloPrefix+"q") || "elections municipales".startsWith(@gloPrefix+"q") || "eligibilite".startsWith(@gloPrefix+"q") || "employeur".startsWith(@gloPrefix+"q") || "entreprise".startsWith(@gloPrefix+"q") || "environnement".startsWith(@gloPrefix+"q") || "esclavage".startsWith(@gloPrefix+"q") || "espace schengen".startsWith(@gloPrefix+"q") || "etat".startsWith(@gloPrefix+"q") || "etat civil".startsWith(@gloPrefix+"q") || "euro".startsWith(@gloPrefix+"q") || "fete de la musique".startsWith(@gloPrefix+"q") || "fete nationale".startsWith(@gloPrefix+"q") || "fleuve".startsWith(@gloPrefix+"q") || "france metropolitaine".startsWith(@gloPrefix+"q") || "france services".startsWith(@gloPrefix+"q") || "france travail".startsWith(@gloPrefix+"q") || "francophonie".startsWith(@gloPrefix+"q") || "fraternite".startsWith(@gloPrefix+"q") || "gastronomie francaise".startsWith(@gloPrefix+"q") || "gaule".startsWith(@gloPrefix+"q") || "gendarmerie".startsWith(@gloPrefix+"q") || "genocide".startsWith(@gloPrefix+"q") || "gouvernement".startsWith(@gloPrefix+"q") || "greve".startsWith(@gloPrefix+"q") || "guadeloupe".startsWith(@gloPrefix+"q") || "guyane".startsWith(@gloPrefix+"q") || "handicap".startsWith(@gloPrefix+"q") || "harcelement".startsWith(@gloPrefix+"q") || "harcelement scolaire".startsWith(@gloPrefix+"q") || "hopital".startsWith(@gloPrefix+"q") || "ile-de-france".startsWith(@gloPrefix+"q") || "impot".startsWith(@gloPrefix+"q") || "impressionnisme".startsWith(@gloPrefix+"q") || "infraction".startsWith(@gloPrefix+"q") || "instruction obligatoire".startsWith(@gloPrefix+"q") || "integrite de la personne".startsWith(@gloPrefix+"q") || "interet general".startsWith(@gloPrefix+"q") || "ivg".startsWith(@gloPrefix+"q") || "journee de l'europe".startsWith(@gloPrefix+"q") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"q") || "juge".startsWith(@gloPrefix+"q") || "jure".startsWith(@gloPrefix+"q") || "justice".startsWith(@gloPrefix+"q") || "la marseillaise".startsWith(@gloPrefix+"q") || "la reunion".startsWith(@gloPrefix+"q") || "laicite".startsWith(@gloPrefix+"q") || "langue de la republique".startsWith(@gloPrefix+"q") || "liberte".startsWith(@gloPrefix+"q") || "liberte de conscience".startsWith(@gloPrefix+"q") || "listes electorales".startsWith(@gloPrefix+"q") || "litterature".startsWith(@gloPrefix+"q") || "locataire".startsWith(@gloPrefix+"q") || "loi".startsWith(@gloPrefix+"q") || "lycee".startsWith(@gloPrefix+"q") || "maire".startsWith(@gloPrefix+"q") || "mairie".startsWith(@gloPrefix+"q") || "majorite".startsWith(@gloPrefix+"q") || "mandat".startsWith(@gloPrefix+"q") || "marianne".startsWith(@gloPrefix+"q") || "martinique".startsWith(@gloPrefix+"q") || "mayotte".startsWith(@gloPrefix+"q") || "medecin traitant".startsWith(@gloPrefix+"q") || "mediterranee".startsWith(@gloPrefix+"q") || "ministre".startsWith(@gloPrefix+"q") || "monarchie".startsWith(@gloPrefix+"q") || "mont-saint-michel".startsWith(@gloPrefix+"q") || "musee du louvre".startsWith(@gloPrefix+"q") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"q") || "mutuelle".startsWith(@gloPrefix+"q") || "naissance".startsWith(@gloPrefix+"q") || "naturalisation".startsWith(@gloPrefix+"q") || "neutralite".startsWith(@gloPrefix+"q") || "opinion".startsWith(@gloPrefix+"q") || "ordre public".startsWith(@gloPrefix+"q") || "outre-mer".startsWith(@gloPrefix+"q") || "parlement".startsWith(@gloPrefix+"q") || "parlement europeen".startsWith(@gloPrefix+"q") || "parti politique".startsWith(@gloPrefix+"q") || "patrimoine".startsWith(@gloPrefix+"q") || "peine de mort".startsWith(@gloPrefix+"q") || "plainte".startsWith(@gloPrefix+"q") || "police".startsWith(@gloPrefix+"q") || "polygamie".startsWith(@gloPrefix+"q") || "pouvoir executif".startsWith(@gloPrefix+"q") || "pouvoir judiciaire".startsWith(@gloPrefix+"q") || "pouvoir legislatif".startsWith(@gloPrefix+"q") || "prefecture".startsWith(@gloPrefix+"q") || "prefet".startsWith(@gloPrefix+"q") || "premier ministre".startsWith(@gloPrefix+"q") || "premiere guerre mondiale".startsWith(@gloPrefix+"q") || "president de la republique".startsWith(@gloPrefix+"q") || "presomption d'innocence".startsWith(@gloPrefix+"q") || "prevention".startsWith(@gloPrefix+"q") || "procuration".startsWith(@gloPrefix+"q") || "proprietaire".startsWith(@gloPrefix+"q") || "prostitution".startsWith(@gloPrefix+"q") || "protection sociale".startsWith(@gloPrefix+"q") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"q") || "pyrenees".startsWith(@gloPrefix+"q") || "quinquennat".startsWith(@gloPrefix+"q") || "recyclage".startsWith(@gloPrefix+"q") || "referendum".startsWith(@gloPrefix+"q") || "region".startsWith(@gloPrefix+"q") || "religion".startsWith(@gloPrefix+"q") || "republique".startsWith(@gloPrefix+"q") || "reseaux sociaux".startsWith(@gloPrefix+"q") || "resistance".startsWith(@gloPrefix+"q") || "respect".startsWith(@gloPrefix+"q") || "revolution francaise".startsWith(@gloPrefix+"q") || "salaire".startsWith(@gloPrefix+"q") || "salaire brut".startsWith(@gloPrefix+"q") || "salaire net".startsWith(@gloPrefix+"q") || "salarie".startsWith(@gloPrefix+"q") || "samu".startsWith(@gloPrefix+"q") || "seconde guerre mondiale".startsWith(@gloPrefix+"q") || "secours".startsWith(@gloPrefix+"q") || "securite routiere".startsWith(@gloPrefix+"q") || "seine".startsWith(@gloPrefix+"q") || "senat".startsWith(@gloPrefix+"q") || "senateur".startsWith(@gloPrefix+"q") || "separation des pouvoirs".startsWith(@gloPrefix+"q") || "service public".startsWith(@gloPrefix+"q") || "shoah".startsWith(@gloPrefix+"q") || "smic".startsWith(@gloPrefix+"q") || "souverainete nationale".startsWith(@gloPrefix+"q") || "suffrage universel".startsWith(@gloPrefix+"q") || "surete".startsWith(@gloPrefix+"q") || "titre de sejour".startsWith(@gloPrefix+"q") || "tour eiffel".startsWith(@gloPrefix+"q") || "traite de maastricht".startsWith(@gloPrefix+"q") || "traite des etres humains".startsWith(@gloPrefix+"q") || "travail dissimule".startsWith(@gloPrefix+"q") || "tri des dechets".startsWith(@gloPrefix+"q") || "unesco".startsWith(@gloPrefix+"q") || "union europeenne".startsWith(@gloPrefix+"q") || "urgence".startsWith(@gloPrefix+"q") || "urgences".startsWith(@gloPrefix+"q") || "vercingetorix".startsWith(@gloPrefix+"q") || "violence".startsWith(@gloPrefix+"q") || "vote".startsWith(@gloPrefix+"q"))`
-`@gloNextR = calc("abolition".startsWith(@gloPrefix+"r") || "abstention".startsWith(@gloPrefix+"r") || "agents publics".startsWith(@gloPrefix+"r") || "alpes".startsWith(@gloPrefix+"r") || "amende".startsWith(@gloPrefix+"r") || "apl".startsWith(@gloPrefix+"r") || "armistice".startsWith(@gloPrefix+"r") || "assemblee nationale".startsWith(@gloPrefix+"r") || "assistance a personne en danger".startsWith(@gloPrefix+"r") || "assurance maladie".startsWith(@gloPrefix+"r") || "autorite parentale".startsWith(@gloPrefix+"r") || "avocat".startsWith(@gloPrefix+"r") || "bail".startsWith(@gloPrefix+"r") || "benevolat".startsWith(@gloPrefix+"r") || "bretagne".startsWith(@gloPrefix+"r") || "caf".startsWith(@gloPrefix+"r") || "carte de resident".startsWith(@gloPrefix+"r") || "carte vitale".startsWith(@gloPrefix+"r") || "cdd".startsWith(@gloPrefix+"r") || "cdi".startsWith(@gloPrefix+"r") || "ceca".startsWith(@gloPrefix+"r") || "celtes".startsWith(@gloPrefix+"r") || "charlemagne".startsWith(@gloPrefix+"r") || "charte de l'environnement".startsWith(@gloPrefix+"r") || "chateau de versailles".startsWith(@gloPrefix+"r") || "chef de l'etat".startsWith(@gloPrefix+"r") || "cinquieme republique".startsWith(@gloPrefix+"r") || "citoyen".startsWith(@gloPrefix+"r") || "citoyennete".startsWith(@gloPrefix+"r") || "clovis".startsWith(@gloPrefix+"r") || "collectivites territoriales".startsWith(@gloPrefix+"r") || "college".startsWith(@gloPrefix+"r") || "colonisation".startsWith(@gloPrefix+"r") || "commission europeenne".startsWith(@gloPrefix+"r") || "commune".startsWith(@gloPrefix+"r") || "conseil constitutionnel".startsWith(@gloPrefix+"r") || "conseil de l'union europeenne".startsWith(@gloPrefix+"r") || "conseil departemental".startsWith(@gloPrefix+"r") || "conseil europeen".startsWith(@gloPrefix+"r") || "conseil municipal".startsWith(@gloPrefix+"r") || "conseil regional".startsWith(@gloPrefix+"r") || "consentement".startsWith(@gloPrefix+"r") || "constitution".startsWith(@gloPrefix+"r") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"r") || "contrat de travail".startsWith(@gloPrefix+"r") || "contravention".startsWith(@gloPrefix+"r") || "cotisations sociales".startsWith(@gloPrefix+"r") || "cour d'assises".startsWith(@gloPrefix+"r") || "cpam".startsWith(@gloPrefix+"r") || "crime".startsWith(@gloPrefix+"r") || "decheterie".startsWith(@gloPrefix+"r") || "dechets".startsWith(@gloPrefix+"r") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"r") || "delit".startsWith(@gloPrefix+"r") || "democratie".startsWith(@gloPrefix+"r") || "departement".startsWith(@gloPrefix+"r") || "depute".startsWith(@gloPrefix+"r") || "depute europeen".startsWith(@gloPrefix+"r") || "devise de la republique".startsWith(@gloPrefix+"r") || "devoir".startsWith(@gloPrefix+"r") || "dignite humaine".startsWith(@gloPrefix+"r") || "discrimination".startsWith(@gloPrefix+"r") || "divorce".startsWith(@gloPrefix+"r") || "drapeau francais".startsWith(@gloPrefix+"r") || "droits civiques".startsWith(@gloPrefix+"r") || "droits fondamentaux".startsWith(@gloPrefix+"r") || "drom".startsWith(@gloPrefix+"r") || "ecole".startsWith(@gloPrefix+"r") || "egalite".startsWith(@gloPrefix+"r") || "election".startsWith(@gloPrefix+"r") || "elections europeennes".startsWith(@gloPrefix+"r") || "elections municipales".startsWith(@gloPrefix+"r") || "eligibilite".startsWith(@gloPrefix+"r") || "employeur".startsWith(@gloPrefix+"r") || "entreprise".startsWith(@gloPrefix+"r") || "environnement".startsWith(@gloPrefix+"r") || "esclavage".startsWith(@gloPrefix+"r") || "espace schengen".startsWith(@gloPrefix+"r") || "etat".startsWith(@gloPrefix+"r") || "etat civil".startsWith(@gloPrefix+"r") || "euro".startsWith(@gloPrefix+"r") || "fete de la musique".startsWith(@gloPrefix+"r") || "fete nationale".startsWith(@gloPrefix+"r") || "fleuve".startsWith(@gloPrefix+"r") || "france metropolitaine".startsWith(@gloPrefix+"r") || "france services".startsWith(@gloPrefix+"r") || "france travail".startsWith(@gloPrefix+"r") || "francophonie".startsWith(@gloPrefix+"r") || "fraternite".startsWith(@gloPrefix+"r") || "gastronomie francaise".startsWith(@gloPrefix+"r") || "gaule".startsWith(@gloPrefix+"r") || "gendarmerie".startsWith(@gloPrefix+"r") || "genocide".startsWith(@gloPrefix+"r") || "gouvernement".startsWith(@gloPrefix+"r") || "greve".startsWith(@gloPrefix+"r") || "guadeloupe".startsWith(@gloPrefix+"r") || "guyane".startsWith(@gloPrefix+"r") || "handicap".startsWith(@gloPrefix+"r") || "harcelement".startsWith(@gloPrefix+"r") || "harcelement scolaire".startsWith(@gloPrefix+"r") || "hopital".startsWith(@gloPrefix+"r") || "ile-de-france".startsWith(@gloPrefix+"r") || "impot".startsWith(@gloPrefix+"r") || "impressionnisme".startsWith(@gloPrefix+"r") || "infraction".startsWith(@gloPrefix+"r") || "instruction obligatoire".startsWith(@gloPrefix+"r") || "integrite de la personne".startsWith(@gloPrefix+"r") || "interet general".startsWith(@gloPrefix+"r") || "ivg".startsWith(@gloPrefix+"r") || "journee de l'europe".startsWith(@gloPrefix+"r") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"r") || "juge".startsWith(@gloPrefix+"r") || "jure".startsWith(@gloPrefix+"r") || "justice".startsWith(@gloPrefix+"r") || "la marseillaise".startsWith(@gloPrefix+"r") || "la reunion".startsWith(@gloPrefix+"r") || "laicite".startsWith(@gloPrefix+"r") || "langue de la republique".startsWith(@gloPrefix+"r") || "liberte".startsWith(@gloPrefix+"r") || "liberte de conscience".startsWith(@gloPrefix+"r") || "listes electorales".startsWith(@gloPrefix+"r") || "litterature".startsWith(@gloPrefix+"r") || "locataire".startsWith(@gloPrefix+"r") || "loi".startsWith(@gloPrefix+"r") || "lycee".startsWith(@gloPrefix+"r") || "maire".startsWith(@gloPrefix+"r") || "mairie".startsWith(@gloPrefix+"r") || "majorite".startsWith(@gloPrefix+"r") || "mandat".startsWith(@gloPrefix+"r") || "marianne".startsWith(@gloPrefix+"r") || "martinique".startsWith(@gloPrefix+"r") || "mayotte".startsWith(@gloPrefix+"r") || "medecin traitant".startsWith(@gloPrefix+"r") || "mediterranee".startsWith(@gloPrefix+"r") || "ministre".startsWith(@gloPrefix+"r") || "monarchie".startsWith(@gloPrefix+"r") || "mont-saint-michel".startsWith(@gloPrefix+"r") || "musee du louvre".startsWith(@gloPrefix+"r") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"r") || "mutuelle".startsWith(@gloPrefix+"r") || "naissance".startsWith(@gloPrefix+"r") || "naturalisation".startsWith(@gloPrefix+"r") || "neutralite".startsWith(@gloPrefix+"r") || "opinion".startsWith(@gloPrefix+"r") || "ordre public".startsWith(@gloPrefix+"r") || "outre-mer".startsWith(@gloPrefix+"r") || "parlement".startsWith(@gloPrefix+"r") || "parlement europeen".startsWith(@gloPrefix+"r") || "parti politique".startsWith(@gloPrefix+"r") || "patrimoine".startsWith(@gloPrefix+"r") || "peine de mort".startsWith(@gloPrefix+"r") || "plainte".startsWith(@gloPrefix+"r") || "police".startsWith(@gloPrefix+"r") || "polygamie".startsWith(@gloPrefix+"r") || "pouvoir executif".startsWith(@gloPrefix+"r") || "pouvoir judiciaire".startsWith(@gloPrefix+"r") || "pouvoir legislatif".startsWith(@gloPrefix+"r") || "prefecture".startsWith(@gloPrefix+"r") || "prefet".startsWith(@gloPrefix+"r") || "premier ministre".startsWith(@gloPrefix+"r") || "premiere guerre mondiale".startsWith(@gloPrefix+"r") || "president de la republique".startsWith(@gloPrefix+"r") || "presomption d'innocence".startsWith(@gloPrefix+"r") || "prevention".startsWith(@gloPrefix+"r") || "procuration".startsWith(@gloPrefix+"r") || "proprietaire".startsWith(@gloPrefix+"r") || "prostitution".startsWith(@gloPrefix+"r") || "protection sociale".startsWith(@gloPrefix+"r") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"r") || "pyrenees".startsWith(@gloPrefix+"r") || "quinquennat".startsWith(@gloPrefix+"r") || "recyclage".startsWith(@gloPrefix+"r") || "referendum".startsWith(@gloPrefix+"r") || "region".startsWith(@gloPrefix+"r") || "religion".startsWith(@gloPrefix+"r") || "republique".startsWith(@gloPrefix+"r") || "reseaux sociaux".startsWith(@gloPrefix+"r") || "resistance".startsWith(@gloPrefix+"r") || "respect".startsWith(@gloPrefix+"r") || "revolution francaise".startsWith(@gloPrefix+"r") || "salaire".startsWith(@gloPrefix+"r") || "salaire brut".startsWith(@gloPrefix+"r") || "salaire net".startsWith(@gloPrefix+"r") || "salarie".startsWith(@gloPrefix+"r") || "samu".startsWith(@gloPrefix+"r") || "seconde guerre mondiale".startsWith(@gloPrefix+"r") || "secours".startsWith(@gloPrefix+"r") || "securite routiere".startsWith(@gloPrefix+"r") || "seine".startsWith(@gloPrefix+"r") || "senat".startsWith(@gloPrefix+"r") || "senateur".startsWith(@gloPrefix+"r") || "separation des pouvoirs".startsWith(@gloPrefix+"r") || "service public".startsWith(@gloPrefix+"r") || "shoah".startsWith(@gloPrefix+"r") || "smic".startsWith(@gloPrefix+"r") || "souverainete nationale".startsWith(@gloPrefix+"r") || "suffrage universel".startsWith(@gloPrefix+"r") || "surete".startsWith(@gloPrefix+"r") || "titre de sejour".startsWith(@gloPrefix+"r") || "tour eiffel".startsWith(@gloPrefix+"r") || "traite de maastricht".startsWith(@gloPrefix+"r") || "traite des etres humains".startsWith(@gloPrefix+"r") || "travail dissimule".startsWith(@gloPrefix+"r") || "tri des dechets".startsWith(@gloPrefix+"r") || "unesco".startsWith(@gloPrefix+"r") || "union europeenne".startsWith(@gloPrefix+"r") || "urgence".startsWith(@gloPrefix+"r") || "urgences".startsWith(@gloPrefix+"r") || "vercingetorix".startsWith(@gloPrefix+"r") || "violence".startsWith(@gloPrefix+"r") || "vote".startsWith(@gloPrefix+"r"))`
-`@gloNextS = calc("abolition".startsWith(@gloPrefix+"s") || "abstention".startsWith(@gloPrefix+"s") || "agents publics".startsWith(@gloPrefix+"s") || "alpes".startsWith(@gloPrefix+"s") || "amende".startsWith(@gloPrefix+"s") || "apl".startsWith(@gloPrefix+"s") || "armistice".startsWith(@gloPrefix+"s") || "assemblee nationale".startsWith(@gloPrefix+"s") || "assistance a personne en danger".startsWith(@gloPrefix+"s") || "assurance maladie".startsWith(@gloPrefix+"s") || "autorite parentale".startsWith(@gloPrefix+"s") || "avocat".startsWith(@gloPrefix+"s") || "bail".startsWith(@gloPrefix+"s") || "benevolat".startsWith(@gloPrefix+"s") || "bretagne".startsWith(@gloPrefix+"s") || "caf".startsWith(@gloPrefix+"s") || "carte de resident".startsWith(@gloPrefix+"s") || "carte vitale".startsWith(@gloPrefix+"s") || "cdd".startsWith(@gloPrefix+"s") || "cdi".startsWith(@gloPrefix+"s") || "ceca".startsWith(@gloPrefix+"s") || "celtes".startsWith(@gloPrefix+"s") || "charlemagne".startsWith(@gloPrefix+"s") || "charte de l'environnement".startsWith(@gloPrefix+"s") || "chateau de versailles".startsWith(@gloPrefix+"s") || "chef de l'etat".startsWith(@gloPrefix+"s") || "cinquieme republique".startsWith(@gloPrefix+"s") || "citoyen".startsWith(@gloPrefix+"s") || "citoyennete".startsWith(@gloPrefix+"s") || "clovis".startsWith(@gloPrefix+"s") || "collectivites territoriales".startsWith(@gloPrefix+"s") || "college".startsWith(@gloPrefix+"s") || "colonisation".startsWith(@gloPrefix+"s") || "commission europeenne".startsWith(@gloPrefix+"s") || "commune".startsWith(@gloPrefix+"s") || "conseil constitutionnel".startsWith(@gloPrefix+"s") || "conseil de l'union europeenne".startsWith(@gloPrefix+"s") || "conseil departemental".startsWith(@gloPrefix+"s") || "conseil europeen".startsWith(@gloPrefix+"s") || "conseil municipal".startsWith(@gloPrefix+"s") || "conseil regional".startsWith(@gloPrefix+"s") || "consentement".startsWith(@gloPrefix+"s") || "constitution".startsWith(@gloPrefix+"s") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"s") || "contrat de travail".startsWith(@gloPrefix+"s") || "contravention".startsWith(@gloPrefix+"s") || "cotisations sociales".startsWith(@gloPrefix+"s") || "cour d'assises".startsWith(@gloPrefix+"s") || "cpam".startsWith(@gloPrefix+"s") || "crime".startsWith(@gloPrefix+"s") || "decheterie".startsWith(@gloPrefix+"s") || "dechets".startsWith(@gloPrefix+"s") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"s") || "delit".startsWith(@gloPrefix+"s") || "democratie".startsWith(@gloPrefix+"s") || "departement".startsWith(@gloPrefix+"s") || "depute".startsWith(@gloPrefix+"s") || "depute europeen".startsWith(@gloPrefix+"s") || "devise de la republique".startsWith(@gloPrefix+"s") || "devoir".startsWith(@gloPrefix+"s") || "dignite humaine".startsWith(@gloPrefix+"s") || "discrimination".startsWith(@gloPrefix+"s") || "divorce".startsWith(@gloPrefix+"s") || "drapeau francais".startsWith(@gloPrefix+"s") || "droits civiques".startsWith(@gloPrefix+"s") || "droits fondamentaux".startsWith(@gloPrefix+"s") || "drom".startsWith(@gloPrefix+"s") || "ecole".startsWith(@gloPrefix+"s") || "egalite".startsWith(@gloPrefix+"s") || "election".startsWith(@gloPrefix+"s") || "elections europeennes".startsWith(@gloPrefix+"s") || "elections municipales".startsWith(@gloPrefix+"s") || "eligibilite".startsWith(@gloPrefix+"s") || "employeur".startsWith(@gloPrefix+"s") || "entreprise".startsWith(@gloPrefix+"s") || "environnement".startsWith(@gloPrefix+"s") || "esclavage".startsWith(@gloPrefix+"s") || "espace schengen".startsWith(@gloPrefix+"s") || "etat".startsWith(@gloPrefix+"s") || "etat civil".startsWith(@gloPrefix+"s") || "euro".startsWith(@gloPrefix+"s") || "fete de la musique".startsWith(@gloPrefix+"s") || "fete nationale".startsWith(@gloPrefix+"s") || "fleuve".startsWith(@gloPrefix+"s") || "france metropolitaine".startsWith(@gloPrefix+"s") || "france services".startsWith(@gloPrefix+"s") || "france travail".startsWith(@gloPrefix+"s") || "francophonie".startsWith(@gloPrefix+"s") || "fraternite".startsWith(@gloPrefix+"s") || "gastronomie francaise".startsWith(@gloPrefix+"s") || "gaule".startsWith(@gloPrefix+"s") || "gendarmerie".startsWith(@gloPrefix+"s") || "genocide".startsWith(@gloPrefix+"s") || "gouvernement".startsWith(@gloPrefix+"s") || "greve".startsWith(@gloPrefix+"s") || "guadeloupe".startsWith(@gloPrefix+"s") || "guyane".startsWith(@gloPrefix+"s") || "handicap".startsWith(@gloPrefix+"s") || "harcelement".startsWith(@gloPrefix+"s") || "harcelement scolaire".startsWith(@gloPrefix+"s") || "hopital".startsWith(@gloPrefix+"s") || "ile-de-france".startsWith(@gloPrefix+"s") || "impot".startsWith(@gloPrefix+"s") || "impressionnisme".startsWith(@gloPrefix+"s") || "infraction".startsWith(@gloPrefix+"s") || "instruction obligatoire".startsWith(@gloPrefix+"s") || "integrite de la personne".startsWith(@gloPrefix+"s") || "interet general".startsWith(@gloPrefix+"s") || "ivg".startsWith(@gloPrefix+"s") || "journee de l'europe".startsWith(@gloPrefix+"s") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"s") || "juge".startsWith(@gloPrefix+"s") || "jure".startsWith(@gloPrefix+"s") || "justice".startsWith(@gloPrefix+"s") || "la marseillaise".startsWith(@gloPrefix+"s") || "la reunion".startsWith(@gloPrefix+"s") || "laicite".startsWith(@gloPrefix+"s") || "langue de la republique".startsWith(@gloPrefix+"s") || "liberte".startsWith(@gloPrefix+"s") || "liberte de conscience".startsWith(@gloPrefix+"s") || "listes electorales".startsWith(@gloPrefix+"s") || "litterature".startsWith(@gloPrefix+"s") || "locataire".startsWith(@gloPrefix+"s") || "loi".startsWith(@gloPrefix+"s") || "lycee".startsWith(@gloPrefix+"s") || "maire".startsWith(@gloPrefix+"s") || "mairie".startsWith(@gloPrefix+"s") || "majorite".startsWith(@gloPrefix+"s") || "mandat".startsWith(@gloPrefix+"s") || "marianne".startsWith(@gloPrefix+"s") || "martinique".startsWith(@gloPrefix+"s") || "mayotte".startsWith(@gloPrefix+"s") || "medecin traitant".startsWith(@gloPrefix+"s") || "mediterranee".startsWith(@gloPrefix+"s") || "ministre".startsWith(@gloPrefix+"s") || "monarchie".startsWith(@gloPrefix+"s") || "mont-saint-michel".startsWith(@gloPrefix+"s") || "musee du louvre".startsWith(@gloPrefix+"s") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"s") || "mutuelle".startsWith(@gloPrefix+"s") || "naissance".startsWith(@gloPrefix+"s") || "naturalisation".startsWith(@gloPrefix+"s") || "neutralite".startsWith(@gloPrefix+"s") || "opinion".startsWith(@gloPrefix+"s") || "ordre public".startsWith(@gloPrefix+"s") || "outre-mer".startsWith(@gloPrefix+"s") || "parlement".startsWith(@gloPrefix+"s") || "parlement europeen".startsWith(@gloPrefix+"s") || "parti politique".startsWith(@gloPrefix+"s") || "patrimoine".startsWith(@gloPrefix+"s") || "peine de mort".startsWith(@gloPrefix+"s") || "plainte".startsWith(@gloPrefix+"s") || "police".startsWith(@gloPrefix+"s") || "polygamie".startsWith(@gloPrefix+"s") || "pouvoir executif".startsWith(@gloPrefix+"s") || "pouvoir judiciaire".startsWith(@gloPrefix+"s") || "pouvoir legislatif".startsWith(@gloPrefix+"s") || "prefecture".startsWith(@gloPrefix+"s") || "prefet".startsWith(@gloPrefix+"s") || "premier ministre".startsWith(@gloPrefix+"s") || "premiere guerre mondiale".startsWith(@gloPrefix+"s") || "president de la republique".startsWith(@gloPrefix+"s") || "presomption d'innocence".startsWith(@gloPrefix+"s") || "prevention".startsWith(@gloPrefix+"s") || "procuration".startsWith(@gloPrefix+"s") || "proprietaire".startsWith(@gloPrefix+"s") || "prostitution".startsWith(@gloPrefix+"s") || "protection sociale".startsWith(@gloPrefix+"s") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"s") || "pyrenees".startsWith(@gloPrefix+"s") || "quinquennat".startsWith(@gloPrefix+"s") || "recyclage".startsWith(@gloPrefix+"s") || "referendum".startsWith(@gloPrefix+"s") || "region".startsWith(@gloPrefix+"s") || "religion".startsWith(@gloPrefix+"s") || "republique".startsWith(@gloPrefix+"s") || "reseaux sociaux".startsWith(@gloPrefix+"s") || "resistance".startsWith(@gloPrefix+"s") || "respect".startsWith(@gloPrefix+"s") || "revolution francaise".startsWith(@gloPrefix+"s") || "salaire".startsWith(@gloPrefix+"s") || "salaire brut".startsWith(@gloPrefix+"s") || "salaire net".startsWith(@gloPrefix+"s") || "salarie".startsWith(@gloPrefix+"s") || "samu".startsWith(@gloPrefix+"s") || "seconde guerre mondiale".startsWith(@gloPrefix+"s") || "secours".startsWith(@gloPrefix+"s") || "securite routiere".startsWith(@gloPrefix+"s") || "seine".startsWith(@gloPrefix+"s") || "senat".startsWith(@gloPrefix+"s") || "senateur".startsWith(@gloPrefix+"s") || "separation des pouvoirs".startsWith(@gloPrefix+"s") || "service public".startsWith(@gloPrefix+"s") || "shoah".startsWith(@gloPrefix+"s") || "smic".startsWith(@gloPrefix+"s") || "souverainete nationale".startsWith(@gloPrefix+"s") || "suffrage universel".startsWith(@gloPrefix+"s") || "surete".startsWith(@gloPrefix+"s") || "titre de sejour".startsWith(@gloPrefix+"s") || "tour eiffel".startsWith(@gloPrefix+"s") || "traite de maastricht".startsWith(@gloPrefix+"s") || "traite des etres humains".startsWith(@gloPrefix+"s") || "travail dissimule".startsWith(@gloPrefix+"s") || "tri des dechets".startsWith(@gloPrefix+"s") || "unesco".startsWith(@gloPrefix+"s") || "union europeenne".startsWith(@gloPrefix+"s") || "urgence".startsWith(@gloPrefix+"s") || "urgences".startsWith(@gloPrefix+"s") || "vercingetorix".startsWith(@gloPrefix+"s") || "violence".startsWith(@gloPrefix+"s") || "vote".startsWith(@gloPrefix+"s"))`
-`@gloNextT = calc("abolition".startsWith(@gloPrefix+"t") || "abstention".startsWith(@gloPrefix+"t") || "agents publics".startsWith(@gloPrefix+"t") || "alpes".startsWith(@gloPrefix+"t") || "amende".startsWith(@gloPrefix+"t") || "apl".startsWith(@gloPrefix+"t") || "armistice".startsWith(@gloPrefix+"t") || "assemblee nationale".startsWith(@gloPrefix+"t") || "assistance a personne en danger".startsWith(@gloPrefix+"t") || "assurance maladie".startsWith(@gloPrefix+"t") || "autorite parentale".startsWith(@gloPrefix+"t") || "avocat".startsWith(@gloPrefix+"t") || "bail".startsWith(@gloPrefix+"t") || "benevolat".startsWith(@gloPrefix+"t") || "bretagne".startsWith(@gloPrefix+"t") || "caf".startsWith(@gloPrefix+"t") || "carte de resident".startsWith(@gloPrefix+"t") || "carte vitale".startsWith(@gloPrefix+"t") || "cdd".startsWith(@gloPrefix+"t") || "cdi".startsWith(@gloPrefix+"t") || "ceca".startsWith(@gloPrefix+"t") || "celtes".startsWith(@gloPrefix+"t") || "charlemagne".startsWith(@gloPrefix+"t") || "charte de l'environnement".startsWith(@gloPrefix+"t") || "chateau de versailles".startsWith(@gloPrefix+"t") || "chef de l'etat".startsWith(@gloPrefix+"t") || "cinquieme republique".startsWith(@gloPrefix+"t") || "citoyen".startsWith(@gloPrefix+"t") || "citoyennete".startsWith(@gloPrefix+"t") || "clovis".startsWith(@gloPrefix+"t") || "collectivites territoriales".startsWith(@gloPrefix+"t") || "college".startsWith(@gloPrefix+"t") || "colonisation".startsWith(@gloPrefix+"t") || "commission europeenne".startsWith(@gloPrefix+"t") || "commune".startsWith(@gloPrefix+"t") || "conseil constitutionnel".startsWith(@gloPrefix+"t") || "conseil de l'union europeenne".startsWith(@gloPrefix+"t") || "conseil departemental".startsWith(@gloPrefix+"t") || "conseil europeen".startsWith(@gloPrefix+"t") || "conseil municipal".startsWith(@gloPrefix+"t") || "conseil regional".startsWith(@gloPrefix+"t") || "consentement".startsWith(@gloPrefix+"t") || "constitution".startsWith(@gloPrefix+"t") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"t") || "contrat de travail".startsWith(@gloPrefix+"t") || "contravention".startsWith(@gloPrefix+"t") || "cotisations sociales".startsWith(@gloPrefix+"t") || "cour d'assises".startsWith(@gloPrefix+"t") || "cpam".startsWith(@gloPrefix+"t") || "crime".startsWith(@gloPrefix+"t") || "decheterie".startsWith(@gloPrefix+"t") || "dechets".startsWith(@gloPrefix+"t") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"t") || "delit".startsWith(@gloPrefix+"t") || "democratie".startsWith(@gloPrefix+"t") || "departement".startsWith(@gloPrefix+"t") || "depute".startsWith(@gloPrefix+"t") || "depute europeen".startsWith(@gloPrefix+"t") || "devise de la republique".startsWith(@gloPrefix+"t") || "devoir".startsWith(@gloPrefix+"t") || "dignite humaine".startsWith(@gloPrefix+"t") || "discrimination".startsWith(@gloPrefix+"t") || "divorce".startsWith(@gloPrefix+"t") || "drapeau francais".startsWith(@gloPrefix+"t") || "droits civiques".startsWith(@gloPrefix+"t") || "droits fondamentaux".startsWith(@gloPrefix+"t") || "drom".startsWith(@gloPrefix+"t") || "ecole".startsWith(@gloPrefix+"t") || "egalite".startsWith(@gloPrefix+"t") || "election".startsWith(@gloPrefix+"t") || "elections europeennes".startsWith(@gloPrefix+"t") || "elections municipales".startsWith(@gloPrefix+"t") || "eligibilite".startsWith(@gloPrefix+"t") || "employeur".startsWith(@gloPrefix+"t") || "entreprise".startsWith(@gloPrefix+"t") || "environnement".startsWith(@gloPrefix+"t") || "esclavage".startsWith(@gloPrefix+"t") || "espace schengen".startsWith(@gloPrefix+"t") || "etat".startsWith(@gloPrefix+"t") || "etat civil".startsWith(@gloPrefix+"t") || "euro".startsWith(@gloPrefix+"t") || "fete de la musique".startsWith(@gloPrefix+"t") || "fete nationale".startsWith(@gloPrefix+"t") || "fleuve".startsWith(@gloPrefix+"t") || "france metropolitaine".startsWith(@gloPrefix+"t") || "france services".startsWith(@gloPrefix+"t") || "france travail".startsWith(@gloPrefix+"t") || "francophonie".startsWith(@gloPrefix+"t") || "fraternite".startsWith(@gloPrefix+"t") || "gastronomie francaise".startsWith(@gloPrefix+"t") || "gaule".startsWith(@gloPrefix+"t") || "gendarmerie".startsWith(@gloPrefix+"t") || "genocide".startsWith(@gloPrefix+"t") || "gouvernement".startsWith(@gloPrefix+"t") || "greve".startsWith(@gloPrefix+"t") || "guadeloupe".startsWith(@gloPrefix+"t") || "guyane".startsWith(@gloPrefix+"t") || "handicap".startsWith(@gloPrefix+"t") || "harcelement".startsWith(@gloPrefix+"t") || "harcelement scolaire".startsWith(@gloPrefix+"t") || "hopital".startsWith(@gloPrefix+"t") || "ile-de-france".startsWith(@gloPrefix+"t") || "impot".startsWith(@gloPrefix+"t") || "impressionnisme".startsWith(@gloPrefix+"t") || "infraction".startsWith(@gloPrefix+"t") || "instruction obligatoire".startsWith(@gloPrefix+"t") || "integrite de la personne".startsWith(@gloPrefix+"t") || "interet general".startsWith(@gloPrefix+"t") || "ivg".startsWith(@gloPrefix+"t") || "journee de l'europe".startsWith(@gloPrefix+"t") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"t") || "juge".startsWith(@gloPrefix+"t") || "jure".startsWith(@gloPrefix+"t") || "justice".startsWith(@gloPrefix+"t") || "la marseillaise".startsWith(@gloPrefix+"t") || "la reunion".startsWith(@gloPrefix+"t") || "laicite".startsWith(@gloPrefix+"t") || "langue de la republique".startsWith(@gloPrefix+"t") || "liberte".startsWith(@gloPrefix+"t") || "liberte de conscience".startsWith(@gloPrefix+"t") || "listes electorales".startsWith(@gloPrefix+"t") || "litterature".startsWith(@gloPrefix+"t") || "locataire".startsWith(@gloPrefix+"t") || "loi".startsWith(@gloPrefix+"t") || "lycee".startsWith(@gloPrefix+"t") || "maire".startsWith(@gloPrefix+"t") || "mairie".startsWith(@gloPrefix+"t") || "majorite".startsWith(@gloPrefix+"t") || "mandat".startsWith(@gloPrefix+"t") || "marianne".startsWith(@gloPrefix+"t") || "martinique".startsWith(@gloPrefix+"t") || "mayotte".startsWith(@gloPrefix+"t") || "medecin traitant".startsWith(@gloPrefix+"t") || "mediterranee".startsWith(@gloPrefix+"t") || "ministre".startsWith(@gloPrefix+"t") || "monarchie".startsWith(@gloPrefix+"t") || "mont-saint-michel".startsWith(@gloPrefix+"t") || "musee du louvre".startsWith(@gloPrefix+"t") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"t") || "mutuelle".startsWith(@gloPrefix+"t") || "naissance".startsWith(@gloPrefix+"t") || "naturalisation".startsWith(@gloPrefix+"t") || "neutralite".startsWith(@gloPrefix+"t") || "opinion".startsWith(@gloPrefix+"t") || "ordre public".startsWith(@gloPrefix+"t") || "outre-mer".startsWith(@gloPrefix+"t") || "parlement".startsWith(@gloPrefix+"t") || "parlement europeen".startsWith(@gloPrefix+"t") || "parti politique".startsWith(@gloPrefix+"t") || "patrimoine".startsWith(@gloPrefix+"t") || "peine de mort".startsWith(@gloPrefix+"t") || "plainte".startsWith(@gloPrefix+"t") || "police".startsWith(@gloPrefix+"t") || "polygamie".startsWith(@gloPrefix+"t") || "pouvoir executif".startsWith(@gloPrefix+"t") || "pouvoir judiciaire".startsWith(@gloPrefix+"t") || "pouvoir legislatif".startsWith(@gloPrefix+"t") || "prefecture".startsWith(@gloPrefix+"t") || "prefet".startsWith(@gloPrefix+"t") || "premier ministre".startsWith(@gloPrefix+"t") || "premiere guerre mondiale".startsWith(@gloPrefix+"t") || "president de la republique".startsWith(@gloPrefix+"t") || "presomption d'innocence".startsWith(@gloPrefix+"t") || "prevention".startsWith(@gloPrefix+"t") || "procuration".startsWith(@gloPrefix+"t") || "proprietaire".startsWith(@gloPrefix+"t") || "prostitution".startsWith(@gloPrefix+"t") || "protection sociale".startsWith(@gloPrefix+"t") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"t") || "pyrenees".startsWith(@gloPrefix+"t") || "quinquennat".startsWith(@gloPrefix+"t") || "recyclage".startsWith(@gloPrefix+"t") || "referendum".startsWith(@gloPrefix+"t") || "region".startsWith(@gloPrefix+"t") || "religion".startsWith(@gloPrefix+"t") || "republique".startsWith(@gloPrefix+"t") || "reseaux sociaux".startsWith(@gloPrefix+"t") || "resistance".startsWith(@gloPrefix+"t") || "respect".startsWith(@gloPrefix+"t") || "revolution francaise".startsWith(@gloPrefix+"t") || "salaire".startsWith(@gloPrefix+"t") || "salaire brut".startsWith(@gloPrefix+"t") || "salaire net".startsWith(@gloPrefix+"t") || "salarie".startsWith(@gloPrefix+"t") || "samu".startsWith(@gloPrefix+"t") || "seconde guerre mondiale".startsWith(@gloPrefix+"t") || "secours".startsWith(@gloPrefix+"t") || "securite routiere".startsWith(@gloPrefix+"t") || "seine".startsWith(@gloPrefix+"t") || "senat".startsWith(@gloPrefix+"t") || "senateur".startsWith(@gloPrefix+"t") || "separation des pouvoirs".startsWith(@gloPrefix+"t") || "service public".startsWith(@gloPrefix+"t") || "shoah".startsWith(@gloPrefix+"t") || "smic".startsWith(@gloPrefix+"t") || "souverainete nationale".startsWith(@gloPrefix+"t") || "suffrage universel".startsWith(@gloPrefix+"t") || "surete".startsWith(@gloPrefix+"t") || "titre de sejour".startsWith(@gloPrefix+"t") || "tour eiffel".startsWith(@gloPrefix+"t") || "traite de maastricht".startsWith(@gloPrefix+"t") || "traite des etres humains".startsWith(@gloPrefix+"t") || "travail dissimule".startsWith(@gloPrefix+"t") || "tri des dechets".startsWith(@gloPrefix+"t") || "unesco".startsWith(@gloPrefix+"t") || "union europeenne".startsWith(@gloPrefix+"t") || "urgence".startsWith(@gloPrefix+"t") || "urgences".startsWith(@gloPrefix+"t") || "vercingetorix".startsWith(@gloPrefix+"t") || "violence".startsWith(@gloPrefix+"t") || "vote".startsWith(@gloPrefix+"t"))`
-`@gloNextU = calc("abolition".startsWith(@gloPrefix+"u") || "abstention".startsWith(@gloPrefix+"u") || "agents publics".startsWith(@gloPrefix+"u") || "alpes".startsWith(@gloPrefix+"u") || "amende".startsWith(@gloPrefix+"u") || "apl".startsWith(@gloPrefix+"u") || "armistice".startsWith(@gloPrefix+"u") || "assemblee nationale".startsWith(@gloPrefix+"u") || "assistance a personne en danger".startsWith(@gloPrefix+"u") || "assurance maladie".startsWith(@gloPrefix+"u") || "autorite parentale".startsWith(@gloPrefix+"u") || "avocat".startsWith(@gloPrefix+"u") || "bail".startsWith(@gloPrefix+"u") || "benevolat".startsWith(@gloPrefix+"u") || "bretagne".startsWith(@gloPrefix+"u") || "caf".startsWith(@gloPrefix+"u") || "carte de resident".startsWith(@gloPrefix+"u") || "carte vitale".startsWith(@gloPrefix+"u") || "cdd".startsWith(@gloPrefix+"u") || "cdi".startsWith(@gloPrefix+"u") || "ceca".startsWith(@gloPrefix+"u") || "celtes".startsWith(@gloPrefix+"u") || "charlemagne".startsWith(@gloPrefix+"u") || "charte de l'environnement".startsWith(@gloPrefix+"u") || "chateau de versailles".startsWith(@gloPrefix+"u") || "chef de l'etat".startsWith(@gloPrefix+"u") || "cinquieme republique".startsWith(@gloPrefix+"u") || "citoyen".startsWith(@gloPrefix+"u") || "citoyennete".startsWith(@gloPrefix+"u") || "clovis".startsWith(@gloPrefix+"u") || "collectivites territoriales".startsWith(@gloPrefix+"u") || "college".startsWith(@gloPrefix+"u") || "colonisation".startsWith(@gloPrefix+"u") || "commission europeenne".startsWith(@gloPrefix+"u") || "commune".startsWith(@gloPrefix+"u") || "conseil constitutionnel".startsWith(@gloPrefix+"u") || "conseil de l'union europeenne".startsWith(@gloPrefix+"u") || "conseil departemental".startsWith(@gloPrefix+"u") || "conseil europeen".startsWith(@gloPrefix+"u") || "conseil municipal".startsWith(@gloPrefix+"u") || "conseil regional".startsWith(@gloPrefix+"u") || "consentement".startsWith(@gloPrefix+"u") || "constitution".startsWith(@gloPrefix+"u") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"u") || "contrat de travail".startsWith(@gloPrefix+"u") || "contravention".startsWith(@gloPrefix+"u") || "cotisations sociales".startsWith(@gloPrefix+"u") || "cour d'assises".startsWith(@gloPrefix+"u") || "cpam".startsWith(@gloPrefix+"u") || "crime".startsWith(@gloPrefix+"u") || "decheterie".startsWith(@gloPrefix+"u") || "dechets".startsWith(@gloPrefix+"u") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"u") || "delit".startsWith(@gloPrefix+"u") || "democratie".startsWith(@gloPrefix+"u") || "departement".startsWith(@gloPrefix+"u") || "depute".startsWith(@gloPrefix+"u") || "depute europeen".startsWith(@gloPrefix+"u") || "devise de la republique".startsWith(@gloPrefix+"u") || "devoir".startsWith(@gloPrefix+"u") || "dignite humaine".startsWith(@gloPrefix+"u") || "discrimination".startsWith(@gloPrefix+"u") || "divorce".startsWith(@gloPrefix+"u") || "drapeau francais".startsWith(@gloPrefix+"u") || "droits civiques".startsWith(@gloPrefix+"u") || "droits fondamentaux".startsWith(@gloPrefix+"u") || "drom".startsWith(@gloPrefix+"u") || "ecole".startsWith(@gloPrefix+"u") || "egalite".startsWith(@gloPrefix+"u") || "election".startsWith(@gloPrefix+"u") || "elections europeennes".startsWith(@gloPrefix+"u") || "elections municipales".startsWith(@gloPrefix+"u") || "eligibilite".startsWith(@gloPrefix+"u") || "employeur".startsWith(@gloPrefix+"u") || "entreprise".startsWith(@gloPrefix+"u") || "environnement".startsWith(@gloPrefix+"u") || "esclavage".startsWith(@gloPrefix+"u") || "espace schengen".startsWith(@gloPrefix+"u") || "etat".startsWith(@gloPrefix+"u") || "etat civil".startsWith(@gloPrefix+"u") || "euro".startsWith(@gloPrefix+"u") || "fete de la musique".startsWith(@gloPrefix+"u") || "fete nationale".startsWith(@gloPrefix+"u") || "fleuve".startsWith(@gloPrefix+"u") || "france metropolitaine".startsWith(@gloPrefix+"u") || "france services".startsWith(@gloPrefix+"u") || "france travail".startsWith(@gloPrefix+"u") || "francophonie".startsWith(@gloPrefix+"u") || "fraternite".startsWith(@gloPrefix+"u") || "gastronomie francaise".startsWith(@gloPrefix+"u") || "gaule".startsWith(@gloPrefix+"u") || "gendarmerie".startsWith(@gloPrefix+"u") || "genocide".startsWith(@gloPrefix+"u") || "gouvernement".startsWith(@gloPrefix+"u") || "greve".startsWith(@gloPrefix+"u") || "guadeloupe".startsWith(@gloPrefix+"u") || "guyane".startsWith(@gloPrefix+"u") || "handicap".startsWith(@gloPrefix+"u") || "harcelement".startsWith(@gloPrefix+"u") || "harcelement scolaire".startsWith(@gloPrefix+"u") || "hopital".startsWith(@gloPrefix+"u") || "ile-de-france".startsWith(@gloPrefix+"u") || "impot".startsWith(@gloPrefix+"u") || "impressionnisme".startsWith(@gloPrefix+"u") || "infraction".startsWith(@gloPrefix+"u") || "instruction obligatoire".startsWith(@gloPrefix+"u") || "integrite de la personne".startsWith(@gloPrefix+"u") || "interet general".startsWith(@gloPrefix+"u") || "ivg".startsWith(@gloPrefix+"u") || "journee de l'europe".startsWith(@gloPrefix+"u") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"u") || "juge".startsWith(@gloPrefix+"u") || "jure".startsWith(@gloPrefix+"u") || "justice".startsWith(@gloPrefix+"u") || "la marseillaise".startsWith(@gloPrefix+"u") || "la reunion".startsWith(@gloPrefix+"u") || "laicite".startsWith(@gloPrefix+"u") || "langue de la republique".startsWith(@gloPrefix+"u") || "liberte".startsWith(@gloPrefix+"u") || "liberte de conscience".startsWith(@gloPrefix+"u") || "listes electorales".startsWith(@gloPrefix+"u") || "litterature".startsWith(@gloPrefix+"u") || "locataire".startsWith(@gloPrefix+"u") || "loi".startsWith(@gloPrefix+"u") || "lycee".startsWith(@gloPrefix+"u") || "maire".startsWith(@gloPrefix+"u") || "mairie".startsWith(@gloPrefix+"u") || "majorite".startsWith(@gloPrefix+"u") || "mandat".startsWith(@gloPrefix+"u") || "marianne".startsWith(@gloPrefix+"u") || "martinique".startsWith(@gloPrefix+"u") || "mayotte".startsWith(@gloPrefix+"u") || "medecin traitant".startsWith(@gloPrefix+"u") || "mediterranee".startsWith(@gloPrefix+"u") || "ministre".startsWith(@gloPrefix+"u") || "monarchie".startsWith(@gloPrefix+"u") || "mont-saint-michel".startsWith(@gloPrefix+"u") || "musee du louvre".startsWith(@gloPrefix+"u") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"u") || "mutuelle".startsWith(@gloPrefix+"u") || "naissance".startsWith(@gloPrefix+"u") || "naturalisation".startsWith(@gloPrefix+"u") || "neutralite".startsWith(@gloPrefix+"u") || "opinion".startsWith(@gloPrefix+"u") || "ordre public".startsWith(@gloPrefix+"u") || "outre-mer".startsWith(@gloPrefix+"u") || "parlement".startsWith(@gloPrefix+"u") || "parlement europeen".startsWith(@gloPrefix+"u") || "parti politique".startsWith(@gloPrefix+"u") || "patrimoine".startsWith(@gloPrefix+"u") || "peine de mort".startsWith(@gloPrefix+"u") || "plainte".startsWith(@gloPrefix+"u") || "police".startsWith(@gloPrefix+"u") || "polygamie".startsWith(@gloPrefix+"u") || "pouvoir executif".startsWith(@gloPrefix+"u") || "pouvoir judiciaire".startsWith(@gloPrefix+"u") || "pouvoir legislatif".startsWith(@gloPrefix+"u") || "prefecture".startsWith(@gloPrefix+"u") || "prefet".startsWith(@gloPrefix+"u") || "premier ministre".startsWith(@gloPrefix+"u") || "premiere guerre mondiale".startsWith(@gloPrefix+"u") || "president de la republique".startsWith(@gloPrefix+"u") || "presomption d'innocence".startsWith(@gloPrefix+"u") || "prevention".startsWith(@gloPrefix+"u") || "procuration".startsWith(@gloPrefix+"u") || "proprietaire".startsWith(@gloPrefix+"u") || "prostitution".startsWith(@gloPrefix+"u") || "protection sociale".startsWith(@gloPrefix+"u") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"u") || "pyrenees".startsWith(@gloPrefix+"u") || "quinquennat".startsWith(@gloPrefix+"u") || "recyclage".startsWith(@gloPrefix+"u") || "referendum".startsWith(@gloPrefix+"u") || "region".startsWith(@gloPrefix+"u") || "religion".startsWith(@gloPrefix+"u") || "republique".startsWith(@gloPrefix+"u") || "reseaux sociaux".startsWith(@gloPrefix+"u") || "resistance".startsWith(@gloPrefix+"u") || "respect".startsWith(@gloPrefix+"u") || "revolution francaise".startsWith(@gloPrefix+"u") || "salaire".startsWith(@gloPrefix+"u") || "salaire brut".startsWith(@gloPrefix+"u") || "salaire net".startsWith(@gloPrefix+"u") || "salarie".startsWith(@gloPrefix+"u") || "samu".startsWith(@gloPrefix+"u") || "seconde guerre mondiale".startsWith(@gloPrefix+"u") || "secours".startsWith(@gloPrefix+"u") || "securite routiere".startsWith(@gloPrefix+"u") || "seine".startsWith(@gloPrefix+"u") || "senat".startsWith(@gloPrefix+"u") || "senateur".startsWith(@gloPrefix+"u") || "separation des pouvoirs".startsWith(@gloPrefix+"u") || "service public".startsWith(@gloPrefix+"u") || "shoah".startsWith(@gloPrefix+"u") || "smic".startsWith(@gloPrefix+"u") || "souverainete nationale".startsWith(@gloPrefix+"u") || "suffrage universel".startsWith(@gloPrefix+"u") || "surete".startsWith(@gloPrefix+"u") || "titre de sejour".startsWith(@gloPrefix+"u") || "tour eiffel".startsWith(@gloPrefix+"u") || "traite de maastricht".startsWith(@gloPrefix+"u") || "traite des etres humains".startsWith(@gloPrefix+"u") || "travail dissimule".startsWith(@gloPrefix+"u") || "tri des dechets".startsWith(@gloPrefix+"u") || "unesco".startsWith(@gloPrefix+"u") || "union europeenne".startsWith(@gloPrefix+"u") || "urgence".startsWith(@gloPrefix+"u") || "urgences".startsWith(@gloPrefix+"u") || "vercingetorix".startsWith(@gloPrefix+"u") || "violence".startsWith(@gloPrefix+"u") || "vote".startsWith(@gloPrefix+"u"))`
-`@gloNextV = calc("abolition".startsWith(@gloPrefix+"v") || "abstention".startsWith(@gloPrefix+"v") || "agents publics".startsWith(@gloPrefix+"v") || "alpes".startsWith(@gloPrefix+"v") || "amende".startsWith(@gloPrefix+"v") || "apl".startsWith(@gloPrefix+"v") || "armistice".startsWith(@gloPrefix+"v") || "assemblee nationale".startsWith(@gloPrefix+"v") || "assistance a personne en danger".startsWith(@gloPrefix+"v") || "assurance maladie".startsWith(@gloPrefix+"v") || "autorite parentale".startsWith(@gloPrefix+"v") || "avocat".startsWith(@gloPrefix+"v") || "bail".startsWith(@gloPrefix+"v") || "benevolat".startsWith(@gloPrefix+"v") || "bretagne".startsWith(@gloPrefix+"v") || "caf".startsWith(@gloPrefix+"v") || "carte de resident".startsWith(@gloPrefix+"v") || "carte vitale".startsWith(@gloPrefix+"v") || "cdd".startsWith(@gloPrefix+"v") || "cdi".startsWith(@gloPrefix+"v") || "ceca".startsWith(@gloPrefix+"v") || "celtes".startsWith(@gloPrefix+"v") || "charlemagne".startsWith(@gloPrefix+"v") || "charte de l'environnement".startsWith(@gloPrefix+"v") || "chateau de versailles".startsWith(@gloPrefix+"v") || "chef de l'etat".startsWith(@gloPrefix+"v") || "cinquieme republique".startsWith(@gloPrefix+"v") || "citoyen".startsWith(@gloPrefix+"v") || "citoyennete".startsWith(@gloPrefix+"v") || "clovis".startsWith(@gloPrefix+"v") || "collectivites territoriales".startsWith(@gloPrefix+"v") || "college".startsWith(@gloPrefix+"v") || "colonisation".startsWith(@gloPrefix+"v") || "commission europeenne".startsWith(@gloPrefix+"v") || "commune".startsWith(@gloPrefix+"v") || "conseil constitutionnel".startsWith(@gloPrefix+"v") || "conseil de l'union europeenne".startsWith(@gloPrefix+"v") || "conseil departemental".startsWith(@gloPrefix+"v") || "conseil europeen".startsWith(@gloPrefix+"v") || "conseil municipal".startsWith(@gloPrefix+"v") || "conseil regional".startsWith(@gloPrefix+"v") || "consentement".startsWith(@gloPrefix+"v") || "constitution".startsWith(@gloPrefix+"v") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"v") || "contrat de travail".startsWith(@gloPrefix+"v") || "contravention".startsWith(@gloPrefix+"v") || "cotisations sociales".startsWith(@gloPrefix+"v") || "cour d'assises".startsWith(@gloPrefix+"v") || "cpam".startsWith(@gloPrefix+"v") || "crime".startsWith(@gloPrefix+"v") || "decheterie".startsWith(@gloPrefix+"v") || "dechets".startsWith(@gloPrefix+"v") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"v") || "delit".startsWith(@gloPrefix+"v") || "democratie".startsWith(@gloPrefix+"v") || "departement".startsWith(@gloPrefix+"v") || "depute".startsWith(@gloPrefix+"v") || "depute europeen".startsWith(@gloPrefix+"v") || "devise de la republique".startsWith(@gloPrefix+"v") || "devoir".startsWith(@gloPrefix+"v") || "dignite humaine".startsWith(@gloPrefix+"v") || "discrimination".startsWith(@gloPrefix+"v") || "divorce".startsWith(@gloPrefix+"v") || "drapeau francais".startsWith(@gloPrefix+"v") || "droits civiques".startsWith(@gloPrefix+"v") || "droits fondamentaux".startsWith(@gloPrefix+"v") || "drom".startsWith(@gloPrefix+"v") || "ecole".startsWith(@gloPrefix+"v") || "egalite".startsWith(@gloPrefix+"v") || "election".startsWith(@gloPrefix+"v") || "elections europeennes".startsWith(@gloPrefix+"v") || "elections municipales".startsWith(@gloPrefix+"v") || "eligibilite".startsWith(@gloPrefix+"v") || "employeur".startsWith(@gloPrefix+"v") || "entreprise".startsWith(@gloPrefix+"v") || "environnement".startsWith(@gloPrefix+"v") || "esclavage".startsWith(@gloPrefix+"v") || "espace schengen".startsWith(@gloPrefix+"v") || "etat".startsWith(@gloPrefix+"v") || "etat civil".startsWith(@gloPrefix+"v") || "euro".startsWith(@gloPrefix+"v") || "fete de la musique".startsWith(@gloPrefix+"v") || "fete nationale".startsWith(@gloPrefix+"v") || "fleuve".startsWith(@gloPrefix+"v") || "france metropolitaine".startsWith(@gloPrefix+"v") || "france services".startsWith(@gloPrefix+"v") || "france travail".startsWith(@gloPrefix+"v") || "francophonie".startsWith(@gloPrefix+"v") || "fraternite".startsWith(@gloPrefix+"v") || "gastronomie francaise".startsWith(@gloPrefix+"v") || "gaule".startsWith(@gloPrefix+"v") || "gendarmerie".startsWith(@gloPrefix+"v") || "genocide".startsWith(@gloPrefix+"v") || "gouvernement".startsWith(@gloPrefix+"v") || "greve".startsWith(@gloPrefix+"v") || "guadeloupe".startsWith(@gloPrefix+"v") || "guyane".startsWith(@gloPrefix+"v") || "handicap".startsWith(@gloPrefix+"v") || "harcelement".startsWith(@gloPrefix+"v") || "harcelement scolaire".startsWith(@gloPrefix+"v") || "hopital".startsWith(@gloPrefix+"v") || "ile-de-france".startsWith(@gloPrefix+"v") || "impot".startsWith(@gloPrefix+"v") || "impressionnisme".startsWith(@gloPrefix+"v") || "infraction".startsWith(@gloPrefix+"v") || "instruction obligatoire".startsWith(@gloPrefix+"v") || "integrite de la personne".startsWith(@gloPrefix+"v") || "interet general".startsWith(@gloPrefix+"v") || "ivg".startsWith(@gloPrefix+"v") || "journee de l'europe".startsWith(@gloPrefix+"v") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"v") || "juge".startsWith(@gloPrefix+"v") || "jure".startsWith(@gloPrefix+"v") || "justice".startsWith(@gloPrefix+"v") || "la marseillaise".startsWith(@gloPrefix+"v") || "la reunion".startsWith(@gloPrefix+"v") || "laicite".startsWith(@gloPrefix+"v") || "langue de la republique".startsWith(@gloPrefix+"v") || "liberte".startsWith(@gloPrefix+"v") || "liberte de conscience".startsWith(@gloPrefix+"v") || "listes electorales".startsWith(@gloPrefix+"v") || "litterature".startsWith(@gloPrefix+"v") || "locataire".startsWith(@gloPrefix+"v") || "loi".startsWith(@gloPrefix+"v") || "lycee".startsWith(@gloPrefix+"v") || "maire".startsWith(@gloPrefix+"v") || "mairie".startsWith(@gloPrefix+"v") || "majorite".startsWith(@gloPrefix+"v") || "mandat".startsWith(@gloPrefix+"v") || "marianne".startsWith(@gloPrefix+"v") || "martinique".startsWith(@gloPrefix+"v") || "mayotte".startsWith(@gloPrefix+"v") || "medecin traitant".startsWith(@gloPrefix+"v") || "mediterranee".startsWith(@gloPrefix+"v") || "ministre".startsWith(@gloPrefix+"v") || "monarchie".startsWith(@gloPrefix+"v") || "mont-saint-michel".startsWith(@gloPrefix+"v") || "musee du louvre".startsWith(@gloPrefix+"v") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"v") || "mutuelle".startsWith(@gloPrefix+"v") || "naissance".startsWith(@gloPrefix+"v") || "naturalisation".startsWith(@gloPrefix+"v") || "neutralite".startsWith(@gloPrefix+"v") || "opinion".startsWith(@gloPrefix+"v") || "ordre public".startsWith(@gloPrefix+"v") || "outre-mer".startsWith(@gloPrefix+"v") || "parlement".startsWith(@gloPrefix+"v") || "parlement europeen".startsWith(@gloPrefix+"v") || "parti politique".startsWith(@gloPrefix+"v") || "patrimoine".startsWith(@gloPrefix+"v") || "peine de mort".startsWith(@gloPrefix+"v") || "plainte".startsWith(@gloPrefix+"v") || "police".startsWith(@gloPrefix+"v") || "polygamie".startsWith(@gloPrefix+"v") || "pouvoir executif".startsWith(@gloPrefix+"v") || "pouvoir judiciaire".startsWith(@gloPrefix+"v") || "pouvoir legislatif".startsWith(@gloPrefix+"v") || "prefecture".startsWith(@gloPrefix+"v") || "prefet".startsWith(@gloPrefix+"v") || "premier ministre".startsWith(@gloPrefix+"v") || "premiere guerre mondiale".startsWith(@gloPrefix+"v") || "president de la republique".startsWith(@gloPrefix+"v") || "presomption d'innocence".startsWith(@gloPrefix+"v") || "prevention".startsWith(@gloPrefix+"v") || "procuration".startsWith(@gloPrefix+"v") || "proprietaire".startsWith(@gloPrefix+"v") || "prostitution".startsWith(@gloPrefix+"v") || "protection sociale".startsWith(@gloPrefix+"v") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"v") || "pyrenees".startsWith(@gloPrefix+"v") || "quinquennat".startsWith(@gloPrefix+"v") || "recyclage".startsWith(@gloPrefix+"v") || "referendum".startsWith(@gloPrefix+"v") || "region".startsWith(@gloPrefix+"v") || "religion".startsWith(@gloPrefix+"v") || "republique".startsWith(@gloPrefix+"v") || "reseaux sociaux".startsWith(@gloPrefix+"v") || "resistance".startsWith(@gloPrefix+"v") || "respect".startsWith(@gloPrefix+"v") || "revolution francaise".startsWith(@gloPrefix+"v") || "salaire".startsWith(@gloPrefix+"v") || "salaire brut".startsWith(@gloPrefix+"v") || "salaire net".startsWith(@gloPrefix+"v") || "salarie".startsWith(@gloPrefix+"v") || "samu".startsWith(@gloPrefix+"v") || "seconde guerre mondiale".startsWith(@gloPrefix+"v") || "secours".startsWith(@gloPrefix+"v") || "securite routiere".startsWith(@gloPrefix+"v") || "seine".startsWith(@gloPrefix+"v") || "senat".startsWith(@gloPrefix+"v") || "senateur".startsWith(@gloPrefix+"v") || "separation des pouvoirs".startsWith(@gloPrefix+"v") || "service public".startsWith(@gloPrefix+"v") || "shoah".startsWith(@gloPrefix+"v") || "smic".startsWith(@gloPrefix+"v") || "souverainete nationale".startsWith(@gloPrefix+"v") || "suffrage universel".startsWith(@gloPrefix+"v") || "surete".startsWith(@gloPrefix+"v") || "titre de sejour".startsWith(@gloPrefix+"v") || "tour eiffel".startsWith(@gloPrefix+"v") || "traite de maastricht".startsWith(@gloPrefix+"v") || "traite des etres humains".startsWith(@gloPrefix+"v") || "travail dissimule".startsWith(@gloPrefix+"v") || "tri des dechets".startsWith(@gloPrefix+"v") || "unesco".startsWith(@gloPrefix+"v") || "union europeenne".startsWith(@gloPrefix+"v") || "urgence".startsWith(@gloPrefix+"v") || "urgences".startsWith(@gloPrefix+"v") || "vercingetorix".startsWith(@gloPrefix+"v") || "violence".startsWith(@gloPrefix+"v") || "vote".startsWith(@gloPrefix+"v"))`
-`@gloNextW = calc("abolition".startsWith(@gloPrefix+"w") || "abstention".startsWith(@gloPrefix+"w") || "agents publics".startsWith(@gloPrefix+"w") || "alpes".startsWith(@gloPrefix+"w") || "amende".startsWith(@gloPrefix+"w") || "apl".startsWith(@gloPrefix+"w") || "armistice".startsWith(@gloPrefix+"w") || "assemblee nationale".startsWith(@gloPrefix+"w") || "assistance a personne en danger".startsWith(@gloPrefix+"w") || "assurance maladie".startsWith(@gloPrefix+"w") || "autorite parentale".startsWith(@gloPrefix+"w") || "avocat".startsWith(@gloPrefix+"w") || "bail".startsWith(@gloPrefix+"w") || "benevolat".startsWith(@gloPrefix+"w") || "bretagne".startsWith(@gloPrefix+"w") || "caf".startsWith(@gloPrefix+"w") || "carte de resident".startsWith(@gloPrefix+"w") || "carte vitale".startsWith(@gloPrefix+"w") || "cdd".startsWith(@gloPrefix+"w") || "cdi".startsWith(@gloPrefix+"w") || "ceca".startsWith(@gloPrefix+"w") || "celtes".startsWith(@gloPrefix+"w") || "charlemagne".startsWith(@gloPrefix+"w") || "charte de l'environnement".startsWith(@gloPrefix+"w") || "chateau de versailles".startsWith(@gloPrefix+"w") || "chef de l'etat".startsWith(@gloPrefix+"w") || "cinquieme republique".startsWith(@gloPrefix+"w") || "citoyen".startsWith(@gloPrefix+"w") || "citoyennete".startsWith(@gloPrefix+"w") || "clovis".startsWith(@gloPrefix+"w") || "collectivites territoriales".startsWith(@gloPrefix+"w") || "college".startsWith(@gloPrefix+"w") || "colonisation".startsWith(@gloPrefix+"w") || "commission europeenne".startsWith(@gloPrefix+"w") || "commune".startsWith(@gloPrefix+"w") || "conseil constitutionnel".startsWith(@gloPrefix+"w") || "conseil de l'union europeenne".startsWith(@gloPrefix+"w") || "conseil departemental".startsWith(@gloPrefix+"w") || "conseil europeen".startsWith(@gloPrefix+"w") || "conseil municipal".startsWith(@gloPrefix+"w") || "conseil regional".startsWith(@gloPrefix+"w") || "consentement".startsWith(@gloPrefix+"w") || "constitution".startsWith(@gloPrefix+"w") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"w") || "contrat de travail".startsWith(@gloPrefix+"w") || "contravention".startsWith(@gloPrefix+"w") || "cotisations sociales".startsWith(@gloPrefix+"w") || "cour d'assises".startsWith(@gloPrefix+"w") || "cpam".startsWith(@gloPrefix+"w") || "crime".startsWith(@gloPrefix+"w") || "decheterie".startsWith(@gloPrefix+"w") || "dechets".startsWith(@gloPrefix+"w") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"w") || "delit".startsWith(@gloPrefix+"w") || "democratie".startsWith(@gloPrefix+"w") || "departement".startsWith(@gloPrefix+"w") || "depute".startsWith(@gloPrefix+"w") || "depute europeen".startsWith(@gloPrefix+"w") || "devise de la republique".startsWith(@gloPrefix+"w") || "devoir".startsWith(@gloPrefix+"w") || "dignite humaine".startsWith(@gloPrefix+"w") || "discrimination".startsWith(@gloPrefix+"w") || "divorce".startsWith(@gloPrefix+"w") || "drapeau francais".startsWith(@gloPrefix+"w") || "droits civiques".startsWith(@gloPrefix+"w") || "droits fondamentaux".startsWith(@gloPrefix+"w") || "drom".startsWith(@gloPrefix+"w") || "ecole".startsWith(@gloPrefix+"w") || "egalite".startsWith(@gloPrefix+"w") || "election".startsWith(@gloPrefix+"w") || "elections europeennes".startsWith(@gloPrefix+"w") || "elections municipales".startsWith(@gloPrefix+"w") || "eligibilite".startsWith(@gloPrefix+"w") || "employeur".startsWith(@gloPrefix+"w") || "entreprise".startsWith(@gloPrefix+"w") || "environnement".startsWith(@gloPrefix+"w") || "esclavage".startsWith(@gloPrefix+"w") || "espace schengen".startsWith(@gloPrefix+"w") || "etat".startsWith(@gloPrefix+"w") || "etat civil".startsWith(@gloPrefix+"w") || "euro".startsWith(@gloPrefix+"w") || "fete de la musique".startsWith(@gloPrefix+"w") || "fete nationale".startsWith(@gloPrefix+"w") || "fleuve".startsWith(@gloPrefix+"w") || "france metropolitaine".startsWith(@gloPrefix+"w") || "france services".startsWith(@gloPrefix+"w") || "france travail".startsWith(@gloPrefix+"w") || "francophonie".startsWith(@gloPrefix+"w") || "fraternite".startsWith(@gloPrefix+"w") || "gastronomie francaise".startsWith(@gloPrefix+"w") || "gaule".startsWith(@gloPrefix+"w") || "gendarmerie".startsWith(@gloPrefix+"w") || "genocide".startsWith(@gloPrefix+"w") || "gouvernement".startsWith(@gloPrefix+"w") || "greve".startsWith(@gloPrefix+"w") || "guadeloupe".startsWith(@gloPrefix+"w") || "guyane".startsWith(@gloPrefix+"w") || "handicap".startsWith(@gloPrefix+"w") || "harcelement".startsWith(@gloPrefix+"w") || "harcelement scolaire".startsWith(@gloPrefix+"w") || "hopital".startsWith(@gloPrefix+"w") || "ile-de-france".startsWith(@gloPrefix+"w") || "impot".startsWith(@gloPrefix+"w") || "impressionnisme".startsWith(@gloPrefix+"w") || "infraction".startsWith(@gloPrefix+"w") || "instruction obligatoire".startsWith(@gloPrefix+"w") || "integrite de la personne".startsWith(@gloPrefix+"w") || "interet general".startsWith(@gloPrefix+"w") || "ivg".startsWith(@gloPrefix+"w") || "journee de l'europe".startsWith(@gloPrefix+"w") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"w") || "juge".startsWith(@gloPrefix+"w") || "jure".startsWith(@gloPrefix+"w") || "justice".startsWith(@gloPrefix+"w") || "la marseillaise".startsWith(@gloPrefix+"w") || "la reunion".startsWith(@gloPrefix+"w") || "laicite".startsWith(@gloPrefix+"w") || "langue de la republique".startsWith(@gloPrefix+"w") || "liberte".startsWith(@gloPrefix+"w") || "liberte de conscience".startsWith(@gloPrefix+"w") || "listes electorales".startsWith(@gloPrefix+"w") || "litterature".startsWith(@gloPrefix+"w") || "locataire".startsWith(@gloPrefix+"w") || "loi".startsWith(@gloPrefix+"w") || "lycee".startsWith(@gloPrefix+"w") || "maire".startsWith(@gloPrefix+"w") || "mairie".startsWith(@gloPrefix+"w") || "majorite".startsWith(@gloPrefix+"w") || "mandat".startsWith(@gloPrefix+"w") || "marianne".startsWith(@gloPrefix+"w") || "martinique".startsWith(@gloPrefix+"w") || "mayotte".startsWith(@gloPrefix+"w") || "medecin traitant".startsWith(@gloPrefix+"w") || "mediterranee".startsWith(@gloPrefix+"w") || "ministre".startsWith(@gloPrefix+"w") || "monarchie".startsWith(@gloPrefix+"w") || "mont-saint-michel".startsWith(@gloPrefix+"w") || "musee du louvre".startsWith(@gloPrefix+"w") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"w") || "mutuelle".startsWith(@gloPrefix+"w") || "naissance".startsWith(@gloPrefix+"w") || "naturalisation".startsWith(@gloPrefix+"w") || "neutralite".startsWith(@gloPrefix+"w") || "opinion".startsWith(@gloPrefix+"w") || "ordre public".startsWith(@gloPrefix+"w") || "outre-mer".startsWith(@gloPrefix+"w") || "parlement".startsWith(@gloPrefix+"w") || "parlement europeen".startsWith(@gloPrefix+"w") || "parti politique".startsWith(@gloPrefix+"w") || "patrimoine".startsWith(@gloPrefix+"w") || "peine de mort".startsWith(@gloPrefix+"w") || "plainte".startsWith(@gloPrefix+"w") || "police".startsWith(@gloPrefix+"w") || "polygamie".startsWith(@gloPrefix+"w") || "pouvoir executif".startsWith(@gloPrefix+"w") || "pouvoir judiciaire".startsWith(@gloPrefix+"w") || "pouvoir legislatif".startsWith(@gloPrefix+"w") || "prefecture".startsWith(@gloPrefix+"w") || "prefet".startsWith(@gloPrefix+"w") || "premier ministre".startsWith(@gloPrefix+"w") || "premiere guerre mondiale".startsWith(@gloPrefix+"w") || "president de la republique".startsWith(@gloPrefix+"w") || "presomption d'innocence".startsWith(@gloPrefix+"w") || "prevention".startsWith(@gloPrefix+"w") || "procuration".startsWith(@gloPrefix+"w") || "proprietaire".startsWith(@gloPrefix+"w") || "prostitution".startsWith(@gloPrefix+"w") || "protection sociale".startsWith(@gloPrefix+"w") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"w") || "pyrenees".startsWith(@gloPrefix+"w") || "quinquennat".startsWith(@gloPrefix+"w") || "recyclage".startsWith(@gloPrefix+"w") || "referendum".startsWith(@gloPrefix+"w") || "region".startsWith(@gloPrefix+"w") || "religion".startsWith(@gloPrefix+"w") || "republique".startsWith(@gloPrefix+"w") || "reseaux sociaux".startsWith(@gloPrefix+"w") || "resistance".startsWith(@gloPrefix+"w") || "respect".startsWith(@gloPrefix+"w") || "revolution francaise".startsWith(@gloPrefix+"w") || "salaire".startsWith(@gloPrefix+"w") || "salaire brut".startsWith(@gloPrefix+"w") || "salaire net".startsWith(@gloPrefix+"w") || "salarie".startsWith(@gloPrefix+"w") || "samu".startsWith(@gloPrefix+"w") || "seconde guerre mondiale".startsWith(@gloPrefix+"w") || "secours".startsWith(@gloPrefix+"w") || "securite routiere".startsWith(@gloPrefix+"w") || "seine".startsWith(@gloPrefix+"w") || "senat".startsWith(@gloPrefix+"w") || "senateur".startsWith(@gloPrefix+"w") || "separation des pouvoirs".startsWith(@gloPrefix+"w") || "service public".startsWith(@gloPrefix+"w") || "shoah".startsWith(@gloPrefix+"w") || "smic".startsWith(@gloPrefix+"w") || "souverainete nationale".startsWith(@gloPrefix+"w") || "suffrage universel".startsWith(@gloPrefix+"w") || "surete".startsWith(@gloPrefix+"w") || "titre de sejour".startsWith(@gloPrefix+"w") || "tour eiffel".startsWith(@gloPrefix+"w") || "traite de maastricht".startsWith(@gloPrefix+"w") || "traite des etres humains".startsWith(@gloPrefix+"w") || "travail dissimule".startsWith(@gloPrefix+"w") || "tri des dechets".startsWith(@gloPrefix+"w") || "unesco".startsWith(@gloPrefix+"w") || "union europeenne".startsWith(@gloPrefix+"w") || "urgence".startsWith(@gloPrefix+"w") || "urgences".startsWith(@gloPrefix+"w") || "vercingetorix".startsWith(@gloPrefix+"w") || "violence".startsWith(@gloPrefix+"w") || "vote".startsWith(@gloPrefix+"w"))`
-`@gloNextX = calc("abolition".startsWith(@gloPrefix+"x") || "abstention".startsWith(@gloPrefix+"x") || "agents publics".startsWith(@gloPrefix+"x") || "alpes".startsWith(@gloPrefix+"x") || "amende".startsWith(@gloPrefix+"x") || "apl".startsWith(@gloPrefix+"x") || "armistice".startsWith(@gloPrefix+"x") || "assemblee nationale".startsWith(@gloPrefix+"x") || "assistance a personne en danger".startsWith(@gloPrefix+"x") || "assurance maladie".startsWith(@gloPrefix+"x") || "autorite parentale".startsWith(@gloPrefix+"x") || "avocat".startsWith(@gloPrefix+"x") || "bail".startsWith(@gloPrefix+"x") || "benevolat".startsWith(@gloPrefix+"x") || "bretagne".startsWith(@gloPrefix+"x") || "caf".startsWith(@gloPrefix+"x") || "carte de resident".startsWith(@gloPrefix+"x") || "carte vitale".startsWith(@gloPrefix+"x") || "cdd".startsWith(@gloPrefix+"x") || "cdi".startsWith(@gloPrefix+"x") || "ceca".startsWith(@gloPrefix+"x") || "celtes".startsWith(@gloPrefix+"x") || "charlemagne".startsWith(@gloPrefix+"x") || "charte de l'environnement".startsWith(@gloPrefix+"x") || "chateau de versailles".startsWith(@gloPrefix+"x") || "chef de l'etat".startsWith(@gloPrefix+"x") || "cinquieme republique".startsWith(@gloPrefix+"x") || "citoyen".startsWith(@gloPrefix+"x") || "citoyennete".startsWith(@gloPrefix+"x") || "clovis".startsWith(@gloPrefix+"x") || "collectivites territoriales".startsWith(@gloPrefix+"x") || "college".startsWith(@gloPrefix+"x") || "colonisation".startsWith(@gloPrefix+"x") || "commission europeenne".startsWith(@gloPrefix+"x") || "commune".startsWith(@gloPrefix+"x") || "conseil constitutionnel".startsWith(@gloPrefix+"x") || "conseil de l'union europeenne".startsWith(@gloPrefix+"x") || "conseil departemental".startsWith(@gloPrefix+"x") || "conseil europeen".startsWith(@gloPrefix+"x") || "conseil municipal".startsWith(@gloPrefix+"x") || "conseil regional".startsWith(@gloPrefix+"x") || "consentement".startsWith(@gloPrefix+"x") || "constitution".startsWith(@gloPrefix+"x") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"x") || "contrat de travail".startsWith(@gloPrefix+"x") || "contravention".startsWith(@gloPrefix+"x") || "cotisations sociales".startsWith(@gloPrefix+"x") || "cour d'assises".startsWith(@gloPrefix+"x") || "cpam".startsWith(@gloPrefix+"x") || "crime".startsWith(@gloPrefix+"x") || "decheterie".startsWith(@gloPrefix+"x") || "dechets".startsWith(@gloPrefix+"x") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"x") || "delit".startsWith(@gloPrefix+"x") || "democratie".startsWith(@gloPrefix+"x") || "departement".startsWith(@gloPrefix+"x") || "depute".startsWith(@gloPrefix+"x") || "depute europeen".startsWith(@gloPrefix+"x") || "devise de la republique".startsWith(@gloPrefix+"x") || "devoir".startsWith(@gloPrefix+"x") || "dignite humaine".startsWith(@gloPrefix+"x") || "discrimination".startsWith(@gloPrefix+"x") || "divorce".startsWith(@gloPrefix+"x") || "drapeau francais".startsWith(@gloPrefix+"x") || "droits civiques".startsWith(@gloPrefix+"x") || "droits fondamentaux".startsWith(@gloPrefix+"x") || "drom".startsWith(@gloPrefix+"x") || "ecole".startsWith(@gloPrefix+"x") || "egalite".startsWith(@gloPrefix+"x") || "election".startsWith(@gloPrefix+"x") || "elections europeennes".startsWith(@gloPrefix+"x") || "elections municipales".startsWith(@gloPrefix+"x") || "eligibilite".startsWith(@gloPrefix+"x") || "employeur".startsWith(@gloPrefix+"x") || "entreprise".startsWith(@gloPrefix+"x") || "environnement".startsWith(@gloPrefix+"x") || "esclavage".startsWith(@gloPrefix+"x") || "espace schengen".startsWith(@gloPrefix+"x") || "etat".startsWith(@gloPrefix+"x") || "etat civil".startsWith(@gloPrefix+"x") || "euro".startsWith(@gloPrefix+"x") || "fete de la musique".startsWith(@gloPrefix+"x") || "fete nationale".startsWith(@gloPrefix+"x") || "fleuve".startsWith(@gloPrefix+"x") || "france metropolitaine".startsWith(@gloPrefix+"x") || "france services".startsWith(@gloPrefix+"x") || "france travail".startsWith(@gloPrefix+"x") || "francophonie".startsWith(@gloPrefix+"x") || "fraternite".startsWith(@gloPrefix+"x") || "gastronomie francaise".startsWith(@gloPrefix+"x") || "gaule".startsWith(@gloPrefix+"x") || "gendarmerie".startsWith(@gloPrefix+"x") || "genocide".startsWith(@gloPrefix+"x") || "gouvernement".startsWith(@gloPrefix+"x") || "greve".startsWith(@gloPrefix+"x") || "guadeloupe".startsWith(@gloPrefix+"x") || "guyane".startsWith(@gloPrefix+"x") || "handicap".startsWith(@gloPrefix+"x") || "harcelement".startsWith(@gloPrefix+"x") || "harcelement scolaire".startsWith(@gloPrefix+"x") || "hopital".startsWith(@gloPrefix+"x") || "ile-de-france".startsWith(@gloPrefix+"x") || "impot".startsWith(@gloPrefix+"x") || "impressionnisme".startsWith(@gloPrefix+"x") || "infraction".startsWith(@gloPrefix+"x") || "instruction obligatoire".startsWith(@gloPrefix+"x") || "integrite de la personne".startsWith(@gloPrefix+"x") || "interet general".startsWith(@gloPrefix+"x") || "ivg".startsWith(@gloPrefix+"x") || "journee de l'europe".startsWith(@gloPrefix+"x") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"x") || "juge".startsWith(@gloPrefix+"x") || "jure".startsWith(@gloPrefix+"x") || "justice".startsWith(@gloPrefix+"x") || "la marseillaise".startsWith(@gloPrefix+"x") || "la reunion".startsWith(@gloPrefix+"x") || "laicite".startsWith(@gloPrefix+"x") || "langue de la republique".startsWith(@gloPrefix+"x") || "liberte".startsWith(@gloPrefix+"x") || "liberte de conscience".startsWith(@gloPrefix+"x") || "listes electorales".startsWith(@gloPrefix+"x") || "litterature".startsWith(@gloPrefix+"x") || "locataire".startsWith(@gloPrefix+"x") || "loi".startsWith(@gloPrefix+"x") || "lycee".startsWith(@gloPrefix+"x") || "maire".startsWith(@gloPrefix+"x") || "mairie".startsWith(@gloPrefix+"x") || "majorite".startsWith(@gloPrefix+"x") || "mandat".startsWith(@gloPrefix+"x") || "marianne".startsWith(@gloPrefix+"x") || "martinique".startsWith(@gloPrefix+"x") || "mayotte".startsWith(@gloPrefix+"x") || "medecin traitant".startsWith(@gloPrefix+"x") || "mediterranee".startsWith(@gloPrefix+"x") || "ministre".startsWith(@gloPrefix+"x") || "monarchie".startsWith(@gloPrefix+"x") || "mont-saint-michel".startsWith(@gloPrefix+"x") || "musee du louvre".startsWith(@gloPrefix+"x") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"x") || "mutuelle".startsWith(@gloPrefix+"x") || "naissance".startsWith(@gloPrefix+"x") || "naturalisation".startsWith(@gloPrefix+"x") || "neutralite".startsWith(@gloPrefix+"x") || "opinion".startsWith(@gloPrefix+"x") || "ordre public".startsWith(@gloPrefix+"x") || "outre-mer".startsWith(@gloPrefix+"x") || "parlement".startsWith(@gloPrefix+"x") || "parlement europeen".startsWith(@gloPrefix+"x") || "parti politique".startsWith(@gloPrefix+"x") || "patrimoine".startsWith(@gloPrefix+"x") || "peine de mort".startsWith(@gloPrefix+"x") || "plainte".startsWith(@gloPrefix+"x") || "police".startsWith(@gloPrefix+"x") || "polygamie".startsWith(@gloPrefix+"x") || "pouvoir executif".startsWith(@gloPrefix+"x") || "pouvoir judiciaire".startsWith(@gloPrefix+"x") || "pouvoir legislatif".startsWith(@gloPrefix+"x") || "prefecture".startsWith(@gloPrefix+"x") || "prefet".startsWith(@gloPrefix+"x") || "premier ministre".startsWith(@gloPrefix+"x") || "premiere guerre mondiale".startsWith(@gloPrefix+"x") || "president de la republique".startsWith(@gloPrefix+"x") || "presomption d'innocence".startsWith(@gloPrefix+"x") || "prevention".startsWith(@gloPrefix+"x") || "procuration".startsWith(@gloPrefix+"x") || "proprietaire".startsWith(@gloPrefix+"x") || "prostitution".startsWith(@gloPrefix+"x") || "protection sociale".startsWith(@gloPrefix+"x") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"x") || "pyrenees".startsWith(@gloPrefix+"x") || "quinquennat".startsWith(@gloPrefix+"x") || "recyclage".startsWith(@gloPrefix+"x") || "referendum".startsWith(@gloPrefix+"x") || "region".startsWith(@gloPrefix+"x") || "religion".startsWith(@gloPrefix+"x") || "republique".startsWith(@gloPrefix+"x") || "reseaux sociaux".startsWith(@gloPrefix+"x") || "resistance".startsWith(@gloPrefix+"x") || "respect".startsWith(@gloPrefix+"x") || "revolution francaise".startsWith(@gloPrefix+"x") || "salaire".startsWith(@gloPrefix+"x") || "salaire brut".startsWith(@gloPrefix+"x") || "salaire net".startsWith(@gloPrefix+"x") || "salarie".startsWith(@gloPrefix+"x") || "samu".startsWith(@gloPrefix+"x") || "seconde guerre mondiale".startsWith(@gloPrefix+"x") || "secours".startsWith(@gloPrefix+"x") || "securite routiere".startsWith(@gloPrefix+"x") || "seine".startsWith(@gloPrefix+"x") || "senat".startsWith(@gloPrefix+"x") || "senateur".startsWith(@gloPrefix+"x") || "separation des pouvoirs".startsWith(@gloPrefix+"x") || "service public".startsWith(@gloPrefix+"x") || "shoah".startsWith(@gloPrefix+"x") || "smic".startsWith(@gloPrefix+"x") || "souverainete nationale".startsWith(@gloPrefix+"x") || "suffrage universel".startsWith(@gloPrefix+"x") || "surete".startsWith(@gloPrefix+"x") || "titre de sejour".startsWith(@gloPrefix+"x") || "tour eiffel".startsWith(@gloPrefix+"x") || "traite de maastricht".startsWith(@gloPrefix+"x") || "traite des etres humains".startsWith(@gloPrefix+"x") || "travail dissimule".startsWith(@gloPrefix+"x") || "tri des dechets".startsWith(@gloPrefix+"x") || "unesco".startsWith(@gloPrefix+"x") || "union europeenne".startsWith(@gloPrefix+"x") || "urgence".startsWith(@gloPrefix+"x") || "urgences".startsWith(@gloPrefix+"x") || "vercingetorix".startsWith(@gloPrefix+"x") || "violence".startsWith(@gloPrefix+"x") || "vote".startsWith(@gloPrefix+"x"))`
-`@gloNextY = calc("abolition".startsWith(@gloPrefix+"y") || "abstention".startsWith(@gloPrefix+"y") || "agents publics".startsWith(@gloPrefix+"y") || "alpes".startsWith(@gloPrefix+"y") || "amende".startsWith(@gloPrefix+"y") || "apl".startsWith(@gloPrefix+"y") || "armistice".startsWith(@gloPrefix+"y") || "assemblee nationale".startsWith(@gloPrefix+"y") || "assistance a personne en danger".startsWith(@gloPrefix+"y") || "assurance maladie".startsWith(@gloPrefix+"y") || "autorite parentale".startsWith(@gloPrefix+"y") || "avocat".startsWith(@gloPrefix+"y") || "bail".startsWith(@gloPrefix+"y") || "benevolat".startsWith(@gloPrefix+"y") || "bretagne".startsWith(@gloPrefix+"y") || "caf".startsWith(@gloPrefix+"y") || "carte de resident".startsWith(@gloPrefix+"y") || "carte vitale".startsWith(@gloPrefix+"y") || "cdd".startsWith(@gloPrefix+"y") || "cdi".startsWith(@gloPrefix+"y") || "ceca".startsWith(@gloPrefix+"y") || "celtes".startsWith(@gloPrefix+"y") || "charlemagne".startsWith(@gloPrefix+"y") || "charte de l'environnement".startsWith(@gloPrefix+"y") || "chateau de versailles".startsWith(@gloPrefix+"y") || "chef de l'etat".startsWith(@gloPrefix+"y") || "cinquieme republique".startsWith(@gloPrefix+"y") || "citoyen".startsWith(@gloPrefix+"y") || "citoyennete".startsWith(@gloPrefix+"y") || "clovis".startsWith(@gloPrefix+"y") || "collectivites territoriales".startsWith(@gloPrefix+"y") || "college".startsWith(@gloPrefix+"y") || "colonisation".startsWith(@gloPrefix+"y") || "commission europeenne".startsWith(@gloPrefix+"y") || "commune".startsWith(@gloPrefix+"y") || "conseil constitutionnel".startsWith(@gloPrefix+"y") || "conseil de l'union europeenne".startsWith(@gloPrefix+"y") || "conseil departemental".startsWith(@gloPrefix+"y") || "conseil europeen".startsWith(@gloPrefix+"y") || "conseil municipal".startsWith(@gloPrefix+"y") || "conseil regional".startsWith(@gloPrefix+"y") || "consentement".startsWith(@gloPrefix+"y") || "constitution".startsWith(@gloPrefix+"y") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"y") || "contrat de travail".startsWith(@gloPrefix+"y") || "contravention".startsWith(@gloPrefix+"y") || "cotisations sociales".startsWith(@gloPrefix+"y") || "cour d'assises".startsWith(@gloPrefix+"y") || "cpam".startsWith(@gloPrefix+"y") || "crime".startsWith(@gloPrefix+"y") || "decheterie".startsWith(@gloPrefix+"y") || "dechets".startsWith(@gloPrefix+"y") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"y") || "delit".startsWith(@gloPrefix+"y") || "democratie".startsWith(@gloPrefix+"y") || "departement".startsWith(@gloPrefix+"y") || "depute".startsWith(@gloPrefix+"y") || "depute europeen".startsWith(@gloPrefix+"y") || "devise de la republique".startsWith(@gloPrefix+"y") || "devoir".startsWith(@gloPrefix+"y") || "dignite humaine".startsWith(@gloPrefix+"y") || "discrimination".startsWith(@gloPrefix+"y") || "divorce".startsWith(@gloPrefix+"y") || "drapeau francais".startsWith(@gloPrefix+"y") || "droits civiques".startsWith(@gloPrefix+"y") || "droits fondamentaux".startsWith(@gloPrefix+"y") || "drom".startsWith(@gloPrefix+"y") || "ecole".startsWith(@gloPrefix+"y") || "egalite".startsWith(@gloPrefix+"y") || "election".startsWith(@gloPrefix+"y") || "elections europeennes".startsWith(@gloPrefix+"y") || "elections municipales".startsWith(@gloPrefix+"y") || "eligibilite".startsWith(@gloPrefix+"y") || "employeur".startsWith(@gloPrefix+"y") || "entreprise".startsWith(@gloPrefix+"y") || "environnement".startsWith(@gloPrefix+"y") || "esclavage".startsWith(@gloPrefix+"y") || "espace schengen".startsWith(@gloPrefix+"y") || "etat".startsWith(@gloPrefix+"y") || "etat civil".startsWith(@gloPrefix+"y") || "euro".startsWith(@gloPrefix+"y") || "fete de la musique".startsWith(@gloPrefix+"y") || "fete nationale".startsWith(@gloPrefix+"y") || "fleuve".startsWith(@gloPrefix+"y") || "france metropolitaine".startsWith(@gloPrefix+"y") || "france services".startsWith(@gloPrefix+"y") || "france travail".startsWith(@gloPrefix+"y") || "francophonie".startsWith(@gloPrefix+"y") || "fraternite".startsWith(@gloPrefix+"y") || "gastronomie francaise".startsWith(@gloPrefix+"y") || "gaule".startsWith(@gloPrefix+"y") || "gendarmerie".startsWith(@gloPrefix+"y") || "genocide".startsWith(@gloPrefix+"y") || "gouvernement".startsWith(@gloPrefix+"y") || "greve".startsWith(@gloPrefix+"y") || "guadeloupe".startsWith(@gloPrefix+"y") || "guyane".startsWith(@gloPrefix+"y") || "handicap".startsWith(@gloPrefix+"y") || "harcelement".startsWith(@gloPrefix+"y") || "harcelement scolaire".startsWith(@gloPrefix+"y") || "hopital".startsWith(@gloPrefix+"y") || "ile-de-france".startsWith(@gloPrefix+"y") || "impot".startsWith(@gloPrefix+"y") || "impressionnisme".startsWith(@gloPrefix+"y") || "infraction".startsWith(@gloPrefix+"y") || "instruction obligatoire".startsWith(@gloPrefix+"y") || "integrite de la personne".startsWith(@gloPrefix+"y") || "interet general".startsWith(@gloPrefix+"y") || "ivg".startsWith(@gloPrefix+"y") || "journee de l'europe".startsWith(@gloPrefix+"y") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"y") || "juge".startsWith(@gloPrefix+"y") || "jure".startsWith(@gloPrefix+"y") || "justice".startsWith(@gloPrefix+"y") || "la marseillaise".startsWith(@gloPrefix+"y") || "la reunion".startsWith(@gloPrefix+"y") || "laicite".startsWith(@gloPrefix+"y") || "langue de la republique".startsWith(@gloPrefix+"y") || "liberte".startsWith(@gloPrefix+"y") || "liberte de conscience".startsWith(@gloPrefix+"y") || "listes electorales".startsWith(@gloPrefix+"y") || "litterature".startsWith(@gloPrefix+"y") || "locataire".startsWith(@gloPrefix+"y") || "loi".startsWith(@gloPrefix+"y") || "lycee".startsWith(@gloPrefix+"y") || "maire".startsWith(@gloPrefix+"y") || "mairie".startsWith(@gloPrefix+"y") || "majorite".startsWith(@gloPrefix+"y") || "mandat".startsWith(@gloPrefix+"y") || "marianne".startsWith(@gloPrefix+"y") || "martinique".startsWith(@gloPrefix+"y") || "mayotte".startsWith(@gloPrefix+"y") || "medecin traitant".startsWith(@gloPrefix+"y") || "mediterranee".startsWith(@gloPrefix+"y") || "ministre".startsWith(@gloPrefix+"y") || "monarchie".startsWith(@gloPrefix+"y") || "mont-saint-michel".startsWith(@gloPrefix+"y") || "musee du louvre".startsWith(@gloPrefix+"y") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"y") || "mutuelle".startsWith(@gloPrefix+"y") || "naissance".startsWith(@gloPrefix+"y") || "naturalisation".startsWith(@gloPrefix+"y") || "neutralite".startsWith(@gloPrefix+"y") || "opinion".startsWith(@gloPrefix+"y") || "ordre public".startsWith(@gloPrefix+"y") || "outre-mer".startsWith(@gloPrefix+"y") || "parlement".startsWith(@gloPrefix+"y") || "parlement europeen".startsWith(@gloPrefix+"y") || "parti politique".startsWith(@gloPrefix+"y") || "patrimoine".startsWith(@gloPrefix+"y") || "peine de mort".startsWith(@gloPrefix+"y") || "plainte".startsWith(@gloPrefix+"y") || "police".startsWith(@gloPrefix+"y") || "polygamie".startsWith(@gloPrefix+"y") || "pouvoir executif".startsWith(@gloPrefix+"y") || "pouvoir judiciaire".startsWith(@gloPrefix+"y") || "pouvoir legislatif".startsWith(@gloPrefix+"y") || "prefecture".startsWith(@gloPrefix+"y") || "prefet".startsWith(@gloPrefix+"y") || "premier ministre".startsWith(@gloPrefix+"y") || "premiere guerre mondiale".startsWith(@gloPrefix+"y") || "president de la republique".startsWith(@gloPrefix+"y") || "presomption d'innocence".startsWith(@gloPrefix+"y") || "prevention".startsWith(@gloPrefix+"y") || "procuration".startsWith(@gloPrefix+"y") || "proprietaire".startsWith(@gloPrefix+"y") || "prostitution".startsWith(@gloPrefix+"y") || "protection sociale".startsWith(@gloPrefix+"y") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"y") || "pyrenees".startsWith(@gloPrefix+"y") || "quinquennat".startsWith(@gloPrefix+"y") || "recyclage".startsWith(@gloPrefix+"y") || "referendum".startsWith(@gloPrefix+"y") || "region".startsWith(@gloPrefix+"y") || "religion".startsWith(@gloPrefix+"y") || "republique".startsWith(@gloPrefix+"y") || "reseaux sociaux".startsWith(@gloPrefix+"y") || "resistance".startsWith(@gloPrefix+"y") || "respect".startsWith(@gloPrefix+"y") || "revolution francaise".startsWith(@gloPrefix+"y") || "salaire".startsWith(@gloPrefix+"y") || "salaire brut".startsWith(@gloPrefix+"y") || "salaire net".startsWith(@gloPrefix+"y") || "salarie".startsWith(@gloPrefix+"y") || "samu".startsWith(@gloPrefix+"y") || "seconde guerre mondiale".startsWith(@gloPrefix+"y") || "secours".startsWith(@gloPrefix+"y") || "securite routiere".startsWith(@gloPrefix+"y") || "seine".startsWith(@gloPrefix+"y") || "senat".startsWith(@gloPrefix+"y") || "senateur".startsWith(@gloPrefix+"y") || "separation des pouvoirs".startsWith(@gloPrefix+"y") || "service public".startsWith(@gloPrefix+"y") || "shoah".startsWith(@gloPrefix+"y") || "smic".startsWith(@gloPrefix+"y") || "souverainete nationale".startsWith(@gloPrefix+"y") || "suffrage universel".startsWith(@gloPrefix+"y") || "surete".startsWith(@gloPrefix+"y") || "titre de sejour".startsWith(@gloPrefix+"y") || "tour eiffel".startsWith(@gloPrefix+"y") || "traite de maastricht".startsWith(@gloPrefix+"y") || "traite des etres humains".startsWith(@gloPrefix+"y") || "travail dissimule".startsWith(@gloPrefix+"y") || "tri des dechets".startsWith(@gloPrefix+"y") || "unesco".startsWith(@gloPrefix+"y") || "union europeenne".startsWith(@gloPrefix+"y") || "urgence".startsWith(@gloPrefix+"y") || "urgences".startsWith(@gloPrefix+"y") || "vercingetorix".startsWith(@gloPrefix+"y") || "violence".startsWith(@gloPrefix+"y") || "vote".startsWith(@gloPrefix+"y"))`
-`@gloNextZ = calc("abolition".startsWith(@gloPrefix+"z") || "abstention".startsWith(@gloPrefix+"z") || "agents publics".startsWith(@gloPrefix+"z") || "alpes".startsWith(@gloPrefix+"z") || "amende".startsWith(@gloPrefix+"z") || "apl".startsWith(@gloPrefix+"z") || "armistice".startsWith(@gloPrefix+"z") || "assemblee nationale".startsWith(@gloPrefix+"z") || "assistance a personne en danger".startsWith(@gloPrefix+"z") || "assurance maladie".startsWith(@gloPrefix+"z") || "autorite parentale".startsWith(@gloPrefix+"z") || "avocat".startsWith(@gloPrefix+"z") || "bail".startsWith(@gloPrefix+"z") || "benevolat".startsWith(@gloPrefix+"z") || "bretagne".startsWith(@gloPrefix+"z") || "caf".startsWith(@gloPrefix+"z") || "carte de resident".startsWith(@gloPrefix+"z") || "carte vitale".startsWith(@gloPrefix+"z") || "cdd".startsWith(@gloPrefix+"z") || "cdi".startsWith(@gloPrefix+"z") || "ceca".startsWith(@gloPrefix+"z") || "celtes".startsWith(@gloPrefix+"z") || "charlemagne".startsWith(@gloPrefix+"z") || "charte de l'environnement".startsWith(@gloPrefix+"z") || "chateau de versailles".startsWith(@gloPrefix+"z") || "chef de l'etat".startsWith(@gloPrefix+"z") || "cinquieme republique".startsWith(@gloPrefix+"z") || "citoyen".startsWith(@gloPrefix+"z") || "citoyennete".startsWith(@gloPrefix+"z") || "clovis".startsWith(@gloPrefix+"z") || "collectivites territoriales".startsWith(@gloPrefix+"z") || "college".startsWith(@gloPrefix+"z") || "colonisation".startsWith(@gloPrefix+"z") || "commission europeenne".startsWith(@gloPrefix+"z") || "commune".startsWith(@gloPrefix+"z") || "conseil constitutionnel".startsWith(@gloPrefix+"z") || "conseil de l'union europeenne".startsWith(@gloPrefix+"z") || "conseil departemental".startsWith(@gloPrefix+"z") || "conseil europeen".startsWith(@gloPrefix+"z") || "conseil municipal".startsWith(@gloPrefix+"z") || "conseil regional".startsWith(@gloPrefix+"z") || "consentement".startsWith(@gloPrefix+"z") || "constitution".startsWith(@gloPrefix+"z") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"z") || "contrat de travail".startsWith(@gloPrefix+"z") || "contravention".startsWith(@gloPrefix+"z") || "cotisations sociales".startsWith(@gloPrefix+"z") || "cour d'assises".startsWith(@gloPrefix+"z") || "cpam".startsWith(@gloPrefix+"z") || "crime".startsWith(@gloPrefix+"z") || "decheterie".startsWith(@gloPrefix+"z") || "dechets".startsWith(@gloPrefix+"z") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"z") || "delit".startsWith(@gloPrefix+"z") || "democratie".startsWith(@gloPrefix+"z") || "departement".startsWith(@gloPrefix+"z") || "depute".startsWith(@gloPrefix+"z") || "depute europeen".startsWith(@gloPrefix+"z") || "devise de la republique".startsWith(@gloPrefix+"z") || "devoir".startsWith(@gloPrefix+"z") || "dignite humaine".startsWith(@gloPrefix+"z") || "discrimination".startsWith(@gloPrefix+"z") || "divorce".startsWith(@gloPrefix+"z") || "drapeau francais".startsWith(@gloPrefix+"z") || "droits civiques".startsWith(@gloPrefix+"z") || "droits fondamentaux".startsWith(@gloPrefix+"z") || "drom".startsWith(@gloPrefix+"z") || "ecole".startsWith(@gloPrefix+"z") || "egalite".startsWith(@gloPrefix+"z") || "election".startsWith(@gloPrefix+"z") || "elections europeennes".startsWith(@gloPrefix+"z") || "elections municipales".startsWith(@gloPrefix+"z") || "eligibilite".startsWith(@gloPrefix+"z") || "employeur".startsWith(@gloPrefix+"z") || "entreprise".startsWith(@gloPrefix+"z") || "environnement".startsWith(@gloPrefix+"z") || "esclavage".startsWith(@gloPrefix+"z") || "espace schengen".startsWith(@gloPrefix+"z") || "etat".startsWith(@gloPrefix+"z") || "etat civil".startsWith(@gloPrefix+"z") || "euro".startsWith(@gloPrefix+"z") || "fete de la musique".startsWith(@gloPrefix+"z") || "fete nationale".startsWith(@gloPrefix+"z") || "fleuve".startsWith(@gloPrefix+"z") || "france metropolitaine".startsWith(@gloPrefix+"z") || "france services".startsWith(@gloPrefix+"z") || "france travail".startsWith(@gloPrefix+"z") || "francophonie".startsWith(@gloPrefix+"z") || "fraternite".startsWith(@gloPrefix+"z") || "gastronomie francaise".startsWith(@gloPrefix+"z") || "gaule".startsWith(@gloPrefix+"z") || "gendarmerie".startsWith(@gloPrefix+"z") || "genocide".startsWith(@gloPrefix+"z") || "gouvernement".startsWith(@gloPrefix+"z") || "greve".startsWith(@gloPrefix+"z") || "guadeloupe".startsWith(@gloPrefix+"z") || "guyane".startsWith(@gloPrefix+"z") || "handicap".startsWith(@gloPrefix+"z") || "harcelement".startsWith(@gloPrefix+"z") || "harcelement scolaire".startsWith(@gloPrefix+"z") || "hopital".startsWith(@gloPrefix+"z") || "ile-de-france".startsWith(@gloPrefix+"z") || "impot".startsWith(@gloPrefix+"z") || "impressionnisme".startsWith(@gloPrefix+"z") || "infraction".startsWith(@gloPrefix+"z") || "instruction obligatoire".startsWith(@gloPrefix+"z") || "integrite de la personne".startsWith(@gloPrefix+"z") || "interet general".startsWith(@gloPrefix+"z") || "ivg".startsWith(@gloPrefix+"z") || "journee de l'europe".startsWith(@gloPrefix+"z") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"z") || "juge".startsWith(@gloPrefix+"z") || "jure".startsWith(@gloPrefix+"z") || "justice".startsWith(@gloPrefix+"z") || "la marseillaise".startsWith(@gloPrefix+"z") || "la reunion".startsWith(@gloPrefix+"z") || "laicite".startsWith(@gloPrefix+"z") || "langue de la republique".startsWith(@gloPrefix+"z") || "liberte".startsWith(@gloPrefix+"z") || "liberte de conscience".startsWith(@gloPrefix+"z") || "listes electorales".startsWith(@gloPrefix+"z") || "litterature".startsWith(@gloPrefix+"z") || "locataire".startsWith(@gloPrefix+"z") || "loi".startsWith(@gloPrefix+"z") || "lycee".startsWith(@gloPrefix+"z") || "maire".startsWith(@gloPrefix+"z") || "mairie".startsWith(@gloPrefix+"z") || "majorite".startsWith(@gloPrefix+"z") || "mandat".startsWith(@gloPrefix+"z") || "marianne".startsWith(@gloPrefix+"z") || "martinique".startsWith(@gloPrefix+"z") || "mayotte".startsWith(@gloPrefix+"z") || "medecin traitant".startsWith(@gloPrefix+"z") || "mediterranee".startsWith(@gloPrefix+"z") || "ministre".startsWith(@gloPrefix+"z") || "monarchie".startsWith(@gloPrefix+"z") || "mont-saint-michel".startsWith(@gloPrefix+"z") || "musee du louvre".startsWith(@gloPrefix+"z") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"z") || "mutuelle".startsWith(@gloPrefix+"z") || "naissance".startsWith(@gloPrefix+"z") || "naturalisation".startsWith(@gloPrefix+"z") || "neutralite".startsWith(@gloPrefix+"z") || "opinion".startsWith(@gloPrefix+"z") || "ordre public".startsWith(@gloPrefix+"z") || "outre-mer".startsWith(@gloPrefix+"z") || "parlement".startsWith(@gloPrefix+"z") || "parlement europeen".startsWith(@gloPrefix+"z") || "parti politique".startsWith(@gloPrefix+"z") || "patrimoine".startsWith(@gloPrefix+"z") || "peine de mort".startsWith(@gloPrefix+"z") || "plainte".startsWith(@gloPrefix+"z") || "police".startsWith(@gloPrefix+"z") || "polygamie".startsWith(@gloPrefix+"z") || "pouvoir executif".startsWith(@gloPrefix+"z") || "pouvoir judiciaire".startsWith(@gloPrefix+"z") || "pouvoir legislatif".startsWith(@gloPrefix+"z") || "prefecture".startsWith(@gloPrefix+"z") || "prefet".startsWith(@gloPrefix+"z") || "premier ministre".startsWith(@gloPrefix+"z") || "premiere guerre mondiale".startsWith(@gloPrefix+"z") || "president de la republique".startsWith(@gloPrefix+"z") || "presomption d'innocence".startsWith(@gloPrefix+"z") || "prevention".startsWith(@gloPrefix+"z") || "procuration".startsWith(@gloPrefix+"z") || "proprietaire".startsWith(@gloPrefix+"z") || "prostitution".startsWith(@gloPrefix+"z") || "protection sociale".startsWith(@gloPrefix+"z") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"z") || "pyrenees".startsWith(@gloPrefix+"z") || "quinquennat".startsWith(@gloPrefix+"z") || "recyclage".startsWith(@gloPrefix+"z") || "referendum".startsWith(@gloPrefix+"z") || "region".startsWith(@gloPrefix+"z") || "religion".startsWith(@gloPrefix+"z") || "republique".startsWith(@gloPrefix+"z") || "reseaux sociaux".startsWith(@gloPrefix+"z") || "resistance".startsWith(@gloPrefix+"z") || "respect".startsWith(@gloPrefix+"z") || "revolution francaise".startsWith(@gloPrefix+"z") || "salaire".startsWith(@gloPrefix+"z") || "salaire brut".startsWith(@gloPrefix+"z") || "salaire net".startsWith(@gloPrefix+"z") || "salarie".startsWith(@gloPrefix+"z") || "samu".startsWith(@gloPrefix+"z") || "seconde guerre mondiale".startsWith(@gloPrefix+"z") || "secours".startsWith(@gloPrefix+"z") || "securite routiere".startsWith(@gloPrefix+"z") || "seine".startsWith(@gloPrefix+"z") || "senat".startsWith(@gloPrefix+"z") || "senateur".startsWith(@gloPrefix+"z") || "separation des pouvoirs".startsWith(@gloPrefix+"z") || "service public".startsWith(@gloPrefix+"z") || "shoah".startsWith(@gloPrefix+"z") || "smic".startsWith(@gloPrefix+"z") || "souverainete nationale".startsWith(@gloPrefix+"z") || "suffrage universel".startsWith(@gloPrefix+"z") || "surete".startsWith(@gloPrefix+"z") || "titre de sejour".startsWith(@gloPrefix+"z") || "tour eiffel".startsWith(@gloPrefix+"z") || "traite de maastricht".startsWith(@gloPrefix+"z") || "traite des etres humains".startsWith(@gloPrefix+"z") || "travail dissimule".startsWith(@gloPrefix+"z") || "tri des dechets".startsWith(@gloPrefix+"z") || "unesco".startsWith(@gloPrefix+"z") || "union europeenne".startsWith(@gloPrefix+"z") || "urgence".startsWith(@gloPrefix+"z") || "urgences".startsWith(@gloPrefix+"z") || "vercingetorix".startsWith(@gloPrefix+"z") || "violence".startsWith(@gloPrefix+"z") || "vote".startsWith(@gloPrefix+"z"))`
+`@gloNextA = calc("abolition".startsWith(@gloPrefix+"a") || "abstention".startsWith(@gloPrefix+"a") || "agents publics".startsWith(@gloPrefix+"a") || "alpes".startsWith(@gloPrefix+"a") || "amende".startsWith(@gloPrefix+"a") || "apl".startsWith(@gloPrefix+"a") || "armistice".startsWith(@gloPrefix+"a") || "assemblee nationale".startsWith(@gloPrefix+"a") || "assiduite".startsWith(@gloPrefix+"a") || "assistance a personne en danger".startsWith(@gloPrefix+"a") || "assurance maladie".startsWith(@gloPrefix+"a") || "autorite parentale".startsWith(@gloPrefix+"a") || "avocat".startsWith(@gloPrefix+"a") || "bail".startsWith(@gloPrefix+"a") || "bastille".startsWith(@gloPrefix+"a") || "benevolat".startsWith(@gloPrefix+"a") || "bloc de constitutionnalite".startsWith(@gloPrefix+"a") || "bretagne".startsWith(@gloPrefix+"a") || "caf".startsWith(@gloPrefix+"a") || "carte de resident".startsWith(@gloPrefix+"a") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"a") || "carte vitale".startsWith(@gloPrefix+"a") || "cdd".startsWith(@gloPrefix+"a") || "cdi".startsWith(@gloPrefix+"a") || "ceca".startsWith(@gloPrefix+"a") || "cee".startsWith(@gloPrefix+"a") || "celtes".startsWith(@gloPrefix+"a") || "charlemagne".startsWith(@gloPrefix+"a") || "charles de gaulle".startsWith(@gloPrefix+"a") || "charte de l'environnement".startsWith(@gloPrefix+"a") || "chateau de versailles".startsWith(@gloPrefix+"a") || "chef de l'etat".startsWith(@gloPrefix+"a") || "cinquieme republique".startsWith(@gloPrefix+"a") || "citoyen".startsWith(@gloPrefix+"a") || "citoyennete".startsWith(@gloPrefix+"a") || "clovis".startsWith(@gloPrefix+"a") || "collectivites territoriales".startsWith(@gloPrefix+"a") || "college".startsWith(@gloPrefix+"a") || "colonisation".startsWith(@gloPrefix+"a") || "commission europeenne".startsWith(@gloPrefix+"a") || "commune".startsWith(@gloPrefix+"a") || "conseil constitutionnel".startsWith(@gloPrefix+"a") || "conseil de l'union europeenne".startsWith(@gloPrefix+"a") || "conseil departemental".startsWith(@gloPrefix+"a") || "conseil europeen".startsWith(@gloPrefix+"a") || "conseil municipal".startsWith(@gloPrefix+"a") || "conseil regional".startsWith(@gloPrefix+"a") || "conseiller municipal".startsWith(@gloPrefix+"a") || "consentement".startsWith(@gloPrefix+"a") || "constitution".startsWith(@gloPrefix+"a") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"a") || "contrat de travail".startsWith(@gloPrefix+"a") || "contravention".startsWith(@gloPrefix+"a") || "coq gaulois".startsWith(@gloPrefix+"a") || "cotisations sociales".startsWith(@gloPrefix+"a") || "cour d'assises".startsWith(@gloPrefix+"a") || "cpam".startsWith(@gloPrefix+"a") || "crime".startsWith(@gloPrefix+"a") || "decheterie".startsWith(@gloPrefix+"a") || "dechets".startsWith(@gloPrefix+"a") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"a") || "delit".startsWith(@gloPrefix+"a") || "demandeur d'emploi".startsWith(@gloPrefix+"a") || "democratie".startsWith(@gloPrefix+"a") || "departement".startsWith(@gloPrefix+"a") || "depute".startsWith(@gloPrefix+"a") || "depute europeen".startsWith(@gloPrefix+"a") || "devise".startsWith(@gloPrefix+"a") || "devise de la republique".startsWith(@gloPrefix+"a") || "devoir".startsWith(@gloPrefix+"a") || "dignite humaine".startsWith(@gloPrefix+"a") || "discrimination".startsWith(@gloPrefix+"a") || "divorce".startsWith(@gloPrefix+"a") || "drapeau francais".startsWith(@gloPrefix+"a") || "droits civiques".startsWith(@gloPrefix+"a") || "droits de la defense".startsWith(@gloPrefix+"a") || "droits fondamentaux".startsWith(@gloPrefix+"a") || "drom".startsWith(@gloPrefix+"a") || "ecole".startsWith(@gloPrefix+"a") || "egalite".startsWith(@gloPrefix+"a") || "election".startsWith(@gloPrefix+"a") || "election presidentielle".startsWith(@gloPrefix+"a") || "elections europeennes".startsWith(@gloPrefix+"a") || "elections municipales".startsWith(@gloPrefix+"a") || "eligibilite".startsWith(@gloPrefix+"a") || "employeur".startsWith(@gloPrefix+"a") || "entrepreneuriat".startsWith(@gloPrefix+"a") || "entreprise".startsWith(@gloPrefix+"a") || "environnement".startsWith(@gloPrefix+"a") || "esclavage".startsWith(@gloPrefix+"a") || "espace schengen".startsWith(@gloPrefix+"a") || "etat".startsWith(@gloPrefix+"a") || "etat civil".startsWith(@gloPrefix+"a") || "euro".startsWith(@gloPrefix+"a") || "fete de la musique".startsWith(@gloPrefix+"a") || "fete nationale".startsWith(@gloPrefix+"a") || "fleuve".startsWith(@gloPrefix+"a") || "france metropolitaine".startsWith(@gloPrefix+"a") || "france services".startsWith(@gloPrefix+"a") || "france travail".startsWith(@gloPrefix+"a") || "francophonie".startsWith(@gloPrefix+"a") || "fraternite".startsWith(@gloPrefix+"a") || "gastronomie francaise".startsWith(@gloPrefix+"a") || "gaule".startsWith(@gloPrefix+"a") || "gendarmerie".startsWith(@gloPrefix+"a") || "genocide".startsWith(@gloPrefix+"a") || "gouvernement".startsWith(@gloPrefix+"a") || "greve".startsWith(@gloPrefix+"a") || "guadeloupe".startsWith(@gloPrefix+"a") || "guyane".startsWith(@gloPrefix+"a") || "handicap".startsWith(@gloPrefix+"a") || "harcelement".startsWith(@gloPrefix+"a") || "harcelement scolaire".startsWith(@gloPrefix+"a") || "hopital".startsWith(@gloPrefix+"a") || "ile-de-france".startsWith(@gloPrefix+"a") || "impot".startsWith(@gloPrefix+"a") || "impressionnisme".startsWith(@gloPrefix+"a") || "inclusion".startsWith(@gloPrefix+"a") || "infraction".startsWith(@gloPrefix+"a") || "instruction obligatoire".startsWith(@gloPrefix+"a") || "integrite de la personne".startsWith(@gloPrefix+"a") || "interet general".startsWith(@gloPrefix+"a") || "ivg".startsWith(@gloPrefix+"a") || "jour ferie".startsWith(@gloPrefix+"a") || "journee de l'europe".startsWith(@gloPrefix+"a") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"a") || "juge".startsWith(@gloPrefix+"a") || "jules ferry".startsWith(@gloPrefix+"a") || "jure".startsWith(@gloPrefix+"a") || "justice".startsWith(@gloPrefix+"a") || "la marseillaise".startsWith(@gloPrefix+"a") || "la reunion".startsWith(@gloPrefix+"a") || "laicite".startsWith(@gloPrefix+"a") || "langue de la republique".startsWith(@gloPrefix+"a") || "liberte".startsWith(@gloPrefix+"a") || "liberte d'association".startsWith(@gloPrefix+"a") || "liberte d'expression".startsWith(@gloPrefix+"a") || "liberte de circulation".startsWith(@gloPrefix+"a") || "liberte de conscience".startsWith(@gloPrefix+"a") || "listes electorales".startsWith(@gloPrefix+"a") || "litterature".startsWith(@gloPrefix+"a") || "locataire".startsWith(@gloPrefix+"a") || "loi".startsWith(@gloPrefix+"a") || "loire".startsWith(@gloPrefix+"a") || "louis xvi".startsWith(@gloPrefix+"a") || "lycee".startsWith(@gloPrefix+"a") || "maire".startsWith(@gloPrefix+"a") || "mairie".startsWith(@gloPrefix+"a") || "majorite".startsWith(@gloPrefix+"a") || "mandat".startsWith(@gloPrefix+"a") || "marianne".startsWith(@gloPrefix+"a") || "martinique".startsWith(@gloPrefix+"a") || "mayotte".startsWith(@gloPrefix+"a") || "medecin traitant".startsWith(@gloPrefix+"a") || "mediterranee".startsWith(@gloPrefix+"a") || "ministre".startsWith(@gloPrefix+"a") || "mixite".startsWith(@gloPrefix+"a") || "monarchie".startsWith(@gloPrefix+"a") || "mont-saint-michel".startsWith(@gloPrefix+"a") || "musee du louvre".startsWith(@gloPrefix+"a") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"a") || "mutuelle".startsWith(@gloPrefix+"a") || "naissance".startsWith(@gloPrefix+"a") || "napoleon bonaparte".startsWith(@gloPrefix+"a") || "naturalisation".startsWith(@gloPrefix+"a") || "neutralite".startsWith(@gloPrefix+"a") || "opinion".startsWith(@gloPrefix+"a") || "ordre public".startsWith(@gloPrefix+"a") || "outre-mer".startsWith(@gloPrefix+"a") || "parlement".startsWith(@gloPrefix+"a") || "parlement europeen".startsWith(@gloPrefix+"a") || "parti politique".startsWith(@gloPrefix+"a") || "patrimoine".startsWith(@gloPrefix+"a") || "peine de mort".startsWith(@gloPrefix+"a") || "plainte".startsWith(@gloPrefix+"a") || "police".startsWith(@gloPrefix+"a") || "polygamie".startsWith(@gloPrefix+"a") || "pouvoir executif".startsWith(@gloPrefix+"a") || "pouvoir judiciaire".startsWith(@gloPrefix+"a") || "pouvoir legislatif".startsWith(@gloPrefix+"a") || "prefecture".startsWith(@gloPrefix+"a") || "prefet".startsWith(@gloPrefix+"a") || "premier ministre".startsWith(@gloPrefix+"a") || "premiere guerre mondiale".startsWith(@gloPrefix+"a") || "president de la republique".startsWith(@gloPrefix+"a") || "presomption d'innocence".startsWith(@gloPrefix+"a") || "prevention".startsWith(@gloPrefix+"a") || "proces equitable".startsWith(@gloPrefix+"a") || "procuration".startsWith(@gloPrefix+"a") || "projet de loi".startsWith(@gloPrefix+"a") || "proposition de loi".startsWith(@gloPrefix+"a") || "proprietaire".startsWith(@gloPrefix+"a") || "prostitution".startsWith(@gloPrefix+"a") || "protection sociale".startsWith(@gloPrefix+"a") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"a") || "pyrenees".startsWith(@gloPrefix+"a") || "quinquennat".startsWith(@gloPrefix+"a") || "recyclage".startsWith(@gloPrefix+"a") || "referendum".startsWith(@gloPrefix+"a") || "region".startsWith(@gloPrefix+"a") || "religion".startsWith(@gloPrefix+"a") || "republique".startsWith(@gloPrefix+"a") || "reseaux sociaux".startsWith(@gloPrefix+"a") || "resistance".startsWith(@gloPrefix+"a") || "respect".startsWith(@gloPrefix+"a") || "responsabilite".startsWith(@gloPrefix+"a") || "revolution".startsWith(@gloPrefix+"a") || "revolution francaise".startsWith(@gloPrefix+"a") || "rhone".startsWith(@gloPrefix+"a") || "salaire".startsWith(@gloPrefix+"a") || "salaire brut".startsWith(@gloPrefix+"a") || "salaire net".startsWith(@gloPrefix+"a") || "salarie".startsWith(@gloPrefix+"a") || "samu".startsWith(@gloPrefix+"a") || "sanction".startsWith(@gloPrefix+"a") || "seconde guerre mondiale".startsWith(@gloPrefix+"a") || "secours".startsWith(@gloPrefix+"a") || "securite routiere".startsWith(@gloPrefix+"a") || "seine".startsWith(@gloPrefix+"a") || "senat".startsWith(@gloPrefix+"a") || "senateur".startsWith(@gloPrefix+"a") || "separation des pouvoirs".startsWith(@gloPrefix+"a") || "service public".startsWith(@gloPrefix+"a") || "shoah".startsWith(@gloPrefix+"a") || "smic".startsWith(@gloPrefix+"a") || "souverainete nationale".startsWith(@gloPrefix+"a") || "suffrage universel".startsWith(@gloPrefix+"a") || "surete".startsWith(@gloPrefix+"a") || "temps de travail".startsWith(@gloPrefix+"a") || "titre de sejour".startsWith(@gloPrefix+"a") || "tour eiffel".startsWith(@gloPrefix+"a") || "traite de maastricht".startsWith(@gloPrefix+"a") || "traite de rome".startsWith(@gloPrefix+"a") || "traite des etres humains".startsWith(@gloPrefix+"a") || "travail dissimule".startsWith(@gloPrefix+"a") || "tri des dechets".startsWith(@gloPrefix+"a") || "unesco".startsWith(@gloPrefix+"a") || "union europeenne".startsWith(@gloPrefix+"a") || "urgence".startsWith(@gloPrefix+"a") || "urgences".startsWith(@gloPrefix+"a") || "vaccination".startsWith(@gloPrefix+"a") || "vercingetorix".startsWith(@gloPrefix+"a") || "violence".startsWith(@gloPrefix+"a") || "vote".startsWith(@gloPrefix+"a"))`
+`@gloNextB = calc("abolition".startsWith(@gloPrefix+"b") || "abstention".startsWith(@gloPrefix+"b") || "agents publics".startsWith(@gloPrefix+"b") || "alpes".startsWith(@gloPrefix+"b") || "amende".startsWith(@gloPrefix+"b") || "apl".startsWith(@gloPrefix+"b") || "armistice".startsWith(@gloPrefix+"b") || "assemblee nationale".startsWith(@gloPrefix+"b") || "assiduite".startsWith(@gloPrefix+"b") || "assistance a personne en danger".startsWith(@gloPrefix+"b") || "assurance maladie".startsWith(@gloPrefix+"b") || "autorite parentale".startsWith(@gloPrefix+"b") || "avocat".startsWith(@gloPrefix+"b") || "bail".startsWith(@gloPrefix+"b") || "bastille".startsWith(@gloPrefix+"b") || "benevolat".startsWith(@gloPrefix+"b") || "bloc de constitutionnalite".startsWith(@gloPrefix+"b") || "bretagne".startsWith(@gloPrefix+"b") || "caf".startsWith(@gloPrefix+"b") || "carte de resident".startsWith(@gloPrefix+"b") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"b") || "carte vitale".startsWith(@gloPrefix+"b") || "cdd".startsWith(@gloPrefix+"b") || "cdi".startsWith(@gloPrefix+"b") || "ceca".startsWith(@gloPrefix+"b") || "cee".startsWith(@gloPrefix+"b") || "celtes".startsWith(@gloPrefix+"b") || "charlemagne".startsWith(@gloPrefix+"b") || "charles de gaulle".startsWith(@gloPrefix+"b") || "charte de l'environnement".startsWith(@gloPrefix+"b") || "chateau de versailles".startsWith(@gloPrefix+"b") || "chef de l'etat".startsWith(@gloPrefix+"b") || "cinquieme republique".startsWith(@gloPrefix+"b") || "citoyen".startsWith(@gloPrefix+"b") || "citoyennete".startsWith(@gloPrefix+"b") || "clovis".startsWith(@gloPrefix+"b") || "collectivites territoriales".startsWith(@gloPrefix+"b") || "college".startsWith(@gloPrefix+"b") || "colonisation".startsWith(@gloPrefix+"b") || "commission europeenne".startsWith(@gloPrefix+"b") || "commune".startsWith(@gloPrefix+"b") || "conseil constitutionnel".startsWith(@gloPrefix+"b") || "conseil de l'union europeenne".startsWith(@gloPrefix+"b") || "conseil departemental".startsWith(@gloPrefix+"b") || "conseil europeen".startsWith(@gloPrefix+"b") || "conseil municipal".startsWith(@gloPrefix+"b") || "conseil regional".startsWith(@gloPrefix+"b") || "conseiller municipal".startsWith(@gloPrefix+"b") || "consentement".startsWith(@gloPrefix+"b") || "constitution".startsWith(@gloPrefix+"b") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"b") || "contrat de travail".startsWith(@gloPrefix+"b") || "contravention".startsWith(@gloPrefix+"b") || "coq gaulois".startsWith(@gloPrefix+"b") || "cotisations sociales".startsWith(@gloPrefix+"b") || "cour d'assises".startsWith(@gloPrefix+"b") || "cpam".startsWith(@gloPrefix+"b") || "crime".startsWith(@gloPrefix+"b") || "decheterie".startsWith(@gloPrefix+"b") || "dechets".startsWith(@gloPrefix+"b") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"b") || "delit".startsWith(@gloPrefix+"b") || "demandeur d'emploi".startsWith(@gloPrefix+"b") || "democratie".startsWith(@gloPrefix+"b") || "departement".startsWith(@gloPrefix+"b") || "depute".startsWith(@gloPrefix+"b") || "depute europeen".startsWith(@gloPrefix+"b") || "devise".startsWith(@gloPrefix+"b") || "devise de la republique".startsWith(@gloPrefix+"b") || "devoir".startsWith(@gloPrefix+"b") || "dignite humaine".startsWith(@gloPrefix+"b") || "discrimination".startsWith(@gloPrefix+"b") || "divorce".startsWith(@gloPrefix+"b") || "drapeau francais".startsWith(@gloPrefix+"b") || "droits civiques".startsWith(@gloPrefix+"b") || "droits de la defense".startsWith(@gloPrefix+"b") || "droits fondamentaux".startsWith(@gloPrefix+"b") || "drom".startsWith(@gloPrefix+"b") || "ecole".startsWith(@gloPrefix+"b") || "egalite".startsWith(@gloPrefix+"b") || "election".startsWith(@gloPrefix+"b") || "election presidentielle".startsWith(@gloPrefix+"b") || "elections europeennes".startsWith(@gloPrefix+"b") || "elections municipales".startsWith(@gloPrefix+"b") || "eligibilite".startsWith(@gloPrefix+"b") || "employeur".startsWith(@gloPrefix+"b") || "entrepreneuriat".startsWith(@gloPrefix+"b") || "entreprise".startsWith(@gloPrefix+"b") || "environnement".startsWith(@gloPrefix+"b") || "esclavage".startsWith(@gloPrefix+"b") || "espace schengen".startsWith(@gloPrefix+"b") || "etat".startsWith(@gloPrefix+"b") || "etat civil".startsWith(@gloPrefix+"b") || "euro".startsWith(@gloPrefix+"b") || "fete de la musique".startsWith(@gloPrefix+"b") || "fete nationale".startsWith(@gloPrefix+"b") || "fleuve".startsWith(@gloPrefix+"b") || "france metropolitaine".startsWith(@gloPrefix+"b") || "france services".startsWith(@gloPrefix+"b") || "france travail".startsWith(@gloPrefix+"b") || "francophonie".startsWith(@gloPrefix+"b") || "fraternite".startsWith(@gloPrefix+"b") || "gastronomie francaise".startsWith(@gloPrefix+"b") || "gaule".startsWith(@gloPrefix+"b") || "gendarmerie".startsWith(@gloPrefix+"b") || "genocide".startsWith(@gloPrefix+"b") || "gouvernement".startsWith(@gloPrefix+"b") || "greve".startsWith(@gloPrefix+"b") || "guadeloupe".startsWith(@gloPrefix+"b") || "guyane".startsWith(@gloPrefix+"b") || "handicap".startsWith(@gloPrefix+"b") || "harcelement".startsWith(@gloPrefix+"b") || "harcelement scolaire".startsWith(@gloPrefix+"b") || "hopital".startsWith(@gloPrefix+"b") || "ile-de-france".startsWith(@gloPrefix+"b") || "impot".startsWith(@gloPrefix+"b") || "impressionnisme".startsWith(@gloPrefix+"b") || "inclusion".startsWith(@gloPrefix+"b") || "infraction".startsWith(@gloPrefix+"b") || "instruction obligatoire".startsWith(@gloPrefix+"b") || "integrite de la personne".startsWith(@gloPrefix+"b") || "interet general".startsWith(@gloPrefix+"b") || "ivg".startsWith(@gloPrefix+"b") || "jour ferie".startsWith(@gloPrefix+"b") || "journee de l'europe".startsWith(@gloPrefix+"b") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"b") || "juge".startsWith(@gloPrefix+"b") || "jules ferry".startsWith(@gloPrefix+"b") || "jure".startsWith(@gloPrefix+"b") || "justice".startsWith(@gloPrefix+"b") || "la marseillaise".startsWith(@gloPrefix+"b") || "la reunion".startsWith(@gloPrefix+"b") || "laicite".startsWith(@gloPrefix+"b") || "langue de la republique".startsWith(@gloPrefix+"b") || "liberte".startsWith(@gloPrefix+"b") || "liberte d'association".startsWith(@gloPrefix+"b") || "liberte d'expression".startsWith(@gloPrefix+"b") || "liberte de circulation".startsWith(@gloPrefix+"b") || "liberte de conscience".startsWith(@gloPrefix+"b") || "listes electorales".startsWith(@gloPrefix+"b") || "litterature".startsWith(@gloPrefix+"b") || "locataire".startsWith(@gloPrefix+"b") || "loi".startsWith(@gloPrefix+"b") || "loire".startsWith(@gloPrefix+"b") || "louis xvi".startsWith(@gloPrefix+"b") || "lycee".startsWith(@gloPrefix+"b") || "maire".startsWith(@gloPrefix+"b") || "mairie".startsWith(@gloPrefix+"b") || "majorite".startsWith(@gloPrefix+"b") || "mandat".startsWith(@gloPrefix+"b") || "marianne".startsWith(@gloPrefix+"b") || "martinique".startsWith(@gloPrefix+"b") || "mayotte".startsWith(@gloPrefix+"b") || "medecin traitant".startsWith(@gloPrefix+"b") || "mediterranee".startsWith(@gloPrefix+"b") || "ministre".startsWith(@gloPrefix+"b") || "mixite".startsWith(@gloPrefix+"b") || "monarchie".startsWith(@gloPrefix+"b") || "mont-saint-michel".startsWith(@gloPrefix+"b") || "musee du louvre".startsWith(@gloPrefix+"b") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"b") || "mutuelle".startsWith(@gloPrefix+"b") || "naissance".startsWith(@gloPrefix+"b") || "napoleon bonaparte".startsWith(@gloPrefix+"b") || "naturalisation".startsWith(@gloPrefix+"b") || "neutralite".startsWith(@gloPrefix+"b") || "opinion".startsWith(@gloPrefix+"b") || "ordre public".startsWith(@gloPrefix+"b") || "outre-mer".startsWith(@gloPrefix+"b") || "parlement".startsWith(@gloPrefix+"b") || "parlement europeen".startsWith(@gloPrefix+"b") || "parti politique".startsWith(@gloPrefix+"b") || "patrimoine".startsWith(@gloPrefix+"b") || "peine de mort".startsWith(@gloPrefix+"b") || "plainte".startsWith(@gloPrefix+"b") || "police".startsWith(@gloPrefix+"b") || "polygamie".startsWith(@gloPrefix+"b") || "pouvoir executif".startsWith(@gloPrefix+"b") || "pouvoir judiciaire".startsWith(@gloPrefix+"b") || "pouvoir legislatif".startsWith(@gloPrefix+"b") || "prefecture".startsWith(@gloPrefix+"b") || "prefet".startsWith(@gloPrefix+"b") || "premier ministre".startsWith(@gloPrefix+"b") || "premiere guerre mondiale".startsWith(@gloPrefix+"b") || "president de la republique".startsWith(@gloPrefix+"b") || "presomption d'innocence".startsWith(@gloPrefix+"b") || "prevention".startsWith(@gloPrefix+"b") || "proces equitable".startsWith(@gloPrefix+"b") || "procuration".startsWith(@gloPrefix+"b") || "projet de loi".startsWith(@gloPrefix+"b") || "proposition de loi".startsWith(@gloPrefix+"b") || "proprietaire".startsWith(@gloPrefix+"b") || "prostitution".startsWith(@gloPrefix+"b") || "protection sociale".startsWith(@gloPrefix+"b") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"b") || "pyrenees".startsWith(@gloPrefix+"b") || "quinquennat".startsWith(@gloPrefix+"b") || "recyclage".startsWith(@gloPrefix+"b") || "referendum".startsWith(@gloPrefix+"b") || "region".startsWith(@gloPrefix+"b") || "religion".startsWith(@gloPrefix+"b") || "republique".startsWith(@gloPrefix+"b") || "reseaux sociaux".startsWith(@gloPrefix+"b") || "resistance".startsWith(@gloPrefix+"b") || "respect".startsWith(@gloPrefix+"b") || "responsabilite".startsWith(@gloPrefix+"b") || "revolution".startsWith(@gloPrefix+"b") || "revolution francaise".startsWith(@gloPrefix+"b") || "rhone".startsWith(@gloPrefix+"b") || "salaire".startsWith(@gloPrefix+"b") || "salaire brut".startsWith(@gloPrefix+"b") || "salaire net".startsWith(@gloPrefix+"b") || "salarie".startsWith(@gloPrefix+"b") || "samu".startsWith(@gloPrefix+"b") || "sanction".startsWith(@gloPrefix+"b") || "seconde guerre mondiale".startsWith(@gloPrefix+"b") || "secours".startsWith(@gloPrefix+"b") || "securite routiere".startsWith(@gloPrefix+"b") || "seine".startsWith(@gloPrefix+"b") || "senat".startsWith(@gloPrefix+"b") || "senateur".startsWith(@gloPrefix+"b") || "separation des pouvoirs".startsWith(@gloPrefix+"b") || "service public".startsWith(@gloPrefix+"b") || "shoah".startsWith(@gloPrefix+"b") || "smic".startsWith(@gloPrefix+"b") || "souverainete nationale".startsWith(@gloPrefix+"b") || "suffrage universel".startsWith(@gloPrefix+"b") || "surete".startsWith(@gloPrefix+"b") || "temps de travail".startsWith(@gloPrefix+"b") || "titre de sejour".startsWith(@gloPrefix+"b") || "tour eiffel".startsWith(@gloPrefix+"b") || "traite de maastricht".startsWith(@gloPrefix+"b") || "traite de rome".startsWith(@gloPrefix+"b") || "traite des etres humains".startsWith(@gloPrefix+"b") || "travail dissimule".startsWith(@gloPrefix+"b") || "tri des dechets".startsWith(@gloPrefix+"b") || "unesco".startsWith(@gloPrefix+"b") || "union europeenne".startsWith(@gloPrefix+"b") || "urgence".startsWith(@gloPrefix+"b") || "urgences".startsWith(@gloPrefix+"b") || "vaccination".startsWith(@gloPrefix+"b") || "vercingetorix".startsWith(@gloPrefix+"b") || "violence".startsWith(@gloPrefix+"b") || "vote".startsWith(@gloPrefix+"b"))`
+`@gloNextC = calc("abolition".startsWith(@gloPrefix+"c") || "abstention".startsWith(@gloPrefix+"c") || "agents publics".startsWith(@gloPrefix+"c") || "alpes".startsWith(@gloPrefix+"c") || "amende".startsWith(@gloPrefix+"c") || "apl".startsWith(@gloPrefix+"c") || "armistice".startsWith(@gloPrefix+"c") || "assemblee nationale".startsWith(@gloPrefix+"c") || "assiduite".startsWith(@gloPrefix+"c") || "assistance a personne en danger".startsWith(@gloPrefix+"c") || "assurance maladie".startsWith(@gloPrefix+"c") || "autorite parentale".startsWith(@gloPrefix+"c") || "avocat".startsWith(@gloPrefix+"c") || "bail".startsWith(@gloPrefix+"c") || "bastille".startsWith(@gloPrefix+"c") || "benevolat".startsWith(@gloPrefix+"c") || "bloc de constitutionnalite".startsWith(@gloPrefix+"c") || "bretagne".startsWith(@gloPrefix+"c") || "caf".startsWith(@gloPrefix+"c") || "carte de resident".startsWith(@gloPrefix+"c") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"c") || "carte vitale".startsWith(@gloPrefix+"c") || "cdd".startsWith(@gloPrefix+"c") || "cdi".startsWith(@gloPrefix+"c") || "ceca".startsWith(@gloPrefix+"c") || "cee".startsWith(@gloPrefix+"c") || "celtes".startsWith(@gloPrefix+"c") || "charlemagne".startsWith(@gloPrefix+"c") || "charles de gaulle".startsWith(@gloPrefix+"c") || "charte de l'environnement".startsWith(@gloPrefix+"c") || "chateau de versailles".startsWith(@gloPrefix+"c") || "chef de l'etat".startsWith(@gloPrefix+"c") || "cinquieme republique".startsWith(@gloPrefix+"c") || "citoyen".startsWith(@gloPrefix+"c") || "citoyennete".startsWith(@gloPrefix+"c") || "clovis".startsWith(@gloPrefix+"c") || "collectivites territoriales".startsWith(@gloPrefix+"c") || "college".startsWith(@gloPrefix+"c") || "colonisation".startsWith(@gloPrefix+"c") || "commission europeenne".startsWith(@gloPrefix+"c") || "commune".startsWith(@gloPrefix+"c") || "conseil constitutionnel".startsWith(@gloPrefix+"c") || "conseil de l'union europeenne".startsWith(@gloPrefix+"c") || "conseil departemental".startsWith(@gloPrefix+"c") || "conseil europeen".startsWith(@gloPrefix+"c") || "conseil municipal".startsWith(@gloPrefix+"c") || "conseil regional".startsWith(@gloPrefix+"c") || "conseiller municipal".startsWith(@gloPrefix+"c") || "consentement".startsWith(@gloPrefix+"c") || "constitution".startsWith(@gloPrefix+"c") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"c") || "contrat de travail".startsWith(@gloPrefix+"c") || "contravention".startsWith(@gloPrefix+"c") || "coq gaulois".startsWith(@gloPrefix+"c") || "cotisations sociales".startsWith(@gloPrefix+"c") || "cour d'assises".startsWith(@gloPrefix+"c") || "cpam".startsWith(@gloPrefix+"c") || "crime".startsWith(@gloPrefix+"c") || "decheterie".startsWith(@gloPrefix+"c") || "dechets".startsWith(@gloPrefix+"c") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"c") || "delit".startsWith(@gloPrefix+"c") || "demandeur d'emploi".startsWith(@gloPrefix+"c") || "democratie".startsWith(@gloPrefix+"c") || "departement".startsWith(@gloPrefix+"c") || "depute".startsWith(@gloPrefix+"c") || "depute europeen".startsWith(@gloPrefix+"c") || "devise".startsWith(@gloPrefix+"c") || "devise de la republique".startsWith(@gloPrefix+"c") || "devoir".startsWith(@gloPrefix+"c") || "dignite humaine".startsWith(@gloPrefix+"c") || "discrimination".startsWith(@gloPrefix+"c") || "divorce".startsWith(@gloPrefix+"c") || "drapeau francais".startsWith(@gloPrefix+"c") || "droits civiques".startsWith(@gloPrefix+"c") || "droits de la defense".startsWith(@gloPrefix+"c") || "droits fondamentaux".startsWith(@gloPrefix+"c") || "drom".startsWith(@gloPrefix+"c") || "ecole".startsWith(@gloPrefix+"c") || "egalite".startsWith(@gloPrefix+"c") || "election".startsWith(@gloPrefix+"c") || "election presidentielle".startsWith(@gloPrefix+"c") || "elections europeennes".startsWith(@gloPrefix+"c") || "elections municipales".startsWith(@gloPrefix+"c") || "eligibilite".startsWith(@gloPrefix+"c") || "employeur".startsWith(@gloPrefix+"c") || "entrepreneuriat".startsWith(@gloPrefix+"c") || "entreprise".startsWith(@gloPrefix+"c") || "environnement".startsWith(@gloPrefix+"c") || "esclavage".startsWith(@gloPrefix+"c") || "espace schengen".startsWith(@gloPrefix+"c") || "etat".startsWith(@gloPrefix+"c") || "etat civil".startsWith(@gloPrefix+"c") || "euro".startsWith(@gloPrefix+"c") || "fete de la musique".startsWith(@gloPrefix+"c") || "fete nationale".startsWith(@gloPrefix+"c") || "fleuve".startsWith(@gloPrefix+"c") || "france metropolitaine".startsWith(@gloPrefix+"c") || "france services".startsWith(@gloPrefix+"c") || "france travail".startsWith(@gloPrefix+"c") || "francophonie".startsWith(@gloPrefix+"c") || "fraternite".startsWith(@gloPrefix+"c") || "gastronomie francaise".startsWith(@gloPrefix+"c") || "gaule".startsWith(@gloPrefix+"c") || "gendarmerie".startsWith(@gloPrefix+"c") || "genocide".startsWith(@gloPrefix+"c") || "gouvernement".startsWith(@gloPrefix+"c") || "greve".startsWith(@gloPrefix+"c") || "guadeloupe".startsWith(@gloPrefix+"c") || "guyane".startsWith(@gloPrefix+"c") || "handicap".startsWith(@gloPrefix+"c") || "harcelement".startsWith(@gloPrefix+"c") || "harcelement scolaire".startsWith(@gloPrefix+"c") || "hopital".startsWith(@gloPrefix+"c") || "ile-de-france".startsWith(@gloPrefix+"c") || "impot".startsWith(@gloPrefix+"c") || "impressionnisme".startsWith(@gloPrefix+"c") || "inclusion".startsWith(@gloPrefix+"c") || "infraction".startsWith(@gloPrefix+"c") || "instruction obligatoire".startsWith(@gloPrefix+"c") || "integrite de la personne".startsWith(@gloPrefix+"c") || "interet general".startsWith(@gloPrefix+"c") || "ivg".startsWith(@gloPrefix+"c") || "jour ferie".startsWith(@gloPrefix+"c") || "journee de l'europe".startsWith(@gloPrefix+"c") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"c") || "juge".startsWith(@gloPrefix+"c") || "jules ferry".startsWith(@gloPrefix+"c") || "jure".startsWith(@gloPrefix+"c") || "justice".startsWith(@gloPrefix+"c") || "la marseillaise".startsWith(@gloPrefix+"c") || "la reunion".startsWith(@gloPrefix+"c") || "laicite".startsWith(@gloPrefix+"c") || "langue de la republique".startsWith(@gloPrefix+"c") || "liberte".startsWith(@gloPrefix+"c") || "liberte d'association".startsWith(@gloPrefix+"c") || "liberte d'expression".startsWith(@gloPrefix+"c") || "liberte de circulation".startsWith(@gloPrefix+"c") || "liberte de conscience".startsWith(@gloPrefix+"c") || "listes electorales".startsWith(@gloPrefix+"c") || "litterature".startsWith(@gloPrefix+"c") || "locataire".startsWith(@gloPrefix+"c") || "loi".startsWith(@gloPrefix+"c") || "loire".startsWith(@gloPrefix+"c") || "louis xvi".startsWith(@gloPrefix+"c") || "lycee".startsWith(@gloPrefix+"c") || "maire".startsWith(@gloPrefix+"c") || "mairie".startsWith(@gloPrefix+"c") || "majorite".startsWith(@gloPrefix+"c") || "mandat".startsWith(@gloPrefix+"c") || "marianne".startsWith(@gloPrefix+"c") || "martinique".startsWith(@gloPrefix+"c") || "mayotte".startsWith(@gloPrefix+"c") || "medecin traitant".startsWith(@gloPrefix+"c") || "mediterranee".startsWith(@gloPrefix+"c") || "ministre".startsWith(@gloPrefix+"c") || "mixite".startsWith(@gloPrefix+"c") || "monarchie".startsWith(@gloPrefix+"c") || "mont-saint-michel".startsWith(@gloPrefix+"c") || "musee du louvre".startsWith(@gloPrefix+"c") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"c") || "mutuelle".startsWith(@gloPrefix+"c") || "naissance".startsWith(@gloPrefix+"c") || "napoleon bonaparte".startsWith(@gloPrefix+"c") || "naturalisation".startsWith(@gloPrefix+"c") || "neutralite".startsWith(@gloPrefix+"c") || "opinion".startsWith(@gloPrefix+"c") || "ordre public".startsWith(@gloPrefix+"c") || "outre-mer".startsWith(@gloPrefix+"c") || "parlement".startsWith(@gloPrefix+"c") || "parlement europeen".startsWith(@gloPrefix+"c") || "parti politique".startsWith(@gloPrefix+"c") || "patrimoine".startsWith(@gloPrefix+"c") || "peine de mort".startsWith(@gloPrefix+"c") || "plainte".startsWith(@gloPrefix+"c") || "police".startsWith(@gloPrefix+"c") || "polygamie".startsWith(@gloPrefix+"c") || "pouvoir executif".startsWith(@gloPrefix+"c") || "pouvoir judiciaire".startsWith(@gloPrefix+"c") || "pouvoir legislatif".startsWith(@gloPrefix+"c") || "prefecture".startsWith(@gloPrefix+"c") || "prefet".startsWith(@gloPrefix+"c") || "premier ministre".startsWith(@gloPrefix+"c") || "premiere guerre mondiale".startsWith(@gloPrefix+"c") || "president de la republique".startsWith(@gloPrefix+"c") || "presomption d'innocence".startsWith(@gloPrefix+"c") || "prevention".startsWith(@gloPrefix+"c") || "proces equitable".startsWith(@gloPrefix+"c") || "procuration".startsWith(@gloPrefix+"c") || "projet de loi".startsWith(@gloPrefix+"c") || "proposition de loi".startsWith(@gloPrefix+"c") || "proprietaire".startsWith(@gloPrefix+"c") || "prostitution".startsWith(@gloPrefix+"c") || "protection sociale".startsWith(@gloPrefix+"c") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"c") || "pyrenees".startsWith(@gloPrefix+"c") || "quinquennat".startsWith(@gloPrefix+"c") || "recyclage".startsWith(@gloPrefix+"c") || "referendum".startsWith(@gloPrefix+"c") || "region".startsWith(@gloPrefix+"c") || "religion".startsWith(@gloPrefix+"c") || "republique".startsWith(@gloPrefix+"c") || "reseaux sociaux".startsWith(@gloPrefix+"c") || "resistance".startsWith(@gloPrefix+"c") || "respect".startsWith(@gloPrefix+"c") || "responsabilite".startsWith(@gloPrefix+"c") || "revolution".startsWith(@gloPrefix+"c") || "revolution francaise".startsWith(@gloPrefix+"c") || "rhone".startsWith(@gloPrefix+"c") || "salaire".startsWith(@gloPrefix+"c") || "salaire brut".startsWith(@gloPrefix+"c") || "salaire net".startsWith(@gloPrefix+"c") || "salarie".startsWith(@gloPrefix+"c") || "samu".startsWith(@gloPrefix+"c") || "sanction".startsWith(@gloPrefix+"c") || "seconde guerre mondiale".startsWith(@gloPrefix+"c") || "secours".startsWith(@gloPrefix+"c") || "securite routiere".startsWith(@gloPrefix+"c") || "seine".startsWith(@gloPrefix+"c") || "senat".startsWith(@gloPrefix+"c") || "senateur".startsWith(@gloPrefix+"c") || "separation des pouvoirs".startsWith(@gloPrefix+"c") || "service public".startsWith(@gloPrefix+"c") || "shoah".startsWith(@gloPrefix+"c") || "smic".startsWith(@gloPrefix+"c") || "souverainete nationale".startsWith(@gloPrefix+"c") || "suffrage universel".startsWith(@gloPrefix+"c") || "surete".startsWith(@gloPrefix+"c") || "temps de travail".startsWith(@gloPrefix+"c") || "titre de sejour".startsWith(@gloPrefix+"c") || "tour eiffel".startsWith(@gloPrefix+"c") || "traite de maastricht".startsWith(@gloPrefix+"c") || "traite de rome".startsWith(@gloPrefix+"c") || "traite des etres humains".startsWith(@gloPrefix+"c") || "travail dissimule".startsWith(@gloPrefix+"c") || "tri des dechets".startsWith(@gloPrefix+"c") || "unesco".startsWith(@gloPrefix+"c") || "union europeenne".startsWith(@gloPrefix+"c") || "urgence".startsWith(@gloPrefix+"c") || "urgences".startsWith(@gloPrefix+"c") || "vaccination".startsWith(@gloPrefix+"c") || "vercingetorix".startsWith(@gloPrefix+"c") || "violence".startsWith(@gloPrefix+"c") || "vote".startsWith(@gloPrefix+"c"))`
+`@gloNextD = calc("abolition".startsWith(@gloPrefix+"d") || "abstention".startsWith(@gloPrefix+"d") || "agents publics".startsWith(@gloPrefix+"d") || "alpes".startsWith(@gloPrefix+"d") || "amende".startsWith(@gloPrefix+"d") || "apl".startsWith(@gloPrefix+"d") || "armistice".startsWith(@gloPrefix+"d") || "assemblee nationale".startsWith(@gloPrefix+"d") || "assiduite".startsWith(@gloPrefix+"d") || "assistance a personne en danger".startsWith(@gloPrefix+"d") || "assurance maladie".startsWith(@gloPrefix+"d") || "autorite parentale".startsWith(@gloPrefix+"d") || "avocat".startsWith(@gloPrefix+"d") || "bail".startsWith(@gloPrefix+"d") || "bastille".startsWith(@gloPrefix+"d") || "benevolat".startsWith(@gloPrefix+"d") || "bloc de constitutionnalite".startsWith(@gloPrefix+"d") || "bretagne".startsWith(@gloPrefix+"d") || "caf".startsWith(@gloPrefix+"d") || "carte de resident".startsWith(@gloPrefix+"d") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"d") || "carte vitale".startsWith(@gloPrefix+"d") || "cdd".startsWith(@gloPrefix+"d") || "cdi".startsWith(@gloPrefix+"d") || "ceca".startsWith(@gloPrefix+"d") || "cee".startsWith(@gloPrefix+"d") || "celtes".startsWith(@gloPrefix+"d") || "charlemagne".startsWith(@gloPrefix+"d") || "charles de gaulle".startsWith(@gloPrefix+"d") || "charte de l'environnement".startsWith(@gloPrefix+"d") || "chateau de versailles".startsWith(@gloPrefix+"d") || "chef de l'etat".startsWith(@gloPrefix+"d") || "cinquieme republique".startsWith(@gloPrefix+"d") || "citoyen".startsWith(@gloPrefix+"d") || "citoyennete".startsWith(@gloPrefix+"d") || "clovis".startsWith(@gloPrefix+"d") || "collectivites territoriales".startsWith(@gloPrefix+"d") || "college".startsWith(@gloPrefix+"d") || "colonisation".startsWith(@gloPrefix+"d") || "commission europeenne".startsWith(@gloPrefix+"d") || "commune".startsWith(@gloPrefix+"d") || "conseil constitutionnel".startsWith(@gloPrefix+"d") || "conseil de l'union europeenne".startsWith(@gloPrefix+"d") || "conseil departemental".startsWith(@gloPrefix+"d") || "conseil europeen".startsWith(@gloPrefix+"d") || "conseil municipal".startsWith(@gloPrefix+"d") || "conseil regional".startsWith(@gloPrefix+"d") || "conseiller municipal".startsWith(@gloPrefix+"d") || "consentement".startsWith(@gloPrefix+"d") || "constitution".startsWith(@gloPrefix+"d") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"d") || "contrat de travail".startsWith(@gloPrefix+"d") || "contravention".startsWith(@gloPrefix+"d") || "coq gaulois".startsWith(@gloPrefix+"d") || "cotisations sociales".startsWith(@gloPrefix+"d") || "cour d'assises".startsWith(@gloPrefix+"d") || "cpam".startsWith(@gloPrefix+"d") || "crime".startsWith(@gloPrefix+"d") || "decheterie".startsWith(@gloPrefix+"d") || "dechets".startsWith(@gloPrefix+"d") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"d") || "delit".startsWith(@gloPrefix+"d") || "demandeur d'emploi".startsWith(@gloPrefix+"d") || "democratie".startsWith(@gloPrefix+"d") || "departement".startsWith(@gloPrefix+"d") || "depute".startsWith(@gloPrefix+"d") || "depute europeen".startsWith(@gloPrefix+"d") || "devise".startsWith(@gloPrefix+"d") || "devise de la republique".startsWith(@gloPrefix+"d") || "devoir".startsWith(@gloPrefix+"d") || "dignite humaine".startsWith(@gloPrefix+"d") || "discrimination".startsWith(@gloPrefix+"d") || "divorce".startsWith(@gloPrefix+"d") || "drapeau francais".startsWith(@gloPrefix+"d") || "droits civiques".startsWith(@gloPrefix+"d") || "droits de la defense".startsWith(@gloPrefix+"d") || "droits fondamentaux".startsWith(@gloPrefix+"d") || "drom".startsWith(@gloPrefix+"d") || "ecole".startsWith(@gloPrefix+"d") || "egalite".startsWith(@gloPrefix+"d") || "election".startsWith(@gloPrefix+"d") || "election presidentielle".startsWith(@gloPrefix+"d") || "elections europeennes".startsWith(@gloPrefix+"d") || "elections municipales".startsWith(@gloPrefix+"d") || "eligibilite".startsWith(@gloPrefix+"d") || "employeur".startsWith(@gloPrefix+"d") || "entrepreneuriat".startsWith(@gloPrefix+"d") || "entreprise".startsWith(@gloPrefix+"d") || "environnement".startsWith(@gloPrefix+"d") || "esclavage".startsWith(@gloPrefix+"d") || "espace schengen".startsWith(@gloPrefix+"d") || "etat".startsWith(@gloPrefix+"d") || "etat civil".startsWith(@gloPrefix+"d") || "euro".startsWith(@gloPrefix+"d") || "fete de la musique".startsWith(@gloPrefix+"d") || "fete nationale".startsWith(@gloPrefix+"d") || "fleuve".startsWith(@gloPrefix+"d") || "france metropolitaine".startsWith(@gloPrefix+"d") || "france services".startsWith(@gloPrefix+"d") || "france travail".startsWith(@gloPrefix+"d") || "francophonie".startsWith(@gloPrefix+"d") || "fraternite".startsWith(@gloPrefix+"d") || "gastronomie francaise".startsWith(@gloPrefix+"d") || "gaule".startsWith(@gloPrefix+"d") || "gendarmerie".startsWith(@gloPrefix+"d") || "genocide".startsWith(@gloPrefix+"d") || "gouvernement".startsWith(@gloPrefix+"d") || "greve".startsWith(@gloPrefix+"d") || "guadeloupe".startsWith(@gloPrefix+"d") || "guyane".startsWith(@gloPrefix+"d") || "handicap".startsWith(@gloPrefix+"d") || "harcelement".startsWith(@gloPrefix+"d") || "harcelement scolaire".startsWith(@gloPrefix+"d") || "hopital".startsWith(@gloPrefix+"d") || "ile-de-france".startsWith(@gloPrefix+"d") || "impot".startsWith(@gloPrefix+"d") || "impressionnisme".startsWith(@gloPrefix+"d") || "inclusion".startsWith(@gloPrefix+"d") || "infraction".startsWith(@gloPrefix+"d") || "instruction obligatoire".startsWith(@gloPrefix+"d") || "integrite de la personne".startsWith(@gloPrefix+"d") || "interet general".startsWith(@gloPrefix+"d") || "ivg".startsWith(@gloPrefix+"d") || "jour ferie".startsWith(@gloPrefix+"d") || "journee de l'europe".startsWith(@gloPrefix+"d") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"d") || "juge".startsWith(@gloPrefix+"d") || "jules ferry".startsWith(@gloPrefix+"d") || "jure".startsWith(@gloPrefix+"d") || "justice".startsWith(@gloPrefix+"d") || "la marseillaise".startsWith(@gloPrefix+"d") || "la reunion".startsWith(@gloPrefix+"d") || "laicite".startsWith(@gloPrefix+"d") || "langue de la republique".startsWith(@gloPrefix+"d") || "liberte".startsWith(@gloPrefix+"d") || "liberte d'association".startsWith(@gloPrefix+"d") || "liberte d'expression".startsWith(@gloPrefix+"d") || "liberte de circulation".startsWith(@gloPrefix+"d") || "liberte de conscience".startsWith(@gloPrefix+"d") || "listes electorales".startsWith(@gloPrefix+"d") || "litterature".startsWith(@gloPrefix+"d") || "locataire".startsWith(@gloPrefix+"d") || "loi".startsWith(@gloPrefix+"d") || "loire".startsWith(@gloPrefix+"d") || "louis xvi".startsWith(@gloPrefix+"d") || "lycee".startsWith(@gloPrefix+"d") || "maire".startsWith(@gloPrefix+"d") || "mairie".startsWith(@gloPrefix+"d") || "majorite".startsWith(@gloPrefix+"d") || "mandat".startsWith(@gloPrefix+"d") || "marianne".startsWith(@gloPrefix+"d") || "martinique".startsWith(@gloPrefix+"d") || "mayotte".startsWith(@gloPrefix+"d") || "medecin traitant".startsWith(@gloPrefix+"d") || "mediterranee".startsWith(@gloPrefix+"d") || "ministre".startsWith(@gloPrefix+"d") || "mixite".startsWith(@gloPrefix+"d") || "monarchie".startsWith(@gloPrefix+"d") || "mont-saint-michel".startsWith(@gloPrefix+"d") || "musee du louvre".startsWith(@gloPrefix+"d") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"d") || "mutuelle".startsWith(@gloPrefix+"d") || "naissance".startsWith(@gloPrefix+"d") || "napoleon bonaparte".startsWith(@gloPrefix+"d") || "naturalisation".startsWith(@gloPrefix+"d") || "neutralite".startsWith(@gloPrefix+"d") || "opinion".startsWith(@gloPrefix+"d") || "ordre public".startsWith(@gloPrefix+"d") || "outre-mer".startsWith(@gloPrefix+"d") || "parlement".startsWith(@gloPrefix+"d") || "parlement europeen".startsWith(@gloPrefix+"d") || "parti politique".startsWith(@gloPrefix+"d") || "patrimoine".startsWith(@gloPrefix+"d") || "peine de mort".startsWith(@gloPrefix+"d") || "plainte".startsWith(@gloPrefix+"d") || "police".startsWith(@gloPrefix+"d") || "polygamie".startsWith(@gloPrefix+"d") || "pouvoir executif".startsWith(@gloPrefix+"d") || "pouvoir judiciaire".startsWith(@gloPrefix+"d") || "pouvoir legislatif".startsWith(@gloPrefix+"d") || "prefecture".startsWith(@gloPrefix+"d") || "prefet".startsWith(@gloPrefix+"d") || "premier ministre".startsWith(@gloPrefix+"d") || "premiere guerre mondiale".startsWith(@gloPrefix+"d") || "president de la republique".startsWith(@gloPrefix+"d") || "presomption d'innocence".startsWith(@gloPrefix+"d") || "prevention".startsWith(@gloPrefix+"d") || "proces equitable".startsWith(@gloPrefix+"d") || "procuration".startsWith(@gloPrefix+"d") || "projet de loi".startsWith(@gloPrefix+"d") || "proposition de loi".startsWith(@gloPrefix+"d") || "proprietaire".startsWith(@gloPrefix+"d") || "prostitution".startsWith(@gloPrefix+"d") || "protection sociale".startsWith(@gloPrefix+"d") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"d") || "pyrenees".startsWith(@gloPrefix+"d") || "quinquennat".startsWith(@gloPrefix+"d") || "recyclage".startsWith(@gloPrefix+"d") || "referendum".startsWith(@gloPrefix+"d") || "region".startsWith(@gloPrefix+"d") || "religion".startsWith(@gloPrefix+"d") || "republique".startsWith(@gloPrefix+"d") || "reseaux sociaux".startsWith(@gloPrefix+"d") || "resistance".startsWith(@gloPrefix+"d") || "respect".startsWith(@gloPrefix+"d") || "responsabilite".startsWith(@gloPrefix+"d") || "revolution".startsWith(@gloPrefix+"d") || "revolution francaise".startsWith(@gloPrefix+"d") || "rhone".startsWith(@gloPrefix+"d") || "salaire".startsWith(@gloPrefix+"d") || "salaire brut".startsWith(@gloPrefix+"d") || "salaire net".startsWith(@gloPrefix+"d") || "salarie".startsWith(@gloPrefix+"d") || "samu".startsWith(@gloPrefix+"d") || "sanction".startsWith(@gloPrefix+"d") || "seconde guerre mondiale".startsWith(@gloPrefix+"d") || "secours".startsWith(@gloPrefix+"d") || "securite routiere".startsWith(@gloPrefix+"d") || "seine".startsWith(@gloPrefix+"d") || "senat".startsWith(@gloPrefix+"d") || "senateur".startsWith(@gloPrefix+"d") || "separation des pouvoirs".startsWith(@gloPrefix+"d") || "service public".startsWith(@gloPrefix+"d") || "shoah".startsWith(@gloPrefix+"d") || "smic".startsWith(@gloPrefix+"d") || "souverainete nationale".startsWith(@gloPrefix+"d") || "suffrage universel".startsWith(@gloPrefix+"d") || "surete".startsWith(@gloPrefix+"d") || "temps de travail".startsWith(@gloPrefix+"d") || "titre de sejour".startsWith(@gloPrefix+"d") || "tour eiffel".startsWith(@gloPrefix+"d") || "traite de maastricht".startsWith(@gloPrefix+"d") || "traite de rome".startsWith(@gloPrefix+"d") || "traite des etres humains".startsWith(@gloPrefix+"d") || "travail dissimule".startsWith(@gloPrefix+"d") || "tri des dechets".startsWith(@gloPrefix+"d") || "unesco".startsWith(@gloPrefix+"d") || "union europeenne".startsWith(@gloPrefix+"d") || "urgence".startsWith(@gloPrefix+"d") || "urgences".startsWith(@gloPrefix+"d") || "vaccination".startsWith(@gloPrefix+"d") || "vercingetorix".startsWith(@gloPrefix+"d") || "violence".startsWith(@gloPrefix+"d") || "vote".startsWith(@gloPrefix+"d"))`
+`@gloNextE = calc("abolition".startsWith(@gloPrefix+"e") || "abstention".startsWith(@gloPrefix+"e") || "agents publics".startsWith(@gloPrefix+"e") || "alpes".startsWith(@gloPrefix+"e") || "amende".startsWith(@gloPrefix+"e") || "apl".startsWith(@gloPrefix+"e") || "armistice".startsWith(@gloPrefix+"e") || "assemblee nationale".startsWith(@gloPrefix+"e") || "assiduite".startsWith(@gloPrefix+"e") || "assistance a personne en danger".startsWith(@gloPrefix+"e") || "assurance maladie".startsWith(@gloPrefix+"e") || "autorite parentale".startsWith(@gloPrefix+"e") || "avocat".startsWith(@gloPrefix+"e") || "bail".startsWith(@gloPrefix+"e") || "bastille".startsWith(@gloPrefix+"e") || "benevolat".startsWith(@gloPrefix+"e") || "bloc de constitutionnalite".startsWith(@gloPrefix+"e") || "bretagne".startsWith(@gloPrefix+"e") || "caf".startsWith(@gloPrefix+"e") || "carte de resident".startsWith(@gloPrefix+"e") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"e") || "carte vitale".startsWith(@gloPrefix+"e") || "cdd".startsWith(@gloPrefix+"e") || "cdi".startsWith(@gloPrefix+"e") || "ceca".startsWith(@gloPrefix+"e") || "cee".startsWith(@gloPrefix+"e") || "celtes".startsWith(@gloPrefix+"e") || "charlemagne".startsWith(@gloPrefix+"e") || "charles de gaulle".startsWith(@gloPrefix+"e") || "charte de l'environnement".startsWith(@gloPrefix+"e") || "chateau de versailles".startsWith(@gloPrefix+"e") || "chef de l'etat".startsWith(@gloPrefix+"e") || "cinquieme republique".startsWith(@gloPrefix+"e") || "citoyen".startsWith(@gloPrefix+"e") || "citoyennete".startsWith(@gloPrefix+"e") || "clovis".startsWith(@gloPrefix+"e") || "collectivites territoriales".startsWith(@gloPrefix+"e") || "college".startsWith(@gloPrefix+"e") || "colonisation".startsWith(@gloPrefix+"e") || "commission europeenne".startsWith(@gloPrefix+"e") || "commune".startsWith(@gloPrefix+"e") || "conseil constitutionnel".startsWith(@gloPrefix+"e") || "conseil de l'union europeenne".startsWith(@gloPrefix+"e") || "conseil departemental".startsWith(@gloPrefix+"e") || "conseil europeen".startsWith(@gloPrefix+"e") || "conseil municipal".startsWith(@gloPrefix+"e") || "conseil regional".startsWith(@gloPrefix+"e") || "conseiller municipal".startsWith(@gloPrefix+"e") || "consentement".startsWith(@gloPrefix+"e") || "constitution".startsWith(@gloPrefix+"e") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"e") || "contrat de travail".startsWith(@gloPrefix+"e") || "contravention".startsWith(@gloPrefix+"e") || "coq gaulois".startsWith(@gloPrefix+"e") || "cotisations sociales".startsWith(@gloPrefix+"e") || "cour d'assises".startsWith(@gloPrefix+"e") || "cpam".startsWith(@gloPrefix+"e") || "crime".startsWith(@gloPrefix+"e") || "decheterie".startsWith(@gloPrefix+"e") || "dechets".startsWith(@gloPrefix+"e") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"e") || "delit".startsWith(@gloPrefix+"e") || "demandeur d'emploi".startsWith(@gloPrefix+"e") || "democratie".startsWith(@gloPrefix+"e") || "departement".startsWith(@gloPrefix+"e") || "depute".startsWith(@gloPrefix+"e") || "depute europeen".startsWith(@gloPrefix+"e") || "devise".startsWith(@gloPrefix+"e") || "devise de la republique".startsWith(@gloPrefix+"e") || "devoir".startsWith(@gloPrefix+"e") || "dignite humaine".startsWith(@gloPrefix+"e") || "discrimination".startsWith(@gloPrefix+"e") || "divorce".startsWith(@gloPrefix+"e") || "drapeau francais".startsWith(@gloPrefix+"e") || "droits civiques".startsWith(@gloPrefix+"e") || "droits de la defense".startsWith(@gloPrefix+"e") || "droits fondamentaux".startsWith(@gloPrefix+"e") || "drom".startsWith(@gloPrefix+"e") || "ecole".startsWith(@gloPrefix+"e") || "egalite".startsWith(@gloPrefix+"e") || "election".startsWith(@gloPrefix+"e") || "election presidentielle".startsWith(@gloPrefix+"e") || "elections europeennes".startsWith(@gloPrefix+"e") || "elections municipales".startsWith(@gloPrefix+"e") || "eligibilite".startsWith(@gloPrefix+"e") || "employeur".startsWith(@gloPrefix+"e") || "entrepreneuriat".startsWith(@gloPrefix+"e") || "entreprise".startsWith(@gloPrefix+"e") || "environnement".startsWith(@gloPrefix+"e") || "esclavage".startsWith(@gloPrefix+"e") || "espace schengen".startsWith(@gloPrefix+"e") || "etat".startsWith(@gloPrefix+"e") || "etat civil".startsWith(@gloPrefix+"e") || "euro".startsWith(@gloPrefix+"e") || "fete de la musique".startsWith(@gloPrefix+"e") || "fete nationale".startsWith(@gloPrefix+"e") || "fleuve".startsWith(@gloPrefix+"e") || "france metropolitaine".startsWith(@gloPrefix+"e") || "france services".startsWith(@gloPrefix+"e") || "france travail".startsWith(@gloPrefix+"e") || "francophonie".startsWith(@gloPrefix+"e") || "fraternite".startsWith(@gloPrefix+"e") || "gastronomie francaise".startsWith(@gloPrefix+"e") || "gaule".startsWith(@gloPrefix+"e") || "gendarmerie".startsWith(@gloPrefix+"e") || "genocide".startsWith(@gloPrefix+"e") || "gouvernement".startsWith(@gloPrefix+"e") || "greve".startsWith(@gloPrefix+"e") || "guadeloupe".startsWith(@gloPrefix+"e") || "guyane".startsWith(@gloPrefix+"e") || "handicap".startsWith(@gloPrefix+"e") || "harcelement".startsWith(@gloPrefix+"e") || "harcelement scolaire".startsWith(@gloPrefix+"e") || "hopital".startsWith(@gloPrefix+"e") || "ile-de-france".startsWith(@gloPrefix+"e") || "impot".startsWith(@gloPrefix+"e") || "impressionnisme".startsWith(@gloPrefix+"e") || "inclusion".startsWith(@gloPrefix+"e") || "infraction".startsWith(@gloPrefix+"e") || "instruction obligatoire".startsWith(@gloPrefix+"e") || "integrite de la personne".startsWith(@gloPrefix+"e") || "interet general".startsWith(@gloPrefix+"e") || "ivg".startsWith(@gloPrefix+"e") || "jour ferie".startsWith(@gloPrefix+"e") || "journee de l'europe".startsWith(@gloPrefix+"e") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"e") || "juge".startsWith(@gloPrefix+"e") || "jules ferry".startsWith(@gloPrefix+"e") || "jure".startsWith(@gloPrefix+"e") || "justice".startsWith(@gloPrefix+"e") || "la marseillaise".startsWith(@gloPrefix+"e") || "la reunion".startsWith(@gloPrefix+"e") || "laicite".startsWith(@gloPrefix+"e") || "langue de la republique".startsWith(@gloPrefix+"e") || "liberte".startsWith(@gloPrefix+"e") || "liberte d'association".startsWith(@gloPrefix+"e") || "liberte d'expression".startsWith(@gloPrefix+"e") || "liberte de circulation".startsWith(@gloPrefix+"e") || "liberte de conscience".startsWith(@gloPrefix+"e") || "listes electorales".startsWith(@gloPrefix+"e") || "litterature".startsWith(@gloPrefix+"e") || "locataire".startsWith(@gloPrefix+"e") || "loi".startsWith(@gloPrefix+"e") || "loire".startsWith(@gloPrefix+"e") || "louis xvi".startsWith(@gloPrefix+"e") || "lycee".startsWith(@gloPrefix+"e") || "maire".startsWith(@gloPrefix+"e") || "mairie".startsWith(@gloPrefix+"e") || "majorite".startsWith(@gloPrefix+"e") || "mandat".startsWith(@gloPrefix+"e") || "marianne".startsWith(@gloPrefix+"e") || "martinique".startsWith(@gloPrefix+"e") || "mayotte".startsWith(@gloPrefix+"e") || "medecin traitant".startsWith(@gloPrefix+"e") || "mediterranee".startsWith(@gloPrefix+"e") || "ministre".startsWith(@gloPrefix+"e") || "mixite".startsWith(@gloPrefix+"e") || "monarchie".startsWith(@gloPrefix+"e") || "mont-saint-michel".startsWith(@gloPrefix+"e") || "musee du louvre".startsWith(@gloPrefix+"e") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"e") || "mutuelle".startsWith(@gloPrefix+"e") || "naissance".startsWith(@gloPrefix+"e") || "napoleon bonaparte".startsWith(@gloPrefix+"e") || "naturalisation".startsWith(@gloPrefix+"e") || "neutralite".startsWith(@gloPrefix+"e") || "opinion".startsWith(@gloPrefix+"e") || "ordre public".startsWith(@gloPrefix+"e") || "outre-mer".startsWith(@gloPrefix+"e") || "parlement".startsWith(@gloPrefix+"e") || "parlement europeen".startsWith(@gloPrefix+"e") || "parti politique".startsWith(@gloPrefix+"e") || "patrimoine".startsWith(@gloPrefix+"e") || "peine de mort".startsWith(@gloPrefix+"e") || "plainte".startsWith(@gloPrefix+"e") || "police".startsWith(@gloPrefix+"e") || "polygamie".startsWith(@gloPrefix+"e") || "pouvoir executif".startsWith(@gloPrefix+"e") || "pouvoir judiciaire".startsWith(@gloPrefix+"e") || "pouvoir legislatif".startsWith(@gloPrefix+"e") || "prefecture".startsWith(@gloPrefix+"e") || "prefet".startsWith(@gloPrefix+"e") || "premier ministre".startsWith(@gloPrefix+"e") || "premiere guerre mondiale".startsWith(@gloPrefix+"e") || "president de la republique".startsWith(@gloPrefix+"e") || "presomption d'innocence".startsWith(@gloPrefix+"e") || "prevention".startsWith(@gloPrefix+"e") || "proces equitable".startsWith(@gloPrefix+"e") || "procuration".startsWith(@gloPrefix+"e") || "projet de loi".startsWith(@gloPrefix+"e") || "proposition de loi".startsWith(@gloPrefix+"e") || "proprietaire".startsWith(@gloPrefix+"e") || "prostitution".startsWith(@gloPrefix+"e") || "protection sociale".startsWith(@gloPrefix+"e") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"e") || "pyrenees".startsWith(@gloPrefix+"e") || "quinquennat".startsWith(@gloPrefix+"e") || "recyclage".startsWith(@gloPrefix+"e") || "referendum".startsWith(@gloPrefix+"e") || "region".startsWith(@gloPrefix+"e") || "religion".startsWith(@gloPrefix+"e") || "republique".startsWith(@gloPrefix+"e") || "reseaux sociaux".startsWith(@gloPrefix+"e") || "resistance".startsWith(@gloPrefix+"e") || "respect".startsWith(@gloPrefix+"e") || "responsabilite".startsWith(@gloPrefix+"e") || "revolution".startsWith(@gloPrefix+"e") || "revolution francaise".startsWith(@gloPrefix+"e") || "rhone".startsWith(@gloPrefix+"e") || "salaire".startsWith(@gloPrefix+"e") || "salaire brut".startsWith(@gloPrefix+"e") || "salaire net".startsWith(@gloPrefix+"e") || "salarie".startsWith(@gloPrefix+"e") || "samu".startsWith(@gloPrefix+"e") || "sanction".startsWith(@gloPrefix+"e") || "seconde guerre mondiale".startsWith(@gloPrefix+"e") || "secours".startsWith(@gloPrefix+"e") || "securite routiere".startsWith(@gloPrefix+"e") || "seine".startsWith(@gloPrefix+"e") || "senat".startsWith(@gloPrefix+"e") || "senateur".startsWith(@gloPrefix+"e") || "separation des pouvoirs".startsWith(@gloPrefix+"e") || "service public".startsWith(@gloPrefix+"e") || "shoah".startsWith(@gloPrefix+"e") || "smic".startsWith(@gloPrefix+"e") || "souverainete nationale".startsWith(@gloPrefix+"e") || "suffrage universel".startsWith(@gloPrefix+"e") || "surete".startsWith(@gloPrefix+"e") || "temps de travail".startsWith(@gloPrefix+"e") || "titre de sejour".startsWith(@gloPrefix+"e") || "tour eiffel".startsWith(@gloPrefix+"e") || "traite de maastricht".startsWith(@gloPrefix+"e") || "traite de rome".startsWith(@gloPrefix+"e") || "traite des etres humains".startsWith(@gloPrefix+"e") || "travail dissimule".startsWith(@gloPrefix+"e") || "tri des dechets".startsWith(@gloPrefix+"e") || "unesco".startsWith(@gloPrefix+"e") || "union europeenne".startsWith(@gloPrefix+"e") || "urgence".startsWith(@gloPrefix+"e") || "urgences".startsWith(@gloPrefix+"e") || "vaccination".startsWith(@gloPrefix+"e") || "vercingetorix".startsWith(@gloPrefix+"e") || "violence".startsWith(@gloPrefix+"e") || "vote".startsWith(@gloPrefix+"e"))`
+`@gloNextF = calc("abolition".startsWith(@gloPrefix+"f") || "abstention".startsWith(@gloPrefix+"f") || "agents publics".startsWith(@gloPrefix+"f") || "alpes".startsWith(@gloPrefix+"f") || "amende".startsWith(@gloPrefix+"f") || "apl".startsWith(@gloPrefix+"f") || "armistice".startsWith(@gloPrefix+"f") || "assemblee nationale".startsWith(@gloPrefix+"f") || "assiduite".startsWith(@gloPrefix+"f") || "assistance a personne en danger".startsWith(@gloPrefix+"f") || "assurance maladie".startsWith(@gloPrefix+"f") || "autorite parentale".startsWith(@gloPrefix+"f") || "avocat".startsWith(@gloPrefix+"f") || "bail".startsWith(@gloPrefix+"f") || "bastille".startsWith(@gloPrefix+"f") || "benevolat".startsWith(@gloPrefix+"f") || "bloc de constitutionnalite".startsWith(@gloPrefix+"f") || "bretagne".startsWith(@gloPrefix+"f") || "caf".startsWith(@gloPrefix+"f") || "carte de resident".startsWith(@gloPrefix+"f") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"f") || "carte vitale".startsWith(@gloPrefix+"f") || "cdd".startsWith(@gloPrefix+"f") || "cdi".startsWith(@gloPrefix+"f") || "ceca".startsWith(@gloPrefix+"f") || "cee".startsWith(@gloPrefix+"f") || "celtes".startsWith(@gloPrefix+"f") || "charlemagne".startsWith(@gloPrefix+"f") || "charles de gaulle".startsWith(@gloPrefix+"f") || "charte de l'environnement".startsWith(@gloPrefix+"f") || "chateau de versailles".startsWith(@gloPrefix+"f") || "chef de l'etat".startsWith(@gloPrefix+"f") || "cinquieme republique".startsWith(@gloPrefix+"f") || "citoyen".startsWith(@gloPrefix+"f") || "citoyennete".startsWith(@gloPrefix+"f") || "clovis".startsWith(@gloPrefix+"f") || "collectivites territoriales".startsWith(@gloPrefix+"f") || "college".startsWith(@gloPrefix+"f") || "colonisation".startsWith(@gloPrefix+"f") || "commission europeenne".startsWith(@gloPrefix+"f") || "commune".startsWith(@gloPrefix+"f") || "conseil constitutionnel".startsWith(@gloPrefix+"f") || "conseil de l'union europeenne".startsWith(@gloPrefix+"f") || "conseil departemental".startsWith(@gloPrefix+"f") || "conseil europeen".startsWith(@gloPrefix+"f") || "conseil municipal".startsWith(@gloPrefix+"f") || "conseil regional".startsWith(@gloPrefix+"f") || "conseiller municipal".startsWith(@gloPrefix+"f") || "consentement".startsWith(@gloPrefix+"f") || "constitution".startsWith(@gloPrefix+"f") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"f") || "contrat de travail".startsWith(@gloPrefix+"f") || "contravention".startsWith(@gloPrefix+"f") || "coq gaulois".startsWith(@gloPrefix+"f") || "cotisations sociales".startsWith(@gloPrefix+"f") || "cour d'assises".startsWith(@gloPrefix+"f") || "cpam".startsWith(@gloPrefix+"f") || "crime".startsWith(@gloPrefix+"f") || "decheterie".startsWith(@gloPrefix+"f") || "dechets".startsWith(@gloPrefix+"f") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"f") || "delit".startsWith(@gloPrefix+"f") || "demandeur d'emploi".startsWith(@gloPrefix+"f") || "democratie".startsWith(@gloPrefix+"f") || "departement".startsWith(@gloPrefix+"f") || "depute".startsWith(@gloPrefix+"f") || "depute europeen".startsWith(@gloPrefix+"f") || "devise".startsWith(@gloPrefix+"f") || "devise de la republique".startsWith(@gloPrefix+"f") || "devoir".startsWith(@gloPrefix+"f") || "dignite humaine".startsWith(@gloPrefix+"f") || "discrimination".startsWith(@gloPrefix+"f") || "divorce".startsWith(@gloPrefix+"f") || "drapeau francais".startsWith(@gloPrefix+"f") || "droits civiques".startsWith(@gloPrefix+"f") || "droits de la defense".startsWith(@gloPrefix+"f") || "droits fondamentaux".startsWith(@gloPrefix+"f") || "drom".startsWith(@gloPrefix+"f") || "ecole".startsWith(@gloPrefix+"f") || "egalite".startsWith(@gloPrefix+"f") || "election".startsWith(@gloPrefix+"f") || "election presidentielle".startsWith(@gloPrefix+"f") || "elections europeennes".startsWith(@gloPrefix+"f") || "elections municipales".startsWith(@gloPrefix+"f") || "eligibilite".startsWith(@gloPrefix+"f") || "employeur".startsWith(@gloPrefix+"f") || "entrepreneuriat".startsWith(@gloPrefix+"f") || "entreprise".startsWith(@gloPrefix+"f") || "environnement".startsWith(@gloPrefix+"f") || "esclavage".startsWith(@gloPrefix+"f") || "espace schengen".startsWith(@gloPrefix+"f") || "etat".startsWith(@gloPrefix+"f") || "etat civil".startsWith(@gloPrefix+"f") || "euro".startsWith(@gloPrefix+"f") || "fete de la musique".startsWith(@gloPrefix+"f") || "fete nationale".startsWith(@gloPrefix+"f") || "fleuve".startsWith(@gloPrefix+"f") || "france metropolitaine".startsWith(@gloPrefix+"f") || "france services".startsWith(@gloPrefix+"f") || "france travail".startsWith(@gloPrefix+"f") || "francophonie".startsWith(@gloPrefix+"f") || "fraternite".startsWith(@gloPrefix+"f") || "gastronomie francaise".startsWith(@gloPrefix+"f") || "gaule".startsWith(@gloPrefix+"f") || "gendarmerie".startsWith(@gloPrefix+"f") || "genocide".startsWith(@gloPrefix+"f") || "gouvernement".startsWith(@gloPrefix+"f") || "greve".startsWith(@gloPrefix+"f") || "guadeloupe".startsWith(@gloPrefix+"f") || "guyane".startsWith(@gloPrefix+"f") || "handicap".startsWith(@gloPrefix+"f") || "harcelement".startsWith(@gloPrefix+"f") || "harcelement scolaire".startsWith(@gloPrefix+"f") || "hopital".startsWith(@gloPrefix+"f") || "ile-de-france".startsWith(@gloPrefix+"f") || "impot".startsWith(@gloPrefix+"f") || "impressionnisme".startsWith(@gloPrefix+"f") || "inclusion".startsWith(@gloPrefix+"f") || "infraction".startsWith(@gloPrefix+"f") || "instruction obligatoire".startsWith(@gloPrefix+"f") || "integrite de la personne".startsWith(@gloPrefix+"f") || "interet general".startsWith(@gloPrefix+"f") || "ivg".startsWith(@gloPrefix+"f") || "jour ferie".startsWith(@gloPrefix+"f") || "journee de l'europe".startsWith(@gloPrefix+"f") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"f") || "juge".startsWith(@gloPrefix+"f") || "jules ferry".startsWith(@gloPrefix+"f") || "jure".startsWith(@gloPrefix+"f") || "justice".startsWith(@gloPrefix+"f") || "la marseillaise".startsWith(@gloPrefix+"f") || "la reunion".startsWith(@gloPrefix+"f") || "laicite".startsWith(@gloPrefix+"f") || "langue de la republique".startsWith(@gloPrefix+"f") || "liberte".startsWith(@gloPrefix+"f") || "liberte d'association".startsWith(@gloPrefix+"f") || "liberte d'expression".startsWith(@gloPrefix+"f") || "liberte de circulation".startsWith(@gloPrefix+"f") || "liberte de conscience".startsWith(@gloPrefix+"f") || "listes electorales".startsWith(@gloPrefix+"f") || "litterature".startsWith(@gloPrefix+"f") || "locataire".startsWith(@gloPrefix+"f") || "loi".startsWith(@gloPrefix+"f") || "loire".startsWith(@gloPrefix+"f") || "louis xvi".startsWith(@gloPrefix+"f") || "lycee".startsWith(@gloPrefix+"f") || "maire".startsWith(@gloPrefix+"f") || "mairie".startsWith(@gloPrefix+"f") || "majorite".startsWith(@gloPrefix+"f") || "mandat".startsWith(@gloPrefix+"f") || "marianne".startsWith(@gloPrefix+"f") || "martinique".startsWith(@gloPrefix+"f") || "mayotte".startsWith(@gloPrefix+"f") || "medecin traitant".startsWith(@gloPrefix+"f") || "mediterranee".startsWith(@gloPrefix+"f") || "ministre".startsWith(@gloPrefix+"f") || "mixite".startsWith(@gloPrefix+"f") || "monarchie".startsWith(@gloPrefix+"f") || "mont-saint-michel".startsWith(@gloPrefix+"f") || "musee du louvre".startsWith(@gloPrefix+"f") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"f") || "mutuelle".startsWith(@gloPrefix+"f") || "naissance".startsWith(@gloPrefix+"f") || "napoleon bonaparte".startsWith(@gloPrefix+"f") || "naturalisation".startsWith(@gloPrefix+"f") || "neutralite".startsWith(@gloPrefix+"f") || "opinion".startsWith(@gloPrefix+"f") || "ordre public".startsWith(@gloPrefix+"f") || "outre-mer".startsWith(@gloPrefix+"f") || "parlement".startsWith(@gloPrefix+"f") || "parlement europeen".startsWith(@gloPrefix+"f") || "parti politique".startsWith(@gloPrefix+"f") || "patrimoine".startsWith(@gloPrefix+"f") || "peine de mort".startsWith(@gloPrefix+"f") || "plainte".startsWith(@gloPrefix+"f") || "police".startsWith(@gloPrefix+"f") || "polygamie".startsWith(@gloPrefix+"f") || "pouvoir executif".startsWith(@gloPrefix+"f") || "pouvoir judiciaire".startsWith(@gloPrefix+"f") || "pouvoir legislatif".startsWith(@gloPrefix+"f") || "prefecture".startsWith(@gloPrefix+"f") || "prefet".startsWith(@gloPrefix+"f") || "premier ministre".startsWith(@gloPrefix+"f") || "premiere guerre mondiale".startsWith(@gloPrefix+"f") || "president de la republique".startsWith(@gloPrefix+"f") || "presomption d'innocence".startsWith(@gloPrefix+"f") || "prevention".startsWith(@gloPrefix+"f") || "proces equitable".startsWith(@gloPrefix+"f") || "procuration".startsWith(@gloPrefix+"f") || "projet de loi".startsWith(@gloPrefix+"f") || "proposition de loi".startsWith(@gloPrefix+"f") || "proprietaire".startsWith(@gloPrefix+"f") || "prostitution".startsWith(@gloPrefix+"f") || "protection sociale".startsWith(@gloPrefix+"f") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"f") || "pyrenees".startsWith(@gloPrefix+"f") || "quinquennat".startsWith(@gloPrefix+"f") || "recyclage".startsWith(@gloPrefix+"f") || "referendum".startsWith(@gloPrefix+"f") || "region".startsWith(@gloPrefix+"f") || "religion".startsWith(@gloPrefix+"f") || "republique".startsWith(@gloPrefix+"f") || "reseaux sociaux".startsWith(@gloPrefix+"f") || "resistance".startsWith(@gloPrefix+"f") || "respect".startsWith(@gloPrefix+"f") || "responsabilite".startsWith(@gloPrefix+"f") || "revolution".startsWith(@gloPrefix+"f") || "revolution francaise".startsWith(@gloPrefix+"f") || "rhone".startsWith(@gloPrefix+"f") || "salaire".startsWith(@gloPrefix+"f") || "salaire brut".startsWith(@gloPrefix+"f") || "salaire net".startsWith(@gloPrefix+"f") || "salarie".startsWith(@gloPrefix+"f") || "samu".startsWith(@gloPrefix+"f") || "sanction".startsWith(@gloPrefix+"f") || "seconde guerre mondiale".startsWith(@gloPrefix+"f") || "secours".startsWith(@gloPrefix+"f") || "securite routiere".startsWith(@gloPrefix+"f") || "seine".startsWith(@gloPrefix+"f") || "senat".startsWith(@gloPrefix+"f") || "senateur".startsWith(@gloPrefix+"f") || "separation des pouvoirs".startsWith(@gloPrefix+"f") || "service public".startsWith(@gloPrefix+"f") || "shoah".startsWith(@gloPrefix+"f") || "smic".startsWith(@gloPrefix+"f") || "souverainete nationale".startsWith(@gloPrefix+"f") || "suffrage universel".startsWith(@gloPrefix+"f") || "surete".startsWith(@gloPrefix+"f") || "temps de travail".startsWith(@gloPrefix+"f") || "titre de sejour".startsWith(@gloPrefix+"f") || "tour eiffel".startsWith(@gloPrefix+"f") || "traite de maastricht".startsWith(@gloPrefix+"f") || "traite de rome".startsWith(@gloPrefix+"f") || "traite des etres humains".startsWith(@gloPrefix+"f") || "travail dissimule".startsWith(@gloPrefix+"f") || "tri des dechets".startsWith(@gloPrefix+"f") || "unesco".startsWith(@gloPrefix+"f") || "union europeenne".startsWith(@gloPrefix+"f") || "urgence".startsWith(@gloPrefix+"f") || "urgences".startsWith(@gloPrefix+"f") || "vaccination".startsWith(@gloPrefix+"f") || "vercingetorix".startsWith(@gloPrefix+"f") || "violence".startsWith(@gloPrefix+"f") || "vote".startsWith(@gloPrefix+"f"))`
+`@gloNextG = calc("abolition".startsWith(@gloPrefix+"g") || "abstention".startsWith(@gloPrefix+"g") || "agents publics".startsWith(@gloPrefix+"g") || "alpes".startsWith(@gloPrefix+"g") || "amende".startsWith(@gloPrefix+"g") || "apl".startsWith(@gloPrefix+"g") || "armistice".startsWith(@gloPrefix+"g") || "assemblee nationale".startsWith(@gloPrefix+"g") || "assiduite".startsWith(@gloPrefix+"g") || "assistance a personne en danger".startsWith(@gloPrefix+"g") || "assurance maladie".startsWith(@gloPrefix+"g") || "autorite parentale".startsWith(@gloPrefix+"g") || "avocat".startsWith(@gloPrefix+"g") || "bail".startsWith(@gloPrefix+"g") || "bastille".startsWith(@gloPrefix+"g") || "benevolat".startsWith(@gloPrefix+"g") || "bloc de constitutionnalite".startsWith(@gloPrefix+"g") || "bretagne".startsWith(@gloPrefix+"g") || "caf".startsWith(@gloPrefix+"g") || "carte de resident".startsWith(@gloPrefix+"g") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"g") || "carte vitale".startsWith(@gloPrefix+"g") || "cdd".startsWith(@gloPrefix+"g") || "cdi".startsWith(@gloPrefix+"g") || "ceca".startsWith(@gloPrefix+"g") || "cee".startsWith(@gloPrefix+"g") || "celtes".startsWith(@gloPrefix+"g") || "charlemagne".startsWith(@gloPrefix+"g") || "charles de gaulle".startsWith(@gloPrefix+"g") || "charte de l'environnement".startsWith(@gloPrefix+"g") || "chateau de versailles".startsWith(@gloPrefix+"g") || "chef de l'etat".startsWith(@gloPrefix+"g") || "cinquieme republique".startsWith(@gloPrefix+"g") || "citoyen".startsWith(@gloPrefix+"g") || "citoyennete".startsWith(@gloPrefix+"g") || "clovis".startsWith(@gloPrefix+"g") || "collectivites territoriales".startsWith(@gloPrefix+"g") || "college".startsWith(@gloPrefix+"g") || "colonisation".startsWith(@gloPrefix+"g") || "commission europeenne".startsWith(@gloPrefix+"g") || "commune".startsWith(@gloPrefix+"g") || "conseil constitutionnel".startsWith(@gloPrefix+"g") || "conseil de l'union europeenne".startsWith(@gloPrefix+"g") || "conseil departemental".startsWith(@gloPrefix+"g") || "conseil europeen".startsWith(@gloPrefix+"g") || "conseil municipal".startsWith(@gloPrefix+"g") || "conseil regional".startsWith(@gloPrefix+"g") || "conseiller municipal".startsWith(@gloPrefix+"g") || "consentement".startsWith(@gloPrefix+"g") || "constitution".startsWith(@gloPrefix+"g") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"g") || "contrat de travail".startsWith(@gloPrefix+"g") || "contravention".startsWith(@gloPrefix+"g") || "coq gaulois".startsWith(@gloPrefix+"g") || "cotisations sociales".startsWith(@gloPrefix+"g") || "cour d'assises".startsWith(@gloPrefix+"g") || "cpam".startsWith(@gloPrefix+"g") || "crime".startsWith(@gloPrefix+"g") || "decheterie".startsWith(@gloPrefix+"g") || "dechets".startsWith(@gloPrefix+"g") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"g") || "delit".startsWith(@gloPrefix+"g") || "demandeur d'emploi".startsWith(@gloPrefix+"g") || "democratie".startsWith(@gloPrefix+"g") || "departement".startsWith(@gloPrefix+"g") || "depute".startsWith(@gloPrefix+"g") || "depute europeen".startsWith(@gloPrefix+"g") || "devise".startsWith(@gloPrefix+"g") || "devise de la republique".startsWith(@gloPrefix+"g") || "devoir".startsWith(@gloPrefix+"g") || "dignite humaine".startsWith(@gloPrefix+"g") || "discrimination".startsWith(@gloPrefix+"g") || "divorce".startsWith(@gloPrefix+"g") || "drapeau francais".startsWith(@gloPrefix+"g") || "droits civiques".startsWith(@gloPrefix+"g") || "droits de la defense".startsWith(@gloPrefix+"g") || "droits fondamentaux".startsWith(@gloPrefix+"g") || "drom".startsWith(@gloPrefix+"g") || "ecole".startsWith(@gloPrefix+"g") || "egalite".startsWith(@gloPrefix+"g") || "election".startsWith(@gloPrefix+"g") || "election presidentielle".startsWith(@gloPrefix+"g") || "elections europeennes".startsWith(@gloPrefix+"g") || "elections municipales".startsWith(@gloPrefix+"g") || "eligibilite".startsWith(@gloPrefix+"g") || "employeur".startsWith(@gloPrefix+"g") || "entrepreneuriat".startsWith(@gloPrefix+"g") || "entreprise".startsWith(@gloPrefix+"g") || "environnement".startsWith(@gloPrefix+"g") || "esclavage".startsWith(@gloPrefix+"g") || "espace schengen".startsWith(@gloPrefix+"g") || "etat".startsWith(@gloPrefix+"g") || "etat civil".startsWith(@gloPrefix+"g") || "euro".startsWith(@gloPrefix+"g") || "fete de la musique".startsWith(@gloPrefix+"g") || "fete nationale".startsWith(@gloPrefix+"g") || "fleuve".startsWith(@gloPrefix+"g") || "france metropolitaine".startsWith(@gloPrefix+"g") || "france services".startsWith(@gloPrefix+"g") || "france travail".startsWith(@gloPrefix+"g") || "francophonie".startsWith(@gloPrefix+"g") || "fraternite".startsWith(@gloPrefix+"g") || "gastronomie francaise".startsWith(@gloPrefix+"g") || "gaule".startsWith(@gloPrefix+"g") || "gendarmerie".startsWith(@gloPrefix+"g") || "genocide".startsWith(@gloPrefix+"g") || "gouvernement".startsWith(@gloPrefix+"g") || "greve".startsWith(@gloPrefix+"g") || "guadeloupe".startsWith(@gloPrefix+"g") || "guyane".startsWith(@gloPrefix+"g") || "handicap".startsWith(@gloPrefix+"g") || "harcelement".startsWith(@gloPrefix+"g") || "harcelement scolaire".startsWith(@gloPrefix+"g") || "hopital".startsWith(@gloPrefix+"g") || "ile-de-france".startsWith(@gloPrefix+"g") || "impot".startsWith(@gloPrefix+"g") || "impressionnisme".startsWith(@gloPrefix+"g") || "inclusion".startsWith(@gloPrefix+"g") || "infraction".startsWith(@gloPrefix+"g") || "instruction obligatoire".startsWith(@gloPrefix+"g") || "integrite de la personne".startsWith(@gloPrefix+"g") || "interet general".startsWith(@gloPrefix+"g") || "ivg".startsWith(@gloPrefix+"g") || "jour ferie".startsWith(@gloPrefix+"g") || "journee de l'europe".startsWith(@gloPrefix+"g") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"g") || "juge".startsWith(@gloPrefix+"g") || "jules ferry".startsWith(@gloPrefix+"g") || "jure".startsWith(@gloPrefix+"g") || "justice".startsWith(@gloPrefix+"g") || "la marseillaise".startsWith(@gloPrefix+"g") || "la reunion".startsWith(@gloPrefix+"g") || "laicite".startsWith(@gloPrefix+"g") || "langue de la republique".startsWith(@gloPrefix+"g") || "liberte".startsWith(@gloPrefix+"g") || "liberte d'association".startsWith(@gloPrefix+"g") || "liberte d'expression".startsWith(@gloPrefix+"g") || "liberte de circulation".startsWith(@gloPrefix+"g") || "liberte de conscience".startsWith(@gloPrefix+"g") || "listes electorales".startsWith(@gloPrefix+"g") || "litterature".startsWith(@gloPrefix+"g") || "locataire".startsWith(@gloPrefix+"g") || "loi".startsWith(@gloPrefix+"g") || "loire".startsWith(@gloPrefix+"g") || "louis xvi".startsWith(@gloPrefix+"g") || "lycee".startsWith(@gloPrefix+"g") || "maire".startsWith(@gloPrefix+"g") || "mairie".startsWith(@gloPrefix+"g") || "majorite".startsWith(@gloPrefix+"g") || "mandat".startsWith(@gloPrefix+"g") || "marianne".startsWith(@gloPrefix+"g") || "martinique".startsWith(@gloPrefix+"g") || "mayotte".startsWith(@gloPrefix+"g") || "medecin traitant".startsWith(@gloPrefix+"g") || "mediterranee".startsWith(@gloPrefix+"g") || "ministre".startsWith(@gloPrefix+"g") || "mixite".startsWith(@gloPrefix+"g") || "monarchie".startsWith(@gloPrefix+"g") || "mont-saint-michel".startsWith(@gloPrefix+"g") || "musee du louvre".startsWith(@gloPrefix+"g") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"g") || "mutuelle".startsWith(@gloPrefix+"g") || "naissance".startsWith(@gloPrefix+"g") || "napoleon bonaparte".startsWith(@gloPrefix+"g") || "naturalisation".startsWith(@gloPrefix+"g") || "neutralite".startsWith(@gloPrefix+"g") || "opinion".startsWith(@gloPrefix+"g") || "ordre public".startsWith(@gloPrefix+"g") || "outre-mer".startsWith(@gloPrefix+"g") || "parlement".startsWith(@gloPrefix+"g") || "parlement europeen".startsWith(@gloPrefix+"g") || "parti politique".startsWith(@gloPrefix+"g") || "patrimoine".startsWith(@gloPrefix+"g") || "peine de mort".startsWith(@gloPrefix+"g") || "plainte".startsWith(@gloPrefix+"g") || "police".startsWith(@gloPrefix+"g") || "polygamie".startsWith(@gloPrefix+"g") || "pouvoir executif".startsWith(@gloPrefix+"g") || "pouvoir judiciaire".startsWith(@gloPrefix+"g") || "pouvoir legislatif".startsWith(@gloPrefix+"g") || "prefecture".startsWith(@gloPrefix+"g") || "prefet".startsWith(@gloPrefix+"g") || "premier ministre".startsWith(@gloPrefix+"g") || "premiere guerre mondiale".startsWith(@gloPrefix+"g") || "president de la republique".startsWith(@gloPrefix+"g") || "presomption d'innocence".startsWith(@gloPrefix+"g") || "prevention".startsWith(@gloPrefix+"g") || "proces equitable".startsWith(@gloPrefix+"g") || "procuration".startsWith(@gloPrefix+"g") || "projet de loi".startsWith(@gloPrefix+"g") || "proposition de loi".startsWith(@gloPrefix+"g") || "proprietaire".startsWith(@gloPrefix+"g") || "prostitution".startsWith(@gloPrefix+"g") || "protection sociale".startsWith(@gloPrefix+"g") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"g") || "pyrenees".startsWith(@gloPrefix+"g") || "quinquennat".startsWith(@gloPrefix+"g") || "recyclage".startsWith(@gloPrefix+"g") || "referendum".startsWith(@gloPrefix+"g") || "region".startsWith(@gloPrefix+"g") || "religion".startsWith(@gloPrefix+"g") || "republique".startsWith(@gloPrefix+"g") || "reseaux sociaux".startsWith(@gloPrefix+"g") || "resistance".startsWith(@gloPrefix+"g") || "respect".startsWith(@gloPrefix+"g") || "responsabilite".startsWith(@gloPrefix+"g") || "revolution".startsWith(@gloPrefix+"g") || "revolution francaise".startsWith(@gloPrefix+"g") || "rhone".startsWith(@gloPrefix+"g") || "salaire".startsWith(@gloPrefix+"g") || "salaire brut".startsWith(@gloPrefix+"g") || "salaire net".startsWith(@gloPrefix+"g") || "salarie".startsWith(@gloPrefix+"g") || "samu".startsWith(@gloPrefix+"g") || "sanction".startsWith(@gloPrefix+"g") || "seconde guerre mondiale".startsWith(@gloPrefix+"g") || "secours".startsWith(@gloPrefix+"g") || "securite routiere".startsWith(@gloPrefix+"g") || "seine".startsWith(@gloPrefix+"g") || "senat".startsWith(@gloPrefix+"g") || "senateur".startsWith(@gloPrefix+"g") || "separation des pouvoirs".startsWith(@gloPrefix+"g") || "service public".startsWith(@gloPrefix+"g") || "shoah".startsWith(@gloPrefix+"g") || "smic".startsWith(@gloPrefix+"g") || "souverainete nationale".startsWith(@gloPrefix+"g") || "suffrage universel".startsWith(@gloPrefix+"g") || "surete".startsWith(@gloPrefix+"g") || "temps de travail".startsWith(@gloPrefix+"g") || "titre de sejour".startsWith(@gloPrefix+"g") || "tour eiffel".startsWith(@gloPrefix+"g") || "traite de maastricht".startsWith(@gloPrefix+"g") || "traite de rome".startsWith(@gloPrefix+"g") || "traite des etres humains".startsWith(@gloPrefix+"g") || "travail dissimule".startsWith(@gloPrefix+"g") || "tri des dechets".startsWith(@gloPrefix+"g") || "unesco".startsWith(@gloPrefix+"g") || "union europeenne".startsWith(@gloPrefix+"g") || "urgence".startsWith(@gloPrefix+"g") || "urgences".startsWith(@gloPrefix+"g") || "vaccination".startsWith(@gloPrefix+"g") || "vercingetorix".startsWith(@gloPrefix+"g") || "violence".startsWith(@gloPrefix+"g") || "vote".startsWith(@gloPrefix+"g"))`
+`@gloNextH = calc("abolition".startsWith(@gloPrefix+"h") || "abstention".startsWith(@gloPrefix+"h") || "agents publics".startsWith(@gloPrefix+"h") || "alpes".startsWith(@gloPrefix+"h") || "amende".startsWith(@gloPrefix+"h") || "apl".startsWith(@gloPrefix+"h") || "armistice".startsWith(@gloPrefix+"h") || "assemblee nationale".startsWith(@gloPrefix+"h") || "assiduite".startsWith(@gloPrefix+"h") || "assistance a personne en danger".startsWith(@gloPrefix+"h") || "assurance maladie".startsWith(@gloPrefix+"h") || "autorite parentale".startsWith(@gloPrefix+"h") || "avocat".startsWith(@gloPrefix+"h") || "bail".startsWith(@gloPrefix+"h") || "bastille".startsWith(@gloPrefix+"h") || "benevolat".startsWith(@gloPrefix+"h") || "bloc de constitutionnalite".startsWith(@gloPrefix+"h") || "bretagne".startsWith(@gloPrefix+"h") || "caf".startsWith(@gloPrefix+"h") || "carte de resident".startsWith(@gloPrefix+"h") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"h") || "carte vitale".startsWith(@gloPrefix+"h") || "cdd".startsWith(@gloPrefix+"h") || "cdi".startsWith(@gloPrefix+"h") || "ceca".startsWith(@gloPrefix+"h") || "cee".startsWith(@gloPrefix+"h") || "celtes".startsWith(@gloPrefix+"h") || "charlemagne".startsWith(@gloPrefix+"h") || "charles de gaulle".startsWith(@gloPrefix+"h") || "charte de l'environnement".startsWith(@gloPrefix+"h") || "chateau de versailles".startsWith(@gloPrefix+"h") || "chef de l'etat".startsWith(@gloPrefix+"h") || "cinquieme republique".startsWith(@gloPrefix+"h") || "citoyen".startsWith(@gloPrefix+"h") || "citoyennete".startsWith(@gloPrefix+"h") || "clovis".startsWith(@gloPrefix+"h") || "collectivites territoriales".startsWith(@gloPrefix+"h") || "college".startsWith(@gloPrefix+"h") || "colonisation".startsWith(@gloPrefix+"h") || "commission europeenne".startsWith(@gloPrefix+"h") || "commune".startsWith(@gloPrefix+"h") || "conseil constitutionnel".startsWith(@gloPrefix+"h") || "conseil de l'union europeenne".startsWith(@gloPrefix+"h") || "conseil departemental".startsWith(@gloPrefix+"h") || "conseil europeen".startsWith(@gloPrefix+"h") || "conseil municipal".startsWith(@gloPrefix+"h") || "conseil regional".startsWith(@gloPrefix+"h") || "conseiller municipal".startsWith(@gloPrefix+"h") || "consentement".startsWith(@gloPrefix+"h") || "constitution".startsWith(@gloPrefix+"h") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"h") || "contrat de travail".startsWith(@gloPrefix+"h") || "contravention".startsWith(@gloPrefix+"h") || "coq gaulois".startsWith(@gloPrefix+"h") || "cotisations sociales".startsWith(@gloPrefix+"h") || "cour d'assises".startsWith(@gloPrefix+"h") || "cpam".startsWith(@gloPrefix+"h") || "crime".startsWith(@gloPrefix+"h") || "decheterie".startsWith(@gloPrefix+"h") || "dechets".startsWith(@gloPrefix+"h") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"h") || "delit".startsWith(@gloPrefix+"h") || "demandeur d'emploi".startsWith(@gloPrefix+"h") || "democratie".startsWith(@gloPrefix+"h") || "departement".startsWith(@gloPrefix+"h") || "depute".startsWith(@gloPrefix+"h") || "depute europeen".startsWith(@gloPrefix+"h") || "devise".startsWith(@gloPrefix+"h") || "devise de la republique".startsWith(@gloPrefix+"h") || "devoir".startsWith(@gloPrefix+"h") || "dignite humaine".startsWith(@gloPrefix+"h") || "discrimination".startsWith(@gloPrefix+"h") || "divorce".startsWith(@gloPrefix+"h") || "drapeau francais".startsWith(@gloPrefix+"h") || "droits civiques".startsWith(@gloPrefix+"h") || "droits de la defense".startsWith(@gloPrefix+"h") || "droits fondamentaux".startsWith(@gloPrefix+"h") || "drom".startsWith(@gloPrefix+"h") || "ecole".startsWith(@gloPrefix+"h") || "egalite".startsWith(@gloPrefix+"h") || "election".startsWith(@gloPrefix+"h") || "election presidentielle".startsWith(@gloPrefix+"h") || "elections europeennes".startsWith(@gloPrefix+"h") || "elections municipales".startsWith(@gloPrefix+"h") || "eligibilite".startsWith(@gloPrefix+"h") || "employeur".startsWith(@gloPrefix+"h") || "entrepreneuriat".startsWith(@gloPrefix+"h") || "entreprise".startsWith(@gloPrefix+"h") || "environnement".startsWith(@gloPrefix+"h") || "esclavage".startsWith(@gloPrefix+"h") || "espace schengen".startsWith(@gloPrefix+"h") || "etat".startsWith(@gloPrefix+"h") || "etat civil".startsWith(@gloPrefix+"h") || "euro".startsWith(@gloPrefix+"h") || "fete de la musique".startsWith(@gloPrefix+"h") || "fete nationale".startsWith(@gloPrefix+"h") || "fleuve".startsWith(@gloPrefix+"h") || "france metropolitaine".startsWith(@gloPrefix+"h") || "france services".startsWith(@gloPrefix+"h") || "france travail".startsWith(@gloPrefix+"h") || "francophonie".startsWith(@gloPrefix+"h") || "fraternite".startsWith(@gloPrefix+"h") || "gastronomie francaise".startsWith(@gloPrefix+"h") || "gaule".startsWith(@gloPrefix+"h") || "gendarmerie".startsWith(@gloPrefix+"h") || "genocide".startsWith(@gloPrefix+"h") || "gouvernement".startsWith(@gloPrefix+"h") || "greve".startsWith(@gloPrefix+"h") || "guadeloupe".startsWith(@gloPrefix+"h") || "guyane".startsWith(@gloPrefix+"h") || "handicap".startsWith(@gloPrefix+"h") || "harcelement".startsWith(@gloPrefix+"h") || "harcelement scolaire".startsWith(@gloPrefix+"h") || "hopital".startsWith(@gloPrefix+"h") || "ile-de-france".startsWith(@gloPrefix+"h") || "impot".startsWith(@gloPrefix+"h") || "impressionnisme".startsWith(@gloPrefix+"h") || "inclusion".startsWith(@gloPrefix+"h") || "infraction".startsWith(@gloPrefix+"h") || "instruction obligatoire".startsWith(@gloPrefix+"h") || "integrite de la personne".startsWith(@gloPrefix+"h") || "interet general".startsWith(@gloPrefix+"h") || "ivg".startsWith(@gloPrefix+"h") || "jour ferie".startsWith(@gloPrefix+"h") || "journee de l'europe".startsWith(@gloPrefix+"h") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"h") || "juge".startsWith(@gloPrefix+"h") || "jules ferry".startsWith(@gloPrefix+"h") || "jure".startsWith(@gloPrefix+"h") || "justice".startsWith(@gloPrefix+"h") || "la marseillaise".startsWith(@gloPrefix+"h") || "la reunion".startsWith(@gloPrefix+"h") || "laicite".startsWith(@gloPrefix+"h") || "langue de la republique".startsWith(@gloPrefix+"h") || "liberte".startsWith(@gloPrefix+"h") || "liberte d'association".startsWith(@gloPrefix+"h") || "liberte d'expression".startsWith(@gloPrefix+"h") || "liberte de circulation".startsWith(@gloPrefix+"h") || "liberte de conscience".startsWith(@gloPrefix+"h") || "listes electorales".startsWith(@gloPrefix+"h") || "litterature".startsWith(@gloPrefix+"h") || "locataire".startsWith(@gloPrefix+"h") || "loi".startsWith(@gloPrefix+"h") || "loire".startsWith(@gloPrefix+"h") || "louis xvi".startsWith(@gloPrefix+"h") || "lycee".startsWith(@gloPrefix+"h") || "maire".startsWith(@gloPrefix+"h") || "mairie".startsWith(@gloPrefix+"h") || "majorite".startsWith(@gloPrefix+"h") || "mandat".startsWith(@gloPrefix+"h") || "marianne".startsWith(@gloPrefix+"h") || "martinique".startsWith(@gloPrefix+"h") || "mayotte".startsWith(@gloPrefix+"h") || "medecin traitant".startsWith(@gloPrefix+"h") || "mediterranee".startsWith(@gloPrefix+"h") || "ministre".startsWith(@gloPrefix+"h") || "mixite".startsWith(@gloPrefix+"h") || "monarchie".startsWith(@gloPrefix+"h") || "mont-saint-michel".startsWith(@gloPrefix+"h") || "musee du louvre".startsWith(@gloPrefix+"h") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"h") || "mutuelle".startsWith(@gloPrefix+"h") || "naissance".startsWith(@gloPrefix+"h") || "napoleon bonaparte".startsWith(@gloPrefix+"h") || "naturalisation".startsWith(@gloPrefix+"h") || "neutralite".startsWith(@gloPrefix+"h") || "opinion".startsWith(@gloPrefix+"h") || "ordre public".startsWith(@gloPrefix+"h") || "outre-mer".startsWith(@gloPrefix+"h") || "parlement".startsWith(@gloPrefix+"h") || "parlement europeen".startsWith(@gloPrefix+"h") || "parti politique".startsWith(@gloPrefix+"h") || "patrimoine".startsWith(@gloPrefix+"h") || "peine de mort".startsWith(@gloPrefix+"h") || "plainte".startsWith(@gloPrefix+"h") || "police".startsWith(@gloPrefix+"h") || "polygamie".startsWith(@gloPrefix+"h") || "pouvoir executif".startsWith(@gloPrefix+"h") || "pouvoir judiciaire".startsWith(@gloPrefix+"h") || "pouvoir legislatif".startsWith(@gloPrefix+"h") || "prefecture".startsWith(@gloPrefix+"h") || "prefet".startsWith(@gloPrefix+"h") || "premier ministre".startsWith(@gloPrefix+"h") || "premiere guerre mondiale".startsWith(@gloPrefix+"h") || "president de la republique".startsWith(@gloPrefix+"h") || "presomption d'innocence".startsWith(@gloPrefix+"h") || "prevention".startsWith(@gloPrefix+"h") || "proces equitable".startsWith(@gloPrefix+"h") || "procuration".startsWith(@gloPrefix+"h") || "projet de loi".startsWith(@gloPrefix+"h") || "proposition de loi".startsWith(@gloPrefix+"h") || "proprietaire".startsWith(@gloPrefix+"h") || "prostitution".startsWith(@gloPrefix+"h") || "protection sociale".startsWith(@gloPrefix+"h") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"h") || "pyrenees".startsWith(@gloPrefix+"h") || "quinquennat".startsWith(@gloPrefix+"h") || "recyclage".startsWith(@gloPrefix+"h") || "referendum".startsWith(@gloPrefix+"h") || "region".startsWith(@gloPrefix+"h") || "religion".startsWith(@gloPrefix+"h") || "republique".startsWith(@gloPrefix+"h") || "reseaux sociaux".startsWith(@gloPrefix+"h") || "resistance".startsWith(@gloPrefix+"h") || "respect".startsWith(@gloPrefix+"h") || "responsabilite".startsWith(@gloPrefix+"h") || "revolution".startsWith(@gloPrefix+"h") || "revolution francaise".startsWith(@gloPrefix+"h") || "rhone".startsWith(@gloPrefix+"h") || "salaire".startsWith(@gloPrefix+"h") || "salaire brut".startsWith(@gloPrefix+"h") || "salaire net".startsWith(@gloPrefix+"h") || "salarie".startsWith(@gloPrefix+"h") || "samu".startsWith(@gloPrefix+"h") || "sanction".startsWith(@gloPrefix+"h") || "seconde guerre mondiale".startsWith(@gloPrefix+"h") || "secours".startsWith(@gloPrefix+"h") || "securite routiere".startsWith(@gloPrefix+"h") || "seine".startsWith(@gloPrefix+"h") || "senat".startsWith(@gloPrefix+"h") || "senateur".startsWith(@gloPrefix+"h") || "separation des pouvoirs".startsWith(@gloPrefix+"h") || "service public".startsWith(@gloPrefix+"h") || "shoah".startsWith(@gloPrefix+"h") || "smic".startsWith(@gloPrefix+"h") || "souverainete nationale".startsWith(@gloPrefix+"h") || "suffrage universel".startsWith(@gloPrefix+"h") || "surete".startsWith(@gloPrefix+"h") || "temps de travail".startsWith(@gloPrefix+"h") || "titre de sejour".startsWith(@gloPrefix+"h") || "tour eiffel".startsWith(@gloPrefix+"h") || "traite de maastricht".startsWith(@gloPrefix+"h") || "traite de rome".startsWith(@gloPrefix+"h") || "traite des etres humains".startsWith(@gloPrefix+"h") || "travail dissimule".startsWith(@gloPrefix+"h") || "tri des dechets".startsWith(@gloPrefix+"h") || "unesco".startsWith(@gloPrefix+"h") || "union europeenne".startsWith(@gloPrefix+"h") || "urgence".startsWith(@gloPrefix+"h") || "urgences".startsWith(@gloPrefix+"h") || "vaccination".startsWith(@gloPrefix+"h") || "vercingetorix".startsWith(@gloPrefix+"h") || "violence".startsWith(@gloPrefix+"h") || "vote".startsWith(@gloPrefix+"h"))`
+`@gloNextI = calc("abolition".startsWith(@gloPrefix+"i") || "abstention".startsWith(@gloPrefix+"i") || "agents publics".startsWith(@gloPrefix+"i") || "alpes".startsWith(@gloPrefix+"i") || "amende".startsWith(@gloPrefix+"i") || "apl".startsWith(@gloPrefix+"i") || "armistice".startsWith(@gloPrefix+"i") || "assemblee nationale".startsWith(@gloPrefix+"i") || "assiduite".startsWith(@gloPrefix+"i") || "assistance a personne en danger".startsWith(@gloPrefix+"i") || "assurance maladie".startsWith(@gloPrefix+"i") || "autorite parentale".startsWith(@gloPrefix+"i") || "avocat".startsWith(@gloPrefix+"i") || "bail".startsWith(@gloPrefix+"i") || "bastille".startsWith(@gloPrefix+"i") || "benevolat".startsWith(@gloPrefix+"i") || "bloc de constitutionnalite".startsWith(@gloPrefix+"i") || "bretagne".startsWith(@gloPrefix+"i") || "caf".startsWith(@gloPrefix+"i") || "carte de resident".startsWith(@gloPrefix+"i") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"i") || "carte vitale".startsWith(@gloPrefix+"i") || "cdd".startsWith(@gloPrefix+"i") || "cdi".startsWith(@gloPrefix+"i") || "ceca".startsWith(@gloPrefix+"i") || "cee".startsWith(@gloPrefix+"i") || "celtes".startsWith(@gloPrefix+"i") || "charlemagne".startsWith(@gloPrefix+"i") || "charles de gaulle".startsWith(@gloPrefix+"i") || "charte de l'environnement".startsWith(@gloPrefix+"i") || "chateau de versailles".startsWith(@gloPrefix+"i") || "chef de l'etat".startsWith(@gloPrefix+"i") || "cinquieme republique".startsWith(@gloPrefix+"i") || "citoyen".startsWith(@gloPrefix+"i") || "citoyennete".startsWith(@gloPrefix+"i") || "clovis".startsWith(@gloPrefix+"i") || "collectivites territoriales".startsWith(@gloPrefix+"i") || "college".startsWith(@gloPrefix+"i") || "colonisation".startsWith(@gloPrefix+"i") || "commission europeenne".startsWith(@gloPrefix+"i") || "commune".startsWith(@gloPrefix+"i") || "conseil constitutionnel".startsWith(@gloPrefix+"i") || "conseil de l'union europeenne".startsWith(@gloPrefix+"i") || "conseil departemental".startsWith(@gloPrefix+"i") || "conseil europeen".startsWith(@gloPrefix+"i") || "conseil municipal".startsWith(@gloPrefix+"i") || "conseil regional".startsWith(@gloPrefix+"i") || "conseiller municipal".startsWith(@gloPrefix+"i") || "consentement".startsWith(@gloPrefix+"i") || "constitution".startsWith(@gloPrefix+"i") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"i") || "contrat de travail".startsWith(@gloPrefix+"i") || "contravention".startsWith(@gloPrefix+"i") || "coq gaulois".startsWith(@gloPrefix+"i") || "cotisations sociales".startsWith(@gloPrefix+"i") || "cour d'assises".startsWith(@gloPrefix+"i") || "cpam".startsWith(@gloPrefix+"i") || "crime".startsWith(@gloPrefix+"i") || "decheterie".startsWith(@gloPrefix+"i") || "dechets".startsWith(@gloPrefix+"i") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"i") || "delit".startsWith(@gloPrefix+"i") || "demandeur d'emploi".startsWith(@gloPrefix+"i") || "democratie".startsWith(@gloPrefix+"i") || "departement".startsWith(@gloPrefix+"i") || "depute".startsWith(@gloPrefix+"i") || "depute europeen".startsWith(@gloPrefix+"i") || "devise".startsWith(@gloPrefix+"i") || "devise de la republique".startsWith(@gloPrefix+"i") || "devoir".startsWith(@gloPrefix+"i") || "dignite humaine".startsWith(@gloPrefix+"i") || "discrimination".startsWith(@gloPrefix+"i") || "divorce".startsWith(@gloPrefix+"i") || "drapeau francais".startsWith(@gloPrefix+"i") || "droits civiques".startsWith(@gloPrefix+"i") || "droits de la defense".startsWith(@gloPrefix+"i") || "droits fondamentaux".startsWith(@gloPrefix+"i") || "drom".startsWith(@gloPrefix+"i") || "ecole".startsWith(@gloPrefix+"i") || "egalite".startsWith(@gloPrefix+"i") || "election".startsWith(@gloPrefix+"i") || "election presidentielle".startsWith(@gloPrefix+"i") || "elections europeennes".startsWith(@gloPrefix+"i") || "elections municipales".startsWith(@gloPrefix+"i") || "eligibilite".startsWith(@gloPrefix+"i") || "employeur".startsWith(@gloPrefix+"i") || "entrepreneuriat".startsWith(@gloPrefix+"i") || "entreprise".startsWith(@gloPrefix+"i") || "environnement".startsWith(@gloPrefix+"i") || "esclavage".startsWith(@gloPrefix+"i") || "espace schengen".startsWith(@gloPrefix+"i") || "etat".startsWith(@gloPrefix+"i") || "etat civil".startsWith(@gloPrefix+"i") || "euro".startsWith(@gloPrefix+"i") || "fete de la musique".startsWith(@gloPrefix+"i") || "fete nationale".startsWith(@gloPrefix+"i") || "fleuve".startsWith(@gloPrefix+"i") || "france metropolitaine".startsWith(@gloPrefix+"i") || "france services".startsWith(@gloPrefix+"i") || "france travail".startsWith(@gloPrefix+"i") || "francophonie".startsWith(@gloPrefix+"i") || "fraternite".startsWith(@gloPrefix+"i") || "gastronomie francaise".startsWith(@gloPrefix+"i") || "gaule".startsWith(@gloPrefix+"i") || "gendarmerie".startsWith(@gloPrefix+"i") || "genocide".startsWith(@gloPrefix+"i") || "gouvernement".startsWith(@gloPrefix+"i") || "greve".startsWith(@gloPrefix+"i") || "guadeloupe".startsWith(@gloPrefix+"i") || "guyane".startsWith(@gloPrefix+"i") || "handicap".startsWith(@gloPrefix+"i") || "harcelement".startsWith(@gloPrefix+"i") || "harcelement scolaire".startsWith(@gloPrefix+"i") || "hopital".startsWith(@gloPrefix+"i") || "ile-de-france".startsWith(@gloPrefix+"i") || "impot".startsWith(@gloPrefix+"i") || "impressionnisme".startsWith(@gloPrefix+"i") || "inclusion".startsWith(@gloPrefix+"i") || "infraction".startsWith(@gloPrefix+"i") || "instruction obligatoire".startsWith(@gloPrefix+"i") || "integrite de la personne".startsWith(@gloPrefix+"i") || "interet general".startsWith(@gloPrefix+"i") || "ivg".startsWith(@gloPrefix+"i") || "jour ferie".startsWith(@gloPrefix+"i") || "journee de l'europe".startsWith(@gloPrefix+"i") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"i") || "juge".startsWith(@gloPrefix+"i") || "jules ferry".startsWith(@gloPrefix+"i") || "jure".startsWith(@gloPrefix+"i") || "justice".startsWith(@gloPrefix+"i") || "la marseillaise".startsWith(@gloPrefix+"i") || "la reunion".startsWith(@gloPrefix+"i") || "laicite".startsWith(@gloPrefix+"i") || "langue de la republique".startsWith(@gloPrefix+"i") || "liberte".startsWith(@gloPrefix+"i") || "liberte d'association".startsWith(@gloPrefix+"i") || "liberte d'expression".startsWith(@gloPrefix+"i") || "liberte de circulation".startsWith(@gloPrefix+"i") || "liberte de conscience".startsWith(@gloPrefix+"i") || "listes electorales".startsWith(@gloPrefix+"i") || "litterature".startsWith(@gloPrefix+"i") || "locataire".startsWith(@gloPrefix+"i") || "loi".startsWith(@gloPrefix+"i") || "loire".startsWith(@gloPrefix+"i") || "louis xvi".startsWith(@gloPrefix+"i") || "lycee".startsWith(@gloPrefix+"i") || "maire".startsWith(@gloPrefix+"i") || "mairie".startsWith(@gloPrefix+"i") || "majorite".startsWith(@gloPrefix+"i") || "mandat".startsWith(@gloPrefix+"i") || "marianne".startsWith(@gloPrefix+"i") || "martinique".startsWith(@gloPrefix+"i") || "mayotte".startsWith(@gloPrefix+"i") || "medecin traitant".startsWith(@gloPrefix+"i") || "mediterranee".startsWith(@gloPrefix+"i") || "ministre".startsWith(@gloPrefix+"i") || "mixite".startsWith(@gloPrefix+"i") || "monarchie".startsWith(@gloPrefix+"i") || "mont-saint-michel".startsWith(@gloPrefix+"i") || "musee du louvre".startsWith(@gloPrefix+"i") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"i") || "mutuelle".startsWith(@gloPrefix+"i") || "naissance".startsWith(@gloPrefix+"i") || "napoleon bonaparte".startsWith(@gloPrefix+"i") || "naturalisation".startsWith(@gloPrefix+"i") || "neutralite".startsWith(@gloPrefix+"i") || "opinion".startsWith(@gloPrefix+"i") || "ordre public".startsWith(@gloPrefix+"i") || "outre-mer".startsWith(@gloPrefix+"i") || "parlement".startsWith(@gloPrefix+"i") || "parlement europeen".startsWith(@gloPrefix+"i") || "parti politique".startsWith(@gloPrefix+"i") || "patrimoine".startsWith(@gloPrefix+"i") || "peine de mort".startsWith(@gloPrefix+"i") || "plainte".startsWith(@gloPrefix+"i") || "police".startsWith(@gloPrefix+"i") || "polygamie".startsWith(@gloPrefix+"i") || "pouvoir executif".startsWith(@gloPrefix+"i") || "pouvoir judiciaire".startsWith(@gloPrefix+"i") || "pouvoir legislatif".startsWith(@gloPrefix+"i") || "prefecture".startsWith(@gloPrefix+"i") || "prefet".startsWith(@gloPrefix+"i") || "premier ministre".startsWith(@gloPrefix+"i") || "premiere guerre mondiale".startsWith(@gloPrefix+"i") || "president de la republique".startsWith(@gloPrefix+"i") || "presomption d'innocence".startsWith(@gloPrefix+"i") || "prevention".startsWith(@gloPrefix+"i") || "proces equitable".startsWith(@gloPrefix+"i") || "procuration".startsWith(@gloPrefix+"i") || "projet de loi".startsWith(@gloPrefix+"i") || "proposition de loi".startsWith(@gloPrefix+"i") || "proprietaire".startsWith(@gloPrefix+"i") || "prostitution".startsWith(@gloPrefix+"i") || "protection sociale".startsWith(@gloPrefix+"i") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"i") || "pyrenees".startsWith(@gloPrefix+"i") || "quinquennat".startsWith(@gloPrefix+"i") || "recyclage".startsWith(@gloPrefix+"i") || "referendum".startsWith(@gloPrefix+"i") || "region".startsWith(@gloPrefix+"i") || "religion".startsWith(@gloPrefix+"i") || "republique".startsWith(@gloPrefix+"i") || "reseaux sociaux".startsWith(@gloPrefix+"i") || "resistance".startsWith(@gloPrefix+"i") || "respect".startsWith(@gloPrefix+"i") || "responsabilite".startsWith(@gloPrefix+"i") || "revolution".startsWith(@gloPrefix+"i") || "revolution francaise".startsWith(@gloPrefix+"i") || "rhone".startsWith(@gloPrefix+"i") || "salaire".startsWith(@gloPrefix+"i") || "salaire brut".startsWith(@gloPrefix+"i") || "salaire net".startsWith(@gloPrefix+"i") || "salarie".startsWith(@gloPrefix+"i") || "samu".startsWith(@gloPrefix+"i") || "sanction".startsWith(@gloPrefix+"i") || "seconde guerre mondiale".startsWith(@gloPrefix+"i") || "secours".startsWith(@gloPrefix+"i") || "securite routiere".startsWith(@gloPrefix+"i") || "seine".startsWith(@gloPrefix+"i") || "senat".startsWith(@gloPrefix+"i") || "senateur".startsWith(@gloPrefix+"i") || "separation des pouvoirs".startsWith(@gloPrefix+"i") || "service public".startsWith(@gloPrefix+"i") || "shoah".startsWith(@gloPrefix+"i") || "smic".startsWith(@gloPrefix+"i") || "souverainete nationale".startsWith(@gloPrefix+"i") || "suffrage universel".startsWith(@gloPrefix+"i") || "surete".startsWith(@gloPrefix+"i") || "temps de travail".startsWith(@gloPrefix+"i") || "titre de sejour".startsWith(@gloPrefix+"i") || "tour eiffel".startsWith(@gloPrefix+"i") || "traite de maastricht".startsWith(@gloPrefix+"i") || "traite de rome".startsWith(@gloPrefix+"i") || "traite des etres humains".startsWith(@gloPrefix+"i") || "travail dissimule".startsWith(@gloPrefix+"i") || "tri des dechets".startsWith(@gloPrefix+"i") || "unesco".startsWith(@gloPrefix+"i") || "union europeenne".startsWith(@gloPrefix+"i") || "urgence".startsWith(@gloPrefix+"i") || "urgences".startsWith(@gloPrefix+"i") || "vaccination".startsWith(@gloPrefix+"i") || "vercingetorix".startsWith(@gloPrefix+"i") || "violence".startsWith(@gloPrefix+"i") || "vote".startsWith(@gloPrefix+"i"))`
+`@gloNextJ = calc("abolition".startsWith(@gloPrefix+"j") || "abstention".startsWith(@gloPrefix+"j") || "agents publics".startsWith(@gloPrefix+"j") || "alpes".startsWith(@gloPrefix+"j") || "amende".startsWith(@gloPrefix+"j") || "apl".startsWith(@gloPrefix+"j") || "armistice".startsWith(@gloPrefix+"j") || "assemblee nationale".startsWith(@gloPrefix+"j") || "assiduite".startsWith(@gloPrefix+"j") || "assistance a personne en danger".startsWith(@gloPrefix+"j") || "assurance maladie".startsWith(@gloPrefix+"j") || "autorite parentale".startsWith(@gloPrefix+"j") || "avocat".startsWith(@gloPrefix+"j") || "bail".startsWith(@gloPrefix+"j") || "bastille".startsWith(@gloPrefix+"j") || "benevolat".startsWith(@gloPrefix+"j") || "bloc de constitutionnalite".startsWith(@gloPrefix+"j") || "bretagne".startsWith(@gloPrefix+"j") || "caf".startsWith(@gloPrefix+"j") || "carte de resident".startsWith(@gloPrefix+"j") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"j") || "carte vitale".startsWith(@gloPrefix+"j") || "cdd".startsWith(@gloPrefix+"j") || "cdi".startsWith(@gloPrefix+"j") || "ceca".startsWith(@gloPrefix+"j") || "cee".startsWith(@gloPrefix+"j") || "celtes".startsWith(@gloPrefix+"j") || "charlemagne".startsWith(@gloPrefix+"j") || "charles de gaulle".startsWith(@gloPrefix+"j") || "charte de l'environnement".startsWith(@gloPrefix+"j") || "chateau de versailles".startsWith(@gloPrefix+"j") || "chef de l'etat".startsWith(@gloPrefix+"j") || "cinquieme republique".startsWith(@gloPrefix+"j") || "citoyen".startsWith(@gloPrefix+"j") || "citoyennete".startsWith(@gloPrefix+"j") || "clovis".startsWith(@gloPrefix+"j") || "collectivites territoriales".startsWith(@gloPrefix+"j") || "college".startsWith(@gloPrefix+"j") || "colonisation".startsWith(@gloPrefix+"j") || "commission europeenne".startsWith(@gloPrefix+"j") || "commune".startsWith(@gloPrefix+"j") || "conseil constitutionnel".startsWith(@gloPrefix+"j") || "conseil de l'union europeenne".startsWith(@gloPrefix+"j") || "conseil departemental".startsWith(@gloPrefix+"j") || "conseil europeen".startsWith(@gloPrefix+"j") || "conseil municipal".startsWith(@gloPrefix+"j") || "conseil regional".startsWith(@gloPrefix+"j") || "conseiller municipal".startsWith(@gloPrefix+"j") || "consentement".startsWith(@gloPrefix+"j") || "constitution".startsWith(@gloPrefix+"j") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"j") || "contrat de travail".startsWith(@gloPrefix+"j") || "contravention".startsWith(@gloPrefix+"j") || "coq gaulois".startsWith(@gloPrefix+"j") || "cotisations sociales".startsWith(@gloPrefix+"j") || "cour d'assises".startsWith(@gloPrefix+"j") || "cpam".startsWith(@gloPrefix+"j") || "crime".startsWith(@gloPrefix+"j") || "decheterie".startsWith(@gloPrefix+"j") || "dechets".startsWith(@gloPrefix+"j") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"j") || "delit".startsWith(@gloPrefix+"j") || "demandeur d'emploi".startsWith(@gloPrefix+"j") || "democratie".startsWith(@gloPrefix+"j") || "departement".startsWith(@gloPrefix+"j") || "depute".startsWith(@gloPrefix+"j") || "depute europeen".startsWith(@gloPrefix+"j") || "devise".startsWith(@gloPrefix+"j") || "devise de la republique".startsWith(@gloPrefix+"j") || "devoir".startsWith(@gloPrefix+"j") || "dignite humaine".startsWith(@gloPrefix+"j") || "discrimination".startsWith(@gloPrefix+"j") || "divorce".startsWith(@gloPrefix+"j") || "drapeau francais".startsWith(@gloPrefix+"j") || "droits civiques".startsWith(@gloPrefix+"j") || "droits de la defense".startsWith(@gloPrefix+"j") || "droits fondamentaux".startsWith(@gloPrefix+"j") || "drom".startsWith(@gloPrefix+"j") || "ecole".startsWith(@gloPrefix+"j") || "egalite".startsWith(@gloPrefix+"j") || "election".startsWith(@gloPrefix+"j") || "election presidentielle".startsWith(@gloPrefix+"j") || "elections europeennes".startsWith(@gloPrefix+"j") || "elections municipales".startsWith(@gloPrefix+"j") || "eligibilite".startsWith(@gloPrefix+"j") || "employeur".startsWith(@gloPrefix+"j") || "entrepreneuriat".startsWith(@gloPrefix+"j") || "entreprise".startsWith(@gloPrefix+"j") || "environnement".startsWith(@gloPrefix+"j") || "esclavage".startsWith(@gloPrefix+"j") || "espace schengen".startsWith(@gloPrefix+"j") || "etat".startsWith(@gloPrefix+"j") || "etat civil".startsWith(@gloPrefix+"j") || "euro".startsWith(@gloPrefix+"j") || "fete de la musique".startsWith(@gloPrefix+"j") || "fete nationale".startsWith(@gloPrefix+"j") || "fleuve".startsWith(@gloPrefix+"j") || "france metropolitaine".startsWith(@gloPrefix+"j") || "france services".startsWith(@gloPrefix+"j") || "france travail".startsWith(@gloPrefix+"j") || "francophonie".startsWith(@gloPrefix+"j") || "fraternite".startsWith(@gloPrefix+"j") || "gastronomie francaise".startsWith(@gloPrefix+"j") || "gaule".startsWith(@gloPrefix+"j") || "gendarmerie".startsWith(@gloPrefix+"j") || "genocide".startsWith(@gloPrefix+"j") || "gouvernement".startsWith(@gloPrefix+"j") || "greve".startsWith(@gloPrefix+"j") || "guadeloupe".startsWith(@gloPrefix+"j") || "guyane".startsWith(@gloPrefix+"j") || "handicap".startsWith(@gloPrefix+"j") || "harcelement".startsWith(@gloPrefix+"j") || "harcelement scolaire".startsWith(@gloPrefix+"j") || "hopital".startsWith(@gloPrefix+"j") || "ile-de-france".startsWith(@gloPrefix+"j") || "impot".startsWith(@gloPrefix+"j") || "impressionnisme".startsWith(@gloPrefix+"j") || "inclusion".startsWith(@gloPrefix+"j") || "infraction".startsWith(@gloPrefix+"j") || "instruction obligatoire".startsWith(@gloPrefix+"j") || "integrite de la personne".startsWith(@gloPrefix+"j") || "interet general".startsWith(@gloPrefix+"j") || "ivg".startsWith(@gloPrefix+"j") || "jour ferie".startsWith(@gloPrefix+"j") || "journee de l'europe".startsWith(@gloPrefix+"j") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"j") || "juge".startsWith(@gloPrefix+"j") || "jules ferry".startsWith(@gloPrefix+"j") || "jure".startsWith(@gloPrefix+"j") || "justice".startsWith(@gloPrefix+"j") || "la marseillaise".startsWith(@gloPrefix+"j") || "la reunion".startsWith(@gloPrefix+"j") || "laicite".startsWith(@gloPrefix+"j") || "langue de la republique".startsWith(@gloPrefix+"j") || "liberte".startsWith(@gloPrefix+"j") || "liberte d'association".startsWith(@gloPrefix+"j") || "liberte d'expression".startsWith(@gloPrefix+"j") || "liberte de circulation".startsWith(@gloPrefix+"j") || "liberte de conscience".startsWith(@gloPrefix+"j") || "listes electorales".startsWith(@gloPrefix+"j") || "litterature".startsWith(@gloPrefix+"j") || "locataire".startsWith(@gloPrefix+"j") || "loi".startsWith(@gloPrefix+"j") || "loire".startsWith(@gloPrefix+"j") || "louis xvi".startsWith(@gloPrefix+"j") || "lycee".startsWith(@gloPrefix+"j") || "maire".startsWith(@gloPrefix+"j") || "mairie".startsWith(@gloPrefix+"j") || "majorite".startsWith(@gloPrefix+"j") || "mandat".startsWith(@gloPrefix+"j") || "marianne".startsWith(@gloPrefix+"j") || "martinique".startsWith(@gloPrefix+"j") || "mayotte".startsWith(@gloPrefix+"j") || "medecin traitant".startsWith(@gloPrefix+"j") || "mediterranee".startsWith(@gloPrefix+"j") || "ministre".startsWith(@gloPrefix+"j") || "mixite".startsWith(@gloPrefix+"j") || "monarchie".startsWith(@gloPrefix+"j") || "mont-saint-michel".startsWith(@gloPrefix+"j") || "musee du louvre".startsWith(@gloPrefix+"j") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"j") || "mutuelle".startsWith(@gloPrefix+"j") || "naissance".startsWith(@gloPrefix+"j") || "napoleon bonaparte".startsWith(@gloPrefix+"j") || "naturalisation".startsWith(@gloPrefix+"j") || "neutralite".startsWith(@gloPrefix+"j") || "opinion".startsWith(@gloPrefix+"j") || "ordre public".startsWith(@gloPrefix+"j") || "outre-mer".startsWith(@gloPrefix+"j") || "parlement".startsWith(@gloPrefix+"j") || "parlement europeen".startsWith(@gloPrefix+"j") || "parti politique".startsWith(@gloPrefix+"j") || "patrimoine".startsWith(@gloPrefix+"j") || "peine de mort".startsWith(@gloPrefix+"j") || "plainte".startsWith(@gloPrefix+"j") || "police".startsWith(@gloPrefix+"j") || "polygamie".startsWith(@gloPrefix+"j") || "pouvoir executif".startsWith(@gloPrefix+"j") || "pouvoir judiciaire".startsWith(@gloPrefix+"j") || "pouvoir legislatif".startsWith(@gloPrefix+"j") || "prefecture".startsWith(@gloPrefix+"j") || "prefet".startsWith(@gloPrefix+"j") || "premier ministre".startsWith(@gloPrefix+"j") || "premiere guerre mondiale".startsWith(@gloPrefix+"j") || "president de la republique".startsWith(@gloPrefix+"j") || "presomption d'innocence".startsWith(@gloPrefix+"j") || "prevention".startsWith(@gloPrefix+"j") || "proces equitable".startsWith(@gloPrefix+"j") || "procuration".startsWith(@gloPrefix+"j") || "projet de loi".startsWith(@gloPrefix+"j") || "proposition de loi".startsWith(@gloPrefix+"j") || "proprietaire".startsWith(@gloPrefix+"j") || "prostitution".startsWith(@gloPrefix+"j") || "protection sociale".startsWith(@gloPrefix+"j") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"j") || "pyrenees".startsWith(@gloPrefix+"j") || "quinquennat".startsWith(@gloPrefix+"j") || "recyclage".startsWith(@gloPrefix+"j") || "referendum".startsWith(@gloPrefix+"j") || "region".startsWith(@gloPrefix+"j") || "religion".startsWith(@gloPrefix+"j") || "republique".startsWith(@gloPrefix+"j") || "reseaux sociaux".startsWith(@gloPrefix+"j") || "resistance".startsWith(@gloPrefix+"j") || "respect".startsWith(@gloPrefix+"j") || "responsabilite".startsWith(@gloPrefix+"j") || "revolution".startsWith(@gloPrefix+"j") || "revolution francaise".startsWith(@gloPrefix+"j") || "rhone".startsWith(@gloPrefix+"j") || "salaire".startsWith(@gloPrefix+"j") || "salaire brut".startsWith(@gloPrefix+"j") || "salaire net".startsWith(@gloPrefix+"j") || "salarie".startsWith(@gloPrefix+"j") || "samu".startsWith(@gloPrefix+"j") || "sanction".startsWith(@gloPrefix+"j") || "seconde guerre mondiale".startsWith(@gloPrefix+"j") || "secours".startsWith(@gloPrefix+"j") || "securite routiere".startsWith(@gloPrefix+"j") || "seine".startsWith(@gloPrefix+"j") || "senat".startsWith(@gloPrefix+"j") || "senateur".startsWith(@gloPrefix+"j") || "separation des pouvoirs".startsWith(@gloPrefix+"j") || "service public".startsWith(@gloPrefix+"j") || "shoah".startsWith(@gloPrefix+"j") || "smic".startsWith(@gloPrefix+"j") || "souverainete nationale".startsWith(@gloPrefix+"j") || "suffrage universel".startsWith(@gloPrefix+"j") || "surete".startsWith(@gloPrefix+"j") || "temps de travail".startsWith(@gloPrefix+"j") || "titre de sejour".startsWith(@gloPrefix+"j") || "tour eiffel".startsWith(@gloPrefix+"j") || "traite de maastricht".startsWith(@gloPrefix+"j") || "traite de rome".startsWith(@gloPrefix+"j") || "traite des etres humains".startsWith(@gloPrefix+"j") || "travail dissimule".startsWith(@gloPrefix+"j") || "tri des dechets".startsWith(@gloPrefix+"j") || "unesco".startsWith(@gloPrefix+"j") || "union europeenne".startsWith(@gloPrefix+"j") || "urgence".startsWith(@gloPrefix+"j") || "urgences".startsWith(@gloPrefix+"j") || "vaccination".startsWith(@gloPrefix+"j") || "vercingetorix".startsWith(@gloPrefix+"j") || "violence".startsWith(@gloPrefix+"j") || "vote".startsWith(@gloPrefix+"j"))`
+`@gloNextK = calc("abolition".startsWith(@gloPrefix+"k") || "abstention".startsWith(@gloPrefix+"k") || "agents publics".startsWith(@gloPrefix+"k") || "alpes".startsWith(@gloPrefix+"k") || "amende".startsWith(@gloPrefix+"k") || "apl".startsWith(@gloPrefix+"k") || "armistice".startsWith(@gloPrefix+"k") || "assemblee nationale".startsWith(@gloPrefix+"k") || "assiduite".startsWith(@gloPrefix+"k") || "assistance a personne en danger".startsWith(@gloPrefix+"k") || "assurance maladie".startsWith(@gloPrefix+"k") || "autorite parentale".startsWith(@gloPrefix+"k") || "avocat".startsWith(@gloPrefix+"k") || "bail".startsWith(@gloPrefix+"k") || "bastille".startsWith(@gloPrefix+"k") || "benevolat".startsWith(@gloPrefix+"k") || "bloc de constitutionnalite".startsWith(@gloPrefix+"k") || "bretagne".startsWith(@gloPrefix+"k") || "caf".startsWith(@gloPrefix+"k") || "carte de resident".startsWith(@gloPrefix+"k") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"k") || "carte vitale".startsWith(@gloPrefix+"k") || "cdd".startsWith(@gloPrefix+"k") || "cdi".startsWith(@gloPrefix+"k") || "ceca".startsWith(@gloPrefix+"k") || "cee".startsWith(@gloPrefix+"k") || "celtes".startsWith(@gloPrefix+"k") || "charlemagne".startsWith(@gloPrefix+"k") || "charles de gaulle".startsWith(@gloPrefix+"k") || "charte de l'environnement".startsWith(@gloPrefix+"k") || "chateau de versailles".startsWith(@gloPrefix+"k") || "chef de l'etat".startsWith(@gloPrefix+"k") || "cinquieme republique".startsWith(@gloPrefix+"k") || "citoyen".startsWith(@gloPrefix+"k") || "citoyennete".startsWith(@gloPrefix+"k") || "clovis".startsWith(@gloPrefix+"k") || "collectivites territoriales".startsWith(@gloPrefix+"k") || "college".startsWith(@gloPrefix+"k") || "colonisation".startsWith(@gloPrefix+"k") || "commission europeenne".startsWith(@gloPrefix+"k") || "commune".startsWith(@gloPrefix+"k") || "conseil constitutionnel".startsWith(@gloPrefix+"k") || "conseil de l'union europeenne".startsWith(@gloPrefix+"k") || "conseil departemental".startsWith(@gloPrefix+"k") || "conseil europeen".startsWith(@gloPrefix+"k") || "conseil municipal".startsWith(@gloPrefix+"k") || "conseil regional".startsWith(@gloPrefix+"k") || "conseiller municipal".startsWith(@gloPrefix+"k") || "consentement".startsWith(@gloPrefix+"k") || "constitution".startsWith(@gloPrefix+"k") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"k") || "contrat de travail".startsWith(@gloPrefix+"k") || "contravention".startsWith(@gloPrefix+"k") || "coq gaulois".startsWith(@gloPrefix+"k") || "cotisations sociales".startsWith(@gloPrefix+"k") || "cour d'assises".startsWith(@gloPrefix+"k") || "cpam".startsWith(@gloPrefix+"k") || "crime".startsWith(@gloPrefix+"k") || "decheterie".startsWith(@gloPrefix+"k") || "dechets".startsWith(@gloPrefix+"k") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"k") || "delit".startsWith(@gloPrefix+"k") || "demandeur d'emploi".startsWith(@gloPrefix+"k") || "democratie".startsWith(@gloPrefix+"k") || "departement".startsWith(@gloPrefix+"k") || "depute".startsWith(@gloPrefix+"k") || "depute europeen".startsWith(@gloPrefix+"k") || "devise".startsWith(@gloPrefix+"k") || "devise de la republique".startsWith(@gloPrefix+"k") || "devoir".startsWith(@gloPrefix+"k") || "dignite humaine".startsWith(@gloPrefix+"k") || "discrimination".startsWith(@gloPrefix+"k") || "divorce".startsWith(@gloPrefix+"k") || "drapeau francais".startsWith(@gloPrefix+"k") || "droits civiques".startsWith(@gloPrefix+"k") || "droits de la defense".startsWith(@gloPrefix+"k") || "droits fondamentaux".startsWith(@gloPrefix+"k") || "drom".startsWith(@gloPrefix+"k") || "ecole".startsWith(@gloPrefix+"k") || "egalite".startsWith(@gloPrefix+"k") || "election".startsWith(@gloPrefix+"k") || "election presidentielle".startsWith(@gloPrefix+"k") || "elections europeennes".startsWith(@gloPrefix+"k") || "elections municipales".startsWith(@gloPrefix+"k") || "eligibilite".startsWith(@gloPrefix+"k") || "employeur".startsWith(@gloPrefix+"k") || "entrepreneuriat".startsWith(@gloPrefix+"k") || "entreprise".startsWith(@gloPrefix+"k") || "environnement".startsWith(@gloPrefix+"k") || "esclavage".startsWith(@gloPrefix+"k") || "espace schengen".startsWith(@gloPrefix+"k") || "etat".startsWith(@gloPrefix+"k") || "etat civil".startsWith(@gloPrefix+"k") || "euro".startsWith(@gloPrefix+"k") || "fete de la musique".startsWith(@gloPrefix+"k") || "fete nationale".startsWith(@gloPrefix+"k") || "fleuve".startsWith(@gloPrefix+"k") || "france metropolitaine".startsWith(@gloPrefix+"k") || "france services".startsWith(@gloPrefix+"k") || "france travail".startsWith(@gloPrefix+"k") || "francophonie".startsWith(@gloPrefix+"k") || "fraternite".startsWith(@gloPrefix+"k") || "gastronomie francaise".startsWith(@gloPrefix+"k") || "gaule".startsWith(@gloPrefix+"k") || "gendarmerie".startsWith(@gloPrefix+"k") || "genocide".startsWith(@gloPrefix+"k") || "gouvernement".startsWith(@gloPrefix+"k") || "greve".startsWith(@gloPrefix+"k") || "guadeloupe".startsWith(@gloPrefix+"k") || "guyane".startsWith(@gloPrefix+"k") || "handicap".startsWith(@gloPrefix+"k") || "harcelement".startsWith(@gloPrefix+"k") || "harcelement scolaire".startsWith(@gloPrefix+"k") || "hopital".startsWith(@gloPrefix+"k") || "ile-de-france".startsWith(@gloPrefix+"k") || "impot".startsWith(@gloPrefix+"k") || "impressionnisme".startsWith(@gloPrefix+"k") || "inclusion".startsWith(@gloPrefix+"k") || "infraction".startsWith(@gloPrefix+"k") || "instruction obligatoire".startsWith(@gloPrefix+"k") || "integrite de la personne".startsWith(@gloPrefix+"k") || "interet general".startsWith(@gloPrefix+"k") || "ivg".startsWith(@gloPrefix+"k") || "jour ferie".startsWith(@gloPrefix+"k") || "journee de l'europe".startsWith(@gloPrefix+"k") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"k") || "juge".startsWith(@gloPrefix+"k") || "jules ferry".startsWith(@gloPrefix+"k") || "jure".startsWith(@gloPrefix+"k") || "justice".startsWith(@gloPrefix+"k") || "la marseillaise".startsWith(@gloPrefix+"k") || "la reunion".startsWith(@gloPrefix+"k") || "laicite".startsWith(@gloPrefix+"k") || "langue de la republique".startsWith(@gloPrefix+"k") || "liberte".startsWith(@gloPrefix+"k") || "liberte d'association".startsWith(@gloPrefix+"k") || "liberte d'expression".startsWith(@gloPrefix+"k") || "liberte de circulation".startsWith(@gloPrefix+"k") || "liberte de conscience".startsWith(@gloPrefix+"k") || "listes electorales".startsWith(@gloPrefix+"k") || "litterature".startsWith(@gloPrefix+"k") || "locataire".startsWith(@gloPrefix+"k") || "loi".startsWith(@gloPrefix+"k") || "loire".startsWith(@gloPrefix+"k") || "louis xvi".startsWith(@gloPrefix+"k") || "lycee".startsWith(@gloPrefix+"k") || "maire".startsWith(@gloPrefix+"k") || "mairie".startsWith(@gloPrefix+"k") || "majorite".startsWith(@gloPrefix+"k") || "mandat".startsWith(@gloPrefix+"k") || "marianne".startsWith(@gloPrefix+"k") || "martinique".startsWith(@gloPrefix+"k") || "mayotte".startsWith(@gloPrefix+"k") || "medecin traitant".startsWith(@gloPrefix+"k") || "mediterranee".startsWith(@gloPrefix+"k") || "ministre".startsWith(@gloPrefix+"k") || "mixite".startsWith(@gloPrefix+"k") || "monarchie".startsWith(@gloPrefix+"k") || "mont-saint-michel".startsWith(@gloPrefix+"k") || "musee du louvre".startsWith(@gloPrefix+"k") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"k") || "mutuelle".startsWith(@gloPrefix+"k") || "naissance".startsWith(@gloPrefix+"k") || "napoleon bonaparte".startsWith(@gloPrefix+"k") || "naturalisation".startsWith(@gloPrefix+"k") || "neutralite".startsWith(@gloPrefix+"k") || "opinion".startsWith(@gloPrefix+"k") || "ordre public".startsWith(@gloPrefix+"k") || "outre-mer".startsWith(@gloPrefix+"k") || "parlement".startsWith(@gloPrefix+"k") || "parlement europeen".startsWith(@gloPrefix+"k") || "parti politique".startsWith(@gloPrefix+"k") || "patrimoine".startsWith(@gloPrefix+"k") || "peine de mort".startsWith(@gloPrefix+"k") || "plainte".startsWith(@gloPrefix+"k") || "police".startsWith(@gloPrefix+"k") || "polygamie".startsWith(@gloPrefix+"k") || "pouvoir executif".startsWith(@gloPrefix+"k") || "pouvoir judiciaire".startsWith(@gloPrefix+"k") || "pouvoir legislatif".startsWith(@gloPrefix+"k") || "prefecture".startsWith(@gloPrefix+"k") || "prefet".startsWith(@gloPrefix+"k") || "premier ministre".startsWith(@gloPrefix+"k") || "premiere guerre mondiale".startsWith(@gloPrefix+"k") || "president de la republique".startsWith(@gloPrefix+"k") || "presomption d'innocence".startsWith(@gloPrefix+"k") || "prevention".startsWith(@gloPrefix+"k") || "proces equitable".startsWith(@gloPrefix+"k") || "procuration".startsWith(@gloPrefix+"k") || "projet de loi".startsWith(@gloPrefix+"k") || "proposition de loi".startsWith(@gloPrefix+"k") || "proprietaire".startsWith(@gloPrefix+"k") || "prostitution".startsWith(@gloPrefix+"k") || "protection sociale".startsWith(@gloPrefix+"k") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"k") || "pyrenees".startsWith(@gloPrefix+"k") || "quinquennat".startsWith(@gloPrefix+"k") || "recyclage".startsWith(@gloPrefix+"k") || "referendum".startsWith(@gloPrefix+"k") || "region".startsWith(@gloPrefix+"k") || "religion".startsWith(@gloPrefix+"k") || "republique".startsWith(@gloPrefix+"k") || "reseaux sociaux".startsWith(@gloPrefix+"k") || "resistance".startsWith(@gloPrefix+"k") || "respect".startsWith(@gloPrefix+"k") || "responsabilite".startsWith(@gloPrefix+"k") || "revolution".startsWith(@gloPrefix+"k") || "revolution francaise".startsWith(@gloPrefix+"k") || "rhone".startsWith(@gloPrefix+"k") || "salaire".startsWith(@gloPrefix+"k") || "salaire brut".startsWith(@gloPrefix+"k") || "salaire net".startsWith(@gloPrefix+"k") || "salarie".startsWith(@gloPrefix+"k") || "samu".startsWith(@gloPrefix+"k") || "sanction".startsWith(@gloPrefix+"k") || "seconde guerre mondiale".startsWith(@gloPrefix+"k") || "secours".startsWith(@gloPrefix+"k") || "securite routiere".startsWith(@gloPrefix+"k") || "seine".startsWith(@gloPrefix+"k") || "senat".startsWith(@gloPrefix+"k") || "senateur".startsWith(@gloPrefix+"k") || "separation des pouvoirs".startsWith(@gloPrefix+"k") || "service public".startsWith(@gloPrefix+"k") || "shoah".startsWith(@gloPrefix+"k") || "smic".startsWith(@gloPrefix+"k") || "souverainete nationale".startsWith(@gloPrefix+"k") || "suffrage universel".startsWith(@gloPrefix+"k") || "surete".startsWith(@gloPrefix+"k") || "temps de travail".startsWith(@gloPrefix+"k") || "titre de sejour".startsWith(@gloPrefix+"k") || "tour eiffel".startsWith(@gloPrefix+"k") || "traite de maastricht".startsWith(@gloPrefix+"k") || "traite de rome".startsWith(@gloPrefix+"k") || "traite des etres humains".startsWith(@gloPrefix+"k") || "travail dissimule".startsWith(@gloPrefix+"k") || "tri des dechets".startsWith(@gloPrefix+"k") || "unesco".startsWith(@gloPrefix+"k") || "union europeenne".startsWith(@gloPrefix+"k") || "urgence".startsWith(@gloPrefix+"k") || "urgences".startsWith(@gloPrefix+"k") || "vaccination".startsWith(@gloPrefix+"k") || "vercingetorix".startsWith(@gloPrefix+"k") || "violence".startsWith(@gloPrefix+"k") || "vote".startsWith(@gloPrefix+"k"))`
+`@gloNextL = calc("abolition".startsWith(@gloPrefix+"l") || "abstention".startsWith(@gloPrefix+"l") || "agents publics".startsWith(@gloPrefix+"l") || "alpes".startsWith(@gloPrefix+"l") || "amende".startsWith(@gloPrefix+"l") || "apl".startsWith(@gloPrefix+"l") || "armistice".startsWith(@gloPrefix+"l") || "assemblee nationale".startsWith(@gloPrefix+"l") || "assiduite".startsWith(@gloPrefix+"l") || "assistance a personne en danger".startsWith(@gloPrefix+"l") || "assurance maladie".startsWith(@gloPrefix+"l") || "autorite parentale".startsWith(@gloPrefix+"l") || "avocat".startsWith(@gloPrefix+"l") || "bail".startsWith(@gloPrefix+"l") || "bastille".startsWith(@gloPrefix+"l") || "benevolat".startsWith(@gloPrefix+"l") || "bloc de constitutionnalite".startsWith(@gloPrefix+"l") || "bretagne".startsWith(@gloPrefix+"l") || "caf".startsWith(@gloPrefix+"l") || "carte de resident".startsWith(@gloPrefix+"l") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"l") || "carte vitale".startsWith(@gloPrefix+"l") || "cdd".startsWith(@gloPrefix+"l") || "cdi".startsWith(@gloPrefix+"l") || "ceca".startsWith(@gloPrefix+"l") || "cee".startsWith(@gloPrefix+"l") || "celtes".startsWith(@gloPrefix+"l") || "charlemagne".startsWith(@gloPrefix+"l") || "charles de gaulle".startsWith(@gloPrefix+"l") || "charte de l'environnement".startsWith(@gloPrefix+"l") || "chateau de versailles".startsWith(@gloPrefix+"l") || "chef de l'etat".startsWith(@gloPrefix+"l") || "cinquieme republique".startsWith(@gloPrefix+"l") || "citoyen".startsWith(@gloPrefix+"l") || "citoyennete".startsWith(@gloPrefix+"l") || "clovis".startsWith(@gloPrefix+"l") || "collectivites territoriales".startsWith(@gloPrefix+"l") || "college".startsWith(@gloPrefix+"l") || "colonisation".startsWith(@gloPrefix+"l") || "commission europeenne".startsWith(@gloPrefix+"l") || "commune".startsWith(@gloPrefix+"l") || "conseil constitutionnel".startsWith(@gloPrefix+"l") || "conseil de l'union europeenne".startsWith(@gloPrefix+"l") || "conseil departemental".startsWith(@gloPrefix+"l") || "conseil europeen".startsWith(@gloPrefix+"l") || "conseil municipal".startsWith(@gloPrefix+"l") || "conseil regional".startsWith(@gloPrefix+"l") || "conseiller municipal".startsWith(@gloPrefix+"l") || "consentement".startsWith(@gloPrefix+"l") || "constitution".startsWith(@gloPrefix+"l") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"l") || "contrat de travail".startsWith(@gloPrefix+"l") || "contravention".startsWith(@gloPrefix+"l") || "coq gaulois".startsWith(@gloPrefix+"l") || "cotisations sociales".startsWith(@gloPrefix+"l") || "cour d'assises".startsWith(@gloPrefix+"l") || "cpam".startsWith(@gloPrefix+"l") || "crime".startsWith(@gloPrefix+"l") || "decheterie".startsWith(@gloPrefix+"l") || "dechets".startsWith(@gloPrefix+"l") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"l") || "delit".startsWith(@gloPrefix+"l") || "demandeur d'emploi".startsWith(@gloPrefix+"l") || "democratie".startsWith(@gloPrefix+"l") || "departement".startsWith(@gloPrefix+"l") || "depute".startsWith(@gloPrefix+"l") || "depute europeen".startsWith(@gloPrefix+"l") || "devise".startsWith(@gloPrefix+"l") || "devise de la republique".startsWith(@gloPrefix+"l") || "devoir".startsWith(@gloPrefix+"l") || "dignite humaine".startsWith(@gloPrefix+"l") || "discrimination".startsWith(@gloPrefix+"l") || "divorce".startsWith(@gloPrefix+"l") || "drapeau francais".startsWith(@gloPrefix+"l") || "droits civiques".startsWith(@gloPrefix+"l") || "droits de la defense".startsWith(@gloPrefix+"l") || "droits fondamentaux".startsWith(@gloPrefix+"l") || "drom".startsWith(@gloPrefix+"l") || "ecole".startsWith(@gloPrefix+"l") || "egalite".startsWith(@gloPrefix+"l") || "election".startsWith(@gloPrefix+"l") || "election presidentielle".startsWith(@gloPrefix+"l") || "elections europeennes".startsWith(@gloPrefix+"l") || "elections municipales".startsWith(@gloPrefix+"l") || "eligibilite".startsWith(@gloPrefix+"l") || "employeur".startsWith(@gloPrefix+"l") || "entrepreneuriat".startsWith(@gloPrefix+"l") || "entreprise".startsWith(@gloPrefix+"l") || "environnement".startsWith(@gloPrefix+"l") || "esclavage".startsWith(@gloPrefix+"l") || "espace schengen".startsWith(@gloPrefix+"l") || "etat".startsWith(@gloPrefix+"l") || "etat civil".startsWith(@gloPrefix+"l") || "euro".startsWith(@gloPrefix+"l") || "fete de la musique".startsWith(@gloPrefix+"l") || "fete nationale".startsWith(@gloPrefix+"l") || "fleuve".startsWith(@gloPrefix+"l") || "france metropolitaine".startsWith(@gloPrefix+"l") || "france services".startsWith(@gloPrefix+"l") || "france travail".startsWith(@gloPrefix+"l") || "francophonie".startsWith(@gloPrefix+"l") || "fraternite".startsWith(@gloPrefix+"l") || "gastronomie francaise".startsWith(@gloPrefix+"l") || "gaule".startsWith(@gloPrefix+"l") || "gendarmerie".startsWith(@gloPrefix+"l") || "genocide".startsWith(@gloPrefix+"l") || "gouvernement".startsWith(@gloPrefix+"l") || "greve".startsWith(@gloPrefix+"l") || "guadeloupe".startsWith(@gloPrefix+"l") || "guyane".startsWith(@gloPrefix+"l") || "handicap".startsWith(@gloPrefix+"l") || "harcelement".startsWith(@gloPrefix+"l") || "harcelement scolaire".startsWith(@gloPrefix+"l") || "hopital".startsWith(@gloPrefix+"l") || "ile-de-france".startsWith(@gloPrefix+"l") || "impot".startsWith(@gloPrefix+"l") || "impressionnisme".startsWith(@gloPrefix+"l") || "inclusion".startsWith(@gloPrefix+"l") || "infraction".startsWith(@gloPrefix+"l") || "instruction obligatoire".startsWith(@gloPrefix+"l") || "integrite de la personne".startsWith(@gloPrefix+"l") || "interet general".startsWith(@gloPrefix+"l") || "ivg".startsWith(@gloPrefix+"l") || "jour ferie".startsWith(@gloPrefix+"l") || "journee de l'europe".startsWith(@gloPrefix+"l") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"l") || "juge".startsWith(@gloPrefix+"l") || "jules ferry".startsWith(@gloPrefix+"l") || "jure".startsWith(@gloPrefix+"l") || "justice".startsWith(@gloPrefix+"l") || "la marseillaise".startsWith(@gloPrefix+"l") || "la reunion".startsWith(@gloPrefix+"l") || "laicite".startsWith(@gloPrefix+"l") || "langue de la republique".startsWith(@gloPrefix+"l") || "liberte".startsWith(@gloPrefix+"l") || "liberte d'association".startsWith(@gloPrefix+"l") || "liberte d'expression".startsWith(@gloPrefix+"l") || "liberte de circulation".startsWith(@gloPrefix+"l") || "liberte de conscience".startsWith(@gloPrefix+"l") || "listes electorales".startsWith(@gloPrefix+"l") || "litterature".startsWith(@gloPrefix+"l") || "locataire".startsWith(@gloPrefix+"l") || "loi".startsWith(@gloPrefix+"l") || "loire".startsWith(@gloPrefix+"l") || "louis xvi".startsWith(@gloPrefix+"l") || "lycee".startsWith(@gloPrefix+"l") || "maire".startsWith(@gloPrefix+"l") || "mairie".startsWith(@gloPrefix+"l") || "majorite".startsWith(@gloPrefix+"l") || "mandat".startsWith(@gloPrefix+"l") || "marianne".startsWith(@gloPrefix+"l") || "martinique".startsWith(@gloPrefix+"l") || "mayotte".startsWith(@gloPrefix+"l") || "medecin traitant".startsWith(@gloPrefix+"l") || "mediterranee".startsWith(@gloPrefix+"l") || "ministre".startsWith(@gloPrefix+"l") || "mixite".startsWith(@gloPrefix+"l") || "monarchie".startsWith(@gloPrefix+"l") || "mont-saint-michel".startsWith(@gloPrefix+"l") || "musee du louvre".startsWith(@gloPrefix+"l") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"l") || "mutuelle".startsWith(@gloPrefix+"l") || "naissance".startsWith(@gloPrefix+"l") || "napoleon bonaparte".startsWith(@gloPrefix+"l") || "naturalisation".startsWith(@gloPrefix+"l") || "neutralite".startsWith(@gloPrefix+"l") || "opinion".startsWith(@gloPrefix+"l") || "ordre public".startsWith(@gloPrefix+"l") || "outre-mer".startsWith(@gloPrefix+"l") || "parlement".startsWith(@gloPrefix+"l") || "parlement europeen".startsWith(@gloPrefix+"l") || "parti politique".startsWith(@gloPrefix+"l") || "patrimoine".startsWith(@gloPrefix+"l") || "peine de mort".startsWith(@gloPrefix+"l") || "plainte".startsWith(@gloPrefix+"l") || "police".startsWith(@gloPrefix+"l") || "polygamie".startsWith(@gloPrefix+"l") || "pouvoir executif".startsWith(@gloPrefix+"l") || "pouvoir judiciaire".startsWith(@gloPrefix+"l") || "pouvoir legislatif".startsWith(@gloPrefix+"l") || "prefecture".startsWith(@gloPrefix+"l") || "prefet".startsWith(@gloPrefix+"l") || "premier ministre".startsWith(@gloPrefix+"l") || "premiere guerre mondiale".startsWith(@gloPrefix+"l") || "president de la republique".startsWith(@gloPrefix+"l") || "presomption d'innocence".startsWith(@gloPrefix+"l") || "prevention".startsWith(@gloPrefix+"l") || "proces equitable".startsWith(@gloPrefix+"l") || "procuration".startsWith(@gloPrefix+"l") || "projet de loi".startsWith(@gloPrefix+"l") || "proposition de loi".startsWith(@gloPrefix+"l") || "proprietaire".startsWith(@gloPrefix+"l") || "prostitution".startsWith(@gloPrefix+"l") || "protection sociale".startsWith(@gloPrefix+"l") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"l") || "pyrenees".startsWith(@gloPrefix+"l") || "quinquennat".startsWith(@gloPrefix+"l") || "recyclage".startsWith(@gloPrefix+"l") || "referendum".startsWith(@gloPrefix+"l") || "region".startsWith(@gloPrefix+"l") || "religion".startsWith(@gloPrefix+"l") || "republique".startsWith(@gloPrefix+"l") || "reseaux sociaux".startsWith(@gloPrefix+"l") || "resistance".startsWith(@gloPrefix+"l") || "respect".startsWith(@gloPrefix+"l") || "responsabilite".startsWith(@gloPrefix+"l") || "revolution".startsWith(@gloPrefix+"l") || "revolution francaise".startsWith(@gloPrefix+"l") || "rhone".startsWith(@gloPrefix+"l") || "salaire".startsWith(@gloPrefix+"l") || "salaire brut".startsWith(@gloPrefix+"l") || "salaire net".startsWith(@gloPrefix+"l") || "salarie".startsWith(@gloPrefix+"l") || "samu".startsWith(@gloPrefix+"l") || "sanction".startsWith(@gloPrefix+"l") || "seconde guerre mondiale".startsWith(@gloPrefix+"l") || "secours".startsWith(@gloPrefix+"l") || "securite routiere".startsWith(@gloPrefix+"l") || "seine".startsWith(@gloPrefix+"l") || "senat".startsWith(@gloPrefix+"l") || "senateur".startsWith(@gloPrefix+"l") || "separation des pouvoirs".startsWith(@gloPrefix+"l") || "service public".startsWith(@gloPrefix+"l") || "shoah".startsWith(@gloPrefix+"l") || "smic".startsWith(@gloPrefix+"l") || "souverainete nationale".startsWith(@gloPrefix+"l") || "suffrage universel".startsWith(@gloPrefix+"l") || "surete".startsWith(@gloPrefix+"l") || "temps de travail".startsWith(@gloPrefix+"l") || "titre de sejour".startsWith(@gloPrefix+"l") || "tour eiffel".startsWith(@gloPrefix+"l") || "traite de maastricht".startsWith(@gloPrefix+"l") || "traite de rome".startsWith(@gloPrefix+"l") || "traite des etres humains".startsWith(@gloPrefix+"l") || "travail dissimule".startsWith(@gloPrefix+"l") || "tri des dechets".startsWith(@gloPrefix+"l") || "unesco".startsWith(@gloPrefix+"l") || "union europeenne".startsWith(@gloPrefix+"l") || "urgence".startsWith(@gloPrefix+"l") || "urgences".startsWith(@gloPrefix+"l") || "vaccination".startsWith(@gloPrefix+"l") || "vercingetorix".startsWith(@gloPrefix+"l") || "violence".startsWith(@gloPrefix+"l") || "vote".startsWith(@gloPrefix+"l"))`
+`@gloNextM = calc("abolition".startsWith(@gloPrefix+"m") || "abstention".startsWith(@gloPrefix+"m") || "agents publics".startsWith(@gloPrefix+"m") || "alpes".startsWith(@gloPrefix+"m") || "amende".startsWith(@gloPrefix+"m") || "apl".startsWith(@gloPrefix+"m") || "armistice".startsWith(@gloPrefix+"m") || "assemblee nationale".startsWith(@gloPrefix+"m") || "assiduite".startsWith(@gloPrefix+"m") || "assistance a personne en danger".startsWith(@gloPrefix+"m") || "assurance maladie".startsWith(@gloPrefix+"m") || "autorite parentale".startsWith(@gloPrefix+"m") || "avocat".startsWith(@gloPrefix+"m") || "bail".startsWith(@gloPrefix+"m") || "bastille".startsWith(@gloPrefix+"m") || "benevolat".startsWith(@gloPrefix+"m") || "bloc de constitutionnalite".startsWith(@gloPrefix+"m") || "bretagne".startsWith(@gloPrefix+"m") || "caf".startsWith(@gloPrefix+"m") || "carte de resident".startsWith(@gloPrefix+"m") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"m") || "carte vitale".startsWith(@gloPrefix+"m") || "cdd".startsWith(@gloPrefix+"m") || "cdi".startsWith(@gloPrefix+"m") || "ceca".startsWith(@gloPrefix+"m") || "cee".startsWith(@gloPrefix+"m") || "celtes".startsWith(@gloPrefix+"m") || "charlemagne".startsWith(@gloPrefix+"m") || "charles de gaulle".startsWith(@gloPrefix+"m") || "charte de l'environnement".startsWith(@gloPrefix+"m") || "chateau de versailles".startsWith(@gloPrefix+"m") || "chef de l'etat".startsWith(@gloPrefix+"m") || "cinquieme republique".startsWith(@gloPrefix+"m") || "citoyen".startsWith(@gloPrefix+"m") || "citoyennete".startsWith(@gloPrefix+"m") || "clovis".startsWith(@gloPrefix+"m") || "collectivites territoriales".startsWith(@gloPrefix+"m") || "college".startsWith(@gloPrefix+"m") || "colonisation".startsWith(@gloPrefix+"m") || "commission europeenne".startsWith(@gloPrefix+"m") || "commune".startsWith(@gloPrefix+"m") || "conseil constitutionnel".startsWith(@gloPrefix+"m") || "conseil de l'union europeenne".startsWith(@gloPrefix+"m") || "conseil departemental".startsWith(@gloPrefix+"m") || "conseil europeen".startsWith(@gloPrefix+"m") || "conseil municipal".startsWith(@gloPrefix+"m") || "conseil regional".startsWith(@gloPrefix+"m") || "conseiller municipal".startsWith(@gloPrefix+"m") || "consentement".startsWith(@gloPrefix+"m") || "constitution".startsWith(@gloPrefix+"m") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"m") || "contrat de travail".startsWith(@gloPrefix+"m") || "contravention".startsWith(@gloPrefix+"m") || "coq gaulois".startsWith(@gloPrefix+"m") || "cotisations sociales".startsWith(@gloPrefix+"m") || "cour d'assises".startsWith(@gloPrefix+"m") || "cpam".startsWith(@gloPrefix+"m") || "crime".startsWith(@gloPrefix+"m") || "decheterie".startsWith(@gloPrefix+"m") || "dechets".startsWith(@gloPrefix+"m") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"m") || "delit".startsWith(@gloPrefix+"m") || "demandeur d'emploi".startsWith(@gloPrefix+"m") || "democratie".startsWith(@gloPrefix+"m") || "departement".startsWith(@gloPrefix+"m") || "depute".startsWith(@gloPrefix+"m") || "depute europeen".startsWith(@gloPrefix+"m") || "devise".startsWith(@gloPrefix+"m") || "devise de la republique".startsWith(@gloPrefix+"m") || "devoir".startsWith(@gloPrefix+"m") || "dignite humaine".startsWith(@gloPrefix+"m") || "discrimination".startsWith(@gloPrefix+"m") || "divorce".startsWith(@gloPrefix+"m") || "drapeau francais".startsWith(@gloPrefix+"m") || "droits civiques".startsWith(@gloPrefix+"m") || "droits de la defense".startsWith(@gloPrefix+"m") || "droits fondamentaux".startsWith(@gloPrefix+"m") || "drom".startsWith(@gloPrefix+"m") || "ecole".startsWith(@gloPrefix+"m") || "egalite".startsWith(@gloPrefix+"m") || "election".startsWith(@gloPrefix+"m") || "election presidentielle".startsWith(@gloPrefix+"m") || "elections europeennes".startsWith(@gloPrefix+"m") || "elections municipales".startsWith(@gloPrefix+"m") || "eligibilite".startsWith(@gloPrefix+"m") || "employeur".startsWith(@gloPrefix+"m") || "entrepreneuriat".startsWith(@gloPrefix+"m") || "entreprise".startsWith(@gloPrefix+"m") || "environnement".startsWith(@gloPrefix+"m") || "esclavage".startsWith(@gloPrefix+"m") || "espace schengen".startsWith(@gloPrefix+"m") || "etat".startsWith(@gloPrefix+"m") || "etat civil".startsWith(@gloPrefix+"m") || "euro".startsWith(@gloPrefix+"m") || "fete de la musique".startsWith(@gloPrefix+"m") || "fete nationale".startsWith(@gloPrefix+"m") || "fleuve".startsWith(@gloPrefix+"m") || "france metropolitaine".startsWith(@gloPrefix+"m") || "france services".startsWith(@gloPrefix+"m") || "france travail".startsWith(@gloPrefix+"m") || "francophonie".startsWith(@gloPrefix+"m") || "fraternite".startsWith(@gloPrefix+"m") || "gastronomie francaise".startsWith(@gloPrefix+"m") || "gaule".startsWith(@gloPrefix+"m") || "gendarmerie".startsWith(@gloPrefix+"m") || "genocide".startsWith(@gloPrefix+"m") || "gouvernement".startsWith(@gloPrefix+"m") || "greve".startsWith(@gloPrefix+"m") || "guadeloupe".startsWith(@gloPrefix+"m") || "guyane".startsWith(@gloPrefix+"m") || "handicap".startsWith(@gloPrefix+"m") || "harcelement".startsWith(@gloPrefix+"m") || "harcelement scolaire".startsWith(@gloPrefix+"m") || "hopital".startsWith(@gloPrefix+"m") || "ile-de-france".startsWith(@gloPrefix+"m") || "impot".startsWith(@gloPrefix+"m") || "impressionnisme".startsWith(@gloPrefix+"m") || "inclusion".startsWith(@gloPrefix+"m") || "infraction".startsWith(@gloPrefix+"m") || "instruction obligatoire".startsWith(@gloPrefix+"m") || "integrite de la personne".startsWith(@gloPrefix+"m") || "interet general".startsWith(@gloPrefix+"m") || "ivg".startsWith(@gloPrefix+"m") || "jour ferie".startsWith(@gloPrefix+"m") || "journee de l'europe".startsWith(@gloPrefix+"m") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"m") || "juge".startsWith(@gloPrefix+"m") || "jules ferry".startsWith(@gloPrefix+"m") || "jure".startsWith(@gloPrefix+"m") || "justice".startsWith(@gloPrefix+"m") || "la marseillaise".startsWith(@gloPrefix+"m") || "la reunion".startsWith(@gloPrefix+"m") || "laicite".startsWith(@gloPrefix+"m") || "langue de la republique".startsWith(@gloPrefix+"m") || "liberte".startsWith(@gloPrefix+"m") || "liberte d'association".startsWith(@gloPrefix+"m") || "liberte d'expression".startsWith(@gloPrefix+"m") || "liberte de circulation".startsWith(@gloPrefix+"m") || "liberte de conscience".startsWith(@gloPrefix+"m") || "listes electorales".startsWith(@gloPrefix+"m") || "litterature".startsWith(@gloPrefix+"m") || "locataire".startsWith(@gloPrefix+"m") || "loi".startsWith(@gloPrefix+"m") || "loire".startsWith(@gloPrefix+"m") || "louis xvi".startsWith(@gloPrefix+"m") || "lycee".startsWith(@gloPrefix+"m") || "maire".startsWith(@gloPrefix+"m") || "mairie".startsWith(@gloPrefix+"m") || "majorite".startsWith(@gloPrefix+"m") || "mandat".startsWith(@gloPrefix+"m") || "marianne".startsWith(@gloPrefix+"m") || "martinique".startsWith(@gloPrefix+"m") || "mayotte".startsWith(@gloPrefix+"m") || "medecin traitant".startsWith(@gloPrefix+"m") || "mediterranee".startsWith(@gloPrefix+"m") || "ministre".startsWith(@gloPrefix+"m") || "mixite".startsWith(@gloPrefix+"m") || "monarchie".startsWith(@gloPrefix+"m") || "mont-saint-michel".startsWith(@gloPrefix+"m") || "musee du louvre".startsWith(@gloPrefix+"m") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"m") || "mutuelle".startsWith(@gloPrefix+"m") || "naissance".startsWith(@gloPrefix+"m") || "napoleon bonaparte".startsWith(@gloPrefix+"m") || "naturalisation".startsWith(@gloPrefix+"m") || "neutralite".startsWith(@gloPrefix+"m") || "opinion".startsWith(@gloPrefix+"m") || "ordre public".startsWith(@gloPrefix+"m") || "outre-mer".startsWith(@gloPrefix+"m") || "parlement".startsWith(@gloPrefix+"m") || "parlement europeen".startsWith(@gloPrefix+"m") || "parti politique".startsWith(@gloPrefix+"m") || "patrimoine".startsWith(@gloPrefix+"m") || "peine de mort".startsWith(@gloPrefix+"m") || "plainte".startsWith(@gloPrefix+"m") || "police".startsWith(@gloPrefix+"m") || "polygamie".startsWith(@gloPrefix+"m") || "pouvoir executif".startsWith(@gloPrefix+"m") || "pouvoir judiciaire".startsWith(@gloPrefix+"m") || "pouvoir legislatif".startsWith(@gloPrefix+"m") || "prefecture".startsWith(@gloPrefix+"m") || "prefet".startsWith(@gloPrefix+"m") || "premier ministre".startsWith(@gloPrefix+"m") || "premiere guerre mondiale".startsWith(@gloPrefix+"m") || "president de la republique".startsWith(@gloPrefix+"m") || "presomption d'innocence".startsWith(@gloPrefix+"m") || "prevention".startsWith(@gloPrefix+"m") || "proces equitable".startsWith(@gloPrefix+"m") || "procuration".startsWith(@gloPrefix+"m") || "projet de loi".startsWith(@gloPrefix+"m") || "proposition de loi".startsWith(@gloPrefix+"m") || "proprietaire".startsWith(@gloPrefix+"m") || "prostitution".startsWith(@gloPrefix+"m") || "protection sociale".startsWith(@gloPrefix+"m") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"m") || "pyrenees".startsWith(@gloPrefix+"m") || "quinquennat".startsWith(@gloPrefix+"m") || "recyclage".startsWith(@gloPrefix+"m") || "referendum".startsWith(@gloPrefix+"m") || "region".startsWith(@gloPrefix+"m") || "religion".startsWith(@gloPrefix+"m") || "republique".startsWith(@gloPrefix+"m") || "reseaux sociaux".startsWith(@gloPrefix+"m") || "resistance".startsWith(@gloPrefix+"m") || "respect".startsWith(@gloPrefix+"m") || "responsabilite".startsWith(@gloPrefix+"m") || "revolution".startsWith(@gloPrefix+"m") || "revolution francaise".startsWith(@gloPrefix+"m") || "rhone".startsWith(@gloPrefix+"m") || "salaire".startsWith(@gloPrefix+"m") || "salaire brut".startsWith(@gloPrefix+"m") || "salaire net".startsWith(@gloPrefix+"m") || "salarie".startsWith(@gloPrefix+"m") || "samu".startsWith(@gloPrefix+"m") || "sanction".startsWith(@gloPrefix+"m") || "seconde guerre mondiale".startsWith(@gloPrefix+"m") || "secours".startsWith(@gloPrefix+"m") || "securite routiere".startsWith(@gloPrefix+"m") || "seine".startsWith(@gloPrefix+"m") || "senat".startsWith(@gloPrefix+"m") || "senateur".startsWith(@gloPrefix+"m") || "separation des pouvoirs".startsWith(@gloPrefix+"m") || "service public".startsWith(@gloPrefix+"m") || "shoah".startsWith(@gloPrefix+"m") || "smic".startsWith(@gloPrefix+"m") || "souverainete nationale".startsWith(@gloPrefix+"m") || "suffrage universel".startsWith(@gloPrefix+"m") || "surete".startsWith(@gloPrefix+"m") || "temps de travail".startsWith(@gloPrefix+"m") || "titre de sejour".startsWith(@gloPrefix+"m") || "tour eiffel".startsWith(@gloPrefix+"m") || "traite de maastricht".startsWith(@gloPrefix+"m") || "traite de rome".startsWith(@gloPrefix+"m") || "traite des etres humains".startsWith(@gloPrefix+"m") || "travail dissimule".startsWith(@gloPrefix+"m") || "tri des dechets".startsWith(@gloPrefix+"m") || "unesco".startsWith(@gloPrefix+"m") || "union europeenne".startsWith(@gloPrefix+"m") || "urgence".startsWith(@gloPrefix+"m") || "urgences".startsWith(@gloPrefix+"m") || "vaccination".startsWith(@gloPrefix+"m") || "vercingetorix".startsWith(@gloPrefix+"m") || "violence".startsWith(@gloPrefix+"m") || "vote".startsWith(@gloPrefix+"m"))`
+`@gloNextN = calc("abolition".startsWith(@gloPrefix+"n") || "abstention".startsWith(@gloPrefix+"n") || "agents publics".startsWith(@gloPrefix+"n") || "alpes".startsWith(@gloPrefix+"n") || "amende".startsWith(@gloPrefix+"n") || "apl".startsWith(@gloPrefix+"n") || "armistice".startsWith(@gloPrefix+"n") || "assemblee nationale".startsWith(@gloPrefix+"n") || "assiduite".startsWith(@gloPrefix+"n") || "assistance a personne en danger".startsWith(@gloPrefix+"n") || "assurance maladie".startsWith(@gloPrefix+"n") || "autorite parentale".startsWith(@gloPrefix+"n") || "avocat".startsWith(@gloPrefix+"n") || "bail".startsWith(@gloPrefix+"n") || "bastille".startsWith(@gloPrefix+"n") || "benevolat".startsWith(@gloPrefix+"n") || "bloc de constitutionnalite".startsWith(@gloPrefix+"n") || "bretagne".startsWith(@gloPrefix+"n") || "caf".startsWith(@gloPrefix+"n") || "carte de resident".startsWith(@gloPrefix+"n") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"n") || "carte vitale".startsWith(@gloPrefix+"n") || "cdd".startsWith(@gloPrefix+"n") || "cdi".startsWith(@gloPrefix+"n") || "ceca".startsWith(@gloPrefix+"n") || "cee".startsWith(@gloPrefix+"n") || "celtes".startsWith(@gloPrefix+"n") || "charlemagne".startsWith(@gloPrefix+"n") || "charles de gaulle".startsWith(@gloPrefix+"n") || "charte de l'environnement".startsWith(@gloPrefix+"n") || "chateau de versailles".startsWith(@gloPrefix+"n") || "chef de l'etat".startsWith(@gloPrefix+"n") || "cinquieme republique".startsWith(@gloPrefix+"n") || "citoyen".startsWith(@gloPrefix+"n") || "citoyennete".startsWith(@gloPrefix+"n") || "clovis".startsWith(@gloPrefix+"n") || "collectivites territoriales".startsWith(@gloPrefix+"n") || "college".startsWith(@gloPrefix+"n") || "colonisation".startsWith(@gloPrefix+"n") || "commission europeenne".startsWith(@gloPrefix+"n") || "commune".startsWith(@gloPrefix+"n") || "conseil constitutionnel".startsWith(@gloPrefix+"n") || "conseil de l'union europeenne".startsWith(@gloPrefix+"n") || "conseil departemental".startsWith(@gloPrefix+"n") || "conseil europeen".startsWith(@gloPrefix+"n") || "conseil municipal".startsWith(@gloPrefix+"n") || "conseil regional".startsWith(@gloPrefix+"n") || "conseiller municipal".startsWith(@gloPrefix+"n") || "consentement".startsWith(@gloPrefix+"n") || "constitution".startsWith(@gloPrefix+"n") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"n") || "contrat de travail".startsWith(@gloPrefix+"n") || "contravention".startsWith(@gloPrefix+"n") || "coq gaulois".startsWith(@gloPrefix+"n") || "cotisations sociales".startsWith(@gloPrefix+"n") || "cour d'assises".startsWith(@gloPrefix+"n") || "cpam".startsWith(@gloPrefix+"n") || "crime".startsWith(@gloPrefix+"n") || "decheterie".startsWith(@gloPrefix+"n") || "dechets".startsWith(@gloPrefix+"n") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"n") || "delit".startsWith(@gloPrefix+"n") || "demandeur d'emploi".startsWith(@gloPrefix+"n") || "democratie".startsWith(@gloPrefix+"n") || "departement".startsWith(@gloPrefix+"n") || "depute".startsWith(@gloPrefix+"n") || "depute europeen".startsWith(@gloPrefix+"n") || "devise".startsWith(@gloPrefix+"n") || "devise de la republique".startsWith(@gloPrefix+"n") || "devoir".startsWith(@gloPrefix+"n") || "dignite humaine".startsWith(@gloPrefix+"n") || "discrimination".startsWith(@gloPrefix+"n") || "divorce".startsWith(@gloPrefix+"n") || "drapeau francais".startsWith(@gloPrefix+"n") || "droits civiques".startsWith(@gloPrefix+"n") || "droits de la defense".startsWith(@gloPrefix+"n") || "droits fondamentaux".startsWith(@gloPrefix+"n") || "drom".startsWith(@gloPrefix+"n") || "ecole".startsWith(@gloPrefix+"n") || "egalite".startsWith(@gloPrefix+"n") || "election".startsWith(@gloPrefix+"n") || "election presidentielle".startsWith(@gloPrefix+"n") || "elections europeennes".startsWith(@gloPrefix+"n") || "elections municipales".startsWith(@gloPrefix+"n") || "eligibilite".startsWith(@gloPrefix+"n") || "employeur".startsWith(@gloPrefix+"n") || "entrepreneuriat".startsWith(@gloPrefix+"n") || "entreprise".startsWith(@gloPrefix+"n") || "environnement".startsWith(@gloPrefix+"n") || "esclavage".startsWith(@gloPrefix+"n") || "espace schengen".startsWith(@gloPrefix+"n") || "etat".startsWith(@gloPrefix+"n") || "etat civil".startsWith(@gloPrefix+"n") || "euro".startsWith(@gloPrefix+"n") || "fete de la musique".startsWith(@gloPrefix+"n") || "fete nationale".startsWith(@gloPrefix+"n") || "fleuve".startsWith(@gloPrefix+"n") || "france metropolitaine".startsWith(@gloPrefix+"n") || "france services".startsWith(@gloPrefix+"n") || "france travail".startsWith(@gloPrefix+"n") || "francophonie".startsWith(@gloPrefix+"n") || "fraternite".startsWith(@gloPrefix+"n") || "gastronomie francaise".startsWith(@gloPrefix+"n") || "gaule".startsWith(@gloPrefix+"n") || "gendarmerie".startsWith(@gloPrefix+"n") || "genocide".startsWith(@gloPrefix+"n") || "gouvernement".startsWith(@gloPrefix+"n") || "greve".startsWith(@gloPrefix+"n") || "guadeloupe".startsWith(@gloPrefix+"n") || "guyane".startsWith(@gloPrefix+"n") || "handicap".startsWith(@gloPrefix+"n") || "harcelement".startsWith(@gloPrefix+"n") || "harcelement scolaire".startsWith(@gloPrefix+"n") || "hopital".startsWith(@gloPrefix+"n") || "ile-de-france".startsWith(@gloPrefix+"n") || "impot".startsWith(@gloPrefix+"n") || "impressionnisme".startsWith(@gloPrefix+"n") || "inclusion".startsWith(@gloPrefix+"n") || "infraction".startsWith(@gloPrefix+"n") || "instruction obligatoire".startsWith(@gloPrefix+"n") || "integrite de la personne".startsWith(@gloPrefix+"n") || "interet general".startsWith(@gloPrefix+"n") || "ivg".startsWith(@gloPrefix+"n") || "jour ferie".startsWith(@gloPrefix+"n") || "journee de l'europe".startsWith(@gloPrefix+"n") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"n") || "juge".startsWith(@gloPrefix+"n") || "jules ferry".startsWith(@gloPrefix+"n") || "jure".startsWith(@gloPrefix+"n") || "justice".startsWith(@gloPrefix+"n") || "la marseillaise".startsWith(@gloPrefix+"n") || "la reunion".startsWith(@gloPrefix+"n") || "laicite".startsWith(@gloPrefix+"n") || "langue de la republique".startsWith(@gloPrefix+"n") || "liberte".startsWith(@gloPrefix+"n") || "liberte d'association".startsWith(@gloPrefix+"n") || "liberte d'expression".startsWith(@gloPrefix+"n") || "liberte de circulation".startsWith(@gloPrefix+"n") || "liberte de conscience".startsWith(@gloPrefix+"n") || "listes electorales".startsWith(@gloPrefix+"n") || "litterature".startsWith(@gloPrefix+"n") || "locataire".startsWith(@gloPrefix+"n") || "loi".startsWith(@gloPrefix+"n") || "loire".startsWith(@gloPrefix+"n") || "louis xvi".startsWith(@gloPrefix+"n") || "lycee".startsWith(@gloPrefix+"n") || "maire".startsWith(@gloPrefix+"n") || "mairie".startsWith(@gloPrefix+"n") || "majorite".startsWith(@gloPrefix+"n") || "mandat".startsWith(@gloPrefix+"n") || "marianne".startsWith(@gloPrefix+"n") || "martinique".startsWith(@gloPrefix+"n") || "mayotte".startsWith(@gloPrefix+"n") || "medecin traitant".startsWith(@gloPrefix+"n") || "mediterranee".startsWith(@gloPrefix+"n") || "ministre".startsWith(@gloPrefix+"n") || "mixite".startsWith(@gloPrefix+"n") || "monarchie".startsWith(@gloPrefix+"n") || "mont-saint-michel".startsWith(@gloPrefix+"n") || "musee du louvre".startsWith(@gloPrefix+"n") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"n") || "mutuelle".startsWith(@gloPrefix+"n") || "naissance".startsWith(@gloPrefix+"n") || "napoleon bonaparte".startsWith(@gloPrefix+"n") || "naturalisation".startsWith(@gloPrefix+"n") || "neutralite".startsWith(@gloPrefix+"n") || "opinion".startsWith(@gloPrefix+"n") || "ordre public".startsWith(@gloPrefix+"n") || "outre-mer".startsWith(@gloPrefix+"n") || "parlement".startsWith(@gloPrefix+"n") || "parlement europeen".startsWith(@gloPrefix+"n") || "parti politique".startsWith(@gloPrefix+"n") || "patrimoine".startsWith(@gloPrefix+"n") || "peine de mort".startsWith(@gloPrefix+"n") || "plainte".startsWith(@gloPrefix+"n") || "police".startsWith(@gloPrefix+"n") || "polygamie".startsWith(@gloPrefix+"n") || "pouvoir executif".startsWith(@gloPrefix+"n") || "pouvoir judiciaire".startsWith(@gloPrefix+"n") || "pouvoir legislatif".startsWith(@gloPrefix+"n") || "prefecture".startsWith(@gloPrefix+"n") || "prefet".startsWith(@gloPrefix+"n") || "premier ministre".startsWith(@gloPrefix+"n") || "premiere guerre mondiale".startsWith(@gloPrefix+"n") || "president de la republique".startsWith(@gloPrefix+"n") || "presomption d'innocence".startsWith(@gloPrefix+"n") || "prevention".startsWith(@gloPrefix+"n") || "proces equitable".startsWith(@gloPrefix+"n") || "procuration".startsWith(@gloPrefix+"n") || "projet de loi".startsWith(@gloPrefix+"n") || "proposition de loi".startsWith(@gloPrefix+"n") || "proprietaire".startsWith(@gloPrefix+"n") || "prostitution".startsWith(@gloPrefix+"n") || "protection sociale".startsWith(@gloPrefix+"n") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"n") || "pyrenees".startsWith(@gloPrefix+"n") || "quinquennat".startsWith(@gloPrefix+"n") || "recyclage".startsWith(@gloPrefix+"n") || "referendum".startsWith(@gloPrefix+"n") || "region".startsWith(@gloPrefix+"n") || "religion".startsWith(@gloPrefix+"n") || "republique".startsWith(@gloPrefix+"n") || "reseaux sociaux".startsWith(@gloPrefix+"n") || "resistance".startsWith(@gloPrefix+"n") || "respect".startsWith(@gloPrefix+"n") || "responsabilite".startsWith(@gloPrefix+"n") || "revolution".startsWith(@gloPrefix+"n") || "revolution francaise".startsWith(@gloPrefix+"n") || "rhone".startsWith(@gloPrefix+"n") || "salaire".startsWith(@gloPrefix+"n") || "salaire brut".startsWith(@gloPrefix+"n") || "salaire net".startsWith(@gloPrefix+"n") || "salarie".startsWith(@gloPrefix+"n") || "samu".startsWith(@gloPrefix+"n") || "sanction".startsWith(@gloPrefix+"n") || "seconde guerre mondiale".startsWith(@gloPrefix+"n") || "secours".startsWith(@gloPrefix+"n") || "securite routiere".startsWith(@gloPrefix+"n") || "seine".startsWith(@gloPrefix+"n") || "senat".startsWith(@gloPrefix+"n") || "senateur".startsWith(@gloPrefix+"n") || "separation des pouvoirs".startsWith(@gloPrefix+"n") || "service public".startsWith(@gloPrefix+"n") || "shoah".startsWith(@gloPrefix+"n") || "smic".startsWith(@gloPrefix+"n") || "souverainete nationale".startsWith(@gloPrefix+"n") || "suffrage universel".startsWith(@gloPrefix+"n") || "surete".startsWith(@gloPrefix+"n") || "temps de travail".startsWith(@gloPrefix+"n") || "titre de sejour".startsWith(@gloPrefix+"n") || "tour eiffel".startsWith(@gloPrefix+"n") || "traite de maastricht".startsWith(@gloPrefix+"n") || "traite de rome".startsWith(@gloPrefix+"n") || "traite des etres humains".startsWith(@gloPrefix+"n") || "travail dissimule".startsWith(@gloPrefix+"n") || "tri des dechets".startsWith(@gloPrefix+"n") || "unesco".startsWith(@gloPrefix+"n") || "union europeenne".startsWith(@gloPrefix+"n") || "urgence".startsWith(@gloPrefix+"n") || "urgences".startsWith(@gloPrefix+"n") || "vaccination".startsWith(@gloPrefix+"n") || "vercingetorix".startsWith(@gloPrefix+"n") || "violence".startsWith(@gloPrefix+"n") || "vote".startsWith(@gloPrefix+"n"))`
+`@gloNextO = calc("abolition".startsWith(@gloPrefix+"o") || "abstention".startsWith(@gloPrefix+"o") || "agents publics".startsWith(@gloPrefix+"o") || "alpes".startsWith(@gloPrefix+"o") || "amende".startsWith(@gloPrefix+"o") || "apl".startsWith(@gloPrefix+"o") || "armistice".startsWith(@gloPrefix+"o") || "assemblee nationale".startsWith(@gloPrefix+"o") || "assiduite".startsWith(@gloPrefix+"o") || "assistance a personne en danger".startsWith(@gloPrefix+"o") || "assurance maladie".startsWith(@gloPrefix+"o") || "autorite parentale".startsWith(@gloPrefix+"o") || "avocat".startsWith(@gloPrefix+"o") || "bail".startsWith(@gloPrefix+"o") || "bastille".startsWith(@gloPrefix+"o") || "benevolat".startsWith(@gloPrefix+"o") || "bloc de constitutionnalite".startsWith(@gloPrefix+"o") || "bretagne".startsWith(@gloPrefix+"o") || "caf".startsWith(@gloPrefix+"o") || "carte de resident".startsWith(@gloPrefix+"o") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"o") || "carte vitale".startsWith(@gloPrefix+"o") || "cdd".startsWith(@gloPrefix+"o") || "cdi".startsWith(@gloPrefix+"o") || "ceca".startsWith(@gloPrefix+"o") || "cee".startsWith(@gloPrefix+"o") || "celtes".startsWith(@gloPrefix+"o") || "charlemagne".startsWith(@gloPrefix+"o") || "charles de gaulle".startsWith(@gloPrefix+"o") || "charte de l'environnement".startsWith(@gloPrefix+"o") || "chateau de versailles".startsWith(@gloPrefix+"o") || "chef de l'etat".startsWith(@gloPrefix+"o") || "cinquieme republique".startsWith(@gloPrefix+"o") || "citoyen".startsWith(@gloPrefix+"o") || "citoyennete".startsWith(@gloPrefix+"o") || "clovis".startsWith(@gloPrefix+"o") || "collectivites territoriales".startsWith(@gloPrefix+"o") || "college".startsWith(@gloPrefix+"o") || "colonisation".startsWith(@gloPrefix+"o") || "commission europeenne".startsWith(@gloPrefix+"o") || "commune".startsWith(@gloPrefix+"o") || "conseil constitutionnel".startsWith(@gloPrefix+"o") || "conseil de l'union europeenne".startsWith(@gloPrefix+"o") || "conseil departemental".startsWith(@gloPrefix+"o") || "conseil europeen".startsWith(@gloPrefix+"o") || "conseil municipal".startsWith(@gloPrefix+"o") || "conseil regional".startsWith(@gloPrefix+"o") || "conseiller municipal".startsWith(@gloPrefix+"o") || "consentement".startsWith(@gloPrefix+"o") || "constitution".startsWith(@gloPrefix+"o") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"o") || "contrat de travail".startsWith(@gloPrefix+"o") || "contravention".startsWith(@gloPrefix+"o") || "coq gaulois".startsWith(@gloPrefix+"o") || "cotisations sociales".startsWith(@gloPrefix+"o") || "cour d'assises".startsWith(@gloPrefix+"o") || "cpam".startsWith(@gloPrefix+"o") || "crime".startsWith(@gloPrefix+"o") || "decheterie".startsWith(@gloPrefix+"o") || "dechets".startsWith(@gloPrefix+"o") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"o") || "delit".startsWith(@gloPrefix+"o") || "demandeur d'emploi".startsWith(@gloPrefix+"o") || "democratie".startsWith(@gloPrefix+"o") || "departement".startsWith(@gloPrefix+"o") || "depute".startsWith(@gloPrefix+"o") || "depute europeen".startsWith(@gloPrefix+"o") || "devise".startsWith(@gloPrefix+"o") || "devise de la republique".startsWith(@gloPrefix+"o") || "devoir".startsWith(@gloPrefix+"o") || "dignite humaine".startsWith(@gloPrefix+"o") || "discrimination".startsWith(@gloPrefix+"o") || "divorce".startsWith(@gloPrefix+"o") || "drapeau francais".startsWith(@gloPrefix+"o") || "droits civiques".startsWith(@gloPrefix+"o") || "droits de la defense".startsWith(@gloPrefix+"o") || "droits fondamentaux".startsWith(@gloPrefix+"o") || "drom".startsWith(@gloPrefix+"o") || "ecole".startsWith(@gloPrefix+"o") || "egalite".startsWith(@gloPrefix+"o") || "election".startsWith(@gloPrefix+"o") || "election presidentielle".startsWith(@gloPrefix+"o") || "elections europeennes".startsWith(@gloPrefix+"o") || "elections municipales".startsWith(@gloPrefix+"o") || "eligibilite".startsWith(@gloPrefix+"o") || "employeur".startsWith(@gloPrefix+"o") || "entrepreneuriat".startsWith(@gloPrefix+"o") || "entreprise".startsWith(@gloPrefix+"o") || "environnement".startsWith(@gloPrefix+"o") || "esclavage".startsWith(@gloPrefix+"o") || "espace schengen".startsWith(@gloPrefix+"o") || "etat".startsWith(@gloPrefix+"o") || "etat civil".startsWith(@gloPrefix+"o") || "euro".startsWith(@gloPrefix+"o") || "fete de la musique".startsWith(@gloPrefix+"o") || "fete nationale".startsWith(@gloPrefix+"o") || "fleuve".startsWith(@gloPrefix+"o") || "france metropolitaine".startsWith(@gloPrefix+"o") || "france services".startsWith(@gloPrefix+"o") || "france travail".startsWith(@gloPrefix+"o") || "francophonie".startsWith(@gloPrefix+"o") || "fraternite".startsWith(@gloPrefix+"o") || "gastronomie francaise".startsWith(@gloPrefix+"o") || "gaule".startsWith(@gloPrefix+"o") || "gendarmerie".startsWith(@gloPrefix+"o") || "genocide".startsWith(@gloPrefix+"o") || "gouvernement".startsWith(@gloPrefix+"o") || "greve".startsWith(@gloPrefix+"o") || "guadeloupe".startsWith(@gloPrefix+"o") || "guyane".startsWith(@gloPrefix+"o") || "handicap".startsWith(@gloPrefix+"o") || "harcelement".startsWith(@gloPrefix+"o") || "harcelement scolaire".startsWith(@gloPrefix+"o") || "hopital".startsWith(@gloPrefix+"o") || "ile-de-france".startsWith(@gloPrefix+"o") || "impot".startsWith(@gloPrefix+"o") || "impressionnisme".startsWith(@gloPrefix+"o") || "inclusion".startsWith(@gloPrefix+"o") || "infraction".startsWith(@gloPrefix+"o") || "instruction obligatoire".startsWith(@gloPrefix+"o") || "integrite de la personne".startsWith(@gloPrefix+"o") || "interet general".startsWith(@gloPrefix+"o") || "ivg".startsWith(@gloPrefix+"o") || "jour ferie".startsWith(@gloPrefix+"o") || "journee de l'europe".startsWith(@gloPrefix+"o") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"o") || "juge".startsWith(@gloPrefix+"o") || "jules ferry".startsWith(@gloPrefix+"o") || "jure".startsWith(@gloPrefix+"o") || "justice".startsWith(@gloPrefix+"o") || "la marseillaise".startsWith(@gloPrefix+"o") || "la reunion".startsWith(@gloPrefix+"o") || "laicite".startsWith(@gloPrefix+"o") || "langue de la republique".startsWith(@gloPrefix+"o") || "liberte".startsWith(@gloPrefix+"o") || "liberte d'association".startsWith(@gloPrefix+"o") || "liberte d'expression".startsWith(@gloPrefix+"o") || "liberte de circulation".startsWith(@gloPrefix+"o") || "liberte de conscience".startsWith(@gloPrefix+"o") || "listes electorales".startsWith(@gloPrefix+"o") || "litterature".startsWith(@gloPrefix+"o") || "locataire".startsWith(@gloPrefix+"o") || "loi".startsWith(@gloPrefix+"o") || "loire".startsWith(@gloPrefix+"o") || "louis xvi".startsWith(@gloPrefix+"o") || "lycee".startsWith(@gloPrefix+"o") || "maire".startsWith(@gloPrefix+"o") || "mairie".startsWith(@gloPrefix+"o") || "majorite".startsWith(@gloPrefix+"o") || "mandat".startsWith(@gloPrefix+"o") || "marianne".startsWith(@gloPrefix+"o") || "martinique".startsWith(@gloPrefix+"o") || "mayotte".startsWith(@gloPrefix+"o") || "medecin traitant".startsWith(@gloPrefix+"o") || "mediterranee".startsWith(@gloPrefix+"o") || "ministre".startsWith(@gloPrefix+"o") || "mixite".startsWith(@gloPrefix+"o") || "monarchie".startsWith(@gloPrefix+"o") || "mont-saint-michel".startsWith(@gloPrefix+"o") || "musee du louvre".startsWith(@gloPrefix+"o") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"o") || "mutuelle".startsWith(@gloPrefix+"o") || "naissance".startsWith(@gloPrefix+"o") || "napoleon bonaparte".startsWith(@gloPrefix+"o") || "naturalisation".startsWith(@gloPrefix+"o") || "neutralite".startsWith(@gloPrefix+"o") || "opinion".startsWith(@gloPrefix+"o") || "ordre public".startsWith(@gloPrefix+"o") || "outre-mer".startsWith(@gloPrefix+"o") || "parlement".startsWith(@gloPrefix+"o") || "parlement europeen".startsWith(@gloPrefix+"o") || "parti politique".startsWith(@gloPrefix+"o") || "patrimoine".startsWith(@gloPrefix+"o") || "peine de mort".startsWith(@gloPrefix+"o") || "plainte".startsWith(@gloPrefix+"o") || "police".startsWith(@gloPrefix+"o") || "polygamie".startsWith(@gloPrefix+"o") || "pouvoir executif".startsWith(@gloPrefix+"o") || "pouvoir judiciaire".startsWith(@gloPrefix+"o") || "pouvoir legislatif".startsWith(@gloPrefix+"o") || "prefecture".startsWith(@gloPrefix+"o") || "prefet".startsWith(@gloPrefix+"o") || "premier ministre".startsWith(@gloPrefix+"o") || "premiere guerre mondiale".startsWith(@gloPrefix+"o") || "president de la republique".startsWith(@gloPrefix+"o") || "presomption d'innocence".startsWith(@gloPrefix+"o") || "prevention".startsWith(@gloPrefix+"o") || "proces equitable".startsWith(@gloPrefix+"o") || "procuration".startsWith(@gloPrefix+"o") || "projet de loi".startsWith(@gloPrefix+"o") || "proposition de loi".startsWith(@gloPrefix+"o") || "proprietaire".startsWith(@gloPrefix+"o") || "prostitution".startsWith(@gloPrefix+"o") || "protection sociale".startsWith(@gloPrefix+"o") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"o") || "pyrenees".startsWith(@gloPrefix+"o") || "quinquennat".startsWith(@gloPrefix+"o") || "recyclage".startsWith(@gloPrefix+"o") || "referendum".startsWith(@gloPrefix+"o") || "region".startsWith(@gloPrefix+"o") || "religion".startsWith(@gloPrefix+"o") || "republique".startsWith(@gloPrefix+"o") || "reseaux sociaux".startsWith(@gloPrefix+"o") || "resistance".startsWith(@gloPrefix+"o") || "respect".startsWith(@gloPrefix+"o") || "responsabilite".startsWith(@gloPrefix+"o") || "revolution".startsWith(@gloPrefix+"o") || "revolution francaise".startsWith(@gloPrefix+"o") || "rhone".startsWith(@gloPrefix+"o") || "salaire".startsWith(@gloPrefix+"o") || "salaire brut".startsWith(@gloPrefix+"o") || "salaire net".startsWith(@gloPrefix+"o") || "salarie".startsWith(@gloPrefix+"o") || "samu".startsWith(@gloPrefix+"o") || "sanction".startsWith(@gloPrefix+"o") || "seconde guerre mondiale".startsWith(@gloPrefix+"o") || "secours".startsWith(@gloPrefix+"o") || "securite routiere".startsWith(@gloPrefix+"o") || "seine".startsWith(@gloPrefix+"o") || "senat".startsWith(@gloPrefix+"o") || "senateur".startsWith(@gloPrefix+"o") || "separation des pouvoirs".startsWith(@gloPrefix+"o") || "service public".startsWith(@gloPrefix+"o") || "shoah".startsWith(@gloPrefix+"o") || "smic".startsWith(@gloPrefix+"o") || "souverainete nationale".startsWith(@gloPrefix+"o") || "suffrage universel".startsWith(@gloPrefix+"o") || "surete".startsWith(@gloPrefix+"o") || "temps de travail".startsWith(@gloPrefix+"o") || "titre de sejour".startsWith(@gloPrefix+"o") || "tour eiffel".startsWith(@gloPrefix+"o") || "traite de maastricht".startsWith(@gloPrefix+"o") || "traite de rome".startsWith(@gloPrefix+"o") || "traite des etres humains".startsWith(@gloPrefix+"o") || "travail dissimule".startsWith(@gloPrefix+"o") || "tri des dechets".startsWith(@gloPrefix+"o") || "unesco".startsWith(@gloPrefix+"o") || "union europeenne".startsWith(@gloPrefix+"o") || "urgence".startsWith(@gloPrefix+"o") || "urgences".startsWith(@gloPrefix+"o") || "vaccination".startsWith(@gloPrefix+"o") || "vercingetorix".startsWith(@gloPrefix+"o") || "violence".startsWith(@gloPrefix+"o") || "vote".startsWith(@gloPrefix+"o"))`
+`@gloNextP = calc("abolition".startsWith(@gloPrefix+"p") || "abstention".startsWith(@gloPrefix+"p") || "agents publics".startsWith(@gloPrefix+"p") || "alpes".startsWith(@gloPrefix+"p") || "amende".startsWith(@gloPrefix+"p") || "apl".startsWith(@gloPrefix+"p") || "armistice".startsWith(@gloPrefix+"p") || "assemblee nationale".startsWith(@gloPrefix+"p") || "assiduite".startsWith(@gloPrefix+"p") || "assistance a personne en danger".startsWith(@gloPrefix+"p") || "assurance maladie".startsWith(@gloPrefix+"p") || "autorite parentale".startsWith(@gloPrefix+"p") || "avocat".startsWith(@gloPrefix+"p") || "bail".startsWith(@gloPrefix+"p") || "bastille".startsWith(@gloPrefix+"p") || "benevolat".startsWith(@gloPrefix+"p") || "bloc de constitutionnalite".startsWith(@gloPrefix+"p") || "bretagne".startsWith(@gloPrefix+"p") || "caf".startsWith(@gloPrefix+"p") || "carte de resident".startsWith(@gloPrefix+"p") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"p") || "carte vitale".startsWith(@gloPrefix+"p") || "cdd".startsWith(@gloPrefix+"p") || "cdi".startsWith(@gloPrefix+"p") || "ceca".startsWith(@gloPrefix+"p") || "cee".startsWith(@gloPrefix+"p") || "celtes".startsWith(@gloPrefix+"p") || "charlemagne".startsWith(@gloPrefix+"p") || "charles de gaulle".startsWith(@gloPrefix+"p") || "charte de l'environnement".startsWith(@gloPrefix+"p") || "chateau de versailles".startsWith(@gloPrefix+"p") || "chef de l'etat".startsWith(@gloPrefix+"p") || "cinquieme republique".startsWith(@gloPrefix+"p") || "citoyen".startsWith(@gloPrefix+"p") || "citoyennete".startsWith(@gloPrefix+"p") || "clovis".startsWith(@gloPrefix+"p") || "collectivites territoriales".startsWith(@gloPrefix+"p") || "college".startsWith(@gloPrefix+"p") || "colonisation".startsWith(@gloPrefix+"p") || "commission europeenne".startsWith(@gloPrefix+"p") || "commune".startsWith(@gloPrefix+"p") || "conseil constitutionnel".startsWith(@gloPrefix+"p") || "conseil de l'union europeenne".startsWith(@gloPrefix+"p") || "conseil departemental".startsWith(@gloPrefix+"p") || "conseil europeen".startsWith(@gloPrefix+"p") || "conseil municipal".startsWith(@gloPrefix+"p") || "conseil regional".startsWith(@gloPrefix+"p") || "conseiller municipal".startsWith(@gloPrefix+"p") || "consentement".startsWith(@gloPrefix+"p") || "constitution".startsWith(@gloPrefix+"p") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"p") || "contrat de travail".startsWith(@gloPrefix+"p") || "contravention".startsWith(@gloPrefix+"p") || "coq gaulois".startsWith(@gloPrefix+"p") || "cotisations sociales".startsWith(@gloPrefix+"p") || "cour d'assises".startsWith(@gloPrefix+"p") || "cpam".startsWith(@gloPrefix+"p") || "crime".startsWith(@gloPrefix+"p") || "decheterie".startsWith(@gloPrefix+"p") || "dechets".startsWith(@gloPrefix+"p") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"p") || "delit".startsWith(@gloPrefix+"p") || "demandeur d'emploi".startsWith(@gloPrefix+"p") || "democratie".startsWith(@gloPrefix+"p") || "departement".startsWith(@gloPrefix+"p") || "depute".startsWith(@gloPrefix+"p") || "depute europeen".startsWith(@gloPrefix+"p") || "devise".startsWith(@gloPrefix+"p") || "devise de la republique".startsWith(@gloPrefix+"p") || "devoir".startsWith(@gloPrefix+"p") || "dignite humaine".startsWith(@gloPrefix+"p") || "discrimination".startsWith(@gloPrefix+"p") || "divorce".startsWith(@gloPrefix+"p") || "drapeau francais".startsWith(@gloPrefix+"p") || "droits civiques".startsWith(@gloPrefix+"p") || "droits de la defense".startsWith(@gloPrefix+"p") || "droits fondamentaux".startsWith(@gloPrefix+"p") || "drom".startsWith(@gloPrefix+"p") || "ecole".startsWith(@gloPrefix+"p") || "egalite".startsWith(@gloPrefix+"p") || "election".startsWith(@gloPrefix+"p") || "election presidentielle".startsWith(@gloPrefix+"p") || "elections europeennes".startsWith(@gloPrefix+"p") || "elections municipales".startsWith(@gloPrefix+"p") || "eligibilite".startsWith(@gloPrefix+"p") || "employeur".startsWith(@gloPrefix+"p") || "entrepreneuriat".startsWith(@gloPrefix+"p") || "entreprise".startsWith(@gloPrefix+"p") || "environnement".startsWith(@gloPrefix+"p") || "esclavage".startsWith(@gloPrefix+"p") || "espace schengen".startsWith(@gloPrefix+"p") || "etat".startsWith(@gloPrefix+"p") || "etat civil".startsWith(@gloPrefix+"p") || "euro".startsWith(@gloPrefix+"p") || "fete de la musique".startsWith(@gloPrefix+"p") || "fete nationale".startsWith(@gloPrefix+"p") || "fleuve".startsWith(@gloPrefix+"p") || "france metropolitaine".startsWith(@gloPrefix+"p") || "france services".startsWith(@gloPrefix+"p") || "france travail".startsWith(@gloPrefix+"p") || "francophonie".startsWith(@gloPrefix+"p") || "fraternite".startsWith(@gloPrefix+"p") || "gastronomie francaise".startsWith(@gloPrefix+"p") || "gaule".startsWith(@gloPrefix+"p") || "gendarmerie".startsWith(@gloPrefix+"p") || "genocide".startsWith(@gloPrefix+"p") || "gouvernement".startsWith(@gloPrefix+"p") || "greve".startsWith(@gloPrefix+"p") || "guadeloupe".startsWith(@gloPrefix+"p") || "guyane".startsWith(@gloPrefix+"p") || "handicap".startsWith(@gloPrefix+"p") || "harcelement".startsWith(@gloPrefix+"p") || "harcelement scolaire".startsWith(@gloPrefix+"p") || "hopital".startsWith(@gloPrefix+"p") || "ile-de-france".startsWith(@gloPrefix+"p") || "impot".startsWith(@gloPrefix+"p") || "impressionnisme".startsWith(@gloPrefix+"p") || "inclusion".startsWith(@gloPrefix+"p") || "infraction".startsWith(@gloPrefix+"p") || "instruction obligatoire".startsWith(@gloPrefix+"p") || "integrite de la personne".startsWith(@gloPrefix+"p") || "interet general".startsWith(@gloPrefix+"p") || "ivg".startsWith(@gloPrefix+"p") || "jour ferie".startsWith(@gloPrefix+"p") || "journee de l'europe".startsWith(@gloPrefix+"p") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"p") || "juge".startsWith(@gloPrefix+"p") || "jules ferry".startsWith(@gloPrefix+"p") || "jure".startsWith(@gloPrefix+"p") || "justice".startsWith(@gloPrefix+"p") || "la marseillaise".startsWith(@gloPrefix+"p") || "la reunion".startsWith(@gloPrefix+"p") || "laicite".startsWith(@gloPrefix+"p") || "langue de la republique".startsWith(@gloPrefix+"p") || "liberte".startsWith(@gloPrefix+"p") || "liberte d'association".startsWith(@gloPrefix+"p") || "liberte d'expression".startsWith(@gloPrefix+"p") || "liberte de circulation".startsWith(@gloPrefix+"p") || "liberte de conscience".startsWith(@gloPrefix+"p") || "listes electorales".startsWith(@gloPrefix+"p") || "litterature".startsWith(@gloPrefix+"p") || "locataire".startsWith(@gloPrefix+"p") || "loi".startsWith(@gloPrefix+"p") || "loire".startsWith(@gloPrefix+"p") || "louis xvi".startsWith(@gloPrefix+"p") || "lycee".startsWith(@gloPrefix+"p") || "maire".startsWith(@gloPrefix+"p") || "mairie".startsWith(@gloPrefix+"p") || "majorite".startsWith(@gloPrefix+"p") || "mandat".startsWith(@gloPrefix+"p") || "marianne".startsWith(@gloPrefix+"p") || "martinique".startsWith(@gloPrefix+"p") || "mayotte".startsWith(@gloPrefix+"p") || "medecin traitant".startsWith(@gloPrefix+"p") || "mediterranee".startsWith(@gloPrefix+"p") || "ministre".startsWith(@gloPrefix+"p") || "mixite".startsWith(@gloPrefix+"p") || "monarchie".startsWith(@gloPrefix+"p") || "mont-saint-michel".startsWith(@gloPrefix+"p") || "musee du louvre".startsWith(@gloPrefix+"p") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"p") || "mutuelle".startsWith(@gloPrefix+"p") || "naissance".startsWith(@gloPrefix+"p") || "napoleon bonaparte".startsWith(@gloPrefix+"p") || "naturalisation".startsWith(@gloPrefix+"p") || "neutralite".startsWith(@gloPrefix+"p") || "opinion".startsWith(@gloPrefix+"p") || "ordre public".startsWith(@gloPrefix+"p") || "outre-mer".startsWith(@gloPrefix+"p") || "parlement".startsWith(@gloPrefix+"p") || "parlement europeen".startsWith(@gloPrefix+"p") || "parti politique".startsWith(@gloPrefix+"p") || "patrimoine".startsWith(@gloPrefix+"p") || "peine de mort".startsWith(@gloPrefix+"p") || "plainte".startsWith(@gloPrefix+"p") || "police".startsWith(@gloPrefix+"p") || "polygamie".startsWith(@gloPrefix+"p") || "pouvoir executif".startsWith(@gloPrefix+"p") || "pouvoir judiciaire".startsWith(@gloPrefix+"p") || "pouvoir legislatif".startsWith(@gloPrefix+"p") || "prefecture".startsWith(@gloPrefix+"p") || "prefet".startsWith(@gloPrefix+"p") || "premier ministre".startsWith(@gloPrefix+"p") || "premiere guerre mondiale".startsWith(@gloPrefix+"p") || "president de la republique".startsWith(@gloPrefix+"p") || "presomption d'innocence".startsWith(@gloPrefix+"p") || "prevention".startsWith(@gloPrefix+"p") || "proces equitable".startsWith(@gloPrefix+"p") || "procuration".startsWith(@gloPrefix+"p") || "projet de loi".startsWith(@gloPrefix+"p") || "proposition de loi".startsWith(@gloPrefix+"p") || "proprietaire".startsWith(@gloPrefix+"p") || "prostitution".startsWith(@gloPrefix+"p") || "protection sociale".startsWith(@gloPrefix+"p") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"p") || "pyrenees".startsWith(@gloPrefix+"p") || "quinquennat".startsWith(@gloPrefix+"p") || "recyclage".startsWith(@gloPrefix+"p") || "referendum".startsWith(@gloPrefix+"p") || "region".startsWith(@gloPrefix+"p") || "religion".startsWith(@gloPrefix+"p") || "republique".startsWith(@gloPrefix+"p") || "reseaux sociaux".startsWith(@gloPrefix+"p") || "resistance".startsWith(@gloPrefix+"p") || "respect".startsWith(@gloPrefix+"p") || "responsabilite".startsWith(@gloPrefix+"p") || "revolution".startsWith(@gloPrefix+"p") || "revolution francaise".startsWith(@gloPrefix+"p") || "rhone".startsWith(@gloPrefix+"p") || "salaire".startsWith(@gloPrefix+"p") || "salaire brut".startsWith(@gloPrefix+"p") || "salaire net".startsWith(@gloPrefix+"p") || "salarie".startsWith(@gloPrefix+"p") || "samu".startsWith(@gloPrefix+"p") || "sanction".startsWith(@gloPrefix+"p") || "seconde guerre mondiale".startsWith(@gloPrefix+"p") || "secours".startsWith(@gloPrefix+"p") || "securite routiere".startsWith(@gloPrefix+"p") || "seine".startsWith(@gloPrefix+"p") || "senat".startsWith(@gloPrefix+"p") || "senateur".startsWith(@gloPrefix+"p") || "separation des pouvoirs".startsWith(@gloPrefix+"p") || "service public".startsWith(@gloPrefix+"p") || "shoah".startsWith(@gloPrefix+"p") || "smic".startsWith(@gloPrefix+"p") || "souverainete nationale".startsWith(@gloPrefix+"p") || "suffrage universel".startsWith(@gloPrefix+"p") || "surete".startsWith(@gloPrefix+"p") || "temps de travail".startsWith(@gloPrefix+"p") || "titre de sejour".startsWith(@gloPrefix+"p") || "tour eiffel".startsWith(@gloPrefix+"p") || "traite de maastricht".startsWith(@gloPrefix+"p") || "traite de rome".startsWith(@gloPrefix+"p") || "traite des etres humains".startsWith(@gloPrefix+"p") || "travail dissimule".startsWith(@gloPrefix+"p") || "tri des dechets".startsWith(@gloPrefix+"p") || "unesco".startsWith(@gloPrefix+"p") || "union europeenne".startsWith(@gloPrefix+"p") || "urgence".startsWith(@gloPrefix+"p") || "urgences".startsWith(@gloPrefix+"p") || "vaccination".startsWith(@gloPrefix+"p") || "vercingetorix".startsWith(@gloPrefix+"p") || "violence".startsWith(@gloPrefix+"p") || "vote".startsWith(@gloPrefix+"p"))`
+`@gloNextQ = calc("abolition".startsWith(@gloPrefix+"q") || "abstention".startsWith(@gloPrefix+"q") || "agents publics".startsWith(@gloPrefix+"q") || "alpes".startsWith(@gloPrefix+"q") || "amende".startsWith(@gloPrefix+"q") || "apl".startsWith(@gloPrefix+"q") || "armistice".startsWith(@gloPrefix+"q") || "assemblee nationale".startsWith(@gloPrefix+"q") || "assiduite".startsWith(@gloPrefix+"q") || "assistance a personne en danger".startsWith(@gloPrefix+"q") || "assurance maladie".startsWith(@gloPrefix+"q") || "autorite parentale".startsWith(@gloPrefix+"q") || "avocat".startsWith(@gloPrefix+"q") || "bail".startsWith(@gloPrefix+"q") || "bastille".startsWith(@gloPrefix+"q") || "benevolat".startsWith(@gloPrefix+"q") || "bloc de constitutionnalite".startsWith(@gloPrefix+"q") || "bretagne".startsWith(@gloPrefix+"q") || "caf".startsWith(@gloPrefix+"q") || "carte de resident".startsWith(@gloPrefix+"q") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"q") || "carte vitale".startsWith(@gloPrefix+"q") || "cdd".startsWith(@gloPrefix+"q") || "cdi".startsWith(@gloPrefix+"q") || "ceca".startsWith(@gloPrefix+"q") || "cee".startsWith(@gloPrefix+"q") || "celtes".startsWith(@gloPrefix+"q") || "charlemagne".startsWith(@gloPrefix+"q") || "charles de gaulle".startsWith(@gloPrefix+"q") || "charte de l'environnement".startsWith(@gloPrefix+"q") || "chateau de versailles".startsWith(@gloPrefix+"q") || "chef de l'etat".startsWith(@gloPrefix+"q") || "cinquieme republique".startsWith(@gloPrefix+"q") || "citoyen".startsWith(@gloPrefix+"q") || "citoyennete".startsWith(@gloPrefix+"q") || "clovis".startsWith(@gloPrefix+"q") || "collectivites territoriales".startsWith(@gloPrefix+"q") || "college".startsWith(@gloPrefix+"q") || "colonisation".startsWith(@gloPrefix+"q") || "commission europeenne".startsWith(@gloPrefix+"q") || "commune".startsWith(@gloPrefix+"q") || "conseil constitutionnel".startsWith(@gloPrefix+"q") || "conseil de l'union europeenne".startsWith(@gloPrefix+"q") || "conseil departemental".startsWith(@gloPrefix+"q") || "conseil europeen".startsWith(@gloPrefix+"q") || "conseil municipal".startsWith(@gloPrefix+"q") || "conseil regional".startsWith(@gloPrefix+"q") || "conseiller municipal".startsWith(@gloPrefix+"q") || "consentement".startsWith(@gloPrefix+"q") || "constitution".startsWith(@gloPrefix+"q") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"q") || "contrat de travail".startsWith(@gloPrefix+"q") || "contravention".startsWith(@gloPrefix+"q") || "coq gaulois".startsWith(@gloPrefix+"q") || "cotisations sociales".startsWith(@gloPrefix+"q") || "cour d'assises".startsWith(@gloPrefix+"q") || "cpam".startsWith(@gloPrefix+"q") || "crime".startsWith(@gloPrefix+"q") || "decheterie".startsWith(@gloPrefix+"q") || "dechets".startsWith(@gloPrefix+"q") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"q") || "delit".startsWith(@gloPrefix+"q") || "demandeur d'emploi".startsWith(@gloPrefix+"q") || "democratie".startsWith(@gloPrefix+"q") || "departement".startsWith(@gloPrefix+"q") || "depute".startsWith(@gloPrefix+"q") || "depute europeen".startsWith(@gloPrefix+"q") || "devise".startsWith(@gloPrefix+"q") || "devise de la republique".startsWith(@gloPrefix+"q") || "devoir".startsWith(@gloPrefix+"q") || "dignite humaine".startsWith(@gloPrefix+"q") || "discrimination".startsWith(@gloPrefix+"q") || "divorce".startsWith(@gloPrefix+"q") || "drapeau francais".startsWith(@gloPrefix+"q") || "droits civiques".startsWith(@gloPrefix+"q") || "droits de la defense".startsWith(@gloPrefix+"q") || "droits fondamentaux".startsWith(@gloPrefix+"q") || "drom".startsWith(@gloPrefix+"q") || "ecole".startsWith(@gloPrefix+"q") || "egalite".startsWith(@gloPrefix+"q") || "election".startsWith(@gloPrefix+"q") || "election presidentielle".startsWith(@gloPrefix+"q") || "elections europeennes".startsWith(@gloPrefix+"q") || "elections municipales".startsWith(@gloPrefix+"q") || "eligibilite".startsWith(@gloPrefix+"q") || "employeur".startsWith(@gloPrefix+"q") || "entrepreneuriat".startsWith(@gloPrefix+"q") || "entreprise".startsWith(@gloPrefix+"q") || "environnement".startsWith(@gloPrefix+"q") || "esclavage".startsWith(@gloPrefix+"q") || "espace schengen".startsWith(@gloPrefix+"q") || "etat".startsWith(@gloPrefix+"q") || "etat civil".startsWith(@gloPrefix+"q") || "euro".startsWith(@gloPrefix+"q") || "fete de la musique".startsWith(@gloPrefix+"q") || "fete nationale".startsWith(@gloPrefix+"q") || "fleuve".startsWith(@gloPrefix+"q") || "france metropolitaine".startsWith(@gloPrefix+"q") || "france services".startsWith(@gloPrefix+"q") || "france travail".startsWith(@gloPrefix+"q") || "francophonie".startsWith(@gloPrefix+"q") || "fraternite".startsWith(@gloPrefix+"q") || "gastronomie francaise".startsWith(@gloPrefix+"q") || "gaule".startsWith(@gloPrefix+"q") || "gendarmerie".startsWith(@gloPrefix+"q") || "genocide".startsWith(@gloPrefix+"q") || "gouvernement".startsWith(@gloPrefix+"q") || "greve".startsWith(@gloPrefix+"q") || "guadeloupe".startsWith(@gloPrefix+"q") || "guyane".startsWith(@gloPrefix+"q") || "handicap".startsWith(@gloPrefix+"q") || "harcelement".startsWith(@gloPrefix+"q") || "harcelement scolaire".startsWith(@gloPrefix+"q") || "hopital".startsWith(@gloPrefix+"q") || "ile-de-france".startsWith(@gloPrefix+"q") || "impot".startsWith(@gloPrefix+"q") || "impressionnisme".startsWith(@gloPrefix+"q") || "inclusion".startsWith(@gloPrefix+"q") || "infraction".startsWith(@gloPrefix+"q") || "instruction obligatoire".startsWith(@gloPrefix+"q") || "integrite de la personne".startsWith(@gloPrefix+"q") || "interet general".startsWith(@gloPrefix+"q") || "ivg".startsWith(@gloPrefix+"q") || "jour ferie".startsWith(@gloPrefix+"q") || "journee de l'europe".startsWith(@gloPrefix+"q") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"q") || "juge".startsWith(@gloPrefix+"q") || "jules ferry".startsWith(@gloPrefix+"q") || "jure".startsWith(@gloPrefix+"q") || "justice".startsWith(@gloPrefix+"q") || "la marseillaise".startsWith(@gloPrefix+"q") || "la reunion".startsWith(@gloPrefix+"q") || "laicite".startsWith(@gloPrefix+"q") || "langue de la republique".startsWith(@gloPrefix+"q") || "liberte".startsWith(@gloPrefix+"q") || "liberte d'association".startsWith(@gloPrefix+"q") || "liberte d'expression".startsWith(@gloPrefix+"q") || "liberte de circulation".startsWith(@gloPrefix+"q") || "liberte de conscience".startsWith(@gloPrefix+"q") || "listes electorales".startsWith(@gloPrefix+"q") || "litterature".startsWith(@gloPrefix+"q") || "locataire".startsWith(@gloPrefix+"q") || "loi".startsWith(@gloPrefix+"q") || "loire".startsWith(@gloPrefix+"q") || "louis xvi".startsWith(@gloPrefix+"q") || "lycee".startsWith(@gloPrefix+"q") || "maire".startsWith(@gloPrefix+"q") || "mairie".startsWith(@gloPrefix+"q") || "majorite".startsWith(@gloPrefix+"q") || "mandat".startsWith(@gloPrefix+"q") || "marianne".startsWith(@gloPrefix+"q") || "martinique".startsWith(@gloPrefix+"q") || "mayotte".startsWith(@gloPrefix+"q") || "medecin traitant".startsWith(@gloPrefix+"q") || "mediterranee".startsWith(@gloPrefix+"q") || "ministre".startsWith(@gloPrefix+"q") || "mixite".startsWith(@gloPrefix+"q") || "monarchie".startsWith(@gloPrefix+"q") || "mont-saint-michel".startsWith(@gloPrefix+"q") || "musee du louvre".startsWith(@gloPrefix+"q") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"q") || "mutuelle".startsWith(@gloPrefix+"q") || "naissance".startsWith(@gloPrefix+"q") || "napoleon bonaparte".startsWith(@gloPrefix+"q") || "naturalisation".startsWith(@gloPrefix+"q") || "neutralite".startsWith(@gloPrefix+"q") || "opinion".startsWith(@gloPrefix+"q") || "ordre public".startsWith(@gloPrefix+"q") || "outre-mer".startsWith(@gloPrefix+"q") || "parlement".startsWith(@gloPrefix+"q") || "parlement europeen".startsWith(@gloPrefix+"q") || "parti politique".startsWith(@gloPrefix+"q") || "patrimoine".startsWith(@gloPrefix+"q") || "peine de mort".startsWith(@gloPrefix+"q") || "plainte".startsWith(@gloPrefix+"q") || "police".startsWith(@gloPrefix+"q") || "polygamie".startsWith(@gloPrefix+"q") || "pouvoir executif".startsWith(@gloPrefix+"q") || "pouvoir judiciaire".startsWith(@gloPrefix+"q") || "pouvoir legislatif".startsWith(@gloPrefix+"q") || "prefecture".startsWith(@gloPrefix+"q") || "prefet".startsWith(@gloPrefix+"q") || "premier ministre".startsWith(@gloPrefix+"q") || "premiere guerre mondiale".startsWith(@gloPrefix+"q") || "president de la republique".startsWith(@gloPrefix+"q") || "presomption d'innocence".startsWith(@gloPrefix+"q") || "prevention".startsWith(@gloPrefix+"q") || "proces equitable".startsWith(@gloPrefix+"q") || "procuration".startsWith(@gloPrefix+"q") || "projet de loi".startsWith(@gloPrefix+"q") || "proposition de loi".startsWith(@gloPrefix+"q") || "proprietaire".startsWith(@gloPrefix+"q") || "prostitution".startsWith(@gloPrefix+"q") || "protection sociale".startsWith(@gloPrefix+"q") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"q") || "pyrenees".startsWith(@gloPrefix+"q") || "quinquennat".startsWith(@gloPrefix+"q") || "recyclage".startsWith(@gloPrefix+"q") || "referendum".startsWith(@gloPrefix+"q") || "region".startsWith(@gloPrefix+"q") || "religion".startsWith(@gloPrefix+"q") || "republique".startsWith(@gloPrefix+"q") || "reseaux sociaux".startsWith(@gloPrefix+"q") || "resistance".startsWith(@gloPrefix+"q") || "respect".startsWith(@gloPrefix+"q") || "responsabilite".startsWith(@gloPrefix+"q") || "revolution".startsWith(@gloPrefix+"q") || "revolution francaise".startsWith(@gloPrefix+"q") || "rhone".startsWith(@gloPrefix+"q") || "salaire".startsWith(@gloPrefix+"q") || "salaire brut".startsWith(@gloPrefix+"q") || "salaire net".startsWith(@gloPrefix+"q") || "salarie".startsWith(@gloPrefix+"q") || "samu".startsWith(@gloPrefix+"q") || "sanction".startsWith(@gloPrefix+"q") || "seconde guerre mondiale".startsWith(@gloPrefix+"q") || "secours".startsWith(@gloPrefix+"q") || "securite routiere".startsWith(@gloPrefix+"q") || "seine".startsWith(@gloPrefix+"q") || "senat".startsWith(@gloPrefix+"q") || "senateur".startsWith(@gloPrefix+"q") || "separation des pouvoirs".startsWith(@gloPrefix+"q") || "service public".startsWith(@gloPrefix+"q") || "shoah".startsWith(@gloPrefix+"q") || "smic".startsWith(@gloPrefix+"q") || "souverainete nationale".startsWith(@gloPrefix+"q") || "suffrage universel".startsWith(@gloPrefix+"q") || "surete".startsWith(@gloPrefix+"q") || "temps de travail".startsWith(@gloPrefix+"q") || "titre de sejour".startsWith(@gloPrefix+"q") || "tour eiffel".startsWith(@gloPrefix+"q") || "traite de maastricht".startsWith(@gloPrefix+"q") || "traite de rome".startsWith(@gloPrefix+"q") || "traite des etres humains".startsWith(@gloPrefix+"q") || "travail dissimule".startsWith(@gloPrefix+"q") || "tri des dechets".startsWith(@gloPrefix+"q") || "unesco".startsWith(@gloPrefix+"q") || "union europeenne".startsWith(@gloPrefix+"q") || "urgence".startsWith(@gloPrefix+"q") || "urgences".startsWith(@gloPrefix+"q") || "vaccination".startsWith(@gloPrefix+"q") || "vercingetorix".startsWith(@gloPrefix+"q") || "violence".startsWith(@gloPrefix+"q") || "vote".startsWith(@gloPrefix+"q"))`
+`@gloNextR = calc("abolition".startsWith(@gloPrefix+"r") || "abstention".startsWith(@gloPrefix+"r") || "agents publics".startsWith(@gloPrefix+"r") || "alpes".startsWith(@gloPrefix+"r") || "amende".startsWith(@gloPrefix+"r") || "apl".startsWith(@gloPrefix+"r") || "armistice".startsWith(@gloPrefix+"r") || "assemblee nationale".startsWith(@gloPrefix+"r") || "assiduite".startsWith(@gloPrefix+"r") || "assistance a personne en danger".startsWith(@gloPrefix+"r") || "assurance maladie".startsWith(@gloPrefix+"r") || "autorite parentale".startsWith(@gloPrefix+"r") || "avocat".startsWith(@gloPrefix+"r") || "bail".startsWith(@gloPrefix+"r") || "bastille".startsWith(@gloPrefix+"r") || "benevolat".startsWith(@gloPrefix+"r") || "bloc de constitutionnalite".startsWith(@gloPrefix+"r") || "bretagne".startsWith(@gloPrefix+"r") || "caf".startsWith(@gloPrefix+"r") || "carte de resident".startsWith(@gloPrefix+"r") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"r") || "carte vitale".startsWith(@gloPrefix+"r") || "cdd".startsWith(@gloPrefix+"r") || "cdi".startsWith(@gloPrefix+"r") || "ceca".startsWith(@gloPrefix+"r") || "cee".startsWith(@gloPrefix+"r") || "celtes".startsWith(@gloPrefix+"r") || "charlemagne".startsWith(@gloPrefix+"r") || "charles de gaulle".startsWith(@gloPrefix+"r") || "charte de l'environnement".startsWith(@gloPrefix+"r") || "chateau de versailles".startsWith(@gloPrefix+"r") || "chef de l'etat".startsWith(@gloPrefix+"r") || "cinquieme republique".startsWith(@gloPrefix+"r") || "citoyen".startsWith(@gloPrefix+"r") || "citoyennete".startsWith(@gloPrefix+"r") || "clovis".startsWith(@gloPrefix+"r") || "collectivites territoriales".startsWith(@gloPrefix+"r") || "college".startsWith(@gloPrefix+"r") || "colonisation".startsWith(@gloPrefix+"r") || "commission europeenne".startsWith(@gloPrefix+"r") || "commune".startsWith(@gloPrefix+"r") || "conseil constitutionnel".startsWith(@gloPrefix+"r") || "conseil de l'union europeenne".startsWith(@gloPrefix+"r") || "conseil departemental".startsWith(@gloPrefix+"r") || "conseil europeen".startsWith(@gloPrefix+"r") || "conseil municipal".startsWith(@gloPrefix+"r") || "conseil regional".startsWith(@gloPrefix+"r") || "conseiller municipal".startsWith(@gloPrefix+"r") || "consentement".startsWith(@gloPrefix+"r") || "constitution".startsWith(@gloPrefix+"r") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"r") || "contrat de travail".startsWith(@gloPrefix+"r") || "contravention".startsWith(@gloPrefix+"r") || "coq gaulois".startsWith(@gloPrefix+"r") || "cotisations sociales".startsWith(@gloPrefix+"r") || "cour d'assises".startsWith(@gloPrefix+"r") || "cpam".startsWith(@gloPrefix+"r") || "crime".startsWith(@gloPrefix+"r") || "decheterie".startsWith(@gloPrefix+"r") || "dechets".startsWith(@gloPrefix+"r") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"r") || "delit".startsWith(@gloPrefix+"r") || "demandeur d'emploi".startsWith(@gloPrefix+"r") || "democratie".startsWith(@gloPrefix+"r") || "departement".startsWith(@gloPrefix+"r") || "depute".startsWith(@gloPrefix+"r") || "depute europeen".startsWith(@gloPrefix+"r") || "devise".startsWith(@gloPrefix+"r") || "devise de la republique".startsWith(@gloPrefix+"r") || "devoir".startsWith(@gloPrefix+"r") || "dignite humaine".startsWith(@gloPrefix+"r") || "discrimination".startsWith(@gloPrefix+"r") || "divorce".startsWith(@gloPrefix+"r") || "drapeau francais".startsWith(@gloPrefix+"r") || "droits civiques".startsWith(@gloPrefix+"r") || "droits de la defense".startsWith(@gloPrefix+"r") || "droits fondamentaux".startsWith(@gloPrefix+"r") || "drom".startsWith(@gloPrefix+"r") || "ecole".startsWith(@gloPrefix+"r") || "egalite".startsWith(@gloPrefix+"r") || "election".startsWith(@gloPrefix+"r") || "election presidentielle".startsWith(@gloPrefix+"r") || "elections europeennes".startsWith(@gloPrefix+"r") || "elections municipales".startsWith(@gloPrefix+"r") || "eligibilite".startsWith(@gloPrefix+"r") || "employeur".startsWith(@gloPrefix+"r") || "entrepreneuriat".startsWith(@gloPrefix+"r") || "entreprise".startsWith(@gloPrefix+"r") || "environnement".startsWith(@gloPrefix+"r") || "esclavage".startsWith(@gloPrefix+"r") || "espace schengen".startsWith(@gloPrefix+"r") || "etat".startsWith(@gloPrefix+"r") || "etat civil".startsWith(@gloPrefix+"r") || "euro".startsWith(@gloPrefix+"r") || "fete de la musique".startsWith(@gloPrefix+"r") || "fete nationale".startsWith(@gloPrefix+"r") || "fleuve".startsWith(@gloPrefix+"r") || "france metropolitaine".startsWith(@gloPrefix+"r") || "france services".startsWith(@gloPrefix+"r") || "france travail".startsWith(@gloPrefix+"r") || "francophonie".startsWith(@gloPrefix+"r") || "fraternite".startsWith(@gloPrefix+"r") || "gastronomie francaise".startsWith(@gloPrefix+"r") || "gaule".startsWith(@gloPrefix+"r") || "gendarmerie".startsWith(@gloPrefix+"r") || "genocide".startsWith(@gloPrefix+"r") || "gouvernement".startsWith(@gloPrefix+"r") || "greve".startsWith(@gloPrefix+"r") || "guadeloupe".startsWith(@gloPrefix+"r") || "guyane".startsWith(@gloPrefix+"r") || "handicap".startsWith(@gloPrefix+"r") || "harcelement".startsWith(@gloPrefix+"r") || "harcelement scolaire".startsWith(@gloPrefix+"r") || "hopital".startsWith(@gloPrefix+"r") || "ile-de-france".startsWith(@gloPrefix+"r") || "impot".startsWith(@gloPrefix+"r") || "impressionnisme".startsWith(@gloPrefix+"r") || "inclusion".startsWith(@gloPrefix+"r") || "infraction".startsWith(@gloPrefix+"r") || "instruction obligatoire".startsWith(@gloPrefix+"r") || "integrite de la personne".startsWith(@gloPrefix+"r") || "interet general".startsWith(@gloPrefix+"r") || "ivg".startsWith(@gloPrefix+"r") || "jour ferie".startsWith(@gloPrefix+"r") || "journee de l'europe".startsWith(@gloPrefix+"r") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"r") || "juge".startsWith(@gloPrefix+"r") || "jules ferry".startsWith(@gloPrefix+"r") || "jure".startsWith(@gloPrefix+"r") || "justice".startsWith(@gloPrefix+"r") || "la marseillaise".startsWith(@gloPrefix+"r") || "la reunion".startsWith(@gloPrefix+"r") || "laicite".startsWith(@gloPrefix+"r") || "langue de la republique".startsWith(@gloPrefix+"r") || "liberte".startsWith(@gloPrefix+"r") || "liberte d'association".startsWith(@gloPrefix+"r") || "liberte d'expression".startsWith(@gloPrefix+"r") || "liberte de circulation".startsWith(@gloPrefix+"r") || "liberte de conscience".startsWith(@gloPrefix+"r") || "listes electorales".startsWith(@gloPrefix+"r") || "litterature".startsWith(@gloPrefix+"r") || "locataire".startsWith(@gloPrefix+"r") || "loi".startsWith(@gloPrefix+"r") || "loire".startsWith(@gloPrefix+"r") || "louis xvi".startsWith(@gloPrefix+"r") || "lycee".startsWith(@gloPrefix+"r") || "maire".startsWith(@gloPrefix+"r") || "mairie".startsWith(@gloPrefix+"r") || "majorite".startsWith(@gloPrefix+"r") || "mandat".startsWith(@gloPrefix+"r") || "marianne".startsWith(@gloPrefix+"r") || "martinique".startsWith(@gloPrefix+"r") || "mayotte".startsWith(@gloPrefix+"r") || "medecin traitant".startsWith(@gloPrefix+"r") || "mediterranee".startsWith(@gloPrefix+"r") || "ministre".startsWith(@gloPrefix+"r") || "mixite".startsWith(@gloPrefix+"r") || "monarchie".startsWith(@gloPrefix+"r") || "mont-saint-michel".startsWith(@gloPrefix+"r") || "musee du louvre".startsWith(@gloPrefix+"r") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"r") || "mutuelle".startsWith(@gloPrefix+"r") || "naissance".startsWith(@gloPrefix+"r") || "napoleon bonaparte".startsWith(@gloPrefix+"r") || "naturalisation".startsWith(@gloPrefix+"r") || "neutralite".startsWith(@gloPrefix+"r") || "opinion".startsWith(@gloPrefix+"r") || "ordre public".startsWith(@gloPrefix+"r") || "outre-mer".startsWith(@gloPrefix+"r") || "parlement".startsWith(@gloPrefix+"r") || "parlement europeen".startsWith(@gloPrefix+"r") || "parti politique".startsWith(@gloPrefix+"r") || "patrimoine".startsWith(@gloPrefix+"r") || "peine de mort".startsWith(@gloPrefix+"r") || "plainte".startsWith(@gloPrefix+"r") || "police".startsWith(@gloPrefix+"r") || "polygamie".startsWith(@gloPrefix+"r") || "pouvoir executif".startsWith(@gloPrefix+"r") || "pouvoir judiciaire".startsWith(@gloPrefix+"r") || "pouvoir legislatif".startsWith(@gloPrefix+"r") || "prefecture".startsWith(@gloPrefix+"r") || "prefet".startsWith(@gloPrefix+"r") || "premier ministre".startsWith(@gloPrefix+"r") || "premiere guerre mondiale".startsWith(@gloPrefix+"r") || "president de la republique".startsWith(@gloPrefix+"r") || "presomption d'innocence".startsWith(@gloPrefix+"r") || "prevention".startsWith(@gloPrefix+"r") || "proces equitable".startsWith(@gloPrefix+"r") || "procuration".startsWith(@gloPrefix+"r") || "projet de loi".startsWith(@gloPrefix+"r") || "proposition de loi".startsWith(@gloPrefix+"r") || "proprietaire".startsWith(@gloPrefix+"r") || "prostitution".startsWith(@gloPrefix+"r") || "protection sociale".startsWith(@gloPrefix+"r") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"r") || "pyrenees".startsWith(@gloPrefix+"r") || "quinquennat".startsWith(@gloPrefix+"r") || "recyclage".startsWith(@gloPrefix+"r") || "referendum".startsWith(@gloPrefix+"r") || "region".startsWith(@gloPrefix+"r") || "religion".startsWith(@gloPrefix+"r") || "republique".startsWith(@gloPrefix+"r") || "reseaux sociaux".startsWith(@gloPrefix+"r") || "resistance".startsWith(@gloPrefix+"r") || "respect".startsWith(@gloPrefix+"r") || "responsabilite".startsWith(@gloPrefix+"r") || "revolution".startsWith(@gloPrefix+"r") || "revolution francaise".startsWith(@gloPrefix+"r") || "rhone".startsWith(@gloPrefix+"r") || "salaire".startsWith(@gloPrefix+"r") || "salaire brut".startsWith(@gloPrefix+"r") || "salaire net".startsWith(@gloPrefix+"r") || "salarie".startsWith(@gloPrefix+"r") || "samu".startsWith(@gloPrefix+"r") || "sanction".startsWith(@gloPrefix+"r") || "seconde guerre mondiale".startsWith(@gloPrefix+"r") || "secours".startsWith(@gloPrefix+"r") || "securite routiere".startsWith(@gloPrefix+"r") || "seine".startsWith(@gloPrefix+"r") || "senat".startsWith(@gloPrefix+"r") || "senateur".startsWith(@gloPrefix+"r") || "separation des pouvoirs".startsWith(@gloPrefix+"r") || "service public".startsWith(@gloPrefix+"r") || "shoah".startsWith(@gloPrefix+"r") || "smic".startsWith(@gloPrefix+"r") || "souverainete nationale".startsWith(@gloPrefix+"r") || "suffrage universel".startsWith(@gloPrefix+"r") || "surete".startsWith(@gloPrefix+"r") || "temps de travail".startsWith(@gloPrefix+"r") || "titre de sejour".startsWith(@gloPrefix+"r") || "tour eiffel".startsWith(@gloPrefix+"r") || "traite de maastricht".startsWith(@gloPrefix+"r") || "traite de rome".startsWith(@gloPrefix+"r") || "traite des etres humains".startsWith(@gloPrefix+"r") || "travail dissimule".startsWith(@gloPrefix+"r") || "tri des dechets".startsWith(@gloPrefix+"r") || "unesco".startsWith(@gloPrefix+"r") || "union europeenne".startsWith(@gloPrefix+"r") || "urgence".startsWith(@gloPrefix+"r") || "urgences".startsWith(@gloPrefix+"r") || "vaccination".startsWith(@gloPrefix+"r") || "vercingetorix".startsWith(@gloPrefix+"r") || "violence".startsWith(@gloPrefix+"r") || "vote".startsWith(@gloPrefix+"r"))`
+`@gloNextS = calc("abolition".startsWith(@gloPrefix+"s") || "abstention".startsWith(@gloPrefix+"s") || "agents publics".startsWith(@gloPrefix+"s") || "alpes".startsWith(@gloPrefix+"s") || "amende".startsWith(@gloPrefix+"s") || "apl".startsWith(@gloPrefix+"s") || "armistice".startsWith(@gloPrefix+"s") || "assemblee nationale".startsWith(@gloPrefix+"s") || "assiduite".startsWith(@gloPrefix+"s") || "assistance a personne en danger".startsWith(@gloPrefix+"s") || "assurance maladie".startsWith(@gloPrefix+"s") || "autorite parentale".startsWith(@gloPrefix+"s") || "avocat".startsWith(@gloPrefix+"s") || "bail".startsWith(@gloPrefix+"s") || "bastille".startsWith(@gloPrefix+"s") || "benevolat".startsWith(@gloPrefix+"s") || "bloc de constitutionnalite".startsWith(@gloPrefix+"s") || "bretagne".startsWith(@gloPrefix+"s") || "caf".startsWith(@gloPrefix+"s") || "carte de resident".startsWith(@gloPrefix+"s") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"s") || "carte vitale".startsWith(@gloPrefix+"s") || "cdd".startsWith(@gloPrefix+"s") || "cdi".startsWith(@gloPrefix+"s") || "ceca".startsWith(@gloPrefix+"s") || "cee".startsWith(@gloPrefix+"s") || "celtes".startsWith(@gloPrefix+"s") || "charlemagne".startsWith(@gloPrefix+"s") || "charles de gaulle".startsWith(@gloPrefix+"s") || "charte de l'environnement".startsWith(@gloPrefix+"s") || "chateau de versailles".startsWith(@gloPrefix+"s") || "chef de l'etat".startsWith(@gloPrefix+"s") || "cinquieme republique".startsWith(@gloPrefix+"s") || "citoyen".startsWith(@gloPrefix+"s") || "citoyennete".startsWith(@gloPrefix+"s") || "clovis".startsWith(@gloPrefix+"s") || "collectivites territoriales".startsWith(@gloPrefix+"s") || "college".startsWith(@gloPrefix+"s") || "colonisation".startsWith(@gloPrefix+"s") || "commission europeenne".startsWith(@gloPrefix+"s") || "commune".startsWith(@gloPrefix+"s") || "conseil constitutionnel".startsWith(@gloPrefix+"s") || "conseil de l'union europeenne".startsWith(@gloPrefix+"s") || "conseil departemental".startsWith(@gloPrefix+"s") || "conseil europeen".startsWith(@gloPrefix+"s") || "conseil municipal".startsWith(@gloPrefix+"s") || "conseil regional".startsWith(@gloPrefix+"s") || "conseiller municipal".startsWith(@gloPrefix+"s") || "consentement".startsWith(@gloPrefix+"s") || "constitution".startsWith(@gloPrefix+"s") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"s") || "contrat de travail".startsWith(@gloPrefix+"s") || "contravention".startsWith(@gloPrefix+"s") || "coq gaulois".startsWith(@gloPrefix+"s") || "cotisations sociales".startsWith(@gloPrefix+"s") || "cour d'assises".startsWith(@gloPrefix+"s") || "cpam".startsWith(@gloPrefix+"s") || "crime".startsWith(@gloPrefix+"s") || "decheterie".startsWith(@gloPrefix+"s") || "dechets".startsWith(@gloPrefix+"s") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"s") || "delit".startsWith(@gloPrefix+"s") || "demandeur d'emploi".startsWith(@gloPrefix+"s") || "democratie".startsWith(@gloPrefix+"s") || "departement".startsWith(@gloPrefix+"s") || "depute".startsWith(@gloPrefix+"s") || "depute europeen".startsWith(@gloPrefix+"s") || "devise".startsWith(@gloPrefix+"s") || "devise de la republique".startsWith(@gloPrefix+"s") || "devoir".startsWith(@gloPrefix+"s") || "dignite humaine".startsWith(@gloPrefix+"s") || "discrimination".startsWith(@gloPrefix+"s") || "divorce".startsWith(@gloPrefix+"s") || "drapeau francais".startsWith(@gloPrefix+"s") || "droits civiques".startsWith(@gloPrefix+"s") || "droits de la defense".startsWith(@gloPrefix+"s") || "droits fondamentaux".startsWith(@gloPrefix+"s") || "drom".startsWith(@gloPrefix+"s") || "ecole".startsWith(@gloPrefix+"s") || "egalite".startsWith(@gloPrefix+"s") || "election".startsWith(@gloPrefix+"s") || "election presidentielle".startsWith(@gloPrefix+"s") || "elections europeennes".startsWith(@gloPrefix+"s") || "elections municipales".startsWith(@gloPrefix+"s") || "eligibilite".startsWith(@gloPrefix+"s") || "employeur".startsWith(@gloPrefix+"s") || "entrepreneuriat".startsWith(@gloPrefix+"s") || "entreprise".startsWith(@gloPrefix+"s") || "environnement".startsWith(@gloPrefix+"s") || "esclavage".startsWith(@gloPrefix+"s") || "espace schengen".startsWith(@gloPrefix+"s") || "etat".startsWith(@gloPrefix+"s") || "etat civil".startsWith(@gloPrefix+"s") || "euro".startsWith(@gloPrefix+"s") || "fete de la musique".startsWith(@gloPrefix+"s") || "fete nationale".startsWith(@gloPrefix+"s") || "fleuve".startsWith(@gloPrefix+"s") || "france metropolitaine".startsWith(@gloPrefix+"s") || "france services".startsWith(@gloPrefix+"s") || "france travail".startsWith(@gloPrefix+"s") || "francophonie".startsWith(@gloPrefix+"s") || "fraternite".startsWith(@gloPrefix+"s") || "gastronomie francaise".startsWith(@gloPrefix+"s") || "gaule".startsWith(@gloPrefix+"s") || "gendarmerie".startsWith(@gloPrefix+"s") || "genocide".startsWith(@gloPrefix+"s") || "gouvernement".startsWith(@gloPrefix+"s") || "greve".startsWith(@gloPrefix+"s") || "guadeloupe".startsWith(@gloPrefix+"s") || "guyane".startsWith(@gloPrefix+"s") || "handicap".startsWith(@gloPrefix+"s") || "harcelement".startsWith(@gloPrefix+"s") || "harcelement scolaire".startsWith(@gloPrefix+"s") || "hopital".startsWith(@gloPrefix+"s") || "ile-de-france".startsWith(@gloPrefix+"s") || "impot".startsWith(@gloPrefix+"s") || "impressionnisme".startsWith(@gloPrefix+"s") || "inclusion".startsWith(@gloPrefix+"s") || "infraction".startsWith(@gloPrefix+"s") || "instruction obligatoire".startsWith(@gloPrefix+"s") || "integrite de la personne".startsWith(@gloPrefix+"s") || "interet general".startsWith(@gloPrefix+"s") || "ivg".startsWith(@gloPrefix+"s") || "jour ferie".startsWith(@gloPrefix+"s") || "journee de l'europe".startsWith(@gloPrefix+"s") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"s") || "juge".startsWith(@gloPrefix+"s") || "jules ferry".startsWith(@gloPrefix+"s") || "jure".startsWith(@gloPrefix+"s") || "justice".startsWith(@gloPrefix+"s") || "la marseillaise".startsWith(@gloPrefix+"s") || "la reunion".startsWith(@gloPrefix+"s") || "laicite".startsWith(@gloPrefix+"s") || "langue de la republique".startsWith(@gloPrefix+"s") || "liberte".startsWith(@gloPrefix+"s") || "liberte d'association".startsWith(@gloPrefix+"s") || "liberte d'expression".startsWith(@gloPrefix+"s") || "liberte de circulation".startsWith(@gloPrefix+"s") || "liberte de conscience".startsWith(@gloPrefix+"s") || "listes electorales".startsWith(@gloPrefix+"s") || "litterature".startsWith(@gloPrefix+"s") || "locataire".startsWith(@gloPrefix+"s") || "loi".startsWith(@gloPrefix+"s") || "loire".startsWith(@gloPrefix+"s") || "louis xvi".startsWith(@gloPrefix+"s") || "lycee".startsWith(@gloPrefix+"s") || "maire".startsWith(@gloPrefix+"s") || "mairie".startsWith(@gloPrefix+"s") || "majorite".startsWith(@gloPrefix+"s") || "mandat".startsWith(@gloPrefix+"s") || "marianne".startsWith(@gloPrefix+"s") || "martinique".startsWith(@gloPrefix+"s") || "mayotte".startsWith(@gloPrefix+"s") || "medecin traitant".startsWith(@gloPrefix+"s") || "mediterranee".startsWith(@gloPrefix+"s") || "ministre".startsWith(@gloPrefix+"s") || "mixite".startsWith(@gloPrefix+"s") || "monarchie".startsWith(@gloPrefix+"s") || "mont-saint-michel".startsWith(@gloPrefix+"s") || "musee du louvre".startsWith(@gloPrefix+"s") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"s") || "mutuelle".startsWith(@gloPrefix+"s") || "naissance".startsWith(@gloPrefix+"s") || "napoleon bonaparte".startsWith(@gloPrefix+"s") || "naturalisation".startsWith(@gloPrefix+"s") || "neutralite".startsWith(@gloPrefix+"s") || "opinion".startsWith(@gloPrefix+"s") || "ordre public".startsWith(@gloPrefix+"s") || "outre-mer".startsWith(@gloPrefix+"s") || "parlement".startsWith(@gloPrefix+"s") || "parlement europeen".startsWith(@gloPrefix+"s") || "parti politique".startsWith(@gloPrefix+"s") || "patrimoine".startsWith(@gloPrefix+"s") || "peine de mort".startsWith(@gloPrefix+"s") || "plainte".startsWith(@gloPrefix+"s") || "police".startsWith(@gloPrefix+"s") || "polygamie".startsWith(@gloPrefix+"s") || "pouvoir executif".startsWith(@gloPrefix+"s") || "pouvoir judiciaire".startsWith(@gloPrefix+"s") || "pouvoir legislatif".startsWith(@gloPrefix+"s") || "prefecture".startsWith(@gloPrefix+"s") || "prefet".startsWith(@gloPrefix+"s") || "premier ministre".startsWith(@gloPrefix+"s") || "premiere guerre mondiale".startsWith(@gloPrefix+"s") || "president de la republique".startsWith(@gloPrefix+"s") || "presomption d'innocence".startsWith(@gloPrefix+"s") || "prevention".startsWith(@gloPrefix+"s") || "proces equitable".startsWith(@gloPrefix+"s") || "procuration".startsWith(@gloPrefix+"s") || "projet de loi".startsWith(@gloPrefix+"s") || "proposition de loi".startsWith(@gloPrefix+"s") || "proprietaire".startsWith(@gloPrefix+"s") || "prostitution".startsWith(@gloPrefix+"s") || "protection sociale".startsWith(@gloPrefix+"s") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"s") || "pyrenees".startsWith(@gloPrefix+"s") || "quinquennat".startsWith(@gloPrefix+"s") || "recyclage".startsWith(@gloPrefix+"s") || "referendum".startsWith(@gloPrefix+"s") || "region".startsWith(@gloPrefix+"s") || "religion".startsWith(@gloPrefix+"s") || "republique".startsWith(@gloPrefix+"s") || "reseaux sociaux".startsWith(@gloPrefix+"s") || "resistance".startsWith(@gloPrefix+"s") || "respect".startsWith(@gloPrefix+"s") || "responsabilite".startsWith(@gloPrefix+"s") || "revolution".startsWith(@gloPrefix+"s") || "revolution francaise".startsWith(@gloPrefix+"s") || "rhone".startsWith(@gloPrefix+"s") || "salaire".startsWith(@gloPrefix+"s") || "salaire brut".startsWith(@gloPrefix+"s") || "salaire net".startsWith(@gloPrefix+"s") || "salarie".startsWith(@gloPrefix+"s") || "samu".startsWith(@gloPrefix+"s") || "sanction".startsWith(@gloPrefix+"s") || "seconde guerre mondiale".startsWith(@gloPrefix+"s") || "secours".startsWith(@gloPrefix+"s") || "securite routiere".startsWith(@gloPrefix+"s") || "seine".startsWith(@gloPrefix+"s") || "senat".startsWith(@gloPrefix+"s") || "senateur".startsWith(@gloPrefix+"s") || "separation des pouvoirs".startsWith(@gloPrefix+"s") || "service public".startsWith(@gloPrefix+"s") || "shoah".startsWith(@gloPrefix+"s") || "smic".startsWith(@gloPrefix+"s") || "souverainete nationale".startsWith(@gloPrefix+"s") || "suffrage universel".startsWith(@gloPrefix+"s") || "surete".startsWith(@gloPrefix+"s") || "temps de travail".startsWith(@gloPrefix+"s") || "titre de sejour".startsWith(@gloPrefix+"s") || "tour eiffel".startsWith(@gloPrefix+"s") || "traite de maastricht".startsWith(@gloPrefix+"s") || "traite de rome".startsWith(@gloPrefix+"s") || "traite des etres humains".startsWith(@gloPrefix+"s") || "travail dissimule".startsWith(@gloPrefix+"s") || "tri des dechets".startsWith(@gloPrefix+"s") || "unesco".startsWith(@gloPrefix+"s") || "union europeenne".startsWith(@gloPrefix+"s") || "urgence".startsWith(@gloPrefix+"s") || "urgences".startsWith(@gloPrefix+"s") || "vaccination".startsWith(@gloPrefix+"s") || "vercingetorix".startsWith(@gloPrefix+"s") || "violence".startsWith(@gloPrefix+"s") || "vote".startsWith(@gloPrefix+"s"))`
+`@gloNextT = calc("abolition".startsWith(@gloPrefix+"t") || "abstention".startsWith(@gloPrefix+"t") || "agents publics".startsWith(@gloPrefix+"t") || "alpes".startsWith(@gloPrefix+"t") || "amende".startsWith(@gloPrefix+"t") || "apl".startsWith(@gloPrefix+"t") || "armistice".startsWith(@gloPrefix+"t") || "assemblee nationale".startsWith(@gloPrefix+"t") || "assiduite".startsWith(@gloPrefix+"t") || "assistance a personne en danger".startsWith(@gloPrefix+"t") || "assurance maladie".startsWith(@gloPrefix+"t") || "autorite parentale".startsWith(@gloPrefix+"t") || "avocat".startsWith(@gloPrefix+"t") || "bail".startsWith(@gloPrefix+"t") || "bastille".startsWith(@gloPrefix+"t") || "benevolat".startsWith(@gloPrefix+"t") || "bloc de constitutionnalite".startsWith(@gloPrefix+"t") || "bretagne".startsWith(@gloPrefix+"t") || "caf".startsWith(@gloPrefix+"t") || "carte de resident".startsWith(@gloPrefix+"t") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"t") || "carte vitale".startsWith(@gloPrefix+"t") || "cdd".startsWith(@gloPrefix+"t") || "cdi".startsWith(@gloPrefix+"t") || "ceca".startsWith(@gloPrefix+"t") || "cee".startsWith(@gloPrefix+"t") || "celtes".startsWith(@gloPrefix+"t") || "charlemagne".startsWith(@gloPrefix+"t") || "charles de gaulle".startsWith(@gloPrefix+"t") || "charte de l'environnement".startsWith(@gloPrefix+"t") || "chateau de versailles".startsWith(@gloPrefix+"t") || "chef de l'etat".startsWith(@gloPrefix+"t") || "cinquieme republique".startsWith(@gloPrefix+"t") || "citoyen".startsWith(@gloPrefix+"t") || "citoyennete".startsWith(@gloPrefix+"t") || "clovis".startsWith(@gloPrefix+"t") || "collectivites territoriales".startsWith(@gloPrefix+"t") || "college".startsWith(@gloPrefix+"t") || "colonisation".startsWith(@gloPrefix+"t") || "commission europeenne".startsWith(@gloPrefix+"t") || "commune".startsWith(@gloPrefix+"t") || "conseil constitutionnel".startsWith(@gloPrefix+"t") || "conseil de l'union europeenne".startsWith(@gloPrefix+"t") || "conseil departemental".startsWith(@gloPrefix+"t") || "conseil europeen".startsWith(@gloPrefix+"t") || "conseil municipal".startsWith(@gloPrefix+"t") || "conseil regional".startsWith(@gloPrefix+"t") || "conseiller municipal".startsWith(@gloPrefix+"t") || "consentement".startsWith(@gloPrefix+"t") || "constitution".startsWith(@gloPrefix+"t") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"t") || "contrat de travail".startsWith(@gloPrefix+"t") || "contravention".startsWith(@gloPrefix+"t") || "coq gaulois".startsWith(@gloPrefix+"t") || "cotisations sociales".startsWith(@gloPrefix+"t") || "cour d'assises".startsWith(@gloPrefix+"t") || "cpam".startsWith(@gloPrefix+"t") || "crime".startsWith(@gloPrefix+"t") || "decheterie".startsWith(@gloPrefix+"t") || "dechets".startsWith(@gloPrefix+"t") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"t") || "delit".startsWith(@gloPrefix+"t") || "demandeur d'emploi".startsWith(@gloPrefix+"t") || "democratie".startsWith(@gloPrefix+"t") || "departement".startsWith(@gloPrefix+"t") || "depute".startsWith(@gloPrefix+"t") || "depute europeen".startsWith(@gloPrefix+"t") || "devise".startsWith(@gloPrefix+"t") || "devise de la republique".startsWith(@gloPrefix+"t") || "devoir".startsWith(@gloPrefix+"t") || "dignite humaine".startsWith(@gloPrefix+"t") || "discrimination".startsWith(@gloPrefix+"t") || "divorce".startsWith(@gloPrefix+"t") || "drapeau francais".startsWith(@gloPrefix+"t") || "droits civiques".startsWith(@gloPrefix+"t") || "droits de la defense".startsWith(@gloPrefix+"t") || "droits fondamentaux".startsWith(@gloPrefix+"t") || "drom".startsWith(@gloPrefix+"t") || "ecole".startsWith(@gloPrefix+"t") || "egalite".startsWith(@gloPrefix+"t") || "election".startsWith(@gloPrefix+"t") || "election presidentielle".startsWith(@gloPrefix+"t") || "elections europeennes".startsWith(@gloPrefix+"t") || "elections municipales".startsWith(@gloPrefix+"t") || "eligibilite".startsWith(@gloPrefix+"t") || "employeur".startsWith(@gloPrefix+"t") || "entrepreneuriat".startsWith(@gloPrefix+"t") || "entreprise".startsWith(@gloPrefix+"t") || "environnement".startsWith(@gloPrefix+"t") || "esclavage".startsWith(@gloPrefix+"t") || "espace schengen".startsWith(@gloPrefix+"t") || "etat".startsWith(@gloPrefix+"t") || "etat civil".startsWith(@gloPrefix+"t") || "euro".startsWith(@gloPrefix+"t") || "fete de la musique".startsWith(@gloPrefix+"t") || "fete nationale".startsWith(@gloPrefix+"t") || "fleuve".startsWith(@gloPrefix+"t") || "france metropolitaine".startsWith(@gloPrefix+"t") || "france services".startsWith(@gloPrefix+"t") || "france travail".startsWith(@gloPrefix+"t") || "francophonie".startsWith(@gloPrefix+"t") || "fraternite".startsWith(@gloPrefix+"t") || "gastronomie francaise".startsWith(@gloPrefix+"t") || "gaule".startsWith(@gloPrefix+"t") || "gendarmerie".startsWith(@gloPrefix+"t") || "genocide".startsWith(@gloPrefix+"t") || "gouvernement".startsWith(@gloPrefix+"t") || "greve".startsWith(@gloPrefix+"t") || "guadeloupe".startsWith(@gloPrefix+"t") || "guyane".startsWith(@gloPrefix+"t") || "handicap".startsWith(@gloPrefix+"t") || "harcelement".startsWith(@gloPrefix+"t") || "harcelement scolaire".startsWith(@gloPrefix+"t") || "hopital".startsWith(@gloPrefix+"t") || "ile-de-france".startsWith(@gloPrefix+"t") || "impot".startsWith(@gloPrefix+"t") || "impressionnisme".startsWith(@gloPrefix+"t") || "inclusion".startsWith(@gloPrefix+"t") || "infraction".startsWith(@gloPrefix+"t") || "instruction obligatoire".startsWith(@gloPrefix+"t") || "integrite de la personne".startsWith(@gloPrefix+"t") || "interet general".startsWith(@gloPrefix+"t") || "ivg".startsWith(@gloPrefix+"t") || "jour ferie".startsWith(@gloPrefix+"t") || "journee de l'europe".startsWith(@gloPrefix+"t") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"t") || "juge".startsWith(@gloPrefix+"t") || "jules ferry".startsWith(@gloPrefix+"t") || "jure".startsWith(@gloPrefix+"t") || "justice".startsWith(@gloPrefix+"t") || "la marseillaise".startsWith(@gloPrefix+"t") || "la reunion".startsWith(@gloPrefix+"t") || "laicite".startsWith(@gloPrefix+"t") || "langue de la republique".startsWith(@gloPrefix+"t") || "liberte".startsWith(@gloPrefix+"t") || "liberte d'association".startsWith(@gloPrefix+"t") || "liberte d'expression".startsWith(@gloPrefix+"t") || "liberte de circulation".startsWith(@gloPrefix+"t") || "liberte de conscience".startsWith(@gloPrefix+"t") || "listes electorales".startsWith(@gloPrefix+"t") || "litterature".startsWith(@gloPrefix+"t") || "locataire".startsWith(@gloPrefix+"t") || "loi".startsWith(@gloPrefix+"t") || "loire".startsWith(@gloPrefix+"t") || "louis xvi".startsWith(@gloPrefix+"t") || "lycee".startsWith(@gloPrefix+"t") || "maire".startsWith(@gloPrefix+"t") || "mairie".startsWith(@gloPrefix+"t") || "majorite".startsWith(@gloPrefix+"t") || "mandat".startsWith(@gloPrefix+"t") || "marianne".startsWith(@gloPrefix+"t") || "martinique".startsWith(@gloPrefix+"t") || "mayotte".startsWith(@gloPrefix+"t") || "medecin traitant".startsWith(@gloPrefix+"t") || "mediterranee".startsWith(@gloPrefix+"t") || "ministre".startsWith(@gloPrefix+"t") || "mixite".startsWith(@gloPrefix+"t") || "monarchie".startsWith(@gloPrefix+"t") || "mont-saint-michel".startsWith(@gloPrefix+"t") || "musee du louvre".startsWith(@gloPrefix+"t") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"t") || "mutuelle".startsWith(@gloPrefix+"t") || "naissance".startsWith(@gloPrefix+"t") || "napoleon bonaparte".startsWith(@gloPrefix+"t") || "naturalisation".startsWith(@gloPrefix+"t") || "neutralite".startsWith(@gloPrefix+"t") || "opinion".startsWith(@gloPrefix+"t") || "ordre public".startsWith(@gloPrefix+"t") || "outre-mer".startsWith(@gloPrefix+"t") || "parlement".startsWith(@gloPrefix+"t") || "parlement europeen".startsWith(@gloPrefix+"t") || "parti politique".startsWith(@gloPrefix+"t") || "patrimoine".startsWith(@gloPrefix+"t") || "peine de mort".startsWith(@gloPrefix+"t") || "plainte".startsWith(@gloPrefix+"t") || "police".startsWith(@gloPrefix+"t") || "polygamie".startsWith(@gloPrefix+"t") || "pouvoir executif".startsWith(@gloPrefix+"t") || "pouvoir judiciaire".startsWith(@gloPrefix+"t") || "pouvoir legislatif".startsWith(@gloPrefix+"t") || "prefecture".startsWith(@gloPrefix+"t") || "prefet".startsWith(@gloPrefix+"t") || "premier ministre".startsWith(@gloPrefix+"t") || "premiere guerre mondiale".startsWith(@gloPrefix+"t") || "president de la republique".startsWith(@gloPrefix+"t") || "presomption d'innocence".startsWith(@gloPrefix+"t") || "prevention".startsWith(@gloPrefix+"t") || "proces equitable".startsWith(@gloPrefix+"t") || "procuration".startsWith(@gloPrefix+"t") || "projet de loi".startsWith(@gloPrefix+"t") || "proposition de loi".startsWith(@gloPrefix+"t") || "proprietaire".startsWith(@gloPrefix+"t") || "prostitution".startsWith(@gloPrefix+"t") || "protection sociale".startsWith(@gloPrefix+"t") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"t") || "pyrenees".startsWith(@gloPrefix+"t") || "quinquennat".startsWith(@gloPrefix+"t") || "recyclage".startsWith(@gloPrefix+"t") || "referendum".startsWith(@gloPrefix+"t") || "region".startsWith(@gloPrefix+"t") || "religion".startsWith(@gloPrefix+"t") || "republique".startsWith(@gloPrefix+"t") || "reseaux sociaux".startsWith(@gloPrefix+"t") || "resistance".startsWith(@gloPrefix+"t") || "respect".startsWith(@gloPrefix+"t") || "responsabilite".startsWith(@gloPrefix+"t") || "revolution".startsWith(@gloPrefix+"t") || "revolution francaise".startsWith(@gloPrefix+"t") || "rhone".startsWith(@gloPrefix+"t") || "salaire".startsWith(@gloPrefix+"t") || "salaire brut".startsWith(@gloPrefix+"t") || "salaire net".startsWith(@gloPrefix+"t") || "salarie".startsWith(@gloPrefix+"t") || "samu".startsWith(@gloPrefix+"t") || "sanction".startsWith(@gloPrefix+"t") || "seconde guerre mondiale".startsWith(@gloPrefix+"t") || "secours".startsWith(@gloPrefix+"t") || "securite routiere".startsWith(@gloPrefix+"t") || "seine".startsWith(@gloPrefix+"t") || "senat".startsWith(@gloPrefix+"t") || "senateur".startsWith(@gloPrefix+"t") || "separation des pouvoirs".startsWith(@gloPrefix+"t") || "service public".startsWith(@gloPrefix+"t") || "shoah".startsWith(@gloPrefix+"t") || "smic".startsWith(@gloPrefix+"t") || "souverainete nationale".startsWith(@gloPrefix+"t") || "suffrage universel".startsWith(@gloPrefix+"t") || "surete".startsWith(@gloPrefix+"t") || "temps de travail".startsWith(@gloPrefix+"t") || "titre de sejour".startsWith(@gloPrefix+"t") || "tour eiffel".startsWith(@gloPrefix+"t") || "traite de maastricht".startsWith(@gloPrefix+"t") || "traite de rome".startsWith(@gloPrefix+"t") || "traite des etres humains".startsWith(@gloPrefix+"t") || "travail dissimule".startsWith(@gloPrefix+"t") || "tri des dechets".startsWith(@gloPrefix+"t") || "unesco".startsWith(@gloPrefix+"t") || "union europeenne".startsWith(@gloPrefix+"t") || "urgence".startsWith(@gloPrefix+"t") || "urgences".startsWith(@gloPrefix+"t") || "vaccination".startsWith(@gloPrefix+"t") || "vercingetorix".startsWith(@gloPrefix+"t") || "violence".startsWith(@gloPrefix+"t") || "vote".startsWith(@gloPrefix+"t"))`
+`@gloNextU = calc("abolition".startsWith(@gloPrefix+"u") || "abstention".startsWith(@gloPrefix+"u") || "agents publics".startsWith(@gloPrefix+"u") || "alpes".startsWith(@gloPrefix+"u") || "amende".startsWith(@gloPrefix+"u") || "apl".startsWith(@gloPrefix+"u") || "armistice".startsWith(@gloPrefix+"u") || "assemblee nationale".startsWith(@gloPrefix+"u") || "assiduite".startsWith(@gloPrefix+"u") || "assistance a personne en danger".startsWith(@gloPrefix+"u") || "assurance maladie".startsWith(@gloPrefix+"u") || "autorite parentale".startsWith(@gloPrefix+"u") || "avocat".startsWith(@gloPrefix+"u") || "bail".startsWith(@gloPrefix+"u") || "bastille".startsWith(@gloPrefix+"u") || "benevolat".startsWith(@gloPrefix+"u") || "bloc de constitutionnalite".startsWith(@gloPrefix+"u") || "bretagne".startsWith(@gloPrefix+"u") || "caf".startsWith(@gloPrefix+"u") || "carte de resident".startsWith(@gloPrefix+"u") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"u") || "carte vitale".startsWith(@gloPrefix+"u") || "cdd".startsWith(@gloPrefix+"u") || "cdi".startsWith(@gloPrefix+"u") || "ceca".startsWith(@gloPrefix+"u") || "cee".startsWith(@gloPrefix+"u") || "celtes".startsWith(@gloPrefix+"u") || "charlemagne".startsWith(@gloPrefix+"u") || "charles de gaulle".startsWith(@gloPrefix+"u") || "charte de l'environnement".startsWith(@gloPrefix+"u") || "chateau de versailles".startsWith(@gloPrefix+"u") || "chef de l'etat".startsWith(@gloPrefix+"u") || "cinquieme republique".startsWith(@gloPrefix+"u") || "citoyen".startsWith(@gloPrefix+"u") || "citoyennete".startsWith(@gloPrefix+"u") || "clovis".startsWith(@gloPrefix+"u") || "collectivites territoriales".startsWith(@gloPrefix+"u") || "college".startsWith(@gloPrefix+"u") || "colonisation".startsWith(@gloPrefix+"u") || "commission europeenne".startsWith(@gloPrefix+"u") || "commune".startsWith(@gloPrefix+"u") || "conseil constitutionnel".startsWith(@gloPrefix+"u") || "conseil de l'union europeenne".startsWith(@gloPrefix+"u") || "conseil departemental".startsWith(@gloPrefix+"u") || "conseil europeen".startsWith(@gloPrefix+"u") || "conseil municipal".startsWith(@gloPrefix+"u") || "conseil regional".startsWith(@gloPrefix+"u") || "conseiller municipal".startsWith(@gloPrefix+"u") || "consentement".startsWith(@gloPrefix+"u") || "constitution".startsWith(@gloPrefix+"u") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"u") || "contrat de travail".startsWith(@gloPrefix+"u") || "contravention".startsWith(@gloPrefix+"u") || "coq gaulois".startsWith(@gloPrefix+"u") || "cotisations sociales".startsWith(@gloPrefix+"u") || "cour d'assises".startsWith(@gloPrefix+"u") || "cpam".startsWith(@gloPrefix+"u") || "crime".startsWith(@gloPrefix+"u") || "decheterie".startsWith(@gloPrefix+"u") || "dechets".startsWith(@gloPrefix+"u") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"u") || "delit".startsWith(@gloPrefix+"u") || "demandeur d'emploi".startsWith(@gloPrefix+"u") || "democratie".startsWith(@gloPrefix+"u") || "departement".startsWith(@gloPrefix+"u") || "depute".startsWith(@gloPrefix+"u") || "depute europeen".startsWith(@gloPrefix+"u") || "devise".startsWith(@gloPrefix+"u") || "devise de la republique".startsWith(@gloPrefix+"u") || "devoir".startsWith(@gloPrefix+"u") || "dignite humaine".startsWith(@gloPrefix+"u") || "discrimination".startsWith(@gloPrefix+"u") || "divorce".startsWith(@gloPrefix+"u") || "drapeau francais".startsWith(@gloPrefix+"u") || "droits civiques".startsWith(@gloPrefix+"u") || "droits de la defense".startsWith(@gloPrefix+"u") || "droits fondamentaux".startsWith(@gloPrefix+"u") || "drom".startsWith(@gloPrefix+"u") || "ecole".startsWith(@gloPrefix+"u") || "egalite".startsWith(@gloPrefix+"u") || "election".startsWith(@gloPrefix+"u") || "election presidentielle".startsWith(@gloPrefix+"u") || "elections europeennes".startsWith(@gloPrefix+"u") || "elections municipales".startsWith(@gloPrefix+"u") || "eligibilite".startsWith(@gloPrefix+"u") || "employeur".startsWith(@gloPrefix+"u") || "entrepreneuriat".startsWith(@gloPrefix+"u") || "entreprise".startsWith(@gloPrefix+"u") || "environnement".startsWith(@gloPrefix+"u") || "esclavage".startsWith(@gloPrefix+"u") || "espace schengen".startsWith(@gloPrefix+"u") || "etat".startsWith(@gloPrefix+"u") || "etat civil".startsWith(@gloPrefix+"u") || "euro".startsWith(@gloPrefix+"u") || "fete de la musique".startsWith(@gloPrefix+"u") || "fete nationale".startsWith(@gloPrefix+"u") || "fleuve".startsWith(@gloPrefix+"u") || "france metropolitaine".startsWith(@gloPrefix+"u") || "france services".startsWith(@gloPrefix+"u") || "france travail".startsWith(@gloPrefix+"u") || "francophonie".startsWith(@gloPrefix+"u") || "fraternite".startsWith(@gloPrefix+"u") || "gastronomie francaise".startsWith(@gloPrefix+"u") || "gaule".startsWith(@gloPrefix+"u") || "gendarmerie".startsWith(@gloPrefix+"u") || "genocide".startsWith(@gloPrefix+"u") || "gouvernement".startsWith(@gloPrefix+"u") || "greve".startsWith(@gloPrefix+"u") || "guadeloupe".startsWith(@gloPrefix+"u") || "guyane".startsWith(@gloPrefix+"u") || "handicap".startsWith(@gloPrefix+"u") || "harcelement".startsWith(@gloPrefix+"u") || "harcelement scolaire".startsWith(@gloPrefix+"u") || "hopital".startsWith(@gloPrefix+"u") || "ile-de-france".startsWith(@gloPrefix+"u") || "impot".startsWith(@gloPrefix+"u") || "impressionnisme".startsWith(@gloPrefix+"u") || "inclusion".startsWith(@gloPrefix+"u") || "infraction".startsWith(@gloPrefix+"u") || "instruction obligatoire".startsWith(@gloPrefix+"u") || "integrite de la personne".startsWith(@gloPrefix+"u") || "interet general".startsWith(@gloPrefix+"u") || "ivg".startsWith(@gloPrefix+"u") || "jour ferie".startsWith(@gloPrefix+"u") || "journee de l'europe".startsWith(@gloPrefix+"u") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"u") || "juge".startsWith(@gloPrefix+"u") || "jules ferry".startsWith(@gloPrefix+"u") || "jure".startsWith(@gloPrefix+"u") || "justice".startsWith(@gloPrefix+"u") || "la marseillaise".startsWith(@gloPrefix+"u") || "la reunion".startsWith(@gloPrefix+"u") || "laicite".startsWith(@gloPrefix+"u") || "langue de la republique".startsWith(@gloPrefix+"u") || "liberte".startsWith(@gloPrefix+"u") || "liberte d'association".startsWith(@gloPrefix+"u") || "liberte d'expression".startsWith(@gloPrefix+"u") || "liberte de circulation".startsWith(@gloPrefix+"u") || "liberte de conscience".startsWith(@gloPrefix+"u") || "listes electorales".startsWith(@gloPrefix+"u") || "litterature".startsWith(@gloPrefix+"u") || "locataire".startsWith(@gloPrefix+"u") || "loi".startsWith(@gloPrefix+"u") || "loire".startsWith(@gloPrefix+"u") || "louis xvi".startsWith(@gloPrefix+"u") || "lycee".startsWith(@gloPrefix+"u") || "maire".startsWith(@gloPrefix+"u") || "mairie".startsWith(@gloPrefix+"u") || "majorite".startsWith(@gloPrefix+"u") || "mandat".startsWith(@gloPrefix+"u") || "marianne".startsWith(@gloPrefix+"u") || "martinique".startsWith(@gloPrefix+"u") || "mayotte".startsWith(@gloPrefix+"u") || "medecin traitant".startsWith(@gloPrefix+"u") || "mediterranee".startsWith(@gloPrefix+"u") || "ministre".startsWith(@gloPrefix+"u") || "mixite".startsWith(@gloPrefix+"u") || "monarchie".startsWith(@gloPrefix+"u") || "mont-saint-michel".startsWith(@gloPrefix+"u") || "musee du louvre".startsWith(@gloPrefix+"u") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"u") || "mutuelle".startsWith(@gloPrefix+"u") || "naissance".startsWith(@gloPrefix+"u") || "napoleon bonaparte".startsWith(@gloPrefix+"u") || "naturalisation".startsWith(@gloPrefix+"u") || "neutralite".startsWith(@gloPrefix+"u") || "opinion".startsWith(@gloPrefix+"u") || "ordre public".startsWith(@gloPrefix+"u") || "outre-mer".startsWith(@gloPrefix+"u") || "parlement".startsWith(@gloPrefix+"u") || "parlement europeen".startsWith(@gloPrefix+"u") || "parti politique".startsWith(@gloPrefix+"u") || "patrimoine".startsWith(@gloPrefix+"u") || "peine de mort".startsWith(@gloPrefix+"u") || "plainte".startsWith(@gloPrefix+"u") || "police".startsWith(@gloPrefix+"u") || "polygamie".startsWith(@gloPrefix+"u") || "pouvoir executif".startsWith(@gloPrefix+"u") || "pouvoir judiciaire".startsWith(@gloPrefix+"u") || "pouvoir legislatif".startsWith(@gloPrefix+"u") || "prefecture".startsWith(@gloPrefix+"u") || "prefet".startsWith(@gloPrefix+"u") || "premier ministre".startsWith(@gloPrefix+"u") || "premiere guerre mondiale".startsWith(@gloPrefix+"u") || "president de la republique".startsWith(@gloPrefix+"u") || "presomption d'innocence".startsWith(@gloPrefix+"u") || "prevention".startsWith(@gloPrefix+"u") || "proces equitable".startsWith(@gloPrefix+"u") || "procuration".startsWith(@gloPrefix+"u") || "projet de loi".startsWith(@gloPrefix+"u") || "proposition de loi".startsWith(@gloPrefix+"u") || "proprietaire".startsWith(@gloPrefix+"u") || "prostitution".startsWith(@gloPrefix+"u") || "protection sociale".startsWith(@gloPrefix+"u") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"u") || "pyrenees".startsWith(@gloPrefix+"u") || "quinquennat".startsWith(@gloPrefix+"u") || "recyclage".startsWith(@gloPrefix+"u") || "referendum".startsWith(@gloPrefix+"u") || "region".startsWith(@gloPrefix+"u") || "religion".startsWith(@gloPrefix+"u") || "republique".startsWith(@gloPrefix+"u") || "reseaux sociaux".startsWith(@gloPrefix+"u") || "resistance".startsWith(@gloPrefix+"u") || "respect".startsWith(@gloPrefix+"u") || "responsabilite".startsWith(@gloPrefix+"u") || "revolution".startsWith(@gloPrefix+"u") || "revolution francaise".startsWith(@gloPrefix+"u") || "rhone".startsWith(@gloPrefix+"u") || "salaire".startsWith(@gloPrefix+"u") || "salaire brut".startsWith(@gloPrefix+"u") || "salaire net".startsWith(@gloPrefix+"u") || "salarie".startsWith(@gloPrefix+"u") || "samu".startsWith(@gloPrefix+"u") || "sanction".startsWith(@gloPrefix+"u") || "seconde guerre mondiale".startsWith(@gloPrefix+"u") || "secours".startsWith(@gloPrefix+"u") || "securite routiere".startsWith(@gloPrefix+"u") || "seine".startsWith(@gloPrefix+"u") || "senat".startsWith(@gloPrefix+"u") || "senateur".startsWith(@gloPrefix+"u") || "separation des pouvoirs".startsWith(@gloPrefix+"u") || "service public".startsWith(@gloPrefix+"u") || "shoah".startsWith(@gloPrefix+"u") || "smic".startsWith(@gloPrefix+"u") || "souverainete nationale".startsWith(@gloPrefix+"u") || "suffrage universel".startsWith(@gloPrefix+"u") || "surete".startsWith(@gloPrefix+"u") || "temps de travail".startsWith(@gloPrefix+"u") || "titre de sejour".startsWith(@gloPrefix+"u") || "tour eiffel".startsWith(@gloPrefix+"u") || "traite de maastricht".startsWith(@gloPrefix+"u") || "traite de rome".startsWith(@gloPrefix+"u") || "traite des etres humains".startsWith(@gloPrefix+"u") || "travail dissimule".startsWith(@gloPrefix+"u") || "tri des dechets".startsWith(@gloPrefix+"u") || "unesco".startsWith(@gloPrefix+"u") || "union europeenne".startsWith(@gloPrefix+"u") || "urgence".startsWith(@gloPrefix+"u") || "urgences".startsWith(@gloPrefix+"u") || "vaccination".startsWith(@gloPrefix+"u") || "vercingetorix".startsWith(@gloPrefix+"u") || "violence".startsWith(@gloPrefix+"u") || "vote".startsWith(@gloPrefix+"u"))`
+`@gloNextV = calc("abolition".startsWith(@gloPrefix+"v") || "abstention".startsWith(@gloPrefix+"v") || "agents publics".startsWith(@gloPrefix+"v") || "alpes".startsWith(@gloPrefix+"v") || "amende".startsWith(@gloPrefix+"v") || "apl".startsWith(@gloPrefix+"v") || "armistice".startsWith(@gloPrefix+"v") || "assemblee nationale".startsWith(@gloPrefix+"v") || "assiduite".startsWith(@gloPrefix+"v") || "assistance a personne en danger".startsWith(@gloPrefix+"v") || "assurance maladie".startsWith(@gloPrefix+"v") || "autorite parentale".startsWith(@gloPrefix+"v") || "avocat".startsWith(@gloPrefix+"v") || "bail".startsWith(@gloPrefix+"v") || "bastille".startsWith(@gloPrefix+"v") || "benevolat".startsWith(@gloPrefix+"v") || "bloc de constitutionnalite".startsWith(@gloPrefix+"v") || "bretagne".startsWith(@gloPrefix+"v") || "caf".startsWith(@gloPrefix+"v") || "carte de resident".startsWith(@gloPrefix+"v") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"v") || "carte vitale".startsWith(@gloPrefix+"v") || "cdd".startsWith(@gloPrefix+"v") || "cdi".startsWith(@gloPrefix+"v") || "ceca".startsWith(@gloPrefix+"v") || "cee".startsWith(@gloPrefix+"v") || "celtes".startsWith(@gloPrefix+"v") || "charlemagne".startsWith(@gloPrefix+"v") || "charles de gaulle".startsWith(@gloPrefix+"v") || "charte de l'environnement".startsWith(@gloPrefix+"v") || "chateau de versailles".startsWith(@gloPrefix+"v") || "chef de l'etat".startsWith(@gloPrefix+"v") || "cinquieme republique".startsWith(@gloPrefix+"v") || "citoyen".startsWith(@gloPrefix+"v") || "citoyennete".startsWith(@gloPrefix+"v") || "clovis".startsWith(@gloPrefix+"v") || "collectivites territoriales".startsWith(@gloPrefix+"v") || "college".startsWith(@gloPrefix+"v") || "colonisation".startsWith(@gloPrefix+"v") || "commission europeenne".startsWith(@gloPrefix+"v") || "commune".startsWith(@gloPrefix+"v") || "conseil constitutionnel".startsWith(@gloPrefix+"v") || "conseil de l'union europeenne".startsWith(@gloPrefix+"v") || "conseil departemental".startsWith(@gloPrefix+"v") || "conseil europeen".startsWith(@gloPrefix+"v") || "conseil municipal".startsWith(@gloPrefix+"v") || "conseil regional".startsWith(@gloPrefix+"v") || "conseiller municipal".startsWith(@gloPrefix+"v") || "consentement".startsWith(@gloPrefix+"v") || "constitution".startsWith(@gloPrefix+"v") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"v") || "contrat de travail".startsWith(@gloPrefix+"v") || "contravention".startsWith(@gloPrefix+"v") || "coq gaulois".startsWith(@gloPrefix+"v") || "cotisations sociales".startsWith(@gloPrefix+"v") || "cour d'assises".startsWith(@gloPrefix+"v") || "cpam".startsWith(@gloPrefix+"v") || "crime".startsWith(@gloPrefix+"v") || "decheterie".startsWith(@gloPrefix+"v") || "dechets".startsWith(@gloPrefix+"v") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"v") || "delit".startsWith(@gloPrefix+"v") || "demandeur d'emploi".startsWith(@gloPrefix+"v") || "democratie".startsWith(@gloPrefix+"v") || "departement".startsWith(@gloPrefix+"v") || "depute".startsWith(@gloPrefix+"v") || "depute europeen".startsWith(@gloPrefix+"v") || "devise".startsWith(@gloPrefix+"v") || "devise de la republique".startsWith(@gloPrefix+"v") || "devoir".startsWith(@gloPrefix+"v") || "dignite humaine".startsWith(@gloPrefix+"v") || "discrimination".startsWith(@gloPrefix+"v") || "divorce".startsWith(@gloPrefix+"v") || "drapeau francais".startsWith(@gloPrefix+"v") || "droits civiques".startsWith(@gloPrefix+"v") || "droits de la defense".startsWith(@gloPrefix+"v") || "droits fondamentaux".startsWith(@gloPrefix+"v") || "drom".startsWith(@gloPrefix+"v") || "ecole".startsWith(@gloPrefix+"v") || "egalite".startsWith(@gloPrefix+"v") || "election".startsWith(@gloPrefix+"v") || "election presidentielle".startsWith(@gloPrefix+"v") || "elections europeennes".startsWith(@gloPrefix+"v") || "elections municipales".startsWith(@gloPrefix+"v") || "eligibilite".startsWith(@gloPrefix+"v") || "employeur".startsWith(@gloPrefix+"v") || "entrepreneuriat".startsWith(@gloPrefix+"v") || "entreprise".startsWith(@gloPrefix+"v") || "environnement".startsWith(@gloPrefix+"v") || "esclavage".startsWith(@gloPrefix+"v") || "espace schengen".startsWith(@gloPrefix+"v") || "etat".startsWith(@gloPrefix+"v") || "etat civil".startsWith(@gloPrefix+"v") || "euro".startsWith(@gloPrefix+"v") || "fete de la musique".startsWith(@gloPrefix+"v") || "fete nationale".startsWith(@gloPrefix+"v") || "fleuve".startsWith(@gloPrefix+"v") || "france metropolitaine".startsWith(@gloPrefix+"v") || "france services".startsWith(@gloPrefix+"v") || "france travail".startsWith(@gloPrefix+"v") || "francophonie".startsWith(@gloPrefix+"v") || "fraternite".startsWith(@gloPrefix+"v") || "gastronomie francaise".startsWith(@gloPrefix+"v") || "gaule".startsWith(@gloPrefix+"v") || "gendarmerie".startsWith(@gloPrefix+"v") || "genocide".startsWith(@gloPrefix+"v") || "gouvernement".startsWith(@gloPrefix+"v") || "greve".startsWith(@gloPrefix+"v") || "guadeloupe".startsWith(@gloPrefix+"v") || "guyane".startsWith(@gloPrefix+"v") || "handicap".startsWith(@gloPrefix+"v") || "harcelement".startsWith(@gloPrefix+"v") || "harcelement scolaire".startsWith(@gloPrefix+"v") || "hopital".startsWith(@gloPrefix+"v") || "ile-de-france".startsWith(@gloPrefix+"v") || "impot".startsWith(@gloPrefix+"v") || "impressionnisme".startsWith(@gloPrefix+"v") || "inclusion".startsWith(@gloPrefix+"v") || "infraction".startsWith(@gloPrefix+"v") || "instruction obligatoire".startsWith(@gloPrefix+"v") || "integrite de la personne".startsWith(@gloPrefix+"v") || "interet general".startsWith(@gloPrefix+"v") || "ivg".startsWith(@gloPrefix+"v") || "jour ferie".startsWith(@gloPrefix+"v") || "journee de l'europe".startsWith(@gloPrefix+"v") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"v") || "juge".startsWith(@gloPrefix+"v") || "jules ferry".startsWith(@gloPrefix+"v") || "jure".startsWith(@gloPrefix+"v") || "justice".startsWith(@gloPrefix+"v") || "la marseillaise".startsWith(@gloPrefix+"v") || "la reunion".startsWith(@gloPrefix+"v") || "laicite".startsWith(@gloPrefix+"v") || "langue de la republique".startsWith(@gloPrefix+"v") || "liberte".startsWith(@gloPrefix+"v") || "liberte d'association".startsWith(@gloPrefix+"v") || "liberte d'expression".startsWith(@gloPrefix+"v") || "liberte de circulation".startsWith(@gloPrefix+"v") || "liberte de conscience".startsWith(@gloPrefix+"v") || "listes electorales".startsWith(@gloPrefix+"v") || "litterature".startsWith(@gloPrefix+"v") || "locataire".startsWith(@gloPrefix+"v") || "loi".startsWith(@gloPrefix+"v") || "loire".startsWith(@gloPrefix+"v") || "louis xvi".startsWith(@gloPrefix+"v") || "lycee".startsWith(@gloPrefix+"v") || "maire".startsWith(@gloPrefix+"v") || "mairie".startsWith(@gloPrefix+"v") || "majorite".startsWith(@gloPrefix+"v") || "mandat".startsWith(@gloPrefix+"v") || "marianne".startsWith(@gloPrefix+"v") || "martinique".startsWith(@gloPrefix+"v") || "mayotte".startsWith(@gloPrefix+"v") || "medecin traitant".startsWith(@gloPrefix+"v") || "mediterranee".startsWith(@gloPrefix+"v") || "ministre".startsWith(@gloPrefix+"v") || "mixite".startsWith(@gloPrefix+"v") || "monarchie".startsWith(@gloPrefix+"v") || "mont-saint-michel".startsWith(@gloPrefix+"v") || "musee du louvre".startsWith(@gloPrefix+"v") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"v") || "mutuelle".startsWith(@gloPrefix+"v") || "naissance".startsWith(@gloPrefix+"v") || "napoleon bonaparte".startsWith(@gloPrefix+"v") || "naturalisation".startsWith(@gloPrefix+"v") || "neutralite".startsWith(@gloPrefix+"v") || "opinion".startsWith(@gloPrefix+"v") || "ordre public".startsWith(@gloPrefix+"v") || "outre-mer".startsWith(@gloPrefix+"v") || "parlement".startsWith(@gloPrefix+"v") || "parlement europeen".startsWith(@gloPrefix+"v") || "parti politique".startsWith(@gloPrefix+"v") || "patrimoine".startsWith(@gloPrefix+"v") || "peine de mort".startsWith(@gloPrefix+"v") || "plainte".startsWith(@gloPrefix+"v") || "police".startsWith(@gloPrefix+"v") || "polygamie".startsWith(@gloPrefix+"v") || "pouvoir executif".startsWith(@gloPrefix+"v") || "pouvoir judiciaire".startsWith(@gloPrefix+"v") || "pouvoir legislatif".startsWith(@gloPrefix+"v") || "prefecture".startsWith(@gloPrefix+"v") || "prefet".startsWith(@gloPrefix+"v") || "premier ministre".startsWith(@gloPrefix+"v") || "premiere guerre mondiale".startsWith(@gloPrefix+"v") || "president de la republique".startsWith(@gloPrefix+"v") || "presomption d'innocence".startsWith(@gloPrefix+"v") || "prevention".startsWith(@gloPrefix+"v") || "proces equitable".startsWith(@gloPrefix+"v") || "procuration".startsWith(@gloPrefix+"v") || "projet de loi".startsWith(@gloPrefix+"v") || "proposition de loi".startsWith(@gloPrefix+"v") || "proprietaire".startsWith(@gloPrefix+"v") || "prostitution".startsWith(@gloPrefix+"v") || "protection sociale".startsWith(@gloPrefix+"v") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"v") || "pyrenees".startsWith(@gloPrefix+"v") || "quinquennat".startsWith(@gloPrefix+"v") || "recyclage".startsWith(@gloPrefix+"v") || "referendum".startsWith(@gloPrefix+"v") || "region".startsWith(@gloPrefix+"v") || "religion".startsWith(@gloPrefix+"v") || "republique".startsWith(@gloPrefix+"v") || "reseaux sociaux".startsWith(@gloPrefix+"v") || "resistance".startsWith(@gloPrefix+"v") || "respect".startsWith(@gloPrefix+"v") || "responsabilite".startsWith(@gloPrefix+"v") || "revolution".startsWith(@gloPrefix+"v") || "revolution francaise".startsWith(@gloPrefix+"v") || "rhone".startsWith(@gloPrefix+"v") || "salaire".startsWith(@gloPrefix+"v") || "salaire brut".startsWith(@gloPrefix+"v") || "salaire net".startsWith(@gloPrefix+"v") || "salarie".startsWith(@gloPrefix+"v") || "samu".startsWith(@gloPrefix+"v") || "sanction".startsWith(@gloPrefix+"v") || "seconde guerre mondiale".startsWith(@gloPrefix+"v") || "secours".startsWith(@gloPrefix+"v") || "securite routiere".startsWith(@gloPrefix+"v") || "seine".startsWith(@gloPrefix+"v") || "senat".startsWith(@gloPrefix+"v") || "senateur".startsWith(@gloPrefix+"v") || "separation des pouvoirs".startsWith(@gloPrefix+"v") || "service public".startsWith(@gloPrefix+"v") || "shoah".startsWith(@gloPrefix+"v") || "smic".startsWith(@gloPrefix+"v") || "souverainete nationale".startsWith(@gloPrefix+"v") || "suffrage universel".startsWith(@gloPrefix+"v") || "surete".startsWith(@gloPrefix+"v") || "temps de travail".startsWith(@gloPrefix+"v") || "titre de sejour".startsWith(@gloPrefix+"v") || "tour eiffel".startsWith(@gloPrefix+"v") || "traite de maastricht".startsWith(@gloPrefix+"v") || "traite de rome".startsWith(@gloPrefix+"v") || "traite des etres humains".startsWith(@gloPrefix+"v") || "travail dissimule".startsWith(@gloPrefix+"v") || "tri des dechets".startsWith(@gloPrefix+"v") || "unesco".startsWith(@gloPrefix+"v") || "union europeenne".startsWith(@gloPrefix+"v") || "urgence".startsWith(@gloPrefix+"v") || "urgences".startsWith(@gloPrefix+"v") || "vaccination".startsWith(@gloPrefix+"v") || "vercingetorix".startsWith(@gloPrefix+"v") || "violence".startsWith(@gloPrefix+"v") || "vote".startsWith(@gloPrefix+"v"))`
+`@gloNextW = calc("abolition".startsWith(@gloPrefix+"w") || "abstention".startsWith(@gloPrefix+"w") || "agents publics".startsWith(@gloPrefix+"w") || "alpes".startsWith(@gloPrefix+"w") || "amende".startsWith(@gloPrefix+"w") || "apl".startsWith(@gloPrefix+"w") || "armistice".startsWith(@gloPrefix+"w") || "assemblee nationale".startsWith(@gloPrefix+"w") || "assiduite".startsWith(@gloPrefix+"w") || "assistance a personne en danger".startsWith(@gloPrefix+"w") || "assurance maladie".startsWith(@gloPrefix+"w") || "autorite parentale".startsWith(@gloPrefix+"w") || "avocat".startsWith(@gloPrefix+"w") || "bail".startsWith(@gloPrefix+"w") || "bastille".startsWith(@gloPrefix+"w") || "benevolat".startsWith(@gloPrefix+"w") || "bloc de constitutionnalite".startsWith(@gloPrefix+"w") || "bretagne".startsWith(@gloPrefix+"w") || "caf".startsWith(@gloPrefix+"w") || "carte de resident".startsWith(@gloPrefix+"w") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"w") || "carte vitale".startsWith(@gloPrefix+"w") || "cdd".startsWith(@gloPrefix+"w") || "cdi".startsWith(@gloPrefix+"w") || "ceca".startsWith(@gloPrefix+"w") || "cee".startsWith(@gloPrefix+"w") || "celtes".startsWith(@gloPrefix+"w") || "charlemagne".startsWith(@gloPrefix+"w") || "charles de gaulle".startsWith(@gloPrefix+"w") || "charte de l'environnement".startsWith(@gloPrefix+"w") || "chateau de versailles".startsWith(@gloPrefix+"w") || "chef de l'etat".startsWith(@gloPrefix+"w") || "cinquieme republique".startsWith(@gloPrefix+"w") || "citoyen".startsWith(@gloPrefix+"w") || "citoyennete".startsWith(@gloPrefix+"w") || "clovis".startsWith(@gloPrefix+"w") || "collectivites territoriales".startsWith(@gloPrefix+"w") || "college".startsWith(@gloPrefix+"w") || "colonisation".startsWith(@gloPrefix+"w") || "commission europeenne".startsWith(@gloPrefix+"w") || "commune".startsWith(@gloPrefix+"w") || "conseil constitutionnel".startsWith(@gloPrefix+"w") || "conseil de l'union europeenne".startsWith(@gloPrefix+"w") || "conseil departemental".startsWith(@gloPrefix+"w") || "conseil europeen".startsWith(@gloPrefix+"w") || "conseil municipal".startsWith(@gloPrefix+"w") || "conseil regional".startsWith(@gloPrefix+"w") || "conseiller municipal".startsWith(@gloPrefix+"w") || "consentement".startsWith(@gloPrefix+"w") || "constitution".startsWith(@gloPrefix+"w") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"w") || "contrat de travail".startsWith(@gloPrefix+"w") || "contravention".startsWith(@gloPrefix+"w") || "coq gaulois".startsWith(@gloPrefix+"w") || "cotisations sociales".startsWith(@gloPrefix+"w") || "cour d'assises".startsWith(@gloPrefix+"w") || "cpam".startsWith(@gloPrefix+"w") || "crime".startsWith(@gloPrefix+"w") || "decheterie".startsWith(@gloPrefix+"w") || "dechets".startsWith(@gloPrefix+"w") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"w") || "delit".startsWith(@gloPrefix+"w") || "demandeur d'emploi".startsWith(@gloPrefix+"w") || "democratie".startsWith(@gloPrefix+"w") || "departement".startsWith(@gloPrefix+"w") || "depute".startsWith(@gloPrefix+"w") || "depute europeen".startsWith(@gloPrefix+"w") || "devise".startsWith(@gloPrefix+"w") || "devise de la republique".startsWith(@gloPrefix+"w") || "devoir".startsWith(@gloPrefix+"w") || "dignite humaine".startsWith(@gloPrefix+"w") || "discrimination".startsWith(@gloPrefix+"w") || "divorce".startsWith(@gloPrefix+"w") || "drapeau francais".startsWith(@gloPrefix+"w") || "droits civiques".startsWith(@gloPrefix+"w") || "droits de la defense".startsWith(@gloPrefix+"w") || "droits fondamentaux".startsWith(@gloPrefix+"w") || "drom".startsWith(@gloPrefix+"w") || "ecole".startsWith(@gloPrefix+"w") || "egalite".startsWith(@gloPrefix+"w") || "election".startsWith(@gloPrefix+"w") || "election presidentielle".startsWith(@gloPrefix+"w") || "elections europeennes".startsWith(@gloPrefix+"w") || "elections municipales".startsWith(@gloPrefix+"w") || "eligibilite".startsWith(@gloPrefix+"w") || "employeur".startsWith(@gloPrefix+"w") || "entrepreneuriat".startsWith(@gloPrefix+"w") || "entreprise".startsWith(@gloPrefix+"w") || "environnement".startsWith(@gloPrefix+"w") || "esclavage".startsWith(@gloPrefix+"w") || "espace schengen".startsWith(@gloPrefix+"w") || "etat".startsWith(@gloPrefix+"w") || "etat civil".startsWith(@gloPrefix+"w") || "euro".startsWith(@gloPrefix+"w") || "fete de la musique".startsWith(@gloPrefix+"w") || "fete nationale".startsWith(@gloPrefix+"w") || "fleuve".startsWith(@gloPrefix+"w") || "france metropolitaine".startsWith(@gloPrefix+"w") || "france services".startsWith(@gloPrefix+"w") || "france travail".startsWith(@gloPrefix+"w") || "francophonie".startsWith(@gloPrefix+"w") || "fraternite".startsWith(@gloPrefix+"w") || "gastronomie francaise".startsWith(@gloPrefix+"w") || "gaule".startsWith(@gloPrefix+"w") || "gendarmerie".startsWith(@gloPrefix+"w") || "genocide".startsWith(@gloPrefix+"w") || "gouvernement".startsWith(@gloPrefix+"w") || "greve".startsWith(@gloPrefix+"w") || "guadeloupe".startsWith(@gloPrefix+"w") || "guyane".startsWith(@gloPrefix+"w") || "handicap".startsWith(@gloPrefix+"w") || "harcelement".startsWith(@gloPrefix+"w") || "harcelement scolaire".startsWith(@gloPrefix+"w") || "hopital".startsWith(@gloPrefix+"w") || "ile-de-france".startsWith(@gloPrefix+"w") || "impot".startsWith(@gloPrefix+"w") || "impressionnisme".startsWith(@gloPrefix+"w") || "inclusion".startsWith(@gloPrefix+"w") || "infraction".startsWith(@gloPrefix+"w") || "instruction obligatoire".startsWith(@gloPrefix+"w") || "integrite de la personne".startsWith(@gloPrefix+"w") || "interet general".startsWith(@gloPrefix+"w") || "ivg".startsWith(@gloPrefix+"w") || "jour ferie".startsWith(@gloPrefix+"w") || "journee de l'europe".startsWith(@gloPrefix+"w") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"w") || "juge".startsWith(@gloPrefix+"w") || "jules ferry".startsWith(@gloPrefix+"w") || "jure".startsWith(@gloPrefix+"w") || "justice".startsWith(@gloPrefix+"w") || "la marseillaise".startsWith(@gloPrefix+"w") || "la reunion".startsWith(@gloPrefix+"w") || "laicite".startsWith(@gloPrefix+"w") || "langue de la republique".startsWith(@gloPrefix+"w") || "liberte".startsWith(@gloPrefix+"w") || "liberte d'association".startsWith(@gloPrefix+"w") || "liberte d'expression".startsWith(@gloPrefix+"w") || "liberte de circulation".startsWith(@gloPrefix+"w") || "liberte de conscience".startsWith(@gloPrefix+"w") || "listes electorales".startsWith(@gloPrefix+"w") || "litterature".startsWith(@gloPrefix+"w") || "locataire".startsWith(@gloPrefix+"w") || "loi".startsWith(@gloPrefix+"w") || "loire".startsWith(@gloPrefix+"w") || "louis xvi".startsWith(@gloPrefix+"w") || "lycee".startsWith(@gloPrefix+"w") || "maire".startsWith(@gloPrefix+"w") || "mairie".startsWith(@gloPrefix+"w") || "majorite".startsWith(@gloPrefix+"w") || "mandat".startsWith(@gloPrefix+"w") || "marianne".startsWith(@gloPrefix+"w") || "martinique".startsWith(@gloPrefix+"w") || "mayotte".startsWith(@gloPrefix+"w") || "medecin traitant".startsWith(@gloPrefix+"w") || "mediterranee".startsWith(@gloPrefix+"w") || "ministre".startsWith(@gloPrefix+"w") || "mixite".startsWith(@gloPrefix+"w") || "monarchie".startsWith(@gloPrefix+"w") || "mont-saint-michel".startsWith(@gloPrefix+"w") || "musee du louvre".startsWith(@gloPrefix+"w") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"w") || "mutuelle".startsWith(@gloPrefix+"w") || "naissance".startsWith(@gloPrefix+"w") || "napoleon bonaparte".startsWith(@gloPrefix+"w") || "naturalisation".startsWith(@gloPrefix+"w") || "neutralite".startsWith(@gloPrefix+"w") || "opinion".startsWith(@gloPrefix+"w") || "ordre public".startsWith(@gloPrefix+"w") || "outre-mer".startsWith(@gloPrefix+"w") || "parlement".startsWith(@gloPrefix+"w") || "parlement europeen".startsWith(@gloPrefix+"w") || "parti politique".startsWith(@gloPrefix+"w") || "patrimoine".startsWith(@gloPrefix+"w") || "peine de mort".startsWith(@gloPrefix+"w") || "plainte".startsWith(@gloPrefix+"w") || "police".startsWith(@gloPrefix+"w") || "polygamie".startsWith(@gloPrefix+"w") || "pouvoir executif".startsWith(@gloPrefix+"w") || "pouvoir judiciaire".startsWith(@gloPrefix+"w") || "pouvoir legislatif".startsWith(@gloPrefix+"w") || "prefecture".startsWith(@gloPrefix+"w") || "prefet".startsWith(@gloPrefix+"w") || "premier ministre".startsWith(@gloPrefix+"w") || "premiere guerre mondiale".startsWith(@gloPrefix+"w") || "president de la republique".startsWith(@gloPrefix+"w") || "presomption d'innocence".startsWith(@gloPrefix+"w") || "prevention".startsWith(@gloPrefix+"w") || "proces equitable".startsWith(@gloPrefix+"w") || "procuration".startsWith(@gloPrefix+"w") || "projet de loi".startsWith(@gloPrefix+"w") || "proposition de loi".startsWith(@gloPrefix+"w") || "proprietaire".startsWith(@gloPrefix+"w") || "prostitution".startsWith(@gloPrefix+"w") || "protection sociale".startsWith(@gloPrefix+"w") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"w") || "pyrenees".startsWith(@gloPrefix+"w") || "quinquennat".startsWith(@gloPrefix+"w") || "recyclage".startsWith(@gloPrefix+"w") || "referendum".startsWith(@gloPrefix+"w") || "region".startsWith(@gloPrefix+"w") || "religion".startsWith(@gloPrefix+"w") || "republique".startsWith(@gloPrefix+"w") || "reseaux sociaux".startsWith(@gloPrefix+"w") || "resistance".startsWith(@gloPrefix+"w") || "respect".startsWith(@gloPrefix+"w") || "responsabilite".startsWith(@gloPrefix+"w") || "revolution".startsWith(@gloPrefix+"w") || "revolution francaise".startsWith(@gloPrefix+"w") || "rhone".startsWith(@gloPrefix+"w") || "salaire".startsWith(@gloPrefix+"w") || "salaire brut".startsWith(@gloPrefix+"w") || "salaire net".startsWith(@gloPrefix+"w") || "salarie".startsWith(@gloPrefix+"w") || "samu".startsWith(@gloPrefix+"w") || "sanction".startsWith(@gloPrefix+"w") || "seconde guerre mondiale".startsWith(@gloPrefix+"w") || "secours".startsWith(@gloPrefix+"w") || "securite routiere".startsWith(@gloPrefix+"w") || "seine".startsWith(@gloPrefix+"w") || "senat".startsWith(@gloPrefix+"w") || "senateur".startsWith(@gloPrefix+"w") || "separation des pouvoirs".startsWith(@gloPrefix+"w") || "service public".startsWith(@gloPrefix+"w") || "shoah".startsWith(@gloPrefix+"w") || "smic".startsWith(@gloPrefix+"w") || "souverainete nationale".startsWith(@gloPrefix+"w") || "suffrage universel".startsWith(@gloPrefix+"w") || "surete".startsWith(@gloPrefix+"w") || "temps de travail".startsWith(@gloPrefix+"w") || "titre de sejour".startsWith(@gloPrefix+"w") || "tour eiffel".startsWith(@gloPrefix+"w") || "traite de maastricht".startsWith(@gloPrefix+"w") || "traite de rome".startsWith(@gloPrefix+"w") || "traite des etres humains".startsWith(@gloPrefix+"w") || "travail dissimule".startsWith(@gloPrefix+"w") || "tri des dechets".startsWith(@gloPrefix+"w") || "unesco".startsWith(@gloPrefix+"w") || "union europeenne".startsWith(@gloPrefix+"w") || "urgence".startsWith(@gloPrefix+"w") || "urgences".startsWith(@gloPrefix+"w") || "vaccination".startsWith(@gloPrefix+"w") || "vercingetorix".startsWith(@gloPrefix+"w") || "violence".startsWith(@gloPrefix+"w") || "vote".startsWith(@gloPrefix+"w"))`
+`@gloNextX = calc("abolition".startsWith(@gloPrefix+"x") || "abstention".startsWith(@gloPrefix+"x") || "agents publics".startsWith(@gloPrefix+"x") || "alpes".startsWith(@gloPrefix+"x") || "amende".startsWith(@gloPrefix+"x") || "apl".startsWith(@gloPrefix+"x") || "armistice".startsWith(@gloPrefix+"x") || "assemblee nationale".startsWith(@gloPrefix+"x") || "assiduite".startsWith(@gloPrefix+"x") || "assistance a personne en danger".startsWith(@gloPrefix+"x") || "assurance maladie".startsWith(@gloPrefix+"x") || "autorite parentale".startsWith(@gloPrefix+"x") || "avocat".startsWith(@gloPrefix+"x") || "bail".startsWith(@gloPrefix+"x") || "bastille".startsWith(@gloPrefix+"x") || "benevolat".startsWith(@gloPrefix+"x") || "bloc de constitutionnalite".startsWith(@gloPrefix+"x") || "bretagne".startsWith(@gloPrefix+"x") || "caf".startsWith(@gloPrefix+"x") || "carte de resident".startsWith(@gloPrefix+"x") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"x") || "carte vitale".startsWith(@gloPrefix+"x") || "cdd".startsWith(@gloPrefix+"x") || "cdi".startsWith(@gloPrefix+"x") || "ceca".startsWith(@gloPrefix+"x") || "cee".startsWith(@gloPrefix+"x") || "celtes".startsWith(@gloPrefix+"x") || "charlemagne".startsWith(@gloPrefix+"x") || "charles de gaulle".startsWith(@gloPrefix+"x") || "charte de l'environnement".startsWith(@gloPrefix+"x") || "chateau de versailles".startsWith(@gloPrefix+"x") || "chef de l'etat".startsWith(@gloPrefix+"x") || "cinquieme republique".startsWith(@gloPrefix+"x") || "citoyen".startsWith(@gloPrefix+"x") || "citoyennete".startsWith(@gloPrefix+"x") || "clovis".startsWith(@gloPrefix+"x") || "collectivites territoriales".startsWith(@gloPrefix+"x") || "college".startsWith(@gloPrefix+"x") || "colonisation".startsWith(@gloPrefix+"x") || "commission europeenne".startsWith(@gloPrefix+"x") || "commune".startsWith(@gloPrefix+"x") || "conseil constitutionnel".startsWith(@gloPrefix+"x") || "conseil de l'union europeenne".startsWith(@gloPrefix+"x") || "conseil departemental".startsWith(@gloPrefix+"x") || "conseil europeen".startsWith(@gloPrefix+"x") || "conseil municipal".startsWith(@gloPrefix+"x") || "conseil regional".startsWith(@gloPrefix+"x") || "conseiller municipal".startsWith(@gloPrefix+"x") || "consentement".startsWith(@gloPrefix+"x") || "constitution".startsWith(@gloPrefix+"x") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"x") || "contrat de travail".startsWith(@gloPrefix+"x") || "contravention".startsWith(@gloPrefix+"x") || "coq gaulois".startsWith(@gloPrefix+"x") || "cotisations sociales".startsWith(@gloPrefix+"x") || "cour d'assises".startsWith(@gloPrefix+"x") || "cpam".startsWith(@gloPrefix+"x") || "crime".startsWith(@gloPrefix+"x") || "decheterie".startsWith(@gloPrefix+"x") || "dechets".startsWith(@gloPrefix+"x") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"x") || "delit".startsWith(@gloPrefix+"x") || "demandeur d'emploi".startsWith(@gloPrefix+"x") || "democratie".startsWith(@gloPrefix+"x") || "departement".startsWith(@gloPrefix+"x") || "depute".startsWith(@gloPrefix+"x") || "depute europeen".startsWith(@gloPrefix+"x") || "devise".startsWith(@gloPrefix+"x") || "devise de la republique".startsWith(@gloPrefix+"x") || "devoir".startsWith(@gloPrefix+"x") || "dignite humaine".startsWith(@gloPrefix+"x") || "discrimination".startsWith(@gloPrefix+"x") || "divorce".startsWith(@gloPrefix+"x") || "drapeau francais".startsWith(@gloPrefix+"x") || "droits civiques".startsWith(@gloPrefix+"x") || "droits de la defense".startsWith(@gloPrefix+"x") || "droits fondamentaux".startsWith(@gloPrefix+"x") || "drom".startsWith(@gloPrefix+"x") || "ecole".startsWith(@gloPrefix+"x") || "egalite".startsWith(@gloPrefix+"x") || "election".startsWith(@gloPrefix+"x") || "election presidentielle".startsWith(@gloPrefix+"x") || "elections europeennes".startsWith(@gloPrefix+"x") || "elections municipales".startsWith(@gloPrefix+"x") || "eligibilite".startsWith(@gloPrefix+"x") || "employeur".startsWith(@gloPrefix+"x") || "entrepreneuriat".startsWith(@gloPrefix+"x") || "entreprise".startsWith(@gloPrefix+"x") || "environnement".startsWith(@gloPrefix+"x") || "esclavage".startsWith(@gloPrefix+"x") || "espace schengen".startsWith(@gloPrefix+"x") || "etat".startsWith(@gloPrefix+"x") || "etat civil".startsWith(@gloPrefix+"x") || "euro".startsWith(@gloPrefix+"x") || "fete de la musique".startsWith(@gloPrefix+"x") || "fete nationale".startsWith(@gloPrefix+"x") || "fleuve".startsWith(@gloPrefix+"x") || "france metropolitaine".startsWith(@gloPrefix+"x") || "france services".startsWith(@gloPrefix+"x") || "france travail".startsWith(@gloPrefix+"x") || "francophonie".startsWith(@gloPrefix+"x") || "fraternite".startsWith(@gloPrefix+"x") || "gastronomie francaise".startsWith(@gloPrefix+"x") || "gaule".startsWith(@gloPrefix+"x") || "gendarmerie".startsWith(@gloPrefix+"x") || "genocide".startsWith(@gloPrefix+"x") || "gouvernement".startsWith(@gloPrefix+"x") || "greve".startsWith(@gloPrefix+"x") || "guadeloupe".startsWith(@gloPrefix+"x") || "guyane".startsWith(@gloPrefix+"x") || "handicap".startsWith(@gloPrefix+"x") || "harcelement".startsWith(@gloPrefix+"x") || "harcelement scolaire".startsWith(@gloPrefix+"x") || "hopital".startsWith(@gloPrefix+"x") || "ile-de-france".startsWith(@gloPrefix+"x") || "impot".startsWith(@gloPrefix+"x") || "impressionnisme".startsWith(@gloPrefix+"x") || "inclusion".startsWith(@gloPrefix+"x") || "infraction".startsWith(@gloPrefix+"x") || "instruction obligatoire".startsWith(@gloPrefix+"x") || "integrite de la personne".startsWith(@gloPrefix+"x") || "interet general".startsWith(@gloPrefix+"x") || "ivg".startsWith(@gloPrefix+"x") || "jour ferie".startsWith(@gloPrefix+"x") || "journee de l'europe".startsWith(@gloPrefix+"x") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"x") || "juge".startsWith(@gloPrefix+"x") || "jules ferry".startsWith(@gloPrefix+"x") || "jure".startsWith(@gloPrefix+"x") || "justice".startsWith(@gloPrefix+"x") || "la marseillaise".startsWith(@gloPrefix+"x") || "la reunion".startsWith(@gloPrefix+"x") || "laicite".startsWith(@gloPrefix+"x") || "langue de la republique".startsWith(@gloPrefix+"x") || "liberte".startsWith(@gloPrefix+"x") || "liberte d'association".startsWith(@gloPrefix+"x") || "liberte d'expression".startsWith(@gloPrefix+"x") || "liberte de circulation".startsWith(@gloPrefix+"x") || "liberte de conscience".startsWith(@gloPrefix+"x") || "listes electorales".startsWith(@gloPrefix+"x") || "litterature".startsWith(@gloPrefix+"x") || "locataire".startsWith(@gloPrefix+"x") || "loi".startsWith(@gloPrefix+"x") || "loire".startsWith(@gloPrefix+"x") || "louis xvi".startsWith(@gloPrefix+"x") || "lycee".startsWith(@gloPrefix+"x") || "maire".startsWith(@gloPrefix+"x") || "mairie".startsWith(@gloPrefix+"x") || "majorite".startsWith(@gloPrefix+"x") || "mandat".startsWith(@gloPrefix+"x") || "marianne".startsWith(@gloPrefix+"x") || "martinique".startsWith(@gloPrefix+"x") || "mayotte".startsWith(@gloPrefix+"x") || "medecin traitant".startsWith(@gloPrefix+"x") || "mediterranee".startsWith(@gloPrefix+"x") || "ministre".startsWith(@gloPrefix+"x") || "mixite".startsWith(@gloPrefix+"x") || "monarchie".startsWith(@gloPrefix+"x") || "mont-saint-michel".startsWith(@gloPrefix+"x") || "musee du louvre".startsWith(@gloPrefix+"x") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"x") || "mutuelle".startsWith(@gloPrefix+"x") || "naissance".startsWith(@gloPrefix+"x") || "napoleon bonaparte".startsWith(@gloPrefix+"x") || "naturalisation".startsWith(@gloPrefix+"x") || "neutralite".startsWith(@gloPrefix+"x") || "opinion".startsWith(@gloPrefix+"x") || "ordre public".startsWith(@gloPrefix+"x") || "outre-mer".startsWith(@gloPrefix+"x") || "parlement".startsWith(@gloPrefix+"x") || "parlement europeen".startsWith(@gloPrefix+"x") || "parti politique".startsWith(@gloPrefix+"x") || "patrimoine".startsWith(@gloPrefix+"x") || "peine de mort".startsWith(@gloPrefix+"x") || "plainte".startsWith(@gloPrefix+"x") || "police".startsWith(@gloPrefix+"x") || "polygamie".startsWith(@gloPrefix+"x") || "pouvoir executif".startsWith(@gloPrefix+"x") || "pouvoir judiciaire".startsWith(@gloPrefix+"x") || "pouvoir legislatif".startsWith(@gloPrefix+"x") || "prefecture".startsWith(@gloPrefix+"x") || "prefet".startsWith(@gloPrefix+"x") || "premier ministre".startsWith(@gloPrefix+"x") || "premiere guerre mondiale".startsWith(@gloPrefix+"x") || "president de la republique".startsWith(@gloPrefix+"x") || "presomption d'innocence".startsWith(@gloPrefix+"x") || "prevention".startsWith(@gloPrefix+"x") || "proces equitable".startsWith(@gloPrefix+"x") || "procuration".startsWith(@gloPrefix+"x") || "projet de loi".startsWith(@gloPrefix+"x") || "proposition de loi".startsWith(@gloPrefix+"x") || "proprietaire".startsWith(@gloPrefix+"x") || "prostitution".startsWith(@gloPrefix+"x") || "protection sociale".startsWith(@gloPrefix+"x") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"x") || "pyrenees".startsWith(@gloPrefix+"x") || "quinquennat".startsWith(@gloPrefix+"x") || "recyclage".startsWith(@gloPrefix+"x") || "referendum".startsWith(@gloPrefix+"x") || "region".startsWith(@gloPrefix+"x") || "religion".startsWith(@gloPrefix+"x") || "republique".startsWith(@gloPrefix+"x") || "reseaux sociaux".startsWith(@gloPrefix+"x") || "resistance".startsWith(@gloPrefix+"x") || "respect".startsWith(@gloPrefix+"x") || "responsabilite".startsWith(@gloPrefix+"x") || "revolution".startsWith(@gloPrefix+"x") || "revolution francaise".startsWith(@gloPrefix+"x") || "rhone".startsWith(@gloPrefix+"x") || "salaire".startsWith(@gloPrefix+"x") || "salaire brut".startsWith(@gloPrefix+"x") || "salaire net".startsWith(@gloPrefix+"x") || "salarie".startsWith(@gloPrefix+"x") || "samu".startsWith(@gloPrefix+"x") || "sanction".startsWith(@gloPrefix+"x") || "seconde guerre mondiale".startsWith(@gloPrefix+"x") || "secours".startsWith(@gloPrefix+"x") || "securite routiere".startsWith(@gloPrefix+"x") || "seine".startsWith(@gloPrefix+"x") || "senat".startsWith(@gloPrefix+"x") || "senateur".startsWith(@gloPrefix+"x") || "separation des pouvoirs".startsWith(@gloPrefix+"x") || "service public".startsWith(@gloPrefix+"x") || "shoah".startsWith(@gloPrefix+"x") || "smic".startsWith(@gloPrefix+"x") || "souverainete nationale".startsWith(@gloPrefix+"x") || "suffrage universel".startsWith(@gloPrefix+"x") || "surete".startsWith(@gloPrefix+"x") || "temps de travail".startsWith(@gloPrefix+"x") || "titre de sejour".startsWith(@gloPrefix+"x") || "tour eiffel".startsWith(@gloPrefix+"x") || "traite de maastricht".startsWith(@gloPrefix+"x") || "traite de rome".startsWith(@gloPrefix+"x") || "traite des etres humains".startsWith(@gloPrefix+"x") || "travail dissimule".startsWith(@gloPrefix+"x") || "tri des dechets".startsWith(@gloPrefix+"x") || "unesco".startsWith(@gloPrefix+"x") || "union europeenne".startsWith(@gloPrefix+"x") || "urgence".startsWith(@gloPrefix+"x") || "urgences".startsWith(@gloPrefix+"x") || "vaccination".startsWith(@gloPrefix+"x") || "vercingetorix".startsWith(@gloPrefix+"x") || "violence".startsWith(@gloPrefix+"x") || "vote".startsWith(@gloPrefix+"x"))`
+`@gloNextY = calc("abolition".startsWith(@gloPrefix+"y") || "abstention".startsWith(@gloPrefix+"y") || "agents publics".startsWith(@gloPrefix+"y") || "alpes".startsWith(@gloPrefix+"y") || "amende".startsWith(@gloPrefix+"y") || "apl".startsWith(@gloPrefix+"y") || "armistice".startsWith(@gloPrefix+"y") || "assemblee nationale".startsWith(@gloPrefix+"y") || "assiduite".startsWith(@gloPrefix+"y") || "assistance a personne en danger".startsWith(@gloPrefix+"y") || "assurance maladie".startsWith(@gloPrefix+"y") || "autorite parentale".startsWith(@gloPrefix+"y") || "avocat".startsWith(@gloPrefix+"y") || "bail".startsWith(@gloPrefix+"y") || "bastille".startsWith(@gloPrefix+"y") || "benevolat".startsWith(@gloPrefix+"y") || "bloc de constitutionnalite".startsWith(@gloPrefix+"y") || "bretagne".startsWith(@gloPrefix+"y") || "caf".startsWith(@gloPrefix+"y") || "carte de resident".startsWith(@gloPrefix+"y") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"y") || "carte vitale".startsWith(@gloPrefix+"y") || "cdd".startsWith(@gloPrefix+"y") || "cdi".startsWith(@gloPrefix+"y") || "ceca".startsWith(@gloPrefix+"y") || "cee".startsWith(@gloPrefix+"y") || "celtes".startsWith(@gloPrefix+"y") || "charlemagne".startsWith(@gloPrefix+"y") || "charles de gaulle".startsWith(@gloPrefix+"y") || "charte de l'environnement".startsWith(@gloPrefix+"y") || "chateau de versailles".startsWith(@gloPrefix+"y") || "chef de l'etat".startsWith(@gloPrefix+"y") || "cinquieme republique".startsWith(@gloPrefix+"y") || "citoyen".startsWith(@gloPrefix+"y") || "citoyennete".startsWith(@gloPrefix+"y") || "clovis".startsWith(@gloPrefix+"y") || "collectivites territoriales".startsWith(@gloPrefix+"y") || "college".startsWith(@gloPrefix+"y") || "colonisation".startsWith(@gloPrefix+"y") || "commission europeenne".startsWith(@gloPrefix+"y") || "commune".startsWith(@gloPrefix+"y") || "conseil constitutionnel".startsWith(@gloPrefix+"y") || "conseil de l'union europeenne".startsWith(@gloPrefix+"y") || "conseil departemental".startsWith(@gloPrefix+"y") || "conseil europeen".startsWith(@gloPrefix+"y") || "conseil municipal".startsWith(@gloPrefix+"y") || "conseil regional".startsWith(@gloPrefix+"y") || "conseiller municipal".startsWith(@gloPrefix+"y") || "consentement".startsWith(@gloPrefix+"y") || "constitution".startsWith(@gloPrefix+"y") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"y") || "contrat de travail".startsWith(@gloPrefix+"y") || "contravention".startsWith(@gloPrefix+"y") || "coq gaulois".startsWith(@gloPrefix+"y") || "cotisations sociales".startsWith(@gloPrefix+"y") || "cour d'assises".startsWith(@gloPrefix+"y") || "cpam".startsWith(@gloPrefix+"y") || "crime".startsWith(@gloPrefix+"y") || "decheterie".startsWith(@gloPrefix+"y") || "dechets".startsWith(@gloPrefix+"y") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"y") || "delit".startsWith(@gloPrefix+"y") || "demandeur d'emploi".startsWith(@gloPrefix+"y") || "democratie".startsWith(@gloPrefix+"y") || "departement".startsWith(@gloPrefix+"y") || "depute".startsWith(@gloPrefix+"y") || "depute europeen".startsWith(@gloPrefix+"y") || "devise".startsWith(@gloPrefix+"y") || "devise de la republique".startsWith(@gloPrefix+"y") || "devoir".startsWith(@gloPrefix+"y") || "dignite humaine".startsWith(@gloPrefix+"y") || "discrimination".startsWith(@gloPrefix+"y") || "divorce".startsWith(@gloPrefix+"y") || "drapeau francais".startsWith(@gloPrefix+"y") || "droits civiques".startsWith(@gloPrefix+"y") || "droits de la defense".startsWith(@gloPrefix+"y") || "droits fondamentaux".startsWith(@gloPrefix+"y") || "drom".startsWith(@gloPrefix+"y") || "ecole".startsWith(@gloPrefix+"y") || "egalite".startsWith(@gloPrefix+"y") || "election".startsWith(@gloPrefix+"y") || "election presidentielle".startsWith(@gloPrefix+"y") || "elections europeennes".startsWith(@gloPrefix+"y") || "elections municipales".startsWith(@gloPrefix+"y") || "eligibilite".startsWith(@gloPrefix+"y") || "employeur".startsWith(@gloPrefix+"y") || "entrepreneuriat".startsWith(@gloPrefix+"y") || "entreprise".startsWith(@gloPrefix+"y") || "environnement".startsWith(@gloPrefix+"y") || "esclavage".startsWith(@gloPrefix+"y") || "espace schengen".startsWith(@gloPrefix+"y") || "etat".startsWith(@gloPrefix+"y") || "etat civil".startsWith(@gloPrefix+"y") || "euro".startsWith(@gloPrefix+"y") || "fete de la musique".startsWith(@gloPrefix+"y") || "fete nationale".startsWith(@gloPrefix+"y") || "fleuve".startsWith(@gloPrefix+"y") || "france metropolitaine".startsWith(@gloPrefix+"y") || "france services".startsWith(@gloPrefix+"y") || "france travail".startsWith(@gloPrefix+"y") || "francophonie".startsWith(@gloPrefix+"y") || "fraternite".startsWith(@gloPrefix+"y") || "gastronomie francaise".startsWith(@gloPrefix+"y") || "gaule".startsWith(@gloPrefix+"y") || "gendarmerie".startsWith(@gloPrefix+"y") || "genocide".startsWith(@gloPrefix+"y") || "gouvernement".startsWith(@gloPrefix+"y") || "greve".startsWith(@gloPrefix+"y") || "guadeloupe".startsWith(@gloPrefix+"y") || "guyane".startsWith(@gloPrefix+"y") || "handicap".startsWith(@gloPrefix+"y") || "harcelement".startsWith(@gloPrefix+"y") || "harcelement scolaire".startsWith(@gloPrefix+"y") || "hopital".startsWith(@gloPrefix+"y") || "ile-de-france".startsWith(@gloPrefix+"y") || "impot".startsWith(@gloPrefix+"y") || "impressionnisme".startsWith(@gloPrefix+"y") || "inclusion".startsWith(@gloPrefix+"y") || "infraction".startsWith(@gloPrefix+"y") || "instruction obligatoire".startsWith(@gloPrefix+"y") || "integrite de la personne".startsWith(@gloPrefix+"y") || "interet general".startsWith(@gloPrefix+"y") || "ivg".startsWith(@gloPrefix+"y") || "jour ferie".startsWith(@gloPrefix+"y") || "journee de l'europe".startsWith(@gloPrefix+"y") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"y") || "juge".startsWith(@gloPrefix+"y") || "jules ferry".startsWith(@gloPrefix+"y") || "jure".startsWith(@gloPrefix+"y") || "justice".startsWith(@gloPrefix+"y") || "la marseillaise".startsWith(@gloPrefix+"y") || "la reunion".startsWith(@gloPrefix+"y") || "laicite".startsWith(@gloPrefix+"y") || "langue de la republique".startsWith(@gloPrefix+"y") || "liberte".startsWith(@gloPrefix+"y") || "liberte d'association".startsWith(@gloPrefix+"y") || "liberte d'expression".startsWith(@gloPrefix+"y") || "liberte de circulation".startsWith(@gloPrefix+"y") || "liberte de conscience".startsWith(@gloPrefix+"y") || "listes electorales".startsWith(@gloPrefix+"y") || "litterature".startsWith(@gloPrefix+"y") || "locataire".startsWith(@gloPrefix+"y") || "loi".startsWith(@gloPrefix+"y") || "loire".startsWith(@gloPrefix+"y") || "louis xvi".startsWith(@gloPrefix+"y") || "lycee".startsWith(@gloPrefix+"y") || "maire".startsWith(@gloPrefix+"y") || "mairie".startsWith(@gloPrefix+"y") || "majorite".startsWith(@gloPrefix+"y") || "mandat".startsWith(@gloPrefix+"y") || "marianne".startsWith(@gloPrefix+"y") || "martinique".startsWith(@gloPrefix+"y") || "mayotte".startsWith(@gloPrefix+"y") || "medecin traitant".startsWith(@gloPrefix+"y") || "mediterranee".startsWith(@gloPrefix+"y") || "ministre".startsWith(@gloPrefix+"y") || "mixite".startsWith(@gloPrefix+"y") || "monarchie".startsWith(@gloPrefix+"y") || "mont-saint-michel".startsWith(@gloPrefix+"y") || "musee du louvre".startsWith(@gloPrefix+"y") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"y") || "mutuelle".startsWith(@gloPrefix+"y") || "naissance".startsWith(@gloPrefix+"y") || "napoleon bonaparte".startsWith(@gloPrefix+"y") || "naturalisation".startsWith(@gloPrefix+"y") || "neutralite".startsWith(@gloPrefix+"y") || "opinion".startsWith(@gloPrefix+"y") || "ordre public".startsWith(@gloPrefix+"y") || "outre-mer".startsWith(@gloPrefix+"y") || "parlement".startsWith(@gloPrefix+"y") || "parlement europeen".startsWith(@gloPrefix+"y") || "parti politique".startsWith(@gloPrefix+"y") || "patrimoine".startsWith(@gloPrefix+"y") || "peine de mort".startsWith(@gloPrefix+"y") || "plainte".startsWith(@gloPrefix+"y") || "police".startsWith(@gloPrefix+"y") || "polygamie".startsWith(@gloPrefix+"y") || "pouvoir executif".startsWith(@gloPrefix+"y") || "pouvoir judiciaire".startsWith(@gloPrefix+"y") || "pouvoir legislatif".startsWith(@gloPrefix+"y") || "prefecture".startsWith(@gloPrefix+"y") || "prefet".startsWith(@gloPrefix+"y") || "premier ministre".startsWith(@gloPrefix+"y") || "premiere guerre mondiale".startsWith(@gloPrefix+"y") || "president de la republique".startsWith(@gloPrefix+"y") || "presomption d'innocence".startsWith(@gloPrefix+"y") || "prevention".startsWith(@gloPrefix+"y") || "proces equitable".startsWith(@gloPrefix+"y") || "procuration".startsWith(@gloPrefix+"y") || "projet de loi".startsWith(@gloPrefix+"y") || "proposition de loi".startsWith(@gloPrefix+"y") || "proprietaire".startsWith(@gloPrefix+"y") || "prostitution".startsWith(@gloPrefix+"y") || "protection sociale".startsWith(@gloPrefix+"y") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"y") || "pyrenees".startsWith(@gloPrefix+"y") || "quinquennat".startsWith(@gloPrefix+"y") || "recyclage".startsWith(@gloPrefix+"y") || "referendum".startsWith(@gloPrefix+"y") || "region".startsWith(@gloPrefix+"y") || "religion".startsWith(@gloPrefix+"y") || "republique".startsWith(@gloPrefix+"y") || "reseaux sociaux".startsWith(@gloPrefix+"y") || "resistance".startsWith(@gloPrefix+"y") || "respect".startsWith(@gloPrefix+"y") || "responsabilite".startsWith(@gloPrefix+"y") || "revolution".startsWith(@gloPrefix+"y") || "revolution francaise".startsWith(@gloPrefix+"y") || "rhone".startsWith(@gloPrefix+"y") || "salaire".startsWith(@gloPrefix+"y") || "salaire brut".startsWith(@gloPrefix+"y") || "salaire net".startsWith(@gloPrefix+"y") || "salarie".startsWith(@gloPrefix+"y") || "samu".startsWith(@gloPrefix+"y") || "sanction".startsWith(@gloPrefix+"y") || "seconde guerre mondiale".startsWith(@gloPrefix+"y") || "secours".startsWith(@gloPrefix+"y") || "securite routiere".startsWith(@gloPrefix+"y") || "seine".startsWith(@gloPrefix+"y") || "senat".startsWith(@gloPrefix+"y") || "senateur".startsWith(@gloPrefix+"y") || "separation des pouvoirs".startsWith(@gloPrefix+"y") || "service public".startsWith(@gloPrefix+"y") || "shoah".startsWith(@gloPrefix+"y") || "smic".startsWith(@gloPrefix+"y") || "souverainete nationale".startsWith(@gloPrefix+"y") || "suffrage universel".startsWith(@gloPrefix+"y") || "surete".startsWith(@gloPrefix+"y") || "temps de travail".startsWith(@gloPrefix+"y") || "titre de sejour".startsWith(@gloPrefix+"y") || "tour eiffel".startsWith(@gloPrefix+"y") || "traite de maastricht".startsWith(@gloPrefix+"y") || "traite de rome".startsWith(@gloPrefix+"y") || "traite des etres humains".startsWith(@gloPrefix+"y") || "travail dissimule".startsWith(@gloPrefix+"y") || "tri des dechets".startsWith(@gloPrefix+"y") || "unesco".startsWith(@gloPrefix+"y") || "union europeenne".startsWith(@gloPrefix+"y") || "urgence".startsWith(@gloPrefix+"y") || "urgences".startsWith(@gloPrefix+"y") || "vaccination".startsWith(@gloPrefix+"y") || "vercingetorix".startsWith(@gloPrefix+"y") || "violence".startsWith(@gloPrefix+"y") || "vote".startsWith(@gloPrefix+"y"))`
+`@gloNextZ = calc("abolition".startsWith(@gloPrefix+"z") || "abstention".startsWith(@gloPrefix+"z") || "agents publics".startsWith(@gloPrefix+"z") || "alpes".startsWith(@gloPrefix+"z") || "amende".startsWith(@gloPrefix+"z") || "apl".startsWith(@gloPrefix+"z") || "armistice".startsWith(@gloPrefix+"z") || "assemblee nationale".startsWith(@gloPrefix+"z") || "assiduite".startsWith(@gloPrefix+"z") || "assistance a personne en danger".startsWith(@gloPrefix+"z") || "assurance maladie".startsWith(@gloPrefix+"z") || "autorite parentale".startsWith(@gloPrefix+"z") || "avocat".startsWith(@gloPrefix+"z") || "bail".startsWith(@gloPrefix+"z") || "bastille".startsWith(@gloPrefix+"z") || "benevolat".startsWith(@gloPrefix+"z") || "bloc de constitutionnalite".startsWith(@gloPrefix+"z") || "bretagne".startsWith(@gloPrefix+"z") || "caf".startsWith(@gloPrefix+"z") || "carte de resident".startsWith(@gloPrefix+"z") || "carte de sejour pluriannuelle".startsWith(@gloPrefix+"z") || "carte vitale".startsWith(@gloPrefix+"z") || "cdd".startsWith(@gloPrefix+"z") || "cdi".startsWith(@gloPrefix+"z") || "ceca".startsWith(@gloPrefix+"z") || "cee".startsWith(@gloPrefix+"z") || "celtes".startsWith(@gloPrefix+"z") || "charlemagne".startsWith(@gloPrefix+"z") || "charles de gaulle".startsWith(@gloPrefix+"z") || "charte de l'environnement".startsWith(@gloPrefix+"z") || "chateau de versailles".startsWith(@gloPrefix+"z") || "chef de l'etat".startsWith(@gloPrefix+"z") || "cinquieme republique".startsWith(@gloPrefix+"z") || "citoyen".startsWith(@gloPrefix+"z") || "citoyennete".startsWith(@gloPrefix+"z") || "clovis".startsWith(@gloPrefix+"z") || "collectivites territoriales".startsWith(@gloPrefix+"z") || "college".startsWith(@gloPrefix+"z") || "colonisation".startsWith(@gloPrefix+"z") || "commission europeenne".startsWith(@gloPrefix+"z") || "commune".startsWith(@gloPrefix+"z") || "conseil constitutionnel".startsWith(@gloPrefix+"z") || "conseil de l'union europeenne".startsWith(@gloPrefix+"z") || "conseil departemental".startsWith(@gloPrefix+"z") || "conseil europeen".startsWith(@gloPrefix+"z") || "conseil municipal".startsWith(@gloPrefix+"z") || "conseil regional".startsWith(@gloPrefix+"z") || "conseiller municipal".startsWith(@gloPrefix+"z") || "consentement".startsWith(@gloPrefix+"z") || "constitution".startsWith(@gloPrefix+"z") || "contrat d'engagement a respecter les principes de la republique".startsWith(@gloPrefix+"z") || "contrat de travail".startsWith(@gloPrefix+"z") || "contravention".startsWith(@gloPrefix+"z") || "coq gaulois".startsWith(@gloPrefix+"z") || "cotisations sociales".startsWith(@gloPrefix+"z") || "cour d'assises".startsWith(@gloPrefix+"z") || "cpam".startsWith(@gloPrefix+"z") || "crime".startsWith(@gloPrefix+"z") || "decheterie".startsWith(@gloPrefix+"z") || "dechets".startsWith(@gloPrefix+"z") || "declaration des droits de l'homme et du citoyen".startsWith(@gloPrefix+"z") || "delit".startsWith(@gloPrefix+"z") || "demandeur d'emploi".startsWith(@gloPrefix+"z") || "democratie".startsWith(@gloPrefix+"z") || "departement".startsWith(@gloPrefix+"z") || "depute".startsWith(@gloPrefix+"z") || "depute europeen".startsWith(@gloPrefix+"z") || "devise".startsWith(@gloPrefix+"z") || "devise de la republique".startsWith(@gloPrefix+"z") || "devoir".startsWith(@gloPrefix+"z") || "dignite humaine".startsWith(@gloPrefix+"z") || "discrimination".startsWith(@gloPrefix+"z") || "divorce".startsWith(@gloPrefix+"z") || "drapeau francais".startsWith(@gloPrefix+"z") || "droits civiques".startsWith(@gloPrefix+"z") || "droits de la defense".startsWith(@gloPrefix+"z") || "droits fondamentaux".startsWith(@gloPrefix+"z") || "drom".startsWith(@gloPrefix+"z") || "ecole".startsWith(@gloPrefix+"z") || "egalite".startsWith(@gloPrefix+"z") || "election".startsWith(@gloPrefix+"z") || "election presidentielle".startsWith(@gloPrefix+"z") || "elections europeennes".startsWith(@gloPrefix+"z") || "elections municipales".startsWith(@gloPrefix+"z") || "eligibilite".startsWith(@gloPrefix+"z") || "employeur".startsWith(@gloPrefix+"z") || "entrepreneuriat".startsWith(@gloPrefix+"z") || "entreprise".startsWith(@gloPrefix+"z") || "environnement".startsWith(@gloPrefix+"z") || "esclavage".startsWith(@gloPrefix+"z") || "espace schengen".startsWith(@gloPrefix+"z") || "etat".startsWith(@gloPrefix+"z") || "etat civil".startsWith(@gloPrefix+"z") || "euro".startsWith(@gloPrefix+"z") || "fete de la musique".startsWith(@gloPrefix+"z") || "fete nationale".startsWith(@gloPrefix+"z") || "fleuve".startsWith(@gloPrefix+"z") || "france metropolitaine".startsWith(@gloPrefix+"z") || "france services".startsWith(@gloPrefix+"z") || "france travail".startsWith(@gloPrefix+"z") || "francophonie".startsWith(@gloPrefix+"z") || "fraternite".startsWith(@gloPrefix+"z") || "gastronomie francaise".startsWith(@gloPrefix+"z") || "gaule".startsWith(@gloPrefix+"z") || "gendarmerie".startsWith(@gloPrefix+"z") || "genocide".startsWith(@gloPrefix+"z") || "gouvernement".startsWith(@gloPrefix+"z") || "greve".startsWith(@gloPrefix+"z") || "guadeloupe".startsWith(@gloPrefix+"z") || "guyane".startsWith(@gloPrefix+"z") || "handicap".startsWith(@gloPrefix+"z") || "harcelement".startsWith(@gloPrefix+"z") || "harcelement scolaire".startsWith(@gloPrefix+"z") || "hopital".startsWith(@gloPrefix+"z") || "ile-de-france".startsWith(@gloPrefix+"z") || "impot".startsWith(@gloPrefix+"z") || "impressionnisme".startsWith(@gloPrefix+"z") || "inclusion".startsWith(@gloPrefix+"z") || "infraction".startsWith(@gloPrefix+"z") || "instruction obligatoire".startsWith(@gloPrefix+"z") || "integrite de la personne".startsWith(@gloPrefix+"z") || "interet general".startsWith(@gloPrefix+"z") || "ivg".startsWith(@gloPrefix+"z") || "jour ferie".startsWith(@gloPrefix+"z") || "journee de l'europe".startsWith(@gloPrefix+"z") || "journees europeennes du patrimoine".startsWith(@gloPrefix+"z") || "juge".startsWith(@gloPrefix+"z") || "jules ferry".startsWith(@gloPrefix+"z") || "jure".startsWith(@gloPrefix+"z") || "justice".startsWith(@gloPrefix+"z") || "la marseillaise".startsWith(@gloPrefix+"z") || "la reunion".startsWith(@gloPrefix+"z") || "laicite".startsWith(@gloPrefix+"z") || "langue de la republique".startsWith(@gloPrefix+"z") || "liberte".startsWith(@gloPrefix+"z") || "liberte d'association".startsWith(@gloPrefix+"z") || "liberte d'expression".startsWith(@gloPrefix+"z") || "liberte de circulation".startsWith(@gloPrefix+"z") || "liberte de conscience".startsWith(@gloPrefix+"z") || "listes electorales".startsWith(@gloPrefix+"z") || "litterature".startsWith(@gloPrefix+"z") || "locataire".startsWith(@gloPrefix+"z") || "loi".startsWith(@gloPrefix+"z") || "loire".startsWith(@gloPrefix+"z") || "louis xvi".startsWith(@gloPrefix+"z") || "lycee".startsWith(@gloPrefix+"z") || "maire".startsWith(@gloPrefix+"z") || "mairie".startsWith(@gloPrefix+"z") || "majorite".startsWith(@gloPrefix+"z") || "mandat".startsWith(@gloPrefix+"z") || "marianne".startsWith(@gloPrefix+"z") || "martinique".startsWith(@gloPrefix+"z") || "mayotte".startsWith(@gloPrefix+"z") || "medecin traitant".startsWith(@gloPrefix+"z") || "mediterranee".startsWith(@gloPrefix+"z") || "ministre".startsWith(@gloPrefix+"z") || "mixite".startsWith(@gloPrefix+"z") || "monarchie".startsWith(@gloPrefix+"z") || "mont-saint-michel".startsWith(@gloPrefix+"z") || "musee du louvre".startsWith(@gloPrefix+"z") || "mutilations sexuelles feminines".startsWith(@gloPrefix+"z") || "mutuelle".startsWith(@gloPrefix+"z") || "naissance".startsWith(@gloPrefix+"z") || "napoleon bonaparte".startsWith(@gloPrefix+"z") || "naturalisation".startsWith(@gloPrefix+"z") || "neutralite".startsWith(@gloPrefix+"z") || "opinion".startsWith(@gloPrefix+"z") || "ordre public".startsWith(@gloPrefix+"z") || "outre-mer".startsWith(@gloPrefix+"z") || "parlement".startsWith(@gloPrefix+"z") || "parlement europeen".startsWith(@gloPrefix+"z") || "parti politique".startsWith(@gloPrefix+"z") || "patrimoine".startsWith(@gloPrefix+"z") || "peine de mort".startsWith(@gloPrefix+"z") || "plainte".startsWith(@gloPrefix+"z") || "police".startsWith(@gloPrefix+"z") || "polygamie".startsWith(@gloPrefix+"z") || "pouvoir executif".startsWith(@gloPrefix+"z") || "pouvoir judiciaire".startsWith(@gloPrefix+"z") || "pouvoir legislatif".startsWith(@gloPrefix+"z") || "prefecture".startsWith(@gloPrefix+"z") || "prefet".startsWith(@gloPrefix+"z") || "premier ministre".startsWith(@gloPrefix+"z") || "premiere guerre mondiale".startsWith(@gloPrefix+"z") || "president de la republique".startsWith(@gloPrefix+"z") || "presomption d'innocence".startsWith(@gloPrefix+"z") || "prevention".startsWith(@gloPrefix+"z") || "proces equitable".startsWith(@gloPrefix+"z") || "procuration".startsWith(@gloPrefix+"z") || "projet de loi".startsWith(@gloPrefix+"z") || "proposition de loi".startsWith(@gloPrefix+"z") || "proprietaire".startsWith(@gloPrefix+"z") || "prostitution".startsWith(@gloPrefix+"z") || "protection sociale".startsWith(@gloPrefix+"z") || "provence-alpes-cote d'azur".startsWith(@gloPrefix+"z") || "pyrenees".startsWith(@gloPrefix+"z") || "quinquennat".startsWith(@gloPrefix+"z") || "recyclage".startsWith(@gloPrefix+"z") || "referendum".startsWith(@gloPrefix+"z") || "region".startsWith(@gloPrefix+"z") || "religion".startsWith(@gloPrefix+"z") || "republique".startsWith(@gloPrefix+"z") || "reseaux sociaux".startsWith(@gloPrefix+"z") || "resistance".startsWith(@gloPrefix+"z") || "respect".startsWith(@gloPrefix+"z") || "responsabilite".startsWith(@gloPrefix+"z") || "revolution".startsWith(@gloPrefix+"z") || "revolution francaise".startsWith(@gloPrefix+"z") || "rhone".startsWith(@gloPrefix+"z") || "salaire".startsWith(@gloPrefix+"z") || "salaire brut".startsWith(@gloPrefix+"z") || "salaire net".startsWith(@gloPrefix+"z") || "salarie".startsWith(@gloPrefix+"z") || "samu".startsWith(@gloPrefix+"z") || "sanction".startsWith(@gloPrefix+"z") || "seconde guerre mondiale".startsWith(@gloPrefix+"z") || "secours".startsWith(@gloPrefix+"z") || "securite routiere".startsWith(@gloPrefix+"z") || "seine".startsWith(@gloPrefix+"z") || "senat".startsWith(@gloPrefix+"z") || "senateur".startsWith(@gloPrefix+"z") || "separation des pouvoirs".startsWith(@gloPrefix+"z") || "service public".startsWith(@gloPrefix+"z") || "shoah".startsWith(@gloPrefix+"z") || "smic".startsWith(@gloPrefix+"z") || "souverainete nationale".startsWith(@gloPrefix+"z") || "suffrage universel".startsWith(@gloPrefix+"z") || "surete".startsWith(@gloPrefix+"z") || "temps de travail".startsWith(@gloPrefix+"z") || "titre de sejour".startsWith(@gloPrefix+"z") || "tour eiffel".startsWith(@gloPrefix+"z") || "traite de maastricht".startsWith(@gloPrefix+"z") || "traite de rome".startsWith(@gloPrefix+"z") || "traite des etres humains".startsWith(@gloPrefix+"z") || "travail dissimule".startsWith(@gloPrefix+"z") || "tri des dechets".startsWith(@gloPrefix+"z") || "unesco".startsWith(@gloPrefix+"z") || "union europeenne".startsWith(@gloPrefix+"z") || "urgence".startsWith(@gloPrefix+"z") || "urgences".startsWith(@gloPrefix+"z") || "vaccination".startsWith(@gloPrefix+"z") || "vercingetorix".startsWith(@gloPrefix+"z") || "violence".startsWith(@gloPrefix+"z") || "vote".startsWith(@gloPrefix+"z"))`
 
 <div class="glo-keyboard" role="group" aria-label="Lettres possibles">
 `if @gloNextA`
@@ -804,6 +823,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "assemblee nationale".startsWith(@gloPrefix)`
 1. [📘 Assemblée nationale](SCR_GLO_0004)
 `endif`
+`if "assiduite".startsWith(@gloPrefix)`
+1. [📘 Assiduité](SCR_GLO_0239)
+`endif`
 `if "assistance a personne en danger".startsWith(@gloPrefix)`
 1. [📘 Assistance à personne en danger](SCR_GLO_0005)
 `endif`
@@ -819,8 +841,14 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "bail".startsWith(@gloPrefix)`
 1. [📘 Bail](SCR_GLO_0007)
 `endif`
+`if "bastille".startsWith(@gloPrefix)`
+1. [📘 Bastille](SCR_GLO_0229)
+`endif`
 `if "benevolat".startsWith(@gloPrefix)`
 1. [📘 Bénévolat](SCR_GLO_0145)
+`endif`
+`if "bloc de constitutionnalite".startsWith(@gloPrefix)`
+1. [📘 Bloc de constitutionnalité](SCR_GLO_0219)
 `endif`
 `if "bretagne".startsWith(@gloPrefix)`
 1. [📘 Bretagne](SCR_GLO_0008)
@@ -829,7 +857,10 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 1. [📘 CAF](SCR_GLO_0009)
 `endif`
 `if "carte de resident".startsWith(@gloPrefix)`
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/resident.svg" alt="" width="30" height="24"> Carte de résident](SCR_GLO_0010)
+1. [📘 Carte de résident](SCR_GLO_0010)
+`endif`
+`if "carte de sejour pluriannuelle".startsWith(@gloPrefix)`
+1. [📘 Carte de séjour pluriannuelle](SCR_GLO_0212)
 `endif`
 `if "carte vitale".startsWith(@gloPrefix)`
 1. [📘 Carte Vitale](SCR_GLO_0011)
@@ -843,11 +874,17 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "ceca".startsWith(@gloPrefix)`
 1. [📘 CECA](SCR_GLO_0205)
 `endif`
+`if "cee".startsWith(@gloPrefix)`
+1. [📘 CEE](SCR_GLO_0233)
+`endif`
 `if "celtes".startsWith(@gloPrefix)`
 1. [📘 Celtes](SCR_GLO_0014)
 `endif`
 `if "charlemagne".startsWith(@gloPrefix)`
 1. [📘 Charlemagne](SCR_GLO_0015)
+`endif`
+`if "charles de gaulle".startsWith(@gloPrefix)`
+1. [📘 Charles de Gaulle](SCR_GLO_0230)
 `endif`
 `if "charte de l'environnement".startsWith(@gloPrefix)`
 1. [📘 Charte de l'environnement](SCR_GLO_0016)
@@ -903,6 +940,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "conseil regional".startsWith(@gloPrefix)`
 1. [📘 Conseil régional](SCR_GLO_0030)
 `endif`
+`if "conseiller municipal".startsWith(@gloPrefix)`
+1. [📘 Conseiller municipal](SCR_GLO_0220)
+`endif`
 `if "consentement".startsWith(@gloPrefix)`
 1. [📘 Consentement](SCR_GLO_0031)
 `endif`
@@ -917,6 +957,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `endif`
 `if "contravention".startsWith(@gloPrefix)`
 1. [📘 Contravention](SCR_GLO_0035)
+`endif`
+`if "coq gaulois".startsWith(@gloPrefix)`
+1. [📘 Coq gaulois](SCR_GLO_0218)
 `endif`
 `if "cotisations sociales".startsWith(@gloPrefix)`
 1. [📘 Cotisations sociales](SCR_GLO_0141)
@@ -942,6 +985,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "delit".startsWith(@gloPrefix)`
 1. [📘 Délit](SCR_GLO_0039)
 `endif`
+`if "demandeur d'emploi".startsWith(@gloPrefix)`
+1. [📘 Demandeur d’emploi](SCR_GLO_0242)
+`endif`
 `if "democratie".startsWith(@gloPrefix)`
 1. [📘 Démocratie](SCR_GLO_0040)
 `endif`
@@ -953,6 +999,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `endif`
 `if "depute europeen".startsWith(@gloPrefix)`
 1. [📘 Député européen](SCR_GLO_0043)
+`endif`
+`if "devise".startsWith(@gloPrefix)`
+1. [📘 Devise](SCR_GLO_0217)
 `endif`
 `if "devise de la republique".startsWith(@gloPrefix)`
 1. [📘 Devise de la République](SCR_GLO_0044)
@@ -975,6 +1024,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "droits civiques".startsWith(@gloPrefix)`
 1. [📘 Droits civiques](SCR_GLO_0177)
 `endif`
+`if "droits de la defense".startsWith(@gloPrefix)`
+1. [📘 Droits de la défense](SCR_GLO_0225)
+`endif`
 `if "droits fondamentaux".startsWith(@gloPrefix)`
 1. [📘 Droits fondamentaux](SCR_GLO_0047)
 `endif`
@@ -990,6 +1042,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "election".startsWith(@gloPrefix)`
 1. [📘 Élection](SCR_GLO_0050)
 `endif`
+`if "election presidentielle".startsWith(@gloPrefix)`
+1. [📘 Élection présidentielle](SCR_GLO_0221)
+`endif`
 `if "elections europeennes".startsWith(@gloPrefix)`
 1. [📘 Élections européennes](SCR_GLO_0160)
 `endif`
@@ -1001,6 +1056,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `endif`
 `if "employeur".startsWith(@gloPrefix)`
 1. [📘 Employeur](SCR_GLO_0051)
+`endif`
+`if "entrepreneuriat".startsWith(@gloPrefix)`
+1. [📘 Entrepreneuriat](SCR_GLO_0243)
 `endif`
 `if "entreprise".startsWith(@gloPrefix)`
 1. [📘 Entreprise](SCR_GLO_0143)
@@ -1092,6 +1150,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "impressionnisme".startsWith(@gloPrefix)`
 1. [📘 Impressionnisme](SCR_GLO_0200)
 `endif`
+`if "inclusion".startsWith(@gloPrefix)`
+1. [📘 Inclusion](SCR_GLO_0244)
+`endif`
 `if "infraction".startsWith(@gloPrefix)`
 1. [📘 Infraction](SCR_GLO_0074)
 `endif`
@@ -1107,6 +1168,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "ivg".startsWith(@gloPrefix)`
 1. [📘 IVG](SCR_GLO_0185)
 `endif`
+`if "jour ferie".startsWith(@gloPrefix)`
+1. [📘 Jour férié](SCR_GLO_0238)
+`endif`
 `if "journee de l'europe".startsWith(@gloPrefix)`
 1. [📘 Journée de l’Europe](SCR_GLO_0207)
 `endif`
@@ -1115,6 +1179,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `endif`
 `if "juge".startsWith(@gloPrefix)`
 1. [📘 Juge](SCR_GLO_0180)
+`endif`
+`if "jules ferry".startsWith(@gloPrefix)`
+1. [📘 Jules Ferry](SCR_GLO_0234)
 `endif`
 `if "jure".startsWith(@gloPrefix)`
 1. [📘 Juré](SCR_GLO_0182)
@@ -1137,6 +1204,15 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "liberte".startsWith(@gloPrefix)`
 1. [📘 Liberté](SCR_GLO_0082)
 `endif`
+`if "liberte d'association".startsWith(@gloPrefix)`
+1. [📘 Liberté d’association](SCR_GLO_0214)
+`endif`
+`if "liberte d'expression".startsWith(@gloPrefix)`
+1. [📘 Liberté d’expression](SCR_GLO_0213)
+`endif`
+`if "liberte de circulation".startsWith(@gloPrefix)`
+1. [📘 Liberté de circulation](SCR_GLO_0215)
+`endif`
 `if "liberte de conscience".startsWith(@gloPrefix)`
 1. [📘 Liberté de conscience](SCR_GLO_0083)
 `endif`
@@ -1151,6 +1227,12 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `endif`
 `if "loi".startsWith(@gloPrefix)`
 1. [📘 Loi](SCR_GLO_0085)
+`endif`
+`if "loire".startsWith(@gloPrefix)`
+1. [📘 Loire](SCR_GLO_0236)
+`endif`
+`if "louis xvi".startsWith(@gloPrefix)`
+1. [📘 Louis XVI](SCR_GLO_0235)
 `endif`
 `if "lycee".startsWith(@gloPrefix)`
 1. [📘 Lycée](SCR_GLO_0086)
@@ -1185,6 +1267,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "ministre".startsWith(@gloPrefix)`
 1. [📘 Ministre](SCR_GLO_0093)
 `endif`
+`if "mixite".startsWith(@gloPrefix)`
+1. [📘 Mixité](SCR_GLO_0216)
+`endif`
 `if "monarchie".startsWith(@gloPrefix)`
 1. [📘 Monarchie](SCR_GLO_0199)
 `endif`
@@ -1203,8 +1288,11 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "naissance".startsWith(@gloPrefix)`
 1. [📘 Naissance](SCR_GLO_0167)
 `endif`
+`if "napoleon bonaparte".startsWith(@gloPrefix)`
+1. [📘 Napoléon Bonaparte](SCR_GLO_0231)
+`endif`
 `if "naturalisation".startsWith(@gloPrefix)`
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
+1. [📘 Naturalisation](SCR_GLO_0097)
 `endif`
 `if "neutralite".startsWith(@gloPrefix)`
 1. [📘 Neutralité](SCR_GLO_0098)
@@ -1272,8 +1360,17 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "prevention".startsWith(@gloPrefix)`
 1. [📘 Prévention](SCR_GLO_0149)
 `endif`
+`if "proces equitable".startsWith(@gloPrefix)`
+1. [📘 Procès équitable](SCR_GLO_0224)
+`endif`
 `if "procuration".startsWith(@gloPrefix)`
 1. [📘 Procuration](SCR_GLO_0111)
+`endif`
+`if "projet de loi".startsWith(@gloPrefix)`
+1. [📘 Projet de loi](SCR_GLO_0222)
+`endif`
+`if "proposition de loi".startsWith(@gloPrefix)`
+1. [📘 Proposition de loi](SCR_GLO_0223)
 `endif`
 `if "proprietaire".startsWith(@gloPrefix)`
 1. [📘 Propriétaire](SCR_GLO_0112)
@@ -1317,8 +1414,17 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "respect".startsWith(@gloPrefix)`
 1. [📘 Respect](SCR_GLO_0174)
 `endif`
+`if "responsabilite".startsWith(@gloPrefix)`
+1. [📘 Responsabilité](SCR_GLO_0227)
+`endif`
+`if "revolution".startsWith(@gloPrefix)`
+1. [📘 Révolution](SCR_GLO_0228)
+`endif`
 `if "revolution francaise".startsWith(@gloPrefix)`
 1. [📘 Révolution française](SCR_GLO_0119)
+`endif`
+`if "rhone".startsWith(@gloPrefix)`
+1. [📘 Rhône](SCR_GLO_0237)
 `endif`
 `if "salaire".startsWith(@gloPrefix)`
 1. [📘 Salaire](SCR_GLO_0120)
@@ -1334,6 +1440,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `endif`
 `if "samu".startsWith(@gloPrefix)`
 1. [📘 SAMU](SCR_GLO_0153)
+`endif`
+`if "sanction".startsWith(@gloPrefix)`
+1. [📘 Sanction](SCR_GLO_0226)
 `endif`
 `if "seconde guerre mondiale".startsWith(@gloPrefix)`
 1. [📘 Seconde Guerre mondiale](SCR_GLO_0121)
@@ -1374,6 +1483,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "surete".startsWith(@gloPrefix)`
 1. [📘 Sûreté](SCR_GLO_0128)
 `endif`
+`if "temps de travail".startsWith(@gloPrefix)`
+1. [📘 Temps de travail](SCR_GLO_0241)
+`endif`
 `if "titre de sejour".startsWith(@gloPrefix)`
 1. [📘 Titre de séjour](SCR_GLO_0129)
 `endif`
@@ -1382,6 +1494,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `endif`
 `if "traite de maastricht".startsWith(@gloPrefix)`
 1. [📘 Traité de Maastricht](SCR_GLO_0206)
+`endif`
+`if "traite de rome".startsWith(@gloPrefix)`
+1. [📘 Traité de Rome](SCR_GLO_0232)
 `endif`
 `if "traite des etres humains".startsWith(@gloPrefix)`
 1. [📘 Traite des êtres humains](SCR_GLO_0131)
@@ -1404,6 +1519,9 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 `if "urgences".startsWith(@gloPrefix)`
 1. [📘 Urgences](SCR_GLO_0134)
 `endif`
+`if "vaccination".startsWith(@gloPrefix)`
+1. [📘 Vaccination](SCR_GLO_0240)
+`endif`
 `if "vercingetorix".startsWith(@gloPrefix)`
 1. [📘 Vercingétorix](SCR_GLO_0135)
 `endif`
@@ -1421,7 +1539,6 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 1. [🔄 Recommencer le filtre](SCR_GLO_FILTER_RESET)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_FILTER_NEXT_A
 !Typewriter: false
@@ -1582,19 +1699,13 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 ## SCR_GLO_SEARCH
 ### 🔍 Rechercher un mot
 
-Saisissez un mot ou une expression, même sans accents ou avec une petite faute de frappe. Je vous proposerai les fiches les plus proches.
+Saisissez un mot ou une expression, même sans accents ou avec une petite faute de frappe. Je vous proposerai les fiches les plus proches. Pour une question complète, utilisez « Poser une question ».
 
 `@gloQuery = @INPUT : SCR_GLO_SEARCH_RESULT`
 
 1. [🔤 Utiliser le filtre de CiviCoach](SCR_GLO_FILTER_RESET)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-1. [🔠 Parcourir par ordre alphabétique](SCR_GLO_ALPHA_MENU)
-1. [📚 Parcourir par thème](SCR_GLO_THEME_MENU)
-
 
 ## SCR_GLO_SEARCH_RESULT
 !Keyboard: false
@@ -1684,6 +1795,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0004 = calc(searchScore("assemblee nationale",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0004))`
+`@gloExact0239 = calc(@gloQueryNorm == "assiduite" || @gloQueryNorm == "assiduite")`
+`if @gloExact0239`
+`@gloExact = true`
+`endif`
+`@gloNear0239 = calc("|asiduite|asisduite|assdiuite|assduite|assidite|assidiute|assiduie|assiduiet|assiduit|assiduite|assidute|assidutie|assiudite|assiuite|sasiduite|ssiduite|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "ssiduite") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "asiduite") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "asiduite") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "assduite") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "assiuite") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "assidite") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "assidute") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "assiduie") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "assiduit") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "assiduite") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "assiduite") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "assiduite") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "assiduite") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "assiduite") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "assiduite") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "assiduite") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "assiduite") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "assiduite") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "assiduite"))`
+`if @gloNear0239`
+`@gloNear = true`
+`endif`
+`@gloScore0239 = calc(searchScore("assiduite",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0239))`
 `@gloExact0005 = calc(@gloQueryNorm == "assistance a personne en danger" || @gloQueryNorm == "assistance a personne en danger" || @gloQueryNorm == "secours")`
 `if @gloExact0005`
 `@gloExact = true`
@@ -1734,6 +1855,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0007 = calc(searchScore("bail",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0007))`
+`@gloExact0229 = calc(@gloQueryNorm == "bastille" || @gloQueryNorm == "bastille")`
+`if @gloExact0229`
+`@gloExact = true`
+`endif`
+`@gloNear0229 = calc("|abstille|astille|basille|basitlle|bastile|bastilel|bastill|bastille|bastlile|bastlle|batille|batsille|bsatille|bstille|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "astille") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "bstille") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "batille") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "basille") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "bastlle") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "bastile") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "bastile") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "bastill") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "bastille") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "bastille") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "bastille") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "bastille") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "bastille") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "bastille") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "bastille") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "bastille") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "bastille"))`
+`if @gloNear0229`
+`@gloNear = true`
+`endif`
+`@gloScore0229 = calc(searchScore("bastille",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0229))`
 `@gloExact0145 = calc(@gloQueryNorm == "benevolat" || @gloQueryNorm == "benevolat")`
 `if @gloExact0145`
 `@gloExact = true`
@@ -1744,6 +1875,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0145 = calc(searchScore("benevolat",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0145))`
+`@gloExact0219 = calc(@gloQueryNorm == "bloc de constitutionnalite" || @gloQueryNorm == "bloc de constitutionnalite")`
+`if @gloExact0219`
+`@gloExact = true`
+`endif`
+`@gloNear0219 = calc("|blc de constitutionnalite|blco de constitutionnalite|blo cde constitutionnalite|blo de constitutionnalite|bloc d constitutionnalite|bloc d econstitutionnalite|bloc de cnostitutionnalite|bloc de cnstitutionnalite|bloc de consittutionnalite|bloc de consitutionnalite|bloc de constittionnalite|bloc de constittuionnalite|bloc de constituionnalite|bloc de constituitonnalite|bloc de constitutinnalite|bloc de constitutinonalite|bloc de constitutionalite|bloc de constitutionanlite|bloc de constitutionnailte|bloc de constitutionnaite|bloc de constitutionnalie|bloc de constitutionnaliet|bloc de constitutionnalit|bloc de constitutionnalite|bloc de constitutionnalte|bloc de constitutionnaltie|bloc de constitutionnlaite|bloc de constitutionnlite|bloc de constitutoinnalite|bloc de constitutonnalite|bloc de constiutionnalite|bloc de constiuttionnalite|bloc de consttiutionnalite|bloc de consttutionnalite|bloc de contitutionnalite|bloc de contsitutionnalite|bloc de cosntitutionnalite|bloc de costitutionnalite|bloc de ocnstitutionnalite|bloc de onstitutionnalite|bloc dec onstitutionnalite|bloc deconstitutionnalite|bloc e constitutionnalite|bloc ed constitutionnalite|blocd e constitutionnalite|blocde constitutionnalite|boc de constitutionnalite|bolc de constitutionnalite|lboc de constitutionnalite|loc de constitutionnalite|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "loc de constitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "boc de constitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "blc de constitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "blo de constitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "blocde constitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "bloc e constitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "bloc d constitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "bloc deconstitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "bloc de onstitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "bloc de cnstitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "bloc de costitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "bloc de contitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "bloc de consitutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "bloc de consttutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "bloc de constiutionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "bloc de constittionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "bloc de constituionnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "bloc de constitutonnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "bloc de constitutinnalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "bloc de constitutionalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "bloc de constitutionalite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,21)+@gloQueryNorm.slice(22) == "bloc de constitutionnlite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,22)+@gloQueryNorm.slice(23) == "bloc de constitutionnaite") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,23)+@gloQueryNorm.slice(24) == "bloc de constitutionnalte") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,24)+@gloQueryNorm.slice(25) == "bloc de constitutionnalie") || (@gloQueryNorm.length == 26 && @gloQueryNorm.slice(0,25)+@gloQueryNorm.slice(26) == "bloc de constitutionnalit") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,21)+@gloQueryNorm.slice(22) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,22)+@gloQueryNorm.slice(23) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,23)+@gloQueryNorm.slice(24) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,24)+@gloQueryNorm.slice(25) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,25)+@gloQueryNorm.slice(26) == "bloc de constitutionnalite") || (@gloQueryNorm.length == 27 && @gloQueryNorm.slice(0,26)+@gloQueryNorm.slice(27) == "bloc de constitutionnalite"))`
+`if @gloNear0219`
+`@gloNear = true`
+`endif`
+`@gloScore0219 = calc(searchScore("bloc de constitutionnalite",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0219))`
 `@gloExact0008 = calc(@gloQueryNorm == "bretagne" || @gloQueryNorm == "bretagne" || @gloQueryNorm == "rennes" || @gloQueryNorm == "bretagnes")`
 `if @gloExact0008`
 `@gloExact = true`
@@ -1774,6 +1915,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0010 = calc(searchScore("carte de resident",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0010))`
+`@gloExact0212 = calc(@gloQueryNorm == "carte de sejour pluriannuelle" || @gloQueryNorm == "carte de sejour pluriannuelle" || @gloQueryNorm == "carte pluriannuelle" || @gloQueryNorm == "titre pluriannuel" || @gloQueryNorm == "csp")`
+`if @gloExact0212`
+`@gloExact = true`
+`endif`
+`@gloNear0212 = calc("|acrte de sejour pluriannuelle|arte de sejour pluriannuelle|care de sejour pluriannuelle|caret de sejour pluriannuelle|cart de sejour pluriannuelle|cart ede sejour pluriannuelle|carte d esejour pluriannuelle|carte d sejour pluriannuelle|carte de ejour pluriannuelle|carte de esjour pluriannuelle|carte de sejor pluriannuelle|carte de sejoru pluriannuelle|carte de sejou pluriannuelle|carte de sejou rpluriannuelle|carte de sejour lpuriannuelle|carte de sejour luriannuelle|carte de sejour plriannuelle|carte de sejour plruiannuelle|carte de sejour pluiannuelle|carte de sejour pluirannuelle|carte de sejour plurainnuelle|carte de sejour plurannuelle|carte de sejour pluriannelle|carte de sejour plurianneulle|carte de sejour pluriannuele|carte de sejour pluriannuelel|carte de sejour pluriannuell|carte de sejour pluriannuelle|carte de sejour pluriannulele|carte de sejour pluriannulle|carte de sejour plurianuelle|carte de sejour plurianunelle|carte de sejour plurinanuelle|carte de sejour plurinnuelle|carte de sejour pulriannuelle|carte de sejour puriannuelle|carte de sejourp luriannuelle|carte de sejourpluriannuelle|carte de sejuor pluriannuelle|carte de sejur pluriannuelle|carte de seojur pluriannuelle|carte de seour pluriannuelle|carte de sjeour pluriannuelle|carte de sjour pluriannuelle|carte des ejour pluriannuelle|carte desejour pluriannuelle|carte e sejour pluriannuelle|carte ed sejour pluriannuelle|carted e sejour pluriannuelle|cartede sejour pluriannuelle|cate de sejour pluriannuelle|catre de sejour pluriannuelle|crate de sejour pluriannuelle|crte de sejour pluriannuelle|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "arte de sejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "crte de sejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "cate de sejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "care de sejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "cart de sejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "cartede sejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "carte e sejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "carte d sejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "carte desejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "carte de ejour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "carte de sjour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "carte de seour pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "carte de sejur pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "carte de sejor pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "carte de sejou pluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "carte de sejourpluriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "carte de sejour luriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "carte de sejour puriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "carte de sejour plriannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "carte de sejour pluiannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "carte de sejour plurannuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,21)+@gloQueryNorm.slice(22) == "carte de sejour plurinnuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,22)+@gloQueryNorm.slice(23) == "carte de sejour plurianuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,23)+@gloQueryNorm.slice(24) == "carte de sejour plurianuelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,24)+@gloQueryNorm.slice(25) == "carte de sejour pluriannelle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,25)+@gloQueryNorm.slice(26) == "carte de sejour pluriannulle") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,26)+@gloQueryNorm.slice(27) == "carte de sejour pluriannuele") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,27)+@gloQueryNorm.slice(28) == "carte de sejour pluriannuele") || (@gloQueryNorm.length == 29 && @gloQueryNorm.slice(0,28)+@gloQueryNorm.slice(29) == "carte de sejour pluriannuell") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,21)+@gloQueryNorm.slice(22) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,22)+@gloQueryNorm.slice(23) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,23)+@gloQueryNorm.slice(24) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,24)+@gloQueryNorm.slice(25) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,25)+@gloQueryNorm.slice(26) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,26)+@gloQueryNorm.slice(27) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,27)+@gloQueryNorm.slice(28) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,28)+@gloQueryNorm.slice(29) == "carte de sejour pluriannuelle") || (@gloQueryNorm.length == 30 && @gloQueryNorm.slice(0,29)+@gloQueryNorm.slice(30) == "carte de sejour pluriannuelle"))`
+`if @gloNear0212`
+`@gloNear = true`
+`endif`
+`@gloScore0212 = calc(searchScore("carte de sejour pluriannuelle",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0212))`
 `@gloExact0011 = calc(@gloQueryNorm == "carte vitale" || @gloQueryNorm == "carte vitale" || @gloQueryNorm == "carte vital")`
 `if @gloExact0011`
 `@gloExact = true`
@@ -1814,6 +1965,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0205 = calc(searchScore("ceca",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0205))`
+`@gloExact0233 = calc(@gloQueryNorm == "cee" || @gloQueryNorm == "cee")`
+`if @gloExact0233`
+`@gloExact = true`
+`endif`
+`@gloNear0233 = calc("|ce|cee|ece|ee|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 3 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "ee") || (@gloQueryNorm.length == 3 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "ce") || (@gloQueryNorm.length == 3 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "ce") || (@gloQueryNorm.length == 4 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "cee") || (@gloQueryNorm.length == 4 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "cee") || (@gloQueryNorm.length == 4 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "cee") || (@gloQueryNorm.length == 4 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "cee"))`
+`if @gloNear0233`
+`@gloNear = true`
+`endif`
+`@gloScore0233 = calc(searchScore("cee",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0233))`
 `@gloExact0014 = calc(@gloQueryNorm == "celtes" || @gloQueryNorm == "celtes")`
 `if @gloExact0014`
 `@gloExact = true`
@@ -1834,6 +1995,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0015 = calc(searchScore("charlemagne",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0015))`
+`@gloExact0230 = calc(@gloQueryNorm == "charles de gaulle" || @gloQueryNorm == "charles de gaulle")`
+`if @gloExact0230`
+`@gloExact = true`
+`endif`
+`@gloNear0230 = calc("|cahrles de gaulle|carles de gaulle|chales de gaulle|chalres de gaulle|charels de gaulle|chares de gaulle|charle de gaulle|charle sde gaulle|charles d egaulle|charles d gaulle|charles de agulle|charles de aulle|charles de galle|charles de galule|charles de gaule|charles de gaulel|charles de gaull|charles de gaulle|charles de gualle|charles de gulle|charles deg aulle|charles degaulle|charles e gaulle|charles ed gaulle|charlesd e gaulle|charlesde gaulle|charls de gaulle|charlse de gaulle|chrales de gaulle|chrles de gaulle|harles de gaulle|hcarles de gaulle|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "harles de gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "carles de gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "chrles de gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "chales de gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "chares de gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "charls de gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "charle de gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "charlesde gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "charles e gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "charles d gaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "charles degaulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "charles de aulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "charles de gulle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "charles de galle") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "charles de gaule") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "charles de gaule") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "charles de gaull") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "charles de gaulle") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "charles de gaulle"))`
+`if @gloNear0230`
+`@gloNear = true`
+`endif`
+`@gloScore0230 = calc(searchScore("charles de gaulle",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0230))`
 `@gloExact0016 = calc(@gloQueryNorm == "charte de l'environnement" || @gloQueryNorm == "charte de l environnement")`
 `if @gloExact0016`
 `@gloExact = true`
@@ -2014,6 +2185,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0030 = calc(searchScore("conseil regional",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0030))`
+`@gloExact0220 = calc(@gloQueryNorm == "conseiller municipal" || @gloQueryNorm == "conseiller municipal")`
+`if @gloExact0220`
+`@gloExact = true`
+`endif`
+`@gloNear0220 = calc("|cnoseiller municipal|cnseiller municipal|coneiller municipal|conesiller municipal|conseilelr municipal|conseiler municipal|conseille municipal|conseille rmunicipal|conseiller mnicipal|conseiller mnuicipal|conseiller muicipal|conseiller muincipal|conseiller munciipal|conseiller muncipal|conseiller municial|conseiller municiapl|conseiller municipa|conseiller municipal|conseiller municipl|conseiller municipla|conseiller municpal|conseiller municpial|conseiller muniicpal|conseiller muniipal|conseiller umnicipal|conseiller unicipal|conseillerm unicipal|conseillermunicipal|conseillr municipal|conseillre municipal|conseliler municipal|conseller municipal|consieller municipal|consiller municipal|coseiller municipal|cosneiller municipal|ocnseiller municipal|onseiller municipal|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "onseiller municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "cnseiller municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "coseiller municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "coneiller municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "consiller municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "conseller municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "conseiler municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "conseiler municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "conseillr municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "conseille municipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "conseillermunicipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "conseiller unicipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "conseiller mnicipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "conseiller muicipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "conseiller muncipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "conseiller muniipal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "conseiller municpal") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "conseiller municial") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "conseiller municipl") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "conseiller municipa") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "conseiller municipal") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "conseiller municipal"))`
+`if @gloNear0220`
+`@gloNear = true`
+`endif`
+`@gloScore0220 = calc(searchScore("conseiller municipal",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0220))`
 `@gloExact0031 = calc(@gloQueryNorm == "consentement" || @gloQueryNorm == "consentement" || @gloQueryNorm == "violence sexuelle" || @gloQueryNorm == "consantement" || @gloQueryNorm == "accord libre" || @gloQueryNorm == "consentements")`
 `if @gloExact0031`
 `@gloExact = true`
@@ -2064,6 +2245,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0035 = calc(searchScore("contravention",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0035))`
+`@gloExact0218 = calc(@gloQueryNorm == "coq gaulois" || @gloQueryNorm == "coq gaulois")`
+`if @gloExact0218`
+`@gloExact = true`
+`endif`
+`@gloNear0218 = calc("|co gaulois|co qgaulois|coq agulois|coq aulois|coq galois|coq galuois|coq gaulios|coq gaulis|coq gauloi|coq gaulos|coq gaulosi|coq gauois|coq gauolis|coq gualois|coq gulois|coqg aulois|coqgaulois|cq gaulois|cqo gaulois|ocq gaulois|oq gaulois|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "oq gaulois") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "cq gaulois") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "co gaulois") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "coqgaulois") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "coq aulois") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "coq gulois") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "coq galois") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "coq gauois") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "coq gaulis") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "coq gaulos") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "coq gauloi") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "coq gaulois") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "coq gaulois"))`
+`if @gloNear0218`
+`@gloNear = true`
+`endif`
+`@gloScore0218 = calc(searchScore("coq gaulois",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0218))`
 `@gloExact0141 = calc(@gloQueryNorm == "cotisations sociales" || @gloQueryNorm == "cotisations sociales" || @gloQueryNorm == "cotisation" || @gloQueryNorm == "cotisations" || @gloQueryNorm == "contributions sociales")`
 `if @gloExact0141`
 `@gloExact = true`
@@ -2144,6 +2335,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0039 = calc(searchScore("delit",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0039))`
+`@gloExact0242 = calc(@gloQueryNorm == "demandeur d'emploi" || @gloQueryNorm == "demandeur d'emploi")`
+`if @gloExact0242`
+`@gloExact = true`
+`endif`
+`@gloNear0242 = calc("|deamndeur d'emploi|deandeur d'emploi|demadeur d'emploi|demadneur d'emploi|demander d'emploi|demanderu d'emploi|demandeu d'emploi|demandeu rd'emploi|demandeur 'demploi|demandeur 'emploi|demandeur d'emloi|demandeur d'emlpoi|demandeur d'empli|demandeur d'emplio|demandeur d'emplo|demandeur d'empoi|demandeur d'empoli|demandeur d'eploi|demandeur d'epmloi|demandeur d'meploi|demandeur d'mploi|demandeur de'mploi|demandeur demploi|demandeurd 'emploi|demandeurd'emploi|demanduer d'emploi|demandur d'emploi|demanedur d'emploi|demaneur d'emploi|demnadeur d'emploi|demndeur d'emploi|dmandeur d'emploi|dmeandeur d'emploi|edmandeur d'emploi|emandeur d'emploi|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "emandeur d'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "dmandeur d'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "deandeur d'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "demndeur d'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "demadeur d'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "demaneur d'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "demandur d'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "demander d'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "demandeu d'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "demandeurd'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "demandeur 'emploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "demandeur demploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "demandeur d'mploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "demandeur d'eploi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "demandeur d'emloi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "demandeur d'empoi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "demandeur d'empli") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "demandeur d'emplo") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "demandeur d'emploi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "demandeur d'emploi"))`
+`if @gloNear0242`
+`@gloNear = true`
+`endif`
+`@gloScore0242 = calc(searchScore("demandeur d'emploi",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0242))`
 `@gloExact0040 = calc(@gloQueryNorm == "democratie" || @gloQueryNorm == "democratie" || @gloQueryNorm == "democracie" || @gloQueryNorm == "democratique" || @gloQueryNorm == "democraties")`
 `if @gloExact0040`
 `@gloExact = true`
@@ -2184,6 +2385,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0043 = calc(searchScore("depute europeen",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0043))`
+`@gloExact0217 = calc(@gloQueryNorm == "devise" || @gloQueryNorm == "devise")`
+`if @gloExact0217`
+`@gloExact = true`
+`endif`
+`@gloNear0217 = calc("|deise|deivse|devie|devies|devis|devse|devsie|dveise|dvise|edvise|evise|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "evise") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "dvise") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "deise") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "devse") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "devie") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "devis") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "devise") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "devise") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "devise") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "devise") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "devise") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "devise") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "devise"))`
+`if @gloNear0217`
+`@gloNear = true`
+`endif`
+`@gloScore0217 = calc(searchScore("devise",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0217))`
 `@gloExact0044 = calc(@gloQueryNorm == "devise de la republique" || @gloQueryNorm == "devise de la republique" || @gloQueryNorm == "devise" || @gloQueryNorm == "liberte egalite fraternite")`
 `if @gloExact0044`
 `@gloExact = true`
@@ -2254,6 +2465,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0177 = calc(searchScore("droits civiques",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0177))`
+`@gloExact0225 = calc(@gloQueryNorm == "droits de la defense" || @gloQueryNorm == "droits de la defense")`
+`if @gloExact0225`
+`@gloExact = true`
+`endif`
+`@gloNear0225 = calc("|doits de la defense|dorits de la defense|driots de la defense|drits de la defense|drois de la defense|droist de la defense|droit de la defense|droit sde la defense|droits d ela defense|droits d la defense|droits de a defense|droits de al defense|droits de l adefense|droits de l defense|droits de la deefnse|droits de la deense|droits de la defene|droits de la defenes|droits de la defens|droits de la defese|droits de la defesne|droits de la defnese|droits de la defnse|droits de la dfeense|droits de la dfense|droits de la edfense|droits de la efense|droits de lad efense|droits de ladefense|droits del a defense|droits dela defense|droits e la defense|droits ed la defense|droitsd e la defense|droitsde la defense|drotis de la defense|drots de la defense|rdoits de la defense|roits de la defense|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "roits de la defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "doits de la defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "drits de la defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "drots de la defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "drois de la defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "droit de la defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "droitsde la defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "droits e la defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "droits d la defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "droits dela defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "droits de a defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "droits de l defense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "droits de ladefense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "droits de la efense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "droits de la dfense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "droits de la deense") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "droits de la defnse") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "droits de la defese") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "droits de la defene") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "droits de la defens") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "droits de la defense") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "droits de la defense"))`
+`if @gloNear0225`
+`@gloNear = true`
+`endif`
+`@gloScore0225 = calc(searchScore("droits de la defense",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0225))`
 `@gloExact0047 = calc(@gloQueryNorm == "droits fondamentaux" || @gloQueryNorm == "droits fondamentaux" || @gloQueryNorm == "droit fondamental" || @gloQueryNorm == "droits humains" || @gloQueryNorm == "droits de l homme")`
 `if @gloExact0047`
 `@gloExact = true`
@@ -2304,6 +2525,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0050 = calc(searchScore("election",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0050))`
+`@gloExact0221 = calc(@gloQueryNorm == "election presidentielle" || @gloQueryNorm == "election presidentielle")`
+`if @gloExact0221`
+`@gloExact = true`
+`endif`
+`@gloNear0221 = calc("|eection presidentielle|eelction presidentielle|elcetion presidentielle|elction presidentielle|elecion presidentielle|eleciton presidentielle|electin presidentielle|electino presidentielle|electio npresidentielle|electio presidentielle|election persidentielle|election pesidentielle|election preidentielle|election preisdentielle|election presdentielle|election presdientielle|election presidenielle|election presidenitelle|election presidenteille|election presidentelle|election presidentiele|election presidentielel|election presidentiell|election presidentielle|election presidentilele|election presidentille|election presidetielle|election presidetnielle|election presidnetielle|election presidntielle|election presiedntielle|election presientielle|election prseidentielle|election prsidentielle|election residentielle|election rpesidentielle|electionp residentielle|electionpresidentielle|electoin presidentielle|electon presidentielle|eletcion presidentielle|eletion presidentielle|lection presidentielle|leection presidentielle|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "lection presidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "eection presidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "elction presidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "eletion presidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "elecion presidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "electon presidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "electin presidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "electio presidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "electionpresidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "election residentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "election pesidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "election prsidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "election preidentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "election presdentielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "election presientielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "election presidntielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "election presidetielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "election presidenielle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "election presidentelle") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "election presidentille") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "election presidentiele") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,21)+@gloQueryNorm.slice(22) == "election presidentiele") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,22)+@gloQueryNorm.slice(23) == "election presidentiell") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,21)+@gloQueryNorm.slice(22) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,22)+@gloQueryNorm.slice(23) == "election presidentielle") || (@gloQueryNorm.length == 24 && @gloQueryNorm.slice(0,23)+@gloQueryNorm.slice(24) == "election presidentielle"))`
+`if @gloNear0221`
+`@gloNear = true`
+`endif`
+`@gloScore0221 = calc(searchScore("election presidentielle",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0221))`
 `@gloExact0160 = calc(@gloQueryNorm == "elections europeennes" || @gloQueryNorm == "elections europeennes")`
 `if @gloExact0160`
 `@gloExact = true`
@@ -2344,6 +2575,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0051 = calc(searchScore("employeur",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0051))`
+`@gloExact0243 = calc(@gloQueryNorm == "entrepreneuriat" || @gloQueryNorm == "entrepreneuriat")`
+`if @gloExact0243`
+`@gloExact = true`
+`endif`
+`@gloNear0243 = calc("|enrepreneuriat|enrtepreneuriat|entepreneuriat|enterpreneuriat|entrepeneuriat|entreperneuriat|entrepreenuriat|entrepreeuriat|entrepreneriat|entrepreneruiat|entrepreneuiat|entrepreneuirat|entrepreneurait|entrepreneurat|entrepreneuria|entrepreneurit|entrepreneurita|entreprenueriat|entreprenuriat|entreprneeuriat|entreprneuriat|entrereneuriat|entrerpeneuriat|entrpereneuriat|entrpreneuriat|etnrepreneuriat|etrepreneuriat|netrepreneuriat|ntrepreneuriat|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "ntrepreneuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "etrepreneuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "enrepreneuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "entepreneuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "entrpreneuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "entrereneuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "entrepeneuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "entreprneuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "entrepreeuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "entreprenuriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "entrepreneriat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "entrepreneuiat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "entrepreneurat") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "entrepreneurit") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "entrepreneuria") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "entrepreneuriat") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "entrepreneuriat"))`
+`if @gloNear0243`
+`@gloNear = true`
+`endif`
+`@gloScore0243 = calc(searchScore("entrepreneuriat",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0243))`
 `@gloExact0143 = calc(@gloQueryNorm == "entreprise" || @gloQueryNorm == "entreprise")`
 `if @gloExact0143`
 `@gloExact = true`
@@ -2644,6 +2885,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0200 = calc(searchScore("impressionnisme",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0200))`
+`@gloExact0244 = calc(@gloQueryNorm == "inclusion" || @gloQueryNorm == "inclusion")`
+`if @gloExact0244`
+`@gloExact = true`
+`endif`
+`@gloNear0244 = calc("|iclusion|icnlusion|inclsion|inclsuion|incluion|incluison|inclusin|inclusino|inclusio|inclusoin|incluson|inculsion|incusion|inlcusion|inlusion|nclusion|niclusion|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "nclusion") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "iclusion") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "inlusion") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "incusion") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "inclsion") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "incluion") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "incluson") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "inclusin") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "inclusio") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "inclusion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "inclusion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "inclusion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "inclusion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "inclusion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "inclusion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "inclusion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "inclusion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "inclusion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "inclusion"))`
+`if @gloNear0244`
+`@gloNear = true`
+`endif`
+`@gloScore0244 = calc(searchScore("inclusion",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0244))`
 `@gloExact0074 = calc(@gloQueryNorm == "infraction" || @gloQueryNorm == "infraction" || @gloQueryNorm == "infractions")`
 `if @gloExact0074`
 `@gloExact = true`
@@ -2694,6 +2945,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0185 = calc(searchScore("ivg",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0185))`
+`@gloExact0238 = calc(@gloQueryNorm == "jour ferie" || @gloQueryNorm == "jour ferie")`
+`if @gloExact0238`
+`@gloExact = true`
+`endif`
+`@gloNear0238 = calc("|jor ferie|joru ferie|jou ferie|jou rferie|jour efrie|jour erie|jour feie|jour feire|jour fere|jour ferei|jour feri|jour freie|jour frie|jourf erie|jourferie|juor ferie|jur ferie|ojur ferie|our ferie|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "our ferie") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "jur ferie") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "jor ferie") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "jou ferie") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "jourferie") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "jour erie") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "jour frie") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "jour feie") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "jour fere") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "jour feri") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "jour ferie") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "jour ferie"))`
+`if @gloNear0238`
+`@gloNear = true`
+`endif`
+`@gloScore0238 = calc(searchScore("jour ferie",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0238))`
 `@gloExact0207 = calc(@gloQueryNorm == "journee de l'europe" || @gloQueryNorm == "journee de l'europe")`
 `if @gloExact0207`
 `@gloExact = true`
@@ -2724,6 +2985,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0180 = calc(searchScore("juge",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0180))`
+`@gloExact0234 = calc(@gloQueryNorm == "jules ferry" || @gloQueryNorm == "jules ferry")`
+`if @gloExact0234`
+`@gloExact = true`
+`endif`
+`@gloNear0234 = calc("|jles ferry|jlues ferry|juels ferry|jues ferry|jule ferry|jule sferry|jules efrry|jules erry|jules ferr|jules ferry|jules fery|jules feryr|jules frery|jules frry|julesf erry|julesferry|juls ferry|julse ferry|ujles ferry|ules ferry|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "ules ferry") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "jles ferry") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "jues ferry") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "juls ferry") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "jule ferry") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "julesferry") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "jules erry") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "jules frry") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "jules fery") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "jules fery") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "jules ferr") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "jules ferry") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "jules ferry"))`
+`if @gloNear0234`
+`@gloNear = true`
+`endif`
+`@gloScore0234 = calc(searchScore("jules ferry",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0234))`
 `@gloExact0182 = calc(@gloQueryNorm == "jure" || @gloQueryNorm == "jure")`
 `if @gloExact0182`
 `@gloExact = true`
@@ -2764,7 +3035,7 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0079 = calc(searchScore("la reunion",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0079))`
-`@gloExact0080 = calc(@gloQueryNorm == "laicite" || @gloQueryNorm == "laicite" || @gloQueryNorm == "laicitee" || @gloQueryNorm == "laique" || @gloQueryNorm == "laic" || @gloQueryNorm == "separation des eglises et de l etat" || @gloQueryNorm == "laicites")`
+`@gloExact0080 = calc(@gloQueryNorm == "laicite" || @gloQueryNorm == "laicite" || @gloQueryNorm == "laicitee" || @gloQueryNorm == "laique" || @gloQueryNorm == "laic" || @gloQueryNorm == "separation des eglises et de l etat" || @gloQueryNorm == "laicites" || @gloQueryNorm == "laicite")`
 `if @gloExact0080`
 `@gloExact = true`
 `endif`
@@ -2794,6 +3065,36 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0082 = calc(searchScore("liberte",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0082))`
+`@gloExact0214 = calc(@gloQueryNorm == "liberte d'association" || @gloQueryNorm == "liberte d'association")`
+`if @gloExact0214`
+`@gloExact = true`
+`endif`
+`@gloNear0214 = calc("|iberte d'association|ilberte d'association|lberte d'association|lbierte d'association|libere d'association|liberet d'association|libert d'association|libert ed'association|liberte 'association|liberte 'dassociation|liberte d'asociation|liberte d'asosciation|liberte d'assciation|liberte d'asscoiation|liberte d'assocaition|liberte d'assocation|liberte d'associaion|liberte d'associaiton|liberte d'associatin|liberte d'associatino|liberte d'associatio|liberte d'association|liberte d'associatoin|liberte d'associaton|liberte d'associtaion|liberte d'assocition|liberte d'assoiation|liberte d'assoication|liberte d'sasociation|liberte d'ssociation|liberte da'ssociation|liberte dassociation|liberted 'association|liberted'association|libete d'association|libetre d'association|librete d'association|librte d'association|liebrte d'association|lierte d'association|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "iberte d'association") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "lberte d'association") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "lierte d'association") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "librte d'association") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "libete d'association") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "libere d'association") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "libert d'association") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "liberted'association") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "liberte 'association") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "liberte dassociation") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "liberte d'ssociation") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "liberte d'asociation") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "liberte d'asociation") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "liberte d'assciation") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "liberte d'assoiation") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "liberte d'assocation") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "liberte d'assocition") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "liberte d'associaion") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "liberte d'associaton") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "liberte d'associatin") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "liberte d'associatio") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "liberte d'association") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,21)+@gloQueryNorm.slice(22) == "liberte d'association"))`
+`if @gloNear0214`
+`@gloNear = true`
+`endif`
+`@gloScore0214 = calc(searchScore("liberte d'association",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0214))`
+`@gloExact0213 = calc(@gloQueryNorm == "liberte d'expression" || @gloQueryNorm == "liberte d'expression" || @gloQueryNorm == "liberte expression")`
+`if @gloExact0213`
+`@gloExact = true`
+`endif`
+`@gloNear0213 = calc("|iberte d'expression|ilberte d'expression|lberte d'expression|lbierte d'expression|libere d'expression|liberet d'expression|libert d'expression|libert ed'expression|liberte 'dexpression|liberte 'expression|liberte d'epression|liberte d'epxression|liberte d'experssion|liberte d'expession|liberte d'expresion|liberte d'expresison|liberte d'expressin|liberte d'expressino|liberte d'expressio|liberte d'expression|liberte d'expressoin|liberte d'expresson|liberte d'exprsesion|liberte d'exprssion|liberte d'exression|liberte d'exrpession|liberte d'xepression|liberte d'xpression|liberte de'xpression|liberte dexpression|liberted 'expression|liberted'expression|libete d'expression|libetre d'expression|librete d'expression|librte d'expression|liebrte d'expression|lierte d'expression|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "iberte d'expression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "lberte d'expression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "lierte d'expression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "librte d'expression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "libete d'expression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "libere d'expression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "libert d'expression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "liberted'expression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "liberte 'expression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "liberte dexpression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "liberte d'xpression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "liberte d'epression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "liberte d'exression") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "liberte d'expession") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "liberte d'exprssion") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "liberte d'expresion") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "liberte d'expresion") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "liberte d'expresson") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "liberte d'expressin") || (@gloQueryNorm.length == 20 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "liberte d'expressio") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "liberte d'expression") || (@gloQueryNorm.length == 21 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "liberte d'expression"))`
+`if @gloNear0213`
+`@gloNear = true`
+`endif`
+`@gloScore0213 = calc(searchScore("liberte d'expression",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0213))`
+`@gloExact0215 = calc(@gloQueryNorm == "liberte de circulation" || @gloQueryNorm == "liberte de circulation")`
+`if @gloExact0215`
+`@gloExact = true`
+`endif`
+`@gloNear0215 = calc("|iberte de circulation|ilberte de circulation|lberte de circulation|lbierte de circulation|libere de circulation|liberet de circulation|libert de circulation|libert ede circulation|liberte d circulation|liberte d ecirculation|liberte de cicrulation|liberte de ciculation|liberte de circlation|liberte de circluation|liberte de circualtion|liberte de circuation|liberte de circulaion|liberte de circulaiton|liberte de circulatin|liberte de circulatino|liberte de circulatio|liberte de circulatoin|liberte de circulaton|liberte de circultaion|liberte de circultion|liberte de ciruclation|liberte de cirulation|liberte de crculation|liberte de criculation|liberte de icrculation|liberte de irculation|liberte dec irculation|liberte decirculation|liberte e circulation|liberte ed circulation|liberted e circulation|libertede circulation|libete de circulation|libetre de circulation|librete de circulation|librte de circulation|liebrte de circulation|lierte de circulation|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "iberte de circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "lberte de circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "lierte de circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "librte de circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "libete de circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "libere de circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "libert de circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "libertede circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "liberte e circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "liberte d circulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "liberte decirculation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "liberte de irculation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "liberte de crculation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "liberte de ciculation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "liberte de cirulation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "liberte de circlation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "liberte de circuation") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "liberte de circultion") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "liberte de circulaion") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "liberte de circulaton") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "liberte de circulatin") || (@gloQueryNorm.length == 22 && @gloQueryNorm.slice(0,21)+@gloQueryNorm.slice(22) == "liberte de circulatio") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,19)+@gloQueryNorm.slice(20) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,20)+@gloQueryNorm.slice(21) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,21)+@gloQueryNorm.slice(22) == "liberte de circulation") || (@gloQueryNorm.length == 23 && @gloQueryNorm.slice(0,22)+@gloQueryNorm.slice(23) == "liberte de circulation"))`
+`if @gloNear0215`
+`@gloNear = true`
+`endif`
+`@gloScore0215 = calc(searchScore("liberte de circulation",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0215))`
 `@gloExact0083 = calc(@gloQueryNorm == "liberte de conscience" || @gloQueryNorm == "liberte de conscience" || @gloQueryNorm == "choisir sa religion" || @gloQueryNorm == "liberte religieuse")`
 `if @gloExact0083`
 `@gloExact = true`
@@ -2844,6 +3145,26 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0085 = calc(searchScore("loi",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0085))`
+`@gloExact0236 = calc(@gloQueryNorm == "loire" || @gloQueryNorm == "loire")`
+`if @gloExact0236`
+`@gloExact = true`
+`endif`
+`@gloNear0236 = calc("|liore|lire|loie|loier|loir|lore|lorie|oire|olire|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "oire") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "lire") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "lore") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "loie") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "loir") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "loire") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "loire") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "loire") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "loire") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "loire") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "loire"))`
+`if @gloNear0236`
+`@gloNear = true`
+`endif`
+`@gloScore0236 = calc(searchScore("loire",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0236))`
+`@gloExact0235 = calc(@gloQueryNorm == "louis xvi" || @gloQueryNorm == "louis xvi")`
+`if @gloExact0235`
+`@gloExact = true`
+`endif`
+`@gloNear0235 = calc("|lois xvi|loius xvi|loui sxvi|loui xvi|louis vi|louis vxi|louis xi|louis xiv|louis xv|louisx vi|louisxvi|lous xvi|lousi xvi|luis xvi|luois xvi|oluis xvi|ouis xvi|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "ouis xvi") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "luis xvi") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "lois xvi") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "lous xvi") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "loui xvi") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "louisxvi") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "louis vi") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "louis xi") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "louis xv") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "louis xvi") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "louis xvi") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "louis xvi") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "louis xvi") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "louis xvi") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "louis xvi") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "louis xvi") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "louis xvi") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "louis xvi") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "louis xvi"))`
+`if @gloNear0235`
+`@gloNear = true`
+`endif`
+`@gloScore0235 = calc(searchScore("louis xvi",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0235))`
 `@gloExact0086 = calc(@gloQueryNorm == "lycee" || @gloQueryNorm == "lycee" || @gloQueryNorm == "baccalaureat" || @gloQueryNorm == "lycees")`
 `if @gloExact0086`
 `@gloExact = true`
@@ -2954,6 +3275,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0093 = calc(searchScore("ministre",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0093))`
+`@gloExact0216 = calc(@gloQueryNorm == "mixite" || @gloQueryNorm == "mixite")`
+`if @gloExact0216`
+`@gloExact = true`
+`endif`
+`@gloNear0216 = calc("|imxite|ixite|miite|miixte|mixie|mixiet|mixit|mixte|mixtie|mxiite|mxite|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "ixite") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "mxite") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "miite") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "mixte") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "mixie") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "mixit") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "mixite") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "mixite") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "mixite") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "mixite") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "mixite") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "mixite") || (@gloQueryNorm.length == 7 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "mixite"))`
+`if @gloNear0216`
+`@gloNear = true`
+`endif`
+`@gloScore0216 = calc(searchScore("mixite",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0216))`
 `@gloExact0199 = calc(@gloQueryNorm == "monarchie" || @gloQueryNorm == "monarchie")`
 `if @gloExact0199`
 `@gloExact = true`
@@ -3014,7 +3345,17 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0167 = calc(searchScore("naissance",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0167))`
-`@gloExact0097 = calc(@gloQueryNorm == "naturalisation" || @gloQueryNorm == "naturalisation" || @gloQueryNorm == "nationalite francaise" || @gloQueryNorm == "devenir francais" || @gloQueryNorm == "devenir francaise" || @gloQueryNorm == "naturalisations")`
+`@gloExact0231 = calc(@gloQueryNorm == "napoleon bonaparte" || @gloQueryNorm == "napoleon bonaparte")`
+`if @gloExact0231`
+`@gloExact = true`
+`endif`
+`@gloNear0231 = calc("|anpoleon bonaparte|apoleon bonaparte|naoleon bonaparte|naopleon bonaparte|napleon bonaparte|naploeon bonaparte|napoelon bonaparte|napoeon bonaparte|napolen bonaparte|napoleno bonaparte|napoleo bonaparte|napoleo nbonaparte|napoleon bnaparte|napoleon bnoaparte|napoleon boanparte|napoleon boaparte|napoleon bonaaprte|napoleon bonaarte|napoleon bonapare|napoleon bonaparet|napoleon bonapart|napoleon bonapate|napoleon bonapatre|napoleon bonaprate|napoleon bonaprte|napoleon bonpaarte|napoleon bonparte|napoleon obnaparte|napoleon onaparte|napoleonb onaparte|napoleonbonaparte|napoloen bonaparte|napolon bonaparte|npaoleon bonaparte|npoleon bonaparte|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "apoleon bonaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "npoleon bonaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "naoleon bonaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "napleon bonaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "napoeon bonaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "napolon bonaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "napolen bonaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "napoleo bonaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "napoleonbonaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "napoleon onaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "napoleon bnaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "napoleon boaparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "napoleon bonparte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "napoleon bonaarte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "napoleon bonaprte") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "napoleon bonapate") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "napoleon bonapare") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "napoleon bonapart") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "napoleon bonaparte") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "napoleon bonaparte"))`
+`if @gloNear0231`
+`@gloNear = true`
+`endif`
+`@gloScore0231 = calc(searchScore("napoleon bonaparte",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0231))`
+`@gloExact0097 = calc(@gloQueryNorm == "naturalisation" || @gloQueryNorm == "naturalisation" || @gloQueryNorm == "nationalite francaise" || @gloQueryNorm == "devenir francais" || @gloQueryNorm == "devenir francaise" || @gloQueryNorm == "naturalisations" || @gloQueryNorm == "nationalite francaise" || @gloQueryNorm == "devenir francais")`
 `if @gloExact0097`
 `@gloExact = true`
 `endif`
@@ -3064,7 +3405,7 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0100 = calc(searchScore("outre-mer",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0100))`
-`@gloExact0101 = calc(@gloQueryNorm == "parlement" || @gloQueryNorm == "parlement" || @gloQueryNorm == "parlements" || @gloQueryNorm == "parlemant")`
+`@gloExact0101 = calc(@gloQueryNorm == "parlement" || @gloQueryNorm == "parlement" || @gloQueryNorm == "parlements" || @gloQueryNorm == "parlemant" || @gloQueryNorm == "parllement")`
 `if @gloExact0101`
 `@gloExact = true`
 `endif`
@@ -3244,6 +3585,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0149 = calc(searchScore("prevention",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0149))`
+`@gloExact0224 = calc(@gloQueryNorm == "proces equitable" || @gloQueryNorm == "proces equitable")`
+`if @gloExact0224`
+`@gloExact = true`
+`endif`
+`@gloNear0224 = calc("|poces equitable|porces equitable|prces equitable|prcoes equitable|proce equitable|proce sequitable|proces eqitable|proces eqiutable|proces equiable|proces equiatble|proces equitabe|proces equitabel|proces equitabl|proces equitalbe|proces equitale|proces equitbale|proces equitble|proces equtable|proces equtiable|proces euitable|proces euqitable|proces qeuitable|proces quitable|procese quitable|procesequitable|procs equitable|procse equitable|proecs equitable|proes equitable|roces equitable|rpoces equitable|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "roces equitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "poces equitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "prces equitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "proes equitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "procs equitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "proce equitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "procesequitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "proces quitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "proces euitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "proces eqitable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "proces equtable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "proces equiable") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "proces equitble") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "proces equitale") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "proces equitabe") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "proces equitabl") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "proces equitable") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "proces equitable"))`
+`if @gloNear0224`
+`@gloNear = true`
+`endif`
+`@gloScore0224 = calc(searchScore("proces equitable",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0224))`
 `@gloExact0111 = calc(@gloQueryNorm == "procuration" || @gloQueryNorm == "procuration" || @gloQueryNorm == "voter a ma place" || @gloQueryNorm == "procurations")`
 `if @gloExact0111`
 `@gloExact = true`
@@ -3254,6 +3605,26 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0111 = calc(searchScore("procuration",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0111))`
+`@gloExact0222 = calc(@gloQueryNorm == "projet de loi" || @gloQueryNorm == "projet de loi")`
+`if @gloExact0222`
+`@gloExact = true`
+`endif`
+`@gloNear0222 = calc("|pojet de loi|porjet de loi|prjet de loi|prjoet de loi|proejt de loi|proet de loi|proje de loi|proje tde loi|projet d eloi|projet d loi|projet de li|projet de lio|projet de lo|projet de oi|projet de oli|projet del oi|projet deloi|projet e loi|projet ed loi|projetd e loi|projetde loi|projt de loi|projte de loi|rojet de loi|rpojet de loi|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "rojet de loi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "pojet de loi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "prjet de loi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "proet de loi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "projt de loi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "proje de loi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "projetde loi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "projet e loi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "projet d loi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "projet deloi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "projet de oi") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "projet de li") || (@gloQueryNorm.length == 13 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "projet de lo") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "projet de loi") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "projet de loi"))`
+`if @gloNear0222`
+`@gloNear = true`
+`endif`
+`@gloScore0222 = calc(searchScore("projet de loi",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0222))`
+`@gloExact0223 = calc(@gloQueryNorm == "proposition de loi" || @gloQueryNorm == "proposition de loi")`
+`if @gloExact0223`
+`@gloExact = true`
+`endif`
+`@gloNear0223 = calc("|poposition de loi|porposition de loi|proopsition de loi|proosition de loi|propoistion de loi|propoition de loi|proposiion de loi|proposiiton de loi|propositin de loi|propositino de loi|propositio de loi|propositio nde loi|proposition d eloi|proposition d loi|proposition de li|proposition de lio|proposition de lo|proposition de oi|proposition de oli|proposition del oi|proposition deloi|proposition e loi|proposition ed loi|propositiond e loi|propositionde loi|propositoin de loi|propositon de loi|propostiion de loi|propostion de loi|propsition de loi|propsoition de loi|prpoosition de loi|prposition de loi|roposition de loi|rpoposition de loi|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "roposition de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "poposition de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "prposition de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "proosition de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "propsition de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "propoition de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "propostion de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "proposiion de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "propositon de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "propositin de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "propositio de loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "propositionde loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "proposition e loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "proposition d loi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "proposition deloi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "proposition de oi") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "proposition de li") || (@gloQueryNorm.length == 18 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "proposition de lo") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,17)+@gloQueryNorm.slice(18) == "proposition de loi") || (@gloQueryNorm.length == 19 && @gloQueryNorm.slice(0,18)+@gloQueryNorm.slice(19) == "proposition de loi"))`
+`if @gloNear0223`
+`@gloNear = true`
+`endif`
+`@gloScore0223 = calc(searchScore("proposition de loi",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0223))`
 `@gloExact0112 = calc(@gloQueryNorm == "proprietaire" || @gloQueryNorm == "proprietaire" || @gloQueryNorm == "proprietaires")`
 `if @gloExact0112`
 `@gloExact = true`
@@ -3394,6 +3765,26 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0174 = calc(searchScore("respect",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0174))`
+`@gloExact0227 = calc(@gloQueryNorm == "responsabilite" || @gloQueryNorm == "responsabilite")`
+`if @gloExact0227`
+`@gloExact = true`
+`endif`
+`@gloNear0227 = calc("|ersponsabilite|esponsabilite|reponsabilite|repsonsabilite|resonsabilite|resopnsabilite|respnosabilite|respnsabilite|responabilite|responasbilite|responsabiilte|responsabiite|responsabilie|responsabiliet|responsabilit|responsabilte|responsabiltie|responsabliite|responsablite|responsaiblite|responsailite|responsbailite|responsbilite|resposabilite|resposnabilite|rseponsabilite|rsponsabilite|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "esponsabilite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "rsponsabilite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "reponsabilite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "resonsabilite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "respnsabilite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "resposabilite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "responabilite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "responsbilite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "responsailite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "responsablite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "responsabiite") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "responsabilte") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "responsabilie") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "responsabilit") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "responsabilite") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "responsabilite"))`
+`if @gloNear0227`
+`@gloNear = true`
+`endif`
+`@gloScore0227 = calc(searchScore("responsabilite",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0227))`
+`@gloExact0228 = calc(@gloQueryNorm == "revolution" || @gloQueryNorm == "revolution")`
+`if @gloExact0228`
+`@gloExact = true`
+`endif`
+`@gloNear0228 = calc("|ervolution|evolution|reolution|reovlution|revloution|revlution|revoltion|revoltuion|revoluion|revoluiton|revolutin|revolutino|revolutio|revolutoin|revoluton|revoultion|revoution|rveolution|rvolution|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "evolution") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "rvolution") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "reolution") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "revlution") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "revoution") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "revoltion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "revoluion") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "revoluton") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "revolutin") || (@gloQueryNorm.length == 10 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "revolutio") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "revolution") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "revolution"))`
+`if @gloNear0228`
+`@gloNear = true`
+`endif`
+`@gloScore0228 = calc(searchScore("revolution",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0228))`
 `@gloExact0119 = calc(@gloQueryNorm == "revolution francaise" || @gloQueryNorm == "revolution francaise" || @gloQueryNorm == "revolution" || @gloQueryNorm == "1789")`
 `if @gloExact0119`
 `@gloExact = true`
@@ -3404,6 +3795,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0119 = calc(searchScore("revolution francaise",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0119))`
+`@gloExact0237 = calc(@gloQueryNorm == "rhone" || @gloQueryNorm == "rhone")`
+`if @gloExact0237`
+`@gloExact = true`
+`endif`
+`@gloNear0237 = calc("|hone|hrone|rhne|rhnoe|rhoe|rhoen|rhon|rohne|rone|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "hone") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "rone") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "rhne") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "rhoe") || (@gloQueryNorm.length == 5 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "rhon") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "rhone") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "rhone") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "rhone") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "rhone") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "rhone") || (@gloQueryNorm.length == 6 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "rhone"))`
+`if @gloNear0237`
+`@gloNear = true`
+`endif`
+`@gloScore0237 = calc(searchScore("rhone",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0237))`
 `@gloExact0120 = calc(@gloQueryNorm == "salaire" || @gloQueryNorm == "salaire" || @gloQueryNorm == "salaires" || @gloQueryNorm == "remuneration")`
 `if @gloExact0120`
 `@gloExact = true`
@@ -3454,6 +3855,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0153 = calc(searchScore("samu",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0153))`
+`@gloExact0226 = calc(@gloQueryNorm == "sanction" || @gloQueryNorm == "sanction")`
+`if @gloExact0226`
+`@gloExact = true`
+`endif`
+`@gloNear0226 = calc("|anction|asnction|sacntion|saction|sancion|sanciton|sanctin|sanctino|sanctio|sanctoin|sancton|santcion|santion|snaction|snction|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "anction") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "snction") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "saction") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "santion") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "sancion") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "sancton") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "sanctin") || (@gloQueryNorm.length == 8 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "sanctio") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "sanction") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "sanction") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "sanction") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "sanction") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "sanction") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "sanction") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "sanction") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "sanction") || (@gloQueryNorm.length == 9 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "sanction"))`
+`if @gloNear0226`
+`@gloNear = true`
+`endif`
+`@gloScore0226 = calc(searchScore("sanction",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0226))`
 `@gloExact0121 = calc(@gloQueryNorm == "seconde guerre mondiale" || @gloQueryNorm == "seconde guerre mondiale" || @gloQueryNorm == "resistance" || @gloQueryNorm == "deuxieme guerre mondiale" || @gloQueryNorm == "2eme guerre mondiale" || @gloQueryNorm == "1939 1945")`
 `if @gloExact0121`
 `@gloExact = true`
@@ -3584,6 +3995,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0128 = calc(searchScore("surete",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0128))`
+`@gloExact0241 = calc(@gloQueryNorm == "temps de travail" || @gloQueryNorm == "temps de travail")`
+`if @gloExact0241`
+`@gloExact = true`
+`endif`
+`@gloNear0241 = calc("|emps de travail|etmps de travail|temp de travail|temp sde travail|temps d etravail|temps d travail|temps de ravail|temps de rtavail|temps de tarvail|temps de tavail|temps de traail|temps de traavil|temps de travai|temps de traval|temps de travali|temps de travial|temps de travil|temps de trvaail|temps de trvail|temps det ravail|temps detravail|temps e travail|temps ed travail|tempsd e travail|tempsde travail|tems de travail|temsp de travail|tepms de travail|teps de travail|tmeps de travail|tmps de travail|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "emps de travail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "tmps de travail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "teps de travail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "tems de travail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "temp de travail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "tempsde travail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "temps e travail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "temps d travail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "temps detravail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "temps de ravail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "temps de tavail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "temps de trvail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "temps de traail") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "temps de travil") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "temps de traval") || (@gloQueryNorm.length == 16 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "temps de travai") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,15)+@gloQueryNorm.slice(16) == "temps de travail") || (@gloQueryNorm.length == 17 && @gloQueryNorm.slice(0,16)+@gloQueryNorm.slice(17) == "temps de travail"))`
+`if @gloNear0241`
+`@gloNear = true`
+`endif`
+`@gloScore0241 = calc(searchScore("temps de travail",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0241))`
 `@gloExact0129 = calc(@gloQueryNorm == "titre de sejour" || @gloQueryNorm == "titre de sejour" || @gloQueryNorm == "titres de sejour" || @gloQueryNorm == "carte de sejour")`
 `if @gloExact0129`
 `@gloExact = true`
@@ -3614,6 +4035,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0206 = calc(searchScore("traite de maastricht",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0206))`
+`@gloExact0232 = calc(@gloQueryNorm == "traite de rome" || @gloQueryNorm == "traite de rome")`
+`if @gloExact0232`
+`@gloExact = true`
+`endif`
+`@gloNear0232 = calc("|raite de rome|rtaite de rome|taite de rome|tarite de rome|traie de rome|traiet de rome|trait de rome|trait ede rome|traite d erome|traite d rome|traite de ome|traite de orme|traite de rme|traite de rmoe|traite de roe|traite de roem|traite de rom|traite der ome|traite derome|traite e rome|traite ed rome|traited e rome|traitede rome|trate de rome|tratie de rome|triate de rome|trite de rome|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "raite de rome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "taite de rome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "trite de rome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "trate de rome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "traie de rome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "trait de rome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "traitede rome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "traite e rome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "traite d rome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "traite derome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "traite de ome") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "traite de rme") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "traite de roe") || (@gloQueryNorm.length == 14 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "traite de rom") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,12)+@gloQueryNorm.slice(13) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,13)+@gloQueryNorm.slice(14) == "traite de rome") || (@gloQueryNorm.length == 15 && @gloQueryNorm.slice(0,14)+@gloQueryNorm.slice(15) == "traite de rome"))`
+`if @gloNear0232`
+`@gloNear = true`
+`endif`
+`@gloScore0232 = calc(searchScore("traite de rome",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0232))`
 `@gloExact0131 = calc(@gloQueryNorm == "traite des etres humains" || @gloQueryNorm == "traite des etres humains" || @gloQueryNorm == "esclavage")`
 `if @gloExact0131`
 `@gloExact = true`
@@ -3684,6 +4115,16 @@ Saisissez un mot ou une expression, même sans accents ou avec une petite faute 
 `endif`
 `@gloScore0134 = calc(searchScore("urgences",@gloQueryNorm))`
 `@gloBest = calc(Math.max(@gloBest,@gloScore0134))`
+`@gloExact0240 = calc(@gloQueryNorm == "vaccination" || @gloQueryNorm == "vaccination")`
+`if @gloExact0240`
+`@gloExact = true`
+`endif`
+`@gloNear0240 = calc("|accination|avccination|vacciantion|vacciation|vaccinaion|vaccinaiton|vaccinatin|vaccinatino|vaccinatio|vaccination|vaccinatoin|vaccinaton|vaccintaion|vaccintion|vaccnation|vaccniation|vacicnation|vacination|vcacination|vccination|".includes("|"+@gloQueryNorm+"|") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "accination") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "vccination") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "vacination") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "vacination") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "vaccnation") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "vacciation") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "vaccintion") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "vaccinaion") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "vaccinaton") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "vaccinatin") || (@gloQueryNorm.length == 11 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "vaccinatio") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,0)+@gloQueryNorm.slice(1) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,1)+@gloQueryNorm.slice(2) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,2)+@gloQueryNorm.slice(3) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,3)+@gloQueryNorm.slice(4) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,4)+@gloQueryNorm.slice(5) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,5)+@gloQueryNorm.slice(6) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,6)+@gloQueryNorm.slice(7) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,7)+@gloQueryNorm.slice(8) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,8)+@gloQueryNorm.slice(9) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,9)+@gloQueryNorm.slice(10) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,10)+@gloQueryNorm.slice(11) == "vaccination") || (@gloQueryNorm.length == 12 && @gloQueryNorm.slice(0,11)+@gloQueryNorm.slice(12) == "vaccination"))`
+`if @gloNear0240`
+`@gloNear = true`
+`endif`
+`@gloScore0240 = calc(searchScore("vaccination",@gloQueryNorm))`
+`@gloBest = calc(Math.max(@gloBest,@gloScore0240))`
 `@gloExact0135 = calc(@gloQueryNorm == "vercingetorix" || @gloQueryNorm == "vercingetorix" || @gloQueryNorm == "jules cesar" || @gloQueryNorm == "vercingetorixs")`
 `if @gloExact0135`
 `@gloExact = true`
@@ -3748,6 +4189,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0004 || (!@gloExact && @gloNear && @gloNear0004) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0004 >= @gloBest-0.08)`
 1. [📘 Assemblée nationale](SCR_GLO_0004)
 `endif`
+`if @gloExact0239 || (!@gloExact && @gloNear && @gloNear0239) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0239 >= @gloBest-0.08)`
+1. [📘 Assiduité](SCR_GLO_0239)
+`endif`
 `if @gloExact0005 || (!@gloExact && @gloNear && @gloNear0005) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0005 >= @gloBest-0.08)`
 1. [📘 Assistance à personne en danger](SCR_GLO_0005)
 `endif`
@@ -3763,8 +4207,14 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0007 || (!@gloExact && @gloNear && @gloNear0007) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0007 >= @gloBest-0.08)`
 1. [📘 Bail](SCR_GLO_0007)
 `endif`
+`if @gloExact0229 || (!@gloExact && @gloNear && @gloNear0229) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0229 >= @gloBest-0.08)`
+1. [📘 Bastille](SCR_GLO_0229)
+`endif`
 `if @gloExact0145 || (!@gloExact && @gloNear && @gloNear0145) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0145 >= @gloBest-0.08)`
 1. [📘 Bénévolat](SCR_GLO_0145)
+`endif`
+`if @gloExact0219 || (!@gloExact && @gloNear && @gloNear0219) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0219 >= @gloBest-0.08)`
+1. [📘 Bloc de constitutionnalité](SCR_GLO_0219)
 `endif`
 `if @gloExact0008 || (!@gloExact && @gloNear && @gloNear0008) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0008 >= @gloBest-0.08)`
 1. [📘 Bretagne](SCR_GLO_0008)
@@ -3773,7 +4223,10 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 1. [📘 CAF](SCR_GLO_0009)
 `endif`
 `if @gloExact0010 || (!@gloExact && @gloNear && @gloNear0010) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0010 >= @gloBest-0.08)`
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/resident.svg" alt="" width="30" height="24"> Carte de résident](SCR_GLO_0010)
+1. [📘 Carte de résident](SCR_GLO_0010)
+`endif`
+`if @gloExact0212 || (!@gloExact && @gloNear && @gloNear0212) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0212 >= @gloBest-0.08)`
+1. [📘 Carte de séjour pluriannuelle](SCR_GLO_0212)
 `endif`
 `if @gloExact0011 || (!@gloExact && @gloNear && @gloNear0011) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0011 >= @gloBest-0.08)`
 1. [📘 Carte Vitale](SCR_GLO_0011)
@@ -3787,11 +4240,17 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0205 || (!@gloExact && @gloNear && @gloNear0205) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0205 >= @gloBest-0.08)`
 1. [📘 CECA](SCR_GLO_0205)
 `endif`
+`if @gloExact0233 || (!@gloExact && @gloNear && @gloNear0233) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0233 >= @gloBest-0.08)`
+1. [📘 CEE](SCR_GLO_0233)
+`endif`
 `if @gloExact0014 || (!@gloExact && @gloNear && @gloNear0014) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0014 >= @gloBest-0.08)`
 1. [📘 Celtes](SCR_GLO_0014)
 `endif`
 `if @gloExact0015 || (!@gloExact && @gloNear && @gloNear0015) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0015 >= @gloBest-0.08)`
 1. [📘 Charlemagne](SCR_GLO_0015)
+`endif`
+`if @gloExact0230 || (!@gloExact && @gloNear && @gloNear0230) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0230 >= @gloBest-0.08)`
+1. [📘 Charles de Gaulle](SCR_GLO_0230)
 `endif`
 `if @gloExact0016 || (!@gloExact && @gloNear && @gloNear0016) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0016 >= @gloBest-0.08)`
 1. [📘 Charte de l'environnement](SCR_GLO_0016)
@@ -3847,6 +4306,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0030 || (!@gloExact && @gloNear && @gloNear0030) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0030 >= @gloBest-0.08)`
 1. [📘 Conseil régional](SCR_GLO_0030)
 `endif`
+`if @gloExact0220 || (!@gloExact && @gloNear && @gloNear0220) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0220 >= @gloBest-0.08)`
+1. [📘 Conseiller municipal](SCR_GLO_0220)
+`endif`
 `if @gloExact0031 || (!@gloExact && @gloNear && @gloNear0031) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0031 >= @gloBest-0.08)`
 1. [📘 Consentement](SCR_GLO_0031)
 `endif`
@@ -3861,6 +4323,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `endif`
 `if @gloExact0035 || (!@gloExact && @gloNear && @gloNear0035) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0035 >= @gloBest-0.08)`
 1. [📘 Contravention](SCR_GLO_0035)
+`endif`
+`if @gloExact0218 || (!@gloExact && @gloNear && @gloNear0218) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0218 >= @gloBest-0.08)`
+1. [📘 Coq gaulois](SCR_GLO_0218)
 `endif`
 `if @gloExact0141 || (!@gloExact && @gloNear && @gloNear0141) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0141 >= @gloBest-0.08)`
 1. [📘 Cotisations sociales](SCR_GLO_0141)
@@ -3886,6 +4351,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0039 || (!@gloExact && @gloNear && @gloNear0039) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0039 >= @gloBest-0.08)`
 1. [📘 Délit](SCR_GLO_0039)
 `endif`
+`if @gloExact0242 || (!@gloExact && @gloNear && @gloNear0242) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0242 >= @gloBest-0.08)`
+1. [📘 Demandeur d’emploi](SCR_GLO_0242)
+`endif`
 `if @gloExact0040 || (!@gloExact && @gloNear && @gloNear0040) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0040 >= @gloBest-0.08)`
 1. [📘 Démocratie](SCR_GLO_0040)
 `endif`
@@ -3897,6 +4365,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `endif`
 `if @gloExact0043 || (!@gloExact && @gloNear && @gloNear0043) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0043 >= @gloBest-0.08)`
 1. [📘 Député européen](SCR_GLO_0043)
+`endif`
+`if @gloExact0217 || (!@gloExact && @gloNear && @gloNear0217) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0217 >= @gloBest-0.08)`
+1. [📘 Devise](SCR_GLO_0217)
 `endif`
 `if @gloExact0044 || (!@gloExact && @gloNear && @gloNear0044) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0044 >= @gloBest-0.08)`
 1. [📘 Devise de la République](SCR_GLO_0044)
@@ -3919,6 +4390,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0177 || (!@gloExact && @gloNear && @gloNear0177) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0177 >= @gloBest-0.08)`
 1. [📘 Droits civiques](SCR_GLO_0177)
 `endif`
+`if @gloExact0225 || (!@gloExact && @gloNear && @gloNear0225) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0225 >= @gloBest-0.08)`
+1. [📘 Droits de la défense](SCR_GLO_0225)
+`endif`
 `if @gloExact0047 || (!@gloExact && @gloNear && @gloNear0047) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0047 >= @gloBest-0.08)`
 1. [📘 Droits fondamentaux](SCR_GLO_0047)
 `endif`
@@ -3934,6 +4408,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0050 || (!@gloExact && @gloNear && @gloNear0050) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0050 >= @gloBest-0.08)`
 1. [📘 Élection](SCR_GLO_0050)
 `endif`
+`if @gloExact0221 || (!@gloExact && @gloNear && @gloNear0221) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0221 >= @gloBest-0.08)`
+1. [📘 Élection présidentielle](SCR_GLO_0221)
+`endif`
 `if @gloExact0160 || (!@gloExact && @gloNear && @gloNear0160) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0160 >= @gloBest-0.08)`
 1. [📘 Élections européennes](SCR_GLO_0160)
 `endif`
@@ -3945,6 +4422,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `endif`
 `if @gloExact0051 || (!@gloExact && @gloNear && @gloNear0051) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0051 >= @gloBest-0.08)`
 1. [📘 Employeur](SCR_GLO_0051)
+`endif`
+`if @gloExact0243 || (!@gloExact && @gloNear && @gloNear0243) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0243 >= @gloBest-0.08)`
+1. [📘 Entrepreneuriat](SCR_GLO_0243)
 `endif`
 `if @gloExact0143 || (!@gloExact && @gloNear && @gloNear0143) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0143 >= @gloBest-0.08)`
 1. [📘 Entreprise](SCR_GLO_0143)
@@ -4036,6 +4516,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0200 || (!@gloExact && @gloNear && @gloNear0200) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0200 >= @gloBest-0.08)`
 1. [📘 Impressionnisme](SCR_GLO_0200)
 `endif`
+`if @gloExact0244 || (!@gloExact && @gloNear && @gloNear0244) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0244 >= @gloBest-0.08)`
+1. [📘 Inclusion](SCR_GLO_0244)
+`endif`
 `if @gloExact0074 || (!@gloExact && @gloNear && @gloNear0074) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0074 >= @gloBest-0.08)`
 1. [📘 Infraction](SCR_GLO_0074)
 `endif`
@@ -4051,6 +4534,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0185 || (!@gloExact && @gloNear && @gloNear0185) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0185 >= @gloBest-0.08)`
 1. [📘 IVG](SCR_GLO_0185)
 `endif`
+`if @gloExact0238 || (!@gloExact && @gloNear && @gloNear0238) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0238 >= @gloBest-0.08)`
+1. [📘 Jour férié](SCR_GLO_0238)
+`endif`
 `if @gloExact0207 || (!@gloExact && @gloNear && @gloNear0207) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0207 >= @gloBest-0.08)`
 1. [📘 Journée de l’Europe](SCR_GLO_0207)
 `endif`
@@ -4059,6 +4545,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `endif`
 `if @gloExact0180 || (!@gloExact && @gloNear && @gloNear0180) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0180 >= @gloBest-0.08)`
 1. [📘 Juge](SCR_GLO_0180)
+`endif`
+`if @gloExact0234 || (!@gloExact && @gloNear && @gloNear0234) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0234 >= @gloBest-0.08)`
+1. [📘 Jules Ferry](SCR_GLO_0234)
 `endif`
 `if @gloExact0182 || (!@gloExact && @gloNear && @gloNear0182) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0182 >= @gloBest-0.08)`
 1. [📘 Juré](SCR_GLO_0182)
@@ -4081,6 +4570,15 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0082 || (!@gloExact && @gloNear && @gloNear0082) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0082 >= @gloBest-0.08)`
 1. [📘 Liberté](SCR_GLO_0082)
 `endif`
+`if @gloExact0214 || (!@gloExact && @gloNear && @gloNear0214) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0214 >= @gloBest-0.08)`
+1. [📘 Liberté d’association](SCR_GLO_0214)
+`endif`
+`if @gloExact0213 || (!@gloExact && @gloNear && @gloNear0213) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0213 >= @gloBest-0.08)`
+1. [📘 Liberté d’expression](SCR_GLO_0213)
+`endif`
+`if @gloExact0215 || (!@gloExact && @gloNear && @gloNear0215) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0215 >= @gloBest-0.08)`
+1. [📘 Liberté de circulation](SCR_GLO_0215)
+`endif`
 `if @gloExact0083 || (!@gloExact && @gloNear && @gloNear0083) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0083 >= @gloBest-0.08)`
 1. [📘 Liberté de conscience](SCR_GLO_0083)
 `endif`
@@ -4095,6 +4593,12 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `endif`
 `if @gloExact0085 || (!@gloExact && @gloNear && @gloNear0085) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0085 >= @gloBest-0.08)`
 1. [📘 Loi](SCR_GLO_0085)
+`endif`
+`if @gloExact0236 || (!@gloExact && @gloNear && @gloNear0236) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0236 >= @gloBest-0.08)`
+1. [📘 Loire](SCR_GLO_0236)
+`endif`
+`if @gloExact0235 || (!@gloExact && @gloNear && @gloNear0235) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0235 >= @gloBest-0.08)`
+1. [📘 Louis XVI](SCR_GLO_0235)
 `endif`
 `if @gloExact0086 || (!@gloExact && @gloNear && @gloNear0086) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0086 >= @gloBest-0.08)`
 1. [📘 Lycée](SCR_GLO_0086)
@@ -4129,6 +4633,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0093 || (!@gloExact && @gloNear && @gloNear0093) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0093 >= @gloBest-0.08)`
 1. [📘 Ministre](SCR_GLO_0093)
 `endif`
+`if @gloExact0216 || (!@gloExact && @gloNear && @gloNear0216) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0216 >= @gloBest-0.08)`
+1. [📘 Mixité](SCR_GLO_0216)
+`endif`
 `if @gloExact0199 || (!@gloExact && @gloNear && @gloNear0199) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0199 >= @gloBest-0.08)`
 1. [📘 Monarchie](SCR_GLO_0199)
 `endif`
@@ -4147,8 +4654,11 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0167 || (!@gloExact && @gloNear && @gloNear0167) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0167 >= @gloBest-0.08)`
 1. [📘 Naissance](SCR_GLO_0167)
 `endif`
+`if @gloExact0231 || (!@gloExact && @gloNear && @gloNear0231) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0231 >= @gloBest-0.08)`
+1. [📘 Napoléon Bonaparte](SCR_GLO_0231)
+`endif`
 `if @gloExact0097 || (!@gloExact && @gloNear && @gloNear0097) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0097 >= @gloBest-0.08)`
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
+1. [📘 Naturalisation](SCR_GLO_0097)
 `endif`
 `if @gloExact0098 || (!@gloExact && @gloNear && @gloNear0098) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0098 >= @gloBest-0.08)`
 1. [📘 Neutralité](SCR_GLO_0098)
@@ -4216,8 +4726,17 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0149 || (!@gloExact && @gloNear && @gloNear0149) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0149 >= @gloBest-0.08)`
 1. [📘 Prévention](SCR_GLO_0149)
 `endif`
+`if @gloExact0224 || (!@gloExact && @gloNear && @gloNear0224) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0224 >= @gloBest-0.08)`
+1. [📘 Procès équitable](SCR_GLO_0224)
+`endif`
 `if @gloExact0111 || (!@gloExact && @gloNear && @gloNear0111) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0111 >= @gloBest-0.08)`
 1. [📘 Procuration](SCR_GLO_0111)
+`endif`
+`if @gloExact0222 || (!@gloExact && @gloNear && @gloNear0222) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0222 >= @gloBest-0.08)`
+1. [📘 Projet de loi](SCR_GLO_0222)
+`endif`
+`if @gloExact0223 || (!@gloExact && @gloNear && @gloNear0223) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0223 >= @gloBest-0.08)`
+1. [📘 Proposition de loi](SCR_GLO_0223)
 `endif`
 `if @gloExact0112 || (!@gloExact && @gloNear && @gloNear0112) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0112 >= @gloBest-0.08)`
 1. [📘 Propriétaire](SCR_GLO_0112)
@@ -4261,8 +4780,17 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0174 || (!@gloExact && @gloNear && @gloNear0174) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0174 >= @gloBest-0.08)`
 1. [📘 Respect](SCR_GLO_0174)
 `endif`
+`if @gloExact0227 || (!@gloExact && @gloNear && @gloNear0227) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0227 >= @gloBest-0.08)`
+1. [📘 Responsabilité](SCR_GLO_0227)
+`endif`
+`if @gloExact0228 || (!@gloExact && @gloNear && @gloNear0228) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0228 >= @gloBest-0.08)`
+1. [📘 Révolution](SCR_GLO_0228)
+`endif`
 `if @gloExact0119 || (!@gloExact && @gloNear && @gloNear0119) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0119 >= @gloBest-0.08)`
 1. [📘 Révolution française](SCR_GLO_0119)
+`endif`
+`if @gloExact0237 || (!@gloExact && @gloNear && @gloNear0237) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0237 >= @gloBest-0.08)`
+1. [📘 Rhône](SCR_GLO_0237)
 `endif`
 `if @gloExact0120 || (!@gloExact && @gloNear && @gloNear0120) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0120 >= @gloBest-0.08)`
 1. [📘 Salaire](SCR_GLO_0120)
@@ -4278,6 +4806,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `endif`
 `if @gloExact0153 || (!@gloExact && @gloNear && @gloNear0153) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0153 >= @gloBest-0.08)`
 1. [📘 SAMU](SCR_GLO_0153)
+`endif`
+`if @gloExact0226 || (!@gloExact && @gloNear && @gloNear0226) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0226 >= @gloBest-0.08)`
+1. [📘 Sanction](SCR_GLO_0226)
 `endif`
 `if @gloExact0121 || (!@gloExact && @gloNear && @gloNear0121) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0121 >= @gloBest-0.08)`
 1. [📘 Seconde Guerre mondiale](SCR_GLO_0121)
@@ -4318,6 +4849,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0128 || (!@gloExact && @gloNear && @gloNear0128) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0128 >= @gloBest-0.08)`
 1. [📘 Sûreté](SCR_GLO_0128)
 `endif`
+`if @gloExact0241 || (!@gloExact && @gloNear && @gloNear0241) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0241 >= @gloBest-0.08)`
+1. [📘 Temps de travail](SCR_GLO_0241)
+`endif`
 `if @gloExact0129 || (!@gloExact && @gloNear && @gloNear0129) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0129 >= @gloBest-0.08)`
 1. [📘 Titre de séjour](SCR_GLO_0129)
 `endif`
@@ -4326,6 +4860,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `endif`
 `if @gloExact0206 || (!@gloExact && @gloNear && @gloNear0206) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0206 >= @gloBest-0.08)`
 1. [📘 Traité de Maastricht](SCR_GLO_0206)
+`endif`
+`if @gloExact0232 || (!@gloExact && @gloNear && @gloNear0232) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0232 >= @gloBest-0.08)`
+1. [📘 Traité de Rome](SCR_GLO_0232)
 `endif`
 `if @gloExact0131 || (!@gloExact && @gloNear && @gloNear0131) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0131 >= @gloBest-0.08)`
 1. [📘 Traite des êtres humains](SCR_GLO_0131)
@@ -4348,6 +4885,9 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 `if @gloExact0134 || (!@gloExact && @gloNear && @gloNear0134) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0134 >= @gloBest-0.08)`
 1. [📘 Urgences](SCR_GLO_0134)
 `endif`
+`if @gloExact0240 || (!@gloExact && @gloNear && @gloNear0240) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0240 >= @gloBest-0.08)`
+1. [📘 Vaccination](SCR_GLO_0240)
+`endif`
 `if @gloExact0135 || (!@gloExact && @gloNear && @gloNear0135) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0135 >= @gloBest-0.08)`
 1. [📘 Vercingétorix](SCR_GLO_0135)
 `endif`
@@ -4363,12 +4903,6 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-1. [🔠 Parcourir par ordre alphabétique](SCR_GLO_ALPHA_MENU)
-1. [📚 Parcourir par thème](SCR_GLO_THEME_MENU)
-
-
 ## SCR_GLO_0197
 - Abolition
 - abolition
@@ -4378,40 +4912,22 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 **Définition simple :** Suppression officielle d’une règle, d’une pratique ou d’une peine, par exemple l’abolition de l’esclavage ou de la peine de mort.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0001
 - Abstention
-- le Abstention
-- la Abstention
-- les Abstention
+- abstention
+- ne pas voter
+- abstentions
 
 ### 📘 Abstention
 
-**Définition**
+**Définition simple :** L’**abstention** consiste à ne pas participer à une élection. Elle est différente du vote blanc.
 
-Fait de ne pas participer à une élection.
-
-💡 **À retenir**
-
-L'abstention est différente du vote blanc.
-
-🔗 **Voir aussi**
-
-1. [➡️ Vote](SCR_GLO_0137)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0172
 - Agents publics
@@ -4422,40 +4938,25 @@ L'abstention est différente du vote blanc.
 **Définition simple :** Personnes qui travaillent pour une administration ou un service public. Elles doivent respecter notamment la neutralité et l’égalité de traitement.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0002
 - Alpes
-- le Alpes
-- la Alpes
-- les Alpes
+- alpes
 
 ### 📘 Alpes
 
-**Définition**
+**Définition simple :** Massif montagneux situé à l'est de la France.
 
-Massif montagneux situé à l'est de la France.
+💡 Retenez : Le Mont Blanc est le plus haut sommet d'Europe occidentale.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Pyrénées](SCR_GLO_0115)
 
-Le Mont Blanc est le plus haut sommet d'Europe occidentale.
-
-🔗 **Voir aussi**
-
-1. [➡️ Pyrénées](SCR_GLO_0115)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0178
 - Amende
@@ -4466,40 +4967,26 @@ Le Mont Blanc est le plus haut sommet d'Europe occidentale.
 **Définition simple :** Somme d’argent qu’une personne doit payer lorsqu’une sanction pécuniaire est prononcée à son encontre.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0003
 - APL
-- le APL
-- la APL
-- les APL
+- apl
+- aide au logement
 
 ### 📘 APL
 
-**Définition**
+**Définition simple :** Aide personnalisée au logement versée sous certaines conditions.
 
-Aide personnalisée au logement versée sous certaines conditions.
+💡 Retenez : Elle permet de réduire le montant du loyer.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 CAF](SCR_GLO_0009)
 
-Elle permet de réduire le montant du loyer.
-
-🔗 **Voir aussi**
-
-1. [➡️ CAF](SCR_GLO_0009)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0192
 - Armistice
@@ -4510,101 +4997,74 @@ Elle permet de réduire le montant du loyer.
 **Définition simple :** Accord qui suspend les combats entre des forces en guerre. Il ne signifie pas nécessairement la fin définitive de la guerre.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0004
 - Assemblée nationale
-- Assemblee nationale
-- le Assemblée nationale
-- la Assemblée nationale
-- les Assemblée nationale
+- assemblee nationale
+- assemblee
+- assemble nationale
+- assemblee national
+- assemblee des deputes
 
 ### 📘 Assemblée nationale
 
-**Définition**
+**Définition simple :** L’**Assemblée nationale** est l’une des deux parties du Parlement. Les **députés** y discutent et votent les lois.
 
-L'Assemblée nationale est composée des députés.
-
-💡 **À retenir**
-
-Les députés sont élus directement par les citoyens.
-
-🔗 **Voir aussi**
-
-1. [➡️ Député](SCR_GLO_0042)
-2. [➡️ Parlement](SCR_GLO_0101)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T2)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0239
+- Assiduité
+
+### 📘 Assiduité
+
+**Définition simple :** Présence régulière et respect des horaires dans une activité, notamment à l’école ou en formation.
+
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0005
 - Assistance à personne en danger
-- Assistance a personne en danger
-- le Assistance à personne en danger
-- la Assistance à personne en danger
-- les Assistance à personne en danger
+- assistance a personne en danger
+- secours
 
 ### 📘 Assistance à personne en danger
 
-**Définition**
+**Définition simple :** Obligation d'aider une personne en danger ou d'alerter les secours lorsqu'il est possible de le faire sans risque.
 
-Obligation d'aider une personne en danger ou d'alerter les secours lorsqu'il est possible de le faire sans risque.
+💡 Retenez : Ne pas porter assistance peut être puni par la loi.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Secours](SCR_GLO_0152)
 
-Ne pas porter assistance peut être puni par la loi.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T3)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0006
 - Assurance maladie
-- le Assurance maladie
-- la Assurance maladie
-- les Assurance maladie
+- assurance maladie
+- securite sociale
+- secu
 
 ### 📘 Assurance maladie
 
-**Définition**
+**Définition simple :** Système de protection sociale qui rembourse tout ou partie des dépenses de santé.
 
-Système de protection sociale qui rembourse tout ou partie des dépenses de santé.
+💡 Retenez : Toute personne résidant régulièrement en France peut bénéficier d'une couverture maladie selon sa situation.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Carte Vitale](SCR_GLO_0011)
+1. [📘 CPAM](SCR_GLO_0036)
+1. [📘 Médecin traitant](SCR_GLO_0092)
 
-Toute personne résidant régulièrement en France peut bénéficier d'une couverture maladie selon sa situation.
-
-🔗 **Voir aussi**
-
-1. [➡️ Carte Vitale](SCR_GLO_0011)
-2. [➡️ CPAM](SCR_GLO_0036)
-3. [➡️ Médecin traitant](SCR_GLO_0092)
-
-4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-5. [📚 Retour au thème](SCR_GLO_THEME_T5)
-6. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0170
 - Autorité parentale
@@ -4615,10 +5075,8 @@ Toute personne résidant régulièrement en France peut bénéficier d'une couve
 **Définition simple :** Ensemble des droits et des devoirs des parents pour protéger, éduquer et accompagner leur enfant dans son intérêt.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0181
 - Avocat
@@ -4629,36 +5087,38 @@ Toute personne résidant régulièrement en France peut bénéficier d'une couve
 **Définition simple :** Professionnel du droit qui conseille une personne, défend ses intérêts et peut la représenter devant la justice.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0007
 - Bail
-- le Bail
-- la Bail
-- les Bail
+- bail
+- logement
+- baux
+- contrat de location
 
 ### 📘 Bail
 
-**Définition**
+**Définition simple :** Un **bail** est un contrat entre le propriétaire d’un logement et la personne qui le loue. Il précise les conditions de la location.
 
-Contrat de location entre un propriétaire et un locataire.
-
-💡 **À retenir**
-
-Le bail fixe les droits et obligations de chacun.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T5)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0229
+- Bastille
+
+### 📘 Bastille
+
+**Définition simple :** Ancienne forteresse et prison de Paris prise le 14 juillet 1789. Cet événement est un repère de la Révolution française.
+
+**Voir aussi :**
+1. [📘 Révolution française](SCR_GLO_0119)
+1. [📘 Fête nationale](SCR_GLO_0057)
+
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0145
 - Bénévolat
@@ -4669,202 +5129,133 @@ Le bail fixe les droits et obligations de chacun.
 **Définition simple :** Activité réalisée librement sans rémunération, par exemple pour aider une association.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0219
+- Bloc de constitutionnalité
+
+### 📘 Bloc de constitutionnalité
+
+**Définition simple :** Ensemble des textes et principes de valeur constitutionnelle utilisés pour vérifier que les lois respectent la Constitution. Il comprend notamment la Constitution de 1958, la Déclaration de 1789 et la Charte de l’environnement.
+
+**Voir aussi :**
+1. [📘 Constitution](SCR_GLO_0032)
+1. [📘 Conseil constitutionnel](SCR_GLO_0025)
+1. [📘 Charte de l'environnement](SCR_GLO_0016)
+
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0008
 - Bretagne
-- le Bretagne
-- la Bretagne
-- les Bretagne
+- bretagne
+- rennes
+- bretagnes
 
 ### 📘 Bretagne
 
-**Définition**
+**Définition simple :** Région située à l'ouest de la France métropolitaine.
 
-Région située à l'ouest de la France métropolitaine.
+💡 Retenez : La Bretagne est connue pour son littoral, sa culture bretonne, ses ports de pêche, ses phares et ses spécialités culinaires comme les crêpes et le kouign-amann.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Région](SCR_GLO_0117)
 
-La Bretagne est connue pour son littoral, sa culture bretonne, ses ports de pêche, ses phares et ses spécialités culinaires comme les crêpes et le kouign-amann.
-
-🔗 **Voir aussi**
-
-1. [➡️ Région](SCR_GLO_0117)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0009
 - CAF
-- le CAF
-- la CAF
-- les CAF
+- caf
 
 ### 📘 CAF
 
-**Définition**
+**Définition simple :** La **CAF**, ou Caisse d’allocations familiales, verse certaines aides selon la situation des personnes et des familles.
 
-La Caisse d'allocations familiales verse différentes aides aux familles et aux personnes selon leur situation.
-
-💡 **À retenir**
-
-La CAF peut aider au paiement du logement.
-
-🔗 **Voir aussi**
-
-1. [➡️ APL](SCR_GLO_0003)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0010
 - Carte de résident
-- Carte de resident
-- le Carte de résident
-- la Carte de résident
-- les Carte de résident
+- carte de resident
+- carte de residant
+- resident
+- residant
 
 ### 📘 Carte de résident
 
-**Définition**
+**Définition simple :** La **carte de résident** est un titre de séjour valable dix ans. Les conditions et les démarches dépendent de la situation de la personne.
 
-Titre de séjour permettant de résider durablement en France.
+**Voir aussi :**
+1. [📘 Titre de séjour](SCR_GLO_0129)
+1. [📘 Carte de séjour pluriannuelle](SCR_GLO_0212)
+1. [📘 Naturalisation](SCR_GLO_0097)
 
-💡 **À retenir**
-
-Sa durée de validité est généralement de dix ans.
-
-🔗 **Voir aussi**
-
-1. [➡️ Titre de séjour](SCR_GLO_0129)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0212
+- Carte de séjour pluriannuelle
+- carte pluriannuelle
+- titre pluriannuel
+- csp
+
+### 📘 Carte de séjour pluriannuelle
+
+**Définition simple :** Titre de séjour permettant à une personne étrangère de rester en France pendant plusieurs années, selon sa situation et les conditions du titre.
+
+**Voir aussi :**
+1. [📘 Titre de séjour](SCR_GLO_0129)
+1. [📘 Carte de résident](SCR_GLO_0010)
+1. [📘 Naturalisation](SCR_GLO_0097)
+
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0011
 - Carte Vitale
-- le Carte Vitale
-- la Carte Vitale
-- les Carte Vitale
+- carte vitale
+- carte vital
 
 ### 📘 Carte Vitale
 
-**Définition**
+**Définition simple :** La **carte Vitale** sert à transmettre les informations nécessaires au remboursement des soins par l’Assurance maladie.
 
-Carte personnelle permettant de justifier ses droits à l'Assurance maladie.
-
-💡 **À retenir**
-
-Elle facilite le remboursement des soins.
-
-🔗 **Voir aussi**
-
-1. [➡️ Assurance maladie](SCR_GLO_0006)
-2. [➡️ CPAM](SCR_GLO_0036)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T5)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0012
 - CDD
-- le CDD
-- la CDD
-- les CDD
+- cdd
+- contrat a duree determinee
 
 ### 📘 CDD
 
-**Définition**
+**Définition simple :** Un **CDD** est un contrat de travail prévu pour une durée déterminée. Il a une fin prévue selon les conditions du contrat.
 
-Contrat à durée déterminée.
-
-💡 **À retenir**
-
-Il prévoit une date de fin.
-
-⚠️ **À ne pas confondre**
-
-CDD ≠ CDI.
-
-🔗 **Voir aussi**
-
-1. [➡️ Contrat de travail](SCR_GLO_0034)
-2. [➡️ CDI](SCR_GLO_0013)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T5)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0013
 - CDI
-- le CDI
-- la CDI
-- les CDI
+- cdi
+- contrat a duree indeterminee
 
 ### 📘 CDI
 
-**Définition**
+**Définition simple :** Un **CDI** est un contrat de travail sans date de fin prévue à l’avance.
 
-Contrat à durée indéterminée.
-
-💡 **À retenir**
-
-Il ne prévoit pas de date de fin.
-
-⚠️ **À ne pas confondre**
-
-CDI ≠ CDD.
-
-🔗 **Voir aussi**
-
-1. [➡️ Contrat de travail](SCR_GLO_0034)
-2. [➡️ CDD](SCR_GLO_0012)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T5)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0205
 - CECA
@@ -4875,123 +5266,99 @@ CDI ≠ CDD.
 **Définition simple :** Communauté européenne du charbon et de l’acier : projet de coopération européen qui a précédé l’Union européenne.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0233
+- CEE
+
+### 📘 CEE
+
+**Définition simple :** Communauté économique européenne, créée par le traité de Rome en 1957. Elle a précédé l’Union européenne.
+
+**Voir aussi :**
+1. [📘 Union européenne](SCR_GLO_0133)
+1. [📘 Traité de Rome](SCR_GLO_0232)
+
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0014
 - Celtes
-- le Celtes
-- la Celtes
-- les Celtes
+- celtes
 
 ### 📘 Celtes
 
-**Définition**
+**Définition simple :** Peuples installés en Gaule avant la conquête romaine.
 
-Peuples installés en Gaule avant la conquête romaine.
+💡 Retenez : Les Gaulois étaient des peuples celtes.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Gaule](SCR_GLO_0064)
 
-Les Gaulois étaient des peuples celtes.
-
-🔗 **Voir aussi**
-
-1. [➡️ Gaule](SCR_GLO_0064)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0015
 - Charlemagne
-- le Charlemagne
-- la Charlemagne
-- les Charlemagne
+- charlemagne
+- moyen age
+- charlemagnes
 
 ### 📘 Charlemagne
 
-**Définition**
+**Définition simple :** Empereur d'Occident couronné en l'an 800.
 
-Empereur d'Occident couronné en l'an 800.
+💡 Retenez : Il a contribué au développement de l'éducation et de l'organisation de son empire.
 
-💡 **À retenir**
-
-Il a contribué au développement de l'éducation et de l'organisation de son empire.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0230
+- Charles de Gaulle
+
+### 📘 Charles de Gaulle
+
+**Définition simple :** Dirigeant de la France libre pendant la Seconde Guerre mondiale, puis premier président de la Ve République, instaurée en 1958.
+
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0016
 - Charte de l'environnement
-- le Charte de l'environnement
-- la Charte de l'environnement
-- les Charte de l'environnement
+- charte de l environnement
 
 ### 📘 Charte de l'environnement
 
-**Définition**
+**Définition simple :** Texte à valeur constitutionnelle qui reconnaît le droit à un environnement équilibré.
 
-Texte à valeur constitutionnelle qui reconnaît le droit à un environnement équilibré.
+💡 Retenez : La protection de l'environnement est un principe constitutionnel.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Environnement](SCR_GLO_0052)
 
-La protection de l'environnement est un principe constitutionnel.
-
-🔗 **Voir aussi**
-
-1. [➡️ Environnement](SCR_GLO_0052)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0017
 - Château de Versailles
-- Chateau de Versailles
-- le Château de Versailles
-- la Château de Versailles
-- les Château de Versailles
+- chateau de versailles
+- louis xiv
 
 ### 📘 Château de Versailles
 
-**Définition**
+**Définition simple :** Ancienne résidence des rois de France située près de Paris.
 
-Ancienne résidence des rois de France située près de Paris.
+💡 Retenez : Il est célèbre pour son architecture et ses jardins.
 
-💡 **À retenir**
-
-Il est célèbre pour son architecture et ses jardins.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0164
 - Chef de l’État
@@ -5002,128 +5369,79 @@ Il est célèbre pour son architecture et ses jardins.
 **Définition simple :** Personne qui représente l’État au plus haut niveau. En France, le chef de l’État est le président de la République.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0018
 - Cinquième République
-- Cinquieme Republique
-- le Cinquième République
-- la Cinquième République
-- les Cinquième République
+- cinquieme republique
 
 ### 📘 Cinquième République
 
-**Définition**
+**Définition simple :** Régime politique actuel de la France, instauré en 1958.
 
-Régime politique actuel de la France, instauré en 1958.
+💡 Retenez : La Constitution de 1958 est toujours en vigueur.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Constitution](SCR_GLO_0032)
 
-La Constitution de 1958 est toujours en vigueur.
-
-🔗 **Voir aussi**
-
-1. [➡️ Constitution](SCR_GLO_0032)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0019
 - Citoyen
-- le Citoyen
-- la Citoyen
-- les Citoyen
+- citoyen
+- droit de vote
+- nationalite
+- citoyenne
+- citoyens
+- citoyennes
 
 ### 📘 Citoyen
 
-**Définition**
+**Définition simple :** Personne qui possède la nationalité d’un État et les droits et devoirs qui s’y rattachent. En France, le droit de vote dépend notamment de la nationalité, de l’âge et du type d’élection.
 
-Personne possédant la nationalité française et bénéficiant des droits civiques et politiques.
+**Voir aussi :**
+1. [📘 Citoyenneté](SCR_GLO_0020)
+1. [📘 Vote](SCR_GLO_0137)
 
-💡 **À retenir**
-
-Le citoyen participe à la vie démocratique.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T1)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0020
 - Citoyenneté
-- Citoyennete
-- le Citoyenneté
-- la Citoyenneté
-- les Citoyenneté
+- citoyennete
+- nationalite
+- citoyennetes
 
 ### 📘 Citoyenneté
 
-**Définition**
+**Définition simple :** Lien juridique entre une personne et un État, donnant des droits mais aussi des devoirs.
 
-Lien juridique entre une personne et un État, donnant des droits mais aussi des devoirs.
+💡 Retenez : Tous les résidents ne sont pas citoyens français.
 
-💡 **À retenir**
+⚠️ À distinguer : Citoyenneté ≠ résidence.
 
-Tous les résidents ne sont pas citoyens français.
-
-⚠️ **À ne pas confondre**
-
-Citoyenneté ≠ résidence.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T3)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0021
 - Clovis
-- le Clovis
-- la Clovis
-- les Clovis
+- clovis
 
 ### 📘 Clovis
 
-**Définition**
+**Définition simple :** Roi des Francs associé à la dynastie mérovingienne et à sa conversion au christianisme. Il a régné bien avant Charlemagne.
 
-Premier roi des Francs à s'être converti au christianisme.
+**Voir aussi :**
+1. [📘 Gaule](SCR_GLO_0064)
 
-💡 **À retenir**
-
-Son règne marque le début de la dynastie mérovingienne.
-
-🔗 **Voir aussi**
-
-1. [➡️ Charlemagne](SCR_GLO_0015)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0165
 - Collectivités territoriales
@@ -5134,41 +5452,26 @@ Son règne marque le début de la dynastie mérovingienne.
 **Définition simple :** Structures qui gèrent des affaires locales grâce à des élus, par exemple les communes, les départements et les régions.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0022
 - Collège
-- College
-- le Collège
-- la Collège
-- les Collège
+- college
+- colleges
 
 ### 📘 Collège
 
-**Définition**
+**Définition simple :** Établissement accueillant les élèves après l'école primaire.
 
-Établissement accueillant les élèves après l'école primaire.
+💡 Retenez : Le collège est obligatoire.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Lycée](SCR_GLO_0086)
 
-Le collège est obligatoire.
-
-🔗 **Voir aussi**
-
-1. [➡️ Lycée](SCR_GLO_0086)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0198
 - Colonisation
@@ -5179,406 +5482,245 @@ Le collège est obligatoire.
 **Définition simple :** Prise de contrôle d’un territoire et de sa population par une puissance extérieure.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0023
 - Commission européenne
-- Commission europeenne
-- le Commission européenne
-- la Commission européenne
-- les Commission européenne
+- commission europeenne
 
 ### 📘 Commission européenne
 
-**Définition**
+**Définition simple :** Institution chargée de proposer les lois européennes et de veiller à leur application.
 
-Institution chargée de proposer les lois européennes et de veiller à leur application.
+💡 Retenez : Elle défend l'intérêt général de l'Union européenne.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Union européenne](SCR_GLO_0133)
 
-Elle défend l'intérêt général de l'Union européenne.
-
-🔗 **Voir aussi**
-
-1. [➡️ Union européenne](SCR_GLO_0133)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0024
 - Commune
-- le Commune
-- la Commune
-- les Commune
+- commune
+- communes
 
 ### 📘 Commune
 
-**Définition**
+**Définition simple :** Une **commune** est une ville ou un village avec son administration locale. Le maire et le conseil municipal s’occupent des affaires de la commune.
 
-La commune est la plus petite collectivité territoriale.
-
-💡 **À retenir**
-
-Elle est administrée par un maire.
-
-🔗 **Voir aussi**
-
-1. [➡️ Maire](SCR_GLO_0087)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0025
 - Conseil constitutionnel
-- le Conseil constitutionnel
-- la Conseil constitutionnel
-- les Conseil constitutionnel
+- conseil constitutionnel
 
 ### 📘 Conseil constitutionnel
 
-**Définition**
+**Définition simple :** Le Conseil constitutionnel vérifie que les lois respectent la Constitution.
 
-Le Conseil constitutionnel vérifie que les lois respectent la Constitution.
+💡 Retenez : Il protège la Constitution.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Constitution](SCR_GLO_0032)
 
-Il protège la Constitution.
-
-🔗 **Voir aussi**
-
-1. [➡️ Constitution](SCR_GLO_0032)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0026
 - Conseil de l'Union européenne
-- Conseil de l'Union europeenne
-- le Conseil de l'Union européenne
-- la Conseil de l'Union européenne
-- les Conseil de l'Union européenne
+- conseil de l union europeenne
+- conseil de l ue
 
 ### 📘 Conseil de l'Union européenne
 
-**Définition**
+**Définition simple :** Institution où siègent les ministres des États membres.
 
-Institution où siègent les ministres des États membres.
+💡 Retenez : Il participe au vote des lois européennes.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Commission européenne](SCR_GLO_0023)
 
-Il participe au vote des lois européennes.
-
-🔗 **Voir aussi**
-
-1. [➡️ Commission européenne](SCR_GLO_0023)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0027
 - Conseil départemental
-- Conseil departemental
-- le Conseil départemental
-- la Conseil départemental
-- les Conseil départemental
+- conseil departemental
 
 ### 📘 Conseil départemental
 
-**Définition**
+**Définition simple :** Assemblée qui administre le département.
 
-Assemblée qui administre le département.
+💡 Retenez : Ses membres sont les conseillers départementaux.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Département](SCR_GLO_0041)
 
-Ses membres sont les conseillers départementaux.
-
-🔗 **Voir aussi**
-
-1. [➡️ Département](SCR_GLO_0041)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0028
 - Conseil européen
-- Conseil europeen
-- le Conseil européen
-- la Conseil européen
-- les Conseil européen
+- conseil europeen
 
 ### 📘 Conseil européen
 
-**Définition**
+**Définition simple :** Réunion des chefs d'État ou de gouvernement des pays membres.
 
-Réunion des chefs d'État ou de gouvernement des pays membres.
+💡 Retenez : Il fixe les grandes orientations politiques de l'Union européenne.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Union européenne](SCR_GLO_0133)
 
-Il fixe les grandes orientations politiques de l'Union européenne.
-
-🔗 **Voir aussi**
-
-1. [➡️ Union européenne](SCR_GLO_0133)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0029
 - Conseil municipal
-- le Conseil municipal
-- la Conseil municipal
-- les Conseil municipal
+- conseil municipal
 
 ### 📘 Conseil municipal
 
-**Définition**
+**Définition simple :** Assemblée élue qui administre la commune.
 
-Assemblée élue qui administre la commune.
+💡 Retenez : Les conseillers municipaux élisent le maire.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Maire](SCR_GLO_0087)
 
-Les conseillers municipaux élisent le maire.
-
-🔗 **Voir aussi**
-
-1. [➡️ Maire](SCR_GLO_0087)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0030
 - Conseil régional
-- Conseil regional
-- le Conseil régional
-- la Conseil régional
-- les Conseil régional
+- conseil regional
 
 ### 📘 Conseil régional
 
-**Définition**
+**Définition simple :** Assemblée qui administre la région.
 
-Assemblée qui administre la région.
+💡 Retenez : Ses membres sont les conseillers régionaux.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Région](SCR_GLO_0117)
 
-Ses membres sont les conseillers régionaux.
-
-🔗 **Voir aussi**
-
-1. [➡️ Région](SCR_GLO_0117)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0220
+- Conseiller municipal
+
+### 📘 Conseiller municipal
+
+**Définition simple :** Personne élue au conseil municipal pour participer aux décisions de la commune. Les conseillers municipaux élisent le maire.
+
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0031
 - Consentement
-- le Consentement
-- la Consentement
-- les Consentement
+- consentement
+- violence sexuelle
+- consantement
+- accord libre
+- consentements
 
 ### 📘 Consentement
 
-**Définition**
+**Définition simple :** Le **consentement** est un accord donné librement, sans pression. Une personne doit pouvoir accepter ou refuser.
 
-Accord libre et volontaire donné par une personne.
-
-💡 **À retenir**
-
-Sans consentement, un acte peut constituer une infraction.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T3)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0032
 - Constitution
-- le Constitution
-- la Constitution
-- les Constitution
+- constitution
+- constitucion
+- constitusion
+- constitutions
 
 ### 📘 Constitution
 
-**Définition**
+**Définition simple :** La **Constitution** est le texte qui fixe les grandes règles de fonctionnement du pays. Elle organise les institutions et protège des droits fondamentaux.
 
-Texte fondamental qui organise les institutions françaises et garantit les droits et libertés.
-
-💡 **À retenir**
-
-Toutes les lois doivent respecter la Constitution.
-
-🔗 **Voir aussi**
-
-1. [➡️ République](SCR_GLO_0118)
-2. [➡️ Loi](SCR_GLO_0085)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T1)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0033
 - Contrat d'engagement à respecter les principes de la République
-- Contrat d'engagement a respecter les principes de la Republique
-- le Contrat d'engagement à respecter les principes de la République
-- la Contrat d'engagement à respecter les principes de la République
-- les Contrat d'engagement à respecter les principes de la République
+- contrat d engagement a respecter les principes de la republique
+- valeurs de la republique
 
 ### 📘 Contrat d'engagement à respecter les principes de la République
 
-**Définition**
+**Définition simple :** Engagement consistant à respecter les valeurs et les principes de la République française.
 
-Engagement consistant à respecter les valeurs et les principes de la République française.
+💡 Retenez : Le respect des principes républicains est attendu dans certains parcours administratifs.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 République](SCR_GLO_0118)
+1. [📘 Laïcité](SCR_GLO_0080)
 
-Le respect des principes républicains est attendu dans certains parcours administratifs.
-
-🔗 **Voir aussi**
-
-1. [➡️ République](SCR_GLO_0118)
-2. [➡️ Laïcité](SCR_GLO_0080)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T1)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0034
 - Contrat de travail
-- le Contrat de travail
-- la Contrat de travail
-- les Contrat de travail
+- contrat de travail
+- contrats de travail
 
 ### 📘 Contrat de travail
 
-**Définition**
+**Définition simple :** Le **contrat de travail** fixe les conditions de travail entre un employeur et un salarié.
 
-Accord entre un employeur et un salarié définissant les conditions de travail.
-
-💡 **À retenir**
-
-Le contrat précise les droits et les obligations de chacun.
-
-🔗 **Voir aussi**
-
-1. [➡️ CDI](SCR_GLO_0013)
-2. [➡️ CDD](SCR_GLO_0012)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T5)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0035
 - Contravention
-- le Contravention
-- la Contravention
-- les Contravention
+- contravention
+- contraventions
 
 ### 📘 Contravention
 
-**Définition**
+**Définition simple :** Infraction la moins grave.
 
-Infraction la moins grave.
+💡 Retenez : Elle est généralement punie d'une amende.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Délit](SCR_GLO_0039)
+1. [📘 Crime](SCR_GLO_0037)
 
-Elle est généralement punie d'une amende.
-
-🔗 **Voir aussi**
-
-1. [➡️ Délit](SCR_GLO_0039)
-2. [➡️ Crime](SCR_GLO_0037)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T3)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0218
+- Coq gaulois
+
+### 📘 Coq gaulois
+
+**Définition simple :** Animal utilisé comme symbole de la France, notamment dans le sport. Il ne remplace pas le drapeau tricolore.
+
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0141
 - Cotisations sociales
@@ -5592,10 +5734,8 @@ Elle est généralement punie d'une amende.
 **Définition simple :** Sommes versées par les salariés et les employeurs pour financer la protection sociale, notamment la maladie et la retraite.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0183
 - Cour d’assises
@@ -5607,71 +5747,44 @@ Elle est généralement punie d'une amende.
 **Définition simple :** Juridiction qui juge certains crimes avec des magistrats et un jury de citoyens.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0036
 - CPAM
-- le CPAM
-- la CPAM
-- les CPAM
+- cpam
 
 ### 📘 CPAM
 
-**Définition**
+**Définition simple :** La Caisse primaire d'assurance maladie gère l'Assurance maladie dans chaque département.
 
-La Caisse primaire d'assurance maladie gère l'Assurance maladie dans chaque département.
+💡 Retenez : Elle accompagne les assurés dans leurs démarches de santé.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Carte Vitale](SCR_GLO_0011)
+1. [📘 Assurance maladie](SCR_GLO_0006)
 
-Elle accompagne les assurés dans leurs démarches de santé.
-
-🔗 **Voir aussi**
-
-1. [➡️ Carte Vitale](SCR_GLO_0011)
-2. [➡️ Assurance maladie](SCR_GLO_0006)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T5)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0037
 - Crime
-- le Crime
-- la Crime
-- les Crime
+- crime
+- crimes
 
 ### 📘 Crime
 
-**Définition**
+**Définition simple :** Infraction la plus grave prévue par la loi.
 
-Infraction la plus grave prévue par la loi.
+💡 Retenez : Les crimes sont jugés par une cour d'assises.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Délit](SCR_GLO_0039)
 
-Les crimes sont jugés par une cour d'assises.
-
-🔗 **Voir aussi**
-
-1. [➡️ Délit](SCR_GLO_0039)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0188
 - Déchèterie
@@ -5682,10 +5795,8 @@ Les crimes sont jugés par une cour d'assises.
 **Définition simple :** Lieu où l’on dépose certains déchets qui ne doivent pas être mis dans les poubelles ordinaires.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0186
 - Déchets
@@ -5696,237 +5807,146 @@ Les crimes sont jugés par une cour d'assises.
 **Définition simple :** Objets ou matières dont on se débarrasse. Il faut respecter les règles de collecte, de tri et de traitement.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0038
 - Déclaration des droits de l'homme et du citoyen
-- Declaration des droits de l'homme et du citoyen
-- le Déclaration des droits de l'homme et du citoyen
-- la Déclaration des droits de l'homme et du citoyen
-- les Déclaration des droits de l'homme et du citoyen
+- declaration des droits de l homme et du citoyen
 
 ### 📘 Déclaration des droits de l'homme et du citoyen
 
-**Définition**
+**Définition simple :** Texte adopté en 1789 qui affirme les droits et libertés fondamentaux.
 
-Texte adopté en 1789 qui affirme les droits et libertés fondamentaux.
+💡 Retenez : C'est l'un des textes fondateurs de la République française.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Constitution](SCR_GLO_0032)
 
-C'est l'un des textes fondateurs de la République française.
-
-🔗 **Voir aussi**
-
-1. [➡️ Constitution](SCR_GLO_0032)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0039
 - Délit
-- Delit
-- le Délit
-- la Délit
-- les Délit
+- delit
+- delits
 
 ### 📘 Délit
 
-**Définition**
+**Définition simple :** Infraction plus grave qu'une contravention.
 
-Infraction plus grave qu'une contravention.
+💡 Retenez : Il peut être puni d'une peine de prison.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Crime](SCR_GLO_0037)
 
-Il peut être puni d'une peine de prison.
-
-🔗 **Voir aussi**
-
-1. [➡️ Crime](SCR_GLO_0037)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0242
+- Demandeur d’emploi
+
+### 📘 Demandeur d’emploi
+
+**Définition simple :** Personne qui recherche un travail et peut bénéficier d’un accompagnement adapté.
+
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0040
 - Démocratie
-- Democratie
-- le Démocratie
-- la Démocratie
-- les Démocratie
+- democratie
+- democracie
+- democratique
+- democraties
 
 ### 📘 Démocratie
 
-**Définition**
+**Définition simple :** Dans une **démocratie**, le peuple participe aux décisions, notamment en choisissant ses représentants par le vote.
 
-Régime politique dans lequel les citoyens participent à la vie publique par le vote ou le référendum.
-
-💡 **À retenir**
-
-La démocratie permet au peuple de participer aux décisions publiques.
-
-⚠️ **À ne pas confondre**
-
-Démocratie ≠ République.
-
-🔗 **Voir aussi**
-
-1. [➡️ République](SCR_GLO_0118)
-2. [➡️ Élection](SCR_GLO_0050)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T1)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0041
 - Département
-- Departement
-- le Département
-- la Département
-- les Département
+- departement
+- departements
 
 ### 📘 Département
 
-**Définition**
+**Définition simple :** Le département est une collectivité territoriale située entre la région et la commune.
 
-Le département est une collectivité territoriale située entre la région et la commune.
+💡 Retenez : La France compte 101 départements.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Région](SCR_GLO_0117)
+1. [📘 Commune](SCR_GLO_0024)
 
-La France compte 101 départements.
-
-🔗 **Voir aussi**
-
-1. [➡️ Région](SCR_GLO_0117)
-2. [➡️ Commune](SCR_GLO_0024)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T2)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0042
 - Député
-- Depute
-- le Député
-- la Député
-- les Député
+- depute
+- deputes
+- deputee
 
 ### 📘 Député
 
-**Définition**
+**Définition simple :** Un **député** est un représentant élu qui siège à l’Assemblée nationale. Il participe au vote des lois.
 
-Le député représente les citoyens à l'Assemblée nationale.
-
-💡 **À retenir**
-
-Il vote les lois.
-
-🔗 **Voir aussi**
-
-1. [➡️ Assemblée nationale](SCR_GLO_0004)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0043
 - Député européen
-- Depute europeen
-- le Député européen
-- la Député européen
-- les Député européen
+- depute europeen
+- deputes europeens
+- eurodepute
 
 ### 📘 Député européen
 
-**Définition**
+**Définition simple :** Représentant élu des citoyens au Parlement européen.
 
-Représentant élu des citoyens au Parlement européen.
+💡 Retenez : Les députés européens sont élus tous les cinq ans.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Parlement européen](SCR_GLO_0102)
 
-Les députés européens sont élus tous les cinq ans.
-
-🔗 **Voir aussi**
-
-1. [➡️ Parlement européen](SCR_GLO_0102)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0217
+- Devise
+
+### 📘 Devise
+
+**Définition simple :** Formule qui exprime des valeurs communes. La devise de la République française est « Liberté, Égalité, Fraternité ».
+
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0044
 - Devise de la République
-- Devise de la Republique
-- le Devise de la République
-- la Devise de la République
-- les Devise de la République
+- devise de la republique
+- devise
+- liberte egalite fraternite
 
 ### 📘 Devise de la République
 
-**Définition**
+**Définition simple :** La devise de la République française est **« Liberté, Égalité, Fraternité »**. Elle exprime trois valeurs communes.
 
-La devise officielle de la République française est :
-
-Liberté, Égalité, Fraternité.
-
-💡 **À retenir**
-
-Elle représente les trois valeurs fondamentales de la République.
-
-🔗 **Voir aussi**
-
-1. [➡️ Liberté](SCR_GLO_0082)
-2. [➡️ Égalité](SCR_GLO_0049)
-3. [➡️ Fraternité](SCR_GLO_0062)
-
-4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-5. [📚 Retour au thème](SCR_GLO_THEME_T1)
-6. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0209
 - Devoir
@@ -5937,41 +5957,21 @@ Elle représente les trois valeurs fondamentales de la République.
 **Définition simple :** Obligation à respecter pour vivre dans la société, notamment respecter la loi et les droits d’autrui.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0045
 - Dignité humaine
-- Dignite humaine
-- le Dignité humaine
-- la Dignité humaine
-- les Dignité humaine
+- dignite humaine
+- dignite
 
 ### 📘 Dignité humaine
 
-**Définition**
+**Définition simple :** La **dignité humaine** signifie que toute personne mérite le respect. On ne doit pas humilier une personne ni la traiter comme un objet.
 
-Principe selon lequel chaque personne doit être respectée et ne jamais être traitée comme un objet.
-
-💡 **À retenir**
-
-La dignité humaine est protégée par la loi.
-
-🔗 **Voir aussi**
-
-1. [➡️ Droits fondamentaux](SCR_GLO_0047)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0210
 - Discrimination
@@ -5982,10 +5982,8 @@ La dignité humaine est protégée par la loi.
 **Définition simple :** Traitement défavorable fondé sur un critère interdit par la loi, comme l’origine, le sexe ou le handicap.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0168
 - Divorce
@@ -5996,41 +5994,23 @@ La dignité humaine est protégée par la loi.
 **Définition simple :** Fin d’un mariage prononcée ou constatée selon une procédure légale.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0046
 - Drapeau français
-- Drapeau francais
-- le Drapeau français
-- la Drapeau français
-- les Drapeau français
+- drapeau francais
+- drapeau
+- drapeau tricolore
+- bleu blanc rouge
 
 ### 📘 Drapeau français
 
-**Définition**
+**Définition simple :** Le **drapeau français** comporte trois couleurs : bleu, blanc et rouge.
 
-Le drapeau national est composé de trois bandes verticales bleue, blanche et rouge.
-
-💡 **À retenir**
-
-Il est l'un des symboles officiels de la République.
-
-🔗 **Voir aussi**
-
-1. [➡️ La Marseillaise](SCR_GLO_0078)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T1)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0177
 - Droits civiques
@@ -6041,42 +6021,41 @@ Il est l'un des symboles officiels de la République.
 **Définition simple :** Droits qui permettent de participer à la vie citoyenne, notamment le droit de vote, selon les conditions prévues par la loi.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0225
+- Droits de la défense
+
+### 📘 Droits de la défense
+
+**Définition simple :** Garanties permettant à une personne de connaître ce qui lui est reproché, de se défendre et de bénéficier de l’aide d’un avocat.
+
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0047
 - Droits fondamentaux
-- le Droits fondamentaux
-- la Droits fondamentaux
-- les Droits fondamentaux
+- droits fondamentaux
+- droit fondamental
+- droits humains
+- droits de l homme
 
 ### 📘 Droits fondamentaux
 
-**Définition**
+**Définition simple :** Ensemble des droits et libertés reconnus à toute personne et garantis par la Constitution et les textes fondamentaux.
 
-Ensemble des droits et libertés reconnus à toute personne et garantis par la Constitution et les textes fondamentaux.
+💡 Retenez : Ils protègent la dignité, la liberté et l'égalité de chacun.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Constitution](SCR_GLO_0032)
+1. [📘 Liberté](SCR_GLO_0082)
+1. [📘 Égalité](SCR_GLO_0049)
 
-Ils protègent la dignité, la liberté et l'égalité de chacun.
-
-🔗 **Voir aussi**
-
-1. [➡️ Constitution](SCR_GLO_0032)
-2. [➡️ Liberté](SCR_GLO_0082)
-3. [➡️ Égalité](SCR_GLO_0049)
-
-4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-5. [📚 Retour au thème](SCR_GLO_THEME_T3)
-6. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0204
 - DROM
@@ -6087,108 +6066,72 @@ Ils protègent la dignité, la liberté et l'égalité de chacun.
 **Définition simple :** Départements et régions d’outre-mer : territoires français ayant ce statut administratif.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0048
 - École
-- Ecole
-- le École
-- la École
-- les École
+- ecole
+- ecoles
 
 ### 📘 École
 
-**Définition**
+**Définition simple :** Établissement où les enfants reçoivent un enseignement.
 
-Établissement où les enfants reçoivent un enseignement.
+💡 Retenez : L'instruction est obligatoire de 3 à 16 ans.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Collège](SCR_GLO_0022)
+1. [📘 Lycée](SCR_GLO_0086)
 
-L'instruction est obligatoire de 3 à 16 ans.
-
-🔗 **Voir aussi**
-
-1. [➡️ Collège](SCR_GLO_0022)
-2. [➡️ Lycée](SCR_GLO_0086)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T5)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0049
 - Égalité
-- Egalite
-- le Égalité
-- la Égalité
-- les Égalité
+- egalite
+- discrimination
+- egalites
+- egalite devant la loi
 
 ### 📘 Égalité
 
-**Définition**
+**Définition simple :** L’**égalité** signifie que chacun a les mêmes droits devant la loi. Une personne ne doit pas être traitée moins bien en raison, par exemple, de son origine ou de sa religion.
 
-Principe selon lequel toutes les personnes disposent des mêmes droits devant la loi.
-
-Principe selon lequel toutes les personnes bénéficient des mêmes droits devant la loi.
-
-💡 **À retenir**
-
-La loi est la même pour tous.
-
-Aucune discrimination n'est autorisée.
-
-🔗 **Voir aussi**
-
-1. [➡️ Liberté](SCR_GLO_0082)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T1)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0050
 - Élection
-- Election
-- le Élection
-- la Élection
-- les Élection
+- election
+- elections
+- electeur
 
 ### 📘 Élection
 
-**Définition**
+**Définition simple :** Procédure permettant aux citoyens de choisir leurs représentants.
 
-Procédure permettant aux citoyens de choisir leurs représentants.
+💡 Retenez : Les élections sont au cœur de la démocratie.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Suffrage universel](SCR_GLO_0127)
 
-Les élections sont au cœur de la démocratie.
-
-🔗 **Voir aussi**
-
-1. [➡️ Suffrage universel](SCR_GLO_0127)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0221
+- Élection présidentielle
+
+### 📘 Élection présidentielle
+
+**Définition simple :** Vote permettant de choisir le président de la République française. Les citoyens français remplissant les conditions de vote y participent.
+
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0160
 - Élections européennes
@@ -6199,10 +6142,8 @@ Les élections sont au cœur de la démocratie.
 **Définition simple :** Élections par lesquelles les citoyens de l’Union européenne choisissent leurs députés au Parlement européen.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0159
 - Élections municipales
@@ -6213,10 +6154,8 @@ Les élections sont au cœur de la démocratie.
 **Définition simple :** Élections qui permettent de choisir les conseillers municipaux. Ceux-ci élisent ensuite le maire.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0157
 - Éligibilité
@@ -6227,36 +6166,34 @@ Les élections sont au cœur de la démocratie.
 **Définition simple :** Possibilité de se présenter à une élection lorsque les conditions prévues par la loi sont remplies.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0051
 - Employeur
-- le Employeur
-- la Employeur
-- les Employeur
+- employeur
+- salarie
+- patron
+- employeurs
 
 ### 📘 Employeur
 
-**Définition**
+**Définition simple :** L’**employeur** est la personne ou l’organisation qui embauche un salarié et lui verse un salaire.
 
-Personne ou entreprise qui embauche un salarié.
-
-💡 **À retenir**
-
-L'employeur doit respecter le Code du travail.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T5)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0243
+- Entrepreneuriat
+
+### 📘 Entrepreneuriat
+
+**Définition simple :** Création et développement d’une activité ou d’une entreprise, dans le respect des obligations légales.
+
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0143
 - Entreprise
@@ -6267,40 +6204,27 @@ L'employeur doit respecter le Code du travail.
 **Définition simple :** Organisation qui produit des biens ou fournit des services. Elle peut employer des salariés.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0052
 - Environnement
-- le Environnement
-- la Environnement
-- les Environnement
+- environnement
+- proteger la nature
+- environnements
 
 ### 📘 Environnement
 
-**Définition**
+**Définition simple :** Ensemble des éléments naturels que chacun doit protéger.
 
-Ensemble des éléments naturels que chacun doit protéger.
+💡 Retenez : La protection de l'environnement est une responsabilité collective.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Charte de l'environnement](SCR_GLO_0016)
 
-La protection de l'environnement est une responsabilité collective.
-
-🔗 **Voir aussi**
-
-1. [➡️ Charte de l'environnement](SCR_GLO_0016)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0196
 - Esclavage
@@ -6311,73 +6235,44 @@ La protection de l'environnement est une responsabilité collective.
 **Définition simple :** Situation dans laquelle des personnes sont privées de leur liberté et traitées comme la propriété d’autrui.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0053
 - Espace Schengen
-- le Espace Schengen
-- la Espace Schengen
-- les Espace Schengen
+- espace schengen
 
 ### 📘 Espace Schengen
 
-**Définition**
+**Définition simple :** Espace dans lequel les contrôles aux frontières intérieures sont supprimés entre les États participants.
 
-Espace dans lequel les contrôles aux frontières intérieures sont supprimés entre les États participants.
+💡 Retenez : La France fait partie de l'espace Schengen.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Union européenne](SCR_GLO_0133)
 
-La France fait partie de l'espace Schengen.
-
-🔗 **Voir aussi**
-
-1. [➡️ Union européenne](SCR_GLO_0133)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0054
 - État
-- Etat
-- le État
-- la État
-- les État
+- etat
 
 ### 📘 État
 
-**Définition**
+**Définition simple :** L'État est l'organisation politique qui exerce son autorité sur le territoire français et garantit le respect des lois.
 
-L'État est l'organisation politique qui exerce son autorité sur le territoire français et garantit le respect des lois.
+💡 Retenez : L'État assure les services publics et protège les citoyens.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 République](SCR_GLO_0118)
+1. [📘 Gouvernement](SCR_GLO_0066)
+1. [📘 Préfet](SCR_GLO_0106)
 
-L'État assure les services publics et protège les citoyens.
-
-🔗 **Voir aussi**
-
-1. [➡️ République](SCR_GLO_0118)
-2. [➡️ Gouvernement](SCR_GLO_0066)
-3. [➡️ Préfet](SCR_GLO_0106)
-
-4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-5. [📚 Retour au thème](SCR_GLO_THEME_T2)
-6. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0166
 - État civil
@@ -6388,98 +6283,59 @@ L'État assure les services publics et protège les citoyens.
 **Définition simple :** Enregistrement officiel des événements importants de la vie d’une personne, notamment sa naissance, son mariage et son décès.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0055
 - Euro
-- le Euro
-- la Euro
-- les Euro
+- euro
 
 ### 📘 Euro
 
-**Définition**
+**Définition simple :** Monnaie utilisée par plusieurs pays de l'Union européenne.
 
-Monnaie utilisée par plusieurs pays de l'Union européenne.
+💡 Retenez : L'euro est la monnaie officielle de la France.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Union européenne](SCR_GLO_0133)
 
-L'euro est la monnaie officielle de la France.
-
-🔗 **Voir aussi**
-
-1. [➡️ Union européenne](SCR_GLO_0133)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0056
 - Fête de la Musique
-- Fete de la Musique
-- le Fête de la Musique
-- la Fête de la Musique
-- les Fête de la Musique
+- fete de la musique
+- culture
 
 ### 📘 Fête de la Musique
 
-**Définition**
+**Définition simple :** Manifestation culturelle organisée chaque année le 21 juin.
 
-Manifestation culturelle organisée chaque année le 21 juin.
+💡 Retenez : Elle permet à tous de partager la musique gratuitement.
 
-💡 **À retenir**
-
-Elle permet à tous de partager la musique gratuitement.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0057
 - Fête nationale
-- Fete nationale
-- le Fête nationale
-- la Fête nationale
-- les Fête nationale
+- fete nationale
+- 14 juillet
+- quatorze juillet
 
 ### 📘 Fête nationale
 
-**Définition**
+**Définition simple :** La fête nationale française est célébrée chaque année le 14 juillet.
 
-La fête nationale française est célébrée chaque année le 14 juillet.
+💡 Retenez : Elle commémore la prise de la Bastille et la Fête de la Fédération.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 République](SCR_GLO_0118)
 
-Elle commémore la prise de la Bastille et la Fête de la Fédération.
-
-🔗 **Voir aussi**
-
-1. [➡️ République](SCR_GLO_0118)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T1)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0202
 - Fleuve
@@ -6490,238 +6346,142 @@ Elle commémore la prise de la Bastille et la Fête de la Fédération.
 **Définition simple :** Cours d’eau qui se jette dans la mer ou dans l’océan.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0058
 - France métropolitaine
-- France metropolitaine
-- le France métropolitaine
-- la France métropolitaine
-- les France métropolitaine
+- france metropolitaine
+- metropole
+- metropolitaine
 
 ### 📘 France métropolitaine
 
-**Définition**
+**Définition simple :** Partie du territoire français située en Europe.
 
-Partie du territoire français située en Europe.
+💡 Retenez : Elle est composée de 13 régions.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Outre-mer](SCR_GLO_0100)
 
-Elle est composée de 13 régions.
-
-🔗 **Voir aussi**
-
-1. [➡️ Outre-mer](SCR_GLO_0100)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0059
 - France Services
-- le France Services
-- la France Services
-- les France Services
+- france services
+- maison france services
 
 ### 📘 France Services
 
-**Définition**
+**Définition simple :** **France Services** est un lieu où l’on peut être accompagné pour réaliser des démarches administratives.
 
-Réseau de guichets de proximité permettant d'effectuer de nombreuses démarches administratives.
-
-💡 **À retenir**
-
-France Services accompagne les usagers gratuitement.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T5)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0060
 - France Travail
-- le France Travail
-- la France Travail
-- les France Travail
+- france travail
+- formation
+- emploi
+- pole emploi
 
 ### 📘 France Travail
 
-**Définition**
+**Définition simple :** **France Travail** accompagne les personnes qui cherchent un emploi, notamment dans leurs recherches et leurs démarches.
 
-Établissement public qui accompagne les personnes dans leur recherche d'emploi.
-
-💡 **À retenir**
-
-France Travail remplace Pôle emploi.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T5)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0061
 - Francophonie
-- le Francophonie
-- la Francophonie
-- les Francophonie
+- francophonie
+- langue francaise
+- francophonies
 
 ### 📘 Francophonie
 
-**Définition**
+**Définition simple :** Ensemble des personnes et des pays qui utilisent la langue française.
 
-Ensemble des personnes et des pays qui utilisent la langue française.
+💡 Retenez : Le français est parlé sur les cinq continents.
 
-💡 **À retenir**
-
-Le français est parlé sur les cinq continents.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0062
 - Fraternité
-- Fraternite
-- le Fraternité
-- la Fraternité
-- les Fraternité
+- fraternite
+- solidarite
+- entraide
+- fraternites
 
 ### 📘 Fraternité
 
-**Définition**
+**Définition simple :** La **fraternité** signifie vivre ensemble avec respect et solidarité. Aider une personne en difficulté est un exemple de solidarité.
 
-Valeur qui encourage la solidarité, l'entraide et le respect entre les personnes.
-
-💡 **À retenir**
-
-La fraternité favorise le vivre ensemble.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T1)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0063
 - Gastronomie française
-- Gastronomie francaise
-- le Gastronomie française
-- la Gastronomie française
-- les Gastronomie française
+- gastronomie francaise
 
 ### 📘 Gastronomie française
 
-**Définition**
+**Définition simple :** Ensemble des traditions culinaires françaises.
 
-Ensemble des traditions culinaires françaises.
+💡 Retenez : Le repas gastronomique des Français est inscrit au patrimoine culturel immatériel de l'UNESCO.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 UNESCO](SCR_GLO_0132)
 
-Le repas gastronomique des Français est inscrit au patrimoine culturel immatériel de l'UNESCO.
-
-🔗 **Voir aussi**
-
-1. [➡️ UNESCO](SCR_GLO_0132)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0064
 - Gaule
-- le Gaule
-- la Gaule
-- les Gaule
+- gaule
+- jules cesar
+- gaules
 
 ### 📘 Gaule
 
-**Définition**
+**Définition simple :** Nom donné au territoire de la France actuelle avant la conquête romaine.
 
-Nom donné au territoire de la France actuelle avant la conquête romaine.
+💡 Retenez : La Gaule était peuplée de peuples celtes.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Celtes](SCR_GLO_0014)
+1. [📘 Vercingétorix](SCR_GLO_0135)
 
-La Gaule était peuplée de peuples celtes.
-
-🔗 **Voir aussi**
-
-1. [➡️ Celtes](SCR_GLO_0014)
-2. [➡️ Vercingétorix](SCR_GLO_0135)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T4)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0065
 - Gendarmerie
-- le Gendarmerie
-- la Gendarmerie
-- les Gendarmerie
+- gendarmerie
+- gendarmes
+- gendarmeries
 
 ### 📘 Gendarmerie
 
-**Définition**
+**Définition simple :** Force militaire chargée de missions de sécurité publique.
 
-Force militaire chargée de missions de sécurité publique.
+💡 Retenez : Elle intervient principalement en zone rurale.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Police](SCR_GLO_0104)
 
-Elle intervient principalement en zone rurale.
-
-🔗 **Voir aussi**
-
-1. [➡️ Police](SCR_GLO_0104)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0195
 - Génocide
@@ -6732,49 +6492,26 @@ Elle intervient principalement en zone rurale.
 **Définition simple :** Actes commis avec l’intention de détruire, en tout ou en partie, un groupe national, ethnique, racial ou religieux.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0066
 - Gouvernement
-- le Gouvernement
-- la Gouvernement
-- les Gouvernement
+- gouvernement
+- gouv
+- gouvernements
+- gouvernment
+- gouvernemant
+- gouvernemen
+- equipe des ministres
 
 ### 📘 Gouvernement
 
-**Définition**
+**Définition simple :** Le **gouvernement** est l’équipe qui dirige l’action du pays au quotidien. En France, il est composé du **Premier ministre et des ministres**. Il prépare des projets de loi et fait appliquer les lois. **Le Parlement vote les lois : ce n’est pas le même rôle.**
 
-Le Gouvernement conduit la politique de la Nation.
-
-Il est composé du Premier ministre et des ministres.
-
-💡 **À retenir**
-
-Il prépare les projets de loi et applique les lois.
-
-⚠️ **À ne pas confondre**
-
-Le Gouvernement propose les lois.
-
-Le Parlement les vote.
-
-🔗 **Voir aussi**
-
-1. [➡️ Premier ministre](SCR_GLO_0107)
-2. [➡️ Parlement](SCR_GLO_0101)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T2)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0146
 - Grève
@@ -6785,70 +6522,44 @@ Le Parlement les vote.
 **Définition simple :** Arrêt collectif du travail destiné à défendre des revendications professionnelles. Ce droit s’exerce dans un cadre légal.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0067
 - Guadeloupe
-- le Guadeloupe
-- la Guadeloupe
-- les Guadeloupe
+- guadeloupe
+- guadeloupes
 
 ### 📘 Guadeloupe
 
-**Définition**
+**Définition simple :** Département et région d'outre-mer situé dans les Caraïbes.
 
-Département et région d'outre-mer situé dans les Caraïbes.
+💡 Retenez : Elle est connue pour ses plages, son volcan de la Soufrière et sa biodiversité.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Outre-mer](SCR_GLO_0100)
 
-Elle est connue pour ses plages, son volcan de la Soufrière et sa biodiversité.
-
-🔗 **Voir aussi**
-
-1. [➡️ Outre-mer](SCR_GLO_0100)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0068
 - Guyane
-- le Guyane
-- la Guyane
-- les Guyane
+- guyane
+- guyanes
 
 ### 📘 Guyane
 
-**Définition**
+**Définition simple :** Département et région d'outre-mer situé en Amérique du Sud.
 
-Département et région d'outre-mer situé en Amérique du Sud.
+💡 Retenez : La Guyane accueille le Centre spatial guyanais de Kourou et possède une vaste forêt amazonienne.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Outre-mer](SCR_GLO_0100)
 
-La Guyane accueille le Centre spatial guyanais de Kourou et possède une vaste forêt amazonienne.
-
-🔗 **Voir aussi**
-
-1. [➡️ Outre-mer](SCR_GLO_0100)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0147
 - Handicap
@@ -6859,157 +6570,94 @@ La Guyane accueille le Centre spatial guyanais de Kourou et possède une vaste f
 **Définition simple :** Limitation d’activité ou difficulté de participation à la vie sociale liée notamment à une altération physique, sensorielle ou mentale.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0069
 - Harcèlement
-- Harcelement
-- le Harcèlement
-- la Harcèlement
-- les Harcèlement
+- harcelement
+- harcelement moral
+- harcelement au travail
+- harcelements
 
 ### 📘 Harcèlement
 
-**Définition**
+**Définition simple :** Violences ou comportements répétés ayant pour effet de dégrader les conditions de vie d'une personne.
 
-Violences ou comportements répétés ayant pour effet de dégrader les conditions de vie d'une personne.
+💡 Retenez : Le harcèlement est puni par la loi.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Harcèlement scolaire](SCR_GLO_0070)
 
-Le harcèlement est puni par la loi.
-
-🔗 **Voir aussi**
-
-1. [➡️ Harcèlement scolaire](SCR_GLO_0070)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0070
 - Harcèlement scolaire
-- Harcelement scolaire
-- le Harcèlement scolaire
-- la Harcèlement scolaire
-- les Harcèlement scolaire
+- harcelement scolaire
+- harcelement a l ecole
 
 ### 📘 Harcèlement scolaire
 
-**Définition**
+**Définition simple :** Violences répétées subies par un élève de la part d'autres élèves.
 
-Violences répétées subies par un élève de la part d'autres élèves.
+💡 Retenez : Il s'agit d'un délit.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Violence](SCR_GLO_0136)
 
-Il s'agit d'un délit.
-
-🔗 **Voir aussi**
-
-1. [➡️ Violence](SCR_GLO_0136)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0071
 - Hôpital
-- Hopital
-- le Hôpital
-- la Hôpital
-- les Hôpital
+- hopital
+- hopitals
 
 ### 📘 Hôpital
 
-**Définition**
+**Définition simple :** Établissement de santé où sont assurés les soins médicaux et chirurgicaux.
 
-Établissement de santé où sont assurés les soins médicaux et chirurgicaux.
+💡 Retenez : Les hôpitaux publics accueillent tous les patients.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Urgences](SCR_GLO_0134)
 
-Les hôpitaux publics accueillent tous les patients.
-
-🔗 **Voir aussi**
-
-1. [➡️ Urgences](SCR_GLO_0134)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0072
 - Île-de-France
-- Ile-de-France
-- le Île-de-France
-- la Île-de-France
-- les Île-de-France
+- ile de france
+- paris
 
 ### 📘 Île-de-France
 
-**Définition**
+**Définition simple :** Région où se situe Paris, capitale de la France.
 
-Région où se situe Paris, capitale de la France.
+💡 Retenez : Elle est la région la plus peuplée du pays et concentre de nombreuses institutions nationales.
 
-💡 **À retenir**
-
-Elle est la région la plus peuplée du pays et concentre de nombreuses institutions nationales.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0073
 - Impôt
-- Impot
-- le Impôt
-- la Impôt
-- les Impôt
+- impot
+- services publics
+- impots
+- taxes
 
 ### 📘 Impôt
 
-**Définition**
+**Définition simple :** L’**impôt** est une somme payée pour financer les dépenses publiques, par exemple les écoles et les services publics.
 
-Somme versée à l'État ou aux collectivités pour financer les services publics.
-
-💡 **À retenir**
-
-Le paiement des impôts est une obligation.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T3)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0200
 - Impressionnisme
@@ -7020,42 +6668,39 @@ Le paiement des impôts est une obligation.
 **Définition simple :** Courant artistique du XIXe siècle qui représente notamment les impressions de lumière et de couleur.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0244
+- Inclusion
+
+### 📘 Inclusion
+
+**Définition simple :** Organisation de la société pour permettre à chacun de participer, notamment aux personnes en situation de handicap.
+
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0074
 - Infraction
-- le Infraction
-- la Infraction
-- les Infraction
+- infraction
+- infractions
 
 ### 📘 Infraction
 
-**Définition**
+**Définition simple :** Acte interdit par la loi.
 
-Acte interdit par la loi.
+💡 Retenez : Une infraction peut être sanctionnée.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Contravention](SCR_GLO_0035)
+1. [📘 Délit](SCR_GLO_0039)
+1. [📘 Crime](SCR_GLO_0037)
 
-Une infraction peut être sanctionnée.
-
-🔗 **Voir aussi**
-
-1. [➡️ Contravention](SCR_GLO_0035)
-2. [➡️ Délit](SCR_GLO_0039)
-3. [➡️ Crime](SCR_GLO_0037)
-
-4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-5. [📚 Retour au thème](SCR_GLO_THEME_T3)
-6. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0171
 - Instruction obligatoire
@@ -7066,41 +6711,26 @@ Une infraction peut être sanctionnée.
 **Définition simple :** Obligation de donner à chaque enfant une instruction. Elle peut être assurée à l’école ou, sous conditions, dans la famille.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0075
 - Intégrité de la personne
-- Integrite de la personne
-- le Intégrité de la personne
-- la Intégrité de la personne
-- les Intégrité de la personne
+- integrite de la personne
+- integrite
 
 ### 📘 Intégrité de la personne
 
-**Définition**
+**Définition simple :** Droit de chacun à la protection de son corps et de son esprit.
 
-Droit de chacun à la protection de son corps et de son esprit.
+💡 Retenez : Toute atteinte injustifiée à l'intégrité est interdite.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Dignité humaine](SCR_GLO_0045)
 
-Toute atteinte injustifiée à l'intégrité est interdite.
-
-🔗 **Voir aussi**
-
-1. [➡️ Dignité humaine](SCR_GLO_0045)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0173
 - Intérêt général
@@ -7111,10 +6741,8 @@ Toute atteinte injustifiée à l'intégrité est interdite.
 **Définition simple :** Ce qui sert le bien commun, au-delà des intérêts particuliers d’une personne ou d’un groupe.
 
 1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0185
 - IVG
@@ -7125,10 +6753,19 @@ Toute atteinte injustifiée à l'intégrité est interdite.
 **Définition simple :** Interruption volontaire de grossesse : démarche permettant de mettre fin à une grossesse dans le cadre prévu par la loi.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0238
+- Jour férié
+
+### 📘 Jour férié
+
+**Définition simple :** Jour lié à une fête ou à une commémoration. Un jour férié n’est pas toujours un jour sans travail : les règles dépendent de la situation.
+
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0207
 - Journée de l’Europe
@@ -7139,41 +6776,25 @@ Toute atteinte injustifiée à l'intégrité est interdite.
 **Définition simple :** Journée célébrée le 9 mai pour rappeler le projet de coopération européenne et la déclaration de Robert Schuman.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0076
 - Journées européennes du patrimoine
-- Journees europeennes du patrimoine
-- le Journées européennes du patrimoine
-- la Journées européennes du patrimoine
-- les Journées européennes du patrimoine
+- journees europeennes du patrimoine
 
 ### 📘 Journées européennes du patrimoine
 
-**Définition**
+**Définition simple :** Événement annuel permettant de découvrir gratuitement de nombreux lieux patrimoniaux.
 
-Événement annuel permettant de découvrir gratuitement de nombreux lieux patrimoniaux.
+💡 Retenez : Elles ont lieu chaque année en septembre.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Patrimoine](SCR_GLO_0103)
 
-Elles ont lieu chaque année en septembre.
-
-🔗 **Voir aussi**
-
-1. [➡️ Patrimoine](SCR_GLO_0103)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0180
 - Juge
@@ -7184,10 +6805,19 @@ Elles ont lieu chaque année en septembre.
 **Définition simple :** Professionnel de la justice qui applique la loi et rend des décisions pour trancher des litiges ou juger des infractions.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0234
+- Jules Ferry
+
+### 📘 Jules Ferry
+
+**Définition simple :** Responsable politique associé aux lois de 1881 et 1882 rendant l’école primaire publique gratuite, puis l’instruction obligatoire et l’enseignement public laïque.
+
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0182
 - Juré
@@ -7198,233 +6828,152 @@ Elles ont lieu chaque année en septembre.
 **Définition simple :** Citoyen appelé à participer à un jury et à juger certaines affaires aux côtés de magistrats.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0077
 - Justice
-- le Justice
-- la Justice
-- les Justice
+- justice
+- tribunal
+- tribunaux
+- justices
 
 ### 📘 Justice
 
-**Définition**
+**Définition simple :** La **justice** fait respecter les règles, règle les conflits et sanctionne les infractions. Elle protège aussi les droits des personnes.
 
-La justice règle les conflits et sanctionne les infractions.
-
-💡 **À retenir**
-
-Elle est indépendante.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T2)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0078
 - La Marseillaise
+- la marseillaise
+- marseillaise
+- hymne national
+- hymne de la france
 
 ### 📘 La Marseillaise
 
-**Définition**
+**Définition simple :** **La Marseillaise** est l’hymne national de la France.
 
-La Marseillaise est l'hymne national français.
-
-💡 **À retenir**
-
-Elle est chantée lors des cérémonies officielles.
-
-🔗 **Voir aussi**
-
-1. [➡️ Drapeau français](SCR_GLO_0046)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T1)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0079
 - La Réunion
-- La Reunion
+- la reunion
 
 ### 📘 La Réunion
 
-**Définition**
+**Définition simple :** Département et région d'outre-mer situé dans l'océan Indien.
 
-Département et région d'outre-mer situé dans l'océan Indien.
+💡 Retenez : L'île est connue pour ses cirques, son volcan actif et ses paysages naturels.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Outre-mer](SCR_GLO_0100)
 
-L'île est connue pour ses cirques, son volcan actif et ses paysages naturels.
-
-🔗 **Voir aussi**
-
-1. [➡️ Outre-mer](SCR_GLO_0100)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0080
 - Laïcité
-- Laicite
-- le Laïcité
-- la Laïcité
-- les Laïcité
+- laicite
+- laicitee
+- laique
+- laic
+- separation des eglises et de l etat
+- laicites
+- laicité
 
 ### 📘 Laïcité
 
-**Définition**
+**Définition simple :** La **laïcité** permet à chacun de croire, de ne pas croire ou de changer de religion. L’État reste neutre à l’égard des religions. Chacun doit respecter la liberté des autres.
 
-Principe garantissant la liberté de conscience, la neutralité de l'État et le respect de toutes les convictions.
-
-💡 **À retenir**
-
-La République respecte toutes les croyances et garantit la liberté de religion ou de ne pas avoir de religion.
-
-⚠️ **À ne pas confondre**
-
-La laïcité n'interdit pas les religions.
-
-Elle garantit leur libre exercice dans le respect de la loi.
-
-🔗 **Voir aussi**
-
-1. [➡️ Neutralité](SCR_GLO_0098)
-2. [➡️ Liberté de conscience](SCR_GLO_0083)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T1)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0081
 - Langue de la République
-- Langue de la Republique
-- le Langue de la République
-- la Langue de la République
-- les Langue de la République
+- langue de la republique
 
 ### 📘 Langue de la République
 
-**Définition**
+**Définition simple :** Le français est la langue officielle de la République française.
 
-Le français est la langue officielle de la République française.
+💡 Retenez : Le français est utilisé dans les administrations, les écoles et les services publics.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 République](SCR_GLO_0118)
 
-Le français est utilisé dans les administrations, les écoles et les services publics.
-
-🔗 **Voir aussi**
-
-1. [➡️ République](SCR_GLO_0118)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T1)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0082
 - Liberté
-- Liberte
-- le Liberté
-- la Liberté
-- les Liberté
+- liberte
+- liberte d expression
+- libertes
 
 ### 📘 Liberté
 
-**Définition**
+**Définition simple :** La **liberté** permet de faire des choix et de s’exprimer. Elle s’exerce dans le respect de la loi et des droits des autres.
 
-Valeur qui permet à chacun de penser, de s'exprimer et d'agir dans le respect de la loi et des autres.
-
-Droit reconnu à chacun de penser, de s'exprimer et d'agir dans le respect de la loi.
-
-💡 **À retenir**
-
-La liberté s'exerce dans le respect des droits d'autrui.
-
-La liberté est un droit fondamental.
-
-⚠️ **À ne pas confondre**
-
-Liberté ≠ absence de règles.
-
-La liberté ne permet pas de porter atteinte aux droits des autres.
-
-🔗 **Voir aussi**
-
-1. [➡️ Égalité](SCR_GLO_0049)
-2. [➡️ Fraternité](SCR_GLO_0062)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T1)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0214
+- Liberté d’association
+
+### 📘 Liberté d’association
+
+**Définition simple :** Droit de se réunir avec d’autres personnes pour créer une association et mener un projet commun dans le respect de la loi.
+
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_GLO_0213
+- Liberté d’expression
+- liberte expression
+
+### 📘 Liberté d’expression
+
+**Définition simple :** Droit de communiquer ses idées et ses opinions, dans les limites prévues par la loi, notamment pour protéger les droits des autres.
+
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_GLO_0215
+- Liberté de circulation
+
+### 📘 Liberté de circulation
+
+**Définition simple :** Possibilité de se déplacer, dans les conditions prévues par la loi. Certaines restrictions peuvent protéger la sécurité ou les droits d’autrui.
+
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0083
 - Liberté de conscience
-- Liberte de conscience
-- le Liberté de conscience
-- la Liberté de conscience
-- les Liberté de conscience
+- liberte de conscience
+- choisir sa religion
+- liberte religieuse
 
 ### 📘 Liberté de conscience
 
-**Définition**
+**Définition simple :** La **liberté de conscience** permet à chacun de choisir ses convictions : croire, ne pas croire ou changer de religion.
 
-Droit de choisir librement ses convictions religieuses, philosophiques ou de ne pas en avoir.
-
-💡 **À retenir**
-
-Cette liberté est protégée par la République.
-
-🔗 **Voir aussi**
-
-1. [➡️ Laïcité](SCR_GLO_0080)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T1)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0158
 - Listes électorales
@@ -7435,10 +6984,8 @@ Cette liberté est protégée par la République.
 **Définition simple :** Listes des personnes inscrites pour voter dans une commune ou dans une circonscription.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0201
 - Littérature
@@ -7449,165 +6996,98 @@ Cette liberté est protégée par la République.
 **Définition simple :** Ensemble des œuvres écrites, comme les romans, la poésie ou le théâtre.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0084
 - Locataire
-- le Locataire
-- la Locataire
-- les Locataire
+- locataire
+- locataires
 
 ### 📘 Locataire
 
-**Définition**
+**Définition simple :** Le **locataire** est la personne qui loue un logement et paie un loyer au propriétaire.
 
-Personne qui loue un logement.
-
-💡 **À retenir**
-
-Le locataire doit payer son loyer et entretenir le logement.
-
-🔗 **Voir aussi**
-
-1. [➡️ Bail](SCR_GLO_0007)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0085
 - Loi
-- le Loi
-- la Loi
-- les Loi
+- loi
 
 ### 📘 Loi
 
-**Définition**
+**Définition simple :** Une **loi** est une règle votée par le Parlement. Elle fixe ce qui est autorisé, obligatoire ou interdit.
 
-Règle votée par le Parlement qui s'impose à tous.
-
-💡 **À retenir**
-
-Toute personne vivant en France doit respecter la loi.
-
-🔗 **Voir aussi**
-
-1. [➡️ Parlement](SCR_GLO_0101)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0236
+- Loire
+
+### 📘 Loire
+
+**Définition simple :** Plus long fleuve de France. Il se jette dans l’océan Atlantique.
+
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_GLO_0235
+- Louis XVI
+
+### 📘 Louis XVI
+
+**Définition simple :** Roi de France au début de la Révolution française. Il est exécuté en 1793.
+
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0086
 - Lycée
-- Lycee
-- le Lycée
-- la Lycée
-- les Lycée
+- lycee
+- baccalaureat
+- lycees
 
 ### 📘 Lycée
 
-**Définition**
+**Définition simple :** Établissement préparant les élèves au baccalauréat ou à une formation professionnelle.
 
-Établissement préparant les élèves au baccalauréat ou à une formation professionnelle.
+💡 Retenez : Il existe des lycées généraux, technologiques et professionnels.
 
-💡 **À retenir**
-
-Il existe des lycées généraux, technologiques et professionnels.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T5)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0087
 - Maire
-- le Maire
-- la Maire
-- les Maire
+- maire
+- maires
 
 ### 📘 Maire
 
-**Définition**
+**Définition simple :** Le **maire** dirige la commune avec le conseil municipal. Il intervient dans les affaires locales.
 
-Le maire dirige une commune.
-
-💡 **À retenir**
-
-Il est élu par le conseil municipal.
-
-⚠️ **À ne pas confondre**
-
-Le maire dirige une commune.
-
-Le préfet représente l'État.
-
-🔗 **Voir aussi**
-
-1. [➡️ Commune](SCR_GLO_0024)
-2. [➡️ Préfet](SCR_GLO_0106)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T2)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0088
 - Mairie
-- le Mairie
-- la Mairie
-- les Mairie
+- mairie
+- hotel de ville
+- mairies
 
 ### 📘 Mairie
 
-**Définition**
+**Définition simple :** La **mairie** est le lieu où travaillent les services de la commune. On peut y faire certaines démarches administratives.
 
-Administration de la commune dirigée par le maire.
-
-💡 **À retenir**
-
-De nombreuses démarches administratives y sont réalisées.
-
-🔗 **Voir aussi**
-
-1. [➡️ Commune](SCR_GLO_0024)
-2. [➡️ Maire](SCR_GLO_0087)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T5)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0208
 - Majorité
@@ -7618,10 +7098,8 @@ De nombreuses démarches administratives y sont réalisées.
 **Définition simple :** Âge à partir duquel une personne devient juridiquement adulte. Le mot désigne aussi le plus grand nombre de voix dans un vote.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0154
 - Mandat
@@ -7632,131 +7110,80 @@ De nombreuses démarches administratives y sont réalisées.
 **Définition simple :** Mission confiée à une personne, notamment à un élu, pour une durée déterminée.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0089
 - Marianne
-- le Marianne
-- la Marianne
-- les Marianne
+- marianne
+- mariannes
 
 ### 📘 Marianne
 
-**Définition**
+**Définition simple :** Marianne est la représentation symbolique de la République française.
 
-Marianne est la représentation symbolique de la République française.
+💡 Retenez : Elle symbolise la liberté et la République.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 République](SCR_GLO_0118)
 
-Elle symbolise la liberté et la République.
-
-🔗 **Voir aussi**
-
-1. [➡️ République](SCR_GLO_0118)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T1)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0090
 - Martinique
-- le Martinique
-- la Martinique
-- les Martinique
+- martinique
+- martiniques
 
 ### 📘 Martinique
 
-**Définition**
+**Définition simple :** Département et région d'outre-mer situé dans les Caraïbes.
 
-Département et région d'outre-mer situé dans les Caraïbes.
+💡 Retenez : La Martinique est célèbre pour la montagne Pelée et son patrimoine culturel.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Outre-mer](SCR_GLO_0100)
 
-La Martinique est célèbre pour la montagne Pelée et son patrimoine culturel.
-
-🔗 **Voir aussi**
-
-1. [➡️ Outre-mer](SCR_GLO_0100)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0091
 - Mayotte
-- le Mayotte
-- la Mayotte
-- les Mayotte
+- mayotte
+- mayottes
 
 ### 📘 Mayotte
 
-**Définition**
+**Définition simple :** Département et région d'outre-mer situé dans l'océan Indien.
 
-Département et région d'outre-mer situé dans l'océan Indien.
+💡 Retenez : Mayotte est le département le plus récent de la République française.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Outre-mer](SCR_GLO_0100)
 
-Mayotte est le département le plus récent de la République française.
-
-🔗 **Voir aussi**
-
-1. [➡️ Outre-mer](SCR_GLO_0100)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0092
 - Médecin traitant
-- Medecin traitant
-- le Médecin traitant
-- la Médecin traitant
-- les Médecin traitant
+- medecin traitant
+- docteur traitant
 
 ### 📘 Médecin traitant
 
-**Définition**
+**Définition simple :** Médecin choisi par le patient pour assurer son suivi médical.
 
-Médecin choisi par le patient pour assurer son suivi médical.
+💡 Retenez : Le déclarer permet un meilleur remboursement des soins.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Assurance maladie](SCR_GLO_0006)
 
-Le déclarer permet un meilleur remboursement des soins.
-
-🔗 **Voir aussi**
-
-1. [➡️ Assurance maladie](SCR_GLO_0006)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0203
 - Méditerranée
@@ -7767,42 +7194,34 @@ Le déclarer permet un meilleur remboursement des soins.
 **Définition simple :** Mer située au sud de la France, entre l’Europe, l’Afrique du Nord et le Proche-Orient.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0093
 - Ministre
-- le Ministre
-- la Ministre
-- les Ministre
+- ministre
+- ministres
+- minister
+- minstre
 
 ### 📘 Ministre
 
-**Définition**
+**Définition simple :** Un **ministre** fait partie du Gouvernement. Il s’occupe d’un domaine, comme l’éducation, la santé ou la justice.
 
-Un ministre est membre du Gouvernement.
-
-Il est responsable d'un domaine particulier (éducation, santé, intérieur...).
-
-💡 **À retenir**
-
-Chaque ministre dirige un ministère.
-
-🔗 **Voir aussi**
-
-1. [➡️ Gouvernement](SCR_GLO_0066)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0216
+- Mixité
+
+### 📘 Mixité
+
+**Définition simple :** Présence et participation de femmes et d’hommes dans un même espace ou une même activité, avec les mêmes droits.
+
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0199
 - Monarchie
@@ -7813,98 +7232,58 @@ Chaque ministre dirige un ministère.
 **Définition simple :** Régime politique dans lequel le chef de l’État est un roi ou une reine.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0094
 - Mont-Saint-Michel
-- le Mont-Saint-Michel
-- la Mont-Saint-Michel
-- les Mont-Saint-Michel
+- mont saint michel
 
 ### 📘 Mont-Saint-Michel
 
-**Définition**
+**Définition simple :** Îlot rocheux situé en Normandie sur lequel est construite une abbaye.
 
-Îlot rocheux situé en Normandie sur lequel est construite une abbaye.
+💡 Retenez : Il est inscrit au patrimoine mondial de l'UNESCO.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 UNESCO](SCR_GLO_0132)
+1. [📘 Patrimoine](SCR_GLO_0103)
 
-Il est inscrit au patrimoine mondial de l'UNESCO.
-
-🔗 **Voir aussi**
-
-1. [➡️ UNESCO](SCR_GLO_0132)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0095
 - Musée du Louvre
-- Musee du Louvre
-- le Musée du Louvre
-- la Musée du Louvre
-- les Musée du Louvre
+- musee du louvre
+- paris
 
 ### 📘 Musée du Louvre
 
-**Définition**
+**Définition simple :** Plus grand musée d'art de France situé à Paris.
 
-Plus grand musée d'art de France situé à Paris.
+💡 Retenez : Il abrite notamment la Joconde.
 
-💡 **À retenir**
-
-Il abrite notamment la Joconde.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0096
 - Mutilations sexuelles féminines
-- Mutilations sexuelles feminines
-- le Mutilations sexuelles féminines
-- la Mutilations sexuelles féminines
-- les Mutilations sexuelles féminines
+- mutilations sexuelles feminines
 
 ### 📘 Mutilations sexuelles féminines
 
-**Définition**
+**Définition simple :** Interventions consistant à retirer partiellement ou totalement les organes génitaux féminins sans raison médicale.
 
-Interventions consistant à retirer partiellement ou totalement les organes génitaux féminins sans raison médicale.
+💡 Retenez : Elles sont interdites et sévèrement punies en France.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Violence](SCR_GLO_0136)
 
-Elles sont interdites et sévèrement punies en France.
-
-🔗 **Voir aussi**
-
-1. [➡️ Violence](SCR_GLO_0136)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0148
 - Mutuelle
@@ -7915,10 +7294,8 @@ Elles sont interdites et sévèrement punies en France.
 **Définition simple :** Organisme de complémentaire santé qui peut prendre en charge une partie des dépenses restant après le remboursement de l’Assurance maladie.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0167
 - Naissance
@@ -7929,67 +7306,55 @@ Elles sont interdites et sévèrement punies en France.
 **Définition simple :** Venue au monde d’un enfant. Elle doit être déclarée à l’état civil dans les conditions prévues par la loi.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0231
+- Napoléon Bonaparte
+
+### 📘 Napoléon Bonaparte
+
+**Définition simple :** Dirigeant français devenu empereur en 1804. Son époque est notamment associée au Code civil.
+
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0097
 - Naturalisation
-- le Naturalisation
-- la Naturalisation
-- les Naturalisation
+- naturalisation
+- nationalite francaise
+- devenir francais
+- devenir francaise
+- naturalisations
+- nationalité française
+- devenir français
 
 ### 📘 Naturalisation
 
-**Définition**
+**Définition simple :** La **naturalisation** est une procédure qui permet de devenir français sous certaines conditions. Les démarches sont expliquées dans les rubriques du chatbot.
 
-Procédure permettant à un étranger d'acquérir la nationalité française sous certaines conditions.
+**Voir aussi :**
+1. [📘 Citoyenneté](SCR_GLO_0020)
+1. [📘 Carte de séjour pluriannuelle](SCR_GLO_0212)
 
-💡 **À retenir**
-
-La naturalisation n'est pas automatique.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T5)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0098
 - Neutralité
-- Neutralite
-- le Neutralité
-- la Neutralité
-- les Neutralité
+- neutralite
+- neutralite du service public
+- neutralites
 
 ### 📘 Neutralité
 
-**Définition**
+**Définition simple :** La **neutralité** signifie ne pas favoriser une opinion politique ou une religion dans l’exercice d’un service public.
 
-Obligation pour les services publics de traiter chacun de manière égale sans favoriser une religion ou une conviction.
-
-💡 **À retenir**
-
-La neutralité concerne principalement les institutions et les agents publics.
-
-🔗 **Voir aussi**
-
-1. [➡️ Laïcité](SCR_GLO_0080)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T1)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0176
 - Opinion
@@ -8000,137 +7365,69 @@ La neutralité concerne principalement les institutions et les agents publics.
 **Définition simple :** Idée ou point de vue personnel sur un sujet. La liberté d’opinion est protégée, dans le respect de la loi et des droits d’autrui.
 
 1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0099
 - Ordre public
-- le Ordre public
-- la Ordre public
-- les Ordre public
+- ordre public
+- ordre publique
 
 ### 📘 Ordre public
 
-**Définition**
+**Définition simple :** L’**ordre public** protège notamment la sécurité et la tranquillité de tous. Il permet de vivre ensemble dans un cadre commun.
 
-Ensemble des règles garantissant la sécurité, la tranquillité et la salubrité publiques.
-
-💡 **À retenir**
-
-L'ordre public permet le bon fonctionnement de la société.
-
-🔗 **Voir aussi**
-
-1. [➡️ Police](SCR_GLO_0104)
-2. [➡️ Gendarmerie](SCR_GLO_0065)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T3)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0100
 - Outre-mer
-- le Outre-mer
-- la Outre-mer
-- les Outre-mer
+- outre mer
+- outremer
+- drom
+- dom tom
 
 ### 📘 Outre-mer
 
-**Définition**
+**Définition simple :** L’**outre-mer** désigne les territoires français situés en dehors de la France métropolitaine.
 
-Ensemble des territoires français situés hors du continent européen.
-
-💡 **À retenir**
-
-Ils font pleinement partie de la République française.
-
-🔗 **Voir aussi**
-
-1. [➡️ Guyane](SCR_GLO_0068)
-2. [➡️ Guadeloupe](SCR_GLO_0067)
-3. [➡️ Martinique](SCR_GLO_0090)
-4. [➡️ La Réunion](SCR_GLO_0079)
-5. [➡️ Mayotte](SCR_GLO_0091)
-
-6. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-7. [📚 Retour au thème](SCR_GLO_THEME_T4)
-8. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0101
 - Parlement
-- le Parlement
-- la Parlement
-- les Parlement
+- parlement
+- parlements
+- parlemant
+- parllement
 
 ### 📘 Parlement
 
-**Définition**
+**Définition simple :** Le **Parlement** est l’ensemble des représentants qui discutent et **votent les lois**. En France, il comprend l’**Assemblée nationale** et le **Sénat**. Le Gouvernement prépare des projets de loi ; le Parlement les examine et les vote.
 
-Le Parlement vote les lois et contrôle l'action du Gouvernement.
-
-💡 **À retenir**
-
-Il comprend deux assemblées.
-
-🔗 **Voir aussi**
-
-1. [➡️ Assemblée nationale](SCR_GLO_0004)
-2. [➡️ Sénat](SCR_GLO_0123)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T2)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0102
 - Parlement européen
-- Parlement europeen
-- le Parlement européen
-- la Parlement européen
-- les Parlement européen
+- parlement europeen
+- parlement europeenne
 
 ### 📘 Parlement européen
 
-**Définition**
+**Définition simple :** Institution européenne composée de députés élus par les citoyens des États membres.
 
-Institution européenne composée de députés élus par les citoyens des États membres.
+💡 Retenez : Il participe à l'adoption des lois européennes.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Député européen](SCR_GLO_0043)
 
-Il participe à l'adoption des lois européennes.
-
-🔗 **Voir aussi**
-
-1. [➡️ Député européen](SCR_GLO_0043)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0156
 - Parti politique
@@ -8141,40 +7438,22 @@ Il participe à l'adoption des lois européennes.
 **Définition simple :** Organisation qui rassemble des personnes autour d’idées politiques et participe à la vie démocratique, notamment aux élections.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0103
 - Patrimoine
-- le Patrimoine
-- la Patrimoine
-- les Patrimoine
+- patrimoine
+- heritage culturel
+- patrimoines
 
 ### 📘 Patrimoine
 
-**Définition**
+**Définition simple :** Le **patrimoine** est l’ensemble des lieux, des objets et des traditions transmis par les générations précédentes. Un monument historique en fait partie.
 
-Ensemble des biens culturels, historiques et naturels transmis de génération en génération.
-
-💡 **À retenir**
-
-Le patrimoine est protégé et valorisé.
-
-🔗 **Voir aussi**
-
-1. [➡️ UNESCO](SCR_GLO_0132)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0184
 - Peine de mort
@@ -8185,10 +7464,8 @@ Le patrimoine est protégé et valorisé.
 **Définition simple :** Sanction qui consiste à exécuter une personne condamnée. Elle a été abolie en France en 1981.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0179
 - Plainte
@@ -8199,40 +7476,28 @@ Le patrimoine est protégé et valorisé.
 **Définition simple :** Démarche par laquelle une personne signale aux autorités une infraction dont elle estime être victime.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0104
 - Police
-- le Police
-- la Police
-- les Police
+- police
+- policier
+- policiers
+- polices
 
 ### 📘 Police
 
-**Définition**
+**Définition simple :** Force civile chargée de protéger les personnes et de faire respecter la loi.
 
-Force civile chargée de protéger les personnes et de faire respecter la loi.
+💡 Retenez : Elle intervient principalement dans les villes.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Gendarmerie](SCR_GLO_0065)
 
-Elle intervient principalement dans les villes.
-
-🔗 **Voir aussi**
-
-1. [➡️ Gendarmerie](SCR_GLO_0065)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0169
 - Polygamie
@@ -8243,10 +7508,8 @@ Elle intervient principalement dans les villes.
 **Définition simple :** Situation dans laquelle une personne est mariée à plusieurs conjoints en même temps. Elle est interdite en France.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0161
 - Pouvoir exécutif
@@ -8257,10 +7520,8 @@ Elle intervient principalement dans les villes.
 **Définition simple :** Pouvoir chargé de conduire la politique et de faire appliquer les lois. En France, il est exercé par le président de la République et le Gouvernement.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0163
 - Pouvoir judiciaire
@@ -8271,10 +7532,8 @@ Elle intervient principalement dans les villes.
 **Définition simple :** Fonction de la justice qui tranche les litiges et sanctionne les infractions selon la loi, en toute indépendance.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0162
 - Pouvoir législatif
@@ -8285,213 +7544,120 @@ Elle intervient principalement dans les villes.
 **Définition simple :** Pouvoir qui discute et vote les lois. En France, il est exercé par le Parlement.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0105
 - Préfecture
-- Prefecture
-- le Préfecture
-- la Préfecture
-- les Préfecture
+- prefecture
+- prefectures
 
 ### 📘 Préfecture
 
-**Définition**
+**Définition simple :** Administration représentant l'État dans un département.
 
-Administration représentant l'État dans un département.
+💡 Retenez : Elle traite notamment certaines démarches liées au séjour des étrangers.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Préfet](SCR_GLO_0106)
 
-Elle traite notamment certaines démarches liées au séjour des étrangers.
-
-🔗 **Voir aussi**
-
-1. [➡️ Préfet](SCR_GLO_0106)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0106
 - Préfet
-- Prefet
-- le Préfet
-- la Préfet
-- les Préfet
+- prefet
+- prefets
 
 ### 📘 Préfet
 
-**Définition**
+**Définition simple :** Le préfet représente l'État dans un département ou une région.
 
-Le préfet représente l'État dans un département ou une région.
+💡 Retenez : Il est nommé par le Gouvernement.
 
-💡 **À retenir**
+⚠️ À distinguer : Le préfet n'est pas élu.
 
-Il est nommé par le Gouvernement.
+**Voir aussi :**
+1. [📘 État](SCR_GLO_0054)
+1. [📘 Maire](SCR_GLO_0087)
 
-⚠️ **À ne pas confondre**
-
-Le préfet n'est pas élu.
-
-🔗 **Voir aussi**
-
-1. [➡️ État](SCR_GLO_0054)
-2. [➡️ Maire](SCR_GLO_0087)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T2)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0107
 - Premier ministre
-- le Premier ministre
-- la Premier ministre
-- les Premier ministre
+- premier ministre
+- premier minister
+- premier minstre
+- premiers ministres
+- chef du gouvernement
 
 ### 📘 Premier ministre
 
-**Définition**
+**Définition simple :** Le **Premier ministre** dirige l’action du Gouvernement. Il travaille avec les ministres pour organiser et mettre en œuvre la politique du pays.
 
-Le Premier ministre dirige l'action du Gouvernement.
-
-💡 **À retenir**
-
-Il coordonne le travail des ministres.
-
-⚠️ **À ne pas confondre**
-
-Le Président dirige l'État.
-
-Le Premier ministre dirige le Gouvernement.
-
-🔗 **Voir aussi**
-
-1. [➡️ Gouvernement](SCR_GLO_0066)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0108
 - Première Guerre mondiale
-- Premiere Guerre mondiale
-- le Première Guerre mondiale
-- la Première Guerre mondiale
-- les Première Guerre mondiale
+- premiere guerre mondiale
+- 1ere guerre mondiale
+- 1914 1918
 
 ### 📘 Première Guerre mondiale
 
-**Définition**
+**Définition simple :** Conflit mondial de 1914 à 1918.
 
-Conflit mondial de 1914 à 1918.
+💡 Retenez : La France fait partie des pays vainqueurs.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Seconde Guerre mondiale](SCR_GLO_0121)
 
-La France fait partie des pays vainqueurs.
-
-🔗 **Voir aussi**
-
-1. [➡️ Seconde Guerre mondiale](SCR_GLO_0121)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0109
 - Président de la République
-- President de la Republique
-- le Président de la République
-- la Président de la République
-- les Président de la République
+- president de la republique
+- president
+- presidente
+- chef de l etat
 
 ### 📘 Président de la République
 
-**Définition**
+**Définition simple :** Le Président de la République est le chef de l'État.
 
-Le Président de la République est le chef de l'État.
+💡 Retenez : Il est élu au suffrage universel direct pour cinq ans.
 
-💡 **À retenir**
-
-Il est élu au suffrage universel direct pour cinq ans.
-
-⚠️ **À ne pas confondre**
-
-Le Président est le chef de l'État.
-
+⚠️ À distinguer : Le Président est le chef de l'État.
 Le Premier ministre dirige l'action du Gouvernement.
 
-🔗 **Voir aussi**
+**Voir aussi :**
+1. [📘 Gouvernement](SCR_GLO_0066)
+1. [📘 Premier ministre](SCR_GLO_0107)
 
-1. [➡️ Gouvernement](SCR_GLO_0066)
-2. [➡️ Premier ministre](SCR_GLO_0107)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T2)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0110
 - Présomption d'innocence
-- Presomption d'innocence
-- le Présomption d'innocence
-- la Présomption d'innocence
-- les Présomption d'innocence
+- presomption d innocence
+- presomption innocence
+- innocent avant jugement
 
 ### 📘 Présomption d'innocence
 
-**Définition**
+**Définition simple :** La **présomption d’innocence** signifie qu’une personne est considérée comme innocente tant que sa culpabilité n’a pas été établie par la justice.
 
-Toute personne est considérée innocente tant qu'elle n'a pas été reconnue coupable par un tribunal.
-
-💡 **À retenir**
-
-La culpabilité doit être prouvée.
-
-🔗 **Voir aussi**
-
-1. [➡️ Justice](SCR_GLO_0077)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0149
 - Prévention
@@ -8502,101 +7668,100 @@ La culpabilité doit être prouvée.
 **Définition simple :** Actions destinées à éviter un risque ou à limiter ses conséquences, par exemple la vaccination ou le dépistage.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0224
+- Procès équitable
+
+### 📘 Procès équitable
+
+**Définition simple :** Procès dans lequel chacun peut faire valoir ses arguments devant une juridiction indépendante et impartiale, avec le respect des droits de la défense.
+
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0111
 - Procuration
-- le Procuration
-- la Procuration
-- les Procuration
+- procuration
+- voter a ma place
+- procurations
 
 ### 📘 Procuration
 
-**Définition**
+**Définition simple :** Une **procuration** permet de confier son vote à une autre personne lorsqu’on ne peut pas voter soi-même.
 
-Autorisation donnée à une autre personne pour voter à sa place.
-
-💡 **À retenir**
-
-Elle permet de voter en cas d'absence.
-
-🔗 **Voir aussi**
-
-1. [➡️ Vote](SCR_GLO_0137)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0222
+- Projet de loi
+
+### 📘 Projet de loi
+
+**Définition simple :** Texte de loi proposé par le Gouvernement et soumis au Parlement.
+
+**Voir aussi :**
+1. [📘 Gouvernement](SCR_GLO_0066)
+1. [📘 Parlement](SCR_GLO_0101)
+1. [📘 Proposition de loi](SCR_GLO_0223)
+
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_GLO_0223
+- Proposition de loi
+
+### 📘 Proposition de loi
+
+**Définition simple :** Texte de loi proposé par un député ou un sénateur.
+
+**Voir aussi :**
+1. [📘 Député](SCR_GLO_0042)
+1. [📘 Sénateur](SCR_GLO_0124)
+1. [📘 Projet de loi](SCR_GLO_0222)
+
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0112
 - Propriétaire
-- Proprietaire
-- le Propriétaire
-- la Propriétaire
-- les Propriétaire
+- proprietaire
+- proprietaires
 
 ### 📘 Propriétaire
 
-**Définition**
+**Définition simple :** Personne qui possède un logement.
 
-Personne qui possède un logement.
+💡 Retenez : Le propriétaire peut louer son logement.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Bail](SCR_GLO_0007)
 
-Le propriétaire peut louer son logement.
-
-🔗 **Voir aussi**
-
-1. [➡️ Bail](SCR_GLO_0007)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0113
 - Prostitution
-- le Prostitution
-- la Prostitution
-- les Prostitution
+- prostitution
+- prostitutions
 
 ### 📘 Prostitution
 
-**Définition**
+**Définition simple :** Échange d’un acte sexuel contre une rémunération. En France, l’achat d’un acte sexuel est interdit ; le proxénétisme est également puni par la loi.
 
-Échange d'un acte sexuel contre une rémunération.
+**Voir aussi :**
+1. [📘 Traite des êtres humains](SCR_GLO_0131)
+1. [📘 Consentement](SCR_GLO_0031)
 
-💡 **À retenir**
-
-Le proxénétisme et le recours à la prostitution sont encadrés par la loi.
-
-🔗 **Voir aussi**
-
-1. [➡️ Traite des êtres humains](SCR_GLO_0131)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0150
 - Protection sociale
@@ -8607,68 +7772,41 @@ Le proxénétisme et le recours à la prostitution sont encadrés par la loi.
 **Définition simple :** Ensemble des dispositifs qui aident les personnes face à certains risques de la vie, comme la maladie, la vieillesse ou la perte d’emploi.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0114
 - Provence-Alpes-Côte d'Azur
-- Provence-Alpes-Cote d'Azur
-- le Provence-Alpes-Côte d'Azur
-- la Provence-Alpes-Côte d'Azur
-- les Provence-Alpes-Côte d'Azur
+- provence alpes cote d azur
+- marseille
+- nice
 
 ### 📘 Provence-Alpes-Côte d'Azur
 
-**Définition**
+**Définition simple :** Région située dans le sud-est de la France.
 
-Région située dans le sud-est de la France.
+💡 Retenez : Elle est réputée pour la Méditerranée, les Alpes, Marseille, Nice et la lavande.
 
-💡 **À retenir**
-
-Elle est réputée pour la Méditerranée, les Alpes, Marseille, Nice et la lavande.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0115
 - Pyrénées
-- Pyrenees
-- le Pyrénées
-- la Pyrénées
-- les Pyrénées
+- pyrenees
 
 ### 📘 Pyrénées
 
-**Définition**
+**Définition simple :** Chaîne de montagnes séparant la France et l'Espagne.
 
-Chaîne de montagnes séparant la France et l'Espagne.
+💡 Retenez : Elles forment une frontière naturelle.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Alpes](SCR_GLO_0002)
 
-Elles forment une frontière naturelle.
-
-🔗 **Voir aussi**
-
-1. [➡️ Alpes](SCR_GLO_0002)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0155
 - Quinquennat
@@ -8679,10 +7817,8 @@ Elles forment une frontière naturelle.
 **Définition simple :** Mandat de cinq ans. Le mandat du président de la République française est un quinquennat.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0187
 - Recyclage
@@ -8693,72 +7829,39 @@ Elles forment une frontière naturelle.
 **Définition simple :** Transformation de déchets pour réutiliser leurs matériaux et réduire le gaspillage des ressources.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0116
 - Référendum
-- Referendum
-- le Référendum
-- la Référendum
-- les Référendum
+- referendum
+- referendums
 
 ### 📘 Référendum
 
-**Définition**
+**Définition simple :** Un **référendum** est un vote où les citoyens répondent directement à une question, généralement par oui ou non.
 
-Consultation permettant au peuple de répondre directement à une question.
-
-💡 **À retenir**
-
-Les citoyens répondent généralement par "Oui" ou "Non".
-
-🔗 **Voir aussi**
-
-1. [➡️ Souveraineté nationale](SCR_GLO_0126)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0117
 - Région
-- Region
-- le Région
-- la Région
-- les Région
+- region
+- regions
 
 ### 📘 Région
 
-**Définition**
+**Définition simple :** La région est une collectivité territoriale regroupant plusieurs départements.
 
-La région est une collectivité territoriale regroupant plusieurs départements.
+💡 Retenez : La France compte 18 régions.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Département](SCR_GLO_0041)
 
-La France compte 18 régions.
-
-🔗 **Voir aussi**
-
-1. [➡️ Département](SCR_GLO_0041)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0175
 - Religion
@@ -8769,51 +7872,34 @@ La France compte 18 régions.
 **Définition simple :** Ensemble de croyances et de pratiques liées à une foi. Chacun est libre de croire, de changer de religion ou de ne pas croire.
 
 1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0118
 - République
-- Republique
-- le République
-- la République
-- les République
+- republique
+- republic
+- republicain
+- republiques
 
 ### 📘 République
 
-**Définition**
+**Définition simple :** Organisation politique dans laquelle le pouvoir appartient au peuple et s'exerce conformément à la Constitution.
 
-Organisation politique dans laquelle le pouvoir appartient au peuple et s'exerce conformément à la Constitution.
+💡 Retenez : La France est une République indivisible, laïque, démocratique et sociale.
 
-💡 **À retenir**
-
-La France est une République indivisible, laïque, démocratique et sociale.
-
-⚠️ **À ne pas confondre**
-
-République ≠ démocratie.
-
+⚠️ À distinguer : République ≠ démocratie.
 La République est une forme d'organisation de l'État.
-
 La démocratie est une manière d'exercer le pouvoir.
 
-🔗 **Voir aussi**
+**Voir aussi :**
+1. [📘 Constitution](SCR_GLO_0032)
+1. [📘 Démocratie](SCR_GLO_0040)
+1. [📘 Souveraineté nationale](SCR_GLO_0126)
 
-1. [➡️ Constitution](SCR_GLO_0032)
-2. [➡️ Démocratie](SCR_GLO_0040)
-3. [➡️ Souveraineté nationale](SCR_GLO_0126)
-
-4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-5. [📚 Retour au thème](SCR_GLO_THEME_T1)
-6. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0191
 - Réseaux sociaux
@@ -8824,10 +7910,8 @@ La démocratie est une manière d'exercer le pouvoir.
 **Définition simple :** Services en ligne permettant de publier et d’échanger des contenus. Les règles de droit et le respect d’autrui s’y appliquent aussi.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0193
 - Résistance
@@ -8838,10 +7922,8 @@ La démocratie est une manière d'exercer le pouvoir.
 **Définition simple :** Actions menées contre l’occupation et les régimes oppressifs ; en France, le terme renvoie notamment à la lutte contre l’occupation nazie pendant la Seconde Guerre mondiale.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0174
 - Respect
@@ -8852,71 +7934,79 @@ La démocratie est une manière d'exercer le pouvoir.
 **Définition simple :** Attitude qui consiste à reconnaître la dignité et les droits d’autrui, même lorsque ses opinions diffèrent des nôtres.
 
 1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0227
+- Responsabilité
+
+### 📘 Responsabilité
+
+**Définition simple :** Obligation de répondre de ses actes et, selon les cas, de réparer les dommages causés ou d’accepter une sanction.
+
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_GLO_0228
+- Révolution
+
+### 📘 Révolution
+
+**Définition simple :** Changement profond et rapide de l’organisation politique ou sociale. La Révolution française commence en 1789.
+
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0119
 - Révolution française
-- Revolution francaise
-- le Révolution française
-- la Révolution française
-- les Révolution française
+- revolution francaise
+- revolution
+- 1789
 
 ### 📘 Révolution française
 
-**Définition**
+**Définition simple :** Période commencée en 1789 qui met fin à la monarchie absolue et fonde de nouveaux principes politiques.
 
-Période commencée en 1789 qui met fin à la monarchie absolue et fonde de nouveaux principes politiques.
+💡 Retenez : Elle marque la naissance des valeurs républicaines modernes.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Déclaration des droits de l'homme et du citoyen](SCR_GLO_0038)
 
-Elle marque la naissance des valeurs républicaines modernes.
-
-🔗 **Voir aussi**
-
-1. [➡️ Déclaration des droits de l'homme et du citoyen](SCR_GLO_0038)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0237
+- Rhône
+
+### 📘 Rhône
+
+**Définition simple :** Fleuve qui traverse notamment Lyon et se jette dans la mer Méditerranée.
+
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0120
 - Salaire
-- le Salaire
-- la Salaire
-- les Salaire
+- salaire
+- salaires
+- remuneration
 
 ### 📘 Salaire
 
-**Définition**
+**Définition simple :** Somme versée par l'employeur en contrepartie du travail effectué.
 
-Somme versée par l'employeur en contrepartie du travail effectué.
+💡 Retenez : Le salaire est indiqué sur la fiche de paie.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Employeur](SCR_GLO_0051)
 
-Le salaire est indiqué sur la fiche de paie.
-
-🔗 **Voir aussi**
-
-1. [➡️ Employeur](SCR_GLO_0051)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0139
 - Salaire brut
@@ -8928,10 +8018,8 @@ Le salaire est indiqué sur la fiche de paie.
 **Définition simple :** Rémunération avant le prélèvement des cotisations sociales à la charge du salarié.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0140
 - Salaire net
@@ -8943,10 +8031,8 @@ Le salaire est indiqué sur la fiche de paie.
 **Définition simple :** Rémunération après déduction des cotisations salariales ; le montant versé peut aussi tenir compte du prélèvement de l’impôt.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0142
 - Salarié
@@ -8957,10 +8043,8 @@ Le salaire est indiqué sur la fiche de paie.
 **Définition simple :** Personne qui travaille pour un employeur dans le cadre d’un contrat de travail et reçoit un salaire.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0153
 - SAMU
@@ -8971,36 +8055,40 @@ Le salaire est indiqué sur la fiche de paie.
 **Définition simple :** Service d’aide médicale urgente : il organise la réponse médicale aux urgences et oriente vers les soins adaptés.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0226
+- Sanction
+
+### 📘 Sanction
+
+**Définition simple :** Conséquence prévue lorsqu’une règle ou une loi n’est pas respectée. Sa nature dépend de la faute ou de l’infraction.
+
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0121
 - Seconde Guerre mondiale
-- le Seconde Guerre mondiale
-- la Seconde Guerre mondiale
-- les Seconde Guerre mondiale
+- seconde guerre mondiale
+- resistance
+- deuxieme guerre mondiale
+- 2eme guerre mondiale
+- 1939 1945
 
 ### 📘 Seconde Guerre mondiale
 
-**Définition**
+**Définition simple :** Conflit mondial de 1939 à 1945.
 
-Conflit mondial de 1939 à 1945.
+💡 Retenez : La Résistance a joué un rôle important dans la libération de la France.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Résistance](SCR_GLO_0193)
 
-La Résistance a joué un rôle important dans la libération de la France.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0152
 - Secours
@@ -9011,10 +8099,8 @@ La Résistance a joué un rôle important dans la libération de la France.
 **Définition simple :** Aide apportée à une personne en danger ou en difficulté ; elle peut nécessiter de prévenir les services d’urgence.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0190
 - Sécurité routière
@@ -9025,103 +8111,59 @@ La Résistance a joué un rôle important dans la libération de la France.
 **Définition simple :** Ensemble des règles et des comportements qui limitent les accidents sur la route et protègent tous les usagers.
 
 1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0122
 - Seine
-- le Seine
-- la Seine
-- les Seine
+- seine
+- seines
 
 ### 📘 Seine
 
-**Définition**
+**Définition simple :** Fleuve qui traverse notamment Paris avant de se jeter dans la Manche.
 
-Fleuve qui traverse notamment Paris avant de se jeter dans la Manche.
+💡 Retenez : La Seine est l'un des principaux fleuves français.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Loire](SCR_GLO_0236)
+1. [📘 Rhône](SCR_GLO_0237)
 
-La Seine est l'un des principaux fleuves français.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0123
 - Sénat
-- Senat
-- le Sénat
-- la Sénat
-- les Sénat
+- senat
+- senas
+- senats
 
 ### 📘 Sénat
 
-**Définition**
+**Définition simple :** Le **Sénat** est l’autre partie du Parlement, avec l’Assemblée nationale. Les **sénateurs** y examinent et votent les lois.
 
-Le Sénat est la seconde assemblée du Parlement.
-
-💡 **À retenir**
-
-Les sénateurs représentent les collectivités territoriales.
-
-⚠️ **À ne pas confondre**
-
-Assemblée nationale ≠ Sénat.
-
-🔗 **Voir aussi**
-
-1. [➡️ Sénateur](SCR_GLO_0124)
-2. [➡️ Parlement](SCR_GLO_0101)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T2)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0124
 - Sénateur
-- Senateur
-- le Sénateur
-- la Sénateur
-- les Sénateur
+- senateur
+- senateurs
 
 ### 📘 Sénateur
 
-**Définition**
+**Définition simple :** Le sénateur siège au Sénat.
 
-Le sénateur siège au Sénat.
+💡 Retenez : Il participe au vote des lois.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Sénat](SCR_GLO_0123)
 
-Il participe au vote des lois.
-
-🔗 **Voir aussi**
-
-1. [➡️ Sénat](SCR_GLO_0123)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0211
 - Séparation des pouvoirs
@@ -9132,41 +8174,21 @@ Il participe au vote des lois.
 **Définition simple :** Principe qui distingue les fonctions de faire la loi, de l’appliquer et de rendre la justice afin de limiter les abus de pouvoir.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0125
 - Service public
-- le Service public
-- la Service public
-- les Service public
+- service public
+- services publics
 
 ### 📘 Service public
 
-**Définition**
+**Définition simple :** Un **service public** répond à un besoin d’intérêt général. L’école publique est un exemple de service public.
 
-Service assuré par une administration pour répondre aux besoins de la population.
-
-💡 **À retenir**
-
-Les services publics garantissent l'égalité d'accès pour tous.
-
-🔗 **Voir aussi**
-
-1. [➡️ Mairie](SCR_GLO_0088)
-2. [➡️ Préfecture](SCR_GLO_0105)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T5)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0194
 - Shoah
@@ -9177,10 +8199,8 @@ Les services publics garantissent l'égalité d'accès pour tous.
 **Définition simple :** Génocide des Juifs d’Europe perpétré par les nazis et leurs complices pendant la Seconde Guerre mondiale.
 
 1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0138
 - SMIC
@@ -9194,166 +8214,106 @@ Les services publics garantissent l'égalité d'accès pour tous.
 **Définition simple :** Salaire minimum légal : un employeur doit respecter ce minimum pour rémunérer le travail de son salarié.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0126
 - Souveraineté nationale
-- Souverainete nationale
-- le Souveraineté nationale
-- la Souveraineté nationale
-- les Souveraineté nationale
+- souverainete nationale
 
 ### 📘 Souveraineté nationale
 
-**Définition**
+**Définition simple :** Principe selon lequel le pouvoir appartient au peuple.
 
-Principe selon lequel le pouvoir appartient au peuple.
+💡 Retenez : Le peuple exerce sa souveraineté par ses représentants élus et par référendum.
 
-💡 **À retenir**
+⚠️ À distinguer : La souveraineté appartient au peuple et non au Président de la République.
 
-Le peuple exerce sa souveraineté par ses représentants élus et par référendum.
+**Voir aussi :**
+1. [📘 République](SCR_GLO_0118)
+1. [📘 Référendum](SCR_GLO_0116)
+1. [📘 Citoyen](SCR_GLO_0019)
 
-⚠️ **À ne pas confondre**
-
-La souveraineté appartient au peuple et non au Président de la République.
-
-🔗 **Voir aussi**
-
-1. [➡️ République](SCR_GLO_0118)
-2. [➡️ Référendum](SCR_GLO_0116)
-3. [➡️ Citoyen](SCR_GLO_0019)
-
-4. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-5. [📚 Retour au thème](SCR_GLO_THEME_T1)
-6. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T1_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0127
 - Suffrage universel
-- le Suffrage universel
-- la Suffrage universel
-- les Suffrage universel
+- suffrage universel
+- suffrage
 
 ### 📘 Suffrage universel
 
-**Définition**
+**Définition simple :** Mode d'élection dans lequel tous les citoyens remplissant les conditions peuvent voter.
 
-Mode d'élection dans lequel tous les citoyens remplissant les conditions peuvent voter.
+💡 Retenez : En France, le vote est universel, égal et secret.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Vote](SCR_GLO_0137)
 
-En France, le vote est universel, égal et secret.
-
-🔗 **Voir aussi**
-
-1. [➡️ Vote](SCR_GLO_0137)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0128
 - Sûreté
-- Surete
-- le Sûreté
-- la Sûreté
-- les Sûreté
+- surete
+- suretes
 
 ### 📘 Sûreté
 
-**Définition**
+**Définition simple :** Droit d'être protégé contre les arrestations arbitraires et de bénéficier d'un procès équitable.
 
-Droit d'être protégé contre les arrestations arbitraires et de bénéficier d'un procès équitable.
+💡 Retenez : La justice protège les libertés individuelles.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Présomption d'innocence](SCR_GLO_0110)
+1. [📘 Justice](SCR_GLO_0077)
 
-La justice protège les libertés individuelles.
-
-🔗 **Voir aussi**
-
-1. [➡️ Présomption d'innocence](SCR_GLO_0110)
-2. [➡️ Justice](SCR_GLO_0077)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T3)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0241
+- Temps de travail
+
+### 📘 Temps de travail
+
+**Définition simple :** Durée pendant laquelle un salarié exerce son activité professionnelle. Les règles dépendent notamment du contrat et de la loi.
+
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0129
 - Titre de séjour
-- Titre de sejour
-- le Titre de séjour
-- la Titre de séjour
-- les Titre de séjour
+- titre de sejour
+- titres de sejour
+- carte de sejour
 
 ### 📘 Titre de séjour
 
-**Définition**
+**Définition simple :** Un **titre de séjour** est un document qui autorise une personne étrangère à séjourner en France selon les conditions du titre.
 
-Document autorisant un ressortissant étranger à séjourner en France pendant une durée déterminée.
-
-💡 **À retenir**
-
-Il doit être renouvelé avant sa date d'expiration.
-
-🔗 **Voir aussi**
-
-1. [➡️ Préfecture](SCR_GLO_0105)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0130
 - Tour Eiffel
-- le Tour Eiffel
-- la Tour Eiffel
-- les Tour Eiffel
+- tour eiffel
+- paris
 
 ### 📘 Tour Eiffel
 
-**Définition**
+**Définition simple :** Monument emblématique situé à Paris, construit pour l'Exposition universelle de 1889.
 
-Monument emblématique situé à Paris, construit pour l'Exposition universelle de 1889.
+💡 Retenez : Elle est l'un des symboles les plus connus de la France.
 
-💡 **À retenir**
-
-Elle est l'un des symboles les plus connus de la France.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T4)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0206
 - Traité de Maastricht
@@ -9365,37 +8325,32 @@ Elle est l'un des symboles les plus connus de la France.
 **Définition simple :** Traité signé en 1992 qui a créé l’Union européenne et renforcé la coopération entre ses États membres.
 
 1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0232
+- Traité de Rome
+
+### 📘 Traité de Rome
+
+**Définition simple :** Traité signé en 1957 créant la Communauté économique européenne, une étape importante de la construction européenne.
+
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0131
 - Traite des êtres humains
-- Traite des etres humains
-- le Traite des êtres humains
-- la Traite des êtres humains
-- les Traite des êtres humains
+- traite des etres humains
+- esclavage
 
 ### 📘 Traite des êtres humains
 
-**Définition**
+**Définition simple :** Recrutement, transport ou accueil d’une personne pour l’exploiter, notamment par la contrainte ou la tromperie. C’est une infraction pénale grave.
 
-Exploitation d'une personne par la contrainte, la menace ou la tromperie.
-
-💡 **À retenir**
-
-La traite des êtres humains est un crime.
-
-1. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-2. [📚 Retour au thème](SCR_GLO_THEME_T3)
-3. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0144
 - Travail dissimulé
@@ -9406,88 +8361,59 @@ La traite des êtres humains est un crime.
 **Définition simple :** Travail ou activité qui n’est pas déclaré comme la loi l’exige. Cela prive notamment le salarié de certaines protections.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0189
 - Tri des déchets
 - tri des dechets
 - tri
-- tri des dechets
 
 ### 📘 Tri des déchets
 
 **Définition simple :** Séparation des déchets selon leur nature pour permettre leur collecte et leur traitement adaptés.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0132
 - UNESCO
-- le UNESCO
-- la UNESCO
-- les UNESCO
+- unesco
+- unescos
 
 ### 📘 UNESCO
 
-**Définition**
+**Définition simple :** Organisation des Nations unies pour l’éducation, la science et la culture. Elle contribue notamment à la protection du patrimoine mondial. Le Mont-Saint-Michel et sa baie sont inscrits sur la Liste du patrimoine mondial.
 
-Organisation des Nations unies chargée notamment de protéger le patrimoine mondial.
+**Voir aussi :**
+1. [📘 Patrimoine](SCR_GLO_0103)
+1. [📘 Mont-Saint-Michel](SCR_GLO_0094)
 
-💡 **À retenir**
-
-Plusieurs sites français sont inscrits au patrimoine mondial de l'UNESCO.
-
-🔗 **Voir aussi**
-
-1. [➡️ Patrimoine](SCR_GLO_0103)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0133
 - Union européenne
-- Union europeenne
-- le Union européenne
-- la Union européenne
-- les Union européenne
+- union europeenne
+- union europeen
+- ue
+- union europeene
 
 ### 📘 Union européenne
 
-**Définition**
+**Définition simple :** Organisation regroupant plusieurs États européens qui coopèrent dans de nombreux domaines.
 
-Organisation regroupant plusieurs États européens qui coopèrent dans de nombreux domaines.
+💡 Retenez : La France est membre de l'Union européenne.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Parlement européen](SCR_GLO_0102)
+1. [📘 Euro](SCR_GLO_0055)
 
-La France est membre de l'Union européenne.
-
-🔗 **Voir aussi**
-
-1. [➡️ Parlement européen](SCR_GLO_0102)
-2. [➡️ Euro](SCR_GLO_0055)
-
-3. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-4. [📚 Retour au thème](SCR_GLO_THEME_T2)
-5. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0151
 - Urgence
@@ -9498,127 +8424,91 @@ La France est membre de l'Union européenne.
 **Définition simple :** Situation qui nécessite une intervention rapide, notamment lorsqu’une vie ou la sécurité d’une personne est en danger.
 
 1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
-1. [🔤 Reprendre le filtre de CiviCoach](SCR_GLO_FILTER)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
 ## SCR_GLO_0134
 - Urgences
-- le Urgences
-- la Urgences
-- les Urgences
+- urgences
+- samu
 
 ### 📘 Urgences
 
-**Définition**
+**Définition simple :** Situation nécessitant une prise en charge médicale immédiate.
 
-Situation nécessitant une prise en charge médicale immédiate.
+💡 Retenez : En cas d'urgence médicale, composez le 15.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 SAMU](SCR_GLO_0153)
+1. [📘 Hôpital](SCR_GLO_0071)
 
-En cas d'urgence médicale, composez le 15.
-
-🔗 **Voir aussi**
-
-1. [➡️ Hôpital](SCR_GLO_0071)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T5)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+## SCR_GLO_0240
+- Vaccination
+
+### 📘 Vaccination
+
+**Définition simple :** Moyen de protéger une personne contre certaines maladies et de limiter leur transmission.
+
+1. [📚 Réviser cette thématique](SCR_REV_T5_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_GLO_0135
 - Vercingétorix
-- Vercingetorix
-- le Vercingétorix
-- la Vercingétorix
-- les Vercingétorix
+- vercingetorix
+- jules cesar
+- vercingetorixs
 
 ### 📘 Vercingétorix
 
-**Définition**
+**Définition simple :** Chef gaulois qui s'est opposé à Jules César.
 
-Chef gaulois qui s'est opposé à Jules César.
+💡 Retenez : Il est devenu un symbole de la résistance gauloise.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Gaule](SCR_GLO_0064)
 
-Il est devenu un symbole de la résistance gauloise.
-
-🔗 **Voir aussi**
-
-1. [➡️ Gaule](SCR_GLO_0064)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T4)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T4_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0136
 - Violence
-- le Violence
-- la Violence
-- les Violence
+- violence
+- violences
 
 ### 📘 Violence
 
-**Définition**
+**Définition simple :** Acte portant atteinte à une personne, physiquement, psychologiquement, sexuellement ou économiquement.
 
-Acte portant atteinte à une personne, physiquement, psychologiquement, sexuellement ou économiquement.
+💡 Retenez : Toutes les formes de violence sont interdites.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Consentement](SCR_GLO_0031)
 
-Toutes les formes de violence sont interdites.
-
-🔗 **Voir aussi**
-
-1. [➡️ Consentement](SCR_GLO_0031)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T3)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
-
+1. [📚 Réviser cette thématique](SCR_REV_T3_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
 
 ## SCR_GLO_0137
 - Vote
-- le Vote
-- la Vote
-- les Vote
+- vote
+- voter
+- votes
 
 ### 📘 Vote
 
-**Définition**
+**Définition simple :** Action qui consiste à choisir un candidat ou répondre à une question lors d'un référendum.
 
-Action qui consiste à choisir un candidat ou répondre à une question lors d'un référendum.
+💡 Retenez : Le vote est un droit civique.
 
-💡 **À retenir**
+**Voir aussi :**
+1. [📘 Élection](SCR_GLO_0050)
 
-Le vote est un droit civique.
-
-🔗 **Voir aussi**
-
-1. [➡️ Élection](SCR_GLO_0050)
-
-2. [🔍 Rechercher un autre mot](SCR_GLO_SEARCH)
-3. [📚 Retour au thème](SCR_GLO_THEME_T2)
-4. [📖 Retour au glossaire](SCR_GLO_MENU)
-
-1. [❓ Poser une question @qlOrigine=SCR_GLO_MENU](SCR_QL_RESET)
-
+1. [📚 Réviser cette thématique](SCR_REV_T2_MENU)
+1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-

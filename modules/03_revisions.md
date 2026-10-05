@@ -10790,9 +10790,3 @@ Vous savez maintenant révisé l'essentiel du programme "examen civique". Vous �
 3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 1. [❓ Poser une question @qlOrigine=SCR_REV_MENU](SCR_QL_RESET)
-
-
-
-
-
-

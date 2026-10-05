@@ -1,6 +1,6 @@
 {
-  "fiches": 211,
-  "ajouts": 74,
+  "fiches": 244,
+  "ajouts": 107,
   "mots_cles": {
     "14 juillet": {
       "fiches": [
@@ -254,7 +254,9 @@
       ]
     },
     "bastille": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0229"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -646,6 +648,7 @@
     },
     "devise": {
       "fiches": [
+        "SCR_GLO_0217",
         "SCR_GLO_0044"
       ],
       "sources": [
@@ -4297,7 +4300,9 @@
       ]
     },
     "coq gaulois": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0218"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -4808,7 +4813,9 @@
       ]
     },
     "liberte d'expression": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0213"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -7709,7 +7716,9 @@
       ]
     },
     "responsabilite": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0227"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -8186,7 +8195,9 @@
       ]
     },
     "election presidentielle": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0221"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -10526,7 +10537,9 @@
       ]
     },
     "bloc de constitutionnalite": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0219"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -10593,7 +10606,9 @@
       ]
     },
     "proces equitable": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0224"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -11615,7 +11630,9 @@
       ]
     },
     "sanction": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0226"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -12423,7 +12440,9 @@
       ]
     },
     "jules ferry": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0234"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -12745,7 +12764,9 @@
       ]
     },
     "cee": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0233"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -12775,7 +12796,9 @@
       ]
     },
     "traite de rome": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0232"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -12842,7 +12865,9 @@
       ]
     },
     "charles de gaulle": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0230"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -13095,7 +13120,9 @@
       ]
     },
     "louis xvi": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0235"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -13256,7 +13283,9 @@
       ]
     },
     "loire": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0236"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -13271,7 +13300,9 @@
       ]
     },
     "rhone": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0237"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -15161,7 +15192,9 @@
       ]
     },
     "jour ferie": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0238"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -15912,7 +15945,9 @@
       ]
     },
     "temps de travail": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0241"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -15937,7 +15972,9 @@
       ]
     },
     "demandeur d'emploi": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0242"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -16041,7 +16078,9 @@
       ]
     },
     "entrepreneuriat": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0243"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -16623,7 +16662,9 @@
       ]
     },
     "vaccination": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0240"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -17057,7 +17098,9 @@
       ]
     },
     "assiduite": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0239"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -17087,7 +17130,9 @@
       ]
     },
     "inclusion": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0244"
+      ],
       "sources": [
         {
           "exam": "CSP",
@@ -17127,7 +17172,9 @@
       ]
     },
     "liberte de circulation": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0215"
+      ],
       "sources": [
         {
           "exam": "CR",
@@ -17212,7 +17259,9 @@
       ]
     },
     "mixite": {
-      "fiches": [],
+      "fiches": [
+        "SCR_GLO_0216"
+      ],
       "sources": [
         {
           "exam": "CR",

@@ -1,3 +1,7 @@
+# Chatbot civique — expérience v8
+
+Demandes V3 intégrées. Voir [AMELIORATIONS_V8.md](AMELIORATIONS_V8.md) pour les changements et les vérifications.
+
 # Chatbot civique NovaFrate — expérience v7
 
 Ce dépôt contient la version publiée du chatbot ChatMD de préparation à

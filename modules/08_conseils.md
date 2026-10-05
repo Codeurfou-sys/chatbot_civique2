@@ -1,5 +1,3 @@
-<!-- Module Conseils réorganisé — version finale -->
-
 ## SCR_CONS_MENU
 ### 💡 Conseils pour réussir
 
@@ -18,8 +16,6 @@ Choisissez le conseil qui correspond à votre besoin du moment. Chaque rubrique 
 7. [⚠️ Éviter les erreurs fréquentes](SCR_CONS_ERREURS_MENU)
 8. [👤 Préparer l’entretien de naturalisation](SCR_CONS_ENTRETIEN_MENU)
 9. [🏠 Retour au menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_CONS_GUIDE_MENU
 ### 🌟 Bien démarrer
@@ -45,8 +41,6 @@ Une préparation efficace repose sur trois habitudes :
 2. [📚 Commencer mes révisions](SCR_REV_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_CONS_PARCOURS_MENU
 ### 📅 Construire mon parcours de révision
@@ -74,14 +68,6 @@ Priorisez les thèmes faibles repérés dans votre bilan. Faites des séries cou
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_CONS_MEMOIRE_MENU
 ### 🧠 Mémoriser efficacement
 
@@ -92,7 +78,7 @@ Suivez les étapes dans l’ordre. Chaque partie contient une explication courte
 :::
 
 1. [🧠 Découvrir les secrets de la mémoire](SCR_CONS_MEMOIRE_01)
-2. [🌫️ Comprendre pourquoi j’oublie](SCR_CONS_MEMOIRE_02)
+2. [🔎 Comprendre pourquoi j’oublie](SCR_CONS_MEMOIRE_02)
 3. [💡 Secret n°1 : comprendre avant de mémoriser](SCR_CONS_MEMOIRE_03)
 4. [🔁 Secret n°2 : réviser plusieurs fois](SCR_CONS_MEMOIRE_04)
 5. [🎯 Secret n°3 : me tester régulièrement](SCR_CONS_MEMOIRE_05)
@@ -106,14 +92,6 @@ Suivez les étapes dans l’ordre. Chaque partie contient une explication courte
 13. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MEMOIRE_01
 ### 🧠 Les secrets de la mémoire
@@ -130,19 +108,11 @@ Votre cerveau ne fonctionne pas comme un appareil qui enregistre tout immédiate
 Oublier ne signifie pas que vous avez une mauvaise mémoire. Chaque fois que vous cherchez une réponse puis vérifiez la correction, vous entraînez votre cerveau à mieux la retrouver.
 :::
 
-1. [➡️ Comprendre pourquoi j’oublie](SCR_CONS_MEMOIRE_02)
+1. [🔎 Comprendre pourquoi j’oublie](SCR_CONS_MEMOIRE_02)
 2. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MEMOIRE_02
 ### 🌫️ Pourquoi oublie-t-on ?
@@ -162,21 +132,13 @@ L’oubli est rapide après un premier apprentissage. Une courte révision au bo
 
 L’objectif n’est pas de tout apprendre en une seule fois, mais de **consolider progressivement** vos connaissances.
 
-1. [⬅️ Étape précédente](SCR_CONS_MEMOIRE_01)
-2. [➡️ Secret n°1 : comprendre](SCR_CONS_MEMOIRE_03)
+1. [🧠 Étape précédente](SCR_CONS_MEMOIRE_01)
+2. [💡 Secret n°1 : comprendre](SCR_CONS_MEMOIRE_03)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+1. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MEMOIRE_03
 ### 💡 Secret n°1 : comprendre avant de mémoriser
@@ -195,21 +157,13 @@ Après avoir lu une notion, fermez le cours et expliquez-la avec vos propres mot
 « Est-ce que je peux expliquer cette notion simplement sans réciter le cours ? »
 :::
 
-1. [⬅️ Étape précédente](SCR_CONS_MEMOIRE_02)
-2. [➡️ Secret n°2 : espacer mes révisions](SCR_CONS_MEMOIRE_04)
+1. [🔎 Étape précédente](SCR_CONS_MEMOIRE_02)
+2. [🔁 Secret n°2 : espacer mes révisions](SCR_CONS_MEMOIRE_04)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+1. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MEMOIRE_04
 ### 🔁 Secret n°2 : réviser plusieurs fois
@@ -229,21 +183,13 @@ Vous pouvez adapter ce rythme : une notion difficile doit être revue plus tôt,
 Notez la prochaine date de révision dans votre téléphone ou votre agenda. Quelques minutes suffisent si vous essayez réellement de retrouver l’information.
 :::
 
-1. [⬅️ Étape précédente](SCR_CONS_MEMOIRE_03)
-2. [➡️ Secret n°3 : me tester](SCR_CONS_MEMOIRE_05)
+1. [💡 Étape précédente](SCR_CONS_MEMOIRE_03)
+2. [🎯 Secret n°3 : me tester](SCR_CONS_MEMOIRE_05)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+1. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MEMOIRE_05
 ### 🎯 Secret n°3 : se tester régulièrement
@@ -263,22 +209,14 @@ Après une erreur :
 3. notez la confusion dans votre carnet d’erreurs ;
 4. retestez-vous un peu plus tard.
 
-1. [⬅️ Étape précédente](SCR_CONS_MEMOIRE_04)
-2. [➡️ Secret n°4 : faire des liens](SCR_CONS_MEMOIRE_06)
+1. [🔁 Étape précédente](SCR_CONS_MEMOIRE_04)
+2. [🔗 Secret n°4 : faire des liens](SCR_CONS_MEMOIRE_06)
 3. [🎯 Faire un entraînement](SCR_ENT_MENU)
 4. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+1. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MEMOIRE_06
 ### 🔗 Secret n°4 : faire des liens
@@ -297,22 +235,14 @@ Au lieu de retenir seulement « 1789 », vous retenez un ensemble logique.
 - regrouper les informations par thème ou par époque ;
 - créer une image mentale, une petite histoire ou un moyen mnémotechnique.
 
-1. [⬅️ Étape précédente](SCR_CONS_MEMOIRE_05)
-2. [➡️ Secret n°5 : faire des séances courtes](SCR_CONS_MEMOIRE_07)
+1. [🎯 Étape précédente](SCR_CONS_MEMOIRE_05)
+2. [⏱️ Secret n°5 : faire des séances courtes](SCR_CONS_MEMOIRE_07)
 3. [🧩 Voir les moyens mnémotechniques](SCR_CONS_MNEMO_MENU)
 4. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+1. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MEMOIRE_07
 ### ⏱️ Secret n°5 : apprendre par petites séances
@@ -332,21 +262,13 @@ Pendant la séance, éloignez les distractions : notifications, télévision et 
 
 Faites ensuite une courte pause avant de commencer une nouvelle séance.
 
-1. [⬅️ Étape précédente](SCR_CONS_MEMOIRE_06)
-2. [➡️ Secret n°6 : dormir](SCR_CONS_MEMOIRE_08)
+1. [🔗 Étape précédente](SCR_CONS_MEMOIRE_06)
+2. [😴 Secret n°6 : dormir](SCR_CONS_MEMOIRE_08)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+1. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MEMOIRE_08
 ### 😴 Secret n°6 : dormir pour consolider
@@ -361,21 +283,13 @@ La veille de l’examen, faites une révision courte de vos repères essentiels,
 
 Le sommeil ne remplace pas les révisions : il aide votre cerveau à stabiliser ce que vous avez déjà travaillé.
 
-1. [⬅️ Étape précédente](SCR_CONS_MEMOIRE_07)
-2. [➡️ Retenir la méthode complète](SCR_CONS_MEMOIRE_09)
+1. [⏱️ Étape précédente](SCR_CONS_MEMOIRE_07)
+2. [📌 Retenir la méthode complète](SCR_CONS_MEMOIRE_09)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [↩️ Retour au menu du module](SCR_CONS_MENU)
+1. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MEMOIRE_09
 ### 📌 La méthode complète à retenir
@@ -400,19 +314,11 @@ La mémoire n’est pas une question de chance : elle s’améliore grâce à un
 
 1. [🎯 Vérifier mes acquis](SCR_ENT_MENU)
 2. [📚 Réviser une notion](SCR_REV_MENU)
-3. [⬅️ Étape précédente](SCR_CONS_MEMOIRE_08)
+3. [😴 Étape précédente](SCR_CONS_MEMOIRE_08)
 4. [🧠 Revoir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 5. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_MNEMO_MENU
 ### 🧩 Utiliser des moyens mnémotechniques
@@ -431,19 +337,13 @@ Un moyen mnémotechnique doit être court, personnel et facile à retrouver.
 Associez une date à une scène, une institution à un lieu ou une liste à une histoire très courte. Plus l’image est claire, plus elle est facile à rappeler.
 :::
 
-1. [🗺️ Réviser l’histoire et la géographie](SCR_REV_T4_MENU)
-2. [📖 Rechercher une notion](SCR_GLO_MENU)
+![Image mentale : en 1905, les Églises et l’État sont séparés](https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/image-mentale-1905.png)
+
+**Essayez :** imaginez deux bâtiments, une église et un bâtiment public, séparés par un chemin portant « 1905 ». Fermez les yeux, retrouvez la scène puis expliquez : « La loi de 1905 sépare les Églises et l’État. » Cette séparation garantit la liberté de conscience ; chacun reste libre de croire ou de ne pas croire.
+
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_QCM_MENU
 ### ✅ Réussir les QCM
@@ -470,14 +370,6 @@ Vous disposez d’un peu plus d’une minute par question. Si vous hésitez, res
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_CONS_SITUATIONS_MENU
 ### 🎭 Réussir les mises en situation
 
@@ -499,14 +391,6 @@ Si une situation concerne une discrimination, demandez-vous quelle réponse prot
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
 
 ## SCR_CONS_ERREURS_MENU
 ### ⚠️ Éviter les erreurs fréquentes
@@ -530,14 +414,6 @@ Une erreur corrigée vous indique exactement ce que vous devez retravailler. L�
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
-
-
-
-
-
 ## SCR_CONS_ENTRETIEN_MENU
 ### 👤 Préparer l’entretien de naturalisation
 
@@ -557,18 +433,28 @@ L’entretien de naturalisation est distinct de l’examen civique. Il permet no
 Ne récitez pas un texte appris par cœur et n’inventez pas une réponse. Une réponse claire, sincère et comprise est préférable.
 :::
 
-1. [🇫🇷 Réviser les valeurs de la République](SCR_REV_T1_MENU)
-2. [📖 Consulter le glossaire](SCR_GLO_MENU)
+1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
+1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
+1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
+1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
+1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
+1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
+1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
+1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
+1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
+1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
+1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
+1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
+1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
+1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
+1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
+1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
+1. [🇫🇷 Principes et valeurs de la République](SCR_REV_T1_MENU)
+1. [🏛️ Institutions et système politique](SCR_REV_T2_MENU)
+1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
+1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
+1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
 3. [🎯 M’entraîner](SCR_ENT_MENU)
 4. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
-
-
-
-
-
-

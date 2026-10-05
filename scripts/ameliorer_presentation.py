@@ -5,6 +5,10 @@ ICON_BASE='https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main
 def pictogram(name,alt):return f'<img class="civic-icon" src="{ICON_BASE}{name}.svg" alt="{alt}" width="30" height="24">'
 ICONS={'SCR_PREP_MENU':'🎯','SCR_PASS_MENU':'🗓️','MENU_PRINCIPAL':'🏠'}
 def presentation(text):
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
  text=text.replace('[🏡 ', '[➡️ ').replace('[➡️ ℹ️ ', '[ℹ️ ')
  text=text.replace('[➡️ ↩️ ', '[↩️ ').replace('[➡️ ➡️ ', '[➡️ ')
  text=text.replace('Préparer mon examen','Passer un examen blanc').replace('Préparer un examen blanc','Passer un examen blanc').replace('préparer un examen blanc','passer un examen blanc').replace('Passer mon examen civique','S’inscrire à l’examen civique').replace('Passer mon examen','S’inscrire à l’examen civique')
@@ -13,7 +17,7 @@ def presentation(text):
   if target.startswith(('ENT_','EXAM_','BIL_')) and target.endswith(('_VRAI','_FAUX')):
    return m[0] if label.startswith('🔘 ') else m[1]+'[🔘 '+label+']('+target+')'
   for title,asset in [('Carte de séjour pluriannuelle','csp-v7'),('Carte de résident','resident'),('Naturalisation','naturalisation-v7')]:
-   if title in label:
+   if title in label and not target.startswith(('SCR_GLO_', 'SCR_QL_')):
     # Préserver les variables éventuelles portées par le libellé.
     clean=label[label.index(title):]
     return m[1]+'['+pictogram(asset,'')+' '+clean+']('+target+')'
@@ -21,7 +25,7 @@ def presentation(text):
   if target=='SCR_PASS_REGION_AUVERGNE':return m[1]+'[🌋 Auvergne]('+target+')'
   if re.fullmatch(r'SCR_ENT_(CSP|CR|NAT)_T[1-5]_(Q|MIS)_LAUNCH',target):
    for title in ['Principes et valeurs','Institutions et système politique','Droits et devoirs','Histoire, géographie et culture','Vivre dans la société française']:
-    if title in label:return m[1]+'['+('📘' if '_Q_LAUNCH' in target else '🎭')+' '+label[label.index(title):]+']('+target+')'
+    if title in label and not target.startswith(('SCR_GLO_', 'SCR_QL_')):return m[1]+'['+('📘' if '_Q_LAUNCH' in target else '🎭')+' '+label[label.index(title):]+']('+target+')'
   if '<span ' in label or '<img ' in label or (label and ord(label[0])>8000):return m[0]
   if target.startswith(('ENT_','EXAM_','BIL_')) and target.endswith(('_VRAI','_FAUX')):symbol='🔘'
   elif 'RETOUR' in target or label.lower().startswith('retour'):symbol='↩️'
@@ -74,6 +78,7 @@ def main():
   .civi-progress-track { flex: 1 1 auto; min-width: 35px; height: 15px; background: #e5dbe6; border-radius: 8px; overflow: hidden; }
   .civi-progress-track span { display: block; height: 100%; background: #37b97c; border-radius: inherit; }
   .civi-progress-label { flex: 0 0 auto; white-space: nowrap; font-weight: 600; }
+  .admonitionTitle:before { content: none !important; display: none !important; }
   .admonitionTitle:has(.civi-faq-title):before, .admonitionTitle:has(.civi-theme-title):before { content: none !important; display: none !important; }
   #controls { bottom: 26px !important; padding-bottom: 8px !important; height: auto !important; min-height: 54px; }
   #footer { bottom: 3px !important; height: 19px; line-height: 19px; margin: 0 !important; font-size: 12px; }

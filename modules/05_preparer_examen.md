@@ -100811,6 +100811,3 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
-
-
-
