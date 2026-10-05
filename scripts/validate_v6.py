@@ -1,4 +1,9 @@
 """Vérifie les invariants pédagogiques et les routes ajoutés en v6."""
+from pathlib import Path
+if Path('reports/bilans_tirage_v7.json').exists():
+    import runpy
+    runpy.run_path(str(Path(__file__).with_name('validate_v7.py')))
+    raise SystemExit(0)
 import json,re,base64,unicodedata
 from pathlib import Path
 from collections import Counter

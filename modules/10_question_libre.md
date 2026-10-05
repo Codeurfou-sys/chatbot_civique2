@@ -1,44 +1,22 @@
-<!-- Module Question libre — réponses validées et intentions, sans IA générative -->
-
 ## SCR_QL_MENU
-### Posez votre question
-
-:::info ⌨️ Conseil de navigation
-Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
-:::
-
-Je peux vous donner une explication simple et rapide sur une notion du programme, répondre aux questions fréquentes ou vous orienter vers le bon cours. Mes réponses s’appuient uniquement sur les contenus validés du chatbot.
-
-1. [➡️ Écrire ma question](SCR_QL_RESET)
-2. [➡️ Chercher une notion par thème](SCR_QL_THEMES)
-3. [➡️ Voir des exemples](SCR_QL_EXAMPLES)
-4. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
-
-
+!Typewriter: false
+<span class="civicoach-route" aria-hidden="true"></span>
+!SelectNext: SCR_QL_RESET
 
 ## SCR_QL_RESET
-`@qlReponse = undefined`
+!Typewriter: false
+<span class="civicoach-route" aria-hidden="true"></span>
 `@qlQuestion = undefined`
 `@qlNormalisee = undefined`
 `@qlTrouvee = undefined`
-
-1. [➡️ Saisir ma question](SCR_QL_INPUT)
-
-1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
-
-
-1. [↩️ Retour au menu du module](SCR_QL_MENU)
-
-1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
+`@qlReponse = undefined`
+!SelectNext: SCR_QL_INPUT
 
 ## SCR_QL_INPUT
-### Que souhaitez-vous savoir ?
+!Keyboard: true
+### Posez votre question
 
-Écrivez votre question avec vos mots, par exemple : « Je ne comprends pas ce qu’est le gouvernement », « Comment mieux retenir les connaissances ? » ou « Comment réussir les mises en situation ? ».
+Dans cette rubrique, vous pouvez poser différentes questions. CiviCoach répondra dans la mesure du possible, à partir de ses connaissances sur l’examen civique.
 
 `@qlQuestion = @INPUT : Écrivez votre question`
 
@@ -46,6 +24,366 @@ Je peux vous donner une explication simple et rapide sur une notion du programme
 `@qlNormalisee = calc(" "+normalizeText(@qlQuestion).replaceAll("œ","oe").replaceAll("æ","ae").replaceAll("«"," ").replaceAll("»"," ").replaceAll("’"," ").replaceAll("'"," ").replaceAll("-"," ").replaceAll("."," ").replaceAll("?"," ").replaceAll(","," ").replaceAll("!"," ").replaceAll(":"," ").replaceAll(";"," ").replaceAll("/"," ").replaceAll("("," ").replaceAll(")"," ").replaceAll("["," ").replaceAll("]"," ").replaceAll("\n"," ").replaceAll("\r"," ").replaceAll("\t"," ").replaceAll(" "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").trim()+" ")`
 `@qlTrouvee = false`
 `@qlReponse = undefined`
+
+<!-- Réponse : INTENT_SEUIL_FORMULATIONS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" point ") || @qlNormalisee.includes(" points ") || @qlNormalisee.includes(" score ") || @qlNormalisee.includes(" note ") || @qlNormalisee.includes(" bonnes reponses ")) && (@qlNormalisee.includes(" reussir ") || @qlNormalisee.includes(" reussir ") || @qlNormalisee.includes(" obtenir ") || @qlNormalisee.includes(" faut ") || @qlNormalisee.includes(" minimum ") || @qlNormalisee.includes(" minimale ") || @qlNormalisee.includes(" necessaire ") || @qlNormalisee.includes(" valider ") || @qlNormalisee.includes(" avoir ") || @qlNormalisee.includes(" besoin ")))`
+Pour réussir l’examen civique, il faut obtenir **au moins 32 bonnes réponses sur 40**, soit **80 %**. Ce seuil concerne l’examen complet ; les scores des entraînements vous aident à vous préparer.
+
+`@qlReponse = INTENT_SEUIL_FORMULATIONS`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_DOCUMENTS_ENTRETIEN -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" documents ") || @qlNormalisee.includes(" papiers ")) && (@qlNormalisee.includes(" entretien ")))`
+Vous devez apporter les documents demandés dans votre convocation.
+
+Selon votre situation, il peut s'agir notamment :
+
+- d'une pièce d'identité ;
+- de votre titre de séjour ;
+- de votre convocation ;
+- et des autres justificatifs demandés par l'administration.
+
+Vérifiez toujours votre convocation avant le rendez-vous.
+
+`@qlReponse = INTENT_FAQ_DOCUMENTS_ENTRETIEN`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_ENTRETIEN_DUREE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" entretien ")) && (@qlNormalisee.includes(" duree ") || @qlNormalisee.includes(" duree ") || @qlNormalisee.includes(" temps ") || @qlNormalisee.includes(" dure ")))`
+La durée peut varier selon les situations.
+
+En général, un entretien dure entre **15 et 30 minutes**, mais il peut être plus court ou plus long selon votre dossier et les questions complémentaires posées par l'agent. Si vous avez une parfaite maîtrise de la langue française alors l'entretien peut être court. Dans tous les cas ne vous inquiétez pas du temps passé en entretien, celui-ci n'est pas un indicateur de réussite !
+
+`@qlReponse = INTENT_FAQ_ENTRETIEN_DUREE`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_ENTRETIEN_QUESTIONS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" entretien ")) && (@qlNormalisee.includes(" questions ") || @qlNormalisee.includes(" demande ") || @qlNormalisee.includes(" demandent ")))`
+Les questions peuvent porter notamment sur :
+
+- votre parcours personnel et professionnel en France ;
+- vos motivations pour devenir français ;
+- vos droits et devoirs ;
+- les valeurs de la République (liberté, égalité, fraternité, laïcité...) ;
+- les institutions françaises et leur fonctionnement ;
+- votre vie quotidienne et votre intégration en France ;
+- l'histoire, la culture et la société françaises.
+
+Le contenu peut varier d'un entretien à l'autre.
+
+`@qlReponse = INTENT_FAQ_ENTRETIEN_QUESTIONS`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_ENTRETIEN_TENUE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" habiller ") || @qlNormalisee.includes(" tenue ") || @qlNormalisee.includes(" vetements ") || @qlNormalisee.includes(" vetements ")))`
+Il n'existe pas de tenue obligatoire.
+
+Une tenue propre, soignée et adaptée à un entretien administratif est recommandée.
+
+L'essentiel est de vous présenter avec sérieux et de rester naturel.
+
+`@qlReponse = INTENT_FAQ_ENTRETIEN_TENUE`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_ENTRETIEN_REFORMULER -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" repeter ") || @qlNormalisee.includes(" repeter ") || @qlNormalisee.includes(" reformuler ")) && (@qlNormalisee.includes(" agent ") || @qlNormalisee.includes(" entretien ")))`
+Oui.
+
+Si vous ne comprenez pas une question, vous pouvez demander poliment à l'agent de la répéter ou de la reformuler.
+
+Il est préférable de demander une explication plutôt que de répondre au hasard.
+
+`@qlReponse = INTENT_FAQ_ENTRETIEN_REFORMULER`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_ENTRETIEN_MOTIVATION -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" devenir francais ") || @qlNormalisee.includes(" devenir francais ") || @qlNormalisee.includes(" souhaitez devenir ")))`
+Il n'existe pas de réponse unique.
+
+L'important est de répondre de manière personnelle, sincère et cohérente avec votre parcours.
+
+Expliquez ce qui motive votre demande (intégration, projet de vie, attachement à la France, etc.) sans chercher à réciter une réponse apprise par cœur. Evitez les réponses trop génériques comme "mes enfants sont nés ici alors je souhaite devenir français".
+
+`@qlReponse = INTENT_FAQ_ENTRETIEN_MOTIVATION`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_PRIX -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" prix ") || @qlNormalisee.includes(" tarif ") || @qlNormalisee.includes(" cout ") || @qlNormalisee.includes(" cout ") || @qlNormalisee.includes(" coute ") || @qlNormalisee.includes(" coute ") || @qlNormalisee.includes(" payer ") || @qlNormalisee.includes(" combien ca coute ")))`
+Les frais d'inscription sont fixés par chaque centre agréé et peuvent varier.
+
+Le tarif applicable est de 80 € vous sera demandé au moment de votre inscription auprès du centre choisi.. Ce montant est à payer en ligne lors de la réservation. Il n'est pas remboursable si vous changez d'avis ou si vous ratez l'examen.
+
+`@qlReponse = INTENT_FAQ_PRIX`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_RESULTATS_DELAI -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" resultats ") || @qlNormalisee.includes(" resultats ")) && (@qlNormalisee.includes(" quand ") || @qlNormalisee.includes(" recevoir ") || @qlNormalisee.includes(" recois ") || @qlNormalisee.includes(" recois ") || @qlNormalisee.includes(" delai ") || @qlNormalisee.includes(" delai ")))`
+Généralement, vous obtenez le résultat sous 48 h de la part de Frate Formation. L'attestation vous sera envoyé quelques jours après la passation de l'examen.
+
+`@qlReponse = INTENT_FAQ_RESULTATS_DELAI`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_ECHEC -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" echoue ") || @qlNormalisee.includes(" echoue ") || @qlNormalisee.includes(" echec ") || @qlNormalisee.includes(" echec ") || @qlNormalisee.includes(" rate ") || @qlNormalisee.includes(" rate ") || @qlNormalisee.includes(" repasser ") || @qlNormalisee.includes(" rater ")))`
+Pas de panique, cela n'annule pas votre demande de visa. Mais vous devez : (1) Vous réinscrire à une nouvelle session, (2) Repayer les frais d'inscription, (3) Attendre la prochaine date disponible. C'est pourquoi il est plus économique de bien se préparer dès la première fois.
+
+`@qlReponse = INTENT_FAQ_ECHEC`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_VALIDITE_ATTESTATION -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" attestation ") || @qlNormalisee.includes(" certificat ")) && (@qlNormalisee.includes(" validite ") || @qlNormalisee.includes(" validite ") || @qlNormalisee.includes(" expire ") || @qlNormalisee.includes(" expiration ") || @qlNormalisee.includes(" duree ") || @qlNormalisee.includes(" duree ")))`
+Non. Une fois l'examen réussi, cela est définitif. Vous pourrez réutiliser votre attestation pour effectuer d'autres démarches administratives.
+
+`@qlReponse = INTENT_FAQ_VALIDITE_ATTESTATION`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_DOCUMENTS_EXAMEN -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" documents ") || @qlNormalisee.includes(" papiers ") || @qlNormalisee.includes(" identite ") || @qlNormalisee.includes(" identite ")) && (@qlNormalisee.includes(" apporter ") || @qlNormalisee.includes(" examen ") || @qlNormalisee.includes(" jour ") || @qlNormalisee.includes(" presenter ") || @qlNormalisee.includes(" presenter ")))`
+Le jour de l'examen, pensez à apporter :
+
+- votre convocation imprimée ;
+- votre titre de séjour original ou votre passeport (attention : les photocopies sont refusées) ;
+- tout autre document mentionné dans votre convocation.
+
+Vérifiez toujours les consignes communiquées par votre centre avant votre déplacement.
+
+`@qlReponse = INTENT_FAQ_DOCUMENTS_EXAMEN`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_DISPENSE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" dispense ") || @qlNormalisee.includes(" dispense ") || @qlNormalisee.includes(" dispensees ") || @qlNormalisee.includes(" dispenses ") || @qlNormalisee.includes(" exempte ") || @qlNormalisee.includes(" exempte ") || @qlNormalisee.includes(" exemption ")))`
+Les dispenses dépendent du titre demandé — il n'existe pas de liste universelle. Pour la CSP : Passeport Talent (hors CIR), protection subsidiaire et apatrides (et familles), 65 ans ou plus, dispense médicale. Pour la carte de résident longue durée-UE, certains de ces statuts peuvent être concernés par l'examen. Pour la naturalisation, seule la dispense médicale est officiellement documentée ; la dispense à 65 ans n'y est pas explicitement confirmée. Vérifiez toujours la fiche Service-Public correspondant à votre démarche exacte. Les renouvellements de titre ne nécessitent pas l'examen.
+
+`@qlReponse = INTENT_FAQ_DISPENSE`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_NIVEAU_FRANCAIS -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" niveau ") || @qlNormalisee.includes(" francais ") || @qlNormalisee.includes(" francais ")) && (@qlNormalisee.includes(" requis ") || @qlNormalisee.includes(" necessaire ") || @qlNormalisee.includes(" necessaire ") || @qlNormalisee.includes(" b1 ") || @qlNormalisee.includes(" a2 ") || @qlNormalisee.includes(" b2 ")))`
+L'examen se déroule uniquement en français, sans traduction disponible. Les questions sont formulées simplement (niveau A2/B1). Les questions sont des QCM aussi bien pour les 28 questions de connaissances générales que les 12 mises en situation.
+
+`@qlReponse = INTENT_FAQ_NIVEAU_FRANCAIS`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_FRAUDE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" triche ") || @qlNormalisee.includes(" tricher ") || @qlNormalisee.includes(" fraude ") || @qlNormalisee.includes(" frauder ")))`
+La fraude à l'examen civique a de lourdes conséquences : vous serez immédiatement exclu de la session en cours et votre tentative sera invalidée. De plus vous serez interdit de repasser l'examen pendant 2 ans. Cette interdiction peut également avoir un impact sur votre dossier administratif auprès de la préfecture.
+
+`@qlReponse = INTENT_FAQ_FRAUDE`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_QUESTIONS_PIEGES -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" piege ") || @qlNormalisee.includes(" piege ") || @qlNormalisee.includes(" pieges ") || @qlNormalisee.includes(" pieges ")))`
+Oui, notamment pour les "mises en situation" qui vous poussent à raisonner et à évaluer votre compréhension d'une situation en fonction des connaissances que vous avez acqusise. Exemple : Une entreprise refuse de recruter une personne en situation d'handicap. Quelle valeur républicaine n'est pas respectée ? 
+
+Conseil : Lisez bien les mots comme "toujours", "jamais" ou "interdit" qui vous donneront des indices pour répondre.
+
+`@qlReponse = INTENT_FAQ_QUESTIONS_PIEGES`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_CENTRE_CHANGEMENT -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" changer ") || @qlNormalisee.includes(" changement ")) && (@qlNormalisee.includes(" centre ")))`
+Les conditions de modification ou de report dépendent du centre d'examen.
+
+Si vous souhaitez modifier votre inscription, contactez rapidement votre centre afin de connaître les possibilités qui s'offrent à vous.
+
+`@qlReponse = INTENT_FAQ_CENTRE_CHANGEMENT`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_RECEPISSE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" recepisse ") || @qlNormalisee.includes(" recepisse ")))`
+Les documents acceptés pour vérifier votre identité sont définis par le centre d'examen.
+
+En cas de doute sur la validité de vos documents, contactez votre centre avant le jour de l'épreuve afin d'éviter tout déplacement inutile.
+
+`@qlReponse = INTENT_FAQ_RECEPISSE`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_PREFECTURE_INSCRIPTION -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" prefecture ") || @qlNormalisee.includes(" prefecture ")) && (@qlNormalisee.includes(" inscrire ") || @qlNormalisee.includes(" inscription ")))`
+Non.
+
+L'inscription à l'examen ne s'effectue pas auprès de la préfecture.
+
+Vous devez vous inscrire auprès d'un centre agréé.
+
+Le moyen le plus simple est de :
+
+- utiliser la rubrique **« S’inscrire à l’examen civique »** du Coach ;
+- ou consulter.
+
+`@qlReponse = INTENT_FAQ_PREFECTURE_INSCRIPTION`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_CENTRE_PROCHE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" centre ") || @qlNormalisee.includes(" passer ")) && (@qlNormalisee.includes(" proche ") || @qlNormalisee.includes(" chez moi ") || @qlNormalisee.includes(" pres ") || @qlNormalisee.includes(" pres ") || @qlNormalisee.includes(" ou ") || @qlNormalisee.includes(" ou ")))`
+Depuis la rubrique **« S’inscrire à l’examen civique »**, le Coach vous oriente vers les centres disponibles.
+
+Vous pouvez également consulter la page de, sélectionner votre région puis choisir le centre qui vous convient.
+
+`@qlReponse = INTENT_FAQ_CENTRE_PROCHE`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_THEMATIQUES -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" themes ") || @qlNormalisee.includes(" themes ") || @qlNormalisee.includes(" thematiques ") || @qlNormalisee.includes(" thematiques ")) && (@qlNormalisee.includes(" examen ") || @qlNormalisee.includes(" officiel ") || @qlNormalisee.includes(" officielles ") || @qlNormalisee.includes(" combien ")))`
+Les questions portent sur cinq grandes thématiques :
+
+- Les valeurs et principes de la République française ;
+- Le système institutionnel et politique français ;
+- Les droits et devoirs du citoyen ;
+- L'histoire, la géographie et la culture françaises ;
+- La vie dans la société française.
+
+Ces thèmes correspondent au référentiel officiel publié par les autorités françaises.
+
+`@qlReponse = INTENT_FAQ_THEMATIQUES`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_EXAMEN_DIFFERENCES -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" difference ") || @qlNormalisee.includes(" difference ") || @qlNormalisee.includes(" differences ") || @qlNormalisee.includes(" differences ")) && (@qlNormalisee.includes(" resident ") || @qlNormalisee.includes(" resident ") || @qlNormalisee.includes(" sejour ") || @qlNormalisee.includes(" sejour ")))`
+Les trois examens civiques ont des niveaux de difficulté différents : CSP (Carte de Séjour Pluriannuelle, 4 ans) est le plus accessible avec 191 questions officielles. CR (Carte de Résident, 10 ans) est plus exigeant avec 209 questions. NAT (Naturalisation) est le plus difficile avec 258 questions approfondies sur l'histoire et les institutions. Dans tous les cas, 40 questions sont tirées au sort le jour J et le nombre de bonnes réponses à donner reste le même (32/40).
+
+`@qlReponse = INTENT_FAQ_EXAMEN_DIFFERENCES`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_CIR -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" cir ") || @qlNormalisee.includes(" contrat d integration republicaine ") || @qlNormalisee.includes(" contrat d integration republicaine ")))`
+Le Contrat d'Intégration Républicaine (CIR) est un engagement entre l'État français et les primo-arrivants
+
+Il prévoit notamment :
+
+- une formation civique ;
+- un accompagnement vers l'intégration ;
+- et, lorsque cela est nécessaire, une formation en langue française.
+
+L'objectif est de favoriser une bonne intégration dans la société française. Le CIR est obligatoire pour obtenir une carte de séjour pluriannuelle.
+
+`@qlReponse = INTENT_FAQ_CIR`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_FORMATION_DUREE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" formation civique ")) && (@qlNormalisee.includes(" duree ") || @qlNormalisee.includes(" duree ") || @qlNormalisee.includes(" dure ") || @qlNormalisee.includes(" temps ")))`
+La formation civique de l'OFII dure 4 jours (soit 24 heures au total). Elle se déroule généralement sur 4 journées consécutives ou réparties sur plusieurs semaines.
+
+`@qlReponse = INTENT_FAQ_FORMATION_DUREE`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_FORMATION_EXAMEN -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" formation civique ")) && (@qlNormalisee.includes(" difference ") || @qlNormalisee.includes(" difference ") || @qlNormalisee.includes(" examen ")))`
+La formation civique et l'examen civique sont deux dispositifs différents.
+
+La **formation civique** est une formation de 4 jours permettant d'acquérir les connaissances nécessaires sur la France et les valeurs de la République. Elle est gratuite et obligatoire pour les signataires du contrat d'intégration Républicaine (CIR). 
+
+L'**examen civique** permet ensuite de vérifier que ces connaissances sont acquises. Le test est payant et comprend 40 questions. 
+
+La formation prépare donc à l'examen, mais ne le remplace pas.
+
+`@qlReponse = INTENT_FAQ_FORMATION_EXAMEN`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_FORMATION_OFII -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" formation civique ") || @qlNormalisee.includes(" formation de l ofii ")))`
+La formation civique est une formation de 4 jours obligatoire dans le cadre du Contrat d'Intégration Républicaine (CIR).
+
+Elle permet de découvrir :
+
+- les valeurs de la République française ;
+- les droits et les devoirs en France ;
+- le fonctionnement des institutions ;
+- les principales règles de la vie en société.
+
+Cette formation favorise l'intégration des nouveaux arrivants et prépare à l'examen civique, mais ne le remplace pas.
+
+`@qlReponse = INTENT_FAQ_FORMATION_OFII`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_ACCES_NOVAFRATE -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" novafrate ")) && (@qlNormalisee.includes(" acceder ") || @qlNormalisee.includes(" acceder ") || @qlNormalisee.includes(" connexion ") || @qlNormalisee.includes(" connecter ")))`
+Dès réception de vos identifiants, il vous suffit de vous connecter à la plateforme NovaFrate avec les informations qui vous ont été communiquées par e-mail.
+
+En cas de difficulté de connexion, vous pouvez contacter le support de FRATE Formation.
+
+`@qlReponse = INTENT_FAQ_ACCES_NOVAFRATE`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_ACCES_RECEPTION -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" acces ") || @qlNormalisee.includes(" acces ") || @qlNormalisee.includes(" identifiants ")) && (@qlNormalisee.includes(" recevoir ") || @qlNormalisee.includes(" quand ") || @qlNormalisee.includes(" recois ") || @qlNormalisee.includes(" recois ")))`
+Après validation de votre inscription à l'examen auprès de FRATE Formation, vos identifiants NovaFrate sont généralement envoyés dans un délai de **24 heures ouvrées**.
+
+Pensez également à vérifier votre dossier « Courriers indésirables » ou « Spam » si vous ne recevez pas votre e-mail.
+
+`@qlReponse = INTENT_FAQ_ACCES_RECEPTION`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_APPLICATION -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" application ") || @qlNormalisee.includes(" installer ")) && (@qlNormalisee.includes(" novafrate ") || @qlNormalisee.includes(" formation ") || @qlNormalisee.includes(" plateforme ")))`
+Non.
+
+NovaFrate est accessible directement en ligne depuis un ordinateur, une tablette ou un smartphone disposant d'une connexion Internet.
+
+Aucune installation particulière n'est nécessaire.
+
+`@qlReponse = INTENT_FAQ_APPLICATION`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_SUPPORT -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" support ") || @qlNormalisee.includes(" contacter frate ") || @qlNormalisee.includes(" probleme technique ") || @qlNormalisee.includes(" probleme technique ")))`
+Si vous avez une question concernant votre inscription, votre accès à NovaFrate ou le déroulement de votre préparation, vous pouvez utiliser le formulaire de contact disponible sur le site de FRATE Formation.
+
+L'équipe vous répondra dans les meilleurs délais.
+
+👉 Rendez-vous sur la page **Examen civique** puis dans la rubrique **« Un problème ? Des questions ? Contactez-nous ! »** pour accéder au formulaire de contact.
+
+`@qlReponse = INTENT_FAQ_SUPPORT`
+`@qlTrouvee = true`
+`endif`
+
+<!-- Réponse : INTENT_FAQ_QUESTIONS_OFFICIELLES -->
+`if !@qlTrouvee && ((@qlNormalisee.includes(" questions ") || @qlNormalisee.includes(" question ")) && (@qlNormalisee.includes(" officielles ") || @qlNormalisee.includes(" officiel ") || @qlNormalisee.includes(" officielle ")))`
+Oui.
+
+Les contenus proposés sur NovaFrate sont élaborés à partir des référentiels officiels de l'examen civique publiés par les autorités françaises.
+
+Vous retrouverez :
+
+- les connaissances attendues à l'examen ;
+- des entraînements inspirés des questions officielles ;
+- des examens blancs ;
+- des explications pédagogiques pour mieux comprendre les notions.
+
+L'objectif est de vous préparer efficacement aux différentes mentions de l'examen civique.
+
+`@qlReponse = INTENT_FAQ_QUESTIONS_OFFICIELLES`
+`@qlTrouvee = true`
+`endif`
 
 <!-- Réponse : INTENT_GOUVERNEMENT_PARLEMENT -->
 `if !@qlTrouvee && ((@qlNormalisee.includes(" gouvernement ") || @qlNormalisee.includes(" gouv ")) && (@qlNormalisee.includes(" parlement ") || @qlNormalisee.includes(" assemblee ") || @qlNormalisee.includes(" senat ")) && (@qlNormalisee.includes(" difference ") || @qlNormalisee.includes(" distinguer ") || @qlNormalisee.includes(" confonds ") || @qlNormalisee.includes(" confondre ") || @qlNormalisee.includes(" meme chose ")))`
@@ -145,7 +483,7 @@ Les informations sur le coût de l’examen sont présentées dans la FAQ. Consu
 
 <!-- Réponse : INTENT_FORMAT -->
 `if !@qlTrouvee && ((@qlNormalisee.includes(" combien de questions ") || @qlNormalisee.includes(" duree de l examen ") || @qlNormalisee.includes(" duree examen ") || @qlNormalisee.includes(" combien de temps dure ") || @qlNormalisee.includes(" format de l examen ") || @qlNormalisee.includes(" comment se passe l examen ")))`
-Pour connaître le nombre de questions, la durée et le déroulement, consultez la fiche sur le **format de l’examen**.
+L’examen comporte **40 questions à choix multiple** et dure **45 minutes**. Il comprend 28 questions de connaissances et 12 mises en situation, réparties entre cinq thématiques.
 
 `@qlReponse = INTENT_FORMAT`
 `@qlTrouvee = true`
@@ -153,7 +491,7 @@ Pour connaître le nombre de questions, la durée et le déroulement, consultez 
 
 <!-- Réponse : INTENT_SEUIL -->
 `if !@qlTrouvee && ((@qlNormalisee.includes(" score pour reussir ") || @qlNormalisee.includes(" score necessaire ") || @qlNormalisee.includes(" combien de bonnes reponses ") || @qlNormalisee.includes(" 32 sur 40 ") || @qlNormalisee.includes(" 32 40 ") || @qlNormalisee.includes(" 80 pour cent ") || @qlNormalisee.includes(" note minimum ") || @qlNormalisee.includes(" note minimale ")))`
-La FAQ explique le score nécessaire pour réussir l’examen. Les objectifs proposés dans les entraînements servent à guider votre progression.
+Pour réussir l’examen civique, il faut obtenir **au moins 32 bonnes réponses sur 40**, soit **80 %**. Ce seuil concerne l’examen complet ; les scores des entraînements vous aident à vous préparer.
 
 `@qlReponse = INTENT_SEUIL`
 `@qlTrouvee = true`
@@ -2736,6 +3074,161 @@ Choisissez une thématique de révision. Vous pourrez ensuite passer aux questio
 `@qlTrouvee = true`
 `endif`
 
+`if @qlReponse == "INTENT_SEUIL_FORMULATIONS"`
+1. [📊 Consulter le score de réussite](SCR_FAQ_009)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_DOCUMENTS_ENTRETIEN"`
+1. [💬 👤 Quels documents dois-je apporter le jour de l'entretien ?](SCR_FAQ_046)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_ENTRETIEN_DUREE"`
+1. [💬 👤 Combien de temps dure l'entretien de naturalisation ?](SCR_FAQ_040)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_ENTRETIEN_QUESTIONS"`
+1. [💬 👤 Quelles questions sont posées pendant l'entretien de naturalisation ?](SCR_FAQ_038)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_ENTRETIEN_TENUE"`
+1. [💬 👤 Comment dois-je m'habiller pour l'entretien de naturalisation ?](SCR_FAQ_047)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_ENTRETIEN_REFORMULER"`
+1. [💬 👤 Puis-je demander à l'agent de répéter ou de reformuler une question ?](SCR_FAQ_045)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_ENTRETIEN_MOTIVATION"`
+1. [💬 👤 Comment répondre à la question : "Pourquoi souhaitez-vous devenir français ?"](SCR_FAQ_039)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_PRIX"`
+1. [💬 📝 Combien coûte l'examen civique ?](SCR_FAQ_019)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_RESULTATS_DELAI"`
+1. [💬 📊 Quand reçoit-on les résultats ?](SCR_FAQ_028)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_ECHEC"`
+1. [💬 📊 Que se passe-t-il si j'échoue à l'examen ?](SCR_FAQ_026)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_VALIDITE_ATTESTATION"`
+1. [💬 📊 L'attestation de réussite a-t-elle une date de fin de validité ?](SCR_FAQ_027)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_DOCUMENTS_EXAMEN"`
+1. [💬 📝 Quels documents dois-je apporter le jour de l'examen ?](SCR_FAQ_021)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_DISPENSE"`
+1. [💬 📘 Qui peut être dispensé de passer l'examen civique ?](SCR_FAQ_014)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_NIVEAU_FRANCAIS"`
+1. [💬 📘 Quel est le niveau de français requis pour passer l'examen ?](SCR_FAQ_012)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_FRAUDE"`
+1. [💬 📘 Que se passe-t-il si on triche à l'examen ?](SCR_FAQ_010)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_QUESTIONS_PIEGES"`
+1. [💬 📘 Existe-t-il des questions pièges dans cet examen ?](SCR_FAQ_013)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_CENTRE_CHANGEMENT"`
+1. [💬 📝 Puis-je changer de centre après mon inscription ?](SCR_FAQ_022)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_RECEPISSE"`
+1. [💬 📝 Puis-je passer l'examen avec un récépissé expiré ?](SCR_FAQ_023)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_PREFECTURE_INSCRIPTION"`
+1. [💬 📝 Puis-je m'inscrire directement auprès de la préfecture ?](SCR_FAQ_020)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_CENTRE_PROCHE"`
+1. [💬 📝 Comment choisir le centre d'examen le plus proche de chez moi ?](SCR_FAQ_024)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_THEMATIQUES"`
+1. [💬 📘 Quelles sont les thématiques officielles de l'examen civique ?](SCR_FAQ_003)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_EXAMEN_DIFFERENCES"`
+1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/resident.svg" alt="" width="30" height="24"> Carte de résident et Naturalisation ?](SCR_FAQ_005)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_CIR"`
+1. [💬 🏛️ Qu'est-ce que le Contrat d'Intégration Républicaine (CIR) ?](SCR_FAQ_032)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_FORMATION_DUREE"`
+1. [💬 🏛️ Combien de temps dure la formation civique ?](SCR_FAQ_031)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_FORMATION_EXAMEN"`
+1. [💬 🏛️ Quelle est la différence entre la formation civique et l'examen civique ?](SCR_FAQ_033)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_FORMATION_OFII"`
+1. [💬 🏛️ Qu'est-ce que la formation civique de l'OFII ?](SCR_FAQ_030)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_ACCES_NOVAFRATE"`
+1. [💬 💻 Comment accéder à NovaFrate ?](SCR_FAQ_056)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_ACCES_RECEPTION"`
+1. [💬 💻 Quand vais-je recevoir mes accès à NovaFrate ?](SCR_FAQ_055)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_APPLICATION"`
+1. [💬 💻 Dois-je installer une application pour utiliser NovaFrate ?](SCR_FAQ_059)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_SUPPORT"`
+1. [💬 💻 Comment contacter le support de FRATE Formation ?](SCR_FAQ_061)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
+`if @qlReponse == "INTENT_FAQ_QUESTIONS_OFFICIELLES"`
+1. [💬 💻 Les questions proposées sur NovaFrate sont-elles officielles ?](SCR_FAQ_053)
+1. [❓ Poser une autre question](SCR_QL_RESET)
+`endif`
+
 `if @qlReponse == "INTENT_GOUVERNEMENT_PARLEMENT"`
 1. [📘 Comprendre le Gouvernement](SCR_QL_GLO0066)
 1. [📘 Comprendre le Parlement](SCR_QL_GLO0101)
@@ -4166,12 +4659,7 @@ Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mo
 Écrivez votre question dans la barre de saisie, puis cliquez sur **Envoyer** ou appuyez sur **Entrée**.
 `endif`
 
-1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
-1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-
 
 ## SCR_QL_EXAMPLES
 ### Exemples de questions reconnues
@@ -4187,9 +4675,6 @@ Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mo
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
-
 ## SCR_QL_THEMES
 ### Chercher une notion par thème
 
@@ -4204,8 +4689,6 @@ Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mo
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_THEME_T1
 ### Principes et valeurs de la République
@@ -4237,8 +4720,6 @@ Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mo
 1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_THEME_T2
 ### Institutions et système politique
@@ -4287,8 +4768,6 @@ Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mo
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_THEME_T3
 ### Droits et devoirs
 
@@ -4329,8 +4808,6 @@ Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mo
 1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_THEME_T4
 ### Histoire, géographie et culture
@@ -4377,8 +4854,6 @@ Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mo
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_THEME_T5
 ### Vivre dans la société française
 
@@ -4402,7 +4877,7 @@ Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mo
 18. [➡️ Lycée](SCR_QL_GLO0086)
 19. [➡️ Mairie](SCR_QL_GLO0088)
 20. [➡️ Médecin traitant](SCR_QL_GLO0092)
-21. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation.svg" alt="" width="30" height="24"> Naturalisation](SCR_QL_GLO0097)
+21. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation](SCR_QL_GLO0097)
 22. [➡️ Préfecture](SCR_QL_GLO0105)
 23. [➡️ Propriétaire](SCR_QL_GLO0112)
 24. [➡️ Salaire](SCR_QL_GLO0120)
@@ -4419,8 +4894,6 @@ Je n’ai pas identifié le sujet de votre question. Vous pouvez préciser le mo
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0001
 ### 📘 Abstention
 
@@ -4433,8 +4906,6 @@ L’**abstention** consiste à ne pas participer à une élection. Elle est diff
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0002
 ### 📘 Alpes
@@ -4453,8 +4924,6 @@ Massif montagneux situé à l'est de la France.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0003
 ### 📘 APL
 
@@ -4472,8 +4941,6 @@ Aide personnalisée au logement versée sous certaines conditions.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0004
 ### 📘 Assemblée nationale
 
@@ -4486,8 +4953,6 @@ L’**Assemblée nationale** est l’une des deux parties du Parlement. Les **d�
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0005
 ### 📘 Assistance à personne en danger
@@ -4506,8 +4971,6 @@ Obligation d'aider une personne en danger ou d'alerter les secours lorsqu'il est
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0006
 ### 📘 Assurance maladie
 
@@ -4525,8 +4988,6 @@ Système de protection sociale qui rembourse tout ou partie des dépenses de san
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0007
 ### 📘 Bail
 
@@ -4539,8 +5000,6 @@ Un **bail** est un contrat entre le propriétaire d’un logement et la personne
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0008
 ### 📘 Bretagne
@@ -4559,8 +5018,6 @@ Région située à l'ouest de la France métropolitaine.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0009
 ### 📘 CAF
 
@@ -4573,8 +5030,6 @@ La **CAF**, ou Caisse d’allocations familiales, verse certaines aides selon la
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0010
 ### 📘 Carte de résident
@@ -4589,8 +5044,6 @@ La **carte de résident** est un titre de séjour valable dix ans. Les condition
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0011
 ### 📘 Carte Vitale
 
@@ -4603,8 +5056,6 @@ La **carte Vitale** sert à transmettre les informations nécessaires au rembour
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0012
 ### 📘 CDD
@@ -4619,8 +5070,6 @@ Un **CDD** est un contrat de travail prévu pour une durée déterminée. Il a u
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0013
 ### 📘 CDI
 
@@ -4633,8 +5082,6 @@ Un **CDI** est un contrat de travail sans date de fin prévue à l’avance.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0014
 ### 📘 Celtes
@@ -4653,8 +5100,6 @@ Peuples installés en Gaule avant la conquête romaine.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0015
 ### 📘 Charlemagne
 
@@ -4671,8 +5116,6 @@ Empereur d'Occident couronné en l'an 800.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0016
 ### 📘 Charte de l'environnement
@@ -4691,8 +5134,6 @@ Texte à valeur constitutionnelle qui reconnaît le droit à un environnement é
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0017
 ### 📘 Château de Versailles
 
@@ -4709,8 +5150,6 @@ Ancienne résidence des rois de France située près de Paris.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0018
 ### 📘 Cinquième République
@@ -4729,8 +5168,6 @@ Régime politique actuel de la France, instauré en 1958.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0019
 ### 📘 Citoyen
 
@@ -4743,8 +5180,6 @@ Un **citoyen** est une personne qui possède des droits civiques et des devoirs 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0020
 ### 📘 Citoyenneté
@@ -4765,8 +5200,6 @@ Lien juridique entre une personne et un État, donnant des droits mais aussi des
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0021
 ### 📘 Clovis
 
@@ -4783,8 +5216,6 @@ Premier roi des Francs à s'être converti au christianisme.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0022
 ### 📘 Collège
@@ -4803,8 +5234,6 @@ Premier roi des Francs à s'être converti au christianisme.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0023
 ### 📘 Commission européenne
 
@@ -4822,8 +5251,6 @@ Institution chargée de proposer les lois européennes et de veiller à leur app
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0024
 ### 📘 Commune
 
@@ -4836,8 +5263,6 @@ Une **commune** est une ville ou un village avec son administration locale. Le m
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0025
 ### 📘 Conseil constitutionnel
@@ -4856,8 +5281,6 @@ Le Conseil constitutionnel vérifie que les lois respectent la Constitution.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0026
 ### 📘 Conseil de l'Union européenne
 
@@ -4874,8 +5297,6 @@ Institution où siègent les ministres des États membres.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0027
 ### 📘 Conseil départemental
@@ -4894,8 +5315,6 @@ Assemblée qui administre le département.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0028
 ### 📘 Conseil européen
 
@@ -4912,8 +5331,6 @@ Réunion des chefs d'État ou de gouvernement des pays membres.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0029
 ### 📘 Conseil municipal
@@ -4932,8 +5349,6 @@ Assemblée élue qui administre la commune.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0030
 ### 📘 Conseil régional
 
@@ -4951,8 +5366,6 @@ Assemblée qui administre la région.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0031
 ### 📘 Consentement
 
@@ -4966,8 +5379,6 @@ Le **consentement** est un accord donné librement, sans pression. Une personne 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0032
 ### 📘 Constitution
 
@@ -4980,8 +5391,6 @@ La **Constitution** est le texte qui fixe les grandes règles de fonctionnement 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0033
 ### 📘 Contrat d'engagement à respecter les principes de la République
@@ -5000,8 +5409,6 @@ Engagement consistant à respecter les valeurs et les principes de la Républiqu
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0034
 ### 📘 Contrat de travail
 
@@ -5014,8 +5421,6 @@ Le **contrat de travail** fixe les conditions de travail entre un employeur et u
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0035
 ### 📘 Contravention
@@ -5034,8 +5439,6 @@ Infraction la moins grave.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0036
 ### 📘 CPAM
 
@@ -5052,8 +5455,6 @@ La Caisse primaire d'assurance maladie gère l'Assurance maladie dans chaque dé
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0037
 ### 📘 Crime
@@ -5072,8 +5473,6 @@ Infraction la plus grave prévue par la loi.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0038
 ### 📘 Déclaration des droits de l'homme et du citoyen
 
@@ -5090,8 +5489,6 @@ Texte adopté en 1789 qui affirme les droits et libertés fondamentaux.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0039
 ### 📘 Délit
@@ -5110,8 +5507,6 @@ Infraction plus grave qu'une contravention.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0040
 ### 📘 Démocratie
 
@@ -5124,8 +5519,6 @@ Dans une **démocratie**, le peuple participe aux décisions, notamment en chois
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0041
 ### 📘 Département
@@ -5144,8 +5537,6 @@ Le département est une collectivité territoriale située entre la région et l
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0042
 ### 📘 Député
 
@@ -5158,8 +5549,6 @@ Un **député** est un représentant élu qui siège à l’Assemblée nationale
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0043
 ### 📘 Député européen
@@ -5178,8 +5567,6 @@ Représentant élu des citoyens au Parlement européen.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0044
 ### 📘 Devise de la République
 
@@ -5192,8 +5579,6 @@ La devise de la République française est **« Liberté, Égalité, Fraternité
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0045
 ### 📘 Dignité humaine
@@ -5208,8 +5593,6 @@ La **dignité humaine** signifie que toute personne mérite le respect. On ne do
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0046
 ### 📘 Drapeau français
 
@@ -5222,8 +5605,6 @@ Le **drapeau français** comporte trois couleurs : bleu, blanc et rouge.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0047
 ### 📘 Droits fondamentaux
@@ -5242,8 +5623,6 @@ Ensemble des droits et libertés reconnus à toute personne et garantis par la C
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0048
 ### 📘 École
 
@@ -5261,8 +5640,6 @@ Ensemble des droits et libertés reconnus à toute personne et garantis par la C
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0049
 ### 📘 Égalité
 
@@ -5275,8 +5652,6 @@ L’**égalité** signifie que chacun a les mêmes droits devant la loi. Une per
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0050
 ### 📘 Élection
@@ -5295,8 +5670,6 @@ Procédure permettant aux citoyens de choisir leurs représentants.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0051
 ### 📘 Employeur
 
@@ -5309,8 +5682,6 @@ L’**employeur** est la personne ou l’organisation qui embauche un salarié e
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0052
 ### 📘 Environnement
@@ -5329,8 +5700,6 @@ Ensemble des éléments naturels que chacun doit protéger.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0053
 ### 📘 Espace Schengen
 
@@ -5347,8 +5716,6 @@ Espace dans lequel les contrôles aux frontières intérieures sont supprimés e
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0054
 ### 📘 État
@@ -5367,8 +5734,6 @@ L'État est l'organisation politique qui exerce son autorité sur le territoire 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0055
 ### 📘 Euro
 
@@ -5385,8 +5750,6 @@ Monnaie utilisée par plusieurs pays de l'Union européenne.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0056
 ### 📘 Fête de la Musique
@@ -5405,8 +5768,6 @@ Manifestation culturelle organisée chaque année le 21 juin.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0057
 ### 📘 Fête nationale
 
@@ -5423,8 +5784,6 @@ La fête nationale française est célébrée chaque année le 14 juillet.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0058
 ### 📘 France métropolitaine
@@ -5443,8 +5802,6 @@ Partie du territoire français située en Europe.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0059
 ### 📘 France Services
 
@@ -5458,8 +5815,6 @@ Partie du territoire français située en Europe.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0060
 ### 📘 France Travail
 
@@ -5472,8 +5827,6 @@ Partie du territoire français située en Europe.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0061
 ### 📘 Francophonie
@@ -5492,8 +5845,6 @@ Ensemble des personnes et des pays qui utilisent la langue française.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0062
 ### 📘 Fraternité
 
@@ -5506,8 +5857,6 @@ La **fraternité** signifie vivre ensemble avec respect et solidarité. Aider un
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0063
 ### 📘 Gastronomie française
@@ -5526,8 +5875,6 @@ Ensemble des traditions culinaires françaises.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0064
 ### 📘 Gaule
 
@@ -5544,8 +5891,6 @@ Nom donné au territoire de la France actuelle avant la conquête romaine.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0065
 ### 📘 Gendarmerie
@@ -5564,8 +5909,6 @@ Force militaire chargée de missions de sécurité publique.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0066
 ### 📘 Gouvernement
 
@@ -5578,8 +5921,6 @@ Le **gouvernement** est l’équipe qui dirige l’action du pays au quotidien. 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0067
 ### 📘 Guadeloupe
@@ -5598,8 +5939,6 @@ Département et région d'outre-mer situé dans les Caraïbes.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0068
 ### 📘 Guyane
 
@@ -5616,8 +5955,6 @@ Département et région d'outre-mer situé en Amérique du Sud.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0069
 ### 📘 Harcèlement
@@ -5636,8 +5973,6 @@ Violences ou comportements répétés ayant pour effet de dégrader les conditio
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0070
 ### 📘 Harcèlement scolaire
 
@@ -5654,8 +5989,6 @@ Violences répétées subies par un élève de la part d'autres élèves.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0071
 ### 📘 Hôpital
@@ -5674,8 +6007,6 @@ Violences répétées subies par un élève de la part d'autres élèves.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0072
 ### 📘 Île-de-France
 
@@ -5693,8 +6024,6 @@ Région où se situe Paris, capitale de la France.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0073
 ### 📘 Impôt
 
@@ -5707,8 +6036,6 @@ L’**impôt** est une somme payée pour financer les dépenses publiques, par e
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0074
 ### 📘 Infraction
@@ -5727,8 +6054,6 @@ Acte interdit par la loi.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0075
 ### 📘 Intégrité de la personne
 
@@ -5745,8 +6070,6 @@ Droit de chacun à la protection de son corps et de son esprit.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0076
 ### 📘 Journées européennes du patrimoine
@@ -5765,8 +6088,6 @@ Droit de chacun à la protection de son corps et de son esprit.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0077
 ### 📘 Justice
 
@@ -5780,8 +6101,6 @@ La **justice** fait respecter les règles, règle les conflits et sanctionne les
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0078
 ### 📘 La Marseillaise
 
@@ -5794,8 +6113,6 @@ La **justice** fait respecter les règles, règle les conflits et sanctionne les
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0079
 ### 📘 La Réunion
@@ -5814,8 +6131,6 @@ Département et région d'outre-mer situé dans l'océan Indien.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0080
 ### 📘 Laïcité
 
@@ -5828,8 +6143,6 @@ La **laïcité** permet à chacun de croire, de ne pas croire ou de changer de r
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0081
 ### 📘 Langue de la République
@@ -5848,8 +6161,6 @@ Le français est la langue officielle de la République française.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0082
 ### 📘 Liberté
 
@@ -5862,8 +6173,6 @@ La **liberté** permet de faire des choix et de s’exprimer. Elle s’exerce da
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0083
 ### 📘 Liberté de conscience
@@ -5878,8 +6187,6 @@ La **liberté de conscience** permet à chacun de choisir ses convictions : croi
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0084
 ### 📘 Locataire
 
@@ -5893,8 +6200,6 @@ Le **locataire** est la personne qui loue un logement et paie un loyer au propri
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0085
 ### 📘 Loi
 
@@ -5907,8 +6212,6 @@ Une **loi** est une règle votée par le Parlement. Elle fixe ce qui est autoris
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0086
 ### 📘 Lycée
@@ -5927,8 +6230,6 @@ Une **loi** est une règle votée par le Parlement. Elle fixe ce qui est autoris
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0087
 ### 📘 Maire
 
@@ -5942,8 +6243,6 @@ Le **maire** dirige la commune avec le conseil municipal. Il intervient dans les
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0088
 ### 📘 Mairie
 
@@ -5956,8 +6255,6 @@ La **mairie** est le lieu où travaillent les services de la commune. On peut y 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0089
 ### 📘 Marianne
@@ -5976,8 +6273,6 @@ Marianne est la représentation symbolique de la République française.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0090
 ### 📘 Martinique
 
@@ -5994,8 +6289,6 @@ Département et région d'outre-mer situé dans les Caraïbes.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0091
 ### 📘 Mayotte
@@ -6014,8 +6307,6 @@ Département et région d'outre-mer situé dans l'océan Indien.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0092
 ### 📘 Médecin traitant
 
@@ -6033,8 +6324,6 @@ Médecin choisi par le patient pour assurer son suivi médical.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0093
 ### 📘 Ministre
 
@@ -6047,8 +6336,6 @@ Un **ministre** fait partie du Gouvernement. Il s’occupe d’un domaine, comme
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0094
 ### 📘 Mont-Saint-Michel
@@ -6067,8 +6354,6 @@ Un **ministre** fait partie du Gouvernement. Il s’occupe d’un domaine, comme
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0095
 ### 📘 Musée du Louvre
 
@@ -6085,8 +6370,6 @@ Plus grand musée d'art de France situé à Paris.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0096
 ### 📘 Mutilations sexuelles féminines
@@ -6105,8 +6388,6 @@ Interventions consistant à retirer partiellement ou totalement les organes gén
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0097
 ### 📘 Naturalisation
 
@@ -6119,8 +6400,6 @@ La **naturalisation** est une procédure qui permet de devenir français sous ce
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0098
 ### 📘 Neutralité
@@ -6135,8 +6414,6 @@ La **neutralité** signifie ne pas favoriser une opinion politique ou une religi
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0099
 ### 📘 Ordre public
 
@@ -6149,8 +6426,6 @@ L’**ordre public** protège notamment la sécurité et la tranquillité de tou
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0100
 ### 📘 Outre-mer
@@ -6165,8 +6440,6 @@ L’**outre-mer** désigne les territoires français situés en dehors de la Fra
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0101
 ### 📘 Parlement
 
@@ -6179,8 +6452,6 @@ Le **Parlement** est l’ensemble des représentants qui discutent et **votent l
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0102
 ### 📘 Parlement européen
@@ -6199,8 +6470,6 @@ Institution européenne composée de députés élus par les citoyens des États
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0103
 ### 📘 Patrimoine
 
@@ -6213,8 +6482,6 @@ Le **patrimoine** est l’ensemble des lieux, des objets et des traditions trans
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0104
 ### 📘 Police
@@ -6233,8 +6500,6 @@ Force civile chargée de protéger les personnes et de faire respecter la loi.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0105
 ### 📘 Préfecture
 
@@ -6251,8 +6516,6 @@ Administration représentant l'État dans un département.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0106
 ### 📘 Préfet
@@ -6273,8 +6536,6 @@ Le préfet représente l'État dans un département ou une région.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0107
 ### 📘 Premier ministre
 
@@ -6287,8 +6548,6 @@ Le **Premier ministre** dirige l’action du Gouvernement. Il travaille avec les
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0108
 ### 📘 Première Guerre mondiale
@@ -6306,8 +6565,6 @@ Conflit mondial de 1914 à 1918.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0109
 ### 📘 Président de la République
@@ -6329,8 +6586,6 @@ Le Premier ministre dirige l'action du Gouvernement.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0110
 ### 📘 Présomption d'innocence
 
@@ -6344,8 +6599,6 @@ La **présomption d’innocence** signifie qu’une personne est considérée co
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0111
 ### 📘 Procuration
 
@@ -6358,8 +6611,6 @@ Une **procuration** permet de confier son vote à une autre personne lorsqu’on
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0112
 ### 📘 Propriétaire
@@ -6378,8 +6629,6 @@ Personne qui possède un logement.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0113
 ### 📘 Prostitution
 
@@ -6396,8 +6645,6 @@ Personne qui possède un logement.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0114
 ### 📘 Provence-Alpes-Côte d'Azur
@@ -6416,8 +6663,6 @@ Région située dans le sud-est de la France.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0115
 ### 📘 Pyrénées
 
@@ -6435,8 +6680,6 @@ Chaîne de montagnes séparant la France et l'Espagne.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0116
 ### 📘 Référendum
 
@@ -6449,8 +6692,6 @@ Un **référendum** est un vote où les citoyens répondent directement à une q
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0117
 ### 📘 Région
@@ -6468,8 +6709,6 @@ La région est une collectivité territoriale regroupant plusieurs départements
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0118
 ### 📘 République
@@ -6492,8 +6731,6 @@ La démocratie est une manière d'exercer le pouvoir.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0119
 ### 📘 Révolution française
 
@@ -6510,8 +6747,6 @@ Période commencée en 1789 qui met fin à la monarchie absolue et fonde de nouv
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0120
 ### 📘 Salaire
@@ -6530,8 +6765,6 @@ Somme versée par l'employeur en contrepartie du travail effectué.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0121
 ### 📘 Seconde Guerre mondiale
 
@@ -6548,8 +6781,6 @@ Conflit mondial de 1939 à 1945.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0122
 ### 📘 Seine
@@ -6568,8 +6799,6 @@ Fleuve qui traverse notamment Paris avant de se jeter dans la Manche.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0123
 ### 📘 Sénat
 
@@ -6582,8 +6811,6 @@ Le **Sénat** est l’autre partie du Parlement, avec l’Assemblée nationale. 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0124
 ### 📘 Sénateur
@@ -6602,8 +6829,6 @@ Le sénateur siège au Sénat.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0125
 ### 📘 Service public
 
@@ -6616,8 +6841,6 @@ Un **service public** répond à un besoin d’intérêt général. L’école p
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0126
 ### 📘 Souveraineté nationale
@@ -6638,8 +6861,6 @@ Principe selon lequel le pouvoir appartient au peuple.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0127
 ### 📘 Suffrage universel
 
@@ -6656,8 +6877,6 @@ Mode d'élection dans lequel tous les citoyens remplissant les conditions peuven
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0128
 ### 📘 Sûreté
@@ -6676,8 +6895,6 @@ Droit d'être protégé contre les arrestations arbitraires et de bénéficier d
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0129
 ### 📘 Titre de séjour
 
@@ -6690,8 +6907,6 @@ Un **titre de séjour** est un document qui autorise une personne étrangère à
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0130
 ### 📘 Tour Eiffel
@@ -6710,8 +6925,6 @@ Monument emblématique situé à Paris, construit pour l'Exposition universelle 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0131
 ### 📘 Traite des êtres humains
 
@@ -6728,8 +6941,6 @@ Exploitation d'une personne par la contrainte, la menace ou la tromperie.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0132
 ### 📘 UNESCO
@@ -6748,8 +6959,6 @@ Organisation des Nations unies chargée notamment de protéger le patrimoine mon
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0133
 ### 📘 Union européenne
 
@@ -6766,8 +6975,6 @@ Organisation regroupant plusieurs États européens qui coopèrent dans de nombr
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0134
 ### 📘 Urgences
@@ -6786,8 +6993,6 @@ Situation nécessitant une prise en charge médicale immédiate.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0135
 ### 📘 Vercingétorix
 
@@ -6804,8 +7009,6 @@ Chef gaulois qui s'est opposé à Jules César.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0136
 ### 📘 Violence
@@ -6824,8 +7027,6 @@ Acte portant atteinte à une personne, physiquement, psychologiquement, sexuelle
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0137
 ### 📘 Vote
 
@@ -6842,8 +7043,6 @@ Action qui consiste à choisir un candidat ou répondre à une question lors d'u
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_RETOUR
 ### ↩️ Reprendre mon activité
@@ -6880,8 +7079,6 @@ Choisissez le parcours que vous souhaitez reprendre.
 
 1. [↩️ Retour au menu du module](SCR_QL_MENU)
 
-
-
 ## SCR_QL_SIMPLE_DISCRIMINATION
 ### 📘 Discrimination
 
@@ -6893,8 +7090,6 @@ Une **discrimination** consiste à traiter une personne moins bien pour un motif
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_SIMPLE_DEVOIR
 ### 📘 Devoir civique
@@ -6908,8 +7103,6 @@ Un **devoir** est une obligation à respecter pour vivre ensemble. Respecter la 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_SIMPLE_POUVOIRS
 ### 📘 Séparation des pouvoirs
 
@@ -6921,8 +7114,6 @@ La **séparation des pouvoirs** distingue trois fonctions : faire les lois, les 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0197
 ### 📘 Abolition
@@ -6937,8 +7128,6 @@ Suppression officielle d’une règle, d’une pratique ou d’une peine, par ex
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0172
 ### 📘 Agents publics
 
@@ -6951,8 +7140,6 @@ Personnes qui travaillent pour une administration ou un service public. Elles do
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0178
 ### 📘 Amende
@@ -6967,8 +7154,6 @@ Somme d’argent qu’une personne doit payer lorsqu’une sanction pécuniaire 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0192
 ### 📘 Armistice
 
@@ -6981,8 +7166,6 @@ Accord qui suspend les combats entre des forces en guerre. Il ne signifie pas n�
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0170
 ### 📘 Autorité parentale
@@ -6997,8 +7180,6 @@ Ensemble des droits et des devoirs des parents pour protéger, éduquer et accom
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0181
 ### 📘 Avocat
 
@@ -7011,8 +7192,6 @@ Professionnel du droit qui conseille une personne, défend ses intérêts et peu
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0145
 ### 📘 Bénévolat
@@ -7027,8 +7206,6 @@ Activité réalisée librement sans rémunération, par exemple pour aider une a
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0205
 ### 📘 CECA
 
@@ -7041,8 +7218,6 @@ Communauté européenne du charbon et de l’acier : projet de coopération euro
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0164
 ### 📘 Chef de l’État
@@ -7057,8 +7232,6 @@ Personne qui représente l’État au plus haut niveau. En France, le chef de l�
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0165
 ### 📘 Collectivités territoriales
 
@@ -7071,8 +7244,6 @@ Structures qui gèrent des affaires locales grâce à des élus, par exemple les
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0198
 ### 📘 Colonisation
@@ -7087,8 +7258,6 @@ Prise de contrôle d’un territoire et de sa population par une puissance exté
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0141
 ### 📘 Cotisations sociales
 
@@ -7101,8 +7270,6 @@ Sommes versées par les salariés et les employeurs pour financer la protection 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0183
 ### 📘 Cour d’assises
@@ -7117,8 +7284,6 @@ Juridiction qui juge certains crimes avec des magistrats et un jury de citoyens.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0188
 ### 📘 Déchèterie
 
@@ -7131,8 +7296,6 @@ Lieu où l’on dépose certains déchets qui ne doivent pas être mis dans les 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0186
 ### 📘 Déchets
@@ -7147,8 +7310,6 @@ Objets ou matières dont on se débarrasse. Il faut respecter les règles de col
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0209
 ### 📘 Devoir
 
@@ -7161,8 +7322,6 @@ Obligation à respecter pour vivre dans la société, notamment respecter la loi
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0168
 ### 📘 Divorce
@@ -7177,8 +7336,6 @@ Fin d’un mariage prononcée ou constatée selon une procédure légale.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0177
 ### 📘 Droits civiques
 
@@ -7191,8 +7348,6 @@ Droits qui permettent de participer à la vie citoyenne, notamment le droit de v
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0204
 ### 📘 DROM
@@ -7207,8 +7362,6 @@ Départements et régions d’outre-mer : territoires français ayant ce statut 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0160
 ### 📘 Élections européennes
 
@@ -7221,8 +7374,6 @@ Départements et régions d’outre-mer : territoires français ayant ce statut 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0159
 ### 📘 Élections municipales
@@ -7237,8 +7388,6 @@ Départements et régions d’outre-mer : territoires français ayant ce statut 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0157
 ### 📘 Éligibilité
 
@@ -7251,8 +7400,6 @@ Possibilité de se présenter à une élection lorsque les conditions prévues p
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0143
 ### 📘 Entreprise
@@ -7267,8 +7414,6 @@ Organisation qui produit des biens ou fournit des services. Elle peut employer d
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0196
 ### 📘 Esclavage
 
@@ -7281,8 +7426,6 @@ Situation dans laquelle des personnes sont privées de leur liberté et traitée
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0166
 ### 📘 État civil
@@ -7297,8 +7440,6 @@ Enregistrement officiel des événements importants de la vie d’une personne, 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0202
 ### 📘 Fleuve
 
@@ -7311,8 +7452,6 @@ Cours d’eau qui se jette dans la mer ou dans l’océan.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0195
 ### 📘 Génocide
@@ -7327,8 +7466,6 @@ Actes commis avec l’intention de détruire, en tout ou en partie, un groupe na
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0146
 ### 📘 Grève
 
@@ -7341,8 +7478,6 @@ Arrêt collectif du travail destiné à défendre des revendications professionn
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0147
 ### 📘 Handicap
@@ -7357,8 +7492,6 @@ Limitation d’activité ou difficulté de participation à la vie sociale liée
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0200
 ### 📘 Impressionnisme
 
@@ -7371,8 +7504,6 @@ Courant artistique du XIXe siècle qui représente notamment les impressions de 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0171
 ### 📘 Instruction obligatoire
@@ -7387,8 +7518,6 @@ Obligation de donner à chaque enfant une instruction. Elle peut être assurée 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0173
 ### 📘 Intérêt général
 
@@ -7401,8 +7530,6 @@ Ce qui sert le bien commun, au-delà des intérêts particuliers d’une personn
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0185
 ### 📘 IVG
@@ -7417,8 +7544,6 @@ Interruption volontaire de grossesse : démarche permettant de mettre fin à une
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0207
 ### 📘 Journée de l’Europe
 
@@ -7431,8 +7556,6 @@ Journée célébrée le 9 mai pour rappeler le projet de coopération européenn
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0180
 ### 📘 Juge
@@ -7447,8 +7570,6 @@ Professionnel de la justice qui applique la loi et rend des décisions pour tran
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0182
 ### 📘 Juré
 
@@ -7461,8 +7582,6 @@ Citoyen appelé à participer à un jury et à juger certaines affaires aux côt
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0158
 ### 📘 Listes électorales
@@ -7477,8 +7596,6 @@ Listes des personnes inscrites pour voter dans une commune ou dans une circonscr
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0201
 ### 📘 Littérature
 
@@ -7491,8 +7608,6 @@ Ensemble des œuvres écrites, comme les romans, la poésie ou le théâtre.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0208
 ### 📘 Majorité
@@ -7507,8 +7622,6 @@ Ensemble des œuvres écrites, comme les romans, la poésie ou le théâtre.
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0154
 ### 📘 Mandat
 
@@ -7521,8 +7634,6 @@ Mission confiée à une personne, notamment à un élu, pour une durée détermi
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0203
 ### 📘 Méditerranée
@@ -7537,8 +7648,6 @@ Mer située au sud de la France, entre l’Europe, l’Afrique du Nord et le Pro
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0199
 ### 📘 Monarchie
 
@@ -7551,8 +7660,6 @@ Régime politique dans lequel le chef de l’État est un roi ou une reine.
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0148
 ### 📘 Mutuelle
@@ -7567,8 +7674,6 @@ Organisme de complémentaire santé qui peut prendre en charge une partie des d�
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0167
 ### 📘 Naissance
 
@@ -7581,8 +7686,6 @@ Venue au monde d’un enfant. Elle doit être déclarée à l’état civil dans
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0176
 ### 📘 Opinion
@@ -7597,8 +7700,6 @@ Idée ou point de vue personnel sur un sujet. La liberté d’opinion est proté
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0156
 ### 📘 Parti politique
 
@@ -7611,8 +7712,6 @@ Organisation qui rassemble des personnes autour d’idées politiques et partici
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0184
 ### 📘 Peine de mort
@@ -7627,8 +7726,6 @@ Sanction qui consiste à exécuter une personne condamnée. Elle a été abolie 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0179
 ### 📘 Plainte
 
@@ -7641,8 +7738,6 @@ Démarche par laquelle une personne signale aux autorités une infraction dont e
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0169
 ### 📘 Polygamie
@@ -7657,8 +7752,6 @@ Situation dans laquelle une personne est mariée à plusieurs conjoints en même
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0161
 ### 📘 Pouvoir exécutif
 
@@ -7671,8 +7764,6 @@ Pouvoir chargé de conduire la politique et de faire appliquer les lois. En Fran
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0163
 ### 📘 Pouvoir judiciaire
@@ -7687,8 +7778,6 @@ Fonction de la justice qui tranche les litiges et sanctionne les infractions sel
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0162
 ### 📘 Pouvoir législatif
 
@@ -7701,8 +7790,6 @@ Pouvoir qui discute et vote les lois. En France, il est exercé par le Parlement
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0149
 ### 📘 Prévention
@@ -7717,8 +7804,6 @@ Actions destinées à éviter un risque ou à limiter ses conséquences, par exe
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0150
 ### 📘 Protection sociale
 
@@ -7731,8 +7816,6 @@ Ensemble des dispositifs qui aident les personnes face à certains risques de la
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0155
 ### 📘 Quinquennat
@@ -7747,8 +7830,6 @@ Mandat de cinq ans. Le mandat du président de la République française est un 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0187
 ### 📘 Recyclage
 
@@ -7761,8 +7842,6 @@ Transformation de déchets pour réutiliser leurs matériaux et réduire le gasp
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0175
 ### 📘 Religion
@@ -7777,8 +7856,6 @@ Ensemble de croyances et de pratiques liées à une foi. Chacun est libre de cro
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0191
 ### 📘 Réseaux sociaux
 
@@ -7791,8 +7868,6 @@ Services en ligne permettant de publier et d’échanger des contenus. Les règl
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0193
 ### 📘 Résistance
@@ -7807,8 +7882,6 @@ Actions menées contre l’occupation et les régimes oppressifs ; en France, le
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0174
 ### 📘 Respect
 
@@ -7821,8 +7894,6 @@ Attitude qui consiste à reconnaître la dignité et les droits d’autrui, mêm
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0139
 ### 📘 Salaire brut
@@ -7837,8 +7908,6 @@ Rémunération avant le prélèvement des cotisations sociales à la charge du s
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0140
 ### 📘 Salaire net
 
@@ -7851,8 +7920,6 @@ Rémunération après déduction des cotisations salariales ; le montant versé 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0142
 ### 📘 Salarié
@@ -7867,8 +7934,6 @@ Personne qui travaille pour un employeur dans le cadre d’un contrat de travail
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0153
 ### 📘 SAMU
 
@@ -7881,8 +7946,6 @@ Service d’aide médicale urgente : il organise la réponse médicale aux urgen
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0152
 ### 📘 Secours
@@ -7897,8 +7960,6 @@ Aide apportée à une personne en danger ou en difficulté ; elle peut nécessit
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0190
 ### 📘 Sécurité routière
 
@@ -7911,8 +7972,6 @@ Ensemble des règles et des comportements qui limitent les accidents sur la rout
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0194
 ### 📘 Shoah
@@ -7927,8 +7986,6 @@ Génocide des Juifs d’Europe perpétré par les nazis et leurs complices penda
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0138
 ### 📘 SMIC
 
@@ -7941,8 +7998,6 @@ Salaire minimum légal : un employeur doit respecter ce minimum pour rémunérer
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0206
 ### 📘 Traité de Maastricht
@@ -7957,8 +8012,6 @@ Traité signé en 1992 qui a créé l’Union européenne et renforcé la coopé
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0144
 ### 📘 Travail dissimulé
 
@@ -7971,8 +8024,6 @@ Travail ou activité qui n’est pas déclaré comme la loi l’exige. Cela priv
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
 
 ## SCR_QL_GLO0189
 ### 📘 Tri des déchets
@@ -7987,8 +8038,6 @@ Séparation des déchets selon leur nature pour permettre leur collecte et leur 
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-
 ## SCR_QL_GLO0151
 ### 📘 Urgence
 
@@ -8001,5 +8050,3 @@ Situation qui nécessite une intervention rapide, notamment lorsqu’une vie ou 
 1. [↩️ Reprendre mon activité](SCR_QL_RETOUR)
 1. [↩️ Retour aux questions](SCR_QL_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-

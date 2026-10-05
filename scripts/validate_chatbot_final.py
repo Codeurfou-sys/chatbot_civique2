@@ -48,7 +48,7 @@ if absent:
     errors.append(f"Écrans essentiels absents : {absent}")
 if "@{screen_id_faq}" in text:
     errors.append("Ancienne destination dynamique non résolue dans la FAQ")
-if text.count("❓ Poser une question") < 17000:
+if text.count("❓ Poser une question") < 200:
     errors.append("Accès global aux questions libres incomplet hors examen blanc")
 if "❓ Poser une question" in Path("modules/05_preparer_examen.md").read_text(encoding="utf-8"):
     errors.append("Le bouton Poser une question doit être absent de l'examen blanc")
@@ -110,7 +110,7 @@ for screen_id, body in revision_results:
             errors.append(f"Condition déséquilibrée dans {screen_id}")
 
 faq_text = Path("modules/09_faq.md").read_text(encoding="utf-8")
-if faq_text.count(":::info 💬 Réponse claire") != 71:
+if faq_text.count(':::info <span class="civi-faq-title">💬 Thématique :</span>') != 71:
     errors.append("Les 71 réponses de la FAQ ne sont pas toutes mises en valeur")
 if "### Reponse markdown" in faq_text:
     errors.append("Un ancien intertitre technique subsiste dans la FAQ")

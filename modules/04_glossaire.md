@@ -197,7 +197,7 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Mutilations sexuelles féminines](SCR_GLO_0096)
 1. [📘 Mutuelle](SCR_GLO_0148)
 1. [📘 Naissance](SCR_GLO_0167)
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
+1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
 1. [📘 Neutralité](SCR_GLO_0098)
 1. [📘 Opinion](SCR_GLO_0176)
 1. [📘 Ordre public](SCR_GLO_0099)
@@ -541,7 +541,7 @@ Retrouvez des définitions simples des notions du programme.
 1. [📘 Médecin traitant](SCR_GLO_0092)
 1. [📘 Mutuelle](SCR_GLO_0148)
 1. [📘 Naissance](SCR_GLO_0167)
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
+1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
 1. [📘 Préfecture](SCR_GLO_0105)
 1. [📘 Prévention](SCR_GLO_0149)
 1. [📘 Propriétaire](SCR_GLO_0112)
@@ -582,7 +582,9 @@ Retrouvez des définitions simples des notions du programme.
 ## SCR_GLO_FILTER
 ### 🔤 Le filtre de CiviCoach
 
+`if @gloPrefix == "" || @gloPrefix == undefined`
 Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement les mots qui commencent par les lettres choisies. Les lettres grisées ne correspondent à aucune suite possible. Vous pouvez revenir d’une lettre ou recommencer.
+`endif`
 
 `if @gloPrefix == undefined`
 `@gloPrefix = calc("")`
@@ -1202,7 +1204,7 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 1. [📘 Naissance](SCR_GLO_0167)
 `endif`
 `if "naturalisation".startsWith(@gloPrefix)`
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
+1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
 `endif`
 `if "neutralite".startsWith(@gloPrefix)`
 1. [📘 Neutralité](SCR_GLO_0098)
@@ -1580,13 +1582,18 @@ Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement 
 ## SCR_GLO_SEARCH
 ### 🔍 Rechercher un mot
 
-Saisissez un mot ou une expression, même sans accents ou avec une petite faute de frappe. Je vous proposerai les fiches les plus proches. Pour une question complète, utilisez « Poser une question ».
+Saisissez un mot ou une expression, même sans accents ou avec une petite faute de frappe. Je vous proposerai les fiches les plus proches.
 
 `@gloQuery = @INPUT : SCR_GLO_SEARCH_RESULT`
 
 1. [🔤 Utiliser le filtre de CiviCoach](SCR_GLO_FILTER_RESET)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+1. [🔠 Parcourir par ordre alphabétique](SCR_GLO_ALPHA_MENU)
+1. [📚 Parcourir par thème](SCR_GLO_THEME_MENU)
 
 
 ## SCR_GLO_SEARCH_RESULT
@@ -4141,7 +4148,7 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 1. [📘 Naissance](SCR_GLO_0167)
 `endif`
 `if @gloExact0097 || (!@gloExact && @gloNear && @gloNear0097) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0097 >= @gloBest-0.08)`
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
+1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation](SCR_GLO_0097)
 `endif`
 `if @gloExact0098 || (!@gloExact && @gloNear && @gloNear0098) || (!@gloExact && !@gloNear && @gloBest >= 0.35 && @gloScore0098 >= @gloBest-0.08)`
 1. [📘 Neutralité](SCR_GLO_0098)
@@ -4355,6 +4362,11 @@ Je n’ai pas trouvé de notion suffisamment proche. Essayez un mot plus court o
 1. [🔤 Utiliser le filtre de CiviCoach](SCR_GLO_FILTER_RESET)
 1. [↩️ Retour au glossaire](SCR_GLO_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+
+1. [🔠 Parcourir par ordre alphabétique](SCR_GLO_ALPHA_MENU)
+1. [📚 Parcourir par thème](SCR_GLO_THEME_MENU)
 
 
 ## SCR_GLO_0197

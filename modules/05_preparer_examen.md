@@ -14,10 +14,12 @@ Chaque examen blanc reproduit le format officiel :
 - **une seule bonne réponse** par question ;
 - réussite à partir de **32 bonnes réponses sur 40**.
 
-1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/csp.svg" alt="" width="30" height="24"> Carte de séjour pluriannuelle @type_examen=CSP](SCR_EXAM_RULES)
+1. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/csp-v7.svg" alt="" width="30" height="24"> Carte de séjour pluriannuelle @type_examen=CSP](SCR_EXAM_RULES)
 2. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/resident.svg" alt="" width="30" height="24"> Carte de résident @type_examen=CR](SCR_EXAM_RULES)
-3. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation.svg" alt="" width="30" height="24"> Naturalisation @type_examen=NAT](SCR_EXAM_RULES)
+3. [<img class="civic-icon" src="https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/naturalisation-v7.svg" alt="" width="30" height="24"> Naturalisation @type_examen=NAT](SCR_EXAM_RULES)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## SCR_EXAM_RULES
@@ -39,6 +41,8 @@ Pendant l’épreuve :
 1. [▶️ Lancer mon examen](SCR_EXAM_START)
 2. [➡️ Changer d’examen](SCR_PREP_MENU)
 3. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## SCR_EXAM_START
@@ -95,6 +99,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q01
 `@err_CSP_V01_Q01 = 0`
 `@exam_variant = 1`
@@ -126,6 +132,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -139,6 +147,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q01_FAUX
 `@err_CSP_V01_Q01 = 1`
 
@@ -150,6 +160,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q02
@@ -181,6 +193,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -194,6 +208,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q02_FAUX
 `@err_CSP_V01_Q02 = 1`
 
@@ -205,6 +221,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q03
@@ -236,6 +254,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -249,6 +269,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q03_FAUX
 `@err_CSP_V01_Q03 = 1`
 
@@ -260,6 +282,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q04
@@ -291,6 +315,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -304,6 +330,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q04_FAUX
 `@err_CSP_V01_Q04 = 1`
 
@@ -315,6 +343,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q05
@@ -346,6 +376,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -359,6 +391,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q05_FAUX
 `@err_CSP_V01_Q05 = 1`
 
@@ -370,6 +404,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q06
@@ -401,6 +437,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -414,6 +452,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q06_FAUX
 `@err_CSP_V01_Q06 = 1`
 
@@ -425,6 +465,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q07
@@ -456,6 +498,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -469,6 +513,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q07_FAUX
 `@err_CSP_V01_Q07 = 1`
 
@@ -480,6 +526,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q08
@@ -511,6 +559,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -524,6 +574,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q08_FAUX
 `@err_CSP_V01_Q08 = 1`
 
@@ -535,6 +587,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q09
@@ -566,6 +620,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -579,6 +635,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q09_FAUX
 `@err_CSP_V01_Q09 = 1`
 
@@ -590,6 +648,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q10
@@ -621,6 +681,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -634,6 +696,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q10_FAUX
 `@err_CSP_V01_Q10 = 1`
 
@@ -645,6 +709,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q11
@@ -676,6 +742,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -689,6 +757,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q11_FAUX
 `@err_CSP_V01_Q11 = 1`
 
@@ -700,6 +770,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q12
@@ -731,6 +803,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -744,6 +818,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q12_FAUX
 `@err_CSP_V01_Q12 = 1`
 
@@ -755,6 +831,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q13
@@ -786,6 +864,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -799,6 +879,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q13_FAUX
 `@err_CSP_V01_Q13 = 1`
 
@@ -810,6 +892,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q14
@@ -841,6 +925,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -854,6 +940,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q14_FAUX
 `@err_CSP_V01_Q14 = 1`
 
@@ -865,6 +953,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q15
@@ -896,6 +986,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -909,6 +1001,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q15_FAUX
 `@err_CSP_V01_Q15 = 1`
 
@@ -920,6 +1014,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q16
@@ -951,6 +1047,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -964,6 +1062,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q16_FAUX
 `@err_CSP_V01_Q16 = 1`
 
@@ -975,6 +1075,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q17
@@ -1006,6 +1108,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -1019,6 +1123,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q17_FAUX
 `@err_CSP_V01_Q17 = 1`
 
@@ -1030,6 +1136,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q18
@@ -1061,6 +1169,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -1074,6 +1184,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q18_FAUX
 `@err_CSP_V01_Q18 = 1`
 
@@ -1085,6 +1197,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q19
@@ -1116,6 +1230,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -1129,6 +1245,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q19_FAUX
 `@err_CSP_V01_Q19 = 1`
 
@@ -1140,6 +1258,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q20
@@ -1171,6 +1291,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -1184,6 +1306,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q20_FAUX
 `@err_CSP_V01_Q20 = 1`
 
@@ -1195,6 +1319,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q21
@@ -1226,6 +1352,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -1239,6 +1367,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q21_FAUX
 `@err_CSP_V01_Q21 = 1`
 
@@ -1250,6 +1380,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q22
@@ -1281,6 +1413,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -1294,6 +1428,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q22_FAUX
 `@err_CSP_V01_Q22 = 1`
 
@@ -1305,6 +1441,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q23
@@ -1336,6 +1474,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -1349,6 +1489,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q23_FAUX
 `@err_CSP_V01_Q23 = 1`
 
@@ -1360,6 +1502,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q24
@@ -1391,6 +1535,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -1404,6 +1550,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q24_FAUX
 `@err_CSP_V01_Q24 = 1`
 
@@ -1415,6 +1563,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q25
@@ -1446,6 +1596,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -1459,6 +1611,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q25_FAUX
 `@err_CSP_V01_Q25 = 1`
 
@@ -1470,6 +1624,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q26
@@ -1501,6 +1657,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -1514,6 +1672,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q26_FAUX
 `@err_CSP_V01_Q26 = 1`
 
@@ -1525,6 +1685,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q27
@@ -1556,6 +1718,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -1569,6 +1733,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q27_FAUX
 `@err_CSP_V01_Q27 = 1`
 
@@ -1580,6 +1746,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q28
@@ -1611,6 +1779,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -1622,6 +1792,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q28_FAUX
@@ -1637,6 +1809,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -1648,6 +1822,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q29
@@ -1683,6 +1859,8 @@ Un ami organise une sortie le 14 juillet et vous demande ce que l'on célèbre c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -1696,6 +1874,8 @@ Un ami organise une sortie le 14 juillet et vous demande ce que l'on célèbre c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q29_FAUX
 `@err_CSP_V01_Q29 = 1`
 
@@ -1707,6 +1887,8 @@ Un ami organise une sortie le 14 juillet et vous demande ce que l'on célèbre c
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q30
@@ -1740,6 +1922,8 @@ Pour un exposé sur la République, un camarade de classe vous demande de citer 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -1753,6 +1937,8 @@ Pour un exposé sur la République, un camarade de classe vous demande de citer 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q30_FAUX
 `@err_CSP_V01_Q30 = 1`
 
@@ -1764,6 +1950,8 @@ Pour un exposé sur la République, un camarade de classe vous demande de citer 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q31
@@ -1797,6 +1985,8 @@ Un ami suit l'actualité politique et se demande qui a le pouvoir de nommer le P
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -1810,6 +2000,8 @@ Un ami suit l'actualité politique et se demande qui a le pouvoir de nommer le P
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q31_FAUX
 `@err_CSP_V01_Q31 = 1`
 
@@ -1821,6 +2013,8 @@ Un ami suit l'actualité politique et se demande qui a le pouvoir de nommer le P
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q32
@@ -1854,6 +2048,8 @@ Un collègue confond souvent le Parlement avec le gouvernement. Il vous demande 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -1867,6 +2063,8 @@ Un collègue confond souvent le Parlement avec le gouvernement. Il vous demande 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q32_FAUX
 `@err_CSP_V01_Q32 = 1`
 
@@ -1878,6 +2076,8 @@ Un collègue confond souvent le Parlement avec le gouvernement. Il vous demande 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q33
@@ -1911,6 +2111,8 @@ Vous parlez de politique avec un ami. Il souhaite comprendre à quoi sert le pou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -1924,6 +2126,8 @@ Vous parlez de politique avec un ami. Il souhaite comprendre à quoi sert le pou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q33_FAUX
 `@err_CSP_V01_Q33 = 1`
 
@@ -1935,6 +2139,8 @@ Vous parlez de politique avec un ami. Il souhaite comprendre à quoi sert le pou
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q34
@@ -1968,6 +2174,8 @@ Lors d'un cours de préparation civique, le formateur vous demande comment s'app
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -1981,6 +2189,8 @@ Lors d'un cours de préparation civique, le formateur vous demande comment s'app
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q34_FAUX
 `@err_CSP_V01_Q34 = 1`
 
@@ -1992,6 +2202,8 @@ Lors d'un cours de préparation civique, le formateur vous demande comment s'app
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q35
@@ -2025,6 +2237,8 @@ Sophie, une camarade de classe, vous demande le nom du texte historique qui éno
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -2038,6 +2252,8 @@ Sophie, une camarade de classe, vous demande le nom du texte historique qui éno
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q35_FAUX
 `@err_CSP_V01_Q35 = 1`
 
@@ -2049,6 +2265,8 @@ Sophie, une camarade de classe, vous demande le nom du texte historique qui éno
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q36
@@ -2082,6 +2300,8 @@ Lors d'une visite guidée du musée Carnavalet, le guide évoque le début de la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -2095,6 +2315,8 @@ Lors d'une visite guidée du musée Carnavalet, le guide évoque le début de la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q36_FAUX
 `@err_CSP_V01_Q36 = 1`
 
@@ -2106,6 +2328,8 @@ Lors d'une visite guidée du musée Carnavalet, le guide évoque le début de la
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q37
@@ -2139,6 +2363,8 @@ Un ami confond plusieurs personnages historiques. Il vous demande concrètement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -2152,6 +2378,8 @@ Un ami confond plusieurs personnages historiques. Il vous demande concrètement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q37_FAUX
 `@err_CSP_V01_Q37 = 1`
 
@@ -2163,6 +2391,8 @@ Un ami confond plusieurs personnages historiques. Il vous demande concrètement 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q38
@@ -2196,6 +2426,8 @@ Lors d'un quiz d'histoire, on vous présente plusieurs personnages et vous devez
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -2209,6 +2441,8 @@ Lors d'un quiz d'histoire, on vous présente plusieurs personnages et vous devez
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q38_FAUX
 `@err_CSP_V01_Q38 = 1`
 
@@ -2220,6 +2454,8 @@ Lors d'un quiz d'histoire, on vous présente plusieurs personnages et vous devez
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q39
@@ -2253,6 +2489,8 @@ Un proche fait un malaise chez vous et vous devez rapidement appeler les secours
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -2266,6 +2504,8 @@ Un proche fait un malaise chez vous et vous devez rapidement appeler les secours
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q39_FAUX
 `@err_CSP_V01_Q39 = 1`
 
@@ -2277,6 +2517,8 @@ Un proche fait un malaise chez vous et vous devez rapidement appeler les secours
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_Q40
@@ -2310,6 +2552,8 @@ Un début d'incendie se déclare dans votre immeuble et vous devez alerter rapid
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -2323,6 +2567,8 @@ Un début d'incendie se déclare dans votre immeuble et vous devez alerter rapid
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V01_Q40_FAUX
 `@err_CSP_V01_Q40 = 1`
 
@@ -2334,6 +2580,8 @@ Un début d'incendie se déclare dans votre immeuble et vous devez alerter rapid
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V01_CORRIGE
@@ -2695,6 +2943,8 @@ Le 18 permet de joindre les sapeurs-pompiers en cas d'incendie, d'accident ou de
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V01_RESULT
@@ -3208,6 +3458,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CSP_V02_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -3249,6 +3501,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q01
 `@err_CSP_V02_Q01 = 0`
 `@exam_variant = 2`
@@ -3280,6 +3534,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -3293,6 +3549,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q01_FAUX
 `@err_CSP_V02_Q01 = 1`
 
@@ -3304,6 +3562,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q02
@@ -3335,6 +3595,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -3348,6 +3610,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q02_FAUX
 `@err_CSP_V02_Q02 = 1`
 
@@ -3359,6 +3623,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q03
@@ -3390,6 +3656,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -3403,6 +3671,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q03_FAUX
 `@err_CSP_V02_Q03 = 1`
 
@@ -3414,6 +3684,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q04
@@ -3445,6 +3717,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -3458,6 +3732,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q04_FAUX
 `@err_CSP_V02_Q04 = 1`
 
@@ -3469,6 +3745,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q05
@@ -3500,6 +3778,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -3513,6 +3793,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q05_FAUX
 `@err_CSP_V02_Q05 = 1`
 
@@ -3524,6 +3806,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q06
@@ -3555,6 +3839,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -3568,6 +3854,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q06_FAUX
 `@err_CSP_V02_Q06 = 1`
 
@@ -3579,6 +3867,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q07
@@ -3610,6 +3900,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -3623,6 +3915,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q07_FAUX
 `@err_CSP_V02_Q07 = 1`
 
@@ -3634,6 +3928,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q08
@@ -3665,6 +3961,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -3678,6 +3976,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q08_FAUX
 `@err_CSP_V02_Q08 = 1`
 
@@ -3689,6 +3989,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q09
@@ -3720,6 +4022,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -3733,6 +4037,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q09_FAUX
 `@err_CSP_V02_Q09 = 1`
 
@@ -3744,6 +4050,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q10
@@ -3775,6 +4083,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -3788,6 +4098,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q10_FAUX
 `@err_CSP_V02_Q10 = 1`
 
@@ -3799,6 +4111,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q11
@@ -3830,6 +4144,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -3843,6 +4159,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q11_FAUX
 `@err_CSP_V02_Q11 = 1`
 
@@ -3854,6 +4172,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q12
@@ -3885,6 +4205,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -3898,6 +4220,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q12_FAUX
 `@err_CSP_V02_Q12 = 1`
 
@@ -3909,6 +4233,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q13
@@ -3940,6 +4266,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -3953,6 +4281,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q13_FAUX
 `@err_CSP_V02_Q13 = 1`
 
@@ -3964,6 +4294,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q14
@@ -3995,6 +4327,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -4008,6 +4342,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q14_FAUX
 `@err_CSP_V02_Q14 = 1`
 
@@ -4019,6 +4355,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q15
@@ -4050,6 +4388,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -4063,6 +4403,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q15_FAUX
 `@err_CSP_V02_Q15 = 1`
 
@@ -4074,6 +4416,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q16
@@ -4105,6 +4449,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -4118,6 +4464,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q16_FAUX
 `@err_CSP_V02_Q16 = 1`
 
@@ -4129,6 +4477,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q17
@@ -4160,6 +4510,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -4173,6 +4525,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q17_FAUX
 `@err_CSP_V02_Q17 = 1`
 
@@ -4184,6 +4538,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q18
@@ -4215,6 +4571,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -4228,6 +4586,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q18_FAUX
 `@err_CSP_V02_Q18 = 1`
 
@@ -4239,6 +4599,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q19
@@ -4270,6 +4632,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -4283,6 +4647,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q19_FAUX
 `@err_CSP_V02_Q19 = 1`
 
@@ -4294,6 +4660,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q20
@@ -4325,6 +4693,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -4338,6 +4708,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q20_FAUX
 `@err_CSP_V02_Q20 = 1`
 
@@ -4349,6 +4721,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q21
@@ -4380,6 +4754,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -4393,6 +4769,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q21_FAUX
 `@err_CSP_V02_Q21 = 1`
 
@@ -4404,6 +4782,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q22
@@ -4435,6 +4815,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -4448,6 +4830,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q22_FAUX
 `@err_CSP_V02_Q22 = 1`
 
@@ -4459,6 +4843,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q23
@@ -4490,6 +4876,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -4503,6 +4891,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q23_FAUX
 `@err_CSP_V02_Q23 = 1`
 
@@ -4514,6 +4904,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q24
@@ -4545,6 +4937,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -4558,6 +4952,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q24_FAUX
 `@err_CSP_V02_Q24 = 1`
 
@@ -4569,6 +4965,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q25
@@ -4600,6 +4998,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -4613,6 +5013,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q25_FAUX
 `@err_CSP_V02_Q25 = 1`
 
@@ -4624,6 +5026,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q26
@@ -4655,6 +5059,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -4668,6 +5074,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q26_FAUX
 `@err_CSP_V02_Q26 = 1`
 
@@ -4679,6 +5087,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q27
@@ -4710,6 +5120,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -4723,6 +5135,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q27_FAUX
 `@err_CSP_V02_Q27 = 1`
 
@@ -4734,6 +5148,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q28
@@ -4765,6 +5181,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -4776,6 +5194,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q28_FAUX
@@ -4791,6 +5211,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -4802,6 +5224,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q29
@@ -4837,6 +5261,8 @@ Francis, un ami, vous demande dans quelle République se situe la France actuell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -4850,6 +5276,8 @@ Francis, un ami, vous demande dans quelle République se situe la France actuell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q29_FAUX
 `@err_CSP_V02_Q29 = 1`
 
@@ -4861,6 +5289,8 @@ Francis, un ami, vous demande dans quelle République se situe la France actuell
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q30
@@ -4894,6 +5324,8 @@ Lors d'une visite du Mémorial de la Shoah, un ami vous demande ce que ce terme 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -4907,6 +5339,8 @@ Lors d'une visite du Mémorial de la Shoah, un ami vous demande ce que ce terme 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q30_FAUX
 `@err_CSP_V02_Q30 = 1`
 
@@ -4918,6 +5352,8 @@ Lors d'une visite du Mémorial de la Shoah, un ami vous demande ce que ce terme 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q31
@@ -4951,6 +5387,8 @@ Lors d'un cours d'histoire, on vous demande de citer un pays ou une région qui 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -4964,6 +5402,8 @@ Lors d'un cours d'histoire, on vous demande de citer un pays ou une région qui 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q31_FAUX
 `@err_CSP_V02_Q31 = 1`
 
@@ -4975,6 +5415,8 @@ Lors d'un cours d'histoire, on vous demande de citer un pays ou une région qui 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q32
@@ -5008,6 +5450,8 @@ Un ami vient d'obtenir son permis de conduire et s'apprête à acheter sa premi�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -5021,6 +5465,8 @@ Un ami vient d'obtenir son permis de conduire et s'apprête à acheter sa premi�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q32_FAUX
 `@err_CSP_V02_Q32 = 1`
 
@@ -5032,6 +5478,8 @@ Un ami vient d'obtenir son permis de conduire et s'apprête à acheter sa premi�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q33
@@ -5065,6 +5513,8 @@ Un couple envisage de se marier uniquement à l'église, pensant que cela suffit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -5078,6 +5528,8 @@ Un couple envisage de se marier uniquement à l'église, pensant que cela suffit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q33_FAUX
 `@err_CSP_V02_Q33 = 1`
 
@@ -5089,6 +5541,8 @@ Un couple envisage de se marier uniquement à l'église, pensant que cela suffit
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q34
@@ -5122,6 +5576,8 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -5135,6 +5591,8 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q34_FAUX
 `@err_CSP_V02_Q34 = 1`
 
@@ -5146,6 +5604,8 @@ Lors d'un débat, un participant affirme que l'égalité signifie que tout le mo
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q35
@@ -5179,6 +5639,8 @@ Sur le bâtiment de la mairie, un ami lit « Liberté, Égalité, Fraternité »
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -5192,6 +5654,8 @@ Sur le bâtiment de la mairie, un ami lit « Liberté, Égalité, Fraternité »
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q35_FAUX
 `@err_CSP_V02_Q35 = 1`
 
@@ -5203,6 +5667,8 @@ Sur le bâtiment de la mairie, un ami lit « Liberté, Égalité, Fraternité »
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q36
@@ -5236,6 +5702,8 @@ Un ami vous demande comment s'appelle un régime politique dans lequel les citoy
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -5249,6 +5717,8 @@ Un ami vous demande comment s'appelle un régime politique dans lequel les citoy
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q36_FAUX
 `@err_CSP_V02_Q36 = 1`
 
@@ -5260,6 +5730,8 @@ Un ami vous demande comment s'appelle un régime politique dans lequel les citoy
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q37
@@ -5293,6 +5765,8 @@ Un ami affirme qu'il peut ignorer une loi qu'il juge injuste, sans risquer aucun
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -5306,6 +5780,8 @@ Un ami affirme qu'il peut ignorer une loi qu'il juge injuste, sans risquer aucun
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q37_FAUX
 `@err_CSP_V02_Q37 = 1`
 
@@ -5317,6 +5793,8 @@ Un ami affirme qu'il peut ignorer une loi qu'il juge injuste, sans risquer aucun
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q38
@@ -5350,6 +5828,8 @@ Un touriste de passage pense qu'il n'est pas concerné par les lois françaises 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -5363,6 +5843,8 @@ Un touriste de passage pense qu'il n'est pas concerné par les lois françaises 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q38_FAUX
 `@err_CSP_V02_Q38 = 1`
 
@@ -5374,6 +5856,8 @@ Un touriste de passage pense qu'il n'est pas concerné par les lois françaises 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q39
@@ -5407,6 +5891,8 @@ Baptiste pense que les droits individuels sont totalement illimités et qu'aucun
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -5420,6 +5906,8 @@ Baptiste pense que les droits individuels sont totalement illimités et qu'aucun
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q39_FAUX
 `@err_CSP_V02_Q39 = 1`
 
@@ -5431,6 +5919,8 @@ Baptiste pense que les droits individuels sont totalement illimités et qu'aucun
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_Q40
@@ -5464,6 +5954,8 @@ Lors d'une visite du musée de l'Histoire de France, le guide évoque le texte f
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -5477,6 +5969,8 @@ Lors d'une visite du musée de l'Histoire de France, le guide évoque le texte f
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V02_Q40_FAUX
 `@err_CSP_V02_Q40 = 1`
 
@@ -5488,6 +5982,8 @@ Lors d'une visite du musée de l'Histoire de France, le guide évoque le texte f
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V02_CORRIGE
@@ -5849,6 +6345,8 @@ La Déclaration des droits de l'homme et du citoyen a été adoptée en 1789 pen
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V02_RESULT
@@ -6362,6 +6860,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CSP_V03_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -6403,6 +6903,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q01
 `@err_CSP_V03_Q01 = 0`
 `@exam_variant = 3`
@@ -6434,6 +6936,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -6447,6 +6951,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q01_FAUX
 `@err_CSP_V03_Q01 = 1`
 
@@ -6458,6 +6964,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q02
@@ -6489,6 +6997,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -6502,6 +7012,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q02_FAUX
 `@err_CSP_V03_Q02 = 1`
 
@@ -6513,6 +7025,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q03
@@ -6544,6 +7058,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -6557,6 +7073,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q03_FAUX
 `@err_CSP_V03_Q03 = 1`
 
@@ -6568,6 +7086,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q04
@@ -6599,6 +7119,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -6612,6 +7134,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q04_FAUX
 `@err_CSP_V03_Q04 = 1`
 
@@ -6623,6 +7147,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q05
@@ -6654,6 +7180,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -6667,6 +7195,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q05_FAUX
 `@err_CSP_V03_Q05 = 1`
 
@@ -6678,6 +7208,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q06
@@ -6709,6 +7241,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -6722,6 +7256,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q06_FAUX
 `@err_CSP_V03_Q06 = 1`
 
@@ -6733,6 +7269,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q07
@@ -6764,6 +7302,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -6777,6 +7317,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q07_FAUX
 `@err_CSP_V03_Q07 = 1`
 
@@ -6788,6 +7330,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q08
@@ -6819,6 +7363,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -6832,6 +7378,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q08_FAUX
 `@err_CSP_V03_Q08 = 1`
 
@@ -6843,6 +7391,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q09
@@ -6874,6 +7424,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -6887,6 +7439,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q09_FAUX
 `@err_CSP_V03_Q09 = 1`
 
@@ -6898,6 +7452,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q10
@@ -6929,6 +7485,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -6942,6 +7500,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q10_FAUX
 `@err_CSP_V03_Q10 = 1`
 
@@ -6953,6 +7513,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q11
@@ -6984,6 +7546,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -6997,6 +7561,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q11_FAUX
 `@err_CSP_V03_Q11 = 1`
 
@@ -7008,6 +7574,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q12
@@ -7039,6 +7607,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -7052,6 +7622,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q12_FAUX
 `@err_CSP_V03_Q12 = 1`
 
@@ -7063,6 +7635,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q13
@@ -7094,6 +7668,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -7107,6 +7683,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q13_FAUX
 `@err_CSP_V03_Q13 = 1`
 
@@ -7118,6 +7696,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q14
@@ -7149,6 +7729,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -7162,6 +7744,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q14_FAUX
 `@err_CSP_V03_Q14 = 1`
 
@@ -7173,6 +7757,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q15
@@ -7204,6 +7790,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -7217,6 +7805,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q15_FAUX
 `@err_CSP_V03_Q15 = 1`
 
@@ -7228,6 +7818,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q16
@@ -7259,6 +7851,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -7272,6 +7866,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q16_FAUX
 `@err_CSP_V03_Q16 = 1`
 
@@ -7283,6 +7879,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q17
@@ -7314,6 +7912,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -7327,6 +7927,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q17_FAUX
 `@err_CSP_V03_Q17 = 1`
 
@@ -7338,6 +7940,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q18
@@ -7369,6 +7973,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -7382,6 +7988,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q18_FAUX
 `@err_CSP_V03_Q18 = 1`
 
@@ -7393,6 +8001,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q19
@@ -7424,6 +8034,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -7437,6 +8049,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q19_FAUX
 `@err_CSP_V03_Q19 = 1`
 
@@ -7448,6 +8062,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q20
@@ -7479,6 +8095,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -7492,6 +8110,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q20_FAUX
 `@err_CSP_V03_Q20 = 1`
 
@@ -7503,6 +8123,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q21
@@ -7534,6 +8156,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -7547,6 +8171,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q21_FAUX
 `@err_CSP_V03_Q21 = 1`
 
@@ -7558,6 +8184,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q22
@@ -7589,6 +8217,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -7602,6 +8232,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q22_FAUX
 `@err_CSP_V03_Q22 = 1`
 
@@ -7613,6 +8245,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q23
@@ -7644,6 +8278,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -7657,6 +8293,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q23_FAUX
 `@err_CSP_V03_Q23 = 1`
 
@@ -7668,6 +8306,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q24
@@ -7699,6 +8339,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -7712,6 +8354,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q24_FAUX
 `@err_CSP_V03_Q24 = 1`
 
@@ -7723,6 +8367,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q25
@@ -7754,6 +8400,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -7767,6 +8415,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q25_FAUX
 `@err_CSP_V03_Q25 = 1`
 
@@ -7778,6 +8428,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q26
@@ -7809,6 +8461,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -7822,6 +8476,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q26_FAUX
 `@err_CSP_V03_Q26 = 1`
 
@@ -7833,6 +8489,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q27
@@ -7864,6 +8522,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -7877,6 +8537,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q27_FAUX
 `@err_CSP_V03_Q27 = 1`
 
@@ -7888,6 +8550,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q28
@@ -7919,6 +8583,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -7930,6 +8596,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q28_FAUX
@@ -7945,6 +8613,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -7956,6 +8626,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q29
@@ -7991,6 +8663,8 @@ Un ami confond le rôle de la police avec celui de la justice et vous demande ce
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -8004,6 +8678,8 @@ Un ami confond le rôle de la police avec celui de la justice et vous demande ce
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q29_FAUX
 `@err_CSP_V03_Q29 = 1`
 
@@ -8015,6 +8691,8 @@ Un ami confond le rôle de la police avec celui de la justice et vous demande ce
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q30
@@ -8048,6 +8726,8 @@ Un ami se demande quel pouvoir détient exactement un juge.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -8061,6 +8741,8 @@ Un ami se demande quel pouvoir détient exactement un juge.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q30_FAUX
 `@err_CSP_V03_Q30 = 1`
 
@@ -8072,6 +8754,8 @@ Un ami se demande quel pouvoir détient exactement un juge.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q31
@@ -8105,6 +8789,8 @@ Votre enfant prépare un exposé sur l'Etat français et ses institutions. Il vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -8118,6 +8804,8 @@ Votre enfant prépare un exposé sur l'Etat français et ses institutions. Il vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q31_FAUX
 `@err_CSP_V03_Q31 = 1`
 
@@ -8129,6 +8817,8 @@ Votre enfant prépare un exposé sur l'Etat français et ses institutions. Il vo
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q32
@@ -8162,6 +8852,8 @@ Lors d'un débat citoyen, on vous demande de citer un exemple concret de droit f
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -8175,6 +8867,8 @@ Lors d'un débat citoyen, on vous demande de citer un exemple concret de droit f
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q32_FAUX
 `@err_CSP_V03_Q32 = 1`
 
@@ -8186,6 +8880,8 @@ Lors d'un débat citoyen, on vous demande de citer un exemple concret de droit f
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q33
@@ -8219,6 +8915,8 @@ Yasmine confond plusieurs textes juridiques et vous demande lequel garantit rée
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -8232,6 +8930,8 @@ Yasmine confond plusieurs textes juridiques et vous demande lequel garantit rée
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q33_FAUX
 `@err_CSP_V03_Q33 = 1`
 
@@ -8243,6 +8943,8 @@ Yasmine confond plusieurs textes juridiques et vous demande lequel garantit rée
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q34
@@ -8276,6 +8978,8 @@ Un parent d'élève se demande qui, dans l'histoire, a rendu l'école gratuite, 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -8289,6 +8993,8 @@ Un parent d'élève se demande qui, dans l'histoire, a rendu l'école gratuite, 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q34_FAUX
 `@err_CSP_V03_Q34 = 1`
 
@@ -8300,6 +9006,8 @@ Un parent d'élève se demande qui, dans l'histoire, a rendu l'école gratuite, 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q35
@@ -8333,6 +9041,8 @@ Lors d'une commémoration, on vous demande de préciser les dates de la Seconde 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -8346,6 +9056,8 @@ Lors d'une commémoration, on vous demande de préciser les dates de la Seconde 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q35_FAUX
 `@err_CSP_V03_Q35 = 1`
 
@@ -8357,6 +9069,8 @@ Lors d'une commémoration, on vous demande de préciser les dates de la Seconde 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q36
@@ -8390,6 +9104,8 @@ Devant un monument aux morts, un ami vous demande les dates exactes de la Premi�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -8403,6 +9119,8 @@ Devant un monument aux morts, un ami vous demande les dates exactes de la Premi�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q36_FAUX
 `@err_CSP_V03_Q36 = 1`
 
@@ -8414,6 +9132,8 @@ Devant un monument aux morts, un ami vous demande les dates exactes de la Premi�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q37
@@ -8447,6 +9167,8 @@ Un couple vient d'avoir un enfant et se demande dans quel délai ils doivent le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -8460,6 +9182,8 @@ Un couple vient d'avoir un enfant et se demande dans quel délai ils doivent le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q37_FAUX
 `@err_CSP_V03_Q37 = 1`
 
@@ -8471,6 +9195,8 @@ Un couple vient d'avoir un enfant et se demande dans quel délai ils doivent le 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q38
@@ -8504,6 +9230,8 @@ Un employeur propose à un ami de travailler « au noir », sans être déclaré
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -8517,6 +9245,8 @@ Un employeur propose à un ami de travailler « au noir », sans être déclaré
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q38_FAUX
 `@err_CSP_V03_Q38 = 1`
 
@@ -8528,6 +9258,8 @@ Un employeur propose à un ami de travailler « au noir », sans être déclaré
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q39
@@ -8561,6 +9293,8 @@ Un collègue se moque ouvertement d'une personne en situation de handicap au tra
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -8574,6 +9308,8 @@ Un collègue se moque ouvertement d'une personne en situation de handicap au tra
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q39_FAUX
 `@err_CSP_V03_Q39 = 1`
 
@@ -8585,6 +9321,8 @@ Un collègue se moque ouvertement d'une personne en situation de handicap au tra
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_Q40
@@ -8618,6 +9356,8 @@ Un chef d'atelier vous confie qu'il préfère ne pas embaucher de femmes pour le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -8631,6 +9371,8 @@ Un chef d'atelier vous confie qu'il préfère ne pas embaucher de femmes pour le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V03_Q40_FAUX
 `@err_CSP_V03_Q40 = 1`
 
@@ -8642,6 +9384,8 @@ Un chef d'atelier vous confie qu'il préfère ne pas embaucher de femmes pour le
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V03_CORRIGE
@@ -9003,6 +9747,8 @@ L'égalité entre les femmes et les hommes est protégée par la loi. Les discri
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V03_RESULT
@@ -9516,6 +10262,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CSP_V04_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -9557,6 +10305,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q01
 `@err_CSP_V04_Q01 = 0`
 `@exam_variant = 4`
@@ -9588,6 +10338,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -9601,6 +10353,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q01_FAUX
 `@err_CSP_V04_Q01 = 1`
 
@@ -9612,6 +10366,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q02
@@ -9643,6 +10399,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -9656,6 +10414,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q02_FAUX
 `@err_CSP_V04_Q02 = 1`
 
@@ -9667,6 +10427,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q03
@@ -9698,6 +10460,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -9711,6 +10475,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q03_FAUX
 `@err_CSP_V04_Q03 = 1`
 
@@ -9722,6 +10488,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q04
@@ -9753,6 +10521,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -9766,6 +10536,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q04_FAUX
 `@err_CSP_V04_Q04 = 1`
 
@@ -9777,6 +10549,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q05
@@ -9808,6 +10582,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -9821,6 +10597,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q05_FAUX
 `@err_CSP_V04_Q05 = 1`
 
@@ -9832,6 +10610,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q06
@@ -9863,6 +10643,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -9876,6 +10658,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q06_FAUX
 `@err_CSP_V04_Q06 = 1`
 
@@ -9887,6 +10671,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q07
@@ -9918,6 +10704,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -9931,6 +10719,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q07_FAUX
 `@err_CSP_V04_Q07 = 1`
 
@@ -9942,6 +10732,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q08
@@ -9973,6 +10765,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -9986,6 +10780,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q08_FAUX
 `@err_CSP_V04_Q08 = 1`
 
@@ -9997,6 +10793,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q09
@@ -10028,6 +10826,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -10041,6 +10841,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q09_FAUX
 `@err_CSP_V04_Q09 = 1`
 
@@ -10052,6 +10854,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q10
@@ -10083,6 +10887,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -10096,6 +10902,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q10_FAUX
 `@err_CSP_V04_Q10 = 1`
 
@@ -10107,6 +10915,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q11
@@ -10138,6 +10948,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -10151,6 +10963,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q11_FAUX
 `@err_CSP_V04_Q11 = 1`
 
@@ -10162,6 +10976,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q12
@@ -10193,6 +11009,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -10206,6 +11024,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q12_FAUX
 `@err_CSP_V04_Q12 = 1`
 
@@ -10217,6 +11037,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q13
@@ -10248,6 +11070,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -10261,6 +11085,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q13_FAUX
 `@err_CSP_V04_Q13 = 1`
 
@@ -10272,6 +11098,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q14
@@ -10303,6 +11131,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -10316,6 +11146,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q14_FAUX
 `@err_CSP_V04_Q14 = 1`
 
@@ -10327,6 +11159,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q15
@@ -10358,6 +11192,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -10371,6 +11207,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q15_FAUX
 `@err_CSP_V04_Q15 = 1`
 
@@ -10382,6 +11220,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q16
@@ -10413,6 +11253,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -10426,6 +11268,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q16_FAUX
 `@err_CSP_V04_Q16 = 1`
 
@@ -10437,6 +11281,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q17
@@ -10468,6 +11314,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -10481,6 +11329,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q17_FAUX
 `@err_CSP_V04_Q17 = 1`
 
@@ -10492,6 +11342,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q18
@@ -10523,6 +11375,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -10536,6 +11390,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q18_FAUX
 `@err_CSP_V04_Q18 = 1`
 
@@ -10547,6 +11403,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q19
@@ -10578,6 +11436,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -10591,6 +11451,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q19_FAUX
 `@err_CSP_V04_Q19 = 1`
 
@@ -10602,6 +11464,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q20
@@ -10633,6 +11497,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -10646,6 +11512,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q20_FAUX
 `@err_CSP_V04_Q20 = 1`
 
@@ -10657,6 +11525,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q21
@@ -10688,6 +11558,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -10701,6 +11573,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q21_FAUX
 `@err_CSP_V04_Q21 = 1`
 
@@ -10712,6 +11586,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q22
@@ -10743,6 +11619,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -10756,6 +11634,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q22_FAUX
 `@err_CSP_V04_Q22 = 1`
 
@@ -10767,6 +11647,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q23
@@ -10798,6 +11680,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -10811,6 +11695,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q23_FAUX
 `@err_CSP_V04_Q23 = 1`
 
@@ -10822,6 +11708,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q24
@@ -10853,6 +11741,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -10866,6 +11756,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q24_FAUX
 `@err_CSP_V04_Q24 = 1`
 
@@ -10877,6 +11769,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q25
@@ -10908,6 +11802,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -10921,6 +11817,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q25_FAUX
 `@err_CSP_V04_Q25 = 1`
 
@@ -10932,6 +11830,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q26
@@ -10963,6 +11863,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -10976,6 +11878,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q26_FAUX
 `@err_CSP_V04_Q26 = 1`
 
@@ -10987,6 +11891,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q27
@@ -11018,6 +11924,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -11031,6 +11939,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q27_FAUX
 `@err_CSP_V04_Q27 = 1`
 
@@ -11042,6 +11952,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q28
@@ -11073,6 +11985,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -11084,6 +11998,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q28_FAUX
@@ -11099,6 +12015,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -11110,6 +12028,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q29
@@ -11145,6 +12065,8 @@ Lors d'un quiz sur les institutions, on vous demande qui fut le premier préside
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -11158,6 +12080,8 @@ Lors d'un quiz sur les institutions, on vous demande qui fut le premier préside
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q29_FAUX
 `@err_CSP_V04_Q29 = 1`
 
@@ -11169,6 +12093,8 @@ Lors d'un quiz sur les institutions, on vous demande qui fut le premier préside
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q30
@@ -11202,6 +12128,8 @@ Un employeur envisage de proposer un salaire très bas à un nouveau salarié, e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -11215,6 +12143,8 @@ Un employeur envisage de proposer un salaire très bas à un nouveau salarié, e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q30_FAUX
 `@err_CSP_V04_Q30 = 1`
 
@@ -11226,6 +12156,8 @@ Un employeur envisage de proposer un salaire très bas à un nouveau salarié, e
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q31
@@ -11259,6 +12191,8 @@ Un jeune salarié entend parler du SMIC sans en connaître la signification exac
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -11272,6 +12206,8 @@ Un jeune salarié entend parler du SMIC sans en connaître la signification exac
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q31_FAUX
 `@err_CSP_V04_Q31 = 1`
 
@@ -11283,6 +12219,8 @@ Un jeune salarié entend parler du SMIC sans en connaître la signification exac
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q32
@@ -11316,6 +12254,8 @@ Lors d'un cours de préparation civique, le formateur demande à quelle date rem
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -11329,6 +12269,8 @@ Lors d'un cours de préparation civique, le formateur demande à quelle date rem
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q32_FAUX
 `@err_CSP_V04_Q32 = 1`
 
@@ -11340,6 +12282,8 @@ Lors d'un cours de préparation civique, le formateur demande à quelle date rem
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q33
@@ -11373,6 +12317,8 @@ Un collègue de travail espagnol récemment arrivé en France, vous demande quel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -11386,6 +12332,8 @@ Un collègue de travail espagnol récemment arrivé en France, vous demande quel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q33_FAUX
 `@err_CSP_V04_Q33 = 1`
 
@@ -11397,6 +12345,8 @@ Un collègue de travail espagnol récemment arrivé en France, vous demande quel
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q34
@@ -11430,6 +12380,8 @@ Un ami pense qu'un ministre qui ne respecte pas la loi ne risque rien, protégé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -11443,6 +12395,8 @@ Un ami pense qu'un ministre qui ne respecte pas la loi ne risque rien, protégé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q34_FAUX
 `@err_CSP_V04_Q34 = 1`
 
@@ -11454,6 +12408,8 @@ Un ami pense qu'un ministre qui ne respecte pas la loi ne risque rien, protégé
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q35
@@ -11487,6 +12443,8 @@ Votre fille vous demande, en regardant la télévision, combien de députés si�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -11500,6 +12458,8 @@ Votre fille vous demande, en regardant la télévision, combien de députés si�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q35_FAUX
 `@err_CSP_V04_Q35 = 1`
 
@@ -11511,6 +12471,8 @@ Votre fille vous demande, en regardant la télévision, combien de députés si�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q36
@@ -11544,6 +12506,8 @@ Un ami ne comprend pas quand sont élus les sénateurs.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -11557,6 +12521,8 @@ Un ami ne comprend pas quand sont élus les sénateurs.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q36_FAUX
 `@err_CSP_V04_Q36 = 1`
 
@@ -11568,6 +12534,8 @@ Un ami ne comprend pas quand sont élus les sénateurs.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q37
@@ -11601,6 +12569,8 @@ Vincent se moque ouvertement de l'handicap de Marcel. Il pense que la liberté d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -11614,6 +12584,8 @@ Vincent se moque ouvertement de l'handicap de Marcel. Il pense que la liberté d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q37_FAUX
 `@err_CSP_V04_Q37 = 1`
 
@@ -11625,6 +12597,8 @@ Vincent se moque ouvertement de l'handicap de Marcel. Il pense que la liberté d
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q38
@@ -11658,6 +12632,8 @@ Un policier arrête un jeune homme pour le vol de plusieurs vêtements dans une 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -11671,6 +12647,8 @@ Un policier arrête un jeune homme pour le vol de plusieurs vêtements dans une 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q38_FAUX
 `@err_CSP_V04_Q38 = 1`
 
@@ -11682,6 +12660,8 @@ Un policier arrête un jeune homme pour le vol de plusieurs vêtements dans une 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q39
@@ -11715,6 +12695,8 @@ Lors d'un cours sur la construction européenne, on vous demande en quelle anné
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -11728,6 +12710,8 @@ Lors d'un cours sur la construction européenne, on vous demande en quelle anné
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q39_FAUX
 `@err_CSP_V04_Q39 = 1`
 
@@ -11739,6 +12723,8 @@ Lors d'un cours sur la construction européenne, on vous demande en quelle anné
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_Q40
@@ -11772,6 +12758,8 @@ Un ami étranger de passage en France s'étonne que le 11 novembre soit un jour 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -11785,6 +12773,8 @@ Un ami étranger de passage en France s'étonne que le 11 novembre soit un jour 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V04_Q40_FAUX
 `@err_CSP_V04_Q40 = 1`
 
@@ -11796,6 +12786,8 @@ Un ami étranger de passage en France s'étonne que le 11 novembre soit un jour 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V04_CORRIGE
@@ -12157,6 +13149,8 @@ Le 11 novembre commémore l'armistice de 1918, qui met fin aux combats de la Pre
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V04_RESULT
@@ -12670,6 +13664,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CSP_V05_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -12711,6 +13707,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q01
 `@err_CSP_V05_Q01 = 0`
 `@exam_variant = 5`
@@ -12742,6 +13740,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -12755,6 +13755,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q01_FAUX
 `@err_CSP_V05_Q01 = 1`
 
@@ -12766,6 +13768,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q02
@@ -12797,6 +13801,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -12810,6 +13816,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q02_FAUX
 `@err_CSP_V05_Q02 = 1`
 
@@ -12821,6 +13829,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q03
@@ -12852,6 +13862,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -12865,6 +13877,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q03_FAUX
 `@err_CSP_V05_Q03 = 1`
 
@@ -12876,6 +13890,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q04
@@ -12907,6 +13923,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -12920,6 +13938,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q04_FAUX
 `@err_CSP_V05_Q04 = 1`
 
@@ -12931,6 +13951,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q05
@@ -12962,6 +13984,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -12975,6 +13999,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q05_FAUX
 `@err_CSP_V05_Q05 = 1`
 
@@ -12986,6 +14012,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q06
@@ -13017,6 +14045,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -13030,6 +14060,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q06_FAUX
 `@err_CSP_V05_Q06 = 1`
 
@@ -13041,6 +14073,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q07
@@ -13072,6 +14106,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -13085,6 +14121,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q07_FAUX
 `@err_CSP_V05_Q07 = 1`
 
@@ -13096,6 +14134,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q08
@@ -13127,6 +14167,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -13140,6 +14182,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q08_FAUX
 `@err_CSP_V05_Q08 = 1`
 
@@ -13151,6 +14195,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q09
@@ -13182,6 +14228,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -13195,6 +14243,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q09_FAUX
 `@err_CSP_V05_Q09 = 1`
 
@@ -13206,6 +14256,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q10
@@ -13237,6 +14289,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -13250,6 +14304,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q10_FAUX
 `@err_CSP_V05_Q10 = 1`
 
@@ -13261,6 +14317,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q11
@@ -13292,6 +14350,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -13305,6 +14365,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q11_FAUX
 `@err_CSP_V05_Q11 = 1`
 
@@ -13316,6 +14378,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q12
@@ -13347,6 +14411,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -13360,6 +14426,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q12_FAUX
 `@err_CSP_V05_Q12 = 1`
 
@@ -13371,6 +14439,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q13
@@ -13402,6 +14472,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -13415,6 +14487,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q13_FAUX
 `@err_CSP_V05_Q13 = 1`
 
@@ -13426,6 +14500,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q14
@@ -13457,6 +14533,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -13470,6 +14548,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q14_FAUX
 `@err_CSP_V05_Q14 = 1`
 
@@ -13481,6 +14561,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q15
@@ -13512,6 +14594,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -13525,6 +14609,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q15_FAUX
 `@err_CSP_V05_Q15 = 1`
 
@@ -13536,6 +14622,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q16
@@ -13567,6 +14655,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -13580,6 +14670,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q16_FAUX
 `@err_CSP_V05_Q16 = 1`
 
@@ -13591,6 +14683,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q17
@@ -13622,6 +14716,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -13635,6 +14731,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q17_FAUX
 `@err_CSP_V05_Q17 = 1`
 
@@ -13646,6 +14744,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q18
@@ -13677,6 +14777,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -13690,6 +14792,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q18_FAUX
 `@err_CSP_V05_Q18 = 1`
 
@@ -13701,6 +14805,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q19
@@ -13732,6 +14838,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -13745,6 +14853,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q19_FAUX
 `@err_CSP_V05_Q19 = 1`
 
@@ -13756,6 +14866,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q20
@@ -13787,6 +14899,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -13800,6 +14914,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q20_FAUX
 `@err_CSP_V05_Q20 = 1`
 
@@ -13811,6 +14927,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q21
@@ -13842,6 +14960,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -13855,6 +14975,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q21_FAUX
 `@err_CSP_V05_Q21 = 1`
 
@@ -13866,6 +14988,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q22
@@ -13897,6 +15021,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -13910,6 +15036,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q22_FAUX
 `@err_CSP_V05_Q22 = 1`
 
@@ -13921,6 +15049,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q23
@@ -13952,6 +15082,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -13965,6 +15097,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q23_FAUX
 `@err_CSP_V05_Q23 = 1`
 
@@ -13976,6 +15110,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q24
@@ -14007,6 +15143,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -14020,6 +15158,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q24_FAUX
 `@err_CSP_V05_Q24 = 1`
 
@@ -14031,6 +15171,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q25
@@ -14062,6 +15204,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -14075,6 +15219,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q25_FAUX
 `@err_CSP_V05_Q25 = 1`
 
@@ -14086,6 +15232,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q26
@@ -14117,6 +15265,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -14130,6 +15280,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q26_FAUX
 `@err_CSP_V05_Q26 = 1`
 
@@ -14141,6 +15293,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q27
@@ -14172,6 +15326,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -14185,6 +15341,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q27_FAUX
 `@err_CSP_V05_Q27 = 1`
 
@@ -14196,6 +15354,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q28
@@ -14227,6 +15387,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -14238,6 +15400,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q28_FAUX
@@ -14253,6 +15417,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -14264,6 +15430,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q29
@@ -14299,6 +15467,8 @@ Ryan vient de fêter son 17e anniversaire en février 2026 et se demande s'il po
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -14312,6 +15482,8 @@ Ryan vient de fêter son 17e anniversaire en février 2026 et se demande s'il po
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q29_FAUX
 `@err_CSP_V05_Q29 = 1`
 
@@ -14323,6 +15495,8 @@ Ryan vient de fêter son 17e anniversaire en février 2026 et se demande s'il po
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q30
@@ -14356,6 +15530,8 @@ Lors d'un examen blanc civique, on vous demande de citer le texte fondateur éta
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -14369,6 +15545,8 @@ Lors d'un examen blanc civique, on vous demande de citer le texte fondateur éta
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q30_FAUX
 `@err_CSP_V05_Q30 = 1`
 
@@ -14380,6 +15558,8 @@ Lors d'un examen blanc civique, on vous demande de citer le texte fondateur éta
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q31
@@ -14413,6 +15593,8 @@ Lors d'une révision de l'examen civique en classe, le formateur vous interroge 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -14426,6 +15608,8 @@ Lors d'une révision de l'examen civique en classe, le formateur vous interroge 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q31_FAUX
 `@err_CSP_V05_Q31 = 1`
 
@@ -14437,6 +15621,8 @@ Lors d'une révision de l'examen civique en classe, le formateur vous interroge 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q32
@@ -14470,6 +15656,8 @@ Lors d'une commémoration, on évoque l'abolition définitive de l'esclavage en 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -14483,6 +15671,8 @@ Lors d'une commémoration, on évoque l'abolition définitive de l'esclavage en 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q32_FAUX
 `@err_CSP_V05_Q32 = 1`
 
@@ -14494,6 +15684,8 @@ Lors d'une commémoration, on évoque l'abolition définitive de l'esclavage en 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q33
@@ -14527,6 +15719,8 @@ Lors d'un cours de préparation civique, on vous demande combien de Républiques
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -14540,6 +15734,8 @@ Lors d'un cours de préparation civique, on vous demande combien de Républiques
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q33_FAUX
 `@err_CSP_V05_Q33 = 1`
 
@@ -14551,6 +15747,8 @@ Lors d'un cours de préparation civique, on vous demande combien de Républiques
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q34
@@ -14584,6 +15782,8 @@ Votre fils vous parle du cours d'histoire- géographie qu'il a suivi aujourd'hui
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -14597,6 +15797,8 @@ Votre fils vous parle du cours d'histoire- géographie qu'il a suivi aujourd'hui
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q34_FAUX
 `@err_CSP_V05_Q34 = 1`
 
@@ -14608,6 +15810,8 @@ Votre fils vous parle du cours d'histoire- géographie qu'il a suivi aujourd'hui
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q35
@@ -14641,6 +15845,8 @@ Un ami vient de perdre son emploi et ne sait pas par où commencer pour en retro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -14654,6 +15860,8 @@ Un ami vient de perdre son emploi et ne sait pas par où commencer pour en retro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q35_FAUX
 `@err_CSP_V05_Q35 = 1`
 
@@ -14665,6 +15873,8 @@ Un ami vient de perdre son emploi et ne sait pas par où commencer pour en retro
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q36
@@ -14698,6 +15908,8 @@ Un salarié se demande quelle est la durée légale hebdomadaire de travail en F
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -14711,6 +15923,8 @@ Un salarié se demande quelle est la durée légale hebdomadaire de travail en F
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q36_FAUX
 `@err_CSP_V05_Q36 = 1`
 
@@ -14722,6 +15936,8 @@ Un salarié se demande quelle est la durée légale hebdomadaire de travail en F
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q37
@@ -14755,6 +15971,8 @@ Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonn
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -14768,6 +15986,8 @@ Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonn
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q37_FAUX
 `@err_CSP_V05_Q37 = 1`
 
@@ -14779,6 +15999,8 @@ Dans le hall de la mairie, un ami aperçoit un buste de femme coiffée d'un bonn
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q38
@@ -14812,6 +16034,8 @@ Un ami s'étonne de voir la devise « Liberté, Égalité, Fraternité » inscri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -14825,6 +16049,8 @@ Un ami s'étonne de voir la devise « Liberté, Égalité, Fraternité » inscri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q38_FAUX
 `@err_CSP_V05_Q38 = 1`
 
@@ -14836,6 +16062,8 @@ Un ami s'étonne de voir la devise « Liberté, Égalité, Fraternité » inscri
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q39
@@ -14869,6 +16097,8 @@ Un ami s'apprête à voter pour la première fois En France à des élections mu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -14882,6 +16112,8 @@ Un ami s'apprête à voter pour la première fois En France à des élections mu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q39_FAUX
 `@err_CSP_V05_Q39 = 1`
 
@@ -14893,6 +16125,8 @@ Un ami s'apprête à voter pour la première fois En France à des élections mu
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_Q40
@@ -14926,6 +16160,8 @@ Un enfant entend à la télévision, que la prochaine élection présidentielle 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -14939,6 +16175,8 @@ Un enfant entend à la télévision, que la prochaine élection présidentielle 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V05_Q40_FAUX
 `@err_CSP_V05_Q40 = 1`
 
@@ -14950,6 +16188,8 @@ Un enfant entend à la télévision, que la prochaine élection présidentielle 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V05_CORRIGE
@@ -15311,6 +16551,8 @@ Le président de la République est élu au suffrage universel direct par les ci
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V05_RESULT
@@ -15824,6 +17066,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CSP_V06_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -15865,6 +17109,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q01
 `@err_CSP_V06_Q01 = 0`
 `@exam_variant = 6`
@@ -15896,6 +17142,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -15909,6 +17157,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q01_FAUX
 `@err_CSP_V06_Q01 = 1`
 
@@ -15920,6 +17170,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q02
@@ -15951,6 +17203,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -15964,6 +17218,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q02_FAUX
 `@err_CSP_V06_Q02 = 1`
 
@@ -15975,6 +17231,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q03
@@ -16006,6 +17264,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -16019,6 +17279,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q03_FAUX
 `@err_CSP_V06_Q03 = 1`
 
@@ -16030,6 +17292,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q04
@@ -16061,6 +17325,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -16074,6 +17340,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q04_FAUX
 `@err_CSP_V06_Q04 = 1`
 
@@ -16085,6 +17353,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q05
@@ -16116,6 +17386,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -16129,6 +17401,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q05_FAUX
 `@err_CSP_V06_Q05 = 1`
 
@@ -16140,6 +17414,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q06
@@ -16171,6 +17447,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -16184,6 +17462,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q06_FAUX
 `@err_CSP_V06_Q06 = 1`
 
@@ -16195,6 +17475,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q07
@@ -16226,6 +17508,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -16239,6 +17523,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q07_FAUX
 `@err_CSP_V06_Q07 = 1`
 
@@ -16250,6 +17536,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q08
@@ -16281,6 +17569,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -16294,6 +17584,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q08_FAUX
 `@err_CSP_V06_Q08 = 1`
 
@@ -16305,6 +17597,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q09
@@ -16336,6 +17630,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -16349,6 +17645,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q09_FAUX
 `@err_CSP_V06_Q09 = 1`
 
@@ -16360,6 +17658,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q10
@@ -16391,6 +17691,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -16404,6 +17706,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q10_FAUX
 `@err_CSP_V06_Q10 = 1`
 
@@ -16415,6 +17719,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q11
@@ -16446,6 +17752,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -16459,6 +17767,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q11_FAUX
 `@err_CSP_V06_Q11 = 1`
 
@@ -16470,6 +17780,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q12
@@ -16501,6 +17813,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -16514,6 +17828,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q12_FAUX
 `@err_CSP_V06_Q12 = 1`
 
@@ -16525,6 +17841,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q13
@@ -16556,6 +17874,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -16569,6 +17889,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q13_FAUX
 `@err_CSP_V06_Q13 = 1`
 
@@ -16580,6 +17902,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q14
@@ -16611,6 +17935,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -16624,6 +17950,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q14_FAUX
 `@err_CSP_V06_Q14 = 1`
 
@@ -16635,6 +17963,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q15
@@ -16666,6 +17996,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -16679,6 +18011,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q15_FAUX
 `@err_CSP_V06_Q15 = 1`
 
@@ -16690,6 +18024,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q16
@@ -16721,6 +18057,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -16734,6 +18072,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q16_FAUX
 `@err_CSP_V06_Q16 = 1`
 
@@ -16745,6 +18085,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q17
@@ -16776,6 +18118,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -16789,6 +18133,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q17_FAUX
 `@err_CSP_V06_Q17 = 1`
 
@@ -16800,6 +18146,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q18
@@ -16831,6 +18179,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -16844,6 +18194,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q18_FAUX
 `@err_CSP_V06_Q18 = 1`
 
@@ -16855,6 +18207,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q19
@@ -16886,6 +18240,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -16899,6 +18255,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q19_FAUX
 `@err_CSP_V06_Q19 = 1`
 
@@ -16910,6 +18268,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q20
@@ -16941,6 +18301,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -16954,6 +18316,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q20_FAUX
 `@err_CSP_V06_Q20 = 1`
 
@@ -16965,6 +18329,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q21
@@ -16996,6 +18362,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -17009,6 +18377,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q21_FAUX
 `@err_CSP_V06_Q21 = 1`
 
@@ -17020,6 +18390,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q22
@@ -17051,6 +18423,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -17064,6 +18438,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q22_FAUX
 `@err_CSP_V06_Q22 = 1`
 
@@ -17075,6 +18451,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q23
@@ -17106,6 +18484,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -17119,6 +18499,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q23_FAUX
 `@err_CSP_V06_Q23 = 1`
 
@@ -17130,6 +18512,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q24
@@ -17161,6 +18545,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -17174,6 +18560,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q24_FAUX
 `@err_CSP_V06_Q24 = 1`
 
@@ -17185,6 +18573,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q25
@@ -17216,6 +18606,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -17229,6 +18621,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q25_FAUX
 `@err_CSP_V06_Q25 = 1`
 
@@ -17240,6 +18634,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q26
@@ -17271,6 +18667,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -17284,6 +18682,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q26_FAUX
 `@err_CSP_V06_Q26 = 1`
 
@@ -17295,6 +18695,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q27
@@ -17326,6 +18728,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -17339,6 +18743,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q27_FAUX
 `@err_CSP_V06_Q27 = 1`
 
@@ -17350,6 +18756,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q28
@@ -17381,6 +18789,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -17392,6 +18802,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q28_FAUX
@@ -17407,6 +18819,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -17418,6 +18832,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q29
@@ -17453,6 +18869,8 @@ Une amie en situation régulière en France envisage de créer sa propre entrepr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -17466,6 +18884,8 @@ Une amie en situation régulière en France envisage de créer sa propre entrepr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q29_FAUX
 `@err_CSP_V06_Q29 = 1`
 
@@ -17477,6 +18897,8 @@ Une amie en situation régulière en France envisage de créer sa propre entrepr
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q30
@@ -17510,6 +18932,8 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -17523,6 +18947,8 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q30_FAUX
 `@err_CSP_V06_Q30 = 1`
 
@@ -17534,6 +18960,8 @@ Pour donner des exemples de symboles officiels de la République, une formatrice
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q31
@@ -17567,6 +18995,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est l'é
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -17580,6 +19010,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est l'é
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q31_FAUX
 `@err_CSP_V06_Q31 = 1`
 
@@ -17591,6 +19023,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce qu'est l'é
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q32
@@ -17624,6 +19058,8 @@ Un ami confond la durée du mandat présidentiel avec celle d'autres élections.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -17637,6 +19073,8 @@ Un ami confond la durée du mandat présidentiel avec celle d'autres élections.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q32_FAUX
 `@err_CSP_V06_Q32 = 1`
 
@@ -17648,6 +19086,8 @@ Un ami confond la durée du mandat présidentiel avec celle d'autres élections.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q33
@@ -17681,6 +19121,8 @@ Les élections législatives approchent. Vous allez élire les députés qui com
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -17694,6 +19136,8 @@ Les élections législatives approchent. Vous allez élire les députés qui com
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q33_FAUX
 `@err_CSP_V06_Q33 = 1`
 
@@ -17705,6 +19149,8 @@ Les élections législatives approchent. Vous allez élire les députés qui com
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q34
@@ -17738,6 +19184,8 @@ Il vous interroge enfin sur la durée du mandat des sénateurs, qu'il pense iden
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -17751,6 +19199,8 @@ Il vous interroge enfin sur la durée du mandat des sénateurs, qu'il pense iden
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q34_FAUX
 `@err_CSP_V06_Q34 = 1`
 
@@ -17762,6 +19212,8 @@ Il vous interroge enfin sur la durée du mandat des sénateurs, qu'il pense iden
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q35
@@ -17795,6 +19247,8 @@ Jérémy est athée, il ne croit pas en Dieu ou en l'existence d'une divinité.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -17808,6 +19262,8 @@ Jérémy est athée, il ne croit pas en Dieu ou en l'existence d'une divinité.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q35_FAUX
 `@err_CSP_V06_Q35 = 1`
 
@@ -17819,6 +19275,8 @@ Jérémy est athée, il ne croit pas en Dieu ou en l'existence d'une divinité.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q36
@@ -17852,6 +19310,8 @@ Martine, âgée de 19 ans, est enceinte de 4 semaines mais ne souhaite pas garde
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -17865,6 +19325,8 @@ Martine, âgée de 19 ans, est enceinte de 4 semaines mais ne souhaite pas garde
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q36_FAUX
 `@err_CSP_V06_Q36 = 1`
 
@@ -17876,6 +19338,8 @@ Martine, âgée de 19 ans, est enceinte de 4 semaines mais ne souhaite pas garde
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q37
@@ -17909,6 +19373,8 @@ Un ami vous demande qui a fondé la Ve République actuellement en vigueur.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -17922,6 +19388,8 @@ Un ami vous demande qui a fondé la Ve République actuellement en vigueur.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q37_FAUX
 `@err_CSP_V06_Q37 = 1`
 
@@ -17933,6 +19401,8 @@ Un ami vous demande qui a fondé la Ve République actuellement en vigueur.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q38
@@ -17966,6 +19436,8 @@ Un collègue étranger venu pour visiter votre usine de bois, a été surpris à
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -17979,6 +19451,8 @@ Un collègue étranger venu pour visiter votre usine de bois, a été surpris à
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q38_FAUX
 `@err_CSP_V06_Q38 = 1`
 
@@ -17990,6 +19464,8 @@ Un collègue étranger venu pour visiter votre usine de bois, a été surpris à
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q39
@@ -18023,6 +19499,8 @@ Lors d'un cours d'histoire, on vous demande le nom de la guerre qui s'est dérou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -18036,6 +19514,8 @@ Lors d'un cours d'histoire, on vous demande le nom de la guerre qui s'est dérou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q39_FAUX
 `@err_CSP_V06_Q39 = 1`
 
@@ -18047,6 +19527,8 @@ Lors d'un cours d'histoire, on vous demande le nom de la guerre qui s'est dérou
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_Q40
@@ -18080,6 +19562,8 @@ Un ami confond France Travail avec une administration délivrant des papiers d'i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -18093,6 +19577,8 @@ Un ami confond France Travail avec une administration délivrant des papiers d'i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V06_Q40_FAUX
 `@err_CSP_V06_Q40 = 1`
 
@@ -18104,6 +19590,8 @@ Un ami confond France Travail avec une administration délivrant des papiers d'i
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V06_CORRIGE
@@ -18465,6 +19953,8 @@ France Travail accompagne les personnes dans leur recherche d'emploi, leur recon
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V06_RESULT
@@ -18978,6 +20468,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CSP_V07_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -19019,6 +20511,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q01
 `@err_CSP_V07_Q01 = 0`
 `@exam_variant = 7`
@@ -19050,6 +20544,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -19063,6 +20559,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q01_FAUX
 `@err_CSP_V07_Q01 = 1`
 
@@ -19074,6 +20572,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q02
@@ -19105,6 +20605,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -19118,6 +20620,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q02_FAUX
 `@err_CSP_V07_Q02 = 1`
 
@@ -19129,6 +20633,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q03
@@ -19160,6 +20666,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -19173,6 +20681,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q03_FAUX
 `@err_CSP_V07_Q03 = 1`
 
@@ -19184,6 +20694,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q04
@@ -19215,6 +20727,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -19228,6 +20742,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q04_FAUX
 `@err_CSP_V07_Q04 = 1`
 
@@ -19239,6 +20755,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q05
@@ -19270,6 +20788,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -19283,6 +20803,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q05_FAUX
 `@err_CSP_V07_Q05 = 1`
 
@@ -19294,6 +20816,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q06
@@ -19325,6 +20849,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -19338,6 +20864,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q06_FAUX
 `@err_CSP_V07_Q06 = 1`
 
@@ -19349,6 +20877,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q07
@@ -19380,6 +20910,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -19393,6 +20925,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q07_FAUX
 `@err_CSP_V07_Q07 = 1`
 
@@ -19404,6 +20938,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q08
@@ -19435,6 +20971,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -19448,6 +20986,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q08_FAUX
 `@err_CSP_V07_Q08 = 1`
 
@@ -19459,6 +20999,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q09
@@ -19490,6 +21032,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -19503,6 +21047,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q09_FAUX
 `@err_CSP_V07_Q09 = 1`
 
@@ -19514,6 +21060,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q10
@@ -19545,6 +21093,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -19558,6 +21108,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q10_FAUX
 `@err_CSP_V07_Q10 = 1`
 
@@ -19569,6 +21121,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q11
@@ -19600,6 +21154,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -19613,6 +21169,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q11_FAUX
 `@err_CSP_V07_Q11 = 1`
 
@@ -19624,6 +21182,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q12
@@ -19655,6 +21215,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -19668,6 +21230,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q12_FAUX
 `@err_CSP_V07_Q12 = 1`
 
@@ -19679,6 +21243,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q13
@@ -19710,6 +21276,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -19723,6 +21291,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q13_FAUX
 `@err_CSP_V07_Q13 = 1`
 
@@ -19734,6 +21304,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q14
@@ -19765,6 +21337,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -19778,6 +21352,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q14_FAUX
 `@err_CSP_V07_Q14 = 1`
 
@@ -19789,6 +21365,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q15
@@ -19820,6 +21398,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -19833,6 +21413,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q15_FAUX
 `@err_CSP_V07_Q15 = 1`
 
@@ -19844,6 +21426,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q16
@@ -19875,6 +21459,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -19888,6 +21474,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q16_FAUX
 `@err_CSP_V07_Q16 = 1`
 
@@ -19899,6 +21487,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q17
@@ -19930,6 +21520,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -19943,6 +21535,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q17_FAUX
 `@err_CSP_V07_Q17 = 1`
 
@@ -19954,6 +21548,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q18
@@ -19985,6 +21581,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -19998,6 +21596,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q18_FAUX
 `@err_CSP_V07_Q18 = 1`
 
@@ -20009,6 +21609,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q19
@@ -20040,6 +21642,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -20053,6 +21657,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q19_FAUX
 `@err_CSP_V07_Q19 = 1`
 
@@ -20064,6 +21670,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q20
@@ -20095,6 +21703,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -20108,6 +21718,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q20_FAUX
 `@err_CSP_V07_Q20 = 1`
 
@@ -20119,6 +21731,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q21
@@ -20150,6 +21764,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -20163,6 +21779,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q21_FAUX
 `@err_CSP_V07_Q21 = 1`
 
@@ -20174,6 +21792,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q22
@@ -20205,6 +21825,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -20218,6 +21840,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q22_FAUX
 `@err_CSP_V07_Q22 = 1`
 
@@ -20229,6 +21853,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q23
@@ -20260,6 +21886,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -20273,6 +21901,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q23_FAUX
 `@err_CSP_V07_Q23 = 1`
 
@@ -20284,6 +21914,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q24
@@ -20315,6 +21947,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -20328,6 +21962,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q24_FAUX
 `@err_CSP_V07_Q24 = 1`
 
@@ -20339,6 +21975,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q25
@@ -20370,6 +22008,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -20383,6 +22023,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q25_FAUX
 `@err_CSP_V07_Q25 = 1`
 
@@ -20394,6 +22036,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q26
@@ -20425,6 +22069,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -20438,6 +22084,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q26_FAUX
 `@err_CSP_V07_Q26 = 1`
 
@@ -20449,6 +22097,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q27
@@ -20480,6 +22130,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -20493,6 +22145,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q27_FAUX
 `@err_CSP_V07_Q27 = 1`
 
@@ -20504,6 +22158,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q28
@@ -20535,6 +22191,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -20546,6 +22204,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q28_FAUX
@@ -20561,6 +22221,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -20572,6 +22234,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q29
@@ -20607,6 +22271,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -20620,6 +22286,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q29_FAUX
 `@err_CSP_V07_Q29 = 1`
 
@@ -20631,6 +22299,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q30
@@ -20664,6 +22334,8 @@ Lors d'un examen blanc, on vous demande pourquoi l'année 1958 est particulière
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -20677,6 +22349,8 @@ Lors d'un examen blanc, on vous demande pourquoi l'année 1958 est particulière
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q30_FAUX
 `@err_CSP_V07_Q30 = 1`
 
@@ -20688,6 +22362,8 @@ Lors d'un examen blanc, on vous demande pourquoi l'année 1958 est particulière
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q31
@@ -20721,6 +22397,8 @@ Un touriste vous demande le nom du fleuve qui traverse Paris.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -20734,6 +22412,8 @@ Un touriste vous demande le nom du fleuve qui traverse Paris.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q31_FAUX
 `@err_CSP_V07_Q31 = 1`
 
@@ -20745,6 +22425,8 @@ Un touriste vous demande le nom du fleuve qui traverse Paris.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q32
@@ -20778,6 +22460,8 @@ Un ami a lu un article dans le journal avec les villes les plus attractives pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -20791,6 +22475,8 @@ Un ami a lu un article dans le journal avec les villes les plus attractives pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q32_FAUX
 `@err_CSP_V07_Q32 = 1`
 
@@ -20802,6 +22488,8 @@ Un ami a lu un article dans le journal avec les villes les plus attractives pour
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q33
@@ -20835,6 +22523,8 @@ Une amie hésite à se lancer dans l'entrepreneuriat, pensant qu'elle a besoin d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -20848,6 +22538,8 @@ Une amie hésite à se lancer dans l'entrepreneuriat, pensant qu'elle a besoin d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q33_FAUX
 `@err_CSP_V07_Q33 = 1`
 
@@ -20859,6 +22551,8 @@ Une amie hésite à se lancer dans l'entrepreneuriat, pensant qu'elle a besoin d
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q34
@@ -20892,6 +22586,8 @@ Un adolescent souhaite trouver un petit emploi pendant les vacances scolaires.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -20905,6 +22601,8 @@ Un adolescent souhaite trouver un petit emploi pendant les vacances scolaires.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q34_FAUX
 `@err_CSP_V07_Q34 = 1`
 
@@ -20916,6 +22614,8 @@ Un adolescent souhaite trouver un petit emploi pendant les vacances scolaires.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q35
@@ -20949,6 +22649,8 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -20962,6 +22664,8 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q35_FAUX
 `@err_CSP_V07_Q35 = 1`
 
@@ -20973,6 +22677,8 @@ Un adolescent affirme : « La liberté, c'est faire absolument tout ce qu'on veu
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q36
@@ -21006,6 +22712,8 @@ Lors d'un cours de préparation civique, on vous demande d'expliquer avec vos pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -21019,6 +22727,8 @@ Lors d'un cours de préparation civique, on vous demande d'expliquer avec vos pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q36_FAUX
 `@err_CSP_V07_Q36 = 1`
 
@@ -21030,6 +22740,8 @@ Lors d'un cours de préparation civique, on vous demande d'expliquer avec vos pr
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q37
@@ -21063,6 +22775,8 @@ Lors d'un cours de formation civique, votre formateur vous demande qui possède 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -21076,6 +22790,8 @@ Lors d'un cours de formation civique, votre formateur vous demande qui possède 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q37_FAUX
 `@err_CSP_V07_Q37 = 1`
 
@@ -21087,6 +22803,8 @@ Lors d'un cours de formation civique, votre formateur vous demande qui possède 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q38
@@ -21120,6 +22838,8 @@ Un ami pense qu'il suffit d'avoir suivi la formation civique pour pouvoir voter,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -21133,6 +22853,8 @@ Un ami pense qu'il suffit d'avoir suivi la formation civique pour pouvoir voter,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q38_FAUX
 `@err_CSP_V07_Q38 = 1`
 
@@ -21144,6 +22866,8 @@ Un ami pense qu'il suffit d'avoir suivi la formation civique pour pouvoir voter,
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q39
@@ -21177,6 +22901,8 @@ Un ami titulaire d'un titre de séjour pense qu'il peut voter aux élections nat
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -21190,6 +22916,8 @@ Un ami titulaire d'un titre de séjour pense qu'il peut voter aux élections nat
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q39_FAUX
 `@err_CSP_V07_Q39 = 1`
 
@@ -21201,6 +22929,8 @@ Un ami titulaire d'un titre de séjour pense qu'il peut voter aux élections nat
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_Q40
@@ -21234,6 +22964,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -21247,6 +22979,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V07_Q40_FAUX
 `@err_CSP_V07_Q40 = 1`
 
@@ -21258,6 +22992,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V07_CORRIGE
@@ -21619,6 +23355,8 @@ Le divorce permet à deux personnes mariées de mettre fin à leur mariage selon
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V07_RESULT
@@ -22132,6 +23870,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CSP_V08_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -22173,6 +23913,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q01
 `@err_CSP_V08_Q01 = 0`
 `@exam_variant = 8`
@@ -22204,6 +23946,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -22217,6 +23961,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q01_FAUX
 `@err_CSP_V08_Q01 = 1`
 
@@ -22228,6 +23974,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q02
@@ -22259,6 +24007,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -22272,6 +24022,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q02_FAUX
 `@err_CSP_V08_Q02 = 1`
 
@@ -22283,6 +24035,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q03
@@ -22314,6 +24068,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -22327,6 +24083,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q03_FAUX
 `@err_CSP_V08_Q03 = 1`
 
@@ -22338,6 +24096,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q04
@@ -22369,6 +24129,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -22382,6 +24144,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q04_FAUX
 `@err_CSP_V08_Q04 = 1`
 
@@ -22393,6 +24157,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q05
@@ -22424,6 +24190,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -22437,6 +24205,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q05_FAUX
 `@err_CSP_V08_Q05 = 1`
 
@@ -22448,6 +24218,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q06
@@ -22479,6 +24251,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -22492,6 +24266,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q06_FAUX
 `@err_CSP_V08_Q06 = 1`
 
@@ -22503,6 +24279,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q07
@@ -22534,6 +24312,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -22547,6 +24327,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q07_FAUX
 `@err_CSP_V08_Q07 = 1`
 
@@ -22558,6 +24340,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q08
@@ -22589,6 +24373,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -22602,6 +24388,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q08_FAUX
 `@err_CSP_V08_Q08 = 1`
 
@@ -22613,6 +24401,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q09
@@ -22644,6 +24434,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -22657,6 +24449,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q09_FAUX
 `@err_CSP_V08_Q09 = 1`
 
@@ -22668,6 +24462,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q10
@@ -22699,6 +24495,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -22712,6 +24510,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q10_FAUX
 `@err_CSP_V08_Q10 = 1`
 
@@ -22723,6 +24523,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q11
@@ -22754,6 +24556,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -22767,6 +24571,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q11_FAUX
 `@err_CSP_V08_Q11 = 1`
 
@@ -22778,6 +24584,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q12
@@ -22809,6 +24617,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -22822,6 +24632,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q12_FAUX
 `@err_CSP_V08_Q12 = 1`
 
@@ -22833,6 +24645,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q13
@@ -22864,6 +24678,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -22877,6 +24693,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q13_FAUX
 `@err_CSP_V08_Q13 = 1`
 
@@ -22888,6 +24706,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q14
@@ -22919,6 +24739,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -22932,6 +24754,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q14_FAUX
 `@err_CSP_V08_Q14 = 1`
 
@@ -22943,6 +24767,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q15
@@ -22974,6 +24800,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -22987,6 +24815,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q15_FAUX
 `@err_CSP_V08_Q15 = 1`
 
@@ -22998,6 +24828,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q16
@@ -23029,6 +24861,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -23042,6 +24876,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q16_FAUX
 `@err_CSP_V08_Q16 = 1`
 
@@ -23053,6 +24889,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q17
@@ -23084,6 +24922,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -23097,6 +24937,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q17_FAUX
 `@err_CSP_V08_Q17 = 1`
 
@@ -23108,6 +24950,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q18
@@ -23139,6 +24983,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -23152,6 +24998,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q18_FAUX
 `@err_CSP_V08_Q18 = 1`
 
@@ -23163,6 +25011,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q19
@@ -23194,6 +25044,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -23207,6 +25059,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q19_FAUX
 `@err_CSP_V08_Q19 = 1`
 
@@ -23218,6 +25072,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q20
@@ -23249,6 +25105,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -23262,6 +25120,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q20_FAUX
 `@err_CSP_V08_Q20 = 1`
 
@@ -23273,6 +25133,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q21
@@ -23304,6 +25166,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -23317,6 +25181,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q21_FAUX
 `@err_CSP_V08_Q21 = 1`
 
@@ -23328,6 +25194,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q22
@@ -23359,6 +25227,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -23372,6 +25242,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q22_FAUX
 `@err_CSP_V08_Q22 = 1`
 
@@ -23383,6 +25255,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q23
@@ -23414,6 +25288,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -23427,6 +25303,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q23_FAUX
 `@err_CSP_V08_Q23 = 1`
 
@@ -23438,6 +25316,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q24
@@ -23469,6 +25349,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -23482,6 +25364,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q24_FAUX
 `@err_CSP_V08_Q24 = 1`
 
@@ -23493,6 +25377,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q25
@@ -23524,6 +25410,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -23537,6 +25425,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q25_FAUX
 `@err_CSP_V08_Q25 = 1`
 
@@ -23548,6 +25438,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q26
@@ -23579,6 +25471,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -23592,6 +25486,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q26_FAUX
 `@err_CSP_V08_Q26 = 1`
 
@@ -23603,6 +25499,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q27
@@ -23634,6 +25532,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -23647,6 +25547,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q27_FAUX
 `@err_CSP_V08_Q27 = 1`
 
@@ -23658,6 +25560,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q28
@@ -23689,6 +25593,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -23700,6 +25606,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q28_FAUX
@@ -23715,6 +25623,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -23726,6 +25636,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q29
@@ -23761,6 +25673,8 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -23774,6 +25688,8 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q29_FAUX
 `@err_CSP_V08_Q29 = 1`
 
@@ -23785,6 +25701,8 @@ Un voisin envisage de créer une association sportive de quartier et vous demand
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q30
@@ -23818,6 +25736,8 @@ Lors d'un débat, quelqu'un vous demande ce que signifie exactement l'expression
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -23831,6 +25751,8 @@ Lors d'un débat, quelqu'un vous demande ce que signifie exactement l'expression
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q30_FAUX
 `@err_CSP_V08_Q30 = 1`
 
@@ -23842,6 +25764,8 @@ Lors d'un débat, quelqu'un vous demande ce que signifie exactement l'expression
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q31
@@ -23875,6 +25799,8 @@ Un ami ne comprend pas à quoi servent les partis politiques en France.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -23888,6 +25814,8 @@ Un ami ne comprend pas à quoi servent les partis politiques en France.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q31_FAUX
 `@err_CSP_V08_Q31 = 1`
 
@@ -23899,6 +25827,8 @@ Un ami ne comprend pas à quoi servent les partis politiques en France.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q32
@@ -23932,6 +25862,8 @@ Un ami confond le rôle des députés avec celui des juges et vous demande à qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -23945,6 +25877,8 @@ Un ami confond le rôle des députés avec celui des juges et vous demande à qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q32_FAUX
 `@err_CSP_V08_Q32 = 1`
 
@@ -23956,6 +25890,8 @@ Un ami confond le rôle des députés avec celui des juges et vous demande à qu
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q33
@@ -23989,6 +25925,8 @@ Mathilde est invitée sur un plateau TV pour un débat sur les droits et libert�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -24002,6 +25940,8 @@ Mathilde est invitée sur un plateau TV pour un débat sur les droits et libert�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q33_FAUX
 `@err_CSP_V08_Q33 = 1`
 
@@ -24013,6 +25953,8 @@ Mathilde est invitée sur un plateau TV pour un débat sur les droits et libert�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q34
@@ -24046,6 +25988,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -24059,6 +26003,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q34_FAUX
 `@err_CSP_V08_Q34 = 1`
 
@@ -24070,6 +26016,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait être marié à 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q35
@@ -24103,6 +26051,8 @@ Votre enfant vous demande de l'aide pour un devoir de géographie. Il vous deman
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -24116,6 +26066,8 @@ Votre enfant vous demande de l'aide pour un devoir de géographie. Il vous deman
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q35_FAUX
 `@err_CSP_V08_Q35 = 1`
 
@@ -24127,6 +26079,8 @@ Votre enfant vous demande de l'aide pour un devoir de géographie. Il vous deman
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q36
@@ -24160,6 +26114,8 @@ Un touriste étranger vous demande quelle est la capitale de la France.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -24173,6 +26129,8 @@ Un touriste étranger vous demande quelle est la capitale de la France.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q36_FAUX
 `@err_CSP_V08_Q36 = 1`
 
@@ -24184,6 +26142,8 @@ Un touriste étranger vous demande quelle est la capitale de la France.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q37
@@ -24217,6 +26177,8 @@ Un enfant demande sur quel continent se situe la France métropolitaine.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -24230,6 +26192,8 @@ Un enfant demande sur quel continent se situe la France métropolitaine.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q37_FAUX
 `@err_CSP_V08_Q37 = 1`
 
@@ -24241,6 +26205,8 @@ Un enfant demande sur quel continent se situe la France métropolitaine.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q38
@@ -24274,6 +26240,8 @@ Après une consultation médicale, un ami se demande auprès de quel organisme i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -24287,6 +26255,8 @@ Après une consultation médicale, un ami se demande auprès de quel organisme i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q38_FAUX
 `@err_CSP_V08_Q38 = 1`
 
@@ -24298,6 +26268,8 @@ Après une consultation médicale, un ami se demande auprès de quel organisme i
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q39
@@ -24331,6 +26303,8 @@ Un ami confond les numéros d'urgence avec de simples numéros administratifs.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -24344,6 +26318,8 @@ Un ami confond les numéros d'urgence avec de simples numéros administratifs.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q39_FAUX
 `@err_CSP_V08_Q39 = 1`
 
@@ -24355,6 +26331,8 @@ Un ami confond les numéros d'urgence avec de simples numéros administratifs.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_Q40
@@ -24388,6 +26366,8 @@ Lors d'une compétition sportive, un ami remarque un animal cousu sur le maillot
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -24401,6 +26381,8 @@ Lors d'une compétition sportive, un ami remarque un animal cousu sur le maillot
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V08_Q40_FAUX
 `@err_CSP_V08_Q40 = 1`
 
@@ -24412,6 +26394,8 @@ Lors d'une compétition sportive, un ami remarque un animal cousu sur le maillot
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V08_CORRIGE
@@ -24773,6 +26757,8 @@ Le coq est un symbole traditionnel de la France, souvent utilisé lors des comp�
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V08_RESULT
@@ -25286,6 +27272,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CSP_V09_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -25327,6 +27315,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q01
 `@err_CSP_V09_Q01 = 0`
 `@exam_variant = 9`
@@ -25358,6 +27348,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -25371,6 +27363,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q01_FAUX
 `@err_CSP_V09_Q01 = 1`
 
@@ -25382,6 +27376,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q02
@@ -25413,6 +27409,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -25426,6 +27424,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q02_FAUX
 `@err_CSP_V09_Q02 = 1`
 
@@ -25437,6 +27437,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q03
@@ -25468,6 +27470,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -25481,6 +27485,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q03_FAUX
 `@err_CSP_V09_Q03 = 1`
 
@@ -25492,6 +27498,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q04
@@ -25523,6 +27531,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -25536,6 +27546,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q04_FAUX
 `@err_CSP_V09_Q04 = 1`
 
@@ -25547,6 +27559,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q05
@@ -25578,6 +27592,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -25591,6 +27607,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q05_FAUX
 `@err_CSP_V09_Q05 = 1`
 
@@ -25602,6 +27620,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q06
@@ -25633,6 +27653,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -25646,6 +27668,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q06_FAUX
 `@err_CSP_V09_Q06 = 1`
 
@@ -25657,6 +27681,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q07
@@ -25688,6 +27714,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -25701,6 +27729,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q07_FAUX
 `@err_CSP_V09_Q07 = 1`
 
@@ -25712,6 +27742,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q08
@@ -25743,6 +27775,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -25756,6 +27790,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q08_FAUX
 `@err_CSP_V09_Q08 = 1`
 
@@ -25767,6 +27803,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q09
@@ -25798,6 +27836,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -25811,6 +27851,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q09_FAUX
 `@err_CSP_V09_Q09 = 1`
 
@@ -25822,6 +27864,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q10
@@ -25853,6 +27897,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -25866,6 +27912,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q10_FAUX
 `@err_CSP_V09_Q10 = 1`
 
@@ -25877,6 +27925,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q11
@@ -25908,6 +27958,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -25921,6 +27973,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q11_FAUX
 `@err_CSP_V09_Q11 = 1`
 
@@ -25932,6 +27986,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q12
@@ -25963,6 +28019,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -25976,6 +28034,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q12_FAUX
 `@err_CSP_V09_Q12 = 1`
 
@@ -25987,6 +28047,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q13
@@ -26018,6 +28080,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -26031,6 +28095,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q13_FAUX
 `@err_CSP_V09_Q13 = 1`
 
@@ -26042,6 +28108,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q14
@@ -26073,6 +28141,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -26086,6 +28156,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q14_FAUX
 `@err_CSP_V09_Q14 = 1`
 
@@ -26097,6 +28169,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q15
@@ -26128,6 +28202,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26141,6 +28217,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q15_FAUX
 `@err_CSP_V09_Q15 = 1`
 
@@ -26152,6 +28230,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q16
@@ -26183,6 +28263,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26196,6 +28278,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q16_FAUX
 `@err_CSP_V09_Q16 = 1`
 
@@ -26207,6 +28291,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q17
@@ -26238,6 +28324,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26251,6 +28339,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q17_FAUX
 `@err_CSP_V09_Q17 = 1`
 
@@ -26262,6 +28352,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q18
@@ -26293,6 +28385,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26306,6 +28400,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q18_FAUX
 `@err_CSP_V09_Q18 = 1`
 
@@ -26317,6 +28413,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q19
@@ -26348,6 +28446,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26361,6 +28461,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q19_FAUX
 `@err_CSP_V09_Q19 = 1`
 
@@ -26372,6 +28474,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q20
@@ -26403,6 +28507,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26416,6 +28522,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q20_FAUX
 `@err_CSP_V09_Q20 = 1`
 
@@ -26427,6 +28535,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q21
@@ -26458,6 +28568,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26471,6 +28583,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q21_FAUX
 `@err_CSP_V09_Q21 = 1`
 
@@ -26482,6 +28596,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q22
@@ -26513,6 +28629,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26526,6 +28644,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q22_FAUX
 `@err_CSP_V09_Q22 = 1`
 
@@ -26537,6 +28657,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q23
@@ -26568,6 +28690,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26581,6 +28705,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q23_FAUX
 `@err_CSP_V09_Q23 = 1`
 
@@ -26592,6 +28718,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q24
@@ -26623,6 +28751,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -26636,6 +28766,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q24_FAUX
 `@err_CSP_V09_Q24 = 1`
 
@@ -26647,6 +28779,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q25
@@ -26678,6 +28812,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -26691,6 +28827,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q25_FAUX
 `@err_CSP_V09_Q25 = 1`
 
@@ -26702,6 +28840,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q26
@@ -26733,6 +28873,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -26746,6 +28888,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q26_FAUX
 `@err_CSP_V09_Q26 = 1`
 
@@ -26757,6 +28901,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q27
@@ -26788,6 +28934,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -26801,6 +28949,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q27_FAUX
 `@err_CSP_V09_Q27 = 1`
 
@@ -26812,6 +28962,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q28
@@ -26843,6 +28995,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -26854,6 +29008,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q28_FAUX
@@ -26869,6 +29025,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -26880,6 +29038,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q29
@@ -26915,6 +29075,8 @@ Votre fille vous énumère les régions de France qui se situent sur le territoi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26928,6 +29090,8 @@ Votre fille vous énumère les régions de France qui se situent sur le territoi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q29_FAUX
 `@err_CSP_V09_Q29 = 1`
 
@@ -26939,6 +29103,8 @@ Votre fille vous énumère les régions de France qui se situent sur le territoi
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q30
@@ -26972,6 +29138,8 @@ Lors d'un cours de géographie, on vous demande de citer une ville française qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -26985,6 +29153,8 @@ Lors d'un cours de géographie, on vous demande de citer une ville française qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q30_FAUX
 `@err_CSP_V09_Q30 = 1`
 
@@ -26996,6 +29166,8 @@ Lors d'un cours de géographie, on vous demande de citer une ville française qu
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q31
@@ -27029,6 +29201,8 @@ Sarah, récemment arrivée en France, sans emploi, pense qu'elle ne pourra jamai
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -27042,6 +29216,8 @@ Sarah, récemment arrivée en France, sans emploi, pense qu'elle ne pourra jamai
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q31_FAUX
 `@err_CSP_V09_Q31 = 1`
 
@@ -27053,6 +29229,8 @@ Sarah, récemment arrivée en France, sans emploi, pense qu'elle ne pourra jamai
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q32
@@ -27086,6 +29264,8 @@ Marlone a un problème de santé léger et hésite à se rendre aux urgences.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -27099,6 +29279,8 @@ Marlone a un problème de santé léger et hésite à se rendre aux urgences.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q32_FAUX
 `@err_CSP_V09_Q32 = 1`
 
@@ -27110,6 +29292,8 @@ Marlone a un problème de santé léger et hésite à se rendre aux urgences.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q33
@@ -27143,6 +29327,8 @@ Lors d'une cérémonie officielle, on vous demande de donner le nom de l'hymne n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -27156,6 +29342,8 @@ Lors d'une cérémonie officielle, on vous demande de donner le nom de l'hymne n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q33_FAUX
 `@err_CSP_V09_Q33 = 1`
 
@@ -27167,6 +29355,8 @@ Lors d'une cérémonie officielle, on vous demande de donner le nom de l'hymne n
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q34
@@ -27200,6 +29390,8 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -27213,6 +29405,8 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q34_FAUX
 `@err_CSP_V09_Q34 = 1`
 
@@ -27224,6 +29418,8 @@ Un ami confond plusieurs symboles français et vous demande lequel est tricolore
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q35
@@ -27257,6 +29453,8 @@ Lors d'un cours de préparation civique, le formateur vous demande de citer les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -27270,6 +29468,8 @@ Lors d'un cours de préparation civique, le formateur vous demande de citer les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q35_FAUX
 `@err_CSP_V09_Q35 = 1`
 
@@ -27281,6 +29481,8 @@ Lors d'un cours de préparation civique, le formateur vous demande de citer les 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q36
@@ -27314,6 +29516,8 @@ Une amie confond le pouvoir législatif avec le pouvoir exécutif et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -27327,6 +29531,8 @@ Une amie confond le pouvoir législatif avec le pouvoir exécutif et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q36_FAUX
 `@err_CSP_V09_Q36 = 1`
 
@@ -27338,6 +29544,8 @@ Une amie confond le pouvoir législatif avec le pouvoir exécutif et vous demand
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q37
@@ -27371,6 +29579,8 @@ Une amie victime d'un vol pense que c'est la police qui décidera de la sanction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -27384,6 +29594,8 @@ Une amie victime d'un vol pense que c'est la police qui décidera de la sanction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q37_FAUX
 `@err_CSP_V09_Q37 = 1`
 
@@ -27395,6 +29607,8 @@ Une amie victime d'un vol pense que c'est la police qui décidera de la sanction
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q38
@@ -27428,6 +29642,8 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour trie
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -27441,6 +29657,8 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour trie
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q38_FAUX
 `@err_CSP_V09_Q38 = 1`
 
@@ -27452,6 +29670,8 @@ Un voisin ne comprend pas l'intérêt de faire des efforts individuels pour trie
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q39
@@ -27485,6 +29705,8 @@ Dans la rue, Louise jette une bouteille vide par terre en affirmant que « ce n'
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -27498,6 +29720,8 @@ Dans la rue, Louise jette une bouteille vide par terre en affirmant que « ce n'
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q39_FAUX
 `@err_CSP_V09_Q39 = 1`
 
@@ -27509,6 +29733,8 @@ Dans la rue, Louise jette une bouteille vide par terre en affirmant que « ce n'
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_Q40
@@ -27542,6 +29768,8 @@ Joséphine confond plusieurs îles et vous demande laquelle est un département 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -27555,6 +29783,8 @@ Joséphine confond plusieurs îles et vous demande laquelle est un département 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V09_Q40_FAUX
 `@err_CSP_V09_Q40 = 1`
 
@@ -27566,6 +29796,8 @@ Joséphine confond plusieurs îles et vous demande laquelle est un département 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V09_CORRIGE
@@ -27927,6 +30159,8 @@ La Réunion est un département et une région d'outre-mer français situé dans
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V09_RESULT
@@ -28440,6 +30674,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CSP_V10_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -28481,6 +30717,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q01
 `@err_CSP_V10_Q01 = 0`
 `@exam_variant = 10`
@@ -28512,6 +30750,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -28525,6 +30765,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q01_FAUX
 `@err_CSP_V10_Q01 = 1`
 
@@ -28536,6 +30778,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q02
@@ -28567,6 +30811,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -28580,6 +30826,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q02_FAUX
 `@err_CSP_V10_Q02 = 1`
 
@@ -28591,6 +30839,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q03
@@ -28622,6 +30872,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -28635,6 +30887,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q03_FAUX
 `@err_CSP_V10_Q03 = 1`
 
@@ -28646,6 +30900,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q04
@@ -28677,6 +30933,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -28690,6 +30948,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q04_FAUX
 `@err_CSP_V10_Q04 = 1`
 
@@ -28701,6 +30961,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q05
@@ -28732,6 +30994,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -28745,6 +31009,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q05_FAUX
 `@err_CSP_V10_Q05 = 1`
 
@@ -28756,6 +31022,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q06
@@ -28787,6 +31055,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -28800,6 +31070,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q06_FAUX
 `@err_CSP_V10_Q06 = 1`
 
@@ -28811,6 +31083,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q07
@@ -28842,6 +31116,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -28855,6 +31131,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q07_FAUX
 `@err_CSP_V10_Q07 = 1`
 
@@ -28866,6 +31144,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q08
@@ -28897,6 +31177,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -28910,6 +31192,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q08_FAUX
 `@err_CSP_V10_Q08 = 1`
 
@@ -28921,6 +31205,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q09
@@ -28952,6 +31238,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -28965,6 +31253,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q09_FAUX
 `@err_CSP_V10_Q09 = 1`
 
@@ -28976,6 +31266,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q10
@@ -29007,6 +31299,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -29020,6 +31314,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q10_FAUX
 `@err_CSP_V10_Q10 = 1`
 
@@ -29031,6 +31327,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q11
@@ -29062,6 +31360,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -29075,6 +31375,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q11_FAUX
 `@err_CSP_V10_Q11 = 1`
 
@@ -29086,6 +31388,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q12
@@ -29117,6 +31421,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -29130,6 +31436,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q12_FAUX
 `@err_CSP_V10_Q12 = 1`
 
@@ -29141,6 +31449,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q13
@@ -29172,6 +31482,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -29185,6 +31497,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q13_FAUX
 `@err_CSP_V10_Q13 = 1`
 
@@ -29196,6 +31510,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q14
@@ -29227,6 +31543,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -29240,6 +31558,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q14_FAUX
 `@err_CSP_V10_Q14 = 1`
 
@@ -29251,6 +31571,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q15
@@ -29282,6 +31604,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -29295,6 +31619,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q15_FAUX
 `@err_CSP_V10_Q15 = 1`
 
@@ -29306,6 +31632,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q16
@@ -29337,6 +31665,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -29350,6 +31680,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q16_FAUX
 `@err_CSP_V10_Q16 = 1`
 
@@ -29361,6 +31693,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q17
@@ -29392,6 +31726,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -29405,6 +31741,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q17_FAUX
 `@err_CSP_V10_Q17 = 1`
 
@@ -29416,6 +31754,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q18
@@ -29447,6 +31787,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -29460,6 +31802,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q18_FAUX
 `@err_CSP_V10_Q18 = 1`
 
@@ -29471,6 +31815,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q19
@@ -29502,6 +31848,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -29515,6 +31863,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q19_FAUX
 `@err_CSP_V10_Q19 = 1`
 
@@ -29526,6 +31876,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q20
@@ -29557,6 +31909,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -29570,6 +31924,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q20_FAUX
 `@err_CSP_V10_Q20 = 1`
 
@@ -29581,6 +31937,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q21
@@ -29612,6 +31970,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -29625,6 +31985,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q21_FAUX
 `@err_CSP_V10_Q21 = 1`
 
@@ -29636,6 +31998,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q22
@@ -29667,6 +32031,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -29680,6 +32046,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q22_FAUX
 `@err_CSP_V10_Q22 = 1`
 
@@ -29691,6 +32059,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q23
@@ -29722,6 +32092,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -29735,6 +32107,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q23_FAUX
 `@err_CSP_V10_Q23 = 1`
 
@@ -29746,6 +32120,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q24
@@ -29777,6 +32153,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -29790,6 +32168,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q24_FAUX
 `@err_CSP_V10_Q24 = 1`
 
@@ -29801,6 +32181,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q25
@@ -29832,6 +32214,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -29845,6 +32229,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q25_FAUX
 `@err_CSP_V10_Q25 = 1`
 
@@ -29856,6 +32242,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q26
@@ -29887,6 +32275,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -29900,6 +32290,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q26_FAUX
 `@err_CSP_V10_Q26 = 1`
 
@@ -29911,6 +32303,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q27
@@ -29942,6 +32336,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -29955,6 +32351,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q27_FAUX
 `@err_CSP_V10_Q27 = 1`
 
@@ -29966,6 +32364,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q28
@@ -29997,6 +32397,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -30008,6 +32410,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q28_FAUX
@@ -30023,6 +32427,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -30034,6 +32440,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q29
@@ -30069,6 +32477,8 @@ Un ami pense que c'est le président de la République qui vote personnellement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -30082,6 +32492,8 @@ Un ami pense que c'est le président de la République qui vote personnellement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q29_FAUX
 `@err_CSP_V10_Q29 = 1`
 
@@ -30093,6 +32505,8 @@ Un ami pense que c'est le président de la République qui vote personnellement 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q30
@@ -30126,6 +32540,8 @@ Lors d'une visite de Paris, un ami vous demande qui réside au palais de l'Élys
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -30139,6 +32555,8 @@ Lors d'une visite de Paris, un ami vous demande qui réside au palais de l'Élys
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q30_FAUX
 `@err_CSP_V10_Q30 = 1`
 
@@ -30150,6 +32568,8 @@ Lors d'une visite de Paris, un ami vous demande qui réside au palais de l'Élys
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q31
@@ -30183,6 +32603,8 @@ Un ami ne comprend pas pourquoi les libertés individuelles peuvent être limit�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -30196,6 +32618,8 @@ Un ami ne comprend pas pourquoi les libertés individuelles peuvent être limit�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q31_FAUX
 `@err_CSP_V10_Q31 = 1`
 
@@ -30207,6 +32631,8 @@ Un ami ne comprend pas pourquoi les libertés individuelles peuvent être limit�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q32
@@ -30240,6 +32666,8 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -30253,6 +32681,8 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q32_FAUX
 `@err_CSP_V10_Q32 = 1`
 
@@ -30264,6 +32694,8 @@ Vous êtes témoin d'un accident de la route et une personne se trouve blessée 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q33
@@ -30297,6 +32729,8 @@ Un ami vous demande quelle mer borde le sud de la France métropolitaine.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -30310,6 +32744,8 @@ Un ami vous demande quelle mer borde le sud de la France métropolitaine.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q33_FAUX
 `@err_CSP_V10_Q33 = 1`
 
@@ -30321,6 +32757,8 @@ Un ami vous demande quelle mer borde le sud de la France métropolitaine.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q34
@@ -30354,6 +32792,8 @@ Axel n'a pas le sens de l'orientation et confond plusieurs villes françaises. I
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -30367,6 +32807,8 @@ Axel n'a pas le sens de l'orientation et confond plusieurs villes françaises. I
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q34_FAUX
 `@err_CSP_V10_Q34 = 1`
 
@@ -30378,6 +32820,8 @@ Axel n'a pas le sens de l'orientation et confond plusieurs villes françaises. I
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q35
@@ -30411,6 +32855,8 @@ Cindy part en vacances pendant 1 semaine en Corse. Elle, qui n'a jamais voyagé 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -30424,6 +32870,8 @@ Cindy part en vacances pendant 1 semaine en Corse. Elle, qui n'a jamais voyagé 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q35_FAUX
 `@err_CSP_V10_Q35 = 1`
 
@@ -30435,6 +32883,8 @@ Cindy part en vacances pendant 1 semaine en Corse. Elle, qui n'a jamais voyagé 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q36
@@ -30468,6 +32918,8 @@ Un ami confond le rôle du médecin traitant avec celui d'un hôpital.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -30481,6 +32933,8 @@ Un ami confond le rôle du médecin traitant avec celui d'un hôpital.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q36_FAUX
 `@err_CSP_V10_Q36 = 1`
 
@@ -30492,6 +32946,8 @@ Un ami confond le rôle du médecin traitant avec celui d'un hôpital.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q37
@@ -30525,6 +32981,8 @@ Youssef envisage de se rendre aux urgences de l'hôpital simplement pour renouve
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -30538,6 +32996,8 @@ Youssef envisage de se rendre aux urgences de l'hôpital simplement pour renouve
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q37_FAUX
 `@err_CSP_V10_Q37 = 1`
 
@@ -30549,6 +33009,8 @@ Youssef envisage de se rendre aux urgences de l'hôpital simplement pour renouve
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q38
@@ -30582,6 +33044,8 @@ Un collègue étranger souhaite savoir quand est la fête nationale pour pouvoir
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -30595,6 +33059,8 @@ Un collègue étranger souhaite savoir quand est la fête nationale pour pouvoir
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q38_FAUX
 `@err_CSP_V10_Q38 = 1`
 
@@ -30606,6 +33072,8 @@ Un collègue étranger souhaite savoir quand est la fête nationale pour pouvoir
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q39
@@ -30639,6 +33107,8 @@ Lors d'un quiz en classe sur la préparation d'un examen civique, on vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -30652,6 +33122,8 @@ Lors d'un quiz en classe sur la préparation d'un examen civique, on vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q39_FAUX
 `@err_CSP_V10_Q39 = 1`
 
@@ -30663,6 +33135,8 @@ Lors d'un quiz en classe sur la préparation d'un examen civique, on vous demand
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_Q40
@@ -30696,6 +33170,8 @@ Une amie vous demande qui, précisément, élit les députés en France.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -30709,6 +33185,8 @@ Une amie vous demande qui, précisément, élit les députés en France.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CSP_V10_Q40_FAUX
 `@err_CSP_V10_Q40 = 1`
 
@@ -30720,6 +33198,8 @@ Une amie vous demande qui, précisément, élit les députés en France.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CSP_V10_CORRIGE
@@ -31081,6 +33561,8 @@ Les députés sont élus au suffrage universel direct par les citoyens français
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CSP_V10_RESULT
@@ -31594,6 +34076,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V01_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -31630,6 +34114,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q01
 `@err_CR_V01_Q01 = 0`
 
@@ -31659,6 +34145,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -31672,6 +34160,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q01_FAUX
 `@err_CR_V01_Q01 = 1`
 
@@ -31683,6 +34173,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q02
@@ -31712,6 +34204,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -31725,6 +34219,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q02_FAUX
 `@err_CR_V01_Q02 = 1`
 
@@ -31736,6 +34232,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q03
@@ -31765,6 +34263,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -31778,6 +34278,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q03_FAUX
 `@err_CR_V01_Q03 = 1`
 
@@ -31789,6 +34291,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q04
@@ -31818,6 +34322,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -31831,6 +34337,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q04_FAUX
 `@err_CR_V01_Q04 = 1`
 
@@ -31842,6 +34350,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q05
@@ -31871,6 +34381,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -31884,6 +34396,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q05_FAUX
 `@err_CR_V01_Q05 = 1`
 
@@ -31895,6 +34409,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q06
@@ -31924,6 +34440,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -31937,6 +34455,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q06_FAUX
 `@err_CR_V01_Q06 = 1`
 
@@ -31948,6 +34468,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q07
@@ -31977,6 +34499,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -31990,6 +34514,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q07_FAUX
 `@err_CR_V01_Q07 = 1`
 
@@ -32001,6 +34527,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q08
@@ -32030,6 +34558,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -32043,6 +34573,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q08_FAUX
 `@err_CR_V01_Q08 = 1`
 
@@ -32054,6 +34586,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q09
@@ -32083,6 +34617,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -32096,6 +34632,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q09_FAUX
 `@err_CR_V01_Q09 = 1`
 
@@ -32107,6 +34645,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q10
@@ -32136,6 +34676,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -32149,6 +34691,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q10_FAUX
 `@err_CR_V01_Q10 = 1`
 
@@ -32160,6 +34704,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q11
@@ -32189,6 +34735,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -32202,6 +34750,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q11_FAUX
 `@err_CR_V01_Q11 = 1`
 
@@ -32213,6 +34763,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q12
@@ -32242,6 +34794,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -32255,6 +34809,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q12_FAUX
 `@err_CR_V01_Q12 = 1`
 
@@ -32266,6 +34822,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q13
@@ -32295,6 +34853,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -32308,6 +34868,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q13_FAUX
 `@err_CR_V01_Q13 = 1`
 
@@ -32319,6 +34881,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q14
@@ -32348,6 +34912,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -32361,6 +34927,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q14_FAUX
 `@err_CR_V01_Q14 = 1`
 
@@ -32372,6 +34940,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q15
@@ -32401,6 +34971,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -32414,6 +34986,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q15_FAUX
 `@err_CR_V01_Q15 = 1`
 
@@ -32425,6 +34999,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q16
@@ -32454,6 +35030,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -32467,6 +35045,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q16_FAUX
 `@err_CR_V01_Q16 = 1`
 
@@ -32478,6 +35058,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q17
@@ -32507,6 +35089,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -32520,6 +35104,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q17_FAUX
 `@err_CR_V01_Q17 = 1`
 
@@ -32531,6 +35117,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q18
@@ -32560,6 +35148,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -32573,6 +35163,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q18_FAUX
 `@err_CR_V01_Q18 = 1`
 
@@ -32584,6 +35176,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q19
@@ -32613,6 +35207,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -32626,6 +35222,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q19_FAUX
 `@err_CR_V01_Q19 = 1`
 
@@ -32637,6 +35235,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q20
@@ -32666,6 +35266,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -32679,6 +35281,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q20_FAUX
 `@err_CR_V01_Q20 = 1`
 
@@ -32690,6 +35294,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q21
@@ -32719,6 +35325,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -32732,6 +35340,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q21_FAUX
 `@err_CR_V01_Q21 = 1`
 
@@ -32743,6 +35353,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q22
@@ -32772,6 +35384,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -32785,6 +35399,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q22_FAUX
 `@err_CR_V01_Q22 = 1`
 
@@ -32796,6 +35412,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q23
@@ -32825,6 +35443,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -32838,6 +35458,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q23_FAUX
 `@err_CR_V01_Q23 = 1`
 
@@ -32849,6 +35471,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q24
@@ -32878,6 +35502,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -32891,6 +35517,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q24_FAUX
 `@err_CR_V01_Q24 = 1`
 
@@ -32902,6 +35530,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q25
@@ -32931,6 +35561,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -32944,6 +35576,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q25_FAUX
 `@err_CR_V01_Q25 = 1`
 
@@ -32955,6 +35589,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q26
@@ -32984,6 +35620,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -32997,6 +35635,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q26_FAUX
 `@err_CR_V01_Q26 = 1`
 
@@ -33008,6 +35648,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q27
@@ -33037,6 +35679,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -33050,6 +35694,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q27_FAUX
 `@err_CR_V01_Q27 = 1`
 
@@ -33061,6 +35707,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q28
@@ -33090,6 +35738,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -33101,6 +35751,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q28_FAUX
@@ -33116,6 +35768,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -33127,6 +35781,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q29
@@ -33158,6 +35814,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -33171,6 +35829,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q29_FAUX
 `@err_CR_V01_Q29 = 1`
 
@@ -33182,6 +35842,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q30
@@ -33213,6 +35875,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -33226,6 +35890,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q30_FAUX
 `@err_CR_V01_Q30 = 1`
 
@@ -33237,6 +35903,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q31
@@ -33268,6 +35936,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -33281,6 +35951,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q31_FAUX
 `@err_CR_V01_Q31 = 1`
 
@@ -33292,6 +35964,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q32
@@ -33323,6 +35997,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -33336,6 +36012,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q32_FAUX
 `@err_CR_V01_Q32 = 1`
 
@@ -33347,6 +36025,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q33
@@ -33378,6 +36058,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -33391,6 +36073,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q33_FAUX
 `@err_CR_V01_Q33 = 1`
 
@@ -33402,6 +36086,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q34
@@ -33433,6 +36119,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -33446,6 +36134,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q34_FAUX
 `@err_CR_V01_Q34 = 1`
 
@@ -33457,6 +36147,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q35
@@ -33488,6 +36180,8 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -33501,6 +36195,8 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q35_FAUX
 `@err_CR_V01_Q35 = 1`
 
@@ -33512,6 +36208,8 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q36
@@ -33543,6 +36241,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -33556,6 +36256,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q36_FAUX
 `@err_CR_V01_Q36 = 1`
 
@@ -33567,6 +36269,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q37
@@ -33598,6 +36302,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -33611,6 +36317,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q37_FAUX
 `@err_CR_V01_Q37 = 1`
 
@@ -33622,6 +36330,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q38
@@ -33653,6 +36363,8 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -33666,6 +36378,8 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q38_FAUX
 `@err_CR_V01_Q38 = 1`
 
@@ -33677,6 +36391,8 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q39
@@ -33708,6 +36424,8 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -33721,6 +36439,8 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q39_FAUX
 `@err_CR_V01_Q39 = 1`
 
@@ -33732,6 +36452,8 @@ Une amie vous raconte qu'un propriétaire a refusé de lui louer un appartement 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_Q40
@@ -33763,6 +36485,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -33776,6 +36500,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V01_Q40_FAUX
 `@err_CR_V01_Q40 = 1`
 
@@ -33787,6 +36513,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V01_CORRIGE
@@ -34148,6 +36876,8 @@ La procréation médicalement assistée (PMA) relève de la liberté individuell
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V01_RESULT
@@ -34616,6 +37346,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V02_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -34653,6 +37385,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q01
 `@err_CR_V02_Q01 = 0`
 
@@ -34682,6 +37416,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -34695,6 +37431,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q01_FAUX
 `@err_CR_V02_Q01 = 1`
 
@@ -34706,6 +37444,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q02
@@ -34735,6 +37475,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -34748,6 +37490,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q02_FAUX
 `@err_CR_V02_Q02 = 1`
 
@@ -34759,6 +37503,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q03
@@ -34788,6 +37534,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -34801,6 +37549,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q03_FAUX
 `@err_CR_V02_Q03 = 1`
 
@@ -34812,6 +37562,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q04
@@ -34841,6 +37593,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -34854,6 +37608,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q04_FAUX
 `@err_CR_V02_Q04 = 1`
 
@@ -34865,6 +37621,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q05
@@ -34894,6 +37652,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -34907,6 +37667,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q05_FAUX
 `@err_CR_V02_Q05 = 1`
 
@@ -34918,6 +37680,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q06
@@ -34947,6 +37711,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -34960,6 +37726,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q06_FAUX
 `@err_CR_V02_Q06 = 1`
 
@@ -34971,6 +37739,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q07
@@ -35000,6 +37770,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -35013,6 +37785,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q07_FAUX
 `@err_CR_V02_Q07 = 1`
 
@@ -35024,6 +37798,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q08
@@ -35053,6 +37829,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -35066,6 +37844,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q08_FAUX
 `@err_CR_V02_Q08 = 1`
 
@@ -35077,6 +37857,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q09
@@ -35106,6 +37888,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -35119,6 +37903,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q09_FAUX
 `@err_CR_V02_Q09 = 1`
 
@@ -35130,6 +37916,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q10
@@ -35159,6 +37947,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -35172,6 +37962,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q10_FAUX
 `@err_CR_V02_Q10 = 1`
 
@@ -35183,6 +37975,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q11
@@ -35212,6 +38006,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -35225,6 +38021,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q11_FAUX
 `@err_CR_V02_Q11 = 1`
 
@@ -35236,6 +38034,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q12
@@ -35265,6 +38065,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -35278,6 +38080,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q12_FAUX
 `@err_CR_V02_Q12 = 1`
 
@@ -35289,6 +38093,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q13
@@ -35318,6 +38124,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -35331,6 +38139,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q13_FAUX
 `@err_CR_V02_Q13 = 1`
 
@@ -35342,6 +38152,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q14
@@ -35371,6 +38183,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -35384,6 +38198,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q14_FAUX
 `@err_CR_V02_Q14 = 1`
 
@@ -35395,6 +38211,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q15
@@ -35424,6 +38242,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -35437,6 +38257,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q15_FAUX
 `@err_CR_V02_Q15 = 1`
 
@@ -35448,6 +38270,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q16
@@ -35477,6 +38301,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -35490,6 +38316,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q16_FAUX
 `@err_CR_V02_Q16 = 1`
 
@@ -35501,6 +38329,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q17
@@ -35530,6 +38360,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -35543,6 +38375,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q17_FAUX
 `@err_CR_V02_Q17 = 1`
 
@@ -35554,6 +38388,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q18
@@ -35583,6 +38419,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -35596,6 +38434,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q18_FAUX
 `@err_CR_V02_Q18 = 1`
 
@@ -35607,6 +38447,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q19
@@ -35636,6 +38478,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -35649,6 +38493,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q19_FAUX
 `@err_CR_V02_Q19 = 1`
 
@@ -35660,6 +38506,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q20
@@ -35689,6 +38537,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -35702,6 +38552,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q20_FAUX
 `@err_CR_V02_Q20 = 1`
 
@@ -35713,6 +38565,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q21
@@ -35742,6 +38596,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -35755,6 +38611,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q21_FAUX
 `@err_CR_V02_Q21 = 1`
 
@@ -35766,6 +38624,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q22
@@ -35795,6 +38655,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -35808,6 +38670,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q22_FAUX
 `@err_CR_V02_Q22 = 1`
 
@@ -35819,6 +38683,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q23
@@ -35848,6 +38714,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -35861,6 +38729,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q23_FAUX
 `@err_CR_V02_Q23 = 1`
 
@@ -35872,6 +38742,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q24
@@ -35901,6 +38773,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -35914,6 +38788,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q24_FAUX
 `@err_CR_V02_Q24 = 1`
 
@@ -35925,6 +38801,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q25
@@ -35954,6 +38832,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -35967,6 +38847,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q25_FAUX
 `@err_CR_V02_Q25 = 1`
 
@@ -35978,6 +38860,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q26
@@ -36007,6 +38891,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -36020,6 +38906,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q26_FAUX
 `@err_CR_V02_Q26 = 1`
 
@@ -36031,6 +38919,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q27
@@ -36060,6 +38950,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -36073,6 +38965,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q27_FAUX
 `@err_CR_V02_Q27 = 1`
 
@@ -36084,6 +38978,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q28
@@ -36113,6 +39009,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -36124,6 +39022,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q28_FAUX
@@ -36139,6 +39039,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -36150,6 +39052,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q29
@@ -36181,6 +39085,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -36194,6 +39100,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q29_FAUX
 `@err_CR_V02_Q29 = 1`
 
@@ -36205,6 +39113,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q30
@@ -36236,6 +39146,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -36249,6 +39161,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q30_FAUX
 `@err_CR_V02_Q30 = 1`
 
@@ -36260,6 +39174,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q31
@@ -36291,6 +39207,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -36304,6 +39222,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q31_FAUX
 `@err_CR_V02_Q31 = 1`
 
@@ -36315,6 +39235,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q32
@@ -36346,6 +39268,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -36359,6 +39283,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q32_FAUX
 `@err_CR_V02_Q32 = 1`
 
@@ -36370,6 +39296,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q33
@@ -36401,6 +39329,8 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -36414,6 +39344,8 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q33_FAUX
 `@err_CR_V02_Q33 = 1`
 
@@ -36425,6 +39357,8 @@ Lors d'un débat, un participant affirme que « l'égalité », dans la devise r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q34
@@ -36456,6 +39390,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -36469,6 +39405,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q34_FAUX
 `@err_CR_V02_Q34 = 1`
 
@@ -36480,6 +39418,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q35
@@ -36511,6 +39451,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -36524,6 +39466,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q35_FAUX
 `@err_CR_V02_Q35 = 1`
 
@@ -36535,6 +39479,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q36
@@ -36566,6 +39512,8 @@ Lors d'un rassemblement public, un ami se demande quelles autorités sont charg�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -36579,6 +39527,8 @@ Lors d'un rassemblement public, un ami se demande quelles autorités sont charg�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q36_FAUX
 `@err_CR_V02_Q36 = 1`
 
@@ -36590,6 +39540,8 @@ Lors d'un rassemblement public, un ami se demande quelles autorités sont charg�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q37
@@ -36621,6 +39573,8 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -36634,6 +39588,8 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q37_FAUX
 `@err_CR_V02_Q37 = 1`
 
@@ -36645,6 +39601,8 @@ Un ami étranger pense qu'il n'est pas concerné par les lois françaises tant q
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q38
@@ -36676,6 +39634,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -36689,6 +39649,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q38_FAUX
 `@err_CR_V02_Q38 = 1`
 
@@ -36700,6 +39662,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q39
@@ -36731,6 +39695,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -36744,6 +39710,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q39_FAUX
 `@err_CR_V02_Q39 = 1`
 
@@ -36755,6 +39723,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_Q40
@@ -36786,6 +39756,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -36799,6 +39771,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V02_Q40_FAUX
 `@err_CR_V02_Q40 = 1`
 
@@ -36810,6 +39784,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V02_CORRIGE
@@ -37171,6 +40147,8 @@ En France, le divorce est autorisé par la loi. Les époux peuvent mettre fin à
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V02_RESULT
@@ -37648,6 +40626,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V03_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -37684,6 +40664,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q01
 `@err_CR_V03_Q01 = 0`
 
@@ -37713,6 +40695,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -37726,6 +40710,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q01_FAUX
 `@err_CR_V03_Q01 = 1`
 
@@ -37737,6 +40723,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q02
@@ -37766,6 +40754,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -37779,6 +40769,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q02_FAUX
 `@err_CR_V03_Q02 = 1`
 
@@ -37790,6 +40782,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q03
@@ -37819,6 +40813,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -37832,6 +40828,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q03_FAUX
 `@err_CR_V03_Q03 = 1`
 
@@ -37843,6 +40841,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q04
@@ -37872,6 +40872,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -37885,6 +40887,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q04_FAUX
 `@err_CR_V03_Q04 = 1`
 
@@ -37896,6 +40900,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q05
@@ -37925,6 +40931,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -37938,6 +40946,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q05_FAUX
 `@err_CR_V03_Q05 = 1`
 
@@ -37949,6 +40959,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q06
@@ -37978,6 +40990,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -37991,6 +41005,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q06_FAUX
 `@err_CR_V03_Q06 = 1`
 
@@ -38002,6 +41018,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q07
@@ -38031,6 +41049,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -38044,6 +41064,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q07_FAUX
 `@err_CR_V03_Q07 = 1`
 
@@ -38055,6 +41077,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q08
@@ -38084,6 +41108,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -38097,6 +41123,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q08_FAUX
 `@err_CR_V03_Q08 = 1`
 
@@ -38108,6 +41136,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q09
@@ -38137,6 +41167,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -38150,6 +41182,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q09_FAUX
 `@err_CR_V03_Q09 = 1`
 
@@ -38161,6 +41195,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q10
@@ -38190,6 +41226,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -38203,6 +41241,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q10_FAUX
 `@err_CR_V03_Q10 = 1`
 
@@ -38214,6 +41254,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q11
@@ -38243,6 +41285,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -38256,6 +41300,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q11_FAUX
 `@err_CR_V03_Q11 = 1`
 
@@ -38267,6 +41313,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q12
@@ -38296,6 +41344,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -38309,6 +41359,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q12_FAUX
 `@err_CR_V03_Q12 = 1`
 
@@ -38320,6 +41372,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q13
@@ -38349,6 +41403,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -38362,6 +41418,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q13_FAUX
 `@err_CR_V03_Q13 = 1`
 
@@ -38373,6 +41431,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q14
@@ -38402,6 +41462,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -38415,6 +41477,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q14_FAUX
 `@err_CR_V03_Q14 = 1`
 
@@ -38426,6 +41490,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q15
@@ -38455,6 +41521,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -38468,6 +41536,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q15_FAUX
 `@err_CR_V03_Q15 = 1`
 
@@ -38479,6 +41549,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q16
@@ -38508,6 +41580,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -38521,6 +41595,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q16_FAUX
 `@err_CR_V03_Q16 = 1`
 
@@ -38532,6 +41608,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q17
@@ -38561,6 +41639,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -38574,6 +41654,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q17_FAUX
 `@err_CR_V03_Q17 = 1`
 
@@ -38585,6 +41667,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q18
@@ -38614,6 +41698,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -38627,6 +41713,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q18_FAUX
 `@err_CR_V03_Q18 = 1`
 
@@ -38638,6 +41726,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q19
@@ -38667,6 +41757,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -38680,6 +41772,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q19_FAUX
 `@err_CR_V03_Q19 = 1`
 
@@ -38691,6 +41785,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q20
@@ -38720,6 +41816,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -38733,6 +41831,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q20_FAUX
 `@err_CR_V03_Q20 = 1`
 
@@ -38744,6 +41844,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q21
@@ -38773,6 +41875,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -38786,6 +41890,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q21_FAUX
 `@err_CR_V03_Q21 = 1`
 
@@ -38797,6 +41903,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q22
@@ -38826,6 +41934,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -38839,6 +41949,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q22_FAUX
 `@err_CR_V03_Q22 = 1`
 
@@ -38850,6 +41962,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q23
@@ -38879,6 +41993,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -38892,6 +42008,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q23_FAUX
 `@err_CR_V03_Q23 = 1`
 
@@ -38903,6 +42021,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q24
@@ -38932,6 +42052,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -38945,6 +42067,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q24_FAUX
 `@err_CR_V03_Q24 = 1`
 
@@ -38956,6 +42080,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q25
@@ -38985,6 +42111,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -38998,6 +42126,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q25_FAUX
 `@err_CR_V03_Q25 = 1`
 
@@ -39009,6 +42139,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q26
@@ -39038,6 +42170,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -39051,6 +42185,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q26_FAUX
 `@err_CR_V03_Q26 = 1`
 
@@ -39062,6 +42198,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q27
@@ -39091,6 +42229,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -39104,6 +42244,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q27_FAUX
 `@err_CR_V03_Q27 = 1`
 
@@ -39115,6 +42257,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q28
@@ -39144,6 +42288,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -39155,6 +42301,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q28_FAUX
@@ -39170,6 +42318,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -39181,6 +42331,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q29
@@ -39212,6 +42364,8 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -39225,6 +42379,8 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q29_FAUX
 `@err_CR_V03_Q29 = 1`
 
@@ -39236,6 +42392,8 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q30
@@ -39267,6 +42425,8 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -39280,6 +42440,8 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q30_FAUX
 `@err_CR_V03_Q30 = 1`
 
@@ -39291,6 +42453,8 @@ Un collègue originaire d'une région où l'on parle une langue régionale vous 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q31
@@ -39322,6 +42486,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -39335,6 +42501,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q31_FAUX
 `@err_CR_V03_Q31 = 1`
 
@@ -39346,6 +42514,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q32
@@ -39377,6 +42547,8 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -39390,6 +42562,8 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q32_FAUX
 `@err_CR_V03_Q32 = 1`
 
@@ -39401,6 +42575,8 @@ Dans le même exercice, vous devez maintenant identifier laquelle de ces infract
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q33
@@ -39432,6 +42608,8 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -39445,6 +42623,8 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q33_FAUX
 `@err_CR_V03_Q33 = 1`
 
@@ -39456,6 +42636,8 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q34
@@ -39487,6 +42669,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -39500,6 +42684,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q34_FAUX
 `@err_CR_V03_Q34 = 1`
 
@@ -39511,6 +42697,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q35
@@ -39542,6 +42730,8 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -39555,6 +42745,8 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q35_FAUX
 `@err_CR_V03_Q35 = 1`
 
@@ -39566,6 +42758,8 @@ Un voisin ne comprend pas l'intérêt de trier ses déchets et pense que cela ne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q36
@@ -39597,6 +42791,8 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -39610,6 +42806,8 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q36_FAUX
 `@err_CR_V03_Q36 = 1`
 
@@ -39621,6 +42819,8 @@ Un ami confond ses droits et ses obligations et vous demande laquelle de ces pro
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q37
@@ -39652,6 +42852,8 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -39665,6 +42867,8 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q37_FAUX
 `@err_CR_V03_Q37 = 1`
 
@@ -39676,6 +42880,8 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q38
@@ -39707,6 +42913,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -39720,6 +42928,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q38_FAUX
 `@err_CR_V03_Q38 = 1`
 
@@ -39731,6 +42941,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q39
@@ -39762,6 +42974,8 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -39775,6 +42989,8 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q39_FAUX
 `@err_CR_V03_Q39 = 1`
 
@@ -39786,6 +43002,8 @@ Un ami envisage de ne pas déclarer ses revenus, estimant que l'argent des impô
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_Q40
@@ -39817,6 +43035,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -39830,6 +43050,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V03_Q40_FAUX
 `@err_CR_V03_Q40 = 1`
 
@@ -39841,6 +43063,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V03_CORRIGE
@@ -40202,6 +43426,8 @@ La liberté religieuse est garantie en France. Chacun est libre de croire, de pr
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V03_RESULT
@@ -40670,6 +43896,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V04_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -40706,6 +43934,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q01
 `@err_CR_V04_Q01 = 0`
 
@@ -40735,6 +43965,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -40748,6 +43980,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q01_FAUX
 `@err_CR_V04_Q01 = 1`
 
@@ -40759,6 +43993,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q02
@@ -40788,6 +44024,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -40801,6 +44039,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q02_FAUX
 `@err_CR_V04_Q02 = 1`
 
@@ -40812,6 +44052,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q03
@@ -40841,6 +44083,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -40854,6 +44098,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q03_FAUX
 `@err_CR_V04_Q03 = 1`
 
@@ -40865,6 +44111,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q04
@@ -40894,6 +44142,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -40907,6 +44157,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q04_FAUX
 `@err_CR_V04_Q04 = 1`
 
@@ -40918,6 +44170,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q05
@@ -40947,6 +44201,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -40960,6 +44216,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q05_FAUX
 `@err_CR_V04_Q05 = 1`
 
@@ -40971,6 +44229,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q06
@@ -41000,6 +44260,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -41013,6 +44275,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q06_FAUX
 `@err_CR_V04_Q06 = 1`
 
@@ -41024,6 +44288,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q07
@@ -41053,6 +44319,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -41066,6 +44334,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q07_FAUX
 `@err_CR_V04_Q07 = 1`
 
@@ -41077,6 +44347,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q08
@@ -41106,6 +44378,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -41119,6 +44393,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q08_FAUX
 `@err_CR_V04_Q08 = 1`
 
@@ -41130,6 +44406,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q09
@@ -41159,6 +44437,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -41172,6 +44452,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q09_FAUX
 `@err_CR_V04_Q09 = 1`
 
@@ -41183,6 +44465,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q10
@@ -41212,6 +44496,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -41225,6 +44511,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q10_FAUX
 `@err_CR_V04_Q10 = 1`
 
@@ -41236,6 +44524,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q11
@@ -41265,6 +44555,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -41278,6 +44570,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q11_FAUX
 `@err_CR_V04_Q11 = 1`
 
@@ -41289,6 +44583,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q12
@@ -41318,6 +44614,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -41331,6 +44629,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q12_FAUX
 `@err_CR_V04_Q12 = 1`
 
@@ -41342,6 +44642,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q13
@@ -41371,6 +44673,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -41384,6 +44688,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q13_FAUX
 `@err_CR_V04_Q13 = 1`
 
@@ -41395,6 +44701,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q14
@@ -41424,6 +44732,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -41437,6 +44747,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q14_FAUX
 `@err_CR_V04_Q14 = 1`
 
@@ -41448,6 +44760,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q15
@@ -41477,6 +44791,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -41490,6 +44806,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q15_FAUX
 `@err_CR_V04_Q15 = 1`
 
@@ -41501,6 +44819,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q16
@@ -41530,6 +44850,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -41543,6 +44865,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q16_FAUX
 `@err_CR_V04_Q16 = 1`
 
@@ -41554,6 +44878,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q17
@@ -41583,6 +44909,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -41596,6 +44924,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q17_FAUX
 `@err_CR_V04_Q17 = 1`
 
@@ -41607,6 +44937,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q18
@@ -41636,6 +44968,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -41649,6 +44983,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q18_FAUX
 `@err_CR_V04_Q18 = 1`
 
@@ -41660,6 +44996,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q19
@@ -41689,6 +45027,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -41702,6 +45042,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q19_FAUX
 `@err_CR_V04_Q19 = 1`
 
@@ -41713,6 +45055,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q20
@@ -41742,6 +45086,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -41755,6 +45101,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q20_FAUX
 `@err_CR_V04_Q20 = 1`
 
@@ -41766,6 +45114,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q21
@@ -41795,6 +45145,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -41808,6 +45160,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q21_FAUX
 `@err_CR_V04_Q21 = 1`
 
@@ -41819,6 +45173,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q22
@@ -41848,6 +45204,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -41861,6 +45219,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q22_FAUX
 `@err_CR_V04_Q22 = 1`
 
@@ -41872,6 +45232,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q23
@@ -41901,6 +45263,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -41914,6 +45278,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q23_FAUX
 `@err_CR_V04_Q23 = 1`
 
@@ -41925,6 +45291,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q24
@@ -41954,6 +45322,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -41967,6 +45337,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q24_FAUX
 `@err_CR_V04_Q24 = 1`
 
@@ -41978,6 +45350,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q25
@@ -42007,6 +45381,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -42020,6 +45396,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q25_FAUX
 `@err_CR_V04_Q25 = 1`
 
@@ -42031,6 +45409,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q26
@@ -42060,6 +45440,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -42073,6 +45455,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q26_FAUX
 `@err_CR_V04_Q26 = 1`
 
@@ -42084,6 +45468,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q27
@@ -42113,6 +45499,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -42126,6 +45514,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q27_FAUX
 `@err_CR_V04_Q27 = 1`
 
@@ -42137,6 +45527,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q28
@@ -42166,6 +45558,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -42177,6 +45571,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q28_FAUX
@@ -42192,6 +45588,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -42203,6 +45601,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q29
@@ -42234,6 +45634,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -42247,6 +45649,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q29_FAUX
 `@err_CR_V04_Q29 = 1`
 
@@ -42258,6 +45662,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q30
@@ -42289,6 +45695,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -42302,6 +45710,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q30_FAUX
 `@err_CR_V04_Q30 = 1`
 
@@ -42313,6 +45723,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q31
@@ -42344,6 +45756,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -42357,6 +45771,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q31_FAUX
 `@err_CR_V04_Q31 = 1`
 
@@ -42368,6 +45784,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q32
@@ -42399,6 +45817,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -42412,6 +45832,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q32_FAUX
 `@err_CR_V04_Q32 = 1`
 
@@ -42423,6 +45845,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q33
@@ -42454,6 +45878,8 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -42467,6 +45893,8 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q33_FAUX
 `@err_CR_V04_Q33 = 1`
 
@@ -42478,6 +45906,8 @@ Un ami affirme que certaines personnes auraient moins de droits que d'autres, se
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q34
@@ -42509,6 +45939,8 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -42522,6 +45954,8 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q34_FAUX
 `@err_CR_V04_Q34 = 1`
 
@@ -42533,6 +45967,8 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q35
@@ -42564,6 +46000,8 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -42577,6 +46015,8 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q35_FAUX
 `@err_CR_V04_Q35 = 1`
 
@@ -42588,6 +46028,8 @@ Une jeune femme vous confie que sa famille souhaite choisir son futur époux à 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q36
@@ -42619,6 +46061,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -42632,6 +46076,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q36_FAUX
 `@err_CR_V04_Q36 = 1`
 
@@ -42643,6 +46089,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q37
@@ -42674,6 +46122,8 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -42687,6 +46137,8 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q37_FAUX
 `@err_CR_V04_Q37 = 1`
 
@@ -42698,6 +46150,8 @@ Dans le hall de la mairie où vous accompagnez un ami pour une démarche, celui-
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q38
@@ -42729,6 +46183,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -42742,6 +46198,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q38_FAUX
 `@err_CR_V04_Q38 = 1`
 
@@ -42753,6 +46211,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q39
@@ -42784,6 +46244,8 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -42797,6 +46259,8 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q39_FAUX
 `@err_CR_V04_Q39 = 1`
 
@@ -42808,6 +46272,8 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_Q40
@@ -42839,6 +46305,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -42852,6 +46320,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V04_Q40_FAUX
 `@err_CR_V04_Q40 = 1`
 
@@ -42863,6 +46333,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V04_CORRIGE
@@ -43224,6 +46696,8 @@ La liberté d'expression est un droit fondamental, mais elle ne permet pas d'ins
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V04_RESULT
@@ -43692,6 +47166,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V05_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -43729,6 +47205,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q01
 `@err_CR_V05_Q01 = 0`
 
@@ -43758,6 +47236,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -43771,6 +47251,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q01_FAUX
 `@err_CR_V05_Q01 = 1`
 
@@ -43782,6 +47264,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q02
@@ -43811,6 +47295,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -43824,6 +47310,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q02_FAUX
 `@err_CR_V05_Q02 = 1`
 
@@ -43835,6 +47323,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q03
@@ -43864,6 +47354,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -43877,6 +47369,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q03_FAUX
 `@err_CR_V05_Q03 = 1`
 
@@ -43888,6 +47382,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q04
@@ -43917,6 +47413,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -43930,6 +47428,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q04_FAUX
 `@err_CR_V05_Q04 = 1`
 
@@ -43941,6 +47441,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q05
@@ -43970,6 +47472,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -43983,6 +47487,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q05_FAUX
 `@err_CR_V05_Q05 = 1`
 
@@ -43994,6 +47500,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q06
@@ -44023,6 +47531,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -44036,6 +47546,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q06_FAUX
 `@err_CR_V05_Q06 = 1`
 
@@ -44047,6 +47559,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q07
@@ -44076,6 +47590,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -44089,6 +47605,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q07_FAUX
 `@err_CR_V05_Q07 = 1`
 
@@ -44100,6 +47618,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q08
@@ -44129,6 +47649,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -44142,6 +47664,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q08_FAUX
 `@err_CR_V05_Q08 = 1`
 
@@ -44153,6 +47677,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q09
@@ -44182,6 +47708,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -44195,6 +47723,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q09_FAUX
 `@err_CR_V05_Q09 = 1`
 
@@ -44206,6 +47736,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q10
@@ -44235,6 +47767,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -44248,6 +47782,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q10_FAUX
 `@err_CR_V05_Q10 = 1`
 
@@ -44259,6 +47795,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q11
@@ -44288,6 +47826,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -44301,6 +47841,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q11_FAUX
 `@err_CR_V05_Q11 = 1`
 
@@ -44312,6 +47854,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q12
@@ -44341,6 +47885,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -44354,6 +47900,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q12_FAUX
 `@err_CR_V05_Q12 = 1`
 
@@ -44365,6 +47913,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q13
@@ -44394,6 +47944,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -44407,6 +47959,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q13_FAUX
 `@err_CR_V05_Q13 = 1`
 
@@ -44418,6 +47972,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q14
@@ -44447,6 +48003,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -44460,6 +48018,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q14_FAUX
 `@err_CR_V05_Q14 = 1`
 
@@ -44471,6 +48031,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q15
@@ -44500,6 +48062,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -44513,6 +48077,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q15_FAUX
 `@err_CR_V05_Q15 = 1`
 
@@ -44524,6 +48090,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q16
@@ -44553,6 +48121,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -44566,6 +48136,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q16_FAUX
 `@err_CR_V05_Q16 = 1`
 
@@ -44577,6 +48149,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q17
@@ -44606,6 +48180,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -44619,6 +48195,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q17_FAUX
 `@err_CR_V05_Q17 = 1`
 
@@ -44630,6 +48208,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q18
@@ -44659,6 +48239,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -44672,6 +48254,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q18_FAUX
 `@err_CR_V05_Q18 = 1`
 
@@ -44683,6 +48267,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q19
@@ -44712,6 +48298,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -44725,6 +48313,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q19_FAUX
 `@err_CR_V05_Q19 = 1`
 
@@ -44736,6 +48326,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q20
@@ -44765,6 +48357,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -44778,6 +48372,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q20_FAUX
 `@err_CR_V05_Q20 = 1`
 
@@ -44789,6 +48385,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q21
@@ -44818,6 +48416,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -44831,6 +48431,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q21_FAUX
 `@err_CR_V05_Q21 = 1`
 
@@ -44842,6 +48444,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q22
@@ -44871,6 +48475,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -44884,6 +48490,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q22_FAUX
 `@err_CR_V05_Q22 = 1`
 
@@ -44895,6 +48503,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q23
@@ -44924,6 +48534,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -44937,6 +48549,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q23_FAUX
 `@err_CR_V05_Q23 = 1`
 
@@ -44948,6 +48562,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q24
@@ -44977,6 +48593,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -44990,6 +48608,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q24_FAUX
 `@err_CR_V05_Q24 = 1`
 
@@ -45001,6 +48621,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q25
@@ -45030,6 +48652,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -45043,6 +48667,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q25_FAUX
 `@err_CR_V05_Q25 = 1`
 
@@ -45054,6 +48680,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q26
@@ -45083,6 +48711,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -45096,6 +48726,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q26_FAUX
 `@err_CR_V05_Q26 = 1`
 
@@ -45107,6 +48739,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q27
@@ -45136,6 +48770,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -45149,6 +48785,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q27_FAUX
 `@err_CR_V05_Q27 = 1`
 
@@ -45160,6 +48798,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q28
@@ -45189,6 +48829,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -45200,6 +48842,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q28_FAUX
@@ -45215,6 +48859,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -45226,6 +48872,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q29
@@ -45257,6 +48905,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -45270,6 +48920,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q29_FAUX
 `@err_CR_V05_Q29 = 1`
 
@@ -45281,6 +48933,8 @@ Un nouvel arrivant vous demande ce que la liberté individuelle lui permet réel
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q30
@@ -45312,6 +48966,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -45325,6 +48981,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q30_FAUX
 `@err_CR_V05_Q30 = 1`
 
@@ -45336,6 +48994,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q31
@@ -45367,6 +49027,8 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -45380,6 +49042,8 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q31_FAUX
 `@err_CR_V05_Q31 = 1`
 
@@ -45391,6 +49055,8 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q32
@@ -45422,6 +49088,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -45435,6 +49103,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q32_FAUX
 `@err_CR_V05_Q32 = 1`
 
@@ -45446,6 +49116,8 @@ Un ami se demande si un agent de la CAF a le droit de traiter les usagers diffé
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q33
@@ -45477,6 +49149,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -45490,6 +49164,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q33_FAUX
 `@err_CR_V05_Q33 = 1`
 
@@ -45501,6 +49177,8 @@ Une mère envisage d'inscrire sa fille au collège public en la laissant porter 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q34
@@ -45532,6 +49210,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -45545,6 +49225,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q34_FAUX
 `@err_CR_V05_Q34 = 1`
 
@@ -45556,6 +49238,8 @@ Un ami pense que seul l'État est responsable de la protection de l'environnemen
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q35
@@ -45587,6 +49271,8 @@ Un ami pense que l'État n'a jamais le droit de limiter une liberté individuell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -45600,6 +49286,8 @@ Un ami pense que l'État n'a jamais le droit de limiter une liberté individuell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q35_FAUX
 `@err_CR_V05_Q35 = 1`
 
@@ -45611,6 +49299,8 @@ Un ami pense que l'État n'a jamais le droit de limiter une liberté individuell
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q36
@@ -45642,6 +49332,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -45655,6 +49347,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q36_FAUX
 `@err_CR_V05_Q36 = 1`
 
@@ -45666,6 +49360,8 @@ Un ami confond plusieurs symboles français et affirme que la Marseillaise est s
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q37
@@ -45697,6 +49393,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -45710,6 +49408,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q37_FAUX
 `@err_CR_V05_Q37 = 1`
 
@@ -45721,6 +49421,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q38
@@ -45752,6 +49454,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -45765,6 +49469,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q38_FAUX
 `@err_CR_V05_Q38 = 1`
 
@@ -45776,6 +49482,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q39
@@ -45807,6 +49515,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -45820,6 +49530,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q39_FAUX
 `@err_CR_V05_Q39 = 1`
 
@@ -45831,6 +49543,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_Q40
@@ -45862,6 +49576,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -45875,6 +49591,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V05_Q40_FAUX
 `@err_CR_V05_Q40 = 1`
 
@@ -45886,6 +49604,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V05_CORRIGE
@@ -46247,6 +49967,8 @@ Une victime de violences ne doit pas rester seule. Elle peut contacter les force
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V05_RESULT
@@ -46724,6 +50446,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V06_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -46761,6 +50485,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q01
 `@err_CR_V06_Q01 = 0`
 
@@ -46790,6 +50516,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -46803,6 +50531,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q01_FAUX
 `@err_CR_V06_Q01 = 1`
 
@@ -46814,6 +50544,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q02
@@ -46843,6 +50575,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -46856,6 +50590,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q02_FAUX
 `@err_CR_V06_Q02 = 1`
 
@@ -46867,6 +50603,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q03
@@ -46896,6 +50634,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -46909,6 +50649,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q03_FAUX
 `@err_CR_V06_Q03 = 1`
 
@@ -46920,6 +50662,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q04
@@ -46949,6 +50693,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -46962,6 +50708,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q04_FAUX
 `@err_CR_V06_Q04 = 1`
 
@@ -46973,6 +50721,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q05
@@ -47002,6 +50752,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -47015,6 +50767,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q05_FAUX
 `@err_CR_V06_Q05 = 1`
 
@@ -47026,6 +50780,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q06
@@ -47055,6 +50811,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -47068,6 +50826,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q06_FAUX
 `@err_CR_V06_Q06 = 1`
 
@@ -47079,6 +50839,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q07
@@ -47108,6 +50870,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -47121,6 +50885,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q07_FAUX
 `@err_CR_V06_Q07 = 1`
 
@@ -47132,6 +50898,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q08
@@ -47161,6 +50929,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -47174,6 +50944,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q08_FAUX
 `@err_CR_V06_Q08 = 1`
 
@@ -47185,6 +50957,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q09
@@ -47214,6 +50988,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -47227,6 +51003,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q09_FAUX
 `@err_CR_V06_Q09 = 1`
 
@@ -47238,6 +51016,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q10
@@ -47267,6 +51047,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -47280,6 +51062,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q10_FAUX
 `@err_CR_V06_Q10 = 1`
 
@@ -47291,6 +51075,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q11
@@ -47320,6 +51106,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -47333,6 +51121,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q11_FAUX
 `@err_CR_V06_Q11 = 1`
 
@@ -47344,6 +51134,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q12
@@ -47373,6 +51165,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -47386,6 +51180,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q12_FAUX
 `@err_CR_V06_Q12 = 1`
 
@@ -47397,6 +51193,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q13
@@ -47426,6 +51224,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -47439,6 +51239,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q13_FAUX
 `@err_CR_V06_Q13 = 1`
 
@@ -47450,6 +51252,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q14
@@ -47479,6 +51283,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -47492,6 +51298,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q14_FAUX
 `@err_CR_V06_Q14 = 1`
 
@@ -47503,6 +51311,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q15
@@ -47532,6 +51342,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -47545,6 +51357,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q15_FAUX
 `@err_CR_V06_Q15 = 1`
 
@@ -47556,6 +51370,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q16
@@ -47585,6 +51401,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -47598,6 +51416,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q16_FAUX
 `@err_CR_V06_Q16 = 1`
 
@@ -47609,6 +51429,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q17
@@ -47638,6 +51460,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -47651,6 +51475,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q17_FAUX
 `@err_CR_V06_Q17 = 1`
 
@@ -47662,6 +51488,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q18
@@ -47691,6 +51519,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -47704,6 +51534,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q18_FAUX
 `@err_CR_V06_Q18 = 1`
 
@@ -47715,6 +51547,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q19
@@ -47744,6 +51578,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -47757,6 +51593,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q19_FAUX
 `@err_CR_V06_Q19 = 1`
 
@@ -47768,6 +51606,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q20
@@ -47797,6 +51637,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -47810,6 +51652,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q20_FAUX
 `@err_CR_V06_Q20 = 1`
 
@@ -47821,6 +51665,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q21
@@ -47850,6 +51696,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -47863,6 +51711,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q21_FAUX
 `@err_CR_V06_Q21 = 1`
 
@@ -47874,6 +51724,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q22
@@ -47903,6 +51755,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -47916,6 +51770,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q22_FAUX
 `@err_CR_V06_Q22 = 1`
 
@@ -47927,6 +51783,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q23
@@ -47956,6 +51814,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -47969,6 +51829,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q23_FAUX
 `@err_CR_V06_Q23 = 1`
 
@@ -47980,6 +51842,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q24
@@ -48009,6 +51873,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -48022,6 +51888,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q24_FAUX
 `@err_CR_V06_Q24 = 1`
 
@@ -48033,6 +51901,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q25
@@ -48062,6 +51932,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -48075,6 +51947,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q25_FAUX
 `@err_CR_V06_Q25 = 1`
 
@@ -48086,6 +51960,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q26
@@ -48115,6 +51991,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -48128,6 +52006,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q26_FAUX
 `@err_CR_V06_Q26 = 1`
 
@@ -48139,6 +52019,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q27
@@ -48168,6 +52050,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -48181,6 +52065,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q27_FAUX
 `@err_CR_V06_Q27 = 1`
 
@@ -48192,6 +52078,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q28
@@ -48221,6 +52109,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -48232,6 +52122,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q28_FAUX
@@ -48247,6 +52139,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -48258,6 +52152,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q29
@@ -48289,6 +52185,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -48302,6 +52200,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q29_FAUX
 `@err_CR_V06_Q29 = 1`
 
@@ -48313,6 +52213,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q30
@@ -48344,6 +52246,8 @@ Pendant votre préparation à l'examen civique, le formateur vous demande de com
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -48357,6 +52261,8 @@ Pendant votre préparation à l'examen civique, le formateur vous demande de com
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q30_FAUX
 `@err_CR_V06_Q30 = 1`
 
@@ -48368,6 +52274,8 @@ Pendant votre préparation à l'examen civique, le formateur vous demande de com
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q31
@@ -48399,6 +52307,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -48412,6 +52322,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q31_FAUX
 `@err_CR_V06_Q31 = 1`
 
@@ -48423,6 +52335,8 @@ Dans un débat citoyen, quelqu'un vous demande ce que garantit concrètement le 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q32
@@ -48454,6 +52368,8 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -48467,6 +52383,8 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q32_FAUX
 `@err_CR_V06_Q32 = 1`
 
@@ -48478,6 +52396,8 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q33
@@ -48509,6 +52429,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -48522,6 +52444,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q33_FAUX
 `@err_CR_V06_Q33 = 1`
 
@@ -48533,6 +52457,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q34
@@ -48564,6 +52490,8 @@ Une personne récemment installée en France envisage de changer de religion, ma
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -48577,6 +52505,8 @@ Une personne récemment installée en France envisage de changer de religion, ma
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q34_FAUX
 `@err_CR_V06_Q34 = 1`
 
@@ -48588,6 +52518,8 @@ Une personne récemment installée en France envisage de changer de religion, ma
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q35
@@ -48619,6 +52551,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -48632,6 +52566,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q35_FAUX
 `@err_CR_V06_Q35 = 1`
 
@@ -48643,6 +52579,8 @@ Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne n
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q36
@@ -48674,6 +52612,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -48687,6 +52627,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q36_FAUX
 `@err_CR_V06_Q36 = 1`
 
@@ -48698,6 +52640,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q37
@@ -48729,6 +52673,8 @@ Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -48742,6 +52688,8 @@ Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q37_FAUX
 `@err_CR_V06_Q37 = 1`
 
@@ -48753,6 +52701,8 @@ Lors d'un débat, quelqu'un affirme qu'en France, seules les femmes mariées peu
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q38
@@ -48784,6 +52734,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -48797,6 +52749,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q38_FAUX
 `@err_CR_V06_Q38 = 1`
 
@@ -48808,6 +52762,8 @@ Lors d'un cours de droit civique, on vous présente plusieurs infractions et vou
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q39
@@ -48839,6 +52795,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -48852,6 +52810,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q39_FAUX
 `@err_CR_V06_Q39 = 1`
 
@@ -48863,6 +52823,8 @@ Dans la rue, vous êtes témoin d'une scène de violence entre deux personnes.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_Q40
@@ -48894,6 +52856,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -48907,6 +52871,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V06_Q40_FAUX
 `@err_CR_V06_Q40 = 1`
 
@@ -48918,6 +52884,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V06_CORRIGE
@@ -49279,6 +53247,8 @@ La peine de mort a été abolie en France en 1981. Depuis 2007, son interdiction
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V06_RESULT
@@ -49756,6 +53726,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V07_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -49793,6 +53765,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q01
 `@err_CR_V07_Q01 = 0`
 
@@ -49822,6 +53796,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -49835,6 +53811,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q01_FAUX
 `@err_CR_V07_Q01 = 1`
 
@@ -49846,6 +53824,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q02
@@ -49875,6 +53855,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -49888,6 +53870,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q02_FAUX
 `@err_CR_V07_Q02 = 1`
 
@@ -49899,6 +53883,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q03
@@ -49928,6 +53914,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -49941,6 +53929,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q03_FAUX
 `@err_CR_V07_Q03 = 1`
 
@@ -49952,6 +53942,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q04
@@ -49981,6 +53973,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -49994,6 +53988,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q04_FAUX
 `@err_CR_V07_Q04 = 1`
 
@@ -50005,6 +54001,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q05
@@ -50034,6 +54032,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -50047,6 +54047,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q05_FAUX
 `@err_CR_V07_Q05 = 1`
 
@@ -50058,6 +54060,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q06
@@ -50087,6 +54091,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -50100,6 +54106,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q06_FAUX
 `@err_CR_V07_Q06 = 1`
 
@@ -50111,6 +54119,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q07
@@ -50140,6 +54150,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -50153,6 +54165,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q07_FAUX
 `@err_CR_V07_Q07 = 1`
 
@@ -50164,6 +54178,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q08
@@ -50193,6 +54209,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -50206,6 +54224,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q08_FAUX
 `@err_CR_V07_Q08 = 1`
 
@@ -50217,6 +54237,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q09
@@ -50246,6 +54268,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -50259,6 +54283,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q09_FAUX
 `@err_CR_V07_Q09 = 1`
 
@@ -50270,6 +54296,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q10
@@ -50299,6 +54327,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -50312,6 +54342,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q10_FAUX
 `@err_CR_V07_Q10 = 1`
 
@@ -50323,6 +54355,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q11
@@ -50352,6 +54386,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -50365,6 +54401,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q11_FAUX
 `@err_CR_V07_Q11 = 1`
 
@@ -50376,6 +54414,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q12
@@ -50405,6 +54445,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -50418,6 +54460,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q12_FAUX
 `@err_CR_V07_Q12 = 1`
 
@@ -50429,6 +54473,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q13
@@ -50458,6 +54504,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -50471,6 +54519,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q13_FAUX
 `@err_CR_V07_Q13 = 1`
 
@@ -50482,6 +54532,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q14
@@ -50511,6 +54563,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -50524,6 +54578,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q14_FAUX
 `@err_CR_V07_Q14 = 1`
 
@@ -50535,6 +54591,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q15
@@ -50564,6 +54622,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -50577,6 +54637,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q15_FAUX
 `@err_CR_V07_Q15 = 1`
 
@@ -50588,6 +54650,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q16
@@ -50617,6 +54681,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -50630,6 +54696,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q16_FAUX
 `@err_CR_V07_Q16 = 1`
 
@@ -50641,6 +54709,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q17
@@ -50670,6 +54740,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -50683,6 +54755,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q17_FAUX
 `@err_CR_V07_Q17 = 1`
 
@@ -50694,6 +54768,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q18
@@ -50723,6 +54799,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -50736,6 +54814,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q18_FAUX
 `@err_CR_V07_Q18 = 1`
 
@@ -50747,6 +54827,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q19
@@ -50776,6 +54858,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -50789,6 +54873,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q19_FAUX
 `@err_CR_V07_Q19 = 1`
 
@@ -50800,6 +54886,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q20
@@ -50829,6 +54917,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -50842,6 +54932,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q20_FAUX
 `@err_CR_V07_Q20 = 1`
 
@@ -50853,6 +54945,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q21
@@ -50882,6 +54976,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -50895,6 +54991,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q21_FAUX
 `@err_CR_V07_Q21 = 1`
 
@@ -50906,6 +55004,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q22
@@ -50935,6 +55035,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -50948,6 +55050,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q22_FAUX
 `@err_CR_V07_Q22 = 1`
 
@@ -50959,6 +55063,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q23
@@ -50988,6 +55094,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -51001,6 +55109,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q23_FAUX
 `@err_CR_V07_Q23 = 1`
 
@@ -51012,6 +55122,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q24
@@ -51041,6 +55153,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -51054,6 +55168,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q24_FAUX
 `@err_CR_V07_Q24 = 1`
 
@@ -51065,6 +55181,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q25
@@ -51094,6 +55212,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -51107,6 +55227,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q25_FAUX
 `@err_CR_V07_Q25 = 1`
 
@@ -51118,6 +55240,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q26
@@ -51147,6 +55271,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -51160,6 +55286,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q26_FAUX
 `@err_CR_V07_Q26 = 1`
 
@@ -51171,6 +55299,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q27
@@ -51200,6 +55330,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -51213,6 +55345,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q27_FAUX
 `@err_CR_V07_Q27 = 1`
 
@@ -51224,6 +55358,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q28
@@ -51253,6 +55389,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -51264,6 +55402,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q28_FAUX
@@ -51279,6 +55419,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -51290,6 +55432,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q29
@@ -51321,6 +55465,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -51334,6 +55480,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q29_FAUX
 `@err_CR_V07_Q29 = 1`
 
@@ -51345,6 +55493,8 @@ Un homme vous explique que, dans son pays d'origine, il pouvait répudier son é
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q30
@@ -51376,6 +55526,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -51389,6 +55541,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q30_FAUX
 `@err_CR_V07_Q30 = 1`
 
@@ -51400,6 +55554,8 @@ Lors d'une cérémonie officielle, tout le monde se lève pour chanter la Marsei
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q31
@@ -51431,6 +55587,8 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -51444,6 +55602,8 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q31_FAUX
 `@err_CR_V07_Q31 = 1`
 
@@ -51455,6 +55615,8 @@ Un ami pense qu'une femme a besoin de l'accord de son conjoint ou de sa famille 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q32
@@ -51486,6 +55648,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -51499,6 +55663,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q32_FAUX
 `@err_CR_V07_Q32 = 1`
 
@@ -51510,6 +55676,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q33
@@ -51541,6 +55709,8 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -51554,6 +55724,8 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q33_FAUX
 `@err_CR_V07_Q33 = 1`
 
@@ -51565,6 +55737,8 @@ Dans un vestiaire, un collègue se moque ouvertement d'une personne en situation
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q34
@@ -51596,6 +55770,8 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -51609,6 +55785,8 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q34_FAUX
 `@err_CR_V07_Q34 = 1`
 
@@ -51620,6 +55798,8 @@ Un adolescent vous affirme : « La liberté, ça veut dire faire absolument tout
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q35
@@ -51651,6 +55831,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -51664,6 +55846,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q35_FAUX
 `@err_CR_V07_Q35 = 1`
 
@@ -51675,6 +55859,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q36
@@ -51706,6 +55892,8 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -51719,6 +55907,8 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q36_FAUX
 `@err_CR_V07_Q36 = 1`
 
@@ -51730,6 +55920,8 @@ On vous demande, lors d'un entretien, de résumer en une phrase ce que garantit 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q37
@@ -51761,6 +55953,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -51774,6 +55968,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q37_FAUX
 `@err_CR_V07_Q37 = 1`
 
@@ -51785,6 +55981,8 @@ Un ami vous parle d'un couple ayant eu recours à la PMA (procréation médicale
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q38
@@ -51816,6 +56014,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -51829,6 +56029,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q38_FAUX
 `@err_CR_V07_Q38 = 1`
 
@@ -51840,6 +56042,8 @@ Un ami pense que le droit de manifester lui permet de faire ce qu'il veut dans l
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q39
@@ -51871,6 +56075,8 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -51884,6 +56090,8 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q39_FAUX
 `@err_CR_V07_Q39 = 1`
 
@@ -51895,6 +56103,8 @@ Sur les réseaux sociaux, une connaissance affirme qu'elle peut écrire absolume
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_Q40
@@ -51926,6 +56136,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -51939,6 +56151,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V07_Q40_FAUX
 `@err_CR_V07_Q40 = 1`
 
@@ -51950,6 +56164,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V07_CORRIGE
@@ -52311,6 +56527,8 @@ La peine de mort a été abolie en France en 1981. Depuis 2007, son interdiction
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V07_RESULT
@@ -52788,6 +57006,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V08_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -52823,6 +57043,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q01
 `@err_CR_V08_Q01 = 0`
 
@@ -52852,6 +57074,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -52865,6 +57089,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q01_FAUX
 `@err_CR_V08_Q01 = 1`
 
@@ -52876,6 +57102,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q02
@@ -52905,6 +57133,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -52918,6 +57148,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q02_FAUX
 `@err_CR_V08_Q02 = 1`
 
@@ -52929,6 +57161,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q03
@@ -52958,6 +57192,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -52971,6 +57207,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q03_FAUX
 `@err_CR_V08_Q03 = 1`
 
@@ -52982,6 +57220,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q04
@@ -53011,6 +57251,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -53024,6 +57266,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q04_FAUX
 `@err_CR_V08_Q04 = 1`
 
@@ -53035,6 +57279,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q05
@@ -53064,6 +57310,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -53077,6 +57325,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q05_FAUX
 `@err_CR_V08_Q05 = 1`
 
@@ -53088,6 +57338,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q06
@@ -53117,6 +57369,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -53130,6 +57384,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q06_FAUX
 `@err_CR_V08_Q06 = 1`
 
@@ -53141,6 +57397,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q07
@@ -53170,6 +57428,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -53183,6 +57443,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q07_FAUX
 `@err_CR_V08_Q07 = 1`
 
@@ -53194,6 +57456,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q08
@@ -53223,6 +57487,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -53236,6 +57502,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q08_FAUX
 `@err_CR_V08_Q08 = 1`
 
@@ -53247,6 +57515,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q09
@@ -53276,6 +57546,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -53289,6 +57561,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q09_FAUX
 `@err_CR_V08_Q09 = 1`
 
@@ -53300,6 +57574,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q10
@@ -53329,6 +57605,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -53342,6 +57620,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q10_FAUX
 `@err_CR_V08_Q10 = 1`
 
@@ -53353,6 +57633,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q11
@@ -53382,6 +57664,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -53395,6 +57679,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q11_FAUX
 `@err_CR_V08_Q11 = 1`
 
@@ -53406,6 +57692,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q12
@@ -53435,6 +57723,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -53448,6 +57738,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q12_FAUX
 `@err_CR_V08_Q12 = 1`
 
@@ -53459,6 +57751,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q13
@@ -53488,6 +57782,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -53501,6 +57797,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q13_FAUX
 `@err_CR_V08_Q13 = 1`
 
@@ -53512,6 +57810,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q14
@@ -53541,6 +57841,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -53554,6 +57856,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q14_FAUX
 `@err_CR_V08_Q14 = 1`
 
@@ -53565,6 +57869,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q15
@@ -53594,6 +57900,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -53607,6 +57915,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q15_FAUX
 `@err_CR_V08_Q15 = 1`
 
@@ -53618,6 +57928,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q16
@@ -53647,6 +57959,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -53660,6 +57974,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q16_FAUX
 `@err_CR_V08_Q16 = 1`
 
@@ -53671,6 +57987,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q17
@@ -53700,6 +58018,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -53713,6 +58033,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q17_FAUX
 `@err_CR_V08_Q17 = 1`
 
@@ -53724,6 +58046,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q18
@@ -53753,6 +58077,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -53766,6 +58092,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q18_FAUX
 `@err_CR_V08_Q18 = 1`
 
@@ -53777,6 +58105,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q19
@@ -53806,6 +58136,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -53819,6 +58151,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q19_FAUX
 `@err_CR_V08_Q19 = 1`
 
@@ -53830,6 +58164,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q20
@@ -53859,6 +58195,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -53872,6 +58210,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q20_FAUX
 `@err_CR_V08_Q20 = 1`
 
@@ -53883,6 +58223,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q21
@@ -53912,6 +58254,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -53925,6 +58269,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q21_FAUX
 `@err_CR_V08_Q21 = 1`
 
@@ -53936,6 +58282,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q22
@@ -53965,6 +58313,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -53978,6 +58328,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q22_FAUX
 `@err_CR_V08_Q22 = 1`
 
@@ -53989,6 +58341,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q23
@@ -54018,6 +58372,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -54031,6 +58387,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q23_FAUX
 `@err_CR_V08_Q23 = 1`
 
@@ -54042,6 +58400,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q24
@@ -54071,6 +58431,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -54084,6 +58446,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q24_FAUX
 `@err_CR_V08_Q24 = 1`
 
@@ -54095,6 +58459,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q25
@@ -54124,6 +58490,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -54137,6 +58505,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q25_FAUX
 `@err_CR_V08_Q25 = 1`
 
@@ -54148,6 +58518,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q26
@@ -54177,6 +58549,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -54190,6 +58564,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q26_FAUX
 `@err_CR_V08_Q26 = 1`
 
@@ -54201,6 +58577,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q27
@@ -54230,6 +58608,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -54243,6 +58623,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q27_FAUX
 `@err_CR_V08_Q27 = 1`
 
@@ -54254,6 +58636,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q28
@@ -54283,6 +58667,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -54294,6 +58680,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q28_FAUX
@@ -54309,6 +58697,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -54320,6 +58710,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q29
@@ -54351,6 +58743,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -54364,6 +58758,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q29_FAUX
 `@err_CR_V08_Q29 = 1`
 
@@ -54375,6 +58771,8 @@ Vous emménagez dans un nouveau quartier et souhaitez adopter une attitude respe
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q30
@@ -54406,6 +58804,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -54419,6 +58819,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q30_FAUX
 `@err_CR_V08_Q30 = 1`
 
@@ -54430,6 +58832,8 @@ Lors d'un débat sur un fait divers grave, un participant pense que la peine de 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q31
@@ -54461,6 +58865,8 @@ Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -54474,6 +58880,8 @@ Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q31_FAUX
 `@err_CR_V08_Q31 = 1`
 
@@ -54485,6 +58893,8 @@ Vous êtes parent d'élève et vous n'êtes pas à l'aise à l'idée que votre e
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q32
@@ -54516,6 +58926,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -54529,6 +58941,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q32_FAUX
 `@err_CR_V08_Q32 = 1`
 
@@ -54540,6 +58954,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q33
@@ -54571,6 +58987,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -54584,6 +59002,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q33_FAUX
 `@err_CR_V08_Q33 = 1`
 
@@ -54595,6 +59015,8 @@ Lors d'un examen blanc, on vous demande de définir précisément ce que représ
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q34
@@ -54626,6 +59048,8 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -54639,6 +59063,8 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q34_FAUX
 `@err_CR_V08_Q34 = 1`
 
@@ -54650,6 +59076,8 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q35
@@ -54681,6 +59109,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -54694,6 +59124,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q35_FAUX
 `@err_CR_V08_Q35 = 1`
 
@@ -54705,6 +59137,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q36
@@ -54736,6 +59170,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -54749,6 +59185,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q36_FAUX
 `@err_CR_V08_Q36 = 1`
 
@@ -54760,6 +59198,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q37
@@ -54791,6 +59231,8 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -54804,6 +59246,8 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q37_FAUX
 `@err_CR_V08_Q37 = 1`
 
@@ -54815,6 +59259,8 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q38
@@ -54846,6 +59292,8 @@ Lors d'une manifestation, certains participants brûlent un drapeau français de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -54859,6 +59307,8 @@ Lors d'une manifestation, certains participants brûlent un drapeau français de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q38_FAUX
 `@err_CR_V08_Q38 = 1`
 
@@ -54870,6 +59320,8 @@ Lors d'une manifestation, certains participants brûlent un drapeau français de
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q39
@@ -54901,6 +59353,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -54914,6 +59368,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q39_FAUX
 `@err_CR_V08_Q39 = 1`
 
@@ -54925,6 +59381,8 @@ Un parent d'élève s'interroge sur l'utilité de la laïcité à l'école et pe
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_Q40
@@ -54956,6 +59414,8 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -54969,6 +59429,8 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V08_Q40_FAUX
 `@err_CR_V08_Q40 = 1`
 
@@ -54980,6 +59442,8 @@ Un ami confond le rôle de la police avec celui du Gouvernement ou des juges.
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V08_CORRIGE
@@ -55341,6 +59805,8 @@ La police assure la sécurité des personnes et des biens, fait respecter la loi
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V08_RESULT
@@ -55800,6 +60266,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V09_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -55836,6 +60304,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q01
 `@err_CR_V09_Q01 = 0`
 
@@ -55863,6 +60333,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -55876,6 +60348,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q01_FAUX
 `@err_CR_V09_Q01 = 1`
 
@@ -55887,6 +60361,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q02
@@ -55916,6 +60392,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -55929,6 +60407,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q02_FAUX
 `@err_CR_V09_Q02 = 1`
 
@@ -55940,6 +60420,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q03
@@ -55969,6 +60451,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -55982,6 +60466,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q03_FAUX
 `@err_CR_V09_Q03 = 1`
 
@@ -55993,6 +60479,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q04
@@ -56022,6 +60510,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -56035,6 +60525,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q04_FAUX
 `@err_CR_V09_Q04 = 1`
 
@@ -56046,6 +60538,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q05
@@ -56075,6 +60569,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -56088,6 +60584,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q05_FAUX
 `@err_CR_V09_Q05 = 1`
 
@@ -56099,6 +60597,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q06
@@ -56128,6 +60628,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -56141,6 +60643,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q06_FAUX
 `@err_CR_V09_Q06 = 1`
 
@@ -56152,6 +60656,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q07
@@ -56181,6 +60687,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -56194,6 +60702,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q07_FAUX
 `@err_CR_V09_Q07 = 1`
 
@@ -56205,6 +60715,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q08
@@ -56234,6 +60746,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -56247,6 +60761,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q08_FAUX
 `@err_CR_V09_Q08 = 1`
 
@@ -56258,6 +60774,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q09
@@ -56287,6 +60805,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -56300,6 +60820,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q09_FAUX
 `@err_CR_V09_Q09 = 1`
 
@@ -56311,6 +60833,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q10
@@ -56340,6 +60864,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -56353,6 +60879,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q10_FAUX
 `@err_CR_V09_Q10 = 1`
 
@@ -56364,6 +60892,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q11
@@ -56393,6 +60923,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -56406,6 +60938,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q11_FAUX
 `@err_CR_V09_Q11 = 1`
 
@@ -56417,6 +60951,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q12
@@ -56446,6 +60982,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -56459,6 +60997,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q12_FAUX
 `@err_CR_V09_Q12 = 1`
 
@@ -56470,6 +61010,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q13
@@ -56499,6 +61041,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -56512,6 +61056,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q13_FAUX
 `@err_CR_V09_Q13 = 1`
 
@@ -56523,6 +61069,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q14
@@ -56552,6 +61100,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -56565,6 +61115,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q14_FAUX
 `@err_CR_V09_Q14 = 1`
 
@@ -56576,6 +61128,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q15
@@ -56605,6 +61159,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -56618,6 +61174,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q15_FAUX
 `@err_CR_V09_Q15 = 1`
 
@@ -56629,6 +61187,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q16
@@ -56658,6 +61218,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -56671,6 +61233,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q16_FAUX
 `@err_CR_V09_Q16 = 1`
 
@@ -56682,6 +61246,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q17
@@ -56711,6 +61277,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -56724,6 +61292,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q17_FAUX
 `@err_CR_V09_Q17 = 1`
 
@@ -56735,6 +61305,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q18
@@ -56764,6 +61336,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -56777,6 +61351,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q18_FAUX
 `@err_CR_V09_Q18 = 1`
 
@@ -56788,6 +61364,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q19
@@ -56817,6 +61395,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -56830,6 +61410,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q19_FAUX
 `@err_CR_V09_Q19 = 1`
 
@@ -56841,6 +61423,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q20
@@ -56870,6 +61454,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -56883,6 +61469,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q20_FAUX
 `@err_CR_V09_Q20 = 1`
 
@@ -56894,6 +61482,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q21
@@ -56923,6 +61513,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -56936,6 +61528,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q21_FAUX
 `@err_CR_V09_Q21 = 1`
 
@@ -56947,6 +61541,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q22
@@ -56976,6 +61572,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -56989,6 +61587,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q22_FAUX
 `@err_CR_V09_Q22 = 1`
 
@@ -57000,6 +61600,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q23
@@ -57029,6 +61631,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -57042,6 +61646,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q23_FAUX
 `@err_CR_V09_Q23 = 1`
 
@@ -57053,6 +61659,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q24
@@ -57082,6 +61690,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -57095,6 +61705,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q24_FAUX
 `@err_CR_V09_Q24 = 1`
 
@@ -57106,6 +61718,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q25
@@ -57135,6 +61749,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -57148,6 +61764,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q25_FAUX
 `@err_CR_V09_Q25 = 1`
 
@@ -57159,6 +61777,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q26
@@ -57188,6 +61808,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -57201,6 +61823,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q26_FAUX
 `@err_CR_V09_Q26 = 1`
 
@@ -57212,6 +61836,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q27
@@ -57241,6 +61867,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -57254,6 +61882,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q27_FAUX
 `@err_CR_V09_Q27 = 1`
 
@@ -57265,6 +61895,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q28
@@ -57294,6 +61926,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -57305,6 +61939,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q28_FAUX
@@ -57320,6 +61956,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -57331,6 +61969,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q29
@@ -57364,6 +62004,8 @@ Un ami pense qu'une simple loi votée par le Parlement est aussi difficile à mo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -57377,6 +62019,8 @@ Un ami pense qu'une simple loi votée par le Parlement est aussi difficile à mo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q29_FAUX
 `@err_CR_V09_Q29 = 1`
 
@@ -57388,6 +62032,8 @@ Un ami pense qu'une simple loi votée par le Parlement est aussi difficile à mo
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q30
@@ -57419,6 +62065,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -57432,6 +62080,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q30_FAUX
 `@err_CR_V09_Q30 = 1`
 
@@ -57443,6 +62093,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q31
@@ -57474,6 +62126,8 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -57487,6 +62141,8 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q31_FAUX
 `@err_CR_V09_Q31 = 1`
 
@@ -57498,6 +62154,8 @@ Un voisin souhaite créer une association de quartier pour organiser des événe
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q32
@@ -57529,6 +62187,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -57542,6 +62202,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q32_FAUX
 `@err_CR_V09_Q32 = 1`
 
@@ -57553,6 +62215,8 @@ Une amie vous confie avoir été victime de violences de la part de son conjoint
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q33
@@ -57584,6 +62248,8 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -57597,6 +62263,8 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q33_FAUX
 `@err_CR_V09_Q33 = 1`
 
@@ -57608,6 +62276,8 @@ Un ami confond la Constitution avec un simple règlement intérieur de mairie et
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q34
@@ -57639,6 +62309,8 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -57652,6 +62324,8 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q34_FAUX
 `@err_CR_V09_Q34 = 1`
 
@@ -57663,6 +62337,8 @@ Lors d'une révision sur les textes fondateurs, le formateur vous demande de ret
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q35
@@ -57694,6 +62370,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -57707,6 +62385,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q35_FAUX
 `@err_CR_V09_Q35 = 1`
 
@@ -57718,6 +62398,8 @@ Lors d'une discussion sur la santé, un ami entend le sigle « PMA » sans en co
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q36
@@ -57749,6 +62431,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -57762,6 +62446,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q36_FAUX
 `@err_CR_V09_Q36 = 1`
 
@@ -57773,6 +62459,8 @@ Lors d'un cours de préparation civique, le formateur demande aux participants d
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q37
@@ -57804,6 +62492,8 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -57817,6 +62507,8 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q37_FAUX
 `@err_CR_V09_Q37 = 1`
 
@@ -57828,6 +62520,8 @@ Un ami pense que la liberté de circulation lui permet de camper où il veut en 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q38
@@ -57859,6 +62553,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -57872,6 +62568,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q38_FAUX
 `@err_CR_V09_Q38 = 1`
 
@@ -57883,6 +62581,8 @@ On vous demande de nommer la liberté qui permet à une personne de croire en la
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q39
@@ -57914,6 +62614,8 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -57927,6 +62629,8 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q39_FAUX
 `@err_CR_V09_Q39 = 1`
 
@@ -57938,6 +62642,8 @@ Un ami pense qu'être un citoyen actif se résume à avoir des papiers en règle
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_Q40
@@ -57969,6 +62675,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -57982,6 +62690,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V09_Q40_FAUX
 `@err_CR_V09_Q40 = 1`
 
@@ -57993,6 +62703,8 @@ Un usager s'étonne qu'un agent de préfecture ne porte aucun signe religieux vi
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V09_CORRIGE
@@ -58354,6 +63066,8 @@ La neutralité de l'État garantit que les services publics traitent toutes les 
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V09_RESULT
@@ -58822,6 +63536,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_CR_V10_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -58857,6 +63573,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q01
 `@err_CR_V10_Q01 = 0`
 
@@ -58886,6 +63604,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -58899,6 +63619,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q01_FAUX
 `@err_CR_V10_Q01 = 1`
 
@@ -58910,6 +63632,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q02
@@ -58939,6 +63663,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -58952,6 +63678,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q02_FAUX
 `@err_CR_V10_Q02 = 1`
 
@@ -58963,6 +63691,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q03
@@ -58992,6 +63722,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -59005,6 +63737,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q03_FAUX
 `@err_CR_V10_Q03 = 1`
 
@@ -59016,6 +63750,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q04
@@ -59045,6 +63781,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -59058,6 +63796,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q04_FAUX
 `@err_CR_V10_Q04 = 1`
 
@@ -59069,6 +63809,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q05
@@ -59098,6 +63840,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -59111,6 +63855,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q05_FAUX
 `@err_CR_V10_Q05 = 1`
 
@@ -59122,6 +63868,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q06
@@ -59151,6 +63899,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -59164,6 +63914,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q06_FAUX
 `@err_CR_V10_Q06 = 1`
 
@@ -59175,6 +63927,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q07
@@ -59204,6 +63958,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -59217,6 +63973,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q07_FAUX
 `@err_CR_V10_Q07 = 1`
 
@@ -59228,6 +63986,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q08
@@ -59257,6 +64017,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -59270,6 +64032,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q08_FAUX
 `@err_CR_V10_Q08 = 1`
 
@@ -59281,6 +64045,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q09
@@ -59310,6 +64076,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -59323,6 +64091,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q09_FAUX
 `@err_CR_V10_Q09 = 1`
 
@@ -59334,6 +64104,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q10
@@ -59363,6 +64135,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -59376,6 +64150,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q10_FAUX
 `@err_CR_V10_Q10 = 1`
 
@@ -59387,6 +64163,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q11
@@ -59416,6 +64194,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -59429,6 +64209,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q11_FAUX
 `@err_CR_V10_Q11 = 1`
 
@@ -59440,6 +64222,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q12
@@ -59469,6 +64253,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -59482,6 +64268,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q12_FAUX
 `@err_CR_V10_Q12 = 1`
 
@@ -59493,6 +64281,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q13
@@ -59522,6 +64312,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -59535,6 +64327,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q13_FAUX
 `@err_CR_V10_Q13 = 1`
 
@@ -59546,6 +64340,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q14
@@ -59575,6 +64371,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -59588,6 +64386,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q14_FAUX
 `@err_CR_V10_Q14 = 1`
 
@@ -59599,6 +64399,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q15
@@ -59628,6 +64430,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -59641,6 +64445,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q15_FAUX
 `@err_CR_V10_Q15 = 1`
 
@@ -59652,6 +64458,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q16
@@ -59681,6 +64489,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -59694,6 +64504,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q16_FAUX
 `@err_CR_V10_Q16 = 1`
 
@@ -59705,6 +64517,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q17
@@ -59734,6 +64548,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -59747,6 +64563,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q17_FAUX
 `@err_CR_V10_Q17 = 1`
 
@@ -59758,6 +64576,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q18
@@ -59787,6 +64607,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -59800,6 +64622,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q18_FAUX
 `@err_CR_V10_Q18 = 1`
 
@@ -59811,6 +64635,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q19
@@ -59840,6 +64666,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -59853,6 +64681,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q19_FAUX
 `@err_CR_V10_Q19 = 1`
 
@@ -59864,6 +64694,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q20
@@ -59893,6 +64725,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -59906,6 +64740,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q20_FAUX
 `@err_CR_V10_Q20 = 1`
 
@@ -59917,6 +64753,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q21
@@ -59946,6 +64784,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -59959,6 +64799,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q21_FAUX
 `@err_CR_V10_Q21 = 1`
 
@@ -59970,6 +64812,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q22
@@ -59999,6 +64843,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -60012,6 +64858,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q22_FAUX
 `@err_CR_V10_Q22 = 1`
 
@@ -60023,6 +64871,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q23
@@ -60052,6 +64902,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -60065,6 +64917,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q23_FAUX
 `@err_CR_V10_Q23 = 1`
 
@@ -60076,6 +64930,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q24
@@ -60105,6 +64961,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -60118,6 +64976,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q24_FAUX
 `@err_CR_V10_Q24 = 1`
 
@@ -60129,6 +64989,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q25
@@ -60158,6 +65020,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -60171,6 +65035,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q25_FAUX
 `@err_CR_V10_Q25 = 1`
 
@@ -60182,6 +65048,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q26
@@ -60211,6 +65079,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -60224,6 +65094,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q26_FAUX
 `@err_CR_V10_Q26 = 1`
 
@@ -60235,6 +65107,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q27
@@ -60264,6 +65138,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -60277,6 +65153,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q27_FAUX
 `@err_CR_V10_Q27 = 1`
 
@@ -60288,6 +65166,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q28
@@ -60317,6 +65197,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -60328,6 +65210,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q28_FAUX
@@ -60343,6 +65227,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -60354,6 +65240,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q29
@@ -60385,6 +65273,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -60398,6 +65288,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q29_FAUX
 `@err_CR_V10_Q29 = 1`
 
@@ -60409,6 +65301,8 @@ Vous préparez un exposé sur les symboles de la République et cherchez un site
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q30
@@ -60440,6 +65334,8 @@ Un usager demande à être reçu avant tout le monde au guichet de la mairie, en
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -60453,6 +65349,8 @@ Un usager demande à être reçu avant tout le monde au guichet de la mairie, en
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q30_FAUX
 `@err_CR_V10_Q30 = 1`
 
@@ -60464,6 +65362,8 @@ Un usager demande à être reçu avant tout le monde au guichet de la mairie, en
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q31
@@ -60495,6 +65395,8 @@ Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -60508,6 +65410,8 @@ Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q31_FAUX
 `@err_CR_V10_Q31 = 1`
 
@@ -60519,6 +65423,8 @@ Pour décorer l'accueil de votre organisme de formation, vous souhaitez choisir 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q32
@@ -60550,6 +65456,8 @@ Un chef d'entreprise vous confie qu'il préfère ne pas embaucher de femmes dans
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -60563,6 +65471,8 @@ Un chef d'entreprise vous confie qu'il préfère ne pas embaucher de femmes dans
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q32_FAUX
 `@err_CR_V10_Q32 = 1`
 
@@ -60574,6 +65484,8 @@ Un chef d'entreprise vous confie qu'il préfère ne pas embaucher de femmes dans
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q33
@@ -60605,6 +65517,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -60618,6 +65532,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q33_FAUX
 `@err_CR_V10_Q33 = 1`
 
@@ -60629,6 +65545,8 @@ Un couple marié religieusement dans son pays d'origine pense qu'il ne peut pas 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q34
@@ -60660,6 +65578,8 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -60673,6 +65593,8 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q34_FAUX
 `@err_CR_V10_Q34 = 1`
 
@@ -60684,6 +65606,8 @@ Un ami pense qu'il peut tenir n'importe quels propos sur les réseaux sociaux, c
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q35
@@ -60715,6 +65639,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -60728,6 +65654,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q35_FAUX
 `@err_CR_V10_Q35 = 1`
 
@@ -60739,6 +65667,8 @@ Lors d'une visite guidée, le guide évoque la loi qui a instauré la séparatio
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q36
@@ -60770,6 +65700,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -60783,6 +65715,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q36_FAUX
 `@err_CR_V10_Q36 = 1`
 
@@ -60794,6 +65728,8 @@ Un ami pense que ses propos publiés en ligne ne peuvent jamais être sanctionn�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q37
@@ -60825,6 +65761,8 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -60838,6 +65776,8 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q37_FAUX
 `@err_CR_V10_Q37 = 1`
 
@@ -60849,6 +65789,8 @@ Lors d'un contrôle routier, un ami envisage d'ignorer les instructions du genda
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q38
@@ -60880,6 +65822,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -60893,6 +65837,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q38_FAUX
 `@err_CR_V10_Q38 = 1`
 
@@ -60904,6 +65850,8 @@ Une collègue vous demande si elle peut pratiquer sa religion librement en Franc
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q39
@@ -60935,6 +65883,8 @@ On vous demande de définir en une phrase ce qu'est la Constitution, pour un exp
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -60948,6 +65898,8 @@ On vous demande de définir en une phrase ce qu'est la Constitution, pour un exp
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q39_FAUX
 `@err_CR_V10_Q39 = 1`
 
@@ -60959,6 +65911,8 @@ On vous demande de définir en une phrase ce qu'est la Constitution, pour un exp
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_Q40
@@ -60990,6 +65944,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -61003,6 +65959,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_CR_V10_Q40_FAUX
 `@err_CR_V10_Q40 = 1`
 
@@ -61014,6 +65972,8 @@ Un ami trouve injuste que la loi interdise de conduire après avoir bu de l'alco
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_CR_V10_CORRIGE
@@ -61375,6 +66335,8 @@ Certaines libertés peuvent être limitées pour protéger l'intérêt général
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_CR_V10_RESULT
@@ -61834,6 +66796,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V01_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -61875,6 +66839,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q01
 `@err_NAT_V01_Q01 = 0`
 `@exam_variant = 1`
@@ -61906,6 +66872,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -61919,6 +66887,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q01_FAUX
 `@err_NAT_V01_Q01 = 1`
 
@@ -61930,6 +66900,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q02
@@ -61961,6 +66933,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -61974,6 +66948,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q02_FAUX
 `@err_NAT_V01_Q02 = 1`
 
@@ -61985,6 +66961,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q03
@@ -62016,6 +66994,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -62029,6 +67009,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q03_FAUX
 `@err_NAT_V01_Q03 = 1`
 
@@ -62040,6 +67022,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q04
@@ -62071,6 +67055,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -62084,6 +67070,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q04_FAUX
 `@err_NAT_V01_Q04 = 1`
 
@@ -62095,6 +67083,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q05
@@ -62126,6 +67116,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -62139,6 +67131,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q05_FAUX
 `@err_NAT_V01_Q05 = 1`
 
@@ -62150,6 +67144,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q06
@@ -62181,6 +67177,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -62194,6 +67192,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q06_FAUX
 `@err_NAT_V01_Q06 = 1`
 
@@ -62205,6 +67205,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q07
@@ -62236,6 +67238,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -62249,6 +67253,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q07_FAUX
 `@err_NAT_V01_Q07 = 1`
 
@@ -62260,6 +67266,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q08
@@ -62291,6 +67299,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -62304,6 +67314,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q08_FAUX
 `@err_NAT_V01_Q08 = 1`
 
@@ -62315,6 +67327,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q09
@@ -62346,6 +67360,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -62359,6 +67375,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q09_FAUX
 `@err_NAT_V01_Q09 = 1`
 
@@ -62370,6 +67388,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q10
@@ -62401,6 +67421,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -62414,6 +67436,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q10_FAUX
 `@err_NAT_V01_Q10 = 1`
 
@@ -62425,6 +67449,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q11
@@ -62456,6 +67482,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -62469,6 +67497,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q11_FAUX
 `@err_NAT_V01_Q11 = 1`
 
@@ -62480,6 +67510,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q12
@@ -62511,6 +67543,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -62524,6 +67558,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q12_FAUX
 `@err_NAT_V01_Q12 = 1`
 
@@ -62535,6 +67571,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q13
@@ -62566,6 +67604,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -62579,6 +67619,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q13_FAUX
 `@err_NAT_V01_Q13 = 1`
 
@@ -62590,6 +67632,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q14
@@ -62621,6 +67665,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -62634,6 +67680,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q14_FAUX
 `@err_NAT_V01_Q14 = 1`
 
@@ -62645,6 +67693,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q15
@@ -62676,6 +67726,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -62689,6 +67741,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q15_FAUX
 `@err_NAT_V01_Q15 = 1`
 
@@ -62700,6 +67754,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q16
@@ -62731,6 +67787,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -62744,6 +67802,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q16_FAUX
 `@err_NAT_V01_Q16 = 1`
 
@@ -62755,6 +67815,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q17
@@ -62786,6 +67848,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -62799,6 +67863,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q17_FAUX
 `@err_NAT_V01_Q17 = 1`
 
@@ -62810,6 +67876,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q18
@@ -62841,6 +67909,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -62854,6 +67924,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q18_FAUX
 `@err_NAT_V01_Q18 = 1`
 
@@ -62865,6 +67937,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q19
@@ -62896,6 +67970,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -62909,6 +67985,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q19_FAUX
 `@err_NAT_V01_Q19 = 1`
 
@@ -62920,6 +67998,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q20
@@ -62951,6 +68031,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -62964,6 +68046,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q20_FAUX
 `@err_NAT_V01_Q20 = 1`
 
@@ -62975,6 +68059,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q21
@@ -63006,6 +68092,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -63019,6 +68107,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q21_FAUX
 `@err_NAT_V01_Q21 = 1`
 
@@ -63030,6 +68120,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q22
@@ -63061,6 +68153,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -63074,6 +68168,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q22_FAUX
 `@err_NAT_V01_Q22 = 1`
 
@@ -63085,6 +68181,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q23
@@ -63116,6 +68214,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -63129,6 +68229,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q23_FAUX
 `@err_NAT_V01_Q23 = 1`
 
@@ -63140,6 +68242,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q24
@@ -63171,6 +68275,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -63184,6 +68290,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q24_FAUX
 `@err_NAT_V01_Q24 = 1`
 
@@ -63195,6 +68303,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q25
@@ -63226,6 +68336,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -63239,6 +68351,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q25_FAUX
 `@err_NAT_V01_Q25 = 1`
 
@@ -63250,6 +68364,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q26
@@ -63281,6 +68397,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -63294,6 +68412,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q26_FAUX
 `@err_NAT_V01_Q26 = 1`
 
@@ -63305,6 +68425,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q27
@@ -63336,6 +68458,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -63349,6 +68473,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q27_FAUX
 `@err_NAT_V01_Q27 = 1`
 
@@ -63360,6 +68486,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q28
@@ -63391,6 +68519,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -63402,6 +68532,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q28_FAUX
@@ -63417,6 +68549,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -63428,6 +68562,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q29
@@ -63463,6 +68599,8 @@ Lors d’un échange Erasmus dans un pays européen, un lycéen allemand vous de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -63476,6 +68614,8 @@ Lors d’un échange Erasmus dans un pays européen, un lycéen allemand vous de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q29_FAUX
 `@err_NAT_V01_Q29 = 1`
 
@@ -63487,6 +68627,8 @@ Lors d’un échange Erasmus dans un pays européen, un lycéen allemand vous de
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q30
@@ -63520,6 +68662,8 @@ Arthur, votre ami d'enfance va passer un entretien professionnel dans quelques j
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -63533,6 +68677,8 @@ Arthur, votre ami d'enfance va passer un entretien professionnel dans quelques j
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q30_FAUX
 `@err_NAT_V01_Q30 = 1`
 
@@ -63544,6 +68690,8 @@ Arthur, votre ami d'enfance va passer un entretien professionnel dans quelques j
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q31
@@ -63577,6 +68725,8 @@ Devant la télévision, en pleine période électorale, votre neveu Tom vous dem
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -63590,6 +68740,8 @@ Devant la télévision, en pleine période électorale, votre neveu Tom vous dem
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q31_FAUX
 `@err_NAT_V01_Q31 = 1`
 
@@ -63601,6 +68753,8 @@ Devant la télévision, en pleine période électorale, votre neveu Tom vous dem
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q32
@@ -63634,6 +68788,8 @@ Pendant un cours d'éducation civique suivi en auditeur libre, une question du f
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -63647,6 +68803,8 @@ Pendant un cours d'éducation civique suivi en auditeur libre, une question du f
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q32_FAUX
 `@err_NAT_V01_Q32 = 1`
 
@@ -63658,6 +68816,8 @@ Pendant un cours d'éducation civique suivi en auditeur libre, une question du f
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q33
@@ -63691,6 +68851,8 @@ En collant des affiches pour les élections municipales avec un ami engagé sur 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -63704,6 +68866,8 @@ En collant des affiches pour les élections municipales avec un ami engagé sur 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q33_FAUX
 `@err_NAT_V01_Q33 = 1`
 
@@ -63715,6 +68879,8 @@ En collant des affiches pour les élections municipales avec un ami engagé sur 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q34
@@ -63748,6 +68914,8 @@ Une grève des transports perturbe votre trajet et un passager mécontent dit qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -63761,6 +68929,8 @@ Une grève des transports perturbe votre trajet et un passager mécontent dit qu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q34_FAUX
 `@err_NAT_V01_Q34 = 1`
 
@@ -63772,6 +68942,8 @@ Une grève des transports perturbe votre trajet et un passager mécontent dit qu
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q35
@@ -63805,6 +68977,8 @@ Pendant un débat citoyen organisé à la mairie, l'animateur demande au nom de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -63818,6 +68992,8 @@ Pendant un débat citoyen organisé à la mairie, l'animateur demande au nom de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q35_FAUX
 `@err_NAT_V01_Q35 = 1`
 
@@ -63829,6 +69005,8 @@ Pendant un débat citoyen organisé à la mairie, l'animateur demande au nom de 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q36
@@ -63862,6 +69040,8 @@ En rangeant le grenier avec votre père, vous tombez sur un vieux livre mais le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -63875,6 +69055,8 @@ En rangeant le grenier avec votre père, vous tombez sur un vieux livre mais le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q36_FAUX
 `@err_NAT_V01_Q36 = 1`
 
@@ -63886,6 +69068,8 @@ En rangeant le grenier avec votre père, vous tombez sur un vieux livre mais le 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q37
@@ -63919,6 +69103,8 @@ Lors d'un quiz de culture générale entre amis, la question suivante vous est p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -63932,6 +69118,8 @@ Lors d'un quiz de culture générale entre amis, la question suivante vous est p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q37_FAUX
 `@err_NAT_V01_Q37 = 1`
 
@@ -63943,6 +69131,8 @@ Lors d'un quiz de culture générale entre amis, la question suivante vous est p
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q38
@@ -63976,6 +69166,8 @@ Pendant le feu d'artifice du 14 juillet, votre neveu vous demande ce que cette d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -63989,6 +69181,8 @@ Pendant le feu d'artifice du 14 juillet, votre neveu vous demande ce que cette d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q38_FAUX
 `@err_NAT_V01_Q38 = 1`
 
@@ -64000,6 +69194,8 @@ Pendant le feu d'artifice du 14 juillet, votre neveu vous demande ce que cette d
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q39
@@ -64033,6 +69229,8 @@ Votre sœur vient d'accoucher et vous demande, un peu perdue, où elle doit se r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -64046,6 +69244,8 @@ Votre sœur vient d'accoucher et vous demande, un peu perdue, où elle doit se r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q39_FAUX
 `@err_NAT_V01_Q39 = 1`
 
@@ -64057,6 +69257,8 @@ Votre sœur vient d'accoucher et vous demande, un peu perdue, où elle doit se r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_Q40
@@ -64090,6 +69292,8 @@ Un ami qui vient de signer un bail aimerait effectuer quelques travaux comme la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -64103,6 +69307,8 @@ Un ami qui vient de signer un bail aimerait effectuer quelques travaux comme la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V01_Q40_FAUX
 `@err_NAT_V01_Q40 = 1`
 
@@ -64114,6 +69320,8 @@ Un ami qui vient de signer un bail aimerait effectuer quelques travaux comme la 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V01_CORRIGE
@@ -64475,6 +69683,8 @@ Le locataire peut librement réaliser des aménagements légers comme la peintur
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V01_RESULT
@@ -64988,6 +70198,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V02_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -65029,6 +70241,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q01
 `@err_NAT_V02_Q01 = 0`
 `@exam_variant = 2`
@@ -65060,6 +70274,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -65073,6 +70289,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q01_FAUX
 `@err_NAT_V02_Q01 = 1`
 
@@ -65084,6 +70302,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q02
@@ -65115,6 +70335,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -65128,6 +70350,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q02_FAUX
 `@err_NAT_V02_Q02 = 1`
 
@@ -65139,6 +70363,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q03
@@ -65170,6 +70396,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -65183,6 +70411,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q03_FAUX
 `@err_NAT_V02_Q03 = 1`
 
@@ -65194,6 +70424,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q04
@@ -65225,6 +70457,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -65238,6 +70472,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q04_FAUX
 `@err_NAT_V02_Q04 = 1`
 
@@ -65249,6 +70485,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q05
@@ -65280,6 +70518,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -65293,6 +70533,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q05_FAUX
 `@err_NAT_V02_Q05 = 1`
 
@@ -65304,6 +70546,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q06
@@ -65335,6 +70579,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -65348,6 +70594,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q06_FAUX
 `@err_NAT_V02_Q06 = 1`
 
@@ -65359,6 +70607,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q07
@@ -65390,6 +70640,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -65403,6 +70655,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q07_FAUX
 `@err_NAT_V02_Q07 = 1`
 
@@ -65414,6 +70668,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q08
@@ -65445,6 +70701,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -65458,6 +70716,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q08_FAUX
 `@err_NAT_V02_Q08 = 1`
 
@@ -65469,6 +70729,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q09
@@ -65500,6 +70762,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -65513,6 +70777,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q09_FAUX
 `@err_NAT_V02_Q09 = 1`
 
@@ -65524,6 +70790,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q10
@@ -65555,6 +70823,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -65568,6 +70838,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q10_FAUX
 `@err_NAT_V02_Q10 = 1`
 
@@ -65579,6 +70851,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q11
@@ -65610,6 +70884,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -65623,6 +70899,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q11_FAUX
 `@err_NAT_V02_Q11 = 1`
 
@@ -65634,6 +70912,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q12
@@ -65665,6 +70945,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -65678,6 +70960,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q12_FAUX
 `@err_NAT_V02_Q12 = 1`
 
@@ -65689,6 +70973,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q13
@@ -65720,6 +71006,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -65733,6 +71021,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q13_FAUX
 `@err_NAT_V02_Q13 = 1`
 
@@ -65744,6 +71034,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q14
@@ -65775,6 +71067,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -65788,6 +71082,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q14_FAUX
 `@err_NAT_V02_Q14 = 1`
 
@@ -65799,6 +71095,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q15
@@ -65830,6 +71128,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -65843,6 +71143,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q15_FAUX
 `@err_NAT_V02_Q15 = 1`
 
@@ -65854,6 +71156,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q16
@@ -65885,6 +71189,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -65898,6 +71204,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q16_FAUX
 `@err_NAT_V02_Q16 = 1`
 
@@ -65909,6 +71217,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q17
@@ -65940,6 +71250,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -65953,6 +71265,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q17_FAUX
 `@err_NAT_V02_Q17 = 1`
 
@@ -65964,6 +71278,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q18
@@ -65995,6 +71311,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -66008,6 +71326,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q18_FAUX
 `@err_NAT_V02_Q18 = 1`
 
@@ -66019,6 +71339,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q19
@@ -66050,6 +71372,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -66063,6 +71387,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q19_FAUX
 `@err_NAT_V02_Q19 = 1`
 
@@ -66074,6 +71400,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q20
@@ -66105,6 +71433,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -66118,6 +71448,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q20_FAUX
 `@err_NAT_V02_Q20 = 1`
 
@@ -66129,6 +71461,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q21
@@ -66160,6 +71494,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -66173,6 +71509,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q21_FAUX
 `@err_NAT_V02_Q21 = 1`
 
@@ -66184,6 +71522,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q22
@@ -66215,6 +71555,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -66228,6 +71570,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q22_FAUX
 `@err_NAT_V02_Q22 = 1`
 
@@ -66239,6 +71583,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q23
@@ -66270,6 +71616,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -66283,6 +71631,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q23_FAUX
 `@err_NAT_V02_Q23 = 1`
 
@@ -66294,6 +71644,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q24
@@ -66325,6 +71677,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -66338,6 +71692,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q24_FAUX
 `@err_NAT_V02_Q24 = 1`
 
@@ -66349,6 +71705,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q25
@@ -66380,6 +71738,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -66393,6 +71753,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q25_FAUX
 `@err_NAT_V02_Q25 = 1`
 
@@ -66404,6 +71766,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q26
@@ -66435,6 +71799,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -66448,6 +71814,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q26_FAUX
 `@err_NAT_V02_Q26 = 1`
 
@@ -66459,6 +71827,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q27
@@ -66490,6 +71860,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -66503,6 +71875,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q27_FAUX
 `@err_NAT_V02_Q27 = 1`
 
@@ -66514,6 +71888,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q28
@@ -66545,6 +71921,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -66556,6 +71934,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q28_FAUX
@@ -66571,6 +71951,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -66582,6 +71964,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q29
@@ -66617,6 +72001,8 @@ Votre fille étudie l'histoire de l'école en France et vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -66630,6 +72016,8 @@ Votre fille étudie l'histoire de l'école en France et vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q29_FAUX
 `@err_NAT_V02_Q29 = 1`
 
@@ -66641,6 +72029,8 @@ Votre fille étudie l'histoire de l'école en France et vous demande :
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q30
@@ -66674,6 +72064,8 @@ Un professeur d'histoire dessine une frise chronologique au tableau pour ses él
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -66687,6 +72079,8 @@ Un professeur d'histoire dessine une frise chronologique au tableau pour ses él
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q30_FAUX
 `@err_NAT_V02_Q30 = 1`
 
@@ -66698,6 +72092,8 @@ Un professeur d'histoire dessine une frise chronologique au tableau pour ses él
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q31
@@ -66731,6 +72127,8 @@ Vous avez récemment regardé un reportage consacré à Simone Veil. Vous essaye
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -66744,6 +72142,8 @@ Vous avez récemment regardé un reportage consacré à Simone Veil. Vous essaye
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q31_FAUX
 `@err_NAT_V02_Q31 = 1`
 
@@ -66755,6 +72155,8 @@ Vous avez récemment regardé un reportage consacré à Simone Veil. Vous essaye
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q32
@@ -66788,6 +72190,8 @@ Une amie qui prépare une cérémonie religieuse vous demande si celle-ci suffir
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -66801,6 +72205,8 @@ Une amie qui prépare une cérémonie religieuse vous demande si celle-ci suffir
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q32_FAUX
 `@err_NAT_V02_Q32 = 1`
 
@@ -66812,6 +72218,8 @@ Une amie qui prépare une cérémonie religieuse vous demande si celle-ci suffir
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q33
@@ -66845,6 +72253,8 @@ Un ami s'est garé rapidement sur une place réservée aux personnes handicapée
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -66858,6 +72268,8 @@ Un ami s'est garé rapidement sur une place réservée aux personnes handicapée
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q33_FAUX
 `@err_NAT_V02_Q33 = 1`
 
@@ -66869,6 +72281,8 @@ Un ami s'est garé rapidement sur une place réservée aux personnes handicapée
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q34
@@ -66902,6 +72316,8 @@ Un proche à vous a reçu un mail pour la déclaration des impôts. Il se demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -66915,6 +72331,8 @@ Un proche à vous a reçu un mail pour la déclaration des impôts. Il se demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q34_FAUX
 `@err_NAT_V02_Q34 = 1`
 
@@ -66926,6 +72344,8 @@ Un proche à vous a reçu un mail pour la déclaration des impôts. Il se demand
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q35
@@ -66959,6 +72379,8 @@ Virginie, une amie de longue date, se demande à quoi servent les impôts en Fra
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -66972,6 +72394,8 @@ Virginie, une amie de longue date, se demande à quoi servent les impôts en Fra
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q35_FAUX
 `@err_NAT_V02_Q35 = 1`
 
@@ -66983,6 +72407,8 @@ Virginie, une amie de longue date, se demande à quoi servent les impôts en Fra
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q36
@@ -67016,6 +72442,8 @@ Votre fille vient d'avoir 18 ans et se demande si elle est déjà inscrite sur l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -67029,6 +72457,8 @@ Votre fille vient d'avoir 18 ans et se demande si elle est déjà inscrite sur l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q36_FAUX
 `@err_NAT_V02_Q36 = 1`
 
@@ -67040,6 +72470,8 @@ Votre fille vient d'avoir 18 ans et se demande si elle est déjà inscrite sur l
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q37
@@ -67073,6 +72505,8 @@ Un collègue récemment naturalisé vous demande quelles conditions il doit remp
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -67086,6 +72520,8 @@ Un collègue récemment naturalisé vous demande quelles conditions il doit remp
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q37_FAUX
 `@err_NAT_V02_Q37 = 1`
 
@@ -67097,6 +72533,8 @@ Un collègue récemment naturalisé vous demande quelles conditions il doit remp
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q38
@@ -67130,6 +72568,8 @@ Une voisine engagée dans la vie associative envisage de se présenter aux proch
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -67143,6 +72583,8 @@ Une voisine engagée dans la vie associative envisage de se présenter aux proch
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q38_FAUX
 `@err_NAT_V02_Q38 = 1`
 
@@ -67154,6 +72596,8 @@ Une voisine engagée dans la vie associative envisage de se présenter aux proch
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q39
@@ -67187,6 +72631,8 @@ Votre fils apprend par cœur des extraits de la Déclaration des droits de l'Hom
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -67200,6 +72646,8 @@ Votre fils apprend par cœur des extraits de la Déclaration des droits de l'Hom
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q39_FAUX
 `@err_NAT_V02_Q39 = 1`
 
@@ -67211,6 +72659,8 @@ Votre fils apprend par cœur des extraits de la Déclaration des droits de l'Hom
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_Q40
@@ -67244,6 +72694,8 @@ Un débat animé éclate lors d'un repas de famille sur ce que signifie vraiment
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -67257,6 +72709,8 @@ Un débat animé éclate lors d'un repas de famille sur ce que signifie vraiment
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V02_Q40_FAUX
 `@err_NAT_V02_Q40 = 1`
 
@@ -67268,6 +72722,8 @@ Un débat animé éclate lors d'un repas de famille sur ce que signifie vraiment
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V02_CORRIGE
@@ -67629,6 +73085,8 @@ Les libertés sont garanties par la République, mais elles ne sont pas absolues
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V02_RESULT
@@ -68142,6 +73600,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V03_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -68183,6 +73643,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q01
 `@err_NAT_V03_Q01 = 0`
 `@exam_variant = 3`
@@ -68214,6 +73676,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -68227,6 +73691,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q01_FAUX
 `@err_NAT_V03_Q01 = 1`
 
@@ -68238,6 +73704,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q02
@@ -68269,6 +73737,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -68282,6 +73752,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q02_FAUX
 `@err_NAT_V03_Q02 = 1`
 
@@ -68293,6 +73765,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q03
@@ -68324,6 +73798,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -68337,6 +73813,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q03_FAUX
 `@err_NAT_V03_Q03 = 1`
 
@@ -68348,6 +73826,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q04
@@ -68379,6 +73859,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -68392,6 +73874,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q04_FAUX
 `@err_NAT_V03_Q04 = 1`
 
@@ -68403,6 +73887,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q05
@@ -68434,6 +73920,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -68447,6 +73935,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q05_FAUX
 `@err_NAT_V03_Q05 = 1`
 
@@ -68458,6 +73948,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q06
@@ -68489,6 +73981,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -68502,6 +73996,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q06_FAUX
 `@err_NAT_V03_Q06 = 1`
 
@@ -68513,6 +74009,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q07
@@ -68544,6 +74042,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -68557,6 +74057,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q07_FAUX
 `@err_NAT_V03_Q07 = 1`
 
@@ -68568,6 +74070,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q08
@@ -68599,6 +74103,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -68612,6 +74118,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q08_FAUX
 `@err_NAT_V03_Q08 = 1`
 
@@ -68623,6 +74131,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q09
@@ -68654,6 +74164,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -68667,6 +74179,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q09_FAUX
 `@err_NAT_V03_Q09 = 1`
 
@@ -68678,6 +74192,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q10
@@ -68709,6 +74225,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -68722,6 +74240,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q10_FAUX
 `@err_NAT_V03_Q10 = 1`
 
@@ -68733,6 +74253,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q11
@@ -68764,6 +74286,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -68777,6 +74301,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q11_FAUX
 `@err_NAT_V03_Q11 = 1`
 
@@ -68788,6 +74314,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q12
@@ -68819,6 +74347,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -68832,6 +74362,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q12_FAUX
 `@err_NAT_V03_Q12 = 1`
 
@@ -68843,6 +74375,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q13
@@ -68874,6 +74408,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -68887,6 +74423,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q13_FAUX
 `@err_NAT_V03_Q13 = 1`
 
@@ -68898,6 +74436,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q14
@@ -68929,6 +74469,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -68942,6 +74484,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q14_FAUX
 `@err_NAT_V03_Q14 = 1`
 
@@ -68953,6 +74497,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q15
@@ -68984,6 +74530,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -68997,6 +74545,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q15_FAUX
 `@err_NAT_V03_Q15 = 1`
 
@@ -69008,6 +74558,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q16
@@ -69039,6 +74591,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -69052,6 +74606,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q16_FAUX
 `@err_NAT_V03_Q16 = 1`
 
@@ -69063,6 +74619,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q17
@@ -69094,6 +74652,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -69107,6 +74667,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q17_FAUX
 `@err_NAT_V03_Q17 = 1`
 
@@ -69118,6 +74680,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q18
@@ -69149,6 +74713,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -69162,6 +74728,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q18_FAUX
 `@err_NAT_V03_Q18 = 1`
 
@@ -69173,6 +74741,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q19
@@ -69204,6 +74774,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -69217,6 +74789,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q19_FAUX
 `@err_NAT_V03_Q19 = 1`
 
@@ -69228,6 +74802,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q20
@@ -69259,6 +74835,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -69272,6 +74850,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q20_FAUX
 `@err_NAT_V03_Q20 = 1`
 
@@ -69283,6 +74863,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q21
@@ -69314,6 +74896,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -69327,6 +74911,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q21_FAUX
 `@err_NAT_V03_Q21 = 1`
 
@@ -69338,6 +74924,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q22
@@ -69369,6 +74957,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -69382,6 +74972,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q22_FAUX
 `@err_NAT_V03_Q22 = 1`
 
@@ -69393,6 +74985,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q23
@@ -69424,6 +75018,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -69437,6 +75033,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q23_FAUX
 `@err_NAT_V03_Q23 = 1`
 
@@ -69448,6 +75046,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q24
@@ -69479,6 +75079,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -69492,6 +75094,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q24_FAUX
 `@err_NAT_V03_Q24 = 1`
 
@@ -69503,6 +75107,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q25
@@ -69534,6 +75140,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -69547,6 +75155,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q25_FAUX
 `@err_NAT_V03_Q25 = 1`
 
@@ -69558,6 +75168,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q26
@@ -69589,6 +75201,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -69602,6 +75216,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q26_FAUX
 `@err_NAT_V03_Q26 = 1`
 
@@ -69613,6 +75229,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q27
@@ -69644,6 +75262,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -69657,6 +75277,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q27_FAUX
 `@err_NAT_V03_Q27 = 1`
 
@@ -69668,6 +75290,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q28
@@ -69699,6 +75323,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -69710,6 +75336,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q28_FAUX
@@ -69725,6 +75353,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -69736,6 +75366,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q29
@@ -69771,6 +75403,8 @@ Lors d'un jeu-quiz organisé pendant une soirée entre amis, une question porte 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -69784,6 +75418,8 @@ Lors d'un jeu-quiz organisé pendant une soirée entre amis, une question porte 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q29_FAUX
 `@err_NAT_V03_Q29 = 1`
 
@@ -69795,6 +75431,8 @@ Lors d'un jeu-quiz organisé pendant une soirée entre amis, une question porte 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q30
@@ -69828,6 +75466,8 @@ Votre fils doit rencontrer le maire de votre commune dans le cadre d'un projet s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -69841,6 +75481,8 @@ Votre fils doit rencontrer le maire de votre commune dans le cadre d'un projet s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q30_FAUX
 `@err_NAT_V03_Q30 = 1`
 
@@ -69852,6 +75494,8 @@ Votre fils doit rencontrer le maire de votre commune dans le cadre d'un projet s
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q31
@@ -69885,6 +75529,8 @@ Votre grand-père, peu à l'aise avec Internet, vous demande où il peut se rend
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -69898,6 +75544,8 @@ Votre grand-père, peu à l'aise avec Internet, vous demande où il peut se rend
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q31_FAUX
 `@err_NAT_V03_Q31 = 1`
 
@@ -69909,6 +75557,8 @@ Votre grand-père, peu à l'aise avec Internet, vous demande où il peut se rend
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q32
@@ -69942,6 +75592,8 @@ Lors d'un cours d'instruction civique, le formateur demande aux stagiaires de ci
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -69955,6 +75607,8 @@ Lors d'un cours d'instruction civique, le formateur demande aux stagiaires de ci
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q32_FAUX
 `@err_NAT_V03_Q32 = 1`
 
@@ -69966,6 +75620,8 @@ Lors d'un cours d'instruction civique, le formateur demande aux stagiaires de ci
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q33
@@ -69999,6 +75655,8 @@ Un ami commente une polémique médiatique et vous demande ce que garantit réel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -70012,6 +75670,8 @@ Un ami commente une polémique médiatique et vous demande ce que garantit réel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q33_FAUX
 `@err_NAT_V03_Q33 = 1`
 
@@ -70023,6 +75683,8 @@ Un ami commente une polémique médiatique et vous demande ce que garantit réel
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q34
@@ -70056,6 +75718,8 @@ Pendant un cours sur l'Union européenne, le formateur demande de reconnaître :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -70069,6 +75733,8 @@ Pendant un cours sur l'Union européenne, le formateur demande de reconnaître :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q34_FAUX
 `@err_NAT_V03_Q34 = 1`
 
@@ -70080,6 +75746,8 @@ Pendant un cours sur l'Union européenne, le formateur demande de reconnaître :
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q35
@@ -70113,6 +75781,8 @@ Vous souhaitez organiser un voyage avec des amis. Ainsi vous souhaitez profiter 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -70126,6 +75796,8 @@ Vous souhaitez organiser un voyage avec des amis. Ainsi vous souhaitez profiter 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q35_FAUX
 `@err_NAT_V03_Q35 = 1`
 
@@ -70137,6 +75809,8 @@ Vous souhaitez organiser un voyage avec des amis. Ainsi vous souhaitez profiter 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q36
@@ -70170,6 +75844,8 @@ Vous êtes parti avec une amie qui a une passion pour les lieux de culte. En vis
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -70183,6 +75859,8 @@ Vous êtes parti avec une amie qui a une passion pour les lieux de culte. En vis
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q36_FAUX
 `@err_NAT_V03_Q36 = 1`
 
@@ -70194,6 +75872,8 @@ Vous êtes parti avec une amie qui a une passion pour les lieux de culte. En vis
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q37
@@ -70227,6 +75907,8 @@ Le lave-linge de votre voisine, acheté un an plus tôt, tombe en panne. Elle vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -70240,6 +75922,8 @@ Le lave-linge de votre voisine, acheté un an plus tôt, tombe en panne. Elle vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q37_FAUX
 `@err_NAT_V03_Q37 = 1`
 
@@ -70251,6 +75935,8 @@ Le lave-linge de votre voisine, acheté un an plus tôt, tombe en panne. Elle vo
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q38
@@ -70284,6 +75970,8 @@ Votre beau-frère, tout juste papa, vous demande à quel moment précis il doit 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -70297,6 +75985,8 @@ Votre beau-frère, tout juste papa, vous demande à quel moment précis il doit 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q38_FAUX
 `@err_NAT_V03_Q38 = 1`
 
@@ -70308,6 +75998,8 @@ Votre beau-frère, tout juste papa, vous demande à quel moment précis il doit 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q39
@@ -70341,6 +76033,8 @@ Sofiane a été surpris par le nombre d'associations qui existaient en France (r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -70354,6 +76048,8 @@ Sofiane a été surpris par le nombre d'associations qui existaient en France (r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q39_FAUX
 `@err_NAT_V03_Q39 = 1`
 
@@ -70365,6 +76061,8 @@ Sofiane a été surpris par le nombre d'associations qui existaient en France (r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_Q40
@@ -70398,6 +76096,8 @@ En attendant votre bus à la sortie de votre travail, vous prenez votre téléph
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -70411,6 +76111,8 @@ En attendant votre bus à la sortie de votre travail, vous prenez votre téléph
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V03_Q40_FAUX
 `@err_NAT_V03_Q40 = 1`
 
@@ -70422,6 +76124,8 @@ En attendant votre bus à la sortie de votre travail, vous prenez votre téléph
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V03_CORRIGE
@@ -70783,6 +76487,8 @@ La liberté d'expression s'applique aussi sur Internet et les réseaux sociaux. 
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V03_RESULT
@@ -71296,6 +77002,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V04_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -71337,6 +77045,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q01
 `@err_NAT_V04_Q01 = 0`
 `@exam_variant = 4`
@@ -71368,6 +77078,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -71381,6 +77093,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q01_FAUX
 `@err_NAT_V04_Q01 = 1`
 
@@ -71392,6 +77106,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q02
@@ -71423,6 +77139,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -71436,6 +77154,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q02_FAUX
 `@err_NAT_V04_Q02 = 1`
 
@@ -71447,6 +77167,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q03
@@ -71478,6 +77200,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -71491,6 +77215,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q03_FAUX
 `@err_NAT_V04_Q03 = 1`
 
@@ -71502,6 +77228,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q04
@@ -71533,6 +77261,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -71546,6 +77276,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q04_FAUX
 `@err_NAT_V04_Q04 = 1`
 
@@ -71557,6 +77289,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q05
@@ -71588,6 +77322,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -71601,6 +77337,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q05_FAUX
 `@err_NAT_V04_Q05 = 1`
 
@@ -71612,6 +77350,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q06
@@ -71643,6 +77383,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -71656,6 +77398,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q06_FAUX
 `@err_NAT_V04_Q06 = 1`
 
@@ -71667,6 +77411,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q07
@@ -71698,6 +77444,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -71711,6 +77459,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q07_FAUX
 `@err_NAT_V04_Q07 = 1`
 
@@ -71722,6 +77472,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q08
@@ -71753,6 +77505,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -71766,6 +77520,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q08_FAUX
 `@err_NAT_V04_Q08 = 1`
 
@@ -71777,6 +77533,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q09
@@ -71808,6 +77566,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -71821,6 +77581,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q09_FAUX
 `@err_NAT_V04_Q09 = 1`
 
@@ -71832,6 +77594,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q10
@@ -71863,6 +77627,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -71876,6 +77642,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q10_FAUX
 `@err_NAT_V04_Q10 = 1`
 
@@ -71887,6 +77655,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q11
@@ -71918,6 +77688,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -71931,6 +77703,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q11_FAUX
 `@err_NAT_V04_Q11 = 1`
 
@@ -71942,6 +77716,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q12
@@ -71973,6 +77749,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -71986,6 +77764,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q12_FAUX
 `@err_NAT_V04_Q12 = 1`
 
@@ -71997,6 +77777,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q13
@@ -72028,6 +77810,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -72041,6 +77825,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q13_FAUX
 `@err_NAT_V04_Q13 = 1`
 
@@ -72052,6 +77838,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q14
@@ -72083,6 +77871,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -72096,6 +77886,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q14_FAUX
 `@err_NAT_V04_Q14 = 1`
 
@@ -72107,6 +77899,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q15
@@ -72138,6 +77932,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -72151,6 +77947,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q15_FAUX
 `@err_NAT_V04_Q15 = 1`
 
@@ -72162,6 +77960,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q16
@@ -72193,6 +77993,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -72206,6 +78008,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q16_FAUX
 `@err_NAT_V04_Q16 = 1`
 
@@ -72217,6 +78021,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q17
@@ -72248,6 +78054,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -72261,6 +78069,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q17_FAUX
 `@err_NAT_V04_Q17 = 1`
 
@@ -72272,6 +78082,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q18
@@ -72303,6 +78115,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -72316,6 +78130,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q18_FAUX
 `@err_NAT_V04_Q18 = 1`
 
@@ -72327,6 +78143,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q19
@@ -72358,6 +78176,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -72371,6 +78191,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q19_FAUX
 `@err_NAT_V04_Q19 = 1`
 
@@ -72382,6 +78204,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q20
@@ -72413,6 +78237,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -72426,6 +78252,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q20_FAUX
 `@err_NAT_V04_Q20 = 1`
 
@@ -72437,6 +78265,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q21
@@ -72468,6 +78298,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -72481,6 +78313,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q21_FAUX
 `@err_NAT_V04_Q21 = 1`
 
@@ -72492,6 +78326,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q22
@@ -72523,6 +78359,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -72536,6 +78374,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q22_FAUX
 `@err_NAT_V04_Q22 = 1`
 
@@ -72547,6 +78387,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q23
@@ -72578,6 +78420,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -72591,6 +78435,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q23_FAUX
 `@err_NAT_V04_Q23 = 1`
 
@@ -72602,6 +78448,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q24
@@ -72633,6 +78481,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -72646,6 +78496,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q24_FAUX
 `@err_NAT_V04_Q24 = 1`
 
@@ -72657,6 +78509,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q25
@@ -72688,6 +78542,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -72701,6 +78557,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q25_FAUX
 `@err_NAT_V04_Q25 = 1`
 
@@ -72712,6 +78570,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q26
@@ -72743,6 +78603,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -72756,6 +78618,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q26_FAUX
 `@err_NAT_V04_Q26 = 1`
 
@@ -72767,6 +78631,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q27
@@ -72798,6 +78664,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -72811,6 +78679,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q27_FAUX
 `@err_NAT_V04_Q27 = 1`
 
@@ -72822,6 +78692,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q28
@@ -72853,6 +78725,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -72864,6 +78738,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q28_FAUX
@@ -72879,6 +78755,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -72890,6 +78768,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q29
@@ -72925,6 +78805,8 @@ Lors d'une visite à Paris, un touriste demande à son guide :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -72938,6 +78820,8 @@ Lors d'une visite à Paris, un touriste demande à son guide :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q29_FAUX
 `@err_NAT_V04_Q29 = 1`
 
@@ -72949,6 +78833,8 @@ Lors d'une visite à Paris, un touriste demande à son guide :
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q30
@@ -72982,6 +78868,8 @@ Valentin, votre ami d'enfance, vient de vous annoncer que sa femme a accouché e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -72995,6 +78883,8 @@ Valentin, votre ami d'enfance, vient de vous annoncer que sa femme a accouché e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q30_FAUX
 `@err_NAT_V04_Q30 = 1`
 
@@ -73006,6 +78896,8 @@ Valentin, votre ami d'enfance, vient de vous annoncer que sa femme a accouché e
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q31
@@ -73039,6 +78931,8 @@ Témoin d'une altercation dans la rue, un touriste étranger vous demande quel n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -73052,6 +78946,8 @@ Témoin d'une altercation dans la rue, un touriste étranger vous demande quel n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q31_FAUX
 `@err_NAT_V04_Q31 = 1`
 
@@ -73063,6 +78959,8 @@ Témoin d'une altercation dans la rue, un touriste étranger vous demande quel n
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q32
@@ -73096,6 +78994,8 @@ Vous révisez pour un contrôle sur les principes et valeurs de la République. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -73109,6 +79009,8 @@ Vous révisez pour un contrôle sur les principes et valeurs de la République. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q32_FAUX
 `@err_NAT_V04_Q32 = 1`
 
@@ -73120,6 +79022,8 @@ Vous révisez pour un contrôle sur les principes et valeurs de la République. 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q33
@@ -73153,6 +79057,8 @@ Lors d'une soirée "jeux de société" avec vos amis, Alfred vous pose une quest
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -73166,6 +79072,8 @@ Lors d'une soirée "jeux de société" avec vos amis, Alfred vous pose une quest
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q33_FAUX
 `@err_NAT_V04_Q33 = 1`
 
@@ -73177,6 +79085,8 @@ Lors d'une soirée "jeux de société" avec vos amis, Alfred vous pose une quest
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q34
@@ -73210,6 +79120,8 @@ Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -73223,6 +79135,8 @@ Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q34_FAUX
 `@err_NAT_V04_Q34 = 1`
 
@@ -73234,6 +79148,8 @@ Cédric, un de vos amis d'enfance, d'origine autrichienne, se demande quel est l
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q35
@@ -73267,6 +79183,8 @@ Une amie originaire de Belgique, où voter est obligatoire vous demande si c'est
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -73280,6 +79198,8 @@ Une amie originaire de Belgique, où voter est obligatoire vous demande si c'est
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q35_FAUX
 `@err_NAT_V04_Q35 = 1`
 
@@ -73291,6 +79211,8 @@ Une amie originaire de Belgique, où voter est obligatoire vous demande si c'est
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q36
@@ -73324,6 +79246,8 @@ Pendant un débat animé au café du coin, un habitué affirme qu'on peut ignore
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -73337,6 +79261,8 @@ Pendant un débat animé au café du coin, un habitué affirme qu'on peut ignore
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q36_FAUX
 `@err_NAT_V04_Q36 = 1`
 
@@ -73348,6 +79274,8 @@ Pendant un débat animé au café du coin, un habitué affirme qu'on peut ignore
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q37
@@ -73381,6 +79309,8 @@ Pendant un trajet en covoiturage, vous discutez avec votre passagère qui vous f
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -73394,6 +79324,8 @@ Pendant un trajet en covoiturage, vous discutez avec votre passagère qui vous f
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q37_FAUX
 `@err_NAT_V04_Q37 = 1`
 
@@ -73405,6 +79337,8 @@ Pendant un trajet en covoiturage, vous discutez avec votre passagère qui vous f
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q38
@@ -73438,6 +79372,8 @@ Votre collègue récemment naturalisée vous confie ne pas bien saisir ce que si
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -73451,6 +79387,8 @@ Votre collègue récemment naturalisée vous confie ne pas bien saisir ce que si
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q38_FAUX
 `@err_NAT_V04_Q38 = 1`
 
@@ -73462,6 +79400,8 @@ Votre collègue récemment naturalisée vous confie ne pas bien saisir ce que si
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q39
@@ -73495,6 +79435,8 @@ Georgio n'est pas content car après 2 mois de vacances d'été, il doit retourn
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -73508,6 +79450,8 @@ Georgio n'est pas content car après 2 mois de vacances d'été, il doit retourn
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q39_FAUX
 `@err_NAT_V04_Q39 = 1`
 
@@ -73519,6 +79463,8 @@ Georgio n'est pas content car après 2 mois de vacances d'été, il doit retourn
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_Q40
@@ -73552,6 +79498,8 @@ Un film que vous avez regardé au cinéma avec votre famille, relate l'histoire 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -73565,6 +79513,8 @@ Un film que vous avez regardé au cinéma avec votre famille, relate l'histoire 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V04_Q40_FAUX
 `@err_NAT_V04_Q40 = 1`
 
@@ -73576,6 +79526,8 @@ Un film que vous avez regardé au cinéma avec votre famille, relate l'histoire 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V04_CORRIGE
@@ -73937,6 +79889,8 @@ Louis XVI est le dernier roi de l'Ancien Régime. Il est guillotiné le 21 janvi
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V04_RESULT
@@ -74450,6 +80404,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V05_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -74491,6 +80447,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q01
 `@err_NAT_V05_Q01 = 0`
 `@exam_variant = 5`
@@ -74522,6 +80480,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -74535,6 +80495,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q01_FAUX
 `@err_NAT_V05_Q01 = 1`
 
@@ -74546,6 +80508,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q02
@@ -74577,6 +80541,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -74590,6 +80556,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q02_FAUX
 `@err_NAT_V05_Q02 = 1`
 
@@ -74601,6 +80569,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q03
@@ -74632,6 +80602,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -74645,6 +80617,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q03_FAUX
 `@err_NAT_V05_Q03 = 1`
 
@@ -74656,6 +80630,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q04
@@ -74687,6 +80663,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -74700,6 +80678,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q04_FAUX
 `@err_NAT_V05_Q04 = 1`
 
@@ -74711,6 +80691,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q05
@@ -74742,6 +80724,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -74755,6 +80739,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q05_FAUX
 `@err_NAT_V05_Q05 = 1`
 
@@ -74766,6 +80752,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q06
@@ -74797,6 +80785,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -74810,6 +80800,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q06_FAUX
 `@err_NAT_V05_Q06 = 1`
 
@@ -74821,6 +80813,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q07
@@ -74852,6 +80846,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -74865,6 +80861,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q07_FAUX
 `@err_NAT_V05_Q07 = 1`
 
@@ -74876,6 +80874,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q08
@@ -74907,6 +80907,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -74920,6 +80922,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q08_FAUX
 `@err_NAT_V05_Q08 = 1`
 
@@ -74931,6 +80935,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q09
@@ -74962,6 +80968,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -74975,6 +80983,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q09_FAUX
 `@err_NAT_V05_Q09 = 1`
 
@@ -74986,6 +80996,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q10
@@ -75017,6 +81029,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -75030,6 +81044,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q10_FAUX
 `@err_NAT_V05_Q10 = 1`
 
@@ -75041,6 +81057,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q11
@@ -75072,6 +81090,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -75085,6 +81105,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q11_FAUX
 `@err_NAT_V05_Q11 = 1`
 
@@ -75096,6 +81118,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q12
@@ -75127,6 +81151,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -75140,6 +81166,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q12_FAUX
 `@err_NAT_V05_Q12 = 1`
 
@@ -75151,6 +81179,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q13
@@ -75182,6 +81212,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -75195,6 +81227,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q13_FAUX
 `@err_NAT_V05_Q13 = 1`
 
@@ -75206,6 +81240,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q14
@@ -75237,6 +81273,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -75250,6 +81288,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q14_FAUX
 `@err_NAT_V05_Q14 = 1`
 
@@ -75261,6 +81301,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q15
@@ -75292,6 +81334,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -75305,6 +81349,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q15_FAUX
 `@err_NAT_V05_Q15 = 1`
 
@@ -75316,6 +81362,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q16
@@ -75347,6 +81395,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -75360,6 +81410,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q16_FAUX
 `@err_NAT_V05_Q16 = 1`
 
@@ -75371,6 +81423,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q17
@@ -75402,6 +81456,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -75415,6 +81471,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q17_FAUX
 `@err_NAT_V05_Q17 = 1`
 
@@ -75426,6 +81484,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q18
@@ -75457,6 +81517,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -75470,6 +81532,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q18_FAUX
 `@err_NAT_V05_Q18 = 1`
 
@@ -75481,6 +81545,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q19
@@ -75512,6 +81578,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -75525,6 +81593,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q19_FAUX
 `@err_NAT_V05_Q19 = 1`
 
@@ -75536,6 +81606,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q20
@@ -75567,6 +81639,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -75580,6 +81654,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q20_FAUX
 `@err_NAT_V05_Q20 = 1`
 
@@ -75591,6 +81667,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q21
@@ -75622,6 +81700,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -75635,6 +81715,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q21_FAUX
 `@err_NAT_V05_Q21 = 1`
 
@@ -75646,6 +81728,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q22
@@ -75677,6 +81761,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -75690,6 +81776,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q22_FAUX
 `@err_NAT_V05_Q22 = 1`
 
@@ -75701,6 +81789,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q23
@@ -75732,6 +81822,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -75745,6 +81837,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q23_FAUX
 `@err_NAT_V05_Q23 = 1`
 
@@ -75756,6 +81850,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q24
@@ -75787,6 +81883,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -75800,6 +81898,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q24_FAUX
 `@err_NAT_V05_Q24 = 1`
 
@@ -75811,6 +81911,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q25
@@ -75842,6 +81944,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -75855,6 +81959,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q25_FAUX
 `@err_NAT_V05_Q25 = 1`
 
@@ -75866,6 +81972,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q26
@@ -75897,6 +82005,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -75910,6 +82020,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q26_FAUX
 `@err_NAT_V05_Q26 = 1`
 
@@ -75921,6 +82033,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q27
@@ -75952,6 +82066,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -75965,6 +82081,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q27_FAUX
 `@err_NAT_V05_Q27 = 1`
 
@@ -75976,6 +82094,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q28
@@ -76007,6 +82127,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -76018,6 +82140,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q28_FAUX
@@ -76033,6 +82157,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -76044,6 +82170,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q29
@@ -76079,6 +82207,8 @@ Votre fille prépare un exposé sur la République et vous demande de l'aider à
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -76092,6 +82222,8 @@ Votre fille prépare un exposé sur la République et vous demande de l'aider à
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q29_FAUX
 `@err_NAT_V05_Q29 = 1`
 
@@ -76103,6 +82235,8 @@ Votre fille prépare un exposé sur la République et vous demande de l'aider à
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q30
@@ -76136,6 +82270,8 @@ Une affiche vue dans une association de défense des droits humains évoque les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -76149,6 +82285,8 @@ Une affiche vue dans une association de défense des droits humains évoque les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q30_FAUX
 `@err_NAT_V05_Q30 = 1`
 
@@ -76160,6 +82298,8 @@ Une affiche vue dans une association de défense des droits humains évoque les 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q31
@@ -76193,6 +82333,8 @@ Un reportage sur une arrestation contestée à l'étranger suscite une discussio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -76206,6 +82348,8 @@ Un reportage sur une arrestation contestée à l'étranger suscite une discussio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q31_FAUX
 `@err_NAT_V05_Q31 = 1`
 
@@ -76217,6 +82361,8 @@ Un reportage sur une arrestation contestée à l'étranger suscite une discussio
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q32
@@ -76250,6 +82396,8 @@ En visitant les Invalides avec un ami, celui-ci vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -76263,6 +82411,8 @@ En visitant les Invalides avec un ami, celui-ci vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q32_FAUX
 `@err_NAT_V05_Q32 = 1`
 
@@ -76274,6 +82424,8 @@ En visitant les Invalides avec un ami, celui-ci vous demande :
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q33
@@ -76307,6 +82459,8 @@ Un ancien combattant raconte à votre petit-fils son enfance pendant la guerre e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -76320,6 +82474,8 @@ Un ancien combattant raconte à votre petit-fils son enfance pendant la guerre e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q33_FAUX
 `@err_NAT_V05_Q33 = 1`
 
@@ -76331,6 +82487,8 @@ Un ancien combattant raconte à votre petit-fils son enfance pendant la guerre e
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q34
@@ -76364,6 +82522,8 @@ Après une visite scolaire d'un mémorial avec sa classe, votre fille vous deman
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -76377,6 +82537,8 @@ Après une visite scolaire d'un mémorial avec sa classe, votre fille vous deman
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q34_FAUX
 `@err_NAT_V05_Q34 = 1`
 
@@ -76388,6 +82550,8 @@ Après une visite scolaire d'un mémorial avec sa classe, votre fille vous deman
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q35
@@ -76421,6 +82585,8 @@ Un voisin, pris d'un malaise chez lui, vous demande dans la panique quel numéro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -76434,6 +82600,8 @@ Un voisin, pris d'un malaise chez lui, vous demande dans la panique quel numéro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q35_FAUX
 `@err_NAT_V05_Q35 = 1`
 
@@ -76445,6 +82613,8 @@ Un voisin, pris d'un malaise chez lui, vous demande dans la panique quel numéro
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q36
@@ -76478,6 +82648,8 @@ Une famille qui vient d'emménager dans votre quartier vous demande où s'adress
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -76491,6 +82663,8 @@ Une famille qui vient d'emménager dans votre quartier vous demande où s'adress
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q36_FAUX
 `@err_NAT_V05_Q36 = 1`
 
@@ -76502,6 +82676,8 @@ Une famille qui vient d'emménager dans votre quartier vous demande où s'adress
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q37
@@ -76535,6 +82711,8 @@ Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y écr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -76548,6 +82726,8 @@ Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y écr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q37_FAUX
 `@err_NAT_V05_Q37 = 1`
 
@@ -76559,6 +82739,8 @@ Vous marchez dans la rue et vous repérez un "tag" sur un banc public. Il y écr
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q38
@@ -76592,6 +82774,8 @@ Votre fils vous demande si le coq brodé sur les maillots de football est un sym
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -76605,6 +82789,8 @@ Votre fils vous demande si le coq brodé sur les maillots de football est un sym
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q38_FAUX
 `@err_NAT_V05_Q38 = 1`
 
@@ -76616,6 +82802,8 @@ Votre fils vous demande si le coq brodé sur les maillots de football est un sym
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q39
@@ -76649,6 +82837,8 @@ En regardant les résultats des élections législatives à la télévision avec
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -76662,6 +82852,8 @@ En regardant les résultats des élections législatives à la télévision avec
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q39_FAUX
 `@err_NAT_V05_Q39 = 1`
 
@@ -76673,6 +82865,8 @@ En regardant les résultats des élections législatives à la télévision avec
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_Q40
@@ -76706,6 +82900,8 @@ Lors d'un cours d'instruction civique pour adultes, le formateur pose une questi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -76719,6 +82915,8 @@ Lors d'un cours d'instruction civique pour adultes, le formateur pose une questi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V05_Q40_FAUX
 `@err_NAT_V05_Q40 = 1`
 
@@ -76730,6 +82928,8 @@ Lors d'un cours d'instruction civique pour adultes, le formateur pose une questi
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V05_CORRIGE
@@ -77091,6 +83291,8 @@ Le Parlement est composé de deux chambres : l'Assemblée nationale et le Sénat
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V05_RESULT
@@ -77604,6 +83806,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V06_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -77645,6 +83849,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q01
 `@err_NAT_V06_Q01 = 0`
 `@exam_variant = 6`
@@ -77676,6 +83882,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -77689,6 +83897,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q01_FAUX
 `@err_NAT_V06_Q01 = 1`
 
@@ -77700,6 +83910,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q02
@@ -77731,6 +83943,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -77744,6 +83958,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q02_FAUX
 `@err_NAT_V06_Q02 = 1`
 
@@ -77755,6 +83971,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q03
@@ -77786,6 +84004,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -77799,6 +84019,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q03_FAUX
 `@err_NAT_V06_Q03 = 1`
 
@@ -77810,6 +84032,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q04
@@ -77841,6 +84065,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -77854,6 +84080,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q04_FAUX
 `@err_NAT_V06_Q04 = 1`
 
@@ -77865,6 +84093,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q05
@@ -77896,6 +84126,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -77909,6 +84141,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q05_FAUX
 `@err_NAT_V06_Q05 = 1`
 
@@ -77920,6 +84154,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q06
@@ -77951,6 +84187,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -77964,6 +84202,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q06_FAUX
 `@err_NAT_V06_Q06 = 1`
 
@@ -77975,6 +84215,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q07
@@ -78006,6 +84248,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -78019,6 +84263,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q07_FAUX
 `@err_NAT_V06_Q07 = 1`
 
@@ -78030,6 +84276,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q08
@@ -78061,6 +84309,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -78074,6 +84324,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q08_FAUX
 `@err_NAT_V06_Q08 = 1`
 
@@ -78085,6 +84337,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q09
@@ -78116,6 +84370,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -78129,6 +84385,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q09_FAUX
 `@err_NAT_V06_Q09 = 1`
 
@@ -78140,6 +84398,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q10
@@ -78171,6 +84431,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -78184,6 +84446,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q10_FAUX
 `@err_NAT_V06_Q10 = 1`
 
@@ -78195,6 +84459,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q11
@@ -78226,6 +84492,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -78239,6 +84507,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q11_FAUX
 `@err_NAT_V06_Q11 = 1`
 
@@ -78250,6 +84520,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q12
@@ -78281,6 +84553,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -78294,6 +84568,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q12_FAUX
 `@err_NAT_V06_Q12 = 1`
 
@@ -78305,6 +84581,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q13
@@ -78336,6 +84614,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -78349,6 +84629,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q13_FAUX
 `@err_NAT_V06_Q13 = 1`
 
@@ -78360,6 +84642,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q14
@@ -78391,6 +84675,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -78404,6 +84690,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q14_FAUX
 `@err_NAT_V06_Q14 = 1`
 
@@ -78415,6 +84703,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q15
@@ -78446,6 +84736,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -78459,6 +84751,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q15_FAUX
 `@err_NAT_V06_Q15 = 1`
 
@@ -78470,6 +84764,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q16
@@ -78501,6 +84797,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -78514,6 +84812,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q16_FAUX
 `@err_NAT_V06_Q16 = 1`
 
@@ -78525,6 +84825,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q17
@@ -78556,6 +84858,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -78569,6 +84873,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q17_FAUX
 `@err_NAT_V06_Q17 = 1`
 
@@ -78580,6 +84886,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q18
@@ -78611,6 +84919,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -78624,6 +84934,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q18_FAUX
 `@err_NAT_V06_Q18 = 1`
 
@@ -78635,6 +84947,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q19
@@ -78666,6 +84980,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -78679,6 +84995,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q19_FAUX
 `@err_NAT_V06_Q19 = 1`
 
@@ -78690,6 +85008,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q20
@@ -78721,6 +85041,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -78734,6 +85056,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q20_FAUX
 `@err_NAT_V06_Q20 = 1`
 
@@ -78745,6 +85069,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q21
@@ -78776,6 +85102,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -78789,6 +85117,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q21_FAUX
 `@err_NAT_V06_Q21 = 1`
 
@@ -78800,6 +85130,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q22
@@ -78831,6 +85163,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -78844,6 +85178,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q22_FAUX
 `@err_NAT_V06_Q22 = 1`
 
@@ -78855,6 +85191,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q23
@@ -78886,6 +85224,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -78899,6 +85239,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q23_FAUX
 `@err_NAT_V06_Q23 = 1`
 
@@ -78910,6 +85252,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q24
@@ -78941,6 +85285,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -78954,6 +85300,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q24_FAUX
 `@err_NAT_V06_Q24 = 1`
 
@@ -78965,6 +85313,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q25
@@ -78996,6 +85346,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -79009,6 +85361,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q25_FAUX
 `@err_NAT_V06_Q25 = 1`
 
@@ -79020,6 +85374,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q26
@@ -79051,6 +85407,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -79064,6 +85422,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q26_FAUX
 `@err_NAT_V06_Q26 = 1`
 
@@ -79075,6 +85435,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q27
@@ -79106,6 +85468,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -79119,6 +85483,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q27_FAUX
 `@err_NAT_V06_Q27 = 1`
 
@@ -79130,6 +85496,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q28
@@ -79161,6 +85529,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -79172,6 +85542,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q28_FAUX
@@ -79187,6 +85559,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -79198,6 +85572,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q29
@@ -79233,6 +85609,8 @@ Une connaissance qui traverse un litige coûteux vous demande s'il existe un dis
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -79246,6 +85624,8 @@ Une connaissance qui traverse un litige coûteux vous demande s'il existe un dis
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q29_FAUX
 `@err_NAT_V06_Q29 = 1`
 
@@ -79257,6 +85637,8 @@ Une connaissance qui traverse un litige coûteux vous demande s'il existe un dis
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q30
@@ -79290,6 +85672,8 @@ Vous regardez le journal télévisé. Vous êtes attristé de voir que pendant u
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -79303,6 +85687,8 @@ Vous regardez le journal télévisé. Vous êtes attristé de voir que pendant u
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q30_FAUX
 `@err_NAT_V06_Q30 = 1`
 
@@ -79314,6 +85700,8 @@ Vous regardez le journal télévisé. Vous êtes attristé de voir que pendant u
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q31
@@ -79347,6 +85735,8 @@ Vous êtes chez votre médecin généraliste pour un rhume. Il vous demande d'in
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -79360,6 +85750,8 @@ Vous êtes chez votre médecin généraliste pour un rhume. Il vous demande d'in
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q31_FAUX
 `@err_NAT_V06_Q31 = 1`
 
@@ -79371,6 +85763,8 @@ Vous êtes chez votre médecin généraliste pour un rhume. Il vous demande d'in
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q32
@@ -79404,6 +85798,8 @@ Un article de journal que vous lisez avec votre conjoint évoque la notion d'« 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -79417,6 +85813,8 @@ Un article de journal que vous lisez avec votre conjoint évoque la notion d'« 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q32_FAUX
 `@err_NAT_V06_Q32 = 1`
 
@@ -79428,6 +85826,8 @@ Un article de journal que vous lisez avec votre conjoint évoque la notion d'« 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q33
@@ -79461,6 +85861,8 @@ Après les élections municipales de votre commune, votre voisin retraité se de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -79474,6 +85876,8 @@ Après les élections municipales de votre commune, votre voisin retraité se de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q33_FAUX
 `@err_NAT_V06_Q33 = 1`
 
@@ -79485,6 +85889,8 @@ Après les élections municipales de votre commune, votre voisin retraité se de
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q34
@@ -79518,6 +85924,8 @@ En collant une affiche électorale pour un candidat aux législatives, un passan
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -79531,6 +85939,8 @@ En collant une affiche électorale pour un candidat aux législatives, un passan
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q34_FAUX
 `@err_NAT_V06_Q34 = 1`
 
@@ -79542,6 +85952,8 @@ En collant une affiche électorale pour un candidat aux législatives, un passan
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q35
@@ -79575,6 +85987,8 @@ Votre fille révise son cours d'histoire et vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -79588,6 +86002,8 @@ Votre fille révise son cours d'histoire et vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q35_FAUX
 `@err_NAT_V06_Q35 = 1`
 
@@ -79599,6 +86015,8 @@ Votre fille révise son cours d'histoire et vous demande :
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q36
@@ -79632,6 +86050,8 @@ Une professeure d'histoire évoque lors de son cours sur l'histoire de France et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -79645,6 +86065,8 @@ Une professeure d'histoire évoque lors de son cours sur l'histoire de France et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q36_FAUX
 `@err_NAT_V06_Q36 = 1`
 
@@ -79656,6 +86078,8 @@ Une professeure d'histoire évoque lors de son cours sur l'histoire de France et
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q37
@@ -79689,6 +86113,8 @@ Une professeure de français souhaite que ses élèves lisent un livre de Victor
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -79702,6 +86128,8 @@ Une professeure de français souhaite que ses élèves lisent un livre de Victor
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q37_FAUX
 `@err_NAT_V06_Q37 = 1`
 
@@ -79713,6 +86141,8 @@ Une professeure de français souhaite que ses élèves lisent un livre de Victor
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q38
@@ -79746,6 +86176,8 @@ Tristan s'intéresse à l'histoire des pays colonisés. Après s'être intéress
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -79759,6 +86191,8 @@ Tristan s'intéresse à l'histoire des pays colonisés. Après s'être intéress
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q38_FAUX
 `@err_NAT_V06_Q38 = 1`
 
@@ -79770,6 +86204,8 @@ Tristan s'intéresse à l'histoire des pays colonisés. Après s'être intéress
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q39
@@ -79803,6 +86239,8 @@ Vous regardez une émission sur la chaîne TF1.L'animateur pose une question. Vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -79816,6 +86254,8 @@ Vous regardez une émission sur la chaîne TF1.L'animateur pose une question. Vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q39_FAUX
 `@err_NAT_V06_Q39 = 1`
 
@@ -79827,6 +86267,8 @@ Vous regardez une émission sur la chaîne TF1.L'animateur pose une question. Vo
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_Q40
@@ -79860,6 +86302,8 @@ Une amie en instance de divorce s'inquiète de savoir qui, entre elle et son fut
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -79873,6 +86317,8 @@ Une amie en instance de divorce s'inquiète de savoir qui, entre elle et son fut
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V06_Q40_FAUX
 `@err_NAT_V06_Q40 = 1`
 
@@ -79884,6 +86330,8 @@ Une amie en instance de divorce s'inquiète de savoir qui, entre elle et son fut
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V06_CORRIGE
@@ -80245,6 +86693,8 @@ Le divorce ne met pas fin à l'autorité parentale. En règle générale, les de
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V06_RESULT
@@ -80758,6 +87208,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V07_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -80799,6 +87251,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q01
 `@err_NAT_V07_Q01 = 0`
 `@exam_variant = 7`
@@ -80830,6 +87284,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -80843,6 +87299,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q01_FAUX
 `@err_NAT_V07_Q01 = 1`
 
@@ -80854,6 +87312,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q02
@@ -80885,6 +87345,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -80898,6 +87360,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q02_FAUX
 `@err_NAT_V07_Q02 = 1`
 
@@ -80909,6 +87373,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q03
@@ -80940,6 +87406,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -80953,6 +87421,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q03_FAUX
 `@err_NAT_V07_Q03 = 1`
 
@@ -80964,6 +87434,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q04
@@ -80995,6 +87467,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -81008,6 +87482,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q04_FAUX
 `@err_NAT_V07_Q04 = 1`
 
@@ -81019,6 +87495,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q05
@@ -81050,6 +87528,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -81063,6 +87543,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q05_FAUX
 `@err_NAT_V07_Q05 = 1`
 
@@ -81074,6 +87556,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q06
@@ -81105,6 +87589,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -81118,6 +87604,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q06_FAUX
 `@err_NAT_V07_Q06 = 1`
 
@@ -81129,6 +87617,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q07
@@ -81160,6 +87650,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -81173,6 +87665,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q07_FAUX
 `@err_NAT_V07_Q07 = 1`
 
@@ -81184,6 +87678,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q08
@@ -81215,6 +87711,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -81228,6 +87726,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q08_FAUX
 `@err_NAT_V07_Q08 = 1`
 
@@ -81239,6 +87739,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q09
@@ -81270,6 +87772,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -81283,6 +87787,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q09_FAUX
 `@err_NAT_V07_Q09 = 1`
 
@@ -81294,6 +87800,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q10
@@ -81325,6 +87833,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -81338,6 +87848,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q10_FAUX
 `@err_NAT_V07_Q10 = 1`
 
@@ -81349,6 +87861,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q11
@@ -81380,6 +87894,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -81393,6 +87909,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q11_FAUX
 `@err_NAT_V07_Q11 = 1`
 
@@ -81404,6 +87922,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q12
@@ -81435,6 +87955,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -81448,6 +87970,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q12_FAUX
 `@err_NAT_V07_Q12 = 1`
 
@@ -81459,6 +87983,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q13
@@ -81490,6 +88016,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -81503,6 +88031,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q13_FAUX
 `@err_NAT_V07_Q13 = 1`
 
@@ -81514,6 +88044,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q14
@@ -81545,6 +88077,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -81558,6 +88092,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q14_FAUX
 `@err_NAT_V07_Q14 = 1`
 
@@ -81569,6 +88105,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q15
@@ -81600,6 +88138,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -81613,6 +88153,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q15_FAUX
 `@err_NAT_V07_Q15 = 1`
 
@@ -81624,6 +88166,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q16
@@ -81655,6 +88199,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -81668,6 +88214,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q16_FAUX
 `@err_NAT_V07_Q16 = 1`
 
@@ -81679,6 +88227,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q17
@@ -81710,6 +88260,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -81723,6 +88275,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q17_FAUX
 `@err_NAT_V07_Q17 = 1`
 
@@ -81734,6 +88288,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q18
@@ -81765,6 +88321,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -81778,6 +88336,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q18_FAUX
 `@err_NAT_V07_Q18 = 1`
 
@@ -81789,6 +88349,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q19
@@ -81820,6 +88382,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -81833,6 +88397,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q19_FAUX
 `@err_NAT_V07_Q19 = 1`
 
@@ -81844,6 +88410,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q20
@@ -81875,6 +88443,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -81888,6 +88458,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q20_FAUX
 `@err_NAT_V07_Q20 = 1`
 
@@ -81899,6 +88471,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q21
@@ -81930,6 +88504,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -81943,6 +88519,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q21_FAUX
 `@err_NAT_V07_Q21 = 1`
 
@@ -81954,6 +88532,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q22
@@ -81985,6 +88565,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -81998,6 +88580,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q22_FAUX
 `@err_NAT_V07_Q22 = 1`
 
@@ -82009,6 +88593,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q23
@@ -82040,6 +88626,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -82053,6 +88641,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q23_FAUX
 `@err_NAT_V07_Q23 = 1`
 
@@ -82064,6 +88654,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q24
@@ -82095,6 +88687,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -82108,6 +88702,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q24_FAUX
 `@err_NAT_V07_Q24 = 1`
 
@@ -82119,6 +88715,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q25
@@ -82150,6 +88748,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -82163,6 +88763,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q25_FAUX
 `@err_NAT_V07_Q25 = 1`
 
@@ -82174,6 +88776,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q26
@@ -82205,6 +88809,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -82218,6 +88824,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q26_FAUX
 `@err_NAT_V07_Q26 = 1`
 
@@ -82229,6 +88837,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q27
@@ -82260,6 +88870,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -82273,6 +88885,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q27_FAUX
 `@err_NAT_V07_Q27 = 1`
 
@@ -82284,6 +88898,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q28
@@ -82315,6 +88931,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -82326,6 +88944,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q28_FAUX
@@ -82341,6 +88961,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -82352,6 +88974,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q29
@@ -82387,6 +89011,8 @@ Une polémique sur les réseaux sociaux amène votre entourage à débattre de c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -82400,6 +89026,8 @@ Une polémique sur les réseaux sociaux amène votre entourage à débattre de c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q29_FAUX
 `@err_NAT_V07_Q29 = 1`
 
@@ -82411,6 +89039,8 @@ Une polémique sur les réseaux sociaux amène votre entourage à débattre de c
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q30
@@ -82444,6 +89074,8 @@ Lors d'une révision pour son entretien de naturalisation, un ami confond souven
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -82457,6 +89089,8 @@ Lors d'une révision pour son entretien de naturalisation, un ami confond souven
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q30_FAUX
 `@err_NAT_V07_Q30 = 1`
 
@@ -82468,6 +89102,8 @@ Lors d'une révision pour son entretien de naturalisation, un ami confond souven
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q31
@@ -82501,6 +89137,8 @@ Votre grand-mère vous raconte souvent des récits sur la Seconde Guerre mondial
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -82514,6 +89152,8 @@ Votre grand-mère vous raconte souvent des récits sur la Seconde Guerre mondial
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q31_FAUX
 `@err_NAT_V07_Q31 = 1`
 
@@ -82525,6 +89165,8 @@ Votre grand-mère vous raconte souvent des récits sur la Seconde Guerre mondial
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q32
@@ -82558,6 +89200,8 @@ Abdel s'intéresse à l'histoire de France et il est passionné par le récit de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -82571,6 +89215,8 @@ Abdel s'intéresse à l'histoire de France et il est passionné par le récit de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q32_FAUX
 `@err_NAT_V07_Q32 = 1`
 
@@ -82582,6 +89228,8 @@ Abdel s'intéresse à l'histoire de France et il est passionné par le récit de
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q33
@@ -82615,6 +89263,8 @@ Un couple d'amis en pleine séparation se demande si un seul des deux époux peu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -82628,6 +89278,8 @@ Un couple d'amis en pleine séparation se demande si un seul des deux époux peu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q33_FAUX
 `@err_NAT_V07_Q33 = 1`
 
@@ -82639,6 +89291,8 @@ Un couple d'amis en pleine séparation se demande si un seul des deux époux peu
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q34
@@ -82672,6 +89326,8 @@ Après une consultation chez le médecin, un ami récemment arrivé en France vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -82685,6 +89341,8 @@ Après une consultation chez le médecin, un ami récemment arrivé en France vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q34_FAUX
 `@err_NAT_V07_Q34 = 1`
 
@@ -82696,6 +89354,8 @@ Après une consultation chez le médecin, un ami récemment arrivé en France vo
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q35
@@ -82729,6 +89389,8 @@ En France, le 14 juillet 2026 tombe un mardi. Votre entreprise fait "le pont" , 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -82742,6 +89404,8 @@ En France, le 14 juillet 2026 tombe un mardi. Votre entreprise fait "le pont" , 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q35_FAUX
 `@err_NAT_V07_Q35 = 1`
 
@@ -82753,6 +89417,8 @@ En France, le 14 juillet 2026 tombe un mardi. Votre entreprise fait "le pont" , 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q36
@@ -82786,6 +89452,8 @@ En vous rendant à la mairie pour faire une déclaration de naissance. Vous rema
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -82799,6 +89467,8 @@ En vous rendant à la mairie pour faire une déclaration de naissance. Vous rema
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q36_FAUX
 `@err_NAT_V07_Q36 = 1`
 
@@ -82810,6 +89480,8 @@ En vous rendant à la mairie pour faire une déclaration de naissance. Vous rema
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q37
@@ -82843,6 +89515,8 @@ Pendant une discussion sur l'actualité politique avec des collègues à la paus
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -82856,6 +89530,8 @@ Pendant une discussion sur l'actualité politique avec des collègues à la paus
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q37_FAUX
 `@err_NAT_V07_Q37 = 1`
 
@@ -82867,6 +89543,8 @@ Pendant une discussion sur l'actualité politique avec des collègues à la paus
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q38
@@ -82900,6 +89578,8 @@ Un ami vous confie ne plus se souvenir si les députés sont élus pour le même
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -82913,6 +89593,8 @@ Un ami vous confie ne plus se souvenir si les députés sont élus pour le même
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q38_FAUX
 `@err_NAT_V07_Q38 = 1`
 
@@ -82924,6 +89606,8 @@ Un ami vous confie ne plus se souvenir si les députés sont élus pour le même
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q39
@@ -82957,6 +89641,8 @@ Lors d'un jeu de culture générale organisé en famille, une carte demande comb
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -82970,6 +89656,8 @@ Lors d'un jeu de culture générale organisé en famille, une carte demande comb
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q39_FAUX
 `@err_NAT_V07_Q39 = 1`
 
@@ -82981,6 +89669,8 @@ Lors d'un jeu de culture générale organisé en famille, une carte demande comb
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_Q40
@@ -83014,6 +89704,8 @@ Un documentaire historique que vous regardez avec votre neveu évoque des pratiq
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -83027,6 +89719,8 @@ Un documentaire historique que vous regardez avec votre neveu évoque des pratiq
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V07_Q40_FAUX
 `@err_NAT_V07_Q40 = 1`
 
@@ -83038,6 +89732,8 @@ Un documentaire historique que vous regardez avec votre neveu évoque des pratiq
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V07_CORRIGE
@@ -83399,6 +90095,8 @@ La dignité humaine signifie que chaque personne doit être respectée. Les trai
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V07_RESULT
@@ -83912,6 +90610,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V08_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -83953,6 +90653,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q01
 `@err_NAT_V08_Q01 = 0`
 `@exam_variant = 8`
@@ -83984,6 +90686,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -83997,6 +90701,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q01_FAUX
 `@err_NAT_V08_Q01 = 1`
 
@@ -84008,6 +90714,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q02
@@ -84039,6 +90747,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -84052,6 +90762,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q02_FAUX
 `@err_NAT_V08_Q02 = 1`
 
@@ -84063,6 +90775,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q03
@@ -84094,6 +90808,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -84107,6 +90823,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q03_FAUX
 `@err_NAT_V08_Q03 = 1`
 
@@ -84118,6 +90836,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q04
@@ -84149,6 +90869,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -84162,6 +90884,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q04_FAUX
 `@err_NAT_V08_Q04 = 1`
 
@@ -84173,6 +90897,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q05
@@ -84204,6 +90930,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -84217,6 +90945,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q05_FAUX
 `@err_NAT_V08_Q05 = 1`
 
@@ -84228,6 +90958,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q06
@@ -84259,6 +90991,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -84272,6 +91006,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q06_FAUX
 `@err_NAT_V08_Q06 = 1`
 
@@ -84283,6 +91019,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q07
@@ -84314,6 +91052,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -84327,6 +91067,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q07_FAUX
 `@err_NAT_V08_Q07 = 1`
 
@@ -84338,6 +91080,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q08
@@ -84369,6 +91113,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -84382,6 +91128,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q08_FAUX
 `@err_NAT_V08_Q08 = 1`
 
@@ -84393,6 +91141,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q09
@@ -84424,6 +91174,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -84437,6 +91189,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q09_FAUX
 `@err_NAT_V08_Q09 = 1`
 
@@ -84448,6 +91202,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q10
@@ -84479,6 +91235,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -84492,6 +91250,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q10_FAUX
 `@err_NAT_V08_Q10 = 1`
 
@@ -84503,6 +91263,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q11
@@ -84534,6 +91296,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -84547,6 +91311,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q11_FAUX
 `@err_NAT_V08_Q11 = 1`
 
@@ -84558,6 +91324,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q12
@@ -84589,6 +91357,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -84602,6 +91372,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q12_FAUX
 `@err_NAT_V08_Q12 = 1`
 
@@ -84613,6 +91385,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q13
@@ -84644,6 +91418,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -84657,6 +91433,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q13_FAUX
 `@err_NAT_V08_Q13 = 1`
 
@@ -84668,6 +91446,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q14
@@ -84699,6 +91479,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -84712,6 +91494,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q14_FAUX
 `@err_NAT_V08_Q14 = 1`
 
@@ -84723,6 +91507,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q15
@@ -84754,6 +91540,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -84767,6 +91555,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q15_FAUX
 `@err_NAT_V08_Q15 = 1`
 
@@ -84778,6 +91568,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q16
@@ -84809,6 +91601,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -84822,6 +91616,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q16_FAUX
 `@err_NAT_V08_Q16 = 1`
 
@@ -84833,6 +91629,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q17
@@ -84864,6 +91662,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -84877,6 +91677,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q17_FAUX
 `@err_NAT_V08_Q17 = 1`
 
@@ -84888,6 +91690,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q18
@@ -84919,6 +91723,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -84932,6 +91738,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q18_FAUX
 `@err_NAT_V08_Q18 = 1`
 
@@ -84943,6 +91751,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q19
@@ -84974,6 +91784,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -84987,6 +91799,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q19_FAUX
 `@err_NAT_V08_Q19 = 1`
 
@@ -84998,6 +91812,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q20
@@ -85029,6 +91845,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -85042,6 +91860,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q20_FAUX
 `@err_NAT_V08_Q20 = 1`
 
@@ -85053,6 +91873,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q21
@@ -85084,6 +91906,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -85097,6 +91921,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q21_FAUX
 `@err_NAT_V08_Q21 = 1`
 
@@ -85108,6 +91934,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q22
@@ -85139,6 +91967,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -85152,6 +91982,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q22_FAUX
 `@err_NAT_V08_Q22 = 1`
 
@@ -85163,6 +91995,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q23
@@ -85194,6 +92028,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -85207,6 +92043,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q23_FAUX
 `@err_NAT_V08_Q23 = 1`
 
@@ -85218,6 +92056,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q24
@@ -85249,6 +92089,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -85262,6 +92104,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q24_FAUX
 `@err_NAT_V08_Q24 = 1`
 
@@ -85273,6 +92117,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q25
@@ -85304,6 +92150,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -85317,6 +92165,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q25_FAUX
 `@err_NAT_V08_Q25 = 1`
 
@@ -85328,6 +92178,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q26
@@ -85359,6 +92211,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -85372,6 +92226,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q26_FAUX
 `@err_NAT_V08_Q26 = 1`
 
@@ -85383,6 +92239,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q27
@@ -85414,6 +92272,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -85427,6 +92287,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q27_FAUX
 `@err_NAT_V08_Q27 = 1`
 
@@ -85438,6 +92300,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q28
@@ -85469,6 +92333,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -85480,6 +92346,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q28_FAUX
@@ -85495,6 +92363,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -85506,6 +92376,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q29
@@ -85541,6 +92413,8 @@ Pendant une discussion avec un ami devant un match de football. Vous entendez la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -85554,6 +92428,8 @@ Pendant une discussion avec un ami devant un match de football. Vous entendez la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q29_FAUX
 `@err_NAT_V08_Q29 = 1`
 
@@ -85565,6 +92441,8 @@ Pendant une discussion avec un ami devant un match de football. Vous entendez la
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q30
@@ -85598,6 +92476,8 @@ Regardant les infos avec votre père, il confond souvent les rôles du présiden
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -85611,6 +92491,8 @@ Regardant les infos avec votre père, il confond souvent les rôles du présiden
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q30_FAUX
 `@err_NAT_V08_Q30 = 1`
 
@@ -85622,6 +92504,8 @@ Regardant les infos avec votre père, il confond souvent les rôles du présiden
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q31
@@ -85655,6 +92539,8 @@ Un ami hésite à s'engager dans un parti politique local, craignant que ce ne s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -85668,6 +92554,8 @@ Un ami hésite à s'engager dans un parti politique local, craignant que ce ne s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q31_FAUX
 `@err_NAT_V08_Q31 = 1`
 
@@ -85679,6 +92567,8 @@ Un ami hésite à s'engager dans un parti politique local, craignant que ce ne s
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q32
@@ -85712,6 +92602,8 @@ Après avoir vu un reportage sur un procès, votre fils vous demande qui, en Fra
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -85725,6 +92617,8 @@ Après avoir vu un reportage sur un procès, votre fils vous demande qui, en Fra
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q32_FAUX
 `@err_NAT_V08_Q32 = 1`
 
@@ -85736,6 +92630,8 @@ Après avoir vu un reportage sur un procès, votre fils vous demande qui, en Fra
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q33
@@ -85769,6 +92665,8 @@ Vous regardez un fait divers rapporté au journal télévisé où la police a in
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -85782,6 +92680,8 @@ Vous regardez un fait divers rapporté au journal télévisé où la police a in
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q33_FAUX
 `@err_NAT_V08_Q33 = 1`
 
@@ -85793,6 +92693,8 @@ Vous regardez un fait divers rapporté au journal télévisé où la police a in
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q34
@@ -85826,6 +92728,8 @@ Une personne récemment arrivée en France s'étonne de voir tant de religions d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -85839,6 +92743,8 @@ Une personne récemment arrivée en France s'étonne de voir tant de religions d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q34_FAUX
 `@err_NAT_V08_Q34 = 1`
 
@@ -85850,6 +92756,8 @@ Une personne récemment arrivée en France s'étonne de voir tant de religions d
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q35
@@ -85883,6 +92791,8 @@ Un documentaire sur Robert Badinter que vous regardez avec votre conjoint évoqu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -85896,6 +92806,8 @@ Un documentaire sur Robert Badinter que vous regardez avec votre conjoint évoqu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q35_FAUX
 `@err_NAT_V08_Q35 = 1`
 
@@ -85907,6 +92819,8 @@ Un documentaire sur Robert Badinter que vous regardez avec votre conjoint évoqu
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q36
@@ -85940,6 +92854,8 @@ Le 8 mai, jour férié, votre fils vous demande pourquoi les écoles et les bure
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -85953,6 +92869,8 @@ Le 8 mai, jour férié, votre fils vous demande pourquoi les écoles et les bure
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q36_FAUX
 `@err_NAT_V08_Q36 = 1`
 
@@ -85964,6 +92882,8 @@ Le 8 mai, jour férié, votre fils vous demande pourquoi les écoles et les bure
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q37
@@ -85997,6 +92917,8 @@ Pendant un cours sur l'histoire de l'Europe, le formateur pose la question suiva
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -86010,6 +92932,8 @@ Pendant un cours sur l'histoire de l'Europe, le formateur pose la question suiva
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q37_FAUX
 `@err_NAT_V08_Q37 = 1`
 
@@ -86021,6 +92945,8 @@ Pendant un cours sur l'histoire de l'Europe, le formateur pose la question suiva
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q38
@@ -86054,6 +92980,8 @@ Une adolescente accompagnée de sa mère à une consultation gynécologique évo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -86067,6 +92995,8 @@ Une adolescente accompagnée de sa mère à une consultation gynécologique évo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q38_FAUX
 `@err_NAT_V08_Q38 = 1`
 
@@ -86078,6 +93008,8 @@ Une adolescente accompagnée de sa mère à une consultation gynécologique évo
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q39
@@ -86111,6 +93043,8 @@ Inquiète que son employeur puisse connaître son état de santé, une collègue
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -86124,6 +93058,8 @@ Inquiète que son employeur puisse connaître son état de santé, une collègue
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q39_FAUX
 `@err_NAT_V08_Q39 = 1`
 
@@ -86135,6 +93071,8 @@ Inquiète que son employeur puisse connaître son état de santé, une collègue
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_Q40
@@ -86168,6 +93106,8 @@ Inquiète que son employeur puisse connaître son état de santé, une collègue
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -86181,6 +93121,8 @@ Inquiète que son employeur puisse connaître son état de santé, une collègue
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V08_Q40_FAUX
 `@err_NAT_V08_Q40 = 1`
 
@@ -86192,6 +93134,8 @@ Inquiète que son employeur puisse connaître son état de santé, une collègue
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V08_CORRIGE
@@ -86551,6 +93495,8 @@ La fraternité est l'une des trois valeurs de la devise républicaine. Elle invi
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V08_RESULT
@@ -87064,6 +94010,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V09_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -87105,6 +94053,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q01
 `@err_NAT_V09_Q01 = 0`
 `@exam_variant = 9`
@@ -87136,6 +94086,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -87149,6 +94101,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q01_FAUX
 `@err_NAT_V09_Q01 = 1`
 
@@ -87160,6 +94114,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q02
@@ -87191,6 +94147,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -87204,6 +94162,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q02_FAUX
 `@err_NAT_V09_Q02 = 1`
 
@@ -87215,6 +94175,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q03
@@ -87246,6 +94208,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -87259,6 +94223,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q03_FAUX
 `@err_NAT_V09_Q03 = 1`
 
@@ -87270,6 +94236,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q04
@@ -87301,6 +94269,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -87314,6 +94284,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q04_FAUX
 `@err_NAT_V09_Q04 = 1`
 
@@ -87325,6 +94297,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q05
@@ -87356,6 +94330,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -87369,6 +94345,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q05_FAUX
 `@err_NAT_V09_Q05 = 1`
 
@@ -87380,6 +94358,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q06
@@ -87411,6 +94391,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -87424,6 +94406,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q06_FAUX
 `@err_NAT_V09_Q06 = 1`
 
@@ -87435,6 +94419,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q07
@@ -87466,6 +94452,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -87479,6 +94467,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q07_FAUX
 `@err_NAT_V09_Q07 = 1`
 
@@ -87490,6 +94480,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q08
@@ -87521,6 +94513,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -87534,6 +94528,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q08_FAUX
 `@err_NAT_V09_Q08 = 1`
 
@@ -87545,6 +94541,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q09
@@ -87576,6 +94574,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -87589,6 +94589,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q09_FAUX
 `@err_NAT_V09_Q09 = 1`
 
@@ -87600,6 +94602,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q10
@@ -87631,6 +94635,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -87644,6 +94650,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q10_FAUX
 `@err_NAT_V09_Q10 = 1`
 
@@ -87655,6 +94663,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q11
@@ -87686,6 +94696,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -87699,6 +94711,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q11_FAUX
 `@err_NAT_V09_Q11 = 1`
 
@@ -87710,6 +94724,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q12
@@ -87741,6 +94757,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -87754,6 +94772,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q12_FAUX
 `@err_NAT_V09_Q12 = 1`
 
@@ -87765,6 +94785,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q13
@@ -87796,6 +94818,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -87809,6 +94833,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q13_FAUX
 `@err_NAT_V09_Q13 = 1`
 
@@ -87820,6 +94846,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q14
@@ -87851,6 +94879,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -87864,6 +94894,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q14_FAUX
 `@err_NAT_V09_Q14 = 1`
 
@@ -87875,6 +94907,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q15
@@ -87906,6 +94940,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -87919,6 +94955,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q15_FAUX
 `@err_NAT_V09_Q15 = 1`
 
@@ -87930,6 +94968,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q16
@@ -87961,6 +95001,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -87974,6 +95016,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q16_FAUX
 `@err_NAT_V09_Q16 = 1`
 
@@ -87985,6 +95029,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q17
@@ -88016,6 +95062,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -88029,6 +95077,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q17_FAUX
 `@err_NAT_V09_Q17 = 1`
 
@@ -88040,6 +95090,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q18
@@ -88071,6 +95123,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -88084,6 +95138,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q18_FAUX
 `@err_NAT_V09_Q18 = 1`
 
@@ -88095,6 +95151,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q19
@@ -88126,6 +95184,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -88139,6 +95199,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q19_FAUX
 `@err_NAT_V09_Q19 = 1`
 
@@ -88150,6 +95212,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q20
@@ -88181,6 +95245,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -88194,6 +95260,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q20_FAUX
 `@err_NAT_V09_Q20 = 1`
 
@@ -88205,6 +95273,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q21
@@ -88236,6 +95306,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -88249,6 +95321,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q21_FAUX
 `@err_NAT_V09_Q21 = 1`
 
@@ -88260,6 +95334,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q22
@@ -88291,6 +95367,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -88304,6 +95382,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q22_FAUX
 `@err_NAT_V09_Q22 = 1`
 
@@ -88315,6 +95395,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q23
@@ -88346,6 +95428,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -88359,6 +95443,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q23_FAUX
 `@err_NAT_V09_Q23 = 1`
 
@@ -88370,6 +95456,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q24
@@ -88401,6 +95489,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -88414,6 +95504,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q24_FAUX
 `@err_NAT_V09_Q24 = 1`
 
@@ -88425,6 +95517,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q25
@@ -88456,6 +95550,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -88469,6 +95565,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q25_FAUX
 `@err_NAT_V09_Q25 = 1`
 
@@ -88480,6 +95578,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q26
@@ -88511,6 +95611,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -88524,6 +95626,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q26_FAUX
 `@err_NAT_V09_Q26 = 1`
 
@@ -88535,6 +95639,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q27
@@ -88566,6 +95672,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -88579,6 +95687,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q27_FAUX
 `@err_NAT_V09_Q27 = 1`
 
@@ -88590,6 +95700,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q28
@@ -88621,6 +95733,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -88632,6 +95746,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q28_FAUX
@@ -88647,6 +95763,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -88658,6 +95776,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q29
@@ -88693,6 +95813,8 @@ En regardant une carte avec votre fille avant un voyage en Angleterre, elle vous
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -88706,6 +95828,8 @@ En regardant une carte avec votre fille avant un voyage en Angleterre, elle vous
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q29_FAUX
 `@err_NAT_V09_Q29 = 1`
 
@@ -88717,6 +95841,8 @@ En regardant une carte avec votre fille avant un voyage en Angleterre, elle vous
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q30
@@ -88750,6 +95876,8 @@ L'école fait un rappel aux parents via le carnet de liaison. Le 11 novembre l'�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -88763,6 +95891,8 @@ L'école fait un rappel aux parents via le carnet de liaison. Le 11 novembre l'�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q30_FAUX
 `@err_NAT_V09_Q30 = 1`
 
@@ -88774,6 +95904,8 @@ L'école fait un rappel aux parents via le carnet de liaison. Le 11 novembre l'�
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q31
@@ -88807,6 +95939,8 @@ Un nouvel arrivant vient de recevoir sa première carte Vitale et vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -88820,6 +95954,8 @@ Un nouvel arrivant vient de recevoir sa première carte Vitale et vous demande :
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q31_FAUX
 `@err_NAT_V09_Q31 = 1`
 
@@ -88831,6 +95967,8 @@ Un nouvel arrivant vient de recevoir sa première carte Vitale et vous demande :
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q32
@@ -88864,6 +96002,8 @@ Une amie hésite à souscrire une mutuelle, pensant que la Sécurité sociale re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -88877,6 +96017,8 @@ Une amie hésite à souscrire une mutuelle, pensant que la Sécurité sociale re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q32_FAUX
 `@err_NAT_V09_Q32 = 1`
 
@@ -88888,6 +96030,8 @@ Une amie hésite à souscrire une mutuelle, pensant que la Sécurité sociale re
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q33
@@ -88921,6 +96065,8 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -88934,6 +96080,8 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q33_FAUX
 `@err_NAT_V09_Q33 = 1`
 
@@ -88945,6 +96093,8 @@ Lors d’un échange dans une association locale, une personne souhaite mieux co
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q34
@@ -88978,6 +96128,8 @@ Une amie à vous est très fière d'avoir pu réaliser son rêve. Elle a lancé 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -88991,6 +96143,8 @@ Une amie à vous est très fière d'avoir pu réaliser son rêve. Elle a lancé 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q34_FAUX
 `@err_NAT_V09_Q34 = 1`
 
@@ -89002,6 +96156,8 @@ Une amie à vous est très fière d'avoir pu réaliser son rêve. Elle a lancé 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q35
@@ -89035,6 +96191,8 @@ Votre sœur, qui vient d'emménager, se renseigne sur les travaux à venir dans 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -89048,6 +96206,8 @@ Votre sœur, qui vient d'emménager, se renseigne sur les travaux à venir dans 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q35_FAUX
 `@err_NAT_V09_Q35 = 1`
 
@@ -89059,6 +96219,8 @@ Votre sœur, qui vient d'emménager, se renseigne sur les travaux à venir dans 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q36
@@ -89092,6 +96254,8 @@ Lors d'une réunion de parents d'élèves, la directrice évoque un budget voté
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -89105,6 +96269,8 @@ Lors d'une réunion de parents d'élèves, la directrice évoque un budget voté
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q36_FAUX
 `@err_NAT_V09_Q36 = 1`
 
@@ -89116,6 +96282,8 @@ Lors d'une réunion de parents d'élèves, la directrice évoque un budget voté
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q37
@@ -89149,6 +96317,8 @@ Après les élections municipales, votre neveu s'étonne : il pensait que les ha
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -89162,6 +96332,8 @@ Après les élections municipales, votre neveu s'étonne : il pensait que les ha
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q37_FAUX
 `@err_NAT_V09_Q37 = 1`
 
@@ -89173,6 +96345,8 @@ Après les élections municipales, votre neveu s'étonne : il pensait que les ha
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q38
@@ -89206,6 +96380,8 @@ Votre fille de 14 ans veut créer un compte sur un réseau social et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -89219,6 +96395,8 @@ Votre fille de 14 ans veut créer un compte sur un réseau social et vous demand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q38_FAUX
 `@err_NAT_V09_Q38 = 1`
 
@@ -89230,6 +96408,8 @@ Votre fille de 14 ans veut créer un compte sur un réseau social et vous demand
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q39
@@ -89263,6 +96443,8 @@ Un ami fumeur se plaint de ne plus pouvoir fumer nulle part en public et vous de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -89276,6 +96458,8 @@ Un ami fumeur se plaint de ne plus pouvoir fumer nulle part en public et vous de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q39_FAUX
 `@err_NAT_V09_Q39 = 1`
 
@@ -89287,6 +96471,8 @@ Un ami fumeur se plaint de ne plus pouvoir fumer nulle part en public et vous de
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_Q40
@@ -89320,6 +96506,8 @@ Un ami passionné d'histoire vous emmène visiter un musée de la Résistance et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -89333,6 +96521,8 @@ Un ami passionné d'histoire vous emmène visiter un musée de la Résistance et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V09_Q40_FAUX
 `@err_NAT_V09_Q40 = 1`
 
@@ -89344,6 +96534,8 @@ Un ami passionné d'histoire vous emmène visiter un musée de la Résistance et
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V09_CORRIGE
@@ -89705,6 +96897,8 @@ Jean Moulin est chargé par le général de Gaulle d'unifier les mouvements de R
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V09_RESULT
@@ -90218,6 +97412,8 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 
+
+
 ## EXAM_NAT_V10_PART1
 `@exam_score = 0`
 `@exam_t1 = 0`
@@ -90259,6 +97455,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q01
 `@err_NAT_V10_Q01 = 0`
 `@exam_variant = 10`
@@ -90290,6 +97488,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q01_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -90303,6 +97503,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q01_FAUX
 `@err_NAT_V10_Q01 = 1`
 
@@ -90314,6 +97516,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q02
@@ -90345,6 +97549,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q02_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -90358,6 +97564,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q02_FAUX
 `@err_NAT_V10_Q02 = 1`
 
@@ -90369,6 +97577,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q03
@@ -90400,6 +97610,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q03_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -90413,6 +97625,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q03_FAUX
 `@err_NAT_V10_Q03 = 1`
 
@@ -90424,6 +97638,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q04
@@ -90455,6 +97671,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q04_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -90468,6 +97686,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q04_FAUX
 `@err_NAT_V10_Q04 = 1`
 
@@ -90479,6 +97699,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q05
@@ -90510,6 +97732,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q05_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -90523,6 +97747,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q05_FAUX
 `@err_NAT_V10_Q05 = 1`
 
@@ -90534,6 +97760,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q06
@@ -90565,6 +97793,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q06_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -90578,6 +97808,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q06_FAUX
 `@err_NAT_V10_Q06 = 1`
 
@@ -90589,6 +97821,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q07
@@ -90620,6 +97854,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q07_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -90633,6 +97869,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q07_FAUX
 `@err_NAT_V10_Q07 = 1`
 
@@ -90644,6 +97882,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q08
@@ -90675,6 +97915,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q08_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -90688,6 +97930,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q08_FAUX
 `@err_NAT_V10_Q08 = 1`
 
@@ -90699,6 +97943,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q09
@@ -90730,6 +97976,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q09_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -90743,6 +97991,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q09_FAUX
 `@err_NAT_V10_Q09 = 1`
 
@@ -90754,6 +98004,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q10
@@ -90785,6 +98037,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q10_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -90798,6 +98052,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q10_FAUX
 `@err_NAT_V10_Q10 = 1`
 
@@ -90809,6 +98065,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q11
@@ -90840,6 +98098,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q11_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -90853,6 +98113,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q11_FAUX
 `@err_NAT_V10_Q11 = 1`
 
@@ -90864,6 +98126,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q12
@@ -90895,6 +98159,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q12_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -90908,6 +98174,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q12_FAUX
 `@err_NAT_V10_Q12 = 1`
 
@@ -90919,6 +98187,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q13
@@ -90950,6 +98220,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q13_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -90963,6 +98235,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q13_FAUX
 `@err_NAT_V10_Q13 = 1`
 
@@ -90974,6 +98248,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q14
@@ -91005,6 +98281,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q14_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -91018,6 +98296,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q14_FAUX
 `@err_NAT_V10_Q14 = 1`
 
@@ -91029,6 +98309,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q15
@@ -91060,6 +98342,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q15_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -91073,6 +98357,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q15_FAUX
 `@err_NAT_V10_Q15 = 1`
 
@@ -91084,6 +98370,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q16
@@ -91115,6 +98403,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q16_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -91128,6 +98418,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q16_FAUX
 `@err_NAT_V10_Q16 = 1`
 
@@ -91139,6 +98431,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q17
@@ -91170,6 +98464,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q17_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -91183,6 +98479,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q17_FAUX
 `@err_NAT_V10_Q17 = 1`
 
@@ -91194,6 +98492,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q18
@@ -91225,6 +98525,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q18_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -91238,6 +98540,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q18_FAUX
 `@err_NAT_V10_Q18 = 1`
 
@@ -91249,6 +98553,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q19
@@ -91280,6 +98586,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q19_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -91293,6 +98601,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q19_FAUX
 `@err_NAT_V10_Q19 = 1`
 
@@ -91304,6 +98614,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q20
@@ -91335,6 +98647,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q20_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -91348,6 +98662,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q20_FAUX
 `@err_NAT_V10_Q20 = 1`
 
@@ -91359,6 +98675,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q21
@@ -91390,6 +98708,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q21_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -91403,6 +98723,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q21_FAUX
 `@err_NAT_V10_Q21 = 1`
 
@@ -91414,6 +98736,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q22
@@ -91445,6 +98769,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q22_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -91458,6 +98784,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q22_FAUX
 `@err_NAT_V10_Q22 = 1`
 
@@ -91469,6 +98797,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q23
@@ -91500,6 +98830,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q23_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -91513,6 +98845,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q23_FAUX
 `@err_NAT_V10_Q23 = 1`
 
@@ -91524,6 +98858,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q24
@@ -91555,6 +98891,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q24_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -91568,6 +98906,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q24_FAUX
 `@err_NAT_V10_Q24 = 1`
 
@@ -91579,6 +98919,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q25
@@ -91610,6 +98952,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q25_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -91623,6 +98967,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q25_FAUX
 `@err_NAT_V10_Q25 = 1`
 
@@ -91634,6 +98980,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q26
@@ -91665,6 +99013,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q26_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -91678,6 +99028,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q26_FAUX
 `@err_NAT_V10_Q26 = 1`
 
@@ -91689,6 +99041,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q27
@@ -91720,6 +99074,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q27_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -91733,6 +99089,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q27_FAUX
 `@err_NAT_V10_Q27 = 1`
 
@@ -91744,6 +99102,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q28
@@ -91775,6 +99135,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q28_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -91786,6 +99148,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q28_FAUX
@@ -91801,6 +99165,8 @@ Vous allez répondre à **28 questions de connaissances**. Elles évaluent vos r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_PART2
 ### 🎭 Partie 2 sur 2 — Mises en situation
 
@@ -91812,6 +99178,8 @@ La première partie est terminée. Vous allez maintenant répondre à **12 mises
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q29
@@ -91847,6 +99215,8 @@ Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une no
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q29_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -91860,6 +99230,8 @@ Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une no
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q29_FAUX
 `@err_NAT_V10_Q29 = 1`
 
@@ -91871,6 +99243,8 @@ Vous discutez avec votre collègue à la machine à café. Il s'étonne d'une no
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q30
@@ -91904,6 +99278,8 @@ Pendant un débat télévisé sur les institutions, l'animateur pose une questio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q30_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -91917,6 +99293,8 @@ Pendant un débat télévisé sur les institutions, l'animateur pose une questio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q30_FAUX
 `@err_NAT_V10_Q30 = 1`
 
@@ -91928,6 +99306,8 @@ Pendant un débat télévisé sur les institutions, l'animateur pose une questio
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q31
@@ -91961,6 +99341,8 @@ Un jeune voisin envisage de prendre le volant sans avoir encore son permis, pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q31_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -91974,6 +99356,8 @@ Un jeune voisin envisage de prendre le volant sans avoir encore son permis, pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q31_FAUX
 `@err_NAT_V10_Q31 = 1`
 
@@ -91985,6 +99369,8 @@ Un jeune voisin envisage de prendre le volant sans avoir encore son permis, pour
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q32
@@ -92018,6 +99404,8 @@ Lors d'une collecte organisée par une association de quartier, un bénévole vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q32_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t3 = calc(@exam_t3+1)`
@@ -92031,6 +99419,8 @@ Lors d'une collecte organisée par une association de quartier, un bénévole vo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q32_FAUX
 `@err_NAT_V10_Q32 = 1`
 
@@ -92042,6 +99432,8 @@ Lors d'une collecte organisée par une association de quartier, un bénévole vo
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q33
@@ -92075,6 +99467,8 @@ Vous visitez un musée consacré à l'histoire des colonisations et de l'esclava
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q33_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -92088,6 +99482,8 @@ Vous visitez un musée consacré à l'histoire des colonisations et de l'esclava
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q33_FAUX
 `@err_NAT_V10_Q33 = 1`
 
@@ -92099,6 +99495,8 @@ Vous visitez un musée consacré à l'histoire des colonisations et de l'esclava
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q34
@@ -92132,6 +99530,8 @@ Vous visitez un musée dédié à l'histoire et à la géographie de France avec
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q34_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -92145,6 +99545,8 @@ Vous visitez un musée dédié à l'histoire et à la géographie de France avec
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q34_FAUX
 `@err_NAT_V10_Q34 = 1`
 
@@ -92156,6 +99558,8 @@ Vous visitez un musée dédié à l'histoire et à la géographie de France avec
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q35
@@ -92189,6 +99593,8 @@ Prévoyant un séjour de randonnée à la frontière espagnole, un ami vous dema
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q35_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t4 = calc(@exam_t4+1)`
@@ -92202,6 +99608,8 @@ Prévoyant un séjour de randonnée à la frontière espagnole, un ami vous dema
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q35_FAUX
 `@err_NAT_V10_Q35 = 1`
 
@@ -92213,6 +99621,8 @@ Prévoyant un séjour de randonnée à la frontière espagnole, un ami vous dema
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q36
@@ -92246,6 +99656,8 @@ Prévoyant un séjour de randonnée à la frontière espagnole, un ami vous dema
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q36_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -92259,6 +99671,8 @@ Prévoyant un séjour de randonnée à la frontière espagnole, un ami vous dema
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q36_FAUX
 `@err_NAT_V10_Q36 = 1`
 
@@ -92270,6 +99684,8 @@ Prévoyant un séjour de randonnée à la frontière espagnole, un ami vous dema
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q37
@@ -92303,6 +99719,8 @@ Un étudiant étranger fraîchement arrivé se demande s'il est vraiment obligé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q37_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t5 = calc(@exam_t5+1)`
@@ -92316,6 +99734,8 @@ Un étudiant étranger fraîchement arrivé se demande s'il est vraiment obligé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q37_FAUX
 `@err_NAT_V10_Q37 = 1`
 
@@ -92327,6 +99747,8 @@ Un étudiant étranger fraîchement arrivé se demande s'il est vraiment obligé
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q38
@@ -92360,6 +99782,8 @@ Votre fille prépare un devoir d'histoire sur la Révolution française. Elle a 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q38_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -92373,6 +99797,8 @@ Votre fille prépare un devoir d'histoire sur la Révolution française. Elle a 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q38_FAUX
 `@err_NAT_V10_Q38 = 1`
 
@@ -92384,6 +99810,8 @@ Votre fille prépare un devoir d'histoire sur la Révolution française. Elle a 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q39
@@ -92417,6 +99845,8 @@ Un ami suit actuellement les cours d'une formation civique. Il a compris que la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q39_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t1 = calc(@exam_t1+1)`
@@ -92430,6 +99860,8 @@ Un ami suit actuellement les cours d'une formation civique. Il a compris que la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q39_FAUX
 `@err_NAT_V10_Q39 = 1`
 
@@ -92441,6 +99873,8 @@ Un ami suit actuellement les cours d'une formation civique. Il a compris que la 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_Q40
@@ -92474,6 +99908,8 @@ En attendant votre train régional en retard sur le quai, vous discutez avec un 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q40_VRAI
 `@exam_score = calc(@exam_score+1)`
 `@exam_t2 = calc(@exam_t2+1)`
@@ -92487,6 +99923,8 @@ En attendant votre train régional en retard sur le quai, vous discutez avec un 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 
+
+
 ## EXAM_NAT_V10_Q40_FAUX
 `@err_NAT_V10_Q40 = 1`
 
@@ -92498,6 +99936,8 @@ En attendant votre train régional en retard sur le quai, vous discutez avec un 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 ## EXAM_NAT_V10_CORRIGE
@@ -92859,6 +100299,8 @@ Les régions organisent notamment les transports régionaux (comme les trains r�
 
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 
 
 ## EXAM_NAT_V10_RESULT
@@ -93369,4 +100811,6 @@ Commencez par les priorités les plus fortes, puis réalisez un nouvel entraîne
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 1. [↩️ Retour au menu du module](SCR_PREP_MENU)
+
+
 

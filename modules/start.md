@@ -13,3 +13,5 @@
 8. [❔ Consulter la FAQ](SCR_FAQ_MENU)
 9. [❓ Poser une question](SCR_QL_RESET)
 10. [ℹ️ Obtenir de l’aide](SCR_ACC_AIDE)
+
+1. [🧭 Consulter mon parcours personnalisé](SCR_PARCOURS_MENU)

@@ -19,13 +19,6 @@ Choisissez le conseil qui correspond à votre besoin du moment. Chaque rubrique 
 8. [👤 Préparer l’entretien de naturalisation](SCR_CONS_ENTRETIEN_MENU)
 9. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
-
-
-
-
-
-
 
 
 ## SCR_CONS_GUIDE_MENU
@@ -53,13 +46,6 @@ Une préparation efficace repose sur trois habitudes :
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
-
-
-
-
-
-
 
 
 ## SCR_CONS_PARCOURS_MENU
@@ -86,10 +72,9 @@ Priorisez les thèmes faibles repérés dans votre bilan. Faites des séries cou
 3. [🎯 M’entraîner](SCR_ENT_MENU)
 4. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
-
-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -120,10 +105,9 @@ Suivez les étapes dans l’ordre. Chaque partie contient une explication courte
 12. [🎯 Vérifier mes acquis](SCR_ENT_MENU)
 13. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
-
-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -150,10 +134,9 @@ Oublier ne signifie pas que vous avez une mauvaise mémoire. Chaque fois que vou
 2. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_01](SCR_QL_RESET)
-
-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -183,12 +166,11 @@ L’objectif n’est pas de tout apprendre en une seule fois, mais de **consolid
 2. [➡️ Secret n°1 : comprendre](SCR_CONS_MEMOIRE_03)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_02](SCR_QL_RESET)
-
-
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -217,12 +199,11 @@ Après avoir lu une notion, fermez le cours et expliquez-la avec vos propres mot
 2. [➡️ Secret n°2 : espacer mes révisions](SCR_CONS_MEMOIRE_04)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_03](SCR_QL_RESET)
-
-
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -252,12 +233,11 @@ Notez la prochaine date de révision dans votre téléphone ou votre agenda. Que
 2. [➡️ Secret n°3 : me tester](SCR_CONS_MEMOIRE_05)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_04](SCR_QL_RESET)
-
-
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -288,12 +268,11 @@ Après une erreur :
 3. [🎯 Faire un entraînement](SCR_ENT_MENU)
 4. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_05](SCR_QL_RESET)
-
-
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -323,12 +302,11 @@ Au lieu de retenir seulement « 1789 », vous retenez un ensemble logique.
 3. [🧩 Voir les moyens mnémotechniques](SCR_CONS_MNEMO_MENU)
 4. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_06](SCR_QL_RESET)
-
-
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -358,12 +336,11 @@ Faites ensuite une courte pause avant de commencer une nouvelle séance.
 2. [➡️ Secret n°6 : dormir](SCR_CONS_MEMOIRE_08)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_07](SCR_QL_RESET)
-
-
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -388,12 +365,11 @@ Le sommeil ne remplace pas les révisions : il aide votre cerveau à stabiliser 
 2. [➡️ Retenir la méthode complète](SCR_CONS_MEMOIRE_09)
 3. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_08](SCR_QL_RESET)
-
-
 1. [↩️ Retour au menu du module](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -428,10 +404,9 @@ La mémoire n’est pas une question de chance : elle s’améliore grâce à un
 4. [🧠 Revoir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 5. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MEMOIRE_09](SCR_QL_RESET)
-
-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -460,10 +435,9 @@ Associez une date à une scène, une institution à un lieu ou une liste à une 
 2. [📖 Rechercher une notion](SCR_GLO_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
-
-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -494,10 +468,9 @@ Vous disposez d’un peu plus d’une minute par question. Si vous hésitez, res
 2. [🏛️ Faire un examen blanc](SCR_PREP_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
-
-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -523,13 +496,11 @@ Si une situation concerne une discrimination, demandez-vous quelle réponse prot
 :::
 
 1. [🎯 M’entraîner aux mises en situation](SCR_ENT_MENU)
-2. [📚 Revoir les droits et devoirs](SCR_REV_T3_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
-
-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -553,14 +524,13 @@ Si une situation concerne une discrimination, demandez-vous quelle réponse prot
 Une erreur corrigée vous indique exactement ce que vous devez retravailler. L’objectif n’est pas de l’éviter à tout prix pendant l’entraînement, mais de ne pas la répéter.
 :::
 
-1. [📚 Réviser mes points faibles](SCR_REV_MENU)
+1. [📚 Réviser mes points faibles](SCR_PARCOURS_FAIBLES)
 2. [🎯 Refaire un entraînement](SCR_ENT_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
-
-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -592,9 +562,9 @@ Ne récitez pas un texte appris par cœur et n’inventez pas une réponse. Une 
 3. [🎯 M’entraîner](SCR_ENT_MENU)
 4. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
-1. [❓ Poser une question @qlOrigine=SCR_CONS_MENU](SCR_QL_RESET)
-
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 

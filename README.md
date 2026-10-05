@@ -1,8 +1,10 @@
-# Chatbot civique NovaFrate
+# Chatbot civique NovaFrate — expérience v7
 
 Ce dépôt contient la version publiée du chatbot ChatMD de préparation à
 l’examen civique, ses modules de maintenance et les ressources web utilisées
 par le minuteur et la recherche de centres.
+
+La version v7 intègre les améliorations du document « Amélioration chat bot V2 ». Voir `AMELIORATIONS_V7.md` pour le détail et les commandes de maintenance.
 
 ## Fichier utilisé par ChatMD
 

@@ -10,7 +10,9 @@ def presentation(text):
  text=text.replace('Préparer mon examen','Passer un examen blanc').replace('Préparer un examen blanc','Passer un examen blanc').replace('préparer un examen blanc','passer un examen blanc').replace('Passer mon examen civique','S’inscrire à l’examen civique').replace('Passer mon examen','S’inscrire à l’examen civique')
  def icon(m):
   label,target=m[2],m[3]
-  for title,asset in [('Carte de séjour pluriannuelle','csp'),('Carte de résident','resident'),('Naturalisation','naturalisation')]:
+  if target.startswith(('ENT_','EXAM_','BIL_')) and target.endswith(('_VRAI','_FAUX')):
+   return m[0] if label.startswith('🔘 ') else m[1]+'[🔘 '+label+']('+target+')'
+  for title,asset in [('Carte de séjour pluriannuelle','csp-v7'),('Carte de résident','resident'),('Naturalisation','naturalisation-v7')]:
    if title in label:
     # Préserver les variables éventuelles portées par le libellé.
     clean=label[label.index(title):]
@@ -68,6 +70,18 @@ def main():
   .glo-key.disabled { color: #7b7b7b; background: #eee; border-color: #ddd; }
   .glo-key:focus-visible { outline: 3px solid #a61c3c; outline-offset: 3px; }
   .deadline-orange { display: inline-block; width: 14px; height: 14px; background: #c65d00; border-radius: 50%; vertical-align: middle; margin-right: 5px; }
+  .civi-progress-row { display: flex; align-items: center; gap: 10px; margin: 12px 0; max-width: 650px; }
+  .civi-progress-track { flex: 1 1 auto; min-width: 35px; height: 15px; background: #e5dbe6; border-radius: 8px; overflow: hidden; }
+  .civi-progress-track span { display: block; height: 100%; background: #37b97c; border-radius: inherit; }
+  .civi-progress-label { flex: 0 0 auto; white-space: nowrap; font-weight: 600; }
+  .admonitionTitle:has(.civi-faq-title):before, .admonitionTitle:has(.civi-theme-title):before { content: none !important; display: none !important; }
+  #controls { bottom: 26px !important; padding-bottom: 8px !important; height: auto !important; min-height: 54px; }
+  #footer { bottom: 3px !important; height: 19px; line-height: 19px; margin: 0 !important; font-size: 12px; }
+  #chat { margin-bottom: 130px !important; }
+  #chat table { border-collapse: collapse; width: 100%; }
+  #chat th, #chat td { border: 1px solid #d8a9b4; padding: 12px; text-align: left; vertical-align: top; }
+  #chat th { background: #f5e3e8; }
+  #chat tbody tr:nth-child(even) { background: #fff8fa; }
   .civic-icon { vertical-align: middle; object-fit: contain; margin-right: 5px; }
   #chat h3 { margin-top: 24px; margin-bottom: 14px; line-height: 1.4; }
   #chat p { line-height: 1.65; }
@@ -79,6 +93,7 @@ def main():
  else:text=text.replace('\n---\n\n# Coach',css+'\n---\n\n# Coach',1)
  for mod in Path('modules').glob('*.md'):
   begin=f'<!-- Début du fichier source : modules/{mod.name} -->';end=f'<!-- Fin du fichier source : modules/{mod.name} -->'
+  if begin not in text:text+='\n\n'+begin+'\n\n'+mod.read_text().strip()+'\n\n'+end+'\n'
   if begin in text:text=re.sub(re.escape(begin)+r'.*?'+re.escape(end),lambda m:begin+'\n\n'+mod.read_text().strip()+'\n\n'+end,text,flags=re.S)
  p.write_text(text)
 if __name__=='__main__':main()

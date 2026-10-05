@@ -35,6 +35,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_ANNEMASSE
 ### 📍 Annemasse (74)
 
@@ -62,6 +64,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -103,6 +107,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_BESANCON
 ### 📍 Besançon (25)
 
@@ -130,6 +136,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -171,6 +179,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_BOURGES
 ### 📍 Bourges (18)
 
@@ -205,6 +215,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_CHAUMONT
 ### 📍 Chaumont (52)
 
@@ -231,6 +243,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -272,6 +286,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_DIJON
 ### Dijon (21)
 
@@ -299,6 +315,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -340,6 +358,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_LONS_LE_SAUNIER
 ### 📍 Lons-le-Saunier (39)
 
@@ -367,6 +387,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -408,6 +430,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_MONTCEAU_LES_MINES
 ### 📍 Montceau-les-Mines (71)
 
@@ -434,6 +458,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -475,6 +501,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_MACON
 ### 📍 Mâcon (71)
 
@@ -502,6 +530,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -543,6 +573,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_REIMS
 ### 📍 Reims (51)
 
@@ -570,6 +602,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -611,6 +645,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_SAINT_FLOUR
 ### 📍 Saint-Flour (15)
 
@@ -637,6 +673,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -678,6 +716,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_STRASBOURG
 ### 📍 Strasbourg (67)
 
@@ -705,6 +745,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -746,6 +788,8 @@
 
 
 
+
+
 ## SCR_PASS_CITY_VALSERHONE
 ### 📍 Valserhône (01)
 
@@ -773,6 +817,8 @@
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -814,6 +860,8 @@
 
 
 
+
+
 ## SCR_PASS_INFO_MENU
 ### ❓ Questions sur l’examen civique
 
@@ -833,6 +881,8 @@ Choisissez votre question. Chaque réponse vous donne les repères essentiels et
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -869,6 +919,8 @@ Le chatbot vous accompagne à chaque étape de votre préparation :
 
 
 
+
+
 ## SCR_PASS_INFO_MATCH
 ### 🪪 Quel examen correspond à ma situation ?
 
@@ -889,6 +941,8 @@ Choisissez dans le chatbot le même parcours que celui indiqué pour votre déma
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -928,6 +982,8 @@ Vous disposez en moyenne d’un peu plus d’une minute par question. Si vous h�
 
 
 
+
+
 ## SCR_PASS_INFO_REMEMBER
 ### ⭐ Les informations essentielles à retenir
 
@@ -959,6 +1015,8 @@ L’épreuve porte sur cinq thèmes civiques et associe connaissances et situati
 
 
 
+
+
 ## SCR_PASS_INFO_WHY
 ### 🎯 Pourquoi un examen civique ?
 
@@ -977,6 +1035,8 @@ Il ne s’agit pas seulement de mémoriser des dates ou des définitions. Vous d
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -1016,6 +1076,8 @@ Travaillez par séances courtes et régulières. Lorsque vous obtenez des résul
 
 
 
+
+
 ## SCR_PASS_INFO_CONCERNE
 ### 👤 Suis-je concerné ?
 
@@ -1038,6 +1100,8 @@ Votre situation administrative peut comporter des particularités. Vérifiez les
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -1076,6 +1140,8 @@ Révisez un thème à la fois, puis vérifiez vos acquis avec un entraînement c
 
 
 
+
+
 ## SCR_PASS_REGISTER
 ### S’inscrire à l’examen
 
@@ -1089,6 +1155,8 @@ Cliquez sur le lien Forms pour vous inscrire à une session dans la région choi
 1. [↩️ Retour au menu du module](SCR_PASS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -1114,6 +1182,8 @@ Sélectionnez une région pour consulter ses centres et leurs prochaines dates d
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -1148,6 +1218,8 @@ Retrouvez les réponses à vos questions, choisissez un centre et accédez au fo
 
 
 
+
+
 ## SCR_PASS_SEARCH_MENU
 ### 📍 Trouver une session d’examen
 
@@ -1170,6 +1242,8 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -1209,6 +1283,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 
 
+
+
 ## SCR_PASS_REGION_AUVERGNE
 ### ⛰️ Auvergne
 
@@ -1227,6 +1303,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -1261,6 +1339,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 
 
+
+
 ## SCR_PASS_REGION_CHER
 ### 🌿 Cher
 
@@ -1276,6 +1356,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -1300,6 +1382,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 
@@ -1334,6 +1418,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 
 
 
+
+
 ## SCR_PASS_REGION_RHONE_ALPES
 ### 🏔️ Rhône-Alpes
 
@@ -1351,6 +1437,8 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
 
 
 

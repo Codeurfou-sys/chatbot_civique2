@@ -27,7 +27,7 @@ for item in manifest:
   assert '](SCR_CONS_SITUATIONS_MENU)' in body
 published=Path('chat_bot.md').read_text()
 assert 'flex-direction: column; align-items: flex-start' in published
-for name in ['csp','resident','naturalisation','cigogne']:
+for name in ['csp-v7','resident','naturalisation-v7','cigogne']:
  assert f'assets/icons/{name}.svg' in published
  assert Path(f'assets/icons/{name}.svg').exists()
 assert '[🌋 Auvergne](SCR_PASS_REGION_AUVERGNE)' in published

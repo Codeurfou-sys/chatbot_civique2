@@ -4,7 +4,7 @@ MENUS={'02_bilan.md':'SCR_BIL_MENU','03_revisions.md':'SCR_REV_MENU','04_glossai
 def update(text,menu):
  def amend(match):
   id,body=match.group(1),match.group(2)
-  if id=='MENU_PRINCIPAL' or 'civicoach-route' in body:return match.group(0)
+  if id=='MENU_PRINCIPAL' or 'civicoach-route' in body or menu in ('SCR_FAQ_MENU','SCR_QL_MENU'):return match.group(0)
   target=menu
   if menu=='SCR_REV_MENU':
    theme=re.search(r'SCR_REV_T(\d)',id)

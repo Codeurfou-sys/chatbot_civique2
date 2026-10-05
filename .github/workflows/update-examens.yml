@@ -60,6 +60,7 @@ jobs:
         run: |
           python scripts/validate_banques_examens.py
           python scripts/validate_chatbot_final.py
+          python scripts/validate_v7.py
           python scripts/validate_conseils.py
           node scripts/validate_questions_libres.js
 
