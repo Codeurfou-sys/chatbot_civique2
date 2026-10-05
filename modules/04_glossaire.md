@@ -603,7 +603,9 @@ Retrouvez des définitions simples des notions du programme.
 
 `if @gloPrefix == undefined || @gloPrefix == ""`
 `if @gloPrefix == undefined || @gloPrefix == ""`
+`if @gloPrefix == undefined || @gloPrefix == ""`
 Choisissez la première lettre du mot, puis la suivante. Je conserve uniquement les mots qui commencent par les lettres choisies. Les lettres grisées ne correspondent à aucune suite possible. Vous pouvez revenir d’une lettre ou recommencer.
+`endif`
 `endif`
 `endif`
 

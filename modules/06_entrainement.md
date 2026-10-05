@@ -146055,14 +146055,14 @@ Sur cette série en **Principes et valeurs**, votre score est de **10/10**. Brav
 
 <!-- Source cr : MS-T1-007 -->
 
-Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
+Lors d'une cérémonie citoyenne, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
 
 **Comment ce vers se poursuit-il ?**
 
 1. [<span class="qcm-letter">A</span> Le jour de gloire est arrivé.](ENT_CR_T1_MIS_V06_Q01_VRAI)
-1. [<span class="qcm-letter">B</span> Le droit d'exprimer librement ses opinions dans le respect de la loi.](ENT_CR_T1_MIS_V06_Q01_FAUX)
-1. [<span class="qcm-letter">C</span> À autoriser un étranger à séjourner légalement en France.](ENT_CR_T1_MIS_V06_Q01_FAUX)
-1. [<span class="qcm-letter">D</span> Se déplacer librement sur le territoire national et à l'étranger.](ENT_CR_T1_MIS_V06_Q01_FAUX)
+1. [<span class="qcm-letter">B</span> Le droit d'exprimer librement est arrivé.](ENT_CR_T1_MIS_V06_Q01_FAUX)
+1. [<span class="qcm-letter">C</span> Le droit de se déplacer librement est arrivé.](ENT_CR_T1_MIS_V06_Q01_FAUX)
+1. [<span class="qcm-letter">D</span> Le jour du triomphe arrive.](ENT_CR_T1_MIS_V06_Q01_FAUX)
 
 1. [↩️ Retour](SCR_ENT_CR_MIS_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -149278,7 +149278,7 @@ Ces mises en situation sont des exercices pédagogiques. Elles ne reproduisent p
 
 <!-- Source cr : MS-T2-029 -->
 
-Le même formateur vous demande maintenant de préciser le rôle du Premier ministre, souvent confondu avec celui du président.
+Ethan est en classe de première. Son professeur de d'histoire lui demande quels fonctions exercent le Premier ministre.
 
 **Quelle réponse choisissez-vous ?**
 
@@ -150155,7 +150155,7 @@ L'hymne européen est l'« Ode à la Joie », extraite de la Neuvième Symphonie
 
 <!-- Source cr : MS-T2-045 -->
 
-Ce même ami vous demande maintenant où se trouve le siège de la Commission européenne, qui propose les lois européennes.
+Un ami vous demande où se trouve le siège de la Commission européenne, qui propose les lois européennes.
 
 **Où est situé ce siège ?**
 
@@ -150299,7 +150299,7 @@ La France compte environ 35 000 communes, ce qui en fait l'un des pays européen
 
 <!-- Source cr : MS-T2-029 -->
 
-Le même formateur vous demande maintenant de préciser le rôle du Premier ministre, souvent confondu avec celui du président.
+Ethan est en classe de première. Son professeur de d'histoire lui demande quels fonctions exercent le Premier ministre.
 
 **Quelle réponse choisissez-vous ?**
 
@@ -150936,7 +150936,7 @@ Le territoire français est organisé en plusieurs collectivités territoriales,
 
 <!-- Source cr : MS-T2-010 -->
 
-Ce même candidat vous demande maintenant qui a le pouvoir de nommer le Premier ministre.
+Lors d'une formation civique, le formateur vous demande qui a le pouvoir de nommer le Premier ministre.
 
 **Que lui répondez-vous ?**
 
@@ -151189,7 +151189,7 @@ Sur cette série en **Institutions et système politique**, votre score est de *
 
 <!-- Source cr : MS-T2-045 -->
 
-Ce même ami vous demande maintenant où se trouve le siège de la Commission européenne, qui propose les lois européennes.
+Un ami vous demande où se trouve le siège de la Commission européenne, qui propose les lois européennes.
 
 **Où est situé ce siège ?**
 
@@ -151237,7 +151237,7 @@ La Commission européenne siège à Bruxelles. Elle propose les lois européenne
 
 <!-- Source cr : MS-T2-029 -->
 
-Le même formateur vous demande maintenant de préciser le rôle du Premier ministre, souvent confondu avec celui du président.
+Ethan est en classe de première. Son professeur de d'histoire lui demande quels fonctions exercent le Premier ministre.
 
 **Quelle réponse choisissez-vous ?**
 
@@ -151970,7 +151970,7 @@ Le traité de Maastricht a été signé en 1992. Il marque la naissance officiel
 
 <!-- Source cr : MS-T2-029 -->
 
-Le même formateur vous demande maintenant de préciser le rôle du Premier ministre, souvent confondu avec celui du président.
+Ethan est en classe de première. Son professeur de d'histoire lui demande quels fonctions exercent le Premier ministre.
 
 **Quelle réponse choisissez-vous ?**
 
@@ -154470,7 +154470,7 @@ La démocratie repose sur la séparation des pouvoirs exécutif, législatif et 
 
 <!-- Source cr : MS-T2-010 -->
 
-Ce même candidat vous demande maintenant qui a le pouvoir de nommer le Premier ministre.
+Lors d'une formation civique, le formateur vous demande qui a le pouvoir de nommer le Premier ministre.
 
 **Que lui répondez-vous ?**
 
@@ -156070,7 +156070,7 @@ Le tri des déchets permet de recycler de nombreux matériaux et de limiter les 
 
 <!-- Source cr : MS-T3-036 -->
 
-Dans le même exercice, vous devez maintenant identifier laquelle de ces infractions constitue un délit.
+Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -157056,7 +157056,7 @@ La liberté d'expression est un droit fondamental, mais elle ne permet pas d'ins
 
 <!-- Source cr : MS-T3-036 -->
 
-Dans le même exercice, vous devez maintenant identifier laquelle de ces infractions constitue un délit.
+Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -161803,7 +161803,7 @@ Le crime est l'infraction la plus grave. L'homicide volontaire en est un exemple
 
 <!-- Source cr : MS-T3-036 -->
 
-Dans le même exercice, vous devez maintenant identifier laquelle de ces infractions constitue un délit.
+Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -184233,7 +184233,7 @@ Le drapeau européen est bleu, avec un cercle de douze étoiles jaunes en son ce
 
 <!-- Source cr : MS-T2-045 -->
 
-Ce même ami vous demande maintenant où se trouve le siège de la Commission européenne, qui propose les lois européennes.
+Un ami vous demande où se trouve le siège de la Commission européenne, qui propose les lois européennes.
 
 **Où est situé ce siège ?**
 
@@ -196752,14 +196752,14 @@ Le droit de grève est une liberté reconnue par la Constitution. Il permet aux 
 
 <!-- Source cr : MS-T1-007 -->
 
-Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
+Lors d'une cérémonie citoyenne, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
 
 **Comment ce vers se poursuit-il ?**
 
 1. [<span class="qcm-letter">A</span> Le jour de gloire est arrivé.](ENT_CR_LVL_INT_V01_Q11_VRAI)
-1. [<span class="qcm-letter">B</span> Le droit d'exprimer librement ses opinions dans le respect de la loi.](ENT_CR_LVL_INT_V01_Q11_FAUX)
-1. [<span class="qcm-letter">C</span> À autoriser un étranger à séjourner légalement en France.](ENT_CR_LVL_INT_V01_Q11_FAUX)
-1. [<span class="qcm-letter">D</span> Se déplacer librement sur le territoire national et à l'étranger.](ENT_CR_LVL_INT_V01_Q11_FAUX)
+1. [<span class="qcm-letter">B</span> Le droit d'exprimer librement est arrivé.](ENT_CR_LVL_INT_V01_Q11_FAUX)
+1. [<span class="qcm-letter">C</span> Le droit de se déplacer librement est arrivé.](ENT_CR_LVL_INT_V01_Q11_FAUX)
+1. [<span class="qcm-letter">D</span> Le jour du triomphe arrive.](ENT_CR_LVL_INT_V01_Q11_FAUX)
 
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -197653,14 +197653,14 @@ En France, l'instruction est obligatoire pour tous les enfants à partir de 3 an
 
 <!-- Source cr : MS-T1-007 -->
 
-Dans la même cérémonie, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
+Lors d'une cérémonie citoyenne, vous devez entonner le tout premier vers de l'hymne national : « Allons enfants de la Patrie [...] »
 
 **Comment ce vers se poursuit-il ?**
 
 1. [<span class="qcm-letter">A</span> Le jour de gloire est arrivé.](ENT_CR_LVL_INT_V02_Q11_VRAI)
-1. [<span class="qcm-letter">B</span> Le droit d'exprimer librement ses opinions dans le respect de la loi.](ENT_CR_LVL_INT_V02_Q11_FAUX)
-1. [<span class="qcm-letter">C</span> À autoriser un étranger à séjourner légalement en France.](ENT_CR_LVL_INT_V02_Q11_FAUX)
-1. [<span class="qcm-letter">D</span> Se déplacer librement sur le territoire national et à l'étranger.](ENT_CR_LVL_INT_V02_Q11_FAUX)
+1. [<span class="qcm-letter">B</span> Le droit d'exprimer librement est arrivé.](ENT_CR_LVL_INT_V02_Q11_FAUX)
+1. [<span class="qcm-letter">C</span> Le droit de se déplacer librement est arrivé.](ENT_CR_LVL_INT_V02_Q11_FAUX)
+1. [<span class="qcm-letter">D</span> Le jour du triomphe arrive.](ENT_CR_LVL_INT_V02_Q11_FAUX)
 
 1. [↩️ Retour](SCR_ENT_LEVEL_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -204957,7 +204957,7 @@ La Déclaration des droits de l'homme et du citoyen de 1789 affirme que « La lo
 
 <!-- Source cr : MS-T3-036 -->
 
-Dans le même exercice, vous devez maintenant identifier laquelle de ces infractions constitue un délit.
+Vanessa , une de vos amies vous demande parmi ces infranctions laquelle constitue un délit.
 
 **Laquelle choisissez-vous ?**
 
@@ -208551,7 +208551,7 @@ La loi protège chaque personne contre les discriminations fondées notamment su
 
 <!-- Source cr : MS-T2-010 -->
 
-Ce même candidat vous demande maintenant qui a le pouvoir de nommer le Premier ministre.
+Lors d'une formation civique, le formateur vous demande qui a le pouvoir de nommer le Premier ministre.
 
 **Que lui répondez-vous ?**
 

@@ -1,4 +1,4 @@
-"""Contrôle les sources Excel des examens et entraînements générés CSP/NAT."""
+"""Contrôle les sources Excel des examens et entraînements générés CSP/CR/NAT."""
 from pathlib import Path
 import sys,re
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
@@ -11,7 +11,7 @@ training_blocks=split(Path('modules/06_entrainement.md').read_text())
 chatbot=Path('chat_bot.md').read_text()
 for path in ('modules/05_preparer_examen.md','modules/06_entrainement.md'):
     assert Path(path).read_text().strip() in chatbot, f'Module non synchronisé: {path}'
-for exam in ('CSP','NAT'):
+for exam in ('CSP','CR','NAT'):
     c=m.EXAM_CONFIGS[exam]
     q=m.read_rows(Path('sources')/c['questions_file'],c['questions_sheet'])
     ms=m.read_rows(Path('sources')/c['situations_file'],c['situations_sheet'])
