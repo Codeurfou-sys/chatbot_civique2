@@ -1,0 +1,17 @@
+{
+  "version": 16,
+  "chapitres": 19,
+  "activites": 38,
+  "questions_ouvertes": 62,
+  "enonces_identiques": true,
+  "reconnaissance_reponses_attendues": "62/62 moteur livré",
+  "fiches_culture": 18,
+  "renvois_precis_aux_artistes": 102,
+  "regions": 18,
+  "oeuvres_a_gratter": 4,
+  "examens_blancs_valides": 30,
+  "entrainements_valides": 630,
+  "tests_navigateur_reel": false,
+  "tests_dom_simule": true,
+  "publication_effectuee": false
+}

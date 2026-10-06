@@ -1,5 +1,5 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert');
-const source=fs.readFileSync(process.argv[2] || 'chatmd_runtime.js','utf8');const ctx={console};vm.createContext(ctx);
+const source=fs.readFileSync(process.argv[2] || 'chatmd_runtime.js','utf8');const ctx={console,window:{}};vm.createContext(ctx);
 const search=source.slice(source.indexOf('function St('),source.indexOf('function Ht('));
 const conversion=source.slice(source.indexOf('function Ye('),source.indexOf('function Qe('));
 const cond=source.slice(source.indexOf('function Zn('),source.indexOf('const Xn='));

@@ -38,7 +38,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T1_CH01_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -274,25 +275,28 @@ Personne élue pour exercer une fonction politique au nom des citoyens.
 
 Vote direct des citoyens sur une question.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T1_CH01_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01" title="Activités : CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01)
-
 ## SCR_REV_T1_CH01_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T1_CH01_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T1_CH01 == true && @activiteVersion_SCR_REV_T1_CH01 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T1_CH01_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T1_CH01 == true && @activiteVersion_SCR_REV_T1_CH01 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH01_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH01_GLO)
+3. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH01_VERIF_Q01
 !Keyboard: true
@@ -314,7 +318,7 @@ Qui possède la souveraineté nationale en France ?
 
 > `@rep_t1_ch1_q1`
 
-`if ((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("peuple")) || ((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("citoyen") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("citoyenne")))) && ((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("population")) || (normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("nation")))`
+`if (normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("peuple") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("citoyens") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("citoyennes"))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -324,7 +328,7 @@ Le peuple.
 1. [➡️ Question suivante](SCR_REV_T1_CH01_VERIF_Q02)
 `endif`
 
-`if !(((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("peuple")) || ((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("citoyen") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("citoyenne")))) && ((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("population")) || (normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("nation")))) && ((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("peuple")) || ((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("citoyen") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("citoyenne"))) || (normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("population")) || (normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("nation")))`
+`if !((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("peuple") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("citoyens") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("citoyennes"))) && ((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("souverainete") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("nation")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -338,7 +342,7 @@ Le peuple.
 3. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
 `endif`
 
-`if !((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("peuple")) || ((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("citoyen") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("citoyenne"))) || (normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("population")) || (normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").includes("nation")))`
+`if !((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("peuple") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("citoyens") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("citoyennes"))) && !((normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("souverainete") || normalizeText(@rep_t1_ch1_q1).replaceAll("œ","oe").replaceAll("’", "'").includes("nation")))`
 :::danger 🔴 Mauvaise réponse
 Je n’ai pas identifié les notions attendues dans cette réponse. Comparez-la avec l’explication ci-dessous, puis reformulez votre réponse avec vos propres mots.
 
@@ -501,7 +505,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T1_CH02_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -785,25 +790,28 @@ Elles garantissent :
 
 **Parité** : représentation équilibrée des femmes et des hommes.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T1_CH02_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02" title="Activités : LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02)
-
 ## SCR_REV_T1_CH02_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T1_CH02_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T1_CH02 == true && @activiteVersion_SCR_REV_T1_CH02 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T1_CH02_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T1_CH02 == true && @activiteVersion_SCR_REV_T1_CH02 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH02_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH02_GLO)
+3. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH02_VERIF_Q01
 !Keyboard: true
@@ -949,7 +957,7 @@ Que signifie le principe d'égalité dans la devise républicaine ?
 
 > `@rep_t1_ch2_q3`
 
-`if ((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("meme loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("memes lois")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("loi identique")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("egalite devant la loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("egale devant la loi"))) && ((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("tous")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("toutes")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("chacun")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("chaque personne")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("sans discrimination")))`
+`if (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("loi") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("droits")) && (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("meme") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("identique") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egalite") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egale")) && (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("tous") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("toutes") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("chacun") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("sans discrimination") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("chaque personne"))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -959,7 +967,7 @@ La loi doit s'appliquer de la même manière à toutes les personnes, sans discr
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH02_FIN)
 `endif`
 
-`if !(((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("meme loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("memes lois")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("loi identique")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("egalite devant la loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("egale devant la loi"))) && ((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("tous")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("toutes")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("chacun")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("chaque personne")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("sans discrimination")))) && ((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("meme loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("memes lois")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("loi identique")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("egalite devant la loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("egale devant la loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("tous")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("toutes")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("chacun")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("chaque personne")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("sans discrimination")))`
+`if !((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("loi") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("droits")) && (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("meme") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("identique") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egalite") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egale")) && (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("tous") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("toutes") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("chacun") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("sans discrimination") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("chaque personne"))) && ((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("loi") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("droits")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("meme") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("identique") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egalite") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egale")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -973,7 +981,7 @@ La loi doit s'appliquer de la même manière à toutes les personnes, sans discr
 3. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
 `endif`
 
-`if !((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("meme loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("memes lois")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("loi identique")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("egalite devant la loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("egale devant la loi")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("tous")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("toutes")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("chacun")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("chaque personne")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").includes("sans discrimination")))`
+`if !((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("loi") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("droits")) && (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("meme") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("identique") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egalite") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egale")) && (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("tous") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("toutes") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("chacun") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("sans discrimination") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("chaque personne"))) && !((normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("loi") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("droits")) || (normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("meme") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("identique") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egalite") || normalizeText(@rep_t1_ch2_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("egale")))`
 :::danger 🔴 Mauvaise réponse
 Je n’ai pas identifié les notions attendues dans cette réponse. Comparez-la avec l’explication ci-dessous, puis reformulez votre réponse avec vos propres mots.
 
@@ -1010,7 +1018,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T1_CH03_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -1283,25 +1292,28 @@ Le coq est un symbole national, mais **pas un symbole officiel**.
 
 **Fête nationale** : célébration officielle de la Nation.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T1_CH03_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03" title="Activités : LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03)
-
 ## SCR_REV_T1_CH03_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T1_CH03_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T1_CH03 == true && @activiteVersion_SCR_REV_T1_CH03 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T1_CH03_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T1_CH03 == true && @activiteVersion_SCR_REV_T1_CH03 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH03_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH03_GLO)
+3. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH03_VERIF_Q01
 !Keyboard: true
@@ -1509,7 +1521,7 @@ Le coq est-il un symbole officiel de la République ?
 
 > `@rep_t1_ch3_q4`
 
-`if ((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("non")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("faux"))) && ((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("pas du tout")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("ce n'est pas")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("ce n'est pas")))`
+`if (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("non") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("faux") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("n'est pas un symbole officiel") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("pas officiel"))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -1519,7 +1531,7 @@ Non. Le coq est un emblème traditionnel, mais il n'est pas un symbole officiel 
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH03_FIN)
 `endif`
 
-`if !(((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("non")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("faux"))) && ((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("pas du tout")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("ce n'est pas")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("ce n'est pas")))) && ((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("non")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("faux")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("pas du tout")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("ce n'est pas")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("ce n'est pas")))`
+`if !((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("non") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("faux") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("n'est pas un symbole officiel") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("pas officiel"))) && ((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("traditionnel") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("embleme")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -1533,7 +1545,7 @@ Non. Le coq est un emblème traditionnel, mais il n'est pas un symbole officiel 
 3. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
 `endif`
 
-`if !((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("non")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("faux")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("pas du tout")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("ce n'est pas")) || (normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").includes("ce n'est pas")))`
+`if !((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("non") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("faux") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("n'est pas un symbole officiel") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("pas officiel"))) && !((normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("traditionnel") || normalizeText(@rep_t1_ch3_q4).replaceAll("œ","oe").replaceAll("’", "'").includes("embleme")))`
 :::danger 🔴 Mauvaise réponse
 Je n’ai pas identifié les notions attendues dans cette réponse. Comparez-la avec l’explication ci-dessous, puis reformulez votre réponse avec vos propres mots.
 
@@ -1570,7 +1582,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T1_CH04_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -1856,25 +1869,28 @@ Elle permet à chacun de vivre ensemble dans le respect des lois de la Républiq
 
 **Blasphème** : critique ou insulte visant une religion ou une divinité.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T1_CH04_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04" title="Activités : LA LAÏCITÉ" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04)
-
 ## SCR_REV_T1_CH04_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T1_CH04_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T1_CH04 == true && @activiteVersion_SCR_REV_T1_CH04 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T1_CH04_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T1_CH04 == true && @activiteVersion_SCR_REV_T1_CH04 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH04_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH04_GLO)
+3. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH04_VERIF_Q01
 !Keyboard: true
@@ -2020,7 +2036,7 @@ Le blasphème est-il interdit en France ?
 
 > `@rep_t1_ch4_q3`
 
-`if ((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("non")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("faux"))) && ((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("pas du tout")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("ce n'est pas")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("ce n'est pas")))`
+`if (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("non") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("faux") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("n'est pas interdit") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("pas interdit") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("aucun delit de blaspheme"))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -2030,7 +2046,7 @@ En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun déli
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH04_FIN)
 `endif`
 
-`if !(((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("non")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("faux"))) && ((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("pas du tout")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("ce n'est pas")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("ce n'est pas")))) && ((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("non")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("faux")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("pas du tout")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("ce n'est pas")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("ce n'est pas")))`
+`if !((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("non") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("faux") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("n'est pas interdit") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("pas interdit") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("aucun delit de blaspheme"))) && ((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("critiquer") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("religion")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -2044,7 +2060,7 @@ En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun déli
 3. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
 `endif`
 
-`if !((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("non")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("faux")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("pas du tout")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("ce n'est pas")) || (normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").includes("ce n'est pas")))`
+`if !((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("non") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("faux") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("n'est pas interdit") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("pas interdit") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("aucun delit de blaspheme"))) && !((normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("critiquer") || normalizeText(@rep_t1_ch4_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("religion")))`
 :::danger 🔴 Mauvaise réponse
 Je n’ai pas identifié les notions attendues dans cette réponse. Comparez-la avec l’explication ci-dessous, puis reformulez votre réponse avec vos propres mots.
 
@@ -2081,7 +2097,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T1_CH05_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -2248,25 +2265,28 @@ Cette règle garantit l'égalité entre tous les citoyens.
 
 **Service public** : organisme chargé d'une mission d'intérêt général.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T1_CH05_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05" title="Activités : LA LANGUE DE LA RÉPUBLIQUE" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05)
-
 ## SCR_REV_T1_CH05_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T1_CH05_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T1_CH05 == true && @activiteVersion_SCR_REV_T1_CH05 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T1_CH05_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T1_CH05 == true && @activiteVersion_SCR_REV_T1_CH05 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH05_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH05_GLO)
+3. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH05_VERIF_Q01
 !Keyboard: true
@@ -2412,7 +2432,7 @@ Peut-on parler une autre langue dans sa vie privée ?
 
 > `@rep_t1_ch5_q3`
 
-`if ((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("oui")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("exact"))) && ((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("tout a fait")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("tout a fait")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("affirmatif")))`
+`if (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("oui") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("autorise") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("permis") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("n'interdit pas") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("pas interdit") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("libre"))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -2422,7 +2442,7 @@ La France n'interdit pas de parler une autre langue sur son territoire et dans s
 1. [✅ Terminer le chapitre](SCR_REV_T1_CH05_FIN)
 `endif`
 
-`if !(((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("oui")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("exact"))) && ((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("tout a fait")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("tout a fait")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("affirmatif")))) && ((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("oui")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("exact")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("tout a fait")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("tout a fait")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("affirmatif")))`
+`if !((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("oui") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("autorise") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("permis") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("n'interdit pas") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("pas interdit") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("libre"))) && ((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("langue") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("vie privee")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -2436,7 +2456,7 @@ La France n'interdit pas de parler une autre langue sur son territoire et dans s
 3. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
 `endif`
 
-`if !((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("oui")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("exact")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("tout a fait")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("tout a fait")) || (normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").includes("affirmatif")))`
+`if !((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("oui") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("autorise") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("permis") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("n'interdit pas") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("pas interdit") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("libre"))) && !((normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("langue") || normalizeText(@rep_t1_ch5_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("vie privee")))`
 :::danger 🔴 Mauvaise réponse
 Je n’ai pas identifié les notions attendues dans cette réponse. Comparez-la avec l’explication ci-dessous, puis reformulez votre réponse avec vos propres mots.
 
@@ -2473,7 +2493,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T1_CH06_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -2653,25 +2674,28 @@ Ces notions sont régulièrement évaluées lors de l'examen civique.
 
 **OQTF** : Obligation de Quitter le Territoire Français.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T1_CH06_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06" title="Activités : LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06)
-
 ## SCR_REV_T1_CH06_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T1_CH06_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T1_CH06 == true && @activiteVersion_SCR_REV_T1_CH06 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T1_CH06_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T1_CH06 == true && @activiteVersion_SCR_REV_T1_CH06 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH06_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH06_GLO)
+3. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH06_VERIF_Q01
 !Keyboard: true
@@ -2890,7 +2914,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T2_CH01_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -3096,25 +3121,28 @@ La séparation des pouvoirs repose sur trois pouvoirs :
 - **Autorité judiciaire :** Institution indépendante chargée de faire respecter le droit et de juger les litiges.
 - **Constitution :** Texte juridique supérieur qui organise les institutions et protège les droits fondamentaux.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T2_CH01_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01" title="Activités : État de droit et séparation des pouvoirs" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01)
-
 ## SCR_REV_T2_CH01_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T2_CH01_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T2_CH01_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T2_CH01 == true && @activiteVersion_SCR_REV_T2_CH01 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T2_CH01_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T2_CH01 == true && @activiteVersion_SCR_REV_T2_CH01 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T2_CH01_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T2_CH01_GLO)
+3. [📖 Revoir le cours](SCR_REV_T2_CH01_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T2_CH01_VERIF_Q01
 !Keyboard: true
@@ -3333,7 +3361,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T2_CH02_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -3562,6 +3591,21 @@ Une fois adoptée :
 
 Un projet de loi sur la protection de l'environnement est présenté par le Gouvernement. L'Assemblée nationale et le Sénat l'examinent, proposent des amendements et le votent. Après sa promulgation et sa publication au Journal officiel, la loi entre en vigueur.
 
+
+#### 🗳️ Les mandats et le parcours du vote
+
+:::info 📝 Notion essentielle
+Les représentants ont des fonctions et des durées de mandat différentes.
+:::
+
+##### 🧩 Explication simple
+Président et députés : cinq ans en principe ; sénateurs et conseillers municipaux : six ans ; députés européens : cinq ans. Une dissolution peut interrompre le mandat des députés. Le maire est élu par le conseil municipal.
+
+##### 💡 Exemple concret
+Au bureau de vote : vérification de l’identité et de l’inscription, enveloppe et bulletins, choix dans l’isoloir, dépôt dans l’urne, puis signature de la liste d’émargement.
+
+
+
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T2_CH02_SYN)
 2. [🎯 Revoir les objectifs](SCR_REV_T2_CH02_OBJ)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -3633,25 +3677,28 @@ Une loi est :
 - **Référendum :** Vote par lequel les citoyens répondent directement à une question posée par les pouvoirs publics.
 - **Abstention :** Fait de ne pas participer à un vote.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T2_CH02_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02" title="Activités : Démocratie et droit de vote" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02)
-
 ## SCR_REV_T2_CH02_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T2_CH02_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T2_CH02_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T2_CH02 == true && @activiteVersion_SCR_REV_T2_CH02 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T2_CH02_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T2_CH02 == true && @activiteVersion_SCR_REV_T2_CH02 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T2_CH02_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T2_CH02_GLO)
+3. [📖 Revoir le cours](SCR_REV_T2_CH02_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T2_CH02_VERIF_Q01
 !Keyboard: true
@@ -3858,7 +3905,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T2_CH03_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -4100,6 +4148,41 @@ Elle intervient notamment dans :
 ##### 💡 Exemple concret
 
 La région organise les trains express régionaux et participe à la construction, à l'équipement et à l'entretien des lycées.
+
+#### 🗺️ Régions et compétences locales
+
+:::info 📝 Notion essentielle
+La France comprend 18 régions : 13 en métropole et 5 outre-mer.
+:::
+
+##### 🧩 Explication simple
+La commune gère notamment les bâtiments des écoles ; le département, ceux des collèges et des missions d’action sociale ; la région, ceux des lycées et l’organisation des TER. La préfecture représente l’État.
+
+##### 💡 Exemple concret
+Pour une réclamation immédiate sur un train, contactez l’opérateur ; pour l’organisation récurrente de la desserte TER, la région est un interlocuteur pertinent, hors organisation particulière en Île-de-France.
+
+| Région | Repère |
+| --- | --- |
+| Île-de-France | Tour Eiffel |
+| Centre-Val de Loire | Château de Chambord |
+| Bourgogne-Franche-Comté | Abbaye de Fontenay |
+| Normandie | Mont-Saint-Michel |
+| Hauts-de-France | Beffroi de Lille |
+| Grand Est | Place Stanislas à Nancy |
+| Pays de la Loire | Château des ducs de Bretagne à Nantes |
+| Bretagne | Fortifications de Saint-Malo |
+| Nouvelle-Aquitaine | Dune du Pilat |
+| Occitanie | Pont du Gard |
+| Auvergne-Rhône-Alpes | Basilique de Fourvière |
+| Provence-Alpes-Côte d’Azur | Promenade des Anglais |
+| Corse | Citadelle de Bonifacio |
+| Guadeloupe | Fort Delgrès |
+| Martinique | Fort Saint-Louis |
+| Guyane | Centre spatial de Kourou |
+| La Réunion | Piton de la Fournaise |
+| Mayotte | Lac Dziani |
+
+
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T2_CH03_SYN)
 2. [🎯 Revoir les objectifs](SCR_REV_T2_CH03_OBJ)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -4175,25 +4258,28 @@ Les trois principaux niveaux territoriaux sont :
 - **Préfet :** Représentant de l'État dans un département ou une région.
 - **Décentralisation :** Transfert de certaines compétences de l'État vers les collectivités territoriales.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T2_CH03_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03" title="Activités : Organisation de la République française" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03)
-
 ## SCR_REV_T2_CH03_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T2_CH03_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T2_CH03_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T2_CH03 == true && @activiteVersion_SCR_REV_T2_CH03 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T2_CH03_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T2_CH03 == true && @activiteVersion_SCR_REV_T2_CH03 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T2_CH03_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T2_CH03_GLO)
+3. [📖 Revoir le cours](SCR_REV_T2_CH03_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T2_CH03_VERIF_Q01
 !Keyboard: true
@@ -4412,7 +4498,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T2_CH04_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -4629,6 +4716,21 @@ Le Parlement européen et le Conseil de l'Union européenne participent à l'ado
 
 Les États membres doivent ensuite appliquer cette décision.
 
+
+#### 🕰️ Quelques étapes de la construction européenne
+
+:::info 📝 Notion essentielle
+La construction européenne s’est faite progressivement.
+:::
+
+##### 🧩 Explication simple
+1957 : traités de Rome ; 1979 : premières élections européennes directes ; 1992 : signature du traité de Maastricht, entré en vigueur en 1993 ; 2002 : billets et pièces en euros ; 2020 : départ du Royaume-Uni.
+
+##### 💡 Exemple concret
+L’euro existe comme monnaie depuis 1999, mais les billets et pièces apparaissent en 2002 : ces deux dates correspondent à des étapes différentes.
+
+
+
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T2_CH04_SYN)
 2. [🎯 Revoir les objectifs](SCR_REV_T2_CH04_OBJ)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -4700,25 +4802,28 @@ Les principales institutions à connaître :
 - **Conseil européen :** Réunion des chefs d'État ou de gouvernement qui fixe les grandes orientations de l'Union européenne.
 - **Citoyenneté européenne :** Statut accordé à toute personne ayant la nationalité d'un pays membre de l'Union européenne.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T2_CH04_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04" title="Activités : Les institutions européennes" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04)
-
 ## SCR_REV_T2_CH04_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T2_CH04_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T2_CH04_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T2_CH04 == true && @activiteVersion_SCR_REV_T2_CH04 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T2_CH04_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T2_CH04 == true && @activiteVersion_SCR_REV_T2_CH04 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T2_CH04_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T2_CH04_GLO)
+3. [📖 Revoir le cours](SCR_REV_T2_CH04_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T2_CH04_VERIF_Q01
 !Keyboard: true
@@ -4935,7 +5040,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T3_CH01_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
@@ -5133,25 +5239,28 @@ La liberté d'expression est protégée par ces textes.
 - **Discrimination :** Traitement défavorable fondé sur un critère interdit par la loi.
 - **Déclaration des droits de l'homme et du citoyen :** Texte de 1789 qui affirme des droits et libertés fondamentaux.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T3_CH01_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01" title="Activités : Les droits fondamentaux" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01)
-
 ## SCR_REV_T3_CH01_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T3_CH01_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T3_CH01 == true && @activiteVersion_SCR_REV_T3_CH01 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T3_CH01_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T3_CH01 == true && @activiteVersion_SCR_REV_T3_CH01 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T3_CH01_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T3_CH01_GLO)
+3. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T3_CH01_VERIF_Q01
 !Keyboard: true
@@ -5358,7 +5467,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T3_CH02_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
@@ -5544,6 +5654,32 @@ Chaque personne peut agir :
 
 Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 
+
+#### ⚖️ Les catégories d’infractions
+
+:::info 📝 Notion essentielle
+Contraventions, délits et crimes sont des catégories d’infractions de gravité croissante.
+:::
+
+##### 🧩 Explication simple
+Stationnement interdit, non-port de ceinture et tapage nocturne : contraventions. Vol simple, escroquerie et conduite sans permis : délits. Meurtre, viol et vol à main armée : crimes. Le contexte et les circonstances aggravantes peuvent modifier la qualification.
+
+##### 💡 Exemple concret
+Il faut distinguer le vol simple et le vol à main armée : ils ne relèvent pas de la même catégorie.
+#### ♻️ Le cycle d’un emballage en carton
+
+:::info 📝 Notion essentielle
+Le tri permet à certaines matières d’être récupérées et recyclées.
+:::
+
+##### 🧩 Explication simple
+Tri selon les consignes locales, collecte, centre de tri, recyclage, fabrication d’un nouvel emballage, utilisation puis nouveau tri. Réduire les déchets et réemployer restent prioritaires lorsque c’est possible.
+
+##### 💡 Exemple concret
+Un emballage en carton correctement trié peut fournir des fibres pour un nouvel emballage ; les possibilités dépendent aussi de son état et de la filière.
+
+
+
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T3_CH02_SYN)
 2. [🎯 Revoir les objectifs](SCR_REV_T3_CH02_OBJ)
 3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
@@ -5607,25 +5743,28 @@ Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 - **Solidarité nationale :** Contribution de chacun au soutien des personnes et au financement de la protection collective.
 - **Responsabilité :** Obligation d'assumer les conséquences de ses actes.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T3_CH02_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02" title="Activités : Les obligations et les devoirs" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02)
-
 ## SCR_REV_T3_CH02_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T3_CH02_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T3_CH02_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T3_CH02 == true && @activiteVersion_SCR_REV_T3_CH02 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T3_CH02_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T3_CH02 == true && @activiteVersion_SCR_REV_T3_CH02 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T3_CH02_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T3_CH02_GLO)
+3. [📖 Revoir le cours](SCR_REV_T3_CH02_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T3_CH02_VERIF_Q01
 !Keyboard: true
@@ -5843,7 +5982,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T4_CH01_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -5900,6 +6040,34 @@ Avant la Ve République, la France a connu une grande instabilité institutionne
 :::success 🌱 Astuce mémoire
 Reliez chaque date à un mot : **1789–Révolution**, **1905–laïcité**, **1944–vote des femmes**, **1958–Ve République**, **1981-Abolition-mort**.
 :::
+
+
+
+#### 🏛️ Les régimes politiques depuis la Révolution
+
+:::info 📝 Notion essentielle
+La République actuelle s’est construite au fil de plusieurs régimes et transformations.
+:::
+
+##### 🧩 Explication simple
+La monarchie, les républiques et les empires se succèdent ; le régime de Vichy est autoritaire et est combattu par la Résistance et la France libre.
+
+##### 💡 Exemple concret
+La Cinquième République est fondée par la Constitution de 1958.
+
+| Période | Régime ou transition |
+| --- | --- |
+| 1791–1792 | Monarchie constitutionnelle |
+| 1792–1804 | Première République |
+| 1804–1814/1815 | Premier Empire |
+| 1814/1815–1848 | Restauration puis monarchie de Juillet |
+| 1848–1852 | Deuxième République |
+| 1852–1870 | Second Empire |
+| 1870–1940 | Troisième République |
+| 1940–1944 | Régime de Vichy et Résistance |
+| 1944–1946 | Gouvernement provisoire de la République française |
+| 1946–1958 | Quatrième République |
+| Depuis 1958 | Cinquième République |
 
 
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T4_CH01_SYN)
@@ -5965,25 +6133,28 @@ Reliez chaque date à un mot : **1789–Révolution**, **1905–laïcité**, **1
 - **Résistance :** Ensemble des actions menées contre l'occupation nazie et le régime de Vichy pendant la Seconde Guerre mondiale.
 - **Ve République :** Régime politique français établi par la Constitution de 1958.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T4_CH01_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01" title="Activités : Histoire de France 🕰️" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01)
-
 ## SCR_REV_T4_CH01_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T4_CH01_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T4_CH01 == true && @activiteVersion_SCR_REV_T4_CH01 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T4_CH01_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T4_CH01 == true && @activiteVersion_SCR_REV_T4_CH01 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T4_CH01_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T4_CH01_GLO)
+3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T4_CH01_VERIF_Q01
 !Keyboard: true
@@ -6158,7 +6329,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T4_CH02_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -6272,25 +6444,28 @@ Les grandes villes concentrent habitants, emplois et services, tandis que les es
 - **Façade maritime :** Partie du territoire ouverte sur une mer ou un océan.
 - **Francophonie :** Ensemble des personnes et des pays qui utilisent la langue française.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T4_CH02_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02" title="Activités : Territoires et géographie de la France 🗺️" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02)
-
 ## SCR_REV_T4_CH02_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T4_CH02_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T4_CH02_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T4_CH02 == true && @activiteVersion_SCR_REV_T4_CH02 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T4_CH02_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T4_CH02 == true && @activiteVersion_SCR_REV_T4_CH02 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T4_CH02_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T4_CH02_GLO)
+3. [📖 Revoir le cours](SCR_REV_T4_CH02_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T4_CH02_VERIF_Q01
 !Keyboard: true
@@ -6497,7 +6672,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T4_CH03_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -6508,6 +6684,9 @@ Dans ce chapitre, vous découvrirez :
 
 - définir le patrimoine culturel français ;
 - reconnaître des monuments, artistes, œuvres et traditions majeurs ;
+- associer les auteurs et artistes à leurs œuvres repères ;
+- situer les monuments et spécialités des régions, y compris outre-mer ;
+- distinguer francophonie et nationalité ;
 - expliquer comment la France protège et rend la culture accessible.
 
 1. [📖 Commencer le cours](SCR_REV_T4_CH03_COURS)
@@ -6552,6 +6731,145 @@ Préserver le patrimoine, c'est l'entretenir, le transmettre et le rendre access
 L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres incluent le Mont-Saint-Michel en France, le Colisée en Italie, le parc national du Kilimandjaro en Tanzanie, ou encore la Grande Barrière de corail en Australie.
 
 
+
+#### 🌍 Une culture qui rayonne
+
+:::info 📝 Notion essentielle
+La culture française se diffuse par les œuvres, les artistes, les musées, le cinéma, la mode et la langue.
+:::
+
+##### 🧩 Explication simple
+Le Louvre et le musée d’Orsay conservent des œuvres ; le Festival de Cannes réunit le cinéma international. Les Instituts français et les Alliances françaises contribuent aux échanges culturels.
+
+##### 💡 Exemple concret
+Les maisons Chanel et Dior illustrent la mode ; Annie Ernaux et André Gide sont des écrivains récompensés par le prix Nobel de littérature.
+#### 🗣️ Le français dans le monde
+
+:::info 📝 Notion essentielle
+Le français est utilisé sur les cinq continents ; la francophonie réunit des personnes et des espaces qui l’utilisent.
+:::
+
+##### 🧩 Explication simple
+L’Organisation internationale de la Francophonie soutient notamment la langue, la diversité culturelle, l’éducation et la coopération. Francophone ne signifie pas nécessairement de nationalité française.
+
+##### 💡 Exemple concret
+Une personne vivant au Sénégal ou au Québec peut utiliser le français. La langue est aussi utilisée dans des organisations internationales.
+#### 🏰 Monuments, paysages et gastronomie
+
+:::info 📝 Notion essentielle
+Le patrimoine se découvre dans toutes les régions, en métropole et outre-mer.
+:::
+
+##### 🧩 Explication simple
+Un monument, un paysage et une spécialité culinaire donnent des repères différents. Une spécialité peut être préparée ailleurs : le tableau indique une association culturelle, pas une exclusivité.
+
+##### 💡 Exemple concret
+Le château de Chambord, construit à partir du XVIe siècle sous François Ier, se situe en Centre-Val de Loire. Le Piton de la Fournaise est un repère naturel à La Réunion.
+| Région | Monument ou site repère | Spécialité associée |
+| --- | --- | --- |
+| Île-de-France | Tour Eiffel | Brie de Meaux |
+| Centre-Val de Loire | Château de Chambord | Tarte Tatin |
+| Bourgogne-Franche-Comté | Abbaye de Fontenay | Bœuf bourguignon |
+| Normandie | Mont-Saint-Michel | Camembert |
+| Hauts-de-France | Beffroi de Lille | Maroilles |
+| Grand Est | Place Stanislas à Nancy | Choucroute alsacienne |
+| Pays de la Loire | Château des ducs de Bretagne à Nantes | Brioche vendéenne |
+| Bretagne | Fortifications de Saint-Malo | Crêpes et galettes |
+| Nouvelle-Aquitaine | Dune du Pilat | Foie gras du Périgord |
+| Occitanie | Pont du Gard | Cassoulet |
+| Auvergne-Rhône-Alpes | Basilique de Fourvière | Fondue savoyarde |
+| Provence-Alpes-Côte d’Azur | Promenade des Anglais | Bouillabaisse |
+| Corse | Citadelle de Bonifacio | Brocciu |
+| Guadeloupe | Fort Delgrès | Colombo de poulet |
+| Martinique | Fort Saint-Louis | Accras de morue |
+| Guyane | Centre spatial de Kourou | Bouillon d’awara |
+| La Réunion | Piton de la Fournaise | Cari de poisson |
+| Mayotte | Lac Dziani | Mataba |
+
+#### 📚 Les écrivains et les écrivaines
+
+:::info 📝 Notion essentielle
+Identifier un auteur, une œuvre et un repère permet de mieux comprendre la culture française.
+:::
+
+##### 🧩 Explication simple
+Il ne faut pas seulement mémoriser un nom : associez-le à une œuvre et à son domaine. Camus et Yourcenar sont deux auteurs différents.
+
+##### 💡 Exemple concret
+Albert Camus a écrit L’Étranger et La Peste ; Marguerite Yourcenar a écrit Mémoires d’Hadrien et a été la première femme élue à l’Académie française.
+| Auteur | Époque | Œuvres repères | À comprendre |
+| --- | --- | --- | --- |
+| Jean de La Fontaine | XVIIe siècle | Le Corbeau et le Renard ; La Cigale et la Fourmi | Fables : récits courts avec une morale. |
+| Molière | XVIIe siècle | Le Malade imaginaire ; Tartuffe | Théâtre et comédie. |
+| Victor Hugo | XIXe siècle | Les Misérables ; Notre-Dame de Paris ; Le Dernier Jour d’un condamné | Écrivain engagé, notamment contre la peine de mort. |
+| Charles Baudelaire | XIXe siècle | Les Fleurs du mal ; Le Spleen de Paris | Poésie. |
+| George Sand | XIXe siècle | La Mare au diable ; Indiana ; Consuelo | Romancière. |
+| Simone de Beauvoir | XXe siècle | Le Deuxième Sexe ; Mémoires d’une jeune fille rangée | Écrivaine et réflexion sur la condition des femmes. |
+| Albert Camus | XXe siècle | L’Étranger ; La Peste ; Le Mythe de Sisyphe | Prix Nobel de littérature en 1957. |
+| Marguerite Yourcenar | XXe siècle | Mémoires d’Hadrien ; L’Œuvre au noir | Première femme élue à l’Académie française, en 1980. |
+
+#### 🎨 Peinture et sculpture
+
+:::info 📝 Notion essentielle
+La peinture et la sculpture racontent des scènes, des émotions et des périodes de l’histoire.
+:::
+
+##### 🧩 Explication simple
+Le romantisme met notamment en valeur le mouvement et l’émotion ; l’impressionnisme explore la lumière et les impressions. Tous les artistes français ne peignent pas dans le même style.
+
+##### 💡 Exemple concret
+La Liberté guidant le peuple de Delacroix évoque les journées révolutionnaires de 1830 : il ne faut pas confondre cet événement avec 1789.
+| Artiste | Domaine ou repère | Œuvres à reconnaître |
+| --- | --- | --- |
+| Eugène Delacroix | Peinture · romantisme | La Liberté guidant le peuple (1830) ; Les Massacres de Scio |
+| Claude Monet | Peinture · impressionnisme | Impression, soleil levant ; Nymphéas bleus (1919) |
+| Paul Cézanne | Peinture · formes et construction de l’image | Les Joueurs de cartes (vers 1895) ; La Montagne Sainte-Victoire |
+| Auguste Renoir | Peinture · impressionnisme | Le Déjeuner des canotiers (1881) |
+| Camille Claudel | Sculpture | La Valse ; La Vieille Hélène |
+| Auguste Rodin | Sculpture | Le Penseur ; Le Baiser |
+| Marc Chagall | Peinture | La Vie ; plafond de l’Opéra Garnier. Né dans l’Empire russe, naturalisé français en 1937. |
+
+#### 🎵 Musique, scène et engagement
+
+:::info 📝 Notion essentielle
+Le patrimoine culturel comprend aussi les chansons, les compositions musicales et le spectacle.
+:::
+
+##### 🧩 Explication simple
+Les parcours artistiques peuvent rejoindre l’histoire civique : Joséphine Baker est à la fois une artiste et une figure de la Résistance.
+
+##### 💡 Exemple concret
+Édith Piaf est associée à La Vie en rose et à L’Hymne à l’amour ; Claude Debussy à Clair de lune et à La Mer ; Joséphine Baker à J’ai deux amours. Baker, née aux États-Unis, devient française en 1937 et s’engage dans la Résistance.
+#### 🛠️ Préserver et transmettre
+
+:::info 📝 Notion essentielle
+Chacun peut contribuer à protéger le patrimoine, avec les institutions, les associations et les professionnels.
+:::
+
+##### 🧩 Explication simple
+Restaurer un monument, respecter un site, soutenir une association ou transmettre un savoir-faire participent à sa conservation. Préserver n’est pas seulement conserver des objets anciens.
+
+##### 💡 Exemple concret
+Les artisans interviennent dans la restauration de monuments comme Notre-Dame de Paris ; les associations locales font connaître l’histoire des villages et de leurs sites.
+#### 🎟️ Accéder à la culture
+
+:::info 📝 Notion essentielle
+Musées, bibliothèques, spectacles et événements permettent de découvrir des œuvres et des pratiques culturelles.
+:::
+
+##### 🧩 Explication simple
+Les conditions de gratuité et de réduction varient selon le lieu et le public. Le pass Culture propose des offres ; ses conditions doivent être consultées sur son site officiel.
+
+##### 💡 Exemple concret
+Les Journées européennes du patrimoine permettent de découvrir de nombreux lieux. Une bibliothèque peut proposer des livres, des rencontres et des ressources numériques. Avant une visite, vérifiez les horaires et les conditions d’accès sur le site de l’établissement.
+##### 📎 Pour aller plus loin
+
+- [Découvrir le pass Culture](https://pass.culture.fr/le-pass-culture-cest-quoi)
+- [Journées européennes du patrimoine](https://journeesdupatrimoine.culture.gouv.fr/)
+
+
+
+
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T4_CH03_SYN)
 2. [🎯 Revoir les objectifs](SCR_REV_T4_CH03_OBJ)
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -6567,6 +6885,12 @@ L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres i
 - De nombreux artistes français ont marqué l’histoire mondiale.
 - La préservation du patrimoine est l’affaire de tous.
 - La culture doit être accessible au plus grand nombre.
+
+- Camus : L’Étranger et La Peste ; Yourcenar : Mémoires d’Hadrien.
+- Delacroix : La Liberté guidant le peuple ; Monet : les Nymphéas ; Cézanne : Les Joueurs de cartes ; Renoir : Le Déjeuner des canotiers.
+- Claudel et Rodin sont des sculpteurs ; Piaf est une chanteuse ; Debussy est un compositeur.
+- Joséphine Baker est une artiste et une figure de la Résistance.
+- Les associations régionales présentées sont des repères culturels, pas des exclusivités.
 
 1. [⚠️ Voir les points de vigilance](SCR_REV_T4_CH03_VIG)
 2. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
@@ -6594,6 +6918,24 @@ L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres i
 
 ✅ **Correction :** Les citoyens, associations et professionnels participent aussi à sa préservation.
 
+#### Erreur fréquente n°4
+
+❌ Confondre Camus et Yourcenar.
+
+✅ Camus a écrit L’Étranger ; Yourcenar a écrit Mémoires d’Hadrien.
+
+#### Erreur fréquente n°5
+
+❌ Associer La Liberté guidant le peuple à 1789.
+
+✅ Delacroix peint cette œuvre en lien avec les journées de 1830.
+
+#### Erreur fréquente n°6
+
+❌ Croire que tous les musées sont gratuits pour tous, aux mêmes dates.
+
+✅ Les conditions varient ; vérifiez celles de l’établissement.
+
 1. [📖 Voir les notions utiles](SCR_REV_T4_CH03_GLO)
 2. [⭐ Revoir l’essentiel](SCR_REV_T4_CH03_SYN)
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -6609,25 +6951,58 @@ L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres i
 - **Culture :** Ensemble des œuvres, pratiques, connaissances et valeurs partagées par une société.
 - **Diversité culturelle :** Coexistence de cultures, d'expressions et de traditions différentes.
 
+
+- **Francophonie :** personnes et espaces où le français est utilisé.
+- **Romantisme :** mouvement artistique valorisant notamment l’émotion et le mouvement.
+- **Impressionnisme :** mouvement pictural attentif notamment à la lumière et aux impressions.
+- **Sculpture :** création d’une œuvre en volume.
+- **Restauration du patrimoine :** intervention pour conserver ou réparer un bien patrimonial.
+- **Spécialité régionale :** préparation ou savoir-faire associé culturellement à une région.
+
+
+#### 🎭 Retrouver un artiste ou une œuvre
+
+1. [📘 Jean de La Fontaine](SCR_REV_CULT_LA_FONTAINE)
+1. [📘 Molière](SCR_REV_CULT_MOLIERE)
+1. [📘 Victor Hugo](SCR_REV_CULT_VICTOR_HUGO)
+1. [📘 Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
+1. [📘 George Sand](SCR_REV_CULT_GEORGE_SAND)
+1. [📘 Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
+1. [📘 Albert Camus](SCR_REV_CULT_CAMUS)
+1. [📘 Marguerite Yourcenar](SCR_REV_CULT_YOURCENAR)
+1. [📘 Eugène Delacroix](SCR_REV_CULT_DELACROIX)
+1. [📘 Claude Monet](SCR_REV_CULT_MONET)
+1. [📘 Paul Cézanne](SCR_REV_CULT_CEZANNE)
+1. [📘 Auguste Renoir](SCR_REV_CULT_RENOIR)
+1. [📘 Camille Claudel](SCR_REV_CULT_CAMILLE_CLAUDEL)
+1. [📘 Auguste Rodin](SCR_REV_CULT_RODIN)
+1. [📘 Marc Chagall](SCR_REV_CULT_CHAGALL)
+1. [📘 Édith Piaf](SCR_REV_CULT_PIAF)
+1. [📘 Claude Debussy](SCR_REV_CULT_DEBUSSY)
+1. [📘 Joséphine Baker](SCR_REV_CULT_BAKER)
+
+
+1. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03" title="Activités : Patrimoine et culture française 🎭" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03)
-
 ## SCR_REV_T4_CH03_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T4_CH03_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T4_CH03 == true && @activiteVersion_SCR_REV_T4_CH03 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T4_CH03_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T4_CH03 == true && @activiteVersion_SCR_REV_T4_CH03 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T4_CH03_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T4_CH03_GLO)
+3. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T4_CH03_VERIF_Q01
 !Keyboard: true
@@ -6846,7 +7221,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T5_CH01_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -6905,6 +7281,21 @@ La déclaration de revenus peut être nécessaire même lorsqu'une personne ne p
 | Pompiers | **18** |
 | Urgence européenne | **112** |
 | Enfance en danger | **119** |
+
+
+
+#### 📞 Les numéros d’urgence
+
+:::info 📝 Notion essentielle
+15 : Samu ; 17 : Police secours ; 18 : pompiers ; 112 : urgence européenne ; 114 : urgence accessible notamment par SMS, application et internet.
+:::
+
+##### 🧩 Explication simple
+Le 112 permet d’alerter pour une urgence médicale, un péril ou une infraction. Plusieurs numéros peuvent être adaptés à une même situation ; il faut ensuite donner le lieu et les informations utiles.
+
+##### 💡 Exemple concret
+Une personne sourde peut utiliser le 114 par SMS. Les exercices du téléphone virtuel n’effectuent aucun appel réel.
+
 
 
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T5_CH01_SYN)
@@ -6975,25 +7366,28 @@ Pour vivre en France, il est important de savoir :
 - **État des lieux :** Document décrivant l'état d'un logement au début et à la fin d'une location.
 - **Service public :** Activité organisée pour répondre à un besoin d'intérêt général.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T5_CH01_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01" title="Activités : Les démarches administratives 📄" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01)
-
 ## SCR_REV_T5_CH01_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T5_CH01_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T5_CH01 == true && @activiteVersion_SCR_REV_T5_CH01 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T5_CH01_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T5_CH01 == true && @activiteVersion_SCR_REV_T5_CH01 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T5_CH01_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T5_CH01_GLO)
+3. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T5_CH01_VERIF_Q01
 !Keyboard: true
@@ -7139,7 +7533,7 @@ Une pièce d'identité et un justificatif de domicile sont généralement demand
 
 > `@rep_t5_ch1_q3`
 
-`if ((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("titre de sejour")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("titre de sejour")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("document")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("autorisation"))) && ((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("habiter en france")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("vivre en france")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("resider")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("resider")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("sejourner")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("sejourner"))) && ((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("legal")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("legal")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("regulier")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("regulier")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("de maniere legale")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("de maniere legale")))`
+`if (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("habiter") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("vivre") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("resider") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("sejourner") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("rester")) && (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("legal") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("regulier") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("autorise"))`
 :::success 🌱 ✅ Bonne réponse
 **Réponse attendue :**
 
@@ -7149,7 +7543,7 @@ Il permet à une personne étrangère d'habiter ou de vivre légalement en Franc
 1. [➡️ Question suivante](SCR_REV_T5_CH01_VERIF_Q04)
 `endif`
 
-`if !(((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("titre de sejour")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("titre de sejour")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("document")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("autorisation"))) && ((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("habiter en france")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("vivre en france")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("resider")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("resider")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("sejourner")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("sejourner"))) && ((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("legal")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("legal")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("regulier")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("regulier")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("de maniere legale")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("de maniere legale")))) && ((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("titre de sejour")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("titre de sejour")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("document")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("autorisation")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("habiter en france")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("vivre en france")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("resider")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("resider")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("sejourner")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("sejourner")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("legal")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("legal")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("regulier")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("regulier")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("de maniere legale")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("de maniere legale")))`
+`if !((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("habiter") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("vivre") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("resider") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("sejourner") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("rester")) && (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("legal") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("regulier") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("autorise"))) && ((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("habiter") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("vivre") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("resider") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("sejourner") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("rester")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("legal") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("regulier") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("autorise")))`
 :::warning 🟠 Réponse partielle
 Vous avez indiqué au moins une notion juste, mais il manque un ou plusieurs éléments attendus.
 
@@ -7163,7 +7557,7 @@ Il permet à une personne étrangère d'habiter ou de vivre légalement en Franc
 3. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
 `endif`
 
-`if !((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("titre de sejour")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("titre de sejour")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("document")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("autorisation")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("habiter en france")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("vivre en france")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("resider")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("resider")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("sejourner")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("sejourner")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("legal")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("legal")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("regulier")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("regulier")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("de maniere legale")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").includes("de maniere legale")))`
+`if !((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("habiter") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("vivre") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("resider") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("sejourner") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("rester")) && (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("legal") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("regulier") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("autorise"))) && !((normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("habiter") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("vivre") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("resider") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("sejourner") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("rester")) || (normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("legal") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("regulier") || normalizeText(@rep_t5_ch1_q3).replaceAll("œ","oe").replaceAll("’", "'").includes("autorise")))`
 :::danger 🔴 Mauvaise réponse
 Je n’ai pas identifié les notions attendues dans cette réponse. Comparez-la avec l’explication ci-dessous, puis reformulez votre réponse avec vos propres mots.
 
@@ -7262,7 +7656,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T5_CH02_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -7311,6 +7706,21 @@ Vaccination, dépistage, activité physique, alimentation équilibrée et suivi 
 
 ##### 💡 Exemple concret
 Une personne met à jour ses vaccinations et participe au dépistage proposé pour son âge.
+
+
+
+#### 💳 Carte Vitale, complémentaire et tiers payant
+
+:::info 📝 Notion essentielle
+La carte Vitale transmet des informations sur les droits ; elle ne contient pas d’argent et n’est pas une carte bancaire.
+:::
+
+##### 🧩 Explication simple
+Le tiers payant signifie que tout ou partie des frais est versé directement au professionnel par les organismes. L’avance à faire et le reste à charge dépendent de la situation, des soins et de la couverture ; des participations ou franchises peuvent aussi être récupérées plus tard.
+
+##### 💡 Exemple concret
+Dans la simulation fictive : dépense 40 €, versement direct Assurance maladie 24 €, complémentaire 12 €, reste immédiat 4 €. Ces montants ne décrivent pas une consultation réelle.
+
 
 
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T5_CH02_SYN)
@@ -7388,25 +7798,28 @@ Les notions essentielles à connaître sont :
 - **Prévention :** Actions destinées à éviter une maladie ou à en limiter les conséquences.
 - **Mutuelle :** Complémentaire santé qui peut rembourser tout ou partie des frais non pris en charge par l'Assurance Maladie.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T5_CH02_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02" title="Activités : La santé 🩺" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02)
-
 ## SCR_REV_T5_CH02_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T5_CH02_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T5_CH02 == true && @activiteVersion_SCR_REV_T5_CH02 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T5_CH02_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T5_CH02 == true && @activiteVersion_SCR_REV_T5_CH02 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T5_CH02_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T5_CH02_GLO)
+3. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T5_CH02_VERIF_Q01
 !Keyboard: true
@@ -7659,7 +8072,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T5_CH03_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -7714,6 +8128,21 @@ Le brut est calculé avant les retenues ; le net correspond à la somme versée,
 :::info 📝 Notion essentielle
 Le salarié respecte les consignes et prévient l'employeur en cas d'absence ; l'employeur protège sa santé, sa sécurité et ses droits.
 :::
+
+
+
+#### 🧾 Lire une fiche de paie
+
+:::info 📝 Notion essentielle
+Le salaire brut, le net avant impôt, le net imposable et le net payé sont des montants différents.
+:::
+
+##### 🧩 Explication simple
+Le brut est avant cotisations salariales. Le net avant impôt tient compte de ces cotisations. Le net imposable est la base fiscale, qui peut différer du net avant impôt. Le prélèvement à la source est calculé avec le taux applicable ; le net payé est le montant finalement versé, compte tenu des lignes du bulletin.
+
+##### 💡 Exemple concret
+Exemple fictif simplifié : brut 2 000 €, cotisations 400 €, net avant impôt 1 600 €, net imposable fourni 1 650 €, taux 5 %, prélèvement 82,50 €, net payé 1 517,50 €.
+
 
 
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T5_CH03_SYN)
@@ -7794,25 +8223,28 @@ Les notions essentielles sont :
 - **VAE :** Validation des acquis de l'expérience permettant d'obtenir tout ou partie d'une certification grâce à son expérience.
 - **Inspection du travail :** Service chargé de contrôler l'application du droit du travail et d'informer salariés et employeurs.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T5_CH03_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03" title="Activités : L'emploi 💼" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03)
-
 ## SCR_REV_T5_CH03_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T5_CH03_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T5_CH03 == true && @activiteVersion_SCR_REV_T5_CH03 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T5_CH03_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T5_CH03 == true && @activiteVersion_SCR_REV_T5_CH03 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T5_CH03_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T5_CH03_GLO)
+3. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T5_CH03_VERIF_Q01
 !Keyboard: true
@@ -8081,7 +8513,8 @@ Dans ce chapitre, vous découvrirez :
 - l’essentiel à retenir ;
 - les points de vigilance ;
 - les notions utiles ;
-- la vérification des connaissances.
+- les activités de révisions ;
+- les questions de connaissances avec réponses écrites.
 
 1. [🎯 Voir les objectifs](SCR_REV_T5_CH04_OBJ)
 2. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -8136,6 +8569,21 @@ En cas d'absence, les parents préviennent rapidement l'établissement et fourni
 :::info 📝 Notion essentielle
 Les violences éducatives sont interdites. En cas de danger ou de risque de danger, le **119** peut être contacté.
 :::
+
+
+
+#### 🏫 Les classes et les établissements
+
+:::info 📝 Notion essentielle
+Dans le parcours général, les classes se répartissent entre maternelle, école élémentaire, collège et lycée.
+:::
+
+##### 🧩 Explication simple
+Maternelle : petite, moyenne et grande section. Élémentaire : CP, CE1, CE2, CM1, CM2. Collège : 6e, 5e, 4e, 3e. Lycée général ou technologique : seconde, première, terminale. D’autres parcours existent, notamment professionnels.
+
+##### 💡 Exemple concret
+L’autorité parentale réunit les droits et devoirs des parents exercés dans l’intérêt de l’enfant. Elle ne se limite pas à choisir une école.
+
 
 
 1. [⭐ Voir l’essentiel à retenir](SCR_REV_T5_CH04_SYN)
@@ -8211,25 +8659,28 @@ En France :
 - **Protection de l'enfance :** Dispositifs destinés à prévenir les dangers et à protéger les mineurs en difficulté.
 - **Intérêt de l'enfant :** Principe selon lequel les décisions concernant un enfant doivent prioritairement protéger son bien-être et ses droits.
 
+
+1. [🎯 Activités de révisions](SCR_REV_T5_CH04_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
-#### 🎯 Vos activités de révision
-Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
-
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04" title="Activités : La parentalité 👨‍👩‍👧" width="100%" height="1050" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04)
-
 ## SCR_REV_T5_CH04_VERIF
-### 🧠 Vérification des connaissances
+### ✍️ Questions de connaissances
 
-Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
-1. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
-1. [↩️ Revoir les activités](SCR_REV_T5_CH04_GLO)
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+
+`if @activite_SCR_REV_T5_CH04 == true && @activiteVersion_SCR_REV_T5_CH04 == 16`
+1. [✍️ Commencer les questions](SCR_REV_T5_CH04_VERIF_Q01)
+`endif`
+`if !(@activite_SCR_REV_T5_CH04 == true && @activiteVersion_SCR_REV_T5_CH04 == 16)`
+Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
+1. [🎯 Faire les activités de révisions](SCR_REV_T5_CH04_ACT)
+`endif`
+2. [📖 Revoir les notions utiles](SCR_REV_T5_CH04_GLO)
+3. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
+4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T5_CH04_VERIF_Q01
 !Keyboard: true
@@ -10664,6 +11115,7 @@ Que lui répondez-vous ?
 
 Simone de Beauvoir est une écrivaine et philosophe française. Son œuvre a marqué la réflexion sur l'égalité entre les femmes et les hommes.
 
+1. [📘 Revoir Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V02_Q36)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V02_CORRIGE)
@@ -11410,6 +11862,7 @@ Que lui répondez-vous ?
 
 Simone de Beauvoir est une écrivaine et philosophe française. Son œuvre a marqué la réflexion sur l'égalité entre les femmes et les hommes.
 
+1. [📘 Revoir Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V02_Q36_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V02)
@@ -12035,6 +12488,7 @@ De quel musée s'agit-il ?
 
 Le Louvre est l'un des musées les plus célèbres du monde, abritant notamment la Joconde.
 
+1. [📘 Revoir Joséphine Baker](SCR_REV_CULT_BAKER)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V03_Q29)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V03_CORRIGE)
@@ -12782,6 +13236,7 @@ De quel musée s'agit-il ?
 
 Le Louvre est l'un des musées les plus célèbres du monde, abritant notamment la Joconde.
 
+1. [📘 Revoir Joséphine Baker](SCR_REV_CULT_BAKER)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V03_Q29_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V03)
@@ -12992,6 +13447,7 @@ Charles Baudelaire (1821-1867) est l'un des plus célèbres poètes français. S
 
 💡 Retenez : Baudelaire = poète français (Les Fleurs du Mal)
 
+1. [📘 Revoir Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V04_Q01)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V04_CORRIGE)
@@ -13010,6 +13466,7 @@ George Sand (1804-1876) est une célèbre écrivaine française, connue pour ses
 
 💡 Retenez : George Sand = écrivaine française
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V04_Q02)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V04_CORRIGE)
@@ -13510,6 +13967,7 @@ Molière (1622-1673) est considéré comme l'un des plus grands auteurs du thé�
 
 💡 Retenez : Molière = dramaturge français (théâtre)
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V04_Q28)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V04_CORRIGE)
@@ -13717,6 +14175,7 @@ Que lui répondez-vous ?
 
 Noël est célébré chaque année le 25 décembre. En France, cette date est un jour férié.
 
+1. [📘 Revoir Victor Hugo](SCR_REV_CULT_VICTOR_HUGO)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V04_Q40)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V04_CORRIGE)
@@ -13735,6 +14194,7 @@ Charles Baudelaire (1821-1867) est l'un des plus célèbres poètes français. S
 
 💡 Retenez : Baudelaire = poète français (Les Fleurs du Mal)
 
+1. [📘 Revoir Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V04_Q01_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V04)
@@ -13753,6 +14213,7 @@ George Sand (1804-1876) est une célèbre écrivaine française, connue pour ses
 
 💡 Retenez : George Sand = écrivaine française
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V04_Q02_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V04)
@@ -14253,6 +14714,7 @@ Molière (1622-1673) est considéré comme l'un des plus grands auteurs du thé�
 
 💡 Retenez : Molière = dramaturge français (théâtre)
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V04_Q28_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V04)
@@ -14460,6 +14922,7 @@ Que lui répondez-vous ?
 
 Noël est célébré chaque année le 25 décembre. En France, cette date est un jour férié.
 
+1. [📘 Revoir Victor Hugo](SCR_REV_CULT_VICTOR_HUGO)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V04_Q40_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V04)
@@ -14750,6 +15213,7 @@ Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française. Son 
 
 💡 Retenez : Simone de Beauvoir = écrivaine et philosophe française
 
+1. [📘 Revoir Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q15)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V05_CORRIGE)
@@ -14768,6 +15232,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
+1. [📘 Revoir Albert Camus](SCR_REV_CULT_CAMUS)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q16)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V05_CORRIGE)
@@ -14786,6 +15251,7 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 
 💡 Retenez : Paul Cézanne = peintre français
 
+1. [📘 Revoir Paul Cézanne](SCR_REV_CULT_CEZANNE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q17)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V05_CORRIGE)
@@ -14804,6 +15270,7 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 
 💡 Retenez : Marc Chagall = peintre français du XXᵉ siècle
 
+1. [📘 Revoir Marc Chagall](SCR_REV_CULT_CHAGALL)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q18)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V05_CORRIGE)
@@ -14822,6 +15289,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 
 💡 Retenez : Joséphine Baker = chanteuse, danseuse et actrice.
 
+1. [📘 Revoir Joséphine Baker](SCR_REV_CULT_BAKER)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q19)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V05_CORRIGE)
@@ -14876,6 +15344,7 @@ Jean de La Fontaine (1621-1695) est un écrivain et poète français. Ses fables
 
 💡 Retenez : Jean de La Fontaine = auteur des Fables
 
+1. [📘 Revoir Jean de La Fontaine](SCR_REV_CULT_LA_FONTAINE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q22)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V05_CORRIGE)
@@ -14894,6 +15363,7 @@ Victor Hugo est un grand écrivain français du XIXᵉ siècle, notamment auteur
 
 💡 Retenez : Victor Hugo = écrivain français
 
+1. [📘 Revoir Victor Hugo](SCR_REV_CULT_VICTOR_HUGO)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q23)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V05_CORRIGE)
@@ -15485,6 +15955,7 @@ Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française. Son 
 
 💡 Retenez : Simone de Beauvoir = écrivaine et philosophe française
 
+1. [📘 Revoir Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q15_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V05)
@@ -15503,6 +15974,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
+1. [📘 Revoir Albert Camus](SCR_REV_CULT_CAMUS)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q16_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V05)
@@ -15521,6 +15993,7 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 
 💡 Retenez : Paul Cézanne = peintre français
 
+1. [📘 Revoir Paul Cézanne](SCR_REV_CULT_CEZANNE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q17_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V05)
@@ -15539,6 +16012,7 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 
 💡 Retenez : Marc Chagall = peintre français du XXᵉ siècle
 
+1. [📘 Revoir Marc Chagall](SCR_REV_CULT_CHAGALL)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q18_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V05)
@@ -15557,6 +16031,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 
 💡 Retenez : Joséphine Baker = chanteuse, danseuse et actrice.
 
+1. [📘 Revoir Joséphine Baker](SCR_REV_CULT_BAKER)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q19_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V05)
@@ -15611,6 +16086,7 @@ Jean de La Fontaine (1621-1695) est un écrivain et poète français. Ses fables
 
 💡 Retenez : Jean de La Fontaine = auteur des Fables
 
+1. [📘 Revoir Jean de La Fontaine](SCR_REV_CULT_LA_FONTAINE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q22_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V05)
@@ -15629,6 +16105,7 @@ Victor Hugo est un grand écrivain français du XIXᵉ siècle, notamment auteur
 
 💡 Retenez : Victor Hugo = écrivain français
 
+1. [📘 Revoir Victor Hugo](SCR_REV_CULT_VICTOR_HUGO)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V05_Q23_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V05)
@@ -16555,6 +17032,7 @@ Laquelle choisissez-vous ?
 
 Édith Piaf est l'une des chanteuses françaises les plus célèbres, connue pour « La Vie en rose ».
 
+1. [📘 Revoir Marc Chagall](SCR_REV_CULT_CHAGALL)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V06_Q33)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V06_CORRIGE)
@@ -17298,6 +17776,7 @@ Laquelle choisissez-vous ?
 
 Édith Piaf est l'une des chanteuses françaises les plus célèbres, connue pour « La Vie en rose ».
 
+1. [📘 Revoir Marc Chagall](SCR_REV_CULT_CHAGALL)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V06_Q33_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V06)
@@ -17989,6 +18468,7 @@ Que répondez-vous ?
 
 George Sand est une célèbre écrivaine française, connue pour ses romans et son engagement.
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V07_Q30)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V07_CORRIGE)
@@ -18734,6 +19214,7 @@ Que répondez-vous ?
 
 George Sand est une célèbre écrivaine française, connue pour ses romans et son engagement.
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V07_Q30_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V07)
@@ -19500,6 +19981,7 @@ Que lui répondez-vous ?
 
 Albert Camus est un écrivain et philosophe français, prix Nobel de littérature en 1957.
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V08_Q31)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V08_CORRIGE)
@@ -20251,6 +20733,7 @@ Que lui répondez-vous ?
 
 Albert Camus est un écrivain et philosophe français, prix Nobel de littérature en 1957.
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V08_Q31_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V08)
@@ -20853,6 +21336,7 @@ Molière (1622-1673) est considéré comme l'un des plus grands auteurs du thé�
 
 💡 Retenez : Molière = dramaturge français (théâtre)
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V09_Q23)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V09_CORRIGE)
@@ -21136,6 +21620,7 @@ Que lui répondez-vous ?
 
 Paul Cézanne est un peintre français majeur, dont l'œuvre a profondément influencé l'art moderne.
 
+1. [📘 Revoir Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V09_Q39)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V09_CORRIGE)
@@ -21598,6 +22083,7 @@ Molière (1622-1673) est considéré comme l'un des plus grands auteurs du thé�
 
 💡 Retenez : Molière = dramaturge français (théâtre)
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V09_Q23_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V09)
@@ -21881,6 +22367,7 @@ Que lui répondez-vous ?
 
 Paul Cézanne est un peintre français majeur, dont l'œuvre a profondément influencé l'art moderne.
 
+1. [📘 Revoir Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V09_Q39_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V09)
@@ -22055,6 +22542,7 @@ Charles Baudelaire (1821-1867) est l'un des plus célèbres poètes français. S
 
 💡 Retenez : Baudelaire = poète français (Les Fleurs du Mal)
 
+1. [📘 Revoir Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q08)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V10_CORRIGE)
@@ -22073,6 +22561,7 @@ George Sand (1804-1876) est une célèbre écrivaine française, connue pour ses
 
 💡 Retenez : George Sand = écrivaine française
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q09)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V10_CORRIGE)
@@ -22091,6 +22580,7 @@ Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française. Son 
 
 💡 Retenez : Simone de Beauvoir = écrivaine et philosophe française
 
+1. [📘 Revoir Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q10)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V10_CORRIGE)
@@ -22109,6 +22599,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
+1. [📘 Revoir Albert Camus](SCR_REV_CULT_CAMUS)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q11)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V10_CORRIGE)
@@ -22127,6 +22618,7 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 
 💡 Retenez : Paul Cézanne = peintre français
 
+1. [📘 Revoir Paul Cézanne](SCR_REV_CULT_CEZANNE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q12)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V10_CORRIGE)
@@ -22145,6 +22637,7 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 
 💡 Retenez : Marc Chagall = peintre français du XXᵉ siècle
 
+1. [📘 Revoir Marc Chagall](SCR_REV_CULT_CHAGALL)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q13)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V10_CORRIGE)
@@ -22163,6 +22656,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 
 💡 Retenez : Joséphine Baker = chanteuse, danseuse et actrice.
 
+1. [📘 Revoir Joséphine Baker](SCR_REV_CULT_BAKER)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q14)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CSP_V10_CORRIGE)
@@ -22795,6 +23289,7 @@ Charles Baudelaire (1821-1867) est l'un des plus célèbres poètes français. S
 
 💡 Retenez : Baudelaire = poète français (Les Fleurs du Mal)
 
+1. [📘 Revoir Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q08_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V10)
@@ -22813,6 +23308,7 @@ George Sand (1804-1876) est une célèbre écrivaine française, connue pour ses
 
 💡 Retenez : George Sand = écrivaine française
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q09_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V10)
@@ -22831,6 +23327,7 @@ Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française. Son 
 
 💡 Retenez : Simone de Beauvoir = écrivaine et philosophe française
 
+1. [📘 Revoir Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q10_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V10)
@@ -22849,6 +23346,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 
 💡 Retenez = : Albert Camus = écrivain français (prix Nobel en 1957)
 
+1. [📘 Revoir Albert Camus](SCR_REV_CULT_CAMUS)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q11_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V10)
@@ -22867,6 +23365,7 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 
 💡 Retenez : Paul Cézanne = peintre français
 
+1. [📘 Revoir Paul Cézanne](SCR_REV_CULT_CEZANNE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q12_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V10)
@@ -22885,6 +23384,7 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 
 💡 Retenez : Marc Chagall = peintre français du XXᵉ siècle
 
+1. [📘 Revoir Marc Chagall](SCR_REV_CULT_CHAGALL)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q13_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V10)
@@ -22903,6 +23403,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 
 💡 Retenez : Joséphine Baker = chanteuse, danseuse et actrice.
 
+1. [📘 Revoir Joséphine Baker](SCR_REV_CULT_BAKER)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CSP_V10_Q14_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CSP_V10)
@@ -25551,6 +26052,7 @@ Qui était-il ?
 
 Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres les plus connues figure Le Penseur.
 
+1. [📘 Revoir Auguste Rodin](SCR_REV_CULT_RODIN)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V02_Q36)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V02_CORRIGE)
@@ -26299,6 +26801,7 @@ Qui était-il ?
 
 Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres les plus connues figure Le Penseur.
 
+1. [📘 Revoir Auguste Rodin](SCR_REV_CULT_RODIN)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V02_Q36_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V02)
@@ -27056,6 +27559,7 @@ Lequel de ces peintres est français ?
 
 Auguste Renoir est un peintre français majeur du mouvement impressionniste. Il est connu pour ses portraits et ses scènes de la vie quotidienne.
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V03_Q37)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V03_CORRIGE)
@@ -27798,6 +28302,7 @@ Lequel de ces peintres est français ?
 
 Auguste Renoir est un peintre français majeur du mouvement impressionniste. Il est connu pour ses portraits et ses scènes de la vie quotidienne.
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V03_Q37_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V03)
@@ -27870,6 +28375,7 @@ Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient
 
 💡 Retenez : Marguerite Yourcenar = écrivaine
 
+1. [📘 Revoir Marguerite Yourcenar](SCR_REV_CULT_YOURCENAR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V04_Q01)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V04_CORRIGE)
@@ -27888,6 +28394,7 @@ Auguste Renoir est un peintre français majeur du mouvement impressionniste. Il 
 
 💡 Retenez : Renoir = peintre
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V04_Q02)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V04_CORRIGE)
@@ -28614,6 +29121,7 @@ Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient
 
 💡 Retenez : Marguerite Yourcenar = écrivaine
 
+1. [📘 Revoir Marguerite Yourcenar](SCR_REV_CULT_YOURCENAR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V04_Q01_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V04)
@@ -28632,6 +29140,7 @@ Auguste Renoir est un peintre français majeur du mouvement impressionniste. Il 
 
 💡 Retenez : Renoir = peintre
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V04_Q02_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V04)
@@ -29648,6 +30157,7 @@ Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres l
 
 💡 Retenez : Rodin = sculpteur
 
+1. [📘 Revoir Auguste Rodin](SCR_REV_CULT_RODIN)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V05_Q16)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V05_CORRIGE)
@@ -29705,6 +30215,7 @@ La France compte de nombreuses écrivaines célèbres. George Sand, Marguerite Y
 
 💡 Retenez : George Sand = écrivaine
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V05_Q19)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V05_CORRIGE)
@@ -29741,6 +30252,7 @@ Auguste Renoir est un peintre français du XIXᵉ siècle, célèbre pour ses œ
 
 💡 Retenez : Renoir = peintre
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V05_Q21)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V05_CORRIGE)
@@ -30387,6 +30899,7 @@ Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres l
 
 💡 Retenez : Rodin = sculpteur
 
+1. [📘 Revoir Auguste Rodin](SCR_REV_CULT_RODIN)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V05_Q16_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V05)
@@ -30444,6 +30957,7 @@ La France compte de nombreuses écrivaines célèbres. George Sand, Marguerite Y
 
 💡 Retenez : George Sand = écrivaine
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V05_Q19_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V05)
@@ -30480,6 +30994,7 @@ Auguste Renoir est un peintre français du XIXᵉ siècle, célèbre pour ses œ
 
 💡 Retenez : Renoir = peintre
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V05_Q21_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V05)
@@ -35714,6 +36229,7 @@ Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient
 
 💡 Retenez : Marguerite Yourcenar = écrivaine
 
+1. [📘 Revoir Marguerite Yourcenar](SCR_REV_CULT_YOURCENAR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V09_Q22)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V09_CORRIGE)
@@ -35732,6 +36248,7 @@ Auguste Renoir est un peintre français majeur du mouvement impressionniste. Il 
 
 💡 Retenez : Renoir = peintre
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V09_Q23)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V09_CORRIGE)
@@ -35963,6 +36480,7 @@ Laquelle de ces personnes est une écrivaine française ?
 
 La France compte de nombreuses écrivaines célèbres. George Sand, Marguerite Yourcenar et Simone de Beauvoir figurent parmi les plus connues.
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V09_Q36)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V09_CORRIGE)
@@ -36454,6 +36972,7 @@ Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient
 
 💡 Retenez : Marguerite Yourcenar = écrivaine
 
+1. [📘 Revoir Marguerite Yourcenar](SCR_REV_CULT_YOURCENAR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V09_Q22_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V09)
@@ -36472,6 +36991,7 @@ Auguste Renoir est un peintre français majeur du mouvement impressionniste. Il 
 
 💡 Retenez : Renoir = peintre
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V09_Q23_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V09)
@@ -36703,6 +37223,7 @@ Laquelle de ces personnes est une écrivaine française ?
 
 La France compte de nombreuses écrivaines célèbres. George Sand, Marguerite Yourcenar et Simone de Beauvoir figurent parmi les plus connues.
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V09_Q36_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V09)
@@ -36946,6 +37467,7 @@ Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres l
 
 💡 Retenez : Rodin = sculpteur
 
+1. [📘 Revoir Auguste Rodin](SCR_REV_CULT_RODIN)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V10_Q09)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V10_CORRIGE)
@@ -37003,6 +37525,7 @@ La France compte de nombreuses écrivaines célèbres. George Sand, Marguerite Y
 
 💡 Retenez : George Sand = écrivaine
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V10_Q12)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V10_CORRIGE)
@@ -37039,6 +37562,7 @@ Auguste Renoir est un peintre français du XIXᵉ siècle, célèbre pour ses œ
 
 💡 Retenez : Renoir = peintre
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V10_Q14)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_CR_V10_CORRIGE)
@@ -37690,6 +38214,7 @@ Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres l
 
 💡 Retenez : Rodin = sculpteur
 
+1. [📘 Revoir Auguste Rodin](SCR_REV_CULT_RODIN)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V10_Q09_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V10)
@@ -37747,6 +38272,7 @@ La France compte de nombreuses écrivaines célèbres. George Sand, Marguerite Y
 
 💡 Retenez : George Sand = écrivaine
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V10_Q12_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V10)
@@ -37783,6 +38309,7 @@ Auguste Renoir est un peintre français du XIXᵉ siècle, célèbre pour ses œ
 
 💡 Retenez : Renoir = peintre
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_CR_V10_Q14_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_CR_V10)
@@ -40019,6 +40546,7 @@ Victor Hugo est l'un des plus grands écrivains français. Parmi ses œuvres les
 
 💡 Retenez: Victor Hugo = Les Misérables, Notre-Dame de Paris
 
+1. [📘 Revoir Victor Hugo](SCR_REV_CULT_VICTOR_HUGO)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V02_Q14)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V02_CORRIGE)
@@ -40768,6 +41296,7 @@ Victor Hugo est l'un des plus grands écrivains français. Parmi ses œuvres les
 
 💡 Retenez: Victor Hugo = Les Misérables, Notre-Dame de Paris
 
+1. [📘 Revoir Victor Hugo](SCR_REV_CULT_VICTOR_HUGO)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V02_Q14_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V02)
@@ -44981,6 +45510,7 @@ Qui était Albert Camus ?
 
 Albert Camus est l'un des plus grands écrivains français du XXᵉ siècle. Il est notamment l'auteur de L'Étranger et La Peste et reçoit le prix Nobel de littérature en 1957.
 
+1. [📘 Revoir Albert Camus](SCR_REV_CULT_CAMUS)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V05_Q40)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V05_CORRIGE)
@@ -45720,6 +46250,7 @@ Qui était Albert Camus ?
 
 Albert Camus est l'un des plus grands écrivains français du XXᵉ siècle. Il est notamment l'auteur de L'Étranger et La Peste et reçoit le prix Nobel de littérature en 1957.
 
+1. [📘 Revoir Albert Camus](SCR_REV_CULT_CAMUS)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V05_Q40_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V05)
@@ -45929,6 +46460,7 @@ Molière, de son vrai nom Jean-Baptiste Poquelin est l'auteur de nombreuses com�
 
 💡 Retenez: Molière = dramaturge et comédien français
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q11)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V06_CORRIGE)
@@ -45947,6 +46479,7 @@ Charles Baudelaire est l'un des plus grands poètes français du XIXᵉ siècle.
 
 💡 Retenez: Baudelaire = poète français (Les Fleurs du mal)
 
+1. [📘 Revoir Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q12)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V06_CORRIGE)
@@ -45965,6 +46498,7 @@ George Sand, de son vrai nom Aurore Dupin, est une grande romancière française
 
 💡 Retenez: George Sand = écrivaine française (XIXe siècle)
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q13)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V06_CORRIGE)
@@ -45983,6 +46517,7 @@ Simone de Beauvoir est une philosophe, écrivaine et essayiste française. Son o
 
 💡 Retenez: Simone de Beauvoir = philosophe et écrivaine (Le Deuxième Sexe)
 
+1. [📘 Revoir Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q14)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V06_CORRIGE)
@@ -46001,6 +46536,7 @@ Albert Camus est l'un des plus grands écrivains français du XXᵉ siècle. Il 
 
 💡 Retenez: Albert Camus = écrivain et philosophe, prix Nobel 1957
 
+1. [📘 Revoir Albert Camus](SCR_REV_CULT_CAMUS)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q15)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V06_CORRIGE)
@@ -46019,6 +46555,7 @@ Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient
 
 💡 Retenez: Marguerite Yourcenar = 1ère femme à l'Académie française (1980)
 
+1. [📘 Revoir Marguerite Yourcenar](SCR_REV_CULT_YOURCENAR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q16)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V06_CORRIGE)
@@ -46663,6 +47200,7 @@ Molière, de son vrai nom Jean-Baptiste Poquelin est l'auteur de nombreuses com�
 
 💡 Retenez: Molière = dramaturge et comédien français
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q11_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V06)
@@ -46681,6 +47219,7 @@ Charles Baudelaire est l'un des plus grands poètes français du XIXᵉ siècle.
 
 💡 Retenez: Baudelaire = poète français (Les Fleurs du mal)
 
+1. [📘 Revoir Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q12_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V06)
@@ -46699,6 +47238,7 @@ George Sand, de son vrai nom Aurore Dupin, est une grande romancière française
 
 💡 Retenez: George Sand = écrivaine française (XIXe siècle)
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q13_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V06)
@@ -46717,6 +47257,7 @@ Simone de Beauvoir est une philosophe, écrivaine et essayiste française. Son o
 
 💡 Retenez: Simone de Beauvoir = philosophe et écrivaine (Le Deuxième Sexe)
 
+1. [📘 Revoir Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q14_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V06)
@@ -46735,6 +47276,7 @@ Albert Camus est l'un des plus grands écrivains français du XXᵉ siècle. Il 
 
 💡 Retenez: Albert Camus = écrivain et philosophe, prix Nobel 1957
 
+1. [📘 Revoir Albert Camus](SCR_REV_CULT_CAMUS)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q15_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V06)
@@ -46753,6 +47295,7 @@ Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient
 
 💡 Retenez: Marguerite Yourcenar = 1ère femme à l'Académie française (1980)
 
+1. [📘 Revoir Marguerite Yourcenar](SCR_REV_CULT_YOURCENAR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V06_Q16_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V06)
@@ -47206,6 +47749,7 @@ Paul Cézanne est un peintre français majeur de la fin du XIXᵉ siècle. Son �
 
 💡 Retenez: Paul Cézanne = peintre français
 
+1. [📘 Revoir Paul Cézanne](SCR_REV_CULT_CEZANNE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V07_Q01)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V07_CORRIGE)
@@ -47224,6 +47768,7 @@ Auguste Rodin est considéré comme le père de la sculpture moderne. Parmi ses 
 
 💡 Retenez: Le Penseur = Auguste Rodin
 
+1. [📘 Revoir Auguste Rodin](SCR_REV_CULT_RODIN)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V07_Q02)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V07_CORRIGE)
@@ -47242,6 +47787,7 @@ Auguste Renoir est un membre à part entière de l'impressionnisme et évolue da
 
 💡 Retenez: Auguste Renoir = peintre impressionniste français
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V07_Q03)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V07_CORRIGE)
@@ -47949,6 +48495,7 @@ Paul Cézanne est un peintre français majeur de la fin du XIXᵉ siècle. Son �
 
 💡 Retenez: Paul Cézanne = peintre français
 
+1. [📘 Revoir Paul Cézanne](SCR_REV_CULT_CEZANNE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V07_Q01_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V07)
@@ -47967,6 +48514,7 @@ Auguste Rodin est considéré comme le père de la sculpture moderne. Parmi ses 
 
 💡 Retenez: Le Penseur = Auguste Rodin
 
+1. [📘 Revoir Auguste Rodin](SCR_REV_CULT_RODIN)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V07_Q02_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V07)
@@ -47985,6 +48533,7 @@ Auguste Renoir est un membre à part entière de l'impressionnisme et évolue da
 
 💡 Retenez: Auguste Renoir = peintre impressionniste français
 
+1. [📘 Revoir Auguste Renoir](SCR_REV_CULT_RENOIR)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V07_Q03_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V07)
@@ -49289,6 +49838,7 @@ Qui était George Sand ?
 
 George Sand, de son vrai nom Aurore Dupin, est une grande romancière française du XIXᵉ siècle. Elle est connue pour son engagement en faveur de la liberté et de l'égalité.
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V08_Q33)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V08_CORRIGE)
@@ -49394,6 +49944,7 @@ Qui était Molière ?
 
 Molière (Jean-Baptiste Poquelin) est l'auteur de nombreuses comédies célèbres comme Le Misanthrope, L'Avare, Le Médecin malgré lui, ou Le Bourgeois gentilhomme. Un dramaturge est une personne qui écrit des pièces de théâtre.
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V08_Q39)
 1. [↩️ Revenir au tableau de mes erreurs](EXAM_NAT_V08_CORRIGE)
@@ -50027,6 +50578,7 @@ Qui était George Sand ?
 
 George Sand, de son vrai nom Aurore Dupin, est une grande romancière française du XIXᵉ siècle. Elle est connue pour son engagement en faveur de la liberté et de l'égalité.
 
+1. [📘 Revoir George Sand](SCR_REV_CULT_GEORGE_SAND)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V08_Q33_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V08)
@@ -50132,6 +50684,7 @@ Qui était Molière ?
 
 Molière (Jean-Baptiste Poquelin) est l'auteur de nombreuses comédies célèbres comme Le Misanthrope, L'Avare, Le Médecin malgré lui, ou Le Bourgeois gentilhomme. Un dramaturge est une personne qui écrit des pièces de théâtre.
 
+1. [📘 Revoir Molière](SCR_REV_CULT_MOLIERE)
 1. [📖 Lire le chapitre : Le patrimoine et la culture française](SCR_REV_T4_CH03_ACC)
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V08_Q39_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V08)
@@ -53154,3 +53707,484 @@ La liberté d'expression est un droit fondamental. Elle permet d'exprimer ses id
 1. [↩️ Revenir à mon erreur](SCR_CORR_DETAIL_NAT_V10_Q40_LAST)
 1. [↩️ Revenir au tableau de mes erreurs](SCR_LAST_CORR_NAT_V10)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH01_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&v=16" title="Activités : État de droit et séparation des pouvoirs" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T2_CH01_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T2_CH01_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH02_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&v=16" title="Activités : Démocratie et droit de vote" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T2_CH02_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T2_CH02_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH03_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&v=16" title="Activités : Organisation de la République française" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T2_CH03_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T2_CH03_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T2_CH04_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&v=16" title="Activités : Les institutions européennes" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T2_CH04_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T2_CH04_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH01_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&v=16" title="Activités : Les droits fondamentaux" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T3_CH01_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T3_CH01_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T3_CH02_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&v=16" title="Activités : Les obligations et les devoirs" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T3_CH02_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T3_CH02_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH01_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&v=16" title="Activités : Histoire de France 🕰️" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T4_CH01_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T4_CH01_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH02_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&v=16" title="Activités : Territoires et géographie de la France 🗺️" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T4_CH02_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T4_CH02_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T4_CH03_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&v=16" title="Activités : Patrimoine et culture française 🎭" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T4_CH03_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T4_CH03_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH01_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&v=16" title="Activités : Les démarches administratives 📄" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T5_CH01_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T5_CH01_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH02_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&v=16" title="Activités : La santé 🩺" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T5_CH02_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T5_CH02_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH03_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&v=16" title="Activités : L'emploi 💼" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T5_CH03_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T5_CH03_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T5_CH04_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&v=16" title="Activités : La parentalité 👨‍👩‍👧" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T5_CH04_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T5_CH04_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH01_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&v=16" title="Activités : CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH01_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH01_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH02_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&v=16" title="Activités : LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH02_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH02_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH03_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&v=16" title="Activités : LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH03_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH03_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH04_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&v=16" title="Activités : LA LAÏCITÉ" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH04_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH04_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH05_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&v=16" title="Activités : LA LANGUE DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH05_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH05_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_T1_CH06_ACT
+### 🎯 Activités de révisions
+
+Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
+
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&v=16" title="Activités : LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&v=16)
+2. [📖 Revoir les notions utiles](SCR_REV_T1_CH06_GLO)
+3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH06_VERIF)
+4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_LA_FONTAINE
+### 📘 Jean de La Fontaine
+
+:::info 📝 Notion essentielle
+Fabuliste du XVIIe siècle : Le Corbeau et le Renard, La Cigale et la Fourmi.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_MOLIERE
+### 📘 Molière
+
+:::info 📝 Notion essentielle
+Auteur de théâtre du XVIIe siècle : Le Malade imaginaire et Tartuffe.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_VICTOR_HUGO
+### 📘 Victor Hugo
+
+:::info 📝 Notion essentielle
+Écrivain du XIXe siècle : Les Misérables, Notre-Dame de Paris et Le Dernier Jour d’un condamné. Il s’engage contre la peine de mort.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_BAUDELAIRE
+### 📘 Charles Baudelaire
+
+:::info 📝 Notion essentielle
+Poète du XIXe siècle : Les Fleurs du mal et Le Spleen de Paris.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_GEORGE_SAND
+### 📘 George Sand
+
+:::info 📝 Notion essentielle
+Romancière du XIXe siècle : La Mare au diable, Indiana et Consuelo.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_BEAUVOIR
+### 📘 Simone de Beauvoir
+
+:::info 📝 Notion essentielle
+Écrivaine du XXe siècle : Le Deuxième Sexe et Mémoires d’une jeune fille rangée.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_CAMUS
+### 📘 Albert Camus
+
+:::info 📝 Notion essentielle
+Écrivain du XXe siècle : L’Étranger, La Peste et Le Mythe de Sisyphe. Prix Nobel de littérature en 1957.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_YOURCENAR
+### 📘 Marguerite Yourcenar
+
+:::info 📝 Notion essentielle
+Écrivaine du XXe siècle : Mémoires d’Hadrien et L’Œuvre au noir. Première femme élue à l’Académie française en 1980.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_DELACROIX
+### 📘 Eugène Delacroix
+
+:::info 📝 Notion essentielle
+Peintre romantique : La Liberté guidant le peuple, tableau de 1830, et Les Massacres de Scio.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_MONET
+### 📘 Claude Monet
+
+:::info 📝 Notion essentielle
+Peintre impressionniste : Impression, soleil levant et les Nymphéas.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_CEZANNE
+### 📘 Paul Cézanne
+
+:::info 📝 Notion essentielle
+Peintre : Les Joueurs de cartes et La Montagne Sainte-Victoire. Il travaille notamment sur la construction des formes.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_RENOIR
+### 📘 Auguste Renoir
+
+:::info 📝 Notion essentielle
+Peintre impressionniste : Le Déjeuner des canotiers, 1881.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_CAMILLE_CLAUDEL
+### 📘 Camille Claudel
+
+:::info 📝 Notion essentielle
+Sculptrice : La Valse et La Vieille Hélène.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_RODIN
+### 📘 Auguste Rodin
+
+:::info 📝 Notion essentielle
+Sculpteur : Le Penseur et Le Baiser.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_CHAGALL
+### 📘 Marc Chagall
+
+:::info 📝 Notion essentielle
+Peintre né dans l’Empire russe et naturalisé français en 1937 : La Vie et le plafond de l’Opéra Garnier.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_PIAF
+### 📘 Édith Piaf
+
+:::info 📝 Notion essentielle
+Chanteuse : La Vie en rose et L’Hymne à l’amour.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_DEBUSSY
+### 📘 Claude Debussy
+
+:::info 📝 Notion essentielle
+Compositeur : Clair de lune et La Mer.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_REV_CULT_BAKER
+### 📘 Joséphine Baker
+
+:::info 📝 Notion essentielle
+Artiste née aux États-Unis, naturalisée française en 1937 et engagée dans la Résistance. Chanson repère : J’ai deux amours.
+:::
+
+1. [📖 Lire le cours de culture](SCR_REV_T4_CH03_COURS)
+2. [📖 Retour aux notions utiles](SCR_REV_T4_CH03_GLO)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
+4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
+5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
