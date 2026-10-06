@@ -1,536 +1,1708 @@
 {
   "SCR_REV_T2_CH01": {
-    "title": "SCR_REV_T2_CH01",
-    "items": [
+    "title": "État de droit et séparation des pouvoirs",
+    "activities": [
       {
-        "name": "État de droit",
-        "definition": "État dans lequel tous, y compris les pouvoirs publics, doivent respecter la loi."
+        "type": "sort",
+        "title": "Placez les institutions sous le bon pouvoir",
+        "groups": [
+          "Exécutif",
+          "Législatif",
+          "Judiciaire"
+        ],
+        "items": [
+          {
+            "label": "🏛️ Gouvernement",
+            "target": "Exécutif",
+            "explanation": "Le Gouvernement conduit la politique et met en œuvre les lois."
+          },
+          {
+            "label": "🗳️ Assemblée nationale et Sénat",
+            "target": "Législatif",
+            "explanation": "Le Parlement discute et vote les lois."
+          },
+          {
+            "label": "⚖️ Tribunaux",
+            "target": "Judiciaire",
+            "explanation": "Les tribunaux rendent la justice."
+          }
+        ]
       },
       {
-        "name": "Séparation des pouvoirs",
-        "definition": "Organisation qui répartit les fonctions de l'État pour éviter qu'une seule autorité détienne tous les pouvoirs."
+        "type": "match",
+        "title": "Quelle mission pour quelle institution ?",
+        "items": [
+          {
+            "label": "Gouvernement",
+            "target": "Mettre en œuvre les lois",
+            "explanation": "Gouvernement : Mettre en œuvre les lois"
+          },
+          {
+            "label": "Parlement",
+            "target": "Discuter et voter les lois",
+            "explanation": "Parlement : Discuter et voter les lois"
+          },
+          {
+            "label": "Tribunaux",
+            "target": "Rendre la justice",
+            "explanation": "Tribunaux : Rendre la justice"
+          },
+          {
+            "label": "Constitution",
+            "target": "Fixer les règles fondamentales de l’État",
+            "explanation": "Constitution : Fixer les règles fondamentales de l’État"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quels sont les trois pouvoirs qui permettent de garantir l'équilibre de la démocratie française ?",
+        "answer": "Les trois pouvoirs sont :\n\n- le pouvoir législatif ;\n- le pouvoir exécutif ;\n- le pouvoir judiciaire.",
+        "source": "SCR_REV_T2_CH01_VERIF_Q01_RESULT",
+        "options": [
+          "Les trois pouvoirs sont :\n\n- le pouvoir législatif ;\n- le pouvoir exécutif ;\n- le pouvoir judiciaire.",
+          "Les pouvoirs législatif, exécutif et judiciaire.",
+          "Elle doit juger impartialement, sans pression du pouvoir politique."
+        ]
       },
       {
-        "name": "Pouvoir exécutif",
-        "definition": "Pouvoir chargé de conduire la politique du pays et de faire appliquer les lois."
+        "question": "Quels sont les trois pouvoirs séparés dans une démocratie ?",
+        "answer": "Les pouvoirs législatif, exécutif et judiciaire.",
+        "source": "SCR_REV_T2_CH01_VERIF_Q02_RESULT",
+        "options": [
+          "Les pouvoirs législatif, exécutif et judiciaire.",
+          "Les trois pouvoirs sont :\n\n- le pouvoir législatif ;\n- le pouvoir exécutif ;\n- le pouvoir judiciaire.",
+          "Elle doit juger impartialement, sans pression du pouvoir politique."
+        ]
       },
       {
-        "name": "Pouvoir législatif",
-        "definition": "Pouvoir exercé par le Parlement pour discuter et voter les lois."
-      },
-      {
-        "name": "Autorité judiciaire",
-        "definition": "Institution indépendante chargée de faire respecter le droit et de juger les litiges."
-      },
-      {
-        "name": "Constitution",
-        "definition": "Texte juridique supérieur qui organise les institutions et protège les droits fondamentaux."
+        "question": "Pourquoi la justice doit-elle être indépendante ?",
+        "answer": "Elle doit juger impartialement, sans pression du pouvoir politique.",
+        "source": "SCR_REV_T2_CH01_VERIF_Q03_RESULT",
+        "options": [
+          "Elle doit juger impartialement, sans pression du pouvoir politique.",
+          "Les trois pouvoirs sont :\n\n- le pouvoir législatif ;\n- le pouvoir exécutif ;\n- le pouvoir judiciaire.",
+          "Les pouvoirs législatif, exécutif et judiciaire."
+        ]
       }
     ]
   },
   "SCR_REV_T2_CH02": {
-    "title": "SCR_REV_T2_CH02",
-    "items": [
+    "title": "Démocratie et droit de vote",
+    "activities": [
       {
-        "name": "Démocratie",
-        "definition": "Régime politique dans lequel le pouvoir appartient au peuple."
+        "type": "match",
+        "title": "Associez les représentants à leur rôle",
+        "items": [
+          {
+            "label": "Maire",
+            "target": "Agir pour la commune",
+            "explanation": "Maire : Agir pour la commune"
+          },
+          {
+            "label": "Député",
+            "target": "Voter les lois à l’Assemblée nationale",
+            "explanation": "Député : Voter les lois à l’Assemblée nationale"
+          },
+          {
+            "label": "Sénateur",
+            "target": "Voter les lois au Sénat",
+            "explanation": "Sénateur : Voter les lois au Sénat"
+          },
+          {
+            "label": "Député européen",
+            "target": "Représenter les citoyens au Parlement européen",
+            "explanation": "Député européen : Représenter les citoyens au Parlement européen"
+          }
+        ]
       },
       {
-        "name": "Suffrage universel",
-        "definition": "Droit de vote reconnu à tous les citoyens qui remplissent les conditions prévues par la loi."
+        "type": "order",
+        "title": "Reconstituez le vote au bureau de vote",
+        "items": [
+          {
+            "label": "Faire vérifier son identité et son inscription",
+            "target": "1",
+            "explanation": "Étape 1 : Faire vérifier son identité et son inscription"
+          },
+          {
+            "label": "Choisir son bulletin dans l’isoloir",
+            "target": "2",
+            "explanation": "Étape 2 : Choisir son bulletin dans l’isoloir"
+          },
+          {
+            "label": "Déposer son bulletin dans l’urne",
+            "target": "3",
+            "explanation": "Étape 3 : Déposer son bulletin dans l’urne"
+          },
+          {
+            "label": "Signer la liste d’émargement",
+            "target": "4",
+            "explanation": "Étape 4 : Signer la liste d’émargement"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quelles sont les quatre conditions principales pour pouvoir voter en France ?",
+        "answer": "Il faut avoir au moins 18 ans, avoir la nationalité française, être inscrit sur les listes électorales et ne pas être privé de ses droits civils et politiques. Les citoyens de l’Union européenne peuvent voter en France aux élections municipales et européennes sous certaines conditions.",
+        "source": "SCR_REV_T2_CH02_VERIF_Q01_RESULT",
+        "options": [
+          "Il faut avoir au moins 18 ans, avoir la nationalité française, être inscrit sur les listes électorales et ne pas être privé de ses droits civils et politiques. Les citoyens de l’Union européenne peuvent voter en France aux élections municipales et européennes sous certaines conditions.",
+          "Il faut notamment avoir 18 ans, être français, jouir de ses droits civils et politiques et être inscrit sur une liste électorale.",
+          "Le secret du vote permet à chacun de choisir librement, sans pression."
+        ]
       },
       {
-        "name": "Électeur",
-        "definition": "Citoyen inscrit sur une liste électorale et autorisé à voter."
+        "question": "Quelles conditions principales faut-il remplir pour voter en France ?",
+        "answer": "Il faut notamment avoir 18 ans, être français, jouir de ses droits civils et politiques et être inscrit sur une liste électorale.",
+        "source": "SCR_REV_T2_CH02_VERIF_Q02_RESULT",
+        "options": [
+          "Il faut notamment avoir 18 ans, être français, jouir de ses droits civils et politiques et être inscrit sur une liste électorale.",
+          "Il faut avoir au moins 18 ans, avoir la nationalité française, être inscrit sur les listes électorales et ne pas être privé de ses droits civils et politiques. Les citoyens de l’Union européenne peuvent voter en France aux élections municipales et européennes sous certaines conditions.",
+          "Le secret du vote permet à chacun de choisir librement, sans pression."
+        ]
       },
       {
-        "name": "Scrutin",
-        "definition": "Ensemble des opérations qui permettent aux électeurs de choisir un candidat ou de répondre à une question."
-      },
-      {
-        "name": "Référendum",
-        "definition": "Vote par lequel les citoyens répondent directement à une question posée par les pouvoirs publics."
-      },
-      {
-        "name": "Abstention",
-        "definition": "Fait de ne pas participer à un vote."
+        "question": "Pourquoi le vote est-il secret ?",
+        "answer": "Le secret du vote permet à chacun de choisir librement, sans pression.",
+        "source": "SCR_REV_T2_CH02_VERIF_Q03_RESULT",
+        "options": [
+          "Le secret du vote permet à chacun de choisir librement, sans pression.",
+          "Il faut avoir au moins 18 ans, avoir la nationalité française, être inscrit sur les listes électorales et ne pas être privé de ses droits civils et politiques. Les citoyens de l’Union européenne peuvent voter en France aux élections municipales et européennes sous certaines conditions.",
+          "Il faut notamment avoir 18 ans, être français, jouir de ses droits civils et politiques et être inscrit sur une liste électorale."
+        ]
       }
     ]
   },
   "SCR_REV_T2_CH03": {
-    "title": "SCR_REV_T2_CH03",
-    "items": [
+    "title": "Organisation de la République française",
+    "activities": [
       {
-        "name": "Collectivité territoriale",
-        "definition": "Autorité publique locale qui administre un territoire avec des élus et des compétences propres."
+        "type": "order",
+        "title": "Construisez les niveaux du territoire",
+        "items": [
+          {
+            "label": "Commune",
+            "target": "1",
+            "explanation": "Étape 1 : Commune"
+          },
+          {
+            "label": "Département",
+            "target": "2",
+            "explanation": "Étape 2 : Département"
+          },
+          {
+            "label": "Région",
+            "target": "3",
+            "explanation": "Étape 3 : Région"
+          },
+          {
+            "label": "État",
+            "target": "4",
+            "explanation": "Étape 4 : État"
+          }
+        ]
       },
       {
-        "name": "Commune",
-        "definition": "Collectivité territoriale dirigée par le maire et le conseil municipal."
+        "type": "match",
+        "title": "Le bon interlocuteur",
+        "items": [
+          {
+            "label": "🏘️ Commune",
+            "target": "Maire et conseil municipal",
+            "explanation": "🏘️ Commune : Maire et conseil municipal"
+          },
+          {
+            "label": "🗺️ Département",
+            "target": "Conseil départemental",
+            "explanation": "🗺️ Département : Conseil départemental"
+          },
+          {
+            "label": "🌄 Région",
+            "target": "Conseil régional",
+            "explanation": "🌄 Région : Conseil régional"
+          },
+          {
+            "label": "🏛️ Représentation de l’État dans le département",
+            "target": "Préfet",
+            "explanation": "🏛️ Représentation de l’État dans le département : Préfet"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quels sont les trois principaux niveaux de collectivités territoriales en France ?",
+        "answer": "Les trois niveaux sont :\n\n- la commune ;\n- le département ;\n- la région.",
+        "source": "SCR_REV_T2_CH03_VERIF_Q01_RESULT",
+        "options": [
+          "Les trois niveaux sont :\n\n- la commune ;\n- le département ;\n- la région.",
+          "La commune gère des services publics locaux proches des habitants, sous l'autorité du maire et du conseil municipal.",
+          "Les départements agissent notamment dans la solidarité et les collèges ; les régions dans les lycées, les transports et le développement économique."
+        ]
       },
       {
-        "name": "Département",
-        "definition": "Collectivité qui agit notamment dans l'action sociale et la gestion des collèges."
+        "question": "Quel est le rôle principal d'une commune ?",
+        "answer": "La commune gère des services publics locaux proches des habitants, sous l'autorité du maire et du conseil municipal.",
+        "source": "SCR_REV_T2_CH03_VERIF_Q02_RESULT",
+        "options": [
+          "La commune gère des services publics locaux proches des habitants, sous l'autorité du maire et du conseil municipal.",
+          "Les trois niveaux sont :\n\n- la commune ;\n- le département ;\n- la région.",
+          "Les départements agissent notamment dans la solidarité et les collèges ; les régions dans les lycées, les transports et le développement économique."
+        ]
       },
       {
-        "name": "Région",
-        "definition": "Collectivité compétente notamment pour le développement économique, les transports régionaux et les lycées."
-      },
-      {
-        "name": "Préfet",
-        "definition": "Représentant de l'État dans un département ou une région."
-      },
-      {
-        "name": "Décentralisation",
-        "definition": "Transfert de certaines compétences de l'État vers les collectivités territoriales."
+        "question": "À quoi servent les départements et les régions ?",
+        "answer": "Les départements agissent notamment dans la solidarité et les collèges ; les régions dans les lycées, les transports et le développement économique.",
+        "source": "SCR_REV_T2_CH03_VERIF_Q03_RESULT",
+        "options": [
+          "Les départements agissent notamment dans la solidarité et les collèges ; les régions dans les lycées, les transports et le développement économique.",
+          "Les trois niveaux sont :\n\n- la commune ;\n- le département ;\n- la région.",
+          "La commune gère des services publics locaux proches des habitants, sous l'autorité du maire et du conseil municipal."
+        ]
       }
     ]
   },
   "SCR_REV_T2_CH04": {
-    "title": "SCR_REV_T2_CH04",
-    "items": [
+    "title": "Les institutions européennes",
+    "activities": [
       {
-        "name": "Union européenne",
-        "definition": "Union politique et économique composée de pays européens qui ont choisi d'agir ensemble dans plusieurs domaines."
+        "type": "match",
+        "title": "Retrouvez les repères européens",
+        "items": [
+          {
+            "label": "🇪🇺 Douze étoiles sur fond bleu",
+            "target": "Drapeau européen",
+            "explanation": "🇪🇺 Douze étoiles sur fond bleu : Drapeau européen"
+          },
+          {
+            "label": "🎵 Ode à la joie",
+            "target": "Hymne européen",
+            "explanation": "🎵 Ode à la joie : Hymne européen"
+          },
+          {
+            "label": "🤝 Unie dans la diversité",
+            "target": "Devise européenne",
+            "explanation": "🤝 Unie dans la diversité : Devise européenne"
+          },
+          {
+            "label": "📅 9 mai",
+            "target": "Journée de l’Europe",
+            "explanation": "📅 9 mai : Journée de l’Europe"
+          }
+        ]
       },
       {
-        "name": "Parlement européen",
-        "definition": "Institution élue directement par les citoyens européens qui participe au vote des textes et du budget européens."
+        "type": "match",
+        "title": "Associez les institutions à leur rôle",
+        "items": [
+          {
+            "label": "Parlement européen",
+            "target": "Institution élue directement par les citoyens européens qui participe au vote des textes et du budget européens.",
+            "explanation": "Parlement européen : Institution élue directement par les citoyens européens qui participe au vote des textes et du budget européens."
+          },
+          {
+            "label": "Commission européenne",
+            "target": "Institution qui propose les textes européens et veille à leur application.",
+            "explanation": "Commission européenne : Institution qui propose les textes européens et veille à leur application."
+          },
+          {
+            "label": "Conseil de l'Union européenne",
+            "target": "Institution dans laquelle les ministres des États membres examinent et adoptent les textes européens avec le Parlement.",
+            "explanation": "Conseil de l'Union européenne : Institution dans laquelle les ministres des États membres examinent et adoptent les textes européens avec le Parlement."
+          },
+          {
+            "label": "Conseil européen",
+            "target": "Réunion des chefs d'État ou de gouvernement qui fixe les grandes orientations de l'Union européenne.",
+            "explanation": "Conseil européen : Réunion des chefs d'État ou de gouvernement qui fixe les grandes orientations de l'Union européenne."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quelle institution européenne est élue directement par les citoyens européens ?",
+        "answer": "Le Parlement européen.",
+        "source": "SCR_REV_T2_CH04_VERIF_Q01_RESULT",
+        "options": [
+          "Le Parlement européen.",
+          "Le Parlement européen vote les textes européens avec le Conseil de l'Union européenne et contrôle les institutions européennes.",
+          "La Commission propose des textes européens et veille à l'application du droit de l'Union européenne."
+        ]
       },
       {
-        "name": "Commission européenne",
-        "definition": "Institution qui propose les textes européens et veille à leur application."
+        "question": "Quel est le rôle du Parlement européen ?",
+        "answer": "Le Parlement européen vote les textes européens avec le Conseil de l'Union européenne et contrôle les institutions européennes.",
+        "source": "SCR_REV_T2_CH04_VERIF_Q02_RESULT",
+        "options": [
+          "Le Parlement européen vote les textes européens avec le Conseil de l'Union européenne et contrôle les institutions européennes.",
+          "Le Parlement européen.",
+          "La Commission propose des textes européens et veille à l'application du droit de l'Union européenne."
+        ]
       },
       {
-        "name": "Conseil de l'Union européenne",
-        "definition": "Institution dans laquelle les ministres des États membres examinent et adoptent les textes européens avec le Parlement."
-      },
-      {
-        "name": "Conseil européen",
-        "definition": "Réunion des chefs d'État ou de gouvernement qui fixe les grandes orientations de l'Union européenne."
-      },
-      {
-        "name": "Citoyenneté européenne",
-        "definition": "Statut accordé à toute personne ayant la nationalité d'un pays membre de l'Union européenne."
+        "question": "Quel est le rôle de la Commission européenne ?",
+        "answer": "La Commission propose des textes européens et veille à l'application du droit de l'Union européenne.",
+        "source": "SCR_REV_T2_CH04_VERIF_Q03_RESULT",
+        "options": [
+          "La Commission propose des textes européens et veille à l'application du droit de l'Union européenne.",
+          "Le Parlement européen.",
+          "Le Parlement européen vote les textes européens avec le Conseil de l'Union européenne et contrôle les institutions européennes."
+        ]
       }
     ]
   },
   "SCR_REV_T3_CH01": {
-    "title": "SCR_REV_T3_CH01",
-    "items": [
+    "title": "Les droits fondamentaux",
+    "activities": [
       {
-        "name": "Droit fondamental",
-        "definition": "Droit essentiel reconnu et protégé par les textes juridiques."
+        "type": "match",
+        "title": "Un droit pour chaque situation",
+        "items": [
+          {
+            "label": "💬 Exprimer une opinion",
+            "target": "Liberté d’expression",
+            "explanation": "💬 Exprimer une opinion : Liberté d’expression"
+          },
+          {
+            "label": "🎒 Accéder à l’instruction",
+            "target": "Droit à l’éducation",
+            "explanation": "🎒 Accéder à l’instruction : Droit à l’éducation"
+          },
+          {
+            "label": "⚖️ Être traité selon les mêmes règles",
+            "target": "Égalité devant la loi",
+            "explanation": "⚖️ Être traité selon les mêmes règles : Égalité devant la loi"
+          },
+          {
+            "label": "🙏 Choisir de croire ou de ne pas croire",
+            "target": "Liberté de conscience",
+            "explanation": "🙏 Choisir de croire ou de ne pas croire : Liberté de conscience"
+          }
+        ]
       },
       {
-        "name": "Liberté individuelle",
-        "definition": "Possibilité d'agir et de faire des choix dans le respect de la loi et des droits d'autrui."
+        "type": "sort",
+        "title": "Reconnaître le respect des droits",
+        "groups": [
+          "Respecte les droits",
+          "Atteinte aux droits"
+        ],
+        "items": [
+          {
+            "label": "Refuser une personne à cause de son origine",
+            "target": "Atteinte aux droits",
+            "explanation": "Une différence de traitement fondée sur un critère interdit est une discrimination."
+          },
+          {
+            "label": "Permettre à chacun d’exprimer une opinion dans le respect de la loi",
+            "target": "Respecte les droits",
+            "explanation": "La liberté d’expression est un droit fondamental."
+          },
+          {
+            "label": "Humilier une personne",
+            "target": "Atteinte aux droits",
+            "explanation": "La dignité humaine doit être respectée."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quels sont les trois principaux textes qui protègent les droits fondamentaux en France ?",
+        "answer": "Les trois textes attendus sont la Constitution, la Déclaration des droits de l’Homme et du citoyen et la Charte de l’environnement.",
+        "source": "SCR_REV_T3_CH01_VERIF_Q01_RESULT",
+        "options": [
+          "Les trois textes attendus sont la Constitution, la Déclaration des droits de l’Homme et du citoyen et la Charte de l’environnement.",
+          "Par exemple : la liberté d'expression, l'égalité, le droit à la sûreté, le droit à l'éducation ou le respect de la vie privée.",
+          "Les femmes et les hommes ont les mêmes droits et doivent être traités sans discrimination."
+        ]
       },
       {
-        "name": "Égalité devant la loi",
-        "definition": "Principe selon lequel les mêmes règles s'appliquent à toutes les personnes placées dans une situation comparable."
+        "question": "Citez deux droits fondamentaux reconnus en France.",
+        "answer": "Par exemple : la liberté d'expression, l'égalité, le droit à la sûreté, le droit à l'éducation ou le respect de la vie privée.",
+        "source": "SCR_REV_T3_CH01_VERIF_Q02_RESULT",
+        "options": [
+          "Par exemple : la liberté d'expression, l'égalité, le droit à la sûreté, le droit à l'éducation ou le respect de la vie privée.",
+          "Les trois textes attendus sont la Constitution, la Déclaration des droits de l’Homme et du citoyen et la Charte de l’environnement.",
+          "Les femmes et les hommes ont les mêmes droits et doivent être traités sans discrimination."
+        ]
       },
       {
-        "name": "Dignité humaine",
-        "definition": "Valeur propre à chaque personne, qui interdit de la traiter de manière dégradante."
-      },
-      {
-        "name": "Discrimination",
-        "definition": "Traitement défavorable fondé sur un critère interdit par la loi."
-      },
-      {
-        "name": "Déclaration des droits de l'homme et du citoyen",
-        "definition": "Texte de 1789 qui affirme des droits et libertés fondamentaux."
+        "question": "Que signifie l'égalité entre les femmes et les hommes ?",
+        "answer": "Les femmes et les hommes ont les mêmes droits et doivent être traités sans discrimination.",
+        "source": "SCR_REV_T3_CH01_VERIF_Q03_RESULT",
+        "options": [
+          "Les femmes et les hommes ont les mêmes droits et doivent être traités sans discrimination.",
+          "Les trois textes attendus sont la Constitution, la Déclaration des droits de l’Homme et du citoyen et la Charte de l’environnement.",
+          "Par exemple : la liberté d'expression, l'égalité, le droit à la sûreté, le droit à l'éducation ou le respect de la vie privée."
+        ]
       }
     ]
   },
   "SCR_REV_T3_CH02": {
-    "title": "SCR_REV_T3_CH02",
-    "items": [
+    "title": "Les obligations et les devoirs",
+    "activities": [
       {
-        "name": "Devoir",
-        "definition": "Règle morale ou civique que chacun est tenu de respecter."
+        "type": "sort",
+        "title": "Droit, devoir ou interdiction ?",
+        "groups": [
+          "Droit",
+          "Devoir",
+          "Interdiction"
+        ],
+        "items": [
+          {
+            "label": "S’exprimer dans le respect de la loi",
+            "target": "Droit",
+            "explanation": "La liberté d’expression est un droit."
+          },
+          {
+            "label": "Respecter les lois",
+            "target": "Devoir",
+            "explanation": "Le respect de la loi est une obligation."
+          },
+          {
+            "label": "Discriminer une personne",
+            "target": "Interdiction",
+            "explanation": "La discrimination est interdite."
+          },
+          {
+            "label": "Payer les impôts dus",
+            "target": "Devoir",
+            "explanation": "L’impôt contribue aux dépenses publiques."
+          }
+        ]
       },
       {
-        "name": "Obligation légale",
-        "definition": "Comportement imposé par la loi, dont le non-respect peut être sanctionné."
+        "type": "sort",
+        "title": "Choisir une réaction responsable",
+        "groups": [
+          "Réaction adaptée",
+          "Réaction à corriger"
+        ],
+        "items": [
+          {
+            "label": "Demander une explication sur une obligation que l’on ne comprend pas",
+            "target": "Réaction adaptée",
+            "explanation": "Comprendre ses obligations aide à les respecter."
+          },
+          {
+            "label": "Ignorer une loi parce que l’on n’est pas d’accord",
+            "target": "Réaction à corriger",
+            "explanation": "La loi s’applique même lorsqu’on ne partage pas son contenu."
+          },
+          {
+            "label": "Respecter les droits des autres",
+            "target": "Réaction adaptée",
+            "explanation": "Droits et devoirs vont ensemble."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Citez trois obligations que toute personne vivant en France doit respecter.",
+        "answer": "Il fallait citer au moins trois obligations, par exemple : respecter les lois ; respecter les autres personnes et leurs biens ; déclarer ses revenus et payer les impôts dus ; protéger l’environnement ; porter secours ou demander de l’aide face à un danger.",
+        "source": "SCR_REV_T3_CH02_VERIF_Q01_RESULT",
+        "options": [
+          "Il fallait citer au moins trois obligations, par exemple : respecter les lois ; respecter les autres personnes et leurs biens ; déclarer ses revenus et payer les impôts dus ; protéger l’environnement ; porter secours ou demander de l’aide face à un danger.",
+          "Les impôts financent les services publics et les dépenses utiles à la collectivité.",
+          "Ils doivent assurer leur instruction et veiller à leur assiduité scolaire."
+        ]
       },
       {
-        "name": "Respect de la loi",
-        "definition": "Obligation de se conformer aux règles applicables à toutes les personnes vivant en France."
+        "question": "Pourquoi faut-il payer des impôts ?",
+        "answer": "Les impôts financent les services publics et les dépenses utiles à la collectivité.",
+        "source": "SCR_REV_T3_CH02_VERIF_Q02_RESULT",
+        "options": [
+          "Les impôts financent les services publics et les dépenses utiles à la collectivité.",
+          "Il fallait citer au moins trois obligations, par exemple : respecter les lois ; respecter les autres personnes et leurs biens ; déclarer ses revenus et payer les impôts dus ; protéger l’environnement ; porter secours ou demander de l’aide face à un danger.",
+          "Ils doivent assurer leur instruction et veiller à leur assiduité scolaire."
+        ]
       },
       {
-        "name": "Impôt",
-        "definition": "Somme versée aux administrations publiques pour financer les services et les dépenses collectives."
-      },
-      {
-        "name": "Solidarité nationale",
-        "definition": "Contribution de chacun au soutien des personnes et au financement de la protection collective."
-      },
-      {
-        "name": "Responsabilité",
-        "definition": "Obligation d'assumer les conséquences de ses actes."
+        "question": "Quels devoirs les parents ont-ils concernant l'éducation de leurs enfants ?",
+        "answer": "Ils doivent assurer leur instruction et veiller à leur assiduité scolaire.",
+        "source": "SCR_REV_T3_CH02_VERIF_Q03_RESULT",
+        "options": [
+          "Ils doivent assurer leur instruction et veiller à leur assiduité scolaire.",
+          "Il fallait citer au moins trois obligations, par exemple : respecter les lois ; respecter les autres personnes et leurs biens ; déclarer ses revenus et payer les impôts dus ; protéger l’environnement ; porter secours ou demander de l’aide face à un danger.",
+          "Les impôts financent les services publics et les dépenses utiles à la collectivité."
+        ]
       }
     ]
   },
   "SCR_REV_T4_CH01": {
-    "title": "SCR_REV_T4_CH01",
-    "items": [
+    "title": "Histoire de France 🕰️",
+    "activities": [
       {
-        "name": "Ancien Régime",
-        "definition": "Nom donné à l'organisation politique et sociale de la France avant la Révolution de 1789."
+        "type": "timeline",
+        "title": "Replacez les événements sur la frise",
+        "items": [
+          {
+            "label": "Début de la Révolution française",
+            "target": "1789",
+            "explanation": "1789 : Début de la Révolution française"
+          },
+          {
+            "label": "Proclamation de la Première République",
+            "target": "1792",
+            "explanation": "1792 : Proclamation de la Première République"
+          },
+          {
+            "label": "Séparation des Églises et de l’État",
+            "target": "1905",
+            "explanation": "1905 : Séparation des Églises et de l’État"
+          },
+          {
+            "label": "Droit de vote accordé aux femmes",
+            "target": "1944",
+            "explanation": "1944 : Droit de vote accordé aux femmes"
+          },
+          {
+            "label": "Naissance de la Ve République",
+            "target": "1958",
+            "explanation": "1958 : Naissance de la Ve République"
+          },
+          {
+            "label": "Abolition de la peine de mort",
+            "target": "1981",
+            "explanation": "1981 : Abolition de la peine de mort"
+          }
+        ]
       },
       {
-        "name": "Révolution française",
-        "definition": "Période commencée en 1789 qui met fin à la monarchie absolue et affirme de nouveaux droits."
+        "type": "memory",
+        "title": "Retrouvez les paires date et événement",
+        "pairs": [
+          [
+            "1789",
+            "Début de la Révolution française"
+          ],
+          [
+            "1792",
+            "Proclamation de la Première République"
+          ],
+          [
+            "1905",
+            "Séparation des Églises et de l’État"
+          ],
+          [
+            "1944",
+            "Droit de vote accordé aux femmes"
+          ],
+          [
+            "1958",
+            "Naissance de la Ve République"
+          ],
+          [
+            "1981",
+            "Abolition de la peine de mort"
+          ]
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "En quelle année débute la Révolution française ?",
+        "answer": "La Révolution française débute en 1789.",
+        "source": "SCR_REV_T4_CH01_VERIF_Q01_RESULT",
+        "options": [
+          "La Révolution française débute en 1789.",
+          "La loi de séparation des Églises et de l'État a été adoptée en 1905.",
+          "En 1958 naît la Ve République et sa Constitution est adoptée."
+        ]
       },
       {
-        "name": "République",
-        "definition": "Régime politique dans lequel le pouvoir n'est pas transmis par héritage à un monarque."
+        "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été adoptée ?",
+        "answer": "La loi de séparation des Églises et de l'État a été adoptée en 1905.",
+        "source": "SCR_REV_T4_CH01_VERIF_Q02_RESULT",
+        "options": [
+          "La loi de séparation des Églises et de l'État a été adoptée en 1905.",
+          "La Révolution française débute en 1789.",
+          "En 1958 naît la Ve République et sa Constitution est adoptée."
+        ]
       },
       {
-        "name": "Déclaration des droits de l'homme et du citoyen",
-        "definition": "Texte adopté en 1789 qui proclame notamment la liberté et l'égalité en droits."
-      },
-      {
-        "name": "Résistance",
-        "definition": "Ensemble des actions menées contre l'occupation nazie et le régime de Vichy pendant la Seconde Guerre mondiale."
-      },
-      {
-        "name": "Ve République",
-        "definition": "Régime politique français établi par la Constitution de 1958."
+        "question": "Que se passe-t-il en 1958 dans l'histoire politique française ?",
+        "answer": "En 1958 naît la Ve République et sa Constitution est adoptée.",
+        "source": "SCR_REV_T4_CH01_VERIF_Q03_RESULT",
+        "options": [
+          "En 1958 naît la Ve République et sa Constitution est adoptée.",
+          "La Révolution française débute en 1789.",
+          "La loi de séparation des Églises et de l'État a été adoptée en 1905."
+        ]
       }
     ]
   },
   "SCR_REV_T4_CH02": {
-    "title": "SCR_REV_T4_CH02",
-    "items": [
+    "title": "Territoires et géographie de la France 🗺️",
+    "activities": [
       {
-        "name": "Métropole",
-        "definition": "Partie du territoire français située en Europe."
+        "type": "geo",
+        "title": "Repérez les fleuves puis les massifs sur les cartes"
       },
       {
-        "name": "Outre-mer",
-        "definition": "Ensemble des territoires français situés hors du continent européen."
+        "type": "geo",
+        "title": "Repérez les massifs sur la carte"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quels sont les deux grands ensembles qui composent le territoire français ?",
+        "answer": "La France métropolitaine et les territoires d’Outre-mer.",
+        "source": "SCR_REV_T4_CH02_VERIF_Q01_RESULT",
+        "options": [
+          "La France métropolitaine et les territoires d’Outre-mer.",
+          "Par exemple : la Seine, la Loire, la Garonne, le Rhône ou le Rhin.",
+          "Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à la frontière avec l'Espagne."
+        ]
       },
       {
-        "name": "Frontière",
-        "definition": "Limite qui sépare deux États ou territoires."
+        "question": "Citez un grand fleuve français.",
+        "answer": "Par exemple : la Seine, la Loire, la Garonne, le Rhône ou le Rhin.",
+        "source": "SCR_REV_T4_CH02_VERIF_Q02_RESULT",
+        "options": [
+          "Par exemple : la Seine, la Loire, la Garonne, le Rhône ou le Rhin.",
+          "La France métropolitaine et les territoires d’Outre-mer.",
+          "Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à la frontière avec l'Espagne."
+        ]
       },
       {
-        "name": "Département et région d'outre-mer",
-        "definition": "Collectivité française située outre-mer où les lois nationales s'appliquent en principe comme en métropole."
-      },
-      {
-        "name": "Façade maritime",
-        "definition": "Partie du territoire ouverte sur une mer ou un océan."
-      },
-      {
-        "name": "Francophonie",
-        "definition": "Ensemble des personnes et des pays qui utilisent la langue française."
+        "question": "Où se trouvent les Alpes et les Pyrénées ?",
+        "answer": "Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à la frontière avec l'Espagne.",
+        "source": "SCR_REV_T4_CH02_VERIF_Q03_RESULT",
+        "options": [
+          "Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à la frontière avec l'Espagne.",
+          "La France métropolitaine et les territoires d’Outre-mer.",
+          "Par exemple : la Seine, la Loire, la Garonne, le Rhône ou le Rhin."
+        ]
       }
     ]
   },
   "SCR_REV_T4_CH03": {
-    "title": "SCR_REV_T4_CH03",
-    "items": [
+    "title": "Patrimoine et culture française 🎭",
+    "activities": [
       {
-        "name": "Patrimoine",
-        "definition": "Ensemble des biens matériels et immatériels transmis par les générations précédentes et jugés importants à préserver."
+        "type": "sort",
+        "title": "Matériel ou immatériel ?",
+        "groups": [
+          "Patrimoine matériel",
+          "Patrimoine immatériel"
+        ],
+        "items": [
+          {
+            "label": "🏰 Le château de Versailles",
+            "target": "Patrimoine matériel",
+            "explanation": "Un bâtiment est un patrimoine matériel."
+          },
+          {
+            "label": "🍽️ Le repas gastronomique des Français",
+            "target": "Patrimoine immatériel",
+            "explanation": "Une pratique et un savoir-faire relèvent du patrimoine immatériel."
+          },
+          {
+            "label": "🖼️ Un tableau conservé au musée",
+            "target": "Patrimoine matériel",
+            "explanation": "Une œuvre physique est un patrimoine matériel."
+          }
+        ]
       },
       {
-        "name": "Patrimoine matériel",
-        "definition": "Monuments, objets, œuvres ou sites que l'on peut voir et conserver."
+        "type": "match",
+        "title": "Retrouvez les lieux et leur rôle",
+        "items": [
+          {
+            "label": "🏛️ Le musée du Louvre",
+            "target": "Conserver et présenter des œuvres",
+            "explanation": "🏛️ Le musée du Louvre : Conserver et présenter des œuvres"
+          },
+          {
+            "label": "🎬 Le Festival de Cannes",
+            "target": "Célébrer le cinéma",
+            "explanation": "🎬 Le Festival de Cannes : Célébrer le cinéma"
+          },
+          {
+            "label": "🌍 L’UNESCO",
+            "target": "Identifier et protéger le patrimoine",
+            "explanation": "🌍 L’UNESCO : Identifier et protéger le patrimoine"
+          },
+          {
+            "label": "🏰 Le château de Versailles",
+            "target": "Un exemple de patrimoine matériel",
+            "explanation": "🏰 Le château de Versailles : Un exemple de patrimoine matériel"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quels sont les principaux éléments qui composent le patrimoine culturel français ?",
+        "answer": "Les monuments, les œuvres artistiques, la langue française, les traditions, la gastronomie et les savoir-faire.",
+        "source": "SCR_REV_T4_CH03_VERIF_Q01_RESULT",
+        "options": [
+          "Les monuments, les œuvres artistiques, la langue française, les traditions, la gastronomie et les savoir-faire.",
+          "Par exemple : un monument, un musée, une œuvre, une tradition, la gastronomie ou la langue française.",
+          "L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'une valeur exceptionnelle."
+        ]
       },
       {
-        "name": "Patrimoine immatériel",
-        "definition": "Traditions, savoir-faire, pratiques et expressions transmis entre générations."
+        "question": "Citez deux éléments du patrimoine culturel français.",
+        "answer": "Par exemple : un monument, un musée, une œuvre, une tradition, la gastronomie ou la langue française.",
+        "source": "SCR_REV_T4_CH03_VERIF_Q02_RESULT",
+        "options": [
+          "Par exemple : un monument, un musée, une œuvre, une tradition, la gastronomie ou la langue française.",
+          "Les monuments, les œuvres artistiques, la langue française, les traditions, la gastronomie et les savoir-faire.",
+          "L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'une valeur exceptionnelle."
+        ]
       },
       {
-        "name": "Monument historique",
-        "definition": "Bien protégé en raison de son intérêt historique, artistique ou architectural."
-      },
-      {
-        "name": "Culture",
-        "definition": "Ensemble des œuvres, pratiques, connaissances et valeurs partagées par une société."
-      },
-      {
-        "name": "Diversité culturelle",
-        "definition": "Coexistence de cultures, d'expressions et de traditions différentes."
+        "question": "Quel est le rôle de l'UNESCO pour le patrimoine ?",
+        "answer": "L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'une valeur exceptionnelle.",
+        "source": "SCR_REV_T4_CH03_VERIF_Q03_RESULT",
+        "options": [
+          "L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'une valeur exceptionnelle.",
+          "Les monuments, les œuvres artistiques, la langue française, les traditions, la gastronomie et les savoir-faire.",
+          "Par exemple : un monument, un musée, une œuvre, une tradition, la gastronomie ou la langue française."
+        ]
       }
     ]
   },
   "SCR_REV_T5_CH01": {
-    "title": "SCR_REV_T5_CH01",
-    "items": [
+    "title": "Les démarches administratives 📄",
+    "activities": [
       {
-        "name": "Domiciliation",
-        "definition": "Adresse administrative permettant de recevoir du courrier et d'effectuer des démarches."
+        "type": "order",
+        "title": "Préparez une démarche administrative",
+        "items": [
+          {
+            "label": "Identifier le service compétent",
+            "target": "1",
+            "explanation": "Étape 1 : Identifier le service compétent"
+          },
+          {
+            "label": "Vérifier les pièces demandées",
+            "target": "2",
+            "explanation": "Étape 2 : Vérifier les pièces demandées"
+          },
+          {
+            "label": "Préparer son dossier",
+            "target": "3",
+            "explanation": "Étape 3 : Préparer son dossier"
+          },
+          {
+            "label": "Déposer sa demande et conserver un justificatif",
+            "target": "4",
+            "explanation": "Étape 4 : Déposer sa demande et conserver un justificatif"
+          }
+        ]
       },
       {
-        "name": "Justificatif de domicile",
-        "definition": "Document récent prouvant l'adresse d'une personne."
+        "type": "match",
+        "title": "Associez un besoin à une démarche",
+        "items": [
+          {
+            "label": "🏠 Prouver son adresse",
+            "target": "Justificatif de domicile",
+            "explanation": "🏠 Prouver son adresse : Justificatif de domicile"
+          },
+          {
+            "label": "🏦 Accéder à un compte bancaire",
+            "target": "Droit au compte",
+            "explanation": "🏦 Accéder à un compte bancaire : Droit au compte"
+          },
+          {
+            "label": "📄 Déclarer ses revenus",
+            "target": "Déclaration de revenus",
+            "explanation": "📄 Déclarer ses revenus : Déclaration de revenus"
+          },
+          {
+            "label": "🪪 Justifier son droit au séjour",
+            "target": "Titre de séjour",
+            "explanation": "🪪 Justifier son droit au séjour : Titre de séjour"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Pourquoi est-il important d'avoir une domiciliation ?",
+        "answer": "La domiciliation donne une adresse administrative pour recevoir son courrier et accéder à ses droits.",
+        "source": "SCR_REV_T5_CH01_VERIF_Q01_RESULT",
+        "options": [
+          "La domiciliation donne une adresse administrative pour recevoir son courrier et accéder à ses droits.",
+          "Une pièce d'identité et un justificatif de domicile sont généralement demandés.",
+          "Il permet à une personne étrangère d'habiter ou de vivre légalement en France pendant une durée déterminée."
+        ]
       },
       {
-        "name": "Droit au compte",
-        "definition": "Procédure permettant, sous conditions, d'obtenir la désignation d'une banque par la Banque de France."
+        "question": "Quels documents sont généralement nécessaires pour ouvrir un compte bancaire ?",
+        "answer": "Une pièce d'identité et un justificatif de domicile sont généralement demandés.",
+        "source": "SCR_REV_T5_CH01_VERIF_Q02_RESULT",
+        "options": [
+          "Une pièce d'identité et un justificatif de domicile sont généralement demandés.",
+          "La domiciliation donne une adresse administrative pour recevoir son courrier et accéder à ses droits.",
+          "Il permet à une personne étrangère d'habiter ou de vivre légalement en France pendant une durée déterminée."
+        ]
       },
       {
-        "name": "Responsabilité civile",
-        "definition": "Obligation de réparer les dommages causés à une autre personne."
+        "question": "À quoi sert un titre de séjour ?",
+        "answer": "Il permet à une personne étrangère d'habiter ou de vivre légalement en France pendant une durée déterminée.",
+        "source": "SCR_REV_T5_CH01_VERIF_Q03_RESULT",
+        "options": [
+          "Il permet à une personne étrangère d'habiter ou de vivre légalement en France pendant une durée déterminée.",
+          "La domiciliation donne une adresse administrative pour recevoir son courrier et accéder à ses droits.",
+          "Une pièce d'identité et un justificatif de domicile sont généralement demandés."
+        ]
       },
       {
-        "name": "Déclaration de revenus",
-        "definition": "Démarche annuelle qui consiste à informer l'administration fiscale des revenus perçus."
-      },
-      {
-        "name": "Titre de séjour",
-        "definition": "Document autorisant une personne étrangère à résider en France pour une durée déterminée."
+        "question": "À quoi sert un état des lieux dans un logement ?",
+        "answer": "Il décrit l'état du logement à l'entrée et à la sortie afin de limiter les litiges.",
+        "source": "SCR_REV_T5_CH01_VERIF_Q04_RESULT",
+        "options": [
+          "Il décrit l'état du logement à l'entrée et à la sortie afin de limiter les litiges.",
+          "La domiciliation donne une adresse administrative pour recevoir son courrier et accéder à ses droits.",
+          "Une pièce d'identité et un justificatif de domicile sont généralement demandés."
+        ]
       }
     ]
   },
   "SCR_REV_T5_CH02": {
-    "title": "SCR_REV_T5_CH02",
-    "items": [
+    "title": "La santé 🩺",
+    "activities": [
       {
-        "name": "Assurance Maladie",
-        "definition": "Branche de la Sécurité sociale qui prend en charge une partie des dépenses de santé."
+        "type": "sort",
+        "title": "À qui s’adresser ?",
+        "groups": [
+          "Médecin",
+          "Pharmacie",
+          "Urgence médicale"
+        ],
+        "items": [
+          {
+            "label": "Une consultation pour un problème de santé sans gravité urgente",
+            "target": "Médecin",
+            "explanation": "Le médecin évalue votre état de santé."
+          },
+          {
+            "label": "Obtenir les médicaments prescrits sur une ordonnance",
+            "target": "Pharmacie",
+            "explanation": "La pharmacie délivre les médicaments prescrits."
+          },
+          {
+            "label": "Une situation médicale grave nécessitant des soins immédiats",
+            "target": "Urgence médicale",
+            "explanation": "Une urgence médicale grave nécessite une prise en charge immédiate."
+          }
+        ]
       },
       {
-        "name": "Carte Vitale",
-        "definition": "Carte personnelle utilisée pour transmettre les informations nécessaires au remboursement des soins."
+        "type": "order",
+        "title": "Reconstituez un parcours de soins courant",
+        "items": [
+          {
+            "label": "Consulter son médecin",
+            "target": "1",
+            "explanation": "Étape 1 : Consulter son médecin"
+          },
+          {
+            "label": "Recevoir une ordonnance si nécessaire",
+            "target": "2",
+            "explanation": "Étape 2 : Recevoir une ordonnance si nécessaire"
+          },
+          {
+            "label": "Présenter l’ordonnance à la pharmacie",
+            "target": "3",
+            "explanation": "Étape 3 : Présenter l’ordonnance à la pharmacie"
+          },
+          {
+            "label": "Suivre les indications du traitement",
+            "target": "4",
+            "explanation": "Étape 4 : Suivre les indications du traitement"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quel est le rôle du médecin traitant ?",
+        "answer": "Il assure le suivi médical habituel et oriente si nécessaire vers un spécialiste.",
+        "source": "SCR_REV_T5_CH02_VERIF_Q01_RESULT",
+        "options": [
+          "Il assure le suivi médical habituel et oriente si nécessaire vers un spécialiste.",
+          "Elle transmet les informations utiles à l'Assurance Maladie et facilite le remboursement des soins.",
+          "En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen."
+        ]
       },
       {
-        "name": "Protection universelle maladie (PUMa)",
-        "definition": "Dispositif garantissant la prise en charge des frais de santé aux personnes qui travaillent ou résident en France de manière stable et régulière."
+        "question": "À quoi sert la carte Vitale ?",
+        "answer": "Elle transmet les informations utiles à l'Assurance Maladie et facilite le remboursement des soins.",
+        "source": "SCR_REV_T5_CH02_VERIF_Q02_RESULT",
+        "options": [
+          "Elle transmet les informations utiles à l'Assurance Maladie et facilite le remboursement des soins.",
+          "Il assure le suivi médical habituel et oriente si nécessaire vers un spécialiste.",
+          "En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen."
+        ]
       },
       {
-        "name": "Médecin traitant",
-        "definition": "Médecin déclaré auprès de l'Assurance Maladie qui coordonne le parcours de soins du patient."
+        "question": "Quel numéro appeler en cas d'urgence médicale grave ?",
+        "answer": "En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.",
+        "source": "SCR_REV_T5_CH02_VERIF_Q03_RESULT",
+        "options": [
+          "En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.",
+          "Il assure le suivi médical habituel et oriente si nécessaire vers un spécialiste.",
+          "Elle transmet les informations utiles à l'Assurance Maladie et facilite le remboursement des soins."
+        ]
       },
       {
-        "name": "Ordonnance",
-        "definition": "Document rédigé par un professionnel de santé pour prescrire un traitement ou un examen."
-      },
-      {
-        "name": "Urgence médicale",
-        "definition": "Situation nécessitant une prise en charge rapide en raison d'un risque grave ou immédiat pour la santé."
+        "question": "Quelle différence y a-t-il entre l'Assurance Maladie et une mutuelle ?",
+        "answer": "L'Assurance Maladie rembourse une part des soins ; la mutuelle peut compléter ce remboursement.",
+        "source": "SCR_REV_T5_CH02_VERIF_Q04_RESULT",
+        "options": [
+          "L'Assurance Maladie rembourse une part des soins ; la mutuelle peut compléter ce remboursement.",
+          "Il assure le suivi médical habituel et oriente si nécessaire vers un spécialiste.",
+          "Elle transmet les informations utiles à l'Assurance Maladie et facilite le remboursement des soins."
+        ]
       }
     ]
   },
   "SCR_REV_T5_CH03": {
-    "title": "SCR_REV_T5_CH03",
-    "items": [
+    "title": "L'emploi 💼",
+    "activities": [
       {
-        "name": "Salarié",
-        "definition": "Personne qui travaille pour un employeur en échange d'une rémunération."
+        "type": "sort",
+        "title": "Droits et obligations au travail",
+        "groups": [
+          "Droit du salarié",
+          "Obligation du salarié"
+        ],
+        "items": [
+          {
+            "label": "Recevoir un salaire pour son travail",
+            "target": "Droit du salarié",
+            "explanation": "Le travail salarié donne lieu à une rémunération."
+          },
+          {
+            "label": "Recevoir un bulletin de salaire",
+            "target": "Droit du salarié",
+            "explanation": "Le bulletin de salaire détaille la rémunération."
+          },
+          {
+            "label": "Respecter les consignes de sécurité",
+            "target": "Obligation du salarié",
+            "explanation": "La sécurité concerne tous les travailleurs."
+          },
+          {
+            "label": "Effectuer le travail prévu par son contrat",
+            "target": "Obligation du salarié",
+            "explanation": "Le contrat définit les engagements de travail."
+          }
+        ]
       },
       {
-        "name": "Contrat de travail",
-        "definition": "Accord qui définit la relation de travail entre un salarié et un employeur."
+        "type": "match",
+        "title": "Comprendre les documents et repères du travail",
+        "items": [
+          {
+            "label": "📄 Contrat de travail",
+            "target": "Définit la relation de travail",
+            "explanation": "📄 Contrat de travail : Définit la relation de travail"
+          },
+          {
+            "label": "🧾 Bulletin de salaire",
+            "target": "Détaille la rémunération",
+            "explanation": "🧾 Bulletin de salaire : Détaille la rémunération"
+          },
+          {
+            "label": "📅 CDI",
+            "target": "Contrat sans terme fixé à l’avance",
+            "explanation": "📅 CDI : Contrat sans terme fixé à l’avance"
+          },
+          {
+            "label": "⏳ CDD",
+            "target": "Contrat prévu pour une durée limitée",
+            "explanation": "⏳ CDD : Contrat prévu pour une durée limitée"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quel est le rôle de France Travail ?",
+        "answer": "France Travail accompagne les personnes dans leur recherche d'emploi, leur orientation et leur insertion professionnelle.",
+        "source": "SCR_REV_T5_CH03_VERIF_Q01_RESULT",
+        "options": [
+          "France Travail accompagne les personnes dans leur recherche d'emploi, leur orientation et leur insertion professionnelle.",
+          "Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisations et le salaire net.",
+          "Il précise l'emploi, la rémunération, la durée du travail et les obligations de l'employeur et du salarié."
+        ]
       },
       {
-        "name": "CDI",
-        "definition": "Contrat de travail conclu sans date de fin prévue."
+        "question": "Quels éléments essentiels figurent sur un bulletin de salaire ?",
+        "answer": "Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisations et le salaire net.",
+        "source": "SCR_REV_T5_CH03_VERIF_Q02_RESULT",
+        "options": [
+          "Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisations et le salaire net.",
+          "France Travail accompagne les personnes dans leur recherche d'emploi, leur orientation et leur insertion professionnelle.",
+          "Il précise l'emploi, la rémunération, la durée du travail et les obligations de l'employeur et du salarié."
+        ]
       },
       {
-        "name": "CDD",
-        "definition": "Contrat conclu pour une durée limitée et dans les situations autorisées par la loi."
+        "question": "À quoi sert un contrat de travail ?",
+        "answer": "Il précise l'emploi, la rémunération, la durée du travail et les obligations de l'employeur et du salarié.",
+        "source": "SCR_REV_T5_CH03_VERIF_Q03_RESULT",
+        "options": [
+          "Il précise l'emploi, la rémunération, la durée du travail et les obligations de l'employeur et du salarié.",
+          "France Travail accompagne les personnes dans leur recherche d'emploi, leur orientation et leur insertion professionnelle.",
+          "Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisations et le salaire net."
+        ]
       },
       {
-        "name": "SMIC",
-        "definition": "Salaire horaire minimum légal applicable en France."
-      },
-      {
-        "name": "Bulletin de salaire",
-        "definition": "Document remis au salarié qui détaille sa rémunération et les cotisations."
+        "question": "Que doit faire un salarié en cas d'absence pour maladie ?",
+        "answer": "Il doit prévenir rapidement son employeur et transmettre l'arrêt de travail dans le délai demandé.",
+        "source": "SCR_REV_T5_CH03_VERIF_Q04_RESULT",
+        "options": [
+          "Il doit prévenir rapidement son employeur et transmettre l'arrêt de travail dans le délai demandé.",
+          "France Travail accompagne les personnes dans leur recherche d'emploi, leur orientation et leur insertion professionnelle.",
+          "Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisations et le salaire net."
+        ]
       }
     ]
   },
   "SCR_REV_T5_CH04": {
-    "title": "SCR_REV_T5_CH04",
-    "items": [
+    "title": "La parentalité 👨‍👩‍👧",
+    "activities": [
       {
-        "name": "Autorité parentale",
-        "definition": "Ensemble des droits et devoirs des parents exercés dans l'intérêt de l'enfant."
+        "type": "order",
+        "title": "Reconstituez le parcours scolaire",
+        "items": [
+          {
+            "label": "École maternelle",
+            "target": "1",
+            "explanation": "Étape 1 : École maternelle"
+          },
+          {
+            "label": "École élémentaire",
+            "target": "2",
+            "explanation": "Étape 2 : École élémentaire"
+          },
+          {
+            "label": "Collège",
+            "target": "3",
+            "explanation": "Étape 3 : Collège"
+          },
+          {
+            "label": "Lycée ou formation",
+            "target": "4",
+            "explanation": "Étape 4 : Lycée ou formation"
+          }
+        ]
       },
       {
-        "name": "Instruction obligatoire",
-        "definition": "Obligation pour chaque enfant de recevoir une instruction pendant la période d'âge fixée par la loi."
+        "type": "sort",
+        "title": "Protéger et accompagner son enfant",
+        "groups": [
+          "Réaction adaptée",
+          "Réaction à corriger"
+        ],
+        "items": [
+          {
+            "label": "Prévenir l’école en cas d’absence",
+            "target": "Réaction adaptée",
+            "explanation": "Les parents doivent veiller à la scolarité de leur enfant."
+          },
+          {
+            "label": "Ignorer un signalement de harcèlement",
+            "target": "Réaction à corriger",
+            "explanation": "Un enfant doit être protégé ; échangez avec l’établissement."
+          },
+          {
+            "label": "Prendre une décision dans l’intérêt de l’enfant",
+            "target": "Réaction adaptée",
+            "explanation": "L’autorité parentale s’exerce dans l’intérêt de l’enfant."
+          },
+          {
+            "label": "Utiliser des violences éducatives",
+            "target": "Réaction à corriger",
+            "explanation": "Les violences éducatives sont interdites."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "À partir de quel âge l'instruction est-elle obligatoire en France ?",
+        "answer": "L'instruction est obligatoire à partir de 3 ans.",
+        "source": "SCR_REV_T5_CH04_VERIF_Q01_RESULT",
+        "options": [
+          "L'instruction est obligatoire à partir de 3 ans.",
+          "L'école maternelle développe le langage, la socialisation et les premiers apprentissages de l'enfant.",
+          "Ils doivent prévenir l'établissement et justifier l'absence."
+        ]
       },
       {
-        "name": "Scolarité",
-        "definition": "Parcours suivi par un élève dans les différents niveaux d'enseignement."
+        "question": "Quel est le rôle principal de l'école maternelle ?",
+        "answer": "L'école maternelle développe le langage, la socialisation et les premiers apprentissages de l'enfant.",
+        "source": "SCR_REV_T5_CH04_VERIF_Q02_RESULT",
+        "options": [
+          "L'école maternelle développe le langage, la socialisation et les premiers apprentissages de l'enfant.",
+          "L'instruction est obligatoire à partir de 3 ans.",
+          "Ils doivent prévenir l'établissement et justifier l'absence."
+        ]
       },
       {
-        "name": "Communauté éducative",
-        "definition": "Ensemble des personnes qui participent à l'éducation et à la réussite des élèves."
+        "question": "Que doivent faire les parents en cas d'absence de leur enfant ?",
+        "answer": "Ils doivent prévenir l'établissement et justifier l'absence.",
+        "source": "SCR_REV_T5_CH04_VERIF_Q03_RESULT",
+        "options": [
+          "Ils doivent prévenir l'établissement et justifier l'absence.",
+          "L'instruction est obligatoire à partir de 3 ans.",
+          "L'école maternelle développe le langage, la socialisation et les premiers apprentissages de l'enfant."
+        ]
       },
       {
-        "name": "Orientation scolaire",
-        "definition": "Choix progressif d'une voie d'études ou de formation en fonction du projet et des résultats de l'élève."
-      },
-      {
-        "name": "Harcèlement scolaire",
-        "definition": "Violences répétées, verbales, physiques ou psychologiques, commises contre un élève."
+        "question": "Que signifie l'autorité parentale ?",
+        "answer": "Les parents doivent protéger l'enfant, assurer son éducation et prendre les décisions dans son intérêt.",
+        "source": "SCR_REV_T5_CH04_VERIF_Q04_RESULT",
+        "options": [
+          "Les parents doivent protéger l'enfant, assurer son éducation et prendre les décisions dans son intérêt.",
+          "L'instruction est obligatoire à partir de 3 ans.",
+          "L'école maternelle développe le langage, la socialisation et les premiers apprentissages de l'enfant."
+        ]
       }
     ]
   },
   "SCR_REV_T1_CH01": {
-    "title": "SCR_REV_T1_CH01",
-    "items": [
+    "title": "CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷",
+    "activities": [
       {
-        "name": "République",
-        "definition": "Organisation politique dans laquelle le pouvoir appartient au peuple."
+        "type": "match",
+        "title": "Qui fait quoi dans la République ?",
+        "items": [
+          {
+            "label": "👥 Le peuple",
+            "target": "Possède la souveraineté nationale",
+            "explanation": "👥 Le peuple : Possède la souveraineté nationale"
+          },
+          {
+            "label": "🗳️ Le référendum",
+            "target": "Permet de voter directement sur une question",
+            "explanation": "🗳️ Le référendum : Permet de voter directement sur une question"
+          },
+          {
+            "label": "📜 La Constitution",
+            "target": "Définit les règles fondamentales de l’État",
+            "explanation": "📜 La Constitution : Définit les règles fondamentales de l’État"
+          },
+          {
+            "label": "👤 Un représentant",
+            "target": "Exerce une fonction politique au nom des citoyens",
+            "explanation": "👤 Un représentant : Exerce une fonction politique au nom des citoyens"
+          }
+        ]
       },
       {
-        "name": "Constitution",
-        "definition": "Texte qui définit les règles fondamentales d'organisation d'un État."
+        "type": "order",
+        "title": "Reconstituez la participation démocratique",
+        "items": [
+          {
+            "label": "S’informer sur les propositions",
+            "target": "1",
+            "explanation": "Étape 1 : S’informer sur les propositions"
+          },
+          {
+            "label": "Choisir librement",
+            "target": "2",
+            "explanation": "Étape 2 : Choisir librement"
+          },
+          {
+            "label": "Exprimer son choix par le vote",
+            "target": "3",
+            "explanation": "Étape 3 : Exprimer son choix par le vote"
+          },
+          {
+            "label": "Des représentants élus exercent leur mandat",
+            "target": "4",
+            "explanation": "Étape 4 : Des représentants élus exercent leur mandat"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Qui possède la souveraineté nationale en France ?",
+        "answer": "Le peuple.",
+        "source": "SCR_REV_T1_CH01_VERIF_Q01_RESULT",
+        "options": [
+          "Le peuple.",
+          "Par ses représentants et par la voie du référendum.",
+          "Indivisible, laïque, démocratique et sociale."
+        ]
       },
       {
-        "name": "Souveraineté nationale",
-        "definition": "Pouvoir appartenant au peuple."
+        "question": "Par quels moyens le peuple exerce-t-il la souveraineté nationale ?",
+        "answer": "Par ses représentants et par la voie du référendum.",
+        "source": "SCR_REV_T1_CH01_VERIF_Q02_RESULT",
+        "options": [
+          "Par ses représentants et par la voie du référendum.",
+          "Le peuple.",
+          "Indivisible, laïque, démocratique et sociale."
+        ]
       },
       {
-        "name": "Représentant",
-        "definition": "Personne élue pour exercer une fonction politique au nom des citoyens."
-      },
-      {
-        "name": "Référendum",
-        "definition": "Vote direct des citoyens sur une question."
+        "question": "Complète la phrase :\n\n\"La France est une République __________, __________, __________, et __________.\"",
+        "answer": "Indivisible, laïque, démocratique et sociale.",
+        "source": "SCR_REV_T1_CH01_VERIF_Q03_RESULT",
+        "options": [
+          "Indivisible, laïque, démocratique et sociale.",
+          "Le peuple.",
+          "Par ses représentants et par la voie du référendum."
+        ]
       }
     ]
   },
   "SCR_REV_T1_CH02": {
-    "title": "SCR_REV_T1_CH02",
-    "items": [
+    "title": "LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE",
+    "activities": [
       {
-        "name": "Devise",
-        "definition": "phrase officielle représentant les valeurs de la République."
+        "type": "sort",
+        "title": "Quelle valeur reconnaissez-vous ?",
+        "groups": [
+          "Liberté",
+          "Égalité",
+          "Fraternité"
+        ],
+        "items": [
+          {
+            "label": "💬 Exprimer une opinion dans le respect de la loi",
+            "target": "Liberté",
+            "explanation": "La liberté permet de s’exprimer dans le respect de la loi."
+          },
+          {
+            "label": "⚖️ Appliquer les mêmes droits à chacun",
+            "target": "Égalité",
+            "explanation": "L’égalité garantit les mêmes droits."
+          },
+          {
+            "label": "🤝 Aider une personne en difficulté",
+            "target": "Fraternité",
+            "explanation": "La fraternité renvoie à la solidarité."
+          }
+        ]
       },
       {
-        "name": "Liberté",
-        "definition": "droit de penser, d'agir et de s'exprimer dans le respect de la loi."
+        "type": "order",
+        "title": "Reconstituez la devise",
+        "items": [
+          {
+            "label": "Liberté",
+            "target": "1",
+            "explanation": "Étape 1 : Liberté"
+          },
+          {
+            "label": "Égalité",
+            "target": "2",
+            "explanation": "Étape 2 : Égalité"
+          },
+          {
+            "label": "Fraternité",
+            "target": "3",
+            "explanation": "Étape 3 : Fraternité"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quelle est la devise officielle de la République française ?",
+        "answer": "Liberté, égalité, fraternité",
+        "source": "SCR_REV_T1_CH02_VERIF_Q01_RESULT",
+        "options": [
+          "Liberté, égalité, fraternité",
+          "L'égalité devant la loi signifie que **la loi est la même pour tous.**",
+          "La loi doit s'appliquer de la même manière à toutes les personnes, sans discrimination."
+        ]
       },
       {
-        "name": "Égalité",
-        "definition": "principe selon lequel chacun possède les mêmes droits."
+        "question": "Que signifie l'égalité devant la loi ?",
+        "answer": "L'égalité devant la loi signifie que **la loi est la même pour tous.**",
+        "source": "SCR_REV_T1_CH02_VERIF_Q02_RESULT",
+        "options": [
+          "L'égalité devant la loi signifie que **la loi est la même pour tous.**",
+          "Liberté, égalité, fraternité",
+          "La loi doit s'appliquer de la même manière à toutes les personnes, sans discrimination."
+        ]
       },
       {
-        "name": "Fraternité",
-        "definition": "solidarité entre les personnes."
-      },
-      {
-        "name": "Discrimination",
-        "definition": "traitement injustifié fondé sur un critère interdit par la loi."
-      },
-      {
-        "name": "Parité",
-        "definition": "représentation équilibrée des femmes et des hommes."
+        "question": "Que signifie le principe d'égalité dans la devise républicaine ?",
+        "answer": "La loi doit s'appliquer de la même manière à toutes les personnes, sans discrimination.",
+        "source": "SCR_REV_T1_CH02_VERIF_Q03_RESULT",
+        "options": [
+          "La loi doit s'appliquer de la même manière à toutes les personnes, sans discrimination.",
+          "Liberté, égalité, fraternité",
+          "L'égalité devant la loi signifie que **la loi est la même pour tous.**"
+        ]
       }
     ]
   },
   "SCR_REV_T1_CH03": {
-    "title": "SCR_REV_T1_CH03",
-    "items": [
+    "title": "LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE",
+    "activities": [
       {
-        "name": "Symbole",
-        "definition": "élément représentant une idée ou une valeur."
+        "type": "flag",
+        "title": "Coloriez le drapeau français",
+        "items": [
+          {
+            "label": "Bleu",
+            "target": "0",
+            "explanation": "De gauche à droite : bleu, blanc, rouge."
+          },
+          {
+            "label": "Blanc",
+            "target": "1",
+            "explanation": "De gauche à droite : bleu, blanc, rouge."
+          },
+          {
+            "label": "Rouge",
+            "target": "2",
+            "explanation": "De gauche à droite : bleu, blanc, rouge."
+          }
+        ]
       },
       {
-        "name": "Drapeau tricolore",
-        "definition": "drapeau officiel bleu, blanc, rouge."
+        "type": "match",
+        "title": "Retrouvez les symboles",
+        "items": [
+          {
+            "label": "🇫🇷 Le drapeau tricolore",
+            "target": "Bleu, blanc, rouge",
+            "explanation": "🇫🇷 Le drapeau tricolore : Bleu, blanc, rouge"
+          },
+          {
+            "label": "🎵 L’hymne national",
+            "target": "La Marseillaise",
+            "explanation": "🎵 L’hymne national : La Marseillaise"
+          },
+          {
+            "label": "👩 Le buste de la République",
+            "target": "Marianne",
+            "explanation": "👩 Le buste de la République : Marianne"
+          },
+          {
+            "label": "📜 La devise",
+            "target": "Liberté, Égalité, Fraternité",
+            "explanation": "📜 La devise : Liberté, Égalité, Fraternité"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quelles sont les couleurs du drapeau français ?",
+        "answer": "Bleu, blanc et rouge.",
+        "source": "SCR_REV_T1_CH03_VERIF_Q01_RESULT",
+        "options": [
+          "Bleu, blanc et rouge.",
+          "La Marseillaise est l'hymne national français.",
+          "Le 14 juillet est la fête nationale française. Il commémore notamment la prise de la Bastille en 1789."
+        ]
       },
       {
-        "name": "Hymne national",
-        "definition": "chant officiel d'un pays."
+        "question": "Qu'est-ce que la Marseillaise ?",
+        "answer": "La Marseillaise est l'hymne national français.",
+        "source": "SCR_REV_T1_CH03_VERIF_Q02_RESULT",
+        "options": [
+          "La Marseillaise est l'hymne national français.",
+          "Bleu, blanc et rouge.",
+          "Le 14 juillet est la fête nationale française. Il commémore notamment la prise de la Bastille en 1789."
+        ]
       },
       {
-        "name": "Marianne",
-        "definition": "représentation de la République française."
+        "question": "Pourquoi célèbre-t-on le 14 juillet ?",
+        "answer": "Le 14 juillet est la fête nationale française. Il commémore notamment la prise de la Bastille en 1789.",
+        "source": "SCR_REV_T1_CH03_VERIF_Q03_RESULT",
+        "options": [
+          "Le 14 juillet est la fête nationale française. Il commémore notamment la prise de la Bastille en 1789.",
+          "Bleu, blanc et rouge.",
+          "La Marseillaise est l'hymne national français."
+        ]
       },
       {
-        "name": "Bonnet phrygien",
-        "definition": "symbole historique de la liberté."
-      },
-      {
-        "name": "Fête nationale",
-        "definition": "célébration officielle de la Nation."
+        "question": "Le coq est-il un symbole officiel de la République ?",
+        "answer": "Non. Le coq est un emblème traditionnel, mais il n'est pas un symbole officiel de la République.",
+        "source": "SCR_REV_T1_CH03_VERIF_Q04_RESULT",
+        "options": [
+          "Non. Le coq est un emblème traditionnel, mais il n'est pas un symbole officiel de la République.",
+          "Bleu, blanc et rouge.",
+          "La Marseillaise est l'hymne national français."
+        ]
       }
     ]
   },
   "SCR_REV_T1_CH04": {
-    "title": "SCR_REV_T1_CH04",
-    "items": [
+    "title": "LA LAÏCITÉ",
+    "activities": [
       {
-        "name": "Laïcité",
-        "definition": "principe garantissant la liberté de conscience et la neutralité de l'État."
+        "type": "sort",
+        "title": "Liberté de conscience ou neutralité ?",
+        "groups": [
+          "Liberté de conscience",
+          "Neutralité du service public"
+        ],
+        "items": [
+          {
+            "label": "🙏 Une personne choisit de croire",
+            "target": "Liberté de conscience",
+            "explanation": "Chacun peut croire ou ne pas croire."
+          },
+          {
+            "label": "💭 Une personne choisit de ne pas croire",
+            "target": "Liberté de conscience",
+            "explanation": "La liberté de conscience protège aussi l’absence de religion."
+          },
+          {
+            "label": "🏛️ Un agent public ne favorise aucune religion dans son travail",
+            "target": "Neutralité du service public",
+            "explanation": "La neutralité s’applique aux agents dans l’exercice du service public."
+          }
+        ]
       },
       {
-        "name": "Neutralité",
-        "definition": "obligation de ne favoriser aucune religion ni conviction."
+        "type": "sort",
+        "title": "La laïcité dans la vie quotidienne",
+        "groups": [
+          "Respecte la laïcité",
+          "Ne respecte pas la laïcité"
+        ],
+        "items": [
+          {
+            "label": "Échanger respectueusement avec une personne de conviction différente",
+            "target": "Respecte la laïcité",
+            "explanation": "La liberté de conscience et le respect de chacun sont protégés."
+          },
+          {
+            "label": "Un agent public impose sa religion aux usagers",
+            "target": "Ne respecte pas la laïcité",
+            "explanation": "Un agent public doit rester neutre dans ses fonctions."
+          },
+          {
+            "label": "Respecter le choix d’une personne sans religion",
+            "target": "Respecte la laïcité",
+            "explanation": "La laïcité protège le droit de ne pas croire."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quelle est la grande loi adoptée en 1905 ?",
+        "answer": "La séparation des Églises et de l'État.",
+        "source": "SCR_REV_T1_CH04_VERIF_Q01_RESULT",
+        "options": [
+          "La séparation des Églises et de l'État.",
+          "L'obligation de neutralité dans les services publics s'impose à tous les agents publics (fonctionnaires et contractuels).",
+          "En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun délit de blasphème. Il est permis de critiquer une religion, de se moquer de dieux ou de rejeter des croyances. Cependant, la loi interdit d'insulter ou d'attaquer directement les personnes qui pratiquent une religion."
+        ]
       },
       {
-        "name": "Liberté de conscience",
-        "definition": "liberté de croire ou de ne pas croire."
+        "question": "Qui est soumis à l'obligation de neutralité dans les services publics ?",
+        "answer": "L'obligation de neutralité dans les services publics s'impose à tous les agents publics (fonctionnaires et contractuels).",
+        "source": "SCR_REV_T1_CH04_VERIF_Q02_RESULT",
+        "options": [
+          "L'obligation de neutralité dans les services publics s'impose à tous les agents publics (fonctionnaires et contractuels).",
+          "La séparation des Églises et de l'État.",
+          "En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun délit de blasphème. Il est permis de critiquer une religion, de se moquer de dieux ou de rejeter des croyances. Cependant, la loi interdit d'insulter ou d'attaquer directement les personnes qui pratiquent une religion."
+        ]
       },
       {
-        "name": "Prosélytisme",
-        "definition": "action visant à convaincre une personne d'adopter une religion ou des convictions."
-      },
-      {
-        "name": "Ordre public",
-        "definition": "ensemble des règles garantissant la sécurité, la tranquillité et le respect des lois."
-      },
-      {
-        "name": "Blasphème",
-        "definition": "critique ou insulte visant une religion ou une divinité."
+        "question": "Le blasphème est-il interdit en France ?",
+        "answer": "En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun délit de blasphème. Il est permis de critiquer une religion, de se moquer de dieux ou de rejeter des croyances. Cependant, la loi interdit d'insulter ou d'attaquer directement les personnes qui pratiquent une religion.",
+        "source": "SCR_REV_T1_CH04_VERIF_Q03_RESULT",
+        "options": [
+          "En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun délit de blasphème. Il est permis de critiquer une religion, de se moquer de dieux ou de rejeter des croyances. Cependant, la loi interdit d'insulter ou d'attaquer directement les personnes qui pratiquent une religion.",
+          "La séparation des Églises et de l'État.",
+          "L'obligation de neutralité dans les services publics s'impose à tous les agents publics (fonctionnaires et contractuels)."
+        ]
       }
     ]
   },
   "SCR_REV_T1_CH05": {
-    "title": "SCR_REV_T1_CH05",
-    "items": [
+    "title": "LA LANGUE DE LA RÉPUBLIQUE",
+    "activities": [
       {
-        "name": "Langue officielle",
-        "definition": "langue utilisée par les institutions de l'État."
+        "type": "sort",
+        "title": "Où utilise-t-on la langue officielle ?",
+        "groups": [
+          "Vie publique et administration",
+          "Choix personnel dans la vie privée"
+        ],
+        "items": [
+          {
+            "label": "📄 Lire un document administratif officiel en français",
+            "target": "Vie publique et administration",
+            "explanation": "Le français est la langue de la République."
+          },
+          {
+            "label": "🏛️ Échanger en français avec une administration",
+            "target": "Vie publique et administration",
+            "explanation": "Le français est utilisé par les institutions."
+          },
+          {
+            "label": "🏠 Parler sa langue familiale chez soi",
+            "target": "Choix personnel dans la vie privée",
+            "explanation": "La langue officielle n’interdit pas l’usage d’autres langues dans la vie privée."
+          }
+        ]
       },
       {
-        "name": "Constitution",
-        "definition": "texte fondamental qui organise le fonctionnement de la République."
+        "type": "match",
+        "title": "Associez les notions à leur fonction",
+        "items": [
+          {
+            "label": "Langue officielle",
+            "target": "langue utilisée par les institutions de l'État.",
+            "explanation": "Langue officielle : langue utilisée par les institutions de l'État."
+          },
+          {
+            "label": "Constitution",
+            "target": "texte fondamental qui organise le fonctionnement de la République.",
+            "explanation": "Constitution : texte fondamental qui organise le fonctionnement de la République."
+          },
+          {
+            "label": "Administration",
+            "target": "ensemble des services publics chargés d'appliquer les lois et de rendre des services aux citoyens.",
+            "explanation": "Administration : ensemble des services publics chargés d'appliquer les lois et de rendre des services aux citoyens."
+          },
+          {
+            "label": "Service public",
+            "target": "organisme chargé d'une mission d'intérêt général.",
+            "explanation": "Service public : organisme chargé d'une mission d'intérêt général."
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quelle est la langue officielle de la République française ?",
+        "answer": "Le français est la langue officielle de la France depuis 1992.",
+        "source": "SCR_REV_T1_CH05_VERIF_Q01_RESULT",
+        "options": [
+          "Le français est la langue officielle de la France depuis 1992.",
+          "L'article 2 de la Constitution a officialisé le français comme langue de la République française en 1992.",
+          "La France n'interdit pas de parler une autre langue sur son territoire et dans sa vie privée."
+        ]
       },
       {
-        "name": "Administration",
-        "definition": "ensemble des services publics chargés d'appliquer les lois et de rendre des services aux citoyens."
+        "question": "Dans quel texte la langue française est-elle officialisée ?",
+        "answer": "L'article 2 de la Constitution a officialisé le français comme langue de la République française en 1992.",
+        "source": "SCR_REV_T1_CH05_VERIF_Q02_RESULT",
+        "options": [
+          "L'article 2 de la Constitution a officialisé le français comme langue de la République française en 1992.",
+          "Le français est la langue officielle de la France depuis 1992.",
+          "La France n'interdit pas de parler une autre langue sur son territoire et dans sa vie privée."
+        ]
       },
       {
-        "name": "Service public",
-        "definition": "organisme chargé d'une mission d'intérêt général."
+        "question": "Peut-on parler une autre langue dans sa vie privée ?",
+        "answer": "La France n'interdit pas de parler une autre langue sur son territoire et dans sa vie privée.",
+        "source": "SCR_REV_T1_CH05_VERIF_Q03_RESULT",
+        "options": [
+          "La France n'interdit pas de parler une autre langue sur son territoire et dans sa vie privée.",
+          "Le français est la langue officielle de la France depuis 1992.",
+          "L'article 2 de la Constitution a officialisé le français comme langue de la République française en 1992."
+        ]
       }
     ]
   },
   "SCR_REV_T1_CH06": {
-    "title": "SCR_REV_T1_CH06",
-    "items": [
+    "title": "LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE",
+    "activities": [
       {
-        "name": "Contrat d'engagement",
-        "definition": "document officiel par lequel une personne s'engage à respecter les principes de la République."
+        "type": "sort",
+        "title": "Respecter les principes républicains",
+        "groups": [
+          "Respecte les principes",
+          "Ne respecte pas les principes"
+        ],
+        "items": [
+          {
+            "label": "Reconnaître les mêmes droits aux femmes et aux hommes",
+            "target": "Respecte les principes",
+            "explanation": "Le contrat rappelle l’égalité entre les femmes et les hommes."
+          },
+          {
+            "label": "Imposer ses convictions à une autre personne",
+            "target": "Ne respecte pas les principes",
+            "explanation": "La liberté de conscience doit être respectée."
+          },
+          {
+            "label": "Respecter la dignité de chaque personne",
+            "target": "Respecte les principes",
+            "explanation": "La dignité humaine figure parmi les engagements."
+          }
+        ]
       },
       {
-        "name": "Titre de séjour",
-        "definition": "document autorisant un étranger à résider légalement en France."
+        "type": "match",
+        "title": "Complétez les engagements",
+        "items": [
+          {
+            "label": "Respecter les mêmes droits pour les femmes et les hommes",
+            "target": "Égalité",
+            "explanation": "Respecter les mêmes droits pour les femmes et les hommes : Égalité"
+          },
+          {
+            "label": "Respecter le choix de croire ou de ne pas croire",
+            "target": "Liberté de conscience",
+            "explanation": "Respecter le choix de croire ou de ne pas croire : Liberté de conscience"
+          },
+          {
+            "label": "Respecter chaque personne",
+            "target": "Dignité humaine",
+            "explanation": "Respecter chaque personne : Dignité humaine"
+          },
+          {
+            "label": "Respecter la neutralité de l’État",
+            "target": "Laïcité",
+            "explanation": "Respecter la neutralité de l’État : Laïcité"
+          }
+        ]
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Citez trois des sept principes contenus dans le contrat.",
+        "answer": "Il fallait citer au moins trois principes parmi : la liberté personnelle ; la liberté d’expression et de conscience ; l’égalité entre les femmes et les hommes ; la dignité de la personne humaine ; la devise et les symboles de la République ; l’intégrité territoriale ; la laïcité.",
+        "source": "SCR_REV_T1_CH06_VERIF_Q01_RESULT",
+        "options": [
+          "Il fallait citer au moins trois principes parmi : la liberté personnelle ; la liberté d’expression et de conscience ; l’égalité entre les femmes et les hommes ; la dignité de la personne humaine ; la devise et les symboles de la République ; l’intégrité territoriale ; la laïcité.",
+          "Le refus de signer le contrat peut entraîner le refus de délivrance ou le retrait du titre de séjour concerné.",
+          "Il formalise l'engagement de respecter les principes et les valeurs de la République française."
+        ]
       },
       {
-        "name": "Renouvellement",
-        "definition": "prolongation de la durée de validité d'un titre de séjour."
+        "question": "Que peut-il se passer si une personne refuse de signer ce contrat ?",
+        "answer": "Le refus de signer le contrat peut entraîner le refus de délivrance ou le retrait du titre de séjour concerné.",
+        "source": "SCR_REV_T1_CH06_VERIF_Q02_RESULT",
+        "options": [
+          "Le refus de signer le contrat peut entraîner le refus de délivrance ou le retrait du titre de séjour concerné.",
+          "Il fallait citer au moins trois principes parmi : la liberté personnelle ; la liberté d’expression et de conscience ; l’égalité entre les femmes et les hommes ; la dignité de la personne humaine ; la devise et les symboles de la République ; l’intégrité territoriale ; la laïcité.",
+          "Il formalise l'engagement de respecter les principes et les valeurs de la République française."
+        ]
       },
       {
-        "name": "Préfecture",
-        "definition": "administration chargée notamment de la délivrance des titres de séjour."
-      },
-      {
-        "name": "OQTF",
-        "definition": "Obligation de Quitter le Territoire Français."
+        "question": "À quoi sert le contrat d'engagement à respecter les principes de la République ?",
+        "answer": "Il formalise l'engagement de respecter les principes et les valeurs de la République française.",
+        "source": "SCR_REV_T1_CH06_VERIF_Q03_RESULT",
+        "options": [
+          "Il formalise l'engagement de respecter les principes et les valeurs de la République française.",
+          "Il fallait citer au moins trois principes parmi : la liberté personnelle ; la liberté d’expression et de conscience ; l’égalité entre les femmes et les hommes ; la dignité de la personne humaine ; la devise et les symboles de la République ; l’intégrité territoriale ; la laïcité.",
+          "Le refus de signer le contrat peut entraîner le refus de délivrance ou le retrait du titre de séjour concerné."
+        ]
       }
     ]
   }

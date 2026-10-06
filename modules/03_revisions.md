@@ -278,26 +278,21 @@ Vote direct des citoyens sur une question.
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités avant les questions de connaissances.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-`if @activite_SCR_REV_T1_CH01`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T1_CH01_VERIF)
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T1_CH01_GLO)
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01" title="Activités : CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷" width="100%" height="1050" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01)
 
 ## SCR_REV_T1_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T1_CH01_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T1_CH01_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH01_VERIF_Q01
 !Keyboard: true
@@ -794,26 +789,21 @@ Elles garantissent :
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités avant les questions de connaissances.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-`if @activite_SCR_REV_T1_CH02`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T1_CH02_VERIF)
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T1_CH02_GLO)
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02" title="Activités : LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1050" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02)
 
 ## SCR_REV_T1_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T1_CH02_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T1_CH02_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH02_VERIF_Q01
 !Keyboard: true
@@ -1297,26 +1287,21 @@ Le coq est un symbole national, mais **pas un symbole officiel**.
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités avant les questions de connaissances.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-`if @activite_SCR_REV_T1_CH03`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T1_CH03_VERIF)
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T1_CH03_GLO)
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03" title="Activités : LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1050" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03)
 
 ## SCR_REV_T1_CH03_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **4 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T1_CH03_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T1_CH03_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH03_VERIF_Q01
 !Keyboard: true
@@ -1875,26 +1860,21 @@ Elle permet à chacun de vivre ensemble dans le respect des lois de la Républiq
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités avant les questions de connaissances.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-`if @activite_SCR_REV_T1_CH04`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T1_CH04_VERIF)
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T1_CH04_GLO)
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04" title="Activités : LA LAÏCITÉ" width="100%" height="1050" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04)
 
 ## SCR_REV_T1_CH04_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T1_CH04_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T1_CH04_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH04_VERIF_Q01
 !Keyboard: true
@@ -2272,26 +2252,21 @@ Cette règle garantit l'égalité entre tous les citoyens.
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités avant les questions de connaissances.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-`if @activite_SCR_REV_T1_CH05`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T1_CH05_VERIF)
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T1_CH05_GLO)
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05" title="Activités : LA LANGUE DE LA RÉPUBLIQUE" width="100%" height="1050" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05)
 
 ## SCR_REV_T1_CH05_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T1_CH05_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T1_CH05_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH05_VERIF_Q01
 !Keyboard: true
@@ -2682,26 +2657,21 @@ Ces notions sont régulièrement évaluées lors de l'examen civique.
 3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités avant les questions de connaissances.
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-`if @activite_SCR_REV_T1_CH06`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T1_CH06_VERIF)
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T1_CH06_GLO)
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06" title="Activités : LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE" width="100%" height="1050" loading="lazy"></iframe>
+
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06)
 
 ## SCR_REV_T1_CH06_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T1_CH06_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T1_CH06_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T1_CH06_VERIF_Q01
 !Keyboard: true
@@ -3130,32 +3100,21 @@ La séparation des pouvoirs repose sur trois pouvoirs :
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01" title="Activités : État de droit et séparation des pouvoirs" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01)
-`if @activite_SCR_REV_T2_CH01`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T2_CH01_VERIF)
-`endif`
-`if !@activite_SCR_REV_T2_CH01`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T2_CH01_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01)
 
 ## SCR_REV_T2_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T2_CH01_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T2_CH01_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T2_CH01_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T2_CH01_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T2_CH01_VERIF_Q01
 !Keyboard: true
@@ -3678,32 +3637,21 @@ Une loi est :
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02" title="Activités : Démocratie et droit de vote" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02)
-`if @activite_SCR_REV_T2_CH02`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T2_CH02_VERIF)
-`endif`
-`if !@activite_SCR_REV_T2_CH02`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T2_CH02_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02)
 
 ## SCR_REV_T2_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T2_CH02_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T2_CH02_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T2_CH02_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T2_CH02_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T2_CH02_VERIF_Q01
 !Keyboard: true
@@ -4231,32 +4179,21 @@ Les trois principaux niveaux territoriaux sont :
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03" title="Activités : Organisation de la République française" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03)
-`if @activite_SCR_REV_T2_CH03`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T2_CH03_VERIF)
-`endif`
-`if !@activite_SCR_REV_T2_CH03`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T2_CH03_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03)
 
 ## SCR_REV_T2_CH03_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T2_CH03_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T2_CH03_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T2_CH03_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T2_CH03_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T2_CH03_VERIF_Q01
 !Keyboard: true
@@ -4767,32 +4704,21 @@ Les principales institutions à connaître :
 3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04" title="Activités : Les institutions européennes" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04)
-`if @activite_SCR_REV_T2_CH04`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T2_CH04_VERIF)
-`endif`
-`if !@activite_SCR_REV_T2_CH04`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T2_CH04_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04)
 
 ## SCR_REV_T2_CH04_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T2_CH04_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T2_CH04_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T2_CH04_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T2_CH04_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T2_CH04_VERIF_Q01
 !Keyboard: true
@@ -5211,32 +5137,21 @@ La liberté d'expression est protégée par ces textes.
 3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01" title="Activités : Les droits fondamentaux" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01)
-`if @activite_SCR_REV_T3_CH01`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T3_CH01_VERIF)
-`endif`
-`if !@activite_SCR_REV_T3_CH01`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T3_CH01_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01)
 
 ## SCR_REV_T3_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T3_CH01_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T3_CH01_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T3_CH01_VERIF_Q01
 !Keyboard: true
@@ -5696,32 +5611,21 @@ Jeter un déchet dans une poubelle contribue à protéger l'environnement.
 3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02" title="Activités : Les obligations et les devoirs" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02)
-`if @activite_SCR_REV_T3_CH02`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T3_CH02_VERIF)
-`endif`
-`if !@activite_SCR_REV_T3_CH02`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T3_CH02_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02)
 
 ## SCR_REV_T3_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T3_CH02_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T3_CH02_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T3_CH02_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T3_CH02_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T3_CH02_VERIF_Q01
 !Keyboard: true
@@ -6065,32 +5969,21 @@ Reliez chaque date à un mot : **1789–Révolution**, **1905–laïcité**, **1
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01" title="Activités : Histoire de France 🕰️" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01)
-`if @activite_SCR_REV_T4_CH01`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T4_CH01_VERIF)
-`endif`
-`if !@activite_SCR_REV_T4_CH01`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T4_CH01_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01)
 
 ## SCR_REV_T4_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T4_CH01_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T4_CH01_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T4_CH01_VERIF_Q01
 !Keyboard: true
@@ -6383,33 +6276,21 @@ Les grandes villes concentrent habitants, emplois et services, tandis que les es
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02" title="Activités : Territoires et géographie de la France 🗺️" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-geographie/" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-geographie/)
-`if @activite_SCR_REV_T4_CH02`
-1. [🗺️ Répondre aux deux questions de connaissances sur carte](SCR_GEO_CONNAISSANCES)
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T4_CH02_VERIF)
-`endif`
-`if !@activite_SCR_REV_T4_CH02`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T4_CH02_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02)
 
 ## SCR_REV_T4_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T4_CH02_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T4_CH02_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T4_CH02_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T4_CH02_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T4_CH02_VERIF_Q01
 !Keyboard: true
@@ -6732,32 +6613,21 @@ L'UNESCO classe de nombreux sites à travers le monde. Des exemples célèbres i
 3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03" title="Activités : Patrimoine et culture française 🎭" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03)
-`if @activite_SCR_REV_T4_CH03`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T4_CH03_VERIF)
-`endif`
-`if !@activite_SCR_REV_T4_CH03`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T4_CH03_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03)
 
 ## SCR_REV_T4_CH03_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **3 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T4_CH03_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T4_CH03_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T4_CH03_VERIF_Q01
 !Keyboard: true
@@ -7109,32 +6979,21 @@ Pour vivre en France, il est important de savoir :
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01" title="Activités : Les démarches administratives 📄" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01)
-`if @activite_SCR_REV_T5_CH01`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T5_CH01_VERIF)
-`endif`
-`if !@activite_SCR_REV_T5_CH01`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T5_CH01_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01)
 
 ## SCR_REV_T5_CH01_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **4 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T5_CH01_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T5_CH01_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T5_CH01_VERIF_Q01
 !Keyboard: true
@@ -7533,32 +7392,21 @@ Les notions essentielles à connaître sont :
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02" title="Activités : La santé 🩺" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02)
-`if @activite_SCR_REV_T5_CH02`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T5_CH02_VERIF)
-`endif`
-`if !@activite_SCR_REV_T5_CH02`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T5_CH02_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02)
 
 ## SCR_REV_T5_CH02_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **4 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T5_CH02_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T5_CH02_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T5_CH02_VERIF_Q01
 !Keyboard: true
@@ -7950,32 +7798,21 @@ Les notions essentielles sont :
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03" title="Activités : L'emploi 💼" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03)
-`if @activite_SCR_REV_T5_CH03`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T5_CH03_VERIF)
-`endif`
-`if !@activite_SCR_REV_T5_CH03`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T5_CH03_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03)
 
 ## SCR_REV_T5_CH03_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **4 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T5_CH03_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T5_CH03_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T5_CH03_VERIF_Q01
 !Keyboard: true
@@ -8378,32 +8215,21 @@ En France :
 3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
+#### 🎯 Vos activités de révision
+Deux activités visuelles, puis les questions de connaissances, avec correction immédiate.
 
-#### 🎯 Deux activités pour consolider le chapitre
-Terminez les deux activités, puis passez aux questions de connaissances. Vos résultats aux activités sont distincts des scores d’entraînement.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04" title="Activités : La parentalité 👨‍👩‍👧" width="100%" height="1050" loading="lazy"></iframe>
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04" title="Activités du chapitre" width="100%" height="850" loading="lazy"></iframe>
-
-1. [🔗 Ouvrir les activités dans une nouvelle fenêtre](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04)
-`if @activite_SCR_REV_T5_CH04`
-1. [🧠 Répondre aux questions de connaissances](SCR_REV_T5_CH04_VERIF)
-`endif`
-`if !@activite_SCR_REV_T5_CH04`
-Les questions seront accessibles lorsque les deux activités seront terminées.
-`endif`
-1. [🔄 Actualiser la progression des activités](SCR_REV_T5_CH04_GLO)
+1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04)
 
 ## SCR_REV_T5_CH04_VERIF
 ### 🧠 Vérification des connaissances
 
-Vous allez répondre à **4 questions**, l’une après l’autre.
-
-Selon votre réponse, un feedback vert, orange ou rouge vous aidera à progresser.
-
-1. [➡️ Commencer](SCR_REV_T5_CH04_VERIF_Q01)
-2. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
-3. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
-4. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+Choisissez une réponse à la fois. Le corrigé et votre résultat s’affichent directement dans l’activité.
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&mode=questions" title="Questions du chapitre" width="100%" height="850" loading="lazy"></iframe>
+1. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
+1. [↩️ Revoir les activités](SCR_REV_T5_CH04_GLO)
+1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_REV_T5_CH04_VERIF_Q01
 !Keyboard: true
