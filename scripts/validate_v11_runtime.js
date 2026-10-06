@@ -30,12 +30,12 @@ for(const exam of ['CSP','CR','NAT'])for(let v=1;v<=10;v++){
   const q=base+'_Q'+String(i).padStart(2,'0');assert(!/^\d+\)/m.test(ex[q]));const letters=[...ex[q].matchAll(/qcm-letter">([A-D])<\/span>/g)].map(m=>m[1]);assert.deepStrictEqual(letters,['A','B','C','D']);
   render(ex[q],vars);render(ex[q+(i%3===0?'_FAUX':'_VRAI')],vars);const counted=vars.exam_score;render(ex[q+(i%3===0?'_FAUX':'_VRAI')],vars);assert.strictEqual(vars.exam_score,counted);examAnswers++;
  }
- const out=render(ex[base+'_RESULT'],vars);assert.strictEqual(vars.lastExamScore,27);assert.strictEqual(vars.lastExamCode,code);assert.strictEqual(vars.lastErr3,1);assert.strictEqual(vars.lastErr1,0);assert.strictEqual(links(out).length,4);
+ const out=render(ex[base+'_RESULT'],vars);assert.strictEqual(vars.lastExamScore,27);assert.strictEqual(vars.lastExamCode,code);assert.strictEqual(vars.lastErr3,1);assert.strictEqual(vars.lastErr1,0);assert.strictEqual(links(out).length,5);
  // Result revisits do not overwrite snapshot after training changes live counters.
  vars.exam_score=0;vars.exam_t1=0;vars.err_CR_V01_Q03=0;render(ex[base+'_RESULT'],vars);assert.strictEqual(vars.lastExamScore,27);assert.strictEqual(vars.lastErr3,1);
- const last=render(ex.SCR_LAST_EXAM_RESULT,vars);assert(last.includes('27 / 40'));assert(!last.includes('undefined'));const corr=render(ex['SCR_LAST_CORR_'+code],vars);assert(corr.includes('**3.'));assert(!corr.includes('**1.'));assert(corr.includes('À revoir'));
+ const last=render(ex.SCR_LAST_EXAM_RESULT,vars);assert(last.includes('27/40'));assert(!last.includes('undefined'));const corr=render(ex['SCR_LAST_CORR_'+code],vars);assert(corr.includes('<strong>3.</strong>'));assert(!corr.includes('<strong>1.</strong>'));assert(corr.includes('Notion à revoir'));
  const themeScores=[];for(let t=1;t<=5;t++)themeScores.push({t,pct:vars['lastT'+t]/vars['lastTotal'+t]});themeScores.sort((a,b)=>a.pct-b.pct||a.t-b.t);
- const headingOrder=[...last.matchAll(/#### [^\n]+/g)].map(m=>m[0]);assert.strictEqual(headingOrder.length,5);for(let i=0;i<5;i++)assert(headingOrder[i].includes(['Principes','Institutions','Droits','Histoire','Vivre'][themeScores[i].t-1]));
+ const headingOrder=[...last.matchAll(/<tr><td>([^<]+)<\/td><td>/g)].map(m=>m[1]);assert.strictEqual(headingOrder.length,5);for(let i=0;i<5;i++)assert(headingOrder[i].includes(['Principes','Institutions','Droits','Histoire','Vivre'][themeScores[i].t-1]));
  // Starting another exam keeps old snapshot accessible until it is completed.
  render(ex[base+'_PART1'],vars);render(ex[base+'_RESULT'],vars);assert.strictEqual(vars.lastExamCode,code);assert.strictEqual(vars.lastExamScore,27);
 }

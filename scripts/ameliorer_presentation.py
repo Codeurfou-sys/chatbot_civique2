@@ -96,6 +96,23 @@ def main():
   .qcm-letter { display:inline-flex; align-items:center; justify-content:center; width:22px; height:22px; border-radius:50%; background:#777; color:#fff; font-weight:700; margin-right:7px; flex-shrink:0; }
   #chat .warning { background: #fff8e6; border-left: 4px solid #d99c20; padding: 16px; border-radius: 12px; }
   @media (max-width: 600px) { .messageOptions { flex-direction: column; } .messageOptions a { box-sizing: border-box; width: 100%; } }
+
+  /* Corrigé v13 : liens intégrés et cartes sur mobile */
+  #chat .v13-errors { table-layout:fixed; font-size:15px; margin:14px 0; }
+  #chat .v13-errors th:nth-child(1){width:25%}
+  #chat .v13-errors th:nth-child(2){width:25%}
+  #chat .v13-errors th:nth-child(3){width:27%}
+  #chat .v13-errors th:nth-child(4){width:23%}
+  #chat .v13-errors td{padding:12px;overflow-wrap:anywhere;line-height:1.5}
+  #chat .v13-errors a{display:inline;color:#8b2444!important;text-decoration:underline;font-weight:600}
+  #chat .v13-summary{margin:14px 0}
+  @media(max-width:700px){
+    #chat .v13-errors,#chat .v13-errors tbody,#chat .v13-errors tr,#chat .v13-errors td{display:block;width:100%;}
+    #chat .v13-errors thead{display:none}
+    #chat .v13-errors tr{background:white;margin:14px 0;border:1px solid #d8a9b4;border-radius:12px;padding:8px;}
+    #chat .v13-errors td{border:0;padding:8px}
+    #chat .v13-errors td:before{content:attr(data-label) " : ";font-weight:700;display:block;}
+  }
 '''
  if '/* Présentation NovaFrate' in text:
   text=re.sub(r'\n  /\* Présentation NovaFrate.*?(?=\n---\n)',lambda m:css,text,count=1,flags=re.S)

@@ -1,7 +1,7 @@
 """Vérifie toutes les séries : aucun rappel direct de la partie 1."""
 from pathlib import Path
 from collections import Counter
-import sys,re,json
+import sys,re,json,html
 ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT))
 import synchroniser_banques_examens as m
 from synchroniser_entrainements import split
@@ -33,6 +33,6 @@ for exam,cfg in m.EXAM_CONFIGS.items():
             assert f'@exam_t{row["N° thématique"]} = calc' in b[sid+'_VRAI']
             assert '@errchap_'+m.chapter_key(row,cfg['chapter_col']) in b[sid+'_FAUX']
             assert m.clean(row['Mise en situation']) in b[sid]
-            assert m.clean(row['Réponse '+m.clean(row['Bonne réponse']).upper()]) in b[base+'_CORRIGE']
+            assert m.clean(row['Réponse '+m.clean(row['Bonne réponse']).upper()]) in html.unescape(b[base+'_CORRIGE'])
     print(f'OK {exam}: dix séries, aucune source ou formulation proche reprise, aucune bonne réponse identique aux connaissances, douze situations distinctes.')
 print('OK — 30 examens blancs, connaissances préservées, 360 mises en situation, répartition, bonnes réponses, compteurs et corrigés cohérents.')
