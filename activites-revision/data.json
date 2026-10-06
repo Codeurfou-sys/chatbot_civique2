@@ -3,7 +3,7 @@
     "title": "État de droit et séparation des pouvoirs",
     "activities": [
       {
-        "type": "sort",
+        "type": "classify",
         "title": "Placez les institutions sous le bon pouvoir",
         "groups": [
           "Exécutif",
@@ -487,7 +487,7 @@
         ]
       },
       {
-        "type": "sort",
+        "type": "classify",
         "title": "Respect des droits : examinez huit situations",
         "items": [
           {
@@ -542,7 +542,7 @@
     "title": "Les obligations et les devoirs",
     "activities": [
       {
-        "type": "sort",
+        "type": "classify",
         "title": "Contravention, délit ou crime ?",
         "items": [
           {
@@ -1133,11 +1133,13 @@
         "type": "payment",
         "title": "Comprenez le tiers payant sur un terminal virtuel",
         "items": [],
-        "amount": 40,
-        "insurance": 24,
-        "mutual": 12,
-        "remainder": 4,
-        "explanation": "Exemple fictif : dépense de 40 €, part Assurance maladie 24 €, part complémentaire 12 €, reste 4 €. Ici, les deux parts sont payées directement au professionnel. Ce ne sont pas les tarifs ni les taux d’une consultation réelle. La carte Vitale transmet les droits : ce n’est pas une carte de paiement. Le tiers payant n’est pas appliqué à toutes les situations ; des sommes peuvent rester dues ou être récupérées plus tard."
+        "amount": 50,
+        "insurance": 30,
+        "mutual": 15,
+        "remainder": 5,
+        "explanation": "Simulation : soins à 50 €. L’Assurance maladie paie 60 % du montant initial ; la complémentaire paie 30 % du montant initial. Vous calculez chaque part, puis le reste. Ces taux sont fictifs.",
+        "insuranceRate": 60,
+        "mutualRate": 30
       }
     ]
   },
@@ -1145,7 +1147,7 @@
     "title": "L'emploi 💼",
     "activities": [
       {
-        "type": "sort",
+        "type": "classify",
         "title": "Droits et obligations : examinez le contexte",
         "items": [
           {
@@ -1628,7 +1630,7 @@
     "title": "LA LAÏCITÉ",
     "activities": [
       {
-        "type": "sort",
+        "type": "classify",
         "title": "Laïcité : analysez le contexte",
         "items": [
           {
@@ -1803,73 +1805,73 @@
           {
             "prompt": "Respecter la liberté et la dignité des personnes",
             "options": [
-              "Contrat",
-              "Pas contrat"
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
             ],
-            "answer": "Contrat",
+            "answer": "Contrat d’engagement",
             "explanation": "Le respect des personnes est un engagement républicain."
           },
           {
             "prompt": "Respecter l’égalité entre les femmes et les hommes",
             "options": [
-              "Contrat",
-              "Pas contrat"
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
             ],
-            "answer": "Contrat",
+            "answer": "Contrat d’engagement",
             "explanation": "L’égalité est un principe à respecter."
           },
           {
             "prompt": "Respecter les lois de la République",
             "options": [
-              "Contrat",
-              "Pas contrat"
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
             ],
-            "answer": "Contrat",
+            "answer": "Contrat d’engagement",
             "explanation": "Une conviction personnelle ne dispense pas du respect de la loi."
           },
           {
             "prompt": "Renoncer à sa langue maternelle à la maison",
             "options": [
-              "Contrat",
-              "Pas contrat"
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
             ],
-            "answer": "Pas contrat",
+            "answer": "Pas contrat d’engagement",
             "explanation": "Le contrat ne supprime pas l’usage privé de sa langue."
           },
           {
             "prompt": "Adopter obligatoirement une religion",
             "options": [
-              "Contrat",
-              "Pas contrat"
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
             ],
-            "answer": "Pas contrat",
+            "answer": "Pas contrat d’engagement",
             "explanation": "La liberté de conscience protège aussi le droit de ne pas croire."
           },
           {
             "prompt": "Respecter la liberté de conscience",
             "options": [
-              "Contrat",
-              "Pas contrat"
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
             ],
-            "answer": "Contrat",
+            "answer": "Contrat d’engagement",
             "explanation": "Chacun peut avoir des convictions différentes."
           },
           {
             "prompt": "Voter pour le même parti que le Gouvernement",
             "options": [
-              "Contrat",
-              "Pas contrat"
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
             ],
-            "answer": "Pas contrat",
+            "answer": "Pas contrat d’engagement",
             "explanation": "Les opinions politiques ne sont pas imposées par le contrat."
           },
           {
             "prompt": "Respecter la devise et les symboles de la République",
             "options": [
-              "Contrat",
-              "Pas contrat"
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
             ],
-            "answer": "Contrat",
+            "answer": "Contrat d’engagement",
             "explanation": "Le contrat comporte le respect des principes et symboles républicains."
           }
         ]

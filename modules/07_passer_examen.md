@@ -1,9 +1,13 @@
+<!-- Module généré automatiquement : Passer examen -->
+<!-- Date : 2026-10-06T14:51:44+02:00 -->
+
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
 
 <!-- Variables : {centre}=Annecy; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -21,6 +25,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_ANNEMASSE
@@ -29,6 +34,7 @@
 <!-- Variables : {centre}=Annemasse; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -46,6 +52,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_AUXERRE
@@ -54,6 +61,7 @@
 <!-- Variables : {centre}=Auxerre; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -71,6 +79,7 @@
 
 <!-- 5 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_BESANCON
@@ -79,6 +88,7 @@
 <!-- Variables : {centre}=Besançon; {region}=Franche-Comté; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -96,6 +106,7 @@
 
 <!-- 9 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_BOURG_EN_BRESSE
@@ -104,6 +115,7 @@
 <!-- Variables : {centre}=Bourg-en-Bresse; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -121,6 +133,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_BOURGES
@@ -129,6 +142,7 @@
 <!-- Variables : {centre}=Bourges; {region}=Cher; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -146,6 +160,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_CHAUMONT
@@ -154,6 +169,7 @@
 <!-- Variables : {centre}=Chaumont; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -169,6 +185,7 @@
 
 <!-- 2 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_CLERMONT_FERRAND
@@ -177,6 +194,7 @@
 <!-- Variables : {centre}=Clermont-Ferrand; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -194,6 +212,7 @@
 
 <!-- 7 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_DIJON
@@ -203,9 +222,9 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
-- 12 octobre 2026
 - 9 novembre 2026
 - 7 décembre 2026
 
@@ -219,6 +238,7 @@
 
 <!-- 5 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_LE_PUY_EN_VELAY
@@ -227,6 +247,7 @@
 <!-- Variables : {centre}=Le Puy-en-Velay; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -244,6 +265,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_LONS_LE_SAUNIER
@@ -252,6 +274,7 @@
 <!-- Variables : {centre}=Lons-le-Saunier; {region}=Franche-Comté; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -268,6 +291,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_MONTBELIARD
@@ -276,6 +300,7 @@
 <!-- Variables : {centre}=Montbéliard; {region}=Franche-Comté; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -292,6 +317,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_MONTCEAU_LES_MINES
@@ -300,6 +326,7 @@
 <!-- Variables : {centre}=Montceau-les-Mines; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -316,6 +343,7 @@
 
 <!-- 3 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_MULHOUSE
@@ -324,6 +352,7 @@
 <!-- Variables : {centre}=Mulhouse; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -341,6 +370,7 @@
 
 <!-- 7 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_MACON
@@ -349,6 +379,7 @@
 <!-- Variables : {centre}=Mâcon; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -365,6 +396,7 @@
 
 <!-- 2 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_NEVERS
@@ -373,6 +405,7 @@
 <!-- Variables : {centre}=Nevers; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -390,6 +423,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_REIMS
@@ -398,6 +432,7 @@
 <!-- Variables : {centre}=Reims; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -415,6 +450,7 @@
 
 <!-- 6 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_SAINT_DIE_DES_VOSGES
@@ -424,9 +460,9 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
-- 22 octobre 2026
 - 26 novembre 2026
 
 <!-- Condition métier : Au moins une session future -->
@@ -439,6 +475,7 @@
 
 <!-- 3 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_SAINT_FLOUR
@@ -447,6 +484,7 @@
 <!-- Variables : {centre}=Saint-Flour; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -462,6 +500,7 @@
 
 <!-- 2 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_SENS
@@ -470,6 +509,7 @@
 <!-- Variables : {centre}=Sens; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -487,6 +527,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_STRASBOURG
@@ -495,6 +536,7 @@
 <!-- Variables : {centre}=Strasbourg; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -512,6 +554,7 @@
 
 <!-- 6 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_TROYES
@@ -520,6 +563,7 @@
 <!-- Variables : {centre}=Troyes; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -537,6 +581,7 @@
 
 <!-- 6 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_VALSERHONE
@@ -545,6 +590,7 @@
 <!-- Variables : {centre}=Valserhône; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -561,6 +607,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_CITY_VICHY
@@ -569,6 +616,7 @@
 <!-- Variables : {centre}=Vichy; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -586,6 +634,7 @@
 
 <!-- 4 session(s) future(s) dans la source -->
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_INFO_MENU
@@ -602,6 +651,7 @@ Choisissez votre question. Chaque réponse vous donne les repères essentiels et
 7. [🤖 Comment le chatbot peut-il m’aider ?](SCR_PASS_INFO_HELP)
 8. [⭐ Les informations essentielles à retenir](SCR_PASS_INFO_REMEMBER)
 9. [↩️ Retour au module](SCR_PASS_MENU)
+
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -623,6 +673,7 @@ Le chatbot vous accompagne à chaque étape de votre préparation :
 4. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 5. [↩️ Retour au module](SCR_PASS_MENU)
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_INFO_MATCH
@@ -640,6 +691,7 @@ Choisissez dans le chatbot le même parcours que celui indiqué pour votre déma
 2. [🧠 Commencer un bilan](SCR_BIL_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
+
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -664,6 +716,7 @@ Vous disposez en moyenne d’un peu plus d’une minute par question. Si vous h�
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_INFO_REMEMBER
@@ -686,6 +739,7 @@ L’épreuve porte sur cinq thèmes civiques et associe connaissances et situati
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_INFO_WHY
@@ -701,6 +755,7 @@ Il ne s’agit pas seulement de mémoriser des dates ou des définitions. Vous d
 2. [📚 Découvrir les cinq thématiques](SCR_PASS_INFO_THEMES)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
+
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -725,6 +780,7 @@ Travaillez par séances courtes et régulières. Lorsque vous obtenez des résul
 5. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 6. [↩️ Retour au module](SCR_PASS_MENU)
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_INFO_CONCERNE
@@ -744,6 +800,7 @@ Votre situation administrative peut comporter des particularités. Vérifiez les
 2. [📍 Trouver une session d’examen](SCR_PASS_SEARCH_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
+
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -767,6 +824,7 @@ Révisez un thème à la fois, puis vérifiez vos acquis avec un entraînement c
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_REGISTER
@@ -775,6 +833,7 @@ Révisez un thème à la fois, puis vérifiez vos acquis avec un entraînement c
 <!-- Variables : {centre}; {region}; {lien_forms} -->
 
 Cliquez sur le lien Forms pour vous inscrire à une session dans la région choisie.
+
 
 1. [↩️ Retour au menu du module](SCR_PASS_MENU)
 
@@ -793,6 +852,7 @@ Sélectionnez une région pour consulter ses centres et leurs prochaines dates d
 6. [🏔️ Rhône-Alpes](SCR_PASS_REGION_RHONE_ALPES)
 7. [🧭 Rechercher un centre proche de chez moi](SCR_PASS_INPUT_COMMUNE)
 8. [↩️ Retour au module](SCR_PASS_MENU)
+
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -814,6 +874,7 @@ Retrouvez les réponses à vos questions, choisissez un centre et accédez au fo
 
 <!-- Écran d’entrée -->
 
+
 ## SCR_PASS_SEARCH_MENU
 ### 📍 Trouver une session d’examen
 
@@ -831,6 +892,7 @@ Indiquez une commune ou un code postal pour afficher automatiquement les trois c
 
 2. [🧭 Rechercher un centre proche de chez moi](SCR_PASS_INPUT_COMMUNE)
 3. [↩️ Retour au module](SCR_PASS_MENU)
+
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -855,6 +917,7 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 1. [🗺️ Rechercher par région](SCR_PASS_REGIONS)
 2. [↩️ Retour au module](SCR_PASS_MENU)
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_REGION_AUVERGNE
@@ -870,6 +933,7 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 4. [📍 Vichy (03)](SCR_PASS_CITY_VICHY)
 5. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 6. [↩️ Retour au module](SCR_PASS_MENU)
+
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -889,6 +953,7 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 7. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 8. [↩️ Retour au module](SCR_PASS_MENU)
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_REGION_CHER
@@ -901,6 +966,7 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 1. [📍 Bourges (18)](SCR_PASS_CITY_BOURGES)
 2. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 3. [↩️ Retour au module](SCR_PASS_MENU)
+
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -916,6 +982,7 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 3. [📍 Montbéliard (25)](SCR_PASS_CITY_MONTBELIARD)
 4. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 5. [↩️ Retour au module](SCR_PASS_MENU)
+
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
@@ -935,6 +1002,7 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 7. [📍 Choisir une autre région](SCR_PASS_REGIONS)
 8. [↩️ Retour au module](SCR_PASS_MENU)
 
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_PASS_REGION_RHONE_ALPES
@@ -952,3 +1020,4 @@ Saisissez votre **commune** ou votre **code postal** dans le moteur ci-dessous.
 6. [↩️ Retour au module](SCR_PASS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+

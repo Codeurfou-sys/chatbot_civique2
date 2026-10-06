@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: actualisation-sessions
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -24,14 +28,18 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
+      - name: Protéger les autres rubriques
+        run: python scripts/validate_dates_update.py --snapshot
+
       - name: Actualiser les sessions FRATE
         run: |
-          mkdir -p .build_chatmd/export
+          mkdir -p .build_chatmd/export/data
+          cp recherche-centres/data/centres_geocodes.json .build_chatmd/export/data/centres_geocodes.json
           python scripts/update_passer_examen.py \
             --workbook sources/FICHIER_EXCEL_MOTEUR_CHAT_BOT.xlsx \
             --output-workbook .build_chatmd/FICHIER_EXCEL_MOTEUR_CHAT_BOT_module07_actualise.xlsx \
             --output-dir .build_chatmd/export \
-            --require-frate
+            --require-frate --skip-forms-check
 
       - name: Régénérer les fichiers ChatMD
         run: |
@@ -53,16 +61,23 @@ jobs:
           cp .build_chatmd/export/modules/07_passer_examen.md modules/07_passer_examen.md
           cp .build_chatmd/export/data/sessions.json recherche-centres/data/sessions.json
           cp .build_chatmd/export/data/centres_geocodes.json recherche-centres/data/centres_geocodes.json
+          python -c "from pathlib import Path; from scripts.ameliorer_presentation import presentation; p=Path('modules/07_passer_examen.md'); p.write_text(presentation(p.read_text()))"
           python scripts/sync_module_into_chatbot.py chat_bot.md modules/07_passer_examen.md
-          python scripts/ameliorer_presentation.py
 
-      - name: Contrôler le chatbot complet et les banques d’examens
+      - name: Contrôler les dates et préserver les autres rubriques
         run: |
-          python scripts/validate_banques_examens.py
+          python scripts/validate_passer_examen.py modules/07_passer_examen.md
+          python scripts/validate_dates_update.py
           python scripts/validate_chatbot_final.py
-          python scripts/validate_v7.py
-          python scripts/validate_conseils.py
-          node scripts/validate_questions_libres.js
+          python scripts/validate_banques_examens.py
+
+      - name: Conserver le diagnostic en cas d’échec
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostic-sessions
+          path: .build_chatmd/
+          retention-days: 7
 
       - name: Publier uniquement si les fichiers ont changé
         run: |

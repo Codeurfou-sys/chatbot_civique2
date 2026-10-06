@@ -1,6 +1,6 @@
-# Chatbot civique NovaFrate — expérience v16
+# Chatbot civique NovaFrate — expérience v17
 
-Version complète intégrant les demandes de « Chat bot v7.docx » et le cours « 2025 11 13 Support J3.pdf ».
+Version complète intégrant les demandes de les dernières demandes sur les activités, la navigation et la sauvegarde.
 
 ## Ouvrir le chatbot
 
@@ -28,7 +28,7 @@ Voir [MISE_A_JOUR_V16.md](MISE_A_JOUR_V16.md) pour le détail des 38 activités,
 - Les 62 questions ouvertes d’origine et leurs réponses attendues sont conservées. Six règles de reconnaissance trop restrictives ont été corrigées.
 - Le chapitre culture intègre les artistes, œuvres, monuments et spécialités du support fourni.
 - La progression des ateliers fait partie de l’export/import du parcours. Les étapes terminées sont conservées ; une activité en cours peut recommencer à son début.
-- Les nouvelles activités v16 doivent être réalisées pour débloquer les questions : une validation des anciens ateliers ne vaut pas validation des nouveaux.
+- Les questions écrites restent accessibles directement, et après les deux activités.
 
 ## Banques et maintenance
 
@@ -40,7 +40,7 @@ Après modification d’un module, lancer à la racine du projet :
 python scripts/ameliorer_presentation.py
 ```
 
-Les activités se modifient dans `activites-revision/data.json` et leur interface dans `app.js`/`style.css`. La v16 ne contient pas de QCM de connaissances dans cette application : les questions écrites sont dans le module de révisions.
+Les activités se modifient dans `activites-revision/data.json` et leur interface dans `app.js`/`style.css`. La v17 ne contient pas de QCM de connaissances dans cette application : les questions écrites sont dans le module de révisions.
 
 ## Sauvegarde
 
@@ -52,12 +52,13 @@ Les résultats sont conservés sur le navigateur utilisé. Exporter le parcours 
 python scripts/validate_chatbot_final.py
 python scripts/validate_banques_examens.py
 python scripts/validate_examens_distincts.py
-node scripts/validate_activites_v16.js
-node scripts/validate_revision_v16_runtime.js
-node scripts/validate_sauvegarde_v16.js
+node scripts/validate_revision_v17_runtime.js
+node scripts/validate_sauvegarde_v17.js
 node scripts/validate_integration_sauvegarde_v14.js
 node scripts/validate_geographie.js
 node scripts/validate_v13_runtime.js chatbot/chatmd.js
 ```
 
-Les tests de l’interface exécutent les événements avec un DOM simulé. Le rendu réel sur ordinateur et téléphone reste à vérifier après publication ; l’installation d’un navigateur de test n’a pas abouti dans cet environnement.
+Les activités ont été vérifiées dans Chromium, ainsi que les questions natives, la navigation et la sauvegarde. Vérifier aussi l’intégration dans le pied de page Moodle après publication.
+
+Le test `scripts/validate_ui_v17.cjs` utilise Playwright et Chromium pour exercer les activités et la page intégrée. Il nécessite Playwright installé dans l’environnement de test. La variable `PLAYWRIGHT_EXECUTABLE_PATH` permet de choisir le navigateur. Les captures de test sont écrites dans `.build_ui/`.

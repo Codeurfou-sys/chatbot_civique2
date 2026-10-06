@@ -33,7 +33,8 @@ function buildLiveCentres(sessionsDoc, geocodes) {
   const vichy = { latitude: 46.131168, longitude: 3.428025 };
   const futureByCentre = new Map();
   (sessionsDoc.sessions || []).forEach((item) => {
-    if (item.actif !== "Oui" || item.statut !== "À venir") return;
+    const today = new Intl.DateTimeFormat("en-CA", {timeZone:"Europe/Paris",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
+    if (item.actif !== "Oui" || item.statut !== "À venir" || item.date_session < today) return;
     const list = futureByCentre.get(item.code_centre) || [];
     list.push(item.date_session);
     futureByCentre.set(item.code_centre, list);
@@ -110,14 +111,18 @@ async function init() {
         fetch("data/centres_geocodes.json", { cache: "no-store" })
       ]);
       if (sessionsResponse.ok && geocodesResponse.ok) {
-        const live = buildLiveCentres(await sessionsResponse.json(), await geocodesResponse.json());
+        const sessionsDoc = await sessionsResponse.json();
+        const live = buildLiveCentres(sessionsDoc, await geocodesResponse.json());
+        state.updated = sessionsDoc.generated_at;
         if (live.length >= 3) state.centres = live;
       }
     } catch (_) {
       // La copie locale reste disponible si les données du workflow ne le sont pas.
     }
+    const today = new Intl.DateTimeFormat("en-CA", {timeZone:"Europe/Paris",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
+    state.centres.forEach(c => { c.sessions = (c.sessions || []).filter(d => d >= today); });
     if (!state.communes.length || state.centres.length < 3) throw new Error("Données incomplètes");
-    statusBox.textContent = `${state.communes.length.toLocaleString("fr-FR")} correspondances communales chargées. Vous pouvez rechercher.`;
+    statusBox.textContent = `${state.communes.length.toLocaleString("fr-FR")} correspondances communales chargées. Vous pouvez rechercher.${state.updated ? " Dernière actualisation des sessions : " + new Date(state.updated).toLocaleString("fr-FR") + "." : " Dates à confirmer auprès du centre."}`;
   } catch (error) {
     statusBox.textContent = "La recherche n’a pas pu charger ses données. Réessayez plus tard ou choisissez un centre par région dans ChatMD.";
     statusBox.classList.add("error");

@@ -284,17 +284,12 @@ Vote direct des citoyens sur une question.
 ## SCR_REV_T1_CH01_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T1_CH01 == true && @activiteVersion_SCR_REV_T1_CH01 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T1_CH01_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T1_CH01 == true && @activiteVersion_SCR_REV_T1_CH01 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH01_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T1_CH01_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH01_GLO)
-3. [📖 Revoir le cours](SCR_REV_T1_CH01_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T1_CH01_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -799,17 +794,12 @@ Elles garantissent :
 ## SCR_REV_T1_CH02_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T1_CH02 == true && @activiteVersion_SCR_REV_T1_CH02 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T1_CH02_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T1_CH02 == true && @activiteVersion_SCR_REV_T1_CH02 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH02_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T1_CH02_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH02_GLO)
-3. [📖 Revoir le cours](SCR_REV_T1_CH02_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T1_CH02_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -1301,17 +1291,12 @@ Le coq est un symbole national, mais **pas un symbole officiel**.
 ## SCR_REV_T1_CH03_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **4 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T1_CH03 == true && @activiteVersion_SCR_REV_T1_CH03 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T1_CH03_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T1_CH03 == true && @activiteVersion_SCR_REV_T1_CH03 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH03_ACT)
-`endif`
+1. [✍️ Commencer les 4 questions](SCR_REV_T1_CH03_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH03_GLO)
-3. [📖 Revoir le cours](SCR_REV_T1_CH03_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T1_CH03_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -1878,17 +1863,12 @@ Elle permet à chacun de vivre ensemble dans le respect des lois de la Républiq
 ## SCR_REV_T1_CH04_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T1_CH04 == true && @activiteVersion_SCR_REV_T1_CH04 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T1_CH04_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T1_CH04 == true && @activiteVersion_SCR_REV_T1_CH04 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH04_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T1_CH04_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH04_GLO)
-3. [📖 Revoir le cours](SCR_REV_T1_CH04_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T1_CH04_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -2274,17 +2254,12 @@ Cette règle garantit l'égalité entre tous les citoyens.
 ## SCR_REV_T1_CH05_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T1_CH05 == true && @activiteVersion_SCR_REV_T1_CH05 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T1_CH05_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T1_CH05 == true && @activiteVersion_SCR_REV_T1_CH05 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH05_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T1_CH05_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH05_GLO)
-3. [📖 Revoir le cours](SCR_REV_T1_CH05_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T1_CH05_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -2683,17 +2658,12 @@ Ces notions sont régulièrement évaluées lors de l'examen civique.
 ## SCR_REV_T1_CH06_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T1_CH06 == true && @activiteVersion_SCR_REV_T1_CH06 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T1_CH06_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T1_CH06 == true && @activiteVersion_SCR_REV_T1_CH06 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T1_CH06_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T1_CH06_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH06_GLO)
-3. [📖 Revoir le cours](SCR_REV_T1_CH06_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T1_CH06_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -3130,17 +3100,12 @@ La séparation des pouvoirs repose sur trois pouvoirs :
 ## SCR_REV_T2_CH01_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T2_CH01 == true && @activiteVersion_SCR_REV_T2_CH01 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T2_CH01_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T2_CH01 == true && @activiteVersion_SCR_REV_T2_CH01 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T2_CH01_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T2_CH01_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH01_GLO)
-3. [📖 Revoir le cours](SCR_REV_T2_CH01_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T2_CH01_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -3686,17 +3651,12 @@ Une loi est :
 ## SCR_REV_T2_CH02_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T2_CH02 == true && @activiteVersion_SCR_REV_T2_CH02 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T2_CH02_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T2_CH02 == true && @activiteVersion_SCR_REV_T2_CH02 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T2_CH02_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T2_CH02_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH02_GLO)
-3. [📖 Revoir le cours](SCR_REV_T2_CH02_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T2_CH02_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -4267,17 +4227,12 @@ Les trois principaux niveaux territoriaux sont :
 ## SCR_REV_T2_CH03_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T2_CH03 == true && @activiteVersion_SCR_REV_T2_CH03 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T2_CH03_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T2_CH03 == true && @activiteVersion_SCR_REV_T2_CH03 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T2_CH03_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T2_CH03_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH03_GLO)
-3. [📖 Revoir le cours](SCR_REV_T2_CH03_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T2_CH03_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -4811,17 +4766,12 @@ Les principales institutions à connaître :
 ## SCR_REV_T2_CH04_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T2_CH04 == true && @activiteVersion_SCR_REV_T2_CH04 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T2_CH04_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T2_CH04 == true && @activiteVersion_SCR_REV_T2_CH04 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T2_CH04_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T2_CH04_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH04_GLO)
-3. [📖 Revoir le cours](SCR_REV_T2_CH04_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T2_CH04_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -5248,17 +5198,12 @@ La liberté d'expression est protégée par ces textes.
 ## SCR_REV_T3_CH01_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T3_CH01 == true && @activiteVersion_SCR_REV_T3_CH01 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T3_CH01_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T3_CH01 == true && @activiteVersion_SCR_REV_T3_CH01 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T3_CH01_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T3_CH01_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T3_CH01_GLO)
-3. [📖 Revoir le cours](SCR_REV_T3_CH01_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T3_CH01_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -5752,17 +5697,12 @@ Un emballage en carton correctement trié peut fournir des fibres pour un nouvel
 ## SCR_REV_T3_CH02_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T3_CH02 == true && @activiteVersion_SCR_REV_T3_CH02 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T3_CH02_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T3_CH02 == true && @activiteVersion_SCR_REV_T3_CH02 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T3_CH02_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T3_CH02_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T3_CH02_GLO)
-3. [📖 Revoir le cours](SCR_REV_T3_CH02_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T3_CH02_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -6142,17 +6082,12 @@ La Cinquième République est fondée par la Constitution de 1958.
 ## SCR_REV_T4_CH01_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T4_CH01 == true && @activiteVersion_SCR_REV_T4_CH01 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T4_CH01_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T4_CH01 == true && @activiteVersion_SCR_REV_T4_CH01 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T4_CH01_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T4_CH01_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T4_CH01_GLO)
-3. [📖 Revoir le cours](SCR_REV_T4_CH01_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH01_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -6453,17 +6388,12 @@ Les grandes villes concentrent habitants, emplois et services, tandis que les es
 ## SCR_REV_T4_CH02_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T4_CH02 == true && @activiteVersion_SCR_REV_T4_CH02 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T4_CH02_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T4_CH02 == true && @activiteVersion_SCR_REV_T4_CH02 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T4_CH02_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T4_CH02_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T4_CH02_GLO)
-3. [📖 Revoir le cours](SCR_REV_T4_CH02_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH02_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -6960,27 +6890,6 @@ Les Journées européennes du patrimoine permettent de découvrir de nombreux li
 - **Spécialité régionale :** préparation ou savoir-faire associé culturellement à une région.
 
 
-#### 🎭 Retrouver un artiste ou une œuvre
-
-1. [📘 Jean de La Fontaine](SCR_REV_CULT_LA_FONTAINE)
-1. [📘 Molière](SCR_REV_CULT_MOLIERE)
-1. [📘 Victor Hugo](SCR_REV_CULT_VICTOR_HUGO)
-1. [📘 Charles Baudelaire](SCR_REV_CULT_BAUDELAIRE)
-1. [📘 George Sand](SCR_REV_CULT_GEORGE_SAND)
-1. [📘 Simone de Beauvoir](SCR_REV_CULT_BEAUVOIR)
-1. [📘 Albert Camus](SCR_REV_CULT_CAMUS)
-1. [📘 Marguerite Yourcenar](SCR_REV_CULT_YOURCENAR)
-1. [📘 Eugène Delacroix](SCR_REV_CULT_DELACROIX)
-1. [📘 Claude Monet](SCR_REV_CULT_MONET)
-1. [📘 Paul Cézanne](SCR_REV_CULT_CEZANNE)
-1. [📘 Auguste Renoir](SCR_REV_CULT_RENOIR)
-1. [📘 Camille Claudel](SCR_REV_CULT_CAMILLE_CLAUDEL)
-1. [📘 Auguste Rodin](SCR_REV_CULT_RODIN)
-1. [📘 Marc Chagall](SCR_REV_CULT_CHAGALL)
-1. [📘 Édith Piaf](SCR_REV_CULT_PIAF)
-1. [📘 Claude Debussy](SCR_REV_CULT_DEBUSSY)
-1. [📘 Joséphine Baker](SCR_REV_CULT_BAKER)
-
 
 1. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
 2. [📖 Consulter le glossaire général](SCR_GLO_MENU)
@@ -6990,17 +6899,12 @@ Les Journées européennes du patrimoine permettent de découvrir de nombreux li
 ## SCR_REV_T4_CH03_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **3 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **3 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T4_CH03 == true && @activiteVersion_SCR_REV_T4_CH03 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T4_CH03_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T4_CH03 == true && @activiteVersion_SCR_REV_T4_CH03 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T4_CH03_ACT)
-`endif`
+1. [✍️ Commencer les 3 questions](SCR_REV_T4_CH03_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T4_CH03_GLO)
-3. [📖 Revoir le cours](SCR_REV_T4_CH03_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T4_CH03_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -7375,17 +7279,12 @@ Pour vivre en France, il est important de savoir :
 ## SCR_REV_T5_CH01_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **4 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T5_CH01 == true && @activiteVersion_SCR_REV_T5_CH01 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T5_CH01_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T5_CH01 == true && @activiteVersion_SCR_REV_T5_CH01 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T5_CH01_ACT)
-`endif`
+1. [✍️ Commencer les 4 questions](SCR_REV_T5_CH01_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH01_GLO)
-3. [📖 Revoir le cours](SCR_REV_T5_CH01_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T5_CH01_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -7807,17 +7706,12 @@ Les notions essentielles à connaître sont :
 ## SCR_REV_T5_CH02_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **4 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T5_CH02 == true && @activiteVersion_SCR_REV_T5_CH02 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T5_CH02_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T5_CH02 == true && @activiteVersion_SCR_REV_T5_CH02 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T5_CH02_ACT)
-`endif`
+1. [✍️ Commencer les 4 questions](SCR_REV_T5_CH02_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH02_GLO)
-3. [📖 Revoir le cours](SCR_REV_T5_CH02_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T5_CH02_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -8232,17 +8126,12 @@ Les notions essentielles sont :
 ## SCR_REV_T5_CH03_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **4 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T5_CH03 == true && @activiteVersion_SCR_REV_T5_CH03 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T5_CH03_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T5_CH03 == true && @activiteVersion_SCR_REV_T5_CH03 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T5_CH03_ACT)
-`endif`
+1. [✍️ Commencer les 4 questions](SCR_REV_T5_CH03_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH03_GLO)
-3. [📖 Revoir le cours](SCR_REV_T5_CH03_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T5_CH03_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -8668,17 +8557,12 @@ En France :
 ## SCR_REV_T5_CH04_VERIF
 ### ✍️ Questions de connaissances
 
-Vous retrouverez les **4 questions ouvertes d’origine**, l’une après l’autre. Écrivez votre réponse avec vos mots ; un feedback et la réponse attendue vous aideront à progresser.
+Vous allez répondre à **4 questions**, l’une après l’autre.
+Écrivez votre réponse, puis cliquez sur **Envoyer**.
 
-`if @activite_SCR_REV_T5_CH04 == true && @activiteVersion_SCR_REV_T5_CH04 == 16`
-1. [✍️ Commencer les questions](SCR_REV_T5_CH04_VERIF_Q01)
-`endif`
-`if !(@activite_SCR_REV_T5_CH04 == true && @activiteVersion_SCR_REV_T5_CH04 == 16)`
-Terminez les deux activités de ce chapitre pour accéder aux questions de connaissances.
-1. [🎯 Faire les activités de révisions](SCR_REV_T5_CH04_ACT)
-`endif`
+1. [✍️ Commencer les 4 questions](SCR_REV_T5_CH04_VERIF_Q01)
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH04_GLO)
-3. [📖 Revoir le cours](SCR_REV_T5_CH04_COURS)
+3. [🎯 Activités de révisions](SCR_REV_T5_CH04_ACT)
 4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
 5. [🏠 Retour au menu principal](MENU_PRINCIPAL)
 
@@ -53713,9 +53597,10 @@ La liberté d'expression est un droit fondamental. Elle permet d'exprimer ses id
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&v=16" title="Activités : État de droit et séparation des pouvoirs" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&v=17" title="Activités : État de droit et séparation des pouvoirs" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH01_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T2_CH01_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -53726,9 +53611,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&v=16" title="Activités : Démocratie et droit de vote" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&v=17" title="Activités : Démocratie et droit de vote" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH02_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T2_CH02_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -53739,9 +53625,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&v=16" title="Activités : Organisation de la République française" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&v=17" title="Activités : Organisation de la République française" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH03_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T2_CH03_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -53752,9 +53639,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&v=16" title="Activités : Les institutions européennes" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&v=17" title="Activités : Les institutions européennes" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH04_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T2_CH04_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T2_MENU)
@@ -53765,9 +53653,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&v=16" title="Activités : Les droits fondamentaux" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&v=17" title="Activités : Les droits fondamentaux" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T3_CH01_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T3_CH01_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
@@ -53778,9 +53667,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&v=16" title="Activités : Les obligations et les devoirs" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&v=17" title="Activités : Les obligations et les devoirs" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T3_CH02_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T3_CH02_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T3_MENU)
@@ -53791,9 +53681,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&v=16" title="Activités : Histoire de France 🕰️" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&v=17" title="Activités : Histoire de France 🕰️" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T4_CH01_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T4_CH01_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -53804,9 +53695,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&v=16" title="Activités : Territoires et géographie de la France 🗺️" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&v=17" title="Activités : Territoires et géographie de la France 🗺️" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T4_CH02_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T4_CH02_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -53817,9 +53709,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&v=16" title="Activités : Patrimoine et culture française 🎭" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&v=17" title="Activités : Patrimoine et culture française 🎭" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T4_CH03_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T4_CH03_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T4_MENU)
@@ -53830,9 +53723,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&v=16" title="Activités : Les démarches administratives 📄" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&v=17" title="Activités : Les démarches administratives 📄" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH01_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T5_CH01_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -53843,9 +53737,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&v=16" title="Activités : La santé 🩺" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&v=17" title="Activités : La santé 🩺" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH02_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T5_CH02_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -53856,9 +53751,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&v=16" title="Activités : L'emploi 💼" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&v=17" title="Activités : L'emploi 💼" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH03_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T5_CH03_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -53869,9 +53765,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&v=16" title="Activités : La parentalité 👨‍👩‍👧" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&v=17" title="Activités : La parentalité 👨‍👩‍👧" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH04_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T5_CH04_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T5_MENU)
@@ -53882,9 +53779,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&v=16" title="Activités : CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&v=17" title="Activités : CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH01_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH01_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -53895,9 +53793,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&v=16" title="Activités : LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&v=17" title="Activités : LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH02_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH02_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -53908,9 +53807,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&v=16" title="Activités : LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&v=17" title="Activités : LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH03_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH03_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -53921,9 +53821,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&v=16" title="Activités : LA LAÏCITÉ" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&v=17" title="Activités : LA LAÏCITÉ" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH04_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH04_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -53934,9 +53835,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&v=16" title="Activités : LA LANGUE DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&v=17" title="Activités : LA LANGUE DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH05_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH05_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)
@@ -53947,9 +53849,10 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&v=16" title="Activités : LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&v=17" title="Activités : LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
 
-1. [🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&v=16)
+[🔗 Ouvrir les activités en grand](https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&v=17)
+
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH06_GLO)
 3. [✍️ Accéder aux questions de connaissances](SCR_REV_T1_CH06_VERIF)
 4. [📚 Retour aux chapitres](SCR_REV_T1_MENU)

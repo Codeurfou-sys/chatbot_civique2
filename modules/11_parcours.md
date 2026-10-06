@@ -8,7 +8,9 @@ Retrouvez vos résultats et les conseils pour progresser.
 3. [📝 Mes examens blancs @lastRetour=SCR_PARCOURS_MENU](SCR_LAST_EXAM_RESULT)
 4. [🏠 Menu principal](MENU_PRINCIPAL)
 
-La page du chatbot avec sauvegarde conserve vos résultats sur ce navigateur. Utilisez « Mes résultats sauvegardés » en haut de la page pour consulter les tentatives précédentes ou exporter votre parcours.
+Vos résultats et vos conseils sont conservés sur ce navigateur.
+
+1. [💾 Mes résultats sauvegardés](SCR_SAVE_MENU)
 
 ## SCR_PARCOURS_T1
 ### 🧭 Votre plan — Principes et valeurs de la République
@@ -1321,3 +1323,13 @@ Terminez un bilan pour obtenir votre parcours.
 
 
 1. [↩️ Mon parcours personnalisé](SCR_PARCOURS_MENU)
+
+## SCR_SAVE_MENU
+### 💾 Mes résultats sauvegardés
+
+Retrouvez vos bilans, entraînements et examens blancs, ou exportez votre parcours pour le conserver.
+
+<button type="button" class="nova-open-saved">💾 Ouvrir mes résultats sauvegardés</button>
+
+1. [🧭 Retour à mon parcours](SCR_PARCOURS_MENU)
+2. [🏠 Retour au menu principal](MENU_PRINCIPAL)

@@ -7,7 +7,7 @@ const details={'Seine':'La Seine traverse Paris et rejoint la Manche.','Loire':'
 function svg(tag,attrs){const node=document.createElementNS(NS,tag);for(const [key,val] of Object.entries(attrs))node.setAttribute(key,val);return node}
 function update(){const list=data[mode];document.querySelector('#progress').value=index;document.querySelector('#next').hidden=mode!=='fleuves'||index<list.length;
  document.querySelector('#prompt').textContent=index<list.length?`Repère ${index+1}/5 : cliquez sur ${list[index].name}`:`Activité terminée — votre score : ${score}/5`;
- if(index===list.length){if(scoped===mode)parent.postMessage({source:'nova-activity',chapter:'SCR_REV_T4_CH02',complete:true,geoMode:mode},location.origin);completed[mode]=true;try{localStorage.setItem('nova-geo-completed',JSON.stringify(completed));}catch(e){}notifyCompleted();} if(index===list.length)statusBox.textContent=`Vous avez retrouvé les cinq repères. ${score===5?'Félicitations !':'Relisez les indications, puis recommencez pour confirmer vos repères.'}`;
+ if(index===list.length){if(scoped===mode)parent.postMessage({source:'nova-activity',chapter:'SCR_REV_T4_CH02',complete:true,geoMode:mode,score,total:5},location.origin);completed[mode]=true;try{localStorage.setItem('nova-geo-completed',JSON.stringify(completed));}catch(e){}notifyCompleted();} if(index===list.length)statusBox.textContent=`Vous avez retrouvé les cinq repères. ${score===5?'Félicitations !':'Relisez les indications, puis recommencez pour confirmer vos repères.'}`;
 }
 function select(name){const list=data[mode];if(index>=list.length)return;const target=list[index];
  if(name!==target.name){attempted=true;statusBox.textContent=`Ce n’est pas ${target.name}. ${details[target.name]} Essayez une autre zone.`;return}

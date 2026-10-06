@@ -347,7 +347,7 @@ for code, raw_dates in sessions_by_centre.items():
     if not match:
         continue
     block = re.sub(
-        r"(?ms)\n####? (?:📅 )?Prochaines sessions(?: disponibles)?\n\n(?:- .+\n)+",
+        r"(?m)\n####? (?:📅 )?Prochaines sessions(?: disponibles)?\n\n(?:- [^\n]+\n)+",
         "\n",
         match.group(1),
     )
@@ -359,15 +359,6 @@ for code, raw_dates in sessions_by_centre.items():
         block = block.rstrip() + "\n\n" + dates_block
     text = text[:match.start()] + block + text[match.end():]
 
-# Le module 07 est régénéré chaque jour. Réinjecter l'accès aux questions
-# libres dans chaque écran évite qu'il disparaisse après l'actualisation.
-question_button = "1. [❓ Poser une question @qlOrigine=SCR_PASS_MENU](SCR_QL_RESET)"
-parts = re.split(r"(?=^## SCR_PASS_)", text, flags=re.M)
-updated_parts = []
-for part in parts:
-    if not part.startswith("## SCR_PASS_") or "](SCR_QL_RESET)" in part:
-        updated_parts.append(part)
-        continue
-    updated_parts.append(part.rstrip() + "\n\n" + question_button + "\n\n")
-text = "".join(updated_parts).rstrip() + "\n"
+# La rubrique « Poser une question » reste uniquement dans le menu principal.
+text = re.sub(r"(?m)^\d+\. \[[^\n]*Poser une question[^\n]*\]\(SCR_QL_RESET\)\s*\n", "", text)
 path.write_text(text, encoding="utf-8", newline="\n")

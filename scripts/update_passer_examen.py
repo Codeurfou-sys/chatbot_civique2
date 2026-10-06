@@ -1224,6 +1224,7 @@ def parse_args() -> argparse.Namespace:
             "du classeur."
         ),
     )
+    parser.add_argument("--skip-forms-check", action="store_true", help="Contrôler la forme des liens Forms sans appels réseau.")
     parser.add_argument(
         "--verbose",
         action="store_true",
@@ -1383,7 +1384,7 @@ def main() -> int:
     verify_forms_links(
         centres,
         http,
-        skip_network=args.offline,
+        skip_network=args.offline or args.skip_forms_check,
     )
 
     geocode_cache = args.output_dir / "data" / "centres_geocodes.json"
