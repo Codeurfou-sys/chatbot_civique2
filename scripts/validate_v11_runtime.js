@@ -44,7 +44,7 @@ for(const row of manifest){const base=`ENT_${row.exam}_${row.route}_V${String(ro
  for(let i=1;i<=row.questions.length;i++)render(ent[base+'_Q'+String(i).padStart(2,'0')+(i%2?'_VRAI':'_FAUX')],vars);
  const out=render(ent[base+'_RESULT'],vars);assert.strictEqual(vars.trainExam,row.exam);assert.strictEqual(vars.trainScore,Math.ceil(row.questions.length/2));assert.strictEqual(links(out).length,3);
  const old=vars.trainScore;vars.score=0;render(ent[base+'_RESULT'],vars);assert.strictEqual(vars.trainScore,old);
- const menu=render(par.SCR_ENT_PLAN_MENU,vars);assert(!menu.includes('undefined'));assert.strictEqual(links(menu).length,7);
+ const menu=render(par.SCR_ENT_PLAN_MENU,vars);assert(!menu.includes('undefined'));assert.strictEqual(links(menu).length,8);
  for(let t=1;t<=5;t++){const plan=render(par['SCR_ENT_PLAN_T'+t],vars);assert(!plan.includes('undefined'));if(vars['trainTotal'+t]>0)assert.deepStrictEqual([...plan.matchAll(/Étape (\d)/g)].map(m=>+m[1]),[1,2,3,4]);}
 }
 assert(render(ex.SCR_LAST_EXAM_RESULT,{}).includes('pas encore terminé'));

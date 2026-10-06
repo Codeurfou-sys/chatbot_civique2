@@ -24,7 +24,7 @@ def glossary(row):
         for alias in [entry['title']]+entry.get('aliases',[]):
             term=m.canonical(alias)
             if len(term)<3:continue
-            for text,weight in [(keys,8),(question,6),(asked,5),(answer,4)]:
+            for text,weight in [(question,12),(asked,12),(answer,10)]:
                 if (' '+term+' ') in (' '+text+' '):score=max(score,weight+min(3,len(term.split())))
         if score:found.append((score,entry))
     found.sort(key=lambda x:(-x[0],x[1]['title']))
@@ -32,6 +32,8 @@ def glossary(row):
 def notion_title(row,entries):
     combined=m.canonical(' '.join(str(row.get(k,'')) for k in ['Question','Question posée','Mots-clés']))
     if 'confidentialite' in combined or 'secret medical' in combined:return 'Confidentialité des informations médicales'
+    named=re.search(r'(?:Qui (?:était|est)|Quel rôle a joué) ([A-ZÀ-Ü][^?]+)',m.clean(row.get('Question posée') or row['Question']))
+    if named:return named[1].strip()
     if entries:return entries[0]['title']
     tip=m.clean(row.get('Astuce mémoire',''))
     if '=' in tip:

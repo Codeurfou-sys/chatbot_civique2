@@ -1,89 +1,14 @@
 ## SCR_PARCOURS_MENU
 ### 🧭 Mon parcours personnalisé
 
-`if !@parcoursDisponible`
-Terminez un bilan pour obtenir votre parcours.
-1. [🧭 Faire mon bilan](SCR_BIL_MENU)
-`endif`
-`if @parcoursDisponible`
-**Votre dernier bilan : `@parcoursScore`/25.** Les thématiques sont classées de la plus faible à la plus forte.
-`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 0`
-1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
-`endif`
-`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 0`
-1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
-`endif`
-`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 0`
-1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
-`endif`
-`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 0`
-1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
-`endif`
-`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 0`
-1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
-`endif`
-`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 1`
-1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
-`endif`
-`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 1`
-1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
-`endif`
-`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 1`
-1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
-`endif`
-`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 1`
-1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
-`endif`
-`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 1`
-1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
-`endif`
-`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 2`
-1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
-`endif`
-`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 2`
-1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
-`endif`
-`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 2`
-1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
-`endif`
-`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 2`
-1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
-`endif`
-`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 2`
-1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
-`endif`
-`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 3`
-1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
-`endif`
-`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 3`
-1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
-`endif`
-`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 3`
-1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
-`endif`
-`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 3`
-1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
-`endif`
-`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 3`
-1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
-`endif`
-`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 4`
-1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
-`endif`
-`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 4`
-1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
-`endif`
-`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 4`
-1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
-`endif`
-`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 4`
-1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
-`endif`
-`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 4`
-1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
-`endif`
-`endif`
-1. [🏠 Menu principal](MENU_PRINCIPAL)
+Retrouvez vos résultats et les conseils pour progresser.
+
+1. [📊 Mon bilan](SCR_PARCOURS_BILAN)
+2. [🎯 Mes entraînements](SCR_ENT_PLAN_MENU)
+3. [📝 Mes examens blancs @lastRetour=SCR_PARCOURS_MENU](SCR_LAST_EXAM_RESULT)
+4. [🏠 Menu principal](MENU_PRINCIPAL)
+
+La page du chatbot avec sauvegarde conserve vos résultats sur ce navigateur. Utilisez « Mes résultats sauvegardés » en haut de la page pour consulter les tentatives précédentes ou exporter votre parcours.
 
 ## SCR_PARCOURS_T1
 ### 🧭 Votre plan — Principes et valeurs de la République
@@ -809,6 +734,9 @@ Votre parcours reprend votre dernier entraînement terminé dans cette session. 
 1. [↩️ Retour aux entraînements](SCR_ENT_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
+
+1. [↩️ Mon parcours personnalisé](SCR_PARCOURS_MENU)
+
 ## SCR_ENT_PLAN_T1
 ### 🧭 Votre plan — Principes et valeurs de la République
 
@@ -1303,3 +1231,93 @@ Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un
 `endif`
 1. [↩️ Revenir à mon parcours](SCR_ENT_PLAN_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_BILAN
+### 📊 Mon bilan
+
+`if !@parcoursDisponible`
+Terminez un bilan pour obtenir votre parcours.
+1. [🧭 Faire mon bilan](SCR_BIL_MENU)
+`endif`
+`if @parcoursDisponible`
+**Votre dernier bilan : `@parcoursScore`/25.** Les thématiques sont classées de la plus faible à la plus forte.
+`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 0`
+1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
+`endif`
+`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 0`
+1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
+`endif`
+`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 0`
+1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
+`endif`
+`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 0`
+1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
+`endif`
+`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 0`
+1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
+`endif`
+`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 1`
+1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
+`endif`
+`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 1`
+1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
+`endif`
+`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 1`
+1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
+`endif`
+`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 1`
+1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
+`endif`
+`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 1`
+1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
+`endif`
+`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 2`
+1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
+`endif`
+`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 2`
+1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
+`endif`
+`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 2`
+1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
+`endif`
+`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 2`
+1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
+`endif`
+`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 2`
+1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
+`endif`
+`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 3`
+1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
+`endif`
+`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 3`
+1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
+`endif`
+`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 3`
+1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
+`endif`
+`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 3`
+1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
+`endif`
+`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 3`
+1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
+`endif`
+`if (@parcoursT2 < @parcoursT1 || (@parcoursT2 == @parcoursT1 && 2 < 1) ? 1 : 0) + (@parcoursT3 < @parcoursT1 || (@parcoursT3 == @parcoursT1 && 3 < 1) ? 1 : 0) + (@parcoursT4 < @parcoursT1 || (@parcoursT4 == @parcoursT1 && 4 < 1) ? 1 : 0) + (@parcoursT5 < @parcoursT1 || (@parcoursT5 == @parcoursT1 && 5 < 1) ? 1 : 0) == 4`
+1. [🇫🇷 Principes et valeurs de la République — `@parcoursT1`/5](SCR_PARCOURS_T1)
+`endif`
+`if (@parcoursT1 < @parcoursT2 || (@parcoursT1 == @parcoursT2 && 1 < 2) ? 1 : 0) + (@parcoursT3 < @parcoursT2 || (@parcoursT3 == @parcoursT2 && 3 < 2) ? 1 : 0) + (@parcoursT4 < @parcoursT2 || (@parcoursT4 == @parcoursT2 && 4 < 2) ? 1 : 0) + (@parcoursT5 < @parcoursT2 || (@parcoursT5 == @parcoursT2 && 5 < 2) ? 1 : 0) == 4`
+1. [🏛️ Institutions et système politique — `@parcoursT2`/5](SCR_PARCOURS_T2)
+`endif`
+`if (@parcoursT1 < @parcoursT3 || (@parcoursT1 == @parcoursT3 && 1 < 3) ? 1 : 0) + (@parcoursT2 < @parcoursT3 || (@parcoursT2 == @parcoursT3 && 2 < 3) ? 1 : 0) + (@parcoursT4 < @parcoursT3 || (@parcoursT4 == @parcoursT3 && 4 < 3) ? 1 : 0) + (@parcoursT5 < @parcoursT3 || (@parcoursT5 == @parcoursT3 && 5 < 3) ? 1 : 0) == 4`
+1. [⚖️ Droits et devoirs — `@parcoursT3`/5](SCR_PARCOURS_T3)
+`endif`
+`if (@parcoursT1 < @parcoursT4 || (@parcoursT1 == @parcoursT4 && 1 < 4) ? 1 : 0) + (@parcoursT2 < @parcoursT4 || (@parcoursT2 == @parcoursT4 && 2 < 4) ? 1 : 0) + (@parcoursT3 < @parcoursT4 || (@parcoursT3 == @parcoursT4 && 3 < 4) ? 1 : 0) + (@parcoursT5 < @parcoursT4 || (@parcoursT5 == @parcoursT4 && 5 < 4) ? 1 : 0) == 4`
+1. [🗺️ Histoire, géographie et culture — `@parcoursT4`/5](SCR_PARCOURS_T4)
+`endif`
+`if (@parcoursT1 < @parcoursT5 || (@parcoursT1 == @parcoursT5 && 1 < 5) ? 1 : 0) + (@parcoursT2 < @parcoursT5 || (@parcoursT2 == @parcoursT5 && 2 < 5) ? 1 : 0) + (@parcoursT3 < @parcoursT5 || (@parcoursT3 == @parcoursT5 && 3 < 5) ? 1 : 0) + (@parcoursT4 < @parcoursT5 || (@parcoursT4 == @parcoursT5 && 4 < 5) ? 1 : 0) == 4`
+1. [🤝 Vivre dans la société française — `@parcoursT5`/5](SCR_PARCOURS_T5)
+`endif`
+`endif`
+1. [🏠 Menu principal](MENU_PRINCIPAL)
+
+
+1. [↩️ Mon parcours personnalisé](SCR_PARCOURS_MENU)

@@ -75,8 +75,6 @@ Dans cette rubrique, vous pouvez demander une explication simple ou une aide pou
 17. [➡️ République](SCR_QL_GLO0118)
 18. [➡️ Souveraineté nationale](SCR_QL_GLO0126)
 19. [➡️ Choisir un autre thème](SCR_QL_THEMES)
-20. [➡️ Poser une question](SCR_QL_RESET)
-
 1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
 
@@ -122,8 +120,6 @@ Dans cette rubrique, vous pouvez demander une explication simple ou une aide pou
 33. [➡️ Union européenne](SCR_QL_GLO0133)
 34. [➡️ Vote](SCR_QL_GLO0137)
 35. [➡️ Choisir un autre thème](SCR_QL_THEMES)
-36. [➡️ Poser une question](SCR_QL_RESET)
-
 1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
 
@@ -163,8 +159,6 @@ Dans cette rubrique, vous pouvez demander une explication simple ou une aide pou
 27. [➡️ Traite des êtres humains](SCR_QL_GLO0131)
 28. [➡️ Violence](SCR_QL_GLO0136)
 29. [➡️ Choisir un autre thème](SCR_QL_THEMES)
-30. [➡️ Poser une question](SCR_QL_RESET)
-
 1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
 
@@ -208,8 +202,6 @@ Dans cette rubrique, vous pouvez demander une explication simple ou une aide pou
 31. [➡️ UNESCO](SCR_QL_GLO0132)
 32. [➡️ Vercingétorix](SCR_QL_GLO0135)
 33. [➡️ Choisir un autre thème](SCR_QL_THEMES)
-34. [➡️ Poser une question](SCR_QL_RESET)
-
 1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
 
@@ -248,8 +240,6 @@ Dans cette rubrique, vous pouvez demander une explication simple ou une aide pou
 26. [➡️ Titre de séjour](SCR_QL_GLO0129)
 27. [➡️ Urgences](SCR_QL_GLO0134)
 28. [➡️ Choisir un autre thème](SCR_QL_THEMES)
-29. [➡️ Poser une question](SCR_QL_RESET)
-
 1. [↩️ ↩️ Reprendre mon activité](SCR_QL_RETOUR)
 
 

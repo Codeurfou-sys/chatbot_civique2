@@ -1,0 +1,537 @@
+{
+  "SCR_REV_T2_CH01": {
+    "title": "SCR_REV_T2_CH01",
+    "items": [
+      {
+        "name": "État de droit",
+        "definition": "État dans lequel tous, y compris les pouvoirs publics, doivent respecter la loi."
+      },
+      {
+        "name": "Séparation des pouvoirs",
+        "definition": "Organisation qui répartit les fonctions de l'État pour éviter qu'une seule autorité détienne tous les pouvoirs."
+      },
+      {
+        "name": "Pouvoir exécutif",
+        "definition": "Pouvoir chargé de conduire la politique du pays et de faire appliquer les lois."
+      },
+      {
+        "name": "Pouvoir législatif",
+        "definition": "Pouvoir exercé par le Parlement pour discuter et voter les lois."
+      },
+      {
+        "name": "Autorité judiciaire",
+        "definition": "Institution indépendante chargée de faire respecter le droit et de juger les litiges."
+      },
+      {
+        "name": "Constitution",
+        "definition": "Texte juridique supérieur qui organise les institutions et protège les droits fondamentaux."
+      }
+    ]
+  },
+  "SCR_REV_T2_CH02": {
+    "title": "SCR_REV_T2_CH02",
+    "items": [
+      {
+        "name": "Démocratie",
+        "definition": "Régime politique dans lequel le pouvoir appartient au peuple."
+      },
+      {
+        "name": "Suffrage universel",
+        "definition": "Droit de vote reconnu à tous les citoyens qui remplissent les conditions prévues par la loi."
+      },
+      {
+        "name": "Électeur",
+        "definition": "Citoyen inscrit sur une liste électorale et autorisé à voter."
+      },
+      {
+        "name": "Scrutin",
+        "definition": "Ensemble des opérations qui permettent aux électeurs de choisir un candidat ou de répondre à une question."
+      },
+      {
+        "name": "Référendum",
+        "definition": "Vote par lequel les citoyens répondent directement à une question posée par les pouvoirs publics."
+      },
+      {
+        "name": "Abstention",
+        "definition": "Fait de ne pas participer à un vote."
+      }
+    ]
+  },
+  "SCR_REV_T2_CH03": {
+    "title": "SCR_REV_T2_CH03",
+    "items": [
+      {
+        "name": "Collectivité territoriale",
+        "definition": "Autorité publique locale qui administre un territoire avec des élus et des compétences propres."
+      },
+      {
+        "name": "Commune",
+        "definition": "Collectivité territoriale dirigée par le maire et le conseil municipal."
+      },
+      {
+        "name": "Département",
+        "definition": "Collectivité qui agit notamment dans l'action sociale et la gestion des collèges."
+      },
+      {
+        "name": "Région",
+        "definition": "Collectivité compétente notamment pour le développement économique, les transports régionaux et les lycées."
+      },
+      {
+        "name": "Préfet",
+        "definition": "Représentant de l'État dans un département ou une région."
+      },
+      {
+        "name": "Décentralisation",
+        "definition": "Transfert de certaines compétences de l'État vers les collectivités territoriales."
+      }
+    ]
+  },
+  "SCR_REV_T2_CH04": {
+    "title": "SCR_REV_T2_CH04",
+    "items": [
+      {
+        "name": "Union européenne",
+        "definition": "Union politique et économique composée de pays européens qui ont choisi d'agir ensemble dans plusieurs domaines."
+      },
+      {
+        "name": "Parlement européen",
+        "definition": "Institution élue directement par les citoyens européens qui participe au vote des textes et du budget européens."
+      },
+      {
+        "name": "Commission européenne",
+        "definition": "Institution qui propose les textes européens et veille à leur application."
+      },
+      {
+        "name": "Conseil de l'Union européenne",
+        "definition": "Institution dans laquelle les ministres des États membres examinent et adoptent les textes européens avec le Parlement."
+      },
+      {
+        "name": "Conseil européen",
+        "definition": "Réunion des chefs d'État ou de gouvernement qui fixe les grandes orientations de l'Union européenne."
+      },
+      {
+        "name": "Citoyenneté européenne",
+        "definition": "Statut accordé à toute personne ayant la nationalité d'un pays membre de l'Union européenne."
+      }
+    ]
+  },
+  "SCR_REV_T3_CH01": {
+    "title": "SCR_REV_T3_CH01",
+    "items": [
+      {
+        "name": "Droit fondamental",
+        "definition": "Droit essentiel reconnu et protégé par les textes juridiques."
+      },
+      {
+        "name": "Liberté individuelle",
+        "definition": "Possibilité d'agir et de faire des choix dans le respect de la loi et des droits d'autrui."
+      },
+      {
+        "name": "Égalité devant la loi",
+        "definition": "Principe selon lequel les mêmes règles s'appliquent à toutes les personnes placées dans une situation comparable."
+      },
+      {
+        "name": "Dignité humaine",
+        "definition": "Valeur propre à chaque personne, qui interdit de la traiter de manière dégradante."
+      },
+      {
+        "name": "Discrimination",
+        "definition": "Traitement défavorable fondé sur un critère interdit par la loi."
+      },
+      {
+        "name": "Déclaration des droits de l'homme et du citoyen",
+        "definition": "Texte de 1789 qui affirme des droits et libertés fondamentaux."
+      }
+    ]
+  },
+  "SCR_REV_T3_CH02": {
+    "title": "SCR_REV_T3_CH02",
+    "items": [
+      {
+        "name": "Devoir",
+        "definition": "Règle morale ou civique que chacun est tenu de respecter."
+      },
+      {
+        "name": "Obligation légale",
+        "definition": "Comportement imposé par la loi, dont le non-respect peut être sanctionné."
+      },
+      {
+        "name": "Respect de la loi",
+        "definition": "Obligation de se conformer aux règles applicables à toutes les personnes vivant en France."
+      },
+      {
+        "name": "Impôt",
+        "definition": "Somme versée aux administrations publiques pour financer les services et les dépenses collectives."
+      },
+      {
+        "name": "Solidarité nationale",
+        "definition": "Contribution de chacun au soutien des personnes et au financement de la protection collective."
+      },
+      {
+        "name": "Responsabilité",
+        "definition": "Obligation d'assumer les conséquences de ses actes."
+      }
+    ]
+  },
+  "SCR_REV_T4_CH01": {
+    "title": "SCR_REV_T4_CH01",
+    "items": [
+      {
+        "name": "Ancien Régime",
+        "definition": "Nom donné à l'organisation politique et sociale de la France avant la Révolution de 1789."
+      },
+      {
+        "name": "Révolution française",
+        "definition": "Période commencée en 1789 qui met fin à la monarchie absolue et affirme de nouveaux droits."
+      },
+      {
+        "name": "République",
+        "definition": "Régime politique dans lequel le pouvoir n'est pas transmis par héritage à un monarque."
+      },
+      {
+        "name": "Déclaration des droits de l'homme et du citoyen",
+        "definition": "Texte adopté en 1789 qui proclame notamment la liberté et l'égalité en droits."
+      },
+      {
+        "name": "Résistance",
+        "definition": "Ensemble des actions menées contre l'occupation nazie et le régime de Vichy pendant la Seconde Guerre mondiale."
+      },
+      {
+        "name": "Ve République",
+        "definition": "Régime politique français établi par la Constitution de 1958."
+      }
+    ]
+  },
+  "SCR_REV_T4_CH02": {
+    "title": "SCR_REV_T4_CH02",
+    "items": [
+      {
+        "name": "Métropole",
+        "definition": "Partie du territoire français située en Europe."
+      },
+      {
+        "name": "Outre-mer",
+        "definition": "Ensemble des territoires français situés hors du continent européen."
+      },
+      {
+        "name": "Frontière",
+        "definition": "Limite qui sépare deux États ou territoires."
+      },
+      {
+        "name": "Département et région d'outre-mer",
+        "definition": "Collectivité française située outre-mer où les lois nationales s'appliquent en principe comme en métropole."
+      },
+      {
+        "name": "Façade maritime",
+        "definition": "Partie du territoire ouverte sur une mer ou un océan."
+      },
+      {
+        "name": "Francophonie",
+        "definition": "Ensemble des personnes et des pays qui utilisent la langue française."
+      }
+    ]
+  },
+  "SCR_REV_T4_CH03": {
+    "title": "SCR_REV_T4_CH03",
+    "items": [
+      {
+        "name": "Patrimoine",
+        "definition": "Ensemble des biens matériels et immatériels transmis par les générations précédentes et jugés importants à préserver."
+      },
+      {
+        "name": "Patrimoine matériel",
+        "definition": "Monuments, objets, œuvres ou sites que l'on peut voir et conserver."
+      },
+      {
+        "name": "Patrimoine immatériel",
+        "definition": "Traditions, savoir-faire, pratiques et expressions transmis entre générations."
+      },
+      {
+        "name": "Monument historique",
+        "definition": "Bien protégé en raison de son intérêt historique, artistique ou architectural."
+      },
+      {
+        "name": "Culture",
+        "definition": "Ensemble des œuvres, pratiques, connaissances et valeurs partagées par une société."
+      },
+      {
+        "name": "Diversité culturelle",
+        "definition": "Coexistence de cultures, d'expressions et de traditions différentes."
+      }
+    ]
+  },
+  "SCR_REV_T5_CH01": {
+    "title": "SCR_REV_T5_CH01",
+    "items": [
+      {
+        "name": "Domiciliation",
+        "definition": "Adresse administrative permettant de recevoir du courrier et d'effectuer des démarches."
+      },
+      {
+        "name": "Justificatif de domicile",
+        "definition": "Document récent prouvant l'adresse d'une personne."
+      },
+      {
+        "name": "Droit au compte",
+        "definition": "Procédure permettant, sous conditions, d'obtenir la désignation d'une banque par la Banque de France."
+      },
+      {
+        "name": "Responsabilité civile",
+        "definition": "Obligation de réparer les dommages causés à une autre personne."
+      },
+      {
+        "name": "Déclaration de revenus",
+        "definition": "Démarche annuelle qui consiste à informer l'administration fiscale des revenus perçus."
+      },
+      {
+        "name": "Titre de séjour",
+        "definition": "Document autorisant une personne étrangère à résider en France pour une durée déterminée."
+      }
+    ]
+  },
+  "SCR_REV_T5_CH02": {
+    "title": "SCR_REV_T5_CH02",
+    "items": [
+      {
+        "name": "Assurance Maladie",
+        "definition": "Branche de la Sécurité sociale qui prend en charge une partie des dépenses de santé."
+      },
+      {
+        "name": "Carte Vitale",
+        "definition": "Carte personnelle utilisée pour transmettre les informations nécessaires au remboursement des soins."
+      },
+      {
+        "name": "Protection universelle maladie (PUMa)",
+        "definition": "Dispositif garantissant la prise en charge des frais de santé aux personnes qui travaillent ou résident en France de manière stable et régulière."
+      },
+      {
+        "name": "Médecin traitant",
+        "definition": "Médecin déclaré auprès de l'Assurance Maladie qui coordonne le parcours de soins du patient."
+      },
+      {
+        "name": "Ordonnance",
+        "definition": "Document rédigé par un professionnel de santé pour prescrire un traitement ou un examen."
+      },
+      {
+        "name": "Urgence médicale",
+        "definition": "Situation nécessitant une prise en charge rapide en raison d'un risque grave ou immédiat pour la santé."
+      }
+    ]
+  },
+  "SCR_REV_T5_CH03": {
+    "title": "SCR_REV_T5_CH03",
+    "items": [
+      {
+        "name": "Salarié",
+        "definition": "Personne qui travaille pour un employeur en échange d'une rémunération."
+      },
+      {
+        "name": "Contrat de travail",
+        "definition": "Accord qui définit la relation de travail entre un salarié et un employeur."
+      },
+      {
+        "name": "CDI",
+        "definition": "Contrat de travail conclu sans date de fin prévue."
+      },
+      {
+        "name": "CDD",
+        "definition": "Contrat conclu pour une durée limitée et dans les situations autorisées par la loi."
+      },
+      {
+        "name": "SMIC",
+        "definition": "Salaire horaire minimum légal applicable en France."
+      },
+      {
+        "name": "Bulletin de salaire",
+        "definition": "Document remis au salarié qui détaille sa rémunération et les cotisations."
+      }
+    ]
+  },
+  "SCR_REV_T5_CH04": {
+    "title": "SCR_REV_T5_CH04",
+    "items": [
+      {
+        "name": "Autorité parentale",
+        "definition": "Ensemble des droits et devoirs des parents exercés dans l'intérêt de l'enfant."
+      },
+      {
+        "name": "Instruction obligatoire",
+        "definition": "Obligation pour chaque enfant de recevoir une instruction pendant la période d'âge fixée par la loi."
+      },
+      {
+        "name": "Scolarité",
+        "definition": "Parcours suivi par un élève dans les différents niveaux d'enseignement."
+      },
+      {
+        "name": "Communauté éducative",
+        "definition": "Ensemble des personnes qui participent à l'éducation et à la réussite des élèves."
+      },
+      {
+        "name": "Orientation scolaire",
+        "definition": "Choix progressif d'une voie d'études ou de formation en fonction du projet et des résultats de l'élève."
+      },
+      {
+        "name": "Harcèlement scolaire",
+        "definition": "Violences répétées, verbales, physiques ou psychologiques, commises contre un élève."
+      }
+    ]
+  },
+  "SCR_REV_T1_CH01": {
+    "title": "SCR_REV_T1_CH01",
+    "items": [
+      {
+        "name": "République",
+        "definition": "Organisation politique dans laquelle le pouvoir appartient au peuple."
+      },
+      {
+        "name": "Constitution",
+        "definition": "Texte qui définit les règles fondamentales d'organisation d'un État."
+      },
+      {
+        "name": "Souveraineté nationale",
+        "definition": "Pouvoir appartenant au peuple."
+      },
+      {
+        "name": "Représentant",
+        "definition": "Personne élue pour exercer une fonction politique au nom des citoyens."
+      },
+      {
+        "name": "Référendum",
+        "definition": "Vote direct des citoyens sur une question."
+      }
+    ]
+  },
+  "SCR_REV_T1_CH02": {
+    "title": "SCR_REV_T1_CH02",
+    "items": [
+      {
+        "name": "Devise",
+        "definition": "phrase officielle représentant les valeurs de la République."
+      },
+      {
+        "name": "Liberté",
+        "definition": "droit de penser, d'agir et de s'exprimer dans le respect de la loi."
+      },
+      {
+        "name": "Égalité",
+        "definition": "principe selon lequel chacun possède les mêmes droits."
+      },
+      {
+        "name": "Fraternité",
+        "definition": "solidarité entre les personnes."
+      },
+      {
+        "name": "Discrimination",
+        "definition": "traitement injustifié fondé sur un critère interdit par la loi."
+      },
+      {
+        "name": "Parité",
+        "definition": "représentation équilibrée des femmes et des hommes."
+      }
+    ]
+  },
+  "SCR_REV_T1_CH03": {
+    "title": "SCR_REV_T1_CH03",
+    "items": [
+      {
+        "name": "Symbole",
+        "definition": "élément représentant une idée ou une valeur."
+      },
+      {
+        "name": "Drapeau tricolore",
+        "definition": "drapeau officiel bleu, blanc, rouge."
+      },
+      {
+        "name": "Hymne national",
+        "definition": "chant officiel d'un pays."
+      },
+      {
+        "name": "Marianne",
+        "definition": "représentation de la République française."
+      },
+      {
+        "name": "Bonnet phrygien",
+        "definition": "symbole historique de la liberté."
+      },
+      {
+        "name": "Fête nationale",
+        "definition": "célébration officielle de la Nation."
+      }
+    ]
+  },
+  "SCR_REV_T1_CH04": {
+    "title": "SCR_REV_T1_CH04",
+    "items": [
+      {
+        "name": "Laïcité",
+        "definition": "principe garantissant la liberté de conscience et la neutralité de l'État."
+      },
+      {
+        "name": "Neutralité",
+        "definition": "obligation de ne favoriser aucune religion ni conviction."
+      },
+      {
+        "name": "Liberté de conscience",
+        "definition": "liberté de croire ou de ne pas croire."
+      },
+      {
+        "name": "Prosélytisme",
+        "definition": "action visant à convaincre une personne d'adopter une religion ou des convictions."
+      },
+      {
+        "name": "Ordre public",
+        "definition": "ensemble des règles garantissant la sécurité, la tranquillité et le respect des lois."
+      },
+      {
+        "name": "Blasphème",
+        "definition": "critique ou insulte visant une religion ou une divinité."
+      }
+    ]
+  },
+  "SCR_REV_T1_CH05": {
+    "title": "SCR_REV_T1_CH05",
+    "items": [
+      {
+        "name": "Langue officielle",
+        "definition": "langue utilisée par les institutions de l'État."
+      },
+      {
+        "name": "Constitution",
+        "definition": "texte fondamental qui organise le fonctionnement de la République."
+      },
+      {
+        "name": "Administration",
+        "definition": "ensemble des services publics chargés d'appliquer les lois et de rendre des services aux citoyens."
+      },
+      {
+        "name": "Service public",
+        "definition": "organisme chargé d'une mission d'intérêt général."
+      }
+    ]
+  },
+  "SCR_REV_T1_CH06": {
+    "title": "SCR_REV_T1_CH06",
+    "items": [
+      {
+        "name": "Contrat d'engagement",
+        "definition": "document officiel par lequel une personne s'engage à respecter les principes de la République."
+      },
+      {
+        "name": "Titre de séjour",
+        "definition": "document autorisant un étranger à résider légalement en France."
+      },
+      {
+        "name": "Renouvellement",
+        "definition": "prolongation de la durée de validité d'un titre de séjour."
+      },
+      {
+        "name": "Préfecture",
+        "definition": "administration chargée notamment de la délivrance des titres de séjour."
+      },
+      {
+        "name": "OQTF",
+        "definition": "Obligation de Quitter le Territoire Français."
+      }
+    ]
+  }
+}

@@ -62,9 +62,6 @@
 1. [↩️ Retour](SCR_ENT_THEME_CSP)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-1. [🗺️ Questions de géographie sur carte](SCR_GEO_CONNAISSANCES)
-
 ## SCR_ENT_CSP_MIS_MENU
 ### Mises en situation
 
@@ -20191,9 +20188,6 @@ Vous allez répondre à **10 questions**, avec une correction après chaque rép
 
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [🗺️ Deux questions sur carte : fleuves et montagnes](SCR_GEO_CONNAISSANCES)
 
 ## SCR_ENT_CSP_T4_Q_DIF_LAUNCH_START
 !Typewriter: false
@@ -53619,9 +53613,6 @@ Vous allez répondre à **10 questions**, avec une correction après chaque rép
 
 1. [↩️ Retour](SCR_ENT_CSP_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [🗺️ Deux questions sur carte : fleuves et montagnes](SCR_GEO_CONNAISSANCES)
 
 ## SCR_ENT_CSP_T4_Q_LAUNCH_START
 !Typewriter: false
@@ -152293,9 +152284,6 @@ Pour chaque cas, identifiez le principe civique recherché et comparez toutes le
 1. [↩️ Retour](SCR_ENT_THEME_CR)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-1. [🗺️ Questions de géographie sur carte](SCR_GEO_CONNAISSANCES)
-
 ## SCR_ENT_CR_MIS_MENU
 ### Mises en situation
 
@@ -172422,9 +172410,6 @@ Vous allez répondre à **10 questions**, avec une correction après chaque rép
 
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [🗺️ Deux questions sur carte : fleuves et montagnes](SCR_GEO_CONNAISSANCES)
 
 ## SCR_ENT_CR_T4_Q_DIF_LAUNCH_START
 !Typewriter: false
@@ -205850,9 +205835,6 @@ Vous allez répondre à **10 questions**, avec une correction après chaque rép
 
 1. [↩️ Retour](SCR_ENT_CR_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [🗺️ Deux questions sur carte : fleuves et montagnes](SCR_GEO_CONNAISSANCES)
 
 ## SCR_ENT_CR_T4_Q_LAUNCH_START
 !Typewriter: false
@@ -304524,9 +304506,6 @@ Pour chaque cas, identifiez le principe civique recherché et comparez toutes le
 1. [↩️ Retour](SCR_ENT_THEME_NAT)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
-
-1. [🗺️ Questions de géographie sur carte](SCR_GEO_CONNAISSANCES)
-
 ## SCR_ENT_NAT_MIS_MENU
 ### Mises en situation
 
@@ -324653,9 +324632,6 @@ Vous allez répondre à **10 questions**, avec une correction après chaque rép
 
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [🗺️ Deux questions sur carte : fleuves et montagnes](SCR_GEO_CONNAISSANCES)
 
 ## SCR_ENT_NAT_T4_Q_DIF_LAUNCH_START
 !Typewriter: false
@@ -358081,9 +358057,6 @@ Vous allez répondre à **10 questions**, avec une correction après chaque rép
 
 1. [↩️ Retour](SCR_ENT_NAT_Q_MENU)
 1. [🏠 Menu principal](MENU_PRINCIPAL)
-
-
-1. [🗺️ Deux questions sur carte : fleuves et montagnes](SCR_GEO_CONNAISSANCES)
 
 ## SCR_ENT_NAT_T4_Q_LAUNCH_START
 !Typewriter: false

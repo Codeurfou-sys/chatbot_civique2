@@ -48,8 +48,8 @@ if absent:
     errors.append(f"Écrans essentiels absents : {absent}")
 if "@{screen_id_faq}" in text:
     errors.append("Ancienne destination dynamique non résolue dans la FAQ")
-if text.count("❓ Poser une question") < 200:
-    errors.append("Accès global aux questions libres incomplet hors examen blanc")
+if text.count("❓ Poser une question") != 2:
+    errors.append("Poser une question doit être accessible uniquement au menu principal")
 if "❓ Poser une question" in Path("modules/05_preparer_examen.md").read_text(encoding="utf-8"):
     errors.append("Le bouton Poser une question doit être absent de l'examen blanc")
 if text.count('<ul class="messageOptions">') < 24:

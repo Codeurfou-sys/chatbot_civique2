@@ -3,7 +3,6 @@
 
 Choisissez une rubrique selon votre besoin. Utilisez les boutons de retour pour changer d’activité.
 
-1. [❓ Poser une question @qlOrigine=MENU_PRINCIPAL](SCR_QL_RESET)
 2. [❔ Consulter la FAQ](SCR_FAQ_MENU)
 3. [💡 Voir les conseils de réussite](SCR_CONS_MENU)
 4. [ℹ️ À propos du Coach](SCR_ACC_APROPOS)
@@ -19,8 +18,6 @@ Vos réponses de cette session seront réinitialisées. Souhaitez-vous continuer
 <!-- Condition métier : Réponse sélectionnée | Valeur : RESTART_NO -->
 2. [➡️ Non, revenir au menu](MENU_PRINCIPAL)
 
-1. [❓ Poser une question @qlOrigine=MENU_PRINCIPAL](SCR_QL_RESET)
-
 ## SCR_ACC_APROPOS
 ### À propos du Coach Civique
 
@@ -28,5 +25,3 @@ Le Coach Civique est un assistant pédagogique déterministe construit à partir
 
 1. [↩️ Retour à l’aide](SCR_ACC_AIDE)
 2. [↩️ Retour au menu principal](MENU_PRINCIPAL)
-
-1. [❓ Poser une question @qlOrigine=MENU_PRINCIPAL](SCR_QL_RESET)
