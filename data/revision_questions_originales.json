@@ -313,8 +313,8 @@
   },
   {
     "id": "SCR_REV_T1_CH03_VERIF_Q04",
-    "answer": "Non. Le coq est un emblème traditionnel, mais il n'est pas un symbole officiel de la République.",
-    "question": "Le coq est-il un symbole officiel de la République ?",
+    "answer": "Non. L’emblème national défini par la Constitution est le drapeau bleu, blanc, rouge. Le coq est un emblème historique de la France, également présenté parmi les symboles républicains par l’Élysée.",
+    "question": "Le coq est-il l’emblème national défini par la Constitution ?",
     "variable": "rep_t1_ch3_q4"
   },
   {

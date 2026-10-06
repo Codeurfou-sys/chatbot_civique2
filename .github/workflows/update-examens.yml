@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 concurrency:
   group: actualisation-sessions
@@ -92,3 +93,9 @@ jobs:
             git commit -m "Actualisation automatique des sessions d'examen"
             git push
           fi
+
+      - name: Reconstruire GitHub Pages et confirmer la publication
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/request_pages_build.py

@@ -977,6 +977,117 @@
           }
         ],
         "revealNames": true
+      },
+      {
+        "type": "books",
+        "title": "Retrouvez l’auteur de chaque livre",
+        "instructions": "Observez la couverture et son titre. Le nom de l’auteur est absent : choisissez-le parmi les propositions. Les couvertures sont des créations pédagogiques, pas des éditions commerciales.",
+        "items": [
+          {
+            "prompt": "Qui a écrit « L’Étranger » ?",
+            "work": "L’Étranger",
+            "image": "assets/livre-etranger.svg",
+            "options": [
+              "Albert Camus",
+              "Marguerite Yourcenar",
+              "Victor Hugo",
+              "Charles Baudelaire"
+            ],
+            "answer": "Albert Camus",
+            "explanation": "Albert Camus est l’auteur de L’Étranger. Cette œuvre figure dans les notions du chapitre."
+          },
+          {
+            "prompt": "Qui a écrit « Mémoires d’Hadrien » ?",
+            "work": "Mémoires d’Hadrien",
+            "image": "assets/livre-hadrien.svg",
+            "options": [
+              "Marguerite Yourcenar",
+              "Albert Camus",
+              "Victor Hugo",
+              "Charles Baudelaire"
+            ],
+            "answer": "Marguerite Yourcenar",
+            "explanation": "Marguerite Yourcenar est l’auteur de Mémoires d’Hadrien. Cette œuvre figure dans les notions du chapitre."
+          },
+          {
+            "prompt": "Qui a écrit « Les Misérables » ?",
+            "work": "Les Misérables",
+            "image": "assets/livre-miserables.svg",
+            "options": [
+              "Victor Hugo",
+              "Albert Camus",
+              "Marguerite Yourcenar",
+              "Charles Baudelaire"
+            ],
+            "answer": "Victor Hugo",
+            "explanation": "Victor Hugo est l’auteur de Les Misérables. Cette œuvre figure dans les notions du chapitre."
+          },
+          {
+            "prompt": "Qui a écrit « Les Fleurs du mal » ?",
+            "work": "Les Fleurs du mal",
+            "image": "assets/livre-fleurs.svg",
+            "options": [
+              "Charles Baudelaire",
+              "Albert Camus",
+              "Marguerite Yourcenar",
+              "Victor Hugo"
+            ],
+            "answer": "Charles Baudelaire",
+            "explanation": "Charles Baudelaire est l’auteur de Les Fleurs du mal. Cette œuvre figure dans les notions du chapitre."
+          },
+          {
+            "prompt": "Qui a écrit « La Mare au diable » ?",
+            "work": "La Mare au diable",
+            "image": "assets/livre-mare.svg",
+            "options": [
+              "George Sand",
+              "Albert Camus",
+              "Marguerite Yourcenar",
+              "Victor Hugo"
+            ],
+            "answer": "George Sand",
+            "explanation": "George Sand est l’auteur de La Mare au diable. Cette œuvre figure dans les notions du chapitre."
+          },
+          {
+            "prompt": "Qui a écrit « Le Deuxième Sexe » ?",
+            "work": "Le Deuxième Sexe",
+            "image": "assets/livre-deuxieme.svg",
+            "options": [
+              "Simone de Beauvoir",
+              "Albert Camus",
+              "Marguerite Yourcenar",
+              "Victor Hugo"
+            ],
+            "answer": "Simone de Beauvoir",
+            "explanation": "Simone de Beauvoir est l’auteur de Le Deuxième Sexe. Cette œuvre figure dans les notions du chapitre."
+          },
+          {
+            "prompt": "Qui a écrit « Tartuffe » ?",
+            "work": "Tartuffe",
+            "image": "assets/livre-tartuffe.svg",
+            "options": [
+              "Molière",
+              "Albert Camus",
+              "Marguerite Yourcenar",
+              "Victor Hugo"
+            ],
+            "answer": "Molière",
+            "explanation": "Molière est l’auteur de Tartuffe. Cette œuvre figure dans les notions du chapitre."
+          },
+          {
+            "prompt": "Qui a écrit « Le Corbeau et le Renard » ?",
+            "work": "Le Corbeau et le Renard",
+            "image": "assets/livre-fables.svg",
+            "options": [
+              "Jean de La Fontaine",
+              "Albert Camus",
+              "Marguerite Yourcenar",
+              "Victor Hugo"
+            ],
+            "answer": "Jean de La Fontaine",
+            "explanation": "Jean de La Fontaine est l’auteur de Le Corbeau et le Renard. Cette œuvre figure dans les notions du chapitre."
+          }
+        ]
       }
     ]
   },
@@ -1147,97 +1258,133 @@
     "title": "L'emploi 💼",
     "activities": [
       {
-        "type": "classify",
-        "title": "Droits et obligations : examinez le contexte",
+        "type": "cases",
+        "title": "Au travail : analysez la situation et choisissez la démarche",
+        "instructions": "Une situation s’affiche à la fois. Choisissez la démarche la plus adaptée, puis lisez l’explication. Les propositions portent sur des décisions concrètes.",
         "items": [
           {
-            "label": "Un salarié bénéficie de congés payés selon les règles applicables",
-            "target": "Droit du salarié",
-            "explanation": "Les congés payés sont un droit."
+            "prompt": "Lina commence un poste où elle manipule des produits présentant un risque. Aucun équipement ni formation à leur utilisation ne lui a été fourni. Quelle démarche est la plus adaptée ?",
+            "options": [
+              "Signaler le manque et demander les consignes, la formation et les protections adaptées",
+              "Acheter n’importe quel gant et commencer sans connaître le produit",
+              "Attendre un accident pour parler du problème"
+            ],
+            "answer": "Signaler le manque et demander les consignes, la formation et les protections adaptées",
+            "explanation": "La prévention implique des mesures, des informations et des protections adaptées aux risques."
           },
           {
-            "label": "Un salarié respecte les consignes de sécurité adaptées à son travail",
-            "target": "Obligation du salarié",
-            "explanation": "La sécurité nécessite le respect des consignes."
+            "prompt": "Après une absence pour maladie, Karim possède un arrêt de travail. Il pense que le médecin a automatiquement prévenu son entreprise. Que doit-il vérifier ?",
+            "options": [
+              "Que ses collègues ont annoncé son absence sur les réseaux sociaux",
+              "Qu’il a informé l’entreprise et transmis les documents nécessaires dans les délais",
+              "Que l’absence peut rester sans justification jusqu’à la paie"
+            ],
+            "answer": "Qu’il a informé l’entreprise et transmis les documents nécessaires dans les délais",
+            "explanation": "Un arrêt médical ne dispense pas de prévenir l’entreprise et d’accomplir les démarches attendues."
           },
           {
-            "label": "Un employeur verse le salaire prévu pour le travail effectué",
-            "target": "Obligation de l’employeur",
-            "explanation": "Le paiement du salaire est une obligation de l’employeur."
+            "prompt": "Deux personnes ont des compétences comparables. Un responsable explique avoir écarté l’une d’elles uniquement à cause de son origine. Quelle analyse convient ?",
+            "options": [
+              "C’est une simple préférence personnelle sans conséquence",
+              "Il suffit de choisir un autre motif après coup",
+              "Le critère annoncé révèle une discrimination, qui doit être signalée"
+            ],
+            "answer": "Le critère annoncé révèle une discrimination, qui doit être signalée",
+            "explanation": "L’origine ne peut justifier une décision discriminatoire au travail."
           },
           {
-            "label": "Un salarié est protégé contre une décision fondée uniquement sur son origine",
-            "target": "Droit du salarié",
-            "explanation": "La protection contre les discriminations s’applique au travail."
+            "prompt": "Ana remarque un montant inattendu sur son bulletin. Elle ne sait pas s’il s’agit d’une cotisation ou d’une retenue liée à son absence. Quelle démarche est adaptée ?",
+            "options": [
+              "Demander une explication et comparer les lignes avec les heures et les informations disponibles",
+              "Supposer que tout montant différent constitue nécessairement une erreur",
+              "Effacer la ligne sur sa copie pour modifier la somme versée"
+            ],
+            "answer": "Demander une explication et comparer les lignes avec les heures et les informations disponibles",
+            "explanation": "Lire le bulletin et demander des explications permet de distinguer une ligne normale d’une éventuelle erreur."
           },
           {
-            "label": "Un salarié réalise les tâches licites prévues dans son emploi",
-            "target": "Obligation du salarié",
-            "explanation": "Il doit exécuter les tâches prévues dans le cadre du contrat."
+            "prompt": "Au début d’un poste, les tâches convenues sont licites et les consignes de sécurité ont été expliquées. Une personne souhaite ignorer ces consignes pour aller plus vite. Que convient-il de faire ?",
+            "options": [
+              "Appliquer les consignes et signaler toute difficulté plutôt que les contourner",
+              "Les appliquer seulement lorsqu’un responsable regarde",
+              "Les supprimer si elles ralentissent momentanément le travail"
+            ],
+            "answer": "Appliquer les consignes et signaler toute difficulté plutôt que les contourner",
+            "explanation": "Chacun participe à la sécurité en respectant les consignes adaptées et les équipements fournis."
           },
           {
-            "label": "Un employeur prend les mesures nécessaires pour protéger la santé et la sécurité",
-            "target": "Obligation de l’employeur",
-            "explanation": "L’employeur a une obligation de prévention des risques."
-          },
-          {
-            "label": "Un salarié peut demander des explications sur sa fiche de paie",
-            "target": "Droit du salarié",
-            "explanation": "Comprendre son bulletin aide à vérifier ses droits."
-          },
-          {
-            "label": "Un salarié utilise correctement les équipements de protection fournis",
-            "target": "Obligation du salarié",
-            "explanation": "Les équipements de protection participent à la prévention des risques."
+            "prompt": "Un versement correspondant au travail effectué manque à la date habituelle. La personne dispose de son contrat, de son relevé d’heures et de ses échanges. Quelle première démarche est adaptée ?",
+            "options": [
+              "Attendre plusieurs mois sans conserver les documents",
+              "Demander par écrit une explication et une régularisation, en conservant les justificatifs",
+              "Déduire qu’un accord oral peut supprimer définitivement toute rémunération"
+            ],
+            "answer": "Demander par écrit une explication et une régularisation, en conservant les justificatifs",
+            "explanation": "Le paiement du travail effectué est une obligation. Les pièces conservées permettent d’étayer la demande."
           }
-        ],
-        "groups": [
-          "Droit du salarié",
-          "Obligation du salarié",
-          "Obligation de l’employeur"
         ]
       },
       {
-        "type": "payslip",
-        "title": "Complétez une fiche de paie simplifiée",
+        "type": "payslip-click",
+        "title": "Explorez un bulletin de paie",
+        "instructions": "Sur ce bulletin fictif, cliquez sur la valeur demandée. Vous pouvez aussi atteindre les zones avec Tab et valider avec Entrée. Deux calculs guidés terminent l’activité.",
+        "image": "assets/bulletin-paie-v18.svg",
         "items": [
           {
-            "label": "2 000 €",
-            "target": "Salaire brut",
-            "explanation": "Montant avant les cotisations salariales dans cet exemple fictif."
+            "prompt": "Retrouvez le montant du salaire brut.",
+            "target": "brut",
+            "label": "Salaire brut : 2 000 €",
+            "explanation": "Le brut est le montant avant déduction des cotisations salariales."
           },
           {
-            "label": "400 €",
-            "target": "Cotisations salariales",
-            "explanation": "Ici, 2 000 − 400 = 1 600 € ; les cotisations ne sont pas un taux universel."
+            "prompt": "Retrouvez le total des cotisations salariales.",
+            "target": "cotisations",
+            "label": "Cotisations salariales : 400 €",
+            "explanation": "Dans cet exemple pédagogique, 400 € sont déduits du brut au titre des cotisations salariales."
           },
           {
-            "label": "1 600 €",
-            "target": "Net avant impôt",
-            "explanation": "Montant après les cotisations, avant le prélèvement à la source."
+            "prompt": "Retrouvez le montant net à payer avant impôt.",
+            "target": "net-avant",
+            "label": "Net à payer avant impôt : 1 600 €",
+            "explanation": "Le net avant impôt est ici égal à 2 000 − 400 = 1 600 €."
           },
           {
-            "label": "1 650 €",
-            "target": "Net imposable",
-            "explanation": "La base imposable peut différer du net avant impôt ; elle est fixée à 1 650 € dans cet exemple."
+            "prompt": "Retrouvez le montant net imposable.",
+            "target": "imposable",
+            "label": "Net imposable : 1 650 €",
+            "explanation": "Le net imposable est la base du prélèvement à la source. Il peut différer du net avant impôt."
           },
           {
-            "label": "5 %",
-            "target": "Taux du prélèvement à la source",
-            "explanation": "Le taux s’applique ici au net imposable."
+            "prompt": "Retrouvez le taux du prélèvement à la source.",
+            "target": "taux",
+            "label": "Taux de prélèvement : 5 %",
+            "explanation": "Dans ce bulletin fictif, le taux personnel fourni est de 5 %."
           },
           {
-            "label": "82,50 €",
-            "target": "Montant du prélèvement à la source",
+            "prompt": "Retrouvez le montant de l’impôt prélevé à la source.",
+            "target": "impot",
+            "label": "Prélèvement à la source : 82,50 €",
             "explanation": "1 650 × 5 % = 82,50 €."
           },
           {
-            "label": "1 517,50 €",
-            "target": "Net payé",
-            "explanation": "1 600 − 82,50 = 1 517,50 €, montant versé dans cet exemple."
+            "prompt": "Retrouvez le montant réellement versé à la personne.",
+            "target": "paye",
+            "label": "Net payé : 1 517,50 €",
+            "explanation": "Le net payé est le net avant impôt diminué du prélèvement : 1 600 − 82,50 = 1 517,50 €."
+          },
+          {
+            "prompt": "Calculez le net avant impôt : 2 000 € de brut − 400 € de cotisations. Saisissez le montant en euros.",
+            "answer": 1600,
+            "label": "Calcul du net avant impôt",
+            "explanation": "2 000 − 400 = 1 600 €."
+          },
+          {
+            "prompt": "Calculez le net payé : 1 600 € avant impôt − 82,50 € de prélèvement. Saisissez le montant en euros.",
+            "answer": 1517.5,
+            "label": "Calcul du net payé",
+            "explanation": "1 600 − 82,50 = 1 517,50 €. Ce calcul ne constitue pas un taux universel de passage du brut au net."
           }
-        ],
-        "context": "Bulletin fictif sans autres retenues ni indemnités. Brut : 2 000 €. Cotisations : 400 €. Net imposable fourni : 1 650 €. Taux fiscal : 5 %. Calculez et placez les montants ; ces valeurs ne sont pas des taux légaux universels."
+        ]
       }
     ]
   },
@@ -1599,28 +1746,69 @@
         ]
       },
       {
-        "type": "match",
-        "title": "Retrouvez les symboles",
+        "type": "select-symbols",
+        "title": "Retrouvez les symboles institutionnels de la République",
+        "instructions": "Parmi ces dix images, sélectionnez les quatre symboles institutionnels étudiés dans ce chapitre, puis cliquez sur « Valider mes choix ». Les autres images renvoient au patrimoine ou à l’histoire de la France. Le corrigé précise ces distinctions.",
         "items": [
           {
-            "label": "🇫🇷 Le drapeau tricolore",
-            "target": "Bleu, blanc, rouge",
-            "explanation": "🇫🇷 Le drapeau tricolore : Bleu, blanc, rouge"
+            "icon": "drapeau",
+            "label": "Le drapeau tricolore",
+            "correct": true,
+            "explanation": "Le drapeau bleu, blanc, rouge est l’emblème national."
           },
           {
-            "label": "🎵 L’hymne national",
-            "target": "La Marseillaise",
-            "explanation": "🎵 L’hymne national : La Marseillaise"
+            "icon": "marianne",
+            "label": "Marianne",
+            "correct": true,
+            "explanation": "Marianne personnifie la République et apparaît dans les institutions publiques."
           },
           {
-            "label": "👩 Le buste de la République",
-            "target": "Marianne",
-            "explanation": "👩 Le buste de la République : Marianne"
+            "icon": "devise",
+            "label": "Liberté, Égalité, Fraternité",
+            "correct": true,
+            "explanation": "Il s’agit de la devise de la République."
           },
           {
-            "label": "📜 La devise",
-            "target": "Liberté, Égalité, Fraternité",
-            "explanation": "📜 La devise : Liberté, Égalité, Fraternité"
+            "icon": "hymne",
+            "label": "La Marseillaise",
+            "correct": true,
+            "explanation": "La Marseillaise est l’hymne national."
+          },
+          {
+            "icon": "coq",
+            "label": "Le coq",
+            "correct": false,
+            "explanation": "Le coq est un emblème historique de la France, également présenté par l’Élysée parmi les symboles républicains ; il n’est pas l’emblème national défini par la Constitution. Il n’est pas l’un des quatre symboles institutionnels demandés ici."
+          },
+          {
+            "icon": "baguette",
+            "label": "La baguette",
+            "correct": false,
+            "explanation": "La baguette relève du patrimoine culturel et gastronomique."
+          },
+          {
+            "icon": "tour",
+            "label": "La tour Eiffel",
+            "correct": false,
+            "explanation": "La tour Eiffel est un monument emblématique de Paris et de la France."
+          },
+          {
+            "icon": "beret",
+            "label": "Le béret",
+            "correct": false,
+            "explanation": "Le béret est une représentation culturelle, pas l’un des quatre symboles institutionnels demandés."
+          },
+          {
+            "icon": "bonnet",
+            "label": "Le bonnet phrygien",
+            "correct": false,
+            "explanation": "Le bonnet phrygien symbolise historiquement la liberté et coiffe Marianne. Pris seul, il n’est pas l’un des quatre symboles institutionnels demandés ici."
+          },
+          {
+            "icon": "croissant",
+            "label": "Le croissant",
+            "correct": false,
+            "explanation": "Le croissant appartient aux représentations gastronomiques de la France."
           }
         ]
       }
@@ -1635,84 +1823,116 @@
         "items": [
           {
             "label": "Un agent public porte une kippa pendant l’exercice de ses fonctions",
-            "target": "Contraire à la neutralité",
+            "target": "Incompatible avec la neutralité",
             "explanation": "Un agent public doit être neutre dans l’exercice de ses fonctions."
           },
           {
             "label": "Un usager porte un signe religieux en entrant dans une mairie, visage découvert",
-            "target": "Compatible",
+            "target": "Compatible avec la neutralité",
             "explanation": "Un usager n’est pas soumis à la même obligation de neutralité qu’un agent public."
           },
           {
             "label": "Une agente publique porte un signe religieux sur ses vêtements pendant son service",
-            "target": "Contraire à la neutralité",
+            "target": "Incompatible avec la neutralité",
             "explanation": "L’obligation de neutralité concerne les agents publics en service."
           },
           {
             "label": "Un agent explique une démarche de la même façon à une personne croyante et à une personne non croyante",
-            "target": "Compatible",
+            "target": "Compatible avec la neutralité",
             "explanation": "La neutralité garantit un traitement sans discrimination."
           },
           {
             "label": "Un agent refuse un dossier uniquement à cause de la religion de l’usager",
-            "target": "Contraire à la neutralité",
+            "target": "Incompatible avec la neutralité",
             "explanation": "Un service public ne doit pas discriminer selon les convictions."
           },
           {
             "label": "Une personne change de religion ou décide de ne plus croire",
-            "target": "Compatible",
+            "target": "Compatible avec la neutralité",
             "explanation": "La liberté de conscience comprend le droit de croire, de ne pas croire et de changer de conviction."
           },
           {
             "label": "Un agent profite de son accueil au guichet pour convaincre les usagers d’adopter sa religion",
-            "target": "Contraire à la neutralité",
+            "target": "Incompatible avec la neutralité",
             "explanation": "Le prosélytisme dans l’exercice d’une fonction publique est contraire à la neutralité."
           },
           {
-            "label": "Un usager conteste une règle générale du service uniquement parce qu’elle ne correspond pas à ses convictions",
-            "target": "La règle commune s’applique",
-            "explanation": "Une conviction ne dispense pas, à elle seule, du respect des règles communes."
+            "label": "À l’accueil d’une mairie, une personne refuse de présenter le document d’identité demandé à tous pour la démarche, en invoquant ses convictions.",
+            "target": "Application d’une règle commune",
+            "explanation": "L’exigence administrative commune, lorsqu’elle est nécessaire à la démarche, ne disparaît pas du fait des convictions personnelles."
           }
         ],
         "groups": [
-          "Compatible",
-          "Contraire à la neutralité",
-          "La règle commune s’applique"
-        ]
+          "Compatible avec la neutralité",
+          "Incompatible avec la neutralité",
+          "Application d’une règle commune"
+        ],
+        "instructions": "Pour chaque situation, faites glisser la carte ou cliquez sur la catégorie qui convient. « Compatible avec la neutralité » : la liberté de conscience et l’égalité de traitement sont respectées. « Incompatible avec la neutralité » : un agent ou un service public exprime une préférence religieuse ou discrimine. « Application d’une règle commune » : une règle générale de sécurité ou de fonctionnement s’impose à tous."
       },
       {
         "type": "cases",
-        "title": "Distinguez neutralité et liberté de conscience",
+        "title": "Laïcité : choisissez la réponse adaptée au statut et au contexte",
+        "instructions": "Lisez le statut de la personne, le lieu et les circonstances. Choisissez la réponse la plus précise : la neutralité des agents ne signifie pas l’interdiction de toute expression religieuse pour les usagers.",
         "items": [
           {
-            "prompt": "Un usager affirme : « Aucun signe religieux n’est autorisé dans une mairie, même pour les visiteurs. »",
+            "prompt": "Une agente territoriale assure l’accueil de la mairie. Elle souhaite porter un signe religieux visible pendant ce service. Quelle réponse est adaptée ?",
             "options": [
-              "Il confond les obligations des agents et les libertés des usagers",
-              "Il décrit exactement la règle pour tous",
-              "La règle dépend uniquement du maire"
+              "Le signe est possible si aucun usager ne se plaint",
+              "La neutralité s’applique dans l’exercice de ses fonctions, même si elle accueille peu de public",
+              "Seuls les agents titulaires sont concernés, pas les contractuels"
             ],
-            "answer": "Il confond les obligations des agents et les libertés des usagers",
-            "explanation": "Il faut distinguer le statut d’agent public de celui d’usager."
+            "answer": "La neutralité s’applique dans l’exercice de ses fonctions, même si elle accueille peu de public",
+            "explanation": "Le statut d’agent public implique la neutralité pendant les fonctions ; le nombre d’usagers ou le type de contrat ne supprime pas cette obligation."
           },
           {
-            "prompt": "Un agent neutre peut-il traiter moins favorablement une personne athée ?",
+            "prompt": "Un visiteur entre dans une mairie avec une kippa, visage découvert. Il respecte le fonctionnement du service. Que peut faire le service ?",
             "options": [
-              "Non, il doit respecter toutes les convictions, y compris l’absence de religion",
-              "Oui, la laïcité concerne seulement les religions",
-              "Oui, si l’usager critique une religion"
+              "L’accueillir sans lui imposer la neutralité applicable aux agents",
+              "L’accueillir uniquement après le retrait de la kippa",
+              "Refuser toute démarche administrative liée à une personne portant un signe religieux"
             ],
-            "answer": "Non, il doit respecter toutes les convictions, y compris l’absence de religion",
-            "explanation": "La liberté de conscience protège aussi les personnes non croyantes."
+            "answer": "L’accueillir sans lui imposer la neutralité applicable aux agents",
+            "explanation": "Un usager peut exprimer ses convictions dans le respect du fonctionnement du service et des règles applicables."
           },
           {
-            "prompt": "Dans sa vie privée, un agent public est-il privé de toute liberté de religion ?",
+            "prompt": "Une agente explique une procédure administrative. Un usager lui demande de lui recommander sa propre religion. Quelle attitude convient ?",
             "options": [
-              "Non, son obligation de neutralité concerne l’exercice de ses fonctions",
-              "Oui, toute sa vie",
-              "Oui, uniquement les jours de travail"
+              "Répondre à titre personnel puisqu’il s’agit d’une demande de l’usager",
+              "Présenter plusieurs religions comme des choix recommandés par le service",
+              "Rester dans le cadre de la démarche et ne pas promouvoir de conviction personnelle"
             ],
-            "answer": "Non, son obligation de neutralité concerne l’exercice de ses fonctions",
-            "explanation": "La neutralité professionnelle ne supprime pas la liberté de conscience personnelle."
+            "answer": "Rester dans le cadre de la démarche et ne pas promouvoir de conviction personnelle",
+            "explanation": "L’initiative de l’usager n’autorise pas l’agent à promouvoir une religion dans l’exercice de ses fonctions."
+          },
+          {
+            "prompt": "En dehors de ses fonctions, un agent public participe à une cérémonie religieuse, sans se présenter comme représentant du service. Que permet de conclure la laïcité ?",
+            "options": [
+              "Sa liberté de conscience demeure ; la neutralité professionnelle ne supprime pas sa vie personnelle",
+              "Il doit demander à tous les usagers leur accord avant d’y participer",
+              "Son absence de signe religieux au travail lui interdit ensuite toute pratique personnelle"
+            ],
+            "answer": "Sa liberté de conscience demeure ; la neutralité professionnelle ne supprime pas sa vie personnelle",
+            "explanation": "La liberté de conscience demeure dans la vie personnelle. Les autres obligations professionnelles restent distinctes."
+          },
+          {
+            "prompt": "Une règle de sécurité nécessaire à un équipement public impose une tenue particulière à tous les participants. Une personne demande d’y déroger uniquement au nom de ses convictions. Quel raisonnement adopter ?",
+            "options": [
+              "Toute conviction permet automatiquement une dérogation",
+              "Vérifier que la règle est justifiée et appliquée à tous ; les convictions seules ne dispensent pas de la respecter",
+              "Interdire définitivement l’accès à tous les croyants"
+            ],
+            "answer": "Vérifier que la règle est justifiée et appliquée à tous ; les convictions seules ne dispensent pas de la respecter",
+            "explanation": "Il faut distinguer une règle commune justifiée d’une discrimination visant une religion."
+          },
+          {
+            "prompt": "Au guichet, une personne non croyante reçoit volontairement un traitement moins favorable parce qu’elle critique une religion. Quel principe est en cause ?",
+            "options": [
+              "La neutralité et l’égalité de traitement, qui protègent aussi les personnes non croyantes",
+              "La neutralité uniquement si cette personne adhère à une autre religion",
+              "Aucun principe, car une personne athée n’a pas de liberté de conscience"
+            ],
+            "answer": "La neutralité et l’égalité de traitement, qui protègent aussi les personnes non croyantes",
+            "explanation": "La liberté de conscience protège le fait de croire, de ne pas croire et de changer de conviction."
           }
         ]
       }
@@ -1764,32 +1984,6 @@
             ],
             "answer": "Une langue régionale peut être utilisée sans remplacer la langue officielle",
             "explanation": "Le français officiel et la pratique d’autres langues sont compatibles."
-          }
-        ]
-      },
-      {
-        "type": "connect",
-        "title": "Reliez les notions à leur définition",
-        "items": [
-          {
-            "label": "Langue officielle",
-            "target": "Langue utilisée notamment dans les actes de l’administration",
-            "explanation": "En France, la langue de la République est le français."
-          },
-          {
-            "label": "Francophonie",
-            "target": "Ensemble de personnes et d’espaces où le français est utilisé",
-            "explanation": "Le français est utilisé sur plusieurs continents."
-          },
-          {
-            "label": "Langue régionale",
-            "target": "Langue liée à l’histoire d’un territoire",
-            "explanation": "Les langues régionales font partie du patrimoine linguistique."
-          },
-          {
-            "label": "Autonomie dans les démarches",
-            "target": "Capacité à comprendre les informations et à agir",
-            "explanation": "Comprendre le français facilite les démarches et l’accès aux droits."
           }
         ]
       }

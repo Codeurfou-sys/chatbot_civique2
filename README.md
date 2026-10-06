@@ -1,6 +1,6 @@
-# Chatbot civique NovaFrate — expérience v17
+# Chatbot civique NovaFrate — expérience v18
 
-Version complète intégrant les demandes de les dernières demandes sur les activités, la navigation et la sauvegarde.
+Version complète intégrant les nouveaux exercices, la reconnaissance des réponses écrites et la progression dans le chatbot.
 
 ## Ouvrir le chatbot
 
@@ -20,15 +20,15 @@ Les fichiers de cette archive n’ont pas été poussés sur GitHub automatiquem
 
 ## Nouveautés
 
-Voir [MISE_A_JOUR_V16.md](MISE_A_JOUR_V16.md) pour le détail des 38 activités, les enrichissements et les contrôles.
+Voir [MISE_A_JOUR_V18.md](MISE_A_JOUR_V18.md) pour le détail des 38 activités, les enrichissements et les contrôles.
 
 - Notions utiles, activités et questions écrites sont séparées.
-- Deux activités par chapitre, corrigé expliqué accessible à tout moment.
+- 38 activités : une pour la langue officielle, trois pour la culture et deux pour les autres chapitres. Corrigé expliqué accessible à tout moment.
 - Les cinq boutons de navigation suivent le même ordre.
-- Les 62 questions ouvertes d’origine et leurs réponses attendues sont conservées. Six règles de reconnaissance trop restrictives ont été corrigées.
+- Les 62 questions ouvertes restent séparées des activités. Leur reconnaissance accepte les notions essentielles et les formulations équivalentes. La question sur le coq distingue désormais le symbole historique de l’emblème constitutionnel.
 - Le chapitre culture intègre les artistes, œuvres, monuments et spécialités du support fourni.
 - La progression des ateliers fait partie de l’export/import du parcours. Les étapes terminées sont conservées ; une activité en cours peut recommencer à son début.
-- Les questions écrites restent accessibles directement, et après les deux activités.
+- Les questions écrites restent accessibles directement, et après les activités.
 
 ## Banques et maintenance
 
