@@ -53435,7 +53435,7 @@ La liberté d'expression est un droit fondamental. Elle permet d'exprimer ses id
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&v=21" title="Activités : État de droit et séparation des pouvoirs" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH01&v=23" title="Activités : État de droit et séparation des pouvoirs" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH01_GLO)
@@ -53448,7 +53448,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&v=21" title="Activités : Démocratie et droit de vote" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH02&v=23" title="Activités : Démocratie et droit de vote" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH02_GLO)
@@ -53461,7 +53461,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&v=21" title="Activités : Organisation de la République française" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH03&v=23" title="Activités : Organisation de la République française" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH03_GLO)
@@ -53474,7 +53474,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&v=21" title="Activités : Les institutions européennes" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T2_CH04&v=23" title="Activités : Les institutions européennes" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T2_CH04_GLO)
@@ -53487,7 +53487,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&v=21" title="Activités : Les droits fondamentaux" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH01&v=23" title="Activités : Les droits fondamentaux" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T3_CH01_GLO)
@@ -53500,7 +53500,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&v=21" title="Activités : Les obligations et les devoirs" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T3_CH02&v=23" title="Activités : Les obligations et les devoirs" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T3_CH02_GLO)
@@ -53513,7 +53513,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&v=21" title="Activités : Histoire de France 🕰️" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH01&v=23" title="Activités : Histoire de France 🕰️" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T4_CH01_GLO)
@@ -53526,7 +53526,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&v=21" title="Activités : Territoires et géographie de la France 🗺️" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH02&v=23" title="Activités : Territoires et géographie de la France 🗺️" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T4_CH02_GLO)
@@ -53539,7 +53539,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les trois activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&v=21" title="Activités : Patrimoine et culture française 🎭" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T4_CH03&v=23" title="Activités : Patrimoine et culture française 🎭" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T4_CH03_GLO)
@@ -53552,7 +53552,7 @@ Les trois activités sont distinctes des questions de connaissances. Vous pouvez
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&v=21" title="Activités : Les démarches administratives 📄" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH01&v=23" title="Activités : Les démarches administratives 📄" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH01_GLO)
@@ -53565,7 +53565,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&v=21" title="Activités : La santé 🩺" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH02&v=23" title="Activités : La santé 🩺" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH02_GLO)
@@ -53578,7 +53578,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&v=21" title="Activités : L'emploi 💼" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH03&v=23" title="Activités : L'emploi 💼" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH03_GLO)
@@ -53591,7 +53591,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&v=21" title="Activités : La parentalité 👨‍👩‍👧" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T5_CH04&v=23" title="Activités : La parentalité 👨‍👩‍👧" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T5_CH04_GLO)
@@ -53604,7 +53604,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&v=21" title="Activités : CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH01&v=23" title="Activités : CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH01_GLO)
@@ -53617,7 +53617,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&v=21" title="Activités : LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH02&v=23" title="Activités : LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH02_GLO)
@@ -53630,7 +53630,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&v=21" title="Activités : LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH03&v=23" title="Activités : LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH03_GLO)
@@ -53643,7 +53643,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&v=21" title="Activités : LA LAÏCITÉ" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH04&v=23" title="Activités : LA LAÏCITÉ" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH04_GLO)
@@ -53656,7 +53656,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&v=21" title="Activités : LA LANGUE DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH05&v=23" title="Activités : LA LANGUE DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH05_GLO)
@@ -53669,7 +53669,7 @@ Les deux activités sont distinctes des questions de connaissances. Vous pouvez 
 
 Les deux activités sont distinctes des questions de connaissances. Vous pouvez consulter un corrigé expliqué et recommencer.
 
-<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&v=21" title="Activités : LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
+<iframe src="https://codeurfou-sys.github.io/chatbot_civique2/activites-revision/?chapitre=SCR_REV_T1_CH06&v=23" title="Activités : LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE" width="100%" height="1250" loading="lazy"></iframe>
 
 
 2. [📖 Revoir les notions utiles](SCR_REV_T1_CH06_GLO)

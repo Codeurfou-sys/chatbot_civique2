@@ -1,6 +1,6 @@
-# CiviCoach — expérience v22
+# CiviCoach — expérience v23
 
-Version complète avec ouverture en grand, export PDF du parcours, nouvelle carte des langues régionales, symboles officiels illustrés et vraies couvertures de livres.
+Version complète avec navigation dans Moodle, transmission du parcours entre onglets, export PDF et indicateurs de chargement. Les activités et banques de la version précédente sont conservées.
 
 ## Ouvrir le chatbot
 
@@ -20,7 +20,7 @@ Les fichiers de cette archive n’ont pas été poussés sur GitHub automatiquem
 
 ## Nouveautés
 
-Voir [MISE_A_JOUR_V22.md](MISE_A_JOUR_V22.md) pour les dernières corrections. Les 39 activités et les fonctionnalités de la v19 sont conservées.
+Voir [MISE_A_JOUR_V23.md](MISE_A_JOUR_V23.md) pour les dernières corrections. Les 39 activités et les fonctionnalités de la v19 sont conservées.
 
 - Notions utiles, activités et questions écrites sont séparées.
 - 39 activités : deux pour la langue officielle, trois pour la culture et deux pour les autres chapitres. Corrigé expliqué accessible à tout moment.
