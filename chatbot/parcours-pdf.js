@@ -18,7 +18,7 @@ function build(state,data){
  function scorebar(score,max){room(15);doc.setFillColor(233,236,241);doc.roundedRect(18,y,174,4,2,2,'F');if(score>0){doc.setFillColor(52,120,110);doc.roundedRect(18,y,174*Math.min(1,Math.max(0,score/max)),4,2,2,'F');}y+=10;}
  function feedback(theme,pct){const bands=data.feedback.bands,index=bands.findIndex(b=>pct>=b[0]&&pct<b[1]);return data.feedback.themes[String(theme)][index<0?0:index];}
  header();text('CiviCoach - préparation à l’examen civique',10);text('Export du '+new Date().toLocaleString('fr-FR',{timeZone:'Europe/Paris'}),9,[99,109,120]);
- text('Ce document permet de consulter vos résultats et vos conseils. Pour reprendre votre progression dans le chatbot, conservez aussi l’export JSON.',10);
+ text('Ce document permet de consulter vos résultats et vos conseils. Vos résultats et vos conseils restent accessibles dans « Mon parcours personnalisé ».',10);
  for(const [kind,label] of [['bilan','Mes bilans'],['entrainement','Mes entraînements'],['examen','Mes examens blancs']]){
   heading(label);const rows=state.history[kind]||[];
   if(!rows.length){text('Aucun résultat enregistré dans cette rubrique.',10,[99,109,120]);continue;}

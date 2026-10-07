@@ -1,4 +1,4 @@
-# CiviCoach — expérience v21
+# CiviCoach — expérience v22
 
 Version complète avec ouverture en grand, export PDF du parcours, nouvelle carte des langues régionales, symboles officiels illustrés et vraies couvertures de livres.
 
@@ -20,14 +20,14 @@ Les fichiers de cette archive n’ont pas été poussés sur GitHub automatiquem
 
 ## Nouveautés
 
-Voir [MISE_A_JOUR_V21.md](MISE_A_JOUR_V21.md) pour les dernières corrections. Les 39 activités et les fonctionnalités de la v19 sont conservées.
+Voir [MISE_A_JOUR_V22.md](MISE_A_JOUR_V22.md) pour les dernières corrections. Les 39 activités et les fonctionnalités de la v19 sont conservées.
 
 - Notions utiles, activités et questions écrites sont séparées.
 - 39 activités : deux pour la langue officielle, trois pour la culture et deux pour les autres chapitres. Corrigé expliqué accessible à tout moment.
 - Les cinq boutons de navigation suivent le même ordre.
 - Les 62 questions ouvertes restent séparées des activités. Leur reconnaissance accepte les notions essentielles et les formulations équivalentes. La question sur le coq distingue désormais le symbole historique de l’emblème constitutionnel.
 - Le chapitre culture intègre les artistes, œuvres, monuments et spécialités du support fourni.
-- La progression des ateliers fait partie de l’export/import du parcours. Les étapes terminées sont conservées ; une activité en cours peut recommencer à son début.
+- La progression des ateliers est sauvegardée automatiquement dans ce navigateur. Les étapes terminées sont conservées ; une activité en cours peut recommencer à son début.
 - Les questions écrites restent accessibles directement, et après les activités.
 
 ## Banques et maintenance

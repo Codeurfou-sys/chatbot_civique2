@@ -1,6 +1,6 @@
 Moteur ChatMD : Cédric Eyssette et contributeurs, logiciel sous licence MIT.
 Source : https://forge.apps.education.fr/chatMD/chatMD.forge.apps.education.fr
-Copie figée du moteur utilisé pour les validations du projet. Les mentions des dépendances sont conservées dans chatmd.js. Modification locale : deux points d'entrée avant/après l'évaluation des variables dynamiques pour la sauvegarde NovaFrate.
+Copie figée du moteur utilisé pour les validations du projet. Les mentions des dépendances sont conservées dans chatmd.js. Modifications locales : sauvegarde avant/après l’évaluation des variables, sélection des séries et mélange des propositions, notifications de fin de rendu et reprise directe du parcours.
 
 ## Licence MIT — moteur ChatMD
 
