@@ -10,6 +10,7 @@ const old=root.NovaBoot.rendered;
 root.NovaBoot.rendered=function(node){old(node);if(!shouldResume||resumed||!node?.classList.contains('bot-message'))return;const state=root.NovaSave.exportData(),saved=state.resume;if(!saved||typeof saved.html!=='string'||saved.html.length>600000)return;resumed=true;setTimeout(()=>{const current=root.NovaSave.exportData();root.NovaSave.importData({...current,variables:saved.variables||state.variables},true);doc.getElementById('chat').innerHTML=safeHTML(saved.html);doc.body.classList.toggle('hideControls',!!saved.controlsHidden);tables();doc.getElementById('civicoach-loading').hidden=true;setTimeout(()=>root.scrollTo(0,Number(saved.scroll)||0),100);},30);};
 function returnFull(){if(root.opener&&!root.opener.closed){try{if(root.opener.location.origin===location.origin&&root.opener.parent===root.opener&&!new URLSearchParams(root.opener.location.search).has('vue')){root.opener.focus();root.close();return;}}catch(e){}}root.NovaLink.go('./?reprendre=1');}
 root.NovaResume={capture,returnFull};
-const link=doc.createElement('link');link.rel='stylesheet';link.href='presentation.css?v=25';doc.head.append(link);
+const link=doc.createElement('link');link.rel='stylesheet';link.href='presentation.css?v=26';doc.head.append(link);
+const show=doc.getElementById("civi-show-now");if(show)show.onclick=()=>{root.NovaTyping?.finish();};
 if(!results)root.addEventListener('pagehide',capture);
 })(window);
