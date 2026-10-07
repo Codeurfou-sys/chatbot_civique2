@@ -1329,7 +1329,7 @@ Terminez un bilan pour obtenir votre parcours.
 
 Retrouvez vos bilans, entraînements et examens blancs, ou exportez votre parcours pour le conserver.
 
-<button type="button" class="nova-open-saved">💾 Ouvrir mes résultats sauvegardés</button>
+<a class="nova-open-saved" href="https://codeurfou-sys.github.io/chatbot_civique2/chatbot/?vue=resultats" target="_blank" rel="noopener noreferrer">💾 Ouvrir mes résultats sauvegardés</a>
 
 1. [🧭 Retour à mon parcours](SCR_PARCOURS_MENU)
 2. [🏠 Retour au menu principal](MENU_PRINCIPAL)

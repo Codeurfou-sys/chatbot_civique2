@@ -1,4 +1,4 @@
-# Chatbot civique NovaFrate — expérience v20
+# CiviCoach — expérience v21
 
 Version complète avec ouverture en grand, export PDF du parcours, nouvelle carte des langues régionales, symboles officiels illustrés et vraies couvertures de livres.
 
@@ -20,7 +20,7 @@ Les fichiers de cette archive n’ont pas été poussés sur GitHub automatiquem
 
 ## Nouveautés
 
-Voir [MISE_A_JOUR_V20.md](MISE_A_JOUR_V20.md) pour les dernières corrections. Les 39 activités et les fonctionnalités de la v19 sont conservées.
+Voir [MISE_A_JOUR_V21.md](MISE_A_JOUR_V21.md) pour les dernières corrections. Les 39 activités et les fonctionnalités de la v19 sont conservées.
 
 - Notions utiles, activités et questions écrites sont séparées.
 - 39 activités : deux pour la langue officielle, trois pour la culture et deux pour les autres chapitres. Corrigé expliqué accessible à tout moment.

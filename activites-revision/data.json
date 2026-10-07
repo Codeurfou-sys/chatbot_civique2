@@ -1036,7 +1036,9 @@
             "name": "Mayotte"
           }
         ],
-        "revealNames": true
+        "revealNames": true,
+        "sequentialMap": true,
+        "instructions": "Une spécialité apparaît à la fois. Cliquez sur son étiquette puis sur la région, ou faites-la glisser sur la carte. La bonne association fait apparaître automatiquement la spécialité suivante."
       },
       {
         "type": "books",

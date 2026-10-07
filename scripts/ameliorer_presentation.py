@@ -5,6 +5,7 @@ ICON_BASE='https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main
 def pictogram(name,alt):return f'<img class="civic-icon" src="{ICON_BASE}{name}.svg" alt="{alt}" width="30" height="24">'
 ICONS={'SCR_PREP_MENU':'🎯','SCR_PASS_MENU':'🗓️','MENU_PRINCIPAL':'🏠'}
 def presentation(text):
+ text=text.replace("# Coach Civique NovaFrate","# CiviCoach")
  text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
  text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
  text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
