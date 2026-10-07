@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-10-06T14:51:44+02:00 -->
+<!-- Date : 2026-10-07T10:20:01+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
@@ -7,7 +7,6 @@
 <!-- Variables : {centre}=Annecy; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -35,7 +34,6 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
 - 28 octobre 2026
@@ -61,7 +59,6 @@
 <!-- Variables : {centre}=Auxerre; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -89,7 +86,6 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
 - 29 octobre 2026
@@ -115,7 +111,6 @@
 <!-- Variables : {centre}=Bourg-en-Bresse; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -143,10 +138,8 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
-- 6 octobre 2026
 - 10 novembre 2026
 - 8 décembre 2026
 
@@ -169,7 +162,6 @@
 <!-- Variables : {centre}=Chaumont; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -194,7 +186,6 @@
 <!-- Variables : {centre}=Clermont-Ferrand; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -222,7 +213,6 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
 - 9 novembre 2026
@@ -247,7 +237,6 @@
 <!-- Variables : {centre}=Le Puy-en-Velay; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -275,7 +264,6 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
 - 13 novembre 2026
@@ -300,7 +288,6 @@
 <!-- Variables : {centre}=Montbéliard; {region}=Franche-Comté; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -327,7 +314,6 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
 - 13 octobre 2026
@@ -352,7 +338,6 @@
 <!-- Variables : {centre}=Mulhouse; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -380,7 +365,6 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
 - 16 octobre 2026
@@ -405,7 +389,6 @@
 <!-- Variables : {centre}=Nevers; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -433,10 +416,8 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
-- 28 octobre 2026
 - 18 novembre 2026
 - 2 décembre 2026
 
@@ -459,7 +440,6 @@
 <!-- Variables : {centre}=Saint-Dié-des-Vosges; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -485,7 +465,6 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
 - 18 novembre 2026
@@ -509,7 +488,6 @@
 <!-- Variables : {centre}=Sens; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -537,7 +515,6 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
 - 22 octobre 2026
@@ -563,7 +540,6 @@
 <!-- Variables : {centre}=Troyes; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
@@ -591,7 +567,6 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
-
 #### 📅 Prochaines sessions disponibles
 
 - 18 novembre 2026
@@ -616,7 +591,6 @@
 <!-- Variables : {centre}=Vichy; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
-
 
 #### 📅 Prochaines sessions disponibles
 
