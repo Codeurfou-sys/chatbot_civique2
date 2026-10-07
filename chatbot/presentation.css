@@ -21,6 +21,8 @@ html body #chat table:not(.v13-errors) tr:nth-child(even){background:#fff8fa!imp
 html body #chat table:not(.v13-errors) th{background:#f5e3e8!important}
 @media(max-width:600px){html body #chat .messageOptions a{font-size:16px;padding:12px 15px!important}html body #chat table:not(.v13-errors){min-width:580px}html body #chat .admonition{margin:18px 0!important;padding:14px!important}html body #chat .admonitionTitle{font-size:17px}}
 
-html body #chat .bot-message > :is(h1,h2,h3,h4,p):first-child::before{content:"";display:inline-block;width:40px;height:48px;background:url("../Mascotteredim.png") center/contain no-repeat;vertical-align:middle;margin:0 14px 4px 0}
-#civi-show-now{display:none;position:fixed;right:16px;bottom:112px;z-index:11;font-size:14px;padding:10px 14px;margin:0;box-shadow:0 3px 12px #64203222!important}body.typewriter-active #civi-show-now{display:block}body.nova-results #civi-show-now{display:none!important}
-@media(max-width:600px){html body #chat .bot-message > :is(h1,h2,h3,h4,p):first-child::before{width:34px;height:42px;margin-right:10px}#civi-show-now{right:12px;bottom:108px}}
+html body #chat .bot-message .civi-message-mascot{display:inline-block!important;width:40px!important;height:48px!important;max-width:40px!important;object-fit:contain!important;vertical-align:middle!important;margin:0 14px 4px 0!important;background:transparent!important;border:0!important;box-shadow:none!important}
+#civi-show-now{display:none;position:fixed;left:50%;right:auto;transform:translateX(-50%);bottom:112px;max-width:calc(100% - 24px);white-space:normal;text-align:center;z-index:11;font-size:14px;padding:10px 14px;margin:0;box-shadow:0 3px 12px #64203222!important}body.typewriter-active #civi-show-now{display:block}body.nova-results #civi-show-now{display:none!important}
+@media(max-width:600px){html body #chat .bot-message .civi-message-mascot{width:34px!important;max-width:34px!important;height:42px!important;margin-right:10px!important}#civi-show-now{left:50%;right:auto}}
+
+html body #footer{height:auto!important;min-height:19px;line-height:1.4!important;white-space:normal!important;text-wrap:balance;padding:3px 4px!important;font-size:11px!important}

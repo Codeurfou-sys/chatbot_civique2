@@ -2,7 +2,7 @@
 ### 💡 Conseils pour réussir
 
 :::info ⌨️ Conseil de navigation
-Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
+Pour afficher immédiatement toute la réponse et les choix, cliquez sur **« Afficher toute la réponse »**, en bas du chatbot. Sur ordinateur, vous pouvez aussi appuyer sur la touche **⏎ Entrée** de votre clavier.
 :::
 
 Choisissez le conseil qui correspond à votre besoin du moment. Chaque rubrique propose une méthode courte et directement applicable.
@@ -63,7 +63,7 @@ Priorisez les thèmes faibles repérés dans votre bilan. Faites des séries cou
 
 1. [🧭 Identifier mes priorités avec un bilan](SCR_BIL_MENU)
 2. [📚 Choisir un thème de révision](SCR_REV_MENU)
-3. [🎯 M’entraîner](SCR_ENT_MENU)
+3. [📝 M’entraîner](SCR_ENT_MENU)
 4. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -88,7 +88,7 @@ Suivez les étapes dans l’ordre. Chaque partie contient une explication courte
 9. [📌 Retenir la méthode complète](SCR_CONS_MEMOIRE_09)
 10. [📚 Réviser une notion](SCR_REV_MENU)
 11. [📖 Consulter le glossaire](SCR_GLO_MENU)
-12. [🎯 Vérifier mes acquis](SCR_ENT_MENU)
+12. [📝 Vérifier mes acquis](SCR_ENT_MENU)
 13. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -218,7 +218,7 @@ Après une erreur :
 
 1. [🔁 Étape précédente](SCR_CONS_MEMOIRE_04)
 2. [🔗 Secret n°4 : faire des liens](SCR_CONS_MEMOIRE_06)
-3. [🎯 Faire un entraînement](SCR_ENT_MENU)
+3. [📝 Faire un entraînement](SCR_ENT_MENU)
 4. [🧠 Voir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
 
 1. [↩️ Retour aux conseils](SCR_CONS_MENU)
@@ -319,7 +319,7 @@ Pour chaque erreur, notez la question, votre confusion et la règle correcte. Re
 La mémoire n’est pas une question de chance : elle s’améliore grâce à une méthode régulière. Comprendre, retrouver, vérifier et espacer sont les quatre gestes essentiels.
 :::
 
-1. [🎯 Vérifier mes acquis](SCR_ENT_MENU)
+1. [📝 Vérifier mes acquis](SCR_ENT_MENU)
 2. [📚 Réviser une notion](SCR_REV_MENU)
 3. [😴 Étape précédente](SCR_CONS_MEMOIRE_08)
 4. [🧠 Revoir toutes les étapes](SCR_CONS_MEMOIRE_MENU)
@@ -371,8 +371,8 @@ Une proposition peut contenir une idée correcte mais répondre imparfaitement �
 Vous disposez d’un peu plus d’une minute par question. Si vous hésitez, restez calme, éliminez les réponses incohérentes et faites le meilleur choix possible.
 :::
 
-1. [🎯 Faire un entraînement](SCR_ENT_MENU)
-2. [🏛️ Faire un examen blanc](SCR_PREP_MENU)
+1. [📝 Faire un entraînement](SCR_ENT_MENU)
+2. [🎯 Faire un examen blanc](SCR_PREP_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -394,7 +394,7 @@ Les mises en situation vérifient votre capacité à appliquer une règle civiqu
 Si une situation concerne une discrimination, demandez-vous quelle réponse protège l’égalité, la dignité de la personne et le respect de la loi.
 :::
 
-1. [🎯 M’entraîner aux mises en situation](SCR_ENT_MENU)
+1. [📝 M’entraîner aux mises en situation](SCR_ENT_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -416,7 +416,7 @@ Une erreur corrigée vous indique exactement ce que vous devez retravailler. L�
 :::
 
 1. [📚 Réviser mes points faibles](SCR_PARCOURS_FAIBLES)
-2. [🎯 Faire un entraînement](SCR_ENT_MENU)
+2. [📝 Faire un entraînement](SCR_ENT_MENU)
 3. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
@@ -445,7 +445,7 @@ Ne récitez pas un texte appris par cœur et n’inventez pas une réponse. Une 
 1. [⚖️ Droits et devoirs](SCR_REV_T3_MENU)
 1. [🗺️ Histoire, géographie et culture](SCR_REV_T4_MENU)
 1. [🤝 Vivre dans la société française](SCR_REV_T5_MENU)
-3. [🎯 M’entraîner](SCR_ENT_MENU)
+3. [📝 M’entraîner](SCR_ENT_MENU)
 4. [↩️ Retour aux conseils](SCR_CONS_MENU)
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)

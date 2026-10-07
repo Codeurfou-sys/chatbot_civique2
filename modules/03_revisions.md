@@ -2,7 +2,7 @@
 ### 📚 Commencer mes révisions
 
 :::info ⌨️ Conseil de navigation
-Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
+Pour afficher immédiatement toute la réponse et les choix, cliquez sur **« Afficher toute la réponse »**, en bas du chatbot. Sur ordinateur, vous pouvez aussi appuyer sur la touche **⏎ Entrée** de votre clavier.
 :::
 
 Choisissez une thématique, puis un chapitre. Chaque chapitre suit la même structure pédagogique.

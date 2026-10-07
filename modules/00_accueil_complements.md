@@ -1,5 +1,5 @@
 ## SCR_ACC_AIDE
-### Comment utiliser le Coach ?
+### ℹ️ Comment utiliser le Coach ?
 
 Choisissez une rubrique selon votre besoin. Utilisez les boutons de retour pour changer d’activité.
 

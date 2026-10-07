@@ -1,5 +1,5 @@
 ## SCR_ENT_MENU
-### 🎯 M’entraîner
+### 📝 M’entraîner
 
 1. [📚 Entraînement par examen](SCR_ENT_THEME_EXAM)
 1. [🎚️ Entraînement complet par niveau](SCR_ENT_LEVEL_EXAM)

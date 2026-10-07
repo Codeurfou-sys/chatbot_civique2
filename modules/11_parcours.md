@@ -523,7 +523,7 @@ Aucune thématique n’est en dessous de 4/5. Votre parcours vous propose de con
 
 `if !@trainDisponible`
 Terminez un entraînement pour obtenir votre plan.
-1. [🎯 M’entraîner](SCR_ENT_MENU)
+1. [📝 M’entraîner](SCR_ENT_MENU)
 `endif`
 `if @trainDisponible`
 Votre parcours reprend votre dernier entraînement terminé dans cette session. Les thématiques évaluées sont classées par pourcentage croissant. Une ou deux réponses ne suffisent pas à garantir la maîtrise : confirmez vos acquis avec d’autres séries.
@@ -744,7 +744,7 @@ Votre parcours reprend votre dernier entraînement terminé dans cette session. 
 
 `if !@trainDisponible`
 Terminez un entraînement pour obtenir un plan adapté.
-1. [🎯 M’entraîner](SCR_ENT_MENU)
+1. [📝 M’entraîner](SCR_ENT_MENU)
 `endif`
 `if @trainDisponible`
 `if @trainTotal1 > 0`
@@ -843,7 +843,7 @@ Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un
 
 `if !@trainDisponible`
 Terminez un entraînement pour obtenir un plan adapté.
-1. [🎯 M’entraîner](SCR_ENT_MENU)
+1. [📝 M’entraîner](SCR_ENT_MENU)
 `endif`
 `if @trainDisponible`
 `if @trainTotal2 > 0`
@@ -942,7 +942,7 @@ Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un
 
 `if !@trainDisponible`
 Terminez un entraînement pour obtenir un plan adapté.
-1. [🎯 M’entraîner](SCR_ENT_MENU)
+1. [📝 M’entraîner](SCR_ENT_MENU)
 `endif`
 `if @trainDisponible`
 `if @trainTotal3 > 0`
@@ -1041,7 +1041,7 @@ Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un
 
 `if !@trainDisponible`
 Terminez un entraînement pour obtenir un plan adapté.
-1. [🎯 M’entraîner](SCR_ENT_MENU)
+1. [📝 M’entraîner](SCR_ENT_MENU)
 `endif`
 `if @trainDisponible`
 `if @trainTotal4 > 0`
@@ -1140,7 +1140,7 @@ Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un
 
 `if !@trainDisponible`
 Terminez un entraînement pour obtenir un plan adapté.
-1. [🎯 M’entraîner](SCR_ENT_MENU)
+1. [📝 M’entraîner](SCR_ENT_MENU)
 `endif`
 `if @trainDisponible`
 `if @trainTotal5 > 0`

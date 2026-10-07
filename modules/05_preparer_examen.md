@@ -1,8 +1,8 @@
 ## SCR_PREP_MENU
-### 🏛️ Passer un examen blanc
+### 🎯 Passer un examen blanc
 
 :::info ⌨️ Conseil de navigation
-Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
+Pour afficher immédiatement toute la réponse et les choix, cliquez sur **« Afficher toute la réponse »**, en bas du chatbot. Sur ordinateur, vous pouvez aussi appuyer sur la touche **⏎ Entrée** de votre clavier.
 :::
 
 Choisissez l’examen que vous préparez.

@@ -2,7 +2,7 @@
 ### 🧭 Mon bilan
 
 :::info ⌨️ Conseil de navigation
-Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
+Pour afficher immédiatement toute la réponse et les choix, cliquez sur **« Afficher toute la réponse »**, en bas du chatbot. Sur ordinateur, vous pouvez aussi appuyer sur la touche **⏎ Entrée** de votre clavier.
 :::
 
 Choisissez le bilan adapté à votre situation.
