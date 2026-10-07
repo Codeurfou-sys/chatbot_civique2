@@ -764,46 +764,106 @@
             ],
             "answer": "Eugène Delacroix",
             "explanation": "La Liberté guidant le peuple, Eugène Delacroix, 1830. Reproduction extraite de votre support de formation civique, page 95.",
-            "work": "La Liberté guidant le peuple"
+            "work": "La Liberté guidant le peuple",
+            "distractors": [
+              "Claude Monet",
+              "Paul Cézanne",
+              "Auguste Renoir",
+              "Édouard Manet",
+              "Edgar Degas",
+              "Camille Pissarro",
+              "Alfred Sisley",
+              "Berthe Morisot",
+              "Gustave Courbet",
+              "Henri Matisse",
+              "Paul Gauguin",
+              "Georges Seurat",
+              "Henri de Toulouse-Lautrec"
+            ]
           },
           {
             "prompt": "Quel artiste a peint cette œuvre ?",
             "image": "assets/monet.jpeg",
             "options": [
-              "Eugène Delacroix",
               "Claude Monet",
+              "Eugène Delacroix",
               "Paul Cézanne",
               "Auguste Renoir"
             ],
             "answer": "Claude Monet",
             "explanation": "Nymphéas bleus, Claude Monet, 1919. Reproduction extraite de votre support de formation civique, page 95.",
-            "work": "Nymphéas bleus"
+            "work": "Nymphéas bleus",
+            "distractors": [
+              "Eugène Delacroix",
+              "Paul Cézanne",
+              "Auguste Renoir",
+              "Édouard Manet",
+              "Edgar Degas",
+              "Camille Pissarro",
+              "Alfred Sisley",
+              "Berthe Morisot",
+              "Gustave Courbet",
+              "Henri Matisse",
+              "Paul Gauguin",
+              "Georges Seurat",
+              "Henri de Toulouse-Lautrec"
+            ]
           },
           {
             "prompt": "Quel artiste a peint cette œuvre ?",
             "image": "assets/cezanne.jpeg",
             "options": [
+              "Paul Cézanne",
               "Eugène Delacroix",
               "Claude Monet",
-              "Paul Cézanne",
               "Auguste Renoir"
             ],
             "answer": "Paul Cézanne",
             "explanation": "Les Joueurs de cartes, Paul Cézanne, vers 1895. Reproduction extraite de votre support de formation civique, page 96.",
-            "work": "Les Joueurs de cartes"
+            "work": "Les Joueurs de cartes",
+            "distractors": [
+              "Eugène Delacroix",
+              "Claude Monet",
+              "Auguste Renoir",
+              "Édouard Manet",
+              "Edgar Degas",
+              "Camille Pissarro",
+              "Alfred Sisley",
+              "Berthe Morisot",
+              "Gustave Courbet",
+              "Henri Matisse",
+              "Paul Gauguin",
+              "Georges Seurat",
+              "Henri de Toulouse-Lautrec"
+            ]
           },
           {
             "prompt": "Quel artiste a peint cette œuvre ?",
             "image": "assets/renoir.jpeg",
             "options": [
+              "Auguste Renoir",
               "Eugène Delacroix",
               "Claude Monet",
-              "Paul Cézanne",
-              "Auguste Renoir"
+              "Paul Cézanne"
             ],
             "answer": "Auguste Renoir",
             "explanation": "Le Déjeuner des canotiers, Auguste Renoir, 1881. Reproduction extraite de votre support de formation civique, page 96.",
-            "work": "Le Déjeuner des canotiers"
+            "work": "Le Déjeuner des canotiers",
+            "distractors": [
+              "Eugène Delacroix",
+              "Claude Monet",
+              "Paul Cézanne",
+              "Édouard Manet",
+              "Edgar Degas",
+              "Camille Pissarro",
+              "Alfred Sisley",
+              "Berthe Morisot",
+              "Gustave Courbet",
+              "Henri Matisse",
+              "Paul Gauguin",
+              "Georges Seurat",
+              "Henri de Toulouse-Lautrec"
+            ]
           }
         ]
       },
@@ -981,7 +1041,7 @@
       {
         "type": "books",
         "title": "Retrouvez l’auteur de chaque livre",
-        "instructions": "Observez la couverture et son titre. Le nom de l’auteur est absent : choisissez-le parmi les propositions. Les couvertures sont des créations pédagogiques, pas des éditions commerciales.",
+        "instructions": "Observez la couverture et son titre. Le nom de l’auteur est masqué : choisissez-le parmi les propositions.",
         "items": [
           {
             "prompt": "Qui a écrit « L’Étranger » ?",
@@ -989,9 +1049,9 @@
             "image": "assets/couvertures/etranger.jpg",
             "options": [
               "Albert Camus",
-              "Marguerite Yourcenar",
-              "Victor Hugo",
-              "Charles Baudelaire"
+              "Jean-Paul Sartre",
+              "André Malraux",
+              "André Gide"
             ],
             "answer": "Albert Camus",
             "explanation": "Albert Camus est l’auteur de L’Étranger. Cette œuvre figure dans les notions du chapitre.",
@@ -999,7 +1059,18 @@
               "top": 1,
               "height": 8
             },
-            "source": "https://openlibrary.org/dev/docs/api/covers"
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Jean-Paul Sartre",
+              "André Malraux",
+              "André Gide",
+              "Boris Vian",
+              "Romain Gary",
+              "Marcel Proust",
+              "Marguerite Duras",
+              "Victor Hugo",
+              "Marguerite Yourcenar"
+            ]
           },
           {
             "prompt": "Qui a écrit « Mémoires d’Hadrien » ?",
@@ -1007,9 +1078,9 @@
             "image": "assets/couvertures/hadrien.jpg",
             "options": [
               "Marguerite Yourcenar",
-              "Albert Camus",
-              "Victor Hugo",
-              "Charles Baudelaire"
+              "Marguerite Duras",
+              "Colette",
+              "Simone de Beauvoir"
             ],
             "answer": "Marguerite Yourcenar",
             "explanation": "Marguerite Yourcenar est l’auteur de Mémoires d’Hadrien. Cette œuvre figure dans les notions du chapitre.",
@@ -1017,7 +1088,18 @@
               "top": 1,
               "height": 9
             },
-            "source": "https://openlibrary.org/dev/docs/api/covers"
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Marguerite Duras",
+              "Colette",
+              "Simone de Beauvoir",
+              "Françoise Sagan",
+              "Annie Ernaux",
+              "Albert Camus",
+              "André Gide",
+              "Gustave Flaubert",
+              "Victor Hugo"
+            ]
           },
           {
             "prompt": "Qui a écrit « Les Misérables » ?",
@@ -1025,9 +1107,9 @@
             "image": "assets/couvertures/miserables.jpg",
             "options": [
               "Victor Hugo",
-              "Albert Camus",
-              "Marguerite Yourcenar",
-              "Charles Baudelaire"
+              "Émile Zola",
+              "Honoré de Balzac",
+              "Alexandre Dumas"
             ],
             "answer": "Victor Hugo",
             "explanation": "Victor Hugo est l’auteur de Les Misérables. Cette œuvre figure dans les notions du chapitre.",
@@ -1035,7 +1117,18 @@
               "top": 6,
               "height": 8
             },
-            "source": "https://openlibrary.org/dev/docs/api/covers"
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Émile Zola",
+              "Honoré de Balzac",
+              "Alexandre Dumas",
+              "Gustave Flaubert",
+              "Stendhal",
+              "George Sand",
+              "Guy de Maupassant",
+              "Albert Camus",
+              "Marguerite Yourcenar"
+            ]
           },
           {
             "prompt": "Qui a écrit « Les Fleurs du mal » ?",
@@ -1043,8 +1136,8 @@
             "image": "assets/couvertures/fleurs.jpg",
             "options": [
               "Charles Baudelaire",
-              "Albert Camus",
-              "Marguerite Yourcenar",
+              "Arthur Rimbaud",
+              "Paul Verlaine",
               "Victor Hugo"
             ],
             "answer": "Charles Baudelaire",
@@ -1053,7 +1146,17 @@
               "top": 14,
               "height": 6
             },
-            "source": "https://openlibrary.org/dev/docs/api/covers"
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Arthur Rimbaud",
+              "Paul Verlaine",
+              "Victor Hugo",
+              "Guillaume Apollinaire",
+              "Paul Éluard",
+              "Jacques Prévert",
+              "Stéphane Mallarmé",
+              "Jean de La Fontaine"
+            ]
           },
           {
             "prompt": "Qui a écrit « La Mare au diable » ?",
@@ -1061,9 +1164,9 @@
             "image": "assets/couvertures/mare.jpg",
             "options": [
               "George Sand",
-              "Albert Camus",
-              "Marguerite Yourcenar",
-              "Victor Hugo"
+              "Colette",
+              "Gustave Flaubert",
+              "Honoré de Balzac"
             ],
             "answer": "George Sand",
             "explanation": "George Sand est l’auteur de La Mare au diable. Cette œuvre figure dans les notions du chapitre.",
@@ -1071,7 +1174,18 @@
               "top": 2,
               "height": 10
             },
-            "source": "https://www.cercle-enseignement.com/Ouvrages/Gallimard/Folio-classique/La-Mare-au-Diable"
+            "source": "https://www.cercle-enseignement.com/Ouvrages/Gallimard/Folio-classique/La-Mare-au-Diable",
+            "distractors": [
+              "Colette",
+              "Gustave Flaubert",
+              "Honoré de Balzac",
+              "Guy de Maupassant",
+              "Émile Zola",
+              "Stendhal",
+              "Alexandre Dumas",
+              "Victor Hugo",
+              "Marguerite Yourcenar"
+            ]
           },
           {
             "prompt": "Qui a écrit « Le Deuxième Sexe » ?",
@@ -1079,9 +1193,9 @@
             "image": "assets/couvertures/deuxieme.jpg",
             "options": [
               "Simone de Beauvoir",
-              "Albert Camus",
               "Marguerite Yourcenar",
-              "Victor Hugo"
+              "Marguerite Duras",
+              "Colette"
             ],
             "answer": "Simone de Beauvoir",
             "explanation": "Simone de Beauvoir est l’auteur de Le Deuxième Sexe. Cette œuvre figure dans les notions du chapitre.",
@@ -1089,7 +1203,17 @@
               "top": 4,
               "height": 19
             },
-            "source": "https://openlibrary.org/dev/docs/api/covers"
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Marguerite Yourcenar",
+              "Marguerite Duras",
+              "Colette",
+              "Annie Ernaux",
+              "Françoise Sagan",
+              "Jean-Paul Sartre",
+              "Albert Camus",
+              "Simone Weil"
+            ]
           },
           {
             "prompt": "Qui a écrit « Tartuffe » ?",
@@ -1097,9 +1221,9 @@
             "image": "assets/couvertures/tartuffe.jpg",
             "options": [
               "Molière",
-              "Albert Camus",
-              "Marguerite Yourcenar",
-              "Victor Hugo"
+              "Jean Racine",
+              "Pierre Corneille",
+              "Pierre de Marivaux"
             ],
             "answer": "Molière",
             "explanation": "Molière est l’auteur de Tartuffe. Cette œuvre figure dans les notions du chapitre.",
@@ -1107,7 +1231,17 @@
               "top": 12,
               "height": 7
             },
-            "source": "https://openlibrary.org/dev/docs/api/covers"
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Jean Racine",
+              "Pierre Corneille",
+              "Pierre de Marivaux",
+              "Pierre-Augustin Caron de Beaumarchais",
+              "Alfred de Musset",
+              "Edmond Rostand",
+              "Victor Hugo",
+              "Jean Anouilh"
+            ]
           },
           {
             "prompt": "Qui a écrit les Fables, dont « Le Corbeau et le Renard » ?",
@@ -1115,9 +1249,9 @@
             "image": "assets/couvertures/fables.jpg",
             "options": [
               "Jean de La Fontaine",
-              "Albert Camus",
-              "Marguerite Yourcenar",
-              "Victor Hugo"
+              "Charles Perrault",
+              "Jean Racine",
+              "Pierre Corneille"
             ],
             "answer": "Jean de La Fontaine",
             "explanation": "Jean de La Fontaine est l’auteur de Le Corbeau et le Renard. Cette œuvre figure dans les notions du chapitre.",
@@ -1126,7 +1260,17 @@
               "height": 14
             },
             "source": "https://openlibrary.org/dev/docs/api/covers",
-            "maskTitle": "Fables"
+            "maskTitle": "Fables",
+            "distractors": [
+              "Charles Perrault",
+              "Jean Racine",
+              "Pierre Corneille",
+              "Molière",
+              "Charles Baudelaire",
+              "Victor Hugo",
+              "Jacques Prévert",
+              "Guillaume Apollinaire"
+            ]
           }
         ]
       }
@@ -1789,7 +1933,7 @@
       {
         "type": "select-symbols",
         "title": "Retrouvez les symboles officiels de la République",
-        "instructions": "Parmi ces dix images, sélectionnez les quatre symboles officiels demandés dans ce chapitre : le drapeau tricolore, l’hymne national, la devise et Marianne. Cliquez ensuite sur « Valider mes choix ».",
+        "instructions": "Parmi ces dix images, sélectionnez les quatre symboles officiels de la République.",
         "items": [
           {
             "icon": "drapeau",
