@@ -986,7 +986,7 @@
           {
             "prompt": "Qui a écrit « L’Étranger » ?",
             "work": "L’Étranger",
-            "image": "assets/livre-etranger.svg",
+            "image": "assets/couvertures/etranger.jpg",
             "options": [
               "Albert Camus",
               "Marguerite Yourcenar",
@@ -994,12 +994,17 @@
               "Charles Baudelaire"
             ],
             "answer": "Albert Camus",
-            "explanation": "Albert Camus est l’auteur de L’Étranger. Cette œuvre figure dans les notions du chapitre."
+            "explanation": "Albert Camus est l’auteur de L’Étranger. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 1,
+              "height": 8
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers"
           },
           {
             "prompt": "Qui a écrit « Mémoires d’Hadrien » ?",
             "work": "Mémoires d’Hadrien",
-            "image": "assets/livre-hadrien.svg",
+            "image": "assets/couvertures/hadrien.jpg",
             "options": [
               "Marguerite Yourcenar",
               "Albert Camus",
@@ -1007,12 +1012,17 @@
               "Charles Baudelaire"
             ],
             "answer": "Marguerite Yourcenar",
-            "explanation": "Marguerite Yourcenar est l’auteur de Mémoires d’Hadrien. Cette œuvre figure dans les notions du chapitre."
+            "explanation": "Marguerite Yourcenar est l’auteur de Mémoires d’Hadrien. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 1,
+              "height": 9
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers"
           },
           {
             "prompt": "Qui a écrit « Les Misérables » ?",
             "work": "Les Misérables",
-            "image": "assets/livre-miserables.svg",
+            "image": "assets/couvertures/miserables.jpg",
             "options": [
               "Victor Hugo",
               "Albert Camus",
@@ -1020,12 +1030,17 @@
               "Charles Baudelaire"
             ],
             "answer": "Victor Hugo",
-            "explanation": "Victor Hugo est l’auteur de Les Misérables. Cette œuvre figure dans les notions du chapitre."
+            "explanation": "Victor Hugo est l’auteur de Les Misérables. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 6,
+              "height": 8
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers"
           },
           {
             "prompt": "Qui a écrit « Les Fleurs du mal » ?",
             "work": "Les Fleurs du mal",
-            "image": "assets/livre-fleurs.svg",
+            "image": "assets/couvertures/fleurs.jpg",
             "options": [
               "Charles Baudelaire",
               "Albert Camus",
@@ -1033,12 +1048,17 @@
               "Victor Hugo"
             ],
             "answer": "Charles Baudelaire",
-            "explanation": "Charles Baudelaire est l’auteur de Les Fleurs du mal. Cette œuvre figure dans les notions du chapitre."
+            "explanation": "Charles Baudelaire est l’auteur de Les Fleurs du mal. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 14,
+              "height": 6
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers"
           },
           {
             "prompt": "Qui a écrit « La Mare au diable » ?",
             "work": "La Mare au diable",
-            "image": "assets/livre-mare.svg",
+            "image": "assets/couvertures/mare.jpg",
             "options": [
               "George Sand",
               "Albert Camus",
@@ -1046,12 +1066,17 @@
               "Victor Hugo"
             ],
             "answer": "George Sand",
-            "explanation": "George Sand est l’auteur de La Mare au diable. Cette œuvre figure dans les notions du chapitre."
+            "explanation": "George Sand est l’auteur de La Mare au diable. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 2,
+              "height": 10
+            },
+            "source": "https://www.cercle-enseignement.com/Ouvrages/Gallimard/Folio-classique/La-Mare-au-Diable"
           },
           {
             "prompt": "Qui a écrit « Le Deuxième Sexe » ?",
             "work": "Le Deuxième Sexe",
-            "image": "assets/livre-deuxieme.svg",
+            "image": "assets/couvertures/deuxieme.jpg",
             "options": [
               "Simone de Beauvoir",
               "Albert Camus",
@@ -1059,12 +1084,17 @@
               "Victor Hugo"
             ],
             "answer": "Simone de Beauvoir",
-            "explanation": "Simone de Beauvoir est l’auteur de Le Deuxième Sexe. Cette œuvre figure dans les notions du chapitre."
+            "explanation": "Simone de Beauvoir est l’auteur de Le Deuxième Sexe. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 4,
+              "height": 19
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers"
           },
           {
             "prompt": "Qui a écrit « Tartuffe » ?",
             "work": "Tartuffe",
-            "image": "assets/livre-tartuffe.svg",
+            "image": "assets/couvertures/tartuffe.jpg",
             "options": [
               "Molière",
               "Albert Camus",
@@ -1072,12 +1102,17 @@
               "Victor Hugo"
             ],
             "answer": "Molière",
-            "explanation": "Molière est l’auteur de Tartuffe. Cette œuvre figure dans les notions du chapitre."
+            "explanation": "Molière est l’auteur de Tartuffe. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 12,
+              "height": 7
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers"
           },
           {
-            "prompt": "Qui a écrit « Le Corbeau et le Renard » ?",
-            "work": "Le Corbeau et le Renard",
-            "image": "assets/livre-fables.svg",
+            "prompt": "Qui a écrit les Fables, dont « Le Corbeau et le Renard » ?",
+            "work": "Fables",
+            "image": "assets/couvertures/fables.jpg",
             "options": [
               "Jean de La Fontaine",
               "Albert Camus",
@@ -1085,7 +1120,13 @@
               "Victor Hugo"
             ],
             "answer": "Jean de La Fontaine",
-            "explanation": "Jean de La Fontaine est l’auteur de Le Corbeau et le Renard. Cette œuvre figure dans les notions du chapitre."
+            "explanation": "Jean de La Fontaine est l’auteur de Le Corbeau et le Renard. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 0,
+              "height": 14
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "maskTitle": "Fables"
           }
         ]
       }
@@ -1352,7 +1393,7 @@
             "prompt": "Retrouvez le montant net imposable.",
             "target": "imposable",
             "label": "Net imposable : 1 650 €",
-            "explanation": "Le net imposable est la base du prélèvement à la source. Il peut différer du net avant impôt."
+            "explanation": "Le net imposable est de 1 650 €. Dans ce bulletin fictif, 1 600 € nets avant impôt + 50 € de CSG non déductible = 1 650 €. Cette contribution a été retirée du salaire versé, mais ne réduit pas la base imposable."
           },
           {
             "prompt": "Retrouvez le taux du prélèvement à la source.",
@@ -1747,68 +1788,78 @@
       },
       {
         "type": "select-symbols",
-        "title": "Retrouvez les symboles institutionnels de la République",
-        "instructions": "Parmi ces dix images, sélectionnez les quatre symboles institutionnels étudiés dans ce chapitre, puis cliquez sur « Valider mes choix ». Les autres images renvoient au patrimoine ou à l’histoire de la France. Le corrigé précise ces distinctions.",
+        "title": "Retrouvez les symboles officiels de la République",
+        "instructions": "Parmi ces dix images, sélectionnez les quatre symboles officiels demandés dans ce chapitre : le drapeau tricolore, l’hymne national, la devise et Marianne. Cliquez ensuite sur « Valider mes choix ».",
         "items": [
           {
             "icon": "drapeau",
             "label": "Le drapeau tricolore",
             "correct": true,
-            "explanation": "Le drapeau bleu, blanc, rouge est l’emblème national."
+            "explanation": "Le drapeau bleu, blanc, rouge est l’emblème national.",
+            "image": "assets/symboles/flag.svg"
           },
           {
             "icon": "marianne",
             "label": "Marianne",
             "correct": true,
-            "explanation": "Marianne personnifie la République et apparaît dans les institutions publiques."
+            "explanation": "Marianne est un symbole officiel de la République : elle la personnifie et se trouve notamment dans les mairies. Elle est à sélectionner.",
+            "image": "assets/symboles/marianne.svg"
           },
           {
             "icon": "devise",
             "label": "Liberté, Égalité, Fraternité",
             "correct": true,
-            "explanation": "Il s’agit de la devise de la République."
+            "explanation": "Il s’agit de la devise de la République.",
+            "image": "assets/symboles/devise.svg"
           },
           {
             "icon": "hymne",
             "label": "La Marseillaise",
             "correct": true,
-            "explanation": "La Marseillaise est l’hymne national."
+            "explanation": "La Marseillaise est l’hymne national.",
+            "image": "assets/symboles/hymn.svg"
           },
           {
             "icon": "coq",
             "label": "Le coq",
             "correct": false,
-            "explanation": "Le coq est un emblème historique de la France, également présenté par l’Élysée parmi les symboles républicains ; il n’est pas l’emblème national défini par la Constitution. Il n’est pas l’un des quatre symboles institutionnels demandés ici."
+            "explanation": "Le coq est un emblème historique et culturel de la France. Il ne fait pas partie des quatre symboles officiels à sélectionner dans cet exercice.",
+            "image": "assets/symboles/coq.svg"
           },
           {
             "icon": "baguette",
             "label": "La baguette",
             "correct": false,
-            "explanation": "La baguette relève du patrimoine culturel et gastronomique."
+            "explanation": "La baguette relève du patrimoine culturel et gastronomique.",
+            "image": "assets/symboles/baguette.svg"
           },
           {
             "icon": "tour",
             "label": "La tour Eiffel",
             "correct": false,
-            "explanation": "La tour Eiffel est un monument emblématique de Paris et de la France."
+            "explanation": "La tour Eiffel est un monument emblématique de Paris et de la France.",
+            "image": "assets/symboles/tower.svg"
           },
           {
             "icon": "beret",
             "label": "Le béret",
             "correct": false,
-            "explanation": "Le béret est une représentation culturelle, pas l’un des quatre symboles institutionnels demandés."
+            "explanation": "Le béret est une représentation culturelle et vestimentaire ; il ne fait pas partie des quatre symboles officiels demandés.",
+            "image": "assets/symboles/beret.svg"
           },
           {
             "icon": "bonnet",
             "label": "Le bonnet phrygien",
             "correct": false,
-            "explanation": "Le bonnet phrygien symbolise historiquement la liberté et coiffe Marianne. Pris seul, il n’est pas l’un des quatre symboles institutionnels demandés ici."
+            "explanation": "Le bonnet phrygien est un symbole historique de liberté et coiffe Marianne. Pris seul, il ne fait pas partie des quatre réponses demandées.",
+            "image": "assets/symboles/bonnet.svg"
           },
           {
             "icon": "croissant",
             "label": "Le croissant",
             "correct": false,
-            "explanation": "Le croissant appartient aux représentations gastronomiques de la France."
+            "explanation": "Le croissant appartient aux représentations gastronomiques de la France.",
+            "image": "assets/symboles/croissant.svg"
           }
         ]
       }
@@ -1986,6 +2037,110 @@
             "explanation": "Le français officiel et la pratique d’autres langues sont compatibles."
           }
         ]
+      },
+      {
+        "type": "languages-map",
+        "title": "Les langues régionales : une étiquette par région",
+        "instructions": "Chaque étiquette regroupe des langues traditionnellement parlées dans une région. Cliquez sur l’étiquette, puis sur la région correspondante, ou glissez-la sur la carte. Une seule étiquette est présentée à la fois. Les langues citées sont parlées dans des secteurs de la région, pas nécessairement sur tout son territoire.",
+        "items": [
+          {
+            "label": "Breton · gallo",
+            "target": "53",
+            "targets": [
+              "53"
+            ],
+            "explanation": "Bretagne : breton surtout à l’ouest, gallo surtout à l’est."
+          },
+          {
+            "label": "Normand",
+            "target": "28",
+            "targets": [
+              "28"
+            ],
+            "explanation": "Normandie : le normand fait partie des langues d’oïl."
+          },
+          {
+            "label": "Picard · flamand occidental",
+            "target": "32",
+            "targets": [
+              "32"
+            ],
+            "explanation": "Hauts-de-France : picard dans plusieurs parties de la région ; flamand occidental dans une partie du Nord."
+          },
+          {
+            "label": "Alsacien · francique · lorrain · champenois · wallon · franc-comtois",
+            "target": "44",
+            "targets": [
+              "44"
+            ],
+            "explanation": "Grand Est : alsacien en Alsace ; francique en Moselle ; lorrain et welche ; champenois et ardennais ; wallon dans la pointe de Givet. Le franc-comtois est également présent dans certaines communes du sud de l’Alsace."
+          },
+          {
+            "label": "Bourguignon-morvandiau · franc-comtois · francoprovençal",
+            "target": "27",
+            "targets": [
+              "27"
+            ],
+            "explanation": "Bourgogne-Franche-Comté : langues d’oïl bourguignon-morvandiau et franc-comtois ; francoprovençal dans une partie du Jura."
+          },
+          {
+            "label": "Gallo · poitevin-saintongeais",
+            "target": "52",
+            "targets": [
+              "52"
+            ],
+            "explanation": "Pays de la Loire : gallo dans une partie de la Loire-Atlantique ; poitevin-saintongeais notamment en Vendée. Les langues ne couvrent pas toute la région."
+          },
+          {
+            "label": "Parlers du Croissant (secteurs du Berry)",
+            "target": "24",
+            "targets": [
+              "24"
+            ],
+            "explanation": "Centre-Val de Loire : les parlers du Croissant concernent certains secteurs méridionaux du Berry, dans une zone de transition entre langues d’oïl et occitan."
+          },
+          {
+            "label": "Basque · poitevin-saintongeais · occitan (gascon, limousin) · parlers du Croissant",
+            "target": "75",
+            "targets": [
+              "75"
+            ],
+            "explanation": "Nouvelle-Aquitaine : basque dans les Pyrénées-Atlantiques ; poitevin-saintongeais au nord-ouest ; occitan gascon, béarnais et limousin dans leurs aires respectives ; parlers du Croissant au nord du Limousin."
+          },
+          {
+            "label": "Catalan · occitan (languedocien, gascon)",
+            "target": "76",
+            "targets": [
+              "76"
+            ],
+            "explanation": "Occitanie : catalan dans les Pyrénées-Orientales ; occitan languedocien et gascon dans différentes parties de la région."
+          },
+          {
+            "label": "Francoprovençal · occitan (auvergnat, vivaro-alpin) · parlers du Croissant",
+            "target": "84",
+            "targets": [
+              "84"
+            ],
+            "explanation": "Auvergne-Rhône-Alpes : francoprovençal notamment en Savoie et dans le Lyonnais ; occitan auvergnat et vivaro-alpin ; parlers du Croissant au nord du Massif central."
+          },
+          {
+            "label": "Occitan (provençal, vivaro-alpin) · parlers liguriens",
+            "target": "93",
+            "targets": [
+              "93"
+            ],
+            "explanation": "Provence-Alpes-Côte d’Azur : occitan provençal et vivaro-alpin ; parlers liguriens notamment autour de Menton et dans la vallée de la Roya."
+          },
+          {
+            "label": "Corse",
+            "target": "94",
+            "targets": [
+              "94"
+            ],
+            "explanation": "Corse : langue corse."
+          }
+        ],
+        "showOverseas": false
       }
     ]
   },

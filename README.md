@@ -1,6 +1,6 @@
-# Chatbot civique NovaFrate — expérience v18
+# Chatbot civique NovaFrate — expérience v19
 
-Version complète intégrant les nouveaux exercices, la reconnaissance des réponses écrites et la progression dans le chatbot.
+Version complète avec ouverture en grand, export PDF du parcours, nouvelle carte des langues régionales, symboles officiels illustrés et vraies couvertures de livres.
 
 ## Ouvrir le chatbot
 
@@ -20,10 +20,10 @@ Les fichiers de cette archive n’ont pas été poussés sur GitHub automatiquem
 
 ## Nouveautés
 
-Voir [MISE_A_JOUR_V18.md](MISE_A_JOUR_V18.md) pour le détail des 38 activités, les enrichissements et les contrôles.
+Voir [MISE_A_JOUR_V19.md](MISE_A_JOUR_V19.md) pour le détail des 38 activités, les enrichissements et les contrôles.
 
 - Notions utiles, activités et questions écrites sont séparées.
-- 38 activités : une pour la langue officielle, trois pour la culture et deux pour les autres chapitres. Corrigé expliqué accessible à tout moment.
+- 39 activités : deux pour la langue officielle, trois pour la culture et deux pour les autres chapitres. Corrigé expliqué accessible à tout moment.
 - Les cinq boutons de navigation suivent le même ordre.
 - Les 62 questions ouvertes restent séparées des activités. Leur reconnaissance accepte les notions essentielles et les formulations équivalentes. La question sur le coq distingue désormais le symbole historique de l’emblème constitutionnel.
 - Le chapitre culture intègre les artistes, œuvres, monuments et spécialités du support fourni.
@@ -40,7 +40,7 @@ Après modification d’un module, lancer à la racine du projet :
 python scripts/ameliorer_presentation.py
 ```
 
-Les activités se modifient dans `activites-revision/data.json` et leur interface dans `app.js`/`style.css`. La v17 ne contient pas de QCM de connaissances dans cette application : les questions écrites sont dans le module de révisions.
+Les activités se modifient dans `activites-revision/data.json` et leur interface dans `app.js`/`style.css`. Cette version ne contient pas de QCM de connaissances dans cette application : les questions écrites sont dans le module de révisions.
 
 ## Sauvegarde
 

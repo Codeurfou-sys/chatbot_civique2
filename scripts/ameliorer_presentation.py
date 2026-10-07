@@ -47,6 +47,7 @@ def presentation(text):
 def main():
  for p in Path('modules').glob('*.md'):p.write_text(presentation(p.read_text()))
  p=Path('chat_bot.md');text=presentation(p.read_text())
+ if 'nova-large-link' not in text.split('### 🚀 Que souhaitez-vous faire ?')[0]:text=text.replace('### 🚀 Que souhaitez-vous faire ?', '<p class=\"nova-large-link\"><a href=\"https://codeurfou-sys.github.io/chatbot_civique2/chatbot/\" target=\"_blank\" rel=\"noopener noreferrer\">↗ Ouvrir le chatbot en grand dans un nouvel onglet</a></p>\n\n### 🚀 Que souhaitez-vous faire ?',1)
  css='''
   /* Présentation NovaFrate : boutons, cartes et accessibilité clavier */
   .messageOptions { padding-left: 0 !important; display: flex; flex-direction: column; align-items: flex-start; gap: 10px; }

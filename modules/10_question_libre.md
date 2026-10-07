@@ -16,9 +16,15 @@
 !Keyboard: true
 ### Posez votre question
 
+<span class="nova-question-input" aria-hidden="true"></span>
+
 Dans cette rubrique, vous pouvez demander une explication simple ou une aide pour préparer l’examen.
 
 Écrivez votre question dans la barre de saisie, puis appuyez sur **Entrée** ou sur **Envoyer**. Par exemple : « Explique-moi le Parlement » ou « Combien coûte l’examen ? ».
+
+**Attendez quelques secondes après l’envoi : la réponse, les suggestions de rubriques et les boutons s’affichent progressivement. Attendez la fin de l’affichage avant de faire votre choix.**
+
+Pour poser une nouvelle question, cliquez sur **« Poser une autre question »** sous la réponse, puis écrivez votre question.
 
 `@qlQuestion = @INPUT : SCR_QL_ANSWER`
 
@@ -3844,6 +3850,7 @@ Organisation de la société pour permettre à chacun de participer, notamment a
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## SCR_QL_ANSWER
+<span class="nova-question-answer" aria-hidden="true"></span>
 !Keyboard: false
 `if @qlQuestion`
 `@qlNormalisee = calc(" "+normalizeText(@qlQuestion).replaceAll("œ","oe").replaceAll("æ","ae").replaceAll("«"," ").replaceAll("»"," ").replaceAll("’"," ").replaceAll("'"," ").replaceAll("-"," ").replaceAll("."," ").replaceAll("?"," ").replaceAll(","," ").replaceAll("!"," ").replaceAll(":"," ").replaceAll(";"," ").replaceAll("/"," ").replaceAll("("," ").replaceAll(")"," ").replaceAll("["," ").replaceAll("]"," ").replaceAll("\n"," ").replaceAll("\r"," ").replaceAll("\t"," ").replaceAll(" "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").trim()+" ")`
