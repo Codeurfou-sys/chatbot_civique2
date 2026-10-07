@@ -5,12 +5,11 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="Trouver les trois centres d'examen civique FRATE les plus proches.">
   <title>Trouver un centre d’examen civique</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=24">
 </head>
 <body>
   <main class="shell">
     <header>
-      <p class="eyebrow">Module 07 · Passer mon examen</p>
       <h1>Trouvez les centres les plus proches</h1>
       <p class="lead">Saisissez un code postal ou le nom de votre commune. Le calcul est effectué directement dans votre navigateur.</p>
     </header>
@@ -18,7 +17,7 @@
     <form id="search-form" role="search" novalidate>
       <label for="query">Code postal ou commune</label>
       <div class="search-row">
-        <input id="query" name="query" type="search" inputmode="search" autocomplete="postal-code" placeholder="Ex. 67370 ou Vichy" required>
+        <input id="query" name="query" type="search" inputmode="search" autocomplete="postal-code" placeholder="Ex. 25000 ou Besançon" required>
         <button type="submit">Rechercher</button>
       </div>
       <p class="hint">Les distances affichées sont à vol d’oiseau et servent à comparer les centres.</p>

@@ -1,0 +1,9 @@
+html body #chat .message{padding:18px!important;background:#fff!important;border:1px solid #eed6db!important;box-shadow:0 4px 18px #67212a0a!important;border-radius:18px!important;margin-bottom:18px}
+html body #chat .admonition{border-radius:15px!important;padding:0!important;border:1px solid #ead1d8!important;border-left:5px solid #a61c3c!important;box-shadow:0 4px 14px #6623260a!important;background:#fff8fa!important;margin:18px 0!important;overflow:hidden}
+html body #chat .admonitionTitle{padding:13px 17px!important;font-weight:750!important;background:#f9e9ed!important;color:#8e2540!important;border-bottom:1px solid #eed6dc}
+html body #chat .admonitionContent{padding:4px 17px 12px!important}
+html body #chat .admonition.info{background:#f5f9fd!important;border-left-color:#315d88!important}html body #chat .info .admonitionTitle{background:#eaf2fa!important;color:#315d88!important}
+html body #chat .admonition.warning{background:#fffbef!important;border-left-color:#93600b!important}html body #chat .warning .admonitionTitle{background:#fff2ce!important;color:#795008!important}
+html body #chat .admonition.success{background:#f2faf5!important;border-left-color:#28694f!important}html body #chat .success .admonitionTitle{background:#e6f4ec!important;color:#28694f!important}
+html body #chat table:not(.v13-errors){table-layout:auto!important;background:#fff!important}html body #chat table:not(.v13-errors) td,html body #chat table:not(.v13-errors) th{overflow-wrap:normal!important;word-break:normal!important;min-width:110px;padding:12px!important;font-size:15px;line-height:1.5}html body #chat .messageOptions{align-items:stretch}html body #chat .messageOptions li{width:100%}
+@media(max-width:600px){html body #chat .message{padding:14px!important}html body #chat table:not(.v13-errors){min-width:580px}html body #chat .admonitionTitle{padding:12px!important}html body #chat .admonitionContent{padding:2px 12px 10px!important}}

@@ -1,0 +1,15 @@
+'use strict';
+(function(root){
+const doc=root.document,results=new URLSearchParams(location.search).get('vue')==='resultats';
+function tables(){for(const table of doc.querySelectorAll('#chat table')){if(table.parentElement.classList.contains('civi-table-scroll'))continue;const box=doc.createElement('div');box.className='civi-table-scroll';box.tabIndex=0;box.setAttribute('role','region');box.setAttribute('aria-label','Tableau : faites défiler horizontalement pour lire toutes les colonnes');table.before(box);box.append(table);}}
+let queued=false;new MutationObserver(()=>{if(!queued){queued=true;requestAnimationFrame(()=>{queued=false;tables();});}}).observe(doc.getElementById('chat'),{childList:true,subtree:true});
+function capture(){const chat=doc.getElementById('chat');if(!chat.children.length)return;let nodes=[...chat.children],html=nodes.map(n=>n.outerHTML).join('');while(html.length>600000&&nodes.length>2){nodes.shift();html=nodes.map(n=>n.outerHTML).join('');}root.NovaSave.setResume({html,variables:root.NovaSave.exportData().variables,scroll:root.scrollY,controlsHidden:doc.body.classList.contains('hideControls'),updated:Date.now()});}
+function safeHTML(value){const parsed=new DOMParser().parseFromString(value,'text/html');for(const el of parsed.body.querySelectorAll('*')){if(['SCRIPT','STYLE','OBJECT','EMBED','BASE','META','LINK','FORM'].includes(el.tagName)){el.remove();continue;}for(const a of [...el.attributes]){if(/^on/i.test(a.name)||['srcdoc','autofocus'].includes(a.name))el.removeAttribute(a.name);if(['href','src','action'].includes(a.name)){try{const u=new URL(a.value,location.href);if(!['https:','http:'].includes(u.protocol)||(el.tagName==='IFRAME'&&u.origin!==location.origin))el.removeAttribute(a.name);}catch(e){el.removeAttribute(a.name);}}}}return parsed.body.innerHTML;}
+let resumed=false;const shouldResume=new URLSearchParams(location.search).get('reprendre')==='1';
+const old=root.NovaBoot.rendered;
+root.NovaBoot.rendered=function(node){old(node);if(!shouldResume||resumed||!node?.classList.contains('bot-message'))return;const state=root.NovaSave.exportData(),saved=state.resume;if(!saved||typeof saved.html!=='string'||saved.html.length>600000)return;resumed=true;setTimeout(()=>{const current=root.NovaSave.exportData();root.NovaSave.importData({...current,variables:saved.variables||state.variables},true);doc.getElementById('chat').innerHTML=safeHTML(saved.html);doc.body.classList.toggle('hideControls',!!saved.controlsHidden);tables();doc.getElementById('civicoach-loading').hidden=true;setTimeout(()=>root.scrollTo(0,Number(saved.scroll)||0),100);},30);};
+function returnFull(){if(root.opener&&!root.opener.closed){try{if(root.opener.location.origin===location.origin&&root.opener.parent===root.opener&&!new URLSearchParams(root.opener.location.search).has('vue')){root.opener.focus();root.close();return;}}catch(e){}}root.NovaLink.go('./?reprendre=1');}
+root.NovaResume={capture,returnFull};
+const link=doc.createElement('link');link.rel='stylesheet';link.href='presentation.css?v=24';doc.head.append(link);
+if(!results)root.addEventListener('pagehide',capture);
+})(window);
