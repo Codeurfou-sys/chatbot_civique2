@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+~$*.xlsx
+.build_chatmd/
+*.zip
+.DS_Store
+Thumbs.db

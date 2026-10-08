@@ -1,0 +1,28 @@
+/* Présentation d’origine : fond rose, messages transparents et boutons ajustés au texte. */
+html body,html body #chat{background:#fdf0f2!important}
+html body header{background:transparent!important}
+html body #chat .message{padding:0!important;background:transparent!important;border:0!important;box-shadow:none!important;border-radius:0!important;margin-bottom:24px;line-height:1.65}
+html body #chat .messageOptions{display:flex;flex-direction:column;align-items:flex-start!important;gap:10px}
+html body #chat .messageOptions li{width:auto!important;max-width:100%}
+html body #chat .messageOptions a{display:inline-block!important;width:auto!important;max-width:100%;padding:12px 18px!important;border:1px solid #e2a5b4!important;border-radius:18px!important;background:#fff!important;box-shadow:0 3px 10px #6420320d!important;font-size:18px;text-decoration:none!important}
+html body #chat .messageOptions a:hover{background:#fff5f7!important}
+/* Encadrés identiques aux captures : bordure colorée et fond teinté uniforme. */
+html body #chat .admonition{--civi-accent:#0064e8;--civi-tint:#ebe8f4;border:1px solid var(--civi-accent)!important;border-left:3px solid var(--civi-accent)!important;border-radius:4px!important;padding:16px 20px!important;box-shadow:0 3px 8px #34335418!important;background:var(--civi-tint)!important;margin:24px 18px!important;overflow:hidden}
+html body #chat .admonitionTitle{padding:0!important;font-weight:750!important;background:transparent!important;color:#2c3e50!important;border:0!important;font-size:19px}
+html body #chat .admonitionContent{padding:0!important}
+html body #chat .admonition.warning{--civi-accent:#d99c20;--civi-tint:#fff8e6}
+html body #chat .admonition.success{--civi-accent:#21835b;--civi-tint:#eaf5ef}
+html body #chat .admonition.danger,html body #chat .admonition.error{--civi-accent:#b21c1a;--civi-tint:#fae6e6}
+/* Les tableaux gardent leurs couleurs rosées et défilent sans déborder sur mobile. */
+html body #chat table:not(.v13-errors){table-layout:auto!important;background:transparent!important}
+html body #chat table:not(.v13-errors) td,html body #chat table:not(.v13-errors) th{overflow-wrap:normal!important;word-break:normal!important;min-width:110px;padding:12px!important;font-size:15px;line-height:1.5}
+html body #chat table:not(.v13-errors) td{background:transparent!important}
+html body #chat table:not(.v13-errors) tr:nth-child(even){background:#fff8fa!important}
+html body #chat table:not(.v13-errors) th{background:#f5e3e8!important}
+@media(max-width:600px){html body #chat .messageOptions a{font-size:16px;padding:12px 15px!important}html body #chat table:not(.v13-errors){min-width:580px}html body #chat .admonition{margin:18px 0!important;padding:14px!important}html body #chat .admonitionTitle{font-size:17px}}
+
+html body #chat .bot-message .civi-message-mascot{display:inline-block!important;width:40px!important;height:48px!important;max-width:40px!important;object-fit:contain!important;vertical-align:middle!important;margin:0 14px 4px 0!important;background:transparent!important;border:0!important;box-shadow:none!important}
+#civi-show-now{display:none;position:fixed;left:50%;right:auto;transform:translateX(-50%);bottom:112px;max-width:calc(100% - 24px);white-space:normal;text-align:center;z-index:11;font-size:14px;padding:10px 14px;margin:0;box-shadow:0 3px 12px #64203222!important}body.typewriter-active #civi-show-now{display:block}body.nova-results #civi-show-now{display:none!important}
+@media(max-width:600px){html body #chat .bot-message .civi-message-mascot{width:34px!important;max-width:34px!important;height:42px!important;margin-right:10px!important}#civi-show-now{left:50%;right:auto}}
+
+html body #footer{height:auto!important;min-height:19px;line-height:1.4!important;white-space:normal!important;text-wrap:balance;padding:3px 4px!important;font-size:11px!important}

@@ -1,0 +1,4 @@
+# Normalisation des fichiers texte. Aucun fichier du dépôt n'utilise Git LFS.
+* text=auto eol=lf
+*.xlsx -text
+*.png -text

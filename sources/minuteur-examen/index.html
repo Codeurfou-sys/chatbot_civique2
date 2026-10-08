@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Minuteur de l’examen blanc</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;padding:6px;font-family:Arial,sans-serif;background:transparent;color:#123047}
+    .timer{min-height:78px;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:12px 18px;border:1px solid #9fc7df;border-radius:14px;background:linear-gradient(135deg,#eef8ff,#fff);box-shadow:0 3px 10px rgba(19,71,104,.09)}
+    .label{font-size:14px;font-weight:700}.hint{margin-top:4px;font-size:12px;color:#516b7c}.time{font-variant-numeric:tabular-nums;font-size:28px;font-weight:800;color:#087ca7;white-space:nowrap}
+    .warning{border-color:#e6a73c;background:linear-gradient(135deg,#fff8e8,#fff)}.warning .time{color:#b76800}
+    .ended{border-color:#d65a5a;background:#fff1f1}.ended .time{color:#b42318;font-size:20px}
+    @media(max-width:420px){.timer{padding:10px 12px}.time{font-size:24px}.hint{display:none}}
+  </style>
+</head>
+<body>
+  <div class="timer" id="timer" role="timer" aria-live="polite">
+    <div><div class="label">⏱️ Temps restant</div><div class="hint">Examen blanc · 45 minutes</div></div>
+    <div class="time" id="time">45:00</div>
+  </div>
+  <script>
+    const key = "chatmd_examen_fin";
+    const params = new URLSearchParams(location.search);
+    if (params.get("start") === "1") localStorage.setItem(key, String(Date.now() + 45 * 60 * 1000));
+    let end = Number(localStorage.getItem(key));
+    if (!end) { end = Date.now() + 45 * 60 * 1000; localStorage.setItem(key, String(end)); }
+    const box = document.getElementById("timer");
+    const output = document.getElementById("time");
+    function update(){
+      const left = Math.max(0, end - Date.now());
+      const total = Math.ceil(left / 1000);
+      const minutes = Math.floor(total / 60);
+      const seconds = total % 60;
+      output.textContent = left ? `${String(minutes).padStart(2,"0")}:${String(seconds).padStart(2,"0")}` : "Temps écoulé";
+      box.classList.toggle("warning", left > 0 && left <= 5 * 60 * 1000);
+      box.classList.toggle("ended", left === 0);
+    }
+    update(); setInterval(update, 500);
+  </script>
+</body>
+</html>

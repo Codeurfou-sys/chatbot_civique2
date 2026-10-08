@@ -1,0 +1,101 @@
+name: Actualiser les sessions d'examen
+
+on:
+  schedule:
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: actualisation-sessions
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Protéger les autres rubriques
+        run: python scripts/validate_dates_update.py --snapshot
+
+      - name: Actualiser les sessions FRATE
+        run: |
+          mkdir -p .build_chatmd/export/data
+          cp recherche-centres/data/centres_geocodes.json .build_chatmd/export/data/centres_geocodes.json
+          python scripts/update_passer_examen.py \
+            --workbook sources/FICHIER_EXCEL_MOTEUR_CHAT_BOT.xlsx \
+            --output-workbook .build_chatmd/FICHIER_EXCEL_MOTEUR_CHAT_BOT_module07_actualise.xlsx \
+            --output-dir .build_chatmd/export \
+            --require-frate --skip-forms-check
+
+      - name: Régénérer les fichiers ChatMD
+        run: |
+          python scripts/export_chatmd.py \
+            --workbook .build_chatmd/FICHIER_EXCEL_MOTEUR_CHAT_BOT_module07_actualise.xlsx \
+            --output-dir .build_chatmd/export \
+            --force
+
+      - name: Appliquer la présentation validée au module 07
+        run: |
+          python scripts/postprocess_module07.py .build_chatmd/export/modules/07_passer_examen.md
+          python scripts/ajouter_retours.py --module .build_chatmd/export/modules/07_passer_examen.md
+
+      - name: Contrôler le module publié
+        run: python scripts/validate_passer_examen.py .build_chatmd/export/modules/07_passer_examen.md
+
+      - name: Actualiser uniquement le module 07 dans le chatbot V2
+        run: |
+          cp .build_chatmd/export/modules/07_passer_examen.md modules/07_passer_examen.md
+          cp .build_chatmd/export/data/sessions.json recherche-centres/data/sessions.json
+          cp .build_chatmd/export/data/centres_geocodes.json recherche-centres/data/centres_geocodes.json
+          python -c "from pathlib import Path; from scripts.ameliorer_presentation import presentation; p=Path('modules/07_passer_examen.md'); p.write_text(presentation(p.read_text()))"
+          python scripts/sync_module_into_chatbot.py chat_bot.md modules/07_passer_examen.md
+
+      - name: Contrôler les dates et préserver les autres rubriques
+        run: |
+          python scripts/validate_passer_examen.py modules/07_passer_examen.md
+          python scripts/validate_dates_update.py
+          python scripts/validate_chatbot_final.py
+          python scripts/validate_banques_examens.py
+
+      - name: Conserver le diagnostic en cas d’échec
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: diagnostic-sessions
+          path: .build_chatmd/
+          retention-days: 7
+
+      - name: Publier uniquement si les fichiers ont changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add modules/07_passer_examen.md chat_bot.md \
+            recherche-centres/data/sessions.json \
+            recherche-centres/data/centres_geocodes.json
+          if git diff --cached --quiet; then
+            echo "Aucune modification à publier."
+          else
+            git commit -m "Actualisation automatique des sessions d'examen"
+            git push
+          fi
+
+      - name: Reconstruire GitHub Pages et confirmer la publication
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/request_pages_build.py

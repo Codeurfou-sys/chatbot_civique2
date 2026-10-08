@@ -1,0 +1,25 @@
+const {chromium}=require(process.env.NOVA_PLAYWRIGHT_MODULE||'playwright');
+const fs=require('fs'),http=require('http'),path=require('path'),assert=require('assert');
+(async()=>{
+ const base=path.resolve(__dirname,'..'),output=path.join(base,'.build_ui');fs.mkdirSync(output,{recursive:true});
+ const data=JSON.parse(fs.readFileSync(base+'/activites-revision/data.json'));let origin;
+ const server=http.createServer((req,res)=>{let p=path.join(base,decodeURIComponent(new URL(req.url,origin).pathname));if(fs.existsSync(p)&&fs.statSync(p).isDirectory())p=path.join(p,'index.html');if(!fs.existsSync(p)){res.writeHead(404);res.end();return;}res.setHeader('Content-Type',({'.html':'text/html','.js':'application/javascript','.css':'text/css','.json':'application/json','.md':'text/plain','.svg':'image/svg+xml','.png':'image/png','.jpg':'image/jpeg'})[path.extname(p)]||'application/octet-stream');res.end(fs.readFileSync(p));});
+ await new Promise(r=>server.listen(0,'127.0.0.1',r));origin='http://127.0.0.1:'+server.address().port;
+ const browser=await chromium.launch({executablePath:process.env.PLAYWRIGHT_EXECUTABLE_PATH||undefined,headless:true,args:['--no-sandbox']});
+ const page=await browser.newPage({viewport:{width:740,height:950}}),errors=[];page.on('pageerror',e=>errors.push(e.message));
+ async function open(k,st=0){await page.goto(origin+'/activites-revision/?chapitre='+k);await page.waitForFunction(()=>typeof lesson!=='undefined'&&lesson);await page.evaluate(n=>{step=n;render();},st);assert(await page.locator('#questions').isEnabled());}
+
+
+
+ await page.emulateMedia({reducedMotion:'reduce'});
+ await page.route('**/chat_bot.md',r=>r.fulfill({body:fs.readFileSync(base+'/chat_bot.md','utf8').replaceAll('https://codeurfou-sys.github.io/chatbot_civique2/',origin+'/'),contentType:'text/plain'}));
+ await page.goto(origin+'/chatbot/');await page.waitForFunction(()=>document.querySelector('#chat .messageOptions a'));await page.waitForFunction(()=>document.querySelector('#civicoach-loading').hidden);
+ async function nav(id){await page.evaluate(id=>{const a=document.createElement('a');a.href='#'+btoa(id);document.querySelector('#chat').append(a);a.click();a.remove();},id);}
+ async function correct(){await page.waitForFunction(()=>{const b=[...document.querySelectorAll('.bot-message')].at(-1);return b&&[...b.querySelectorAll('.messageOptions a')].some(a=>{try{return atob(a.hash.slice(1)).endsWith('_VRAI');}catch(e){return false;}});},null,{timeout:10000}).catch(async e=>{console.log('Écran',await page.locator('.bot-message').last().innerText());console.log('Variables',await page.evaluate(()=>Object.fromEntries(Object.entries(NovaSave.exportData().variables).filter(([k])=>['type_examen','bilExam','bilProfile','bilAnswered','bilRun','score'].includes(k)))));throw e;});const links=page.locator('.bot-message').last().locator('.messageOptions a');const data=await links.evaluateAll(as=>as.map(a=>({href:a.hash,text:a.textContent})));const picked=data.find(x=>{try{return atob(x.href.slice(1)).endsWith('_VRAI');}catch(e){return false;}});await page.locator('.bot-message').last().locator('a[href="'+picked.href+'"]').click();await page.waitForTimeout(15);const next=page.locator('.bot-message').last().getByRole('link',{name:/Question suivante|[Rr]ésultats|Continuer/}).first();await next.click({timeout:5000});return data.filter(x=>{try{return /_(VRAI|FAUX)$/.test(atob(x.href.slice(1)));}catch(e){return false;}});}
+
+ await page.evaluate(()=>{const x=NovaSave.exportData();x.variables.type_examen='CR';NovaSave.importData(x);});
+ const previous=[];
+ for(let run=0;run<2;run++){const questions=[];await nav('SCR_BIL_START_DEC');for(let i=0;i<25;i++){const links=await correct();if(i%5===4)console.log('Bilan',run+1,'question',i+1);questions.push(links.map(x=>atob(x.href.slice(1))).find(x=>x.endsWith('_VRAI')).replace(/_VRAI$/,''));}await page.waitForFunction(n=>NovaSave.exportData().history.bilan.length>=n,run+1,{timeout:10000});assert.equal(new Set(questions).size,25);if(run)assert.equal(questions.filter(x=>previous.includes(x)).length,0);previous.push(...questions);console.log('OK bilan',run+1,'25 questions distinctes, histoire sauvegardée et renouvelée.');}
+ for(let run=0;run<2;run++){await nav('SCR_EXAM_START');await page.locator('.bot-message').last().getByRole('link',{name:/Commencer les 28 questions/}).click();for(let i=0;i<40;i++){if(i===28)await page.locator('.bot-message').last().getByRole('link',{name:/Commencer les 12 mises/}).click();await correct();}await page.waitForFunction(n=>NovaSave.exportData().history.examen.length>=n,run+1,{timeout:10000});const row=await page.evaluate(()=>NovaSave.exportData().history.examen[0]);assert.equal(row.score,40);assert.equal(row.variables.lastKnowledge,28);assert.equal(row.variables.lastSituations,12);console.log('OK examen blanc',run+1,'40/40 dont 28 connaissances et 12 situations, historique enregistré.');}
+ assert.deepEqual(errors,[]);await browser.close();server.close();
+})().catch(e=>{console.error(e);process.exit(1)});

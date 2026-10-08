@@ -1,0 +1,2412 @@
+{
+  "SCR_REV_T2_CH01": {
+    "title": "État de droit et séparation des pouvoirs",
+    "activities": [
+      {
+        "type": "classify",
+        "title": "Placez les institutions sous le bon pouvoir",
+        "groups": [
+          "Exécutif",
+          "Législatif",
+          "Judiciaire"
+        ],
+        "items": [
+          {
+            "label": "🏛️ Gouvernement",
+            "target": "Exécutif",
+            "explanation": "Le Gouvernement conduit la politique et met en œuvre les lois."
+          },
+          {
+            "label": "🗳️ Assemblée nationale et Sénat",
+            "target": "Législatif",
+            "explanation": "Le Parlement discute et vote les lois."
+          },
+          {
+            "label": "⚖️ Tribunaux",
+            "target": "Judiciaire",
+            "explanation": "Les tribunaux rendent la justice."
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "title": "Quelle mission pour quelle institution ?",
+        "items": [
+          {
+            "label": "Gouvernement",
+            "target": "Mettre en œuvre les lois",
+            "explanation": "Gouvernement : Mettre en œuvre les lois"
+          },
+          {
+            "label": "Parlement",
+            "target": "Discuter et voter les lois",
+            "explanation": "Parlement : Discuter et voter les lois"
+          },
+          {
+            "label": "Tribunaux",
+            "target": "Rendre la justice",
+            "explanation": "Tribunaux : Rendre la justice"
+          },
+          {
+            "label": "Constitution",
+            "target": "Fixer les règles fondamentales de l’État",
+            "explanation": "Constitution : Fixer les règles fondamentales de l’État"
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T2_CH02": {
+    "title": "Démocratie et droit de vote",
+    "activities": [
+      {
+        "type": "connect",
+        "title": "Reliez chaque représentant à son rôle et à son mandat",
+        "items": [
+          {
+            "label": "Président de la République",
+            "target": "5 ans · chef de l’État",
+            "explanation": "Le mandat présidentiel dure cinq ans."
+          },
+          {
+            "label": "Député",
+            "target": "5 ans en principe · vote les lois à l’Assemblée nationale",
+            "explanation": "Une dissolution peut interrompre la législature."
+          },
+          {
+            "label": "Sénateur",
+            "target": "6 ans · vote les lois au Sénat",
+            "explanation": "Le Sénat est renouvelé par moitié tous les trois ans."
+          },
+          {
+            "label": "Conseiller municipal",
+            "target": "6 ans · délibère sur les affaires de la commune",
+            "explanation": "Le maire est élu par le conseil municipal, pas directement à ce poste par les habitants."
+          },
+          {
+            "label": "Député européen",
+            "target": "5 ans · participe au vote des textes et du budget européens",
+            "explanation": "Les députés européens sont élus au suffrage universel direct."
+          }
+        ]
+      },
+      {
+        "type": "scheme",
+        "title": "Construisez le parcours au bureau de vote",
+        "items": [
+          {
+            "label": "Présenter son identité et faire vérifier son inscription",
+            "target": "1",
+            "explanation": "L’identité et l’inscription permettent de vérifier le droit de voter."
+          },
+          {
+            "label": "Prendre une enveloppe et des bulletins avant l’isoloir",
+            "target": "2",
+            "explanation": "L’électeur prépare son vote sans dévoiler son choix."
+          },
+          {
+            "label": "Choisir son bulletin dans l’isoloir et le mettre dans l’enveloppe",
+            "target": "3",
+            "explanation": "L’isoloir protège le secret du vote."
+          },
+          {
+            "label": "Déposer son enveloppe dans l’urne",
+            "target": "4",
+            "explanation": "L’électeur dépose lui-même son vote."
+          },
+          {
+            "label": "Signer la liste d’émargement",
+            "target": "5",
+            "explanation": "L’émargement constate que l’électeur a voté."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T2_CH03": {
+    "title": "Organisation de la République française",
+    "activities": [
+      {
+        "type": "map",
+        "title": "Placez les 18 régions",
+        "items": [
+          {
+            "label": "Île-de-France",
+            "target": "11",
+            "explanation": "Île-de-France : repérez sa position sur la carte."
+          },
+          {
+            "label": "Centre-Val de Loire",
+            "target": "24",
+            "explanation": "Centre-Val de Loire : repérez sa position sur la carte."
+          },
+          {
+            "label": "Bourgogne-Franche-Comté",
+            "target": "27",
+            "explanation": "Bourgogne-Franche-Comté : repérez sa position sur la carte."
+          },
+          {
+            "label": "Normandie",
+            "target": "28",
+            "explanation": "Normandie : repérez sa position sur la carte."
+          },
+          {
+            "label": "Hauts-de-France",
+            "target": "32",
+            "explanation": "Hauts-de-France : repérez sa position sur la carte."
+          },
+          {
+            "label": "Grand Est",
+            "target": "44",
+            "explanation": "Grand Est : repérez sa position sur la carte."
+          },
+          {
+            "label": "Pays de la Loire",
+            "target": "52",
+            "explanation": "Pays de la Loire : repérez sa position sur la carte."
+          },
+          {
+            "label": "Bretagne",
+            "target": "53",
+            "explanation": "Bretagne : repérez sa position sur la carte."
+          },
+          {
+            "label": "Nouvelle-Aquitaine",
+            "target": "75",
+            "explanation": "Nouvelle-Aquitaine : repérez sa position sur la carte."
+          },
+          {
+            "label": "Occitanie",
+            "target": "76",
+            "explanation": "Occitanie : repérez sa position sur la carte."
+          },
+          {
+            "label": "Auvergne-Rhône-Alpes",
+            "target": "84",
+            "explanation": "Auvergne-Rhône-Alpes : repérez sa position sur la carte."
+          },
+          {
+            "label": "Provence-Alpes-Côte d’Azur",
+            "target": "93",
+            "explanation": "Provence-Alpes-Côte d’Azur : repérez sa position sur la carte."
+          },
+          {
+            "label": "Corse",
+            "target": "94",
+            "explanation": "Corse : repérez sa position sur la carte."
+          },
+          {
+            "label": "Guadeloupe",
+            "target": "971",
+            "explanation": "Guadeloupe : repérez sa position sur la carte."
+          },
+          {
+            "label": "Martinique",
+            "target": "972",
+            "explanation": "Martinique : repérez sa position sur la carte."
+          },
+          {
+            "label": "Guyane",
+            "target": "973",
+            "explanation": "Guyane : repérez sa position sur la carte."
+          },
+          {
+            "label": "La Réunion",
+            "target": "974",
+            "explanation": "La Réunion : repérez sa position sur la carte."
+          },
+          {
+            "label": "Mayotte",
+            "target": "976",
+            "explanation": "Mayotte : repérez sa position sur la carte."
+          }
+        ],
+        "regions": [
+          {
+            "code": "11",
+            "name": "Île-de-France"
+          },
+          {
+            "code": "24",
+            "name": "Centre-Val de Loire"
+          },
+          {
+            "code": "27",
+            "name": "Bourgogne-Franche-Comté"
+          },
+          {
+            "code": "28",
+            "name": "Normandie"
+          },
+          {
+            "code": "32",
+            "name": "Hauts-de-France"
+          },
+          {
+            "code": "44",
+            "name": "Grand Est"
+          },
+          {
+            "code": "52",
+            "name": "Pays de la Loire"
+          },
+          {
+            "code": "53",
+            "name": "Bretagne"
+          },
+          {
+            "code": "75",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "code": "76",
+            "name": "Occitanie"
+          },
+          {
+            "code": "84",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "code": "93",
+            "name": "Provence-Alpes-Côte d’Azur"
+          },
+          {
+            "code": "94",
+            "name": "Corse"
+          },
+          {
+            "code": "971",
+            "name": "Guadeloupe"
+          },
+          {
+            "code": "972",
+            "name": "Martinique"
+          },
+          {
+            "code": "973",
+            "name": "Guyane"
+          },
+          {
+            "code": "974",
+            "name": "La Réunion"
+          },
+          {
+            "code": "976",
+            "name": "Mayotte"
+          }
+        ],
+        "revealNames": false
+      },
+      {
+        "type": "cases",
+        "title": "Quelle institution contacter ?",
+        "items": [
+          {
+            "prompt": "Vous souhaitez signaler un problème récurrent de desserte des trains TER. Quel niveau organise principalement ce service ?",
+            "options": [
+              "La région",
+              "La commune",
+              "Le Parlement européen"
+            ],
+            "answer": "La région",
+            "explanation": "Pour les TER hors organisation particulière en Île-de-France, la région est l’autorité organisatrice. Pour un remboursement ou une réclamation immédiate, contactez aussi l’opérateur."
+          },
+          {
+            "prompt": "Une famille souhaite inscrire son enfant dans une école primaire publique.",
+            "options": [
+              "La mairie",
+              "Le conseil régional",
+              "Le Sénat"
+            ],
+            "answer": "La mairie",
+            "explanation": "L’inscription administrative à l’école publique passe par la mairie."
+          },
+          {
+            "prompt": "Vous souhaitez vous renseigner sur l’entretien des bâtiments d’un collège.",
+            "options": [
+              "Le département",
+              "La commune",
+              "La Commission européenne"
+            ],
+            "answer": "Le département",
+            "explanation": "Les bâtiments des collèges relèvent du département."
+          },
+          {
+            "prompt": "Vous souhaitez signaler un problème dans les bâtiments d’un lycée public.",
+            "options": [
+              "La région",
+              "Le département",
+              "La mairie"
+            ],
+            "answer": "La région",
+            "explanation": "Les bâtiments des lycées relèvent de la région."
+          },
+          {
+            "prompt": "Vous cherchez le service compétent pour votre titre de séjour.",
+            "options": [
+              "La préfecture ou le service officiel indiqué pour la démarche",
+              "Le conseil régional",
+              "Le Parlement européen"
+            ],
+            "answer": "La préfecture ou le service officiel indiqué pour la démarche",
+            "explanation": "La préfecture représente l’État ; certaines démarches se font en ligne sur le portail officiel."
+          },
+          {
+            "prompt": "Vous vous renseignez sur l’aide sociale à l’enfance.",
+            "options": [
+              "Le département",
+              "La région",
+              "La Banque centrale européenne"
+            ],
+            "answer": "Le département",
+            "explanation": "Le département exerce des compétences importantes en matière d’action sociale."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T2_CH04": {
+    "title": "Les institutions européennes",
+    "activities": [
+      {
+        "type": "timeline",
+        "title": "Les grandes étapes de la construction européenne",
+        "items": [
+          {
+            "label": "Traités de Rome : création de la CEE",
+            "target": "1957",
+            "explanation": "La Communauté économique européenne est créée par les traités de Rome."
+          },
+          {
+            "label": "Premières élections européennes au suffrage universel direct",
+            "target": "1979",
+            "explanation": "Les citoyens élisent directement leurs députés européens."
+          },
+          {
+            "label": "Signature du traité de Maastricht",
+            "target": "1992",
+            "explanation": "Le traité fonde l’Union européenne ; il entre en vigueur en 1993."
+          },
+          {
+            "label": "Mise en circulation des billets et pièces en euros",
+            "target": "2002",
+            "explanation": "L’euro existe comme monnaie depuis 1999 ; les billets et pièces arrivent en 2002."
+          },
+          {
+            "label": "Départ du Royaume-Uni de l’Union européenne",
+            "target": "2020",
+            "explanation": "Le Royaume-Uni quitte l’Union européenne en 2020."
+          }
+        ]
+      },
+      {
+        "type": "connect",
+        "title": "Associez les institutions à leur rôle",
+        "items": [
+          {
+            "label": "Parlement européen",
+            "target": "Institution élue directement par les citoyens européens qui participe au vote des textes et du budget européens.",
+            "explanation": "Parlement européen : Institution élue directement par les citoyens européens qui participe au vote des textes et du budget européens."
+          },
+          {
+            "label": "Commission européenne",
+            "target": "Institution qui propose les textes européens et veille à leur application.",
+            "explanation": "Commission européenne : Institution qui propose les textes européens et veille à leur application."
+          },
+          {
+            "label": "Conseil de l'Union européenne",
+            "target": "Institution dans laquelle les ministres des États membres examinent et adoptent les textes européens avec le Parlement.",
+            "explanation": "Conseil de l'Union européenne : Institution dans laquelle les ministres des États membres examinent et adoptent les textes européens avec le Parlement."
+          },
+          {
+            "label": "Conseil européen",
+            "target": "Réunion des chefs d'État ou de gouvernement qui fixe les grandes orientations de l'Union européenne.",
+            "explanation": "Conseil européen : Réunion des chefs d'État ou de gouvernement qui fixe les grandes orientations de l'Union européenne."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T3_CH01": {
+    "title": "Les droits fondamentaux",
+    "activities": [
+      {
+        "type": "cases",
+        "title": "Identifiez le droit concerné dans la situation",
+        "items": [
+          {
+            "prompt": "Un propriétaire refuse un dossier uniquement en raison de l’origine du candidat.",
+            "options": [
+              "Égalité et protection contre les discriminations",
+              "Liberté de religion",
+              "Droit de vote"
+            ],
+            "answer": "Égalité et protection contre les discriminations",
+            "explanation": "Le motif du refus est ici discriminatoire."
+          },
+          {
+            "prompt": "Une personne accusée doit pouvoir répondre aux accusations avec l’aide d’un avocat.",
+            "options": [
+              "Droits de la défense",
+              "Droit à la propriété",
+              "Liberté de réunion"
+            ],
+            "answer": "Droits de la défense",
+            "explanation": "Les droits de la défense permettent de faire valoir ses arguments."
+          },
+          {
+            "prompt": "Une personne refuse que des informations médicales soient publiées sans justification.",
+            "options": [
+              "Respect de la vie privée",
+              "Droit de vote",
+              "Liberté d’association"
+            ],
+            "answer": "Respect de la vie privée",
+            "explanation": "Les informations de santé relèvent de la vie privée."
+          },
+          {
+            "prompt": "Un groupe crée légalement une association pour défendre un projet local.",
+            "options": [
+              "Liberté d’association",
+              "Droit à la propriété",
+              "Présomption d’innocence"
+            ],
+            "answer": "Liberté d’association",
+            "explanation": "La liberté d’association permet de s’organiser collectivement."
+          },
+          {
+            "prompt": "Une personne accusée n’a pas encore été reconnue coupable par la justice.",
+            "options": [
+              "Présomption d’innocence",
+              "Droit de grève",
+              "Liberté de religion"
+            ],
+            "answer": "Présomption d’innocence",
+            "explanation": "Une accusation ne suffit pas à établir la culpabilité."
+          }
+        ]
+      },
+      {
+        "type": "classify",
+        "title": "Respect des droits : examinez huit situations",
+        "items": [
+          {
+            "label": "Un journal critique une décision politique sans menace ni appel à la haine",
+            "target": "Droit respecté",
+            "explanation": "La liberté d’expression protège la critique politique."
+          },
+          {
+            "label": "Une entreprise refuse une candidature uniquement en raison de la religion",
+            "target": "Droit menacé ou violé",
+            "explanation": "Le motif du refus est discriminatoire."
+          },
+          {
+            "label": "Un accusé peut consulter son avocat avant l’audience",
+            "target": "Droit respecté",
+            "explanation": "Les droits de la défense sont pris en compte."
+          },
+          {
+            "label": "Des données médicales identifiantes sont publiées sans consentement ni base légale",
+            "target": "Droit menacé ou violé",
+            "explanation": "La vie privée et les données personnelles doivent être protégées."
+          },
+          {
+            "label": "Une association accueille des membres ayant des opinions différentes",
+            "target": "Droit respecté",
+            "explanation": "La liberté d’association et le pluralisme peuvent se compléter."
+          },
+          {
+            "label": "Un voisin menace une personne pour l’obliger à changer de religion",
+            "target": "Droit menacé ou violé",
+            "explanation": "La liberté de conscience exclut la contrainte."
+          },
+          {
+            "label": "Un service public traite chacun selon les mêmes critères applicables",
+            "target": "Droit respecté",
+            "explanation": "Il respecte l’égalité de traitement."
+          },
+          {
+            "label": "Un responsable affirme qu’une personne accusée est forcément coupable avant tout jugement",
+            "target": "Droit menacé ou violé",
+            "explanation": "La présomption d’innocence doit être respectée."
+          }
+        ],
+        "groups": [
+          "Droit respecté",
+          "Droit menacé ou violé"
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T3_CH02": {
+    "title": "Les obligations et les devoirs",
+    "activities": [
+      {
+        "type": "classify",
+        "title": "Contravention, délit ou crime ?",
+        "items": [
+          {
+            "label": "Stationnement interdit",
+            "target": "Contravention",
+            "explanation": "Le stationnement interdit constitue une contravention."
+          },
+          {
+            "label": "Non-port de la ceinture de sécurité",
+            "target": "Contravention",
+            "explanation": "Cette infraction routière est une contravention."
+          },
+          {
+            "label": "Tapage nocturne",
+            "target": "Contravention",
+            "explanation": "Le tapage nocturne est une contravention."
+          },
+          {
+            "label": "Vol simple sans circonstance aggravante",
+            "target": "Délit",
+            "explanation": "Le vol simple est un délit ; certaines formes aggravées peuvent changer de catégorie."
+          },
+          {
+            "label": "Escroquerie",
+            "target": "Délit",
+            "explanation": "L’escroquerie est un délit."
+          },
+          {
+            "label": "Conduite d’une voiture sans permis de conduire",
+            "target": "Délit",
+            "explanation": "Conduire sans avoir le permis requis est un délit."
+          },
+          {
+            "label": "Meurtre",
+            "target": "Crime",
+            "explanation": "L’homicide volontaire constitue un crime."
+          },
+          {
+            "label": "Viol",
+            "target": "Crime",
+            "explanation": "Le viol est un crime, à distinguer d’autres infractions sexuelles."
+          },
+          {
+            "label": "Vol à main armée",
+            "target": "Crime",
+            "explanation": "L’usage d’une arme est une circonstance qui rend cette forme de vol criminelle."
+          }
+        ],
+        "groups": [
+          "Contravention",
+          "Délit",
+          "Crime"
+        ]
+      },
+      {
+        "type": "cycle",
+        "title": "Le voyage d’un carton : reconstruisez la boucle",
+        "items": [
+          {
+            "label": "📦 Je trie mon carton selon les consignes locales",
+            "target": "1",
+            "explanation": "Un bon tri permet d’orienter les emballages vers la bonne filière."
+          },
+          {
+            "label": "🚛 Le camion collecte les emballages",
+            "target": "2",
+            "explanation": "La collecte les transporte vers le centre de tri."
+          },
+          {
+            "label": "🏭 Le centre de tri sépare les matières",
+            "target": "3",
+            "explanation": "Les matières sont triées et préparées pour le recyclage."
+          },
+          {
+            "label": "♻️ Le carton est recyclé en nouvelle matière",
+            "target": "4",
+            "explanation": "Les fibres récupérées servent à fabriquer une nouvelle matière."
+          },
+          {
+            "label": "📦 Un nouvel emballage est fabriqué",
+            "target": "5",
+            "explanation": "La matière recyclée peut devenir un nouvel emballage."
+          },
+          {
+            "label": "🛒 J’achète un produit avec un emballage recyclé",
+            "target": "6",
+            "explanation": "Après usage, je le trie à nouveau. Réduire et réemployer restent aussi importants."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T4_CH01": {
+    "title": "Histoire de France 🕰️",
+    "activities": [
+      {
+        "type": "timeline",
+        "title": "Les régimes politiques : une histoire qui se construit",
+        "items": [
+          {
+            "label": "Monarchie constitutionnelle",
+            "target": "1791–1792",
+            "explanation": "La Constitution de 1791 établit une monarchie constitutionnelle."
+          },
+          {
+            "label": "Première République",
+            "target": "1792–1804",
+            "explanation": "La République est proclamée en 1792 ; le Consulat appartient à cette période."
+          },
+          {
+            "label": "Premier Empire",
+            "target": "1804–1814/1815",
+            "explanation": "Napoléon Ier devient empereur en 1804 ; la fin comprend l’épisode des Cent-Jours."
+          },
+          {
+            "label": "Restauration puis monarchie de Juillet",
+            "target": "1814/1815–1848",
+            "explanation": "La monarchie revient, puis change de branche en 1830."
+          },
+          {
+            "label": "Deuxième République",
+            "target": "1848–1852",
+            "explanation": "Elle est proclamée en 1848 ; le coup d’État de 1851 précède le Second Empire."
+          },
+          {
+            "label": "Second Empire",
+            "target": "1852–1870",
+            "explanation": "Napoléon III dirige le Second Empire jusqu’en 1870."
+          },
+          {
+            "label": "Troisième République",
+            "target": "1870–1940",
+            "explanation": "La Troisième République s’installe après la chute du Second Empire."
+          },
+          {
+            "label": "Régime de Vichy et Résistance",
+            "target": "1940–1944",
+            "explanation": "Le régime de Vichy est autoritaire ; la Résistance et la France libre le combattent."
+          },
+          {
+            "label": "Gouvernement provisoire de la République française",
+            "target": "1944–1946",
+            "explanation": "La République est rétablie à la Libération."
+          },
+          {
+            "label": "Quatrième République",
+            "target": "1946–1958",
+            "explanation": "Une nouvelle Constitution est adoptée en 1946."
+          },
+          {
+            "label": "Cinquième République",
+            "target": "Depuis 1958",
+            "explanation": "La Constitution de 1958 fonde le régime actuel."
+          }
+        ]
+      },
+      {
+        "type": "memory",
+        "title": "Retrouvez les paires date et événement",
+        "pairs": [
+          [
+            "1789",
+            "Début de la Révolution française"
+          ],
+          [
+            "1792",
+            "Proclamation de la Première République"
+          ],
+          [
+            "1905",
+            "Séparation des Églises et de l’État"
+          ],
+          [
+            "1944",
+            "Droit de vote accordé aux femmes"
+          ],
+          [
+            "1958",
+            "Naissance de la Ve République"
+          ],
+          [
+            "1981",
+            "Abolition de la peine de mort"
+          ]
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T4_CH02": {
+    "title": "Territoires et géographie de la France 🗺️",
+    "activities": [
+      {
+        "type": "geo",
+        "title": "Repérez les cinq grands fleuves",
+        "mode": "fleuves"
+      },
+      {
+        "type": "geo",
+        "title": "Repérez les cinq massifs",
+        "mode": "massifs"
+      }
+    ]
+  },
+  "SCR_REV_T4_CH03": {
+    "title": "Patrimoine et culture française 🎭",
+    "activities": [
+      {
+        "type": "scratch",
+        "title": "L’atelier des œuvres à découvrir",
+        "items": [
+          {
+            "prompt": "Quel artiste a peint cette œuvre ?",
+            "image": "assets/delacroix.jpeg",
+            "options": [
+              "Eugène Delacroix",
+              "Claude Monet",
+              "Paul Cézanne",
+              "Auguste Renoir"
+            ],
+            "answer": "Eugène Delacroix",
+            "explanation": "La Liberté guidant le peuple, Eugène Delacroix, 1830. Reproduction extraite de votre support de formation civique, page 95.",
+            "work": "La Liberté guidant le peuple",
+            "distractors": [
+              "Claude Monet",
+              "Paul Cézanne",
+              "Auguste Renoir",
+              "Édouard Manet",
+              "Edgar Degas",
+              "Camille Pissarro",
+              "Alfred Sisley",
+              "Berthe Morisot",
+              "Gustave Courbet",
+              "Henri Matisse",
+              "Paul Gauguin",
+              "Georges Seurat",
+              "Henri de Toulouse-Lautrec"
+            ]
+          },
+          {
+            "prompt": "Quel artiste a peint cette œuvre ?",
+            "image": "assets/monet.jpeg",
+            "options": [
+              "Claude Monet",
+              "Eugène Delacroix",
+              "Paul Cézanne",
+              "Auguste Renoir"
+            ],
+            "answer": "Claude Monet",
+            "explanation": "Nymphéas bleus, Claude Monet, 1919. Reproduction extraite de votre support de formation civique, page 95.",
+            "work": "Nymphéas bleus",
+            "distractors": [
+              "Eugène Delacroix",
+              "Paul Cézanne",
+              "Auguste Renoir",
+              "Édouard Manet",
+              "Edgar Degas",
+              "Camille Pissarro",
+              "Alfred Sisley",
+              "Berthe Morisot",
+              "Gustave Courbet",
+              "Henri Matisse",
+              "Paul Gauguin",
+              "Georges Seurat",
+              "Henri de Toulouse-Lautrec"
+            ]
+          },
+          {
+            "prompt": "Quel artiste a peint cette œuvre ?",
+            "image": "assets/cezanne.jpeg",
+            "options": [
+              "Paul Cézanne",
+              "Eugène Delacroix",
+              "Claude Monet",
+              "Auguste Renoir"
+            ],
+            "answer": "Paul Cézanne",
+            "explanation": "Les Joueurs de cartes, Paul Cézanne, vers 1895. Reproduction extraite de votre support de formation civique, page 96.",
+            "work": "Les Joueurs de cartes",
+            "distractors": [
+              "Eugène Delacroix",
+              "Claude Monet",
+              "Auguste Renoir",
+              "Édouard Manet",
+              "Edgar Degas",
+              "Camille Pissarro",
+              "Alfred Sisley",
+              "Berthe Morisot",
+              "Gustave Courbet",
+              "Henri Matisse",
+              "Paul Gauguin",
+              "Georges Seurat",
+              "Henri de Toulouse-Lautrec"
+            ]
+          },
+          {
+            "prompt": "Quel artiste a peint cette œuvre ?",
+            "image": "assets/renoir.jpeg",
+            "options": [
+              "Auguste Renoir",
+              "Eugène Delacroix",
+              "Claude Monet",
+              "Paul Cézanne"
+            ],
+            "answer": "Auguste Renoir",
+            "explanation": "Le Déjeuner des canotiers, Auguste Renoir, 1881. Reproduction extraite de votre support de formation civique, page 96.",
+            "work": "Le Déjeuner des canotiers",
+            "distractors": [
+              "Eugène Delacroix",
+              "Claude Monet",
+              "Paul Cézanne",
+              "Édouard Manet",
+              "Edgar Degas",
+              "Camille Pissarro",
+              "Alfred Sisley",
+              "Berthe Morisot",
+              "Gustave Courbet",
+              "Henri Matisse",
+              "Paul Gauguin",
+              "Georges Seurat",
+              "Henri de Toulouse-Lautrec"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "map",
+        "title": "Les spécialités régionales sur la carte",
+        "items": [
+          {
+            "label": "Brie de Meaux",
+            "target": "11",
+            "explanation": "Brie de Meaux : une spécialité associée à Île-de-France dans le support. Le monument repère est Tour Eiffel."
+          },
+          {
+            "label": "Tarte Tatin",
+            "target": "24",
+            "explanation": "Tarte Tatin : une spécialité associée à Centre-Val de Loire dans le support. Le monument repère est Château de Chambord."
+          },
+          {
+            "label": "Bœuf bourguignon",
+            "target": "27",
+            "explanation": "Bœuf bourguignon : une spécialité associée à Bourgogne-Franche-Comté dans le support. Le monument repère est Abbaye de Fontenay."
+          },
+          {
+            "label": "Camembert",
+            "target": "28",
+            "explanation": "Camembert : une spécialité associée à Normandie dans le support. Le monument repère est Mont-Saint-Michel."
+          },
+          {
+            "label": "Maroilles",
+            "target": "32",
+            "explanation": "Maroilles : une spécialité associée à Hauts-de-France dans le support. Le monument repère est Beffroi de Lille."
+          },
+          {
+            "label": "Choucroute alsacienne",
+            "target": "44",
+            "explanation": "Choucroute alsacienne : une spécialité associée à Grand Est dans le support. Le monument repère est Place Stanislas à Nancy."
+          },
+          {
+            "label": "Brioche vendéenne",
+            "target": "52",
+            "explanation": "Brioche vendéenne : une spécialité associée à Pays de la Loire dans le support. Le monument repère est Château des ducs de Bretagne à Nantes."
+          },
+          {
+            "label": "Crêpes et galettes",
+            "target": "53",
+            "explanation": "Crêpes et galettes : une spécialité associée à Bretagne dans le support. Le monument repère est Fortifications de Saint-Malo."
+          },
+          {
+            "label": "Foie gras du Périgord",
+            "target": "75",
+            "explanation": "Foie gras du Périgord : une spécialité associée à Nouvelle-Aquitaine dans le support. Le monument repère est Dune du Pilat."
+          },
+          {
+            "label": "Cassoulet",
+            "target": "76",
+            "explanation": "Cassoulet : une spécialité associée à Occitanie dans le support. Le monument repère est Pont du Gard."
+          },
+          {
+            "label": "Fondue savoyarde",
+            "target": "84",
+            "explanation": "Fondue savoyarde : une spécialité associée à Auvergne-Rhône-Alpes dans le support. Le monument repère est Basilique de Fourvière."
+          },
+          {
+            "label": "Bouillabaisse",
+            "target": "93",
+            "explanation": "Bouillabaisse : une spécialité associée à Provence-Alpes-Côte d’Azur dans le support. Le monument repère est Promenade des Anglais."
+          },
+          {
+            "label": "Brocciu",
+            "target": "94",
+            "explanation": "Brocciu : une spécialité associée à Corse dans le support. Le monument repère est Citadelle de Bonifacio."
+          },
+          {
+            "label": "Colombo de poulet",
+            "target": "971",
+            "explanation": "Colombo de poulet : une spécialité associée à Guadeloupe dans le support. Le monument repère est Fort Delgrès."
+          },
+          {
+            "label": "Accras de morue",
+            "target": "972",
+            "explanation": "Accras de morue : une spécialité associée à Martinique dans le support. Le monument repère est Fort Saint-Louis."
+          },
+          {
+            "label": "Bouillon d’awara",
+            "target": "973",
+            "explanation": "Bouillon d’awara : une spécialité associée à Guyane dans le support. Le monument repère est Centre spatial de Kourou."
+          },
+          {
+            "label": "Cari de poisson",
+            "target": "974",
+            "explanation": "Cari de poisson : une spécialité associée à La Réunion dans le support. Le monument repère est Piton de la Fournaise."
+          },
+          {
+            "label": "Mataba",
+            "target": "976",
+            "explanation": "Mataba : une spécialité associée à Mayotte dans le support. Le monument repère est Lac Dziani."
+          }
+        ],
+        "regions": [
+          {
+            "code": "11",
+            "name": "Île-de-France"
+          },
+          {
+            "code": "24",
+            "name": "Centre-Val de Loire"
+          },
+          {
+            "code": "27",
+            "name": "Bourgogne-Franche-Comté"
+          },
+          {
+            "code": "28",
+            "name": "Normandie"
+          },
+          {
+            "code": "32",
+            "name": "Hauts-de-France"
+          },
+          {
+            "code": "44",
+            "name": "Grand Est"
+          },
+          {
+            "code": "52",
+            "name": "Pays de la Loire"
+          },
+          {
+            "code": "53",
+            "name": "Bretagne"
+          },
+          {
+            "code": "75",
+            "name": "Nouvelle-Aquitaine"
+          },
+          {
+            "code": "76",
+            "name": "Occitanie"
+          },
+          {
+            "code": "84",
+            "name": "Auvergne-Rhône-Alpes"
+          },
+          {
+            "code": "93",
+            "name": "Provence-Alpes-Côte d’Azur"
+          },
+          {
+            "code": "94",
+            "name": "Corse"
+          },
+          {
+            "code": "971",
+            "name": "Guadeloupe"
+          },
+          {
+            "code": "972",
+            "name": "Martinique"
+          },
+          {
+            "code": "973",
+            "name": "Guyane"
+          },
+          {
+            "code": "974",
+            "name": "La Réunion"
+          },
+          {
+            "code": "976",
+            "name": "Mayotte"
+          }
+        ],
+        "revealNames": true,
+        "sequentialMap": true,
+        "instructions": "Une spécialité apparaît à la fois. Cliquez sur son étiquette puis sur la région, ou faites-la glisser sur la carte. La bonne association fait apparaître automatiquement la spécialité suivante."
+      },
+      {
+        "type": "books",
+        "title": "Retrouvez l’auteur de chaque livre",
+        "instructions": "Observez la couverture et son titre. Le nom de l’auteur est masqué : choisissez-le parmi les propositions.",
+        "items": [
+          {
+            "prompt": "Qui a écrit « L’Étranger » ?",
+            "work": "L’Étranger",
+            "image": "assets/couvertures/etranger.jpg",
+            "options": [
+              "Albert Camus",
+              "Jean-Paul Sartre",
+              "André Malraux",
+              "André Gide"
+            ],
+            "answer": "Albert Camus",
+            "explanation": "Albert Camus est l’auteur de L’Étranger. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 1,
+              "height": 8
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Jean-Paul Sartre",
+              "André Malraux",
+              "André Gide",
+              "Boris Vian",
+              "Romain Gary",
+              "Marcel Proust",
+              "Marguerite Duras",
+              "Victor Hugo",
+              "Marguerite Yourcenar"
+            ]
+          },
+          {
+            "prompt": "Qui a écrit « Mémoires d’Hadrien » ?",
+            "work": "Mémoires d’Hadrien",
+            "image": "assets/couvertures/hadrien.jpg",
+            "options": [
+              "Marguerite Yourcenar",
+              "Marguerite Duras",
+              "Colette",
+              "Simone de Beauvoir"
+            ],
+            "answer": "Marguerite Yourcenar",
+            "explanation": "Marguerite Yourcenar est l’auteur de Mémoires d’Hadrien. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 1,
+              "height": 9
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Marguerite Duras",
+              "Colette",
+              "Simone de Beauvoir",
+              "Françoise Sagan",
+              "Annie Ernaux",
+              "Albert Camus",
+              "André Gide",
+              "Gustave Flaubert",
+              "Victor Hugo"
+            ]
+          },
+          {
+            "prompt": "Qui a écrit « Les Misérables » ?",
+            "work": "Les Misérables",
+            "image": "assets/couvertures/miserables.jpg",
+            "options": [
+              "Victor Hugo",
+              "Émile Zola",
+              "Honoré de Balzac",
+              "Alexandre Dumas"
+            ],
+            "answer": "Victor Hugo",
+            "explanation": "Victor Hugo est l’auteur de Les Misérables. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 6,
+              "height": 8
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Émile Zola",
+              "Honoré de Balzac",
+              "Alexandre Dumas",
+              "Gustave Flaubert",
+              "Stendhal",
+              "George Sand",
+              "Guy de Maupassant",
+              "Albert Camus",
+              "Marguerite Yourcenar"
+            ]
+          },
+          {
+            "prompt": "Qui a écrit « Les Fleurs du mal » ?",
+            "work": "Les Fleurs du mal",
+            "image": "assets/couvertures/fleurs.jpg",
+            "options": [
+              "Charles Baudelaire",
+              "Arthur Rimbaud",
+              "Paul Verlaine",
+              "Victor Hugo"
+            ],
+            "answer": "Charles Baudelaire",
+            "explanation": "Charles Baudelaire est l’auteur de Les Fleurs du mal. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 14,
+              "height": 6
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Arthur Rimbaud",
+              "Paul Verlaine",
+              "Victor Hugo",
+              "Guillaume Apollinaire",
+              "Paul Éluard",
+              "Jacques Prévert",
+              "Stéphane Mallarmé",
+              "Jean de La Fontaine"
+            ]
+          },
+          {
+            "prompt": "Qui a écrit « La Mare au diable » ?",
+            "work": "La Mare au diable",
+            "image": "assets/couvertures/mare.jpg",
+            "options": [
+              "George Sand",
+              "Colette",
+              "Gustave Flaubert",
+              "Honoré de Balzac"
+            ],
+            "answer": "George Sand",
+            "explanation": "George Sand est l’auteur de La Mare au diable. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 2,
+              "height": 10
+            },
+            "source": "https://www.cercle-enseignement.com/Ouvrages/Gallimard/Folio-classique/La-Mare-au-Diable",
+            "distractors": [
+              "Colette",
+              "Gustave Flaubert",
+              "Honoré de Balzac",
+              "Guy de Maupassant",
+              "Émile Zola",
+              "Stendhal",
+              "Alexandre Dumas",
+              "Victor Hugo",
+              "Marguerite Yourcenar"
+            ]
+          },
+          {
+            "prompt": "Qui a écrit « Le Deuxième Sexe » ?",
+            "work": "Le Deuxième Sexe",
+            "image": "assets/couvertures/deuxieme.jpg",
+            "options": [
+              "Simone de Beauvoir",
+              "Marguerite Yourcenar",
+              "Marguerite Duras",
+              "Colette"
+            ],
+            "answer": "Simone de Beauvoir",
+            "explanation": "Simone de Beauvoir est l’auteur de Le Deuxième Sexe. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 4,
+              "height": 19
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Marguerite Yourcenar",
+              "Marguerite Duras",
+              "Colette",
+              "Annie Ernaux",
+              "Françoise Sagan",
+              "Jean-Paul Sartre",
+              "Albert Camus",
+              "Simone Weil"
+            ]
+          },
+          {
+            "prompt": "Qui a écrit « Tartuffe » ?",
+            "work": "Tartuffe",
+            "image": "assets/couvertures/tartuffe.jpg",
+            "options": [
+              "Molière",
+              "Jean Racine",
+              "Pierre Corneille",
+              "Pierre de Marivaux"
+            ],
+            "answer": "Molière",
+            "explanation": "Molière est l’auteur de Tartuffe. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 12,
+              "height": 7
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "distractors": [
+              "Jean Racine",
+              "Pierre Corneille",
+              "Pierre de Marivaux",
+              "Pierre-Augustin Caron de Beaumarchais",
+              "Alfred de Musset",
+              "Edmond Rostand",
+              "Victor Hugo",
+              "Jean Anouilh"
+            ]
+          },
+          {
+            "prompt": "Qui a écrit les Fables, dont « Le Corbeau et le Renard » ?",
+            "work": "Fables",
+            "image": "assets/couvertures/fables.jpg",
+            "options": [
+              "Jean de La Fontaine",
+              "Charles Perrault",
+              "Jean Racine",
+              "Pierre Corneille"
+            ],
+            "answer": "Jean de La Fontaine",
+            "explanation": "Jean de La Fontaine est l’auteur de Le Corbeau et le Renard. Cette œuvre figure dans les notions du chapitre.",
+            "authorMask": {
+              "top": 0,
+              "height": 14
+            },
+            "source": "https://openlibrary.org/dev/docs/api/covers",
+            "maskTitle": "Fables",
+            "distractors": [
+              "Charles Perrault",
+              "Jean Racine",
+              "Pierre Corneille",
+              "Molière",
+              "Charles Baudelaire",
+              "Victor Hugo",
+              "Jacques Prévert",
+              "Guillaume Apollinaire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T5_CH01": {
+    "title": "Les démarches administratives 📄",
+    "activities": [
+      {
+        "type": "phone",
+        "title": "Quel numéro composer ?",
+        "items": [
+          {
+            "prompt": "Une amie fait un malaise pendant votre repas. Composez un numéro pour alerter les secours.",
+            "answer": "15",
+            "accepted": [
+              "15",
+              "112",
+              "18"
+            ],
+            "explanation": "Le 15 permet de joindre le Samu. Le 112, et le 18 pour alerter les secours, sont également acceptés ici."
+          },
+          {
+            "prompt": "Vous voyez un départ de feu dans un immeuble. Alertez les secours.",
+            "answer": "18",
+            "accepted": [
+              "18",
+              "112"
+            ],
+            "explanation": "Le 18 joint les pompiers ; le 112 est aussi un numéro d’urgence adapté."
+          },
+          {
+            "prompt": "Vous êtes témoin d’une agression en cours et souhaitez alerter la police.",
+            "answer": "17",
+            "accepted": [
+              "17",
+              "112"
+            ],
+            "explanation": "Le 17 joint Police secours ; le 112 peut aussi orienter l’alerte."
+          },
+          {
+            "prompt": "Vous voyagez dans un pays de l’Union européenne et cherchez le numéro d’urgence commun.",
+            "answer": "112",
+            "accepted": [
+              "112"
+            ],
+            "explanation": "Le 112 est le numéro d’urgence européen."
+          },
+          {
+            "prompt": "Une personne sourde souhaite envoyer une alerte d’urgence par SMS. Quel numéro utilise-t-elle ?",
+            "answer": "114",
+            "accepted": [
+              "114"
+            ],
+            "explanation": "Le 114 est accessible notamment par SMS, application et internet. Dans cet exercice, le clavier simule la saisie du destinataire du SMS."
+          }
+        ]
+      },
+      {
+        "type": "binary",
+        "title": "Cette démarche est-elle obligatoire ?",
+        "items": [
+          {
+            "prompt": "Assurer au moins en responsabilité civile une voiture en état de circuler",
+            "options": [
+              "Obligatoire",
+              "Pas obligatoire"
+            ],
+            "answer": "Obligatoire",
+            "explanation": "Cette assurance est obligatoire même si la voiture est peu ou pas utilisée, tant qu’elle reste soumise à cette obligation."
+          },
+          {
+            "prompt": "S’inscrire à une association culturelle",
+            "options": [
+              "Obligatoire",
+              "Pas obligatoire"
+            ],
+            "answer": "Pas obligatoire",
+            "explanation": "L’adhésion à une association est un choix."
+          },
+          {
+            "prompt": "Déclarer ses revenus lorsque l’on est soumis à cette obligation fiscale",
+            "options": [
+              "Obligatoire",
+              "Pas obligatoire"
+            ],
+            "answer": "Obligatoire",
+            "explanation": "La déclaration reste nécessaire dans les situations prévues, même si aucun impôt n’est dû."
+          },
+          {
+            "prompt": "Voter à chaque élection pour un électeur ordinaire",
+            "options": [
+              "Obligatoire",
+              "Pas obligatoire"
+            ],
+            "answer": "Pas obligatoire",
+            "explanation": "Le vote est un droit et un devoir civique, sans obligation générale de voter pour les électeurs ordinaires."
+          },
+          {
+            "prompt": "Respecter l’obligation d’instruction pour son enfant soumis à cette obligation",
+            "options": [
+              "Obligatoire",
+              "Pas obligatoire"
+            ],
+            "answer": "Obligatoire",
+            "explanation": "Il faut distinguer l’instruction obligatoire et le choix d’un établissement précis."
+          },
+          {
+            "prompt": "Acheter un logement plutôt que le louer",
+            "options": [
+              "Obligatoire",
+              "Pas obligatoire"
+            ],
+            "answer": "Pas obligatoire",
+            "explanation": "Devenir propriétaire n’est pas une obligation."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T5_CH02": {
+    "title": "La santé 🩺",
+    "activities": [
+      {
+        "type": "care",
+        "title": "Je suis malade : construisez mon parcours",
+        "items": [
+          {
+            "label": "📞 Contacter mon médecin traitant pour un problème sans urgence",
+            "target": "1",
+            "explanation": "Pour cet exemple sans urgence, je commence par contacter mon médecin traitant."
+          },
+          {
+            "label": "🩺 Consulter et expliquer mes symptômes",
+            "target": "2",
+            "explanation": "Le médecin examine la situation et propose une prise en charge."
+          },
+          {
+            "label": "📄 Suivre la prescription et l’orientation si elles sont nécessaires",
+            "target": "3",
+            "explanation": "Un spécialiste ou un examen n’est pas systématique ; il dépend de la situation."
+          },
+          {
+            "label": "💊 Aller à la pharmacie si un traitement est prescrit",
+            "target": "4",
+            "explanation": "Le pharmacien délivre et explique le traitement prescrit."
+          },
+          {
+            "label": "🔎 Suivre l’évolution et recontacter un professionnel si nécessaire",
+            "target": "5",
+            "explanation": "Je suis les conseils et je demande un nouvel avis si la situation le nécessite."
+          }
+        ]
+      },
+      {
+        "type": "payment",
+        "title": "Comprenez le tiers payant sur un terminal virtuel",
+        "items": [],
+        "amount": 50,
+        "insurance": 30,
+        "mutual": 15,
+        "remainder": 5,
+        "explanation": "Simulation : soins à 50 €. L’Assurance maladie paie 60 % du montant initial ; la complémentaire paie 30 % du montant initial. Vous calculez chaque part, puis le reste. Ces taux sont fictifs.",
+        "insuranceRate": 60,
+        "mutualRate": 30
+      }
+    ]
+  },
+  "SCR_REV_T5_CH03": {
+    "title": "L'emploi 💼",
+    "activities": [
+      {
+        "type": "cases",
+        "title": "Au travail : analysez la situation et choisissez la démarche",
+        "instructions": "Une situation s’affiche à la fois. Choisissez la démarche la plus adaptée, puis lisez l’explication. Les propositions portent sur des décisions concrètes.",
+        "items": [
+          {
+            "prompt": "Lina commence un poste où elle manipule des produits présentant un risque. Aucun équipement ni formation à leur utilisation ne lui a été fourni. Quelle démarche est la plus adaptée ?",
+            "options": [
+              "Signaler le manque et demander les consignes, la formation et les protections adaptées",
+              "Acheter n’importe quel gant et commencer sans connaître le produit",
+              "Attendre un accident pour parler du problème"
+            ],
+            "answer": "Signaler le manque et demander les consignes, la formation et les protections adaptées",
+            "explanation": "La prévention implique des mesures, des informations et des protections adaptées aux risques."
+          },
+          {
+            "prompt": "Après une absence pour maladie, Karim possède un arrêt de travail. Il pense que le médecin a automatiquement prévenu son entreprise. Que doit-il vérifier ?",
+            "options": [
+              "Que ses collègues ont annoncé son absence sur les réseaux sociaux",
+              "Qu’il a informé l’entreprise et transmis les documents nécessaires dans les délais",
+              "Que l’absence peut rester sans justification jusqu’à la paie"
+            ],
+            "answer": "Qu’il a informé l’entreprise et transmis les documents nécessaires dans les délais",
+            "explanation": "Un arrêt médical ne dispense pas de prévenir l’entreprise et d’accomplir les démarches attendues."
+          },
+          {
+            "prompt": "Deux personnes ont des compétences comparables. Un responsable explique avoir écarté l’une d’elles uniquement à cause de son origine. Quelle analyse convient ?",
+            "options": [
+              "C’est une simple préférence personnelle sans conséquence",
+              "Il suffit de choisir un autre motif après coup",
+              "Le critère annoncé révèle une discrimination, qui doit être signalée"
+            ],
+            "answer": "Le critère annoncé révèle une discrimination, qui doit être signalée",
+            "explanation": "L’origine ne peut justifier une décision discriminatoire au travail."
+          },
+          {
+            "prompt": "Ana remarque un montant inattendu sur son bulletin. Elle ne sait pas s’il s’agit d’une cotisation ou d’une retenue liée à son absence. Quelle démarche est adaptée ?",
+            "options": [
+              "Demander une explication et comparer les lignes avec les heures et les informations disponibles",
+              "Supposer que tout montant différent constitue nécessairement une erreur",
+              "Effacer la ligne sur sa copie pour modifier la somme versée"
+            ],
+            "answer": "Demander une explication et comparer les lignes avec les heures et les informations disponibles",
+            "explanation": "Lire le bulletin et demander des explications permet de distinguer une ligne normale d’une éventuelle erreur."
+          },
+          {
+            "prompt": "Au début d’un poste, les tâches convenues sont licites et les consignes de sécurité ont été expliquées. Une personne souhaite ignorer ces consignes pour aller plus vite. Que convient-il de faire ?",
+            "options": [
+              "Appliquer les consignes et signaler toute difficulté plutôt que les contourner",
+              "Les appliquer seulement lorsqu’un responsable regarde",
+              "Les supprimer si elles ralentissent momentanément le travail"
+            ],
+            "answer": "Appliquer les consignes et signaler toute difficulté plutôt que les contourner",
+            "explanation": "Chacun participe à la sécurité en respectant les consignes adaptées et les équipements fournis."
+          },
+          {
+            "prompt": "Un versement correspondant au travail effectué manque à la date habituelle. La personne dispose de son contrat, de son relevé d’heures et de ses échanges. Quelle première démarche est adaptée ?",
+            "options": [
+              "Attendre plusieurs mois sans conserver les documents",
+              "Demander par écrit une explication et une régularisation, en conservant les justificatifs",
+              "Déduire qu’un accord oral peut supprimer définitivement toute rémunération"
+            ],
+            "answer": "Demander par écrit une explication et une régularisation, en conservant les justificatifs",
+            "explanation": "Le paiement du travail effectué est une obligation. Les pièces conservées permettent d’étayer la demande."
+          }
+        ]
+      },
+      {
+        "type": "payslip-click",
+        "title": "Explorez un bulletin de paie",
+        "instructions": "Sur ce bulletin fictif, cliquez sur la valeur demandée. Vous pouvez aussi atteindre les zones avec Tab et valider avec Entrée. Deux calculs guidés terminent l’activité.",
+        "image": "assets/bulletin-paie-v18.svg",
+        "items": [
+          {
+            "prompt": "Retrouvez le montant du salaire brut.",
+            "target": "brut",
+            "label": "Salaire brut : 2 000 €",
+            "explanation": "Le brut est le montant avant déduction des cotisations salariales."
+          },
+          {
+            "prompt": "Retrouvez le total des cotisations salariales.",
+            "target": "cotisations",
+            "label": "Cotisations salariales : 400 €",
+            "explanation": "Dans cet exemple pédagogique, 400 € sont déduits du brut au titre des cotisations salariales."
+          },
+          {
+            "prompt": "Retrouvez le montant net à payer avant impôt.",
+            "target": "net-avant",
+            "label": "Net à payer avant impôt : 1 600 €",
+            "explanation": "Le net avant impôt est ici égal à 2 000 − 400 = 1 600 €."
+          },
+          {
+            "prompt": "Retrouvez le montant net imposable.",
+            "target": "imposable",
+            "label": "Net imposable : 1 650 €",
+            "explanation": "Le net imposable est de 1 650 €. Dans ce bulletin fictif, 1 600 € nets avant impôt + 50 € de CSG non déductible = 1 650 €. Cette contribution a été retirée du salaire versé, mais ne réduit pas la base imposable."
+          },
+          {
+            "prompt": "Retrouvez le taux du prélèvement à la source.",
+            "target": "taux",
+            "label": "Taux de prélèvement : 5 %",
+            "explanation": "Dans ce bulletin fictif, le taux personnel fourni est de 5 %."
+          },
+          {
+            "prompt": "Retrouvez le montant de l’impôt prélevé à la source.",
+            "target": "impot",
+            "label": "Prélèvement à la source : 82,50 €",
+            "explanation": "1 650 × 5 % = 82,50 €."
+          },
+          {
+            "prompt": "Retrouvez le montant réellement versé à la personne.",
+            "target": "paye",
+            "label": "Net payé : 1 517,50 €",
+            "explanation": "Le net payé est le net avant impôt diminué du prélèvement : 1 600 − 82,50 = 1 517,50 €."
+          },
+          {
+            "prompt": "Calculez le net avant impôt : 2 000 € de brut − 400 € de cotisations. Saisissez le montant en euros.",
+            "answer": 1600,
+            "label": "Calcul du net avant impôt",
+            "explanation": "2 000 − 400 = 1 600 €."
+          },
+          {
+            "prompt": "Calculez le net payé : 1 600 € avant impôt − 82,50 € de prélèvement. Saisissez le montant en euros.",
+            "answer": 1517.5,
+            "label": "Calcul du net payé",
+            "explanation": "1 600 − 82,50 = 1 517,50 €. Ce calcul ne constitue pas un taux universel de passage du brut au net."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T5_CH04": {
+    "title": "La parentalité 👨‍👩‍👧",
+    "activities": [
+      {
+        "type": "school",
+        "title": "Classez les classes dans les bons établissements",
+        "items": [
+          {
+            "label": "Petite section",
+            "target": "Maternelle",
+            "explanation": "Petite section se situe dans le niveau maternelle de ce parcours."
+          },
+          {
+            "label": "Moyenne section",
+            "target": "Maternelle",
+            "explanation": "Moyenne section se situe dans le niveau maternelle de ce parcours."
+          },
+          {
+            "label": "Grande section",
+            "target": "Maternelle",
+            "explanation": "Grande section se situe dans le niveau maternelle de ce parcours."
+          },
+          {
+            "label": "CP",
+            "target": "École élémentaire",
+            "explanation": "CP se situe dans le niveau école élémentaire de ce parcours."
+          },
+          {
+            "label": "CE1",
+            "target": "École élémentaire",
+            "explanation": "CE1 se situe dans le niveau école élémentaire de ce parcours."
+          },
+          {
+            "label": "CE2",
+            "target": "École élémentaire",
+            "explanation": "CE2 se situe dans le niveau école élémentaire de ce parcours."
+          },
+          {
+            "label": "CM1",
+            "target": "École élémentaire",
+            "explanation": "CM1 se situe dans le niveau école élémentaire de ce parcours."
+          },
+          {
+            "label": "CM2",
+            "target": "École élémentaire",
+            "explanation": "CM2 se situe dans le niveau école élémentaire de ce parcours."
+          },
+          {
+            "label": "6e",
+            "target": "Collège",
+            "explanation": "6e se situe dans le niveau collège de ce parcours."
+          },
+          {
+            "label": "5e",
+            "target": "Collège",
+            "explanation": "5e se situe dans le niveau collège de ce parcours."
+          },
+          {
+            "label": "4e",
+            "target": "Collège",
+            "explanation": "4e se situe dans le niveau collège de ce parcours."
+          },
+          {
+            "label": "3e",
+            "target": "Collège",
+            "explanation": "3e se situe dans le niveau collège de ce parcours."
+          },
+          {
+            "label": "Seconde",
+            "target": "Lycée général ou technologique",
+            "explanation": "Seconde se situe dans le niveau lycée général ou technologique de ce parcours."
+          },
+          {
+            "label": "Première",
+            "target": "Lycée général ou technologique",
+            "explanation": "Première se situe dans le niveau lycée général ou technologique de ce parcours."
+          },
+          {
+            "label": "Terminale",
+            "target": "Lycée général ou technologique",
+            "explanation": "Terminale se situe dans le niveau lycée général ou technologique de ce parcours."
+          }
+        ],
+        "groups": [
+          "Maternelle",
+          "École élémentaire",
+          "Collège",
+          "Lycée général ou technologique"
+        ]
+      },
+      {
+        "type": "connect",
+        "title": "Reliez les notions de parentalité",
+        "items": [
+          {
+            "label": "Autorité parentale",
+            "target": "Ensemble des droits et devoirs exercés dans l’intérêt de l’enfant",
+            "explanation": "L’autorité parentale vise notamment la sécurité, la santé et l’éducation de l’enfant."
+          },
+          {
+            "label": "Instruction obligatoire",
+            "target": "Obligation de donner une instruction à l’enfant selon les règles applicables",
+            "explanation": "Elle commence à trois ans et se poursuit jusqu’à seize ans."
+          },
+          {
+            "label": "Responsabilité éducative",
+            "target": "Accompagnement de l’enfant dans ses apprentissages et son développement",
+            "explanation": "Les parents contribuent à son éducation."
+          },
+          {
+            "label": "Protection de l’enfance",
+            "target": "Actions pour protéger les enfants en danger ou en risque de danger",
+            "explanation": "Le département joue un rôle essentiel."
+          },
+          {
+            "label": "Intérêt de l’enfant",
+            "target": "Prise en compte prioritaire de ses besoins et de sa protection",
+            "explanation": "Les décisions doivent tenir compte de son intérêt."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T1_CH01": {
+    "title": "CONNAÎTRE ET COMPRENDRE LA RÉPUBLIQUE 🇫🇷",
+    "activities": [
+      {
+        "type": "cases",
+        "title": "Repérez les caractéristiques de la République",
+        "items": [
+          {
+            "prompt": "Quels sont les quatre caractères de la République dans l’article 1er de la Constitution ?",
+            "options": [
+              "Indivisible, laïque, démocratique et sociale",
+              "Indivisible, sociale, catholique et solidaire",
+              "Populaire, fraternelle, solidaire et démocratique",
+              "Laïque, fédérale, démocratique et sociale"
+            ],
+            "answer": "Indivisible, laïque, démocratique et sociale",
+            "explanation": "L’article 1er définit ces quatre caractères. La solidarité est une valeur importante, mais ne remplace pas le mot « sociale » dans cette formulation."
+          },
+          {
+            "prompt": "Les règles fondamentales organisant les pouvoirs publics se trouvent dans…",
+            "options": [
+              "La Constitution",
+              "Le règlement intérieur de chaque mairie",
+              "Le programme du parti majoritaire"
+            ],
+            "answer": "La Constitution",
+            "explanation": "La Constitution organise les institutions et garantit des principes fondamentaux."
+          },
+          {
+            "prompt": "La souveraineté nationale appartient…",
+            "options": [
+              "Au peuple, qui l’exerce par ses représentants et par le référendum",
+              "Uniquement au président de la République",
+              "Aux seuls membres du Gouvernement"
+            ],
+            "answer": "Au peuple, qui l’exerce par ses représentants et par le référendum",
+            "explanation": "Il faut distinguer le titulaire de la souveraineté et les institutions qui exercent une fonction."
+          },
+          {
+            "prompt": "Une République indivisible signifie…",
+            "options": [
+              "Un même cadre républicain pour le territoire, avec des collectivités ayant des compétences",
+              "La suppression de toutes les collectivités locales",
+              "La possibilité pour chaque région de choisir sa propre Constitution"
+            ],
+            "answer": "Un même cadre républicain pour le territoire, avec des collectivités ayant des compétences",
+            "explanation": "Indivisible ne signifie pas que toutes les décisions sont prises à Paris."
+          },
+          {
+            "prompt": "Le caractère social de la République se traduit notamment par…",
+            "options": [
+              "La solidarité et la protection sociale",
+              "L’obligation pour tous d’avoir le même salaire",
+              "L’absence de règles au travail"
+            ],
+            "answer": "La solidarité et la protection sociale",
+            "explanation": "La protection sociale contribue à protéger contre des risques de la vie."
+          }
+        ]
+      },
+      {
+        "type": "scheme",
+        "title": "Construisez la participation démocratique",
+        "items": [
+          {
+            "label": "Les citoyens s’informent et confrontent les idées",
+            "target": "1",
+            "explanation": "S’informer permet de comprendre les choix proposés."
+          },
+          {
+            "label": "Les candidats présentent leurs projets",
+            "target": "2",
+            "explanation": "Comparer les projets éclaire le choix des électeurs."
+          },
+          {
+            "label": "Les électeurs votent",
+            "target": "3",
+            "explanation": "Le vote permet de choisir des représentants."
+          },
+          {
+            "label": "Les élus exercent leur mandat dans le cadre de la loi",
+            "target": "4",
+            "explanation": "Être élu ne dispense pas de respecter la loi."
+          },
+          {
+            "label": "Les citoyens suivent et évaluent l’action des élus",
+            "target": "5",
+            "explanation": "La participation citoyenne continue entre les élections."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T1_CH02": {
+    "title": "LA DEVISE DE LA RÉPUBLIQUE FRANÇAISE",
+    "activities": [
+      {
+        "type": "cases",
+        "title": "Liberté, égalité ou fraternité : quel principe est en jeu ?",
+        "items": [
+          {
+            "prompt": "Deux candidats ont les mêmes compétences. L’un est écarté uniquement à cause de son origine.",
+            "options": [
+              "Égalité",
+              "Liberté",
+              "Fraternité"
+            ],
+            "answer": "Égalité",
+            "explanation": "Le refus fondé sur l’origine est une discrimination, contraire à l’égalité."
+          },
+          {
+            "prompt": "Une personne défend une opinion impopulaire sans appeler à la haine ni menacer autrui.",
+            "options": [
+              "Liberté",
+              "Égalité",
+              "Fraternité"
+            ],
+            "answer": "Liberté",
+            "explanation": "La liberté d’expression protège aussi les opinions qui ne plaisent pas à tous, dans les limites de la loi."
+          },
+          {
+            "prompt": "Des habitants accompagnent bénévolement un voisin isolé dans ses démarches.",
+            "options": [
+              "Fraternité",
+              "Liberté",
+              "Égalité"
+            ],
+            "answer": "Fraternité",
+            "explanation": "L’entraide et la solidarité illustrent ici la fraternité."
+          },
+          {
+            "prompt": "Une association critique pacifiquement une décision publique.",
+            "options": [
+              "Liberté",
+              "Égalité",
+              "Fraternité"
+            ],
+            "answer": "Liberté",
+            "explanation": "La critique pacifique fait partie du débat démocratique."
+          },
+          {
+            "prompt": "Un service public applique les mêmes critères d’accès à chacun, quelle que soit sa religion.",
+            "options": [
+              "Égalité",
+              "Liberté",
+              "Fraternité"
+            ],
+            "answer": "Égalité",
+            "explanation": "Les critères doivent être appliqués sans discrimination."
+          },
+          {
+            "prompt": "Une collecte aide des familles touchées par une inondation.",
+            "options": [
+              "Fraternité",
+              "Égalité",
+              "Liberté"
+            ],
+            "answer": "Fraternité",
+            "explanation": "La solidarité soutient les personnes en difficulté."
+          }
+        ]
+      },
+      {
+        "type": "cases",
+        "title": "Examinez les limites et les complémentarités des valeurs",
+        "items": [
+          {
+            "prompt": "Peut-on menacer une personne au nom de la liberté d’expression ?",
+            "options": [
+              "Non, les menaces ne sont pas protégées par cette liberté",
+              "Oui, si cela reste un message écrit",
+              "Oui, si la personne est célèbre"
+            ],
+            "answer": "Non, les menaces ne sont pas protégées par cette liberté",
+            "explanation": "Les libertés s’exercent dans le respect de la loi et des droits des autres."
+          },
+          {
+            "prompt": "L’égalité signifie-t-elle que toutes les personnes doivent avoir les mêmes goûts ?",
+            "options": [
+              "Non, elle concerne notamment les droits et l’absence de discrimination",
+              "Oui, les différences sont interdites",
+              "Oui, mais seulement dans les lieux publics"
+            ],
+            "answer": "Non, elle concerne notamment les droits et l’absence de discrimination",
+            "explanation": "L’égalité des droits est compatible avec la diversité des personnes."
+          },
+          {
+            "prompt": "Un dispositif rend un bâtiment accessible à une personne handicapée. Que permet-il ?",
+            "options": [
+              "Un accès effectif au service malgré des besoins différents",
+              "Un privilège qui supprime l’égalité",
+              "La suppression des règles pour tous"
+            ],
+            "answer": "Un accès effectif au service malgré des besoins différents",
+            "explanation": "Adapter l’accès peut contribuer à rendre les droits effectifs."
+          },
+          {
+            "prompt": "La solidarité autorise-t-elle à imposer à chacun la même opinion ?",
+            "options": [
+              "Non, l’entraide doit respecter la liberté de chacun",
+              "Oui, pour éviter les désaccords",
+              "Oui, si la majorité est d’accord"
+            ],
+            "answer": "Non, l’entraide doit respecter la liberté de chacun",
+            "explanation": "Les valeurs républicaines se complètent ; l’une ne supprime pas les autres."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T1_CH03": {
+    "title": "LES SYMBOLES DE LA RÉPUBLIQUE FRANÇAISE",
+    "activities": [
+      {
+        "type": "flag",
+        "title": "Coloriez le drapeau français",
+        "items": [
+          {
+            "label": "Bleu",
+            "target": "0",
+            "explanation": "De gauche à droite : bleu, blanc, rouge."
+          },
+          {
+            "label": "Blanc",
+            "target": "1",
+            "explanation": "De gauche à droite : bleu, blanc, rouge."
+          },
+          {
+            "label": "Rouge",
+            "target": "2",
+            "explanation": "De gauche à droite : bleu, blanc, rouge."
+          }
+        ]
+      },
+      {
+        "type": "select-symbols",
+        "title": "Retrouvez les symboles officiels de la République",
+        "instructions": "Parmi ces dix images, sélectionnez les quatre symboles officiels de la République.",
+        "items": [
+          {
+            "icon": "drapeau",
+            "label": "Le drapeau tricolore",
+            "correct": true,
+            "explanation": "Le drapeau bleu, blanc, rouge est l’emblème national.",
+            "image": "assets/symboles/flag.svg"
+          },
+          {
+            "icon": "marianne",
+            "label": "Marianne",
+            "correct": true,
+            "explanation": "Marianne est un symbole officiel de la République : elle la personnifie et se trouve notamment dans les mairies. Elle est à sélectionner.",
+            "image": "assets/symboles/marianne.svg"
+          },
+          {
+            "icon": "devise",
+            "label": "Liberté, Égalité, Fraternité",
+            "correct": true,
+            "explanation": "Il s’agit de la devise de la République.",
+            "image": "assets/symboles/devise.svg"
+          },
+          {
+            "icon": "hymne",
+            "label": "La Marseillaise",
+            "correct": true,
+            "explanation": "La Marseillaise est l’hymne national.",
+            "image": "assets/symboles/hymn.svg"
+          },
+          {
+            "icon": "coq",
+            "label": "Le coq",
+            "correct": false,
+            "explanation": "Le coq est un emblème historique et culturel de la France. Il ne fait pas partie des quatre symboles officiels à sélectionner dans cet exercice.",
+            "image": "assets/symboles/coq.svg"
+          },
+          {
+            "icon": "baguette",
+            "label": "La baguette",
+            "correct": false,
+            "explanation": "La baguette relève du patrimoine culturel et gastronomique.",
+            "image": "assets/symboles/baguette.svg"
+          },
+          {
+            "icon": "tour",
+            "label": "La tour Eiffel",
+            "correct": false,
+            "explanation": "La tour Eiffel est un monument emblématique de Paris et de la France.",
+            "image": "assets/symboles/tower.svg"
+          },
+          {
+            "icon": "beret",
+            "label": "Le béret",
+            "correct": false,
+            "explanation": "Le béret est une représentation culturelle et vestimentaire ; il ne fait pas partie des quatre symboles officiels demandés.",
+            "image": "assets/symboles/beret.svg"
+          },
+          {
+            "icon": "bonnet",
+            "label": "Le bonnet phrygien",
+            "correct": false,
+            "explanation": "Le bonnet phrygien est un symbole historique de liberté et coiffe Marianne. Pris seul, il ne fait pas partie des quatre réponses demandées.",
+            "image": "assets/symboles/bonnet.svg"
+          },
+          {
+            "icon": "croissant",
+            "label": "Le croissant",
+            "correct": false,
+            "explanation": "Le croissant appartient aux représentations gastronomiques de la France.",
+            "image": "assets/symboles/croissant.svg"
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T1_CH04": {
+    "title": "LA LAÏCITÉ",
+    "activities": [
+      {
+        "type": "classify",
+        "title": "Laïcité : analysez le contexte",
+        "items": [
+          {
+            "label": "Un agent public porte une kippa pendant l’exercice de ses fonctions",
+            "target": "Incompatible avec la neutralité",
+            "explanation": "Un agent public doit être neutre dans l’exercice de ses fonctions."
+          },
+          {
+            "label": "Un usager porte un signe religieux en entrant dans une mairie, visage découvert",
+            "target": "Compatible avec la neutralité",
+            "explanation": "Un usager n’est pas soumis à la même obligation de neutralité qu’un agent public."
+          },
+          {
+            "label": "Une agente publique porte un signe religieux sur ses vêtements pendant son service",
+            "target": "Incompatible avec la neutralité",
+            "explanation": "L’obligation de neutralité concerne les agents publics en service."
+          },
+          {
+            "label": "Un agent explique une démarche de la même façon à une personne croyante et à une personne non croyante",
+            "target": "Compatible avec la neutralité",
+            "explanation": "La neutralité garantit un traitement sans discrimination."
+          },
+          {
+            "label": "Un agent refuse un dossier uniquement à cause de la religion de l’usager",
+            "target": "Incompatible avec la neutralité",
+            "explanation": "Un service public ne doit pas discriminer selon les convictions."
+          },
+          {
+            "label": "Une personne change de religion ou décide de ne plus croire",
+            "target": "Compatible avec la neutralité",
+            "explanation": "La liberté de conscience comprend le droit de croire, de ne pas croire et de changer de conviction."
+          },
+          {
+            "label": "Un agent profite de son accueil au guichet pour convaincre les usagers d’adopter sa religion",
+            "target": "Incompatible avec la neutralité",
+            "explanation": "Le prosélytisme dans l’exercice d’une fonction publique est contraire à la neutralité."
+          },
+          {
+            "label": "À l’accueil d’une mairie, une personne refuse de présenter le document d’identité demandé à tous pour la démarche, en invoquant ses convictions.",
+            "target": "Application d’une règle commune",
+            "explanation": "L’exigence administrative commune, lorsqu’elle est nécessaire à la démarche, ne disparaît pas du fait des convictions personnelles."
+          }
+        ],
+        "groups": [
+          "Compatible avec la neutralité",
+          "Incompatible avec la neutralité",
+          "Application d’une règle commune"
+        ],
+        "instructions": "Pour chaque situation, faites glisser la carte ou cliquez sur la catégorie qui convient. « Compatible avec la neutralité » : la liberté de conscience et l’égalité de traitement sont respectées. « Incompatible avec la neutralité » : un agent ou un service public exprime une préférence religieuse ou discrimine. « Application d’une règle commune » : une règle générale de sécurité ou de fonctionnement s’impose à tous."
+      },
+      {
+        "type": "cases",
+        "title": "Laïcité : choisissez la réponse adaptée au statut et au contexte",
+        "instructions": "Lisez le statut de la personne, le lieu et les circonstances. Choisissez la réponse la plus précise : la neutralité des agents ne signifie pas l’interdiction de toute expression religieuse pour les usagers.",
+        "items": [
+          {
+            "prompt": "Une agente territoriale assure l’accueil de la mairie. Elle souhaite porter un signe religieux visible pendant ce service. Quelle réponse est adaptée ?",
+            "options": [
+              "Le signe est possible si aucun usager ne se plaint",
+              "La neutralité s’applique dans l’exercice de ses fonctions, même si elle accueille peu de public",
+              "Seuls les agents titulaires sont concernés, pas les contractuels"
+            ],
+            "answer": "La neutralité s’applique dans l’exercice de ses fonctions, même si elle accueille peu de public",
+            "explanation": "Le statut d’agent public implique la neutralité pendant les fonctions ; le nombre d’usagers ou le type de contrat ne supprime pas cette obligation."
+          },
+          {
+            "prompt": "Un visiteur entre dans une mairie avec une kippa, visage découvert. Il respecte le fonctionnement du service. Que peut faire le service ?",
+            "options": [
+              "L’accueillir sans lui imposer la neutralité applicable aux agents",
+              "L’accueillir uniquement après le retrait de la kippa",
+              "Refuser toute démarche administrative liée à une personne portant un signe religieux"
+            ],
+            "answer": "L’accueillir sans lui imposer la neutralité applicable aux agents",
+            "explanation": "Un usager peut exprimer ses convictions dans le respect du fonctionnement du service et des règles applicables."
+          },
+          {
+            "prompt": "Une agente explique une procédure administrative. Un usager lui demande de lui recommander sa propre religion. Quelle attitude convient ?",
+            "options": [
+              "Répondre à titre personnel puisqu’il s’agit d’une demande de l’usager",
+              "Présenter plusieurs religions comme des choix recommandés par le service",
+              "Rester dans le cadre de la démarche et ne pas promouvoir de conviction personnelle"
+            ],
+            "answer": "Rester dans le cadre de la démarche et ne pas promouvoir de conviction personnelle",
+            "explanation": "L’initiative de l’usager n’autorise pas l’agent à promouvoir une religion dans l’exercice de ses fonctions."
+          },
+          {
+            "prompt": "En dehors de ses fonctions, un agent public participe à une cérémonie religieuse, sans se présenter comme représentant du service. Que permet de conclure la laïcité ?",
+            "options": [
+              "Sa liberté de conscience demeure ; la neutralité professionnelle ne supprime pas sa vie personnelle",
+              "Il doit demander à tous les usagers leur accord avant d’y participer",
+              "Son absence de signe religieux au travail lui interdit ensuite toute pratique personnelle"
+            ],
+            "answer": "Sa liberté de conscience demeure ; la neutralité professionnelle ne supprime pas sa vie personnelle",
+            "explanation": "La liberté de conscience demeure dans la vie personnelle. Les autres obligations professionnelles restent distinctes."
+          },
+          {
+            "prompt": "Une règle de sécurité nécessaire à un équipement public impose une tenue particulière à tous les participants. Une personne demande d’y déroger uniquement au nom de ses convictions. Quel raisonnement adopter ?",
+            "options": [
+              "Toute conviction permet automatiquement une dérogation",
+              "Vérifier que la règle est justifiée et appliquée à tous ; les convictions seules ne dispensent pas de la respecter",
+              "Interdire définitivement l’accès à tous les croyants"
+            ],
+            "answer": "Vérifier que la règle est justifiée et appliquée à tous ; les convictions seules ne dispensent pas de la respecter",
+            "explanation": "Il faut distinguer une règle commune justifiée d’une discrimination visant une religion."
+          },
+          {
+            "prompt": "Au guichet, une personne non croyante reçoit volontairement un traitement moins favorable parce qu’elle critique une religion. Quel principe est en cause ?",
+            "options": [
+              "La neutralité et l’égalité de traitement, qui protègent aussi les personnes non croyantes",
+              "La neutralité uniquement si cette personne adhère à une autre religion",
+              "Aucun principe, car une personne athée n’a pas de liberté de conscience"
+            ],
+            "answer": "La neutralité et l’égalité de traitement, qui protègent aussi les personnes non croyantes",
+            "explanation": "La liberté de conscience protège le fait de croire, de ne pas croire et de changer de conviction."
+          }
+        ]
+      }
+    ]
+  },
+  "SCR_REV_T1_CH05": {
+    "title": "LA LANGUE DE LA RÉPUBLIQUE",
+    "activities": [
+      {
+        "type": "cases",
+        "title": "Quelle place pour le français dans cette situation ?",
+        "items": [
+          {
+            "prompt": "Une mairie rédige un acte administratif. Quelle langue doit être utilisée ?",
+            "options": [
+              "Le français",
+              "Uniquement la langue choisie par le demandeur",
+              "Uniquement l’anglais"
+            ],
+            "answer": "Le français",
+            "explanation": "Le français est la langue de la République et de l’administration."
+          },
+          {
+            "prompt": "Une famille parle une autre langue à la maison. Est-ce contraire au principe de langue de la République ?",
+            "options": [
+              "Non, ce principe n’interdit pas l’usage privé d’autres langues",
+              "Oui, le français est obligatoire dans toute conversation",
+              "Oui, sauf pendant les vacances"
+            ],
+            "answer": "Non, ce principe n’interdit pas l’usage privé d’autres langues",
+            "explanation": "La langue officielle ne supprime pas la diversité linguistique dans la vie privée."
+          },
+          {
+            "prompt": "Une personne apprend le français pour comprendre un courrier de la préfecture. Quel est l’intérêt principal ?",
+            "options": [
+              "Gagner en autonomie dans ses démarches",
+              "Renoncer à sa langue maternelle",
+              "Ne plus avoir besoin de vérifier les informations"
+            ],
+            "answer": "Gagner en autonomie dans ses démarches",
+            "explanation": "Comprendre les consignes et les documents aide à agir de manière autonome."
+          },
+          {
+            "prompt": "Des amis utilisent une langue régionale entre eux. Que faut-il comprendre ?",
+            "options": [
+              "Une langue régionale peut être utilisée sans remplacer la langue officielle",
+              "Toute langue régionale est interdite",
+              "La région peut abolir le français dans ses actes officiels"
+            ],
+            "answer": "Une langue régionale peut être utilisée sans remplacer la langue officielle",
+            "explanation": "Le français officiel et la pratique d’autres langues sont compatibles."
+          }
+        ]
+      },
+      {
+        "type": "languages-map",
+        "title": "Les langues régionales : une étiquette par région",
+        "instructions": "Chaque étiquette regroupe des langues traditionnellement parlées dans une région. Cliquez sur l’étiquette, puis sur la région correspondante, ou glissez-la sur la carte. Une seule étiquette est présentée à la fois. Les langues citées sont parlées dans des secteurs de la région, pas nécessairement sur tout son territoire.",
+        "items": [
+          {
+            "label": "Breton · gallo",
+            "target": "53",
+            "targets": [
+              "53"
+            ],
+            "explanation": "Bretagne : breton surtout à l’ouest, gallo surtout à l’est."
+          },
+          {
+            "label": "Normand",
+            "target": "28",
+            "targets": [
+              "28"
+            ],
+            "explanation": "Normandie : le normand fait partie des langues d’oïl."
+          },
+          {
+            "label": "Picard · flamand occidental",
+            "target": "32",
+            "targets": [
+              "32"
+            ],
+            "explanation": "Hauts-de-France : picard dans plusieurs parties de la région ; flamand occidental dans une partie du Nord."
+          },
+          {
+            "label": "Alsacien · francique · lorrain · champenois · wallon · franc-comtois",
+            "target": "44",
+            "targets": [
+              "44"
+            ],
+            "explanation": "Grand Est : alsacien en Alsace ; francique en Moselle ; lorrain et welche ; champenois et ardennais ; wallon dans la pointe de Givet. Le franc-comtois est également présent dans certaines communes du sud de l’Alsace."
+          },
+          {
+            "label": "Bourguignon-morvandiau · franc-comtois · francoprovençal",
+            "target": "27",
+            "targets": [
+              "27"
+            ],
+            "explanation": "Bourgogne-Franche-Comté : langues d’oïl bourguignon-morvandiau et franc-comtois ; francoprovençal dans une partie du Jura."
+          },
+          {
+            "label": "Gallo · poitevin-saintongeais",
+            "target": "52",
+            "targets": [
+              "52"
+            ],
+            "explanation": "Pays de la Loire : gallo dans une partie de la Loire-Atlantique ; poitevin-saintongeais notamment en Vendée. Les langues ne couvrent pas toute la région."
+          },
+          {
+            "label": "Parlers du Croissant (secteurs du Berry)",
+            "target": "24",
+            "targets": [
+              "24"
+            ],
+            "explanation": "Centre-Val de Loire : les parlers du Croissant concernent certains secteurs méridionaux du Berry, dans une zone de transition entre langues d’oïl et occitan."
+          },
+          {
+            "label": "Basque · poitevin-saintongeais · occitan (gascon, limousin) · parlers du Croissant",
+            "target": "75",
+            "targets": [
+              "75"
+            ],
+            "explanation": "Nouvelle-Aquitaine : basque dans les Pyrénées-Atlantiques ; poitevin-saintongeais au nord-ouest ; occitan gascon, béarnais et limousin dans leurs aires respectives ; parlers du Croissant au nord du Limousin."
+          },
+          {
+            "label": "Catalan · occitan (languedocien, gascon)",
+            "target": "76",
+            "targets": [
+              "76"
+            ],
+            "explanation": "Occitanie : catalan dans les Pyrénées-Orientales ; occitan languedocien et gascon dans différentes parties de la région."
+          },
+          {
+            "label": "Francoprovençal · occitan (auvergnat, vivaro-alpin) · parlers du Croissant",
+            "target": "84",
+            "targets": [
+              "84"
+            ],
+            "explanation": "Auvergne-Rhône-Alpes : francoprovençal notamment en Savoie et dans le Lyonnais ; occitan auvergnat et vivaro-alpin ; parlers du Croissant au nord du Massif central."
+          },
+          {
+            "label": "Occitan (provençal, vivaro-alpin) · parlers liguriens",
+            "target": "93",
+            "targets": [
+              "93"
+            ],
+            "explanation": "Provence-Alpes-Côte d’Azur : occitan provençal et vivaro-alpin ; parlers liguriens notamment autour de Menton et dans la vallée de la Roya."
+          },
+          {
+            "label": "Corse",
+            "target": "94",
+            "targets": [
+              "94"
+            ],
+            "explanation": "Corse : langue corse."
+          }
+        ],
+        "showOverseas": false
+      }
+    ]
+  },
+  "SCR_REV_T1_CH06": {
+    "title": "LE CONTRAT D'ENGAGEMENT À RESPECTER LES PRINCIPES DE LA RÉPUBLIQUE",
+    "activities": [
+      {
+        "type": "binary",
+        "title": "Cet engagement appartient-il au contrat ?",
+        "items": [
+          {
+            "prompt": "Respecter la liberté et la dignité des personnes",
+            "options": [
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
+            ],
+            "answer": "Contrat d’engagement",
+            "explanation": "Le respect des personnes est un engagement républicain."
+          },
+          {
+            "prompt": "Respecter l’égalité entre les femmes et les hommes",
+            "options": [
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
+            ],
+            "answer": "Contrat d’engagement",
+            "explanation": "L’égalité est un principe à respecter."
+          },
+          {
+            "prompt": "Respecter les lois de la République",
+            "options": [
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
+            ],
+            "answer": "Contrat d’engagement",
+            "explanation": "Une conviction personnelle ne dispense pas du respect de la loi."
+          },
+          {
+            "prompt": "Renoncer à sa langue maternelle à la maison",
+            "options": [
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
+            ],
+            "answer": "Pas contrat d’engagement",
+            "explanation": "Le contrat ne supprime pas l’usage privé de sa langue."
+          },
+          {
+            "prompt": "Adopter obligatoirement une religion",
+            "options": [
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
+            ],
+            "answer": "Pas contrat d’engagement",
+            "explanation": "La liberté de conscience protège aussi le droit de ne pas croire."
+          },
+          {
+            "prompt": "Respecter la liberté de conscience",
+            "options": [
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
+            ],
+            "answer": "Contrat d’engagement",
+            "explanation": "Chacun peut avoir des convictions différentes."
+          },
+          {
+            "prompt": "Voter pour le même parti que le Gouvernement",
+            "options": [
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
+            ],
+            "answer": "Pas contrat d’engagement",
+            "explanation": "Les opinions politiques ne sont pas imposées par le contrat."
+          },
+          {
+            "prompt": "Respecter la devise et les symboles de la République",
+            "options": [
+              "Contrat d’engagement",
+              "Pas contrat d’engagement"
+            ],
+            "answer": "Contrat d’engagement",
+            "explanation": "Le contrat comporte le respect des principes et symboles républicains."
+          }
+        ]
+      },
+      {
+        "type": "cases",
+        "title": "Appliquez un engagement à une situation",
+        "items": [
+          {
+            "prompt": "Une personne invoque sa tradition pour refuser l’égalité entre femmes et hommes.",
+            "options": [
+              "L’égalité doit être respectée",
+              "La tradition permet d’écarter la règle",
+              "Le contrat ne concerne pas l’égalité"
+            ],
+            "answer": "L’égalité doit être respectée",
+            "explanation": "Respecter ses traditions ne permet pas de refuser un principe républicain."
+          },
+          {
+            "prompt": "Une personne pense devoir abandonner toute pratique religieuse pour respecter le contrat.",
+            "options": [
+              "Elle peut conserver ses convictions en respectant la loi et les droits des autres",
+              "Elle doit devenir athée",
+              "Elle doit adopter une religion officielle"
+            ],
+            "answer": "Elle peut conserver ses convictions en respectant la loi et les droits des autres",
+            "explanation": "Le contrat est compatible avec la liberté de conscience."
+          },
+          {
+            "prompt": "Une personne croit que signer le contrat donne automatiquement la nationalité française.",
+            "options": [
+              "La signature ne remplace pas la procédure de naturalisation",
+              "La signature suffit",
+              "La signature remplace tous les justificatifs"
+            ],
+            "answer": "La signature ne remplace pas la procédure de naturalisation",
+            "explanation": "Un engagement à respecter des principes est distinct de l’obtention de la nationalité."
+          }
+        ]
+      }
+    ]
+  }
+}

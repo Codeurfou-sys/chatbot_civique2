@@ -1,0 +1,5852 @@
+[
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-001",
+    "key": "9d593fcda39d",
+    "screen": "BIL_ITEM_CSP_001",
+    "theme": 1,
+    "level": 0,
+    "question": "À quoi correspond la date du 14 juillet ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-002",
+    "key": "b5dda1666441",
+    "screen": "BIL_ITEM_CSP_002",
+    "theme": 1,
+    "level": 1,
+    "question": "Quel est l'un des symboles officiels de la République française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-003",
+    "key": "a654ccfaee0a",
+    "screen": "BIL_ITEM_CSP_003",
+    "theme": 1,
+    "level": 1,
+    "question": "Le principe d'égalité signifie que :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-004",
+    "key": "b31c8b1bcc44",
+    "screen": "BIL_ITEM_CSP_004",
+    "theme": 1,
+    "level": 0,
+    "question": "« Liberté, Égalité, Fraternité », c'est :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-005",
+    "key": "a74f26976bb8",
+    "screen": "BIL_ITEM_CSP_005",
+    "theme": 1,
+    "level": 1,
+    "question": "A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe...) ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-006",
+    "key": "48071726b160",
+    "screen": "BIL_ITEM_CSP_006",
+    "theme": 1,
+    "level": 1,
+    "question": "Certains métiers peuvent-ils être réservés aux hommes ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-007",
+    "key": "fa250c90502d",
+    "screen": "BIL_ITEM_CSP_007",
+    "theme": 1,
+    "level": 1,
+    "question": "De quand date la Constitution de la Ve République ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-008",
+    "key": "ca3f73fc46a7",
+    "screen": "BIL_ITEM_CSP_008",
+    "theme": 1,
+    "level": 0,
+    "question": "Le régime politique de la France est :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-009",
+    "key": "6562940879b8",
+    "screen": "BIL_ITEM_CSP_009",
+    "theme": 1,
+    "level": 0,
+    "question": "Lequel de ces symboles représente officiellement la République française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-010",
+    "key": "08d92504a829",
+    "screen": "BIL_ITEM_CSP_010",
+    "theme": 1,
+    "level": 0,
+    "question": "Où peut-on voir la devise de la République ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-011",
+    "key": "7c41025b9981",
+    "screen": "BIL_ITEM_CSP_011",
+    "theme": 1,
+    "level": 0,
+    "question": "Lequel de ces ensembles regroupe uniquement des symboles officiels de la République française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-012",
+    "key": "6d9f44d79371",
+    "screen": "BIL_ITEM_CSP_012",
+    "theme": 1,
+    "level": 1,
+    "question": "Qu'est-ce que l'égalité ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-013",
+    "key": "1d2a1544112d",
+    "screen": "BIL_ITEM_CSP_013",
+    "theme": 1,
+    "level": 1,
+    "question": "Que signifie la liberté ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-014",
+    "key": "f0c90a17ab61",
+    "screen": "BIL_ITEM_CSP_014",
+    "theme": 1,
+    "level": 1,
+    "question": "Que signifie le mot « fraternité » dans la devise française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-015",
+    "key": "a279e704882f",
+    "screen": "BIL_ITEM_CSP_015",
+    "theme": 1,
+    "level": 0,
+    "question": "Quel animal est un symbole traditionnel de la France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-016",
+    "key": "961e35d8bd85",
+    "screen": "BIL_ITEM_CSP_016",
+    "theme": 1,
+    "level": 1,
+    "question": "Quel est l'un des rôles des associations ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-017",
+    "key": "327955ce45e7",
+    "screen": "BIL_ITEM_CSP_017",
+    "theme": 1,
+    "level": 0,
+    "question": "Quel est le nom de l'hymne national français ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-018",
+    "key": "5d8257949cb9",
+    "screen": "BIL_ITEM_CSP_018",
+    "theme": 1,
+    "level": 0,
+    "question": "Quel symbole de la République française est tricolore ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-019",
+    "key": "31a655a55997",
+    "screen": "BIL_ITEM_CSP_019",
+    "theme": 1,
+    "level": 0,
+    "question": "Quelle est la date de la fête nationale française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-020",
+    "key": "5b06e95126ba",
+    "screen": "BIL_ITEM_CSP_020",
+    "theme": 1,
+    "level": 0,
+    "question": "Quelle est la devise de la République française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-021",
+    "key": "6afcf1957d3e",
+    "screen": "BIL_ITEM_CSP_021",
+    "theme": 1,
+    "level": 0,
+    "question": "Quelle est la langue officielle de la République française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-022",
+    "key": "d83449dbec98",
+    "screen": "BIL_ITEM_CSP_022",
+    "theme": 1,
+    "level": 1,
+    "question": "Quelle est la place de la langue française dans la République ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-023",
+    "key": "72a655a3f067",
+    "screen": "BIL_ITEM_CSP_023",
+    "theme": 1,
+    "level": 1,
+    "question": "Quelle liberté permet à chacun d'exprimer ses idées ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-024",
+    "key": "99bb31bf56e8",
+    "screen": "BIL_ITEM_CSP_024",
+    "theme": 1,
+    "level": 1,
+    "question": "Quelle proposition est correcte ? La liberté d'expression :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-025",
+    "key": "ec7bba5ba008",
+    "screen": "BIL_ITEM_CSP_025",
+    "theme": 1,
+    "level": 0,
+    "question": "Quelles sont les couleurs du drapeau français, dans l'ordre ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-026",
+    "key": "8d3f5f296e64",
+    "screen": "BIL_ITEM_CSP_026",
+    "theme": 1,
+    "level": 0,
+    "question": "Qu'est-ce que la Marseillaise ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-027",
+    "key": "2bd05d3c61c9",
+    "screen": "BIL_ITEM_CSP_027",
+    "theme": 1,
+    "level": 0,
+    "question": "Qu'est-ce qui est traditionnellement organisé sur les Champs-Élysées le 14 juillet pour célébrer la fête nationale ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-028",
+    "key": "e1630d49490e",
+    "screen": "BIL_ITEM_CSP_028",
+    "theme": 1,
+    "level": 0,
+    "question": "Qui est Marianne ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-029",
+    "key": "9ccc0a46b7a1",
+    "screen": "BIL_ITEM_CSP_029",
+    "theme": 1,
+    "level": 1,
+    "question": "Une personne peut-elle changer librement de religion ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-030",
+    "key": "058314c22e77",
+    "screen": "BIL_ITEM_CSP_030",
+    "theme": 1,
+    "level": 1,
+    "question": "« La France est une République indivisible, ..., démocratique et sociale. » Quel mot complète correctement l'article 1er de la Constitution ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-031",
+    "key": "b7288365ae3c",
+    "screen": "BIL_ITEM_CSP_031",
+    "theme": 1,
+    "level": 2,
+    "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-032",
+    "key": "4562f7ee97cd",
+    "screen": "BIL_ITEM_CSP_032",
+    "theme": 1,
+    "level": 1,
+    "question": "Que permet le principe de laïcité ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-033",
+    "key": "775c6db33a3b",
+    "screen": "BIL_ITEM_CSP_033",
+    "theme": 1,
+    "level": 1,
+    "question": "Quel droit est garanti par la laïcité ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-034",
+    "key": "0fb3986006ec",
+    "screen": "BIL_ITEM_CSP_034",
+    "theme": 1,
+    "level": 1,
+    "question": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-035",
+    "key": "188ae698d2b6",
+    "screen": "BIL_ITEM_CSP_035",
+    "theme": 1,
+    "level": 2,
+    "question": "Qu'est-ce que la laïcité ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-036",
+    "key": "38d44f7f434c",
+    "screen": "BIL_ITEM_CSP_036",
+    "theme": 1,
+    "level": 1,
+    "question": "Un enfant peut-il refuser d'aller à l'école pour une raison religieuse ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T1-037",
+    "key": "a5c42db1b768",
+    "screen": "BIL_ITEM_CSP_037",
+    "theme": 1,
+    "level": 1,
+    "question": "Une personne a-t-elle le droit de ne pas croire en une religion ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-001",
+    "key": "a62700570f06",
+    "screen": "BIL_ITEM_CSP_038",
+    "theme": 2,
+    "level": 0,
+    "question": "Qui nomme le Premier ministre ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-002",
+    "key": "2f0d9b52abc4",
+    "screen": "BIL_ITEM_CSP_039",
+    "theme": 2,
+    "level": 0,
+    "question": "Le Parlement est composé :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-003",
+    "key": "685acd27a9b8",
+    "screen": "BIL_ITEM_CSP_040",
+    "theme": 2,
+    "level": 2,
+    "question": "Qu'est-ce que le pouvoir exécutif ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-004",
+    "key": "e8964272578a",
+    "screen": "BIL_ITEM_CSP_041",
+    "theme": 2,
+    "level": 1,
+    "question": "Les dirigeants sont élus par les citoyens dans :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-005",
+    "key": "5fbe29d1856e",
+    "screen": "BIL_ITEM_CSP_042",
+    "theme": 2,
+    "level": 0,
+    "question": "A-t-on le droit de ne pas respecter une loi ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-006",
+    "key": "f4c1185ca4a2",
+    "screen": "BIL_ITEM_CSP_043",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui doit respecter la loi ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-007",
+    "key": "a34f20698ccb",
+    "screen": "BIL_ITEM_CSP_044",
+    "theme": 2,
+    "level": 1,
+    "question": "Quel est le rôle de l'autorité judiciaire ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-008",
+    "key": "cf6a7627d0f6",
+    "screen": "BIL_ITEM_CSP_045",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel pouvoir détient un juge ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-009",
+    "key": "e080bd5081aa",
+    "screen": "BIL_ITEM_CSP_046",
+    "theme": 2,
+    "level": 1,
+    "question": "L'autorité judiciaire est exercée par :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-010",
+    "key": "ea977b640370",
+    "screen": "BIL_ITEM_CSP_047",
+    "theme": 2,
+    "level": 1,
+    "question": "Que se passe-t-il si un ministre ne respecte pas la loi ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-011",
+    "key": "05799183a61f",
+    "screen": "BIL_ITEM_CSP_048",
+    "theme": 2,
+    "level": 2,
+    "question": "Combien de députés composent l'Assemblée nationale ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-012",
+    "key": "71a9fb7fd386",
+    "screen": "BIL_ITEM_CSP_049",
+    "theme": 2,
+    "level": 2,
+    "question": "Quand sont élus les Sénateurs ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-013",
+    "key": "50831d97b802",
+    "screen": "BIL_ITEM_CSP_050",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui est élu lors des élections municipales ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-014",
+    "key": "82ddc0c09d97",
+    "screen": "BIL_ITEM_CSP_051",
+    "theme": 2,
+    "level": 0,
+    "question": "Qui est élu lors des élections présidentielles ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-015",
+    "key": "59cdd7de4623",
+    "screen": "BIL_ITEM_CSP_052",
+    "theme": 2,
+    "level": 0,
+    "question": "À partir de quel âge a-t-on le droit de voter ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-016",
+    "key": "7da6be0ca6f9",
+    "screen": "BIL_ITEM_CSP_053",
+    "theme": 2,
+    "level": 1,
+    "question": "Pour combien de temps est élu le président de la République française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-017",
+    "key": "dc81a451c79a",
+    "screen": "BIL_ITEM_CSP_054",
+    "theme": 2,
+    "level": 2,
+    "question": "Pour combien de temps sont élus les députés ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-018",
+    "key": "78a1e4881134",
+    "screen": "BIL_ITEM_CSP_055",
+    "theme": 2,
+    "level": 2,
+    "question": "Pour combien de temps sont élus les Sénateurs ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-019",
+    "key": "82f476bf9ab0",
+    "screen": "BIL_ITEM_CSP_056",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui possède le pouvoir exécutif ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-020",
+    "key": "fdf25e462a87",
+    "screen": "BIL_ITEM_CSP_057",
+    "theme": 2,
+    "level": 2,
+    "question": "Quelle condition est nécessaire pour voter aux élections ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-021",
+    "key": "cdd9dbfabc89",
+    "screen": "BIL_ITEM_CSP_058",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui peut voter aux élections en France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-022",
+    "key": "8f25bd4ec578",
+    "screen": "BIL_ITEM_CSP_059",
+    "theme": 2,
+    "level": 2,
+    "question": "Que signifie « suffrage universel » ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-023",
+    "key": "ff6374d47672",
+    "screen": "BIL_ITEM_CSP_060",
+    "theme": 2,
+    "level": 1,
+    "question": "Concernant les partis politiques, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-024",
+    "key": "b041ec416e99",
+    "screen": "BIL_ITEM_CSP_061",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle des députés ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-025",
+    "key": "a188826884d2",
+    "screen": "BIL_ITEM_CSP_062",
+    "theme": 2,
+    "level": 1,
+    "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-026",
+    "key": "28ecdf34538c",
+    "screen": "BIL_ITEM_CSP_063",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui possède le pouvoir législatif ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-027",
+    "key": "7d159e7c7a2f",
+    "screen": "BIL_ITEM_CSP_064",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui sanctionne l'auteur d'un vol ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-028",
+    "key": "56f6ed435450",
+    "screen": "BIL_ITEM_CSP_065",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui élit les députés ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-029",
+    "key": "72e6c1f095b6",
+    "screen": "BIL_ITEM_CSP_066",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui vote les lois ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-030",
+    "key": "f414017e53e6",
+    "screen": "BIL_ITEM_CSP_067",
+    "theme": 2,
+    "level": 0,
+    "question": "Qui réside au palais de l'Élysée ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-031",
+    "key": "764ecb8dc500",
+    "screen": "BIL_ITEM_CSP_068",
+    "theme": 2,
+    "level": 1,
+    "question": "Combien y a-t-il de départements en France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-032",
+    "key": "ee09d1a2b3a0",
+    "screen": "BIL_ITEM_CSP_069",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui représente l'État dans un département ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-033",
+    "key": "33560dc2499f",
+    "screen": "BIL_ITEM_CSP_070",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui dirige la commune ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-034",
+    "key": "8e8dd3e7d856",
+    "screen": "BIL_ITEM_CSP_071",
+    "theme": 2,
+    "level": 1,
+    "question": "Est-ce que le président de la République a tous les pouvoirs ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-035",
+    "key": "6f188dbc3221",
+    "screen": "BIL_ITEM_CSP_072",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui est le préfet ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-036",
+    "key": "a54ad974e852",
+    "screen": "BIL_ITEM_CSP_073",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle du Parlement ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-037",
+    "key": "f716aac37a0a",
+    "screen": "BIL_ITEM_CSP_074",
+    "theme": 2,
+    "level": 0,
+    "question": "Quel est le régime politique de la France aujourd'hui ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-038",
+    "key": "f40030b8688a",
+    "screen": "BIL_ITEM_CSP_075",
+    "theme": 2,
+    "level": 2,
+    "question": "Combien d'États font partie de l'Union européenne au 1er janvier 2025 ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-039",
+    "key": "c04529ae3c1d",
+    "screen": "BIL_ITEM_CSP_076",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel État n'est pas membre de l'Union européenne ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-040",
+    "key": "075f752239ae",
+    "screen": "BIL_ITEM_CSP_077",
+    "theme": 2,
+    "level": 2,
+    "question": "Quelle condition est nécessaire pour voter aux élections européennes ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-041",
+    "key": "74f81a7da3c0",
+    "screen": "BIL_ITEM_CSP_078",
+    "theme": 2,
+    "level": 2,
+    "question": "À quelle fréquence les élections européennes sont-elles organisées ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-042",
+    "key": "a35bae15a777",
+    "screen": "BIL_ITEM_CSP_079",
+    "theme": 2,
+    "level": 0,
+    "question": "Lequel de ces pays est un pays fondateur de l'Union européenne ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-043",
+    "key": "842e555bd708",
+    "screen": "BIL_ITEM_CSP_080",
+    "theme": 2,
+    "level": 0,
+    "question": "Quelle est la monnaie utilisée en France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-044",
+    "key": "24e9924723b7",
+    "screen": "BIL_ITEM_CSP_081",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui élit les députés européens ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T2-045",
+    "key": "cbddf812194e",
+    "screen": "BIL_ITEM_CSP_082",
+    "theme": 2,
+    "level": 2,
+    "question": "Quand célèbre-t-on la journée de l'Europe ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-001",
+    "key": "fff9d261a7ca",
+    "screen": "BIL_ITEM_CSP_083",
+    "theme": 3,
+    "level": 1,
+    "question": "Comment s'appelle la Constitution actuelle de la France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-002",
+    "key": "9719c5e31309",
+    "screen": "BIL_ITEM_CSP_084",
+    "theme": 3,
+    "level": 1,
+    "question": "Comment s'appelle le texte qui énonce les droits et devoirs des personnes résidant en France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-003",
+    "key": "462abc8ac6d9",
+    "screen": "BIL_ITEM_CSP_085",
+    "theme": 3,
+    "level": 2,
+    "question": "Concernant les droits individuels, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-004",
+    "key": "b0bbfa5c7f10",
+    "screen": "BIL_ITEM_CSP_086",
+    "theme": 3,
+    "level": 0,
+    "question": "De quelle année date la Déclaration des droits de l'homme et du citoyen ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-005",
+    "key": "50c31cf25996",
+    "screen": "BIL_ITEM_CSP_087",
+    "theme": 3,
+    "level": 2,
+    "question": "Lequel de ces droits est un droit fondamental ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-006",
+    "key": "76515f9b396d",
+    "screen": "BIL_ITEM_CSP_088",
+    "theme": 3,
+    "level": 1,
+    "question": "Parmi ces textes, lequel garantit les droits et libertés en France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-007",
+    "key": "34d961155c6f",
+    "screen": "BIL_ITEM_CSP_089",
+    "theme": 3,
+    "level": 0,
+    "question": "Qu'est-ce que la liberté d'expression ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-008",
+    "key": "1eee1e537939",
+    "screen": "BIL_ITEM_CSP_090",
+    "theme": 3,
+    "level": 0,
+    "question": "Quel droit permet à une personne de se défendre devant la justice ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-009",
+    "key": "0571be7cbc67",
+    "screen": "BIL_ITEM_CSP_091",
+    "theme": 3,
+    "level": 0,
+    "question": "Quel est le texte fondateur établissant en France les droits et les devoirs de chaque citoyen ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-010",
+    "key": "e783d99e80e0",
+    "screen": "BIL_ITEM_CSP_092",
+    "theme": 3,
+    "level": 0,
+    "question": "Quel texte a été adopté pendant la Révolution française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-011",
+    "key": "3e9a90451104",
+    "screen": "BIL_ITEM_CSP_093",
+    "theme": 3,
+    "level": 1,
+    "question": "Quelle liberté permet à une personne de ne pas avoir de religion ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-012",
+    "key": "b29bf95ac3cb",
+    "screen": "BIL_ITEM_CSP_094",
+    "theme": 3,
+    "level": 0,
+    "question": "Une femme peut-elle avorter ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-013",
+    "key": "ff3f55b8bd09",
+    "screen": "BIL_ITEM_CSP_095",
+    "theme": 3,
+    "level": 0,
+    "question": "Est-il toujours possible de divorcer ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-014",
+    "key": "20b91ec446d3",
+    "screen": "BIL_ITEM_CSP_096",
+    "theme": 3,
+    "level": 1,
+    "question": "La peine de mort est :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-015",
+    "key": "5bb8930f385d",
+    "screen": "BIL_ITEM_CSP_097",
+    "theme": 3,
+    "level": 2,
+    "question": "Concernant les limites aux libertés individuelles, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-016",
+    "key": "e50fdf3284c6",
+    "screen": "BIL_ITEM_CSP_098",
+    "theme": 3,
+    "level": 0,
+    "question": "En France, est-ce légal d'être marié à plusieurs personnes en même temps ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-017",
+    "key": "6f4e6f709986",
+    "screen": "BIL_ITEM_CSP_099",
+    "theme": 3,
+    "level": 0,
+    "question": "Faut-il réduire ses déchets ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-018",
+    "key": "6d65c91a6163",
+    "screen": "BIL_ITEM_CSP_100",
+    "theme": 3,
+    "level": 2,
+    "question": "Jeter une bouteille dans la rue est :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-019",
+    "key": "efd99fe90a61",
+    "screen": "BIL_ITEM_CSP_101",
+    "theme": 3,
+    "level": 2,
+    "question": "Pourquoi les libertés individuelles peuvent-elles être limitées ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-020",
+    "key": "e0b211786b16",
+    "screen": "BIL_ITEM_CSP_102",
+    "theme": 3,
+    "level": 0,
+    "question": "Que doit faire une personne en cas d'accident ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-021",
+    "key": "0e88b22920ee",
+    "screen": "BIL_ITEM_CSP_103",
+    "theme": 3,
+    "level": 2,
+    "question": "Que permet la citoyenneté française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-022",
+    "key": "33e02183e9c3",
+    "screen": "BIL_ITEM_CSP_104",
+    "theme": 3,
+    "level": 0,
+    "question": "Que risque une personne qui ne respecte pas la loi ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-023",
+    "key": "286e3804c580",
+    "screen": "BIL_ITEM_CSP_105",
+    "theme": 3,
+    "level": 0,
+    "question": "Quel est le rôle de la gendarmerie ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-024",
+    "key": "539bd470f38e",
+    "screen": "BIL_ITEM_CSP_106",
+    "theme": 3,
+    "level": 0,
+    "question": "Quel est le rôle de la police ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-025",
+    "key": "761fbddd00be",
+    "screen": "BIL_ITEM_CSP_107",
+    "theme": 3,
+    "level": 1,
+    "question": "Qu'est-ce qu'une infraction ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-026",
+    "key": "ec42e62903c4",
+    "screen": "BIL_ITEM_CSP_108",
+    "theme": 3,
+    "level": 2,
+    "question": "Comment peut-on réduire ses déchets ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-027",
+    "key": "3350a3f271cb",
+    "screen": "BIL_ITEM_CSP_109",
+    "theme": 3,
+    "level": 2,
+    "question": "Déposer une machine à laver cassée sur le trottoir est :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-028",
+    "key": "ad139810908a",
+    "screen": "BIL_ITEM_CSP_110",
+    "theme": 3,
+    "level": 2,
+    "question": "En quoi consiste la traite des êtres humains ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-029",
+    "key": "c72365c679ec",
+    "screen": "BIL_ITEM_CSP_111",
+    "theme": 3,
+    "level": 1,
+    "question": "Que doit faire une victime de violences ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T3-030",
+    "key": "04eb7aa63a1b",
+    "screen": "BIL_ITEM_CSP_112",
+    "theme": 3,
+    "level": 1,
+    "question": "Quelle est l'infraction la plus grave ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-001",
+    "key": "8023c87a0037",
+    "screen": "BIL_ITEM_CSP_113",
+    "theme": 4,
+    "level": 0,
+    "question": "En quelle année a débuté la Révolution française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-002",
+    "key": "958827d87b42",
+    "screen": "BIL_ITEM_CSP_114",
+    "theme": 4,
+    "level": 0,
+    "question": "Qui était Napoléon Ier ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-003",
+    "key": "1017516250bd",
+    "screen": "BIL_ITEM_CSP_115",
+    "theme": 4,
+    "level": 2,
+    "question": "Lequel de ces personnages historiques est français ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-004",
+    "key": "ada06ba94f2c",
+    "screen": "BIL_ITEM_CSP_116",
+    "theme": 4,
+    "level": 0,
+    "question": "Dans quelle République est-on aujourd'hui ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-005",
+    "key": "e84e7362816e",
+    "screen": "BIL_ITEM_CSP_117",
+    "theme": 4,
+    "level": 1,
+    "question": "Qu'est-ce que la Shoah ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-006",
+    "key": "128504c6c02b",
+    "screen": "BIL_ITEM_CSP_118",
+    "theme": 4,
+    "level": 2,
+    "question": "Recherchez un pays du monde qui a été colonisé par la France."
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-007",
+    "key": "60912e907f52",
+    "screen": "BIL_ITEM_CSP_119",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui a rendu l'école gratuite, laïque et obligatoire ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-008",
+    "key": "3efa71bc0b55",
+    "screen": "BIL_ITEM_CSP_120",
+    "theme": 4,
+    "level": 0,
+    "question": "Quand a eu lieu la Seconde Guerre mondiale ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-009",
+    "key": "f14e9a8196a9",
+    "screen": "BIL_ITEM_CSP_121",
+    "theme": 4,
+    "level": 0,
+    "question": "Quand a eu lieu la Première Guerre mondiale ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-010",
+    "key": "7dfbc5f4fb31",
+    "screen": "BIL_ITEM_CSP_122",
+    "theme": 4,
+    "level": 2,
+    "question": "En quelle année a été créée la Communauté Économique Européenne (CEE) ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-011",
+    "key": "df89668e73bb",
+    "screen": "BIL_ITEM_CSP_123",
+    "theme": 4,
+    "level": 1,
+    "question": "Le 11 novembre est un jour férié. À quoi correspond cette date ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-012",
+    "key": "4a4e4f6fcdc0",
+    "screen": "BIL_ITEM_CSP_124",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui a été le premier président élu sous la Ve République ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-013",
+    "key": "58be3d0344df",
+    "screen": "BIL_ITEM_CSP_125",
+    "theme": 4,
+    "level": 1,
+    "question": "En quelle année l'esclavage a-t-il été aboli définitivement en France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-014",
+    "key": "6e1de019e205",
+    "screen": "BIL_ITEM_CSP_126",
+    "theme": 4,
+    "level": 2,
+    "question": "Depuis quelle année l'école publique est-elle gratuite ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-015",
+    "key": "273af4d5ff2f",
+    "screen": "BIL_ITEM_CSP_127",
+    "theme": 4,
+    "level": 0,
+    "question": "Combien y a-t-il eu de Républiques en France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-016",
+    "key": "ade3b07d14e7",
+    "screen": "BIL_ITEM_CSP_128",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était le roi de France au moment de la Révolution française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-017",
+    "key": "07c2edc3acb3",
+    "screen": "BIL_ITEM_CSP_129",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui a fondé la Ve République ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-018",
+    "key": "30f33ff793b5",
+    "screen": "BIL_ITEM_CSP_130",
+    "theme": 4,
+    "level": 1,
+    "question": "Que célèbre-t-on le 14 juillet ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-019",
+    "key": "9d42b9e8525d",
+    "screen": "BIL_ITEM_CSP_131",
+    "theme": 4,
+    "level": 0,
+    "question": "Quelle guerre a eu lieu entre 1914 et 1918 ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-020",
+    "key": "05989cb3adb9",
+    "screen": "BIL_ITEM_CSP_132",
+    "theme": 4,
+    "level": 1,
+    "question": "Pourquoi l'année 1958 est-elle importante pour la France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-021",
+    "key": "82d7a4fcc74b",
+    "screen": "BIL_ITEM_CSP_133",
+    "theme": 4,
+    "level": 1,
+    "question": "Citez un fleuve qui coule en France."
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-022",
+    "key": "4d03817a5d47",
+    "screen": "BIL_ITEM_CSP_134",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle ville est française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-023",
+    "key": "97057d155aa3",
+    "screen": "BIL_ITEM_CSP_135",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel océan borde la côte ouest française ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-024",
+    "key": "dd952f67ee23",
+    "screen": "BIL_ITEM_CSP_136",
+    "theme": 4,
+    "level": 1,
+    "question": "Qu'est-ce que Paris ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-025",
+    "key": "1bc92d0c68c3",
+    "screen": "BIL_ITEM_CSP_137",
+    "theme": 4,
+    "level": 0,
+    "question": "Quelle est la capitale de la France ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-026",
+    "key": "74bf6d634336",
+    "screen": "BIL_ITEM_CSP_138",
+    "theme": 4,
+    "level": 0,
+    "question": "Sur quel continent se situe la France métropolitaine ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-027",
+    "key": "8ed5a41ff9f2",
+    "screen": "BIL_ITEM_CSP_139",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle île est un département d'outre-mer français ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-028",
+    "key": "3f81a426da9c",
+    "screen": "BIL_ITEM_CSP_140",
+    "theme": 4,
+    "level": 1,
+    "question": "Combien y a-t-il de régions en France métropolitaine ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-029",
+    "key": "267faa50581b",
+    "screen": "BIL_ITEM_CSP_141",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle ville est un grand port maritime ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-030",
+    "key": "00daa954943e",
+    "screen": "BIL_ITEM_CSP_142",
+    "theme": 4,
+    "level": 0,
+    "question": "Quelle est la mer au sud de la France métropolitaine ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-031",
+    "key": "70709205b909",
+    "screen": "BIL_ITEM_CSP_143",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle ville est située au bord de la mer Méditerranée ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-032",
+    "key": "45059d785d34",
+    "screen": "BIL_ITEM_CSP_144",
+    "theme": 4,
+    "level": 1,
+    "question": "Où se situe la Corse ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-033",
+    "key": "8627a8dcfa23",
+    "screen": "BIL_ITEM_CSP_145",
+    "theme": 4,
+    "level": 0,
+    "question": "Quelle chaîne de montagnes est située entre la France et l'Italie ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-034",
+    "key": "8d0b836b8153",
+    "screen": "BIL_ITEM_CSP_146",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était Molière ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-035",
+    "key": "817c9a3392f5",
+    "screen": "BIL_ITEM_CSP_147",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était Charles Baudelaire ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-036",
+    "key": "c68b399dbe7c",
+    "screen": "BIL_ITEM_CSP_148",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était George Sand ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-037",
+    "key": "bab3a6d8d771",
+    "screen": "BIL_ITEM_CSP_149",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était Simone de Beauvoir ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-038",
+    "key": "ecf0cc23a7e4",
+    "screen": "BIL_ITEM_CSP_150",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était Albert Camus ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-039",
+    "key": "368f73d5a90d",
+    "screen": "BIL_ITEM_CSP_151",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était Paul Cézanne ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-040",
+    "key": "525587e1de7d",
+    "screen": "BIL_ITEM_CSP_152",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Marc Chagall ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-041",
+    "key": "cf5812dcc08b",
+    "screen": "BIL_ITEM_CSP_153",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Joséphine Baker ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-042",
+    "key": "e923d87b4d96",
+    "screen": "BIL_ITEM_CSP_154",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était une chanteuse française célèbre ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-043",
+    "key": "92d5bc9ae6e9",
+    "screen": "BIL_ITEM_CSP_155",
+    "theme": 4,
+    "level": 2,
+    "question": "Qu'est-ce que le Louvre ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-044",
+    "key": "2c4c01eb860e",
+    "screen": "BIL_ITEM_CSP_156",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était Jean de La Fontaine ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-045",
+    "key": "63fab846449a",
+    "screen": "BIL_ITEM_CSP_157",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel écrivain est français ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-046",
+    "key": "2a080ebc85c3",
+    "screen": "BIL_ITEM_CSP_158",
+    "theme": 4,
+    "level": 0,
+    "question": "Dans quelle ville se trouve la tour Eiffel ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T4-047",
+    "key": "0798be9af067",
+    "screen": "BIL_ITEM_CSP_159",
+    "theme": 4,
+    "level": 0,
+    "question": "Quand célèbre-t-on Noël ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-001",
+    "key": "333e81b07f6c",
+    "screen": "BIL_ITEM_CSP_160",
+    "theme": 5,
+    "level": 0,
+    "question": "Quel numéro d'urgence permet d'appeler le SAMU ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-002",
+    "key": "0d135c8a7396",
+    "screen": "BIL_ITEM_CSP_161",
+    "theme": 5,
+    "level": 0,
+    "question": "Quel numéro d'urgence permet d'appeler les pompiers ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-003",
+    "key": "34ce32252a66",
+    "screen": "BIL_ITEM_CSP_162",
+    "theme": 5,
+    "level": 1,
+    "question": "Après avoir obtenu le permis de conduire, que faut-il faire pour pouvoir conduire sa voiture ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-004",
+    "key": "0934de38a5ff",
+    "screen": "BIL_ITEM_CSP_163",
+    "theme": 5,
+    "level": 2,
+    "question": "À quelles conditions un mariage est-il reconnu juridiquement ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-005",
+    "key": "7334d8de6939",
+    "screen": "BIL_ITEM_CSP_164",
+    "theme": 5,
+    "level": 1,
+    "question": "Quand faut-il déclarer son enfant au service d'état civil de la mairie ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-006",
+    "key": "c0526c1d1673",
+    "screen": "BIL_ITEM_CSP_165",
+    "theme": 5,
+    "level": 1,
+    "question": "Le travail non déclaré est :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-007",
+    "key": "0db5be263e9d",
+    "screen": "BIL_ITEM_CSP_166",
+    "theme": 5,
+    "level": 2,
+    "question": "Que doit faire un employeur pour fixer un salaire ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-008",
+    "key": "ee9fe3b4dd42",
+    "screen": "BIL_ITEM_CSP_167",
+    "theme": 5,
+    "level": 1,
+    "question": "Qu'est-ce que le SMIC ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-009",
+    "key": "e72166d07285",
+    "screen": "BIL_ITEM_CSP_168",
+    "theme": 5,
+    "level": 1,
+    "question": "Quelle est la première démarche à réaliser pour chercher un emploi ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-010",
+    "key": "1a508a731333",
+    "screen": "BIL_ITEM_CSP_169",
+    "theme": 5,
+    "level": 2,
+    "question": "Quelle est la durée légale du temps de travail par semaine ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-011",
+    "key": "9b09b271bb36",
+    "screen": "BIL_ITEM_CSP_170",
+    "theme": 5,
+    "level": 0,
+    "question": "Qui est aidé par France Travail ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-012",
+    "key": "e22718f41eff",
+    "screen": "BIL_ITEM_CSP_171",
+    "theme": 5,
+    "level": 1,
+    "question": "Une personne étrangère en situation régulière peut créer son entreprise :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-013",
+    "key": "8f6d4be99060",
+    "screen": "BIL_ITEM_CSP_172",
+    "theme": 5,
+    "level": 0,
+    "question": "Une femme peut-elle créer son entreprise ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-014",
+    "key": "9e75cb4e21a0",
+    "screen": "BIL_ITEM_CSP_173",
+    "theme": 5,
+    "level": 0,
+    "question": "À partir de quel âge un mineur peut-il travailler ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-015",
+    "key": "d79f17be5324",
+    "screen": "BIL_ITEM_CSP_174",
+    "theme": 5,
+    "level": 1,
+    "question": "Auprès de quel organisme faut-il demander le remboursement des frais de santé ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-016",
+    "key": "234c9161717c",
+    "screen": "BIL_ITEM_CSP_175",
+    "theme": 5,
+    "level": 1,
+    "question": "Qu'est-ce qu'un numéro d'urgence ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-017",
+    "key": "cfa37ef3f445",
+    "screen": "BIL_ITEM_CSP_176",
+    "theme": 5,
+    "level": 1,
+    "question": "Concernant l'accès aux soins, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-018",
+    "key": "9ba011dee412",
+    "screen": "BIL_ITEM_CSP_177",
+    "theme": 5,
+    "level": 1,
+    "question": "En cas de problème de santé non urgent, à qui faut-il s'adresser en premier ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-019",
+    "key": "3ba567595446",
+    "screen": "BIL_ITEM_CSP_178",
+    "theme": 5,
+    "level": 2,
+    "question": "Quel est le rôle du médecin traitant ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-020",
+    "key": "108812f6b6a1",
+    "screen": "BIL_ITEM_CSP_179",
+    "theme": 5,
+    "level": 1,
+    "question": "Dans quelles situations doit-on se rendre aux urgences de l'hôpital ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-021",
+    "key": "ea43bc553eec",
+    "screen": "BIL_ITEM_CSP_180",
+    "theme": 5,
+    "level": 2,
+    "question": "Quel est l'objectif des vaccinations obligatoires ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-022",
+    "key": "fc486e7874c2",
+    "screen": "BIL_ITEM_CSP_181",
+    "theme": 5,
+    "level": 2,
+    "question": "À quoi sert la carte Vitale ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-023",
+    "key": "2fe8af7f2156",
+    "screen": "BIL_ITEM_CSP_182",
+    "theme": 5,
+    "level": 2,
+    "question": "À quoi sert une mutuelle santé ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-024",
+    "key": "3c207d455bd1",
+    "screen": "BIL_ITEM_CSP_183",
+    "theme": 5,
+    "level": 0,
+    "question": "Jusqu'à quel âge l'école est-elle obligatoire ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-025",
+    "key": "8143c5c28887",
+    "screen": "BIL_ITEM_CSP_184",
+    "theme": 5,
+    "level": 1,
+    "question": "L'autorité parentale prévoit l'obligation :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-026",
+    "key": "068ad2cd1da7",
+    "screen": "BIL_ITEM_CSP_185",
+    "theme": 5,
+    "level": 1,
+    "question": "Pour qui l'école est-elle obligatoire ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-027",
+    "key": "ea35c8a1ed0b",
+    "screen": "BIL_ITEM_CSP_186",
+    "theme": 5,
+    "level": 0,
+    "question": "Quel diplôme obtient-on à la fin du lycée ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-028",
+    "key": "80e129403293",
+    "screen": "BIL_ITEM_CSP_187",
+    "theme": 5,
+    "level": 0,
+    "question": "Dans quels établissements scolaires vont les élèves après l'école élémentaire ?"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-029",
+    "key": "adf5d5a4b595",
+    "screen": "BIL_ITEM_CSP_188",
+    "theme": 5,
+    "level": 1,
+    "question": "Un enfant inscrit à l'école :"
+  },
+  {
+    "exam": "CSP",
+    "id": "CSP-T5-030",
+    "key": "116c364d9f5b",
+    "screen": "BIL_ITEM_CSP_189",
+    "theme": 5,
+    "level": 1,
+    "question": "Les enfants qui ne parlent pas français :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-001",
+    "key": "3c576ea34840",
+    "screen": "BIL_ITEM_CR_001",
+    "theme": 1,
+    "level": 0,
+    "question": "Parmi les propositions suivantes, laquelle constitue une participation citoyenne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-002",
+    "key": "29908e57d2b8",
+    "screen": "BIL_ITEM_CR_002",
+    "theme": 1,
+    "level": 0,
+    "question": "Que garantit la liberté d'expression ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-003",
+    "key": "a8688dde45e6",
+    "screen": "BIL_ITEM_CR_003",
+    "theme": 1,
+    "level": 1,
+    "question": "À quoi sert un titre de séjour ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-004",
+    "key": "99131ee2b868",
+    "screen": "BIL_ITEM_CR_004",
+    "theme": 1,
+    "level": 1,
+    "question": "La liberté de circulation permet à toute personne de :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-005",
+    "key": "5998b374c638",
+    "screen": "BIL_ITEM_CR_005",
+    "theme": 1,
+    "level": 1,
+    "question": "Sur quel site internet peut-on retrouver les symboles de la République française ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-006",
+    "key": "f4a913a883d3",
+    "screen": "BIL_ITEM_CR_006",
+    "theme": 1,
+    "level": 1,
+    "question": "Complétez ces paroles de la Marseillaise : « Aux armes [...] ! Formez vos bataillons. »"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-007",
+    "key": "42b84941c764",
+    "screen": "BIL_ITEM_CR_007",
+    "theme": 1,
+    "level": 1,
+    "question": "Complétez les paroles de la Marseillaise : « Allons enfants de la Patrie [...] »"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-008",
+    "key": "0b9e1a2dca1c",
+    "screen": "BIL_ITEM_CR_008",
+    "theme": 1,
+    "level": 1,
+    "question": "En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-009",
+    "key": "58131d719cec",
+    "screen": "BIL_ITEM_CR_009",
+    "theme": 1,
+    "level": 1,
+    "question": "Concernant la pratique de la religion, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-010",
+    "key": "a3db7e07b006",
+    "screen": "BIL_ITEM_CR_010",
+    "theme": 1,
+    "level": 1,
+    "question": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école parce qu'ils sont mixtes ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-011",
+    "key": "63cdce2920d1",
+    "screen": "BIL_ITEM_CR_011",
+    "theme": 1,
+    "level": 1,
+    "question": "Quelle est la devise de la France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-012",
+    "key": "75944e949199",
+    "screen": "BIL_ITEM_CR_012",
+    "theme": 1,
+    "level": 0,
+    "question": "La répudiation de sa femme est :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-013",
+    "key": "fb0baabc2bf5",
+    "screen": "BIL_ITEM_CR_013",
+    "theme": 1,
+    "level": 1,
+    "question": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-014",
+    "key": "c696ca0a2ff4",
+    "screen": "BIL_ITEM_CR_014",
+    "theme": 1,
+    "level": 1,
+    "question": "Peut-on brûler publiquement un drapeau français ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-015",
+    "key": "58f26e5650b5",
+    "screen": "BIL_ITEM_CR_015",
+    "theme": 1,
+    "level": 2,
+    "question": "Que fait l'État pour lutter contre les discriminations ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-016",
+    "key": "2114588a9bce",
+    "screen": "BIL_ITEM_CR_016",
+    "theme": 1,
+    "level": 2,
+    "question": "Que représente Marianne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-017",
+    "key": "629d67baa632",
+    "screen": "BIL_ITEM_CR_017",
+    "theme": 1,
+    "level": 2,
+    "question": "Qu'est-ce que la liberté d'association ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-018",
+    "key": "70c899799e87",
+    "screen": "BIL_ITEM_CR_018",
+    "theme": 1,
+    "level": 2,
+    "question": "Qu'est-ce que la liberté ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-019",
+    "key": "8d3f5f296e64",
+    "screen": "BIL_ITEM_CR_019",
+    "theme": 1,
+    "level": 2,
+    "question": "Qu'est-ce que la Marseillaise ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-020",
+    "key": "dc2b1ef8a246",
+    "screen": "BIL_ITEM_CR_020",
+    "theme": 1,
+    "level": 2,
+    "question": "Sur quel document peut-on voir Marianne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-021",
+    "key": "e9822085039c",
+    "screen": "BIL_ITEM_CR_021",
+    "theme": 1,
+    "level": 2,
+    "question": "Un employeur refuse d'embaucher des femmes dans son entreprise. Que dit la loi ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-022",
+    "key": "1c3bf5bd051a",
+    "screen": "BIL_ITEM_CR_022",
+    "theme": 1,
+    "level": 2,
+    "question": "Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-023",
+    "key": "d83449dbec98",
+    "screen": "BIL_ITEM_CR_023",
+    "theme": 1,
+    "level": 0,
+    "question": "Quelle est la place de la langue française dans la République ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-024",
+    "key": "03109a3971d5",
+    "screen": "BIL_ITEM_CR_024",
+    "theme": 1,
+    "level": 2,
+    "question": "Lequel de ces symboles est un symbole officiel de la République française ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-025",
+    "key": "ecefe3c05e61",
+    "screen": "BIL_ITEM_CR_025",
+    "theme": 1,
+    "level": 2,
+    "question": "A-t-on le droit d'insulter publiquement quelqu'un parce qu'il est différent (handicap, apparence physique, sexe…) ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-026",
+    "key": "0fb3986006ec",
+    "screen": "BIL_ITEM_CR_026",
+    "theme": 1,
+    "level": 2,
+    "question": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-027",
+    "key": "b7288365ae3c",
+    "screen": "BIL_ITEM_CR_027",
+    "theme": 1,
+    "level": 1,
+    "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-028",
+    "key": "a5c42db1b768",
+    "screen": "BIL_ITEM_CR_028",
+    "theme": 1,
+    "level": 0,
+    "question": "Une personne a-t-elle le droit de ne pas croire en une religion ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-029",
+    "key": "775c6db33a3b",
+    "screen": "BIL_ITEM_CR_029",
+    "theme": 1,
+    "level": 0,
+    "question": "Quel droit est garanti par la laïcité ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-030",
+    "key": "cca274776b6e",
+    "screen": "BIL_ITEM_CR_030",
+    "theme": 1,
+    "level": 1,
+    "question": "À l'école publique, qui peut porter des signes religieux très visibles ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-031",
+    "key": "7b95d5a5283d",
+    "screen": "BIL_ITEM_CR_031",
+    "theme": 1,
+    "level": 1,
+    "question": "Selon le principe de laïcité, que signifie la neutralité de l'État ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-032",
+    "key": "c52b1e31ed50",
+    "screen": "BIL_ITEM_CR_032",
+    "theme": 1,
+    "level": 1,
+    "question": "Que peut faire un usager du service public dans une mairie ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-033",
+    "key": "a909762b99c0",
+    "screen": "BIL_ITEM_CR_033",
+    "theme": 1,
+    "level": 1,
+    "question": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-034",
+    "key": "2aeb951f1a44",
+    "screen": "BIL_ITEM_CR_034",
+    "theme": 1,
+    "level": 1,
+    "question": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-035",
+    "key": "c9ac907e5122",
+    "screen": "BIL_ITEM_CR_035",
+    "theme": 1,
+    "level": 1,
+    "question": "Que garantit le principe de laïcité ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-036",
+    "key": "1d07e1cb5e28",
+    "screen": "BIL_ITEM_CR_036",
+    "theme": 1,
+    "level": 1,
+    "question": "A-t-on le droit de changer de religion ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-037",
+    "key": "edafe6d61391",
+    "screen": "BIL_ITEM_CR_037",
+    "theme": 1,
+    "level": 2,
+    "question": "Que représente la laïcité ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-038",
+    "key": "8835b9429412",
+    "screen": "BIL_ITEM_CR_038",
+    "theme": 1,
+    "level": 2,
+    "question": "Qu'est-ce qui est interdit par la Charte de la laïcité à l'école ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T1-039",
+    "key": "181840e63e4d",
+    "screen": "BIL_ITEM_CR_039",
+    "theme": 1,
+    "level": 1,
+    "question": "Que dit l'article 1er de la Constitution française ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-001",
+    "key": "94aab202857a",
+    "screen": "BIL_ITEM_CR_040",
+    "theme": 2,
+    "level": 2,
+    "question": "Qu'est-ce que l'État de droit ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-002",
+    "key": "d39cf38799b0",
+    "screen": "BIL_ITEM_CR_041",
+    "theme": 2,
+    "level": 1,
+    "question": "Le président de la République a commis un crime. Quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-003",
+    "key": "4ecdbce7abff",
+    "screen": "BIL_ITEM_CR_042",
+    "theme": 2,
+    "level": 1,
+    "question": "La loi est l'expression de :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-004",
+    "key": "c453f2372a1a",
+    "screen": "BIL_ITEM_CR_043",
+    "theme": 2,
+    "level": 2,
+    "question": "Quelle est la durée du mandat du conseil municipal et du maire ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-005",
+    "key": "ee6e0094871d",
+    "screen": "BIL_ITEM_CR_044",
+    "theme": 2,
+    "level": 2,
+    "question": "Que garantit l'État de droit ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-006",
+    "key": "4c279e4bc2d8",
+    "screen": "BIL_ITEM_CR_045",
+    "theme": 2,
+    "level": 2,
+    "question": "Une personne peut-elle voter à la place d'une autre ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-007",
+    "key": "f301363b4e9f",
+    "screen": "BIL_ITEM_CR_046",
+    "theme": 2,
+    "level": 2,
+    "question": "Est-ce que le vote est obligatoire ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-008",
+    "key": "e6eaeea7d3e5",
+    "screen": "BIL_ITEM_CR_047",
+    "theme": 2,
+    "level": 2,
+    "question": "À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-009",
+    "key": "d2ad9fa79458",
+    "screen": "BIL_ITEM_CR_048",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui dirige l'action du gouvernement ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-010",
+    "key": "a62700570f06",
+    "screen": "BIL_ITEM_CR_049",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui nomme le Premier ministre ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-011",
+    "key": "4095c96e45ae",
+    "screen": "BIL_ITEM_CR_050",
+    "theme": 2,
+    "level": 2,
+    "question": "Quelle est l'organisation administrative de la France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-012",
+    "key": "a9766c425e0a",
+    "screen": "BIL_ITEM_CR_051",
+    "theme": 2,
+    "level": 2,
+    "question": "Qu'est-ce que le pouvoir législatif ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-013",
+    "key": "25fa2463ee01",
+    "screen": "BIL_ITEM_CR_052",
+    "theme": 2,
+    "level": 2,
+    "question": "Pourquoi séparer les trois pouvoirs dans une démocratie ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-014",
+    "key": "7d159e7c7a2f",
+    "screen": "BIL_ITEM_CR_053",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui sanctionne l'auteur d'un vol ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-015",
+    "key": "71fc13511fd4",
+    "screen": "BIL_ITEM_CR_054",
+    "theme": 2,
+    "level": 1,
+    "question": "Quel est le rôle du gouvernement ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-016",
+    "key": "ea977b640370",
+    "screen": "BIL_ITEM_CR_055",
+    "theme": 2,
+    "level": 1,
+    "question": "Que se passe-t-il si un ministre ne respecte pas la loi ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-017",
+    "key": "05799183a61f",
+    "screen": "BIL_ITEM_CR_056",
+    "theme": 2,
+    "level": 2,
+    "question": "Combien de députés composent l'Assemblée nationale ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-018",
+    "key": "cdd9dbfabc89",
+    "screen": "BIL_ITEM_CR_057",
+    "theme": 2,
+    "level": 0,
+    "question": "Qui peut voter aux élections en France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-019",
+    "key": "78a1e4881134",
+    "screen": "BIL_ITEM_CR_058",
+    "theme": 2,
+    "level": 1,
+    "question": "Pour combien de temps sont élus les sénateurs ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-020",
+    "key": "a188826884d2",
+    "screen": "BIL_ITEM_CR_059",
+    "theme": 2,
+    "level": 1,
+    "question": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-021",
+    "key": "8e8dd3e7d856",
+    "screen": "BIL_ITEM_CR_060",
+    "theme": 2,
+    "level": 0,
+    "question": "Est-ce que le président de la République a tous les pouvoirs ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-022",
+    "key": "6f188dbc3221",
+    "screen": "BIL_ITEM_CR_061",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui est le préfet ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-023",
+    "key": "fdf25e462a87",
+    "screen": "BIL_ITEM_CR_062",
+    "theme": 2,
+    "level": 1,
+    "question": "Quelle condition est nécessaire pour voter aux élections ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-024",
+    "key": "33560dc2499f",
+    "screen": "BIL_ITEM_CR_063",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui dirige la commune ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-025",
+    "key": "f716aac37a0a",
+    "screen": "BIL_ITEM_CR_064",
+    "theme": 2,
+    "level": 0,
+    "question": "Quel est le régime politique de la France aujourd'hui ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-026",
+    "key": "815dae0a34c1",
+    "screen": "BIL_ITEM_CR_065",
+    "theme": 2,
+    "level": 2,
+    "question": "Qu'est-ce que l'Hôtel de Matignon ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-027",
+    "key": "2f0d9b52abc4",
+    "screen": "BIL_ITEM_CR_066",
+    "theme": 2,
+    "level": 2,
+    "question": "Le Parlement est composé :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-028",
+    "key": "5ad2c30d04b5",
+    "screen": "BIL_ITEM_CR_067",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle du président de la République ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-029",
+    "key": "a9548200381e",
+    "screen": "BIL_ITEM_CR_068",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle du Premier ministre ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-030",
+    "key": "f3ac32627e04",
+    "screen": "BIL_ITEM_CR_069",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui est le chef du gouvernement ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-031",
+    "key": "b2ca09f342c5",
+    "screen": "BIL_ITEM_CR_070",
+    "theme": 2,
+    "level": 2,
+    "question": "Combien y a-t-il de régions en France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-032",
+    "key": "5574cfe8f8c5",
+    "screen": "BIL_ITEM_CR_071",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle du Défenseur des droits ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-033",
+    "key": "e768871b91ac",
+    "screen": "BIL_ITEM_CR_072",
+    "theme": 2,
+    "level": 2,
+    "question": "Depuis quand l'euro est-il la monnaie unique ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-034",
+    "key": "7420376d58fb",
+    "screen": "BIL_ITEM_CR_073",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle principal du département ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-035",
+    "key": "b0536f736643",
+    "screen": "BIL_ITEM_CR_074",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle principal des communes ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-036",
+    "key": "5729a190b4c8",
+    "screen": "BIL_ITEM_CR_075",
+    "theme": 2,
+    "level": 1,
+    "question": "Combien de communes environ existe-t-il en France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-037",
+    "key": "e3e4e4c52bb9",
+    "screen": "BIL_ITEM_CR_076",
+    "theme": 2,
+    "level": 1,
+    "question": "Quel traité concerne la construction de l'Union européenne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-038",
+    "key": "d8b7adab5283",
+    "screen": "BIL_ITEM_CR_077",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel État a quitté l'Union européenne en 2020 ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-039",
+    "key": "2bdfa251caa3",
+    "screen": "BIL_ITEM_CR_078",
+    "theme": 2,
+    "level": 2,
+    "question": "Quelle est la devise de l'Union européenne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-040",
+    "key": "4657713f0013",
+    "screen": "BIL_ITEM_CR_079",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est l'hymne de l'Union européenne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-041",
+    "key": "c7264f6b635d",
+    "screen": "BIL_ITEM_CR_080",
+    "theme": 2,
+    "level": 2,
+    "question": "De quoi est composé le drapeau européen ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-042",
+    "key": "e54f4731dc76",
+    "screen": "BIL_ITEM_CR_081",
+    "theme": 2,
+    "level": 2,
+    "question": "De quelle couleur est le drapeau européen ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-043",
+    "key": "c6f7009e5cf7",
+    "screen": "BIL_ITEM_CR_082",
+    "theme": 2,
+    "level": 1,
+    "question": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-044",
+    "key": "a98deb473bdf",
+    "screen": "BIL_ITEM_CR_083",
+    "theme": 2,
+    "level": 2,
+    "question": "Où est le siège du Parlement européen ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-045",
+    "key": "2e71c4c32861",
+    "screen": "BIL_ITEM_CR_084",
+    "theme": 2,
+    "level": 2,
+    "question": "Où est le siège de la Commission européenne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-046",
+    "key": "c04529ae3c1d",
+    "screen": "BIL_ITEM_CR_085",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel État n'est pas membre de l'Union européenne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-047",
+    "key": "cbddf812194e",
+    "screen": "BIL_ITEM_CR_086",
+    "theme": 2,
+    "level": 2,
+    "question": "Quand célèbre-t-on la Journée de l'Europe ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-048",
+    "key": "74f81a7da3c0",
+    "screen": "BIL_ITEM_CR_087",
+    "theme": 2,
+    "level": 2,
+    "question": "À quelle fréquence les élections européennes sont-elles organisées ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-049",
+    "key": "075f752239ae",
+    "screen": "BIL_ITEM_CR_088",
+    "theme": 2,
+    "level": 2,
+    "question": "Quelle condition est nécessaire pour voter aux élections européennes ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T2-050",
+    "key": "fb3adbc24593",
+    "screen": "BIL_ITEM_CR_089",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel pays est un pays fondateur de l'Union européenne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-001",
+    "key": "f5ec1834b0e8",
+    "screen": "BIL_ITEM_CR_090",
+    "theme": 3,
+    "level": 1,
+    "question": "À quelle liberté la PMA fait-elle référence ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-002",
+    "key": "28865ef58006",
+    "screen": "BIL_ITEM_CR_091",
+    "theme": 3,
+    "level": 2,
+    "question": "Au nom de quoi l'État justifie-t-il la restriction des droits ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-003",
+    "key": "e0f0bd42cee5",
+    "screen": "BIL_ITEM_CR_092",
+    "theme": 3,
+    "level": 1,
+    "question": "Concernant le droit de se marier, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-004",
+    "key": "ff3f55b8bd09",
+    "screen": "BIL_ITEM_CR_093",
+    "theme": 3,
+    "level": 1,
+    "question": "Est-il toujours possible de divorcer ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-005",
+    "key": "20b91ec446d3",
+    "screen": "BIL_ITEM_CR_094",
+    "theme": 3,
+    "level": 1,
+    "question": "La peine de mort est :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-006",
+    "key": "5713d5184707",
+    "screen": "BIL_ITEM_CR_095",
+    "theme": 3,
+    "level": 2,
+    "question": "Laquelle de ces citations est inscrite dans la Déclaration des droits de l'homme et du citoyen de 1789 ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-007",
+    "key": "d465715adc77",
+    "screen": "BIL_ITEM_CR_096",
+    "theme": 3,
+    "level": 0,
+    "question": "Le recours à l'avortement est-il autorisé ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-008",
+    "key": "fbc4796cb14a",
+    "screen": "BIL_ITEM_CR_097",
+    "theme": 3,
+    "level": 2,
+    "question": "Que contient la Constitution ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-009",
+    "key": "d27697dffb75",
+    "screen": "BIL_ITEM_CR_098",
+    "theme": 3,
+    "level": 0,
+    "question": "Que garantit la liberté de la presse ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-010",
+    "key": "d753b24927c9",
+    "screen": "BIL_ITEM_CR_099",
+    "theme": 3,
+    "level": 2,
+    "question": "Que prévoit la Charte de l'environnement ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-011",
+    "key": "58c6508e2b7e",
+    "screen": "BIL_ITEM_CR_100",
+    "theme": 3,
+    "level": 0,
+    "question": "Que signifie la dignité humaine ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-012",
+    "key": "f1bb6fe19fdc",
+    "screen": "BIL_ITEM_CR_101",
+    "theme": 3,
+    "level": 0,
+    "question": "Que signifie le droit de manifester ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-013",
+    "key": "0c1544bd45de",
+    "screen": "BIL_ITEM_CR_102",
+    "theme": 3,
+    "level": 2,
+    "question": "Que signifie PMA ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-014",
+    "key": "a29717f03c41",
+    "screen": "BIL_ITEM_CR_103",
+    "theme": 3,
+    "level": 2,
+    "question": "Quel texte est le plus difficile à modifier ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-015",
+    "key": "a4db58b1ea2f",
+    "screen": "BIL_ITEM_CR_104",
+    "theme": 3,
+    "level": 2,
+    "question": "Quelle liberté permet à une personne de croire en la religion de son choix ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-016",
+    "key": "e8f54996fc35",
+    "screen": "BIL_ITEM_CR_105",
+    "theme": 3,
+    "level": 1,
+    "question": "Qu'est-ce que le droit de grève ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-017",
+    "key": "074428d15b9f",
+    "screen": "BIL_ITEM_CR_106",
+    "theme": 3,
+    "level": 2,
+    "question": "Qu'est-ce que la Constitution ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-018",
+    "key": "3aae19254429",
+    "screen": "BIL_ITEM_CR_107",
+    "theme": 3,
+    "level": 2,
+    "question": "Qui peut demander à avorter ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-019",
+    "key": "380973116413",
+    "screen": "BIL_ITEM_CR_108",
+    "theme": 3,
+    "level": 0,
+    "question": "Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-020",
+    "key": "d3869d961a3b",
+    "screen": "BIL_ITEM_CR_109",
+    "theme": 3,
+    "level": 1,
+    "question": "Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-021",
+    "key": "b12811801c31",
+    "screen": "BIL_ITEM_CR_110",
+    "theme": 3,
+    "level": 2,
+    "question": "Jeter un mégot par terre est :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-022",
+    "key": "e8d674090631",
+    "screen": "BIL_ITEM_CR_111",
+    "theme": 3,
+    "level": 1,
+    "question": "L'État peut-il limiter les droits et libertés ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-023",
+    "key": "596fa26fb944",
+    "screen": "BIL_ITEM_CR_112",
+    "theme": 3,
+    "level": 2,
+    "question": "Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l'environnement ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-024",
+    "key": "cbca09cfe836",
+    "screen": "BIL_ITEM_CR_113",
+    "theme": 3,
+    "level": 2,
+    "question": "Quelle proposition constitue une obligation ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-025",
+    "key": "09a04394a362",
+    "screen": "BIL_ITEM_CR_114",
+    "theme": 3,
+    "level": 1,
+    "question": "Pour quel motif peut-on limiter la liberté d'expression ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-026",
+    "key": "d473465d38fa",
+    "screen": "BIL_ITEM_CR_115",
+    "theme": 3,
+    "level": 1,
+    "question": "Pourquoi doit-on trier ses déchets ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-027",
+    "key": "c72365c679ec",
+    "screen": "BIL_ITEM_CR_116",
+    "theme": 3,
+    "level": 1,
+    "question": "Que doit faire une victime de violences ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-028",
+    "key": "b2381436aec9",
+    "screen": "BIL_ITEM_CR_117",
+    "theme": 3,
+    "level": 1,
+    "question": "Que doit-on faire face aux ordres des policiers ou gendarmes ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-029",
+    "key": "539bd470f38e",
+    "screen": "BIL_ITEM_CR_118",
+    "theme": 3,
+    "level": 1,
+    "question": "Quel est le rôle de la police ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-030",
+    "key": "44b81f5f76da",
+    "screen": "BIL_ITEM_CR_119",
+    "theme": 3,
+    "level": 1,
+    "question": "Quel est un exemple d'assistance à personne en danger ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-031",
+    "key": "f64406fa8349",
+    "screen": "BIL_ITEM_CR_120",
+    "theme": 3,
+    "level": 2,
+    "question": "Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-032",
+    "key": "dab587276469",
+    "screen": "BIL_ITEM_CR_121",
+    "theme": 3,
+    "level": 1,
+    "question": "Quelle est l'attitude à avoir lorsque l'on est témoin de violences ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-033",
+    "key": "04eb7aa63a1b",
+    "screen": "BIL_ITEM_CR_122",
+    "theme": 3,
+    "level": 1,
+    "question": "Quelle est l'infraction la plus grave ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-034",
+    "key": "4540da6ef54d",
+    "screen": "BIL_ITEM_CR_123",
+    "theme": 3,
+    "level": 1,
+    "question": "Quelle obligation concerne toutes les personnes résidant en France, quelle que soit leur nationalité ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-035",
+    "key": "f6727b20faf4",
+    "screen": "BIL_ITEM_CR_124",
+    "theme": 3,
+    "level": 1,
+    "question": "Quelle proposition représente un exemple de crime ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-036",
+    "key": "6dc1cb1f855f",
+    "screen": "BIL_ITEM_CR_125",
+    "theme": 3,
+    "level": 1,
+    "question": "Quelle proposition représente un exemple de délit ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-037",
+    "key": "50da1050eaed",
+    "screen": "BIL_ITEM_CR_126",
+    "theme": 3,
+    "level": 1,
+    "question": "Qui veille au maintien de l'ordre public ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T3-038",
+    "key": "8fe909c94aaa",
+    "screen": "BIL_ITEM_CR_127",
+    "theme": 3,
+    "level": 1,
+    "question": "S'agissant des déchets, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-001",
+    "key": "aba8f19a52d3",
+    "screen": "BIL_ITEM_CR_128",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel était le surnom de Louis XIV ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-002",
+    "key": "a8035ecf3f76",
+    "screen": "BIL_ITEM_CR_129",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel roi de France a été exécuté pendant la Révolution française ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-003",
+    "key": "6cf26e00d811",
+    "screen": "BIL_ITEM_CR_130",
+    "theme": 4,
+    "level": 1,
+    "question": "En quelle année Napoléon Ier est-il devenu empereur ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-004",
+    "key": "452ff66a523f",
+    "screen": "BIL_ITEM_CR_131",
+    "theme": 4,
+    "level": 1,
+    "question": "Lequel de ces personnages a un lien avec la République française ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-005",
+    "key": "5e05c2c790fd",
+    "screen": "BIL_ITEM_CR_132",
+    "theme": 4,
+    "level": 1,
+    "question": "De quand date l'appel à la résistance du général de Gaulle ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-006",
+    "key": "33095d257dd4",
+    "screen": "BIL_ITEM_CR_133",
+    "theme": 4,
+    "level": 1,
+    "question": "Pourquoi la Shoah est-elle étudiée à l'école ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-007",
+    "key": "a93975876201",
+    "screen": "BIL_ITEM_CR_134",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel pays a été colonisé par la France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-008",
+    "key": "478cccba0b70",
+    "screen": "BIL_ITEM_CR_135",
+    "theme": 4,
+    "level": 1,
+    "question": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-009",
+    "key": "f9d88f6780ad",
+    "screen": "BIL_ITEM_CR_136",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle est la première étape de la construction européenne en 1951 ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-010",
+    "key": "5a4954bc424b",
+    "screen": "BIL_ITEM_CR_137",
+    "theme": 4,
+    "level": 2,
+    "question": "Durant le mandat de quel président la peine de mort a-t-elle été abolie ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-011",
+    "key": "bd1f77b51041",
+    "screen": "BIL_ITEM_CR_138",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel régime politique a été mis en place pendant la Révolution française en 1792 ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-012",
+    "key": "b645d0c4dba9",
+    "screen": "BIL_ITEM_CR_139",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-013",
+    "key": "5be556a6ed46",
+    "screen": "BIL_ITEM_CR_140",
+    "theme": 4,
+    "level": 1,
+    "question": "En 1944, qu'est-ce qui a changé pour les femmes ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-014",
+    "key": "4c4ad970b6f5",
+    "screen": "BIL_ITEM_CR_141",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-015",
+    "key": "802d50adf1c4",
+    "screen": "BIL_ITEM_CR_142",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle peine a été supprimée en 1981 ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-016",
+    "key": "ca80f7121670",
+    "screen": "BIL_ITEM_CR_143",
+    "theme": 4,
+    "level": 1,
+    "question": "En quelle année l'euro est-il devenu la monnaie utilisée en France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-017",
+    "key": "3cde27791158",
+    "screen": "BIL_ITEM_CR_144",
+    "theme": 4,
+    "level": 1,
+    "question": "En quelle année a commencé la Première Guerre mondiale ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-018",
+    "key": "5d477ad6b98a",
+    "screen": "BIL_ITEM_CR_145",
+    "theme": 4,
+    "level": 2,
+    "question": "Où a eu lieu le débarquement en 1944 ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-019",
+    "key": "74f9adbd88c6",
+    "screen": "BIL_ITEM_CR_146",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-020",
+    "key": "2ee11e343d5c",
+    "screen": "BIL_ITEM_CR_147",
+    "theme": 4,
+    "level": 2,
+    "question": "Que fête-t-on le 8 mai ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-021",
+    "key": "18799258bb5b",
+    "screen": "BIL_ITEM_CR_148",
+    "theme": 4,
+    "level": 2,
+    "question": "Citez une mer ou un océan qui borde la France métropolitaine."
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-022",
+    "key": "ff0fc3a3aa6b",
+    "screen": "BIL_ITEM_CR_149",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel pays a une frontière terrestre avec la France métropolitaine ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-023",
+    "key": "e3349c3ae657",
+    "screen": "BIL_ITEM_CR_150",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle ville française est un port maritime ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-024",
+    "key": "51b180679d24",
+    "screen": "BIL_ITEM_CR_151",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle mer se situe entre la France et l'Angleterre ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-025",
+    "key": "8755f4bfc388",
+    "screen": "BIL_ITEM_CR_152",
+    "theme": 4,
+    "level": 1,
+    "question": "Qu'est-ce que la France d'outre-mer ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-026",
+    "key": "fcdbd98f2c4d",
+    "screen": "BIL_ITEM_CR_153",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle chaîne de montagnes est située entre la France et l'Espagne ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-027",
+    "key": "7e39dafbb6ba",
+    "screen": "BIL_ITEM_CR_154",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle île française se trouve dans l'océan Indien ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-028",
+    "key": "e4b5870c7aa3",
+    "screen": "BIL_ITEM_CR_155",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle est la population approximative de la France en 2025 ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-029",
+    "key": "8281f762bde5",
+    "screen": "BIL_ITEM_CR_156",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel fleuve traverse Paris ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-030",
+    "key": "e2cca05b2ca8",
+    "screen": "BIL_ITEM_CR_157",
+    "theme": 4,
+    "level": 1,
+    "question": "Lequel de ces pays partage des frontières terrestres avec la France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-036",
+    "key": "700dc3b95f4a",
+    "screen": "BIL_ITEM_CR_158",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-037",
+    "key": "eb69f3914444",
+    "screen": "BIL_ITEM_CR_159",
+    "theme": 4,
+    "level": 2,
+    "question": "Lequel de ces départements de France est le plus touristique ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-038",
+    "key": "2fdd7e1d3b44",
+    "screen": "BIL_ITEM_CR_160",
+    "theme": 4,
+    "level": 1,
+    "question": "Quand peut-on visiter gratuitement des lieux culturels en France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-039",
+    "key": "410e44ceadba",
+    "screen": "BIL_ITEM_CR_161",
+    "theme": 4,
+    "level": 1,
+    "question": "Combien de personnes parlent français dans le monde ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-040",
+    "key": "c6894cb66c45",
+    "screen": "BIL_ITEM_CR_162",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était Marguerite Yourcenar ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-041",
+    "key": "337e61464379",
+    "screen": "BIL_ITEM_CR_163",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel peintre est français ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-042",
+    "key": "24dede35b539",
+    "screen": "BIL_ITEM_CR_164",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel musée est situé à Paris ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-043",
+    "key": "8f0b894a62e6",
+    "screen": "BIL_ITEM_CR_165",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était Auguste Rodin ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-044",
+    "key": "d87ac7a5e2a7",
+    "screen": "BIL_ITEM_CR_166",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-045",
+    "key": "6a6db94c396a",
+    "screen": "BIL_ITEM_CR_167",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-046",
+    "key": "025270249e63",
+    "screen": "BIL_ITEM_CR_168",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était une écrivaine française célèbre ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-047",
+    "key": "57cbc629dd16",
+    "screen": "BIL_ITEM_CR_169",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était un célèbre musicien français ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-048",
+    "key": "5871aea4f69c",
+    "screen": "BIL_ITEM_CR_170",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui était Auguste Renoir ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-049",
+    "key": "0967f358e843",
+    "screen": "BIL_ITEM_CR_171",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle fête est française ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T4-050",
+    "key": "42e5684f9ffd",
+    "screen": "BIL_ITEM_CR_172",
+    "theme": 4,
+    "level": 0,
+    "question": "Quel monument parisien est l'un des symboles de la France ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-001",
+    "key": "230bbc34f807",
+    "screen": "BIL_ITEM_CR_173",
+    "theme": 5,
+    "level": 1,
+    "question": "Quel mariage est reconnu par l'État ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-002",
+    "key": "9e060decf3db",
+    "screen": "BIL_ITEM_CR_174",
+    "theme": 5,
+    "level": 1,
+    "question": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-003",
+    "key": "e942a485cbf2",
+    "screen": "BIL_ITEM_CR_175",
+    "theme": 5,
+    "level": 1,
+    "question": "En cas de divorce, qui exerce l'autorité parentale ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-004",
+    "key": "fcc031a8773e",
+    "screen": "BIL_ITEM_CR_176",
+    "theme": 5,
+    "level": 2,
+    "question": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-005",
+    "key": "914025430690",
+    "screen": "BIL_ITEM_CR_177",
+    "theme": 5,
+    "level": 2,
+    "question": "Où faut-il déclarer la naissance d'un enfant ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-006",
+    "key": "a3e78e3f630b",
+    "screen": "BIL_ITEM_CR_178",
+    "theme": 5,
+    "level": 2,
+    "question": "Quelle est l'une des conditions pour passer l'examen du permis de conduire ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-007",
+    "key": "cecdb5491e76",
+    "screen": "BIL_ITEM_CR_179",
+    "theme": 5,
+    "level": 2,
+    "question": "Un bail locatif est valide s'il est :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-008",
+    "key": "cb1bf0d007da",
+    "screen": "BIL_ITEM_CR_180",
+    "theme": 5,
+    "level": 2,
+    "question": "Où peut-on déposer un lave-vaisselle cassé ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-009",
+    "key": "8b5947872a34",
+    "screen": "BIL_ITEM_CR_181",
+    "theme": 5,
+    "level": 2,
+    "question": "Quel numéro d'urgence permet d'appeler la police ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-010",
+    "key": "cfa37ef3f445",
+    "screen": "BIL_ITEM_CR_182",
+    "theme": 5,
+    "level": 2,
+    "question": "Concernant l'accès aux soins, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-011",
+    "key": "d1e9f6b2776b",
+    "screen": "BIL_ITEM_CR_183",
+    "theme": 5,
+    "level": 1,
+    "question": "À qui est accessible la contraception ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-012",
+    "key": "f2958f1ee513",
+    "screen": "BIL_ITEM_CR_184",
+    "theme": 5,
+    "level": 2,
+    "question": "Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-013",
+    "key": "4b823c8500da",
+    "screen": "BIL_ITEM_CR_185",
+    "theme": 5,
+    "level": 1,
+    "question": "L'inscription à l'Assurance maladie est :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-014",
+    "key": "8aa679ce3a39",
+    "screen": "BIL_ITEM_CR_186",
+    "theme": 5,
+    "level": 2,
+    "question": "Qui peut demander un congé parental d'éducation ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-015",
+    "key": "690bd256ccf6",
+    "screen": "BIL_ITEM_CR_187",
+    "theme": 5,
+    "level": 1,
+    "question": "Quelles sont les affaires traitées par le conseil de prud'hommes ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-016",
+    "key": "757581d970ec",
+    "screen": "BIL_ITEM_CR_188",
+    "theme": 5,
+    "level": 1,
+    "question": "Travailler sans être déclaré est :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-017",
+    "key": "c3f27480935e",
+    "screen": "BIL_ITEM_CR_189",
+    "theme": 5,
+    "level": 1,
+    "question": "Lorsqu'un employeur veut qu'un salarié travaille plus longtemps que la durée prévue dans son contrat de travail :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-018",
+    "key": "87e2c17b619d",
+    "screen": "BIL_ITEM_CR_190",
+    "theme": 5,
+    "level": 1,
+    "question": "Quelle est la mission de France Travail ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-019",
+    "key": "18cc43081694",
+    "screen": "BIL_ITEM_CR_191",
+    "theme": 5,
+    "level": 1,
+    "question": "Dans une entreprise, le droit syndical permet :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-020",
+    "key": "11c851cceb7c",
+    "screen": "BIL_ITEM_CR_192",
+    "theme": 5,
+    "level": 1,
+    "question": "Dans une entreprise, le droit de grève autorise :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-021",
+    "key": "4c1cd3b1ca38",
+    "screen": "BIL_ITEM_CR_193",
+    "theme": 5,
+    "level": 1,
+    "question": "Quelles sont les conditions pour toucher les allocations chômage ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-022",
+    "key": "1980fdc532ce",
+    "screen": "BIL_ITEM_CR_194",
+    "theme": 5,
+    "level": 1,
+    "question": "Qu'est-ce que l'école maternelle ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-023",
+    "key": "fd9bc48cde34",
+    "screen": "BIL_ITEM_CR_195",
+    "theme": 5,
+    "level": 1,
+    "question": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-024",
+    "key": "9b405103a142",
+    "screen": "BIL_ITEM_CR_196",
+    "theme": 5,
+    "level": 1,
+    "question": "Les parents d'élèves ont le droit de :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-025",
+    "key": "100214b4ada3",
+    "screen": "BIL_ITEM_CR_197",
+    "theme": 5,
+    "level": 1,
+    "question": "Qui peut manger à la cantine scolaire ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-026",
+    "key": "cb73feaf1725",
+    "screen": "BIL_ITEM_CR_198",
+    "theme": 5,
+    "level": 1,
+    "question": "À quel âge commence l'instruction obligatoire des enfants ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-027",
+    "key": "4c6317c6da70",
+    "screen": "BIL_ITEM_CR_199",
+    "theme": 5,
+    "level": 1,
+    "question": "Quel est l'âge de la majorité ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-028",
+    "key": "aa0e788b0cf3",
+    "screen": "BIL_ITEM_CR_200",
+    "theme": 5,
+    "level": 1,
+    "question": "À l'école, il est interdit aux parents de :"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-029",
+    "key": "672a66d88b48",
+    "screen": "BIL_ITEM_CR_201",
+    "theme": 5,
+    "level": 2,
+    "question": "Quel motif d'absence est accepté par l'école ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-030",
+    "key": "3743b425da25",
+    "screen": "BIL_ITEM_CR_202",
+    "theme": 5,
+    "level": 2,
+    "question": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-031",
+    "key": "a47fa551ee37",
+    "screen": "BIL_ITEM_CR_203",
+    "theme": 5,
+    "level": 2,
+    "question": "Quand ont lieu les vacances scolaires de Noël ?"
+  },
+  {
+    "exam": "CR",
+    "id": "CR-T5-032",
+    "key": "381717122fb4",
+    "screen": "BIL_ITEM_CR_204",
+    "theme": 5,
+    "level": 1,
+    "question": "À l'école, un enfant en situation de handicap :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-001",
+    "key": "3492683024dd",
+    "screen": "BIL_ITEM_NAT_001",
+    "theme": 1,
+    "level": 2,
+    "question": "Complétez les paroles de la Marseillaise : « Allons enfants de la patrie… »"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-002",
+    "key": "fa7c37b429d9",
+    "screen": "BIL_ITEM_NAT_002",
+    "theme": 1,
+    "level": 2,
+    "question": "Dans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-003",
+    "key": "6cefeffb9332",
+    "screen": "BIL_ITEM_NAT_003",
+    "theme": 1,
+    "level": 1,
+    "question": "Déclarer ses revenus aux services fiscaux est :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-004",
+    "key": "a57ad8a5bedb",
+    "screen": "BIL_ITEM_NAT_004",
+    "theme": 1,
+    "level": 1,
+    "question": "En France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-005",
+    "key": "af5f15de3de8",
+    "screen": "BIL_ITEM_NAT_005",
+    "theme": 1,
+    "level": 1,
+    "question": "La liberté d'association est :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-006",
+    "key": "bee25feb422b",
+    "screen": "BIL_ITEM_NAT_006",
+    "theme": 1,
+    "level": 1,
+    "question": "La liberté d'expression sur les réseaux sociaux en France est :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-007",
+    "key": "1e6cf6bc1f45",
+    "screen": "BIL_ITEM_NAT_007",
+    "theme": 1,
+    "level": 1,
+    "question": "Quel prénom évoque un symbole de la République ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-008",
+    "key": "876c965a0fd5",
+    "screen": "BIL_ITEM_NAT_008",
+    "theme": 1,
+    "level": 2,
+    "question": "Citez un symbole qui représente officiellement la République française."
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-009",
+    "key": "08d92504a829",
+    "screen": "BIL_ITEM_NAT_009",
+    "theme": 1,
+    "level": 1,
+    "question": "Où peut-on voir la devise de la République ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-010",
+    "key": "3d3c05f02817",
+    "screen": "BIL_ITEM_NAT_010",
+    "theme": 1,
+    "level": 2,
+    "question": "Citez tous les symboles officiels de la République française."
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-011",
+    "key": "c696ca0a2ff4",
+    "screen": "BIL_ITEM_NAT_011",
+    "theme": 1,
+    "level": 0,
+    "question": "Peut-on brûler publiquement un drapeau français ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-012",
+    "key": "a1539cda70b1",
+    "screen": "BIL_ITEM_NAT_012",
+    "theme": 1,
+    "level": 2,
+    "question": "Quand la Sécurité sociale a-t-elle été établie en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-013",
+    "key": "990b5fdc5062",
+    "screen": "BIL_ITEM_NAT_013",
+    "theme": 1,
+    "level": 1,
+    "question": "Que commémore la fête nationale ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-014",
+    "key": "efdee9c7a1a1",
+    "screen": "BIL_ITEM_NAT_014",
+    "theme": 1,
+    "level": 2,
+    "question": "Que porte Marianne sur la tête ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-015",
+    "key": "f0c90a17ab61",
+    "screen": "BIL_ITEM_NAT_015",
+    "theme": 1,
+    "level": 2,
+    "question": "Que signifie le mot « fraternité » dans la devise française ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-016",
+    "key": "42db8f0789a4",
+    "screen": "BIL_ITEM_NAT_016",
+    "theme": 1,
+    "level": 1,
+    "question": "Quel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-017",
+    "key": "5b06e95126ba",
+    "screen": "BIL_ITEM_NAT_017",
+    "theme": 1,
+    "level": 1,
+    "question": "Quelle est la devise de la République française ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-018",
+    "key": "629d67baa632",
+    "screen": "BIL_ITEM_NAT_018",
+    "theme": 1,
+    "level": 2,
+    "question": "Qu'est-ce que la liberté d'association ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-019",
+    "key": "1b8c7e50350d",
+    "screen": "BIL_ITEM_NAT_019",
+    "theme": 1,
+    "level": 2,
+    "question": "Qu'est-ce qu'une liberté ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-020",
+    "key": "0eae42d86256",
+    "screen": "BIL_ITEM_NAT_020",
+    "theme": 1,
+    "level": 1,
+    "question": "Selon la Constitution, la France est une République..."
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-021",
+    "key": "dc2b1ef8a246",
+    "screen": "BIL_ITEM_NAT_021",
+    "theme": 1,
+    "level": 2,
+    "question": "Sur quel document peut-on voir Marianne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-022",
+    "key": "1c3bf5bd051a",
+    "screen": "BIL_ITEM_NAT_022",
+    "theme": 1,
+    "level": 2,
+    "question": "Une des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-023",
+    "key": "23eb5c00f371",
+    "screen": "BIL_ITEM_NAT_023",
+    "theme": 1,
+    "level": 0,
+    "question": "Une personne peut-elle changer librement de religion en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-024",
+    "key": "7b95d5a5283d",
+    "screen": "BIL_ITEM_NAT_024",
+    "theme": 1,
+    "level": 1,
+    "question": "Selon le principe de laïcité, que signifie la neutralité de l'État ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-025",
+    "key": "c52b1e31ed50",
+    "screen": "BIL_ITEM_NAT_025",
+    "theme": 1,
+    "level": 2,
+    "question": "Que peut faire un usager du service public dans une mairie ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-026",
+    "key": "addd8149f39d",
+    "screen": "BIL_ITEM_NAT_026",
+    "theme": 1,
+    "level": 1,
+    "question": "En France, il est possible pour l'État de financer :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-027",
+    "key": "b7288365ae3c",
+    "screen": "BIL_ITEM_NAT_027",
+    "theme": 1,
+    "level": 2,
+    "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été votée ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-028",
+    "key": "759fca2368e1",
+    "screen": "BIL_ITEM_NAT_028",
+    "theme": 1,
+    "level": 2,
+    "question": "Que dit la loi de 1905 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-029",
+    "key": "c9ac907e5122",
+    "screen": "BIL_ITEM_NAT_029",
+    "theme": 1,
+    "level": 2,
+    "question": "Que garantit le principe de laïcité ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-030",
+    "key": "9efe41ca19f5",
+    "screen": "BIL_ITEM_NAT_030",
+    "theme": 1,
+    "level": 2,
+    "question": "Quel jour célèbre-t-on officiellement la laïcité en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-031",
+    "key": "da38e722d7a7",
+    "screen": "BIL_ITEM_NAT_031",
+    "theme": 1,
+    "level": 2,
+    "question": "Quel symbole religieux peut être porté dans une école publique dans le respect de la laïcité ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-032",
+    "key": "64d0662eb804",
+    "screen": "BIL_ITEM_NAT_032",
+    "theme": 1,
+    "level": 1,
+    "question": "Quel terme désigne précisément la haine ou les préjugés contre les Juifs ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-033",
+    "key": "65c8c91c9a7c",
+    "screen": "BIL_ITEM_NAT_033",
+    "theme": 1,
+    "level": 2,
+    "question": "Quel texte est considéré comme le texte fondateur de la laïcité ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-034",
+    "key": "3ed2196f3aea",
+    "screen": "BIL_ITEM_NAT_034",
+    "theme": 1,
+    "level": 2,
+    "question": "Quelle institution française doit rester neutre en matière de religion ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-035",
+    "key": "188ae698d2b6",
+    "screen": "BIL_ITEM_NAT_035",
+    "theme": 1,
+    "level": 0,
+    "question": "Qu'est-ce que la laïcité ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-036",
+    "key": "23ff504ce4c3",
+    "screen": "BIL_ITEM_NAT_036",
+    "theme": 1,
+    "level": 2,
+    "question": "À l'école, la Charte de la laïcité permet de :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-037",
+    "key": "c6513fa4cbda",
+    "screen": "BIL_ITEM_NAT_037",
+    "theme": 1,
+    "level": 1,
+    "question": "Qui doit respecter et veiller à la neutralité religieuse dans les services publics ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T1-038",
+    "key": "5f8b043fbf2c",
+    "screen": "BIL_ITEM_NAT_038",
+    "theme": 1,
+    "level": 2,
+    "question": "Une personne déclare ne croire en aucun dieu. On peut dire :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-001",
+    "key": "4d2fd68fb516",
+    "screen": "BIL_ITEM_NAT_039",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui peut être candidat à l'élection présidentielle ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-002",
+    "key": "7d659d1f484f",
+    "screen": "BIL_ITEM_NAT_040",
+    "theme": 2,
+    "level": 2,
+    "question": "À qui appartient la souveraineté nationale ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-003",
+    "key": "50831d97b802",
+    "screen": "BIL_ITEM_NAT_041",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui est élu lors des élections municipales ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-004",
+    "key": "4f465fa3016c",
+    "screen": "BIL_ITEM_NAT_042",
+    "theme": 2,
+    "level": 1,
+    "question": "L'inscription sur les listes électorales est-elle... ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-005",
+    "key": "37ce3eb2d224",
+    "screen": "BIL_ITEM_NAT_043",
+    "theme": 2,
+    "level": 2,
+    "question": "Citez une condition nécessaire pour voter à l'élection présidentielle."
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-006",
+    "key": "a75d163b8eb5",
+    "screen": "BIL_ITEM_NAT_044",
+    "theme": 2,
+    "level": 2,
+    "question": "Citez une condition pour être candidat aux élections municipales."
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-007",
+    "key": "5526d44ecb42",
+    "screen": "BIL_ITEM_NAT_045",
+    "theme": 2,
+    "level": 1,
+    "question": "Parmi ces responsables, lequel est élu (et non nommé) ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-008",
+    "key": "830132db0006",
+    "screen": "BIL_ITEM_NAT_046",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle du maire ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-009",
+    "key": "3480f9308ff7",
+    "screen": "BIL_ITEM_NAT_047",
+    "theme": 2,
+    "level": 2,
+    "question": "Où peut-on demander son inscription sur les listes électorales sans effectuer de démarche en ligne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-010",
+    "key": "e6720f8c473c",
+    "screen": "BIL_ITEM_NAT_048",
+    "theme": 2,
+    "level": 1,
+    "question": "À partir de quel âge devient-on électeur en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-011",
+    "key": "1faa7ec37c19",
+    "screen": "BIL_ITEM_NAT_049",
+    "theme": 2,
+    "level": 2,
+    "question": "Le vote est-il obligatoire en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-012",
+    "key": "76e8791d728f",
+    "screen": "BIL_ITEM_NAT_050",
+    "theme": 2,
+    "level": 0,
+    "question": "A-t-on le droit de ne pas respecter une loi que l'on juge injuste ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-013",
+    "key": "6cb8c818a91f",
+    "screen": "BIL_ITEM_NAT_051",
+    "theme": 2,
+    "level": 2,
+    "question": "Comment les députés sont-ils désignés ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-014",
+    "key": "ec04ff989aa2",
+    "screen": "BIL_ITEM_NAT_052",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui vote les lois en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-015",
+    "key": "ec78fd3d7e8e",
+    "screen": "BIL_ITEM_NAT_053",
+    "theme": 2,
+    "level": 2,
+    "question": "Quels sont les trois pouvoirs de la République française ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-016",
+    "key": "c9dd0c2c06d7",
+    "screen": "BIL_ITEM_NAT_054",
+    "theme": 2,
+    "level": 2,
+    "question": "Qu'est-ce qu'un État de droit ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-017",
+    "key": "a9749116bf75",
+    "screen": "BIL_ITEM_NAT_055",
+    "theme": 2,
+    "level": 2,
+    "question": "Pour combien de temps le maire et les conseillers municipaux sont-ils élus ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-018",
+    "key": "5bc97cc89a06",
+    "screen": "BIL_ITEM_NAT_056",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui est élu lors des élections législatives ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-019",
+    "key": "d0b37bf8380a",
+    "screen": "BIL_ITEM_NAT_057",
+    "theme": 2,
+    "level": 0,
+    "question": "Pour combien de temps le président de la République est-il élu ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-020",
+    "key": "3bc297dfa5a8",
+    "screen": "BIL_ITEM_NAT_058",
+    "theme": 2,
+    "level": 1,
+    "question": "Pour combien de temps les députés sont-ils élus ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-021",
+    "key": "1437fcfe1786",
+    "screen": "BIL_ITEM_NAT_059",
+    "theme": 2,
+    "level": 2,
+    "question": "Pour combien de temps les sénateurs sont-ils élus ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-022",
+    "key": "e779dbc97269",
+    "screen": "BIL_ITEM_NAT_060",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui dirige l'action du gouvernement au quotidien ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-023",
+    "key": "f8fc98272fbc",
+    "screen": "BIL_ITEM_NAT_061",
+    "theme": 2,
+    "level": 0,
+    "question": "Un citoyen a-t-il le droit d'adhérer à un parti politique ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-024",
+    "key": "adc8bf5d2f44",
+    "screen": "BIL_ITEM_NAT_062",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui juge et sanctionne les auteurs d'infractions ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-025",
+    "key": "56986388c608",
+    "screen": "BIL_ITEM_NAT_063",
+    "theme": 2,
+    "level": 2,
+    "question": "Quelle collectivité territoriale gère les collèges publics ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-026",
+    "key": "9b6ef81d25d9",
+    "screen": "BIL_ITEM_NAT_064",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui gère les écoles maternelles et élémentaires publiques ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-027",
+    "key": "e97adf729c5e",
+    "screen": "BIL_ITEM_NAT_065",
+    "theme": 2,
+    "level": 2,
+    "question": "Comment le maire est-il élu ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-028",
+    "key": "b7efcd8c5cbf",
+    "screen": "BIL_ITEM_NAT_066",
+    "theme": 2,
+    "level": 2,
+    "question": "Quelle collectivité territoriale organise les trains régionaux (TER) ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-029",
+    "key": "a9ff074c9d39",
+    "screen": "BIL_ITEM_NAT_067",
+    "theme": 2,
+    "level": 2,
+    "question": "Comment la Constitution peut-elle être révisée ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-030",
+    "key": "24397dff1011",
+    "screen": "BIL_ITEM_NAT_068",
+    "theme": 2,
+    "level": 2,
+    "question": "En cas de vacance de la présidence, qui assure provisoirement les fonctions de président de la République ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-031",
+    "key": "5176fc06b938",
+    "screen": "BIL_ITEM_NAT_069",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle du Conseil constitutionnel ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-032",
+    "key": "23cfb76f1461",
+    "screen": "BIL_ITEM_NAT_070",
+    "theme": 2,
+    "level": 2,
+    "question": "Que doit obtenir un candidat pour se présenter à l'élection présidentielle ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-033",
+    "key": "6fadb46c414e",
+    "screen": "BIL_ITEM_NAT_071",
+    "theme": 2,
+    "level": 1,
+    "question": "Combien de départements compte la France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-034",
+    "key": "4297b979e436",
+    "screen": "BIL_ITEM_NAT_072",
+    "theme": 2,
+    "level": 1,
+    "question": "En quels niveaux le territoire français est-il découpé ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-035",
+    "key": "ee09d1a2b3a0",
+    "screen": "BIL_ITEM_NAT_073",
+    "theme": 2,
+    "level": 1,
+    "question": "Qui représente l'Etat dans un département ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-036",
+    "key": "5ad2c30d04b5",
+    "screen": "BIL_ITEM_NAT_074",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle du président de la République ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-037",
+    "key": "a9548200381e",
+    "screen": "BIL_ITEM_NAT_075",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle du Premier ministre ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-038",
+    "key": "5574cfe8f8c5",
+    "screen": "BIL_ITEM_NAT_076",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le rôle du Défenseur des droits ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-039",
+    "key": "dea676e76287",
+    "screen": "BIL_ITEM_NAT_077",
+    "theme": 2,
+    "level": 2,
+    "question": "En quelle année la citoyenneté européenne a-t-elle été créée ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-040",
+    "key": "b867882b31bc",
+    "screen": "BIL_ITEM_NAT_078",
+    "theme": 2,
+    "level": 2,
+    "question": "Quel est le dernier pays à avoir rejoint l'Union européenne en 2013 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-041",
+    "key": "2bdfa251caa3",
+    "screen": "BIL_ITEM_NAT_079",
+    "theme": 2,
+    "level": 2,
+    "question": "Quelle est la devise de l'Union européenne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-042",
+    "key": "2b2a81d12e8c",
+    "screen": "BIL_ITEM_NAT_080",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui a composé l'hymne européen ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-043",
+    "key": "cbddf812194e",
+    "screen": "BIL_ITEM_NAT_081",
+    "theme": 2,
+    "level": 2,
+    "question": "Quand célèbre-t-on la Journée de l'Europe ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-044",
+    "key": "edb96d7ed327",
+    "screen": "BIL_ITEM_NAT_082",
+    "theme": 2,
+    "level": 2,
+    "question": "Où siège la Banque centrale européenne (BCE) ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-045",
+    "key": "5ee721643921",
+    "screen": "BIL_ITEM_NAT_083",
+    "theme": 2,
+    "level": 2,
+    "question": "Où siège la Commission européenne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-046",
+    "key": "1e7cc9a53ada",
+    "screen": "BIL_ITEM_NAT_084",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui siège au Parlement européen ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-047",
+    "key": "ad0d3cae3949",
+    "screen": "BIL_ITEM_NAT_085",
+    "theme": 2,
+    "level": 2,
+    "question": "Combien d'États compte aujourd'hui l'Union européenne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-048",
+    "key": "438a42e46175",
+    "screen": "BIL_ITEM_NAT_086",
+    "theme": 2,
+    "level": 2,
+    "question": "Les citoyens de l'Union européenne peuvent-ils voter aux élections locales dans un autre Etat de l'Union ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-049",
+    "key": "7f691cab3509",
+    "screen": "BIL_ITEM_NAT_087",
+    "theme": 2,
+    "level": 2,
+    "question": "En quelle année le traité de Maastricht a-t-il été signé ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-050",
+    "key": "68c8be2a74db",
+    "screen": "BIL_ITEM_NAT_088",
+    "theme": 2,
+    "level": 0,
+    "question": "Quel traité a créé officiellement l'Union européenne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-051",
+    "key": "8cb30620e7cb",
+    "screen": "BIL_ITEM_NAT_089",
+    "theme": 2,
+    "level": 1,
+    "question": "Quel pays a quitté l'Union européenne en 2020 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-052",
+    "key": "1fbc03f8af8b",
+    "screen": "BIL_ITEM_NAT_090",
+    "theme": 2,
+    "level": 2,
+    "question": "Comment s'appelle l'hymne de l'Union européenne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-053",
+    "key": "c7264f6b635d",
+    "screen": "BIL_ITEM_NAT_091",
+    "theme": 2,
+    "level": 2,
+    "question": "De quoi est composé le drapeau européen ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-054",
+    "key": "24e9924723b7",
+    "screen": "BIL_ITEM_NAT_092",
+    "theme": 2,
+    "level": 2,
+    "question": "Qui élit les députés européens ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T2-055",
+    "key": "403984f2bb57",
+    "screen": "BIL_ITEM_NAT_093",
+    "theme": 2,
+    "level": 2,
+    "question": "Où siège officiellement le Parlement européen ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-001",
+    "key": "250f1089b26c",
+    "screen": "BIL_ITEM_NAT_094",
+    "theme": 3,
+    "level": 2,
+    "question": "Quel est l'objectif du droit de grève ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-002",
+    "key": "49b0747c3e1a",
+    "screen": "BIL_ITEM_NAT_095",
+    "theme": 3,
+    "level": 2,
+    "question": "Au nom de quoi certaines libertés peuvent-elles être limitées par la loi ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-003",
+    "key": "1271db665b75",
+    "screen": "BIL_ITEM_NAT_096",
+    "theme": 3,
+    "level": 2,
+    "question": "L'article 4 de la Déclaration des droits de l'homme et du citoyen affirme que \"la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui\". Qu'est-ce que cela signifie ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-004",
+    "key": "5713d5184707",
+    "screen": "BIL_ITEM_NAT_097",
+    "theme": 3,
+    "level": 2,
+    "question": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-005",
+    "key": "81e5fad25be5",
+    "screen": "BIL_ITEM_NAT_098",
+    "theme": 3,
+    "level": 2,
+    "question": "Que signifie être libre, en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-006",
+    "key": "c6f63bac25cd",
+    "screen": "BIL_ITEM_NAT_099",
+    "theme": 3,
+    "level": 2,
+    "question": "Que dit l'article 1er de la Constitution à propos de la France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-007",
+    "key": "d27697dffb75",
+    "screen": "BIL_ITEM_NAT_100",
+    "theme": 3,
+    "level": 2,
+    "question": "Que garantit la liberté de la presse ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-008",
+    "key": "a8d8251e4804",
+    "screen": "BIL_ITEM_NAT_101",
+    "theme": 3,
+    "level": 2,
+    "question": "Que permet la liberté de circulation ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-009",
+    "key": "d7935a5ae9f3",
+    "screen": "BIL_ITEM_NAT_102",
+    "theme": 3,
+    "level": 2,
+    "question": "Que signifie être citoyen d'un État ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-010",
+    "key": "810f33897c59",
+    "screen": "BIL_ITEM_NAT_103",
+    "theme": 3,
+    "level": 2,
+    "question": "Que sont les droits fondamentaux ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-011",
+    "key": "4e8561b1a7e7",
+    "screen": "BIL_ITEM_NAT_104",
+    "theme": 3,
+    "level": 2,
+    "question": "Quel droit protège une personne contre les arrestations ou détentions arbitraires ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-012",
+    "key": "857aad5587e7",
+    "screen": "BIL_ITEM_NAT_105",
+    "theme": 3,
+    "level": 1,
+    "question": "Quel est le texte fondateur établissant les droits et les devoirs de chaque citoyen ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-013",
+    "key": "156ec689d953",
+    "screen": "BIL_ITEM_NAT_106",
+    "theme": 3,
+    "level": 1,
+    "question": "Dans quel texte trouve-t-on la phrase « Les hommes naissent et demeurent libres et égaux en droits » ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-014",
+    "key": "1196af07db8f",
+    "screen": "BIL_ITEM_NAT_107",
+    "theme": 3,
+    "level": 1,
+    "question": "Lequel de ces actes porte gravement atteinte à la dignité humaine ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-015",
+    "key": "29908e57d2b8",
+    "screen": "BIL_ITEM_NAT_108",
+    "theme": 3,
+    "level": 1,
+    "question": "Que garantit la liberté d'expression ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-016",
+    "key": "671b58735b69",
+    "screen": "BIL_ITEM_NAT_109",
+    "theme": 3,
+    "level": 2,
+    "question": "Après une interpellation, que peut décider la police dans les conditions prévues par la loi ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-017",
+    "key": "fefd53a96409",
+    "screen": "BIL_ITEM_NAT_110",
+    "theme": 3,
+    "level": 0,
+    "question": "Tous les citoyens français ont-ils une religion ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-018",
+    "key": "8a42e8fe89b3",
+    "screen": "BIL_ITEM_NAT_111",
+    "theme": 3,
+    "level": 0,
+    "question": "À partir de quel âge un mineur peut-il, en principe, s'inscrire seul sur un service en ligne utilisant ses données personnelles ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-019",
+    "key": "0141da0980eb",
+    "screen": "BIL_ITEM_NAT_112",
+    "theme": 3,
+    "level": 0,
+    "question": "Où est-il autorisé de fumer, alors que c'est interdit dans de nombreux lieux publics fermés ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-020",
+    "key": "e2ac29c1a016",
+    "screen": "BIL_ITEM_NAT_113",
+    "theme": 3,
+    "level": 1,
+    "question": "Conduire un véhicule sans le permis correspondant constitue :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-021",
+    "key": "48020da7c48b",
+    "screen": "BIL_ITEM_NAT_114",
+    "theme": 3,
+    "level": 1,
+    "question": "En quoi consiste le devoir de solidarité ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-022",
+    "key": "b6a9e368729c",
+    "screen": "BIL_ITEM_NAT_115",
+    "theme": 3,
+    "level": 0,
+    "question": "Une personne peut-elle être mariée à plusieurs personnes en même temps en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-023",
+    "key": "c4fe4276f686",
+    "screen": "BIL_ITEM_NAT_116",
+    "theme": 3,
+    "level": 0,
+    "question": "Doit-on déclarer ses revenus chaque année aux services fiscaux ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-024",
+    "key": "b3160d5c4884",
+    "screen": "BIL_ITEM_NAT_117",
+    "theme": 3,
+    "level": 1,
+    "question": "A-t-on l'obligation de porter assistance à une personne en danger ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-025",
+    "key": "196fd653af76",
+    "screen": "BIL_ITEM_NAT_118",
+    "theme": 3,
+    "level": 1,
+    "question": "Pour un citoyen tiré au sort, être juré à la cour d'assises est :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-026",
+    "key": "e7a83552343e",
+    "screen": "BIL_ITEM_NAT_119",
+    "theme": 3,
+    "level": 1,
+    "question": "À partir de quel âge la vente de boissons alcoolisées est-elle autorisée en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-027",
+    "key": "60d187666e11",
+    "screen": "BIL_ITEM_NAT_120",
+    "theme": 3,
+    "level": 1,
+    "question": "Le non-respect du Code de la route constitue :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-028",
+    "key": "7bacfbf02617",
+    "screen": "BIL_ITEM_NAT_121",
+    "theme": 3,
+    "level": 1,
+    "question": "Lequel de ces crimes ou délits peut entrainer la privation des droits civils et politiques par un juge ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-029",
+    "key": "f9c8ced370ee",
+    "screen": "BIL_ITEM_NAT_122",
+    "theme": 3,
+    "level": 2,
+    "question": "Comment demander une carte nationale d'identité ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-030",
+    "key": "24c86da1d481",
+    "screen": "BIL_ITEM_NAT_123",
+    "theme": 3,
+    "level": 2,
+    "question": "Pourquoi la liberté d'expression peut-elle être limitée par la loi ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-031",
+    "key": "847dcb26de8e",
+    "screen": "BIL_ITEM_NAT_124",
+    "theme": 3,
+    "level": 1,
+    "question": "Que doit faire un citoyen convoqué pour être juré d'assises ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-032",
+    "key": "f5793d446bf5",
+    "screen": "BIL_ITEM_NAT_125",
+    "theme": 3,
+    "level": 0,
+    "question": "À quel âge est fixée la majorité civile en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-033",
+    "key": "5e7ca7181425",
+    "screen": "BIL_ITEM_NAT_126",
+    "theme": 3,
+    "level": 2,
+    "question": "Quel est l'un des premiers devoirs de tout citoyen ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-034",
+    "key": "04eb7aa63a1b",
+    "screen": "BIL_ITEM_NAT_127",
+    "theme": 3,
+    "level": 2,
+    "question": "Quelle est l'infraction la plus grave ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-035",
+    "key": "78355c528d8f",
+    "screen": "BIL_ITEM_NAT_128",
+    "theme": 3,
+    "level": 2,
+    "question": "Qu'est-ce que la citoyenneté numérique ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-036",
+    "key": "0327d7d5d959",
+    "screen": "BIL_ITEM_NAT_129",
+    "theme": 3,
+    "level": 1,
+    "question": "Qui peut être désigné juré d'assises ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-037",
+    "key": "664f8fe28a0b",
+    "screen": "BIL_ITEM_NAT_130",
+    "theme": 3,
+    "level": 2,
+    "question": "Qu'est-ce que le devoir de mémoire ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T3-038",
+    "key": "3ccdbf3ecaab",
+    "screen": "BIL_ITEM_NAT_131",
+    "theme": 3,
+    "level": 2,
+    "question": "Quelle est l'une des conséquences si un juge prononce une privation des droits civils et politiques pendant 5 ans à l'encontre d'une personne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-001",
+    "key": "8b3631845d67",
+    "screen": "BIL_ITEM_NAT_132",
+    "theme": 4,
+    "level": 2,
+    "question": "Parmi ces textes, lequel a été adopté sous Napoléon Ier ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-002",
+    "key": "a1532ea5aed7",
+    "screen": "BIL_ITEM_NAT_133",
+    "theme": 4,
+    "level": 1,
+    "question": "Lequel de ces noms est celui d'un président de la Ve République ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-003",
+    "key": "6f96f6d25dda",
+    "screen": "BIL_ITEM_NAT_134",
+    "theme": 4,
+    "level": 1,
+    "question": "Que célèbre la fête nationale française du 14 juillet ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-004",
+    "key": "9bdfa2a83205",
+    "screen": "BIL_ITEM_NAT_135",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel était l'objectif des lois scolaires de la IIIe République ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-005",
+    "key": "05989cb3adb9",
+    "screen": "BIL_ITEM_NAT_136",
+    "theme": 4,
+    "level": 2,
+    "question": "Pourquoi l'année 1958 est-elle importante pour la France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-006",
+    "key": "4d536775f501",
+    "screen": "BIL_ITEM_NAT_137",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle loi Simone Veil a-t-elle fait adopter en 1975 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-007",
+    "key": "8bb34d051363",
+    "screen": "BIL_ITEM_NAT_138",
+    "theme": 4,
+    "level": 1,
+    "question": "Lequel de ces pays est l'un des six pays fondateurs de l'Union européenne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-008",
+    "key": "49eef6d419bf",
+    "screen": "BIL_ITEM_NAT_139",
+    "theme": 4,
+    "level": 2,
+    "question": "Dans quelle région est située une partie des plages du débarquement ayant permis d'engager la libération de la France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-009",
+    "key": "267b2f662837",
+    "screen": "BIL_ITEM_NAT_140",
+    "theme": 4,
+    "level": 2,
+    "question": "Dans quelle ville les rois de France étaient-ils traditionnellement sacrés ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-010",
+    "key": "205326adac3d",
+    "screen": "BIL_ITEM_NAT_141",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui est l'auteur des grandes lois scolaires de la IIIᵉ République rendant l'école gratuite, laïque et obligatoire ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-011",
+    "key": "d1cb87568c35",
+    "screen": "BIL_ITEM_NAT_142",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel roi de France a été guillotiné pendant la Révolution française ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-012",
+    "key": "8023c87a0037",
+    "screen": "BIL_ITEM_NAT_143",
+    "theme": 4,
+    "level": 0,
+    "question": "En quelle année a débuté la Révolution française ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-013",
+    "key": "adecbc2e2e2e",
+    "screen": "BIL_ITEM_NAT_144",
+    "theme": 4,
+    "level": 1,
+    "question": "En quelle année Napoléon Bonaparte est-il devenu empereur des Français ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-014",
+    "key": "f08d2e494a8f",
+    "screen": "BIL_ITEM_NAT_145",
+    "theme": 4,
+    "level": 1,
+    "question": "À quelle date le général de Gaulle a-t-il lancé son appel à la Résistance depuis Londres ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-015",
+    "key": "e84e7362816e",
+    "screen": "BIL_ITEM_NAT_146",
+    "theme": 4,
+    "level": 2,
+    "question": "Qu'est-ce que la Shoah ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-016",
+    "key": "900440a12bbc",
+    "screen": "BIL_ITEM_NAT_147",
+    "theme": 4,
+    "level": 2,
+    "question": "Laquelle de ces œuvres a été écrite par Victor Hugo ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-017",
+    "key": "ed0566e962f8",
+    "screen": "BIL_ITEM_NAT_148",
+    "theme": 4,
+    "level": 2,
+    "question": "Citez un pays ayant été colonisé par la France."
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-018",
+    "key": "0224f3d1a543",
+    "screen": "BIL_ITEM_NAT_149",
+    "theme": 4,
+    "level": 2,
+    "question": "Depuis quelle année les Français élisent-ils le président de la République au suffrage universel direct ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-019",
+    "key": "5e2db0cd4760",
+    "screen": "BIL_ITEM_NAT_150",
+    "theme": 4,
+    "level": 2,
+    "question": "En quelle année l'Union européenne a-t-elle été officiellement fondée ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-020",
+    "key": "3efa71bc0b55",
+    "screen": "BIL_ITEM_NAT_151",
+    "theme": 4,
+    "level": 2,
+    "question": "Quand a eu lieu la Seconde Guerre mondiale ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-021",
+    "key": "f14e9a8196a9",
+    "screen": "BIL_ITEM_NAT_152",
+    "theme": 4,
+    "level": 2,
+    "question": "Quand a eu lieu la Première Guerre mondiale ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-022",
+    "key": "6564d798eb1b",
+    "screen": "BIL_ITEM_NAT_153",
+    "theme": 4,
+    "level": 2,
+    "question": "Sous quel président, la peine de mort a-t-elle été abolie en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-023",
+    "key": "06cb2cb65239",
+    "screen": "BIL_ITEM_NAT_154",
+    "theme": 4,
+    "level": 2,
+    "question": "Que commémore le 8 mai, jour férié en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-024",
+    "key": "79651c10969c",
+    "screen": "BIL_ITEM_NAT_155",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle est la première étape de la construction européenne, créée en 1951 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-025",
+    "key": "b645d0c4dba9",
+    "screen": "BIL_ITEM_NAT_156",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-026",
+    "key": "bf3e83966480",
+    "screen": "BIL_ITEM_NAT_157",
+    "theme": 4,
+    "level": 1,
+    "question": "Que commémore le 11 novembre, jour férié en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-027",
+    "key": "7db217fc94a7",
+    "screen": "BIL_ITEM_NAT_158",
+    "theme": 4,
+    "level": 1,
+    "question": "Depuis quelle année l'esclavage est-il définitivement aboli en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-028",
+    "key": "e2dd8a62133c",
+    "screen": "BIL_ITEM_NAT_159",
+    "theme": 4,
+    "level": 1,
+    "question": "Qui est le principal artisan du décret de 1848 abolissant l'esclavage dans les colonies françaises ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-029",
+    "key": "59deda902e77",
+    "screen": "BIL_ITEM_NAT_160",
+    "theme": 4,
+    "level": 1,
+    "question": "Depuis quelle année l'école publique est-elle gratuite en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-030",
+    "key": "6121624706a8",
+    "screen": "BIL_ITEM_NAT_161",
+    "theme": 4,
+    "level": 1,
+    "question": "Qu'ont obtenu les femmes françaises grâce à l'ordonnance du 21 avril 1944 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-031",
+    "key": "7457bf335f45",
+    "screen": "BIL_ITEM_NAT_162",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle organisation internationale a été créée en 1945 pour maintenir la paix dans le monde ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-032",
+    "key": "dff58f4181fb",
+    "screen": "BIL_ITEM_NAT_163",
+    "theme": 4,
+    "level": 1,
+    "question": "En quelle année les pièces et billets en euros sont-ils entrés en circulation en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-033",
+    "key": "89b5fc2cf9dc",
+    "screen": "BIL_ITEM_NAT_164",
+    "theme": 4,
+    "level": 2,
+    "question": "À quelle date Paris a-t-elle été libérée en 1944 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-034",
+    "key": "9d2148715577",
+    "screen": "BIL_ITEM_NAT_165",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel port français était, au XVIIIᵉ siècle, le principal port impliqué dans la traite négrière ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-035",
+    "key": "d2b5d41cbaad",
+    "screen": "BIL_ITEM_NAT_166",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel philosophe des Lumières a dénoncé l'esclavage ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-036",
+    "key": "77d838675605",
+    "screen": "BIL_ITEM_NAT_167",
+    "theme": 4,
+    "level": 2,
+    "question": "Lequel de ces peintres est français ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-037",
+    "key": "df2d327db06d",
+    "screen": "BIL_ITEM_NAT_168",
+    "theme": 4,
+    "level": 2,
+    "question": "Laquelle de ces spécialités est un plat traditionnel français ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-038",
+    "key": "0cf8041c2538",
+    "screen": "BIL_ITEM_NAT_169",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Marie Curie ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-039",
+    "key": "5839b4ee89d4",
+    "screen": "BIL_ITEM_NAT_170",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui a peint « La Liberté guidant le peuple » en 1830 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-040",
+    "key": "8f7948fb1214",
+    "screen": "BIL_ITEM_NAT_171",
+    "theme": 4,
+    "level": 0,
+    "question": "Où est exposée la Joconde de Léonard de Vinci ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-041",
+    "key": "102bbc9949ec",
+    "screen": "BIL_ITEM_NAT_172",
+    "theme": 4,
+    "level": 1,
+    "question": "Quel monument est la résidence royale développée par Louis XIV, le Roi-Soleil ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-042",
+    "key": "026db5ac1013",
+    "screen": "BIL_ITEM_NAT_173",
+    "theme": 4,
+    "level": 2,
+    "question": "Où peut-on voir des peintures préhistoriques en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-043",
+    "key": "874012395d75",
+    "screen": "BIL_ITEM_NAT_174",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui a peint la célèbre série des Nymphéas ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-044",
+    "key": "57c27cabaefd",
+    "screen": "BIL_ITEM_NAT_175",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel événement permet chaque année de visiter gratuitement de nombreux monuments habituellement payants ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-045",
+    "key": "d47803ed98a6",
+    "screen": "BIL_ITEM_NAT_176",
+    "theme": 4,
+    "level": 2,
+    "question": "Que célèbre-t-on le 1er mai en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-046",
+    "key": "c52f6b461ef1",
+    "screen": "BIL_ITEM_NAT_177",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui est l'auteur de la Marseillaise ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-047",
+    "key": "217d492c7363",
+    "screen": "BIL_ITEM_NAT_178",
+    "theme": 4,
+    "level": 2,
+    "question": "Pour quel événement la tour Eiffel a-t-elle été construite en 1889 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-048",
+    "key": "6a8252abf6ab",
+    "screen": "BIL_ITEM_NAT_179",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle chaîne de montagnes forme une frontière naturelle entre la France et l'Italie ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-049",
+    "key": "8d0b836b8153",
+    "screen": "BIL_ITEM_NAT_180",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Molière ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-050",
+    "key": "817c9a3392f5",
+    "screen": "BIL_ITEM_NAT_181",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Charles Baudelaire ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-051",
+    "key": "c68b399dbe7c",
+    "screen": "BIL_ITEM_NAT_182",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était George Sand ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-052",
+    "key": "bab3a6d8d771",
+    "screen": "BIL_ITEM_NAT_183",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Simone de Beauvoir ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-053",
+    "key": "ecf0cc23a7e4",
+    "screen": "BIL_ITEM_NAT_184",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Albert Camus ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-054",
+    "key": "c6894cb66c45",
+    "screen": "BIL_ITEM_NAT_185",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Marguerite Yourcenar ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-055",
+    "key": "368f73d5a90d",
+    "screen": "BIL_ITEM_NAT_186",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Paul Cézanne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-056",
+    "key": "8f0b894a62e6",
+    "screen": "BIL_ITEM_NAT_187",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Auguste Rodin ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-057",
+    "key": "5871aea4f69c",
+    "screen": "BIL_ITEM_NAT_188",
+    "theme": 4,
+    "level": 2,
+    "question": "Qui était Auguste Renoir ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-058",
+    "key": "fcdcb4b32cb4",
+    "screen": "BIL_ITEM_NAT_189",
+    "theme": 4,
+    "level": 2,
+    "question": "Lequel de ces compositeurs est français ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-059",
+    "key": "24dede35b539",
+    "screen": "BIL_ITEM_NAT_190",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel musée est situé à Paris ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-060",
+    "key": "b8f51e15230a",
+    "screen": "BIL_ITEM_NAT_191",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel monument historique se trouve sur une île en Normandie ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-061",
+    "key": "700dc3b95f4a",
+    "screen": "BIL_ITEM_NAT_192",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-062",
+    "key": "dbb809a5ac0d",
+    "screen": "BIL_ITEM_NAT_193",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle île fait partie des Antilles françaises ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-063",
+    "key": "ba8933b177ff",
+    "screen": "BIL_ITEM_NAT_194",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle île française, collectivité territoriale unique, est située en Méditerranée ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-064",
+    "key": "cbbab6b814e2",
+    "screen": "BIL_ITEM_NAT_195",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel est le plus haut sommet de France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-065",
+    "key": "392a6738c834",
+    "screen": "BIL_ITEM_NAT_196",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel département français d'outre-mer est situé dans l'océan Indien ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-066",
+    "key": "1427d8c5003c",
+    "screen": "BIL_ITEM_NAT_197",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel département français possède une frontière avec le Brésil ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-067",
+    "key": "dcef31190d03",
+    "screen": "BIL_ITEM_NAT_198",
+    "theme": 4,
+    "level": 2,
+    "question": "D'où décollent les fusées Ariane, au sein du Centre spatial guyanais ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-068",
+    "key": "a5ef34ab6220",
+    "screen": "BIL_ITEM_NAT_199",
+    "theme": 4,
+    "level": 2,
+    "question": "Laquelle de ces mers ou de ces océans borde la France métropolitaine ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-069",
+    "key": "9f1e69af0294",
+    "screen": "BIL_ITEM_NAT_200",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle mer sépare la France de l'Angleterre ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-070",
+    "key": "3eebe958e182",
+    "screen": "BIL_ITEM_NAT_201",
+    "theme": 4,
+    "level": 2,
+    "question": "Lequel de ces territoires est un département-région d'outre-mer insulaire français ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-071",
+    "key": "8390fa2c22cb",
+    "screen": "BIL_ITEM_NAT_202",
+    "theme": 4,
+    "level": 2,
+    "question": "Qu'appelle-t-on la « France d'outre-mer » ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-072",
+    "key": "66f7043a6c2f",
+    "screen": "BIL_ITEM_NAT_203",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle est, environ, la population de la France en 2025 ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-073",
+    "key": "a0357089ba79",
+    "screen": "BIL_ITEM_NAT_204",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel est le principal port maritime en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-074",
+    "key": "bc7c19cbdb60",
+    "screen": "BIL_ITEM_NAT_205",
+    "theme": 4,
+    "level": 2,
+    "question": "Combien de régions compte la France métropolitaine ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-075",
+    "key": "fcdbd98f2c4d",
+    "screen": "BIL_ITEM_NAT_206",
+    "theme": 4,
+    "level": 1,
+    "question": "Quelle chaîne de montagnes est située entre la France et l'Espagne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-076",
+    "key": "f67597e5fbfe",
+    "screen": "BIL_ITEM_NAT_207",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle île française se trouve au sud-est du continent africain ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-077",
+    "key": "e2c0f944af01",
+    "screen": "BIL_ITEM_NAT_208",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel est le chef-lieu de la région Auvergne-Rhône-Alpes ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-078",
+    "key": "1146ad880b59",
+    "screen": "BIL_ITEM_NAT_209",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel est le chef-lieu de la région Bretagne ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-079",
+    "key": "3d7459cf011b",
+    "screen": "BIL_ITEM_NAT_210",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel est le chef-lieu de la région Provence-Alpes-Côte d'Azur ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-080",
+    "key": "7a794c7a5e37",
+    "screen": "BIL_ITEM_NAT_211",
+    "theme": 4,
+    "level": 2,
+    "question": "Depuis 2011, quel territoire est devenu le 101ᵉ département français ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-081",
+    "key": "e46f1dc86069",
+    "screen": "BIL_ITEM_NAT_212",
+    "theme": 4,
+    "level": 2,
+    "question": "Quelle région française est réputée pour ses stations de ski ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T4-082",
+    "key": "8281f762bde5",
+    "screen": "BIL_ITEM_NAT_213",
+    "theme": 4,
+    "level": 2,
+    "question": "Quel fleuve traverse Paris ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-001",
+    "key": "38dc3e39c690",
+    "screen": "BIL_ITEM_NAT_214",
+    "theme": 5,
+    "level": 1,
+    "question": "Où doit-on déclarer la naissance d'un enfant ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-002",
+    "key": "5ce5bd01a8d7",
+    "screen": "BIL_ITEM_NAT_215",
+    "theme": 5,
+    "level": 2,
+    "question": "Quels types de travaux un locataire peut-il réaliser dans le logement sans l'accord du propriétaire ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-003",
+    "key": "ac2dcc5b57b6",
+    "screen": "BIL_ITEM_NAT_216",
+    "theme": 5,
+    "level": 1,
+    "question": "Quel mariage est reconnu par l'État français ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-004",
+    "key": "7217a72d890a",
+    "screen": "BIL_ITEM_NAT_217",
+    "theme": 5,
+    "level": 1,
+    "question": "Le stationnement sur une place réservée aux personnes handicapées est :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-005",
+    "key": "8f5e0aaf08cf",
+    "screen": "BIL_ITEM_NAT_218",
+    "theme": 5,
+    "level": 1,
+    "question": "Un appareil électroménager neuf tombe en panne un an après l'achat. Que peut faire l'acheteur ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-006",
+    "key": "91d44f0ef690",
+    "screen": "BIL_ITEM_NAT_219",
+    "theme": 5,
+    "level": 2,
+    "question": "À quel moment la naissance d'un enfant doit-elle être déclarée ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-007",
+    "key": "08159263b4c1",
+    "screen": "BIL_ITEM_NAT_220",
+    "theme": 5,
+    "level": 2,
+    "question": "Dans quel délai la naissance d'un enfant doit-elle être déclarée à la mairie ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-008",
+    "key": "cbcf2ee22a6a",
+    "screen": "BIL_ITEM_NAT_221",
+    "theme": 5,
+    "level": 2,
+    "question": "Quel numéro permet de joindre directement la police en cas d'urgence ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-009",
+    "key": "7968c17d519d",
+    "screen": "BIL_ITEM_NAT_222",
+    "theme": 5,
+    "level": 2,
+    "question": "Quel numéro permet de joindre directement le SAMU en cas d'urgence médicale ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-010",
+    "key": "d7edffbc76db",
+    "screen": "BIL_ITEM_NAT_223",
+    "theme": 5,
+    "level": 2,
+    "question": "Où les parents doivent-ils d'abord s'adresser pour inscrire leur enfant à l'école publique ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-011",
+    "key": "ec5af1a3d3f0",
+    "screen": "BIL_ITEM_NAT_224",
+    "theme": 5,
+    "level": 2,
+    "question": "Après un divorce, qui exerce l'autorité parentale sur les enfants ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-012",
+    "key": "20a539da3aea",
+    "screen": "BIL_ITEM_NAT_225",
+    "theme": 5,
+    "level": 2,
+    "question": "Quel dispositif permet, sous conditions de ressources, de prendre en charge les frais de justice, notamment les honoraires d'avocat ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-013",
+    "key": "41e50da4fa48",
+    "screen": "BIL_ITEM_NAT_226",
+    "theme": 5,
+    "level": 2,
+    "question": "Qui peut demander le divorce en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-014",
+    "key": "1b1e7d9788b9",
+    "screen": "BIL_ITEM_NAT_227",
+    "theme": 5,
+    "level": 2,
+    "question": "Auprès de quel organisme demander le remboursement principal de ses frais de santé ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-015",
+    "key": "2e8b8a6feac8",
+    "screen": "BIL_ITEM_NAT_228",
+    "theme": 5,
+    "level": 1,
+    "question": "En France, la contraception est :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-016",
+    "key": "f2958f1ee513",
+    "screen": "BIL_ITEM_NAT_229",
+    "theme": 5,
+    "level": 2,
+    "question": "Qu'est-ce que le principe de confidentialité dans le domaine de la santé ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-017",
+    "key": "fc486e7874c2",
+    "screen": "BIL_ITEM_NAT_230",
+    "theme": 5,
+    "level": 2,
+    "question": "À quoi sert la carte Vitale ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-018",
+    "key": "e61ce8700d00",
+    "screen": "BIL_ITEM_NAT_231",
+    "theme": 5,
+    "level": 2,
+    "question": "Quel est le rôle d'une mutuelle santé ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-019",
+    "key": "7efb5a5a1632",
+    "screen": "BIL_ITEM_NAT_232",
+    "theme": 5,
+    "level": 2,
+    "question": "Qu'est-ce que le tiers payant ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-020",
+    "key": "c81188ae111d",
+    "screen": "BIL_ITEM_NAT_233",
+    "theme": 5,
+    "level": 1,
+    "question": "L'affiliation à l'Assurance maladie est :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-021",
+    "key": "75a916aca552",
+    "screen": "BIL_ITEM_NAT_234",
+    "theme": 5,
+    "level": 0,
+    "question": "Une femme a-t-elle le droit de recourir à une interruption volontaire de grossesse (IVG) en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-022",
+    "key": "c0526c1d1673",
+    "screen": "BIL_ITEM_NAT_235",
+    "theme": 5,
+    "level": 2,
+    "question": "Le travail non déclaré est :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-023",
+    "key": "ee9fe3b4dd42",
+    "screen": "BIL_ITEM_NAT_236",
+    "theme": 5,
+    "level": 2,
+    "question": "Qu'est-ce que le SMIC ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-024",
+    "key": "6168287a4556",
+    "screen": "BIL_ITEM_NAT_237",
+    "theme": 5,
+    "level": 2,
+    "question": "Quelle est la première démarche pour chercher un emploi ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-025",
+    "key": "dffca3142f27",
+    "screen": "BIL_ITEM_NAT_238",
+    "theme": 5,
+    "level": 2,
+    "question": "Quelle est la durée légale du travail en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-026",
+    "key": "8aa679ce3a39",
+    "screen": "BIL_ITEM_NAT_239",
+    "theme": 5,
+    "level": 2,
+    "question": "Qui peut demander un congé parental d'éducation ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-027",
+    "key": "6d7de244363c",
+    "screen": "BIL_ITEM_NAT_240",
+    "theme": 5,
+    "level": 0,
+    "question": "Une personne étrangère en situation régulière peut-elle créer une entreprise en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-028",
+    "key": "a9673e9b469f",
+    "screen": "BIL_ITEM_NAT_241",
+    "theme": 5,
+    "level": 1,
+    "question": "Une femme peut-elle créer une entreprise en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-029",
+    "key": "ade531d7d728",
+    "screen": "BIL_ITEM_NAT_242",
+    "theme": 5,
+    "level": 2,
+    "question": "Quels textes fixent les règles applicables aux salariés en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-030",
+    "key": "e9c902cdcf0b",
+    "screen": "BIL_ITEM_NAT_243",
+    "theme": 5,
+    "level": 2,
+    "question": "Quel type de litige le conseil de prud'hommes traite-t-il ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-031",
+    "key": "0e8ef83067ca",
+    "screen": "BIL_ITEM_NAT_244",
+    "theme": 5,
+    "level": 2,
+    "question": "Qui peut adhérer à un syndicat en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-032",
+    "key": "a09234d7cb41",
+    "screen": "BIL_ITEM_NAT_245",
+    "theme": 5,
+    "level": 2,
+    "question": "Un employeur peut-il licencier une salariée en raison de sa grossesse ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-033",
+    "key": "06af18dce85c",
+    "screen": "BIL_ITEM_NAT_246",
+    "theme": 5,
+    "level": 2,
+    "question": "L'instruction des enfants est obligatoire de :"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-034",
+    "key": "f3f1c27e0493",
+    "screen": "BIL_ITEM_NAT_247",
+    "theme": 5,
+    "level": 2,
+    "question": "Quelle sanction maximale risquent des parents qui ne respectent pas l'obligation d'instruction de leur enfant ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-035",
+    "key": "14e026a08015",
+    "screen": "BIL_ITEM_NAT_248",
+    "theme": 5,
+    "level": 2,
+    "question": "Qu'est-ce que l'autorité parentale ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-036",
+    "key": "f49f8bad82a7",
+    "screen": "BIL_ITEM_NAT_249",
+    "theme": 5,
+    "level": 2,
+    "question": "Laquelle de ces situations constitue un motif légitime d'absence scolaire ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-037",
+    "key": "32dd3a402e97",
+    "screen": "BIL_ITEM_NAT_250",
+    "theme": 5,
+    "level": 2,
+    "question": "Jusqu'à quel âge l'instruction est-elle obligatoire en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-038",
+    "key": "cc94ef2d2078",
+    "screen": "BIL_ITEM_NAT_251",
+    "theme": 5,
+    "level": 2,
+    "question": "À partir de quel âge l'instruction devient-elle obligatoire en France ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-039",
+    "key": "3dddfaad32a3",
+    "screen": "BIL_ITEM_NAT_252",
+    "theme": 5,
+    "level": 2,
+    "question": "Dans quel établissement les élèves poursuivent-ils leur scolarité après l'école élémentaire ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-040",
+    "key": "eb47eab7e828",
+    "screen": "BIL_ITEM_NAT_253",
+    "theme": 5,
+    "level": 2,
+    "question": "Que peuvent faire les parents d'élèves au sein de l'école ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-041",
+    "key": "581362cb06b0",
+    "screen": "BIL_ITEM_NAT_254",
+    "theme": 5,
+    "level": 2,
+    "question": "Comment sont accueillis à l'école les enfants qui ne parlent pas encore français ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-042",
+    "key": "89737e92e6fe",
+    "screen": "BIL_ITEM_NAT_255",
+    "theme": 5,
+    "level": 2,
+    "question": "Concernant la scolarisation des enfants en situation de handicap, quelle proposition est correcte ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-043",
+    "key": "3876ea7f0b6d",
+    "screen": "BIL_ITEM_NAT_256",
+    "theme": 5,
+    "level": 2,
+    "question": "Depuis le 1er juillet 2021, quelle est la durée du congé de paternité ?"
+  },
+  {
+    "exam": "NAT",
+    "id": "NAT-T5-044",
+    "key": "80b0e938d476",
+    "screen": "BIL_ITEM_NAT_257",
+    "theme": 5,
+    "level": 2,
+    "question": "Les châtiments corporels envers un enfant sont-ils autorisés en France ?"
+  }
+]

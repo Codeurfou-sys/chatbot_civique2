@@ -1,0 +1,22 @@
+<!-- À placer dans la zone de code HTML du pied de page de Moodle, par un administrateur. -->
+<style>
+#civi-launch{position:fixed;right:20px;bottom:20px;z-index:10000;background:#832640;color:white;border:0;border-radius:24px;padding:13px 20px;font:16px system-ui;cursor:pointer}#civi-widget{position:fixed;right:16px;bottom:76px;width:min(440px,calc(100vw - 32px));height:min(720px,calc(100vh - 100px));z-index:10001;border:1px solid #c98a9d;border-radius:16px;overflow:hidden;background:#fff5f7;box-shadow:0 10px 40px #0003}#civi-widget[hidden],#civi-wait[hidden]{display:none!important}#civi-widget header{height:44px;display:flex;justify-content:space-between;align-items:center;background:white;padding:8px 14px;font:17px system-ui}#civi-close{border:0;background:none;font-size:24px;cursor:pointer}#civi-frame{width:100%;height:calc(100% - 44px);border:0}#civi-wait{position:absolute;inset:44px 0 0;display:flex;align-items:center;justify-content:center;flex-direction:column;padding:20px;text-align:center;background:#fff5f7;font:17px system-ui;color:#2c3e50}#civi-wait img{width:80px}.civi-wait-dots{display:flex;gap:6px}.civi-wait-dots i{width:8px;height:8px;background:#832640;border-radius:50%;animation:civi-wait-pulse 1s infinite}.civi-wait-dots i:nth-child(2){animation-delay:.18s}.civi-wait-dots i:nth-child(3){animation-delay:.36s}@keyframes civi-wait-pulse{0%,75%,100%{opacity:.3}35%{opacity:1}}@media(prefers-reduced-motion:reduce){.civi-wait-dots i{animation:none}}
+#civi-launch{display:flex;align-items:center;gap:8px;padding:8px 15px 8px 8px}#civi-launch img{width:42px;height:42px;object-fit:contain}#civi-widget{width:min(540px,calc(100vw - 32px))}#civi-wait{z-index:2}</style>
+<button id="civi-launch" aria-controls="civi-widget" aria-expanded="false"><img src="https://codeurfou-sys.github.io/chatbot_civique2/Mascotteredim.png" alt=""><span>CiviCoach</span></button>
+<section id="civi-widget" hidden aria-label="CiviCoach"><header><strong>CiviCoach</strong><button id="civi-close" aria-label="Réduire CiviCoach">×</button></header><div id="civi-wait" role="status"><img src="https://codeurfou-sys.github.io/chatbot_civique2/Mascotteredim.png" alt="Mascotte CiviCoach"><p>CiviCoach arrive ! Patientez quelques secondes…</p><span class="civi-wait-dots" aria-hidden="true"><i></i><i></i><i></i></span></div><iframe id="civi-frame" title="CiviCoach — préparation à l’examen civique"></iframe></section>
+<script>
+(function(){
+ const host='https://codeurfou-sys.github.io',button=document.getElementById('civi-launch'),panel=document.getElementById('civi-widget'),frame=document.getElementById('civi-frame'),waiting=document.getElementById('civi-wait');let ready=false,transfer='';
+ let returnUrl=location.href;
+ if(location.hash.startsWith('#civicoach-retour=')){try{transfer=location.hash.slice(18);const state=JSON.parse(decodeURIComponent(transfer)),original=new URL(state.integrationContext?.url||location.href);if(original.origin===location.origin){returnUrl=original.href;history.replaceState(null,'',original.pathname+original.search+original.hash);}}catch(e){transfer='';}}
+ function show(){panel.hidden=false;button.setAttribute('aria-expanded','true');waiting.hidden=ready;if(!frame.getAttribute('src'))frame.src=host+'/chatbot_civique2/chatbot/?integration=moodle&v=23'+(transfer?'#parcours='+transfer:'');}
+ button.onclick=()=>{if(panel.hidden)show();else{panel.hidden=true;button.setAttribute('aria-expanded','false');}};
+ document.getElementById('civi-close').onclick=()=>{panel.hidden=true;button.setAttribute('aria-expanded','false');button.focus();};
+ window.addEventListener('message',e=>{if(e.origin!==host||e.source!==frame.contentWindow)return;
+  if(e.data?.source==='civicoach-ready'){ready=true;waiting.hidden=true;}
+  if(e.data?.source==='civicoach-integration-request')frame.contentWindow.postMessage({source:'civicoach-integration',returnUrl,returnOrigin:location.origin},host);
+  if(e.data?.source==='civicoach-return-widget'){show();window.focus();frame.focus();}
+ });
+ if(transfer)show();
+})();
+</script>

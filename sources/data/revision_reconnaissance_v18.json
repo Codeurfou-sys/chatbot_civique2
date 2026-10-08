@@ -1,0 +1,1149 @@
+{
+  "SCR_REV_T2_CH01_VERIF_Q01": {
+    "groups": [
+      [
+        "legislat",
+        "parlement",
+        "vote les lois"
+      ],
+      [
+        "executif",
+        "gouvernement",
+        "execute les lois",
+        "applique les lois"
+      ],
+      [
+        "judicia",
+        "justice",
+        "tribun"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T2_CH01_VERIF_Q02": {
+    "groups": [
+      [
+        "legislat",
+        "parlement",
+        "vote les lois"
+      ],
+      [
+        "executif",
+        "gouvernement",
+        "execute les lois",
+        "applique les lois"
+      ],
+      [
+        "judicia",
+        "justice",
+        "tribun"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T2_CH01_VERIF_Q03": {
+    "groups": [
+      [
+        "impartial",
+        "equitable",
+        "sans pression",
+        "independan",
+        "sans influence",
+        "pas de pression",
+        "neutre"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": [
+      "obeir au gouvernement",
+      "sous pression du gouvernement"
+    ]
+  },
+  "SCR_REV_T2_CH02_VERIF_Q01": {
+    "groups": [
+      [
+        "18",
+        "dix huit",
+        "majeur"
+      ],
+      [
+        "francais",
+        "francaise",
+        "nationalite francaise"
+      ],
+      [
+        "liste elector",
+        "inscrit",
+        "inscription"
+      ],
+      [
+        "droits civ",
+        "droits politi",
+        "pas prive"
+      ]
+    ],
+    "minimum": 4,
+    "forbid": [
+      "pas besoin d etre inscrit",
+      "pas besoin de nationalite"
+    ]
+  },
+  "SCR_REV_T2_CH02_VERIF_Q02": {
+    "groups": [
+      [
+        "18",
+        "dix huit",
+        "majeur"
+      ],
+      [
+        "francais",
+        "francaise",
+        "nationalite francaise"
+      ],
+      [
+        "liste elector",
+        "inscrit",
+        "inscription"
+      ],
+      [
+        "droits civ",
+        "droits politi",
+        "pas prive"
+      ]
+    ],
+    "minimum": 4,
+    "forbid": [
+      "pas besoin d etre inscrit",
+      "pas besoin de nationalite"
+    ]
+  },
+  "SCR_REV_T2_CH02_VERIF_Q03": {
+    "groups": [
+      [
+        "libre",
+        "liberte",
+        "pression",
+        "anonyme",
+        "confident",
+        "intimid",
+        "influenc"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": [
+      "empecher de choisir",
+      "vote public obligatoire"
+    ]
+  },
+  "SCR_REV_T2_CH03_VERIF_Q01": {
+    "groups": [
+      [
+        "commune",
+        "municipal"
+      ],
+      [
+        "departement"
+      ],
+      [
+        "region"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T2_CH03_VERIF_Q02": {
+    "groups": [
+      [
+        "service",
+        "local",
+        "habitant",
+        "proximite",
+        "mairie",
+        "vie quotidienne"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T2_CH03_VERIF_Q03": {
+    "groups": [
+      [
+        "solidar",
+        "social",
+        "college"
+      ],
+      [
+        "lycee",
+        "transport",
+        "economie",
+        "economique"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T2_CH04_VERIF_Q01": {
+    "groups": [
+      [
+        "parlement"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T2_CH04_VERIF_Q02": {
+    "groups": [
+      [
+        "vote",
+        "adopte",
+        "legislat",
+        "loi",
+        "texte"
+      ],
+      [
+        "controle",
+        "surveille",
+        "conseil"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T2_CH04_VERIF_Q03": {
+    "groups": [
+      [
+        "propose",
+        "proposition",
+        "initiative"
+      ],
+      [
+        "application",
+        "respect",
+        "applique",
+        "veille"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T3_CH01_VERIF_Q01": {
+    "groups": [
+      [
+        "constitution"
+      ],
+      [
+        "declaration",
+        "ddhc",
+        "1789"
+      ],
+      [
+        "charte",
+        "environnement"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T3_CH01_VERIF_Q02": {
+    "groups": [
+      [
+        "expression",
+        "opinion",
+        "presse"
+      ],
+      [
+        "egalite",
+        "discrimination"
+      ],
+      [
+        "surete",
+        "securite",
+        "liberte individuelle"
+      ],
+      [
+        "education",
+        "ecole",
+        "instruction"
+      ],
+      [
+        "vie privee",
+        "confidential",
+        "intimite"
+      ],
+      [
+        "religion",
+        "conscience"
+      ],
+      [
+        "travail",
+        "sante"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T3_CH01_VERIF_Q03": {
+    "groups": [
+      [
+        "meme droit",
+        "memes droit",
+        "egal",
+        "sans discrimination",
+        "pas de discrimination",
+        "traites de la meme"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": [
+      "moins de droits",
+      "plus de droits pour les hommes"
+    ]
+  },
+  "SCR_REV_T3_CH02_VERIF_Q01": {
+    "groups": [
+      [
+        "loi",
+        "regle"
+      ],
+      [
+        "autres personnes",
+        "biens",
+        "autrui",
+        "autres"
+      ],
+      [
+        "impot",
+        "revenu"
+      ],
+      [
+        "environnement",
+        "recycl",
+        "tri"
+      ],
+      [
+        "secours",
+        "aide",
+        "danger"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T3_CH02_VERIF_Q02": {
+    "groups": [
+      [
+        "service public",
+        "ecole",
+        "hopital",
+        "route",
+        "collectiv",
+        "financ",
+        "depense publique"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T3_CH02_VERIF_Q03": {
+    "groups": [
+      [
+        "instruction",
+        "educ",
+        "eduqu",
+        "scol",
+        "ecole",
+        "apprendr"
+      ],
+      [
+        "assid",
+        "presence",
+        "aller a l ecole",
+        "va a l ecole",
+        "vont a l ecole",
+        "suivi",
+        "veill",
+        "accompagn"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T4_CH01_VERIF_Q03": {
+    "groups": [
+      [
+        "cinquieme",
+        "5e",
+        "ve republique",
+        "5eme",
+        "veme",
+        "constitution"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T4_CH02_VERIF_Q01": {
+    "groups": [
+      [
+        "metropol",
+        "hexagone"
+      ],
+      [
+        "outre mer",
+        "outremer",
+        "ultramarin"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T4_CH02_VERIF_Q02": {
+    "groups": [
+      [
+        "seine",
+        "loire",
+        "garonne",
+        "rhone",
+        "rhin"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": [
+      "pas un fleuve"
+    ]
+  },
+  "SCR_REV_T4_CH02_VERIF_Q03": {
+    "groups": [
+      [
+        "sud est",
+        "sudest",
+        "italie",
+        "suisse"
+      ],
+      [
+        "sud ouest",
+        "sudouest",
+        "espagne"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T4_CH03_VERIF_Q01": {
+    "groups": [
+      [
+        "monument",
+        "batiment",
+        "chateau",
+        "cathedrale",
+        "tour eiffel"
+      ],
+      [
+        "art",
+        "oeuvre",
+        "peinture",
+        "sculpture",
+        "musee",
+        "livre",
+        "litterature"
+      ],
+      [
+        "langue",
+        "francais"
+      ],
+      [
+        "tradition",
+        "coutume",
+        "fete"
+      ],
+      [
+        "gastronom",
+        "cuisine",
+        "plat",
+        "aliment"
+      ],
+      [
+        "savoir faire",
+        "artisan"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T4_CH03_VERIF_Q02": {
+    "groups": [
+      [
+        "monument",
+        "batiment",
+        "chateau",
+        "cathedrale",
+        "tour eiffel"
+      ],
+      [
+        "art",
+        "oeuvre",
+        "peinture",
+        "sculpture",
+        "musee",
+        "livre",
+        "litterature"
+      ],
+      [
+        "langue",
+        "francais"
+      ],
+      [
+        "tradition",
+        "coutume",
+        "fete"
+      ],
+      [
+        "gastronom",
+        "cuisine",
+        "plat",
+        "aliment"
+      ],
+      [
+        "savoir faire",
+        "artisan"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T4_CH03_VERIF_Q03": {
+    "groups": [
+      [
+        "protege",
+        "protection",
+        "preserv",
+        "conserv",
+        "classe",
+        "reconnait",
+        "identif",
+        "sauvegard"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH01_VERIF_Q01": {
+    "groups": [
+      [
+        "adresse",
+        "courrier",
+        "lettre",
+        "recevoir",
+        "droits",
+        "administrat"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH01_VERIF_Q02": {
+    "groups": [
+      [
+        "identite",
+        "passeport",
+        "carte de sejour",
+        "titre de sejour"
+      ],
+      [
+        "domicile",
+        "adresse",
+        "hebergement",
+        "facture"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH01_VERIF_Q03": {
+    "groups": [
+      [
+        "legal",
+        "autorise",
+        "autorisation",
+        "droit",
+        "permet"
+      ],
+      [
+        "sejour",
+        "vivre",
+        "habiter",
+        "rester",
+        "resid"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH01_VERIF_Q04": {
+    "groups": [
+      [
+        "etat",
+        "description",
+        "constat",
+        "inventaire",
+        "degradation"
+      ],
+      [
+        "logement",
+        "appartement",
+        "entree",
+        "sortie",
+        "maison",
+        "litige"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH02_VERIF_Q01": {
+    "groups": [
+      [
+        "suivi",
+        "soign",
+        "medecin",
+        "sante",
+        "consult"
+      ],
+      [
+        "orient",
+        "specialist",
+        "coordonn"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH02_VERIF_Q02": {
+    "groups": [
+      [
+        "rembours",
+        "assurance maladie",
+        "securite sociale",
+        "transmet",
+        "droits",
+        "informations"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": [
+      "contient de l argent",
+      "carte bancaire",
+      "paie tous les soins"
+    ]
+  },
+  "SCR_REV_T5_CH02_VERIF_Q04": {
+    "groups": [
+      [
+        "part",
+        "base",
+        "obligatoire",
+        "securite sociale",
+        "assurance maladie"
+      ],
+      [
+        "complet",
+        "reste",
+        "mutuelle",
+        "supplement"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH03_VERIF_Q01": {
+    "groups": [
+      [
+        "emploi",
+        "travail",
+        "profession",
+        "formation",
+        "chomage"
+      ],
+      [
+        "accompagn",
+        "aid",
+        "recherch",
+        "orient",
+        "insert",
+        "trouver"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH03_VERIF_Q02": {
+    "groups": [
+      [
+        "brut"
+      ],
+      [
+        "cotisation",
+        "charge",
+        "retenue"
+      ],
+      [
+        "net"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH03_VERIF_Q03": {
+    "groups": [
+      [
+        "emploi",
+        "poste",
+        "tache"
+      ],
+      [
+        "salaire",
+        "remuneration",
+        "paiement"
+      ],
+      [
+        "duree",
+        "horaire",
+        "temps"
+      ],
+      [
+        "droit",
+        "obligation",
+        "engagement"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH03_VERIF_Q04": {
+    "groups": [
+      [
+        "prevenir",
+        "inform",
+        "avert",
+        "signaler"
+      ],
+      [
+        "arret",
+        "justifi",
+        "certificat",
+        "document"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH04_VERIF_Q02": {
+    "groups": [
+      [
+        "langage",
+        "parler",
+        "communiqu"
+      ],
+      [
+        "social",
+        "vivre ensemble",
+        "autre",
+        "ensemble"
+      ],
+      [
+        "apprentiss",
+        "apprendr",
+        "decouvr",
+        "premier"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH04_VERIF_Q03": {
+    "groups": [
+      [
+        "prevenir",
+        "inform",
+        "avert",
+        "signaler",
+        "justifi",
+        "motif"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T5_CH04_VERIF_Q04": {
+    "groups": [
+      [
+        "protege",
+        "protection",
+        "securite",
+        "bien etre",
+        "soin"
+      ],
+      [
+        "educ",
+        "eduqu",
+        "apprendr"
+      ],
+      [
+        "decid",
+        "interet",
+        "accompagn",
+        "aider",
+        "responsabil"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH01_VERIF_Q01": {
+    "groups": [
+      [
+        "peuple",
+        "citoyen",
+        "citoyenne"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": [
+      "pas le peuple",
+      "roi",
+      "seulement le president"
+    ]
+  },
+  "SCR_REV_T1_CH01_VERIF_Q02": {
+    "groups": [
+      [
+        "representant",
+        "elu",
+        "parlement"
+      ],
+      [
+        "referendum"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH01_VERIF_Q03": {
+    "groups": [
+      [
+        "indivisibl"
+      ],
+      [
+        "laique",
+        "laic"
+      ],
+      [
+        "democrati"
+      ],
+      [
+        "social"
+      ]
+    ],
+    "minimum": 4,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH02_VERIF_Q01": {
+    "groups": [
+      [
+        "liberte"
+      ],
+      [
+        "egalite"
+      ],
+      [
+        "fraternite"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH02_VERIF_Q02": {
+    "groups": [
+      [
+        "meme",
+        "memes",
+        "egal",
+        "sans discrimination",
+        "pas de discrimination"
+      ],
+      [
+        "tous",
+        "toutes",
+        "chacun",
+        "personne",
+        "droit",
+        "loi",
+        "citoyen"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": [
+      "lois differentes selon l origine",
+      "plus de droits"
+    ]
+  },
+  "SCR_REV_T1_CH02_VERIF_Q03": {
+    "groups": [
+      [
+        "meme",
+        "memes",
+        "egal",
+        "sans discrimination",
+        "pas de discrimination"
+      ],
+      [
+        "tous",
+        "toutes",
+        "chacun",
+        "personne",
+        "droit",
+        "loi",
+        "citoyen"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": [
+      "lois differentes selon l origine",
+      "plus de droits"
+    ]
+  },
+  "SCR_REV_T1_CH03_VERIF_Q01": {
+    "groups": [
+      [
+        "bleu"
+      ],
+      [
+        "blanc"
+      ],
+      [
+        "rouge"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH03_VERIF_Q02": {
+    "groups": [
+      [
+        "hymne",
+        "chant national",
+        "chanson nationale"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH03_VERIF_Q03": {
+    "groups": [
+      [
+        "fete nationale",
+        "bastille",
+        "federation",
+        "1789",
+        "1790"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH03_VERIF_Q04": {
+    "groups": [
+      [
+        "non",
+        "pas l embleme",
+        "drapeau"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH04_VERIF_Q01": {
+    "groups": [
+      [
+        "separation",
+        "neutralite",
+        "neutre"
+      ],
+      [
+        "etat"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": [
+      "etat pas neutre",
+      "pas de separation",
+      "pas de neutralite",
+      "etat impose une religion"
+    ]
+  },
+  "SCR_REV_T1_CH04_VERIF_Q02": {
+    "groups": [
+      [
+        "agent",
+        "fonctionnaire",
+        "contractuel",
+        "personnel du service"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": [
+      "tous les usagers",
+      "seulement les usagers"
+    ]
+  },
+  "SCR_REV_T1_CH04_VERIF_Q03": {
+    "groups": [
+      [
+        "pas interdit",
+        "n est pas interdit",
+        "autorise",
+        "permis",
+        "non",
+        "pas un delit",
+        "aucun delit"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": [
+      "oui il est interdit"
+    ]
+  },
+  "SCR_REV_T1_CH05_VERIF_Q01": {
+    "groups": [
+      [
+        "francais",
+        "francaise"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH05_VERIF_Q02": {
+    "groups": [
+      [
+        "constitution",
+        "article 2"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH05_VERIF_Q03": {
+    "groups": [
+      [
+        "oui",
+        "pas interdit",
+        "n interdit pas",
+        "libre",
+        "liberte",
+        "autorise",
+        "permis",
+        "autre langue",
+        "langue de son choix"
+      ]
+    ],
+    "minimum": 1,
+    "forbid": [
+      "non on ne peut pas",
+      "francais uniquement",
+      "autres langues interdites"
+    ]
+  },
+  "SCR_REV_T1_CH06_VERIF_Q01": {
+    "groups": [
+      [
+        "liberte personnelle"
+      ],
+      [
+        "expression",
+        "conscience"
+      ],
+      [
+        "egalite",
+        "femmes et hommes"
+      ],
+      [
+        "dignite",
+        "humain"
+      ],
+      [
+        "devise",
+        "symbole"
+      ],
+      [
+        "integrite",
+        "territori"
+      ],
+      [
+        "laic",
+        "laique"
+      ]
+    ],
+    "minimum": 3,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH06_VERIF_Q02": {
+    "groups": [
+      [
+        "refus",
+        "retrait",
+        "retir",
+        "pas de titre",
+        "non delivrance"
+      ],
+      [
+        "titre",
+        "sejour",
+        "carte",
+        "residence"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T1_CH06_VERIF_Q03": {
+    "groups": [
+      [
+        "respect",
+        "engage",
+        "engagement"
+      ],
+      [
+        "principe",
+        "valeur",
+        "republique"
+      ]
+    ],
+    "minimum": 2,
+    "forbid": []
+  },
+  "SCR_REV_T4_CH01_VERIF_Q01": {
+    "numbers": [
+      "1789"
+    ]
+  },
+  "SCR_REV_T4_CH01_VERIF_Q02": {
+    "numbers": [
+      "1905"
+    ]
+  },
+  "SCR_REV_T5_CH02_VERIF_Q03": {
+    "numbers": [
+      "15",
+      "112"
+    ]
+  },
+  "SCR_REV_T5_CH04_VERIF_Q01": {
+    "numbers": [
+      "3",
+      "trois"
+    ]
+  }
+}

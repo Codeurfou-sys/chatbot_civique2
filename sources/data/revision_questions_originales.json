@@ -1,0 +1,374 @@
+[
+  {
+    "id": "SCR_REV_T2_CH01_VERIF_Q01",
+    "answer": "Les trois pouvoirs sont :\n\n- le pouvoir législatif ;\n- le pouvoir exécutif ;\n- le pouvoir judiciaire.",
+    "question": "Quels sont les trois pouvoirs qui permettent de garantir l'équilibre de la démocratie française ?",
+    "variable": "rep_t2_ch1_q1"
+  },
+  {
+    "id": "SCR_REV_T2_CH01_VERIF_Q02",
+    "answer": "Les pouvoirs législatif, exécutif et judiciaire.",
+    "question": "Quels sont les trois pouvoirs séparés dans une démocratie ?",
+    "variable": "rep_t2_ch1_q2"
+  },
+  {
+    "id": "SCR_REV_T2_CH01_VERIF_Q03",
+    "answer": "Elle doit juger impartialement, sans pression du pouvoir politique.",
+    "question": "Pourquoi la justice doit-elle être indépendante ?",
+    "variable": "rep_t2_ch1_q3"
+  },
+  {
+    "id": "SCR_REV_T2_CH02_VERIF_Q01",
+    "answer": "Il faut avoir au moins 18 ans, avoir la nationalité française, être inscrit sur les listes électorales et ne pas être privé de ses droits civils et politiques. Les citoyens de l’Union européenne peuvent voter en France aux élections municipales et européennes sous certaines conditions.",
+    "question": "Quelles sont les quatre conditions principales pour pouvoir voter en France ?",
+    "variable": "rep_t2_ch2_q1"
+  },
+  {
+    "id": "SCR_REV_T2_CH02_VERIF_Q02",
+    "answer": "Il faut notamment avoir 18 ans, être français, jouir de ses droits civils et politiques et être inscrit sur une liste électorale.",
+    "question": "Quelles conditions principales faut-il remplir pour voter en France ?",
+    "variable": "rep_t2_ch2_q2"
+  },
+  {
+    "id": "SCR_REV_T2_CH02_VERIF_Q03",
+    "answer": "Le secret du vote permet à chacun de choisir librement, sans pression.",
+    "question": "Pourquoi le vote est-il secret ?",
+    "variable": "rep_t2_ch2_q3"
+  },
+  {
+    "id": "SCR_REV_T2_CH03_VERIF_Q01",
+    "answer": "Les trois niveaux sont :\n\n- la commune ;\n- le département ;\n- la région.",
+    "question": "Quels sont les trois principaux niveaux de collectivités territoriales en France ?",
+    "variable": "rep_t2_ch3_q1"
+  },
+  {
+    "id": "SCR_REV_T2_CH03_VERIF_Q02",
+    "answer": "La commune gère des services publics locaux proches des habitants, sous l'autorité du maire et du conseil municipal.",
+    "question": "Quel est le rôle principal d'une commune ?",
+    "variable": "rep_t2_ch3_q2"
+  },
+  {
+    "id": "SCR_REV_T2_CH03_VERIF_Q03",
+    "answer": "Les départements agissent notamment dans la solidarité et les collèges ; les régions dans les lycées, les transports et le développement économique.",
+    "question": "À quoi servent les départements et les régions ?",
+    "variable": "rep_t2_ch3_q3"
+  },
+  {
+    "id": "SCR_REV_T2_CH04_VERIF_Q01",
+    "answer": "Le Parlement européen.",
+    "question": "Quelle institution européenne est élue directement par les citoyens européens ?",
+    "variable": "rep_t2_ch4_q1"
+  },
+  {
+    "id": "SCR_REV_T2_CH04_VERIF_Q02",
+    "answer": "Le Parlement européen vote les textes européens avec le Conseil de l'Union européenne et contrôle les institutions européennes.",
+    "question": "Quel est le rôle du Parlement européen ?",
+    "variable": "rep_t2_ch4_q2"
+  },
+  {
+    "id": "SCR_REV_T2_CH04_VERIF_Q03",
+    "answer": "La Commission propose des textes européens et veille à l'application du droit de l'Union européenne.",
+    "question": "Quel est le rôle de la Commission européenne ?",
+    "variable": "rep_t2_ch4_q3"
+  },
+  {
+    "id": "SCR_REV_T3_CH01_VERIF_Q01",
+    "answer": "Les trois textes attendus sont la Constitution, la Déclaration des droits de l’Homme et du citoyen et la Charte de l’environnement.",
+    "question": "Quels sont les trois principaux textes qui protègent les droits fondamentaux en France ?",
+    "variable": "rep_t3_ch1_q1"
+  },
+  {
+    "id": "SCR_REV_T3_CH01_VERIF_Q02",
+    "answer": "Par exemple : la liberté d'expression, l'égalité, le droit à la sûreté, le droit à l'éducation ou le respect de la vie privée.",
+    "question": "Citez deux droits fondamentaux reconnus en France.",
+    "variable": "rep_t3_ch1_q2"
+  },
+  {
+    "id": "SCR_REV_T3_CH01_VERIF_Q03",
+    "answer": "Les femmes et les hommes ont les mêmes droits et doivent être traités sans discrimination.",
+    "question": "Que signifie l'égalité entre les femmes et les hommes ?",
+    "variable": "rep_t3_ch1_q3"
+  },
+  {
+    "id": "SCR_REV_T3_CH02_VERIF_Q01",
+    "answer": "Il fallait citer au moins trois obligations, par exemple : respecter les lois ; respecter les autres personnes et leurs biens ; déclarer ses revenus et payer les impôts dus ; protéger l’environnement ; porter secours ou demander de l’aide face à un danger.",
+    "question": "Citez trois obligations que toute personne vivant en France doit respecter.",
+    "variable": "rep_t3_ch2_q1"
+  },
+  {
+    "id": "SCR_REV_T3_CH02_VERIF_Q02",
+    "answer": "Les impôts financent les services publics et les dépenses utiles à la collectivité.",
+    "question": "Pourquoi faut-il payer des impôts ?",
+    "variable": "rep_t3_ch2_q2"
+  },
+  {
+    "id": "SCR_REV_T3_CH02_VERIF_Q03",
+    "answer": "Ils doivent assurer leur instruction et veiller à leur assiduité scolaire.",
+    "question": "Quels devoirs les parents ont-ils concernant l'éducation de leurs enfants ?",
+    "variable": "rep_t3_ch2_q3"
+  },
+  {
+    "id": "SCR_REV_T4_CH01_VERIF_Q01",
+    "answer": "La Révolution française débute en 1789.",
+    "question": "En quelle année débute la Révolution française ?",
+    "variable": "rep_t4_ch1_q1"
+  },
+  {
+    "id": "SCR_REV_T4_CH01_VERIF_Q02",
+    "answer": "La loi de séparation des Églises et de l'État a été adoptée en 1905.",
+    "question": "En quelle année la loi de séparation des Églises et de l'État a-t-elle été adoptée ?",
+    "variable": "rep_t4_ch1_q2"
+  },
+  {
+    "id": "SCR_REV_T4_CH01_VERIF_Q03",
+    "answer": "En 1958 naît la Ve République et sa Constitution est adoptée.",
+    "question": "Que se passe-t-il en 1958 dans l'histoire politique française ?",
+    "variable": "rep_t4_ch1_q3"
+  },
+  {
+    "id": "SCR_REV_T4_CH02_VERIF_Q01",
+    "answer": "La France métropolitaine et les territoires d’Outre-mer.",
+    "question": "Quels sont les deux grands ensembles qui composent le territoire français ?",
+    "variable": "rep_t4_ch2_q1"
+  },
+  {
+    "id": "SCR_REV_T4_CH02_VERIF_Q02",
+    "answer": "Par exemple : la Seine, la Loire, la Garonne, le Rhône ou le Rhin.",
+    "question": "Citez un grand fleuve français.",
+    "variable": "rep_t4_ch2_q2"
+  },
+  {
+    "id": "SCR_REV_T4_CH02_VERIF_Q03",
+    "answer": "Les Alpes se situent au sud-est de la France et les Pyrénées au sud-ouest, à la frontière avec l'Espagne.",
+    "question": "Où se trouvent les Alpes et les Pyrénées ?",
+    "variable": "rep_t4_ch2_q3"
+  },
+  {
+    "id": "SCR_REV_T4_CH03_VERIF_Q01",
+    "answer": "Les monuments, les œuvres artistiques, la langue française, les traditions, la gastronomie et les savoir-faire.",
+    "question": "Quels sont les principaux éléments qui composent le patrimoine culturel français ?",
+    "variable": "rep_t4_ch3_q1"
+  },
+  {
+    "id": "SCR_REV_T4_CH03_VERIF_Q02",
+    "answer": "Par exemple : un monument, un musée, une œuvre, une tradition, la gastronomie ou la langue française.",
+    "question": "Citez deux éléments du patrimoine culturel français.",
+    "variable": "rep_t4_ch3_q2"
+  },
+  {
+    "id": "SCR_REV_T4_CH03_VERIF_Q03",
+    "answer": "L'UNESCO identifie et contribue à protéger des biens culturels et naturels d'une valeur exceptionnelle.",
+    "question": "Quel est le rôle de l'UNESCO pour le patrimoine ?",
+    "variable": "rep_t4_ch3_q3"
+  },
+  {
+    "id": "SCR_REV_T5_CH01_VERIF_Q01",
+    "answer": "La domiciliation donne une adresse administrative pour recevoir son courrier et accéder à ses droits.",
+    "question": "Pourquoi est-il important d'avoir une domiciliation ?",
+    "variable": "rep_t5_ch1_q1"
+  },
+  {
+    "id": "SCR_REV_T5_CH01_VERIF_Q02",
+    "answer": "Une pièce d'identité et un justificatif de domicile sont généralement demandés.",
+    "question": "Quels documents sont généralement nécessaires pour ouvrir un compte bancaire ?",
+    "variable": "rep_t5_ch1_q2"
+  },
+  {
+    "id": "SCR_REV_T5_CH01_VERIF_Q03",
+    "answer": "Il permet à une personne étrangère d'habiter ou de vivre légalement en France pendant une durée déterminée.",
+    "question": "À quoi sert un titre de séjour ?",
+    "variable": "rep_t5_ch1_q3"
+  },
+  {
+    "id": "SCR_REV_T5_CH01_VERIF_Q04",
+    "answer": "Il décrit l'état du logement à l'entrée et à la sortie afin de limiter les litiges.",
+    "question": "À quoi sert un état des lieux dans un logement ?",
+    "variable": "rep_t5_ch1_q4"
+  },
+  {
+    "id": "SCR_REV_T5_CH02_VERIF_Q01",
+    "answer": "Il assure le suivi médical habituel et oriente si nécessaire vers un spécialiste.",
+    "question": "Quel est le rôle du médecin traitant ?",
+    "variable": "rep_t5_ch2_q1"
+  },
+  {
+    "id": "SCR_REV_T5_CH02_VERIF_Q02",
+    "answer": "Elle transmet les informations utiles à l'Assurance Maladie et facilite le remboursement des soins.",
+    "question": "À quoi sert la carte Vitale ?",
+    "variable": "rep_t5_ch2_q2"
+  },
+  {
+    "id": "SCR_REV_T5_CH02_VERIF_Q03",
+    "answer": "En France, on appelle le 15 pour le SAMU ou le 112, numéro d'urgence européen.",
+    "question": "Quel numéro appeler en cas d'urgence médicale grave ?",
+    "variable": "rep_t5_ch2_q3"
+  },
+  {
+    "id": "SCR_REV_T5_CH02_VERIF_Q04",
+    "answer": "L'Assurance Maladie rembourse une part des soins ; la mutuelle peut compléter ce remboursement.",
+    "question": "Quelle différence y a-t-il entre l'Assurance Maladie et une mutuelle ?",
+    "variable": "rep_t5_ch2_q4"
+  },
+  {
+    "id": "SCR_REV_T5_CH03_VERIF_Q01",
+    "answer": "France Travail accompagne les personnes dans leur recherche d'emploi, leur orientation et leur insertion professionnelle.",
+    "question": "Quel est le rôle de France Travail ?",
+    "variable": "rep_t5_ch3_q1"
+  },
+  {
+    "id": "SCR_REV_T5_CH03_VERIF_Q02",
+    "answer": "Le bulletin ou la fiche de paie indique notamment le salaire brut, les cotisations et le salaire net.",
+    "question": "Quels éléments essentiels figurent sur un bulletin de salaire ?",
+    "variable": "rep_t5_ch3_q2"
+  },
+  {
+    "id": "SCR_REV_T5_CH03_VERIF_Q03",
+    "answer": "Il précise l'emploi, la rémunération, la durée du travail et les obligations de l'employeur et du salarié.",
+    "question": "À quoi sert un contrat de travail ?",
+    "variable": "rep_t5_ch3_q3"
+  },
+  {
+    "id": "SCR_REV_T5_CH03_VERIF_Q04",
+    "answer": "Il doit prévenir rapidement son employeur et transmettre l'arrêt de travail dans le délai demandé.",
+    "question": "Que doit faire un salarié en cas d'absence pour maladie ?",
+    "variable": "rep_t5_ch3_q4"
+  },
+  {
+    "id": "SCR_REV_T5_CH04_VERIF_Q01",
+    "answer": "L'instruction est obligatoire à partir de 3 ans.",
+    "question": "À partir de quel âge l'instruction est-elle obligatoire en France ?",
+    "variable": "rep_t5_ch4_q1"
+  },
+  {
+    "id": "SCR_REV_T5_CH04_VERIF_Q02",
+    "answer": "L'école maternelle développe le langage, la socialisation et les premiers apprentissages de l'enfant.",
+    "question": "Quel est le rôle principal de l'école maternelle ?",
+    "variable": "rep_t5_ch4_q2"
+  },
+  {
+    "id": "SCR_REV_T5_CH04_VERIF_Q03",
+    "answer": "Ils doivent prévenir l'établissement et justifier l'absence.",
+    "question": "Que doivent faire les parents en cas d'absence de leur enfant ?",
+    "variable": "rep_t5_ch4_q3"
+  },
+  {
+    "id": "SCR_REV_T5_CH04_VERIF_Q04",
+    "answer": "Les parents doivent protéger l'enfant, assurer son éducation et prendre les décisions dans son intérêt.",
+    "question": "Que signifie l'autorité parentale ?",
+    "variable": "rep_t5_ch4_q4"
+  },
+  {
+    "id": "SCR_REV_T1_CH01_VERIF_Q01",
+    "answer": "Le peuple.",
+    "question": "Qui possède la souveraineté nationale en France ?",
+    "variable": "rep_t1_ch1_q1"
+  },
+  {
+    "id": "SCR_REV_T1_CH01_VERIF_Q02",
+    "answer": "Par ses représentants et par la voie du référendum.",
+    "question": "Par quels moyens le peuple exerce-t-il la souveraineté nationale ?",
+    "variable": "rep_t1_ch1_q2"
+  },
+  {
+    "id": "SCR_REV_T1_CH01_VERIF_Q03",
+    "answer": "Indivisible, laïque, démocratique et sociale.",
+    "question": "Complète la phrase :\n\n\"La France est une République __________, __________, __________, et __________.\"",
+    "variable": "rep_t1_ch1_q3"
+  },
+  {
+    "id": "SCR_REV_T1_CH02_VERIF_Q01",
+    "answer": "Liberté, égalité, fraternité",
+    "question": "Quelle est la devise officielle de la République française ?",
+    "variable": "rep_t1_ch2_q1"
+  },
+  {
+    "id": "SCR_REV_T1_CH02_VERIF_Q02",
+    "answer": "L'égalité devant la loi signifie que **la loi est la même pour tous.**",
+    "question": "Que signifie l'égalité devant la loi ?",
+    "variable": "rep_t1_ch2_q2"
+  },
+  {
+    "id": "SCR_REV_T1_CH02_VERIF_Q03",
+    "answer": "La loi doit s'appliquer de la même manière à toutes les personnes, sans discrimination.",
+    "question": "Que signifie le principe d'égalité dans la devise républicaine ?",
+    "variable": "rep_t1_ch2_q3"
+  },
+  {
+    "id": "SCR_REV_T1_CH03_VERIF_Q01",
+    "answer": "Bleu, blanc et rouge.",
+    "question": "Quelles sont les couleurs du drapeau français ?",
+    "variable": "rep_t1_ch3_q1"
+  },
+  {
+    "id": "SCR_REV_T1_CH03_VERIF_Q02",
+    "answer": "La Marseillaise est l'hymne national français.",
+    "question": "Qu'est-ce que la Marseillaise ?",
+    "variable": "rep_t1_ch3_q2"
+  },
+  {
+    "id": "SCR_REV_T1_CH03_VERIF_Q03",
+    "answer": "Le 14 juillet est la fête nationale française. Il commémore notamment la prise de la Bastille en 1789.",
+    "question": "Pourquoi célèbre-t-on le 14 juillet ?",
+    "variable": "rep_t1_ch3_q3"
+  },
+  {
+    "id": "SCR_REV_T1_CH03_VERIF_Q04",
+    "answer": "Non. L’emblème national défini par la Constitution est le drapeau bleu, blanc, rouge. Le coq est un emblème historique de la France, également présenté parmi les symboles républicains par l’Élysée.",
+    "question": "Le coq est-il l’emblème national défini par la Constitution ?",
+    "variable": "rep_t1_ch3_q4"
+  },
+  {
+    "id": "SCR_REV_T1_CH04_VERIF_Q01",
+    "answer": "La séparation des Églises et de l'État.",
+    "question": "Quelle est la grande loi adoptée en 1905 ?",
+    "variable": "rep_t1_ch4_q1"
+  },
+  {
+    "id": "SCR_REV_T1_CH04_VERIF_Q02",
+    "answer": "L'obligation de neutralité dans les services publics s'impose à tous les agents publics (fonctionnaires et contractuels).",
+    "question": "Qui est soumis à l'obligation de neutralité dans les services publics ?",
+    "variable": "rep_t1_ch4_q2"
+  },
+  {
+    "id": "SCR_REV_T1_CH04_VERIF_Q03",
+    "answer": "En France, le blasphème n'est pas interdit, car la loi ne reconnait aucun délit de blasphème. Il est permis de critiquer une religion, de se moquer de dieux ou de rejeter des croyances. Cependant, la loi interdit d'insulter ou d'attaquer directement les personnes qui pratiquent une religion.",
+    "question": "Le blasphème est-il interdit en France ?",
+    "variable": "rep_t1_ch4_q3"
+  },
+  {
+    "id": "SCR_REV_T1_CH05_VERIF_Q01",
+    "answer": "Le français est la langue officielle de la France depuis 1992.",
+    "question": "Quelle est la langue officielle de la République française ?",
+    "variable": "rep_t1_ch5_q1"
+  },
+  {
+    "id": "SCR_REV_T1_CH05_VERIF_Q02",
+    "answer": "L'article 2 de la Constitution a officialisé le français comme langue de la République française en 1992.",
+    "question": "Dans quel texte la langue française est-elle officialisée ?",
+    "variable": "rep_t1_ch5_q2"
+  },
+  {
+    "id": "SCR_REV_T1_CH05_VERIF_Q03",
+    "answer": "La France n'interdit pas de parler une autre langue sur son territoire et dans sa vie privée.",
+    "question": "Peut-on parler une autre langue dans sa vie privée ?",
+    "variable": "rep_t1_ch5_q3"
+  },
+  {
+    "id": "SCR_REV_T1_CH06_VERIF_Q01",
+    "answer": "Il fallait citer au moins trois principes parmi : la liberté personnelle ; la liberté d’expression et de conscience ; l’égalité entre les femmes et les hommes ; la dignité de la personne humaine ; la devise et les symboles de la République ; l’intégrité territoriale ; la laïcité.",
+    "question": "Citez trois des sept principes contenus dans le contrat.",
+    "variable": "rep_t1_ch6_q1"
+  },
+  {
+    "id": "SCR_REV_T1_CH06_VERIF_Q02",
+    "answer": "Le refus de signer le contrat peut entraîner le refus de délivrance ou le retrait du titre de séjour concerné.",
+    "question": "Que peut-il se passer si une personne refuse de signer ce contrat ?",
+    "variable": "rep_t1_ch6_q2"
+  },
+  {
+    "id": "SCR_REV_T1_CH06_VERIF_Q03",
+    "answer": "Il formalise l'engagement de respecter les principes et les valeurs de la République française.",
+    "question": "À quoi sert le contrat d'engagement à respecter les principes de la République ?",
+    "variable": "rep_t1_ch6_q3"
+  }
+]

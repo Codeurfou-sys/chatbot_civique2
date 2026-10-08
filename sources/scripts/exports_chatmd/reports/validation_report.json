@@ -1,0 +1,181 @@
+{
+  "generated_at": "2026-08-28T13:18:13+02:00",
+  "summary": {
+    "screens": 0,
+    "navigation": 0,
+    "errors": 21,
+    "warnings": 0,
+    "information": 0,
+    "export_allowed": false
+  },
+  "issues": [
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 00_ACCUEIL",
+      "sheet": "00_ACCUEIL",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 01_CONFIGURATION",
+      "sheet": "01_CONFIGURATION",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 02_BILAN",
+      "sheet": "02_BILAN",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 03_REVISIONS",
+      "sheet": "03_REVISIONS",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 04_GLOSSAIRE",
+      "sheet": "04_GLOSSAIRE",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 05_PREPARER_EXAMEN",
+      "sheet": "05_PREPARER_EXAMEN",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 06_ENTRAINEMENT",
+      "sheet": "06_ENTRAINEMENT",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 07_PASSER_EXAMEN",
+      "sheet": "07_PASSER_EXAMEN",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 08_CONSEILS",
+      "sheet": "08_CONSEILS",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 09_FAQ",
+      "sheet": "09_FAQ",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 10_QUESTION_LIBRE",
+      "sheet": "10_QUESTION_LIBRE",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 90_ECRANS_BILAN",
+      "sheet": "90_ECRANS_BILAN",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 91_ECRANS_REVISIONS",
+      "sheet": "91_ECRANS_REVISIONS",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 92_ECRANS_GLOSSAIRE",
+      "sheet": "92_ECRANS_GLOSSAIRE",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 93_ECRANS_PREPARER",
+      "sheet": "93_ECRANS_PREPARER",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 94_ECRANS_ENTRAINEMENT",
+      "sheet": "94_ECRANS_ENTRAINEMENT",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 95_ECRANS_PASSER_EXAMEN",
+      "sheet": "95_ECRANS_PASSER_EXAMEN",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 96_ECRANS_CONSEILS",
+      "sheet": "96_ECRANS_CONSEILS",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 97_ECRANS_FAQ",
+      "sheet": "97_ECRANS_FAQ",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 98_ECRANS_QUESTION_LIBRE",
+      "sheet": "98_ECRANS_QUESTION_LIBRE",
+      "row": null,
+      "value": null
+    },
+    {
+      "level": "ERROR",
+      "code": "MISSING_SHEET",
+      "message": "Onglet obligatoire absent : 99_NAVIGATION",
+      "sheet": "99_NAVIGATION",
+      "row": null,
+      "value": null
+    }
+  ]
+}

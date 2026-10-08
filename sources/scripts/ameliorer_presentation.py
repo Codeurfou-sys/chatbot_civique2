@@ -1,0 +1,127 @@
+"""Présentation et intitulés ; à relancer après régénération des modules."""
+from pathlib import Path
+import re
+ICON_BASE='https://raw.githubusercontent.com/Codeurfou-sys/chatbot_civique2/main/assets/icons/'
+def pictogram(name,alt):return f'<img class="civic-icon" src="{ICON_BASE}{name}.svg" alt="{alt}" width="30" height="24">'
+ICONS={'SCR_PREP_MENU':'🎯','SCR_PASS_MENU':'🗓️','MENU_PRINCIPAL':'🏠'}
+def presentation(text):
+ text=text.replace("# Coach Civique NovaFrate","# CiviCoach")
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=re.sub(r'(?m)^(:::info|:::warning|:::success) ([^\n]+)', lambda m: m[1]+' '+m[2], text)
+ text=text.replace('[🏡 ', '[➡️ ').replace('[➡️ ℹ️ ', '[ℹ️ ')
+ text=text.replace('[➡️ ↩️ ', '[↩️ ').replace('[➡️ ➡️ ', '[➡️ ')
+ text=text.replace('Préparer mon examen','Passer un examen blanc').replace('Préparer un examen blanc','Passer un examen blanc').replace('préparer un examen blanc','passer un examen blanc').replace('Passer mon examen civique','S’inscrire à l’examen civique').replace('Passer mon examen','S’inscrire à l’examen civique')
+ def icon(m):
+  label,target=m[2],m[3]
+  if target.startswith(('ENT_','EXAM_','BIL_')) and target.endswith(('_VRAI','_FAUX')):
+   return m[0] if (((((((((label.startswith('🔘 ') or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) or 'qcm-letter' in label) else m[1]+'[🔘 '+label+']('+target+')'
+  for title,asset in [('Carte de séjour pluriannuelle','csp-v7'),('Carte de résident','resident'),('Naturalisation','naturalisation-v7')]:
+   if title in label and not target.startswith(('SCR_GLO_', 'SCR_QL_', 'SCR_FAQ_')):
+    # Préserver les variables éventuelles portées par le libellé.
+    clean=label[label.index(title):]
+    return m[1]+'['+pictogram(asset,'')+' '+clean+']('+target+')'
+  if target=='SCR_PASS_REGION_GRAND_EST':return m[1]+'['+pictogram('cigogne','')+' Grand Est]('+target+')'
+  if target=='SCR_PASS_REGION_AUVERGNE':return m[1]+'[🌋 Auvergne]('+target+')'
+  if re.fullmatch(r'SCR_ENT_(CSP|CR|NAT)_T[1-5]_(Q|MIS)_LAUNCH',target):
+   for title in ['Principes et valeurs','Institutions et système politique','Droits et devoirs','Histoire, géographie et culture','Vivre dans la société française']:
+    if title in label and not target.startswith(('SCR_GLO_', 'SCR_QL_', 'SCR_FAQ_')):return m[1]+'['+('📘' if '_Q_LAUNCH' in target else '🎭')+' '+label[label.index(title):]+']('+target+')'
+  if '<span ' in label or '<img ' in label or (label and ord(label[0])>8000):return m[0]
+  if target.startswith(('ENT_','EXAM_','BIL_')) and target.endswith(('_VRAI','_FAUX')):symbol='🔘'
+  elif 'RETOUR' in target or label.lower().startswith('retour'):symbol='↩️'
+  elif 'MIS' in target:symbol='🎭'
+  elif 'FAC' in target:symbol='🟢'
+  elif 'INT' in target:symbol='🟡'
+  elif 'DIF' in target:symbol='🔴'
+  elif 'TOUS' in target or 'ALL' in target:symbol='🌐'
+  elif 'CSP' in target:symbol='🪪'
+  elif '_CR_' in target or target.endswith('_CR'):symbol='🪪'
+  elif 'NAT' in target:symbol='🇫🇷'
+  elif 'SCR_REV_T' in target or '_T' in target:symbol='📚'
+  elif 'PASS' in target:symbol='📍'
+  else:symbol='➡️'
+  return m[1]+'['+symbol+' '+label+']('+target+')'
+ return re.sub(r'(?m)^(\d+\. )\[([^\]\n]+)\]\(([^)\n]+)\)',icon,text)
+def main():
+ for p in Path('modules').glob('*.md'):p.write_text(presentation(p.read_text()))
+ p=Path('chat_bot.md');text=presentation(p.read_text())
+ if 'nova-large-link' not in text.split('### 🚀 Que souhaitez-vous faire ?')[0]:text=text.replace('### 🚀 Que souhaitez-vous faire ?', '<p class=\"nova-large-link\"><a href=\"https://codeurfou-sys.github.io/chatbot_civique2/chatbot/\" target=\"_blank\" rel=\"noopener noreferrer\">↗ Ouvrir le chatbot en grand dans un nouvel onglet</a></p>\n\n### 🚀 Que souhaitez-vous faire ?',1)
+ css='''
+  /* Présentation NovaFrate : boutons, cartes et accessibilité clavier */
+  .messageOptions { padding-left: 0 !important; display: flex; flex-direction: column; align-items: flex-start; gap: 10px; }
+  .messageOptions li { list-style: none; margin: 0 !important; }
+  .messageOptions a, .button, a.btn {
+    display: inline-block; background: #fff !important; border: 1px solid #d8a9b4 !important;
+    border-radius: 14px !important; padding: 12px 18px !important; line-height: 1.45;
+    box-shadow: 0 3px 10px rgba(100,30,50,.08) !important; text-decoration: none !important;
+    transition: background .15s, box-shadow .15s;
+  }
+  .messageOptions a:hover { background: #fff5f7 !important; box-shadow: 0 5px 14px rgba(100,30,50,.16) !important; }
+  .messageOptions a:focus-visible, button:focus-visible { outline: 3px solid #a61c3c !important; outline-offset: 3px; }
+  /* Le bouton d'envoi garde sa propre géométrie, distincte des choix. */
+  #controls { align-items: flex-start !important; flex-direction: row !important;
+    gap: 10px !important; box-sizing: border-box; padding-left: 10px !important; padding-right: 10px !important; }
+  #input-container { box-sizing: border-box; min-height: 42px; min-width: 0; flex: 1 1 auto; width: auto !important; }
+  #send-button {
+    box-sizing: border-box !important; display: inline-flex !important;
+    align-items: center !important; justify-content: center !important;
+    height: 42px !important; min-height: 42px !important; padding: 0 14px !important;
+    line-height: 1.2 !important; margin: 0 !important; flex: 0 0 auto;
+    white-space: nowrap; border-radius: 12px !important;
+  }
+  .message:has(.civicoach-route) { display: none !important; }
+  .glo-keyboard { display: grid; grid-template-columns: repeat(7, minmax(30px, 1fr)); gap: 8px; max-width: 400px; margin: 14px 0; }
+  .glo-key { display: inline-flex; align-items: center; justify-content: center; min-height: 40px; border: 1px solid #a61c3c; border-radius: 8px; background: #fff; text-decoration: none; font-weight: bold; }
+  .glo-key.disabled { color: #7b7b7b; background: #eee; border-color: #ddd; }
+  .glo-key:focus-visible { outline: 3px solid #a61c3c; outline-offset: 3px; }
+  .deadline-orange { display: inline-block; width: 14px; height: 14px; background: #c65d00; border-radius: 50%; vertical-align: middle; margin-right: 5px; }
+  .civi-progress-row { display: flex; align-items: center; gap: 10px; margin: 12px 0; max-width: 650px; }
+  .civi-progress-track { flex: 1 1 auto; min-width: 35px; height: 15px; background: #e5dbe6; border-radius: 8px; overflow: hidden; }
+  .civi-progress-track span { display: block; height: 100%; background: #37b97c; border-radius: inherit; }
+  .civi-progress-label { flex: 0 0 auto; white-space: nowrap; font-weight: 600; }
+  .admonitionTitle:before { content: none !important; display: none !important; }
+  .admonitionTitle:has(.civi-faq-title):before, .admonitionTitle:has(.civi-theme-title):before { content: none !important; display: none !important; }
+  #controls { bottom: 26px !important; padding-bottom: 8px !important; height: auto !important; min-height: 54px; }
+  #footer { bottom: 3px !important; height: 19px; line-height: 19px; margin: 0 !important; font-size: 12px; }
+  #chat { margin-bottom: 130px !important; }
+  #chat table { border-collapse: collapse; width: 100%; }
+  #chat th, #chat td { border: 1px solid #d8a9b4; padding: 12px; text-align: left; vertical-align: top; }
+  #chat th { background: #f5e3e8; }
+  #chat tbody tr:nth-child(even) { background: #fff8fa; }
+  .civic-icon { vertical-align: middle; object-fit: contain; margin-right: 5px; }
+  #chat h3 { margin-top: 24px; margin-bottom: 14px; line-height: 1.4; }
+  #chat p { line-height: 1.65; }
+  .v9-progress { display:block; width:min(100%,360px); height:14px; accent-color:#b83a64; margin:7px 0 12px; }
+  .qcm-letter { display:inline-flex; align-items:center; justify-content:center; width:22px; height:22px; border-radius:50%; background:#777; color:#fff; font-weight:700; margin-right:7px; flex-shrink:0; }
+  #chat .warning { background: #fff8e6; border-left: 4px solid #d99c20; padding: 16px; border-radius: 12px; }
+  @media (max-width: 600px) { .messageOptions { flex-direction: column; } .messageOptions a { box-sizing: border-box; width: 100%; } }
+
+  /* Corrigé v13 : liens intégrés et cartes sur mobile */
+  #chat .v13-errors { table-layout:fixed; font-size:15px; margin:14px 0; }
+  #chat .v13-errors th:nth-child(1){width:25%}
+  #chat .v13-errors th:nth-child(2){width:25%}
+  #chat .v13-errors th:nth-child(3){width:27%}
+  #chat .v13-errors th:nth-child(4){width:23%}
+  #chat .v13-errors td{padding:12px;overflow-wrap:anywhere;line-height:1.5}
+  #chat .v13-errors a{display:inline;color:#8b2444!important;text-decoration:underline;font-weight:600}
+  #chat .v13-summary{margin:14px 0}
+  @media(max-width:700px){
+    #chat .v13-errors,#chat .v13-errors tbody,#chat .v13-errors tr,#chat .v13-errors td{display:block;width:100%;}
+    #chat .v13-errors thead{display:none}
+    #chat .v13-errors tr{background:white;margin:14px 0;border:1px solid #d8a9b4;border-radius:12px;padding:8px;}
+    #chat .v13-errors td{border:0;padding:8px}
+    #chat .v13-errors td:before{content:attr(data-label) " : ";font-weight:700;display:block;}
+  }
+'''
+ if '/* Présentation NovaFrate' in text:
+  text=re.sub(r'\n  /\* Présentation NovaFrate.*?(?=\n---\n)',lambda m:css,text,count=1,flags=re.S)
+ else:text=text.replace('\n---\n\n# Coach',css+'\n---\n\n# Coach',1)
+ for mod in Path('modules').glob('*.md'):
+  begin=f'<!-- Début du fichier source : modules/{mod.name} -->';end=f'<!-- Fin du fichier source : modules/{mod.name} -->'
+  if begin not in text:text+='\n\n'+begin+'\n\n'+mod.read_text().strip()+'\n\n'+end+'\n'
+  if begin in text:text=re.sub(re.escape(begin)+r'.*?'+re.escape(end),lambda m:begin+'\n\n'+mod.read_text().strip()+'\n\n'+end,text,flags=re.S)
+ p.write_text(text)
+if __name__=='__main__':main()

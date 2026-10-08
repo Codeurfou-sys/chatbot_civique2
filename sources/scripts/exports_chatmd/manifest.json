@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-08-28T13:18:13+02:00",
+  "workbook": "C:\\Users\\timot\\Documents\\GitHub\\Chatbot_civique2\\sources\\BANQUE_OFFICIELLE_CSP.xlsx",
+  "screens_total": 0,
+  "screens_exported": 0,
+  "navigation_total": 0,
+  "navigation_exported": 0,
+  "module_files": [
+    "modules\\start.md"
+  ],
+  "data_files": [
+    "data\\faq.csv",
+    "data\\glossaire.csv",
+    "data\\intentions.csv",
+    "data\\entites.csv",
+    "data\\sessions.json",
+    "data\\variables.json"
+  ],
+  "errors": 21,
+  "warnings": 0
+}
