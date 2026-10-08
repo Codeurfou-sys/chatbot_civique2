@@ -38,3 +38,28 @@ html.civi-a11y-contrast body:not([data-civicoach-version]) :is(button,input,sele
 html.civi-a11y-contrast body:not([data-civicoach-version]) :is(input,select) {background:#f9e1e6!important;color:#171717!important}
 html.civi-a11y-contrast body:not([data-civicoach-version]) button {background:#650d19!important;color:white!important}
 html.civi-a11y-contrast body:not([data-civicoach-version]) button * {color:inherit!important}
+
+.a11y-colour-block{min-width:0}
+html body #a11y-panel .a11y-colour-block label{display:block;font-size:13px;font-weight:650;margin:9px 0 5px}
+html body #a11y-panel #a11y-colour-profile{display:block;width:100%;min-width:0;max-width:100%;min-height:44px;padding:8px;border:2px solid #b21c1a;border-radius:10px;background:#fff0f2;color:#2c3e50;font-size:14px}
+#a11y-colour-help,.a11y-motion-help{font-size:12px;line-height:1.5;margin:8px 0}
+html[data-civi-colour-profile="deuteranopia"]{--civi-profile-ink:#123c78;--civi-profile-tint:#e7eefb;--civi-profile-fill:#123c78}
+html[data-civi-colour-profile="protanopia"]{--civi-profile-ink:#362268;--civi-profile-tint:#eee8fa;--civi-profile-fill:#362268}
+html[data-civi-colour-profile="tritanopia"]{--civi-profile-ink:#68162d;--civi-profile-tint:#f8e8ed;--civi-profile-fill:#68162d}
+html[data-civi-colour-profile="achromatopsia"]{--civi-profile-ink:#202020;--civi-profile-tint:#eeeeee;--civi-profile-fill:#202020}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #chat .messageOptions a,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #chat .admonition,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #saved-panel button,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #a11y-panel .a11y-switch,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #a11y-colour-profile{background:var(--civi-profile-tint)!important;border-color:var(--civi-profile-ink)!important;color:var(--civi-profile-ink)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #chat .admonition :is(.admonitionTitle,p,span,li,strong),
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #chat a{color:var(--civi-profile-ink)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body :is(#send-button,.civi-show-now){background:var(--civi-profile-fill)!important;color:#fff!important;border-color:var(--civi-profile-fill)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body .switch-track{background:var(--civi-profile-fill)!important;border-color:var(--civi-profile-ink)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body [aria-checked=false] .switch-track{background:var(--civi-profile-tint)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body [aria-checked=false] .switch-track i{background:var(--civi-profile-fill)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body:not([data-civicoach-version]) :is(button,.feedback,.panel,.card){background:var(--civi-profile-tint)!important;border-color:var(--civi-profile-ink)!important;color:var(--civi-profile-ink)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body:not([data-civicoach-version]) button *{color:inherit!important}
+/* Profiles adapt interface colours, never simulate colour blindness over learning images. */
+
+.a11y-grid{align-items:start}
