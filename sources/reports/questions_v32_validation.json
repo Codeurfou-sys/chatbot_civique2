@@ -1,0 +1,8 @@
+{
+  "version": 32,
+  "requests": 316,
+  "validatedFormulations": 2237,
+  "rejectedCandidates": 0,
+  "testCases": 19,
+  "heldOutCases": 13
+}
