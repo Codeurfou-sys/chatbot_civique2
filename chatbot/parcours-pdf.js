@@ -1,7 +1,7 @@
 'use strict';
 (function(root){
 let dataPromise;
-function reportData(){return dataPromise||(dataPromise=fetch('parcours-data.json?v=19').then(r=>{if(!r.ok)throw Error('Le contenu du parcours PDF est indisponible.');return r.json();}));}
+function reportData(){return dataPromise||(dataPromise=fetch('parcours-data.json?v=36').then(r=>{if(!r.ok)throw Error('Le contenu du parcours PDF est indisponible.');return r.json();}));}
 const finite=v=>typeof v==='number'&&Number.isFinite(v);
 const names={CSP:'Carte de séjour pluriannuelle',CR:'Carte de résident',NAT:'Naturalisation'};
 function build(state,data){
@@ -18,20 +18,34 @@ function build(state,data){
  function scorebar(score,max){room(15);doc.setFillColor(233,236,241);doc.roundedRect(18,y,174,4,2,2,'F');if(score>0){doc.setFillColor(52,120,110);doc.roundedRect(18,y,174*Math.min(1,Math.max(0,score/max)),4,2,2,'F');}y+=10;}
  function feedback(theme,pct){const bands=data.feedback.bands,index=bands.findIndex(b=>pct>=b[0]&&pct<b[1]);return data.feedback.themes[String(theme)][index<0?0:index];}
  header();text('CiviCoach - préparation à l’examen civique',10);text('Export du '+new Date().toLocaleString('fr-FR',{timeZone:'Europe/Paris'}),9,[99,109,120]);
- text('Ce document permet de consulter vos résultats et vos conseils. Vos résultats et vos conseils restent accessibles dans « Mon parcours personnalisé ».',10);
- for(const [kind,label] of [['bilan','Mes bilans'],['entrainement','Mes entraînements'],['examen','Mes examens blancs']]){
-  heading(label);const rows=state.history[kind]||[];
+ text('Votre feuille de route reprend uniquement votre dernier bilan, votre dernier entraînement et votre dernier examen blanc. Les thématiques sont classées par priorité, du score le plus faible au plus élevé. Les autres tentatives restent accessibles dans CiviCoach.',10);
+ for(const [kind,label] of [['bilan','Mon dernier bilan'],['entrainement','Mon dernier entraînement'],['examen','Mon dernier examen blanc']]){
+  heading(label);const rows=[...(state.history?.[kind]||[])].sort((a,b)=>{const x=Date.parse(a.date),z=Date.parse(b.date);return (Number.isFinite(z)?z:0)-(Number.isFinite(x)?x:0);}).slice(0,1);
   if(!rows.length){text('Aucun résultat enregistré dans cette rubrique.',10,[99,109,120]);continue;}
   rows.forEach((row,index)=>{
-   const v=row.variables||{},code=String(v.parcoursExam||v.trainExam||v.lastExamCode||'').split('_')[0];
-   room(30);text('Tentative '+(index+1)+' - '+new Date(row.date).toLocaleString('fr-FR',{timeZone:'Europe/Paris'}),11);
+   const v=row.variables||{},code=String(v[kind==='bilan'?'parcoursExam':kind==='entrainement'?'trainExam':'lastExamCode']||'').split('_')[0];
+   room(30);text('Résultat du '+new Date(row.date).toLocaleString('fr-FR',{timeZone:'Europe/Paris'}),11);
    if(names[code])text(names[code]);text('Score : '+row.score+'/'+row.max,12);scorebar(row.score,row.max);
    if(kind==='examen')text(Number(row.score)>=32?'Objectif de l’examen blanc atteint (32/40 ou plus).':'L’objectif de l’examen blanc est de 32/40. Reprenez les notions associées à vos erreurs avant une nouvelle tentative.');
    if(kind==='examen'&&finite(v.lastKnowledge)&&finite(v.lastSituations))text('Questions de connaissances : '+v.lastKnowledge+'/28. Mises en situation : '+v.lastSituations+'/12.');
+   const thematic=[];
    for(let t=1;t<=5;t++){
-    const prefix=kind==='bilan'?'parcours':kind==='entrainement'?'train':'last',points=Number(v[prefix+'T'+t]),max=kind==='bilan'?5:Number(v[(kind==='entrainement'?'trainTotal':'lastTotal')+t]);
+    const prefix=kind==='bilan'?'parcours':kind==='entrainement'?'train':'last',raw=v[prefix+'T'+t],rawMax=kind==='bilan'?5:v[(kind==='entrainement'?'trainTotal':'lastTotal')+t];
+    if(raw===undefined||raw===null||rawMax===undefined||rawMax===null)continue;
+    const points=Number(raw),max=Number(rawMax);
     if(!Number.isFinite(points)||!Number.isFinite(max)||max<=0)continue;
-    const pct=Math.max(0,Math.min(100,points/max*100));room(35);text(data.themes[t-1]+' : '+points+'/'+max,10,[178,28,26]);text(feedback(t,pct));
+    thematic.push({t,points,max,pct:Math.max(0,Math.min(100,points/max*100))});
+   }
+   thematic.sort((a,b)=>a.pct-b.pct||a.t-b.t);
+   if(thematic.length){room(100);text('Plan d’action par thématique',11,[178,28,26]);}
+   else text('Le détail par thématique n’est pas disponible pour cette ancienne tentative. Consultez le parcours personnalisé après votre prochaine session.',9);
+   for(const {t,points,max,pct} of thematic){
+    const band=pct<40?0:pct<80?1:pct<100?2:3,plan=data.actionPlans?.[kind]?.[String(t)]?.[band];
+    doc.setFontSize(9);const height=plan?20+plan.reduce((sum,step)=>sum+doc.splitTextToSize(step.title+' : '+step.text,174).length*5.5+2,0):42;
+    room(height);text(data.themes[t-1]+' : '+points+'/'+max,11,[178,28,26]);
+    if(plan)for(const step of plan)text(step.title+' : '+step.text,9);
+    else text(feedback(t,pct),9);
+    room(10);doc.setFontSize(9);doc.setTextColor(178,28,26);doc.textWithLink('Revoir cette thématique dans CiviCoach',18,y,{url:'https://codeurfou-sys.github.io/chatbot_civique2/chatbot/?retour=SCR_REV_T'+t+'_MENU'});y+=8;
    }
    if(kind!=='bilan')text('Pour les mises en situation, identifiez le principe civique recherché, lisez toutes les propositions et consultez « Réussir les mises en situation » dans les conseils.');
    y+=3;
