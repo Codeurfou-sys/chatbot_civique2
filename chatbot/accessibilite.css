@@ -113,3 +113,6 @@ html body #a11y-disclosure #a11y-panel{margin-top:12px;}
 html.civi-a11y-markers body #a11y-disclosure>summary{background:var(--civi-marker-ink)!important;border-color:var(--civi-marker-ink)!important;color:white!important;}
 html.civi-a11y-contrast body #a11y-disclosure>summary{background:#111!important;color:#fff!important;border-color:#111!important;}
 html.civi-a11y-large body #a11y-disclosure>summary{font-size:22px!important;}
+.civi-feedback-card{background:#fff6f7;border:1px solid #e7bfc5;border-radius:14px;padding:16px;margin:14px 0;}
+.civi-feedback-card h4{color:#b21c1a;margin:0 0 10px;}.civi-feedback-card li{padding:6px 0;}.civi-feedback-card li p{margin:6px 0;}.civi-feedback-card>a{display:inline-block;border:1px solid #b21c1a;border-radius:10px;padding:10px;margin:5px;color:#b21c1a;}
+html.civi-a11y-markers .civi-feedback-card{background:var(--civi-marker-paper)!important;border-color:var(--civi-marker-ink)!important;}

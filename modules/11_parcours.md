@@ -22,58 +22,7 @@ Terminez un bilan pour obtenir un plan adapté.
 `if @parcoursDisponible`
 `@planPct1 = calc(@parcoursT1*20)`
 **Dernier bilan : `@parcoursT1`/5 — `@planPct1` %.**
-`if @planPct1 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez les libertés, l’égalité, la fraternité et la laïcité, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @planPct1 >= 40 && @planPct1 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant les libertés, l’égalité, la fraternité et la laïcité. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @planPct1 >= 80 && @planPct1 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant les libertés, l’égalité, la fraternité et la laïcité. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @planPct1 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez les libertés, l’égalité, la fraternité et la laïcité dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @planPct1 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de les libertés, l’égalité, la fraternité et la laïcité. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @planPct1 >= 40 && @planPct1 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur les libertés, l’égalité, la fraternité et la laïcité. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @planPct1 >= 80 && @planPct1 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @planPct1 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="bilan" data-theme="1"></div>
 `if @parcoursExam == "CSP"`
 `if @planPct1 == 100`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T1_Q_DIF_LAUNCH)
@@ -117,58 +66,7 @@ Terminez un bilan pour obtenir un plan adapté.
 `if @parcoursDisponible`
 `@planPct2 = calc(@parcoursT2*20)`
 **Dernier bilan : `@parcoursT2`/5 — `@planPct2` %.**
-`if @planPct2 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @planPct2 >= 40 && @planPct2 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @planPct2 >= 80 && @planPct2 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @planPct2 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez le rôle du président, du Gouvernement, du Parlement et des collectivités dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @planPct2 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de le rôle du président, du Gouvernement, du Parlement et des collectivités. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @planPct2 >= 40 && @planPct2 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @planPct2 >= 80 && @planPct2 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @planPct2 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="bilan" data-theme="2"></div>
 `if @parcoursExam == "CSP"`
 `if @planPct2 == 100`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T2_Q_DIF_LAUNCH)
@@ -212,58 +110,7 @@ Terminez un bilan pour obtenir un plan adapté.
 `if @parcoursDisponible`
 `@planPct3 = calc(@parcoursT3*20)`
 **Dernier bilan : `@parcoursT3`/5 — `@planPct3` %.**
-`if @planPct3 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez les droits fondamentaux et les obligations de chacun, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @planPct3 >= 40 && @planPct3 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant les droits fondamentaux et les obligations de chacun. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @planPct3 >= 80 && @planPct3 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant les droits fondamentaux et les obligations de chacun. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @planPct3 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez les droits fondamentaux et les obligations de chacun dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @planPct3 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de les droits fondamentaux et les obligations de chacun. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @planPct3 >= 40 && @planPct3 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur les droits fondamentaux et les obligations de chacun. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @planPct3 >= 80 && @planPct3 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @planPct3 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="bilan" data-theme="3"></div>
 `if @parcoursExam == "CSP"`
 `if @planPct3 == 100`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T3_Q_DIF_LAUNCH)
@@ -307,58 +154,7 @@ Terminez un bilan pour obtenir un plan adapté.
 `if @parcoursDisponible`
 `@planPct4 = calc(@parcoursT4*20)`
 **Dernier bilan : `@parcoursT4`/5 — `@planPct4` %.**
-`if @planPct4 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez les repères historiques, les territoires et le patrimoine, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @planPct4 >= 40 && @planPct4 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant les repères historiques, les territoires et le patrimoine. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @planPct4 >= 80 && @planPct4 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant les repères historiques, les territoires et le patrimoine. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @planPct4 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez les repères historiques, les territoires et le patrimoine dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @planPct4 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de les repères historiques, les territoires et le patrimoine. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @planPct4 >= 40 && @planPct4 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur les repères historiques, les territoires et le patrimoine. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @planPct4 >= 80 && @planPct4 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @planPct4 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="bilan" data-theme="4"></div>
 `if @parcoursExam == "CSP"`
 `if @planPct4 == 100`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T4_Q_DIF_LAUNCH)
@@ -402,58 +198,7 @@ Terminez un bilan pour obtenir un plan adapté.
 `if @parcoursDisponible`
 `@planPct5 = calc(@parcoursT5*20)`
 **Dernier bilan : `@parcoursT5`/5 — `@planPct5` %.**
-`if @planPct5 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez les démarches, la santé, le travail et l’éducation, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @planPct5 >= 40 && @planPct5 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant les démarches, la santé, le travail et l’éducation. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @planPct5 >= 80 && @planPct5 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant les démarches, la santé, le travail et l’éducation. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @planPct5 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez les démarches, la santé, le travail et l’éducation dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @planPct5 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de les démarches, la santé, le travail et l’éducation. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @planPct5 >= 40 && @planPct5 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur les démarches, la santé, le travail et l’éducation. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @planPct5 >= 80 && @planPct5 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @planPct5 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="bilan" data-theme="5"></div>
 `if @parcoursExam == "CSP"`
 `if @planPct5 == 100`
 1. [📘 Questions de cette thématique](SCR_ENT_CSP_T5_Q_DIF_LAUNCH)
@@ -749,58 +494,7 @@ Terminez un entraînement pour obtenir un plan adapté.
 `if @trainDisponible`
 `if @trainTotal1 > 0`
 **Dernier entraînement : `@trainT1`/`@trainTotal1` — `@trainPct1` %.**
-`if @trainPct1 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez les libertés, l’égalité, la fraternité et la laïcité, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @trainPct1 >= 40 && @trainPct1 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant les libertés, l’égalité, la fraternité et la laïcité. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @trainPct1 >= 80 && @trainPct1 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant les libertés, l’égalité, la fraternité et la laïcité. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @trainPct1 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez les libertés, l’égalité, la fraternité et la laïcité dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @trainPct1 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de les libertés, l’égalité, la fraternité et la laïcité. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @trainPct1 >= 40 && @trainPct1 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur les libertés, l’égalité, la fraternité et la laïcité. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @trainPct1 >= 80 && @trainPct1 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @trainPct1 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="entrainement" data-theme="1"></div>
 `endif`
 `if @trainTotal1 == 0`
 Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un entraînement pour obtenir un plan fondé sur vos réponses.
@@ -848,58 +542,7 @@ Terminez un entraînement pour obtenir un plan adapté.
 `if @trainDisponible`
 `if @trainTotal2 > 0`
 **Dernier entraînement : `@trainT2`/`@trainTotal2` — `@trainPct2` %.**
-`if @trainPct2 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez le rôle du président, du Gouvernement, du Parlement et des collectivités, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @trainPct2 >= 40 && @trainPct2 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @trainPct2 >= 80 && @trainPct2 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant le rôle du président, du Gouvernement, du Parlement et des collectivités. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @trainPct2 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez le rôle du président, du Gouvernement, du Parlement et des collectivités dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @trainPct2 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de le rôle du président, du Gouvernement, du Parlement et des collectivités. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @trainPct2 >= 40 && @trainPct2 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur le rôle du président, du Gouvernement, du Parlement et des collectivités. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @trainPct2 >= 80 && @trainPct2 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @trainPct2 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="entrainement" data-theme="2"></div>
 `endif`
 `if @trainTotal2 == 0`
 Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un entraînement pour obtenir un plan fondé sur vos réponses.
@@ -947,58 +590,7 @@ Terminez un entraînement pour obtenir un plan adapté.
 `if @trainDisponible`
 `if @trainTotal3 > 0`
 **Dernier entraînement : `@trainT3`/`@trainTotal3` — `@trainPct3` %.**
-`if @trainPct3 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez les droits fondamentaux et les obligations de chacun, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @trainPct3 >= 40 && @trainPct3 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant les droits fondamentaux et les obligations de chacun. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @trainPct3 >= 80 && @trainPct3 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant les droits fondamentaux et les obligations de chacun. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @trainPct3 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez les droits fondamentaux et les obligations de chacun dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @trainPct3 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de les droits fondamentaux et les obligations de chacun. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @trainPct3 >= 40 && @trainPct3 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur les droits fondamentaux et les obligations de chacun. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @trainPct3 >= 80 && @trainPct3 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @trainPct3 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="entrainement" data-theme="3"></div>
 `endif`
 `if @trainTotal3 == 0`
 Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un entraînement pour obtenir un plan fondé sur vos réponses.
@@ -1046,58 +638,7 @@ Terminez un entraînement pour obtenir un plan adapté.
 `if @trainDisponible`
 `if @trainTotal4 > 0`
 **Dernier entraînement : `@trainT4`/`@trainTotal4` — `@trainPct4` %.**
-`if @trainPct4 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez les repères historiques, les territoires et le patrimoine, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @trainPct4 >= 40 && @trainPct4 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant les repères historiques, les territoires et le patrimoine. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @trainPct4 >= 80 && @trainPct4 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant les repères historiques, les territoires et le patrimoine. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @trainPct4 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez les repères historiques, les territoires et le patrimoine dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @trainPct4 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de les repères historiques, les territoires et le patrimoine. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @trainPct4 >= 40 && @trainPct4 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur les repères historiques, les territoires et le patrimoine. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @trainPct4 >= 80 && @trainPct4 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @trainPct4 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="entrainement" data-theme="4"></div>
 `endif`
 `if @trainTotal4 == 0`
 Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un entraînement pour obtenir un plan fondé sur vos réponses.
@@ -1145,58 +686,7 @@ Terminez un entraînement pour obtenir un plan adapté.
 `if @trainDisponible`
 `if @trainTotal5 > 0`
 **Dernier entraînement : `@trainT5`/`@trainTotal5` — `@trainPct5` %.**
-`if @trainPct5 < 40`
-**Votre priorité : comprendre les repères essentiels.** Travaillez les démarches, la santé, le travail et l’éducation, une notion à la fois. Pour chaque erreur, expliquez la bonne réponse avec vos propres mots et donnez un exemple concret. Faites ensuite un entraînement de dix questions : visez d’abord 6/10, puis 8/10 deux fois. Ce résultat vous donne un point de départ précis pour progresser.
-`endif`
-`if @trainPct5 >= 40 && @trainPct5 < 80`
-**Vos acquis se construisent : consolidez les points encore hésitants.** Repérez dans le corrigé la règle qui vous a manqué concernant les démarches, la santé, le travail et l’éducation. Reformulez-la, puis vérifiez-la dans une nouvelle question. Visez 8/10 sur deux entraînements distincts ; espacez les essais pour vérifier que vous retenez la notion.
-`endif`
-`if @trainPct5 >= 80 && @trainPct5 < 100`
-**Vous disposez de bons repères : confirmez-les.** Revenez uniquement sur les réponses manquées concernant les démarches, la santé, le travail et l’éducation. Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. En mises en situation, identifiez le principe civique recherché avant de comparer toutes les réponses.
-`endif`
-`if @trainPct5 == 100`
-**Félicitations, toutes les réponses de cette thématique sont correctes !** Confirmez ces acquis avec deux entraînements difficiles, puis appliquez les démarches, la santé, le travail et l’éducation dans trois entraînements de mises en situation. Visez au moins 8/10 deux fois avant de vous tester en conditions chronométrées.
-`endif`
-`if @trainPct5 < 40`
-#### Étape 1 — Comprendre et reformuler
-Reprenez les notions de les démarches, la santé, le travail et l’éducation. Utilisez le corrigé pour retrouver la règle et un exemple ; évitez de mémoriser seulement la lettre de la réponse.
-#### Étape 2 — Progresser avec les questions
-Entraînez-vous sur dix questions. Visez 6/10, puis 8/10 deux fois en corrigeant vos erreurs entre les essais.
-#### Étape 3 — Appliquer les principes
-Réalisez au moins trois entraînements de mises en situation ; cherchez la règle civique visée et obtenez au moins 8/10 deux fois.
-#### Étape 4 — Vérifier et ajuster
-Lorsque ces objectifs sont atteints, passez un examen blanc. Analysez les erreurs conservées dans votre dernier résultat, puis refaites une série.
-`endif`
-`if @trainPct5 >= 40 && @trainPct5 < 80`
-#### Étape 1 — Corriger les notions fragiles
-Relisez vos erreurs sur les démarches, la santé, le travail et l’éducation. Pour chacune, expliquez pourquoi la réponse correcte convient et pourquoi votre choix ne convient pas.
-#### Étape 2 — Stabiliser vos connaissances
-Réalisez deux entraînements de cette thématique et visez au moins 8/10 sur chacun.
-#### Étape 3 — Exercer votre raisonnement
-Réalisez au moins trois entraînements de mises en situation, avec au moins 8/10 à deux reprises. Lisez toutes les propositions avant de choisir.
-#### Étape 4 — Mesurer les progrès
-Passez un examen blanc, analysez les erreurs, travaillez les deux priorités les plus faibles puis recommencez en conditions réelles.
-`endif`
-`if @trainPct5 >= 80 && @trainPct5 < 100`
-#### Étape 1 — Confirmer les acquis
-Réalisez deux entraînements de cette thématique et obtenez au moins 8/10 à chaque fois. Commencez par la notion qui a provoqué votre dernière erreur.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement avec au moins trois entraînements ; obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter le cours.
-#### Étape 4 — Corriger et ajuster
-Analysez votre dernier examen blanc et expliquez chaque erreur. Travaillez les notions concernées puis repassez un examen blanc.
-`endif`
-`if @trainPct5 == 100`
-#### Étape 1 — Confirmer votre score
-Réalisez deux entraînements de cette thématique en mode difficile et obtenez au moins 8/10 à chaque fois.
-#### Étape 2 — S’exercer aux mises en situation
-Développez votre raisonnement en réalisant au moins trois entraînements de mises en situation. Obtenez au moins 8/10 deux fois.
-#### Étape 3 — Passer un examen blanc
-Testez-vous sur 40 questions en 45 minutes, sans consulter les ressources.
-#### Étape 4 — Corriger et ajuster
-Analysez vos réponses et comprenez vos erreurs à l’aide du corrigé de votre dernier examen blanc. Travaillez les notions concernées, puis repassez un examen blanc pour améliorer ou confirmer votre score.
-`endif`
+<div class="civi-feedback" data-kind="entrainement" data-theme="5"></div>
 `endif`
 `if @trainTotal5 == 0`
 Cette thématique ne figurait pas dans votre dernier entraînement. Réalisez un entraînement pour obtenir un plan fondé sur vos réponses.

@@ -1,0 +1,10 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert'),path=require('path');const base=path.resolve(__dirname,'..');
+class Element{constructor(tag){this.tag=tag;this.children=[];this.dataset={};this.textContent='';}append(...nodes){this.children.push(...nodes);}querySelectorAll(){return this.hosts||[];}}
+const events={};const document={readyState:'loading',createElement:tag=>new Element(tag),addEventListener:(event,fn)=>events[event]=fn};
+const root={document,btoa:s=>Buffer.from(s).toString('base64'),NovaBoot:{rendered:()=>{}},NovaSave:{exportData:()=>({variables:{}})}};
+const ctx=vm.createContext({window:root,document,console});for(const name of ['feedback-data.js','feedbacks.js'])vm.runInContext(fs.readFileSync(base+'/chatbot/'+name,'utf8'),ctx);
+const key=Object.keys(root.CiviFeedbackData.questions).find(k=>root.CiviFeedbackData.questions[k].notion==='Laïcité'&&root.CiviFeedbackData.questions[k].theme===1);
+const variables={trainT1:1,trainTotal1:10,trainMistakes:'|'+key+'|'};root.NovaSave.exportData=()=>({variables});events.DOMContentLoaded();const host=new Element('div');host.dataset={kind:'entrainement',theme:'1'};const message=new Element('article');message.hosts=[host];root.NovaBoot.rendered(message);
+function texts(node){return node.textContent+' '+node.children.map(texts).join(' ');}assert(texts(host).includes('Relisez précisément : Laïcité'));assert(host.children[0].children.some(n=>n.tag==='a'&&n.href==='#'+root.btoa('SCR_REV_T1_CH04_COURS')));assert(!texts(host).includes('Camus'));const count=host.children.length;root.NovaBoot.rendered(message);assert.equal(host.children.length,count);
+const [examScreen,examKey]=Object.entries(root.CiviFeedbackData.exam).find(([screen,k])=>root.CiviFeedbackData.questions[k].notion==='Laïcité');const match=examScreen.match(/^EXAM_(.+)_Q(\d+)$/);const examVars={lastExamCode:match[1]};examVars['lastErr'+Number(match[2])]=1;assert.equal(root.NovaFeedback.missed('examen',1,examVars)[0].notion,'Laïcité');
+console.log('PASS rendered feedback: exact missed notion, course link, no unrelated notion, no duplicate on repeat render, legacy exam errors');
