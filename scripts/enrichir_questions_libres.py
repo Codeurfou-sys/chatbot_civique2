@@ -14,17 +14,19 @@ def split(text):
  hits=list(re.finditer(r'(?m)^## (\w+)\s*$',text))
  return {x[1]:text[x.end():hits[i+1].start() if i+1<len(hits) else len(text)].strip() for i,x in enumerate(hits)}
 def ordered_rules(data):
- rules=[dict(id='INTENT_'+i['id'],groups=i['groups'],answer=i['answer'],links=i['links']) for i in data['intents'] if i['id'] not in ('CONSEILS','REVISIONS')]
+ rules=[dict(id='INTENT_'+i['id'],groups=i['groups'],condition=i.get('condition'),answer=i['answer'],links=i['links']) for i in data['intents'] if i['id'] not in ('CONSEILS','REVISIONS')]
  for notion in sorted(data['notions'],key=lambda n:(len(normalise(n['title'])),max(map(len,n['aliases']))),reverse=True):
   links=[]
   if notion['id'].startswith('SCR_QL_GLO'):links.append(['📖 Voir la fiche du glossaire','SCR_GLO_'+notion['id'][-4:]])
   links.append(['📚 Approfondir cette thématique',notion['course']])
   rules.append(dict(id=notion['id'],groups=[notion['aliases']],answer='### 📘 '+notion['title']+'\n\n'+notion['answer'],links=links))
  for i in data['intents']:
-  if i['id'] in ('CONSEILS','REVISIONS'):rules.append(dict(id='INTENT_'+i['id'],groups=i['groups'],answer=i['answer'],links=i['links']))
+  if i['id'] in ('CONSEILS','REVISIONS'):rules.append(dict(id='INTENT_'+i['id'],groups=i['groups'],condition=i.get('condition'),answer=i['answer'],links=i['links']))
  return rules
 
 def generate():
+ if 'INTENT_PREPARER_NAT' in Path('modules/10_question_libre.md').read_text():
+  print('Le moteur v31 est déjà compilé dans SCR_QL_ANSWER ; utilisez sync_module_into_chatbot.py pour synchroniser le module.');return
  p=Path('modules/10_question_libre.md');blocks=split(p.read_text());data=json.loads(Path('data/question_libre.json').read_text())
  intro='''### Que souhaitez-vous savoir ?
 
@@ -40,7 +42,7 @@ def generate():
 '''
  rules=ordered_rules(data)
  for rule in rules:
-  intro+=f'<!-- Réponse : {rule["id"]} -->\n`if !@qlTrouvee && ({predicate(rule["groups"])})`\n'+rule['answer']+'\n\n'
+  intro+=f'<!-- Réponse : {rule["id"]} -->\n`if !@qlTrouvee && ({rule.get('condition') or predicate(rule["groups"])})`\n'+rule['answer']+'\n\n'
   intro+=f'`@qlReponse = {rule["id"]}`\n`@qlTrouvee = true`\n`endif`\n\n'
  # ChatMD place les boutons après le texte : ils utilisent une réponse stable,
  # et non le drapeau de recherche déjà passé à true.

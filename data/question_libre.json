@@ -2859,6 +2859,275 @@
   ],
   "intents": [
     {
+      "id": "PREPARER_NAT",
+      "condition": "!@qlTrouvee && ((@qlNormalisee.includes(\" exercice \") || @qlNormalisee.includes(\" exercices \") || @qlNormalisee.includes(\" entrainement \") || @qlNormalisee.includes(\" entrainements \") || @qlNormalisee.includes(\" entrainer \") || @qlNormalisee.includes(\" prepare \") || @qlNormalisee.includes(\" preparer \") || @qlNormalisee.includes(\" preparation \") || @qlNormalisee.includes(\" reviser \") || @qlNormalisee.includes(\" revisions \") || @qlNormalisee.includes(\" progresser \")) && (@qlNormalisee.includes(\" naturalisation \")))",
+      "priority": 31,
+      "answer": "Pour préparer l’examen civique de **naturalisation**, alternez trois types d’exercices :\n\n- **Questions officielles** : vérifiez vos connaissances dans les cinq thématiques. Après une erreur, relisez la notion concernée.\n- **Mises en situation** : repérez le principe civique en jeu et expliquez-vous pourquoi les autres réponses ne conviennent pas. Ces situations d’entraînement ne sont pas des sujets officiels.\n- **Examen blanc** : entraînez-vous dans les conditions proposées, puis utilisez le corrigé et vos résultats pour choisir les points à revoir.\n\nCommencez par les questions officielles de naturalisation, puis travaillez les thématiques où vous commettez le plus d’erreurs.",
+      "links": [
+        [
+          "📝 Questions et mises en situation — naturalisation",
+          "SCR_ENT_THEME_NAT"
+        ],
+        [
+          "🎯 Passer un examen blanc",
+          "SCR_PREP_MENU"
+        ],
+        [
+          "📚 Réviser les notions",
+          "SCR_REV_MENU"
+        ],
+        [
+          "❓ Poser une autre question",
+          "SCR_QL_AGAIN"
+        ]
+      ],
+      "source": "modules/10_question_libre.md#SCR_QL_ANSWER",
+      "groups": [
+        [
+          "exercice",
+          "exercices",
+          "entrainement",
+          "entrainements",
+          "entrainer",
+          "prepare",
+          "preparer",
+          "preparation",
+          "reviser",
+          "revisions",
+          "progresser",
+          "naturalisation"
+        ]
+      ]
+    },
+    {
+      "id": "PREPARER_CR",
+      "condition": "!@qlTrouvee && ((@qlNormalisee.includes(\" exercice \") || @qlNormalisee.includes(\" exercices \") || @qlNormalisee.includes(\" entrainement \") || @qlNormalisee.includes(\" entrainements \") || @qlNormalisee.includes(\" entrainer \") || @qlNormalisee.includes(\" prepare \") || @qlNormalisee.includes(\" preparer \") || @qlNormalisee.includes(\" preparation \") || @qlNormalisee.includes(\" reviser \") || @qlNormalisee.includes(\" revisions \") || @qlNormalisee.includes(\" progresser \")) && (@qlNormalisee.includes(\" resident \")))",
+      "priority": 31,
+      "answer": "Pour préparer l’examen de la **carte de résident**, commencez par les questions officielles, puis travaillez les mises en situation. Relisez les notions correspondant à vos erreurs avant de passer un examen blanc. Les situations d’entraînement servent à exercer votre réflexion ; ce ne sont pas des sujets officiels.",
+      "links": [
+        [
+          "📝 M’entraîner — carte de résident",
+          "SCR_ENT_THEME_CR"
+        ],
+        [
+          "🎯 Passer un examen blanc",
+          "SCR_PREP_MENU"
+        ],
+        [
+          "❓ Poser une autre question",
+          "SCR_QL_AGAIN"
+        ]
+      ],
+      "source": "modules/10_question_libre.md#SCR_QL_ANSWER",
+      "groups": [
+        [
+          "exercice",
+          "exercices",
+          "entrainement",
+          "entrainements",
+          "entrainer",
+          "prepare",
+          "preparer",
+          "preparation",
+          "reviser",
+          "revisions",
+          "progresser",
+          "resident"
+        ]
+      ]
+    },
+    {
+      "id": "PREPARER_CSP",
+      "condition": "!@qlTrouvee && ((@qlNormalisee.includes(\" exercice \") || @qlNormalisee.includes(\" exercices \") || @qlNormalisee.includes(\" entrainement \") || @qlNormalisee.includes(\" entrainements \") || @qlNormalisee.includes(\" entrainer \") || @qlNormalisee.includes(\" prepare \") || @qlNormalisee.includes(\" preparer \") || @qlNormalisee.includes(\" preparation \") || @qlNormalisee.includes(\" reviser \") || @qlNormalisee.includes(\" revisions \") || @qlNormalisee.includes(\" progresser \")) && (@qlNormalisee.includes(\" sejour \")))",
+      "priority": 31,
+      "answer": "Pour préparer l’examen du **titre de séjour pluriannuel**, choisissez les questions officielles de cet examen, puis exercez-vous aux mises en situation. Travaillez d’abord vos erreurs par thématique, puis réalisez un examen blanc. Les situations d’entraînement ne sont pas des sujets officiels.",
+      "links": [
+        [
+          "📝 M’entraîner — titre de séjour",
+          "SCR_ENT_THEME_CSP"
+        ],
+        [
+          "🎯 Passer un examen blanc",
+          "SCR_PREP_MENU"
+        ],
+        [
+          "❓ Poser une autre question",
+          "SCR_QL_AGAIN"
+        ]
+      ],
+      "source": "modules/10_question_libre.md#SCR_QL_ANSWER",
+      "groups": [
+        [
+          "exercice",
+          "exercices",
+          "entrainement",
+          "entrainements",
+          "entrainer",
+          "prepare",
+          "preparer",
+          "preparation",
+          "reviser",
+          "revisions",
+          "progresser",
+          "sejour"
+        ]
+      ]
+    },
+    {
+      "id": "METHODE_MEMOIRE",
+      "condition": "!@qlTrouvee && ((@qlNormalisee.includes(\" retenir \") || @qlNormalisee.includes(\" memoriser \") || @qlNormalisee.includes(\" memoire \") || @qlNormalisee.includes(\" memorisation \") || @qlNormalisee.includes(\" oublie \") || @qlNormalisee.includes(\" oublier \")) && !(@qlNormalisee.includes(\" definition \") || @qlNormalisee.includes(\" signifie \")))",
+      "priority": 31,
+      "answer": "Pour mieux retenir, relisez une notion courte, puis cachez le cours et reformulez-la avec vos propres mots. Vérifiez votre réponse et revenez sur cette notion le lendemain, puis quelques jours plus tard. Pour une date, associez-la à un événement et replacez-la sur une frise. Les conseils « Mémoriser efficacement » vous proposent d’autres méthodes.",
+      "links": [
+        [
+          "💡 Mémoriser efficacement",
+          "SCR_CONS_MEMOIRE_MENU"
+        ],
+        [
+          "📚 Choisir une révision",
+          "SCR_REV_MENU"
+        ],
+        [
+          "❓ Poser une autre question",
+          "SCR_QL_AGAIN"
+        ]
+      ],
+      "source": "modules/10_question_libre.md#SCR_QL_ANSWER",
+      "groups": [
+        [
+          "retenir",
+          "memoriser",
+          "memoire",
+          "memorisation",
+          "oublie",
+          "oublier",
+          "definition",
+          "signifie"
+        ]
+      ]
+    },
+    {
+      "id": "TRAVAILLER_ERREURS",
+      "condition": "!@qlTrouvee && ((@qlNormalisee.includes(\" erreur \") || @qlNormalisee.includes(\" erreurs \") || @qlNormalisee.includes(\" corrige \") || @qlNormalisee.includes(\" correction \")) && (@qlNormalisee.includes(\" comprendre \") || @qlNormalisee.includes(\" ameliorer \") || @qlNormalisee.includes(\" progresser \") || @qlNormalisee.includes(\" revoir \") || @qlNormalisee.includes(\" corriger \") || @qlNormalisee.includes(\" resultats \")))",
+      "priority": 31,
+      "answer": "Pour progresser à partir de vos erreurs, consultez votre résultat dans **Mon parcours personnalisé**. Pour chaque erreur, identifiez la notion à revoir, relisez le cours correspondant, puis refaites un entraînement sur cette thématique. Essayez de justifier la bonne réponse avec vos propres mots avant de recommencer.",
+      "links": [
+        [
+          "🧭 Consulter mon parcours",
+          "SCR_PARCOURS_MENU"
+        ],
+        [
+          "💡 Apprendre de mes erreurs",
+          "SCR_CONS_ERREURS_MENU"
+        ],
+        [
+          "❓ Poser une autre question",
+          "SCR_QL_AGAIN"
+        ]
+      ],
+      "source": "modules/10_question_libre.md#SCR_QL_ANSWER",
+      "groups": [
+        [
+          "erreur",
+          "erreurs",
+          "corrige",
+          "correction",
+          "comprendre",
+          "ameliorer",
+          "progresser",
+          "revoir",
+          "corriger",
+          "resultats"
+        ]
+      ]
+    },
+    {
+      "id": "PREPARER_EXAM",
+      "condition": "!@qlTrouvee && ((@qlNormalisee.includes(\" exercice \") || @qlNormalisee.includes(\" exercices \") || @qlNormalisee.includes(\" entrainement \") || @qlNormalisee.includes(\" entrainements \") || @qlNormalisee.includes(\" entrainer \") || @qlNormalisee.includes(\" prepare \") || @qlNormalisee.includes(\" preparer \") || @qlNormalisee.includes(\" preparation \") || @qlNormalisee.includes(\" reviser \") || @qlNormalisee.includes(\" revisions \") || @qlNormalisee.includes(\" progresser \")) && (@qlNormalisee.includes(\" examen \") || @qlNormalisee.includes(\" examens \") || @qlNormalisee.includes(\" naturalisation \") || @qlNormalisee.includes(\" resident \") || @qlNormalisee.includes(\" sejour \") || @qlNormalisee.includes(\" civique \")))",
+      "priority": 31,
+      "answer": "Pour préparer l’examen, combinez **révisions**, **questions officielles**, **mises en situation** et **examens blancs**. Commencez par les questions de votre examen, retravaillez les notions associées à vos erreurs, puis entraînez-vous sur l’ensemble des thématiques. Choisissez votre examen dans le menu d’entraînement afin d’utiliser la bonne banque de questions.",
+      "links": [
+        [
+          "📝 Choisir mon entraînement",
+          "SCR_ENT_THEME_EXAM"
+        ],
+        [
+          "🎯 Passer un examen blanc",
+          "SCR_PREP_MENU"
+        ],
+        [
+          "📚 Réviser les notions",
+          "SCR_REV_MENU"
+        ],
+        [
+          "❓ Poser une autre question",
+          "SCR_QL_AGAIN"
+        ]
+      ],
+      "source": "modules/10_question_libre.md#SCR_QL_ANSWER",
+      "groups": [
+        [
+          "exercice",
+          "exercices",
+          "entrainement",
+          "entrainements",
+          "entrainer",
+          "prepare",
+          "preparer",
+          "preparation",
+          "reviser",
+          "revisions",
+          "progresser",
+          "examen",
+          "examens",
+          "naturalisation",
+          "resident",
+          "sejour",
+          "civique"
+        ]
+      ]
+    },
+    {
+      "id": "EXERCICES_A_PRECISER",
+      "condition": "!@qlTrouvee && ((@qlNormalisee.includes(\" exercice \") || @qlNormalisee.includes(\" exercices \") || @qlNormalisee.includes(\" entrainement \") || @qlNormalisee.includes(\" entrainements \") || @qlNormalisee.includes(\" entrainer \") || @qlNormalisee.includes(\" prepare \") || @qlNormalisee.includes(\" preparer \") || @qlNormalisee.includes(\" preparation \") || @qlNormalisee.includes(\" reviser \") || @qlNormalisee.includes(\" revisions \") || @qlNormalisee.includes(\" progresser \")))",
+      "priority": 31,
+      "answer": "Vous souhaitez vous exercer. Préférez-vous travailler les connaissances, les mises en situation ou réaliser un examen blanc ? Choisissez une rubrique ci-dessous ; vous pourrez ensuite sélectionner votre examen et votre thématique.",
+      "links": [
+        [
+          "📝 Questions et mises en situation",
+          "SCR_ENT_THEME_EXAM"
+        ],
+        [
+          "🎯 Examen blanc",
+          "SCR_PREP_MENU"
+        ],
+        [
+          "📚 Activités de révision",
+          "SCR_REV_MENU"
+        ],
+        [
+          "❓ Poser une autre question",
+          "SCR_QL_AGAIN"
+        ]
+      ],
+      "source": "modules/10_question_libre.md#SCR_QL_ANSWER",
+      "groups": [
+        [
+          "exercice",
+          "exercices",
+          "entrainement",
+          "entrainements",
+          "entrainer",
+          "prepare",
+          "preparer",
+          "preparation",
+          "reviser",
+          "revisions",
+          "progresser"
+        ]
+      ]
+    },
+    {
       "id": "SEUIL_FORMULATIONS",
       "groups": [
         [
