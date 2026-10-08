@@ -3,6 +3,36 @@
   "description": "Banque de réponses issues des contenus CiviCoach et formulations vérifiées par le moteur.",
   "entries": [
     {
+      "id": "INTENT_CENTRE_LYON",
+      "answer": "Pour trouver un centre FRATE **près de Lyon**, utilisez la recherche par commune ou code postal : saisissez **Lyon** ou **69000**. La recherche compare les centres disponibles et affiche les trois plus proches, leurs adresses et leurs prochaines sessions. Lyon ne figure pas parmi les villes de la banque locale actuelle ; cela ne signifie pas qu’aucun centre partenaire ne puisse y être proposé.",
+      "condition": "@qlNormalisee.includes(\" centre \") && @qlNormalisee.includes(\" lyon \")",
+      "examples": [
+        "Est-ce qu’il y a un centre proche de Lyon ?"
+      ],
+      "links": [
+        [
+          "📍 Rechercher un centre près de Lyon",
+          "SCR_PASS_SEARCH_MENU"
+        ]
+      ],
+      "source": "banque locale des centres FRATE"
+    },
+    {
+      "id": "INTENT_CENTRE_LOCALISER",
+      "answer": "Vous cherchez un centre FRATE proche de chez vous ou son adresse. Ouvrez la recherche ci-dessous et indiquez votre **commune ou votre code postal**. Vous obtiendrez les trois centres les plus proches, leur adresse disponible et les prochaines sessions. L’adresse exacte de votre session est à vérifier sur votre convocation.",
+      "condition": "@qlNormalisee.includes(\" centre \") && (@qlNormalisee.includes(\" proche \") || @qlNormalisee.includes(\" adresse \"))",
+      "examples": [
+        "Où trouver un centre proche de chez moi ?"
+      ],
+      "links": [
+        [
+          "📍 Rechercher un centre et son adresse",
+          "SCR_PASS_SEARCH_MENU"
+        ]
+      ],
+      "source": "banque locale des centres FRATE"
+    },
+    {
       "id": "INTENT_USAGE_PDF",
       "condition": "(@qlNormalisee.includes(\" pdf \") || @qlNormalisee.includes(\" telecharger \") || @qlNormalisee.includes(\" exporter \")) && (@qlNormalisee.includes(\" parcours \") || @qlNormalisee.includes(\" resultats \") || @qlNormalisee.includes(\" bilan \") || @qlNormalisee.includes(\" progression \"))",
       "answer": "Ouvrez **Mes résultats sauvegardés**, puis cliquez sur **Télécharger mon parcours en PDF**. Ce document regroupe les tentatives enregistrées et les conseils associés. Si une tentative manque, vérifiez que vous avez terminé l’activité et atteint son écran de résultats.",

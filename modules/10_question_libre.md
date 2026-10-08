@@ -3871,11 +3871,23 @@ Organisation de la société pour permettre à chacun de participer, notamment a
 
 ## SCR_QL_ANSWER
 <span class="nova-question-answer" aria-hidden="true"></span>
-!Keyboard: false
+!Keyboard: true
 `if @qlQuestion`
 `@qlNormalisee = calc(" "+normalizeText(@qlQuestion).replaceAll("œ","oe").replaceAll("æ","ae").replaceAll("«"," ").replaceAll("»"," ").replaceAll("’"," ").replaceAll("'"," ").replaceAll("-"," ").replaceAll("."," ").replaceAll("?"," ").replaceAll(","," ").replaceAll("!"," ").replaceAll(":"," ").replaceAll(";"," ").replaceAll("/"," ").replaceAll("("," ").replaceAll(")"," ").replaceAll("["," ").replaceAll("]"," ").replaceAll("\n"," ").replaceAll("\r"," ").replaceAll("\t"," ").replaceAll(" "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").trim()+" ")`
 `@qlTrouvee = false`
 `@qlReponse = undefined`
+<!-- Réponse : INTENT_CENTRE_LYON -->
+`if @qlRoute == "INTENT_CENTRE_LYON"`
+Pour trouver un centre FRATE **près de Lyon**, utilisez la recherche par commune ou code postal : saisissez **Lyon** ou **69000**. La recherche compare les centres disponibles et affiche les trois plus proches, leurs adresses et leurs prochaines sessions. Lyon ne figure pas parmi les villes de la banque locale actuelle ; cela ne signifie pas qu’aucun centre partenaire ne puisse y être proposé.
+`@qlReponse = INTENT_CENTRE_LYON`
+`@qlTrouvee = true`
+`endif`
+<!-- Réponse : INTENT_CENTRE_LOCALISER -->
+`if @qlRoute == "INTENT_CENTRE_LOCALISER"`
+Vous cherchez un centre FRATE proche de chez vous ou son adresse. Ouvrez la recherche ci-dessous et indiquez votre **commune ou votre code postal**. Vous obtiendrez les trois centres les plus proches, leur adresse disponible et les prochaines sessions. L’adresse exacte de votre session est à vérifier sur votre convocation.
+`@qlReponse = INTENT_CENTRE_LOCALISER`
+`@qlTrouvee = true`
+`endif`
 <!-- Réponse : INTENT_USAGE_PDF -->
 `if @qlRoute == "INTENT_USAGE_PDF"`
 Ouvrez **Mes résultats sauvegardés**, puis cliquez sur **Télécharger mon parcours en PDF**. Ce document regroupe les tentatives enregistrées et les conseils associés. Si une tentative manque, vérifiez que vous avez terminé l’activité et atteint son écran de résultats.
@@ -8271,6 +8283,14 @@ Vous souhaitez vous exercer. Préférez-vous travailler les connaissances, les m
 1. [📚 Activités de révision](SCR_REV_MENU)
 1. [❓ Poser une autre question](SCR_QL_AGAIN)
 `endif`
+`if @qlReponse == "INTENT_CENTRE_LYON"`
+1. [📍 Rechercher un centre près de Lyon](SCR_PASS_SEARCH_MENU)
+1. [❓ Poser une autre question](SCR_QL_AGAIN)
+`endif`
+`if @qlReponse == "INTENT_CENTRE_LOCALISER"`
+1. [📍 Rechercher un centre et son adresse](SCR_PASS_SEARCH_MENU)
+1. [❓ Poser une autre question](SCR_QL_AGAIN)
+`endif`
 `if !@qlTrouvee`
 Je ne suis pas sûr de ce que vous souhaitez savoir. Souhaitez-vous **comprendre une notion**, **vous entraîner**, **mieux mémoriser** ou **obtenir des informations sur l’examen** ? Précisez votre demande ou choisissez une rubrique ci-dessous.
 1. [❓ Préciser ma question](SCR_QL_AGAIN)
@@ -8280,5 +8300,7 @@ Je ne suis pas sûr de ce que vous souhaitez savoir. Souhaitez-vous **comprendre
 1. [🏛️ Informations sur l’inscription](SCR_PASS_MENU)
 `endif`
 `endif`
+`@qlQuestion = @INPUT : SCR_QL_ANSWER`
+
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 

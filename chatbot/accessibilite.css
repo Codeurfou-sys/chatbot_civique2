@@ -63,3 +63,41 @@ html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body:not([data-
 /* Profiles adapt interface colours, never simulate colour blindness over learning images. */
 
 .a11y-grid{align-items:start}
+/* Four mutually exclusive profile switches share one compact, responsive frame. */
+html body #a11y-panel .a11y-colour-block{grid-column:1/-1;border:2px solid #b21c1a;border-radius:12px;margin:0;padding:10px;min-width:0;background:transparent}
+#a11y-panel .a11y-colour-block legend{padding:0 6px;margin:0;font-size:14px}
+.a11y-profile-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+html body #a11y-panel .a11y-profile{font-size:12px!important;padding:8px!important;min-height:62px;border:0!important}
+.a11y-profile .switch-description,.a11y-profile .switch-state{display:block;font-size:11px}
+.a11y-profile .switch-track{width:36px;flex-basis:36px;height:22px}
+.a11y-profile .switch-track i{width:14px;height:14px}
+.a11y-profile[aria-checked=true] .switch-track i{transform:translateX(12px)}
+html.civi-a11y-large body :is(p,li,a,td,th,button,input,select,textarea,label,legend,span,summary,[contenteditable]){font-size:22px!important;line-height:1.55!important}
+html.civi-a11y-large body #a11y-panel :is(button,.switch-label,.switch-state,.switch-description,legend),html.civi-a11y-large body #a11y-help{font-size:22px!important;line-height:1.55!important}
+html.civi-a11y-large body :is(h1,h2,h3,h4){font-size:28px!important;line-height:1.4!important}
+.civi-emoji{display:inline-block;font-size:inherit!important;line-height:inherit!important}
+html[data-civi-colour-profile="deuteranopia"]{--civi-icon-filter:grayscale(1) sepia(1) saturate(2) hue-rotate(170deg)}
+html[data-civi-colour-profile="protanopia"]{--civi-icon-filter:grayscale(1) sepia(1) saturate(2) hue-rotate(220deg)}
+html[data-civi-colour-profile="tritanopia"]{--civi-icon-filter:grayscale(1) sepia(1) saturate(2) hue-rotate(295deg)}
+html[data-civi-colour-profile="achromatopsia"]{--civi-icon-filter:grayscale(1)}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #chat,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body :is(header,#saved-panel,#controls,.shell,.panel,.card){background:var(--civi-profile-tint)!important;color:var(--civi-profile-ink)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #chat *,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #a11y-panel *,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #saved-panel *,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body :is(h1,h2,h3,h4,p,li,label,legend,footer,input,select){color:var(--civi-profile-ink)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #a11y-panel .a11y-colour-block,
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #user-input{border-color:var(--civi-profile-ink)!important;background:var(--civi-profile-tint)!important;color:var(--civi-profile-ink)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body :is(.civi-emoji,.civic-icon,.civi-message-mascot,img[src*="icons/"]){filter:var(--civi-icon-filter)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body .switch-track i{background:#fff!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body [aria-checked=false] .switch-track i{background:var(--civi-profile-fill)!important}
+html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #a11y-reset{background:var(--civi-profile-tint)!important;color:var(--civi-profile-ink)!important;border-color:var(--civi-profile-ink)!important}
+/* Les quatre réglages restent dans un cadre commun, même avec le texte agrandi. */
+.a11y-profile-grid .a11y-profile{min-width:0;overflow-wrap:normal;word-break:normal;}
+.a11y-profile-grid .switch-copy{min-width:0;}
+@media(max-width:600px){
+ html.civi-a11y-large .a11y-profile-grid{grid-template-columns:minmax(0,1fr);}
+ html.civi-a11y-large .a11y-profile-grid .a11y-profile{padding:10px;}
+ html.civi-a11y-large .a11y-profile-grid .switch-label{overflow-wrap:normal;word-break:normal;}
+}

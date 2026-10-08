@@ -1,0 +1,117 @@
+{
+  "BESANCON": {
+    "adresse": "83 rue de Dole, 25000 Besançon",
+    "source": "https://frateformation.net/nos-centres-de-formation/",
+    "verification": "2026-10-08"
+  },
+  "BOURG_EN_BRESSE": {
+    "adresse": "9 rue du Colonel Arnaud Beltrame, 01000 Bourg-en-Bresse",
+    "source": "https://frateformation.net/nos-centres-de-formation/",
+    "verification": "2026-10-08"
+  },
+  "CLERMONT_FERRAND": {
+    "adresse": "8 rue Pablo Picasso, 63000 Clermont-Ferrand",
+    "source": "https://frateformation.net/nos-centres-de-formation/",
+    "verification": "2026-10-08"
+  },
+  "DIJON": {
+    "adresse": "17 rue des Corroyeurs, 21000 Dijon",
+    "source": "https://frateformation.net/nos-centres-de-formation/",
+    "verification": "2026-10-08"
+  },
+  "LONS_LE_SAUNIER": {
+    "adresse": "11 avenue Thurel, 39000 Lons-le-Saunier",
+    "source": "https://frateformation.net/nos-centres-de-formation/",
+    "verification": "2026-10-08"
+  },
+  "MONTBELIARD": {
+    "adresse": "37 avenue des Alliés, 25200 Montbéliard",
+    "source": "https://frateformation.net/nos-centres-de-formation/",
+    "verification": "2026-10-08"
+  },
+  "MULHOUSE": {
+    "adresse": "20 rue de Chemnitz, 68200 Mulhouse",
+    "source": "https://frateformation.net/nos-centres-de-formation/",
+    "verification": "2026-10-08"
+  },
+  "REIMS": {
+    "adresse": "14 rue Édouard Mignot, 51100 Reims",
+    "source": "https://frateformation.net/nos-centres-de-formation/",
+    "verification": "2026-10-08"
+  },
+  "STRASBOURG": {
+    "adresse": "31 rue du Maréchal Lefebvre, 67100 Strasbourg",
+    "source": "https://frateformation.net/nos-centres-de-formation/",
+    "verification": "2026-10-08"
+  },
+  "ANNECY": {
+    "adresse": "33 route de Chevennes, 74960 Cran-Gevrier",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "SAINT_FLOUR": {
+    "adresse": "5 avenue de Besserette, 15100 Saint-Flour",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "VALSERHONE": {
+    "adresse": "26 rue Joseph Bertola, 01200 Valserhône",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "VICHY": {
+    "adresse": "2-4 rue de Paris, Passage des Commerces, Vichy",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "AUXERRE": {
+    "adresse": "13 rue Jules Ferry, 89000 Auxerre",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "MACON": {
+    "adresse": "19 place de la Baille, 71000 Mâcon",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "MONTCEAU_LES_MINES": {
+    "adresse": "16 rue du Docteur Jeannin, 71300 Montceau-les-Mines",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "NEVERS": {
+    "adresse": "43 boulevard du Pré Plantin, 58000 Nevers",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "SAINT_DIE_DES_VOSGES": {
+    "adresse": "7 rue Laurent Pillard, 88100 Saint-Dié-des-Vosges",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "TROYES": {
+    "adresse": "28 rue Coulommières, 10000 Troyes",
+    "source": "https://www.rdvenprefecture.fr/examen-civique/centres-examen/",
+    "verification": "2026-10-08",
+    "a_confirmer": true
+  },
+  "LE_PUY_EN_VELAY": {
+    "adresse": "16 rue des Moulins, 43000 Le Puy-en-Velay",
+    "source": "https://naturalisation-facile.fr/centres-examen-civique/centre/le-puy-en-velay-441",
+    "a_confirmer": true
+  },
+  "SENS": {
+    "adresse": "14 rue Auguste Morel, 89100 Sens",
+    "source": "https://naturalisation-facile.fr/centres-examen-civique/centre/sens-1096",
+    "a_confirmer": true
+  }
+}

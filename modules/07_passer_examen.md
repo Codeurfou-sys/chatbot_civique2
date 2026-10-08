@@ -1,5 +1,5 @@
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-10-08T10:38:53+00:00 -->
+<!-- Date : 2026-10-06T14:51:44+02:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
@@ -7,6 +7,7 @@
 <!-- Variables : {centre}=Annecy; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -34,6 +35,7 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
 - 28 octobre 2026
@@ -59,6 +61,7 @@
 <!-- Variables : {centre}=Auxerre; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -86,6 +89,7 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
 - 29 octobre 2026
@@ -111,6 +115,7 @@
 <!-- Variables : {centre}=Bourg-en-Bresse; {region}=Rhône-Alpes; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -138,8 +143,10 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
+- 6 octobre 2026
 - 10 novembre 2026
 - 8 décembre 2026
 
@@ -162,6 +169,7 @@
 <!-- Variables : {centre}=Chaumont; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -186,6 +194,7 @@
 <!-- Variables : {centre}=Clermont-Ferrand; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -213,6 +222,7 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
 - 9 novembre 2026
@@ -237,6 +247,7 @@
 <!-- Variables : {centre}=Le Puy-en-Velay; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -264,6 +275,7 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
 - 13 novembre 2026
@@ -288,6 +300,7 @@
 <!-- Variables : {centre}=Montbéliard; {region}=Franche-Comté; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -314,6 +327,7 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
 - 13 octobre 2026
@@ -338,6 +352,7 @@
 <!-- Variables : {centre}=Mulhouse; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -365,6 +380,7 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
 - 16 octobre 2026
@@ -389,6 +405,7 @@
 <!-- Variables : {centre}=Nevers; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -416,8 +433,10 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
+- 28 octobre 2026
 - 18 novembre 2026
 - 2 décembre 2026
 
@@ -440,6 +459,7 @@
 <!-- Variables : {centre}=Saint-Dié-des-Vosges; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -465,6 +485,7 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
 - 18 novembre 2026
@@ -488,6 +509,7 @@
 <!-- Variables : {centre}=Sens; {region}=Bourgogne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -515,6 +537,7 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
 - 22 octobre 2026
@@ -540,6 +563,7 @@
 <!-- Variables : {centre}=Troyes; {region}=Grand Est; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -567,6 +591,7 @@
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
 
+
 #### 📅 Prochaines sessions disponibles
 
 - 18 novembre 2026
@@ -591,6 +616,7 @@
 <!-- Variables : {centre}=Vichy; {region}=Auvergne; {lien_forms} -->
 
 <!-- Règle métier : Afficher les trois prochaines dates futures, inscription et retours -->
+
 
 #### 📅 Prochaines sessions disponibles
 
@@ -643,7 +669,7 @@ Le chatbot vous accompagne à chaque étape de votre préparation :
 
 1. [🧭 Faire mon bilan](SCR_BIL_MENU)
 2. [📚 Commencer mes révisions](SCR_REV_MENU)
-3. [🎯 M’entraîner](SCR_ENT_MENU)
+3. [📝 M’entraîner](SCR_ENT_MENU)
 4. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 5. [↩️ Retour au module](SCR_PASS_MENU)
 
@@ -662,7 +688,7 @@ Choisissez dans le chatbot le même parcours que celui indiqué pour votre déma
 :::
 
 1. [⏱️ Voir le format de l’examen](SCR_PASS_INFO_FORMAT)
-2. [🧠 Commencer un bilan](SCR_BIL_MENU)
+2. [🧭 Commencer un bilan](SCR_BIL_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
@@ -685,7 +711,7 @@ La réussite est obtenue à partir de **32 bonnes réponses sur 40**, soit **80 
 Vous disposez en moyenne d’un peu plus d’une minute par question. Si vous hésitez, éliminez d’abord les réponses manifestement incorrectes.
 :::
 
-1. [🏛️ Faire un examen blanc](SCR_PREP_MENU)
+1. [🎯 Faire un examen blanc](SCR_PREP_MENU)
 2. [🧠 Voir comment me préparer](SCR_PASS_INFO_PREP)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
@@ -708,7 +734,7 @@ Il faut obtenir au moins **32 bonnes réponses sur 40**, soit **80 %**.
 L’épreuve porte sur cinq thèmes civiques et associe connaissances et situations concrètes.
 :::
 
-1. [🏛️ Faire un examen blanc](SCR_PREP_MENU)
+1. [🎯 Faire un examen blanc](SCR_PREP_MENU)
 2. [📍 Trouver une session](SCR_PASS_SEARCH_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
@@ -749,8 +775,8 @@ Travaillez par séances courtes et régulières. Lorsque vous obtenez des résul
 
 1. [📚 Réviser les cours](SCR_REV_MENU)
 2. [📖 Consulter le glossaire](SCR_GLO_MENU)
-3. [🎯 M’entraîner](SCR_ENT_MENU)
-4. [🏛️ Faire un examen blanc](SCR_PREP_MENU)
+3. [📝 M’entraîner](SCR_ENT_MENU)
+4. [🎯 Faire un examen blanc](SCR_PREP_MENU)
 5. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 6. [↩️ Retour au module](SCR_PASS_MENU)
 
@@ -794,7 +820,7 @@ Révisez un thème à la fois, puis vérifiez vos acquis avec un entraînement c
 :::
 
 1. [📚 Accéder aux révisions](SCR_REV_MENU)
-2. [🎯 Faire un entraînement ciblé](SCR_ENT_MENU)
+2. [📝 Faire un entraînement ciblé](SCR_ENT_MENU)
 3. [❓ Voir une autre question](SCR_PASS_INFO_MENU)
 4. [↩️ Retour au module](SCR_PASS_MENU)
 
@@ -834,7 +860,7 @@ Sélectionnez une région pour consulter ses centres et leurs prochaines dates d
 ### 🏛️ S’inscrire à l’examen civique
 
 :::info ⌨️ Conseil de navigation
-Pour faire défiler plus rapidement la réponse du chatbot, appuyez sur la touche **⏎ Entrée** de votre clavier.
+Pour afficher immédiatement toute la réponse et les choix, cliquez sur **« Afficher toute la réponse »**, en bas du chatbot. Sur ordinateur, vous pouvez aussi appuyer sur la touche **⏎ Entrée** de votre clavier.
 :::
 
 :::success 🧭 Votre parcours pratique

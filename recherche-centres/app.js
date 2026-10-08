@@ -89,6 +89,10 @@ function showResults(commune) {
       ? centre.sessions.map((date) => `<li>${formatDate(date)}</li>`).join("")
       : "<li>Consultez le formulaire pour les prochaines dates.</li>";
     article.innerHTML = `<span class="rank">Choix ${index + 1}</span><div class="city">${centre.ville}</div><p class="meta">${centre.departement} · ${centre.region}<br><strong>${Math.round(centre.distance)} km</strong> à vol d’oiseau</p><div><strong>Prochaines sessions</strong><ul class="sessions">${sessionItems}</ul></div><a class="button" href="${centre.lien_forms}" target="_blank" rel="noopener">📝 S’inscrire à une session</a>`;
+    const address = document.createElement("p");
+    address.className = "centre-address";
+    address.textContent = centre.adresse ? "Adresse : " + centre.adresse + (centre.adresse_a_confirmer ? " — à confirmer sur votre convocation." : "") : "Adresse précise : consultez votre convocation ou contactez le centre.";
+    article.querySelector(".meta").after(address);
     cards.append(article);
   });
   locationSummary.textContent = `Résultats calculés depuis ${commune.commune} (${commune.code_postal}, département ${commune.departement || commune.code_postal.slice(0,2)}).`;
@@ -120,6 +124,13 @@ async function init() {
       // La copie locale reste disponible si les données du workflow ne le sont pas.
     }
     const today = new Intl.DateTimeFormat("en-CA", {timeZone:"Europe/Paris",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date());
+    try {
+      const response = await fetch("data/adresses_centres.json?v=34", { cache: "no-store" });
+      if (response.ok) {
+        const addresses = await response.json();
+        state.centres.forEach(c => { if (addresses[c.code_centre]) { c.adresse = addresses[c.code_centre].adresse; c.adresse_a_confirmer = !!addresses[c.code_centre].a_confirmer; } });
+      }
+    } catch (_) { /* La recherche reste disponible sans le fichier d’adresses. */ }
     state.centres.forEach(c => { c.sessions = (c.sessions || []).filter(d => d >= today); });
     if (!state.communes.length || state.centres.length < 3) throw new Error("Données incomplètes");
     statusBox.textContent = `${state.communes.length.toLocaleString("fr-FR")} correspondances communales chargées. Vous pouvez rechercher.${state.updated ? " Dernière actualisation des sessions : " + new Date(state.updated).toLocaleString("fr-FR") + "." : " Dates à confirmer auprès du centre."}`;
