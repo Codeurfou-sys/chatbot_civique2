@@ -24,8 +24,6 @@ Dans cette rubrique, vous pouvez demander une explication simple ou une aide pou
 
 **Attendez quelques secondes après l’envoi : la réponse, les suggestions de rubriques et les boutons s’affichent progressivement. Attendez la fin de l’affichage avant de faire votre choix.**
 
-Pour poser une nouvelle question, cliquez sur **« Poser une autre question »** sous la réponse, puis écrivez votre question.
-
 `@qlQuestion = @INPUT : SCR_QL_ANSWER`
 
 1. [🏠 Menu principal](MENU_PRINCIPAL)

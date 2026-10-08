@@ -101,3 +101,15 @@ html.civi-a11y-markers:not([data-civi-colour-profile="general"]) body #a11y-rese
  html.civi-a11y-large .a11y-profile-grid .a11y-profile{padding:10px;}
  html.civi-a11y-large .a11y-profile-grid .switch-label{overflow-wrap:normal;word-break:normal;}
 }
+
+/* Accueil compact : les réglages se déplient à la demande. */
+html body #a11y-disclosure{max-width:800px;margin:10px auto 0;text-align:left;}
+html body #a11y-disclosure>summary{display:flex;align-items:center;gap:8px;width:fit-content;max-width:100%;min-height:44px;padding:8px 14px;border:1px solid #b21c1a;border-radius:24px;background:#b21c1a;color:white;font-size:14px;font-weight:650;cursor:pointer;list-style:none;}
+#a11y-disclosure>summary::-webkit-details-marker{display:none;}
+#a11y-disclosure>summary:before{content:'+';font-size:20px;line-height:1;}
+#a11y-disclosure[open]>summary:before{content:'−';}
+#a11y-disclosure>summary:focus-visible{outline:3px solid #2c3e50;outline-offset:3px;}
+html body #a11y-disclosure #a11y-panel{margin-top:12px;}
+html.civi-a11y-markers body #a11y-disclosure>summary{background:var(--civi-marker-ink)!important;border-color:var(--civi-marker-ink)!important;color:white!important;}
+html.civi-a11y-contrast body #a11y-disclosure>summary{background:#111!important;color:#fff!important;border-color:#111!important;}
+html.civi-a11y-large body #a11y-disclosure>summary{font-size:22px!important;}
