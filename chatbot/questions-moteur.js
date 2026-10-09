@@ -11,6 +11,7 @@
  function resolve(input){
   const q=normalize(input);if(q.trim().length<2||q.length>2500)return null;
   if(exact.get(q))return exact.get(q);
+  if(/\b(resultats?|bilans?|scores?|plans? d action)\b/.test(q)&&/\b(retrouver|consulter|sauvegard|enregistr|recuper|revenir)\w*/.test(q))return 'INTENT_USAGE_RESULTATS';
   if(/\b(centre|centres|examen)\b/.test(q)&&/\b(lyon|69000|69001|69002|69003)\b/.test(q))return 'INTENT_CENTRE_LYON';
   if(/\b(centre|centres)\b/.test(q)&&/\b(proche|pres|adresse|adresses|trouver|localiser)\b/.test(q))return 'INTENT_CENTRE_LOCALISER';
   const definition=isExplanation(q)&&!/\b(exercices?|entrainer|entrainements?|quiz)\b/.test(q);

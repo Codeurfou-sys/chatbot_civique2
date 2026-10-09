@@ -6171,6 +6171,7 @@ Vous maîtrisez cette thématique dans ce bilan et avez obtenu un **score parfai
 `endif`
 
 ## BIL_ITEM_CSP_001
+<span hidden data-civi-question="ad676662dfddce7d" data-kind="bilan" data-screen="BIL_ITEM_CSP_001"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9d593fcda39d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|9d593fcda39d|")`
@@ -6242,6 +6243,7 @@ Le 14 juillet est la fête nationale française. Cette journée rappelle un év�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_002
+<span hidden data-civi-question="e8c54f016162ecd4" data-kind="bilan" data-screen="BIL_ITEM_CSP_002"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b5dda1666441|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|b5dda1666441|")`
@@ -6313,6 +6315,7 @@ Les symboles de la République représentent l'identité de la France et ses val
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_003
+<span hidden data-civi-question="d4444bc36c544187" data-kind="bilan" data-screen="BIL_ITEM_CSP_003"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a654ccfaee0a|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|a654ccfaee0a|")`
@@ -6384,6 +6387,7 @@ L'égalité garantit que chaque personne bénéficie des mêmes droits et est tr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_004
+<span hidden data-civi-question="266dcb1f4635ef4a" data-kind="bilan" data-screen="BIL_ITEM_CSP_004"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b31c8b1bcc44|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|b31c8b1bcc44|")`
@@ -6455,6 +6459,7 @@ La devise « Liberté, Égalité, Fraternité » exprime les trois valeurs fonda
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_005
+<span hidden data-civi-question="338450eeaf4be9d7" data-kind="bilan" data-screen="BIL_ITEM_CSP_005"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a74f26976bb8|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|a74f26976bb8|")`
@@ -6526,6 +6531,7 @@ Le respect de la dignité de chaque personne est un principe fondamental. Les di
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_006
+<span hidden data-civi-question="36098d527c5af694" data-kind="bilan" data-screen="BIL_ITEM_CSP_006"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|48071726b160|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|48071726b160|")`
@@ -6597,6 +6603,7 @@ L'égalité entre les femmes et les hommes est protégée par la loi. Les discri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_007
+<span hidden data-civi-question="d319db722effa9bf" data-kind="bilan" data-screen="BIL_ITEM_CSP_007"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fa250c90502d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|fa250c90502d|")`
@@ -6668,6 +6675,7 @@ La Constitution du 4 octobre 1958 fonde la Ve République et organise le fonctio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_008
+<span hidden data-civi-question="70dbb24b590761c5" data-kind="bilan" data-screen="BIL_ITEM_CSP_008"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ca3f73fc46a7|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ca3f73fc46a7|")`
@@ -6739,6 +6747,7 @@ La France est une République indivisible, laïque, démocratique et sociale, co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_009
+<span hidden data-civi-question="1dbb7e2367547d77" data-kind="bilan" data-screen="BIL_ITEM_CSP_009"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6562940879b8|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|6562940879b8|")`
@@ -6810,6 +6819,7 @@ Marianne est la représentation officielle de la République française. Son bus
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_010
+<span hidden data-civi-question="2da085098c3f55b5" data-kind="bilan" data-screen="BIL_ITEM_CSP_010"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|08d92504a829|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|08d92504a829|")`
@@ -6881,6 +6891,7 @@ La devise « Liberté, Égalité, Fraternité » est inscrite sur de nombreux b�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_011
+<span hidden data-civi-question="dab05773a567d1ef" data-kind="bilan" data-screen="BIL_ITEM_CSP_011"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7c41025b9981|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|7c41025b9981|")`
@@ -6952,6 +6963,7 @@ Les symboles officiels représentent les valeurs de la République française et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_012
+<span hidden data-civi-question="aa6b2fc16d9bd27a" data-kind="bilan" data-screen="BIL_ITEM_CSP_012"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6d9f44d79371|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|6d9f44d79371|")`
@@ -7023,6 +7035,7 @@ L'égalité est une valeur fondamentale de la République. Elle garantit que cha
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_013
+<span hidden data-civi-question="9f7fb125fa506102" data-kind="bilan" data-screen="BIL_ITEM_CSP_013"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1d2a1544112d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|1d2a1544112d|")`
@@ -7094,6 +7107,7 @@ La liberté est une valeur fondamentale de la République. Elle permet à chacun
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_014
+<span hidden data-civi-question="a57dc7b22c408807" data-kind="bilan" data-screen="BIL_ITEM_CSP_014"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f0c90a17ab61|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|f0c90a17ab61|")`
@@ -7165,6 +7179,7 @@ La fraternité est l'une des trois valeurs de la République. Elle encourage cha
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_015
+<span hidden data-civi-question="b6513708b69b003a" data-kind="bilan" data-screen="BIL_ITEM_CSP_015"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a279e704882f|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|a279e704882f|")`
@@ -7236,6 +7251,7 @@ Le coq est un symbole traditionnel de la France, souvent utilisé lors des comp�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_016
+<span hidden data-civi-question="11888040017a62db" data-kind="bilan" data-screen="BIL_ITEM_CSP_016"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|961e35d8bd85|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|961e35d8bd85|")`
@@ -7307,6 +7323,7 @@ Les associations jouent un rôle essentiel dans la vie locale. Elles favorisent 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_017
+<span hidden data-civi-question="30fc347e432930e2" data-kind="bilan" data-screen="BIL_ITEM_CSP_017"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|327955ce45e7|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|327955ce45e7|")`
@@ -7378,6 +7395,7 @@ La Marseillaise est l'hymne national français. Elle fait partie des symboles of
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_018
+<span hidden data-civi-question="1f7e8119e12993e3" data-kind="bilan" data-screen="BIL_ITEM_CSP_018"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5d8257949cb9|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|5d8257949cb9|")`
@@ -7449,6 +7467,7 @@ Le drapeau tricolore est l'un des principaux symboles officiels de la Républiqu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_019
+<span hidden data-civi-question="2c188be9902e533e" data-kind="bilan" data-screen="BIL_ITEM_CSP_019"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|31a655a55997|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|31a655a55997|")`
@@ -7520,6 +7539,7 @@ La fête nationale française est célébrée chaque année le 14 juillet. Elle 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_020
+<span hidden data-civi-question="527b50bb0ccf823d" data-kind="bilan" data-screen="BIL_ITEM_CSP_020"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5b06e95126ba|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|5b06e95126ba|")`
@@ -7591,6 +7611,7 @@ La devise de la République française exprime les trois valeurs fondamentales q
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_021
+<span hidden data-civi-question="499b1c80999bcf4a" data-kind="bilan" data-screen="BIL_ITEM_CSP_021"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6afcf1957d3e|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|6afcf1957d3e|")`
@@ -7662,6 +7683,7 @@ L'article 2 de la Constitution précise que « la langue de la République est l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_022
+<span hidden data-civi-question="6040ae2e8a5db95b" data-kind="bilan" data-screen="BIL_ITEM_CSP_022"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d83449dbec98|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|d83449dbec98|")`
@@ -7733,6 +7755,7 @@ Le français est la langue officielle de la République. Il est utilisé dans le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_023
+<span hidden data-civi-question="6d0dad7fc095a160" data-kind="bilan" data-screen="BIL_ITEM_CSP_023"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|72a655a3f067|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|72a655a3f067|")`
@@ -7804,6 +7827,7 @@ La liberté d'expression qui permet à chacun d'exprimer ses opinions et ses id�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_024
+<span hidden data-civi-question="e2c75413283af467" data-kind="bilan" data-screen="BIL_ITEM_CSP_024"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|99bb31bf56e8|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|99bb31bf56e8|")`
@@ -7875,6 +7899,7 @@ La liberté d'expression est une liberté fondamentale. Elle permet à chacun d'
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_025
+<span hidden data-civi-question="8d0fc8c351006fa0" data-kind="bilan" data-screen="BIL_ITEM_CSP_025"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ec7bba5ba008|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ec7bba5ba008|")`
@@ -7946,6 +7971,7 @@ Le drapeau tricolore bleu, blanc, rouge est l'un des symboles officiels de la R�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_026
+<span hidden data-civi-question="3aef9bc38555d0ac" data-kind="bilan" data-screen="BIL_ITEM_CSP_026"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8d3f5f296e64|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|8d3f5f296e64|")`
@@ -8017,6 +8043,7 @@ La Marseillaise est l'hymne national français depuis la Révolution française.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_027
+<span hidden data-civi-question="fa4f2702e6b5290c" data-kind="bilan" data-screen="BIL_ITEM_CSP_027"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2bd05d3c61c9|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|2bd05d3c61c9|")`
@@ -8088,6 +8115,7 @@ Chaque 14 juillet, un défilé militaire est organisé sur les Champs-Élysées 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_028
+<span hidden data-civi-question="f9b8c2f5f53e5d8f" data-kind="bilan" data-screen="BIL_ITEM_CSP_028"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e1630d49490e|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e1630d49490e|")`
@@ -8159,6 +8187,7 @@ Marianne incarne les valeurs de la République française. Son buste est présen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_029
+<span hidden data-civi-question="94afc8da46353c2e" data-kind="bilan" data-screen="BIL_ITEM_CSP_029"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9ccc0a46b7a1|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|9ccc0a46b7a1|")`
@@ -8230,6 +8259,7 @@ La liberté de conscience est un droit fondamental. Elle garantit à chacun la l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_030
+<span hidden data-civi-question="3db49d2b3f136217" data-kind="bilan" data-screen="BIL_ITEM_CSP_030"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|058314c22e77|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|058314c22e77|")`
@@ -8301,6 +8331,7 @@ La Constitution affirme que la France est une République indivisible, laïque, 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_031
+<span hidden data-civi-question="9f129763c0c00228" data-kind="bilan" data-screen="BIL_ITEM_CSP_031"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b7288365ae3c|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|b7288365ae3c|")`
@@ -8372,6 +8403,7 @@ La loi du 9 décembre 1905 garantit la séparation des Églises et de l'État. E
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_032
+<span hidden data-civi-question="f5e1288007b6b719" data-kind="bilan" data-screen="BIL_ITEM_CSP_032"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4562f7ee97cd|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|4562f7ee97cd|")`
@@ -8443,6 +8475,7 @@ La laïcité protège la liberté de conscience. Elle permet à chacun de pratiq
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_033
+<span hidden data-civi-question="135f977699625a7b" data-kind="bilan" data-screen="BIL_ITEM_CSP_033"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|775c6db33a3b|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|775c6db33a3b|")`
@@ -8514,6 +8547,7 @@ La liberté de conscience qui protège toutes les convictions, religieuses ou no
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_034
+<span hidden data-civi-question="b4a833ba9b715a63" data-kind="bilan" data-screen="BIL_ITEM_CSP_034"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0fb3986006ec|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|0fb3986006ec|")`
@@ -8585,6 +8619,7 @@ L'école publique est un lieu où tous les élèves apprennent ensemble, quelles
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_035
+<span hidden data-civi-question="542d0ac9a96aa8bf" data-kind="bilan" data-screen="BIL_ITEM_CSP_035"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|188ae698d2b6|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|188ae698d2b6|")`
@@ -8656,6 +8691,7 @@ La laïcité est l'un des principes fondamentaux de la République française. E
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_036
+<span hidden data-civi-question="f0d3d882258d0c0d" data-kind="bilan" data-screen="BIL_ITEM_CSP_036"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|38d44f7f434c|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|38d44f7f434c|")`
@@ -8727,6 +8763,7 @@ La République garantit la liberté de conscience tout en imposant l'instruction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_037
+<span hidden data-civi-question="87741faf8ad6622b" data-kind="bilan" data-screen="BIL_ITEM_CSP_037"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a5c42db1b768|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|a5c42db1b768|")`
@@ -8798,6 +8835,7 @@ La République garantit à chacun la liberté de conscience. Cette liberté comp
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_038
+<span hidden data-civi-question="6e8ba2156611b8ad" data-kind="bilan" data-screen="BIL_ITEM_CSP_038"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a62700570f06|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|a62700570f06|")`
@@ -8869,6 +8907,7 @@ Le président de la République nomme le Premier ministre. Celui-ci dirige ensui
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_039
+<span hidden data-civi-question="fa856938d1380a9b" data-kind="bilan" data-screen="BIL_ITEM_CSP_039"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2f0d9b52abc4|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|2f0d9b52abc4|")`
@@ -8940,6 +8979,7 @@ Le Parlement français est composé de deux chambres : l'Assemblée nationale et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_040
+<span hidden data-civi-question="d3ab4345ce8965a1" data-kind="bilan" data-screen="BIL_ITEM_CSP_040"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|685acd27a9b8|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|685acd27a9b8|")`
@@ -9011,6 +9051,7 @@ Le pouvoir exécutif est chargé de mettre en œuvre les lois votées par le Par
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_041
+<span hidden data-civi-question="931c75f17160eb5a" data-kind="bilan" data-screen="BIL_ITEM_CSP_041"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e8964272578a|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e8964272578a|")`
@@ -9082,6 +9123,7 @@ Dans une démocratie, les citoyens élisent leurs représentants.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_042
+<span hidden data-civi-question="6730e6e5aeaf5b8f" data-kind="bilan" data-screen="BIL_ITEM_CSP_042"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5fbe29d1856e|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|5fbe29d1856e|")`
@@ -9153,6 +9195,7 @@ Le respect de la loi est un devoir fondamental. Les lois garantissent les droits
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_043
+<span hidden data-civi-question="e995da6b4d07334b" data-kind="bilan" data-screen="BIL_ITEM_CSP_043"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f4c1185ca4a2|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|f4c1185ca4a2|")`
@@ -9224,6 +9267,7 @@ La loi s'applique à toutes les personnes vivant ou se rendant sur le territoire
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_044
+<span hidden data-civi-question="17f9c11929df9843" data-kind="bilan" data-screen="BIL_ITEM_CSP_044"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a34f20698ccb|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|a34f20698ccb|")`
@@ -9295,6 +9339,7 @@ L'autorité judiciaire est chargée de trancher les litiges, de protéger les li
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_045
+<span hidden data-civi-question="ab5f170d43701020" data-kind="bilan" data-screen="BIL_ITEM_CSP_045"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cf6a7627d0f6|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|cf6a7627d0f6|")`
@@ -9366,6 +9411,7 @@ Le juge exerce le pouvoir judiciaire. Il applique la loi de manière indépendan
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_046
+<span hidden data-civi-question="071fd75341ef4330" data-kind="bilan" data-screen="BIL_ITEM_CSP_046"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e080bd5081aa|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e080bd5081aa|")`
@@ -9437,6 +9483,7 @@ Les juges rendent la justice de manière indépendante. Ils appliquent la loi et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_047
+<span hidden data-civi-question="5c70c44596892641" data-kind="bilan" data-screen="BIL_ITEM_CSP_047"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ea977b640370|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ea977b640370|")`
@@ -9508,6 +9555,7 @@ En France, nul n'est au-dessus de la loi. Les ministres doivent eux aussi respec
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_048
+<span hidden data-civi-question="34ea1692a355f612" data-kind="bilan" data-screen="BIL_ITEM_CSP_048"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|05799183a61f|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|05799183a61f|")`
@@ -9579,6 +9627,7 @@ L'Assemblée nationale est composée de 577 députés élus au suffrage universe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_049
+<span hidden data-civi-question="2d984a34e1bab562" data-kind="bilan" data-screen="BIL_ITEM_CSP_049"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|71a9fb7fd386|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|71a9fb7fd386|")`
@@ -9650,6 +9699,7 @@ Les Sénateurs sont élus pour un mandat de six ans, mais le Sénat est renouvel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_050
+<span hidden data-civi-question="dd004d4c65ffe305" data-kind="bilan" data-screen="BIL_ITEM_CSP_050"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|50831d97b802|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|50831d97b802|")`
@@ -9721,6 +9771,7 @@ Lors des élections municipales, les citoyens élisent les conseillers municipau
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_051
+<span hidden data-civi-question="600a6071169d5e92" data-kind="bilan" data-screen="BIL_ITEM_CSP_051"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|82ddc0c09d97|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|82ddc0c09d97|")`
@@ -9792,6 +9843,7 @@ Le président de la République est élu au suffrage universel direct par les ci
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_052
+<span hidden data-civi-question="9cd343278946918d" data-kind="bilan" data-screen="BIL_ITEM_CSP_052"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|59cdd7de4623|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|59cdd7de4623|")`
@@ -9863,6 +9915,7 @@ En France, le droit de vote est accordé à partir de 18 ans aux citoyens rempli
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_053
+<span hidden data-civi-question="7350d98ffd4ba592" data-kind="bilan" data-screen="BIL_ITEM_CSP_053"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7da6be0ca6f9|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|7da6be0ca6f9|")`
@@ -9934,6 +9987,7 @@ Depuis 2002, le mandat du président de la République est de cinq ans. Cette du
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_054
+<span hidden data-civi-question="f2f1c782987c670d" data-kind="bilan" data-screen="BIL_ITEM_CSP_054"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dc81a451c79a|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|dc81a451c79a|")`
@@ -10005,6 +10059,7 @@ Les députés sont élus pour un mandat de cinq ans lors des élections législa
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_055
+<span hidden data-civi-question="8700f6867a9fb0cc" data-kind="bilan" data-screen="BIL_ITEM_CSP_055"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|78a1e4881134|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|78a1e4881134|")`
@@ -10076,6 +10131,7 @@ Les Sénateurs sont élus pour un mandat de six ans. Afin d'assurer une continui
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_056
+<span hidden data-civi-question="78a63899a0f9f31c" data-kind="bilan" data-screen="BIL_ITEM_CSP_056"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|82f476bf9ab0|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|82f476bf9ab0|")`
@@ -10147,6 +10203,7 @@ Le pouvoir exécutif est exercé conjointement par le président de la Républiq
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_057
+<span hidden data-civi-question="106bfa1e34c63d0c" data-kind="bilan" data-screen="BIL_ITEM_CSP_057"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fdf25e462a87|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|fdf25e462a87|")`
@@ -10218,6 +10275,7 @@ Pour voter, il faut remplir plusieurs conditions. L'une des principales est d'ê
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_058
+<span hidden data-civi-question="f9ba41feca7b1362" data-kind="bilan" data-screen="BIL_ITEM_CSP_058"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cdd9dbfabc89|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|cdd9dbfabc89|")`
@@ -10289,6 +10347,7 @@ Pour voter aux élections nationales, il faut être citoyen français, avoir au 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_059
+<span hidden data-civi-question="3351a9886b8eae16" data-kind="bilan" data-screen="BIL_ITEM_CSP_059"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8f25bd4ec578|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|8f25bd4ec578|")`
@@ -10360,6 +10419,7 @@ Le suffrage universel garantit que chaque citoyen remplissant les conditions lé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_060
+<span hidden data-civi-question="a9fb215d7347d19e" data-kind="bilan" data-screen="BIL_ITEM_CSP_060"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ff6374d47672|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ff6374d47672|")`
@@ -10431,6 +10491,7 @@ L'article 4 de la Constitution précise que les partis et groupements politiques
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_061
+<span hidden data-civi-question="c012bda801ef45a3" data-kind="bilan" data-screen="BIL_ITEM_CSP_061"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b041ec416e99|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|b041ec416e99|")`
@@ -10502,6 +10563,7 @@ Les députés siègent à l'Assemblée nationale. Ils représentent les citoyens
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_062
+<span hidden data-civi-question="1fa990d41c91cd07" data-kind="bilan" data-screen="BIL_ITEM_CSP_062"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a188826884d2|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|a188826884d2|")`
@@ -10573,6 +10635,7 @@ La séparation des pouvoirs permet d'éviter qu'une seule personne ou une seule 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_063
+<span hidden data-civi-question="c9d6b82d76fc939e" data-kind="bilan" data-screen="BIL_ITEM_CSP_063"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|28ecdf34538c|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|28ecdf34538c|")`
@@ -10644,6 +10707,7 @@ Le pouvoir législatif appartient au Parlement, qui comprend l'Assemblée nation
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_064
+<span hidden data-civi-question="e439f7410354c795" data-kind="bilan" data-screen="BIL_ITEM_CSP_064"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7d159e7c7a2f|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|7d159e7c7a2f|")`
@@ -10715,6 +10779,7 @@ La police enquête et recherche les auteurs d'infractions, mais c'est la justice
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_065
+<span hidden data-civi-question="a79e44c8dbc5f265" data-kind="bilan" data-screen="BIL_ITEM_CSP_065"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|56f6ed435450|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|56f6ed435450|")`
@@ -10786,6 +10851,7 @@ Les députés sont élus au suffrage universel direct par les citoyens français
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_066
+<span hidden data-civi-question="3ef211ad34df0aa6" data-kind="bilan" data-screen="BIL_ITEM_CSP_066"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|72e6c1f095b6|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|72e6c1f095b6|")`
@@ -10857,6 +10923,7 @@ Les lois sont votées par le Parlement, composé de l'Assemblée nationale et du
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_067
+<span hidden data-civi-question="264efe9465f69377" data-kind="bilan" data-screen="BIL_ITEM_CSP_067"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f414017e53e6|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|f414017e53e6|")`
@@ -10928,6 +10995,7 @@ Le palais de l'Élysée, situé à Paris, est la résidence officielle et le lie
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_068
+<span hidden data-civi-question="99fdbe3f50ba771f" data-kind="bilan" data-screen="BIL_ITEM_CSP_068"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|764ecb8dc500|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|764ecb8dc500|")`
@@ -10999,6 +11067,7 @@ La France compte 101 départements : 96 en métropole et 5 départements d'outre
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_069
+<span hidden data-civi-question="8f91f0e5d5de13bf" data-kind="bilan" data-screen="BIL_ITEM_CSP_069"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ee09d1a2b3a0|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ee09d1a2b3a0|")`
@@ -11070,6 +11139,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_070
+<span hidden data-civi-question="dbf18d131d60aa77" data-kind="bilan" data-screen="BIL_ITEM_CSP_070"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|33560dc2499f|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|33560dc2499f|")`
@@ -11141,6 +11211,7 @@ Le maire est le responsable de la commune. Il met en œuvre les décisions du co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_071
+<span hidden data-civi-question="668b4cb716a43534" data-kind="bilan" data-screen="BIL_ITEM_CSP_071"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8e8dd3e7d856|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|8e8dd3e7d856|")`
@@ -11212,6 +11283,7 @@ Le président de la République exerce une partie du pouvoir exécutif. Il ne po
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_072
+<span hidden data-civi-question="de9e3cea97037964" data-kind="bilan" data-screen="BIL_ITEM_CSP_072"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6f188dbc3221|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|6f188dbc3221|")`
@@ -11283,6 +11355,7 @@ Le préfet est nommé par le gouvernement. Il représente l'État et veille nota
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_073
+<span hidden data-civi-question="2002e23b732633ef" data-kind="bilan" data-screen="BIL_ITEM_CSP_073"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a54ad974e852|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|a54ad974e852|")`
@@ -11354,6 +11427,7 @@ Le Parlement est composé de l'Assemblée nationale et du Sénat. Il vote les lo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_074
+<span hidden data-civi-question="94e57bd94f9585c4" data-kind="bilan" data-screen="BIL_ITEM_CSP_074"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f716aac37a0a|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|f716aac37a0a|")`
@@ -11425,6 +11499,7 @@ La France est une République indivisible, laïque, démocratique et sociale.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_075
+<span hidden data-civi-question="26890691c9b73359" data-kind="bilan" data-screen="BIL_ITEM_CSP_075"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f40030b8688a|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|f40030b8688a|")`
@@ -11496,6 +11571,7 @@ Depuis le retrait du Royaume-Uni, l'Union européenne compte 27 États membres.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_076
+<span hidden data-civi-question="3246183ca10caa8d" data-kind="bilan" data-screen="BIL_ITEM_CSP_076"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c04529ae3c1d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|c04529ae3c1d|")`
@@ -11567,6 +11643,7 @@ La Suisse n'est pas membre de l'Union européenne, même si elle entretient de n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_077
+<span hidden data-civi-question="9822a336067ae719" data-kind="bilan" data-screen="BIL_ITEM_CSP_077"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|075f752239ae|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|075f752239ae|")`
@@ -11638,6 +11715,7 @@ Pour voter aux élections européennes en France, il faut notamment être inscri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_078
+<span hidden data-civi-question="3b996a774bc550ad" data-kind="bilan" data-screen="BIL_ITEM_CSP_078"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|74f81a7da3c0|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|74f81a7da3c0|")`
@@ -11709,6 +11787,7 @@ Les députés européens sont élus pour un mandat de cinq ans.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_079
+<span hidden data-civi-question="c8969baf1f3f14e4" data-kind="bilan" data-screen="BIL_ITEM_CSP_079"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a35bae15a777|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|a35bae15a777|")`
@@ -11780,6 +11859,7 @@ Les six États fondateurs (France, Allemagne, Italie, Belgique, Luxembourg, Pays
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_080
+<span hidden data-civi-question="42a890652b6ec3b4" data-kind="bilan" data-screen="BIL_ITEM_CSP_080"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|842e555bd708|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|842e555bd708|")`
@@ -11851,6 +11931,7 @@ Depuis 2002, la monnaie utilisée en France est l'euro.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_081
+<span hidden data-civi-question="95647889c7720b40" data-kind="bilan" data-screen="BIL_ITEM_CSP_081"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|24e9924723b7|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|24e9924723b7|")`
@@ -11922,6 +12003,7 @@ Les députés européens sont élus au suffrage universel direct par les citoyen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_082
+<span hidden data-civi-question="2678869af3396df2" data-kind="bilan" data-screen="BIL_ITEM_CSP_082"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cbddf812194e|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|cbddf812194e|")`
@@ -11993,6 +12075,7 @@ La Journée de l'Europe est célébrée chaque année le 9 mai. Elle commémore 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_083
+<span hidden data-civi-question="320471b2282aa732" data-kind="bilan" data-screen="BIL_ITEM_CSP_083"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fff9d261a7ca|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|fff9d261a7ca|")`
@@ -12064,6 +12147,7 @@ La Constitution de la Ve République est le texte fondamental qui organise les i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_084
+<span hidden data-civi-question="807b4ed342b8c9b2" data-kind="bilan" data-screen="BIL_ITEM_CSP_084"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9719c5e31309|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|9719c5e31309|")`
@@ -12135,6 +12219,7 @@ Adoptée en 1789 pendant la Révolution française, la Déclaration des droits d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_085
+<span hidden data-civi-question="627ea0b9c9e2018b" data-kind="bilan" data-screen="BIL_ITEM_CSP_085"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|462abc8ac6d9|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|462abc8ac6d9|")`
@@ -12206,6 +12291,7 @@ Les droits individuels sont protégés en France. Ils s'exercent dans le respect
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_086
+<span hidden data-civi-question="1af203899614a2ba" data-kind="bilan" data-screen="BIL_ITEM_CSP_086"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b0bbfa5c7f10|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|b0bbfa5c7f10|")`
@@ -12277,6 +12363,7 @@ La Déclaration des droits de l'homme et du citoyen a été adoptée en 1789 pen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_087
+<span hidden data-civi-question="96a767e361b212ce" data-kind="bilan" data-screen="BIL_ITEM_CSP_087"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|50c31cf25996|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|50c31cf25996|")`
@@ -12348,6 +12435,7 @@ La liberté d'expression est un droit fondamental reconnu en France. Elle s'exer
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_088
+<span hidden data-civi-question="77f77da916339eed" data-kind="bilan" data-screen="BIL_ITEM_CSP_088"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|76515f9b396d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|76515f9b396d|")`
@@ -12419,6 +12507,7 @@ La Constitution est la norme juridique la plus élevée en France. Son bloc de c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_089
+<span hidden data-civi-question="d0de4a87cc845ed7" data-kind="bilan" data-screen="BIL_ITEM_CSP_089"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|34d961155c6f|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|34d961155c6f|")`
@@ -12490,6 +12579,7 @@ La liberté d'expression est un droit fondamental. Elle permet d'exprimer ses op
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_090
+<span hidden data-civi-question="db713b9e6c3c55f0" data-kind="bilan" data-screen="BIL_ITEM_CSP_090"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1eee1e537939|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|1eee1e537939|")`
@@ -12561,6 +12651,7 @@ Les droits de la défense permettent à chacun de connaître les accusations por
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_091
+<span hidden data-civi-question="3716a47d417ccfc7" data-kind="bilan" data-screen="BIL_ITEM_CSP_091"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0571be7cbc67|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|0571be7cbc67|")`
@@ -12632,6 +12723,7 @@ Adoptée pendant la Révolution française, la DDHC affirme notamment la libert�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_092
+<span hidden data-civi-question="8d810f4ac4012595" data-kind="bilan" data-screen="BIL_ITEM_CSP_092"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e783d99e80e0|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e783d99e80e0|")`
@@ -12703,6 +12795,7 @@ La Déclaration des droits de l'homme et du citoyen a été adoptée le 26 août
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_093
+<span hidden data-civi-question="6f65416f99d9e802" data-kind="bilan" data-screen="BIL_ITEM_CSP_093"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3e9a90451104|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|3e9a90451104|")`
@@ -12774,6 +12867,7 @@ La liberté de conscience est un principe fondamental de la République. Elle pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_094
+<span hidden data-civi-question="312531f7f85a61fb" data-kind="bilan" data-screen="BIL_ITEM_CSP_094"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b29bf95ac3cb|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|b29bf95ac3cb|")`
@@ -12845,6 +12939,7 @@ Le droit à l'interruption volontaire de grossesse (IVG) est reconnu en France. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_095
+<span hidden data-civi-question="a74e04d615690b2f" data-kind="bilan" data-screen="BIL_ITEM_CSP_095"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ff3f55b8bd09|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ff3f55b8bd09|")`
@@ -12916,6 +13011,7 @@ Le divorce permet à deux personnes mariées de mettre fin à leur mariage selon
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_096
+<span hidden data-civi-question="e32757b9749034cb" data-kind="bilan" data-screen="BIL_ITEM_CSP_096"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|20b91ec446d3|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|20b91ec446d3|")`
@@ -12987,6 +13083,7 @@ La peine de mort a été abolie en France en 1981. Depuis 2007, son abolition es
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_097
+<span hidden data-civi-question="7c3c45a753298df4" data-kind="bilan" data-screen="BIL_ITEM_CSP_097"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5bb8930f385d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|5bb8930f385d|")`
@@ -13058,6 +13155,7 @@ En France, les libertés sont protégées, mais elles doivent s'exercer dans le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_098
+<span hidden data-civi-question="4361cf75cb2cef13" data-kind="bilan" data-screen="BIL_ITEM_CSP_098"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e50fdf3284c6|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e50fdf3284c6|")`
@@ -13129,6 +13227,7 @@ En France, une personne ne peut être mariée qu'à une seule autre personne à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_099
+<span hidden data-civi-question="d7b5c3514e181fb8" data-kind="bilan" data-screen="BIL_ITEM_CSP_099"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6f4e6f709986|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|6f4e6f709986|")`
@@ -13200,6 +13299,7 @@ Chaque personne peut agir pour limiter les déchets en consommant de manière re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_100
+<span hidden data-civi-question="d1dc32993288d152" data-kind="bilan" data-screen="BIL_ITEM_CSP_100"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6d65c91a6163|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|6d65c91a6163|")`
@@ -13271,6 +13371,7 @@ Abandonner des déchets sur la voie publique est interdit. Ce comportement peut 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_101
+<span hidden data-civi-question="542cada844153da1" data-kind="bilan" data-screen="BIL_ITEM_CSP_101"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|efd99fe90a61|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|efd99fe90a61|")`
@@ -13342,6 +13443,7 @@ Les libertés sont essentielles dans une démocratie, mais elles ne sont pas abs
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_102
+<span hidden data-civi-question="c0af861784ae03fb" data-kind="bilan" data-screen="BIL_ITEM_CSP_102"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e0b211786b16|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e0b211786b16|")`
@@ -13413,6 +13515,7 @@ En France, chacun a le devoir de porter assistance à une personne en danger, da
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_103
+<span hidden data-civi-question="cf397ba3c7275543" data-kind="bilan" data-screen="BIL_ITEM_CSP_103"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0e88b22920ee|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|0e88b22920ee|")`
@@ -13484,6 +13587,7 @@ La citoyenneté française donne des droits civiques, notamment le droit de vote
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_104
+<span hidden data-civi-question="c24ca53c4ea6a064" data-kind="bilan" data-screen="BIL_ITEM_CSP_104"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|33e02183e9c3|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|33e02183e9c3|")`
@@ -13555,6 +13659,7 @@ Le non-respect de la loi peut entraîner différentes sanctions décidées par l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_105
+<span hidden data-civi-question="5b4a9c67aaad9397" data-kind="bilan" data-screen="BIL_ITEM_CSP_105"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|286e3804c580|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|286e3804c580|")`
@@ -13626,6 +13731,7 @@ La gendarmerie nationale assure des missions de sécurité publique, notamment d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_106
+<span hidden data-civi-question="1bc4bd16067384fd" data-kind="bilan" data-screen="BIL_ITEM_CSP_106"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|539bd470f38e|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|539bd470f38e|")`
@@ -13697,6 +13803,7 @@ La Police nationale exerce principalement ses missions dans les zones urbaines. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_107
+<span hidden data-civi-question="00142dbb2492157b" data-kind="bilan" data-screen="BIL_ITEM_CSP_107"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|761fbddd00be|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|761fbddd00be|")`
@@ -13768,6 +13875,7 @@ Les infractions sont classées selon leur gravité en contraventions, délits et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_108
+<span hidden data-civi-question="3986f2fc9dcaa331" data-kind="bilan" data-screen="BIL_ITEM_CSP_108"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ec42e62903c4|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ec42e62903c4|")`
@@ -13839,6 +13947,7 @@ Réduire ses déchets permet de protéger les ressources naturelles et de limite
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_109
+<span hidden data-civi-question="994f48e5d512896b" data-kind="bilan" data-screen="BIL_ITEM_CSP_109"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3350a3f271cb|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|3350a3f271cb|")`
@@ -13910,6 +14019,7 @@ Les appareils électroménagers doivent être déposés dans une déchèterie ou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_110
+<span hidden data-civi-question="5ebbd9206512d0b5" data-kind="bilan" data-screen="BIL_ITEM_CSP_110"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ad139810908a|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ad139810908a|")`
@@ -13981,6 +14091,7 @@ La traite des êtres humains est un crime grave puni par la loi. Les victimes pe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_111
+<span hidden data-civi-question="4455dec10b883cbb" data-kind="bilan" data-screen="BIL_ITEM_CSP_111"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c72365c679ec|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|c72365c679ec|")`
@@ -14052,6 +14163,7 @@ Toute victime de violences doit être protégée. Elle peut contacter la police,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_112
+<span hidden data-civi-question="f53c221d3dca3d2e" data-kind="bilan" data-screen="BIL_ITEM_CSP_112"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|04eb7aa63a1b|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|04eb7aa63a1b|")`
@@ -14123,6 +14235,7 @@ En droit français, les infractions sont classées en trois catégories : les co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_113
+<span hidden data-civi-question="6535e38c9d0679d7" data-kind="bilan" data-screen="BIL_ITEM_CSP_113"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8023c87a0037|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|8023c87a0037|")`
@@ -14194,6 +14307,7 @@ La Révolution française débute en 1789. Elle marque une étape majeure de l'h
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_114
+<span hidden data-civi-question="89f5c9c3ea3acb63" data-kind="bilan" data-screen="BIL_ITEM_CSP_114"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|958827d87b42|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|958827d87b42|")`
@@ -14265,6 +14379,7 @@ Napoléon Bonaparte devient Napoléon Ier en 1804. Il marque profondément l'his
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_115
+<span hidden data-civi-question="010f221e0d317c52" data-kind="bilan" data-screen="BIL_ITEM_CSP_115"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1017516250bd|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|1017516250bd|")`
@@ -14336,6 +14451,7 @@ Napoléon Bonaparte est une figure majeure de l'histoire de France. Les autres p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_116
+<span hidden data-civi-question="adde7515c5fc22e8" data-kind="bilan" data-screen="BIL_ITEM_CSP_116"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ada06ba94f2c|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ada06ba94f2c|")`
@@ -14407,6 +14523,7 @@ La France est aujourd'hui sous la Ve République, instaurée en 1958 avec la Con
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_117
+<span hidden data-civi-question="32791721be7fd73a" data-kind="bilan" data-screen="BIL_ITEM_CSP_117"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e84e7362816e|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e84e7362816e|")`
@@ -14478,6 +14595,7 @@ La Shoah est l'un des plus grands crimes contre l'humanité de l'histoire. Elle 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_118
+<span hidden data-civi-question="33bb3b9d30d04d6c" data-kind="bilan" data-screen="BIL_ITEM_CSP_118"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|128504c6c02b|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|128504c6c02b|")`
@@ -14549,6 +14667,7 @@ Pendant plusieurs siècles, la France a constitué un vaste empire colonial en A
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_119
+<span hidden data-civi-question="d79b8d75305413da" data-kind="bilan" data-screen="BIL_ITEM_CSP_119"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|60912e907f52|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|60912e907f52|")`
@@ -14620,6 +14739,7 @@ Les lois Jules Ferry (1881-1882) rendent l'école primaire gratuite, laïque et 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_120
+<span hidden data-civi-question="6846dbc5da61f142" data-kind="bilan" data-screen="BIL_ITEM_CSP_120"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3efa71bc0b55|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|3efa71bc0b55|")`
@@ -14691,6 +14811,7 @@ La Seconde Guerre mondiale oppose de nombreux pays entre 1939 et 1945. Elle se t
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_121
+<span hidden data-civi-question="97c78b0ec051da51" data-kind="bilan" data-screen="BIL_ITEM_CSP_121"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f14e9a8196a9|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|f14e9a8196a9|")`
@@ -14762,6 +14883,7 @@ La Première Guerre mondiale se déroule de 1914 à 1918. Elle prend fin avec l'
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_122
+<span hidden data-civi-question="8a8f51569d2764c9" data-kind="bilan" data-screen="BIL_ITEM_CSP_122"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7dfbc5f4fb31|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|7dfbc5f4fb31|")`
@@ -14833,6 +14955,7 @@ La Communauté économique européenne (CEE) est créée par le traité de Rome 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_123
+<span hidden data-civi-question="4a9006157dca145a" data-kind="bilan" data-screen="BIL_ITEM_CSP_123"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|df89668e73bb|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|df89668e73bb|")`
@@ -14904,6 +15027,7 @@ Le 11 novembre commémore l'armistice de 1918 qui met fin aux combats de la Prem
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_124
+<span hidden data-civi-question="252e49f61c254a4e" data-kind="bilan" data-screen="BIL_ITEM_CSP_124"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4a4e4f6fcdc0|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|4a4e4f6fcdc0|")`
@@ -14975,6 +15099,7 @@ Charles de Gaulle est le premier président de la Ve République instaurée en 1
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_125
+<span hidden data-civi-question="129bf0b2eabce77b" data-kind="bilan" data-screen="BIL_ITEM_CSP_125"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|58be3d0344df|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|58be3d0344df|")`
@@ -15046,6 +15171,7 @@ L'esclavage est définitivement aboli en France en 1848 grâce au décret porté
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_126
+<span hidden data-civi-question="93c85ce0bcba970a" data-kind="bilan" data-screen="BIL_ITEM_CSP_126"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6e1de019e205|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|6e1de019e205|")`
@@ -15117,6 +15243,7 @@ La gratuité de l'école publique est instaurée par les lois Jules Ferry en 188
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_127
+<span hidden data-civi-question="29f4318eebcf9db4" data-kind="bilan" data-screen="BIL_ITEM_CSP_127"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|273af4d5ff2f|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|273af4d5ff2f|")`
@@ -15188,6 +15315,7 @@ La France est actuellement sous la Ve République, instaurée en 1958. Elle est 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_128
+<span hidden data-civi-question="3cd7c9071a966ade" data-kind="bilan" data-screen="BIL_ITEM_CSP_128"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ade3b07d14e7|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ade3b07d14e7|")`
@@ -15259,6 +15387,7 @@ Louis XVI est le roi de France au début de la Révolution française en 1789. I
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_129
+<span hidden data-civi-question="6298e7092ef01ca6" data-kind="bilan" data-screen="BIL_ITEM_CSP_129"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|07c2edc3acb3|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|07c2edc3acb3|")`
@@ -15330,6 +15459,7 @@ En 1958, le général Charles de Gaulle fonde la Ve République avec l'adoption 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_130
+<span hidden data-civi-question="92d71bd41f2baeea" data-kind="bilan" data-screen="BIL_ITEM_CSP_130"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|30f33ff793b5|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|30f33ff793b5|")`
@@ -15401,6 +15531,7 @@ Le 14 juillet est la fête nationale française. Elle commémore la prise de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_131
+<span hidden data-civi-question="91588955fcb55446" data-kind="bilan" data-screen="BIL_ITEM_CSP_131"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9d42b9e8525d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|9d42b9e8525d|")`
@@ -15472,6 +15603,7 @@ La Première Guerre mondiale s'est déroulée de 1914 à 1918 et s'est achevée 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_132
+<span hidden data-civi-question="0f444396abf8ceae" data-kind="bilan" data-screen="BIL_ITEM_CSP_132"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|05989cb3adb9|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|05989cb3adb9|")`
@@ -15543,6 +15675,7 @@ L'année 1958 marque la naissance de la Ve République sous l'impulsion du gén�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_133
+<span hidden data-civi-question="ecd0f094afdfc757" data-kind="bilan" data-screen="BIL_ITEM_CSP_133"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|82d7a4fcc74b|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|82d7a4fcc74b|")`
@@ -15614,6 +15747,7 @@ La France possède plusieurs grands fleuves qui traversent son territoire. Les p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_134
+<span hidden data-civi-question="2a2aa11b6c8559da" data-kind="bilan" data-screen="BIL_ITEM_CSP_134"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4d03817a5d47|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|4d03817a5d47|")`
@@ -15685,6 +15819,7 @@ Lyon est la troisième plus grande ville de France. Barcelone est en Espagne, Ge
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_135
+<span hidden data-civi-question="89762121b9191ec8" data-kind="bilan" data-screen="BIL_ITEM_CSP_135"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|97057d155aa3|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|97057d155aa3|")`
@@ -15756,6 +15891,7 @@ La façade ouest de la France métropolitaine est bordée par l'océan Atlantiqu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_136
+<span hidden data-civi-question="78630485bdbf8081" data-kind="bilan" data-screen="BIL_ITEM_CSP_136"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dd952f67ee23|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|dd952f67ee23|")`
@@ -15827,6 +15963,7 @@ Paris est la capitale de la France. Elle accueille notamment les principales ins
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_137
+<span hidden data-civi-question="a44dfe7adbe9a44e" data-kind="bilan" data-screen="BIL_ITEM_CSP_137"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1bc92d0c68c3|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|1bc92d0c68c3|")`
@@ -15898,6 +16035,7 @@ Paris est la capitale de la République française. C'est également la ville la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_138
+<span hidden data-civi-question="0fff323add164c07" data-kind="bilan" data-screen="BIL_ITEM_CSP_138"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|74bf6d634336|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|74bf6d634336|")`
@@ -15969,6 +16107,7 @@ La France métropolitaine est située en Europe occidentale.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_139
+<span hidden data-civi-question="9c0b2d4d0e7cf849" data-kind="bilan" data-screen="BIL_ITEM_CSP_139"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8ed5a41ff9f2|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|8ed5a41ff9f2|")`
@@ -16040,6 +16179,7 @@ La Réunion est un département et une région d'outre-mer français situé dans
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_140
+<span hidden data-civi-question="26459b0e3c963509" data-kind="bilan" data-screen="BIL_ITEM_CSP_140"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3f81a426da9c|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|3f81a426da9c|")`
@@ -16111,6 +16251,7 @@ Depuis la réforme territoriale de 2016, la France métropolitaine compte 13 ré
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_141
+<span hidden data-civi-question="c1935f3f3a5e270a" data-kind="bilan" data-screen="BIL_ITEM_CSP_141"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|267faa50581b|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|267faa50581b|")`
@@ -16182,6 +16323,7 @@ La France possède plusieurs grands ports maritimes qui jouent un rôle essentie
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_142
+<span hidden data-civi-question="dfe23c0ad153f684" data-kind="bilan" data-screen="BIL_ITEM_CSP_142"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|00daa954943e|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|00daa954943e|")`
@@ -16253,6 +16395,7 @@ Le sud de la France métropolitaine est bordé par la mer Méditerranée.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_143
+<span hidden data-civi-question="a039050b61ca7c52" data-kind="bilan" data-screen="BIL_ITEM_CSP_143"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|70709205b909|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|70709205b909|")`
@@ -16324,6 +16467,7 @@ Marseille est la plus grande ville française située sur la côte méditerrané
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_144
+<span hidden data-civi-question="1c23c73bae493282" data-kind="bilan" data-screen="BIL_ITEM_CSP_144"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|45059d785d34|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|45059d785d34|")`
@@ -16395,6 +16539,7 @@ La Corse est une île française située en mer Méditerranée, au sud-est de la
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_145
+<span hidden data-civi-question="abfc24bb34bff503" data-kind="bilan" data-screen="BIL_ITEM_CSP_145"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8627a8dcfa23|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|8627a8dcfa23|")`
@@ -16466,6 +16611,7 @@ Les Alpes forment une frontière naturelle entre la France et l'Italie. Elles ab
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_146
+<span hidden data-civi-question="9feb52d108a953c6" data-kind="bilan" data-screen="BIL_ITEM_CSP_146"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8d0b836b8153|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|8d0b836b8153|")`
@@ -16537,6 +16683,7 @@ Molière (1622-1673) est considéré comme l'un des plus grands auteurs du thé�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_147
+<span hidden data-civi-question="9d61866a203b0b30" data-kind="bilan" data-screen="BIL_ITEM_CSP_147"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|817c9a3392f5|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|817c9a3392f5|")`
@@ -16608,6 +16755,7 @@ Charles Baudelaire (1821-1867) est l'un des plus célèbres poètes français. S
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_148
+<span hidden data-civi-question="b3128f744f1064a9" data-kind="bilan" data-screen="BIL_ITEM_CSP_148"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c68b399dbe7c|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|c68b399dbe7c|")`
@@ -16679,6 +16827,7 @@ George Sand (1804-1876) est une célèbre écrivaine française, connue pour ses
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_149
+<span hidden data-civi-question="e9d378789a18c13e" data-kind="bilan" data-screen="BIL_ITEM_CSP_149"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|bab3a6d8d771|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|bab3a6d8d771|")`
@@ -16750,6 +16899,7 @@ Simone de Beauvoir (1908-1986) est une écrivaine et philosophe française. Son 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_150
+<span hidden data-civi-question="e841965422c8267c" data-kind="bilan" data-screen="BIL_ITEM_CSP_150"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ecf0cc23a7e4|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ecf0cc23a7e4|")`
@@ -16821,6 +16971,7 @@ Albert Camus (1913-1960) est un écrivain et philosophe français. Il reçoit le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_151
+<span hidden data-civi-question="ebdec005e06056b2" data-kind="bilan" data-screen="BIL_ITEM_CSP_151"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|368f73d5a90d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|368f73d5a90d|")`
@@ -16892,6 +17043,7 @@ Paul Cézanne (1839-1906) est un peintre français majeur. Son œuvre a profond�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_152
+<span hidden data-civi-question="9bc1494bc57312e3" data-kind="bilan" data-screen="BIL_ITEM_CSP_152"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|525587e1de7d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|525587e1de7d|")`
@@ -16963,6 +17115,7 @@ Marc Chagall (1887-1985) est un peintre français du XXᵉ siècle, reconnu pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_153
+<span hidden data-civi-question="9d421bf474fdfc4c" data-kind="bilan" data-screen="BIL_ITEM_CSP_153"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cf5812dcc08b|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|cf5812dcc08b|")`
@@ -17034,6 +17187,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_154
+<span hidden data-civi-question="2781b69b16940aa7" data-kind="bilan" data-screen="BIL_ITEM_CSP_154"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e923d87b4d96|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e923d87b4d96|")`
@@ -17105,6 +17259,7 @@ Joséphine Baker (1906-1975) était une chanteuse, danseuse et actrice. Elle s'e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_155
+<span hidden data-civi-question="fbd554c632f6e5e7" data-kind="bilan" data-screen="BIL_ITEM_CSP_155"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|92d5bc9ae6e9|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|92d5bc9ae6e9|")`
@@ -17176,6 +17331,7 @@ Le Louvre est l'un des musées les plus célèbres du monde. Il abrite de nombre
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_156
+<span hidden data-civi-question="93667fa7edfb818f" data-kind="bilan" data-screen="BIL_ITEM_CSP_156"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2c4c01eb860e|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|2c4c01eb860e|")`
@@ -17247,6 +17403,7 @@ Jean de La Fontaine (1621-1695) est un écrivain et poète français. Ses fables
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_157
+<span hidden data-civi-question="cdcb04174adbf7ce" data-kind="bilan" data-screen="BIL_ITEM_CSP_157"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|63fab846449a|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|63fab846449a|")`
@@ -17318,6 +17475,7 @@ Victor Hugo est un grand écrivain français du XIXᵉ siècle, notamment auteur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_158
+<span hidden data-civi-question="665252c4884c88b4" data-kind="bilan" data-screen="BIL_ITEM_CSP_158"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2a080ebc85c3|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|2a080ebc85c3|")`
@@ -17389,6 +17547,7 @@ La tour Eiffel se trouve à Paris. Elle a été construite pour l'Exposition uni
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_159
+<span hidden data-civi-question="c033d4883c9c2931" data-kind="bilan" data-screen="BIL_ITEM_CSP_159"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0798be9af067|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|0798be9af067|")`
@@ -17460,6 +17619,7 @@ Noël est célébré chaque année le 25 décembre. En France, cette date est un
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_160
+<span hidden data-civi-question="fbc3258b618724b7" data-kind="bilan" data-screen="BIL_ITEM_CSP_160"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|333e81b07f6c|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|333e81b07f6c|")`
@@ -17531,6 +17691,7 @@ Le 15 permet de joindre le SAMU (Service d'aide médicale urgente).
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_161
+<span hidden data-civi-question="9c1967af9b2677ec" data-kind="bilan" data-screen="BIL_ITEM_CSP_161"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0d135c8a7396|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|0d135c8a7396|")`
@@ -17602,6 +17763,7 @@ Le 18 permet de joindre les sapeurs-pompiers en cas d'incendie, d'accident ou de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_162
+<span hidden data-civi-question="d6580ee8e89811b8" data-kind="bilan" data-screen="BIL_ITEM_CSP_162"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|34ce32252a66|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|34ce32252a66|")`
@@ -17673,6 +17835,7 @@ L'assurance automobile est obligatoire pour circuler avec un véhicule à moteur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_163
+<span hidden data-civi-question="4d01f1d8469c34cb" data-kind="bilan" data-screen="BIL_ITEM_CSP_163"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0934de38a5ff|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|0934de38a5ff|")`
@@ -17744,6 +17907,7 @@ En France, seul le mariage civil célébré à la mairie par un officier d'état
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_164
+<span hidden data-civi-question="c97fb45d7911f57b" data-kind="bilan" data-screen="BIL_ITEM_CSP_164"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7334d8de6939|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|7334d8de6939|")`
@@ -17815,6 +17979,7 @@ La naissance d'un enfant doit être déclarée à la mairie dans les cinq jours 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_165
+<span hidden data-civi-question="4a06e20eac4722ad" data-kind="bilan" data-screen="BIL_ITEM_CSP_165"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c0526c1d1673|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|c0526c1d1673|")`
@@ -17886,6 +18051,7 @@ Le travail non déclaré est interdit. Il prive notamment le salarié de ses dro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_166
+<span hidden data-civi-question="befe02b450995aeb" data-kind="bilan" data-screen="BIL_ITEM_CSP_166"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0db5be263e9d|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|0db5be263e9d|")`
@@ -17957,6 +18123,7 @@ En France, un employeur ne peut pas fixer un salaire inférieur au salaire minim
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_167
+<span hidden data-civi-question="c8149212a81c5ed3" data-kind="bilan" data-screen="BIL_ITEM_CSP_167"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ee9fe3b4dd42|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ee9fe3b4dd42|")`
@@ -18028,6 +18195,7 @@ Le SMIC est le salaire minimum qu'un employeur doit verser à un salarié, sauf 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_168
+<span hidden data-civi-question="48cb3a1ed1c5e04b" data-kind="bilan" data-screen="BIL_ITEM_CSP_168"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e72166d07285|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e72166d07285|")`
@@ -18099,6 +18267,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi et propose 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_169
+<span hidden data-civi-question="27c95287d688b0a4" data-kind="bilan" data-screen="BIL_ITEM_CSP_169"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1a508a731333|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|1a508a731333|")`
@@ -18170,6 +18339,7 @@ En France, la durée légale du travail est fixée à 35 heures par semaine pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_170
+<span hidden data-civi-question="8930ad11e60b2fe1" data-kind="bilan" data-screen="BIL_ITEM_CSP_170"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9b09b271bb36|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|9b09b271bb36|")`
@@ -18241,6 +18411,7 @@ France Travail accompagne les personnes dans leur recherche d'emploi, leur recon
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_171
+<span hidden data-civi-question="f581a06d866a6533" data-kind="bilan" data-screen="BIL_ITEM_CSP_171"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e22718f41eff|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|e22718f41eff|")`
@@ -18312,6 +18483,7 @@ En France, une personne étrangère en situation régulière peut créer une ent
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_172
+<span hidden data-civi-question="99189f817f3f7127" data-kind="bilan" data-screen="BIL_ITEM_CSP_172"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8f6d4be99060|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|8f6d4be99060|")`
@@ -18383,6 +18555,7 @@ En France, les femmes et les hommes disposent des mêmes droits pour créer une 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_173
+<span hidden data-civi-question="408eb9e76c7b86b1" data-kind="bilan" data-screen="BIL_ITEM_CSP_173"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9e75cb4e21a0|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|9e75cb4e21a0|")`
@@ -18454,6 +18627,7 @@ En règle générale, un mineur peut travailler à partir de 16 ans. Certaines e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_174
+<span hidden data-civi-question="a433b0b961e84a0b" data-kind="bilan" data-screen="BIL_ITEM_CSP_174"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d79f17be5324|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|d79f17be5324|")`
@@ -18525,6 +18699,7 @@ L'Assurance Maladie rembourse une partie des dépenses de santé. Selon le contr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_175
+<span hidden data-civi-question="24e2c6b1aeed2a12" data-kind="bilan" data-screen="BIL_ITEM_CSP_175"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|234c9161717c|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|234c9161717c|")`
@@ -18596,6 +18771,7 @@ Les principaux numéros d'urgence en France sont le 15 (SAMU), le 17 (Police), l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_176
+<span hidden data-civi-question="f3dc9f38e25ea9ed" data-kind="bilan" data-screen="BIL_ITEM_CSP_176"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cfa37ef3f445|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|cfa37ef3f445|")`
@@ -18667,6 +18843,7 @@ En France, l'accès aux soins est organisé pour permettre à chacun d'être soi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_177
+<span hidden data-civi-question="89198e65f3299429" data-kind="bilan" data-screen="BIL_ITEM_CSP_177"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9ba011dee412|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|9ba011dee412|")`
@@ -18738,6 +18915,7 @@ Le médecin traitant est l'interlocuteur privilégié pour assurer le suivi méd
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_178
+<span hidden data-civi-question="29d5f3bcefd0a32d" data-kind="bilan" data-screen="BIL_ITEM_CSP_178"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3ba567595446|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|3ba567595446|")`
@@ -18809,6 +18987,7 @@ Le médecin traitant connaît le dossier médical de son patient et coordonne so
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_179
+<span hidden data-civi-question="423db1e10715db86" data-kind="bilan" data-screen="BIL_ITEM_CSP_179"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|108812f6b6a1|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|108812f6b6a1|")`
@@ -18880,6 +19059,7 @@ Les services d'urgence sont destinés à prendre en charge les situations graves
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_180
+<span hidden data-civi-question="47fef756715e494e" data-kind="bilan" data-screen="BIL_ITEM_CSP_180"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ea43bc553eec|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ea43bc553eec|")`
@@ -18951,6 +19131,7 @@ Les vaccinations obligatoires protègent contre certaines maladies infectieuses 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_181
+<span hidden data-civi-question="02f2d03698e8b62f" data-kind="bilan" data-screen="BIL_ITEM_CSP_181"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fc486e7874c2|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|fc486e7874c2|")`
@@ -19022,6 +19203,7 @@ La carte Vitale contient les informations nécessaires à l'Assurance Maladie po
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_182
+<span hidden data-civi-question="1dedb40af5b63580" data-kind="bilan" data-screen="BIL_ITEM_CSP_182"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2fe8af7f2156|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|2fe8af7f2156|")`
@@ -19093,6 +19275,7 @@ La mutuelle santé, aussi appelée complémentaire santé, rembourse tout ou par
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_183
+<span hidden data-civi-question="9f48f521e22858b4" data-kind="bilan" data-screen="BIL_ITEM_CSP_183"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3c207d455bd1|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|3c207d455bd1|")`
@@ -19164,6 +19347,7 @@ En France, l'instruction est obligatoire de 3 à 16 ans.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_184
+<span hidden data-civi-question="9ca70e3be622e9ab" data-kind="bilan" data-screen="BIL_ITEM_CSP_184"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8143c5c28887|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|8143c5c28887|")`
@@ -19235,6 +19419,7 @@ L'autorité parentale regroupe les droits et les devoirs des parents dans l'int�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_185
+<span hidden data-civi-question="f655cf216d21200c" data-kind="bilan" data-screen="BIL_ITEM_CSP_185"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|068ad2cd1da7|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|068ad2cd1da7|")`
@@ -19306,6 +19491,7 @@ L'instruction est obligatoire pour tous les enfants, français ou étrangers, â
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_186
+<span hidden data-civi-question="7c4002901b57929b" data-kind="bilan" data-screen="BIL_ITEM_CSP_186"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ea35c8a1ed0b|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|ea35c8a1ed0b|")`
@@ -19377,6 +19563,7 @@ Le baccalauréat est le diplôme qui marque la fin des études au lycée et perm
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_187
+<span hidden data-civi-question="4c075d1caf93a871" data-kind="bilan" data-screen="BIL_ITEM_CSP_187"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|80e129403293|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|80e129403293|")`
@@ -19448,6 +19635,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_188
+<span hidden data-civi-question="2d3685c84603e810" data-kind="bilan" data-screen="BIL_ITEM_CSP_188"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|adf5d5a4b595|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|adf5d5a4b595|")`
@@ -19519,6 +19707,7 @@ L'inscription à l'école implique une fréquentation régulière. Les absences 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CSP_189
+<span hidden data-civi-question="f8b438a5d02b254b" data-kind="bilan" data-screen="BIL_ITEM_CSP_189"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|116c364d9f5b|")`
 `@bilSeen_CSP = calc(@bilSeen_CSP+"|116c364d9f5b|")`
@@ -20914,6 +21103,7 @@ Tous les enfants résidant en France ont droit à l'instruction. Des dispositifs
 `endif`
 
 ## BIL_ITEM_CR_001
+<span hidden data-civi-question="8ec94326bc84ad21" data-kind="bilan" data-screen="BIL_ITEM_CR_001"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3c576ea34840|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|3c576ea34840|")`
@@ -20985,6 +21175,7 @@ La participation citoyenne consiste à prendre part à la vie démocratique du p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_002
+<span hidden data-civi-question="7127b1cfafebee4d" data-kind="bilan" data-screen="BIL_ITEM_CR_002"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|29908e57d2b8|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|29908e57d2b8|")`
@@ -21056,6 +21247,7 @@ La liberté d'expression est une liberté fondamentale. Elle permet à chacun d'
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_003
+<span hidden data-civi-question="ea3a45c0ff812f73" data-kind="bilan" data-screen="BIL_ITEM_CR_003"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a8688dde45e6|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a8688dde45e6|")`
@@ -21127,6 +21319,7 @@ Le titre de séjour est un document officiel qui autorise une personne étrangè
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_004
+<span hidden data-civi-question="b168cfa6244519df" data-kind="bilan" data-screen="BIL_ITEM_CR_004"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|99131ee2b868|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|99131ee2b868|")`
@@ -21198,6 +21391,7 @@ La liberté de circulation permet à chacun de se déplacer librement, dans le r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_005
+<span hidden data-civi-question="551f9efef4a6efd1" data-kind="bilan" data-screen="BIL_ITEM_CR_005"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5998b374c638|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5998b374c638|")`
@@ -21269,6 +21463,7 @@ Le site officiel de la Présidence de la République présente les symboles de l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_006
+<span hidden data-civi-question="02b0e3c0bd79c582" data-kind="bilan" data-screen="BIL_ITEM_CR_006"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f4a913a883d3|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f4a913a883d3|")`
@@ -21340,6 +21535,7 @@ La Marseillaise est l'hymne national français. Chaque citoyen est invité à co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_007
+<span hidden data-civi-question="a51f4d7b2c3db00d" data-kind="bilan" data-screen="BIL_ITEM_CR_007"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|42b84941c764|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|42b84941c764|")`
@@ -21411,6 +21607,7 @@ Ces paroles ouvrent la Marseillaise, l'hymne national de la République françai
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_008
+<span hidden data-civi-question="3dadf86f7e4ffbfd" data-kind="bilan" data-screen="BIL_ITEM_CR_008"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0b9e1a2dca1c|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|0b9e1a2dca1c|")`
@@ -21482,6 +21679,7 @@ En France, chacun est libre de pratiquer une religion, d'en changer ou de ne pas
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_009
+<span hidden data-civi-question="026ab5da154c46c1" data-kind="bilan" data-screen="BIL_ITEM_CR_009"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|58131d719cec|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|58131d719cec|")`
@@ -21553,6 +21751,7 @@ La liberté religieuse est garantie en France. Chacun est libre de croire, de pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_010
+<span hidden data-civi-question="92e351fc692077db" data-kind="bilan" data-screen="BIL_ITEM_CR_010"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a3db7e07b006|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a3db7e07b006|")`
@@ -21624,6 +21823,7 @@ Les cours de sport font partie des enseignements obligatoires. La mixité entre 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_011
+<span hidden data-civi-question="07a4ba74dd0f42e1" data-kind="bilan" data-screen="BIL_ITEM_CR_011"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|63cdce2920d1|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|63cdce2920d1|")`
@@ -21695,6 +21895,7 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_012
+<span hidden data-civi-question="34f9efed585aeb22" data-kind="bilan" data-screen="BIL_ITEM_CR_012"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|75944e949199|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|75944e949199|")`
@@ -21766,6 +21967,7 @@ En France, les femmes et les hommes disposent des mêmes droits. La répudiation
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_013
+<span hidden data-civi-question="ddecaa7a326293a9" data-kind="bilan" data-screen="BIL_ITEM_CR_013"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fb0baabc2bf5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|fb0baabc2bf5|")`
@@ -21837,6 +22039,7 @@ Les impôts servent à financer les écoles, les hôpitaux, les routes, la sécu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_014
+<span hidden data-civi-question="4ca6cd0ae93d06b8" data-kind="bilan" data-screen="BIL_ITEM_CR_014"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c696ca0a2ff4|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c696ca0a2ff4|")`
@@ -21908,6 +22111,7 @@ Le drapeau français est un symbole de la République. Les atteintes publiques �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_015
+<span hidden data-civi-question="3cd83fab7fbadead" data-kind="bilan" data-screen="BIL_ITEM_CR_015"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|58f26e5650b5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|58f26e5650b5|")`
@@ -21979,6 +22183,7 @@ La loi protège chaque personne contre les discriminations fondées notamment su
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_016
+<span hidden data-civi-question="2fe4524a7ec9419c" data-kind="bilan" data-screen="BIL_ITEM_CR_016"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2114588a9bce|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|2114588a9bce|")`
@@ -22050,6 +22255,7 @@ Marianne est la représentation symbolique de la République française. Son bus
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_017
+<span hidden data-civi-question="0a79dbfd38d22880" data-kind="bilan" data-screen="BIL_ITEM_CR_017"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|629d67baa632|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|629d67baa632|")`
@@ -22121,6 +22327,7 @@ La liberté d'association est une liberté fondamentale. Elle permet à chacun d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_018
+<span hidden data-civi-question="3aa51ff36f778ebd" data-kind="bilan" data-screen="BIL_ITEM_CR_018"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|70c899799e87|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|70c899799e87|")`
@@ -22192,6 +22399,7 @@ En France, la liberté est un droit fondamental. Elle s'exerce dans le respect d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_019
+<span hidden data-civi-question="3aef9bc38555d0ac" data-kind="bilan" data-screen="BIL_ITEM_CR_019"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8d3f5f296e64|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|8d3f5f296e64|")`
@@ -22263,6 +22471,7 @@ La Marseillaise est l'hymne national de la République française. Elle fait par
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_020
+<span hidden data-civi-question="0dfaf7b46b9d3c6e" data-kind="bilan" data-screen="BIL_ITEM_CR_020"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dc2b1ef8a246|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|dc2b1ef8a246|")`
@@ -22334,6 +22543,7 @@ Marianne est le symbole de la République française. Son portrait figure notamm
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_021
+<span hidden data-civi-question="f0e5bc1d216c30c8" data-kind="bilan" data-screen="BIL_ITEM_CR_021"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e9822085039c|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e9822085039c|")`
@@ -22405,6 +22615,7 @@ En France, une personne ne peut pas être discriminée lors d'un recrutement en 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_022
+<span hidden data-civi-question="6ed6a69868054df4" data-kind="bilan" data-screen="BIL_ITEM_CR_022"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1c3bf5bd051a|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|1c3bf5bd051a|")`
@@ -22476,6 +22687,7 @@ L'égalité est l'un des principes fondamentaux de la République. Elle garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_023
+<span hidden data-civi-question="6040ae2e8a5db95b" data-kind="bilan" data-screen="BIL_ITEM_CR_023"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d83449dbec98|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d83449dbec98|")`
@@ -22547,6 +22759,7 @@ L'article 2 de la Constitution dispose que « La langue de la République est le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_024
+<span hidden data-civi-question="787688213b8e05f7" data-kind="bilan" data-screen="BIL_ITEM_CR_024"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|03109a3971d5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|03109a3971d5|")`
@@ -22618,6 +22831,7 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_025
+<span hidden data-civi-question="27cbd357c91b8c39" data-kind="bilan" data-screen="BIL_ITEM_CR_025"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ecefe3c05e61|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|ecefe3c05e61|")`
@@ -22689,6 +22903,7 @@ En France, chacun doit être respecté, quelles que soient son origine, son sexe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_026
+<span hidden data-civi-question="b4a833ba9b715a63" data-kind="bilan" data-screen="BIL_ITEM_CR_026"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0fb3986006ec|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|0fb3986006ec|")`
@@ -22760,6 +22975,7 @@ L'école publique est un lieu où tous les élèves sont accueillis sans distinc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_027
+<span hidden data-civi-question="9f129763c0c00228" data-kind="bilan" data-screen="BIL_ITEM_CR_027"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b7288365ae3c|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|b7288365ae3c|")`
@@ -22831,6 +23047,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle constitu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_028
+<span hidden data-civi-question="87741faf8ad6622b" data-kind="bilan" data-screen="BIL_ITEM_CR_028"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a5c42db1b768|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a5c42db1b768|")`
@@ -22902,6 +23119,7 @@ En France, chacun est libre de croire, de ne pas croire ou de changer de religio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_029
+<span hidden data-civi-question="135f977699625a7b" data-kind="bilan" data-screen="BIL_ITEM_CR_029"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|775c6db33a3b|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|775c6db33a3b|")`
@@ -22973,6 +23191,7 @@ La laïcité garantit à chacun la liberté de conscience et assure l'égalité 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_030
+<span hidden data-civi-question="2e07465fbc752192" data-kind="bilan" data-screen="BIL_ITEM_CR_030"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cca274776b6e|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|cca274776b6e|")`
@@ -23044,6 +23263,7 @@ Dans les écoles, collèges et lycées publics, la loi de 2004 interdit aux él�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_031
+<span hidden data-civi-question="fa5e8f2fc776938e" data-kind="bilan" data-screen="BIL_ITEM_CR_031"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7b95d5a5283d|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|7b95d5a5283d|")`
@@ -23115,6 +23335,7 @@ La neutralité de l'État garantit que les services publics traitent toutes les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_032
+<span hidden data-civi-question="dc4dff9e095010fa" data-kind="bilan" data-screen="BIL_ITEM_CR_032"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c52b1e31ed50|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c52b1e31ed50|")`
@@ -23186,6 +23407,7 @@ Les usagers des services publics bénéficient d'un égal accès au service publ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_033
+<span hidden data-civi-question="af0668cc9fef9f49" data-kind="bilan" data-screen="BIL_ITEM_CR_033"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a909762b99c0|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a909762b99c0|")`
@@ -23257,6 +23479,7 @@ Les agents publics exercent leurs fonctions dans le respect du principe de neutr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_034
+<span hidden data-civi-question="1ceba8bb54a04743" data-kind="bilan" data-screen="BIL_ITEM_CR_034"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2aeb951f1a44|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|2aeb951f1a44|")`
@@ -23328,6 +23551,7 @@ Les agents publics doivent assurer leurs missions avec neutralité afin de garan
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_035
+<span hidden data-civi-question="f886ed3d8fc36f1f" data-kind="bilan" data-screen="BIL_ITEM_CR_035"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c9ac907e5122|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c9ac907e5122|")`
@@ -23399,6 +23623,7 @@ La laïcité protège la liberté de conscience de chacun et garantit que toutes
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_036
+<span hidden data-civi-question="28ec153e53da343f" data-kind="bilan" data-screen="BIL_ITEM_CR_036"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1d07e1cb5e28|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|1d07e1cb5e28|")`
@@ -23470,6 +23695,7 @@ En France, chacun est libre de choisir sa religion, d'en changer ou de ne pas en
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_037
+<span hidden data-civi-question="faffb387d07f4533" data-kind="bilan" data-screen="BIL_ITEM_CR_037"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|edafe6d61391|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|edafe6d61391|")`
@@ -23541,6 +23767,7 @@ La laïcité repose sur la séparation des Églises et de l'État, instaurée pa
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_038
+<span hidden data-civi-question="da71c9d077439cea" data-kind="bilan" data-screen="BIL_ITEM_CR_038"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8835b9429412|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|8835b9429412|")`
@@ -23612,6 +23839,7 @@ La Charte de la laïcité à l'école interdit le prosélytisme et les pressions
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_039
+<span hidden data-civi-question="56c8b038c74625ca" data-kind="bilan" data-screen="BIL_ITEM_CR_039"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|181840e63e4d|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|181840e63e4d|")`
@@ -23683,6 +23911,7 @@ L'article 1er de la Constitution définit les principes fondamentaux de la Répu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_040
+<span hidden data-civi-question="89afbdfb468a86b1" data-kind="bilan" data-screen="BIL_ITEM_CR_040"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|94aab202857a|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|94aab202857a|")`
@@ -23754,6 +23983,7 @@ L'État de droit garantit que toutes les personnes, y compris les autorités pub
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_041
+<span hidden data-civi-question="732a529b9015bebb" data-kind="bilan" data-screen="BIL_ITEM_CR_041"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d39cf38799b0|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d39cf38799b0|")`
@@ -23825,6 +24055,7 @@ Le président de la République n'est pas au-dessus des lois. Toutefois, pendant
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_042
+<span hidden data-civi-question="f29a2cef1112d77a" data-kind="bilan" data-screen="BIL_ITEM_CR_042"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4ecdbce7abff|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|4ecdbce7abff|")`
@@ -23896,6 +24127,7 @@ La Déclaration des droits de l'homme et du citoyen de 1789 affirme que « La lo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_043
+<span hidden data-civi-question="bdd6b7fb7e06ef03" data-kind="bilan" data-screen="BIL_ITEM_CR_043"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c453f2372a1a|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c453f2372a1a|")`
@@ -23967,6 +24199,7 @@ Les conseillers municipaux sont élus pour six ans. Le maire est ensuite élu pa
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_044
+<span hidden data-civi-question="3c67949679022396" data-kind="bilan" data-screen="BIL_ITEM_CR_044"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ee6e0094871d|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|ee6e0094871d|")`
@@ -24038,6 +24271,7 @@ Dans un État de droit, les lois protègent les libertés et les droits fondamen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_045
+<span hidden data-civi-question="1b86ca64e7e77f46" data-kind="bilan" data-screen="BIL_ITEM_CR_045"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4c279e4bc2d8|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|4c279e4bc2d8|")`
@@ -24109,6 +24343,7 @@ Le vote est personnel. Lorsqu'un électeur ne peut pas se déplacer, il peut don
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_046
+<span hidden data-civi-question="0bc88f22083cf343" data-kind="bilan" data-screen="BIL_ITEM_CR_046"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f301363b4e9f|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f301363b4e9f|")`
@@ -24180,6 +24415,7 @@ En France, le vote est un droit civique. Il est libre : chacun peut choisir de v
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_047
+<span hidden data-civi-question="425568421e933034" data-kind="bilan" data-screen="BIL_ITEM_CR_047"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e6eaeea7d3e5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e6eaeea7d3e5|")`
@@ -24251,6 +24487,7 @@ Le mandat présidentiel est limité dans le temps. En démocratie, le renouvelle
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_048
+<span hidden data-civi-question="721bb101f378adfe" data-kind="bilan" data-screen="BIL_ITEM_CR_048"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d2ad9fa79458|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d2ad9fa79458|")`
@@ -24322,6 +24559,7 @@ Selon la Constitution, le Premier ministre dirige l'action du gouvernement et ve
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_049
+<span hidden data-civi-question="6e8ba2156611b8ad" data-kind="bilan" data-screen="BIL_ITEM_CR_049"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a62700570f06|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a62700570f06|")`
@@ -24393,6 +24631,7 @@ Le président de la République nomme le Premier ministre. Celui-ci dirige ensui
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_050
+<span hidden data-civi-question="66789435f403277b" data-kind="bilan" data-screen="BIL_ITEM_CR_050"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4095c96e45ae|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|4095c96e45ae|")`
@@ -24464,6 +24703,7 @@ Le territoire français est organisé en plusieurs collectivités territoriales.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_051
+<span hidden data-civi-question="572117ddeb0a7ab8" data-kind="bilan" data-screen="BIL_ITEM_CR_051"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a9766c425e0a|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a9766c425e0a|")`
@@ -24535,6 +24775,7 @@ Le pouvoir législatif est exercé par le Parlement. Il consiste à débattre, m
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_052
+<span hidden data-civi-question="0501207626140b02" data-kind="bilan" data-screen="BIL_ITEM_CR_052"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|25fa2463ee01|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|25fa2463ee01|")`
@@ -24606,6 +24847,7 @@ La démocratie repose sur la séparation des pouvoirs exécutif, législatif et 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_053
+<span hidden data-civi-question="e439f7410354c795" data-kind="bilan" data-screen="BIL_ITEM_CR_053"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7d159e7c7a2f|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|7d159e7c7a2f|")`
@@ -24677,6 +24919,7 @@ La police enquête sur les infractions, mais c'est le juge qui décide de la san
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_054
+<span hidden data-civi-question="013f9aedbc854550" data-kind="bilan" data-screen="BIL_ITEM_CR_054"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|71fc13511fd4|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|71fc13511fd4|")`
@@ -24748,6 +24991,7 @@ Le gouvernement met en œuvre les politiques publiques et veille à l'applicatio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_055
+<span hidden data-civi-question="5c70c44596892641" data-kind="bilan" data-screen="BIL_ITEM_CR_055"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ea977b640370|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|ea977b640370|")`
@@ -24819,6 +25063,7 @@ En France, les membres du gouvernement doivent respecter la loi. Ils ne sont pas
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_056
+<span hidden data-civi-question="34ea1692a355f612" data-kind="bilan" data-screen="BIL_ITEM_CR_056"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|05799183a61f|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|05799183a61f|")`
@@ -24890,6 +25135,7 @@ L'Assemblée nationale est composée de 577 députés élus au suffrage universe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_057
+<span hidden data-civi-question="f9ba41feca7b1362" data-kind="bilan" data-screen="BIL_ITEM_CR_057"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cdd9dbfabc89|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|cdd9dbfabc89|")`
@@ -24961,6 +25207,7 @@ Pour voter aux élections nationales en France, il faut être citoyen français,
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_058
+<span hidden data-civi-question="ef84f1aafcf6a388" data-kind="bilan" data-screen="BIL_ITEM_CR_058"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|78a1e4881134|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|78a1e4881134|")`
@@ -25032,6 +25279,7 @@ Les sénateurs sont élus pour un mandat de six ans. Le Sénat est renouvelé pa
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_059
+<span hidden data-civi-question="1fa990d41c91cd07" data-kind="bilan" data-screen="BIL_ITEM_CR_059"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a188826884d2|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a188826884d2|")`
@@ -25103,6 +25351,7 @@ La séparation des pouvoirs permet d'assurer un équilibre entre les institution
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_060
+<span hidden data-civi-question="668b4cb716a43534" data-kind="bilan" data-screen="BIL_ITEM_CR_060"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8e8dd3e7d856|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|8e8dd3e7d856|")`
@@ -25174,6 +25423,7 @@ La France est une démocratie fondée sur la séparation des pouvoirs. Le prési
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_061
+<span hidden data-civi-question="de9e3cea97037964" data-kind="bilan" data-screen="BIL_ITEM_CR_061"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6f188dbc3221|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|6f188dbc3221|")`
@@ -25245,6 +25495,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_062
+<span hidden data-civi-question="106bfa1e34c63d0c" data-kind="bilan" data-screen="BIL_ITEM_CR_062"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fdf25e462a87|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|fdf25e462a87|")`
@@ -25316,6 +25567,7 @@ Pour pouvoir voter, il faut remplir les conditions prévues par la loi, notammen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_063
+<span hidden data-civi-question="dbf18d131d60aa77" data-kind="bilan" data-screen="BIL_ITEM_CR_063"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|33560dc2499f|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|33560dc2499f|")`
@@ -25387,6 +25639,7 @@ Le maire est élu par le conseil municipal. Il dirige la commune et met en œuvr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_064
+<span hidden data-civi-question="94e57bd94f9585c4" data-kind="bilan" data-screen="BIL_ITEM_CR_064"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f716aac37a0a|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f716aac37a0a|")`
@@ -25458,6 +25711,7 @@ La France est une République indivisible, laïque, démocratique et sociale, co
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_065
+<span hidden data-civi-question="3ff03f96b18ec5ff" data-kind="bilan" data-screen="BIL_ITEM_CR_065"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|815dae0a34c1|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|815dae0a34c1|")`
@@ -25529,6 +25783,7 @@ L'Hôtel de Matignon est situé à Paris. C'est là que le Premier ministre exer
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_066
+<span hidden data-civi-question="fa856938d1380a9b" data-kind="bilan" data-screen="BIL_ITEM_CR_066"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2f0d9b52abc4|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|2f0d9b52abc4|")`
@@ -25600,6 +25855,7 @@ Le Parlement français est composé de deux chambres : l'Assemblée nationale et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_067
+<span hidden data-civi-question="c661b854fe720f39" data-kind="bilan" data-screen="BIL_ITEM_CR_067"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5ad2c30d04b5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5ad2c30d04b5|")`
@@ -25671,6 +25927,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_068
+<span hidden data-civi-question="2932d37c9d5c6a89" data-kind="bilan" data-screen="BIL_ITEM_CR_068"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a9548200381e|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a9548200381e|")`
@@ -25742,6 +25999,7 @@ Le Premier ministre coordonne le travail des ministres et veille à l'applicatio
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_069
+<span hidden data-civi-question="1d82d560d6eff6a5" data-kind="bilan" data-screen="BIL_ITEM_CR_069"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f3ac32627e04|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f3ac32627e04|")`
@@ -25813,6 +26071,7 @@ Le Premier ministre est le chef du gouvernement. Il dirige son action et coordon
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_070
+<span hidden data-civi-question="97e529cf513b4d30" data-kind="bilan" data-screen="BIL_ITEM_CR_070"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b2ca09f342c5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|b2ca09f342c5|")`
@@ -25884,6 +26143,7 @@ Depuis la réforme territoriale de 2016, la France compte 18 régions : 13 en m�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_071
+<span hidden data-civi-question="2629f09d44362005" data-kind="bilan" data-screen="BIL_ITEM_CR_071"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5574cfe8f8c5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5574cfe8f8c5|")`
@@ -25955,6 +26215,7 @@ Le Défenseur des droits est une autorité indépendante. Il aide les personnes 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_072
+<span hidden data-civi-question="e5f85d296a9c7155" data-kind="bilan" data-screen="BIL_ITEM_CR_072"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e768871b91ac|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e768871b91ac|")`
@@ -26026,6 +26287,7 @@ L'euro est utilisé sous forme de pièces et de billets depuis le 1er janvier 20
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_073
+<span hidden data-civi-question="4310073263298dc4" data-kind="bilan" data-screen="BIL_ITEM_CR_073"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7420376d58fb|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|7420376d58fb|")`
@@ -26097,6 +26359,7 @@ Le département intervient notamment dans les domaines de l'aide sociale, de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_074
+<span hidden data-civi-question="e1a95c5b949eda5e" data-kind="bilan" data-screen="BIL_ITEM_CR_074"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b0536f736643|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|b0536f736643|")`
@@ -26168,6 +26431,7 @@ La commune est la collectivité la plus proche des habitants. Elle gère de nomb
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_075
+<span hidden data-civi-question="279858d40857f48a" data-kind="bilan" data-screen="BIL_ITEM_CR_075"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5729a190b4c8|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5729a190b4c8|")`
@@ -26239,6 +26503,7 @@ La France compte environ 35 000 communes, ce qui en fait l'un des pays européen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_076
+<span hidden data-civi-question="76d79f4541910860" data-kind="bilan" data-screen="BIL_ITEM_CR_076"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e3e4e4c52bb9|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e3e4e4c52bb9|")`
@@ -26310,6 +26575,7 @@ Signé en 1992, le traité de Maastricht fonde officiellement l'Union européenn
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_077
+<span hidden data-civi-question="0c2d8d03f21ae35c" data-kind="bilan" data-screen="BIL_ITEM_CR_077"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d8b7adab5283|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d8b7adab5283|")`
@@ -26381,6 +26647,7 @@ Le Royaume-Uni a quitté officiellement l'Union européenne le 31 janvier 2020. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_078
+<span hidden data-civi-question="67f77ea41bd8c67d" data-kind="bilan" data-screen="BIL_ITEM_CR_078"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2bdfa251caa3|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|2bdfa251caa3|")`
@@ -26452,6 +26719,7 @@ La devise de l'Union européenne est « Unie dans la diversité ». Elle soulign
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_079
+<span hidden data-civi-question="7af22c7b1197f5f8" data-kind="bilan" data-screen="BIL_ITEM_CR_079"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4657713f0013|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|4657713f0013|")`
@@ -26523,6 +26791,7 @@ L'hymne européen est l'« Ode à la Joie », extraite de la Neuvième Symphonie
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_080
+<span hidden data-civi-question="72332b0ca484ea38" data-kind="bilan" data-screen="BIL_ITEM_CR_080"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c7264f6b635d|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c7264f6b635d|")`
@@ -26594,6 +26863,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_081
+<span hidden data-civi-question="c43966953be90552" data-kind="bilan" data-screen="BIL_ITEM_CR_081"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e54f4731dc76|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e54f4731dc76|")`
@@ -26665,6 +26935,7 @@ Le drapeau européen est bleu avec un cercle de douze étoiles jaunes.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_082
+<span hidden data-civi-question="a970f59b1e4217dd" data-kind="bilan" data-screen="BIL_ITEM_CR_082"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c6f7009e5cf7|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c6f7009e5cf7|")`
@@ -26736,6 +27007,7 @@ Le traité de Maastricht a été signé en 1992. Il marque la naissance de l'Uni
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_083
+<span hidden data-civi-question="4b06a7438dfc64d5" data-kind="bilan" data-screen="BIL_ITEM_CR_083"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a98deb473bdf|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a98deb473bdf|")`
@@ -26807,6 +27079,7 @@ Le Parlement européen siège principalement à Strasbourg. Certaines activités
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_084
+<span hidden data-civi-question="d3d80e6cd22f7e26" data-kind="bilan" data-screen="BIL_ITEM_CR_084"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2e71c4c32861|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|2e71c4c32861|")`
@@ -26878,6 +27151,7 @@ La Commission européenne siège à Bruxelles. Elle propose les lois européenne
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_085
+<span hidden data-civi-question="3246183ca10caa8d" data-kind="bilan" data-screen="BIL_ITEM_CR_085"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c04529ae3c1d|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c04529ae3c1d|")`
@@ -26949,6 +27223,7 @@ La Suisse n'est pas membre de l'Union européenne, même si elle entretient de n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_086
+<span hidden data-civi-question="19320836cc452b9f" data-kind="bilan" data-screen="BIL_ITEM_CR_086"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cbddf812194e|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|cbddf812194e|")`
@@ -27020,6 +27295,7 @@ La Journée de l'Europe est célébrée le 9 mai, en souvenir de la déclaration
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_087
+<span hidden data-civi-question="3b996a774bc550ad" data-kind="bilan" data-screen="BIL_ITEM_CR_087"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|74f81a7da3c0|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|74f81a7da3c0|")`
@@ -27091,6 +27367,7 @@ Les citoyens des États membres de l'Union européenne élisent leurs députés 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_088
+<span hidden data-civi-question="9822a336067ae719" data-kind="bilan" data-screen="BIL_ITEM_CR_088"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|075f752239ae|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|075f752239ae|")`
@@ -27162,6 +27439,7 @@ Pour voter aux élections européennes en France, il faut remplir les conditions
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_089
+<span hidden data-civi-question="386e92bed75b6407" data-kind="bilan" data-screen="BIL_ITEM_CR_089"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fb3adbc24593|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|fb3adbc24593|")`
@@ -27233,6 +27511,7 @@ Les six pays fondateurs de la construction européenne sont la France, l'Allemag
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_090
+<span hidden data-civi-question="e525660f18bb7ba7" data-kind="bilan" data-screen="BIL_ITEM_CR_090"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f5ec1834b0e8|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f5ec1834b0e8|")`
@@ -27304,6 +27583,7 @@ La procréation médicalement assistée (PMA) relève de la liberté individuell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_091
+<span hidden data-civi-question="f9e8016b9a5f8613" data-kind="bilan" data-screen="BIL_ITEM_CR_091"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|28865ef58006|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|28865ef58006|")`
@@ -27375,6 +27655,7 @@ Certaines libertés peuvent être limitées par la loi lorsque cela est nécessa
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_092
+<span hidden data-civi-question="dc0d707b6c985db9" data-kind="bilan" data-screen="BIL_ITEM_CR_092"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e0f0bd42cee5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e0f0bd42cee5|")`
@@ -27446,6 +27727,7 @@ En France, le mariage repose sur le libre consentement des deux époux. Chacun e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_093
+<span hidden data-civi-question="a74e04d615690b2f" data-kind="bilan" data-screen="BIL_ITEM_CR_093"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ff3f55b8bd09|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|ff3f55b8bd09|")`
@@ -27517,6 +27799,7 @@ En France, le divorce est autorisé par la loi. Les époux peuvent mettre fin à
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_094
+<span hidden data-civi-question="e32757b9749034cb" data-kind="bilan" data-screen="BIL_ITEM_CR_094"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|20b91ec446d3|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|20b91ec446d3|")`
@@ -27588,6 +27871,7 @@ La peine de mort a été abolie en France en 1981. Depuis 2007, son interdiction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_095
+<span hidden data-civi-question="a84d438e98c5dbeb" data-kind="bilan" data-screen="BIL_ITEM_CR_095"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5713d5184707|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5713d5184707|")`
@@ -27659,6 +27943,7 @@ L'article 1er de la Déclaration des droits de l'homme et du citoyen de 1789 aff
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_096
+<span hidden data-civi-question="d1c667fec882eff1" data-kind="bilan" data-screen="BIL_ITEM_CR_096"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d465715adc77|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d465715adc77|")`
@@ -27730,6 +28015,7 @@ En France, une femme peut recourir à l'interruption volontaire de grossesse (IV
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_097
+<span hidden data-civi-question="b047ee8ee94cd5cc" data-kind="bilan" data-screen="BIL_ITEM_CR_097"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fbc4796cb14a|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|fbc4796cb14a|")`
@@ -27801,6 +28087,7 @@ La Constitution est le texte juridique le plus important de la République fran�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_098
+<span hidden data-civi-question="cebc3da7a4a76bb6" data-kind="bilan" data-screen="BIL_ITEM_CR_098"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d27697dffb75|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d27697dffb75|")`
@@ -27872,6 +28159,7 @@ La liberté de la presse permet aux journalistes d'informer le public. Elle s'ex
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_099
+<span hidden data-civi-question="954f49695ca99086" data-kind="bilan" data-screen="BIL_ITEM_CR_099"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d753b24927c9|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d753b24927c9|")`
@@ -27943,6 +28231,7 @@ La Charte de l'environnement, intégrée à la Constitution, rappelle que chacun
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_100
+<span hidden data-civi-question="7e4c4bd1f91edc4d" data-kind="bilan" data-screen="BIL_ITEM_CR_100"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|58c6508e2b7e|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|58c6508e2b7e|")`
@@ -28014,6 +28303,7 @@ La dignité humaine est un principe fondamental de la République française. Ch
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_101
+<span hidden data-civi-question="c878c620a579d965" data-kind="bilan" data-screen="BIL_ITEM_CR_101"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f1bb6fe19fdc|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f1bb6fe19fdc|")`
@@ -28085,6 +28375,7 @@ Le droit de manifester est une liberté fondamentale. Il s'exerce dans le respec
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_102
+<span hidden data-civi-question="358c055b7f8cad4e" data-kind="bilan" data-screen="BIL_ITEM_CR_102"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0c1544bd45de|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|0c1544bd45de|")`
@@ -28156,6 +28447,7 @@ La PMA signifie « Procréation Médicalement Assistée ». Elle regroupe les te
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_103
+<span hidden data-civi-question="d1e117f9699af34a" data-kind="bilan" data-screen="BIL_ITEM_CR_103"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a29717f03c41|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a29717f03c41|")`
@@ -28227,6 +28519,7 @@ La Constitution est la norme juridique suprême en France. Sa modification néce
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_104
+<span hidden data-civi-question="82688c5cd7a369e3" data-kind="bilan" data-screen="BIL_ITEM_CR_104"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a4db58b1ea2f|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a4db58b1ea2f|")`
@@ -28298,6 +28591,7 @@ La liberté de conscience garantit à chacun le droit de choisir ses convictions
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_105
+<span hidden data-civi-question="6669895e34e2eeb3" data-kind="bilan" data-screen="BIL_ITEM_CR_105"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e8f54996fc35|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e8f54996fc35|")`
@@ -28369,6 +28663,7 @@ Le droit de grève est une liberté reconnue par la Constitution. Il permet aux 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_106
+<span hidden data-civi-question="5364579fec48edbf" data-kind="bilan" data-screen="BIL_ITEM_CR_106"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|074428d15b9f|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|074428d15b9f|")`
@@ -28440,6 +28735,7 @@ La Constitution est la norme juridique la plus importante en France. Elle défin
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_107
+<span hidden data-civi-question="c82f8d39b9f0e284" data-kind="bilan" data-screen="BIL_ITEM_CR_107"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3aae19254429|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|3aae19254429|")`
@@ -28511,6 +28807,7 @@ En France, une femme enceinte peut demander une interruption volontaire de gross
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_108
+<span hidden data-civi-question="0030fade9edd3212" data-kind="bilan" data-screen="BIL_ITEM_CR_108"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|380973116413|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|380973116413|")`
@@ -28582,6 +28879,7 @@ Depuis 1944, les femmes disposent du droit de vote en France. Elles peuvent part
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_109
+<span hidden data-civi-question="567478d7619e22ba" data-kind="bilan" data-screen="BIL_ITEM_CR_109"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d3869d961a3b|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d3869d961a3b|")`
@@ -28653,6 +28951,7 @@ Les réseaux sociaux ne sont pas une zone de non-droit. Les propos injurieux, di
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_110
+<span hidden data-civi-question="fea3cfa2157e279c" data-kind="bilan" data-screen="BIL_ITEM_CR_110"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b12811801c31|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|b12811801c31|")`
@@ -28724,6 +29023,7 @@ Jeter un mégot sur la voie publique est interdit. Ce geste pollue l'environneme
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_111
+<span hidden data-civi-question="3b257abcc8f04253" data-kind="bilan" data-screen="BIL_ITEM_CR_111"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e8d674090631|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e8d674090631|")`
@@ -28795,6 +29095,7 @@ Les libertés sont fondamentales, mais elles peuvent être limitées lorsque cel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_112
+<span hidden data-civi-question="2dcbbdba2ae1d230" data-kind="bilan" data-screen="BIL_ITEM_CR_112"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|596fa26fb944|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|596fa26fb944|")`
@@ -28866,6 +29167,7 @@ Le tri des déchets permet de recycler de nombreux matériaux et de limiter les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_113
+<span hidden data-civi-question="1197102a7368fbfe" data-kind="bilan" data-screen="BIL_ITEM_CR_113"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cbca09cfe836|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|cbca09cfe836|")`
@@ -28937,6 +29239,7 @@ Toutes les personnes présentes en France doivent respecter les lois. En revanch
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_114
+<span hidden data-civi-question="4e31c3940c9f19a2" data-kind="bilan" data-screen="BIL_ITEM_CR_114"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|09a04394a362|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|09a04394a362|")`
@@ -29008,6 +29311,7 @@ La liberté d'expression est un droit fondamental, mais elle ne permet pas d'ins
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_115
+<span hidden data-civi-question="74cbc1d81b417bd1" data-kind="bilan" data-screen="BIL_ITEM_CR_115"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d473465d38fa|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d473465d38fa|")`
@@ -29079,6 +29383,7 @@ Le tri permet de recycler de nombreux matériaux, de limiter les déchets et de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_116
+<span hidden data-civi-question="4455dec10b883cbb" data-kind="bilan" data-screen="BIL_ITEM_CR_116"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c72365c679ec|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c72365c679ec|")`
@@ -29150,6 +29455,7 @@ Une victime de violences ne doit pas rester seule. Elle peut contacter les force
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_117
+<span hidden data-civi-question="5359313f787c068d" data-kind="bilan" data-screen="BIL_ITEM_CR_117"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b2381436aec9|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|b2381436aec9|")`
@@ -29221,6 +29527,7 @@ Les policiers et les gendarmes exercent leurs missions dans le cadre de la loi. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_118
+<span hidden data-civi-question="1bc4bd16067384fd" data-kind="bilan" data-screen="BIL_ITEM_CR_118"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|539bd470f38e|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|539bd470f38e|")`
@@ -29292,6 +29599,7 @@ La police assure la sécurité des personnes et des biens, fait respecter la loi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_119
+<span hidden data-civi-question="9ffd75d381eb9359" data-kind="bilan" data-screen="BIL_ITEM_CR_119"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|44b81f5f76da|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|44b81f5f76da|")`
@@ -29363,6 +29671,7 @@ En France, porter assistance à une personne en danger est une obligation prévu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_120
+<span hidden data-civi-question="717c8f4b44e9ec02" data-kind="bilan" data-screen="BIL_ITEM_CR_120"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f64406fa8349|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f64406fa8349|")`
@@ -29434,6 +29743,7 @@ Certaines libertés peuvent être limitées pour protéger l'intérêt général
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_121
+<span hidden data-civi-question="46313866767b5c84" data-kind="bilan" data-screen="BIL_ITEM_CR_121"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dab587276469|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|dab587276469|")`
@@ -29505,6 +29815,7 @@ Face à des violences, il est important d'agir en alertant les secours ou les fo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_122
+<span hidden data-civi-question="f53c221d3dca3d2e" data-kind="bilan" data-screen="BIL_ITEM_CR_122"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|04eb7aa63a1b|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|04eb7aa63a1b|")`
@@ -29576,6 +29887,7 @@ En droit français, les infractions sont classées en trois catégories : la con
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_123
+<span hidden data-civi-question="0d361e42a898d372" data-kind="bilan" data-screen="BIL_ITEM_CR_123"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4540da6ef54d|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|4540da6ef54d|")`
@@ -29647,6 +29959,7 @@ Toutes les personnes vivant en France, quelle que soit leur nationalité, doiven
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_124
+<span hidden data-civi-question="a807de2d39fb1ffd" data-kind="bilan" data-screen="BIL_ITEM_CR_124"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f6727b20faf4|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f6727b20faf4|")`
@@ -29718,6 +30031,7 @@ Le crime est l'infraction la plus grave. L'homicide volontaire est un exemple de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_125
+<span hidden data-civi-question="c0128d3846a6c6c2" data-kind="bilan" data-screen="BIL_ITEM_CR_125"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6dc1cb1f855f|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|6dc1cb1f855f|")`
@@ -29789,6 +30103,7 @@ Le vol est un délit. En droit français, les infractions sont classées en troi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_126
+<span hidden data-civi-question="44ccc8608497b4bd" data-kind="bilan" data-screen="BIL_ITEM_CR_126"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|50da1050eaed|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|50da1050eaed|")`
@@ -29860,6 +30175,7 @@ La police nationale et la gendarmerie nationale assurent la sécurité des perso
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_127
+<span hidden data-civi-question="33999d14c175a6f5" data-kind="bilan" data-screen="BIL_ITEM_CR_127"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8fe909c94aaa|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|8fe909c94aaa|")`
@@ -29931,6 +30247,7 @@ Le tri des déchets est un geste citoyen qui protège l'environnement. Les déch
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_128
+<span hidden data-civi-question="109c32dbf8c6d54d" data-kind="bilan" data-screen="BIL_ITEM_CR_128"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|aba8f19a52d3|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|aba8f19a52d3|")`
@@ -30002,6 +30319,7 @@ Louis XIV (1638-1715) est surnommé le Roi-Soleil. Son règne est l'un des plus 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_129
+<span hidden data-civi-question="bd73d0985eaa5f79" data-kind="bilan" data-screen="BIL_ITEM_CR_129"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a8035ecf3f76|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a8035ecf3f76|")`
@@ -30073,6 +30391,7 @@ Louis XVI a été condamné à mort et exécuté en 1793 pendant la Révolution 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_130
+<span hidden data-civi-question="a20a66cb8436cee1" data-kind="bilan" data-screen="BIL_ITEM_CR_130"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6cf26e00d811|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|6cf26e00d811|")`
@@ -30144,6 +30463,7 @@ Napoléon Bonaparte est devenu empereur des Français en 1804 sous le nom de Nap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_131
+<span hidden data-civi-question="28db0210506c4648" data-kind="bilan" data-screen="BIL_ITEM_CR_131"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|452ff66a523f|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|452ff66a523f|")`
@@ -30215,6 +30535,7 @@ Jules Ferry est connu pour les lois qui ont rendu l'école gratuite, laïque et 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_132
+<span hidden data-civi-question="cf71b7004adad7bf" data-kind="bilan" data-screen="BIL_ITEM_CR_132"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5e05c2c790fd|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5e05c2c790fd|")`
@@ -30286,6 +30607,7 @@ Le 18 juin 1940, le général de Gaulle lance depuis Londres un appel à poursui
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_133
+<span hidden data-civi-question="4c90849e2ca56fd7" data-kind="bilan" data-screen="BIL_ITEM_CR_133"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|33095d257dd4|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|33095d257dd4|")`
@@ -30357,6 +30679,7 @@ La Shoah est le génocide des Juifs d'Europe pendant la Seconde Guerre mondiale.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_134
+<span hidden data-civi-question="9dd83dc52de19f7f" data-kind="bilan" data-screen="BIL_ITEM_CR_134"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a93975876201|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a93975876201|")`
@@ -30428,6 +30751,7 @@ Au cours de son histoire, la France a constitué un empire colonial sur plusieur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_135
+<span hidden data-civi-question="c6fb3e90a58e6050" data-kind="bilan" data-screen="BIL_ITEM_CR_135"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|478cccba0b70|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|478cccba0b70|")`
@@ -30499,6 +30823,7 @@ Depuis le référendum de 1962, le président de la République est élu au suff
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_136
+<span hidden data-civi-question="349f415085434a7e" data-kind="bilan" data-screen="BIL_ITEM_CR_136"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f9d88f6780ad|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f9d88f6780ad|")`
@@ -30570,6 +30895,7 @@ La CECA qui rassemble six pays européens afin de développer une coopération �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_137
+<span hidden data-civi-question="9cc80902b0b3329c" data-kind="bilan" data-screen="BIL_ITEM_CR_137"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5a4954bc424b|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5a4954bc424b|")`
@@ -30641,6 +30967,7 @@ La peine de mort qui a été abolie en France en 1981, sous la présidence de Fr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_138
+<span hidden data-civi-question="adf357c1e1f7efa8" data-kind="bilan" data-screen="BIL_ITEM_CR_138"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|bd1f77b51041|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|bd1f77b51041|")`
@@ -30712,6 +31039,7 @@ Le 21 septembre 1792, la monarchie est abolie et la Première République est pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_139
+<span hidden data-civi-question="d3174e545b51d5d8" data-kind="bilan" data-screen="BIL_ITEM_CR_139"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b645d0c4dba9|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|b645d0c4dba9|")`
@@ -30783,6 +31111,7 @@ Jean Moulin est l'une des principales figures de la Résistance française. Il a
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_140
+<span hidden data-civi-question="ea98be4022fc82c4" data-kind="bilan" data-screen="BIL_ITEM_CR_140"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5be556a6ed46|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5be556a6ed46|")`
@@ -30854,6 +31183,7 @@ L'ordonnance du 21 avril 1944 accorde aux femmes le droit de vote et d'éligibil
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_141
+<span hidden data-civi-question="5e19bec0a3de5426" data-kind="bilan" data-screen="BIL_ITEM_CR_141"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4c4ad970b6f5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|4c4ad970b6f5|")`
@@ -30925,6 +31255,7 @@ L'ONU a été créée après la Seconde Guerre mondiale afin de maintenir la pai
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_142
+<span hidden data-civi-question="142682e5e6df6f15" data-kind="bilan" data-screen="BIL_ITEM_CR_142"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|802d50adf1c4|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|802d50adf1c4|")`
@@ -30996,6 +31327,7 @@ La peine de mort a été abolie en France en 1981 grâce à la loi portée par R
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_143
+<span hidden data-civi-question="111c4757ce184bbe" data-kind="bilan" data-screen="BIL_ITEM_CR_143"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ca80f7121670|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|ca80f7121670|")`
@@ -31067,6 +31399,7 @@ L'euro est devenu la monnaie utilisée en France le 1er janvier 2002, avec la mi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_144
+<span hidden data-civi-question="96b8bd5b5dfd8af4" data-kind="bilan" data-screen="BIL_ITEM_CR_144"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3cde27791158|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|3cde27791158|")`
@@ -31138,6 +31471,7 @@ La Première Guerre mondiale débute en 1914 et se termine en 1918.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_145
+<span hidden data-civi-question="3b5dfad04625b03a" data-kind="bilan" data-screen="BIL_ITEM_CR_145"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5d477ad6b98a|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5d477ad6b98a|")`
@@ -31209,6 +31543,7 @@ Le 6 juin 1944, les forces alliées débarquent en Normandie. Cet événement ma
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_146
+<span hidden data-civi-question="c89ae69dfda20967" data-kind="bilan" data-screen="BIL_ITEM_CR_146"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|74f9adbd88c6|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|74f9adbd88c6|")`
@@ -31280,6 +31615,7 @@ Après la Seconde Guerre mondiale, de nombreux territoires français situés en 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_147
+<span hidden data-civi-question="c5ef27e62bda0d8b" data-kind="bilan" data-screen="BIL_ITEM_CR_147"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2ee11e343d5c|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|2ee11e343d5c|")`
@@ -31351,6 +31687,7 @@ Le 8 mai est un jour férié en France. Il commémore la victoire des Alliés su
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_148
+<span hidden data-civi-question="1d7e0c2f8ef7aba3" data-kind="bilan" data-screen="BIL_ITEM_CR_148"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|18799258bb5b|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|18799258bb5b|")`
@@ -31422,6 +31759,7 @@ La France métropolitaine est bordée par quatre espaces maritimes : la Manche, 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_149
+<span hidden data-civi-question="4f273a4e760f80a0" data-kind="bilan" data-screen="BIL_ITEM_CR_149"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ff0fc3a3aa6b|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|ff0fc3a3aa6b|")`
@@ -31493,6 +31831,7 @@ La France métropolitaine partage une frontière terrestre avec huit pays.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_150
+<span hidden data-civi-question="065bebeb62ef6c67" data-kind="bilan" data-screen="BIL_ITEM_CR_150"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e3349c3ae657|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e3349c3ae657|")`
@@ -31564,6 +31903,7 @@ Marseille est le plus grand port maritime français et l'un des plus importants 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_151
+<span hidden data-civi-question="da3319e83b50cf7b" data-kind="bilan" data-screen="BIL_ITEM_CR_151"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|51b180679d24|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|51b180679d24|")`
@@ -31635,6 +31975,7 @@ La Manche sépare la France de l'Angleterre. Elle est traversée notamment par l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_152
+<span hidden data-civi-question="8472a4a97925f5fd" data-kind="bilan" data-screen="BIL_ITEM_CR_152"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8755f4bfc388|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|8755f4bfc388|")`
@@ -31706,6 +32047,7 @@ La France d'outre-mer regroupe les départements, régions, collectivités et te
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_153
+<span hidden data-civi-question="5380adca93a40149" data-kind="bilan" data-screen="BIL_ITEM_CR_153"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fcdbd98f2c4d|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|fcdbd98f2c4d|")`
@@ -31777,6 +32119,7 @@ Les Pyrénées forment une frontière naturelle entre la France et l'Espagne.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_154
+<span hidden data-civi-question="574f5f1dc7d976c7" data-kind="bilan" data-screen="BIL_ITEM_CR_154"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7e39dafbb6ba|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|7e39dafbb6ba|")`
@@ -31848,6 +32191,7 @@ La Réunion est un département et une région d'outre-mer situé dans l'océan 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_155
+<span hidden data-civi-question="e57974ad4ba38f04" data-kind="bilan" data-screen="BIL_ITEM_CR_155"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e4b5870c7aa3|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e4b5870c7aa3|")`
@@ -31919,6 +32263,7 @@ En 2025, la France compte environ 68 millions d'habitants. Ce chiffre peut évol
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_156
+<span hidden data-civi-question="437827ef5a46c497" data-kind="bilan" data-screen="BIL_ITEM_CR_156"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8281f762bde5|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|8281f762bde5|")`
@@ -31990,6 +32335,7 @@ La Seine traverse Paris avant de se jeter dans la Manche, au Havre.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_157
+<span hidden data-civi-question="766614edc9319984" data-kind="bilan" data-screen="BIL_ITEM_CR_157"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e2cca05b2ca8|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e2cca05b2ca8|")`
@@ -32061,6 +32407,7 @@ La Belgique partage une frontière terrestre avec la France. Le Royaume-Uni est 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_158
+<span hidden data-civi-question="40093c6a3130ce36" data-kind="bilan" data-screen="BIL_ITEM_CR_158"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|700dc3b95f4a|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|700dc3b95f4a|")`
@@ -32132,6 +32479,7 @@ La France compte plusieurs grandes métropoles qui concentrent une grande partie
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_159
+<span hidden data-civi-question="c107f8374deeda05" data-kind="bilan" data-screen="BIL_ITEM_CR_159"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|eb69f3914444|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|eb69f3914444|")`
@@ -32203,6 +32551,7 @@ Paris est le département français qui accueille le plus grand nombre de visite
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_160
+<span hidden data-civi-question="57227ab0216835f9" data-kind="bilan" data-screen="BIL_ITEM_CR_160"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2fdd7e1d3b44|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|2fdd7e1d3b44|")`
@@ -32274,6 +32623,7 @@ Chaque année, les Journées européennes du patrimoine permettent au public de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_161
+<span hidden data-civi-question="6fa218a089296a4e" data-kind="bilan" data-screen="BIL_ITEM_CR_161"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|410e44ceadba|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|410e44ceadba|")`
@@ -32345,6 +32695,7 @@ Le français est parlé sur les cinq continents par environ 320 millions de pers
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_162
+<span hidden data-civi-question="0daabd9dd1f1b6ac" data-kind="bilan" data-screen="BIL_ITEM_CR_162"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c6894cb66c45|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c6894cb66c45|")`
@@ -32416,6 +32767,7 @@ Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_163
+<span hidden data-civi-question="06544d6b810038ad" data-kind="bilan" data-screen="BIL_ITEM_CR_163"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|337e61464379|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|337e61464379|")`
@@ -32487,6 +32839,7 @@ Auguste Renoir est un peintre français majeur du mouvement impressionniste. Il 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_164
+<span hidden data-civi-question="5ff4b10345bfbee1" data-kind="bilan" data-screen="BIL_ITEM_CR_164"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|24dede35b539|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|24dede35b539|")`
@@ -32558,6 +32911,7 @@ Le musée du Louvre est situé à Paris. C'est l'un des plus grands musées du m
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_165
+<span hidden data-civi-question="86956ca57623c653" data-kind="bilan" data-screen="BIL_ITEM_CR_165"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8f0b894a62e6|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|8f0b894a62e6|")`
@@ -32629,6 +32983,7 @@ Auguste Rodin est l'un des plus grands sculpteurs français. Parmi ses œuvres l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_166
+<span hidden data-civi-question="c26958bd0932009a" data-kind="bilan" data-screen="BIL_ITEM_CR_166"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d87ac7a5e2a7|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d87ac7a5e2a7|")`
@@ -32700,6 +33055,7 @@ Le français est aujourd'hui considéré comme la cinquième langue la plus parl
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_167
+<span hidden data-civi-question="ada6f48ecb330fa5" data-kind="bilan" data-screen="BIL_ITEM_CR_167"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6a6db94c396a|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|6a6db94c396a|")`
@@ -32771,6 +33127,7 @@ La cathédrale Notre-Dame de Paris est l'un des monuments les plus emblématique
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_168
+<span hidden data-civi-question="dcfaa3a014164e5d" data-kind="bilan" data-screen="BIL_ITEM_CR_168"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|025270249e63|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|025270249e63|")`
@@ -32842,6 +33199,7 @@ La France compte de nombreuses écrivaines célèbres. George Sand, Marguerite Y
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_169
+<span hidden data-civi-question="ffdcb14d324ffda7" data-kind="bilan" data-screen="BIL_ITEM_CR_169"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|57cbc629dd16|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|57cbc629dd16|")`
@@ -32913,6 +33271,7 @@ La France a vu naître de grands compositeurs comme Hector Berlioz, Georges Bize
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_170
+<span hidden data-civi-question="0a7e673bba2742c6" data-kind="bilan" data-screen="BIL_ITEM_CR_170"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5871aea4f69c|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|5871aea4f69c|")`
@@ -32984,6 +33343,7 @@ Auguste Renoir est un peintre français du XIXᵉ siècle, célèbre pour ses œ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_171
+<span hidden data-civi-question="57e0873e7b4fa2d4" data-kind="bilan" data-screen="BIL_ITEM_CR_171"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0967f358e843|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|0967f358e843|")`
@@ -33055,6 +33415,7 @@ Le 14 juillet est la fête nationale française. Elle commémore la prise de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_172
+<span hidden data-civi-question="17856679f6882e54" data-kind="bilan" data-screen="BIL_ITEM_CR_172"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|42e5684f9ffd|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|42e5684f9ffd|")`
@@ -33126,6 +33487,7 @@ Construite pour l'Exposition universelle de 1889, la tour Eiffel est aujourd'hui
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_173
+<span hidden data-civi-question="d951ae1efef3a6c6" data-kind="bilan" data-screen="BIL_ITEM_CR_173"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|230bbc34f807|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|230bbc34f807|")`
@@ -33197,6 +33559,7 @@ En France, seul le mariage civil célébré devant un officier d'état civil pro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_174
+<span hidden data-civi-question="af5e75a7c496c5a0" data-kind="bilan" data-screen="BIL_ITEM_CR_174"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9e060decf3db|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|9e060decf3db|")`
@@ -33268,6 +33631,7 @@ L'inscription à l'école publique commence généralement par une démarche aup
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_175
+<span hidden data-civi-question="ec6a2a02f8c377c5" data-kind="bilan" data-screen="BIL_ITEM_CR_175"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e942a485cbf2|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|e942a485cbf2|")`
@@ -33339,6 +33703,7 @@ Le divorce ne met pas fin à l'autorité parentale. Les deux parents continuent 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_176
+<span hidden data-civi-question="b256df1b8845b8e8" data-kind="bilan" data-screen="BIL_ITEM_CR_176"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fcc031a8773e|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|fcc031a8773e|")`
@@ -33410,6 +33775,7 @@ L'aide juridictionnelle permet aux personnes disposant de faibles ressources de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_177
+<span hidden data-civi-question="4b40bf07728a46bb" data-kind="bilan" data-screen="BIL_ITEM_CR_177"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|914025430690|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|914025430690|")`
@@ -33481,6 +33847,7 @@ La naissance d'un enfant doit être déclarée dans les délais prévus par la l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_178
+<span hidden data-civi-question="314c06200bede412" data-kind="bilan" data-screen="BIL_ITEM_CR_178"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a3e78e3f630b|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a3e78e3f630b|")`
@@ -33552,6 +33919,7 @@ Pour passer le permis de conduire, il faut notamment respecter l'âge minimum pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_179
+<span hidden data-civi-question="71d27a263abc5033" data-kind="bilan" data-screen="BIL_ITEM_CR_179"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cecdb5491e76|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|cecdb5491e76|")`
@@ -33623,6 +33991,7 @@ Le contrat de location (bail) doit être établi par écrit et signé par le pro
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_180
+<span hidden data-civi-question="6de4747d70fffeed" data-kind="bilan" data-screen="BIL_ITEM_CR_180"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cb1bf0d007da|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|cb1bf0d007da|")`
@@ -33694,6 +34063,7 @@ Les appareils électroménagers usagés doivent être déposés dans une déchè
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_181
+<span hidden data-civi-question="b62f3e3e8d74656b" data-kind="bilan" data-screen="BIL_ITEM_CR_181"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8b5947872a34|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|8b5947872a34|")`
@@ -33765,6 +34135,7 @@ Le 17 permet de joindre la police ou la gendarmerie en cas d'urgence. Le 112 est
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_182
+<span hidden data-civi-question="f3dc9f38e25ea9ed" data-kind="bilan" data-screen="BIL_ITEM_CR_182"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cfa37ef3f445|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|cfa37ef3f445|")`
@@ -33836,6 +34207,7 @@ En France, chacun peut accéder aux soins. Les modalités de prise en charge dé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_183
+<span hidden data-civi-question="b10feab57d525d93" data-kind="bilan" data-screen="BIL_ITEM_CR_183"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d1e9f6b2776b|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|d1e9f6b2776b|")`
@@ -33907,6 +34279,7 @@ En France, la contraception est accessible à toute personne qui en a besoin. El
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_184
+<span hidden data-civi-question="63a7f8858a5bede0" data-kind="bilan" data-screen="BIL_ITEM_CR_184"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f2958f1ee513|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|f2958f1ee513|")`
@@ -33978,6 +34351,7 @@ Le secret médical protège la vie privée des patients. Les professionnels de s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_185
+<span hidden data-civi-question="864575f2cfe4d91c" data-kind="bilan" data-screen="BIL_ITEM_CR_185"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4b823c8500da|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|4b823c8500da|")`
@@ -34049,6 +34423,7 @@ L'Assurance maladie est un élément essentiel du système de protection sociale
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_186
+<span hidden data-civi-question="c1d2b56077218f49" data-kind="bilan" data-screen="BIL_ITEM_CR_186"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8aa679ce3a39|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|8aa679ce3a39|")`
@@ -34120,6 +34495,7 @@ Le congé parental permet à un parent de réduire ou de suspendre temporairemen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_187
+<span hidden data-civi-question="c4621ede3bc76460" data-kind="bilan" data-screen="BIL_ITEM_CR_187"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|690bd256ccf6|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|690bd256ccf6|")`
@@ -34191,6 +34567,7 @@ Le conseil de prud'hommes est un tribunal spécialisé qui traite les litiges in
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_188
+<span hidden data-civi-question="5e32503bf37d8527" data-kind="bilan" data-screen="BIL_ITEM_CR_188"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|757581d970ec|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|757581d970ec|")`
@@ -34262,6 +34639,7 @@ Le travail non déclaré, appelé aussi travail dissimulé, est interdit. Il pri
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_189
+<span hidden data-civi-question="a984863e7e4057bb" data-kind="bilan" data-screen="BIL_ITEM_CR_189"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c3f27480935e|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|c3f27480935e|")`
@@ -34333,6 +34711,7 @@ Les heures supplémentaires sont encadrées par le Code du travail. Elles doiven
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_190
+<span hidden data-civi-question="c8e0b081b24a1c33" data-kind="bilan" data-screen="BIL_ITEM_CR_190"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|87e2c17b619d|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|87e2c17b619d|")`
@@ -34404,6 +34783,7 @@ France Travail accompagne les demandeurs d'emploi, propose des offres, des forma
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_191
+<span hidden data-civi-question="fcf4d74bf871c2c0" data-kind="bilan" data-screen="BIL_ITEM_CR_191"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|18cc43081694|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|18cc43081694|")`
@@ -34475,6 +34855,7 @@ Le droit syndical garantit aux salariés la liberté d'adhérer à un syndicat, 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_192
+<span hidden data-civi-question="38d48a542e23413a" data-kind="bilan" data-screen="BIL_ITEM_CR_192"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|11c851cceb7c|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|11c851cceb7c|")`
@@ -34546,6 +34927,7 @@ Le droit de grève est une liberté reconnue par la Constitution. Il permet aux 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_193
+<span hidden data-civi-question="216b0c513d5a80bd" data-kind="bilan" data-screen="BIL_ITEM_CR_193"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4c1cd3b1ca38|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|4c1cd3b1ca38|")`
@@ -34617,6 +34999,7 @@ Les allocations chômage sont versées aux personnes qui remplissent les conditi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_194
+<span hidden data-civi-question="b21135f4902a011e" data-kind="bilan" data-screen="BIL_ITEM_CR_194"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1980fdc532ce|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|1980fdc532ce|")`
@@ -34688,6 +35071,7 @@ L'école maternelle constitue la première étape de la scolarité. Elle favoris
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_195
+<span hidden data-civi-question="9bac609c6c1c7eb4" data-kind="bilan" data-screen="BIL_ITEM_CR_195"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fd9bc48cde34|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|fd9bc48cde34|")`
@@ -34759,6 +35143,7 @@ Le diplôme national du brevet évalue les connaissances et compétences acquise
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_196
+<span hidden data-civi-question="4ff8c313a23c0949" data-kind="bilan" data-screen="BIL_ITEM_CR_196"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9b405103a142|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|9b405103a142|")`
@@ -34830,6 +35215,7 @@ Les parents sont des partenaires de l'école. Ils peuvent rencontrer les enseign
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_197
+<span hidden data-civi-question="d075f70e94259e5d" data-kind="bilan" data-screen="BIL_ITEM_CR_197"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|100214b4ada3|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|100214b4ada3|")`
@@ -34901,6 +35287,7 @@ La cantine scolaire est un service proposé aux élèves. Les modalités d'inscr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_198
+<span hidden data-civi-question="34b3be250183f14c" data-kind="bilan" data-screen="BIL_ITEM_CR_198"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cb73feaf1725|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|cb73feaf1725|")`
@@ -34972,6 +35359,7 @@ En France, l'instruction est obligatoire pour tous les enfants à partir de 3 an
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_199
+<span hidden data-civi-question="82a50a2e75e1ab90" data-kind="bilan" data-screen="BIL_ITEM_CR_199"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4c6317c6da70|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|4c6317c6da70|")`
@@ -35043,6 +35431,7 @@ En France, la majorité est fixée à 18 ans. À partir de cet âge, une personn
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_200
+<span hidden data-civi-question="d9eed5c7815f53b1" data-kind="bilan" data-screen="BIL_ITEM_CR_200"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|aa0e788b0cf3|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|aa0e788b0cf3|")`
@@ -35114,6 +35503,7 @@ Tous les élèves doivent suivre les enseignements obligatoires prévus par les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_201
+<span hidden data-civi-question="c3f81835928f37ee" data-kind="bilan" data-screen="BIL_ITEM_CR_201"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|672a66d88b48|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|672a66d88b48|")`
@@ -35185,6 +35575,7 @@ Les absences scolaires doivent être justifiées. La maladie fait partie des mot
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_202
+<span hidden data-civi-question="d8979c1d13bbb6a6" data-kind="bilan" data-screen="BIL_ITEM_CR_202"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3743b425da25|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|3743b425da25|")`
@@ -35256,6 +35647,7 @@ Les parents ont l'obligation de veiller à ce que leur enfant reçoive une instr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_203
+<span hidden data-civi-question="2e1e4c6f6527b14a" data-kind="bilan" data-screen="BIL_ITEM_CR_203"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a47fa551ee37|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|a47fa551ee37|")`
@@ -35327,6 +35719,7 @@ Les vacances scolaires de Noël ont lieu chaque année à la fin du mois de déc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_CR_204
+<span hidden data-civi-question="4ba30f9cea7a0fa6" data-kind="bilan" data-screen="BIL_ITEM_CR_204"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|381717122fb4|")`
 `@bilSeen_CR = calc(@bilSeen_CR+"|381717122fb4|")`
@@ -37040,6 +37433,7 @@ L'école française favorise l'école inclusive. Les élèves en situation de ha
 `endif`
 
 ## BIL_ITEM_NAT_001
+<span hidden data-civi-question="6f4929accb1f900f" data-kind="bilan" data-screen="BIL_ITEM_NAT_001"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3492683024dd|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3492683024dd|")`
@@ -37111,6 +37505,7 @@ La Marseillaise est l'hymne national français depuis 1795. Le vers exact est «
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_002
+<span hidden data-civi-question="dd7ed9ff5d8bc5d1" data-kind="bilan" data-screen="BIL_ITEM_NAT_002"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fa7c37b429d9|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|fa7c37b429d9|")`
@@ -37182,6 +37577,7 @@ Lors d'un recrutement, l'employeur ne peut poser que des questions ayant un lien
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_003
+<span hidden data-civi-question="1ae5b5dea3f15374" data-kind="bilan" data-screen="BIL_ITEM_NAT_003"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6cefeffb9332|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|6cefeffb9332|")`
@@ -37253,6 +37649,7 @@ La déclaration des revenus permet à l'administration fiscale de calculer les i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_004
+<span hidden data-civi-question="435985eff3236cf0" data-kind="bilan" data-screen="BIL_ITEM_NAT_004"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a57ad8a5bedb|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a57ad8a5bedb|")`
@@ -37324,6 +37721,7 @@ Les impôts servent à financer les services publics utilisés par tous : éduca
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_005
+<span hidden data-civi-question="0da5ab3c044597ac" data-kind="bilan" data-screen="BIL_ITEM_NAT_005"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|af5f15de3de8|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|af5f15de3de8|")`
@@ -37395,6 +37793,7 @@ La liberté d'association est une liberté fondamentale. Chacun est libre de cr�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_006
+<span hidden data-civi-question="02ab95020faa613f" data-kind="bilan" data-screen="BIL_ITEM_NAT_006"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|bee25feb422b|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|bee25feb422b|")`
@@ -37466,6 +37865,7 @@ La liberté d'expression s'applique aussi sur Internet et les réseaux sociaux. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_007
+<span hidden data-civi-question="572325931ae44a49" data-kind="bilan" data-screen="BIL_ITEM_NAT_007"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1e6cf6bc1f45|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1e6cf6bc1f45|")`
@@ -37537,6 +37937,7 @@ Marianne est la représentation symbolique de la République française. Elle in
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_008
+<span hidden data-civi-question="3a61cca84cbc8c35" data-kind="bilan" data-screen="BIL_ITEM_NAT_008"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|876c965a0fd5|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|876c965a0fd5|")`
@@ -37608,6 +38009,7 @@ Les principaux symboles officiels de la République sont le drapeau tricolore, M
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_009
+<span hidden data-civi-question="2da085098c3f55b5" data-kind="bilan" data-screen="BIL_ITEM_NAT_009"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|08d92504a829|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|08d92504a829|")`
@@ -37679,6 +38081,7 @@ La devise « Liberté, Égalité, Fraternité » est visible sur de nombreux bâ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_010
+<span hidden data-civi-question="69cfaef010d6eaa3" data-kind="bilan" data-screen="BIL_ITEM_NAT_010"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3d3c05f02817|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3d3c05f02817|")`
@@ -37750,6 +38153,7 @@ Les quatre symboles officiels de la République française sont le drapeau trico
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_011
+<span hidden data-civi-question="4ca6cd0ae93d06b8" data-kind="bilan" data-screen="BIL_ITEM_NAT_011"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c696ca0a2ff4|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c696ca0a2ff4|")`
@@ -37821,6 +38225,7 @@ Le drapeau tricolore est un symbole de la République. Son outrage public est r�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_012
+<span hidden data-civi-question="0cd272dddcd01580" data-kind="bilan" data-screen="BIL_ITEM_NAT_012"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a1539cda70b1|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a1539cda70b1|")`
@@ -37892,6 +38297,7 @@ La Sécurité sociale a été créée en 1945, après la Seconde Guerre mondiale
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_013
+<span hidden data-civi-question="38018b78e3d76ff2" data-kind="bilan" data-screen="BIL_ITEM_NAT_013"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|990b5fdc5062|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|990b5fdc5062|")`
@@ -37963,6 +38369,7 @@ Le 14 juillet est la fête nationale française. Elle rappelle la Révolution fr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_014
+<span hidden data-civi-question="b0702328a4db5029" data-kind="bilan" data-screen="BIL_ITEM_NAT_014"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|efdee9c7a1a1|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|efdee9c7a1a1|")`
@@ -38034,6 +38441,7 @@ Le bonnet phrygien est un symbole de liberté hérité de la Révolution frança
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_015
+<span hidden data-civi-question="a57dc7b22c408807" data-kind="bilan" data-screen="BIL_ITEM_NAT_015"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f0c90a17ab61|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f0c90a17ab61|")`
@@ -38105,6 +38513,7 @@ La fraternité est l'une des trois valeurs de la devise républicaine. Elle invi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_016
+<span hidden data-civi-question="ed10767cc153a9d6" data-kind="bilan" data-screen="BIL_ITEM_NAT_016"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|42db8f0789a4|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|42db8f0789a4|")`
@@ -38176,6 +38585,7 @@ Le coq gaulois est un symbole traditionnel de la France. Il figure notamment sur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_017
+<span hidden data-civi-question="527b50bb0ccf823d" data-kind="bilan" data-screen="BIL_ITEM_NAT_017"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5b06e95126ba|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5b06e95126ba|")`
@@ -38247,6 +38657,7 @@ La devise de la République française est « Liberté, Égalité, Fraternité �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_018
+<span hidden data-civi-question="0a79dbfd38d22880" data-kind="bilan" data-screen="BIL_ITEM_NAT_018"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|629d67baa632|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|629d67baa632|")`
@@ -38318,6 +38729,7 @@ La liberté d'association est une liberté fondamentale garantie par la loi. Ell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_019
+<span hidden data-civi-question="445619043671b045" data-kind="bilan" data-screen="BIL_ITEM_NAT_019"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1b8c7e50350d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1b8c7e50350d|")`
@@ -38389,6 +38801,7 @@ Les libertés sont garanties par la République, mais elles s'exercent dans le r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_020
+<span hidden data-civi-question="fb6d7a0b2ec9be0c" data-kind="bilan" data-screen="BIL_ITEM_NAT_020"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0eae42d86256|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|0eae42d86256|")`
@@ -38460,6 +38873,7 @@ L'article 1er de la Constitution énonce que « La France est une République in
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_021
+<span hidden data-civi-question="0dfaf7b46b9d3c6e" data-kind="bilan" data-screen="BIL_ITEM_NAT_021"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dc2b1ef8a246|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|dc2b1ef8a246|")`
@@ -38531,6 +38945,7 @@ Marianne est la représentation officielle de la République française. Son eff
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_022
+<span hidden data-civi-question="6b19ad5011b94d88" data-kind="bilan" data-screen="BIL_ITEM_NAT_022"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1c3bf5bd051a|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1c3bf5bd051a|")`
@@ -38602,6 +39017,7 @@ L'égalité est une valeur fondamentale de la République. Elle garantit que cha
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_023
+<span hidden data-civi-question="4f27eb55e9473bf3" data-kind="bilan" data-screen="BIL_ITEM_NAT_023"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|23eb5c00f371|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|23eb5c00f371|")`
@@ -38673,6 +39089,7 @@ La liberté de conscience garantit à chacun le droit de croire, de changer de r
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_024
+<span hidden data-civi-question="fa5e8f2fc776938e" data-kind="bilan" data-screen="BIL_ITEM_NAT_024"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7b95d5a5283d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7b95d5a5283d|")`
@@ -38744,6 +39161,7 @@ La neutralité de l'État est l'un des principes de la laïcité. Elle garantit 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_025
+<span hidden data-civi-question="dc4dff9e095010fa" data-kind="bilan" data-screen="BIL_ITEM_NAT_025"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c52b1e31ed50|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c52b1e31ed50|")`
@@ -38815,6 +39233,7 @@ Le service public applique le principe d'égalité : chaque usager bénéficie d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_026
+<span hidden data-civi-question="4c9b3097a7d7221c" data-kind="bilan" data-screen="BIL_ITEM_NAT_026"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|addd8149f39d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|addd8149f39d|")`
@@ -38886,6 +39305,7 @@ En principe, la loi de 1905 interdit à l'État de financer les cultes. Toutefoi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_027
+<span hidden data-civi-question="9f129763c0c00228" data-kind="bilan" data-screen="BIL_ITEM_NAT_027"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b7288365ae3c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|b7288365ae3c|")`
@@ -38957,6 +39377,7 @@ La loi du 9 décembre 1905 fonde la laïcité française en organisant la sépar
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_028
+<span hidden data-civi-question="3dca61aa6821f37a" data-kind="bilan" data-screen="BIL_ITEM_NAT_028"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|759fca2368e1|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|759fca2368e1|")`
@@ -39028,6 +39449,7 @@ La loi de 1905 établit la séparation des Églises et de l'État. Elle garantit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_029
+<span hidden data-civi-question="f886ed3d8fc36f1f" data-kind="bilan" data-screen="BIL_ITEM_NAT_029"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c9ac907e5122|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c9ac907e5122|")`
@@ -39099,6 +39521,7 @@ La laïcité garantit à chacun la liberté de croire ou de ne pas croire. Elle 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_030
+<span hidden data-civi-question="fea91c8e958a083c" data-kind="bilan" data-screen="BIL_ITEM_NAT_030"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9efe41ca19f5|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|9efe41ca19f5|")`
@@ -39170,6 +39593,7 @@ La Journée nationale de la laïcité est célébrée le 9 décembre, date anniv
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_031
+<span hidden data-civi-question="b711042ba28c7269" data-kind="bilan" data-screen="BIL_ITEM_NAT_031"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|da38e722d7a7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|da38e722d7a7|")`
@@ -39241,6 +39665,7 @@ La loi de 2004 interdit aux élèves des écoles publiques le port de signes rel
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_032
+<span hidden data-civi-question="9913b824be046ed1" data-kind="bilan" data-screen="BIL_ITEM_NAT_032"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|64d0662eb804|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|64d0662eb804|")`
@@ -39312,6 +39737,7 @@ L'antisémitisme désigne la haine, les préjugés ou les discriminations dirig�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_033
+<span hidden data-civi-question="23d30aa8262e570d" data-kind="bilan" data-screen="BIL_ITEM_NAT_033"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|65c8c91c9a7c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|65c8c91c9a7c|")`
@@ -39383,6 +39809,7 @@ La loi du 9 décembre 1905 organise la séparation des Églises et de l'État et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_034
+<span hidden data-civi-question="6d63d77ccd883a3f" data-kind="bilan" data-screen="BIL_ITEM_NAT_034"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3ed2196f3aea|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3ed2196f3aea|")`
@@ -39454,6 +39881,7 @@ Selon le principe de laïcité, l'État et ses services publics doivent rester n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_035
+<span hidden data-civi-question="542d0ac9a96aa8bf" data-kind="bilan" data-screen="BIL_ITEM_NAT_035"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|188ae698d2b6|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|188ae698d2b6|")`
@@ -39525,6 +39953,7 @@ La laïcité est un principe fondamental de la République française. Elle repo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_036
+<span hidden data-civi-question="fd290c98257d1ee5" data-kind="bilan" data-screen="BIL_ITEM_NAT_036"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|23ff504ce4c3|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|23ff504ce4c3|")`
@@ -39596,6 +40025,7 @@ La Charte de la laïcité rappelle les droits et les devoirs de chacun dans les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_037
+<span hidden data-civi-question="8608af3fdb7cb1d8" data-kind="bilan" data-screen="BIL_ITEM_NAT_037"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c6513fa4cbda|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c6513fa4cbda|")`
@@ -39667,6 +40097,7 @@ Les agents publics représentent l'État et les services publics. À ce titre, i
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_038
+<span hidden data-civi-question="6357a6f93d0d11e2" data-kind="bilan" data-screen="BIL_ITEM_NAT_038"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5f8b043fbf2c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5f8b043fbf2c|")`
@@ -39738,6 +40169,7 @@ Une personne qui ne croit en aucun dieu (on parle d'athéisme) a les mêmes devo
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_039
+<span hidden data-civi-question="42cd3636d632fe65" data-kind="bilan" data-screen="BIL_ITEM_NAT_039"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4d2fd68fb516|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|4d2fd68fb516|")`
@@ -39809,6 +40241,7 @@ Pour être candidat à l'élection présidentielle, il faut notamment être de n
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_040
+<span hidden data-civi-question="cfd9231c1ffc1d4a" data-kind="bilan" data-screen="BIL_ITEM_NAT_040"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7d659d1f484f|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7d659d1f484f|")`
@@ -39880,6 +40313,7 @@ L'article 3 de la Constitution énonce que la souveraineté nationale appartient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_041
+<span hidden data-civi-question="dd004d4c65ffe305" data-kind="bilan" data-screen="BIL_ITEM_NAT_041"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|50831d97b802|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|50831d97b802|")`
@@ -39951,6 +40385,7 @@ Les citoyens élisent les conseillers municipaux. Une fois élus, ces derniers �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_042
+<span hidden data-civi-question="42fec0a82b47d647" data-kind="bilan" data-screen="BIL_ITEM_NAT_042"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4f465fa3016c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|4f465fa3016c|")`
@@ -40022,6 +40457,7 @@ Pour voter en France, il faut être inscrit sur une liste électorale. Les jeune
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_043
+<span hidden data-civi-question="2242aa8e17201757" data-kind="bilan" data-screen="BIL_ITEM_NAT_043"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|37ce3eb2d224|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|37ce3eb2d224|")`
@@ -40093,6 +40529,7 @@ Pour voter à l'élection présidentielle, plusieurs conditions doivent être re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_044
+<span hidden data-civi-question="ea0b075542b42ece" data-kind="bilan" data-screen="BIL_ITEM_NAT_044"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a75d163b8eb5|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a75d163b8eb5|")`
@@ -40164,6 +40601,7 @@ Pour être candidat aux élections municipales, il faut notamment être majeur e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_045
+<span hidden data-civi-question="4a9cbb5b6a22fbc7" data-kind="bilan" data-screen="BIL_ITEM_NAT_045"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5526d44ecb42|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5526d44ecb42|")`
@@ -40235,6 +40673,7 @@ Le maire est un élu local. Les autres (préfet et procureur) sont nommés par l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_046
+<span hidden data-civi-question="c5f7d4b194fcf386" data-kind="bilan" data-screen="BIL_ITEM_NAT_046"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|830132db0006|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|830132db0006|")`
@@ -40306,6 +40745,7 @@ Le maire est l'exécutif de la commune. Il met en œuvre les décisions du conse
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_047
+<span hidden data-civi-question="64a4075110bc8d97" data-kind="bilan" data-screen="BIL_ITEM_NAT_047"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3480f9308ff7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3480f9308ff7|")`
@@ -40377,6 +40817,7 @@ Les personnes qui ne souhaitent pas effectuer leurs démarches en ligne peuvent 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_048
+<span hidden data-civi-question="2a35797d2af10539" data-kind="bilan" data-screen="BIL_ITEM_NAT_048"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e6720f8c473c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e6720f8c473c|")`
@@ -40448,6 +40889,7 @@ En France, toute personne remplissant les conditions prévues par la loi devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_049
+<span hidden data-civi-question="c7d38ab8edb9d201" data-kind="bilan" data-screen="BIL_ITEM_NAT_049"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1faa7ec37c19|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1faa7ec37c19|")`
@@ -40519,6 +40961,7 @@ En France, le vote est un droit civique, mais il n'est pas obligatoire. Chaque �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_050
+<span hidden data-civi-question="d5b782799b0d3b27" data-kind="bilan" data-screen="BIL_ITEM_NAT_050"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|76e8791d728f|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|76e8791d728f|")`
@@ -40590,6 +41033,7 @@ L'État de droit repose sur le respect des lois par tous. Personne n'est au-dess
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_051
+<span hidden data-civi-question="cf63667c7ca1c7cd" data-kind="bilan" data-screen="BIL_ITEM_NAT_051"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6cb8c818a91f|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|6cb8c818a91f|")`
@@ -40661,6 +41105,7 @@ Les députés représentent les citoyens à l'Assemblée nationale. Ils sont él
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_052
+<span hidden data-civi-question="4f0e7d7b75915525" data-kind="bilan" data-screen="BIL_ITEM_NAT_052"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ec04ff989aa2|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ec04ff989aa2|")`
@@ -40732,6 +41177,7 @@ Le Parlement est composé de deux chambres : l'Assemblée nationale et le Sénat
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_053
+<span hidden data-civi-question="527817ba3b2092b3" data-kind="bilan" data-screen="BIL_ITEM_NAT_053"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ec78fd3d7e8e|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ec78fd3d7e8e|")`
@@ -40803,6 +41249,7 @@ La séparation des pouvoirs évite qu'une seule autorité concentre tous les pou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_054
+<span hidden data-civi-question="61662c74f05b8ab6" data-kind="bilan" data-screen="BIL_ITEM_NAT_054"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c9dd0c2c06d7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c9dd0c2c06d7|")`
@@ -40874,6 +41321,7 @@ L'État de droit garantit que les lois s'appliquent à tous de la même manière
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_055
+<span hidden data-civi-question="1ca605c9d10ce58a" data-kind="bilan" data-screen="BIL_ITEM_NAT_055"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a9749116bf75|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a9749116bf75|")`
@@ -40945,6 +41393,7 @@ Les conseillers municipaux sont élus pour six ans. Ils élisent ensuite le mair
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_056
+<span hidden data-civi-question="0f66d2e849c86f56" data-kind="bilan" data-screen="BIL_ITEM_NAT_056"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5bc97cc89a06|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5bc97cc89a06|")`
@@ -41016,6 +41465,7 @@ Les élections législatives permettent d'élire les députés qui siègent à l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_057
+<span hidden data-civi-question="031297b0e482728f" data-kind="bilan" data-screen="BIL_ITEM_NAT_057"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d0b37bf8380a|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|d0b37bf8380a|")`
@@ -41087,6 +41537,7 @@ Depuis la réforme constitutionnelle de 2000, le président de la République es
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_058
+<span hidden data-civi-question="2eb892d0b0181a3b" data-kind="bilan" data-screen="BIL_ITEM_NAT_058"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3bc297dfa5a8|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3bc297dfa5a8|")`
@@ -41158,6 +41609,7 @@ Les députés sont élus pour un mandat de 5 ans lors des élections législativ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_059
+<span hidden data-civi-question="497abea3ccf2a617" data-kind="bilan" data-screen="BIL_ITEM_NAT_059"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1437fcfe1786|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1437fcfe1786|")`
@@ -41229,6 +41681,7 @@ Les sénateurs sont élus pour un mandat de 6 ans. Le Sénat est renouvelé par 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_060
+<span hidden data-civi-question="bb38bd443ab69a6d" data-kind="bilan" data-screen="BIL_ITEM_NAT_060"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e779dbc97269|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e779dbc97269|")`
@@ -41300,6 +41753,7 @@ Selon l'article 21 de la Constitution, le Premier ministre dirige l'action du go
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_061
+<span hidden data-civi-question="a819306d68bdd948" data-kind="bilan" data-screen="BIL_ITEM_NAT_061"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f8fc98272fbc|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f8fc98272fbc|")`
@@ -41371,6 +41825,7 @@ La liberté d'association comprend également la possibilité de créer ou de re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_062
+<span hidden data-civi-question="94c45c34fa8a4fba" data-kind="bilan" data-screen="BIL_ITEM_NAT_062"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|adc8bf5d2f44|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|adc8bf5d2f44|")`
@@ -41442,6 +41897,7 @@ La police enquête et interpelle les auteurs d'infractions, mais c'est la justic
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_063
+<span hidden data-civi-question="69545e8a7d46c68f" data-kind="bilan" data-screen="BIL_ITEM_NAT_063"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|56986388c608|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|56986388c608|")`
@@ -41513,6 +41969,7 @@ Les collèges publics relèvent de la compétence des départements, qui assuren
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_064
+<span hidden data-civi-question="1315f8be8310bff4" data-kind="bilan" data-screen="BIL_ITEM_NAT_064"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9b6ef81d25d9|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|9b6ef81d25d9|")`
@@ -41584,6 +42041,7 @@ Les communes sont responsables de la construction, de l'entretien et du fonction
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_065
+<span hidden data-civi-question="d637274228100df9" data-kind="bilan" data-screen="BIL_ITEM_NAT_065"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e97adf729c5e|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e97adf729c5e|")`
@@ -41655,6 +42113,7 @@ Après les élections municipales, les conseillers municipaux se réunissent pou
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_066
+<span hidden data-civi-question="c7f830b22150f714" data-kind="bilan" data-screen="BIL_ITEM_NAT_066"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b7efcd8c5cbf|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|b7efcd8c5cbf|")`
@@ -41726,6 +42185,7 @@ Les régions organisent notamment les transports régionaux (comme les trains r�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_067
+<span hidden data-civi-question="4a40a4f98908047d" data-kind="bilan" data-screen="BIL_ITEM_NAT_067"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a9ff074c9d39|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a9ff074c9d39|")`
@@ -41797,6 +42257,7 @@ La Constitution est le texte juridique suprême. Sa révision suit une procédur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_068
+<span hidden data-civi-question="75d4d693818512b5" data-kind="bilan" data-screen="BIL_ITEM_NAT_068"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|24397dff1011|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|24397dff1011|")`
@@ -41868,6 +42329,7 @@ Selon la Constitution, en cas de vacance de la présidence (décès, démission 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_069
+<span hidden data-civi-question="9310ae4fc56ac7f0" data-kind="bilan" data-screen="BIL_ITEM_NAT_069"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5176fc06b938|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5176fc06b938|")`
@@ -41939,6 +42401,7 @@ Le Conseil constitutionnel contrôle la conformité des lois à la Constitution 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_070
+<span hidden data-civi-question="df71905a107dd1f8" data-kind="bilan" data-screen="BIL_ITEM_NAT_070"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|23cfb76f1461|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|23cfb76f1461|")`
@@ -42010,6 +42473,7 @@ Parmi les conditions prévues par la loi, un candidat à l'élection présidenti
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_071
+<span hidden data-civi-question="1ca6298a34582885" data-kind="bilan" data-screen="BIL_ITEM_NAT_071"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6fadb46c414e|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|6fadb46c414e|")`
@@ -42081,6 +42545,7 @@ La France compte 101 départements : 96 en métropole et 5 en outre-mer.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_072
+<span hidden data-civi-question="fdc7e9780b597909" data-kind="bilan" data-screen="BIL_ITEM_NAT_072"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4297b979e436|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|4297b979e436|")`
@@ -42152,6 +42617,7 @@ L'organisation territoriale de la France repose principalement sur trois niveaux
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_073
+<span hidden data-civi-question="8a86ab2e354058f2" data-kind="bilan" data-screen="BIL_ITEM_NAT_073"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ee09d1a2b3a0|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ee09d1a2b3a0|")`
@@ -42223,6 +42689,7 @@ Le préfet représente l'État dans le département. Il veille notamment à l'ap
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_074
+<span hidden data-civi-question="c661b854fe720f39" data-kind="bilan" data-screen="BIL_ITEM_NAT_074"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5ad2c30d04b5|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5ad2c30d04b5|")`
@@ -42294,6 +42761,7 @@ Le président de la République est le chef de l'État. Il veille au respect de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_075
+<span hidden data-civi-question="2932d37c9d5c6a89" data-kind="bilan" data-screen="BIL_ITEM_NAT_075"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a9548200381e|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a9548200381e|")`
@@ -42365,6 +42833,7 @@ Le Premier ministre dirige l'action du gouvernement. Il coordonne le travail des
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_076
+<span hidden data-civi-question="2629f09d44362005" data-kind="bilan" data-screen="BIL_ITEM_NAT_076"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5574cfe8f8c5|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5574cfe8f8c5|")`
@@ -42436,6 +42905,7 @@ Le Défenseur des droits est une autorité indépendante. Il protège les droits
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_077
+<span hidden data-civi-question="393ae1a0f3695083" data-kind="bilan" data-screen="BIL_ITEM_NAT_077"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dea676e76287|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|dea676e76287|")`
@@ -42507,6 +42977,7 @@ La citoyenneté européenne a été créée par le traité de Maastricht en 1992
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_078
+<span hidden data-civi-question="b0a5c4a616631566" data-kind="bilan" data-screen="BIL_ITEM_NAT_078"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b867882b31bc|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|b867882b31bc|")`
@@ -42578,6 +43049,7 @@ La Croatie est devenue le 28ᵉ État membre de l'Union européenne le 1ᵉʳ ju
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_079
+<span hidden data-civi-question="67f77ea41bd8c67d" data-kind="bilan" data-screen="BIL_ITEM_NAT_079"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2bdfa251caa3|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|2bdfa251caa3|")`
@@ -42649,6 +43121,7 @@ La devise de l'Union européenne est « Unie dans la diversité ». Elle soulign
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_080
+<span hidden data-civi-question="b624272f62c0ace3" data-kind="bilan" data-screen="BIL_ITEM_NAT_080"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2b2a81d12e8c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|2b2a81d12e8c|")`
@@ -42720,6 +43193,7 @@ L'hymne européen est tiré de l'Ode à la joie, composée par Ludwig van Beetho
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_081
+<span hidden data-civi-question="19320836cc452b9f" data-kind="bilan" data-screen="BIL_ITEM_NAT_081"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cbddf812194e|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|cbddf812194e|")`
@@ -42791,6 +43265,7 @@ La Journée de l'Europe est célébrée le 9 mai, en mémoire de la déclaration
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_082
+<span hidden data-civi-question="2a4326918e500623" data-kind="bilan" data-screen="BIL_ITEM_NAT_082"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|edb96d7ed327|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|edb96d7ed327|")`
@@ -42862,6 +43337,7 @@ La Banque centrale européenne (BCE) est installée à Francfort, en Allemagne. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_083
+<span hidden data-civi-question="58414d4390759dfb" data-kind="bilan" data-screen="BIL_ITEM_NAT_083"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5ee721643921|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5ee721643921|")`
@@ -42933,6 +43409,7 @@ La Commission européenne est installée à Bruxelles. Elle propose les lois eur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_084
+<span hidden data-civi-question="337d3e27d1161c61" data-kind="bilan" data-screen="BIL_ITEM_NAT_084"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1e7cc9a53ada|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1e7cc9a53ada|")`
@@ -43004,6 +43481,7 @@ Le Parlement européen est composé de députés européens, élus directement p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_085
+<span hidden data-civi-question="69a2564c2eccf475" data-kind="bilan" data-screen="BIL_ITEM_NAT_085"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ad0d3cae3949|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ad0d3cae3949|")`
@@ -43075,6 +43553,7 @@ Depuis le départ du Royaume-Uni en 2020, l'Union européenne compte 27 États m
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_086
+<span hidden data-civi-question="2c261c7a183e8abd" data-kind="bilan" data-screen="BIL_ITEM_NAT_086"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|438a42e46175|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|438a42e46175|")`
@@ -43142,6 +43621,7 @@ Les citoyens de l'Union européenne peuvent voter aux élections locales (munici
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_087
+<span hidden data-civi-question="bddc02ece6b65d94" data-kind="bilan" data-screen="BIL_ITEM_NAT_087"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7f691cab3509|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7f691cab3509|")`
@@ -43213,6 +43693,7 @@ Le traité de Maastricht a été signé en 1992. Il crée officiellement l'Union
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_088
+<span hidden data-civi-question="070da33281dea111" data-kind="bilan" data-screen="BIL_ITEM_NAT_088"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|68c8be2a74db|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|68c8be2a74db|")`
@@ -43284,6 +43765,7 @@ Le traité de Maastricht, signé en 1992, marque la naissance officielle de l'Un
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_089
+<span hidden data-civi-question="0b3d965657c40d5c" data-kind="bilan" data-screen="BIL_ITEM_NAT_089"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8cb30620e7cb|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8cb30620e7cb|")`
@@ -43355,6 +43837,7 @@ Le Royaume-Uni a quitté officiellement l'Union européenne le 31 janvier 2020. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_090
+<span hidden data-civi-question="d352066e3e6b118a" data-kind="bilan" data-screen="BIL_ITEM_NAT_090"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1fbc03f8af8b|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1fbc03f8af8b|")`
@@ -43426,6 +43909,7 @@ L'hymne européen est l'Ode à la joie, extrait de la 9ᵉ Symphonie de Ludwig v
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_091
+<span hidden data-civi-question="72332b0ca484ea38" data-kind="bilan" data-screen="BIL_ITEM_NAT_091"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c7264f6b635d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c7264f6b635d|")`
@@ -43497,6 +43981,7 @@ Les douze étoiles symbolisent l'unité, la solidarité et l'harmonie entre les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_092
+<span hidden data-civi-question="95647889c7720b40" data-kind="bilan" data-screen="BIL_ITEM_NAT_092"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|24e9924723b7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|24e9924723b7|")`
@@ -43568,6 +44053,7 @@ Tous les cinq ans, les citoyens de chaque État membre élisent leurs représent
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_093
+<span hidden data-civi-question="cb054cc760a5927a" data-kind="bilan" data-screen="BIL_ITEM_NAT_093"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|403984f2bb57|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|403984f2bb57|")`
@@ -43639,6 +44125,7 @@ Le Parlement européen a son siège officiel à Strasbourg, où se tiennent les 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_094
+<span hidden data-civi-question="594b925a45e5af98" data-kind="bilan" data-screen="BIL_ITEM_NAT_094"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|250f1089b26c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|250f1089b26c|")`
@@ -43710,6 +44197,7 @@ Le droit de grève est une liberté reconnue par la Constitution. Il permet aux 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_095
+<span hidden data-civi-question="b99d87e9a9ea0c60" data-kind="bilan" data-screen="BIL_ITEM_NAT_095"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|49b0747c3e1a|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|49b0747c3e1a|")`
@@ -43781,6 +44269,7 @@ Certaines libertés peuvent être limitées afin de protéger l'intérêt géné
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_096
+<span hidden data-civi-question="63754d74d110107d" data-kind="bilan" data-screen="BIL_ITEM_NAT_096"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1271db665b75|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1271db665b75|")`
@@ -43852,6 +44341,7 @@ Chacun est libre de ses actions, de ses choix et de ses paroles, à condition de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_097
+<span hidden data-civi-question="0f06a4fd60f4c6f3" data-kind="bilan" data-screen="BIL_ITEM_NAT_097"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5713d5184707|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5713d5184707|")`
@@ -43923,6 +44413,7 @@ L'article premier de la Déclaration des droits de l'Homme et du Citoyen de 1789
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_098
+<span hidden data-civi-question="fd3fb88ec06c8395" data-kind="bilan" data-screen="BIL_ITEM_NAT_098"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|81e5fad25be5|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|81e5fad25be5|")`
@@ -43994,6 +44485,7 @@ Les libertés sont garanties par la République, mais elles ne sont pas absolues
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_099
+<span hidden data-civi-question="c3a173c1a10aa540" data-kind="bilan" data-screen="BIL_ITEM_NAT_099"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c6f63bac25cd|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c6f63bac25cd|")`
@@ -44065,6 +44557,7 @@ L'article 1er de la Constitution définit les principes fondamentaux de la Répu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_100
+<span hidden data-civi-question="cebc3da7a4a76bb6" data-kind="bilan" data-screen="BIL_ITEM_NAT_100"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d27697dffb75|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|d27697dffb75|")`
@@ -44136,6 +44629,7 @@ La liberté de la presse permet aux médias d'informer le public tout en respect
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_101
+<span hidden data-civi-question="1650fa7e05b76c7e" data-kind="bilan" data-screen="BIL_ITEM_NAT_101"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a8d8251e4804|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a8d8251e4804|")`
@@ -44207,6 +44701,7 @@ La liberté de circulation est une liberté fondamentale. Elle permet de se dép
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_102
+<span hidden data-civi-question="ad47145aa7b5c61d" data-kind="bilan" data-screen="BIL_ITEM_NAT_102"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d7935a5ae9f3|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|d7935a5ae9f3|")`
@@ -44278,6 +44773,7 @@ La liberté de circulation est une liberté fondamentale. Elle permet de se dép
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_103
+<span hidden data-civi-question="7403d6b5f77e03dc" data-kind="bilan" data-screen="BIL_ITEM_NAT_103"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|810f33897c59|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|810f33897c59|")`
@@ -44349,6 +44845,7 @@ Les droits fondamentaux sont les droits et libertés indispensables reconnus à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_104
+<span hidden data-civi-question="ac24e93e31751696" data-kind="bilan" data-screen="BIL_ITEM_NAT_104"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4e8561b1a7e7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|4e8561b1a7e7|")`
@@ -44420,6 +44917,7 @@ La liberté individuelle est un droit fondamental. Personne ne peut être arrêt
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_105
+<span hidden data-civi-question="77903b1274c63205" data-kind="bilan" data-screen="BIL_ITEM_NAT_105"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|857aad5587e7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|857aad5587e7|")`
@@ -44491,6 +44989,7 @@ Adoptée en 1789 pendant la Révolution française, la Déclaration des droits d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_106
+<span hidden data-civi-question="b37cdf60ce306786" data-kind="bilan" data-screen="BIL_ITEM_NAT_106"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|156ec689d953|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|156ec689d953|")`
@@ -44562,6 +45061,7 @@ L'article premier de la Déclaration de 1789 affirme cette phrase, l'un des fond
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_107
+<span hidden data-civi-question="415cb1ec6cc022c3" data-kind="bilan" data-screen="BIL_ITEM_NAT_107"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1196af07db8f|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1196af07db8f|")`
@@ -44633,6 +45133,7 @@ La dignité humaine signifie que chaque personne doit être respectée. Les trai
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_108
+<span hidden data-civi-question="6f54ae458941f645" data-kind="bilan" data-screen="BIL_ITEM_NAT_108"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|29908e57d2b8|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|29908e57d2b8|")`
@@ -44704,6 +45205,7 @@ La liberté d'expression est un droit fondamental. Elle permet d'exprimer ses id
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_109
+<span hidden data-civi-question="ff9bcb9f6477b579" data-kind="bilan" data-screen="BIL_ITEM_NAT_109"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|671b58735b69|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|671b58735b69|")`
@@ -44775,6 +45277,7 @@ Après une interpellation, une personne peut être placée en garde à vue si le
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_110
+<span hidden data-civi-question="961aacd9c20ac35b" data-kind="bilan" data-screen="BIL_ITEM_NAT_110"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fefd53a96409|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|fefd53a96409|")`
@@ -44846,6 +45349,7 @@ La République garantit la liberté de conscience. Chacun est libre de pratiquer
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_111
+<span hidden data-civi-question="40f686ec631e02ad" data-kind="bilan" data-screen="BIL_ITEM_NAT_111"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8a42e8fe89b3|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8a42e8fe89b3|")`
@@ -44917,6 +45421,7 @@ En France, la majorité numérique est fixée à 15 ans. Avant cet âge, l'accor
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_112
+<span hidden data-civi-question="eae4e74df3597de0" data-kind="bilan" data-screen="BIL_ITEM_NAT_112"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0141da0980eb|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|0141da0980eb|")`
@@ -44988,6 +45493,7 @@ En France, il est interdit de fumer dans de nombreux lieux publics fermés afin 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_113
+<span hidden data-civi-question="f054b99316cbc9fd" data-kind="bilan" data-screen="BIL_ITEM_NAT_113"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e2ac29c1a016|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e2ac29c1a016|")`
@@ -45059,6 +45565,7 @@ Conduire un véhicule sans le permis correspondant est un délit grave, passible
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_114
+<span hidden data-civi-question="ab49a6402f63e72f" data-kind="bilan" data-screen="BIL_ITEM_NAT_114"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|48020da7c48b|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|48020da7c48b|")`
@@ -45130,6 +45637,7 @@ La solidarité est une valeur importante de la République. Elle se traduit par 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_115
+<span hidden data-civi-question="4f24405a4f8102b3" data-kind="bilan" data-screen="BIL_ITEM_NAT_115"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b6a9e368729c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|b6a9e368729c|")`
@@ -45201,6 +45709,7 @@ En France, la polygamie est interdite. Une personne ne peut être mariée qu'à 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_116
+<span hidden data-civi-question="013a716b03a5de28" data-kind="bilan" data-screen="BIL_ITEM_NAT_116"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c4fe4276f686|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c4fe4276f686|")`
@@ -45272,6 +45781,7 @@ Toute personne concernée doit déclarer ses revenus chaque année. Cette décla
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_117
+<span hidden data-civi-question="b35cf7ee6f6dbb69" data-kind="bilan" data-screen="BIL_ITEM_NAT_117"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b3160d5c4884|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|b3160d5c4884|")`
@@ -45343,6 +45853,7 @@ La loi sanctionne la non-assistance à personne en danger. Porter secours peut c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_118
+<span hidden data-civi-question="90f9885198fd6d4b" data-kind="bilan" data-screen="BIL_ITEM_NAT_118"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|196fd653af76|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|196fd653af76|")`
@@ -45414,6 +45925,7 @@ Les citoyens tirés au sort pour être jurés d'assises doivent accomplir cette 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_119
+<span hidden data-civi-question="aa69c10fb539b9b5" data-kind="bilan" data-screen="BIL_ITEM_NAT_119"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e7a83552343e|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e7a83552343e|")`
@@ -45485,6 +45997,7 @@ En France, la vente de boissons alcoolisées est interdite aux mineurs de moins 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_120
+<span hidden data-civi-question="8eda539227710a9d" data-kind="bilan" data-screen="BIL_ITEM_NAT_120"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|60d187666e11|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|60d187666e11|")`
@@ -45556,6 +46069,7 @@ Le Code de la route est un ensemble de règlements et de lois. Son non-respect c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_121
+<span hidden data-civi-question="8ef60572953ce093" data-kind="bilan" data-screen="BIL_ITEM_NAT_121"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7bacfbf02617|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7bacfbf02617|")`
@@ -45627,6 +46141,7 @@ La peine d'inéligibilité ou de privation de droits civiques est réservée aux
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_122
+<span hidden data-civi-question="1b9fa5286a1ac160" data-kind="bilan" data-screen="BIL_ITEM_NAT_122"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f9c8ced370ee|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f9c8ced370ee|")`
@@ -45698,6 +46213,7 @@ La carte nationale d'identité est délivrée après dépôt d'un dossier dans u
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_123
+<span hidden data-civi-question="43a2a2959f34d9c7" data-kind="bilan" data-screen="BIL_ITEM_NAT_123"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|24c86da1d481|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|24c86da1d481|")`
@@ -45769,6 +46285,7 @@ La liberté d'expression est une liberté fondamentale, mais elle connaît des l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_124
+<span hidden data-civi-question="b202122e2b06da55" data-kind="bilan" data-screen="BIL_ITEM_NAT_124"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|847dcb26de8e|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|847dcb26de8e|")`
@@ -45840,6 +46357,7 @@ Les jurés d'assises participent à la justice rendue au nom du peuple français
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_125
+<span hidden data-civi-question="ef6e206332c0b2c4" data-kind="bilan" data-screen="BIL_ITEM_NAT_125"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f5793d446bf5|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f5793d446bf5|")`
@@ -45911,6 +46429,7 @@ En France, la majorité civile est fixée à 18 ans. À partir de cet âge, une 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_126
+<span hidden data-civi-question="51947b9c66b50869" data-kind="bilan" data-screen="BIL_ITEM_NAT_126"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5e7ca7181425|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5e7ca7181425|")`
@@ -45982,6 +46501,7 @@ Les citoyens disposent de nombreux droits, mais ils ont également des devoirs. 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_127
+<span hidden data-civi-question="f53c221d3dca3d2e" data-kind="bilan" data-screen="BIL_ITEM_NAT_127"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|04eb7aa63a1b|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|04eb7aa63a1b|")`
@@ -46053,6 +46573,7 @@ En droit français, les infractions sont classées en trois catégories : la con
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_128
+<span hidden data-civi-question="37af05d32f5c529d" data-kind="bilan" data-screen="BIL_ITEM_NAT_128"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|78355c528d8f|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|78355c528d8f|")`
@@ -46124,6 +46645,7 @@ La citoyenneté numérique implique de respecter les autres en ligne, de protég
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_129
+<span hidden data-civi-question="6c2a34431eefbaed" data-kind="bilan" data-screen="BIL_ITEM_NAT_129"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0327d7d5d959|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|0327d7d5d959|")`
@@ -46195,6 +46717,7 @@ Les jurés d'assises sont des citoyens inscrits sur les listes électorales et t
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_130
+<span hidden data-civi-question="7612baf7448c1f98" data-kind="bilan" data-screen="BIL_ITEM_NAT_130"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|664f8fe28a0b|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|664f8fe28a0b|")`
@@ -46266,6 +46789,7 @@ Le devoir de mémoire est une valeur importante en France. Il consiste à prése
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_131
+<span hidden data-civi-question="bc343370d7843a17" data-kind="bilan" data-screen="BIL_ITEM_NAT_131"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3ccdbf3ecaab|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3ccdbf3ecaab|")`
@@ -46337,6 +46861,7 @@ Dans certains cas prévus par la loi, un juge peut prononcer une privation des d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_132
+<span hidden data-civi-question="f3ddd4479019e28d" data-kind="bilan" data-screen="BIL_ITEM_NAT_132"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8b3631845d67|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8b3631845d67|")`
@@ -46408,6 +46933,7 @@ Le Code civil, promulgué en 1804 sous Napoléon Ier, rassemble les principales 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_133
+<span hidden data-civi-question="71e86c97b8002063" data-kind="bilan" data-screen="BIL_ITEM_NAT_133"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a1532ea5aed7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a1532ea5aed7|")`
@@ -46479,6 +47005,7 @@ Depuis la création de la Ve République en 1958, plusieurs présidents de la R�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_134
+<span hidden data-civi-question="60fd1473ad558e7a" data-kind="bilan" data-screen="BIL_ITEM_NAT_134"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6f96f6d25dda|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|6f96f6d25dda|")`
@@ -46550,6 +47077,7 @@ Le 14 juillet est la fête nationale française. Elle commémore la prise de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_135
+<span hidden data-civi-question="7a40ad7eda756c4f" data-kind="bilan" data-screen="BIL_ITEM_NAT_135"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9bdfa2a83205|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|9bdfa2a83205|")`
@@ -46621,6 +47149,7 @@ Les lois de Jules Ferry (1881-1882) rendent progressivement l'école primaire gr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_136
+<span hidden data-civi-question="0f444396abf8ceae" data-kind="bilan" data-screen="BIL_ITEM_NAT_136"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|05989cb3adb9|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|05989cb3adb9|")`
@@ -46692,6 +47221,7 @@ La Constitution du 4 octobre 1958 fonde la Ve République. Elle organise les ins
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_137
+<span hidden data-civi-question="52e3089dbf53c6b0" data-kind="bilan" data-screen="BIL_ITEM_NAT_137"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|4d536775f501|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|4d536775f501|")`
@@ -46763,6 +47293,7 @@ Survivante de la Shoah, Simone Veil est une grande figure de la République. Min
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_138
+<span hidden data-civi-question="527f3e3cdd874e81" data-kind="bilan" data-screen="BIL_ITEM_NAT_138"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8bb34d051363|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8bb34d051363|")`
@@ -46834,6 +47365,7 @@ Les six États fondateurs (France, Allemagne, Italie, Belgique, Pays-Bas, Luxemb
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_139
+<span hidden data-civi-question="649638493ed0b634" data-kind="bilan" data-screen="BIL_ITEM_NAT_139"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|49eef6d419bf|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|49eef6d419bf|")`
@@ -46905,6 +47437,7 @@ Le Débarquement du 6 juin 1944 a eu lieu sur plusieurs plages de Normandie. Il 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_140
+<span hidden data-civi-question="cf7846432fa0b60d" data-kind="bilan" data-screen="BIL_ITEM_NAT_140"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|267b2f662837|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|267b2f662837|")`
@@ -46976,6 +47509,7 @@ La cathédrale de Reims a accueilli le sacre de la grande majorité des rois de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_141
+<span hidden data-civi-question="e16ac5b3654060ed" data-kind="bilan" data-screen="BIL_ITEM_NAT_141"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|205326adac3d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|205326adac3d|")`
@@ -47047,6 +47581,7 @@ Jules Ferry est l'auteur des grandes lois scolaires de la IIIᵉ République. El
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_142
+<span hidden data-civi-question="85b95e0536176b7b" data-kind="bilan" data-screen="BIL_ITEM_NAT_142"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d1cb87568c35|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|d1cb87568c35|")`
@@ -47118,6 +47653,7 @@ Louis XVI est le dernier roi de l'Ancien Régime. Il est guillotiné le 21 janvi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_143
+<span hidden data-civi-question="6535e38c9d0679d7" data-kind="bilan" data-screen="BIL_ITEM_NAT_143"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8023c87a0037|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8023c87a0037|")`
@@ -47189,6 +47725,7 @@ La Révolution française débute en 1789. Cette année marque notamment la pris
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_144
+<span hidden data-civi-question="0264a8bfff03838b" data-kind="bilan" data-screen="BIL_ITEM_NAT_144"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|adecbc2e2e2e|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|adecbc2e2e2e|")`
@@ -47260,6 +47797,7 @@ Napoléon Bonaparte devient empereur des Français en 1804. Son sacre a lieu le 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_145
+<span hidden data-civi-question="8c0542766d674e23" data-kind="bilan" data-screen="BIL_ITEM_NAT_145"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f08d2e494a8f|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f08d2e494a8f|")`
@@ -47331,6 +47869,7 @@ Le 18 juin 1940, depuis Londres, le général de Gaulle lance un appel à poursu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_146
+<span hidden data-civi-question="32791721be7fd73a" data-kind="bilan" data-screen="BIL_ITEM_NAT_146"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e84e7362816e|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e84e7362816e|")`
@@ -47402,6 +47941,7 @@ La Shoah désigne l'extermination systématique d'environ six millions de Juifs 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_147
+<span hidden data-civi-question="2c8a6acca281f57e" data-kind="bilan" data-screen="BIL_ITEM_NAT_147"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|900440a12bbc|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|900440a12bbc|")`
@@ -47473,6 +48013,7 @@ Victor Hugo est l'un des plus grands écrivains français. Parmi ses œuvres les
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_148
+<span hidden data-civi-question="6e0e17a0a1baa561" data-kind="bilan" data-screen="BIL_ITEM_NAT_148"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ed0566e962f8|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ed0566e962f8|")`
@@ -47544,6 +48085,7 @@ La France a constitué un vaste empire colonial, notamment en Afrique, en Asie e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_149
+<span hidden data-civi-question="6ab34a29e961a1ba" data-kind="bilan" data-screen="BIL_ITEM_NAT_149"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0224f3d1a543|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|0224f3d1a543|")`
@@ -47615,6 +48157,7 @@ Le référendum de 1962, voulu par le général de Gaulle, instaure l'élection 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_150
+<span hidden data-civi-question="1e8712e7053938bd" data-kind="bilan" data-screen="BIL_ITEM_NAT_150"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5e2db0cd4760|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5e2db0cd4760|")`
@@ -47686,6 +48229,7 @@ L'Union européenne est officiellement créée par le traité de Maastricht, sig
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_151
+<span hidden data-civi-question="6846dbc5da61f142" data-kind="bilan" data-screen="BIL_ITEM_NAT_151"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3efa71bc0b55|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3efa71bc0b55|")`
@@ -47757,6 +48301,7 @@ La Seconde Guerre mondiale s'est déroulée de 1939 à 1945. Elle a profondémen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_152
+<span hidden data-civi-question="97c78b0ec051da51" data-kind="bilan" data-screen="BIL_ITEM_NAT_152"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f14e9a8196a9|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f14e9a8196a9|")`
@@ -47828,6 +48373,7 @@ La Première Guerre mondiale oppose principalement les puissances alliées aux E
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_153
+<span hidden data-civi-question="11238b04066740d1" data-kind="bilan" data-screen="BIL_ITEM_NAT_153"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6564d798eb1b|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|6564d798eb1b|")`
@@ -47899,6 +48445,7 @@ La peine de mort est abolie en 1981, sous la présidence de François Mitterrand
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_154
+<span hidden data-civi-question="b8869667112d0fbd" data-kind="bilan" data-screen="BIL_ITEM_NAT_154"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|06cb2cb65239|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|06cb2cb65239|")`
@@ -47970,6 +48517,7 @@ Le 8 mai est un jour férié en France. Il commémore la victoire des Alliés en
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_155
+<span hidden data-civi-question="40ba02e4d324522d" data-kind="bilan" data-screen="BIL_ITEM_NAT_155"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|79651c10969c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|79651c10969c|")`
@@ -48041,6 +48589,7 @@ Créée en 1951, la CECA constitue la première étape de la construction europ�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_156
+<span hidden data-civi-question="d3174e545b51d5d8" data-kind="bilan" data-screen="BIL_ITEM_NAT_156"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b645d0c4dba9|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|b645d0c4dba9|")`
@@ -48112,6 +48661,7 @@ Jean Moulin est chargé par le général de Gaulle d'unifier les mouvements de R
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_157
+<span hidden data-civi-question="699542a46d0168bd" data-kind="bilan" data-screen="BIL_ITEM_NAT_157"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|bf3e83966480|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|bf3e83966480|")`
@@ -48183,6 +48733,7 @@ Le 11 novembre commémore l'Armistice signé en 1918, qui met fin aux combats de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_158
+<span hidden data-civi-question="7dfe80289f73b3b6" data-kind="bilan" data-screen="BIL_ITEM_NAT_158"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7db217fc94a7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7db217fc94a7|")`
@@ -48254,6 +48805,7 @@ L'esclavage est définitivement aboli en France par le décret du 27 avril 1848.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_159
+<span hidden data-civi-question="c3bd6966f2b24ae8" data-kind="bilan" data-screen="BIL_ITEM_NAT_159"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e2dd8a62133c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e2dd8a62133c|")`
@@ -48325,6 +48877,7 @@ Victor Schœlcher est le principal artisan du décret de 1848 abolissant défini
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_160
+<span hidden data-civi-question="0a7e1848a1875bad" data-kind="bilan" data-screen="BIL_ITEM_NAT_160"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|59deda902e77|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|59deda902e77|")`
@@ -48396,6 +48949,7 @@ La loi du 16 juin 1881 rend l'école publique gratuite. En 1882, Jules Ferry ren
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_161
+<span hidden data-civi-question="e2c23ab89a62c306" data-kind="bilan" data-screen="BIL_ITEM_NAT_161"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6121624706a8|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|6121624706a8|")`
@@ -48467,6 +49021,7 @@ Le 21 avril 1944, les femmes obtiennent le droit de vote et d'éligibilité. Ell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_162
+<span hidden data-civi-question="c3e51b73ca284af2" data-kind="bilan" data-screen="BIL_ITEM_NAT_162"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7457bf335f45|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7457bf335f45|")`
@@ -48538,6 +49093,7 @@ L'Organisation des Nations unies (ONU) est créée en 1945 afin de maintenir la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_163
+<span hidden data-civi-question="a801909c0c1c6773" data-kind="bilan" data-screen="BIL_ITEM_NAT_163"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dff58f4181fb|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|dff58f4181fb|")`
@@ -48609,6 +49165,7 @@ L'euro est introduit sous forme scripturale en 1999, mais les pièces et billets
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_164
+<span hidden data-civi-question="a12287fb3bd7beb7" data-kind="bilan" data-screen="BIL_ITEM_NAT_164"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|89b5fc2cf9dc|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|89b5fc2cf9dc|")`
@@ -48680,6 +49237,7 @@ Le 25 août 1944, Paris est libérée par les Forces françaises de l'intérieur
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_165
+<span hidden data-civi-question="0d3bede2ce77bc89" data-kind="bilan" data-screen="BIL_ITEM_NAT_165"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9d2148715577|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|9d2148715577|")`
@@ -48751,6 +49309,7 @@ Au XVIIIᵉ siècle, Nantes est le principal port français impliqué dans la tr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_166
+<span hidden data-civi-question="496fd17bffe8919f" data-kind="bilan" data-screen="BIL_ITEM_NAT_166"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d2b5d41cbaad|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|d2b5d41cbaad|")`
@@ -48822,6 +49381,7 @@ Voltaire est l'une des grandes figures du siècle des Lumières. Il critique l'e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_167
+<span hidden data-civi-question="4a37b7f0afa13055" data-kind="bilan" data-screen="BIL_ITEM_NAT_167"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|77d838675605|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|77d838675605|")`
@@ -48893,6 +49453,7 @@ La France compte de nombreux peintres mondialement connus, notamment les impress
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_168
+<span hidden data-civi-question="53af6c4c864acc7b" data-kind="bilan" data-screen="BIL_ITEM_NAT_168"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|df2d327db06d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|df2d327db06d|")`
@@ -48964,6 +49525,7 @@ La gastronomie est un élément important du patrimoine français. Elle est reco
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_169
+<span hidden data-civi-question="4fe2fe0ccc1e2d86" data-kind="bilan" data-screen="BIL_ITEM_NAT_169"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0cf8041c2538|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|0cf8041c2538|")`
@@ -49035,6 +49597,7 @@ Marie Curie est l'une des plus grandes scientifiques de l'histoire. Elle est la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_170
+<span hidden data-civi-question="8d2acc5e8448f6ac" data-kind="bilan" data-screen="BIL_ITEM_NAT_170"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5839b4ee89d4|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5839b4ee89d4|")`
@@ -49106,6 +49669,7 @@ Marie Curie est l'une des plus grandes scientifiques de l'histoire. Elle est la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_171
+<span hidden data-civi-question="429360a6b7b2705a" data-kind="bilan" data-screen="BIL_ITEM_NAT_171"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8f7948fb1214|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8f7948fb1214|")`
@@ -49177,6 +49741,7 @@ La Joconde, peinte par Léonard de Vinci, est exposée au musée du Louvre, le p
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_172
+<span hidden data-civi-question="81cce1bd8f57bb7c" data-kind="bilan" data-screen="BIL_ITEM_NAT_172"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|102bbc9949ec|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|102bbc9949ec|")`
@@ -49248,6 +49813,7 @@ Le château de Versailles est la résidence royale développée par Louis XIV, l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_173
+<span hidden data-civi-question="4e79ddf4083ce1a7" data-kind="bilan" data-screen="BIL_ITEM_NAT_173"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|026db5ac1013|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|026db5ac1013|")`
@@ -49319,6 +49885,7 @@ La grotte de Lascaux, en Dordogne, est célèbre pour ses peintures rupestres da
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_174
+<span hidden data-civi-question="f17a5688c51fc644" data-kind="bilan" data-screen="BIL_ITEM_NAT_174"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|874012395d75|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|874012395d75|")`
@@ -49390,6 +49957,7 @@ Les Nymphéas sont une série de tableaux réalisés par Claude Monet, l'un des 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_175
+<span hidden data-civi-question="eaccf4d2ac46e269" data-kind="bilan" data-screen="BIL_ITEM_NAT_175"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|57c27cabaefd|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|57c27cabaefd|")`
@@ -49461,6 +50029,7 @@ Chaque année, les Journées européennes du patrimoine ouvrent gratuitement au 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_176
+<span hidden data-civi-question="00a5fb35c0b8a9bd" data-kind="bilan" data-screen="BIL_ITEM_NAT_176"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d47803ed98a6|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|d47803ed98a6|")`
@@ -49532,6 +50101,7 @@ Le 1er mai est la fête du Travail. C'est un jour férié en France, associé au
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_177
+<span hidden data-civi-question="86c0ef6a061d8bc7" data-kind="bilan" data-screen="BIL_ITEM_NAT_177"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c52f6b461ef1|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c52f6b461ef1|")`
@@ -49603,6 +50173,7 @@ Claude Joseph Rouget de Lisle compose La Marseillaise en 1792. Ce chant révolut
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_178
+<span hidden data-civi-question="a236b6ec2e01e52f" data-kind="bilan" data-screen="BIL_ITEM_NAT_178"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|217d492c7363|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|217d492c7363|")`
@@ -49674,6 +50245,7 @@ La Tour Eiffel, inaugurée en 1889, est construite pour l'Exposition universelle
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_179
+<span hidden data-civi-question="8c6f679f03b36007" data-kind="bilan" data-screen="BIL_ITEM_NAT_179"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6a8252abf6ab|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|6a8252abf6ab|")`
@@ -49745,6 +50317,7 @@ Les Alpes forment une frontière naturelle entre la France et l'Italie. Elles ab
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_180
+<span hidden data-civi-question="9feb52d108a953c6" data-kind="bilan" data-screen="BIL_ITEM_NAT_180"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8d0b836b8153|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8d0b836b8153|")`
@@ -49816,6 +50389,7 @@ Molière, de son vrai nom Jean-Baptiste Poquelin est l'auteur de nombreuses com�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_181
+<span hidden data-civi-question="9d61866a203b0b30" data-kind="bilan" data-screen="BIL_ITEM_NAT_181"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|817c9a3392f5|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|817c9a3392f5|")`
@@ -49887,6 +50461,7 @@ Charles Baudelaire est l'un des plus grands poètes français du XIXᵉ siècle.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_182
+<span hidden data-civi-question="b3128f744f1064a9" data-kind="bilan" data-screen="BIL_ITEM_NAT_182"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c68b399dbe7c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c68b399dbe7c|")`
@@ -49958,6 +50533,7 @@ George Sand, de son vrai nom Aurore Dupin, est une grande romancière française
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_183
+<span hidden data-civi-question="e9d378789a18c13e" data-kind="bilan" data-screen="BIL_ITEM_NAT_183"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|bab3a6d8d771|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|bab3a6d8d771|")`
@@ -50029,6 +50605,7 @@ Simone de Beauvoir est une philosophe, écrivaine et essayiste française. Son o
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_184
+<span hidden data-civi-question="e841965422c8267c" data-kind="bilan" data-screen="BIL_ITEM_NAT_184"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ecf0cc23a7e4|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ecf0cc23a7e4|")`
@@ -50100,6 +50677,7 @@ Albert Camus est l'un des plus grands écrivains français du XXᵉ siècle. Il 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_185
+<span hidden data-civi-question="0daabd9dd1f1b6ac" data-kind="bilan" data-screen="BIL_ITEM_NAT_185"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c6894cb66c45|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c6894cb66c45|")`
@@ -50171,6 +50749,7 @@ Marguerite Yourcenar est une grande écrivaine française. En 1980, elle devient
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_186
+<span hidden data-civi-question="ebdec005e06056b2" data-kind="bilan" data-screen="BIL_ITEM_NAT_186"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|368f73d5a90d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|368f73d5a90d|")`
@@ -50242,6 +50821,7 @@ Paul Cézanne est un peintre français majeur de la fin du XIXᵉ siècle. Son �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_187
+<span hidden data-civi-question="86956ca57623c653" data-kind="bilan" data-screen="BIL_ITEM_NAT_187"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8f0b894a62e6|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8f0b894a62e6|")`
@@ -50313,6 +50893,7 @@ Auguste Rodin est considéré comme le père de la sculpture moderne. Parmi ses 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_188
+<span hidden data-civi-question="0a7e673bba2742c6" data-kind="bilan" data-screen="BIL_ITEM_NAT_188"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5871aea4f69c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5871aea4f69c|")`
@@ -50384,6 +50965,7 @@ Auguste Renoir est un membre à part entière de l'impressionnisme et évolue da
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_189
+<span hidden data-civi-question="c980eb1fb2bc23b5" data-kind="bilan" data-screen="BIL_ITEM_NAT_189"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fcdcb4b32cb4|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|fcdcb4b32cb4|")`
@@ -50455,6 +51037,7 @@ La France compte de nombreux compositeurs mondialement connus, comme Claude Debu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_190
+<span hidden data-civi-question="5ff4b10345bfbee1" data-kind="bilan" data-screen="BIL_ITEM_NAT_190"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|24dede35b539|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|24dede35b539|")`
@@ -50526,6 +51109,7 @@ La France compte de nombreux musées. Le musée le plus visité au monde se situ
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_191
+<span hidden data-civi-question="5fd9812d742be4e7" data-kind="bilan" data-screen="BIL_ITEM_NAT_191"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|b8f51e15230a|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|b8f51e15230a|")`
@@ -50597,6 +51181,7 @@ Le Mont-Saint-Michel est une commune française située dans la Manche en Norman
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_192
+<span hidden data-civi-question="40093c6a3130ce36" data-kind="bilan" data-screen="BIL_ITEM_NAT_192"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|700dc3b95f4a|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|700dc3b95f4a|")`
@@ -50668,6 +51253,7 @@ Nice fait partie des 10 plus grandes métropoles de la France. La métropole Nic
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_193
+<span hidden data-civi-question="5dbb38ec14776f35" data-kind="bilan" data-screen="BIL_ITEM_NAT_193"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dbb809a5ac0d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|dbb809a5ac0d|")`
@@ -50739,6 +51325,7 @@ Les Antilles françaises regroupent la Martinique, la Guadeloupe et ses îles sa
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_194
+<span hidden data-civi-question="f9988aa678cb3a04" data-kind="bilan" data-screen="BIL_ITEM_NAT_194"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ba8933b177ff|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ba8933b177ff|")`
@@ -50810,6 +51397,7 @@ La Corse est une île française située en Méditerranée. Elle constitue une c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_195
+<span hidden data-civi-question="8d219f7233858116" data-kind="bilan" data-screen="BIL_ITEM_NAT_195"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cbbab6b814e2|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|cbbab6b814e2|")`
@@ -50881,6 +51469,7 @@ Le Mont Blanc, situé dans les Alpes, culmine à environ 4 805 mètres. Il est l
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_196
+<span hidden data-civi-question="7c527a2b5269e4d0" data-kind="bilan" data-screen="BIL_ITEM_NAT_196"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|392a6738c834|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|392a6738c834|")`
@@ -50952,6 +51541,7 @@ La Réunion est un département et une région d'outre-mer situés dans l'océan
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_197
+<span hidden data-civi-question="3e5a8adb549f523d" data-kind="bilan" data-screen="BIL_ITEM_NAT_197"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1427d8c5003c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1427d8c5003c|")`
@@ -51023,6 +51613,7 @@ La Guyane est un département et une région d'outre-mer d'Amérique du Sud. Ell
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_198
+<span hidden data-civi-question="42181a0fba4c8f37" data-kind="bilan" data-screen="BIL_ITEM_NAT_198"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dcef31190d03|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|dcef31190d03|")`
@@ -51094,6 +51685,7 @@ Le Centre spatial guyanais, situé à Kourou, est le principal site de lancement
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_199
+<span hidden data-civi-question="ba053b9ad2fc1da4" data-kind="bilan" data-screen="BIL_ITEM_NAT_199"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a5ef34ab6220|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a5ef34ab6220|")`
@@ -51165,6 +51757,7 @@ La France métropolitaine est bordée par la Manche, l'océan Atlantique et la m
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_200
+<span hidden data-civi-question="2fc3bd12f132fc37" data-kind="bilan" data-screen="BIL_ITEM_NAT_200"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|9f1e69af0294|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|9f1e69af0294|")`
@@ -51236,6 +51829,7 @@ La Manche sépare la France et l'Angleterre. C'est également sous cette mer que
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_201
+<span hidden data-civi-question="92b833a5b02a0f7e" data-kind="bilan" data-screen="BIL_ITEM_NAT_201"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3eebe958e182|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3eebe958e182|")`
@@ -51307,6 +51901,7 @@ Les îles françaises ayant le statut de département (ou département-région) 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_202
+<span hidden data-civi-question="6f5b992c2365540a" data-kind="bilan" data-screen="BIL_ITEM_NAT_202"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8390fa2c22cb|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8390fa2c22cb|")`
@@ -51378,6 +51973,7 @@ La France d'outre-mer regroupe les territoires français situés hors du contine
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_203
+<span hidden data-civi-question="528d0c44d5099a92" data-kind="bilan" data-screen="BIL_ITEM_NAT_203"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|66f7043a6c2f|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|66f7043a6c2f|")`
@@ -51449,6 +52045,7 @@ En 2025, la France compte environ 68 millions d'habitants (France entière).
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_204
+<span hidden data-civi-question="cc0079ee05a6adb9" data-kind="bilan" data-screen="BIL_ITEM_NAT_204"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a0357089ba79|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a0357089ba79|")`
@@ -51520,6 +52117,7 @@ Le Grand Port Maritime de Marseille est le premier port français et l'un des pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_205
+<span hidden data-civi-question="bc660327cdd0f316" data-kind="bilan" data-screen="BIL_ITEM_NAT_205"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|bc7c19cbdb60|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|bc7c19cbdb60|")`
@@ -51591,6 +52189,7 @@ Depuis la réforme territoriale de 2016, la France métropolitaine compte 13 ré
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_206
+<span hidden data-civi-question="5380adca93a40149" data-kind="bilan" data-screen="BIL_ITEM_NAT_206"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fcdbd98f2c4d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|fcdbd98f2c4d|")`
@@ -51662,6 +52261,7 @@ Les Pyrénées forment la frontière naturelle entre la France et l'Espagne sur 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_207
+<span hidden data-civi-question="45387c7586283675" data-kind="bilan" data-screen="BIL_ITEM_NAT_207"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f67597e5fbfe|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f67597e5fbfe|")`
@@ -51733,6 +52333,7 @@ Mayotte est l'île française située au sud-est du continent africain. Dans l'a
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_208
+<span hidden data-civi-question="bea1d6a261b067e8" data-kind="bilan" data-screen="BIL_ITEM_NAT_208"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e2c0f944af01|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e2c0f944af01|")`
@@ -51804,6 +52405,7 @@ Lyon est le chef-lieu de la région Auvergne-Rhône-Alpes. C'est également la t
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_209
+<span hidden data-civi-question="df1509365b7dc07f" data-kind="bilan" data-screen="BIL_ITEM_NAT_209"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1146ad880b59|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1146ad880b59|")`
@@ -51875,6 +52477,7 @@ Rennes est le chef-lieu de la région Bretagne. C'est également une grande vill
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_210
+<span hidden data-civi-question="7e561eba211dc2e4" data-kind="bilan" data-screen="BIL_ITEM_NAT_210"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3d7459cf011b|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3d7459cf011b|")`
@@ -51946,6 +52549,7 @@ Marseille est le chef-lieu de la région Provence-Alpes-Côte d'Azur (PACA). C'e
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_211
+<span hidden data-civi-question="1c715a8a56752fcf" data-kind="bilan" data-screen="BIL_ITEM_NAT_211"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7a794c7a5e37|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7a794c7a5e37|")`
@@ -52017,6 +52621,7 @@ Depuis le 31 mars 2011, Mayotte est devenue le 101ᵉ département français. El
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_212
+<span hidden data-civi-question="1b378be0cdeba463" data-kind="bilan" data-screen="BIL_ITEM_NAT_212"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e46f1dc86069|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e46f1dc86069|")`
@@ -52088,6 +52693,7 @@ La région Auvergne-Rhône-Alpes accueille certaines des plus grandes stations d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_213
+<span hidden data-civi-question="437827ef5a46c497" data-kind="bilan" data-screen="BIL_ITEM_NAT_213"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8281f762bde5|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8281f762bde5|")`
@@ -52159,6 +52765,7 @@ La Seine traverse Paris avant de se jeter dans la Manche au Havre. Les quais de 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_214
+<span hidden data-civi-question="69c8a701f3fe7785" data-kind="bilan" data-screen="BIL_ITEM_NAT_214"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|38dc3e39c690|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|38dc3e39c690|")`
@@ -52230,6 +52837,7 @@ Toute naissance doit être déclarée auprès du service de l'état civil de la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_215
+<span hidden data-civi-question="0df99d34ee4e3879" data-kind="bilan" data-screen="BIL_ITEM_NAT_215"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|5ce5bd01a8d7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|5ce5bd01a8d7|")`
@@ -52301,6 +52909,7 @@ Le locataire peut librement réaliser des aménagements légers. En revanche, to
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_216
+<span hidden data-civi-question="34fb237fa2697c7e" data-kind="bilan" data-screen="BIL_ITEM_NAT_216"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ac2dcc5b57b6|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ac2dcc5b57b6|")`
@@ -52372,6 +52981,7 @@ En France, le mariage doit obligatoirement être célébré devant un officier d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_217
+<span hidden data-civi-question="f7b07deb32115fe7" data-kind="bilan" data-screen="BIL_ITEM_NAT_217"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7217a72d890a|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7217a72d890a|")`
@@ -52443,6 +53053,7 @@ Les places réservées sont destinées aux personnes titulaires d'une carte mobi
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_218
+<span hidden data-civi-question="0910572325e1e2f0" data-kind="bilan" data-screen="BIL_ITEM_NAT_218"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8f5e0aaf08cf|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8f5e0aaf08cf|")`
@@ -52514,6 +53125,7 @@ En France, tout produit neuf acheté en magasin bénéficie d'une garantie léga
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_219
+<span hidden data-civi-question="818e04763ad40302" data-kind="bilan" data-screen="BIL_ITEM_NAT_219"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|91d44f0ef690|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|91d44f0ef690|")`
@@ -52585,6 +53197,7 @@ La naissance d'un enfant doit obligatoirement être déclarée au service de l'�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_220
+<span hidden data-civi-question="ea9c56adc7661fd2" data-kind="bilan" data-screen="BIL_ITEM_NAT_220"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|08159263b4c1|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|08159263b4c1|")`
@@ -52656,6 +53269,7 @@ En France, la déclaration de naissance doit être réalisée dans les cinq jour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_221
+<span hidden data-civi-question="2d6566a6a435701e" data-kind="bilan" data-screen="BIL_ITEM_NAT_221"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cbcf2ee22a6a|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|cbcf2ee22a6a|")`
@@ -52727,6 +53341,7 @@ Le 17 permet de contacter la police ou la gendarmerie en cas d'urgence nécessit
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_222
+<span hidden data-civi-question="29f16d2eff24323c" data-kind="bilan" data-screen="BIL_ITEM_NAT_222"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7968c17d519d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7968c17d519d|")`
@@ -52798,6 +53413,7 @@ Le 15 permet de contacter le SAMU pour toute urgence médicale nécessitant une 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_223
+<span hidden data-civi-question="0108261b387a021e" data-kind="bilan" data-screen="BIL_ITEM_NAT_223"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|d7edffbc76db|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|d7edffbc76db|")`
@@ -52869,6 +53485,7 @@ Pour une école publique, les parents effectuent d'abord l'inscription auprès d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_224
+<span hidden data-civi-question="fc4995a4c279c8b6" data-kind="bilan" data-screen="BIL_ITEM_NAT_224"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ec5af1a3d3f0|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ec5af1a3d3f0|")`
@@ -52940,6 +53557,7 @@ Le divorce ne met pas fin à l'autorité parentale. En règle générale, les de
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_225
+<span hidden data-civi-question="a805a7787f88266d" data-kind="bilan" data-screen="BIL_ITEM_NAT_225"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|20a539da3aea|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|20a539da3aea|")`
@@ -53011,6 +53629,7 @@ L'aide juridictionnelle permet, sous conditions de ressources, de prendre en cha
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_226
+<span hidden data-civi-question="8b7dbf8c0f906d6d" data-kind="bilan" data-screen="BIL_ITEM_NAT_226"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|41e50da4fa48|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|41e50da4fa48|")`
@@ -53082,6 +53701,7 @@ En France, un divorce peut être demandé par l'un des époux ou être engagé d
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_227
+<span hidden data-civi-question="757af93a3549fb57" data-kind="bilan" data-screen="BIL_ITEM_NAT_227"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|1b1e7d9788b9|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|1b1e7d9788b9|")`
@@ -53153,6 +53773,7 @@ L'Assurance maladie prend en charge une partie des dépenses de santé. Une mutu
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_228
+<span hidden data-civi-question="179dc6042df1dd51" data-kind="bilan" data-screen="BIL_ITEM_NAT_228"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|2e8b8a6feac8|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|2e8b8a6feac8|")`
@@ -53224,6 +53845,7 @@ La contraception est un droit et dépend du choix de chacun. Différents moyens 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_229
+<span hidden data-civi-question="63a7f8858a5bede0" data-kind="bilan" data-screen="BIL_ITEM_NAT_229"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f2958f1ee513|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f2958f1ee513|")`
@@ -53295,6 +53917,7 @@ En France, le principe de confidentialité en santé est l'obligation légale et
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_230
+<span hidden data-civi-question="02f2d03698e8b62f" data-kind="bilan" data-screen="BIL_ITEM_NAT_230"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|fc486e7874c2|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|fc486e7874c2|")`
@@ -53366,6 +53989,7 @@ La carte Vitale contient les informations nécessaires à l'Assurance maladie po
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_231
+<span hidden data-civi-question="44c9818e7471ea9c" data-kind="bilan" data-screen="BIL_ITEM_NAT_231"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e61ce8700d00|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e61ce8700d00|")`
@@ -53437,6 +54061,7 @@ La mutuelle santé, ou complémentaire santé, rembourse tout ou partie des dép
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_232
+<span hidden data-civi-question="79a145a105a2f7a4" data-kind="bilan" data-screen="BIL_ITEM_NAT_232"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|7efb5a5a1632|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|7efb5a5a1632|")`
@@ -53508,6 +54133,7 @@ Le tiers payant permet au patient de ne pas avancer tout ou partie des frais mé
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_233
+<span hidden data-civi-question="ce76325943b4b0c5" data-kind="bilan" data-screen="BIL_ITEM_NAT_233"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c81188ae111d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c81188ae111d|")`
@@ -53579,6 +54205,7 @@ Toute personne qui réside ou travaille en France de manière stable et réguli�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_234
+<span hidden data-civi-question="d240fb554514ce36" data-kind="bilan" data-screen="BIL_ITEM_NAT_234"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|75a916aca552|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|75a916aca552|")`
@@ -53650,6 +54277,7 @@ En France, les femmes ont le droit de recourir à une IVG dans les conditions pr
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_235
+<span hidden data-civi-question="4a06e20eac4722ad" data-kind="bilan" data-screen="BIL_ITEM_NAT_235"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|c0526c1d1673|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|c0526c1d1673|")`
@@ -53721,6 +54349,7 @@ Le travail non déclaré, aussi appelé travail dissimulé, est interdit par la 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_236
+<span hidden data-civi-question="c8149212a81c5ed3" data-kind="bilan" data-screen="BIL_ITEM_NAT_236"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ee9fe3b4dd42|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ee9fe3b4dd42|")`
@@ -53792,6 +54421,7 @@ Le SMIC (Salaire minimum interprofessionnel de croissance) fixe le salaire horai
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_237
+<span hidden data-civi-question="9614b15b6de273f3" data-kind="bilan" data-screen="BIL_ITEM_NAT_237"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6168287a4556|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|6168287a4556|")`
@@ -53863,6 +54493,7 @@ France Travail accompagne les demandeurs d'emploi dans leurs recherches, propose
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_238
+<span hidden data-civi-question="63252551f36a104d" data-kind="bilan" data-screen="BIL_ITEM_NAT_238"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|dffca3142f27|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|dffca3142f27|")`
@@ -53934,6 +54565,7 @@ En France, la durée légale du travail est fixée à 35 heures par semaine pour
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_239
+<span hidden data-civi-question="c1d2b56077218f49" data-kind="bilan" data-screen="BIL_ITEM_NAT_239"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|8aa679ce3a39|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|8aa679ce3a39|")`
@@ -54005,6 +54637,7 @@ Le congé parental d'éducation permet à un salarié de suspendre ou réduire s
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_240
+<span hidden data-civi-question="9483b83ebcd1905c" data-kind="bilan" data-screen="BIL_ITEM_NAT_240"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|6d7de244363c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|6d7de244363c|")`
@@ -54076,6 +54709,7 @@ La création d'entreprise est ouverte aux personnes étrangères en situation r�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_241
+<span hidden data-civi-question="bed4622af4f4cd42" data-kind="bilan" data-screen="BIL_ITEM_NAT_241"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a9673e9b469f|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a9673e9b469f|")`
@@ -54147,6 +54781,7 @@ En France, les femmes disposent des mêmes droits que les hommes pour créer une
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_242
+<span hidden data-civi-question="b799e5129226416b" data-kind="bilan" data-screen="BIL_ITEM_NAT_242"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|ade531d7d728|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|ade531d7d728|")`
@@ -54218,6 +54853,7 @@ Le Code du travail fixe les règles générales applicables aux salariés. Les c
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_243
+<span hidden data-civi-question="5ade733f4262570b" data-kind="bilan" data-screen="BIL_ITEM_NAT_243"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|e9c902cdcf0b|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|e9c902cdcf0b|")`
@@ -54289,6 +54925,7 @@ Le conseil de prud'hommes est une juridiction spécialisée qui traite les confl
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_244
+<span hidden data-civi-question="f6513a282642237a" data-kind="bilan" data-screen="BIL_ITEM_NAT_244"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|0e8ef83067ca|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|0e8ef83067ca|")`
@@ -54360,6 +54997,7 @@ La liberté syndicale est un droit fondamental. Les salariés peuvent adhérer �
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_245
+<span hidden data-civi-question="ab675e1e16663315" data-kind="bilan" data-screen="BIL_ITEM_NAT_245"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|a09234d7cb41|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|a09234d7cb41|")`
@@ -54431,6 +55069,7 @@ En France, une salariée bénéficie d'une protection contre le licenciement pen
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_246
+<span hidden data-civi-question="52196796eb646082" data-kind="bilan" data-screen="BIL_ITEM_NAT_246"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|06af18dce85c|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|06af18dce85c|")`
@@ -54502,6 +55141,7 @@ Depuis 2019, l'instruction est obligatoire pour tous les enfants de 3 ans à 16 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_247
+<span hidden data-civi-question="17b4838d6030a4ae" data-kind="bilan" data-screen="BIL_ITEM_NAT_247"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f3f1c27e0493|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f3f1c27e0493|")`
@@ -54573,6 +55213,7 @@ Les parents ont l'obligation d'assurer l'instruction de leurs enfants. Le non-re
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_248
+<span hidden data-civi-question="09be79f9922d4679" data-kind="bilan" data-screen="BIL_ITEM_NAT_248"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|14e026a08015|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|14e026a08015|")`
@@ -54644,6 +55285,7 @@ L'autorité parentale a pour objectif de protéger l'enfant, d'assurer son éduc
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_249
+<span hidden data-civi-question="006e40fc8313dbcf" data-kind="bilan" data-screen="BIL_ITEM_NAT_249"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|f49f8bad82a7|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|f49f8bad82a7|")`
@@ -54715,6 +55357,7 @@ Les absences scolaires doivent être justifiées. Les motifs légitimes sont not
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_250
+<span hidden data-civi-question="ec919d56664930ef" data-kind="bilan" data-screen="BIL_ITEM_NAT_250"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|32dd3a402e97|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|32dd3a402e97|")`
@@ -54786,6 +55429,7 @@ En France, l'instruction est obligatoire de 3 ans à 16 ans. Cette obligation pe
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_251
+<span hidden data-civi-question="8fb30a6992582371" data-kind="bilan" data-screen="BIL_ITEM_NAT_251"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|cc94ef2d2078|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|cc94ef2d2078|")`
@@ -54857,6 +55501,7 @@ Depuis la loi de 2019, l'instruction est obligatoire dès l'âge de 3 ans.
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_252
+<span hidden data-civi-question="1fd51296e3a19289" data-kind="bilan" data-screen="BIL_ITEM_NAT_252"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3dddfaad32a3|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3dddfaad32a3|")`
@@ -54928,6 +55573,7 @@ Après l'école élémentaire, les élèves poursuivent leur scolarité au coll�
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_253
+<span hidden data-civi-question="20dc780a508d0df3" data-kind="bilan" data-screen="BIL_ITEM_NAT_253"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|eb47eab7e828|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|eb47eab7e828|")`
@@ -54999,6 +55645,7 @@ Les parents d'élèves sont des partenaires de l'école. Ils peuvent participer 
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_254
+<span hidden data-civi-question="e8fbcf5c21f8f12a" data-kind="bilan" data-screen="BIL_ITEM_NAT_254"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|581362cb06b0|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|581362cb06b0|")`
@@ -55070,6 +55717,7 @@ Les enfants allophones nouvellement arrivés en France sont scolarisés et peuve
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_255
+<span hidden data-civi-question="ff66280c0d0822c6" data-kind="bilan" data-screen="BIL_ITEM_NAT_255"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|89737e92e6fe|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|89737e92e6fe|")`
@@ -55141,6 +55789,7 @@ L'école française est une école inclusive. Les enfants en situation de handic
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_256
+<span hidden data-civi-question="0d774a468247b204" data-kind="bilan" data-screen="BIL_ITEM_NAT_256"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|3876ea7f0b6d|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|3876ea7f0b6d|")`
@@ -55212,6 +55861,7 @@ Depuis le 1er juillet 2021, le congé de paternité et d'accueil de l'enfant est
 1. [🏠 Menu principal](MENU_PRINCIPAL)
 
 ## BIL_ITEM_NAT_257
+<span hidden data-civi-question="41127f58295d354d" data-kind="bilan" data-screen="BIL_ITEM_NAT_257"></span>
 !Keyboard: false
 `@bilCurrentSeen = calc(@bilCurrentSeen+"|80b0e938d476|")`
 `@bilSeen_NAT = calc(@bilSeen_NAT+"|80b0e938d476|")`

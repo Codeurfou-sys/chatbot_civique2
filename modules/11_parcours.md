@@ -4,9 +4,10 @@
 Retrouvez vos résultats et les conseils pour progresser.
 
 1. [📊 Mon bilan](SCR_PARCOURS_BILAN)
-2. [🎯 Mes entraînements](SCR_ENT_PLAN_MENU)
-3. [📝 Mes examens blancs @lastRetour=SCR_PARCOURS_MENU](SCR_LAST_EXAM_RESULT)
-4. [🏠 Menu principal](MENU_PRINCIPAL)
+2. [📝 Mes entraînements](SCR_ENT_PLAN_MENU)
+3. [🎯 Mes examens blancs @lastRetour=SCR_PARCOURS_MENU](SCR_LAST_EXAM_RESULT)
+4. [📚 Mes révisions](SCR_PARCOURS_REVISIONS)
+5. [🏠 Menu principal](MENU_PRINCIPAL)
 
 Vos résultats et vos conseils sont conservés sur ce navigateur.
 
@@ -823,3 +824,129 @@ Retrouvez vos bilans, entraînements et examens blancs, ou exportez votre parcou
 
 1. [🧭 Retour à mon parcours](SCR_PARCOURS_MENU)
 2. [🏠 Retour au menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REVISIONS
+### 📚 Mes révisions
+
+Retrouvez vos activités et vos questions de connaissances, par thématique et par chapitre.
+
+1. [🧩 Activités de révisions](SCR_PARCOURS_REV_ACT)
+2. [✍️ Questions de connaissances](SCR_PARCOURS_REV_Q)
+3. [↩️ Mon parcours personnalisé](SCR_PARCOURS_MENU)
+4. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_ACT
+### 🧩 Activités de révisions
+
+Choisissez une thématique pour consulter vos chapitres.
+
+1. [📚 Principes et valeurs de la République](SCR_PARCOURS_REV_ACT_T1)
+2. [📚 Institutions et système politique](SCR_PARCOURS_REV_ACT_T2)
+3. [📚 Droits et devoirs](SCR_PARCOURS_REV_ACT_T3)
+4. [📚 Histoire, géographie et culture](SCR_PARCOURS_REV_ACT_T4)
+5. [📚 Vivre dans la société française](SCR_PARCOURS_REV_ACT_T5)
+6. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+7. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_ACT_T1
+### 🧩 Activités de révisions — Principes et valeurs de la République
+
+<div class="civi-revision-history" data-mode="act" data-theme="1"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_ACT)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_ACT_T2
+### 🧩 Activités de révisions — Institutions et système politique
+
+<div class="civi-revision-history" data-mode="act" data-theme="2"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_ACT)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_ACT_T3
+### 🧩 Activités de révisions — Droits et devoirs
+
+<div class="civi-revision-history" data-mode="act" data-theme="3"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_ACT)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_ACT_T4
+### 🧩 Activités de révisions — Histoire, géographie et culture
+
+<div class="civi-revision-history" data-mode="act" data-theme="4"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_ACT)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_ACT_T5
+### 🧩 Activités de révisions — Vivre dans la société française
+
+<div class="civi-revision-history" data-mode="act" data-theme="5"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_ACT)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_Q
+### ✍️ Questions de connaissances
+
+Choisissez une thématique pour consulter vos chapitres.
+
+1. [📚 Principes et valeurs de la République](SCR_PARCOURS_REV_Q_T1)
+2. [📚 Institutions et système politique](SCR_PARCOURS_REV_Q_T2)
+3. [📚 Droits et devoirs](SCR_PARCOURS_REV_Q_T3)
+4. [📚 Histoire, géographie et culture](SCR_PARCOURS_REV_Q_T4)
+5. [📚 Vivre dans la société française](SCR_PARCOURS_REV_Q_T5)
+6. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+7. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_Q_T1
+### ✍️ Questions de connaissances — Principes et valeurs de la République
+
+<div class="civi-revision-history" data-mode="q" data-theme="1"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_Q)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_Q_T2
+### ✍️ Questions de connaissances — Institutions et système politique
+
+<div class="civi-revision-history" data-mode="q" data-theme="2"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_Q)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_Q_T3
+### ✍️ Questions de connaissances — Droits et devoirs
+
+<div class="civi-revision-history" data-mode="q" data-theme="3"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_Q)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_Q_T4
+### ✍️ Questions de connaissances — Histoire, géographie et culture
+
+<div class="civi-revision-history" data-mode="q" data-theme="4"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_Q)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)
+
+## SCR_PARCOURS_REV_Q_T5
+### ✍️ Questions de connaissances — Vivre dans la société française
+
+<div class="civi-revision-history" data-mode="q" data-theme="5"></div>
+
+1. [↩️ Choisir une thématique](SCR_PARCOURS_REV_Q)
+2. [↩️ Mes révisions](SCR_PARCOURS_REVISIONS)
+3. [🏠 Menu principal](MENU_PRINCIPAL)

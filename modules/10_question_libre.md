@@ -3874,6 +3874,13 @@ Organisation de la société pour permettre à chacun de participer, notamment a
 `@qlNormalisee = calc(" "+normalizeText(@qlQuestion).replaceAll("œ","oe").replaceAll("æ","ae").replaceAll("«"," ").replaceAll("»"," ").replaceAll("’"," ").replaceAll("'"," ").replaceAll("-"," ").replaceAll("."," ").replaceAll("?"," ").replaceAll(","," ").replaceAll("!"," ").replaceAll(":"," ").replaceAll(";"," ").replaceAll("/"," ").replaceAll("("," ").replaceAll(")"," ").replaceAll("["," ").replaceAll("]"," ").replaceAll("\n"," ").replaceAll("\r"," ").replaceAll("\t"," ").replaceAll(" "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").replaceAll("  "," ").trim()+" ")`
 `@qlTrouvee = false`
 `@qlReponse = undefined`
+<!-- Réponse : INTENT_SOCIAL -->
+`if @qlRoute == "INTENT_SOCIAL"`
+Bonjour ! Je suis prêt à vous accompagner dans votre préparation. Souhaitez-vous comprendre une notion, retrouver vos résultats ou obtenir une information sur l’examen ?
+`@qlReponse = INTENT_SOCIAL`
+`@qlTrouvee = true`
+1. [🧭 Mon parcours personnalisé](SCR_PARCOURS_MENU)
+`endif`
 <!-- Réponse : INTENT_CENTRE_LYON -->
 `if @qlRoute == "INTENT_CENTRE_LYON"`
 Pour trouver un centre FRATE **près de Lyon**, utilisez la recherche par commune ou code postal : saisissez **Lyon** ou **69000**. La recherche compare les centres disponibles et affiche les trois plus proches, leurs adresses et leurs prochaines sessions. Lyon ne figure pas parmi les villes de la banque locale actuelle ; cela ne signifie pas qu’aucun centre partenaire ne puisse y être proposé.
@@ -3888,7 +3895,7 @@ Vous cherchez un centre FRATE proche de chez vous ou son adresse. Ouvrez la rech
 `endif`
 <!-- Réponse : INTENT_USAGE_PDF -->
 `if @qlRoute == "INTENT_USAGE_PDF"`
-Ouvrez **Mes résultats sauvegardés**, puis cliquez sur **Télécharger mon parcours en PDF**. Ce document regroupe les tentatives enregistrées et les conseils associés. Si une tentative manque, vérifiez que vous avez terminé l’activité et atteint son écran de résultats.
+Ouvrez **Mes résultats sauvegardés**, puis cliquez sur **Télécharger mon parcours en PDF**. Ce document reprend votre dernier bilan, votre dernier entraînement, votre dernier examen blanc et votre parcours de révisions avec les conseils associés. Si une tentative manque, vérifiez que vous avez terminé l’activité et atteint son écran de résultats.
 `@qlReponse = INTENT_USAGE_PDF`
 `@qlTrouvee = true`
 `endif`

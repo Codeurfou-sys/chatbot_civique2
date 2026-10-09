@@ -1,5 +1,5 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert'),path=require('path');const base=path.resolve(__dirname,'..');
-class Element{constructor(tag){this.tag=tag;this.children=[];this.dataset={};this.textContent='';}append(...nodes){this.children.push(...nodes);}querySelectorAll(){return this.hosts||[];}}
+class Element{constructor(tag){this.tag=tag;this.children=[];this.dataset={};this.textContent='';}append(...nodes){this.children.push(...nodes);}addEventListener(){}querySelectorAll(){return this.hosts||[];}}
 const events={};const document={readyState:'loading',createElement:tag=>new Element(tag),addEventListener:(event,fn)=>events[event]=fn};
 const root={document,btoa:s=>Buffer.from(s).toString('base64'),NovaBoot:{rendered:()=>{}},NovaSave:{exportData:()=>({variables:{}})}};
 const ctx=vm.createContext({window:root,document,console});for(const name of ['feedback-data.js','feedbacks.js'])vm.runInContext(fs.readFileSync(base+'/chatbot/'+name,'utf8'),ctx);

@@ -1,0 +1,13 @@
+CiviCoach v39 — vérifications réalisées
+
+PASS : 33 165 écrans, 139 763 liens ; aucun doublon d’écran ni destination manquante.
+PASS : moteur ChatMD exécuté dans jsdom avec le document complet ; accueil, aide sans perte de variables, lecture audio (API simulée), choix erroné enregistré, restauration des résultats après une nouvelle instance, conversation et contexte importés.
+PASS : liaison authentifiée par origine et relation entre deux fenêtres ; transmission des questions et réponses dans les deux sens ; saisie de la question suivante depuis la fenêtre synchronisée ; refus des snapshots anciens.
+PASS : parcours de révisions par thématique et chapitre.
+PASS : activité des tableaux conservée avec grattage hors modes accessibles ; dévoilement en mode audio et au survol ; descriptions sans réponse sur l’artiste.
+PASS : carte des fleuves avec cinq descriptions et commandes de zones utilisables au clavier.
+PASS : feedback ciblé sur la notion manquée, lien vers le bon cours, pas de répétition de cartes, anciens résultats d’examen compatibles.
+PASS : PDF généré avec la dernière tentative de chaque catégorie, six bandes de score, entraînement ciblé, historique vide et absence de mutation des données.
+PASS : génération des quatre palettes du PDF, icônes communes ; rendu visuel du plan personnalisé et contrôle des marges sur le document de test complet.
+
+Limites des vérifications : les tests DOM ne valident pas le rendu d’un navigateur ni le son d’une voix réelle. Le navigateur de test n’a pas pu être installé correctement dans l’environnement. Essai final requis sur vos appareils et dans votre Moodle après mise en ligne. Aucun audit RGAA ni déploiement GitHub effectué.

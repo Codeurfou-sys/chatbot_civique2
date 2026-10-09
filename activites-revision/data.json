@@ -763,7 +763,7 @@
               "Auguste Renoir"
             ],
             "answer": "Eugène Delacroix",
-            "explanation": "La Liberté guidant le peuple, Eugène Delacroix, 1830. Reproduction extraite de votre support de formation civique, page 95.",
+            "explanation": "La Liberté guidant le peuple, Eugène Delacroix, 1830. Le tableau évoque les journées révolutionnaires de juillet 1830 à Paris. La femme au drapeau représente la Liberté et entraîne une foule sur une barricade.",
             "work": "La Liberté guidant le peuple",
             "distractors": [
               "Claude Monet",
@@ -779,7 +779,8 @@
               "Paul Gauguin",
               "Georges Seurat",
               "Henri de Toulouse-Lautrec"
-            ]
+            ],
+            "description": "Une femme, au centre et en hauteur, porte un drapeau tricolore. Des hommes et un jeune garçon avancent parmi les débris d’une barricade. Le ciel est enfumé."
           },
           {
             "prompt": "Quel artiste a peint cette œuvre ?",
@@ -791,7 +792,7 @@
               "Auguste Renoir"
             ],
             "answer": "Claude Monet",
-            "explanation": "Nymphéas bleus, Claude Monet, 1919. Reproduction extraite de votre support de formation civique, page 95.",
+            "explanation": "Nymphéas bleus, Claude Monet, entre 1916 et 1919. Monet s’inspire du bassin de son jardin à Giverny. Sans horizon ni ciel visible, il explore l’eau, les plantes et les reflets par des touches de couleur.",
             "work": "Nymphéas bleus",
             "distractors": [
               "Eugène Delacroix",
@@ -807,7 +808,8 @@
               "Paul Gauguin",
               "Georges Seurat",
               "Henri de Toulouse-Lautrec"
-            ]
+            ],
+            "description": "Un bassin occupe toute la surface. Des fleurs et des feuilles flottent sur l’eau, où se mêlent des reflets bleus, verts et violets. Aucun horizon n’est visible."
           },
           {
             "prompt": "Quel artiste a peint cette œuvre ?",
@@ -819,7 +821,7 @@
               "Auguste Renoir"
             ],
             "answer": "Paul Cézanne",
-            "explanation": "Les Joueurs de cartes, Paul Cézanne, vers 1895. Reproduction extraite de votre support de formation civique, page 96.",
+            "explanation": "Les Joueurs de cartes, Paul Cézanne, 1893–1896. Dans les années 1890, Cézanne peint plusieurs versions de cette scène. Il organise la composition autour de deux joueurs silencieux et d’une bouteille qui sépare leurs places.",
             "work": "Les Joueurs de cartes",
             "distractors": [
               "Eugène Delacroix",
@@ -835,7 +837,8 @@
               "Paul Gauguin",
               "Georges Seurat",
               "Henri de Toulouse-Lautrec"
-            ]
+            ],
+            "description": "Deux hommes assis face à face tiennent des cartes au-dessus d’une table. Une bouteille se trouve au centre. L’homme de gauche porte une pipe ; les personnages semblent concentrés."
           },
           {
             "prompt": "Quel artiste a peint cette œuvre ?",
@@ -847,7 +850,7 @@
               "Paul Cézanne"
             ],
             "answer": "Auguste Renoir",
-            "explanation": "Le Déjeuner des canotiers, Auguste Renoir, 1881. Reproduction extraite de votre support de formation civique, page 96.",
+            "explanation": "Le Déjeuner des canotiers, Auguste Renoir, 1880–1881. Renoir réunit plusieurs de ses amis sur une terrasse du restaurant Fournaise. La composition associe les personnages, les objets du repas et le paysage dans une scène de loisirs.",
             "work": "Le Déjeuner des canotiers",
             "distractors": [
               "Eugène Delacroix",
@@ -863,7 +866,8 @@
               "Paul Gauguin",
               "Georges Seurat",
               "Henri de Toulouse-Lautrec"
-            ]
+            ],
+            "description": "Sous un auvent, un groupe de femmes et d’hommes échange autour d’une table garnie de bouteilles et de fruits. À gauche, une femme tient un petit chien ; à droite, un homme est assis à califourchon sur sa chaise."
           }
         ]
       },

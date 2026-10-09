@@ -1,7 +1,7 @@
 'use strict';
 (function(root){
 let dataPromise;
-function reportData(){return dataPromise||(dataPromise=fetch('parcours-data.json?v=36').then(r=>{if(!r.ok)throw Error('Le contenu du parcours PDF est indisponible.');return r.json();}));}
+function reportData(){return dataPromise||(dataPromise=fetch('parcours-data.json?v=39').then(r=>{if(!r.ok)throw Error('Le contenu du parcours PDF est indisponible.');return r.json();}));}
 const finite=v=>typeof v==='number'&&Number.isFinite(v);
 const names={CSP:'Carte de séjour pluriannuelle',CR:'Carte de résident',NAT:'Naturalisation'};
 function build(state,data,access=root.NovaAccess?.settings?.()||{}){
@@ -17,28 +17,31 @@ function build(state,data,access=root.NovaAccess?.settings?.()||{}){
  function newPage(){doc.addPage();header();y=39;}
  function room(n){if(y+n>276)newPage();}
  function text(value,size=10,color=[43,54,72]){doc.setFontSize(size);doc.setTextColor(...color);const lines=doc.splitTextToSize(String(value),174);for(const line of lines){room(size*.5+2);doc.text(line,18,y);y+=size*.5+1;}y+=2;}
- function heading(value){room(55);y+=4;doc.setFillColor(...palette.ink);doc.roundedRect(14,y-5,2,8,1,1,'F');text(value,15,palette.ink);}
+ function icon(name,x,at,size=6){const key=access.markers&&profiles[access.colourProfile]?access.colourProfile:'default',png=root.NovaIcons?.png[key]?.[name];if(png)doc.addImage(png,'PNG',x,at,size,size);}
+ function heading(value){room(55);y+=4;icon(value==='Mes révisions'?'books':value.includes('bilan')?'compass':value.includes('entraînement')?'clipboard':value.includes('examen')?'target':'compass',18,y-4);doc.setFillColor(...palette.ink);doc.roundedRect(14,y-5,2,8,1,1,'F');doc.setFontSize(15);doc.setTextColor(...palette.ink);doc.text(value,27,y);y+=12;return;doc.setFillColor(...palette.ink);doc.roundedRect(14,y-5,2,8,1,1,'F');text(value,15,palette.ink);}
  function scorebar(score,max){room(15);doc.setFillColor(233,236,241);doc.roundedRect(18,y,174,4,2,2,'F');if(score>0){doc.setFillColor(...palette.ink);doc.roundedRect(18,y,174*Math.min(1,Math.max(0,score/max)),4,2,2,'F');}y+=10;}
- function planCard(t,points,max,pct,plan,kind,personalized){
+ function planCard(t,points,max,pct,plan,kind,personalized,offset=0){
   const title=data.themes[t-1],tag=pct<20?'0–1/10 · Premiers repères':pct<40?'2–3/10 · Distinctions':pct<60?'4–5/10 · Explications':pct<80?'6–7/10 · Raisonnement':pct<100?'8–9/10 · Dernières hésitations':'10/10 · Transfert des acquis';
   doc.setFontSize(11);const titleLines=doc.splitTextToSize(title,121);
   const top=14+titleLines.length*5.5;
-  const blocks=(plan||[{title:'Votre prochaine étape',text:feedback(t,pct)}]).map((step,i)=>{
+  const enriched=(plan||[]).map((step,i)=>{const q=i===0&&offset===0?personalized?.errors?.[0]:null;return q?{...step,text:'Question manquée : '+q.question+(q.chosen?' Votre choix : '+q.chosen.replace(/[.]+$/,'')+'.':'')+(q.correct?' Réponse correcte : '+q.correct.replace(/[.]+$/,'')+'.':'')+' '+step.text}:step;});
+  const blocks=(enriched.length?enriched:[{title:'Votre prochaine étape',text:feedback(t,pct)}]).map((step,i)=>{
    const label=step.title.replace(/^Étape \d+\s*-\s*/,'' );
    doc.setFontSize(10);const lines=doc.splitTextToSize(step.text,151);return {label,lines,i,height:8+lines.length*4.5+2};
   });
   const height=top+blocks.reduce((sum,b)=>sum+b.height,0)+11;
+  if(height>233&&plan?.length>1){let cut=1,used=top+blocks[0].height+11;while(cut<plan.length-1&&used+blocks[cut].height<215){used+=blocks[cut].height;cut++;}planCard(t,points,max,pct,plan.slice(0,cut),kind,personalized,offset);planCard(t,points,max,pct,plan.slice(cut),kind,personalized,offset+cut);return;}
   room(height+5);const start=y;
   doc.setFillColor(...palette.paper);doc.setDrawColor(...palette.soft);doc.roundedRect(18,start,174,height,3,3,'FD');
   doc.setFillColor(...palette.soft);doc.roundedRect(18,start,174,top,3,3,'F');
-  doc.setDrawColor(...palette.ink);doc.setLineWidth(.4);doc.rect(24,start+4,3,5);doc.rect(27,start+4,3,5);doc.line(27,start+4,27,start+10);
+  icon('book',23,start+3,7);
   doc.setFontSize(11);doc.setTextColor(...palette.ink);doc.text(titleLines,32,start+8,{lineHeightFactor:1.4});
   doc.setFontSize(9);doc.text(tag,24,start+top-5);
   doc.setFillColor(...palette.ink);doc.roundedRect(158,start+5,28,12,3,3,'F');doc.setTextColor(255,255,255);doc.setFontSize(13);doc.text(points+'/'+max,172,start+13,{align:'center'});
   let cursor=start+top+5;
   for(const block of blocks){
-   doc.setFillColor(...palette.ink);doc.circle(26,cursor+3,3.2,'F');doc.setTextColor(255,255,255);doc.setFontSize(9);doc.text(String(block.i+1),26,cursor+4.1,{align:'center'});
-   doc.setTextColor(...palette.ink);doc.setFontSize(11);doc.text(block.label,33,cursor+4);
+   icon(['search','book','target','clock','pencil'][block.i+offset]||'book',23,cursor,6);doc.setFontSize(11);
+   doc.setTextColor(...palette.ink);doc.setFontSize(11);doc.text((block.i+offset+1)+'. '+block.label,33,cursor+4);
    doc.setTextColor(43,54,72);doc.setFontSize(10);doc.text(block.lines,33,cursor+9,{lineHeightFactor:1.27});cursor+=block.height;
   }
   doc.setFontSize(9);doc.setTextColor(...palette.ink);doc.textWithLink('Revoir cette thématique dans CiviCoach',24,start+height-6,{url:'https://codeurfou-sys.github.io/chatbot_civique2/chatbot/?retour='+(personalized?.errors?.[0]?.course||'SCR_REV_T'+t+'_MENU')});
@@ -86,8 +89,8 @@ function build(state,data,access=root.NovaAccess?.settings?.()||{}){
   const raw=state.variables['atelier_'+key];let workshop;try{workshop=JSON.parse(raw||'null');}catch(e){}
   const q=state.variables['revisionScore_'+key],total=state.variables['revisionTotal_'+key];
   if(!workshop&&!finite(q))continue;found=true;room(20);text(title,11);
-  if(workshop)text('Activités : '+(workshop.complete?'terminées':'en cours')+' - '+workshop.step+'/'+(workshop.activityCount||2)+' activité(s). Score enregistré : '+workshop.score+'/'+workshop.total+'.');
-  if(finite(q)&&finite(total))text('Questions de connaissances : '+q+'/'+total+'.');
+  if(workshop){icon('pieces',11,y-3,5);text('Activités : '+(workshop.complete?'terminées':'en cours')+' - '+workshop.step+'/'+(workshop.activityCount||2)+' activité(s). Score enregistré : '+workshop.score+'/'+workshop.total+'.');}
+  if(finite(q)&&finite(total)){icon('pencil',11,y-3,5);text('Questions de connaissances : '+q+'/'+total+'.');}
   text('Relisez le corrigé des erreurs, puis revenez aux notions utiles avant de refaire les questions.');
  }
  if(!found)text('Aucune activité de révision enregistrée pour le moment.',10,[99,109,120]);

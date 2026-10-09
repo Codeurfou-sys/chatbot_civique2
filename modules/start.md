@@ -1,7 +1,7 @@
 ## MENU_PRINCIPAL
 ### C’est CiviCoach, je suis de retour, que souhaitez-vous faire ?
 
-<p class="nova-large-link"><a href="https://codeurfou-sys.github.io/chatbot_civique2/chatbot/" target="_blank" rel="noopener noreferrer">↗ Ouvrir le chatbot en grand dans un nouvel onglet</a></p>
+<div class="nova-large-link civi-expand-callout"><a href="https://codeurfou-sys.github.io/chatbot_civique2/chatbot/" target="_blank" rel="noopener noreferrer"><strong>↗ Cliquez pour agrandir CiviCoach</strong><span>Ouvrir dans un nouvel onglet</span></a></div>
 
 
 1. [🧭 Faire mon bilan](SCR_BIL_MENU)
