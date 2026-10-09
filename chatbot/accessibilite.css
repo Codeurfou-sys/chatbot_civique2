@@ -140,3 +140,4 @@ html.civi-a11y-markers #civi-help-panel *{color:var(--civi-profile-ink)!importan
 #civi-settings-dialog #a11y-panel{margin:0;width:100%;max-width:none;}
 .civi-a11y-markers #civi-settings-dialog{color:var(--civi-profile-ink)!important;background:var(--civi-profile-tint)!important;border-color:currentColor;}
 .civi-a11y-large #civi-settings-dialog{font-size:1.2em;}
+#civi-audio-dock button[hidden]{display:none!important;}
