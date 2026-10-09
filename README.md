@@ -1,3 +1,5 @@
+Mise à jour v45 : les six bases Excel de `sources/` sont compilées automatiquement par le workflow fourni. Pour activer la publication, lire [ACTUALISER_BANQUES.md](ACTUALISER_BANQUES.md).
+
 # CiviCoach — expérience v23
 
 Version complète avec navigation dans Moodle, transmission du parcours entre onglets, export PDF et indicateurs de chargement. Les activités et banques de la version précédente sont conservées.

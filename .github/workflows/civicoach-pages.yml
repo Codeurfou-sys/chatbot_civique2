@@ -1,0 +1,45 @@
+name: Actualiser les bases Excel et publier CiviCoach
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: civicoach-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installer le lecteur Excel
+        run: python -m pip install -r requirements-bases.txt
+      - name: Générer les parcours depuis les bases Excel
+        run: python scripts/actualiser_bases.py
+      - name: Vérifier les bases et les parcours
+        run: |
+          python scripts/validate_banques_examens.py
+          python scripts/validate_bases_v45.py
+          python scripts/validate_chatbot_final.py
+      - uses: actions/configure-pages@v5
+      - name: Préparer le site
+        run: python scripts/preparer_site.py
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publier CiviCoach
+        id: deployment
+        uses: actions/deploy-pages@v4

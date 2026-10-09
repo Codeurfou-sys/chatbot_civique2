@@ -1,0 +1,44 @@
+{
+  "fingerprint": "63739d8dfeea6a97",
+  "sources": [
+    {
+      "exam": "CSP",
+      "file": "BANQUE_OFFICIELLE_CSP.xlsx",
+      "rows": 189,
+      "sha256": "a3a8cf60c21c0fa5ad3e502c20fea861a5cc2f44f193bc035ea479bc17594a49"
+    },
+    {
+      "exam": "CSP",
+      "file": "MISES_EN_SITUATION_CSP.xlsx",
+      "rows": 185,
+      "sha256": "cb8d2c0007bb91f41c8cc7d95f36c02ea7224fea90ff03df8b7f76fcd283d532"
+    },
+    {
+      "exam": "CR",
+      "file": "BANQUE_OFFICIELLE_NOVAFRATE_V2_CARTE_RESIDENT.xlsx",
+      "rows": 204,
+      "sha256": "87716e0c2a34411770654de5e0d1b89219e92dbdef1d388557207c8fbd21dff3"
+    },
+    {
+      "exam": "CR",
+      "file": "MISES_EN_SITUATION_CR_BANQUE_COMPLETE_204.xlsx",
+      "rows": 204,
+      "sha256": "74c5b3c0565090a4795d2b773a722902dbc7651a67cfd6d77e4743860e67bce7"
+    },
+    {
+      "exam": "NAT",
+      "file": "BANQUE_OFFICIELLE_NATURALISATION.xlsx",
+      "rows": 257,
+      "sha256": "03964e20bb8ef129d5e0cc269e2e1b104a7885d5bf399a61082ad6ebfe33965d"
+    },
+    {
+      "exam": "NAT",
+      "file": "MISES_EN_SITUATION_NATURALISATION.xlsx",
+      "rows": 247,
+      "sha256": "00cdf37f4dbf4e46e1b774cb67a5d41df6a4fc4ce6ce6ea7eeff76fc69359440"
+    }
+  ],
+  "bilans": 650,
+  "examens": 30,
+  "entrainements": 630
+}
