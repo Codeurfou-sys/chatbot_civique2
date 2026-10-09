@@ -26,3 +26,11 @@ html body #chat .bot-message .civi-message-mascot{display:inline-block!important
 @media(max-width:600px){html body #chat .bot-message .civi-message-mascot{width:34px!important;max-width:34px!important;height:42px!important;margin-right:10px!important}#civi-show-now{left:50%;right:auto}}
 
 html body #footer{height:auto!important;min-height:19px;line-height:1.4!important;white-space:normal!important;text-wrap:balance;padding:3px 4px!important;font-size:11px!important}
+
+.civi-inline-help-links {display:flex; flex-wrap:wrap;gap:.6rem;margin:1rem 0;}
+.civi-inline-help-links button,.civi-inline-resume {font:inherit;color:var(--civi-text,#a31839);background:var(--civi-surface,#fff);border:1px solid currentColor;border-radius:18px;padding:.7rem 1rem;cursor:pointer;max-width:100%;}
+.civi-inline-resume {display:block;font-weight:700;margin-top:1rem;}
+.civi-inline-help-links button:focus-visible,.civi-inline-resume:focus-visible {outline:3px solid currentColor;outline-offset:3px;}
+/* La saisie d’aide reste disponible pendant les QCM. */
+body.hideControls #controls {display:flex!important;}
+html.civi-a11y-markers .civi-inline-help-links button,html.civi-a11y-markers .civi-inline-resume {color:var(--civi-profile-ink)!important;background:var(--civi-profile-tint)!important;}
